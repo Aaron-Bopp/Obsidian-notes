@@ -1,0 +1,1 @@
+- #DrK "We are going to pyschologically traumatize our kids no matter how much we love them" [YT](https://youtu.be/sXGhT4pJcj8?t=2602)

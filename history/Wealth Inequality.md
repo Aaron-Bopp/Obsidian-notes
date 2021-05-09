@@ -1,0 +1,2 @@
+- Caused by [[Capitalism]]
+- Counteracted by [[Communism]]

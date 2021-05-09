@@ -1,0 +1,1 @@
+- Communism will not be accomplished until we fully and totally bring about the honoring of peoples [[Civil Rights]]

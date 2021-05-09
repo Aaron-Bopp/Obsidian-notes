@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "d5fb003b19a8391b",
+    "type": "split",
+    "children": [
+      {
+        "id": "95fc0b430d3700d5",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8120b8e18547560",
+    "type": "split",
+    "children": [
+      {
+        "id": "eddd5ab798d43312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06c8ecc931956bfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "573978cf64610b1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Character",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea25f640b177a755",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "fa9ab00271fd18a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d2f47cb3f5d142ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a36eb3122d3daf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf2e9198cdd23edd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a0421618d8c3776",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386,
+    "collapsed": true
+  },
+  "active": "95fc0b430d3700d5",
+  "lastOpenFiles": [
+    "Character/Ruthos.md",
+    "Character/Admiral.md",
+    "Section/Aliases.md",
+    "Section/Relationships.md",
+    "Gerard.md",
+    "Section/Untitled.md",
+    "Section/Backstory.md",
+    "Amarei  's Vision.md",
+    "Section/Mentira.md",
+    "Location/Library Of Ilios.md"
+  ]
+}

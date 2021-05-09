@@ -1,0 +1,8 @@
+- First Lieutenant [[Alexander Billford]]  worked for the souther border legion of [[Ezemor]] 
+- [[Hendrix]] [[Ezemor]]   court wizard
+- [[The Architect]]  aka [[Sigrot]] is a hobgoblin. He is preparing for war with [[Ezemor]]  by digging mines.
+    - Mark is a skull with slash through it
+- [[Luis Fray]]  is the [[Watcher]] and lived on the streets of [[Ezemor]] 
+- [[Narissus]] Her father told her tales of the [[Elven]] Sons of a library built by [[Ilios]] somewhere in [[Ezemor]] 
+- [[Daereth]] is the leader of wood elf [[Freedom Fighters]]  of the north of [[Ezemor]] 
+- [[King Ashflower]] has been king of Ezemor for many years

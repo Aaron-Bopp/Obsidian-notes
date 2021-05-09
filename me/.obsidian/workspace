@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "d5fb003b19a8391b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb686e26e0086135",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "73c44e36c1e7fb7b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": true,
+            "sortOrder": "byModifiedTimeReverse",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "212ad692fccec4d5",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8120b8e18547560",
+    "type": "split",
+    "children": [
+      {
+        "id": "eddd5ab798d43312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06c8ecc931956bfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "573978cf64610b1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea25f640b177a755",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa9ab00271fd18a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238
+  },
+  "right": {
+    "id": "d2f47cb3f5d142ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a36eb3122d3daf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf2e9198cdd23edd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a0421618d8c3776",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "931846d12c753feb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386,
+    "collapsed": true
+  },
+  "active": "212ad692fccec4d5",
+  "lastOpenFiles": [
+    "notes/DrK Interviews.md",
+    "Breaking the Cycle of Overthinking.md",
+    "topics/parents.md",
+    "topics/you.md",
+    "topics/my emotions.md",
+    "topics/on me.md",
+    "2021-05-08.md",
+    "topics/ADHD.md",
+    "topics/anxiety.md",
+    "topics/ego.md"
+  ]
+}
