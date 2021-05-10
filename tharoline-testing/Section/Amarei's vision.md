@@ -1,0 +1,7 @@
+#### Entity Data
+
+#
+
+#### Notes
+
+- Your head is suddenly filled with memories, some that you think aren’t even yours. You see [[Tharoline]]   as it was before the arrival of man. A pristine wilderness made splendid by the elven god [[Krenos]]   for his lover, a mortal elven woman named [[Thrarolinia]]  . This part of the story is known by all though, as it is a legend past down from generation to generation of elves. What the story never mentions though, is that two had a child together. That child, was you [[Amarei]]  . You were born, a demigod, destined to inherit part of the world, along with your two brothers, the gods [[Ilios]]   the wise and [[Aeredon]]   the strong. But you also had a third brother, [[Ruthos]]  , who was wicked to his very core, and who had been disinherited by your father for bringing evil to the world. Jealous, he unleashed horrors onto the world, with the sole purpose of destroying you. In order to keep you safe, Crenos stripped away your powers, and hid you away so that Ruthos could never find you, and with his remaining power, he imprisoned Ruthos deep in the [[Feywild]]  . You slumbered for thousands of years, until one day a mysterious figure awakened you, and brought you to the village that you would one day call home, and gave you the ones you now know as your parents, to raise as their own. You still don’t know who the mysterious figure that awoke you was, or why they brought you there. What you do know is that standing before you is Ruthos.

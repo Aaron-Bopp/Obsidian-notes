@@ -65,13 +65,13 @@ with open('entities.json') as f:
 def reorganize_notes():
     SPACES_PER_TAB = 4
     notes = load_notes()
-    entity_data_idx, notes_idx = None, None
-    reachedLinked = False
     linked_notes = {name: {} for name in list(notes) + list(entities)} # String: {String: list} name of file: {parent line: appended child lines}
     for name in notes:
         initial = {'idx': 0, 'entities': [], 'text': ""}
         parent = {0: initial, 1: initial, 2: initial, 3: initial, 4:initial}
         note = notes[name]
+        entity_data_idx, notes_idx = None, None
+        reachedLinked = False
         i = 0
         while i < len(note) and reachedLinked == False:
             line = note[i]
@@ -80,7 +80,8 @@ def reorganize_notes():
             elif line.startswith("#### Notes"):
                 notes_idx = i
             elif line.startswith("#### Linked Notes"):
-                note = note[:i] + ["\n\n#### Linked Notes\n\n"]
+                notes[name] = 
+                [:i+1] 
                 reachedLinked = True
             else:
                 
@@ -94,7 +95,7 @@ def reorganize_notes():
                         for entity in line_entities:
                             # linked_notes[entity].setdefault(entity, {}).setdefault(parent[level-1]['text'], note).append(note)
                             try:
-                                linked_notes[entity][parent[level-1]['text']] += note
+                                linked_notes[entity][parent[level-1]['text']].append(note)
                             except KeyError:
                                 linked_notes[entity][parent[level-1]['text']] = [f"From [[{name}]]", note]
                         
@@ -105,10 +106,23 @@ def reorganize_notes():
             note.insert(0, "#### Notes\n\n")
         if entity_data_idx == None:
             note.insert(0, "#### Entity Data\n\n")
-            note.insert(1, '#' + '#'.join(entities[name]['tags']))
+            note.insert(1, '#' + '#'.join(entities[name]['tags']) + '\n\n')
     
     for name in notes:
-        notes[name].extend(list(dict.fromkeys(linked_notes[name])))
+        # notes[name].extend(list(dict.fromkeys(linked_notes[name])))
+        added = set()
+        
+        try:
+            for tnote in linked_notes[name]:
+                if not (tnote in added):
+                    notes[name].append(tnote.strip())
+                    added.add(tnote.stip())
+                    for child in linked_notes[tnote]:
+                        if not (tnote in added):
+                            notes[name].append(SPACES_PER_TAB*' ' + child.strip())
+                            added.add(tnote.strip())
+        except KeyError:
+            pass
     
     for entity in entities:
         entity_type = entities[entity]['entity_type']
