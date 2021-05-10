@@ -118,7 +118,10 @@ def reorganize_notes():
             except KeyError:
                 initial_string = f"#### Entity Data\n\n#{' #'.join(entities[entity]['tags'])} \n\n#### Notes\n\n#### Linked Notes \n\n{''.join(list(dict.fromkeys(linked_notes[entity])))}"
                 f.write(initial_string)
-
+    with os.scandir() as vault:
+        for entry in vault:
+            if entry.is_file() and entry.name.endswith(".md"):
+                os.remove(entry.name)  
 reorganize_notes()            
 # %%
 
