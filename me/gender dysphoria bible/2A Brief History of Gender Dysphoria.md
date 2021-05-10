@@ -1,3 +1,16 @@
+---
+created: 2021-05-10T18:22:56 (UTC -05:00)
+tags: []
+source: https://genderdysphoria.fyi/gdb/history
+author: Jocelyn Badgley
+---
+
+# A Brief History of Gender Dysphoria :: That's Gender Dysphoria, FYI
+
+> ## Excerpt
+> The origins of Gender Dysphoria and the current meaning today.
+
+---
 In 1948, noted sexologist Dr. Alfred Kinsey (yes, [_that_ Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey)) was contacted by a woman whose male child adamantly insisted that they were in fact a girl, and that something had gone very wrong. The mother, rather than trying to suppress her daughter, wished to help her become who she knew herself to be. Kinsey reached out to a German endocrinologist named [Dr. Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin) to see if he could help the child. Dr. Benjamin then developed a protocol of estrogen therapy for the teen, and worked with the family to find surgical help.
 
 Benjamin then went on to refine his protocol and treated thousands of patients with similar feelings over the course of his career. He refused to take payment for his work, instead taking satisfaction from the relief he granted these patients, and using their treatment to further his understanding of the condition. He coined a term for this feeling of incongruence in 1973: Gender Dysphoria. Unfortunately, this term would not be used in the United States until 2013, with the American Psychiatric Association opting for the term Gender Identity Disorder instead.
@@ -14,10 +27,12 @@ This is why trans presence across the world has suddenly exploded in the last de
 
 Transgender people are coming out of the woodwork; we are everywhere.
 
-## So What Is Gender Dysphoria? 
+## So What Is Gender Dysphoria? [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/history#so-what-is-gender-dysphoria)
 
 > **Dys·pho·ri·a** - _Noun_  
 > A state of unease or generalized dissatisfaction with life. The opposite of euphoria.
+
+ [![](https://genderdysphoria.fyi/gdb/glue-f5e68b7cdf.jpeg)](https://genderdysphoria.fyi/gdb/glue-f5e68b7cdf.jpeg) 
 
 There is a common misconception among both cisgender and transgender people that Gender Dysphoria refers exclusively to a physical discomfort with ones own body. However, this belief that body discomfort is central to Gender Dysphoria is in fact a misconception, and is not even a majority component of a Gender Dysphoria diagnosis. Gender Dysphoria crosses a large number of all aspects of life, including how you interact with others, how others interact with you, how you dress, how you behave, how you fit into society, how you perceive the world around you, and yes, how you relate to your own body. Consequently, proponents of the WPATH SoC 7 and the DSM-5 have taken to a habit of saying that you do not have to have dysphoria to be transgender. This statement is often repeated like a mantra, as it informs people who do not feel significant body discomfort that they may also be transgender.
 

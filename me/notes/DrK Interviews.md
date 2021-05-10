@@ -30,7 +30,7 @@
         - ex find masculinity/what it means to be a man inside yourself
     - philosophical route
     - Dreams and nightmares
-- [[meditation]] Dual Nostril breathing [[meditation]] at [1:50](https://youtu.be/sXGhT4pJcj8?t=7801)
+- Dual Nostril breathing [[meditation]] at [1:50](https://youtu.be/sXGhT4pJcj8?t=7801) ^92ae7b
     - When you meditate and drift off/lose focus what is the part of your mind that is pulling it back?
     - The ability to observe is divine. It is not good or evil, it is that which notices everything else
 - Everytime you bring your mind back from wandering its a mental pushup

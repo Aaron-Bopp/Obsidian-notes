@@ -1,0 +1,8 @@
+- [Catch the moment between inhalation and exhalation](https://www.youtube.com/watch?v=n4jSkOjuLIg&t=5640s)
+	- What is the moment between inhalation and exhalation
+		- where does it happen
+		- what does it feel like
+	- Catch that moment and observe it
+	- #DrK "It's not about the answer it's about training yourself to look"
+- Dual Nostril Breathing [[DrK Interviews#^92ae7b]]
+- 

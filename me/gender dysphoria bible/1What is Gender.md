@@ -1,3 +1,16 @@
+---
+created: 2021-05-10T18:22:56 (UTC -05:00)
+tags: []
+source: https://genderdysphoria.fyi/gdb/what-is-gender
+author: Jocelyn Badgley
+---
+
+# What is Gender? :: That's Gender Dysphoria, FYI
+
+> ## Excerpt
+> How do we define the concept of Gender, and how does it differ from Sex?
+
+---
 > **Gen·der** - _Noun_  
 > The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or gender identity (the personal sense of one's own gender).
 
@@ -8,6 +21,8 @@ Many people attribute the term to psychologist John Money, who proposed using �
 > A book, moreover, which gives beyond its premise; for it informs the reader upon **‘gender’ as well as upon ‘sex,’** upon masculine and feminine roles as well as upon male and female and their reproductive functions.
 > 
 > Margaret Mead moves from the specific delineation to the more general comparison of male and female in several communities, finally coming to an analysis of sex-patterns in our own midst and for our own time.
+
+[](https://twitter.com/CognitiveSoc/status/1228717614630940672) [**![](https://genderdysphoria.fyi/tweets/CognitiveSoc-67fa75bc0e.jpg)** ** Cog ** @CognitiveSoc ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/CognitiveSoc) 
 
 [@KatyMontgomerie](https://twitter.com/KatyMontgomerie) Magnus Hirschfield was writing about Third Genders and transitioning between sex and gender in the late 1800s.
 

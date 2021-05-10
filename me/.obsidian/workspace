@@ -4,11 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "7d7db445604a0e21",
+        "id": "320e8c5bd2cda451",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "backlink",
+          "state": {
+            "file": "notes/Gender Dysphoria Bible.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f1d629cbc305f71c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "notes/Gender Dysphoria Bible.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "02d6d3a0112f2b0e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Gender Dysphoria Bible.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Me",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Gender Dysphoria Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Gender Dysphoria Bible.md"
+              }
             }
           },
           {
@@ -118,17 +158,17 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "7d7db445604a0e21",
+  "active": "02d6d3a0112f2b0e",
   "lastOpenFiles": [
-    "gender dysphoria bible/What is Gender.md",
-    "gender dysphoria bible/Intro.md",
-    "gender dysphoria bible/Untitled.md",
-    "topics/Untitled.md",
-    "notes/DrK Interviews.md",
-    "Breaking the Cycle of Overthinking.md",
-    "topics/parents.md",
-    "topics/you.md",
-    "topics/my emotions.md",
-    "topics/on me.md"
+    "notes/Untitled.md",
+    "gender dysphoria bible/2A Brief History of Gender Dysphoria.md",
+    "gender dysphoria bible/2A Brief History of Gender Dysphoria 1.md",
+    "topics/gender.md",
+    "gender dysphoria bible/0That's Gender Dysphoria, FYI.md",
+    "gender dysphoria bible/20In Conclusion.md",
+    "gender dysphoria bible/19Estrogenic Second Puberty 101.md",
+    "topics/meditation.md",
+    "gender dysphoria bible/5Biochemical Dysphoria.md",
+    "gender dysphoria bible/4Physical Dysphoria.md"
   ]
 }

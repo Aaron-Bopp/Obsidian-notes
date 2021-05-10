@@ -1,8 +1,16 @@
-## [Introduction](https://genderdysphoria.fyi/gdb#introduction)
+---
+created: 2021-05-10T18:22:56 (UTC -05:00)
+tags: []
+source: https://genderdysphoria.fyi/
+author: Jocelyn Badgley
+---
 
-> **Trans·gen·der** - _adjective_  
-> Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
+# That's Gender Dysphoria, FYI
 
+> ## Excerpt
+> A resource for those questioning their gender, already on a gender journey, or simply wanting to learn more about what it is to be transgender.
+
+---
 For as long as human civilization has existed, [there have been people](https://en.wikipedia.org/wiki/Transgender_history) whose experience of their internal gender does not align with the physical features of their body. The Gala, a middle gender priest class of the Sumerian empire, existed over 4,500 years ago. The Indigenous cultures of North America recognized [a third gender](https://en.wikipedia.org/wiki/Third_gender) far before European colonialism, and still do to this day. Roman emperor Elagabalus (218 AD) insisted on being referred to as Lady rather than Lord, and even put forward a ransom for anyone who could conduct genital reconstruction surgery.
 
 In spite of this, however, the modern understanding of the transgender experience has only existed for approximately 130 years. Even the word “transgender” only dates back to 1965, when John Oliven proposed it as a more accurate alternative to David Cauldwell’s term “transsexual” (coined in 1949), which itself replaced Magnus Hirschfield’s term “transvestite” (1910).
