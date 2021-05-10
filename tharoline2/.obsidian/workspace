@@ -7,8 +7,11 @@
         "id": "95fc0b430d3700d5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Character/Brandi.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -62,6 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Character/Brandi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,13 +76,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238,
-    "collapsed": true
+    "width": 238
   },
   "right": {
     "id": "d2f47cb3f5d142ba",
@@ -93,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Character/Brandi.md"
+              }
             }
           },
           {
@@ -114,15 +118,15 @@
   },
   "active": "95fc0b430d3700d5",
   "lastOpenFiles": [
-    "Character/Ruthos.md",
+    "Character/Brandi.md",
+    "Character/Bell.md",
+    "Character/Architect.md",
+    "Character/Amarei.md",
+    "Character/Alfred Crush.md",
+    "Character/Aeredon.md",
     "Character/Admiral.md",
+    "Character/Ruthos.md",
     "Section/Aliases.md",
-    "Section/Relationships.md",
-    "Gerard.md",
-    "Section/Untitled.md",
-    "Section/Backstory.md",
-    "Amarei  's Vision.md",
-    "Section/Mentira.md",
-    "Location/Library Of Ilios.md"
+    "Section/Relationships.md"
   ]
 }

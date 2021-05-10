@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fb686e26e0086135",
+        "id": "18d22f15796299d3",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "notes/DrK Interviews.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -20,18 +21,19 @@
         }
       },
       {
-        "id": "73c44e36c1e7fb7b",
+        "id": "ed9635f2b69fe05c",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "notes/DrK Interviews.md",
             "collapseAll": false,
-            "extraContext": true,
-            "sortOrder": "byModifiedTimeReverse",
+            "extraContext": false,
+            "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+            "unlinkedCollapsed": true
           }
         }
       },
@@ -39,8 +41,11 @@
         "id": "212ad692fccec4d5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/DrK Interviews.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -94,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/DrK Interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/DrK Interviews.md"
+              }
             }
           },
           {

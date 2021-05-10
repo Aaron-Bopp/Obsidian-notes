@@ -4,12 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "b8dcdb7d27409268",
+        "id": "18d22f15796299d3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "notes/DrK Interviews.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ed9635f2b69fe05c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "notes/DrK Interviews.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "212ad692fccec4d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Life After a Cult.md",
+            "file": "notes/DrK Interviews.md",
             "mode": "source"
           }
         }
@@ -39,8 +73,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DrK",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -55,7 +89,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -65,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Life After a Cult.md",
+                "file": "notes/DrK Interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Life After a Cult.md"
+                "file": "notes/DrK Interviews.md"
               }
             }
           },
@@ -104,29 +138,37 @@
             "id": "9a0421618d8c3776",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "931846d12c753feb",
+            "type": "leaf",
+            "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 386,
     "collapsed": true
   },
-  "active": "b8dcdb7d27409268",
+  "active": "212ad692fccec4d5",
   "lastOpenFiles": [
-    "notes/Life After a Cult.md",
-    "topics/ego.md",
-    "notes/Healing from Festered Emotions.md",
-    "notes/Breaking the Cycle of Overthinking.md",
-    "topics/meditation.md",
-    "topics/anxiety.md",
-    "writing/To my parents.md",
-    "topics/on me.md",
+    "notes/DrK Interviews.md",
+    "Breaking the Cycle of Overthinking.md",
     "topics/parents.md",
-    "topics/you.md"
+    "topics/you.md",
+    "topics/my emotions.md",
+    "topics/on me.md",
+    "2021-05-08.md",
+    "topics/ADHD.md",
+    "topics/anxiety.md",
+    "topics/ego.md"
   ]
 }

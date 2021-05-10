@@ -1,0 +1,2 @@
+- [[Captain Oreon Pierce]]  ordered the attack on [[Horetown]] he is a rouge captain of [[Ezemor]] 
+    - [[The Invaluables]]  stopped him from destroying the town
