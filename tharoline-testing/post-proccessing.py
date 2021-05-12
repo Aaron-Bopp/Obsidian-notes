@@ -122,6 +122,7 @@ def reorganize_notes():
                             notes[name].append(SPACES_PER_TAB*' ' + child.strip())
                             added.add(tnote.strip())
         except KeyError:
+            notes[name]
             pass
     
     for entity in entities:

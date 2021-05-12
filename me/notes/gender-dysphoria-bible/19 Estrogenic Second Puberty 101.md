@@ -105,9 +105,9 @@ Less body mass means less blood to dilute chemicals into. Losing testosterone al
 
 ### Mental Changes [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/second-puberty-fem#mental-changes)
 
-As covered in the Biochemical Dysphoria section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of depersonalization and derealization (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don’t also have other mental processing difficulties such as ADHD).
+As covered in the Biochemical Dysphoria section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of [[Depersonalization]] and [[Derealization]] (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don’t also have other mental processing difficulties such as [[ADHD]]).
 
-##### ADHD [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/second-puberty-fem#adhd)
+##### ADHD [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/second-puberty-fem#[[ADHD]])
 
 If you have ADHD, there may be some changes in your symptoms. Androgens amplify [dopamine](https://en.wikipedia.org/wiki/Dopamine) receptor function, so reducing testosterone can reduce the activation potential for dopamine in the brain. Dopamine is a key neurotransmitter in the behavior of [working memory](https://en.wikipedia.org/wiki/Working_memory), the short-term memory of the brain. Less working memory means you become more prone to distractions and have more difficulty maintaining [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
 
@@ -115,7 +115,7 @@ The good news is that estradiol prompts the brain to produce MORE dopamine.
 
 #### Authors Note:
 
-There is a known problem with Spironolactone hampering working memory due to it’s affects on mineralcorticoids. This can significantly worsen ADHD issues and make it much harder to maintain focus or be aware of your surroundings. I was involved in a car accident in 2017 that I blame on spiro fog.
+There is a known problem with Spironolactone hampering working memory due to it’s affects on mineralcorticoids. This can significantly worsen [[ADHD]] issues and make it much harder to maintain focus or be aware of your surroundings. I was involved in a car accident in 2017 that I blame on spiro fog.
 
 ##### Emotional Expansion [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/second-puberty-fem#emotional-expansion)
 
@@ -222,8 +222,8 @@ Obviously, we do not mean blood flow, that would be ludicrous. Symptoms vary gre
 -   Bloating and water retention
 -   Gas, diarrhea and other intestinal issues.
 -   Emotional instability, mood swings and irrational thoughts
-    -   Heightened depression and dysmorphia
-    -   Depersonalization or dissociation.
+    -   Heightened [[depression]] and dysmorphia
+    -   [[Depersonalization]] or dissociation.
     -   Increased dysphoria
     -   Irritability (PMS)
 -   Muscle and joint aches and pains

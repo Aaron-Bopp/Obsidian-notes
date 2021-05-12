@@ -15,7 +15,7 @@ author: Jocelyn Badgley
 
 The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of Gender Dysphoria. In its current iteration it is severely lacking in AFAB narratives, non-binary, agender & genderfluid specific dysphoria, and Third Gender narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
 
-[](https://twitter.com/TransEthics/status/1223942625708761088) [**![](https://genderdysphoria.fyi/tweets/TransEthics-2a39c85cbd.jpg)** ** ![🏳️⚧️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-26a7-fe0f.png) TransEthics™![🧜🏻♀️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f9dc-1f3fb-200d-2640-fe0f.png) #BlackTransLivesMatter ** @TransEthics ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/TransEthics) 
+[](https://twitter.com/TransEthics/status/1223942625708761088) [**![](https://genderdysphoria.fyi/tweets/TransEthics-2a39c85cbd.jpg)** ** ![🏳️⚧️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-26a7-fe0f.png) TransEthics™![🧜🏻♀️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f9dc-1f3fb-200d-2640-fe0f.png) # BlackTransLivesMatter ** @TransEthics ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/TransEthics) 
 
 I'm going to regret paying the co-pay for this test eventually because it was pretty pricey… but I had my karyotype done. Just got the results.
 

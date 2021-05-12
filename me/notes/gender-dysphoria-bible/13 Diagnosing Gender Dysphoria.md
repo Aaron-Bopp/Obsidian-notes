@@ -23,7 +23,7 @@ Or to put it bluntly, WPATH says that if you think you’re trans, you’re tran
 
 #### For Your Information
 
-Diagnosis of Gender Dysphoria in prepubescent children requires the child must have a documented six month history of meeting six of these criteria, as well as demonstrated distress or impairment in function.
+Diagnosis of [[Gender Dysphoria]] in prepubescent children requires the child must have a documented six month history of meeting six of these criteria, as well as demonstrated distress or impairment in function.
 
 1.  A strong desire to be of the other gender or an insistence that one is the other gender
 2.  A strong preference for wearing clothes typical of the opposite gender
@@ -36,25 +36,25 @@ Diagnosis of Gender Dysphoria in prepubescent children requires the child must h
 
 **Note** These are the criteria for adolescents and adults. Children have a different set of criteria, which [you can find here](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria). I have also changed the wording slightly, here, as the official criteria are binary-centric.
 
-For an adult to be diagnosed with Gender Dysphoria by a licensed mental health professional they must meet two of these six criteria, and have experienced those criteria for longer than six months.
+For an adult to be diagnosed with [[Gender Dysphoria]] by a licensed mental health professional they must meet two of these six criteria, and have experienced those criteria for longer than six months.
 
--   **A marked incongruence between one’s experienced/expressed gender and primary and/or secondary sex characteristics**
+-   #No ==**A marked incongruence between one’s experienced/expressed gender and primary and/or secondary sex characteristics**==
     
     The way the person sees the world and interacts with the world does not align with the way it is typically expected for someone of the gender they were assigned at birth. There are a very broad number of traits which fit into this description. It can be in the way they interact with others, how they talk, what hobbies they prefer, how they dress, their body language and mannerisms, what gender(s) they relate to more.
     
--   **A strong desire to be rid of one’s primary and/or secondary sex characteristics**
+-   #Yes ==**A strong desire to be rid of one’s primary and/or secondary sex characteristics**==
     
--   **A strong desire for the primary and/or secondary sex characteristics of another gender**
+-   #Yes ==**A strong desire for the primary and/or secondary sex characteristics of another gender**==
     
     These two are pretty well paired. This is physical dysphoria as previously defined. The person finds discomfort with aspects of their body which are a result of their sex at birth.
     
--   **A strong desire to be of another gender**
+-   #Yes ==**A strong desire to be of another gender**==
     
--   **A strong desire to be treated as another gender**
+-   #Yes ==**A strong desire to be treated as another gender**==
     
     These are the social and societal dysphoria. They are how a person wants to interact with the world, and wants the world to interact with them.
     
--   **A strong conviction that one has the typical feelings and reactions of another gender**
+-   #Sometimes ==**A strong conviction that one has the typical feelings and reactions of another gender**==
     
     This is pretty self explanatory.
     
@@ -65,4 +65,4 @@ Now, here is the kicker. If you identify as transgender, meaning that your gende
 
 So, it is literally impossible for a person to identify as trans and not experience gender dysphoria. By the WPATH requirements anyone can identify as trans. Ergo, the statement “you do not have to have dysphoria to be transgender” is a logical paradox.
 
-Then why do we still say it? Because most people don’t know what gender dysphoria actually is, and it is easier to repeat the mantra than to explain the nuances and subtleties of how Gender Dysphoria manifests. But hey, look, now you’ve got a nice article to link to that can help people understand that.
+Then why do we still say it? Because most people don’t know what [[Gender Dysphoria]] actually is, and it is easier to repeat the mantra than to explain the nuances and subtleties of how Gender Dysphoria manifests. But hey, look, now you’ve got a nice article to link to that can help people understand that.

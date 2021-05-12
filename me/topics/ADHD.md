@@ -28,7 +28,7 @@ date updated: '2021-05-08T18:47:41-05:00'
 ### Rejection Sensitivity
 
 - #Def Rejection Sensitivity - The tendency to anixously expect, readily perceive, and intensely react to rejection [#Ref](https://www.youtube.com/watch?v=jM3azhiOy5E)
-     - Connected to [[body dysphoria]], [[depression]], [[anxiety]], [[borderline personality disorder]]
+     - Connected to [[gender dysphoria]], [[depression]], [[anxiety]], [[bpd | borderline personality disorder]]
      - caused by: Repeated instances of rejection
      - it doesn't matter what the rejection is it matters who intense the response is
      - People with rejection sensitivity more easily go into fight, flight, or freeze

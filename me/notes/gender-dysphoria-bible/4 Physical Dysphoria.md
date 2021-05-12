@@ -66,17 +66,17 @@ When my friends back in high school would discuss who their ideal woman was, the
 
 I always thought everyone had a dirty little secret like mine. A bit of closet shame.
 
-It can manifest as a compulsion to be rid of certain body traits, such as obsessively shaving body or facial hair. This can also manifest in the opposite compulsion, leading to meticulous grooming of those traits in order to try to control them, like maintaining a perfect beard, persistently keeping ones nails manicured and polished, or spending hours in the gym attempting to hone ones shape.
+#No ==It can manifest as a compulsion to be rid of certain body traits, such as obsessively shaving body or facial hair. This can also manifest in the opposite compulsion, leading to meticulous grooming of those traits in order to try to control them, like maintaining a perfect beard, persistently keeping ones nails manicured and polished, or spending hours in the gym attempting to hone ones shape.==
 
 Undesired physical features may prompt a person to experience envy of people who have been forced to remove those features due to illnesses, such as testicular or breast cancer. AMABs with severe genital dysphoria tend to have a wish for some kind of freak accident that would cause the loss of their phallus.
 
-Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. For most of my life I believed that the reason I hate my body was because I was fat. It wasn’t until I started transition that I realized I don’t hate my fat at all, I hated having _male_ fat. The feminine curves that HRT gave me make me feel so much more in tune with my body.
+#Yes ==Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. ==For most of my life I believed that the reason I hate my body was because I was fat. It wasn’t until I started transition that I realized I don’t hate my fat at all, I hated having _male_ fat. The feminine curves that HRT gave me make me feel so much more in tune with my body.
 
 The dysphoria one feels about their body can and will change over time, for better and worse. For example, many trans women enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminization surgery, but then 2 years in to transition, realize they’re actually okay with how they look.
 
 It’s okay for you to realize you need more or less than when you started.
 
-It’s okay if you don’t hate anything about your body, and just wish you looked more feminine or masculine.
+#Yes ==It’s okay if you don’t hate anything about your body, and just wish you looked more feminine or masculine.==
 
 It’s okay if you only hate some aspects of your body, and don’t wish to change all of its sexual characteristics.
 
@@ -94,9 +94,9 @@ What is the end result of this? Kathryn said it best:
 
 [@TransSalamander](https://twitter.com/TransSalamander/status/947522372315369472)
 
-> If you're under the assumption that you're a cis guy but have always dreamed of being a girl, and the only reason you haven't transitioned is because you're afraid you'll be an "ugly" girl:
+> ==If you're under the assumption that you're a cis guy but have always dreamed of being a girl, and the only reason you haven't transitioned is because you're afraid you'll be an "ugly" girl:==
 >
-> That's dysphoria. You're literally a trans girl already, hon.
+> ==That's dysphoria. You're literally a trans girl already, hon.==
 
 [@TransSalamander](https://twitter.com/TransSalamander/status/947523244948680705) 
 

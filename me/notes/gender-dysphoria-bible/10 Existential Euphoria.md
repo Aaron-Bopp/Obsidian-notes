@@ -19,7 +19,7 @@ When you grow up as the wrong assigned gender, you are going to miss out on a lo
 
 These missed opportunities can manifest as feelings of loss and hurt. Furthermore, the memories of things you _did_ have access to but wouldn’t have otherwise, or events that were performed in the wrong gender, can also be a sour point, as these may have awkward attachments. Imagine having to be a groom at your wedding when you know you should have been a bride; growing up dreaming about your perfect wedding, and then playing the wrong role in it.
 
-Sometimes existential dysphoria can manifest existentially, hitting you with all the grief of the youth lost. All the dating, the teenage antics, the parties, even just having been able to be sexual with the correct parts while your body was young and you had no responsibilities. It is time that can never be gained back.
+#Yes ==Sometimes existential dysphoria can manifest existentially, hitting you with all the grief of the youth lost.== All the dating, the teenage antics, the parties, even just having been able to be sexual with the correct parts while your body was young and you had no responsibilities. It is time that can never be gained back.
 
 Many trans people attempt to recapture some of these lost events, hosting or attending queer proms, organizing sleepovers, performing vow renewals with their spouses, and engaging in common puberty rites of passage like having a mother figure help them shop for their first bra, or having a father figure teach them to shave. However, ultimately, existential dysphoria is something that can never be relieved. You can make new experiences to replace the ones you lost, but you can never turn back the clock.
 

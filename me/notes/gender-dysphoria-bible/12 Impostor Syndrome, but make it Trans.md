@@ -15,15 +15,15 @@ author: Jocelyn Badgley
 
 [@precociouspants](https://twitter.com/precociouspants) [@TorgHacker](https://twitter.com/TorgHacker) You don't need dysphoria to be trans!
 
-But also, I've seen "angst over not being dysphoric enough" described as a sort of meta-dysphoria? Because it's distress you experience when you're worried you aren't \_\_\_\_\_ enough to be your gender.
+==But also, I've seen "angst over not being dysphoric enough" described as a sort of meta-dysphoria? Because it's distress you experience when you're worried you aren't \_\_\_\_\_ enough to be your gender.==
 
-> [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) (also known as impostor phenomenon, impostorism, fraud syndrome or the impostor experience) is a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a “fraud”.
+> #Def [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) (also known as impostor phenomenon, impostorism, fraud syndrome or the impostor experience) is a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a “fraud”.
 
-Society in general is very good about making trans people doubt themselves. We receive tons and tons of subliminal messages through out our lives saying that being trans isn’t normal and that anyone who is has to be exceptionally special. Cis media’s obsession with the “born in the wrong body” narrative has led to a lot of false information being internalized by trans youth. Many, _many_ trans kids grow up thinking they aren’t actually trans because they don’t _know_ that they are a different gender, they just wish they were. Many non-binary children grow up knowing something is wrong, but not believing they’re trans because they don’t feel like a binary trans person.
+Society in general is very good about making trans people doubt themselves. We receive tons and tons of subliminal messages through out our lives saying that being trans isn’t normal and that anyone who is has to be exceptionally special. Cis media’s obsession with the “born in the wrong body” narrative has led to a lot of false information being internalized by trans youth. ==Many, _many_ trans kids grow up thinking they aren’t actually trans because they don’t _know_ that they are a different gender, they just wish they were.== Many non-binary children grow up knowing something is wrong, but not believing they’re trans because they don’t feel like a binary trans person.
 
 On top of this, messages saying that trans people hate their bodies or hate their genitalia have polluted the awareness landscape, so that many people who either do not experience physical dysphoria (or simply think theirs isn’t very strong) go around believing they aren’t “trans enough”.
 
-_**[YES, YOU ARE TRANS ENOUGH](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)**_
+#Explore _**[YES, YOU ARE TRANS ENOUGH](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)**_
 
 [](https://twitter.com/RoseOfWindsong/status/1221970265862811650) [**![](https://genderdysphoria.fyi/tweets/RoseOfWindsong-d80000907a.jpg)** ** Faith ** @RoseOfWindsong ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RoseOfWindsong) 
 
@@ -37,13 +37,13 @@ Bigots: "They're trying to convince our gay kids they're the wrong gender! We mu
 
 On top of this, the constant messaging from transphobic media that trans people are not actually their true genders and are simply trying to trick people into believing otherwise gets internalized like a virus. This creates a lot of self doubt about the authenticity of one’s gender, especially in the face of so many gender stereotypes. Seeing oneself fail to meet those stereotypes can make it very easy to convince yourself that you do not live up to your own gender (note: cis men and women get this too, far too often).
 
-Furthermore, due to a history of transphobic abuse, many trans people suffer from damaged self-esteems, and often already have difficulty with self doubts. Gender Dysphoria also causes depression, which further contributes to and reinforces those doubts. This all leads into a massive cluster of self invalidation that can lead someone to struggle over and over again to accept their own gender identity.
+Furthermore, due to a history of transphobic abuse, many trans people suffer from damaged self-esteems, and often already have difficulty with self doubts. [[Gender Dysphoria]] also causes [[depression]], which further contributes to and reinforces those doubts. This all leads into a massive cluster of self invalidation that can lead someone to struggle over and over again to accept their own gender identity.
 
-But here’s the thing… only trans people are worried about if they are actually transgender! A cisgender person does not have this obsession with their identity, they think about it, they process it, they move on. If you keep returning to these thoughts over and over again, this is your brain telling you that you took a wrong turn.
+==But here’s the thing… only trans people are worried about if they are actually transgender!== A cisgender person does not have this obsession with their identity, they think about it, they process it, they move on. If you keep returning to these thoughts over and over again, this is your brain telling you that you took a wrong turn.
 
 The world is _full_ of influences put in place to fill us with doubt and keep us from breaking outside of the established social order. These are some of the systems and ideologies that seek to invalidate trans people and keep us from self-actualizing.
 
-### Autogynephilia [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/impostor-syndrome#autogynephilia)
+### Autogynephilia 
 
 [](https://twitter.com/TwippingVanilla/status/1153300366902960128) [**![](https://genderdysphoria.fyi/tweets/TwippingVanilla-a5e09687de.jpg)** ** 𝓙𝓸𝓬𝓮𝓵𝔂𝓷 ![🏳️🌈](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-1f308.png) ![🏳️⚧️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-26a7-fe0f.png) ⚢![💞](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f49e.png) ** @TwippingVanilla ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/TwippingVanilla) 
 
@@ -83,7 +83,7 @@ AGP had been thoroughly dismissed by modern psychology by the late 2000s, but th
 
 Transfeminine individuals then internalize these messages, and come to the conclusion that they are not actually transgender, just fetishists. It happened to me, it’s happened to nearly every millennial trans woman I know who figured themselves out as a teen.
 
-You are not a fetishist, the feeling you get from thinking of yourself as a woman is gender euphoria.
+==You are not a fetishist, the feeling you get from thinking of yourself as a woman is gender euphoria.==
 
 ### Patriarchal Oppression [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/impostor-syndrome#patriarchal-oppression)
 
@@ -97,13 +97,13 @@ If you feel like you are not a binary woman, than you are not a binary woman. Ci
 
 ### Toxic Masculinity [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/impostor-syndrome#toxic-masculinity)
 
-Male-assigned kids grow up positively drenched in messaging of what it is to “be a man”. There are so few examples of positive masculinity in popular media, and AMAB Masculine Enbies are also so commonly erased in trans representation that being a genderqueer male can feel very lonely. AMAB Enbies are often either grouped in with gay cis men or treated like trans women.
+Male-assigned kids grow up positively drenched in messaging of what it is to “be a man”. There are so few examples of positive masculinity in popular media, and AMAB Masculine Enbies are also so commonly erased in trans representation that being a genderqueer male can feel very lonely. #Yes ==AMAB Enbies are often either grouped in with gay cis men or treated like trans women.==
 
 You can just be genderqueer! Your identity is valid!
 
 ### Transmedicalism [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/impostor-syndrome#transmedicalism)
 
-This one hits _everybody_. Transmedicalism (aka Truetrans) is a transgender ideology derived from the Harry Benjamin scale (ranks 5 and 6). It seeks to reinforce the pre-WPATH rules, requiring intense physical dysphoria, demanding medical transition, and often invalidating all non-binary identities. At its core, transmedicalism is a supremacist concept, elevating binary trans people above the needs of any other gender identity, and a push back against the expansion of the transgender identity. They wish for more gatekeeping than we have today, rail against enbies using the transgender label, and would prefer to see fewer people receive treatment for their gender dysphoria.
+This one hits _everybody_. Transmedicalism (aka Truetrans) is a transgender ideology derived from the Harry Benjamin scale (ranks 5 and 6). It seeks to reinforce the pre-WPATH rules, requiring intense physical dysphoria, demanding medical transition, and often invalidating all non-binary identities. At its core, transmedicalism is a supremacist concept, elevating binary trans people above the needs of any other gender identity, and a push back against the expansion of the transgender identity. They wish for more gatekeeping than we have today, rail against enbies using the transgender label, and would prefer to see fewer people receive treatment for their [[Gender Dysphoria]].
 
 To put it succinctly, many transmedicalists hate that the newer generation “has it so easy,” despite the fact that many of their ranks are part of that generation. This ideology started among disgruntled trans elders, but has since spread to other binary individuals, particularly among young trans men.
 
@@ -121,4 +121,4 @@ These people will stop at nothing to invalidate your existence. Do not give them
 
 [Postgenderism](https://en.wikipedia.org/wiki/Postgenderism) is a [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) philosophy originating in radical feminism which states that gender causes more harm than good, and seeks to eradicate it from our society. GAs believe that all gender is a construct and that anyone who feels strongly connected to a binary gender is either nefariously propagating gender stereotypes or ignorantly following systemic indoctrination.
 
-GAs do not believe in the existence of gender dysphoria, and will attempt to invalidate those who experience it. They’re functionally the extreme leftist version of the Gender Critical movement.
+GAs do not believe in the existence of [[Gender Dysphoria]], and will attempt to invalidate those who experience it. They’re functionally the extreme leftist version of the Gender Critical movement.
