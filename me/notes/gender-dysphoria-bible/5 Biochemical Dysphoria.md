@@ -38,21 +38,17 @@ Zinnia Jones [gives these descriptions for [[Depersonalization]]](https://web.ar
 
 #Yes ==You may be unconcerned with the state of your body, perhaps not even fearing death, because you have so little attachment to your life.==
 
-[](https://twitter.com/NightlingBug/status/1215716438972993536) [**![](https://genderdysphoria.fyi/tweets/NightlingBug-66ffa2075e.jpg)** ** Nightling Bug ![🗝️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f5dd.png) ** @NightlingBug ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/NightlingBug) 
+[#Yes ==You have an underlying sense that you are "not like" most people.== #Yes ==Your friends might get you, but you draw an instinctive and unconscious line between you and "normal" people. When you interact with a "normal" person, you're not sure what to say or how to act.==
+](https://twitter.com/NightlingBug/status/1215716438972993536)
 
-#Yes ==You have an underlying sense that you are "not like" most people.== #Yes ==Your friends might get you, but you draw an instinctive and unconscious line between you and "normal" people. When you interact with a "normal" person, you're not sure what to say or how to act.==
+[#Yes ==You find it hard to prioritize your own feelings. You're aware of emotions you \*should\* be feeling, but they're distant and fake-seeming==. #Sometimes ==When someone else is upset, it's much more real and urgent. You believe this is just your stoic, protective nature.==
+](https://twitter.com/NightlingBug/status/1215736608055537670)
 
-[](https://twitter.com/NightlingBug/status/1215736608055537670) [**![](https://genderdysphoria.fyi/tweets/NightlingBug-66ffa2075e.jpg)** ** Nightling Bug ![🗝️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f5dd.png) ** @NightlingBug ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/NightlingBug) 
+[#No ==You often feel directionless in life. When asked about career goals in High School, you didn't really care about your answer. Even careers centered in your interests seemed kind of intolerable.== #Yes ==You struggle to imagine a future for yourself where you are happy or fulfilled.==
+](https://twitter.com/NightlingBug/status/1215738145473474560)
 
-#Yes ==You find it hard to prioritize your own feelings. You're aware of emotions you \*should\* be feeling, but they're distant and fake-seeming==. #Sometimes ==When someone else is upset, it's much more real and urgent. You believe this is just your stoic, protective nature.==
-
-[](https://twitter.com/NightlingBug/status/1215738145473474560) [**![](https://genderdysphoria.fyi/tweets/NightlingBug-66ffa2075e.jpg)** ** Nightling Bug ![🗝️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f5dd.png) ** @NightlingBug ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/NightlingBug) 
-
-#No ==You often feel directionless in life. When asked about career goals in High School, you didn't really care about your answer. Even careers centered in your interests seemed kind of intolerable.== #Yes ==You struggle to imagine a future for yourself where you are happy or fulfilled.==
-
-[](https://twitter.com/NightlingBug/status/1215740224325783553) [**![](https://genderdysphoria.fyi/tweets/NightlingBug-66ffa2075e.jpg)** ** Nightling Bug ![🗝️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f5dd.png) ** @NightlingBug ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/NightlingBug) 
-
-#Yes ==You only take steps to better your life when external forces \*make\* you.== #Yes ==You'd rather withdraw and self-minimize and focus on escapist hobbies== You're just not motivated to attain nice things for yourself. (You tell yourself that this is a zen acceptance, a freedom from desires.)
+[#Yes ==You only take steps to better your life when external forces \*make\* you.== #Yes ==You'd rather withdraw and self-minimize and focus on escapist hobbies== You're just not motivated to attain nice things for yourself. (You tell yourself that this is a zen acceptance, a freedom from desires.)
+](https://twitter.com/NightlingBug/status/1215740224325783553)
 
 #Def **[[Derealization]]** -> a detachment from the world around you, a mental sense that everything you perceive is false.
 
@@ -70,8 +66,7 @@ If you found yourself strongly relating to The Matrix or The Truman Show, you mi
 
 ==It’s important to note that DPDR is not exclusive to [[Gender Dysphoria]]==. This condition is co-morbid with several other mental health issues, including chronic [[depression]], [[ocd | obsessive compulsive disorder]], and [[bpd | borderline personality disorder]]. DPDR should not be taken as a sign of [[Gender Dysphoria]] purely on its own, it’s just a big alarm signal that something is very wrong. It’s also usually pretty easy to spot externally, once you know how to watch for it. #No ==People with DPDR tend to have a mile long stare as they move about in the world; eyes so gloomy and dead that they look like a shell.== One of the most common comments on transition timelines is how the eyes gain so much spark.
 
-### The Ebb and Flow [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/biochemical-dysphoria#the-ebb-and-flow)
-
+### The Ebb and Flow 
 The intensity of physical and biochemical dysphoria is highly influenced by other factors in the body. Because it is a function of endocrine balance, it is also manipulated by those balances. This means that it can rise and fall from day to day. For example:
 
 -   #Explore  If your blood sugar is out of whack, or you have a thyroid condition, it could cause your dysphoria to spike.
@@ -86,33 +81,22 @@ Some people experience this in a genderfluid way, with some days leaning male, s
 
 ==**All of this is valid, and just because you feel very dysphoric one day and not dysphoric the next does not mean that you aren’t really trans.**==
 
-### This Happens Both Ways [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/biochemical-dysphoria#this-happens-both-ways)
-
-[](https://twitter.com/SecretGamerGrrl/status/1222738910821978113) [**![](https://genderdysphoria.fyi/tweets/SecretGamerGrrl-27e9502944.jpg)** ** Secret Gamer Girl ** @SecretGamerGrrl ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/SecretGamerGrrl) 
-
-Worth noting that in the event a confused cis person were to attempt medical transition without being stopped by any of the absurd number of gate keepers and actual medical professionals whose sign-off is typically needed, here's what would happen: They take some pills, or a shot
-
-[](https://twitter.com/SecretGamerGrrl/status/1222739427312750594) [**![](https://genderdysphoria.fyi/tweets/SecretGamerGrrl-27e9502944.jpg)** ** Secret Gamer Girl ** @SecretGamerGrrl ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/SecretGamerGrrl) 
-
-which will then proceed to make them feel absolutely awful, like pouring sugar into the gas tank of their brain. At which point one assumes they would immediately cease taking the hormone supplements they did not actually need and resume a normal life with no lasting consequence
-
-[](https://twitter.com/SecretGamerGrrl/status/1222740261178105856) [**![](https://genderdysphoria.fyi/tweets/SecretGamerGrrl-27e9502944.jpg)** ** Secret Gamer Girl ** @SecretGamerGrrl ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/SecretGamerGrrl) 
-
-Should a REALLY stubborn and confused cis person ignore feeling like total garbage and keep on taking HRT they shouldn't be taking for several months, they might also experience some acne and/or their skin clearing up and looking great, and a woman might start growing facial hair
-
-[](https://twitter.com/SecretGamerGrrl/status/1222742135067303937) [**![](https://genderdysphoria.fyi/tweets/SecretGamerGrrl-27e9502944.jpg)** ** Secret Gamer Girl ** @SecretGamerGrrl ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/SecretGamerGrrl) 
-
-a man in such a position might deal with gynecomastia after like, a year or so, give or take, of again, feeling like complete garbage from taking unneeded estradiol supplements. Anyone, in a similar timeframe, might be looking at their genitals acting like the wrong sort, which
-
-[](https://twitter.com/SecretGamerGrrl/status/1222743360034758656) [**![](https://genderdysphoria.fyi/tweets/SecretGamerGrrl-27e9502944.jpg)** ** Secret Gamer Girl ** @SecretGamerGrrl ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/SecretGamerGrrl) 
-
-again, I kinda figure is something where one would go "hey this ain't right" and just stop taking the medication they are misusing. Where, again, things would just then go back to normal.
+### This Happens Both Ways 
+[Worth noting that in the event a confused cis person were to attempt medical transition without being stopped by any of the absurd number of gate keepers and actual medical professionals whose sign-off is typically needed, here's what would happen: They take some pills, or a shot
+](https://twitter.com/SecretGamerGrrl/status/1222738910821978113)
+[which will then proceed to make them feel absolutely awful, like pouring sugar into the gas tank of their brain. At which point one assumes they would immediately cease taking the hormone supplements they did not actually need and resume a normal life with no lasting consequence
+](https://twitter.com/SecretGamerGrrl/status/1222739427312750594)
+[Should a REALLY stubborn and confused cis person ignore feeling like total garbage and keep on taking HRT they shouldn't be taking for several months, they might also experience some acne and/or their skin clearing up and looking great, and a woman might start growing facial hair
+](https://twitter.com/SecretGamerGrrl/status/1222740261178105856)
+[a man in such a position might deal with gynecomastia after like, a year or so, give or take, of again, feeling like complete garbage from taking unneeded estradiol supplements. Anyone, in a similar timeframe, might be looking at their genitals acting like the wrong sort, which
+](https://twitter.com/SecretGamerGrrl/status/1222742135067303937)
+[again, I kinda figure is something where one would go "hey this ain't right" and just stop taking the medication they are misusing. Where, again, things would just then go back to normal.
+](https://twitter.com/SecretGamerGrrl/status/1222743360034758656)
 
 Oh and all of this is me talking about HRT. Usually what bigots are doing is talking about
 
-[](https://twitter.com/SecretGamerGrrl/status/1222743749920464896) [**![](https://genderdysphoria.fyi/tweets/SecretGamerGrrl-27e9502944.jpg)** ** Secret Gamer Girl ** @SecretGamerGrrl ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/SecretGamerGrrl) 
-
-puberty blockers as if they were HRT. If some confused cis kid takes puberty blockers the grand total of what would actually happen is.. not starting puberty until they realized they were taking them for no particular reason and stopped. No side effects of any sort to worry about
+[puberty blockers as if they were HRT. If some confused cis kid takes puberty blockers the grand total of what would actually happen is.. not starting puberty until they realized they were taking them for no particular reason and stopped. No side effects of any sort to worry about
+](https://twitter.com/SecretGamerGrrl/status/1222743749920464896)
 
 Sometimes you will hear naysayers suggesting that taking hormone therapy always improves mental health. I heard this myself when I came out to my mother. “Estrogen makes everyone happier.” This is flat out false. When cis people are put on cross hormone therapy it always results in dysphoria. This is one reason why Spironolactone is rarely ever prescribed to men, because the anti-androgen factor causes mental instability. Five to ten percent of cis women suffer from Polycystic Ovarian Syndrome (PCOS), a condition which causes the ovaries to produce testosterone instead of estrogen. Ask any one of them how their mental health has been, and they will give you an ear full.
 

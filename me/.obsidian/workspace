@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c4e71b72314861b0",
+        "id": "8957707a353fa7e2",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/gender-dysphoria-bible/I relate to.md",
+            "file": "topics/my gender.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "7b52910356138e3a",
+        "id": "2544c36092bb54d0",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/gender-dysphoria-bible/I relate to.md",
+            "file": "topics/my gender.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -38,12 +38,23 @@
         }
       },
       {
-        "id": "02d6d3a0112f2b0e",
+        "id": "a60223376a53ad02",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/gender-dysphoria-bible/I relate to.md",
+            "file": "topics/my gender.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "10e38d6a4b5659f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/gender-dysphoria-bible/2 A Brief History of Gender Dysphoria.md",
             "mode": "source"
           }
         }
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/gender-dysphoria-bible/I relate to.md",
+                "file": "topics/my gender.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 365,
+    "collapsed": true
   },
   "right": {
     "id": "d2f47cb3f5d142ba",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/gender-dysphoria-bible/I relate to.md"
+                "file": "topics/my gender.md"
               }
             }
           },
@@ -149,26 +161,34 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "b0ca7f2baf35d0f9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 386,
     "collapsed": true
   },
-  "active": "02d6d3a0112f2b0e",
+  "active": "a60223376a53ad02",
   "lastOpenFiles": [
+    "topics/my gender.md",
+    "notes/gender-dysphoria-bible/2 A Brief History of Gender Dysphoria.md",
+    "topics/transition.md",
+    "topics/ego.md",
     "notes/gender-dysphoria-bible/I relate to.md",
-    "notes/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
-    "notes/gender-dysphoria-bible/Gender Dysphoria Bible.md",
-    "notes/gender-dysphoria-bible/20In Conclusion.md",
-    "notes/gender-dysphoria-bible/19Estrogenic Second Puberty 101.md",
-    "notes/gender-dysphoria-bible/18Androgenic Second Puberty 101.md",
-    "notes/gender-dysphoria-bible/17Hormones How do they work.md",
-    "notes/gender-dysphoria-bible/16Disorders of Sex Development Gender is not Chromosomal.md",
+    "notes/gender-dysphoria-bible/19 Estrogenic Second Puberty 101.md",
     "notes/gender-dysphoria-bible/15 What is the Cause of Gender Incongruence.md",
-    "notes/gender-dysphoria-bible/14Treating Gender Dysphoria.md"
+    "notes/gender-dysphoria-bible/14 Treating Gender Dysphoria.md",
+    "notes/gender-dysphoria-bible/13 Diagnosing Gender Dysphoria.md",
+    "notes/gender-dysphoria-bible/12 Impostor Syndrome, but make it Trans.md"
   ]
 }

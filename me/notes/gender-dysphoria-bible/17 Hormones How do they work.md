@@ -17,8 +17,7 @@ If they produce estrogens (primarily Estradiol) then the genitals form into a vu
 
 So how does this work? Why do the cells differentiate like this? Well, before we can explain that, first we have to explain the concept of a **Receptor**.
 
-## Hormone Receptors [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/hormones#hormone-receptors)
-
+## Hormone Receptors 
 In simplest terms, a receptor is like the keyed lock ignition on a car (do new car’s still have keyed ignitions?). Every cell in the body has a set of locks which activate different functions within that cell. They’re like switches which signal to the cell that it should activate a different part of its genetic sequence. Each receptor can only accept certain chemical compounds, much like how a lock can only accept certain keys, and different chemicals have different capabilities at turning the key. Some can completely start the car, while others only turn it to Accessory Mode.
 
 The ability for a chemical to fit into a receptor is called **Relational Binding Affinity**, and is measured as percentage of how likely a chemical will bind to a receptor compared to another. So, for example, if Hormone B binds only 10% of the time in relation to Hormone A, then it is said to have a 10% binding affinity. Similarly, the ability for a chemical to turn the key is called _Transactivational Ability_. Compounds which fit into a receptor but don’t do anything are called _Antagonists_, compounds which are able to turn the key are called **Agonists**. If it can only turn the key a tiny bit, it’s called a **Partial Agonist**.
@@ -27,8 +26,7 @@ You can think of antagonists like bouncers at a club. They stand in the doorway 
 
 In some cases a hormone can function as an inhibitor or an activator for a different hormone by slowing down or increasing behavior in a cell. For example, progesterone increase cell activity, making cells respond more effectively to estrogens and androgens, and testosterone increases the transaction ability of dopamine receptors, so less dopamine is needed in the brain for the same effect.
 
-## Whats in a Hormone [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/hormones#whats-in-a-hormone)
-
+## Whats in a Hormone 
 There are four main kinds of hormones:
 
 -   [Amino Acids](https://en.wikipedia.org/wiki/Amino_acid) such as Melatonin which controls sleep, or Thyroxine which regulates the metabolism.
@@ -50,16 +48,14 @@ For the purposes of transition, this last category is what we care about the mos
 
 The first three of these are what we care about most when it comes to Hormone Therapy. Note: All human beings, regardless of phenotype, have some of every one of these hormones in their bodies. The ratios are what affect body shape.
 
-### Androgens [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/hormones#androgens)
-
+### Androgens 
 There are nearly a dozen different androgens, but the ones we care about the most are [Testosterone](https://en.wikipedia.org/wiki/Testosterone) and [Dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone).
 
 Testosterone is the primary masculinizing hormone for the human body and is produced in the adrenal glands, the testes, and in the ovaries (where it is immediately converted into estrone and estradiol). It tells both muscle and bone cells to grow and in higher concentrations encourages larger muscle mass and thicker skeletal structure. This also means that Testosterone is critical for bone health, as it affects calcium distribution within the skeletal structure. Thus, severe depletion of testosterone can result in osteoperosis and fragile bones. Testosterone also plays a major role in sex drive and libido, encouraging mating behavior within the cerebral cortex.
 
 Dihydrotestosterone (DHT), which is converted from Testosterone in the prostate, skin and liver, plays a major role in the development of the male genitalia during puberty by inducing random erections, and the growth of facial and body hair. Paradoxically, DHT is also what causes male pattern baldness, as it chokes off blood circulation to the follicles on the top of the scalp (sorry, trans guys, it’s a double edged sword). DHT binds to androgen receptors ten times more strongly than testosterone, which is why it is critical to eliminate it for feminizing transition.
 
-### Estrogens [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/hormones#estrogens)
-
+### Estrogens 
 There are four estrogens: [Estradiol](https://en.wikipedia.org/wiki/Estradiol), [Estrone](https://en.wikipedia.org/wiki/Estrone), Estriol and Estetrol. The latter two are only produced during pregnancy and are important for fetal health, but have no bearing on transition.
 
 Estradiol is the Feminizing hormone, as it is the primary signaling hormone for growth in the mammary glands (breast tissue), and because it encourages fat deposits in the thighs, hips, butt, chest and arms, while discouraging fat deposits in the abdomen, thus producing a curvier figure. Estradiol also promote increased collagen production, resulting in softer skin and more flexible tendons & ligaments.
@@ -82,8 +78,7 @@ Taking testosterone causes the hypothalamus to deactivate the genes that initiat
 
 _So no, Reddit, it isn’t just “because testosterone is stronger”, it’s because ovaries are a hell of a lot more complex than testes and are easier to disrupt. Please stop spreading this falsehood._
 
-### Progestagins [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/hormones#progestagins)
-
+### Progestagins 
 The primary progestogin is [progesterone](https://en.wikipedia.org/wiki/Progesterone), which plays numerous roles in the body and has been found to be [an important component for feminizing hormone therapy](https://academic.oup.com/jcem/article/104/4/1181/5270376).
 
 One of the largest roles that the progestogin receptor plays is in the regulation of gonadal function (ovaries and testies). The hypothalamus is positively _littered_ with progestogin receptors and responds strongly to their activation, downregulating the production of [GnRH](https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone), which then reduces the production of [luteinizing hormone](https://en.wikipedia.org/wiki/Luteinizing_hormone) by the pituitary gland.
@@ -94,8 +89,7 @@ Another type of cell that is full of progestogin receptors is mammary tissue. Pr
 
 Additionally, progesterone promotes better sleep, improves cardiovascular health, increases ketogenesis (reducing triglycerides), increases metabolic function, and has been found to reduce breast cancer risk.
 
-### Mineralcorticoids [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/hormones#mineralcorticoids)
-
+### Mineralcorticoids 
 Mineralcorticoids play no role in transition, but they are worth mentioning because of one major hormone: [Aldosterone](https://en.wikipedia.org/wiki/Aldosterone).
 
 Aldosterone is what instructs the kidneys to _stop_ extracting water from the blood stream. It is produced by the adrenal glands in order to regulate body hydration. Why is this significant?

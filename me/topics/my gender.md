@@ -31,14 +31,28 @@
 - Fear: Why does it have to be there
     - > _The presence of fear means you are getting closer to discovering something about yourself._
     - Our unconscious hides things that we fear and throws them away, but they're still their to make us scared.
-    - Peering into the unconscious 
-        - What are you afraid of?
-            - What if I'm just making it all up? 5
-            - What if I'm just normal? 6
-            - People will just think I'm the pastor's kid who went off the rails 4
-            - People will think I'm stupid 6
-            - People will think that I'm not meeting my potential 6
-            - people will pray for me 3 (very angry though)
-            - I won't find acceptance. 8
-            - I won't accept myself. 10
-        - Average fear: 6 
+    - Peering into the unconscious
+
+| What are you afraid of?                             | Rating |
+| :-------------------------------------------------- | ------ |
+| what if I'm an ugly girl?                           | 5      |
+| people will pray for me (very angry about this)     | 3      |
+| What if I'm just normal?                            | 6      |
+| What if I'm just making it all up?                  | 5      |
+| What if I [[transition]] and I'm still not happy?   | 9      |
+| People will think that I'm not meeting my potential | 6      |
+| People will think I'm stupid                        | 6      |
+| I'm the pastor's kid who went off the rails         | 4      |
+| I won't find acceptance.                            | 8      |
+| I won't accept myself.                              | 10     |
+| **Average**                                         | 6.20   |
+
+<!-- TBLFM: @>$2=mean(@I..@-1);%.2f -->
+
+- Bodyguard: Hermione Granger - self explanatory
+	- You [[ego]] overprotects you from your fears which leads to
+		- being unable to experience life to the fullest
+		- stunted growth
+		- hiding truths from ourselves
+	- > You have the right to choose self-actualization over continued repression
+	- 

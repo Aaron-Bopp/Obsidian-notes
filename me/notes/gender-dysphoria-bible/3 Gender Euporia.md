@@ -27,9 +27,8 @@ Eventually they realize that they don’t want to go back into the hole any more
 
 This is what [[Gender Euphoria]] is like, it is brief flashes of a light that may be too bright to handle at first, too confusing to understand, but as time goes on you become more accustomed to them and you realize that this is where you belong, and the darkness becomes the dysphoria.
 
-[](https://twitter.com/NightlingBug/status/1215716433210105856) [**![](https://genderdysphoria.fyi/tweets/NightlingBug-66ffa2075e.jpg)** ** Nightling Bug ![🗝️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f5dd.png) ** @NightlingBug ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/NightlingBug) 
-
-Fish don't notice water. It's all around them. Most fish have never left it.
+[Fish don't notice water. It's all around them. Most fish have never left it.
+](https://twitter.com/NightlingBug/status/1215716433210105856)
 
 ==And often, trans people in denial don't notice the [[Gender Dysphoria]] that suffuses their daily lives.==
 
@@ -41,9 +40,8 @@ This is the most fundamental reason why we as a community say “you do not need
 
 Anything that can be a source of dysphoria has an equal and opposite euphoria.
 
-[](https://twitter.com/ErinInTheMorn/status/1228141518386585607) [**![](https://genderdysphoria.fyi/tweets/ErinInTheMorn-85cd6304de.jpg)** ** Erin, boycotting Arkansas businesses ** @ErinInTheMorn ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/ErinInTheMorn) 
-
-Just finished 22 valentines cards for my son's daycare class. We wandered about Target to get some candy. It is great just existing, being myself, with my son and living life being seen the way I truly am.
+[Just finished 22 valentines cards for my son's daycare class. We wandered about Target to get some candy. It is great just existing, being myself, with my son and living life being seen the way I truly am.
+](https://twitter.com/ErinInTheMorn/status/1228141518386585607)
 
 Even all of his daycare friends say "your mom's here!" :)
 

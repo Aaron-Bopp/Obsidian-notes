@@ -25,23 +25,18 @@ Presentational Dysphoria typically appears early on in the form of a fascination
 
 Post-transition Presentational Dysphoria is usually simply a case of high discomfort when attempt to present as one’s assigned gender. It may not even be about how one looks, but just the way the clothing makes you feel. For the first year and a half of my own transition I could not bear to wear unisex t-shirts because they just made me feel more masculine. Even now I have to cut the collars out of them, because the close neck makes me feel dysphoric.
 
-### Presentation’s Affect on Physical Dysphoria. [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/presentational-dysphoria#presentations-affect-on-physical-dysphoria)
+### Presentation’s Affect on Physical Dysphoria. 
+[#Yes ==When you get ready to go, you just roll out of bed and throw on whatever. You don't really do any self-grooming, or care about what's on your body. You're a little proud of your lack of vanity, your deeper, non-appearance-level existence.==
+](https://twitter.com/NightlingBug/status/1215716435068100611)
 
-[](https://twitter.com/NightlingBug/status/1215716435068100611) [**![](https://genderdysphoria.fyi/tweets/NightlingBug-66ffa2075e.jpg)** ** Nightling Bug ![🗝️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f5dd.png) ** @NightlingBug ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/NightlingBug) 
+[#Yes ==Your clothes are chosen almost entirely for comfort.== And for you, comfortable means loose and baggy. You can't stand wearing clothes (that others claim are flattering!) that are close-fitting in the wrong places, that draw your own attention to certain parts of your body.
+](https://twitter.com/NightlingBug/status/1215716435974066176)
 
-#Yes ==When you get ready to go, you just roll out of bed and throw on whatever. You don't really do any self-grooming, or care about what's on your body. You're a little proud of your lack of vanity, your deeper, non-appearance-level existence.==
+[Clothes shopping for yourself is a hassle at best and a source of stress and anxiety at worst. When you do find clothes that fit and look okay, they don't make you \*happy\*. You don't feel more confident in them. You're just relieved you can go home.
+](https://twitter.com/NightlingBug/status/1215716436980703233)
 
-[](https://twitter.com/NightlingBug/status/1215716435974066176) [**![](https://genderdysphoria.fyi/tweets/NightlingBug-66ffa2075e.jpg)** ** Nightling Bug ![🗝️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f5dd.png) ** @NightlingBug ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/NightlingBug) 
-
-#Yes ==Your clothes are chosen almost entirely for comfort.== And for you, comfortable means loose and baggy. You can't stand wearing clothes (that others claim are flattering!) that are close-fitting in the wrong places, that draw your own attention to certain parts of your body.
-
-[](https://twitter.com/NightlingBug/status/1215716436980703233) [**![](https://genderdysphoria.fyi/tweets/NightlingBug-66ffa2075e.jpg)** ** Nightling Bug ![🗝️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f5dd.png) ** @NightlingBug ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/NightlingBug) 
-
-Clothes shopping for yourself is a hassle at best and a source of stress and anxiety at worst. When you do find clothes that fit and look okay, they don't make you \*happy\*. You don't feel more confident in them. You're just relieved you can go home.
-
-[](https://twitter.com/NightlingBug/status/1215716438020849664) [**![](https://genderdysphoria.fyi/tweets/NightlingBug-66ffa2075e.jpg)** ** Nightling Bug ![🗝️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f5dd.png) ** @NightlingBug ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/NightlingBug) 
-
-Occasions where you \*must\* dress up, like weddings and funerals and job interviews, are the worst. Even after all of the grooming and wardrobing, you feel self-conscious and awkward in formalwear. It makes you feel \*fake,\* like a lump of sludge pretending to be a fancy person.
+[Occasions where you \*must\* dress up, like weddings and funerals and job interviews, are the worst. Even after all of the grooming and wardrobing, you feel self-conscious and awkward in formalwear. It makes you feel \*fake,\* like a lump of sludge pretending to be a fancy person.
+](https://twitter.com/NightlingBug/status/1215716438020849664)
 
 Clothing can also play a major role in the level of physical dysphoria a person experiences. Men’s clothing is always cut very boxy, straight up and down on the vertical and very square in the horizontal. Women’s clothing is cut for more curves, accentuating waistlines and hip shape. Men’s pants feature a lower crotch to make room for external genitals, and no fitting for curves, where women’s bottoms are the opposite. Women’s clothing is often form fitting, where men’s clothing is rarely form fitting at all. Men’s clothing is often made of sturdier and thicker materials, meant to be worn as a single layer. Women’s clothing is often made of thinner and stretchier materials, expected to be layered together.
 
@@ -51,9 +46,8 @@ I, myself am very feminine in my preferred presentation, and I had a longing to 
 
 What does this look like? Well, it looks a lot like other common body image issues. A tendency to avoid anything form fitting, leaning towards softer fabrics and baggier clothes. A classic [[Gender Dysphoria]] trope is the kid who wears nothing but sweatpants and hoodies. Clothes will be oversized in order to keep them from hugging the body. AFABs may prefer to wear compressing sports bras in order to minimize their chests, and avoid anything with a tight waistline.
 
-[](https://twitter.com/DameKraft/status/1191555135756853249) [**![](https://genderdysphoria.fyi/tweets/DameKraft-3168e6c3dd.jpg)** ** Cherry Blossom ** @DameKraft ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/DameKraft) 
-
-#Yes ==Feeling envious of other girls for being pretty is a thing that many many women feel. Dysphoria is a real headfuck of a layer on top of that feeling, yet I just wanna say that if you’re a trans woman feeling envious of another trans ==woman, that’s you being a actual woman.
+[#Yes ==Feeling envious of other girls for being pretty is a thing that many many women feel. Dysphoria is a real headfuck of a layer on top of that feeling, yet I just wanna say that if you’re a trans woman feeling envious of another trans ==woman, that’s you being a actual woman.
+](https://twitter.com/DameKraft/status/1191555135756853249)
 
 Internally it most often manifests as intense jealousy of the people you wish you could be. Jealousy over an influencer’s body shape, a strong desire for the outfit of a person on the street, and most especially envy of other trans people. This feeling often persists well into transition, because this sensation of wanting to be other people of your gender is actually completely natural, even for cis people.
 

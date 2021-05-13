@@ -11,9 +11,7 @@ author: Jocelyn Badgley
 > Am I really trans?
 
 ---
-[](https://twitter.com/NightlingBug/status/1219963582063968258) [**![](https://genderdysphoria.fyi/tweets/NightlingBug-66ffa2075e.jpg)** ** Nightling Bug ![🗝️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f5dd.png) ** @NightlingBug ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/NightlingBug) 
-
-[@precociouspants](https://twitter.com/precociouspants) [@TorgHacker](https://twitter.com/TorgHacker) You don't need dysphoria to be trans!
+[You don't need dysphoria to be trans!](https://twitter.com/NightlingBug/status/1219963582063968258)
 
 ==But also, I've seen "angst over not being dysphoric enough" described as a sort of meta-dysphoria? Because it's distress you experience when you're worried you aren't \_\_\_\_\_ enough to be your gender.==
 
@@ -25,9 +23,8 @@ On top of this, messages saying that trans people hate their bodies or hate thei
 
 #Explore _**[YES, YOU ARE TRANS ENOUGH](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)**_
 
-[](https://twitter.com/RoseOfWindsong/status/1221970265862811650) [**![](https://genderdysphoria.fyi/tweets/RoseOfWindsong-d80000907a.jpg)** ** Faith ** @RoseOfWindsong ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RoseOfWindsong) 
-
-Gay people 2 decades ago: \*exist\*
+[Gay people 2 decades ago: \*exist\*
+](https://twitter.com/RoseOfWindsong/status/1221970265862811650)
 
 Bigots: "They're trying to turn our children gay! We must protect our children!"
 
@@ -45,29 +42,25 @@ The world is _full_ of influences put in place to fill us with doubt and keep us
 
 ### Autogynephilia 
 
-[](https://twitter.com/TwippingVanilla/status/1153300366902960128) [**![](https://genderdysphoria.fyi/tweets/TwippingVanilla-a5e09687de.jpg)** ** 𝓙𝓸𝓬𝓮𝓵𝔂𝓷 ![🏳️🌈](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-1f308.png) ![🏳️⚧️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-26a7-fe0f.png) ⚢![💞](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f49e.png) ** @TwippingVanilla ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/TwippingVanilla) 
-
-Im gonna be blunt: Your gender is not invalid because you get an erection when seeing yourself dressed as feminine. We’ve all gotten it. It doesn’t mean you’re fetishizing. It doesn’t mean you’re not actually trans.
+[Im gonna be blunt: Your gender is not invalid because you get an erection when seeing yourself dressed as feminine. We’ve all gotten it. It doesn’t mean you’re fetishizing. It doesn’t mean you’re not actually trans.
+](https://twitter.com/TwippingVanilla/status/1153300366902960128)
 
 All it means is that you feel good about how you look.
 
-[](https://twitter.com/TwippingVanilla/status/1153300368974991361) [**![](https://genderdysphoria.fyi/tweets/TwippingVanilla-a5e09687de.jpg)** ** 𝓙𝓸𝓬𝓮𝓵𝔂𝓷 ![🏳️🌈](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-1f308.png) ![🏳️⚧️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-26a7-fe0f.png) ⚢![💞](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f49e.png) ** @TwippingVanilla ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/TwippingVanilla) 
-
-Gender Euphoria is sexy. Being comfortable in your clothes is sexy. Liking the way you look is sexy. \*Feeling sexy is sexy!!\*
+[Gender Euphoria is sexy. Being comfortable in your clothes is sexy. Liking the way you look is sexy. \*Feeling sexy is sexy!!\*
+](https://twitter.com/TwippingVanilla/status/1153300368974991361)
 
 That triggers a turn on, the body reacts to sexy things.
 
 Here’s the kicker: Cis Women get this too!!! It’s literally just a lady boner!
 
-[](https://twitter.com/TwippingVanilla/status/1153300372468801536) [**![](https://genderdysphoria.fyi/tweets/TwippingVanilla-a5e09687de.jpg)** ** 𝓙𝓸𝓬𝓮𝓵𝔂𝓷 ![🏳️🌈](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-1f308.png) ![🏳️⚧️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-26a7-fe0f.png) ⚢![💞](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f49e.png) ** @TwippingVanilla ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/TwippingVanilla) 
-
-But that special outfit that makes you feel really hot? That new dress that you try on for the first time and feel really cute in? That lingerie that you bought specifically to feel sexy in?
+[But that special outfit that makes you feel really hot? That new dress that you try on for the first time and feel really cute in? That lingerie that you bought specifically to feel sexy in?
+](https://twitter.com/TwippingVanilla/status/1153300372468801536)
 
 Yes, that triggers it. All it means is thst you’re happy.
 
-[](https://twitter.com/TwippingVanilla/status/1153300374133981186) [**![](https://genderdysphoria.fyi/tweets/TwippingVanilla-a5e09687de.jpg)** ** 𝓙𝓸𝓬𝓮𝓵𝔂𝓷 ![🏳️🌈](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-1f308.png) ![🏳️⚧️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-26a7-fe0f.png) ⚢![💞](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f49e.png) ** @TwippingVanilla ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/TwippingVanilla) 
-
-Let me tell you, the massive relief my friend displayed at learning that this was completely normal was palpable. The poor girl had been stressing about that so hard.
+[Let me tell you, the massive relief my friend displayed at learning that this was completely normal was palpable. The poor girl had been stressing about that so hard.
+](https://twitter.com/TwippingVanilla/status/1153300374133981186)
 
 She didn’t even know about AGP, but she knew the stigmas and was terrified that this meant she was fake.
 
@@ -85,8 +78,7 @@ Transfeminine individuals then internalize these messages, and come to the concl
 
 ==You are not a fetishist, the feeling you get from thinking of yourself as a woman is gender euphoria.==
 
-### Patriarchal Oppression [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/impostor-syndrome#patriarchal-oppression)
-
+### Patriarchal Oppression 
 A common source of invalidation for AFABs is the conflation of gender with the systemic oppression of women, particularly among non-medically-transitioning non-binary people. The message of “oh you just don’t want to be a woman because of how women are treated” is far too often heard, and it can deeply infest your subconscious to the point of self doubt. But this doesn’t make much sense, because if you’re AFAB and not a woman, that makes you transgender. And on average, society treats transgender folks worse than women. So transitioning to escape systemic oppression is a dumb concept (and I personally have never met a trans person who has done this).
 
 Radical Feminism’s messaging of abandoning female gender roles can also make parsing your own feelings harder. “Am I actually non-binary, or am I just a feminist?” “Am I actually a man, or am I just a very butch lesbian?”. For this, I encourage you to talk to cis woman feminists, especially lesbians. They’ll complain about systems of oppression and the patriarchy, but the problems are all external, and they _want to be women_. Even very butch lesbians want to be women, just in a different way from mainstream femininity.
@@ -95,14 +87,12 @@ Then you have the problem of people believing that to be non-binary is to be and
 
 If you feel like you are not a binary woman, than you are not a binary woman. Cis women do not experience that detachment.
 
-### Toxic Masculinity [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/impostor-syndrome#toxic-masculinity)
-
+### Toxic Masculinity 
 Male-assigned kids grow up positively drenched in messaging of what it is to “be a man”. There are so few examples of positive masculinity in popular media, and AMAB Masculine Enbies are also so commonly erased in trans representation that being a genderqueer male can feel very lonely. #Yes ==AMAB Enbies are often either grouped in with gay cis men or treated like trans women.==
 
 You can just be genderqueer! Your identity is valid!
 
-### Transmedicalism [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/impostor-syndrome#transmedicalism)
-
+### Transmedicalism 
 This one hits _everybody_. Transmedicalism (aka Truetrans) is a transgender ideology derived from the Harry Benjamin scale (ranks 5 and 6). It seeks to reinforce the pre-WPATH rules, requiring intense physical dysphoria, demanding medical transition, and often invalidating all non-binary identities. At its core, transmedicalism is a supremacist concept, elevating binary trans people above the needs of any other gender identity, and a push back against the expansion of the transgender identity. They wish for more gatekeeping than we have today, rail against enbies using the transgender label, and would prefer to see fewer people receive treatment for their [[Gender Dysphoria]].
 
 To put it succinctly, many transmedicalists hate that the newer generation “has it so easy,” despite the fact that many of their ranks are part of that generation. This ideology started among disgruntled trans elders, but has since spread to other binary individuals, particularly among young trans men.
@@ -111,14 +101,12 @@ If a trans person’s first exposure to transness is a transmedicalist, this can
 
 **Do not believe these lies.** They are bully tactics explicitly designed to gaslight and dismiss people’s pain for self gratification.
 
-### Trans-Exclusionary Reactionary Feminism / Gender Critical Movement / Gender Essentialism [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/impostor-syndrome#trans-exclusionary-reactionary-feminism-gender-critical-movement-gender-essentialism)
-
+### Trans-Exclusionary Reactionary Feminism / Gender Critical Movement / Gender Essentialism 
 [Gender Essentialism](https://en.wikipedia.org/wiki/Gender_essentialism) is the belief that there are an innate attributes to a person’s existence that are derived based on what sex organs the person is born with. TERF and GC ideology was born out of the lesbian separatist movement of second wave feminism and fully denies the existence of transgender biology and non-binary identities. The movement has been largely overtaken by right-wing reactionaries, racists, and homophobes, and is now being bolstered by evangelical Christian organizations.
 
 These people will stop at nothing to invalidate your existence. Do not give them the time of day.
 
-### Gender Abolitionism / Postgenderism [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/impostor-syndrome#gender-abolitionism-postgenderism)
-
+### Gender Abolitionism / Postgenderism 
 [Postgenderism](https://en.wikipedia.org/wiki/Postgenderism) is a [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) philosophy originating in radical feminism which states that gender causes more harm than good, and seeks to eradicate it from our society. GAs believe that all gender is a construct and that anyone who feels strongly connected to a binary gender is either nefariously propagating gender stereotypes or ignorantly following systemic indoctrination.
 
 GAs do not believe in the existence of [[Gender Dysphoria]], and will attempt to invalidate those who experience it. They’re functionally the extreme leftist version of the Gender Critical movement.

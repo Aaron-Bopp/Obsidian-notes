@@ -15,9 +15,8 @@ author: Jocelyn Badgley
 
 The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of Gender Dysphoria. In its current iteration it is severely lacking in AFAB narratives, non-binary, agender & genderfluid specific dysphoria, and Third Gender narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
 
-[](https://twitter.com/TransEthics/status/1223942625708761088) [**![](https://genderdysphoria.fyi/tweets/TransEthics-2a39c85cbd.jpg)** ** ![🏳️⚧️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f3f3-fe0f-200d-26a7-fe0f.png) TransEthics™![🧜🏻♀️](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f9dc-1f3fb-200d-2640-fe0f.png) # BlackTransLivesMatter ** @TransEthics ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/TransEthics) 
-
-I'm going to regret paying the co-pay for this test eventually because it was pretty pricey… but I had my karyotype done. Just got the results.
+[I'm going to regret paying the co-pay for this test eventually because it was pretty pricey… but I had my karyotype done. Just got the results.
+](https://twitter.com/TransEthics/status/1223942625708761088)
 
 I –a trans woman– have XX chromosomes.
 
@@ -60,46 +59,35 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 -   [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminization in an otherwise male child, as all testosterone is converted into estrogen.
     
 
-[](https://twitter.com/RebeccaRHelm/status/1207834357639139328) [**![](https://genderdysphoria.fyi/tweets/RebeccaRHelm-661fe12161.jpg)** ** Open Ocean Exploration ** @RebeccaRHelm ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RebeccaRHelm) 
+[Friendly neighborhood biologist here. I see a lot of people are talking about biological sexes and gender right now. Lots of folks make biological sex sex seem really simple. Well, since it’s so simple, let’s find the biological roots, shall we? Let’s talk about sex...\[a thread\]
+](https://twitter.com/RebeccaRHelm/status/1207834357639139328)
 
-Friendly neighborhood biologist here. I see a lot of people are talking about biological sexes and gender right now. Lots of folks make biological sex sex seem really simple. Well, since it’s so simple, let’s find the biological roots, shall we? Let’s talk about sex...\[a thread\]
+[If you know a bit about biology you will probably say that biological sex is caused by chromosomes, XX and you’re female, XY and you’re male. This is “chromosomal sex” but is it “biological sex”? Well...
+](https://twitter.com/RebeccaRHelm/status/1207835110617309191)
 
-[](https://twitter.com/RebeccaRHelm/status/1207835110617309191) [**![](https://genderdysphoria.fyi/tweets/RebeccaRHelm-661fe12161.jpg)** ** Open Ocean Exploration ** @RebeccaRHelm ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RebeccaRHelm) 
+[Turns out there is only ONE GENE on the Y chromosome that really matters to sex. It’s called the SRY gene. During human embryonic development the SRY protein turns on male-associated genes. Having an SRY gene makes you “genetically male”. But is this “biological sex”?
+](https://twitter.com/RebeccaRHelm/status/1207835384358604802)
 
-If you know a bit about biology you will probably say that biological sex is caused by chromosomes, XX and you’re female, XY and you’re male. This is “chromosomal sex” but is it “biological sex”? Well...
+[Sometimes that SRY gene pops off the Y chromosome and over to an X chromosome. Surprise! So now you’ve got an X with an SRY and a Y without an SRY. What does this mean?
+](https://twitter.com/RebeccaRHelm/status/1207835597206937600)
 
-[](https://twitter.com/RebeccaRHelm/status/1207835384358604802) [**![](https://genderdysphoria.fyi/tweets/RebeccaRHelm-661fe12161.jpg)** ** Open Ocean Exploration ** @RebeccaRHelm ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RebeccaRHelm) 
+[A Y with no SRY means physically you’re female, chromosomally you’re male (XY) and genetically you’re female (no SRY). An X with an SRY means you’re physically male, chromsomally female (XX) and genetically male (SRY). But biological sex is simple! There must be another answer...
+](https://twitter.com/RebeccaRHelm/status/1207835815071473664)
 
-Turns out there is only ONE GENE on the Y chromosome that really matters to sex. It’s called the SRY gene. During human embryonic development the SRY protein turns on male-associated genes. Having an SRY gene makes you “genetically male”. But is this “biological sex”?
+[Sex-related genes ultimately turn on hormones in specifics areas on the body, and reception of those hormones by cells throughout the body. Is this the root of “biological sex”??
+](https://twitter.com/RebeccaRHelm/status/1207835999130259456)
 
-[](https://twitter.com/RebeccaRHelm/status/1207835597206937600) [**![](https://genderdysphoria.fyi/tweets/RebeccaRHelm-661fe12161.jpg)** ** Open Ocean Exploration ** @RebeccaRHelm ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RebeccaRHelm) 
+[It means you may be genetically male or female, chromosomally male or female, hormonally male/female/non-binary, with cells that may or may not hear the male/female/non-binary call, and all this leading to a body that can be male/non-binary/female.
+](https://twitter.com/RebeccaRHelm/status/1207838570276372480)
 
-Sometimes that SRY gene pops off the Y chromosome and over to an X chromosome. Surprise! So now you’ve got an X with an SRY and a Y without an SRY. What does this mean?
+[Biological sex is complicated. Before you discriminate against someone on the basis of “biological sex” & identity, ask yourself: have you seen YOUR chromosomes? Do you know the genes of the people you love? The hormones of the people you work with? The state of their cells?
+](https://twitter.com/RebeccaRHelm/status/1207839986801922048)
 
-[](https://twitter.com/RebeccaRHelm/status/1207835815071473664) [**![](https://genderdysphoria.fyi/tweets/RebeccaRHelm-661fe12161.jpg)** ** Open Ocean Exploration ** @RebeccaRHelm ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RebeccaRHelm) 
+[Of course you could try appealing to the numbers. “Most people are either male or female” you say. Except that as a biologist professor I will tell you...
+](https://twitter.com/RebeccaRHelm/status/1207838924263084033)
 
-A Y with no SRY means physically you’re female, chromosomally you’re male (XY) and genetically you’re female (no SRY). An X with an SRY means you’re physically male, chromsomally female (XX) and genetically male (SRY). But biological sex is simple! There must be another answer...
+[The reason I don’t have my students look at their own chromosome in class is because people could learn that their chromosomal sex doesn’t match their physical sex, and learning that in the middle of a 10-point assignment is JUST NOT THE TIME.
+](https://twitter.com/RebeccaRHelm/status/1207839452619522048)
 
-[](https://twitter.com/RebeccaRHelm/status/1207835999130259456) [**![](https://genderdysphoria.fyi/tweets/RebeccaRHelm-661fe12161.jpg)** ** Open Ocean Exploration ** @RebeccaRHelm ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RebeccaRHelm) 
-
-Sex-related genes ultimately turn on hormones in specifics areas on the body, and reception of those hormones by cells throughout the body. Is this the root of “biological sex”??
-
-[](https://twitter.com/RebeccaRHelm/status/1207838570276372480) [**![](https://genderdysphoria.fyi/tweets/RebeccaRHelm-661fe12161.jpg)** ** Open Ocean Exploration ** @RebeccaRHelm ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RebeccaRHelm) 
-
-It means you may be genetically male or female, chromosomally male or female, hormonally male/female/non-binary, with cells that may or may not hear the male/female/non-binary call, and all this leading to a body that can be male/non-binary/female.
-
-[](https://twitter.com/RebeccaRHelm/status/1207839986801922048) [**![](https://genderdysphoria.fyi/tweets/RebeccaRHelm-661fe12161.jpg)** ** Open Ocean Exploration ** @RebeccaRHelm ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RebeccaRHelm) 
-
-Biological sex is complicated. Before you discriminate against someone on the basis of “biological sex” & identity, ask yourself: have you seen YOUR chromosomes? Do you know the genes of the people you love? The hormones of the people you work with? The state of their cells?
-
-[](https://twitter.com/RebeccaRHelm/status/1207838924263084033) [**![](https://genderdysphoria.fyi/tweets/RebeccaRHelm-661fe12161.jpg)** ** Open Ocean Exploration ** @RebeccaRHelm ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RebeccaRHelm) 
-
-Of course you could try appealing to the numbers. “Most people are either male or female” you say. Except that as a biologist professor I will tell you...
-
-[](https://twitter.com/RebeccaRHelm/status/1207839452619522048) [**![](https://genderdysphoria.fyi/tweets/RebeccaRHelm-661fe12161.jpg)** ** Open Ocean Exploration ** @RebeccaRHelm ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/RebeccaRHelm) 
-
-The reason I don’t have my students look at their own chromosome in class is because people could learn that their chromosomal sex doesn’t match their physical sex, and learning that in the middle of a 10-point assignment is JUST NOT THE TIME.
-
-[](https://twitter.com/alicemiriel/status/1208181235593490433) [**![](https://genderdysphoria.fyi/tweets/alicemiriel-c9d0b2544e.jpg)** ** plant lesbian ** @alicemiriel ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/alicemiriel) 
-
-[@RebeccaRHelm](https://twitter.com/RebeccaRHelm) As a fellow genetics lab teacher, this is the same reason my department stopped chromosome testing in lab. A really cool experiment would turn into guys getting freaked out they have XXY, etc.
+[[@RebeccaRHelm](https://twitter.com/RebeccaRHelm) As a fellow genetics lab teacher, this is the same reason my department stopped chromosome testing in lab. A really cool experiment would turn into guys getting freaked out they have XXY, etc.
+](https://twitter.com/alicemiriel/status/1208181235593490433)

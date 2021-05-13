@@ -23,15 +23,13 @@ An AFAB parent who gives birth may experience severe dysphoria around being labe
 
 Some unexpected ways that Societal Dysphoria can appear are in the need to conform to the social standards of your true gender. #Yes ==For example, many trans women have stories about feeling the need to cover up their chest pre-transition out of an intrinsic sense of modesty.== A discomfort at swimming topless is a common trait, even when there is no understanding of one’s true self; something just knows.
 
-### Shame [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/societal-dysphoria#shame)
-
+### Shame 
 Failure to live up to these roles can manifest _intensely_ as shame and humiliation. Growing up closeted and struggling to fit into common gender tropes often results in signs of disappointment from parents and peers who expected otherwise. A father may be disappointed that their AMAB child isn’t willing to engage in sports or other masculine activities. Female peers may demonstrate disapproval of an AFAB teenager choosing to hang out with a male social circle. Teen boys may ostracize an AMAB trans person who doesn’t join in with their humor.
 
 These kinds of situations can lead to bullying and abuse, pushing the trans person to feel isolated, alone, and out of place. This sense of division then creates feelings of shame for failing to be the person everyone expects them to be. This then manifests as [[depression]] on top of other dysphoria, compounding their pain.
 
-[](https://twitter.com/Emmy_Zje/status/1201138482569195526) [**![](https://genderdysphoria.fyi/tweets/Emmy_Zje-044bd8c91c.jpg)** ** Dr. Emmy Zje ** @Emmy\_Zje ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/Emmy_Zje) 
-
-Guilt is a byproduct of shame, shame is a byproduct of transphobia, and transphobia is a byproduct of lies based in fear.
+[Guilt is a byproduct of shame, shame is a byproduct of transphobia, and transphobia is a byproduct of lies based in fear.
+](https://twitter.com/Emmy_Zje/status/1201138482569195526)
 
 Once you realize this, you can begin to see “trans” for what it is...a beautiful manifestation of nature. A gift to be cherished, not a curse to be hidden.
 
@@ -43,39 +41,30 @@ The other way shame comes in to play is in the systemic transphobia present in o
 
 Shame also tends to build up until it boils over into radical action. A very common aspect among trans people’s histories are cycles where they will build up their presentation, fighting their feelings less and less, until suddenly they feel overcome with the shame and purge everything, vowing to never pursue those feelings again. This pattern repeats over and over again.
 
-### Dating and Romantic Relationships [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/societal-dysphoria#dating-and-romantic-relationships)
+### Dating and Romantic Relationships 
+[I get the thinking. Trans girls grow up falsely believing they're guys, and so are assumed/expected/raised to experienced and express normative heterosexual attraction to women. If you're a trans lesbian, you transition, but you're still into women. So it's the same, right? No
+](https://twitter.com/Adoratrix/status/1216109204093722630)
 
-[](https://twitter.com/Adoratrix/status/1216109204093722630) [**![](https://genderdysphoria.fyi/tweets/Adoratrix-52b5c17978.jpg)** ** Callidora ** @Adoratrix ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/Adoratrix) 
+[So let's talk details. To begin with, it's worth pointing out that most trans lesbians don't exactly experience normative heterosexual attraction to women in the same way that cishet men do. Dysphoria and confused gender feelings mess with that a whole lot
+](https://twitter.com/Adoratrix/status/1216109206509694979)
 
-I get the thinking. Trans girls grow up falsely believing they're guys, and so are assumed/expected/raised to experienced and express normative heterosexual attraction to women. If you're a trans lesbian, you transition, but you're still into women. So it's the same, right? No
+[#No ==Before I transitioned, just the thought of doing any sexual or romantic with a girl made me nauseous, because doing that would feel like I was adopting a masculine role - the role of the boyfriend, the male lover - and that kicked my latent dysphoria into overdrive==
+](https://twitter.com/Adoratrix/status/1216109207671508992)
 
-[](https://twitter.com/Adoratrix/status/1216109206509694979) [**![](https://genderdysphoria.fyi/tweets/Adoratrix-52b5c17978.jpg)** ** Callidora ** @Adoratrix ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/Adoratrix) 
+[When I first transitioned, my family and friends assumed I was going to be solely or primarily interested in men. Every mainstream cultural message I'd ever absorbed about women (including trans women) told me I needed to be into men
+](https://twitter.com/Adoratrix/status/1216109214994747393)
 
-So let's talk details. To begin with, it's worth pointing out that most trans lesbians don't exactly experience normative heterosexual attraction to women in the same way that cishet men do. Dysphoria and confused gender feelings mess with that a whole lot
+[Many trans healthcare systems operate on a really really crude system where a cis doctor asks you a bunch of stuff like 'what toys did you play with as a child?' to see if you match up well enough with what a woman is "supposed to be". And women are "supposed to be" into men
+](https://twitter.com/Adoratrix/status/1216110299285200896)
 
-[](https://twitter.com/Adoratrix/status/1216109207671508992) [**![](https://genderdysphoria.fyi/tweets/Adoratrix-52b5c17978.jpg)** ** Callidora ** @Adoratrix ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/Adoratrix) 
+[So, there's a lot of internal and external pressure faced by trans lesbians to disavow their own lesbianism and experience attraction to men. This is nothing like what any straight man experiences, but it is a whole lot like what cis lesbians experience!
+](https://twitter.com/Adoratrix/status/1216110666626555904)
 
-#No ==Before I transitioned, just the thought of doing any sexual or romantic with a girl made me nauseous, because doing that would feel like I was adopting a masculine role - the role of the boyfriend, the male lover - and that kicked my latent dysphoria into overdrive==
+[One last thing is, the way it feels to be a trans lesbian experiencing attraction, sex and romance to other women. It doesn't feel like cishet attraction. It's not burdened by any of those weird, crude expectations. I don't recognize any of that in my life
+](https://twitter.com/Adoratrix/status/1216111083997605888)
 
-[](https://twitter.com/Adoratrix/status/1216109214994747393) [**![](https://genderdysphoria.fyi/tweets/Adoratrix-52b5c17978.jpg)** ** Callidora ** @Adoratrix ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/Adoratrix) 
-
-When I first transitioned, my family and friends assumed I was going to be solely or primarily interested in men. Every mainstream cultural message I'd ever absorbed about women (including trans women) told me I needed to be into men
-
-[](https://twitter.com/Adoratrix/status/1216110299285200896) [**![](https://genderdysphoria.fyi/tweets/Adoratrix-52b5c17978.jpg)** ** Callidora ** @Adoratrix ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/Adoratrix) 
-
-Many trans healthcare systems operate on a really really crude system where a cis doctor asks you a bunch of stuff like 'what toys did you play with as a child?' to see if you match up well enough with what a woman is "supposed to be". And women are "supposed to be" into men
-
-[](https://twitter.com/Adoratrix/status/1216110666626555904) [**![](https://genderdysphoria.fyi/tweets/Adoratrix-52b5c17978.jpg)** ** Callidora ** @Adoratrix ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/Adoratrix) 
-
-So, there's a lot of internal and external pressure faced by trans lesbians to disavow their own lesbianism and experience attraction to men. This is nothing like what any straight man experiences, but it is a whole lot like what cis lesbians experience!
-
-[](https://twitter.com/Adoratrix/status/1216111083997605888) [**![](https://genderdysphoria.fyi/tweets/Adoratrix-52b5c17978.jpg)** ** Callidora ** @Adoratrix ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/Adoratrix) 
-
-One last thing is, the way it feels to be a trans lesbian experiencing attraction, sex and romance to other women. It doesn't feel like cishet attraction. It's not burdened by any of those weird, crude expectations. I don't recognize any of that in my life
-
-[](https://twitter.com/Adoratrix/status/1216112014411599877) [**![](https://genderdysphoria.fyi/tweets/Adoratrix-52b5c17978.jpg)** ** Callidora ** @Adoratrix ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/Adoratrix) 
-
-#No ==When I read cishet experiences of their sexuality, I feel nothing but alienation. ==When I read lesbian experiences, they resonate with me deeply and I recongize those things in how I experience my sexuality with the people I love and am attracted to
+[#No ==When I read cishet experiences of their sexuality, I feel nothing but alienation. ==When I read lesbian experiences, they resonate with me deeply and I recongize those things in how I experience my sexuality with the people I love and am attracted to
+](https://twitter.com/Adoratrix/status/1216112014411599877)
 
 Societal Dysphoria _strongly_ comes into play with courtship rituals. Being forced into being the boyfriend or girlfriend when you are not a boy or a girl is extremely disorienting and often feels very unfair. #Yes ==AMABs may find themselves wishing _they_ were the one being pampered==, and AFABs may become uncomfortable with the amount of attention they receive from their prospective partners (beyond the discomfort that women experience, as this includes genuine attention, not just unwanted attention). The expectations placed on them by their partners to fill these courtship roles may feel like a heavy burden to bear. By contrast, dating as your true gender becomes euphoric. Buy a trans girl flowers and see how much she swoons.
 

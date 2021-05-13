@@ -35,34 +35,27 @@ The fact is, the vast majority of the population has never been tested for genet
 
 **And it gets even weirder!**
 
-[](https://twitter.com/LisaTMullin/status/1224039568971710464) [**![](https://genderdysphoria.fyi/tweets/LisaTMullin-72c27b4b20.jpg)** ** Lisa T Mullin ** @LisaTMullin ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/LisaTMullin) 
+[[@TransEthics](https://twitter.com/TransEthics) Normally the Y chromosome carries 27 genes, only 4 are related to sex. One, the SRY, determines (via the SOX9 gene) whether testes or ovaries form in the early fetus. Another 3 determine sperm production if testes form.
+](https://twitter.com/LisaTMullin/status/1224039568971710464)
 
-[@TransEthics](https://twitter.com/TransEthics) Normally the Y chromosome carries 27 genes, only 4 are related to sex. One, the SRY, determines (via the SOX9 gene) whether testes or ovaries form in the early fetus. Another 3 determine sperm production if testes form.
-
-[](https://twitter.com/LisaTMullin/status/1224040716365524993) [**![](https://genderdysphoria.fyi/tweets/LisaTMullin-72c27b4b20.jpg)** ** Lisa T Mullin ** @LisaTMullin ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/LisaTMullin) 
-
-[@TransEthics](https://twitter.com/TransEthics) The SRY is just a signaler to 3 dark DNA areas to produce more SOX9 genes, above a certain threshold testes form, below that ovaries.
+[[@TransEthics](https://twitter.com/TransEthics) The SRY is just a signaler to 3 dark DNA areas to produce more SOX9 genes, above a certain threshold testes form, below that ovaries.
+](https://twitter.com/LisaTMullin/status/1224040716365524993)
 
 But that is just the start of the story. If ovaries form then another gene, FOXL2, keeps them as ovaries.
 
-[](https://twitter.com/LisaTMullin/status/1224041800513380352) [**![](https://genderdysphoria.fyi/tweets/LisaTMullin-72c27b4b20.jpg)** ** Lisa T Mullin ** @LisaTMullin ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/LisaTMullin) 
+[[@TransEthics](https://twitter.com/TransEthics) FOXL2 works with estrogen receptors to keep the ovary as an ovary without which it would turn into testes and start producing testosterone by inhibiting SOX9 production.
+](https://twitter.com/LisaTMullin/status/1224041800513380352)
 
-[@TransEthics](https://twitter.com/TransEthics) FOXL2 works with estrogen receptors to keep the ovary as an ovary without which it would turn into testes and start producing testosterone by inhibiting SOX9 production.
+[[@TransEthics](https://twitter.com/TransEthics) Male and female mammals produce SOX9 as far as I know all their lives (I need to check up on that) and even if there are already ovaries if the level becomes high enough then the ovaries will turn into testes.
+](https://twitter.com/LisaTMullin/status/1224042620164296705)
 
-[](https://twitter.com/LisaTMullin/status/1224042620164296705) [**![](https://genderdysphoria.fyi/tweets/LisaTMullin-72c27b4b20.jpg)** ** Lisa T Mullin ** @LisaTMullin ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/LisaTMullin) 
+[[@TransEthics](https://twitter.com/TransEthics) But FOXL2 production depends on enough estrogen and/or the estrogen receptors working correctly. If something goes wrong with either then SOX9 production increases and existing ovaries will turn into testes and produce testosterone.
+](https://twitter.com/LisaTMullin/status/1224043995413639168)
 
-[@TransEthics](https://twitter.com/TransEthics) Male and female mammals produce SOX9 as far as I know all their lives (I need to check up on that) and even if there are already ovaries if the level becomes high enough then the ovaries will turn into testes.
+[[@TransEthics](https://twitter.com/TransEthics) So there is a feedback loop: No SRY means less SOX9, thus ovaries form. They produce estrogen which causes FOXL2 production which suppresses SOX9 production to keep the ovaries as ovaries. Is something goes wrong and SOX9 levels climb enough then those ovaries will become testes
+](https://twitter.com/LisaTMullin/status/1224044949160611840)
 
-[](https://twitter.com/LisaTMullin/status/1224043995413639168) [**![](https://genderdysphoria.fyi/tweets/LisaTMullin-72c27b4b20.jpg)** ** Lisa T Mullin ** @LisaTMullin ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/LisaTMullin) 
-
-[@TransEthics](https://twitter.com/TransEthics) But FOXL2 production depends on enough estrogen and/or the estrogen receptors working correctly. If something goes wrong with either then SOX9 production increases and existing ovaries will turn into testes and produce testosterone.
-
-[](https://twitter.com/LisaTMullin/status/1224044949160611840) [**![](https://genderdysphoria.fyi/tweets/LisaTMullin-72c27b4b20.jpg)** ** Lisa T Mullin ** @LisaTMullin ![Twitter Logo](https://genderdysphoria.fyi/tweets/logo.svg)](https://twitter.com/LisaTMullin) 
-
-[@TransEthics](https://twitter.com/TransEthics) So there is a feedback loop: No SRY means less SOX9, thus ovaries form. They produce estrogen which causes FOXL2 production which suppresses SOX9 production to keep the ovaries as ovaries. Is something goes wrong and SOX9 levels climb enough then those ovaries will become testes
-
-#### Brain Split [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/causes#brain-split)
-
+#### Brain Split 
 The prenatal brain doesn’t really start to develop until between week 12 and 24. The cerebral cortex, the thin outer layer of the brain that contains most of what we think of as consciousness, grows substantially during those periods of time. Prior to that, the structure present is more like a scaffolding, the basic parts of the nervous system necessary for bodily function. The primary sulci (the wrinkles in the cerebral cortex that allow for more surface area) [start to form at week 14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title), well after the genitals have developed.
 
 It [has been confirmed multiple times](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) via MRI studies that there are ==small but significant differences between cis male and cis female brains, differences which align with the gender identities of trans people in the study==. Note, **this does not mean that anyone with those differences will have that gender**, because gender identity isn’t that simple, but it provides evidence that there is a clear difference in masculine and feminine brains. [There is also evidence](https://www.pnas.org/content/112/50/15468) that brains can have mosaic combinations of these differences, which may be the case in non-binary people.
@@ -77,8 +70,7 @@ An excess of testosterone in the mother’s body during the second trimester can
 
 A fairly large study of transgender individuals released in 2018 [found several key genes](https://academic.oup.com/jcem/article/104/2/390/5104458) which were statistically more likely to be longer among trans women (longer, as in having more repeated fragments). Individually these genes may not have an impact strong enough to cause a malfunction of masculinization, but collectively they absolutely could reduce the ability for the fetal brain to masculinize. These genes are all passed from parent to child, giving credence to a tendency for trans parents to have trans children.
 
-#### Gender is Biological [![](https://genderdysphoria.fyi/images/svg/paragraph.svg)](https://genderdysphoria.fyi/gdb/causes#gender-is-biological)
-
+#### Gender is Biological 
 Sadly, western society has actively prevented a deeper understanding of gender. Ancient civilizations understood it well, but colonialism wiped them off the map. 100 years ago, [scientists in Germany were actively studying](https://en.wikipedia.org/wiki/Institut_f%C3%BCr_Sexualwissenschaft) transgender medicine and made extraordinary advancements, until the Nazis burned it all in 1933. Conservative and fascist pressures in the modern day have hindered advancements in transgender healthcare whenever possible.
 
 Yet, progress continues, and every few years we learn a little bit more.

@@ -53,14 +53,14 @@ def clean():
         note = notes[key]
         for i in range(len(note)):
             line = note[i]
-            if '/status/' in line:
+            if '![Twitter Logo]' in line:
                 try:
                     link = line[3:line.index(')')]
                     note[i] = f"[{note[i+2]}]({link})"
                     note[i+2] = ''
                 except IndexError:
                     pass
-            elif '[![]' in line:
+            elif 'https://genderdysphoria.fyi/images/svg/paragraph.svg' in line:
                 note[i] = line[: line.index('[![]')]
         with open(f"{key}", "w", encoding='Latin-1') as f:
             f.write(''.join(note))
