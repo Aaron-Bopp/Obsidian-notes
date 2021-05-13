@@ -1,3 +1,7 @@
+---
+modified: 2021-05-13T02:37:53-05:00
+---
+
 > _The privilege of a lifetime is to become who you truly are._
 > -- C.G. Jung
 
@@ -28,6 +32,7 @@
     - Aaron puts on skirts and ties up his hair while nobody watches, but they don't know what they see in the mirror. They want to try earings, and wigs, and packing and dresses, but they don't know what they want to be.
     - #Logline _Aaron Bopp_
         - Aaron Bopp is too angry at her parents, too insecure for her strengths, and too smart for her own good. She is tired of not knowing who she is despite knowing so much about everything else so they're pushing through the emotional barriers that they've setup to protect themselves, so she can find her true self and prevent a lifetime of meaninglessness.
+### Fear
 - Fear: Why does it have to be there
     - > _The presence of fear means you are getting closer to discovering something about yourself._
     - Our unconscious hides things that we fear and throws them away, but they're still their to make us scared.
@@ -45,6 +50,8 @@
 | I'm the pastor's kid who went off the rails         | 4      |
 | I won't find acceptance.                            | 8      |
 | I won't accept myself.                              | 10     |
+| Are people judging me for how I look | 10 |
+
 | **Average**                                         | 6.20   |
 
 <!-- TBLFM: @>$2=mean(@I..@-1);%.2f -->
@@ -54,5 +61,8 @@
 		- being unable to experience life to the fullest
 		- stunted growth
 		- hiding truths from ourselves
-	- > You have the right to choose self-actualization over continued repression
-	- 
+- setting appointments with your fear
+- mantra 
+ > You have the right to choose self-actualization over continued repression
+
+## Reflection
