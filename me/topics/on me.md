@@ -1,6 +1,8 @@
 ---
-modified: 2021-05-14T01:12:42-05:00
+modified: 2021-05-14T01:13:49-05:00
 ---
+
+# On me
 
 - I think in order for me to feel like my [[parents]] [[love]] me, I need to see them empathize with me --> which requires them too consider the fact that they might be wrong.
 - I have a stored up emotion of hating myself
