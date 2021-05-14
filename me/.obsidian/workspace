@@ -4,24 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8957707a353fa7e2",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "topics/my gender.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "2544c36092bb54d0",
+        "id": "1b61b9d11a03834e",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -44,17 +27,6 @@
           "type": "markdown",
           "state": {
             "file": "topics/my gender.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "10e38d6a4b5659f3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/gender-dysphoria-bible/2 A Brief History of Gender Dysphoria.md",
             "mode": "source"
           }
         }
