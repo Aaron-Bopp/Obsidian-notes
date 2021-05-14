@@ -1,5 +1,5 @@
 ---
-modified: 2021-05-14T01:42:02-05:00
+modified: 2021-05-14T02:28:18-05:00
 ---
 
 # On me
@@ -16,3 +16,4 @@ modified: 2021-05-14T01:42:02-05:00
 - I'm never vulnerable, everything is always calculated.
 - I never allow myself to be vulnerable, I only do it when I forced to be.
 - is it okay to want validation? Do I want validation from people I know or people I don't know?
+- do I wanna be the girl or do I just want the validation that girls get?
