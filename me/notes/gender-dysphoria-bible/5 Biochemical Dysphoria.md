@@ -16,8 +16,8 @@ The primary sexual features of the body begin development during the 8th week of
 
 If your brain is wired for one gonadal hormones (such as testosterone) and your body produces the other hormone (such as estradiol), this can result in a biochemical malfunction within your brain chemistry. This produces a sort of brain fog, a reduction in mental capacity, and a general state of anxiety and unease. This is the source of the first two symptoms that often alleviate with medical hormonal therapy, [[Depersonalization]] and [[Derealization]] (DPDR).
 
-#Def **[[Depersonalization]]** -> a disconnect from your own body, an inability to believe that the person you see in the mirror is actually yourself. 
-- You feel like you are watching someone else in your body. You may find yourself not caring about what happens to your body, lack of concern with weight changes or improving your fitness because you have no ownership of this fleshy vehicle that transports you around your life.
+#Def **[[Depersonalization]]** -> a disconnect from your own body, an inability to believe that the person you see in the mirror is actually yourself.  ^f732ac
+- #Yes ==You feel like you are watching someone else in your body. You may find yourself not caring about what happens to your body, lack of concern with weight changes or improving your fitness because you have no ownership of this fleshy vehicle that transports you around your life.==
 
 Zinnia Jones [gives these descriptions for [[Depersonalization]]](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/Depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
 
