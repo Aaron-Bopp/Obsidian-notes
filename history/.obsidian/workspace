@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "18d22f15796299d3",
+        "id": "bccf5ae090cea441",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/DrK Interviews.md",
+            "file": "Wealth Inequality.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "ed9635f2b69fe05c",
+        "id": "a5d702f197728430",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/DrK Interviews.md",
+            "file": "Wealth Inequality.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -38,12 +38,12 @@
         }
       },
       {
-        "id": "212ad692fccec4d5",
+        "id": "fe5d51dd44177ead",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/DrK Interviews.md",
+            "file": "Wealth Inequality.md",
             "mode": "source"
           }
         }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/DrK Interviews.md",
+                "file": "Wealth Inequality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/DrK Interviews.md"
+                "file": "Wealth Inequality.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "id": "931846d12c753feb",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {}
             }
           }
@@ -158,8 +158,9 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "212ad692fccec4d5",
+  "active": "fe5d51dd44177ead",
   "lastOpenFiles": [
+    "Wealth Inequality.md",
     "notes/DrK Interviews.md",
     "Breaking the Cycle of Overthinking.md",
     "topics/parents.md",
@@ -168,7 +169,6 @@
     "topics/on me.md",
     "2021-05-08.md",
     "topics/ADHD.md",
-    "topics/anxiety.md",
-    "topics/ego.md"
+    "topics/anxiety.md"
   ]
 }
