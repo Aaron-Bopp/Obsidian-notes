@@ -18,9 +18,9 @@
     - if you don't know who you are where does your sense of identity come from --> others
     - one function of [[ego]] is to compare
     - #DrK "[[ego]] is when the sense of self comes from the outside"
-- #Explore Is my vacuum of self filled with my intelligence?
+- #TO/PONDER/ME  Is my vacuum of self filled with my intelligence?
 - Alexithymia - someone who is colorblind to emotion
-    - #BigThoughts Men are socially developed to suppress emotions except for anger
+    - Men are socially developed to suppress emotions except for anger
         - anger is the only thing men understand
         - all other emotions are not developed
 - #DrK "There is evidence that having an internally consistent way of viewing the world is a good way to find peace and happiness and to build resilience"
@@ -47,18 +47,18 @@
 - niki thinks that if she can use it to help other people it will be worth it but nothing makes it worth it
 - you have value no matter what you accomplish
 - #DrK "You were wronged and it wasn't ok and you didn't deserve it and it doesn't make sense"
-- #Explore [[Emotional Quotent]] or EQ
+- #TO/EXPLORE/RESEARCH  [[Emotional Quotent]] or EQ
 
 ### [Life after a cult](https://www.youtube.com/watch?v=ldTMLhTMZAc)
 
-- #DrK said "It's okay" and Zorian teared up
+- DrK said "It's okay" and Zorian teared up
     - Similar to when a tiktoker accepted me and I bawled
 - "I'm not allowed to make a mistake because a mistake means lost time and time is precious because I've already lost so much. The remainder of time is more valuable from this perspective"
 
     - #DrK doesn't accept this perspective despite how logically correct it is
         - "You can't make up for the past, it has already happened"
         - "You can't let your feelings to someone else. You can't tolerate letting other people know about the ugliest parts of your being"
-        - #Explore "It's not a fear of rejection its a fear of acceptance" ^66ce4a
+        - #TO/PONDER/ME  "It's not a fear of rejection its a fear of acceptance" ^66ce4a
         - "Loathing yourself is the opposite of acceptance"
         - "Your intellectual [[ego]] will subside when it's no longer needed. It's not about getting rid of it it's about no longer needing it to protect you"
 
@@ -71,9 +71,9 @@
     - Every action has an equal and opposite reaction.
     - Some of things in this life come from before the consciously observable life of an individual
 - Dharma is the moral opposite of Kharma
-- #Explore Evidence based alternative medicine
+- #TO/EXPLORE/RESEARCH  Evidence based alternative medicine
 - #DrK Between your emotional and logical mind is the hum ghar or [[ego]] which activates to protect you from negative emotions and bullies your intellectual mind into coming up with justifications
-- #Explore MDMA and Pcysolibin might be a telescope to new topics
+- #TO/EXPLORE/RESEARCH  MDMA and Pcysolibin might be a telescope to new topics
 
 ### [Existential Dread](https://www.youtube.com/watch?v=UUC8qF5iDag)
 - Neuroscience
@@ -90,7 +90,7 @@
 		- #Def [Neurosis](https://en.wikipedia.org/wiki/Neurosis) -> the tendency to worry
 	- As a human, a lot of what is good for us makes us suffer
 		- Most professional success comes from Conscientiousness and Neuroticism  
-		- #Explore 5-Factor Model
+		- #TO/EXPLORE/RESEARCH  5-Factor Model
 		- #Def [Neuroticism](https://en.wikipedia.org/wiki/Neuroticism) -> sometimes defined as a tendency for quick arousal when stimulated and slow relaxation from arousal, especially with regard to negative emotional arousal.
 			- Is a trait in many models within personality theory, but there is significant disagreement on its definition
 		- #Def [Conscientiousness](https://en.wikipedia.org/wiki/Conscientiousness) -> the personality trait of being careful, or diligent. 
@@ -115,5 +115,5 @@
 			- "just try it"
 			- "experience new things"
 - #DrK Competence comes from empathic mirroring
-	- #BigThoughts Confidence problems come from when parents can mirror the child's emotional needs
-		- #Explore [[Attachment Theory]]
+	- #TO/DO/CONCEPTUALIZE Confidence problems come from when parents can mirror the child's emotional needs
+		- #TO/EXPLORE/RESEARCH  [[Attachment Theory]]

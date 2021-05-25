@@ -37,10 +37,21 @@ date updated: '2021-05-05T19:49:58-05:00'
           - makes armor
      - on the right is a woman with staff standing on rock looking at horizon
           - sees multiverses
+          - ornate glass staff with something in the center
      - sitting on log is man with spectacles staring at book in lap and in
           - making potion
      - center is man with black hair and staff
           - in library
 - Fight with [[Lillith]] and [[Braxar]] in the Inner Sanctum
      - [[Lillith]] is irresponsive
-[[Library Of Ilios#^95a254]] ^9f4bb7
+- Anxiety stick
+	- Gulliver is afraid of going home and who he'll see
+		- Future: He gets a heroes a welcome at home but Julie is mad
+		- Past: Ship coming out of portal. Ancient Ezemorian. Many ships coming through portals. Ancient king plants flag. King dies and goes to palace
+- [[Qerlaak]] the powerful and the terrifying and the immaculate and wise
+- Todd the terrifying and not so terrifying but equally immaculate
+- helmet
+- [[Ilios]]'s journal' 
+- quill inc
+- key 
+- [[Calviron Von A

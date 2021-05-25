@@ -1,0 +1,242 @@
+###### [[MarkdownText]]
+	# Using Callback Functions Across Multiple React Components Based on the Same Event Listener
+
+	# Background
+
+	I decided to start a new side project called “Group Randomizer”. The inspiration behind this was whenever my friends and I were to split up into groups, whether it was for sports, video games, pair programming, etc., we wouldn’t know how to split up (whoo, shoutout for indecisiveness!). I figured the fairest way possible is through randomization. We used to write matching numbers on pieces of paper, fold it, throw it all in a hat, and randomly picked slips of paper (slightly embarrassed to admit how long we’ve been doing this given today’s technology) until everyone was grouped up.
+
+	Like every project out there, I hit my first snag, which also tested my understanding on one of the core principles in Javascript.
+
+	# Group Randomizer Starting Point
+
+	Before jumping into the problem, let’s recreate the problem. The gist below is the starting point of the Group Randomizer application.
+
+	Initial App.js
+
+	```js
+	import React, { useState } from 'react';
+
+	function App() {
+	  const [ options, setOptions ] = useState([])
+	  const [ input, setInput ] = useState("")
+
+	  const handleOptionInput = e => {
+		setInput(e.target.value)
+	  }
+
+	  const handleOptionSubmit = (e, input) => {
+		e.preventDefault()
+		setOptions([...options, input])
+		setInput("")
+	  }
+
+	  return (
+		<div>
+		  <h1>Group Randomizer</h1>
+		  <form onSubmit={(e, option) => handleOptionSubmit(e, input)}>
+			<textarea
+			  type="text"
+			  placeholder="Please input options here"
+			  value={input}
+			  onChange={handleOptionInput}
+			  rows='5'
+			  cols='50'
+			  >
+			</textarea>
+			<br />
+			<button type="Submit">Submit</button>
+		  </form>
+		</div>
+	  )
+
+	}
+
+	export default App;
+	```
+
+	The crux of the gist are two functions and a form. `handleOptionInput` is necessary for the App component to be a controlled component while `handleOptionSubmit` adds the input to the user’s list of options (i.e., `options` ).
+
+	Like any proper, well-structured React application, one should always be componentizing. It was during this process of componentizing that I hit my first snag. As you can probably guess, I wanted to componentize my form.
+
+	# Running into the Snag
+
+	The gists below shows the code for the App and Form components.
+
+	Componentized App.js
+	```js
+	import React, { useState } from 'react';
+	import Form from './components/Form'
+
+	function App() {
+	  const [ options, setOptions ] = useState([])
+
+	  const handleOptionSubmit = (e, input) => {
+		e.preventDefault()
+		setOptions([...options, input])
+	  }
+
+	  return (
+		<div>
+		  <h1>Group Randomizer</h1>
+		  <Form handleOptionSubmit={handleOptionSubmit}/>
+		</div>
+	  )
+	}
+
+	export default App;
+	```
+
+	Initial Form.js
+	```js
+	import React, { useState } from 'react'
+
+	function Form(props) {
+	  const [ input, setInput ] = useState("")
+
+	  const handleOptionInput = e => {
+		setInput(e.target.value)
+	  }
+
+	  return(
+		<form onSubmit={(e, option) => props.handleOptionSubmit(e, input)}>
+		  <textarea
+			type="text"
+			placeholder="Please input options here"
+			value={input}
+			onChange={handleOptionInput}
+			rows='5'
+			cols='50'
+			>
+		  </textarea>
+		  <br />
+		  <button type="Submit">Submit</button>
+		</form>
+	  )
+	}
+
+	export default Form;
+	```
+
+	Some of the logic and variables were moved from the initial App component into the new Form component. I kept the `handleOptionSubmit` function in the App component because after submitting the input, I want to add it to the user’s list of options. The list of options will then be manipulated as necessary when I continue working on the code. The Form component does not need to know about the current list of options as its only responsibility is to handle the input.
+
+	In case you haven’t noticed, if you try running the code from the two gists, the form isn’t immediately cleared after submitting it. That is because I did not migrate the code to clear the form after submission. This is where I hit my snag.
+
+	Normally, forms are cleared after submission, which means it should be in the `handleOptionSubmit` in the App component. However, `setInput("")` (i.e., clearing the form) will cause an undefined error because the hook `[ input, setInput ]` lives in the Form component.
+
+	If I try putting `setInput("")` in the Form component, the logical spot would be to put it in the `onSubmit` event listener since I would be clearing it post submission. The issue with this is that `onSubmit` is already taking in the callback function `handleOptionSubmit` from the parent component (i.e., App.js).
+
+	# Refresher: Callback Functions
+
+	Before I dive into my solution of the issue, let’s take a quick step back for a refresher on callback functions. This is where understanding one of the core principles of Javascript comes in.
+
+	According to the [MDN documentation](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function) on callback functions:
+
+	> A callback function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action.
+
+	If reading the MDN document isn’t sufficient, please read this [blog](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced) that I found in regards about callback functions.
+
+	Now that we have this concept fresh in our minds, let’s jump back into the code.
+
+	# Callback Function of Other Callback Functions
+
+	Let’s make a function called `clearOptionInput` which clears the input field. Since the App component does not know about the `input` variable, the `clearOptionInput` function should live in the Form component.
+
+	Added the clearOptionInput function in the Form component
+	```js
+	import React, { useState } from 'react'
+
+	function Form(props) {
+	  const [ input, setInput ] = useState("")
+
+	  const handleOptionInput = e => {
+		setInput(e.target.value)
+	  }
+
+	  //Added the new function
+	  const clearOptionInput = () => {
+		setInput("")
+	  }
+
+	  return(
+		<form onSubmit={(e, option) => props.handleOptionSubmit(e, input)}>
+		  <textarea
+			type="text"
+			placeholder="Please input options here"
+			value={input}
+			onChange={handleOptionInput}
+			rows='5'
+			cols='50'
+			>
+		  </textarea>
+		  <br />
+		  <button type="Submit">Submit</button>
+		</form>
+	  )
+	}
+
+	export default Form;
+	```
+
+	In React, a parent component passes information to its child component via props and a child component passes information to its parent component via callback function. If you also need a quick refresher on this concept of React, I highly recommend reading this [blog](https://medium.com/@thejasonfile/callback-functions-in-react-e822ebede766). Although the blog primarily focuses on the callback function aspect React, it provides a good overview of how information is passed between parent and child components.
+
+	As I mentioned previously, since I placed the clearing input function in the Form component, the issue now is how do I invoke the clearing input function post submission. After thinking about how to tie the `handleOptionSubmit` function, the `clearOptionInput` function, and the `onSubmit` event listener for a long time, a solution popped up in my mind.
+
+	In React, an event listener takes a callback function that either lives in the current component or in its parent component. Conventionally, the scope of those callback functions are strictly within its respective component. But what about a callback function that invokes other callback functions that are **_inside AND outside_** of its current component? I’m going to unpack this with the gist below:
+
+	Callback Functions in the Form Component (Final Form.js)
+	```js
+	import React, { useState } from 'react'
+
+	function Form(props) {
+	  const [ input, setInput ] = useState("")
+
+	  const handleOptionInput = e => {
+		setInput(e.target.value)
+	  }
+
+	  //Callback function inside the current component
+	  const clearOptionInput = () => {
+		setInput("")
+	  }
+
+	  //Callback function that invokes callback functions inside AND outside of the current component
+	  const clearAndSubmitInput = (e, option, clearCallback) => {
+		//Callback function outside the current component
+		props.handleOptionSubmit(e, option)
+		//Callback function inside the current component
+		clearCallback()
+	  }
+
+	  return(
+		//Replaced the handleOptionSubmit function with the clearAndSubmitInput function
+		<form onSubmit={(e, option, clearCallback) => clearAndSubmitInput(e, input, clearOptionInput)}>
+		  <textarea
+			type="text"
+			placeholder="Please input options here"
+			value={input}
+			onChange={handleOptionInput}
+			rows='5'
+			cols='50'
+			>
+		  </textarea>
+		  <br />
+		  <button type="Submit">Submit</button>
+		</form>
+	  )
+	}
+
+	export default Form;
+	```
+
+	In the gist above, I created a new function called `clearAndSubmitInput` . This function is the callback function that will invoke the callback functions outside and inside the current component. In the body of the `clearAndSubmitInput` function, its responsibility is to invoke two other functions: `handleOptionSubmit` (i.e., the callback function outside the current component) and `clearCallback` (i.e., the callback function inside the current component). Although it is not exactly clear cut at first, the `clearCallback` argument is used in order to have the `clearOptionInput` function as a callback function.
+
+	Now that I have the `clearAndSubmitInput` function, I can use that as the callback function for the `onSubmit` event listener. When I use it as a callback function, I can now pass the `clearOptionInput` function as an argument whose responsibility is to clear the input field.
+
+	Essentially, starting from the `onSubmit` event listener, there is a callback function (1) of a callback function (2) of two callback functions (3). Callback function (1) is the anonymous callback function for the `onSubmit` event listener itself. Callback function (2) is the `clearAndSubmitInput` function. Two callback functions (3) are the `handleOptionSubmit` function (that lives outside of the current component) and the `clearOptionInput` function (that lives inside of the current component).
+
+	With this solution, I was able to connect one action (i.e., submitting an input) across multiple components (i.e., App and Form components).
+
+	# Key Takeaway
+
+	You can use a generic callback function to simultaneously invoke other callback functions inside and outside of the current component that triggers an event. This application also has a scaleability factor to it. If a component has multiple parent components who are all affected by the same event, the generic callback function can invoke each callback function from its respective parent component or its current component to do as needed.
+[[PlainText]]

@@ -47,7 +47,7 @@ When you see the world through a duck shaped lens, everything looks vaguely like
 
 I could not stand to be associated with that male gaze. #No ==Even around the most beautiful women, I would avoid even looking at them, ==because I did not want to be seen as the kind of person that stares at women. I did not want to be seen as a predator.
 
-This is the coercive male gaze: #Explore [compulsory heterosexuality](https://en.wikipedia.org/wiki/Compulsory_heterosexuality) placed upon closeted trans women due to heteronormative ideologies. A cognitive dissonance that causes intense guilt and shame surrounding appreciation of ones peers and gendered interests.
+This is the coercive male gaze: #TO/EXPLORE/READ  [compulsory heterosexuality](https://en.wikipedia.org/wiki/Compulsory_heterosexuality) placed upon closeted trans women due to heteronormative ideologies. A cognitive dissonance that causes intense guilt and shame surrounding appreciation of ones peers and gendered interests.
 
 Once you remove this male framework – once one is able to perceive themselves as female and accept these interests and observations are valid – that shame and guilt completely evaporates. Even when the interest is sapphic in nature and genuinely includes sexual desire, it is no longer tainted with this layer of objectification. I am able to appreciate the femininity and the beauty of my female peers without judgments, I can compliment them without fearing being perceived as a creep, or having my intentions misinterpreted.
 

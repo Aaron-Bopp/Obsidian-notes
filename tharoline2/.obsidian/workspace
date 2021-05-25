@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character/Brandi.md",
+            "file": "Location/Library Of Ilios.md",
             "mode": "source"
           }
         }
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character/Brandi.md",
+                "file": "Location/Library Of Ilios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character/Brandi.md"
+                "file": "Location/Library Of Ilios.md"
               }
             }
           },
@@ -118,6 +118,7 @@
   },
   "active": "95fc0b430d3700d5",
   "lastOpenFiles": [
+    "Location/Library Of Ilios.md",
     "Character/Brandi.md",
     "Character/Bell.md",
     "Character/Architect.md",
@@ -126,7 +127,6 @@
     "Character/Aeredon.md",
     "Character/Admiral.md",
     "Character/Ruthos.md",
-    "Section/Aliases.md",
-    "Section/Relationships.md"
+    "Section/Aliases.md"
   ]
 }

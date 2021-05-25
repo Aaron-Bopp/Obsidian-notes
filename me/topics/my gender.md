@@ -95,7 +95,7 @@ modified: 2021-05-14T02:27:38-05:00
     - more secure in who I am
     - hope for the future
     - have energy for life
-- #BigThoughts When in crisis my nurturing was contingent on vocalizing the cause of pain not on comfort so instead of reaching out for comfort I reach out for understanding. This wasn't something somebody else could give so I bottled or dealt with fear alone. I dealt with crisis alone so often that I've taught myself that I have to be alone to heal. Idk
+- #BigThoughts When in crisis my nurturing was contingent on vocalizing the cause of pain not on comfort so instead of reaching out for comfort I reach out for understanding. This wasn't something somebody else could give so I bottled or dealt with fear alone. I dealt with crisis alone so often that I've taught myself that I have to be alone to heal. IDK
 - What is my ideal situation of nurturing?
     - somebody who voluntarily comes and takes control of my decisions.
     - somebody who pushes hard to breakdown my walls and help me understand what's going on

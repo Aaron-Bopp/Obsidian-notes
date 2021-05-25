@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4d0dbf48f43a4836",
+        "id": "2e750fd6d2f2f547",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Location/Horetown.md",
+            "file": "Location/Library Of Ilios.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "ba3dbc363813983e",
+        "id": "c044023793d121c0",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Location/Horetown.md",
+            "file": "Location/Library Of Ilios.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Location/Horetown.md",
+            "file": "Location/Library Of Ilios.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b658107c78c92dd4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Character/Krenos.md",
             "mode": "source"
           }
         }
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Location/Horetown.md",
+                "file": "Location/Library Of Ilios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Location/Horetown.md"
+                "file": "Location/Library Of Ilios.md"
               }
             }
           },
@@ -149,26 +161,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "ae87b6cfde3985da",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "active": "46d4593c3946444a",
   "lastOpenFiles": [
+    "Location/Library Of Ilios.md",
+    "Location/Badlands.md",
+    "Character/Krenos.md",
+    "Section/Gods Of Tharoline.md",
+    "Section/Blackvale Corruption.md",
+    "Location/Veros.md",
+    "Location/Blackvale.md",
+    "Character/Ruthos.md",
     "Location/Horetown.md",
-    "Character/Captain Oreon Pierce.md",
-    "Location/Ezemor.md",
-    "Character/Braxar.md",
-    "Character/Bell.md",
-    "Character/Alfred Crush.md",
-    "Character/Admiral.md",
-    "Character/Aeredon.md",
-    "Character/Amarei.md",
-    "Character/Beckman.md"
+    "Character/Captain Oreon Pierce.md"
   ]
 }

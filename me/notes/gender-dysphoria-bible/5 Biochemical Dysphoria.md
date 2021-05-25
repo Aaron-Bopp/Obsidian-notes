@@ -69,7 +69,7 @@ If you found yourself strongly relating to The Matrix or The Truman Show, you mi
 ### The Ebb and Flow 
 The intensity of physical and biochemical dysphoria is highly influenced by other factors in the body. Because it is a function of endocrine balance, it is also manipulated by those balances. This means that it can rise and fall from day to day. For example:
 
--   #Explore  If your blood sugar is out of whack, or you have a thyroid condition, it could cause your dysphoria to spike.
+-   #TO/EXPLORE/RESEARCH  If your blood sugar is out of whack, or you have a thyroid condition, it could cause your dysphoria to spike.
 - ==If you are having dopamine withdrawal because of ceasing stimulants, that can make it worse.==
 -   If you start on an SSRI Antidepressant and start running with more serotonin, that can make it less intense.
 -   Transfeminine AMABs (people assigned male at birth) with testicles experience surges in testosterone in relation to attraction and desire, which can make them more dysphoric.

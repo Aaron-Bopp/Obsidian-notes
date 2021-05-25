@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d1ea5f4c54e799c4",
+        "id": "8c653c4b1b20edec",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "QUICKNOTE.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ref",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,6 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "QUICKNOTE.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -71,13 +75,20 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "bbcaf33471732a1b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 365,
-    "collapsed": true
+    "width": 365
   },
   "right": {
     "id": "d2f47cb3f5d142ba",
@@ -92,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "QUICKNOTE.md"
+              }
             }
           },
           {
@@ -119,25 +132,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
-  "active": "d1ea5f4c54e799c4",
+  "active": "8c653c4b1b20edec",
   "lastOpenFiles": [
-    "notes/gender-dysphoria-bible/3 Gender Euporia.md",
-    "notes/DrK Interviews.md",
-    "topics/you.md",
-    "topics/sex.md",
-    "topics/gender.md",
-    "topics/Gender Dysphoria.md",
-    "topics/Untitled.md",
-    "topics/ADHD.md",
-    "topics/my emotions.md",
-    "topics/my gender.md"
+    "QUICKNOTE.md",
+    "Quick Capture.md",
+    "Templates/QuickCapture.md",
+    "writing/To my parents.md",
+    "Templates/Untitled.md",
+    "Templates/Outline.md",
+    "MarkdownText.md",
+    "Untitled.md",
+    "What is a content note.md",
+    "What is a zettle.md"
   ]
 }

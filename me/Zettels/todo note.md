@@ -1,0 +1,1 @@
+- A todo list or note is something that should be used to collect all the things that you need or want to do that involve active creation from you.

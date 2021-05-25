@@ -1,4 +1,4 @@
-- #Explore Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
+- #TO/PONDER/ME Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
 
 # Samskara's
 - #Def [Samskara](<https://en.wikipedia.org/wiki/Samskara_(Indian_philosophy)>) -> In Indian philosophy and Indian religions, samskaras or sanskaras are mental impressions, recollections, or psychological imprints. 

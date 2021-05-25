@@ -1,0 +1,1 @@
+An organizational note is one that helps the user access other notes. This can take the form of a hierarchical outline, or as a temporary tag that can be used to comeback to points in other notes and should be temporary. 

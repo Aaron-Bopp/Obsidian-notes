@@ -1,0 +1,1 @@
+[[2021-05-24]] 10:18 PM - This is a quick thought

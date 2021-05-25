@@ -11,7 +11,7 @@ date updated: '2021-05-08T18:47:41-05:00'
      - Modify situations using books, music, etc.
      - Distract from emotions
      - suppress emotions
-     - #me rationalize emotions? #Explore
+          - #TO/PONDER/ME  rationalize emotions? 
      - These are good regulators but we need to accept our emotions
 - Managing emotional deregulation with [[mindfullness]] [#Ref](https://www.youtube.com/watch?v=t23N2Pib9rs)
      - What do our emotions look like?
