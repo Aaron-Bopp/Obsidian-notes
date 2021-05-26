@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "QUICKNOTE.md",
+            "file": "Templates/Templates/Untitled.md",
             "mode": "source"
           }
         }
@@ -65,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QUICKNOTE.md",
+                "file": "Templates/Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QUICKNOTE.md"
+                "file": "Templates/Templates/Untitled.md"
               }
             }
           },
@@ -140,15 +140,15 @@
   },
   "active": "8c653c4b1b20edec",
   "lastOpenFiles": [
+    "Templates/Templates/Untitled.md",
+    "Templates/Scripts/QuickAdd.md",
+    "Templates/Templates/QuickCapture.md",
+    "Templates/Templates/quickadd.md",
     "QUICKNOTE.md",
     "Quick Capture.md",
     "Templates/QuickCapture.md",
     "writing/To my parents.md",
     "Templates/Untitled.md",
-    "Templates/Outline.md",
-    "MarkdownText.md",
-    "Untitled.md",
-    "What is a content note.md",
-    "What is a zettle.md"
+    "Templates/Outline.md"
   ]
 }
