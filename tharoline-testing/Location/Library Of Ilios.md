@@ -9,6 +9,7 @@ date updated: '2021-05-05T19:49:58-05:00'
 
 ---
 
+
 - [[Bookeeper's Alliance]] does not know anything about the [[Library Of Ilios]]
 - d24 general histories
      - differences between badlands and ezemorian accounts
@@ -48,10 +49,14 @@ date updated: '2021-05-05T19:49:58-05:00'
 	- Gulliver is afraid of going home and who he'll see
 		- Future: He gets a heroes a welcome at home but Julie is mad
 		- Past: Ship coming out of portal. Ancient Ezemorian. Many ships coming through portals. Ancient king plants flag. King dies and goes to palace
-- [[Qerlaak]] the powerful and the terrifying and the immaculate and wise
+- [[Qerlaak]] the powerful and the terrifying and the immaculate and wise a sexy
 - Todd the terrifying and not so terrifying but equally immaculate
 - helmet
 - [[Ilios]]'s journal' 
 - quill inc
 - key 
-- [[Calviron Von A
+- [[Calviron Von Altisbloot]] is a vampire
+- [[Illio's Journal]]
+	- Smut in strange cryptic text
+	- Actual history of the world
+	- histories of the world and dinosaurs

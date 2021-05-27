@@ -5,13 +5,13 @@ modified: 2021-05-14T02:27:38-05:00
 
 # My Gender
 
-> #Inspiration  _The privilege of a lifetime is to become who you truly are._
+> #Qoute/Inspiration  _The privilege of a lifetime is to become who you truly are._
 > -- C.G. Jung
 
-> #Inspiration  _It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure._
+> #Qoute/Inspiration  _It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure._
 > -- Joseph Campbell
 
-> #Inspiration _One's instinctual need to be oneself will almost always make itself known, one way or another_
+> #Qoute/Inspiration _One's instinctual need to be oneself will almost always make itself known, one way or another_
 > -- Dara Hoffman-Fox
 
 # Discovering My [[Gender]]
@@ -29,7 +29,7 @@ modified: 2021-05-14T02:27:38-05:00
 
 ### Fear
 
-> #Inspiration _The presence of fear means you are getting closer to discovering something about yourself._
+> #Qoute/Inspiration _The presence of fear means you are getting closer to discovering something about yourself._
 > -- Dara Hoffman-Fox
 
 #### Why does it have to be there
@@ -95,12 +95,12 @@ modified: 2021-05-14T02:27:38-05:00
     - more secure in who I am
     - hope for the future
     - have energy for life
-- #BigThoughts When in crisis my nurturing was contingent on vocalizing the cause of pain not on comfort so instead of reaching out for comfort I reach out for understanding. This wasn't something somebody else could give so I bottled or dealt with fear alone. I dealt with crisis alone so often that I've taught myself that I have to be alone to heal. IDK
+- #TO/PONDER/ME  When in crisis my nurturing was contingent on vocalizing the cause of pain not on comfort so instead of reaching out for comfort I reach out for understanding. This wasn't something somebody else could give so I bottled or dealt with fear alone. I dealt with crisis alone so often that I've taught myself that I have to be alone to heal. IDK
 - What is my ideal situation of nurturing?
     - somebody who voluntarily comes and takes control of my decisions.
     - somebody who pushes hard to breakdown my walls and help me understand what's going on
 
-> #Inspiration You have the right to choose self-actualization over continued repression
+> #Qoute/Inspiration You have the right to choose self-actualization over continued repression
 > -- Dara Hoffman-Fox
 
 ## Reflection

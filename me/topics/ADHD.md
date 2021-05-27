@@ -7,7 +7,7 @@ date updated: '2021-05-08T18:47:41-05:00'
 
 - Emotions == problem -> get rid of emotions
      - avoid situations where emotions occur
-          - #Me Avoiding sports where people relied on me
+          - Avoiding sports where people relied on me
      - Modify situations using books, music, etc.
      - Distract from emotions
      - suppress emotions

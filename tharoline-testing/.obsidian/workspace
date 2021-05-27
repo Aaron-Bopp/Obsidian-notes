@@ -4,57 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2e750fd6d2f2f547",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Location/Library Of Ilios.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "c044023793d121c0",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Location/Library Of Ilios.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "46d4593c3946444a",
+        "id": "8416de3a0f4ba987",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Location/Library Of Ilios.md",
+            "file": "Location/Illio's Journal.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "b658107c78c92dd4",
+        "id": "310c1ec24965fe5c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character/Krenos.md",
+            "file": "Location/Library Of Ilios.md",
             "mode": "source"
           }
         }
@@ -84,12 +50,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docs",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -105,28 +71,18 @@
             }
           },
           {
-            "id": "fa9ab00271fd18a4",
+            "id": "bbcaf33471732a1b",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Location/Library Of Ilios.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "starred",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 365
   },
   "right": {
     "id": "d2f47cb3f5d142ba",
@@ -142,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Location/Library Of Ilios.md"
+                "file": "Location/Illio's Journal.md"
               }
             }
           },
@@ -163,31 +119,49 @@
             }
           },
           {
-            "id": "ae87b6cfde3985da",
+            "id": "b0ca7f2baf35d0f9",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "fa9ab00271fd18a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Location/Illio's Journal.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
-  "active": "46d4593c3946444a",
+  "active": "8416de3a0f4ba987",
   "lastOpenFiles": [
+    "Location/Illio's Journal.md",
     "Location/Library Of Ilios.md",
-    "Location/Badlands.md",
-    "Character/Krenos.md",
     "Section/Gods Of Tharoline.md",
-    "Section/Blackvale Corruption.md",
-    "Location/Veros.md",
-    "Location/Blackvale.md",
-    "Character/Ruthos.md",
-    "Location/Horetown.md",
-    "Character/Captain Oreon Pierce.md"
+    "ΩΩ Link Cloud.md",
+    "Character/Eradon.md",
+    "Character/Elegan.md",
+    "Character/Elegord.md",
+    "Templates/Templates/BASE.md",
+    "Templates/Templates/Daily Note.md",
+    "Templates/Templates/% tp.date.now(YYYY-MM-DD, -1) %  % tp.date.now(YYYY-MM-DD, 1) %.md"
   ]
 }

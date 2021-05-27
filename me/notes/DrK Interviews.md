@@ -8,7 +8,7 @@
     - Ignoring it is his way of controlling it
         - ignore is really not letting it into your mind
         - zoning out is ignoring
-- #DrK "If your mind is doing something there's a damn good reason for it"
+- #Ref/DrK "If your mind is doing something there's a damn good reason for it"
 - Anxious [[parents]] breed anxious children. [[anxiety]]
     - There was a study that gave [[anxiety]] meds to [[parents]] and the kids got the same benefit as meds
 
@@ -17,13 +17,13 @@
 - There is the emotional mind, the intellectual mind and the [[ego]]
     - if you don't know who you are where does your sense of identity come from --> others
     - one function of [[ego]] is to compare
-    - #DrK "[[ego]] is when the sense of self comes from the outside"
+    - #Ref/DrK "[[ego]] is when the sense of self comes from the outside"
 - #TO/PONDER/ME  Is my vacuum of self filled with my intelligence?
 - Alexithymia - someone who is colorblind to emotion
     - Men are socially developed to suppress emotions except for anger
         - anger is the only thing men understand
         - all other emotions are not developed
-- #DrK "There is evidence that having an internally consistent way of viewing the world is a good way to find peace and happiness and to build resilience"
+- #Ref/DrK "There is evidence that having an internally consistent way of viewing the world is a good way to find peace and happiness and to build resilience"
     - What is the way I am viewing my life and existence?
 - Ways to find **_[[you]]_**
     - Experiential route
@@ -42,11 +42,11 @@
 - very shy, insecure, quiet growing up
 - Streaming helped growing and understanding things that were confusing as a kid
 - Wants to become psychiatrist and help people the way she was helped
-- #DrK If you are worth caring for, it rewrites your history, because everything that happened to you shouldn't have happened to you
+- #Ref/DrK If you are worth caring for, it rewrites your history, because everything that happened to you shouldn't have happened to you
 - Being strong for getting over it vs acknowledging that it wasn't okay that it happened
 - niki thinks that if she can use it to help other people it will be worth it but nothing makes it worth it
 - you have value no matter what you accomplish
-- #DrK "You were wronged and it wasn't ok and you didn't deserve it and it doesn't make sense"
+- #Ref/DrK "You were wronged and it wasn't ok and you didn't deserve it and it doesn't make sense"
 - #TO/EXPLORE/RESEARCH  [[Emotional Quotent]] or EQ
 
 ### [Life after a cult](https://www.youtube.com/watch?v=ldTMLhTMZAc)
@@ -55,7 +55,7 @@
     - Similar to when a tiktoker accepted me and I bawled
 - "I'm not allowed to make a mistake because a mistake means lost time and time is precious because I've already lost so much. The remainder of time is more valuable from this perspective"
 
-    - #DrK doesn't accept this perspective despite how logically correct it is
+    - #Ref/DrK doesn't accept this perspective despite how logically correct it is
         - "You can't make up for the past, it has already happened"
         - "You can't let your feelings to someone else. You can't tolerate letting other people know about the ugliest parts of your being"
         - #TO/PONDER/ME  "It's not a fear of rejection its a fear of acceptance" ^66ce4a
@@ -72,7 +72,7 @@
     - Some of things in this life come from before the consciously observable life of an individual
 - Dharma is the moral opposite of Kharma
 - #TO/EXPLORE/RESEARCH  Evidence based alternative medicine
-- #DrK Between your emotional and logical mind is the hum ghar or [[ego]] which activates to protect you from negative emotions and bullies your intellectual mind into coming up with justifications
+- #Ref/DrK Between your emotional and logical mind is the hum ghar or [[ego]] which activates to protect you from negative emotions and bullies your intellectual mind into coming up with justifications
 - #TO/EXPLORE/RESEARCH  MDMA and Pcysolibin might be a telescope to new topics
 
 ### [Existential Dread](https://www.youtube.com/watch?v=UUC8qF5iDag)
@@ -114,6 +114,6 @@
 		- examples
 			- "just try it"
 			- "experience new things"
-- #DrK Competence comes from empathic mirroring
+- #Ref/DrK Competence comes from empathic mirroring
 	- #TO/DO/CONCEPTUALIZE Confidence problems come from when parents can mirror the child's emotional needs
 		- #TO/EXPLORE/RESEARCH  [[Attachment Theory]]

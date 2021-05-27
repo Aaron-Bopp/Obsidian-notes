@@ -37,7 +37,7 @@
 	- Euphoria is equal and opposite to dysphoria. If your feelings of dysphoria are not strong, your feelings of euphoria will not be strong
 	- Euphoria is NOT is a sexual high, turn on, or fetish
 - #Def Physical Dysphoria is discomfort over the shape of one’s body due to the sexual characteristics it presents.
-	- #Me Wrists and hands??
+	- Me Wrists and hands??
 	- It’s okay for you to realize you need more or less than when you started.
 	- It’s okay if you don’t hate anything about your body, and just wish you looked more feminine or masculine.
 	- It’s okay if you only hate some aspects of your body, and don’t wish to change all of its sexual characteristics.

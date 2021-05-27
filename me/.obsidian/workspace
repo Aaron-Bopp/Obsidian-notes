@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8c653c4b1b20edec",
+        "id": "f62314270c935ff4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Templates/Untitled.md",
+            "file": "Templates/Templates/BASE.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4b2089be61606653",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Templates/Daily Note.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docs",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,23 +67,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "fa9ab00271fd18a4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Templates/Templates/Untitled.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
               }
             }
           },
@@ -104,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Templates/Untitled.md"
+                "file": "Templates/Templates/BASE.md"
               }
             }
           },
@@ -131,24 +125,43 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "fa9ab00271fd18a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Templates/BASE.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
-  "active": "8c653c4b1b20edec",
+  "active": "f62314270c935ff4",
   "lastOpenFiles": [
+    "Templates/Templates/BASE.md",
+    "Templates/Templates/Daily Note.md",
+    "Templates/Templates/% tp.date.now(YYYY-MM-DD, -1) %  % tp.date.now(YYYY-MM-DD, 1) %.md",
     "Templates/Templates/Untitled.md",
-    "Templates/Scripts/QuickAdd.md",
-    "Templates/Templates/QuickCapture.md",
-    "Templates/Templates/quickadd.md",
-    "QUICKNOTE.md",
-    "Quick Capture.md",
-    "Templates/QuickCapture.md",
-    "writing/To my parents.md",
-    "Templates/Untitled.md",
-    "Templates/Outline.md"
+    "Templates/Source Code.md",
+    "Zettels/My Second Brain.md",
+    "Zettels/second brain.md",
+    "topics/ADHD.md",
+    "Obsidian (software).md",
+    "how I use Obsidian tags.md"
   ]
 }

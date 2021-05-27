@@ -13,7 +13,7 @@ A second brain is a term that refers to a system of written thought that allows 
 	- Notational Velocity
 	- Evergreen Notes
 - Tools for constructing a Second Brain
-	- Obsidian
+	- [[Obsidian (software)]]
 	- Roam Research
 	- Atom
 - [[My Second Brain]]

@@ -18,5 +18,5 @@
 		- [[What is the difference between a permanent note and a topic note]]
 	- Interacting with your second brain
 		- Tags
-			- [[Tags should be temporary]]
+			- [[how I use Obsidian tags]]
 			- [[Tags should be general]]
