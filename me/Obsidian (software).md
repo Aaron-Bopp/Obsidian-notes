@@ -1,1 +1,0 @@
-Obsidian is a markdown editor that includes many features that are valuable to [[personal knowledge management]] systems. 

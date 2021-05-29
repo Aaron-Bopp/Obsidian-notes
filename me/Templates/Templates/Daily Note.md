@@ -1,6 +1,9 @@
 ---
 creation date: <% tp.file.creation_date() %>
-modification date: <% tp.file.last_modified_date(format: string = "YYYY-MM-DD HH:mm")
+modification date: <% tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 
+
+
 <% tp.web.daily_quote() %>
+

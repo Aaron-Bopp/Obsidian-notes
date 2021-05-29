@@ -1,4 +1,0 @@
-In a [[personal knowledge management]] system and inbox is the method through which you receive and categorize items that you have interest in. An entry point is a way that you find your way into system so that you can interact in the way in which you like. In a typical inbox you may have things you haven't read, have skimmed, have read but haven't notated, in your entry points you may have things you've read, things you've read and notated, things you want to write more on, etc. You can see that these things are closely linked, and with a simple structure they can easily be combined into a coherent system. Using a level of priority and consistent structure you can combine these structure into your process of developing knowledge. 
-
-see also:
-[[the TO(DO) and TR(EE) structure]]

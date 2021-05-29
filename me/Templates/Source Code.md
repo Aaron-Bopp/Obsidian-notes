@@ -3,3 +3,5 @@
 - [Summarizer](https://github.com/SilentVoid13/Templater/discussions/197)
 - [QuickCapture](https://gist.github.com/GitMurf/817a6c9e73e1d1e312fc1a1735edb8d6)
 - [QuickAdd](https://github.com/chhoumann/Templater_Templates/tree/master/quickadd)
+- [dataview](https://github.com/blacksmithgu/obsidian-dataview)
+

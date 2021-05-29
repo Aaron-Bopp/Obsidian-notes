@@ -34,7 +34,7 @@ date updated: '2021-05-08T18:47:41-05:00'
      - People with rejection sensitivity more easily go into fight, flight, or freeze
           - need to use tools to navigate
           - recognize
-               - emotions up -> cogition goes down = need to recognize what level you're at
+               - emotions up -> cognition goes down = need to recognize what level you're at
           - respond
                - depending on emotional wellbeing responses may be different
                     - yellow => calm and engage
@@ -42,4 +42,4 @@ date updated: '2021-05-08T18:47:41-05:00'
                     - green => face head on
           - reflect and reframe
                - first thoughts aren't often correct
-     - Sometimes rejection isn't rejection its just dissapointment
+     - Sometimes rejection isn't rejection its just disappointment

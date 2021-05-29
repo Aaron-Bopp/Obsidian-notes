@@ -1,1 +1,0 @@
-In [[Obsidian (software)]] tags are little more than a stored search, but they can provide some needed structure and a good amount of use. I primarily use tags as an inbox,[[make your inbox into an entry point]] a classifier, ([[the TO(DO) and TR(EE) structure]]), and finally as a data structure ([[tags as a data structure]])
