@@ -12,9 +12,9 @@ This philosophy is represented in [[my TO(DO) and EVER(GREEN) structure]]
 
 ---
 
-**Status**:: #EVER/SPROUT/CULTIVATE 
+**Status**:: #EVER/SPROUT  
 
-**Related-Topics**:: [[my TO(DO) and EVER(GREEN) structure]]
+**Related-Topics**:: [[Zettlekassen]], [[personal knowledge management]], [[second brain]]
 	
 **Sub-Topics**::
 	

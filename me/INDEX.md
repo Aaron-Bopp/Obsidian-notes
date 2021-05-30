@@ -13,8 +13,10 @@ This is a constantly updated index of entry points and topics for my personal fl
 	- [[my TO(DO) and EVER(GREEN) structure]]
 	- [[QUICKNOTE]]
 	- [[TASKS]]
-- [[personal knowledge management]]
-	- The [[second brain]]
-	- [[My Second Brain]]
-	- [[Zettlekassen]]
+- Topic Outlines
+	- [[personal knowledge management]]
+		- The [[second brain]]
+		- [[My Second Brain]]
+		- [[Zettlekassen]]
+	- [[mental health]]
 
