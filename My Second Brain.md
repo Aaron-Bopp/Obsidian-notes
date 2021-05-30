@@ -7,10 +7,10 @@ note-type:
 
 ---
 
-Since March 2021 I have become very interested in [[personal knowledge management]] and the concept of a [[web of thought]] so intricate that it creats a [[second brain]]. This is my structure and philiosphy of how I will construct [[My Second Brain]]
+Since March 2021 I have become very interested in [[personal knowledge management]] and the concept of a [[web of thought]] so intricate that it creates a [[second brain]]. This is my structure and philosophy of how I will construct [[My Second Brain]]
 
-**Outline**::
-- My Second Brain
+# Outline
+- [[My Second Brain]]
 	- Organization
 		- [[What is a fleeting note]]
 		- [[What is a content note]]
@@ -30,6 +30,16 @@ Since March 2021 I have become very interested in [[personal knowledge managemen
 		- Tags
 			- [[how I use Obsidian tags]]
 			- [[Tags should be general]]
+
+# Files that link to this page
+```dataview
+TABLE Status, file.mday AS "Edited", file.cday AS "Created"
+FROM -"tharoline" and -"Templates" and [[My Second Brain]]
+WHERE file.name != "QUICKNOTE"
+SORT Status
+```
+
+
 ---
 
 **Status**:: #EVER/GREEN 

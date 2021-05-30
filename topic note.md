@@ -12,7 +12,7 @@ A topic note is an order of magnitude larger than a [[permanent note]]. If a per
 
 ---
 
-#EVER/GREEN 
+**Status**:: #EVER/GREEN 
 
 **Related-Topics**::  [[second brain]], [[My Second Brain]]
 	

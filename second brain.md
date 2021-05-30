@@ -14,7 +14,7 @@ A second brain is a term that refers to a system of written thought that allows 
 
 ---
 
-#EVER/GREEN 
+**Status**:: #EVER/GREEN 
 
 **Related-Topics**:: 
 	[[personal knowledge management]]

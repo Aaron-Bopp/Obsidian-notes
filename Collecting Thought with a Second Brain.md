@@ -12,7 +12,7 @@ A second brain can be a collection of thought that you have accumulated over tim
 
 ---
 
-#EVER/SPROUT 
+**Status**:: #EVER/SPROUT 
 
 **Related-Topics**:: [[second brain]], [[permanent note]]
 	

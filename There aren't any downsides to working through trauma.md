@@ -9,7 +9,7 @@ Working through your negative emotions will not change you fundamentally because
 
 ---
 
-#EVER/SEED/WATER  
+**Status**:: #EVER/SEED/WATER  
 
 **Related-Topics**:: [[my emotions]], [[depression]], [[trauma]]
 	

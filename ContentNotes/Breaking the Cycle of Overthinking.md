@@ -25,7 +25,7 @@ bib:
 - Anxious [[parents]] breed anxious children. [[anxiety]]
     - There was a study that gave [[anxiety]] meds to [[parents]] and the kids got the same benefit as meds
 
-
+e
 
 ---
 
@@ -35,8 +35,6 @@ bib:
 	
 **Sub-Topics**::
 	
-**Outline**::
-
 --- 
 
 

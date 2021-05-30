@@ -37,7 +37,7 @@ This structure is how I [[make your inbox into an entry point]] and is deeply en
 
 ---
 
-**Status::** #EVER/GREEN  
+**Status**:: #EVER/GREEN  
 
 **Related-Topics**:: [[Zettlekassen]]
 	

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "461d52ecf71932be",
+        "id": "96def46862209871",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ContentNotes/Breaking the Cycle of Overthinking.md",
+            "file": "topics/on me.md",
             "mode": "source"
           }
         }
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER/SPROUT/CULTIVATE",
-                "matchingCase": true,
+                "query": "status",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse"
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ContentNotes/Breaking the Cycle of Overthinking.md"
+                "file": "topics/on me.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "id": "b0ca7f2baf35d0f9",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {}
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ContentNotes/Breaking the Cycle of Overthinking.md",
+                "file": "topics/on me.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,17 +140,17 @@
     "width": 386,
     "collapsed": true
   },
-  "active": "461d52ecf71932be",
+  "active": "96def46862209871",
   "lastOpenFiles": [
-    "ContentNotes/Breaking the Cycle of Overthinking.md",
-    "ContentNotes/How We're Shaped Mentally.md",
-    "ContentNotes/Healing from Festered Emotions.md",
-    "ContentNotes/GDB Notes.md",
-    "ContentNotes/DrK Interviews.md",
-    "What is a zettle.md",
-    "topics/mental health.md",
+    "topics/on me.md",
+    "my TO(DO) and EVER(GREEN) structure.md",
+    "Mermaid (software).md",
+    "My Second Brain.md",
+    "QUICKNOTE.md",
+    "personal knowledge management.md",
     "INDEX.md",
-    "EvergreenNotes/make your inbox into an entry point.md",
-    "EvergreenNotes/my TO(DO) and EVER(GREEN) structure.md"
+    "Zettlekassen.md",
+    "Templates/Templates/TOPICNOTE.md",
+    "second brain.md"
   ]
 }
