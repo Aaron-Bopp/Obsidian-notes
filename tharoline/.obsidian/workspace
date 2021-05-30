@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8a1fa40cf642698d",
+        "id": "8416de3a0f4ba987",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Location/Illio's Journal.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "310c1ec24965fe5c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Location/Library Of Ilios.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,12 +50,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docs",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -57,26 +71,18 @@
             }
           },
           {
-            "id": "fa9ab00271fd18a4",
+            "id": "bbcaf33471732a1b",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "starred",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 365
   },
   "right": {
     "id": "d2f47cb3f5d142ba",
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Location/Illio's Journal.md"
+              }
             }
           },
           {
@@ -109,26 +117,51 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "b0ca7f2baf35d0f9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa9ab00271fd18a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Location/Illio's Journal.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 386,
     "collapsed": true
   },
-  "active": "8a1fa40cf642698d",
+  "active": "8416de3a0f4ba987",
   "lastOpenFiles": [
-    "Ezemor.md",
-    "Blackvale Corruption.md",
-    "notes/DrK Interviews.md",
-    "Breaking the Cycle of Overthinking.md",
-    "topics/parents.md",
-    "topics/you.md",
-    "topics/my emotions.md",
-    "topics/on me.md",
-    "2021-05-08.md",
-    "topics/ADHD.md"
+    "Location/Illio's Journal.md",
+    "Location/Library Of Ilios.md",
+    "Section/Gods Of Tharoline.md",
+    "ΩΩ Link Cloud.md",
+    "Character/Eradon.md",
+    "Character/Elegan.md",
+    "Character/Elegord.md",
+    "Templates/Templates/BASE.md",
+    "Templates/Templates/Daily Note.md",
+    "Templates/Templates/% tp.date.now(YYYY-MM-DD, -1) %  % tp.date.now(YYYY-MM-DD, 1) %.md"
   ]
 }

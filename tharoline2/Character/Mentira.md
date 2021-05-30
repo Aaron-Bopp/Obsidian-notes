@@ -1,1 +1,0 @@
-Mentira is a member of the [[Bookeeper's Alliance]]

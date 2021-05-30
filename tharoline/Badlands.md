@@ -1,6 +1,0 @@
-- [[Illinoth]] Friendy giant in the [[Badlands]] 
-    - Loves riddles
-- [[Jurzod]] [[Drak]] [[Bell]] are refugees of Ezemor's attacks on the [[Badlands]] 
-    - they live on the [[Long Sea]] 
-- In the [[Badlands]]  to become the leader you must challenge the current leader to a duel.
-- [[The Architect]]   has been in control of the [[Badlands]]   for the past 15 years, but he is reclusive. He is  a living weapon.

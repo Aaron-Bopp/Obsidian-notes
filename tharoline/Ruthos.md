@@ -1,1 +1,0 @@
-- [[Ruthos]] kidnapped [[Tharolinia]]  at some point
