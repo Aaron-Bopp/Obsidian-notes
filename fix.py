@@ -19,3 +19,4 @@ for name in notes:
                 except ValueError:
                     if tagPattern == "[[EVER":
                         break
+            break
