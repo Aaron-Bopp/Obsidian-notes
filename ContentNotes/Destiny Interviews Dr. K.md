@@ -18,9 +18,9 @@ bib:
     - Every action has an equal and opposite reaction.
     - Some of things in this life come from before the consciously observable life of an individual
 - Dharma is the moral opposite of Kharma
-- #TO/EXPLORE/RESEARCH  Evidence based alternative medicine
-- #Ref/DrK Between your emotional and logical mind is the hum ghar or [[ego]] which activates to protect you from negative emotions and bullies your intellectual mind into coming up with justifications
-- #TO/EXPLORE/RESEARCH  MDMA and Pcysolibin might be a telescope to new topics
+- [[TO/EXPLORE/RESEARCH]]  Evidence based alternative medicine
+- [[Ref/DrK]] Between your emotional and logical mind is the hum ghar or [[ego]] which activates to protect you from negative emotions and bullies your intellectual mind into coming up with justifications
+- [[TO/EXPLORE/RESEARCH]]  MDMA and Pcysolibin might be a telescope to new topics
 
 ---
 

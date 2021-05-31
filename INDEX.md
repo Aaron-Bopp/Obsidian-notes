@@ -2,9 +2,9 @@
 creation date: 2021-05-22
 modification date: Saturday 22nd May 2021 23:07:02
 note-type: 
-  evergreen-note
-  organizational-note
-
+- evergreen-note
+- organizational-note
+- topic-note 
 ---
 
 This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[personal knowledge management]] system.
@@ -20,32 +20,55 @@ This is a constantly updated index of entry points and topics for my personal fl
 		- [[Zettlekassen]]
 	- [[mental health]]
 
-# [[My Second Brain]]
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and outgoing([[My Second Brain]])
-WHERE file.name != "QUICKNOTE"
-SORT Status
+
+# TODOs 
+```dataviewjs
+let todoTags = [
+	"[[TO/DO/WRITE]]",
+	"[[TO/DO/PROGRAM]]",
+	"[[TO/DO/CONCEPTUALIZE]]",
+	"[[TO/EXPLORE/READ]]",
+	"[[TO/EXPLORE/WATCH]]",
+	"[[TO/EXPLORE/RESEARCH]]",
+	"[[TO/PONDER]]",
+	"[[TO/PONDER/ME]]",
+	"[[TO/PONDER/SOCIETY]]"
+]
+
+function getLastEdited(page) {
+	return (page);
+}
+
+for (let tag of todoTags) {
+	dv.table([tag, "Last Edited", "Created"], dv.pages(tag).where( p =>
+			p.file.name != "my TO(DO) and EVER(GREEN) structure"
+		).map(p => [
+			p.file.link,
+			getLastEdited(p.file.mtime),
+			p.file.ctime
+		]))
+}
 ```
+
 
 # Evergreens
 ```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and #EVER/GREEN 
-WHERE file.name != "QUICKNOTE"
+TABLE replace(Status, "[[EVER/GREEN]]/", "#") as Status, (date(today) - file.mday) as "Last Edited", file.cday AS "Created"
+FROM -"tharoline" and -"Templates" and [[EVER/GREEN]] 
+WHERE file.name != "QUICKNOTE" 
 SORT Status DESC, file.mtime DESC 
 ```
 # Eversprouts
 ```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and #EVER/SPROUT 
+TABLE replace(Status, "[[EVER/SPROUT]]/", "#") as Status, (date(today) - file.mday) as "Last Edited", file.cday AS "Created"
+FROM -"tharoline" and -"Templates" and [[EVER/SPROUT]] 
 WHERE file.name != "my TO(DO) and EVER(GREEN) structure" and file.name != "QUICKNOTE"
 SORT Status DESC, file.mtime DESC 
 ```
 # Everseedlings
 ```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and #EVER/SEED 
+TABLE replace(Status, "[[EVER/SEED]]/", "#") as Status, (date(today) - file.mday) as "Last Edited", file.cday AS "Created"
+FROM -"tharoline" and -"Templates" and [[EVER/SEED]] 
 WHERE file.name != "my TO(DO) and EVER(GREEN) structure" and file.name != "QUICKNOTE"
 SORT Status DESC, file.mtime DESC 
 ```

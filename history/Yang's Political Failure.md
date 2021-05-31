@@ -5,7 +5,7 @@ modified: 2021-05-17T22:52:05-05:00
 
 # Yang's Political Failure
 
-#PolticalStrategy
+[[PolticalStrategy]]
 
 [[Yang's Political Success]] details the ideas and strategy that catapulted Yang into the mainstream of the political world. However, Yang would also come to discredit some of these things in the months after his campaign.
 

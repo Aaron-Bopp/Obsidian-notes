@@ -8,11 +8,11 @@ note-type:
 
 Organizational notes should be consistent and unique from other notes. Some methods could be a unique symbol, a unique type style, or a builtin method like tags. 
 
-#TO/DO/CONCEPTUALIZE apis https://publish.obsidian.md/andymatuschak/Evergreen+note+titles+are+like+APIs
+[[TO/DO/CONCEPTUALIZE]] apis https://publish.obsidian.md/andymatuschak/Evergreen+note+titles+are+like+APIs
 
 ---
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: [[EVER/SEED/UNPLANTED]] 
 
 **Related-Topics**:: [[evergreen note]]
 	

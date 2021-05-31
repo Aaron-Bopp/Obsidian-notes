@@ -12,7 +12,7 @@ A topic note can come to be in two ways:
 
 ---
 
-**Status**:: #EVER/SPROUT/CULTIVATE 
+**Status**:: [[EVER/SPROUT/CULTIVATE]] 
 
 **Related-Topics**:: 
 	

@@ -8,12 +8,12 @@ note-type:
 ---
 
 https://mermaid-js.github.io/mermaid/#/
-#TO/EXPLORE/RESEARCH 
-#TO/EXPLORE/WATCH https://www.youtube.com/watch?v=Tsu02d6Qti0
+[[TO/EXPLORE/RESEARCH]] 
+[[TO/EXPLORE/WATCH]] https://www.youtube.com/watch?v=Tsu02d6Qti0
 
 ---
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: [[EVER/SEED/UNPLANTED]] 
 
 **Related-Topics**:: 
 	

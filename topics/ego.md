@@ -1,2 +1,0 @@
-- Ego doesn't want you going about changing your life because it feels safe where its at
-- 

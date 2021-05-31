@@ -10,7 +10,7 @@ Topic notes should be able to form naturally from your other notes so they shoul
 
 ---
 
-**Status**:: #EVER/SPROUT/CULTIVATE  
+**Status**:: [[EVER/SPROUT/CULTIVATE]]  
 
 **Related-Topics**:: 
 	

@@ -10,7 +10,7 @@ From content note:: [[Andy Matuschak's Evergreen Notes]]
 
 ---
 
-**Status**:: #EVER/SEED/WATER  
+**Status**:: [[EVER/SEED/WATER]]  
 
 **Related-Topics**:: 
 	

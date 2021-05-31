@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "96def46862209871",
+        "id": "e34dd4de6c3e8094",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "topics/on me.md",
+            "file": "INDEX.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "status",
+                "query": "dual nostril",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topics/on me.md"
+                "file": "INDEX.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topics/on me.md",
+                "file": "INDEX.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,26 +131,33 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "ff1702e116694d8f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 386,
     "collapsed": true
   },
-  "active": "96def46862209871",
+  "active": "e34dd4de6c3e8094",
   "lastOpenFiles": [
-    "topics/on me.md",
-    "my TO(DO) and EVER(GREEN) structure.md",
-    "Mermaid (software).md",
-    "My Second Brain.md",
-    "QUICKNOTE.md",
-    "personal knowledge management.md",
     "INDEX.md",
-    "Zettlekassen.md",
-    "Templates/Templates/TOPICNOTE.md",
-    "second brain.md"
+    "Flamingo Pose Meditation.md",
+    "EVER/SEED.md",
+    "history/1970's.md",
+    "history/1968 Discussion.md",
+    "history/Second Red Scare Discussion.md",
+    "history/Reconstruction.md",
+    "history/FDR.md",
+    "history/Did the Atomic Bombs end WW2.md",
+    "history/Cultural Fundamentalism.md"
   ]
 }

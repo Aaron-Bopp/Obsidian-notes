@@ -10,7 +10,7 @@ The way you represent a todo note will vary system to system and person to perso
 
 ---
 
-**Status**:: #EVER/SPROUT 
+**Status**:: [[EVER/SPROUT]] 
 
 **Related-Topics**:: [[todo note]]
 	

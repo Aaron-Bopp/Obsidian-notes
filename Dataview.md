@@ -11,6 +11,7 @@ note-type: [evergreen-note, tools, topic-note]
 
 Source Code:: https://github.com/blacksmithgu/obsidian-dataview
 Documentation:: https://blacksmithgu.github.io/obsidian-dataview/
+Snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673
 
 
 - Inline Query
@@ -24,20 +25,19 @@ Documentation:: https://blacksmithgu.github.io/obsidian-dataview/
 	- anything that yields a value
 - Fields
 	- [[Dataview]] simplifies fields defined in line to lower-case-no-special-characters
-- Queries
-	- Basic Query syntax
--
+
+
 # Queries
 ## Basic Syntax
 ```
-TABLE|LIST|TASK <field> [AS "Column Name"], <field>, ..., <field> FROM<source> (like #tag or "folder")`
+TABLE|LIST|TASK <field> [AS "Column Name"], <field>, ..., <field> FROM<source> (like [[tag]] or "folder")`
 WHERE <expression> (like 'field = value')
 SORT <expression> [ASC/DESC] (like 'field ASC')
 ... other data commands
 ```
 ## From Tags
 ```dataviewx
-TABLE  file.tags AS Tags, file.mtime AS "Last Modified" FROM #TO
+TABLE  file.tags AS Tags, file.mtime AS "Last Modified" FROM [[TO]]
 flatten file.tags
 ```
 
@@ -45,7 +45,7 @@ flatten file.tags
 
 ---
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: [[EVER/SEED/UNPLANTED]] 
 
 **Related-Topics**:: 
 	

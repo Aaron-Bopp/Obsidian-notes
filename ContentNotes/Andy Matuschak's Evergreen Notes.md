@@ -21,11 +21,11 @@ Author:: [[Andy Matuschak]]
 
 ---
 
-#INBOX/0
+[[INBOX/0]]
 
-**Related-Topics**:: 
+**Related-Topics**:: [[personal knowledge management]], [[second brain]], [[Zettlekassen]]
 	
-**Sub-Topics**::
+**Sub-Topics**:: 
 	
 **Outline**::
 

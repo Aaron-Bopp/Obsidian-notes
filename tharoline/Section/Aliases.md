@@ -5,7 +5,7 @@
 #### Notes
 
 
-#Character/good
+[[Character/good]]
 
 - [[Aliases]] 
     - [[Louie]]- ebony urchin, leto mirimm

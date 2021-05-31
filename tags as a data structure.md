@@ -10,18 +10,18 @@ There are several reasons that you might want to parse through your entire [[per
 
 Examples
 
->  #Qoute/Inspiration All we have to decide is what to do with the time that is given us. 
+>  [[Qoute/Inspiration]] All we have to decide is what to do with the time that is given us. 
 >  -- Gandalf
 
-#Def Term => a word or phrase used to describe a thing or to express a concept
+[[Def]] Term => a word or phrase used to describe a thing or to express a concept
 
-#Ref {Reference}
+[[Ref]] {Reference}
 
 
 
 ---
 
-**Status**:: #EVER/SPROUT  
+**Status**:: [[EVER/SPROUT]]  
 
 **Related-Topics**:: 
 	

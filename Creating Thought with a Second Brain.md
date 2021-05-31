@@ -10,7 +10,7 @@ The Second Brain can be used as a catalyst or conduit to create thought. If your
 
 ---
 
-**Status**:: #EVER/SPROUT 
+**Status**:: [[EVER/SPROUT]] 
 
 **Related-Topics**:: [[second brain]], [[permanent note]]
 	

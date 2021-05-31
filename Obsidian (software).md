@@ -23,7 +23,7 @@ It also has a variety of plugins that help the workflow
 
 ---
 
-**Status**:: #EVER/GREEN  
+**Status**:: [[EVER/GREEN]]  
 
 **Related-Topics**:: [[Zettlekassen]], [[second brain]]
 	

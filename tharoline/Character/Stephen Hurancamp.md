@@ -1,6 +1,6 @@
 #### Entity Data
 
-#Alignment
+[[Alignment]]
 
 #### Notes
 

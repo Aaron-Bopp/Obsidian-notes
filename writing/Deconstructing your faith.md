@@ -1,5 +1,5 @@
 ### Conversation with Rachel Cook
-#TO/DO/WRITE Break this up into evergreen notes
+[[TO/DO/WRITE]] Break this up into evergreen notes
 > Hi Aaron. I know this is strange for me to message you, but I could use some advice. And I think you might actually be the one person that I know who might understand. I have been in a faith crisis of late and I feel I am on the brink of a decision. But I am so afraid to choose to leave because of fear of "what is hell is real and I am just being 'worldly'" and the fear of what my friend and my family and our family as a whole would say. How did you come to where you are? How did you jump that hurdle?
 - Rachel Cook
 

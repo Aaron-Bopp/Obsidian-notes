@@ -27,7 +27,7 @@ SORT Status
 
 ---
 
-**Status**:: #EVER/SEED    
+**Status**:: [[EVER/SEED]]    
 
 **Related-Topics**:: 
 	

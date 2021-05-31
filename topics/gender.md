@@ -1,2 +1,0 @@
-- #FunFact Cave art (drawn between 10k-35k years ago) was done by men and women of all ages but it was dominated by teenage males [#Ref](https://www.livescience.com/7028-ancient-cave-art-full-teenage-graffiti.html) 
-- 
