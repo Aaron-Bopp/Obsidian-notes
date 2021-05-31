@@ -15,7 +15,7 @@ for name in notes:
                     tagStart = line.index(tagPattern)
                     tagEnd = line.index("]]", tagStart)
                     tag = line[tagStart:tagEnd]
-                    line = line[0:tag] + tag[2:len(tag)-2] + line[tagEnd:]
+                    line = line[0:tag] + "#" + tag[2:len(tag)-2] + line[tagEnd:]
                 except ValueError:
                     if tagPattern == "[[EVER":
                         break
