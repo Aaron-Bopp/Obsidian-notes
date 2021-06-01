@@ -19,7 +19,7 @@ note-type:
 
 ---
 
-**Status**:: [[EVER/GREEN]] 
+**Status**:: #EVER/GREEN 
 
 **Related-Topics**:: 
 	

@@ -15,7 +15,7 @@ Examples:: https://youtu.be/UUC8qF5iDag?t=6195
 
 ---
 
-**Status**:: [[EVER/SEED]] 
+**Status**:: #EVER/SEED 
 
 **Related-Topics**:: [[meditation]], ,[[mental health]], [[yoga]], 
 	

@@ -42,7 +42,7 @@ SORT Status
 
 ---
 
-**Status**:: [[EVER/GREEN]] 
+**Status**:: #EVER/GREEN 
 
 **Related-Topics**:: [[Zettlekassen]], 
 	

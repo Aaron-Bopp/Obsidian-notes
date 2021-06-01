@@ -11,7 +11,7 @@ An organizational note is one that helps the user access other notes. This can t
 
 ---
 
-**Status**:: [[EVER/SEED/WATER]] 
+**Status**:: #EVER/SEED/WATER 
 
 **Related-Topics**:: 
 	

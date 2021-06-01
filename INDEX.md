@@ -24,7 +24,7 @@ This is a constantly updated index of entry points and topics for my personal fl
 # TODOs 
 ```dataviewjs
 let todoTags = [
-	"[[TO/DO/WRITE]]",
+	"#TO/DO/WRITE",
 	"[[TO/DO/PROGRAM]]",
 	"[[TO/DO/CONCEPTUALIZE]]",
 	"[[TO/EXPLORE/READ]]",
@@ -53,7 +53,7 @@ for (let tag of todoTags) {
 
 # Evergreens
 ```dataview
-TABLE replace(Status, "[[EVER/GREEN]]/", "#") as Status, (date(today) - file.mday) as "Last Edited", file.cday AS "Created"
+TABLE replace(Status, "#EVER/GREEN/", "#") as Status, (date(today) - file.mday) as "Last Edited", file.cday AS "Created"
 FROM -"tharoline" and -"Templates" and [[EVER/GREEN]] 
 WHERE file.name != "QUICKNOTE" 
 SORT Status DESC, file.mtime DESC 

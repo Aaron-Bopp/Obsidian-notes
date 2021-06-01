@@ -16,7 +16,7 @@ note-type:
 
 ---
 
-**Status**:: [[EVER/SEED/WATER]]  
+**Status**:: #EVER/SEED/WATER  
 
 **Related-Topics**:: 
 	

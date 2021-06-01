@@ -13,7 +13,7 @@ However, general tags can get very large, but this can be mitigated in variety o
 
 ---
 
-**Status**:: [[EVER/GREEN]]  
+**Status**:: #EVER/GREEN  
 
 **Related-Topics**:: 	[[personal knowledge management]],	[[evergreen note]],	[[My Second Brain]], [[Obsidian (software)]]
 	

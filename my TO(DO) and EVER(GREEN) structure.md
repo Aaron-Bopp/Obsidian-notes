@@ -10,7 +10,7 @@ This structure is how I [[make your inbox into an entry point]] and is deeply en
 
 - TO tags should be used for specific items, not general tasks	
 - TO tags are note a daily todo, they are a way to specify a task inline the to be done in the future. These tags should be temporary, but they are not scheduled		
-- [[TO]]  see all the things you want to do in you [[second brain]]
+- #TO  see all the things you want to do in you [[second brain]]
 	- [[TO/DO]] things that you have to actively take part in,
 		- [[TO/DO/WRITE]] write a specific item, not used for need to write or expand an evergreen note
 		- [[TO/DO/PROGRAM]] 
@@ -24,7 +24,7 @@ This structure is how I [[make your inbox into an entry point]] and is deeply en
 		- [[TO/PONDER/SOCIETY]]
 
 - This structure is both a reference for what kind of note it is, but also an entry point to work on [[evergreen note]]s
-- [[EVER]] see all the evergreen notes in the [[second brain]]
+- #EVER see all the evergreen notes in the [[second brain]]
 	- [[EVER/SEED]] concept that exists in the [[second brain]] but is not guaranteed to grow
 		- [[EVER/SEED/UNPLANTED]] a concept that hasn't been contextualized into the [[second brain]] little more than the tile of a potential [[evergreen note]] Highest priority because with the context the concept may not make sense in the future
 		- [[EVER/SEED/WATER]] a concept that needs to be fleshed out and written

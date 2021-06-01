@@ -11,7 +11,7 @@ A content note is made up of notes taken while consuming some form of content su
 
 ---
 
-**Status**:: [[EVER/SPROUT/CULTIVATE]] 
+**Status**:: #EVER/SPROUT/CULTIVATE 
 
 **Related-Topics**:: 
 	

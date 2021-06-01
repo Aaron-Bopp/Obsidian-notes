@@ -16,7 +16,7 @@ When entering into social situations you might feel anxiety because you don't if
 
 ---
 
-**Status**:: [[EVER/SEED/UNPLANTED]] 
+**Status**:: #EVER/SEED/UNPLANTED 
 
 **Related-Topics**:: [[mental health]], [[mental disorders]]
 	

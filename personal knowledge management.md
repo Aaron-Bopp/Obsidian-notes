@@ -27,7 +27,7 @@ SORT Status
 
 ---
 
-**Status**:: [[EVER/SPROUT/WATER]] 
+**Status**:: #EVER/SPROUT/WATER 
 **Related-Topics**:: [[Zettlekassen]], [[second brain]]
 	
 **Sub-Topics**::

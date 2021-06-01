@@ -21,7 +21,7 @@ Examples
 
 ---
 
-**Status**:: [[EVER/SPROUT]]  
+**Status**:: #EVER/SPROUT  
 
 **Related-Topics**:: 
 	

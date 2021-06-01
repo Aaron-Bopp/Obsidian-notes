@@ -37,7 +37,7 @@ SORT <expression> [ASC/DESC] (like 'field ASC')
 ```
 ## From Tags
 ```dataviewx
-TABLE  file.tags AS Tags, file.mtime AS "Last Modified" FROM [[TO]]
+TABLE  file.tags AS Tags, file.mtime AS "Last Modified" FROM #TO
 flatten file.tags
 ```
 
@@ -45,7 +45,7 @@ flatten file.tags
 
 ---
 
-**Status**:: [[EVER/SEED/UNPLANTED]] 
+**Status**:: #EVER/SEED/UNPLANTED 
 
 **Related-Topics**:: 
 	

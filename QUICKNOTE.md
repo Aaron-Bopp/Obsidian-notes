@@ -18,7 +18,7 @@
 [[topics/on me.md]]: The thought of idk how much pain im feeling/idk why im crying comes from my [[parents]] always discounting my crying by saying i have a fast cry trigger but I think that made me think that [[my emotions]] weren't natural and so I hid them and shut them off
 
 [[2021-05-31]] 04:35
-[[topics/on me.md]]: [[TO/PONDER/ME]] Because I had so much trouble controlling [[my emotions]] as a child, I still view emotionality as weakness and there might be some misogyny there????
+[[topics/on me.md]]: #TO/PONDER/ME Because I had so much trouble controlling [[my emotions]] as a child, I still view emotionality as weakness and there might be some misogyny there????
 
 [[2021-05-31]] 04:35
 [[topics/on me.md]]: I isolate myself when I am sad or depressed because I am used to my emotions being invalidated. Did I say I don't know why I'm crying so often because if I said how I felt my emotions were invalidated or just because I actually didn't know? Why I am constantly searching for validation? What the fuck is even being validated? I never got an answer for why I was crying, so I just stopped crying. 
@@ -39,7 +39,7 @@
 
 [[2021-05-29]] 05:50 [[QUICKNOTE.md]]: [[TO/DO/PROGRAM]] [git version control](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5)
 
-[[2021-05-29]] 05:48 [[ADHD]]: [[EVER/SEED/UNPLANTED]] [ example second brain](https://notes.nicolevanderhoeven.com/Video/Roam+Tour+1+-+Professor+Joel+Chan+-+Zettelkasten+and+Evergreen+Notes+for+Generative+Thought)
+[[2021-05-29]] 05:48 [[ADHD]]: #EVER/SEED/UNPLANTED [ example second brain](https://notes.nicolevanderhoeven.com/Video/Roam+Tour+1+-+Professor+Joel+Chan+-+Zettelkasten+and+Evergreen+Notes+for+Generative+Thought)
 
 [[2021-05-29]] 05:28 [[TO/EXPLORE/READ]]   https://www.theatlantic.com/business/archive/2017/05/late-capitalism/524943/
 

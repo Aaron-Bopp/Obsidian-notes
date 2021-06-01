@@ -28,7 +28,7 @@ SORT Status
 ```
 ---
 
-**Status**:: [[EVER/SEED/UNPLANTED]] 
+**Status**:: #EVER/SEED/UNPLANTED 
 
 **Related-Topics**:: 
 	

@@ -19,7 +19,7 @@ Concentration is something that is required to most things done in today's socie
 
 ---
 
-**Status**:: [[EVER/GREEN]]     
+**Status**:: #EVER/GREEN     
 
 **Related-Topics**:: [[mental health]]
 	

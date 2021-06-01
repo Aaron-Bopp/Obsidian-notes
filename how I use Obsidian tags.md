@@ -10,7 +10,7 @@ In [[Obsidian (software)]] tags are little more than a stored search, but they c
 
 ---
 
-**Status**:: [[EVER/SPROUT]] 
+**Status**:: #EVER/SPROUT 
 
 **Related-Topics**:: 
 	

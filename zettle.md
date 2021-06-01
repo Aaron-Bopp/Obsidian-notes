@@ -17,7 +17,7 @@ A zettle is a single idea or thought as defined by the creator of the [[Zettleka
 	
 ---
 
-**Status**:: [[EVER/SEED/WATER]]   
+**Status**:: #EVER/SEED/WATER   
 
 **Related-Topics**:: [[Zettlekassen]], [[personal knowledge management]], [[second brain]]
 

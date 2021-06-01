@@ -14,7 +14,7 @@ The only constraint on the way permanent notes are titled is uniqueness. If you 
 
 ---
 
-**Status**:: [[EVER/SPROUT/CULTIVATE]] 
+**Status**:: #EVER/SPROUT/CULTIVATE 
 
 **Related-Topics**:: 
 	

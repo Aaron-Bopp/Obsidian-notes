@@ -7,11 +7,8 @@
         "id": "e34dd4de6c3e8094",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "INDEX.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -67,11 +64,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 365
+    "width": 365,
+    "collapsed": true
   },
   "right": {
     "id": "d2f47cb3f5d142ba",
@@ -86,9 +85,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "INDEX.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,10 +141,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "active": "e34dd4de6c3e8094",
   "lastOpenFiles": [
+    "my TO(DO) and EVER(GREEN) structure.md",
     "INDEX.md",
     "mental health.md",
     "Social Anxiety Stems from Insecuirity.md",
@@ -157,7 +155,6 @@
     "Flamingo Pose Meditation.md",
     "EVER/SEED.md",
     "history/1970's.md",
-    "history/1968 Discussion.md",
-    "history/Second Red Scare Discussion.md"
+    "history/1968 Discussion.md"
   ]
 }

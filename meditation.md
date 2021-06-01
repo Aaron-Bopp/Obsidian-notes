@@ -21,7 +21,7 @@ note-type:
 
 ---
 
-**Status**:: [[EVER/SEED/UNPLANTED]] 
+**Status**:: #EVER/SEED/UNPLANTED 
 
 **Related-Topics**:: [[mental health]], [[yoga]], [[eastern philosophy]]
 	

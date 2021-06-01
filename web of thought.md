@@ -10,7 +10,7 @@ note-type:
 
 ---
 
-**Status**:: [[EVER/SPROUT/WATER]]  
+**Status**:: #EVER/SPROUT/WATER  
 
 **Related-Topics**:: 
 	
