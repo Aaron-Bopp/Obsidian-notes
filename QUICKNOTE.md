@@ -31,19 +31,19 @@
 
 [[2021-05-31]] 04:32 [[topics/on me.md]]: is it okay to want [[emotional validation]]? Do I want validation from people I know or people I don't know?
 
-[[2021-05-31]] 04:26 [[topics/emotional validation.md]]:  [[TO/PONDER/ME]]   Emotional validation has been on my mind a lot recently. It feels like a lot of my worse behaviors are built around emotional validation. I cut myself off and refuse to reach out for help because I afraid that my emotions won't be validated. Of course this is a never ending circle. 
+[[2021-05-31]] 04:26 [[topics/emotional validation.md]]:  #TO/PONDER/ME   Emotional validation has been on my mind a lot recently. It feels like a lot of my worse behaviors are built around emotional validation. I cut myself off and refuse to reach out for help because I afraid that my emotions won't be validated. Of course this is a never ending circle. 
 
-[[2021-05-31]] 04:21 [[topics/gender.md]]:  [[FunFact]] Cave art (drawn between 10k-35k years ago) was done by men and women of all ages but it was dominated by teenage males [[[Ref]]](https://www.livescience.com/7028-ancient-cave-art-full-teenage-graffiti.html) 
+[[2021-05-31]] 04:21 [[topics/gender.md]]:  #FunFact Cave art (drawn between 10k-35k years ago) was done by men and women of all ages but it was dominated by teenage males [#Ref](https://www.livescience.com/7028-ancient-cave-art-full-teenage-graffiti.html) 
 
-[[2021-05-31]] 04:13 [[my emotions]]: [[TO/PONDER/ME]] Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
+[[2021-05-31]] 04:13 [[my emotions]]: #TO/PONDER/ME Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
 
-[[2021-05-29]] 05:50 [[QUICKNOTE.md]]: [[TO/DO/PROGRAM]] [git version control](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5)
+[[2021-05-29]] 05:50 [[QUICKNOTE.md]]: #TO/DO/PROGRAM [git version control](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5)
 
 [[2021-05-29]] 05:48 [[ADHD]]: #EVER/SEED/UNPLANTED [ example second brain](https://notes.nicolevanderhoeven.com/Video/Roam+Tour+1+-+Professor+Joel+Chan+-+Zettelkasten+and+Evergreen+Notes+for+Generative+Thought)
 
-[[2021-05-29]] 05:28 [[TO/EXPLORE/READ]]   https://www.theatlantic.com/business/archive/2017/05/late-capitalism/524943/
+[[2021-05-29]] 05:28 #TO/EXPLORE/READ   https://www.theatlantic.com/business/archive/2017/05/late-capitalism/524943/
 
-[[2021-05-29]] 05:28 [[TO/EXPLORE/RESEARCH]] [dataview and dnd](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673/30) [sample campaign notes](https://github.com/ebullient/campaign-notes/tree/main) [obsidian timelines](https://github.com/Darakah/obsidian-timelines)
+[[2021-05-29]] 05:28 #TO/EXPLORE/RESEARCH [dataview and dnd](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673/30) [sample campaign notes](https://github.com/ebullient/campaign-notes/tree/main) [obsidian timelines](https://github.com/Darakah/obsidian-timelines)
 
 
 

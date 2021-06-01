@@ -8,7 +8,7 @@ with os.scandir() as vault:
                 notes.setdefault(entry, lines)
                 
 for name in notes:               
-    for tagPattern in ["[[TO", "[[Ref", "[[Yes", "[[Inbox", "[[No", "[[Sometimes", "[[Fun", "[[EVER"]:
+    for tagPattern in ["[[Def", "[[Qoute","[[TO", "[[Ref", "[[Yes", "[[Inbox", "[[No", "[[Sometimes", "[[Fun", "[[EVER"]:
         end = True
         while end:
             try:
@@ -17,8 +17,7 @@ for name in notes:
                 tag = notes[name][tagStart:tagEnd]
                 notes[name] = notes[name][0:tagStart - 2] + "#" + tag + notes[name][tagEnd+2:]
             except ValueError:
-                if tagPattern == "[[EVER":
-                    end = False
+                end = False
     
 for name in notes:
     with open(name, 'w') as f:

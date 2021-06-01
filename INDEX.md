@@ -25,14 +25,14 @@ This is a constantly updated index of entry points and topics for my personal fl
 ```dataviewjs
 let todoTags = [
 	"#TO/DO/WRITE",
-	"[[TO/DO/PROGRAM]]",
-	"[[TO/DO/CONCEPTUALIZE]]",
-	"[[TO/EXPLORE/READ]]",
-	"[[TO/EXPLORE/WATCH]]",
-	"[[TO/EXPLORE/RESEARCH]]",
-	"[[TO/PONDER]]",
-	"[[TO/PONDER/ME]]",
-	"[[TO/PONDER/SOCIETY]]"
+	"#TO/DO/PROGRAM",
+	"#TO/DO/CONCEPTUALIZE",
+	"#TO/EXPLORE/READ",
+	"#TO/EXPLORE/WATCH",
+	"#TO/EXPLORE/RESEARCH",
+	"#TO/PONDER",
+	"#TO/PONDER/ME",
+	"#TO/PONDER/SOCIETY"
 ]
 
 function getLastEdited(page) {
@@ -54,21 +54,21 @@ for (let tag of todoTags) {
 # Evergreens
 ```dataview
 TABLE replace(Status, "#EVER/GREEN/", "#") as Status, (date(today) - file.mday) as "Last Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and [[EVER/GREEN]] 
+FROM -"tharoline" and -"Templates" and #EVER/GREEN 
 WHERE file.name != "QUICKNOTE" 
 SORT Status DESC, file.mtime DESC 
 ```
 # Eversprouts
 ```dataview
-TABLE replace(Status, "[[EVER/SPROUT]]/", "#") as Status, (date(today) - file.mday) as "Last Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and [[EVER/SPROUT]] 
+TABLE replace(Status, "#EVER/SPROUT/", "#") as Status, (date(today) - file.mday) as "Last Edited", file.cday AS "Created"
+FROM -"tharoline" and -"Templates" and #EVER/SPROUT 
 WHERE file.name != "my TO(DO) and EVER(GREEN) structure" and file.name != "QUICKNOTE"
 SORT Status DESC, file.mtime DESC 
 ```
 # Everseedlings
 ```dataview
-TABLE replace(Status, "[[EVER/SEED]]/", "#") as Status, (date(today) - file.mday) as "Last Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and [[EVER/SEED]] 
+TABLE replace(Status, "#EVER/SEED/", "#") as Status, (date(today) - file.mday) as "Last Edited", file.cday AS "Created"
+FROM -"tharoline" and -"Templates" and #EVER/SEED 
 WHERE file.name != "my TO(DO) and EVER(GREEN) structure" and file.name != "QUICKNOTE"
 SORT Status DESC, file.mtime DESC 
 ```
