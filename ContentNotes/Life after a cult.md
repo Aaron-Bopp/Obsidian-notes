@@ -17,10 +17,10 @@ bib:
     - Similar to when a tiktoker accepted me and I bawled
 - "I'm not allowed to make a mistake because a mistake means lost time and time is precious because I've already lost so much. The remainder of time is more valuable from this perspective"
 
-    - [[Ref/DrK]] doesn't accept this perspective despite how logically correct it is
+    - #Ref/DrK doesn't accept this perspective despite how logically correct it is
         - "You can't make up for the past, it has already happened"
         - "You can't let your feelings to someone else. You can't tolerate letting other people know about the ugliest parts of your being"
-        - [[TO/PONDER/ME]]  "It's not a fear of rejection its a fear of acceptance" ^66ce4a
+        - #TO/PONDER/ME  "It's not a fear of rejection its a fear of acceptance" ^66ce4a
         - "Loathing yourself is the opposite of acceptance"
         - "Your intellectual [[ego]] will subside when it's no longer needed. It's not about getting rid of it it's about no longer needing it to protect you"
 

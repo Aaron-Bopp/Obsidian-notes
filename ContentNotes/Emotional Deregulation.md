@@ -17,7 +17,7 @@ bib:
      - Modify situations using books, music, etc.
      - Distract from emotions
      - suppress emotions
-          - [[TO/PONDER/ME]]  rationalize emotions? 
+          - #TO/PONDER/ME  rationalize emotions? 
      - These are good regulators but we need to accept our emotions
 - Managing emotional deregulation with [[mindfullness]] 
      - What do our emotions look like?
@@ -27,8 +27,8 @@ bib:
           - I feel `________`
      - Need to be emotionally honest with ourselves
      - Complications
-          - [[Def]] Alexithymia - No words for emotions
-          - [[Def]] Dyslexithymia - Wrong words for emotions
+          - #Def Alexithymia - No words for emotions
+          - #Def Dyslexithymia - Wrong words for emotions
           - [[trauma]] can effect how we feel and understand emotions
 
 ---

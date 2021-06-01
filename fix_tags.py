@@ -1,11 +1,12 @@
 import os
 notes = {}
-with os.scandir() as vault:
-    for entry in vault:
-        if entry.is_file() and entry.name.endswith(".md"):
-            with open(entry.path) as text:
-                lines = text.read()
-                notes.setdefault(entry, lines)
+for folder in ["ContentNotes", "tharoline", "."]:
+    with os.scandir(folder) as vault:
+        for entry in vault:
+            if entry.is_file() and entry.name.endswith(".md"):
+                with open(entry.path, encoding='Latin') as text:
+                    lines = text.read()
+                    notes.setdefault(entry, lines)
                 
 for name in notes:               
     for tagPattern in ["[[Def", "[[Qoute","[[TO", "[[Ref", "[[Yes", "[[Inbox", "[[No", "[[Sometimes", "[[Fun", "[[EVER"]:
