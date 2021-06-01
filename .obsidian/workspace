@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "INDEX.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -140,24 +140,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "active": "e34dd4de6c3e8094",
   "lastOpenFiles": [
     "INDEX.md",
+    "mental health.md",
+    "Social Anxiety Stems from Insecuirity.md",
+    "EVER/SEED/UNPLANTED.md",
+    "Untitled.md",
     "Flamingo Pose Meditation.md",
     "EVER/SEED.md",
     "history/1970's.md",
     "history/1968 Discussion.md",
-    "history/Second Red Scare Discussion.md",
-    "history/Reconstruction.md",
-    "history/FDR.md",
-    "history/Did the Atomic Bombs end WW2.md",
-    "history/Cultural Fundamentalism.md"
+    "history/Second Red Scare Discussion.md"
   ]
 }

@@ -4,19 +4,22 @@ with os.scandir() as vault:
     for entry in vault:
         if entry.is_file() and entry.name.endswith(".md"):
             with open(entry.path) as text:
-                lines = text.readlines()
+                lines = text.read()
                 notes.setdefault(entry, lines)
                 
 for name in notes:               
-    for line in notes[name]:
-        while True:
-            for tagPattern in ["[[TO", "[[EVER"]:
-                try:
-                    tagStart = line.index(tagPattern)
-                    tagEnd = line.index("]]", tagStart)
-                    tag = line[tagStart:tagEnd]
-                    line = line[0:tag] + "#" + tag[2:len(tag)-2] + line[tagEnd:]
-                except ValueError:
-                    if tagPattern == "[[EVER":
-                        break
-            break
+    while True:
+        for tagPattern in ["[[TO", "[[EVER"]:
+            try:
+                tagStart = notes[name].index(tagPattern) + 2
+                tagEnd = notes[name].index("]]", tagStart)
+                tag = notes[name][tagStart:tagEnd]
+                notes[name] = notes[name][0:tagStart - 2] + "#" + tag + notes[name][tagEnd+2:]
+            except ValueError:
+                if tagPattern == "[[EVER":
+                    break
+        break
+    
+for name in notes:
+    with open(name, 'w') as f:
+        f.write(notes[name])
