@@ -51,7 +51,7 @@ bib:
 			- "just try it"
 			- "experience new things"
 - #Ref/DrK Competence comes from empathic mirroring
-	- #TO/DO/CONCEPTUALIZE Confidence problems come from when parents can mirror the child's emotional needs
+	- #TO/DO/CONCEPTUALIZE Confidence problems come from when parents can't mirror the child's emotional needs
 		- #TO/EXPLORE/RESEARCH  [[Attachment Theory]]
 
 ---

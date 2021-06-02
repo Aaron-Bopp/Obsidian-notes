@@ -1,3 +1,14 @@
+---
+creation date: 2021-04-30
+modification date: Friday 30th April 2021 01:26:28
+note-type: 
+- content-note
+creator:
+content-type:
+source:
+bib:
+---
+
 # Discussion 3
 
 Class: HIST 1877
@@ -78,11 +89,11 @@ Type: Discussion
 
             Many white and black people have come from the south and are contributing to increased racial tensions (Page 294)
 
-        2. Economic Competition
+        2. [[Economic Competition]]
             - Black workers were in a hard place between racist Unions that did not advocate for them and owners who only welcomed them because they would accept lower wages than the white workers (Page 294)
         3. Political Corruption/ Exploitation of negro voters
             - Thompson had recently been reelected mayor with the help of the Black and German residents and against the will of the white-owned newspapers. (Page 295)
-        4. police inefficiency
+        4. [[police inefficiency]]
             - State Attorney Maclay Hoyne declared that the riots were due to vice in the second ward on August 25th
 
                 > "[Hoyne] seemed to either forget or to ignore the flagrant disregard of law and order and even of the common priciples of decency in city management existing in many other sections of the city"
@@ -135,4 +146,22 @@ Type: Discussion
 - An analysis of more than 7,750 demonstrations in 2,400 locations across the country found that 93% happened with no violence, according to the US Crisis Monitor, a joint effort by Princeton University and the Armed Conflict Location & Event Data Project.
 
 [Comparison between Capitol siege, BLM protests is denounced](https://apnews.com/article/donald-trump-capitol-siege-race-and-ethnicity-violence-racial-injustice-afd7dc2165f355a3e6dc4e9418019eb5)
+
+
+
+---
+
+#INBOX/0
+
+**Related-Topics**:: 
+	
+**Sub-Topics**::
+	
+**Outline**::
+
+--- 
+##### MarkdownText
+
+##### PlainText
+
 

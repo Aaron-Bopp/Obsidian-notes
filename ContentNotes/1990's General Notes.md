@@ -1,15 +1,27 @@
-- H.W Bush
+---
+creation date: 2021-04-30
+modification date: Friday 30th April 2021 00:44:40
+note-type: 
+- content-note
+creator:
+content-type:
+- class
+source: NWMSU
+bib:
+---
+
+- [[HW Bush]]
     - Domestic policy
         - "New chapter focused on unity diversity and generosity"
         - Deficit
             - Wanted to eliminate deficit to support new programs
-            - compromised with democrats for tax hikes and spending cuts to get things done
+            - compromised with [[democrats]] for tax hikes and spending cuts to get things done
         - legislation - Signed a lot of centrist legislation that got flack from both sides
             - Americans with disabilities act 
                 - businesses and republicans against
                 - theory: independent people with disabilities would need less government support
             - Clean air acts 
-        - War on Drugs
+        - [[War on Drugs]]
             - Continued Reagan's plans
             - Expanded drug control budget from 5bil-12bil
             - focused on prosecution and incarceration
@@ -29,7 +41,7 @@
                 - Restore Kuwaits govt
                 - just 100 hours of land attacks
             - only 2 months long
-- Clinton
+- [[Bill Clinton]]
     - [[21st Century America]]
     - First Term
         - Election of 1992
@@ -76,4 +88,20 @@
             - Clinton won easily against dole thanks to economy and Republican infighting
         - Clinton's centrism and charm helped shape modern democratic party
             - whitewater and Lewinsky affair marred his legacy but not that badly
-- [[2000's]]
+- [[2000's General Notes]]
+
+
+---
+
+**Related-Topics**:: 
+	
+**Sub-Topics**::
+	
+**Outline**::
+
+--- 
+##### MarkdownText
+
+##### PlainText
+
+

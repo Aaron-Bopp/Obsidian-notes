@@ -1,4 +1,16 @@
-- [[1960's]]
+---
+creation date: 2021-04-30
+modification date: Friday 30th April 2021 00:44:40
+note-type: 
+- content-note
+creator:
+content-type:
+- class
+source: NWMSU
+bib:
+---
+
+- [[1960's General Notes]]
 - Youth Revolt
      - Anti War - non-college students could be drafted, college students could nto
           - Broad wave of dissatisfaction among young middle class white Americans
@@ -77,7 +89,7 @@
                - Stopped production of some of the weapons that shot down missiles
      - Domestic Policy
           - Strong sense of paranoia
-          - Civil Rights
+          - [[Civil Rights]]
           - Environmental Protection
                - Responded to **Silent Spring** by creating NOAA and EPA but refused to spend any money on environment
           - Stagflation
@@ -136,13 +148,28 @@
                - returned panama canal to panama
           - created office human rights
                - pledged to cut off nations
-          - afghanistan
+          - [[Afghanistan]]
                - US provided weapons to rebels that would become the taliban
-          - Crisis in Iran
+          - Crisis in [[Iran]]
                - shah was an American puppet
                     - America allowed Iranian shah in to get medical assistance
                - Iran hostage crisis
                     - hostages weren't released until carter released money
                          - hostages weren't released until Reagan
                               - Reagan staffers sold weapons to Iran and may have helped keep hostages until Reagan elected
-- [[1980's]]
+- [[1980's General Notes]]
+
+---
+
+**Related-Topics**:: 
+	
+**Sub-Topics**::
+	
+**Outline**::
+
+--- 
+##### MarkdownText
+
+##### PlainText
+
+

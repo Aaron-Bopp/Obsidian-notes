@@ -1,5 +1,17 @@
+---
+creation date: 2021-04-30
+modification date: Friday 30th April 2021 00:44:40
+note-type: 
+- content-note
+creator:
+content-type:
+- class
+source: NWMSU
+bib:
+---
+
 - What was the root cause of the civil war
-    - Civil war trust analysis of States succession statements showed that slavery and state's rights were the most common reasons. 
+    - [[Civil War]] trust analysis of States succession statements showed that slavery and state's rights were the most common reasons. 
     - Most of the wealth of the South was in land and slaves, most banks were in the North
 - There would not be a southern president till 1963
 - Executive Reconstruction
@@ -15,4 +27,19 @@
     - Congress passed 11 articles of impeachment but were one vote short of convicting
 - 15th ammendment gave voting rights to former slaves but not women
     - southern states started using Jim Crow laws to stop black people from voting
-- 
+
+
+---
+
+**Related-Topics**:: 
+	
+**Sub-Topics**::
+	
+**Outline**::
+
+--- 
+##### MarkdownText
+
+##### PlainText
+
+

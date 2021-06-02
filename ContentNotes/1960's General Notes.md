@@ -1,6 +1,18 @@
-- [[1950's]]
+---
+creation date: 2021-04-30
+modification date: Friday 30th April 2021 00:44:40
+note-type: 
+- content-note
+creator:
+content-type:
+- class
+source: NWMSU
+bib:
+---
+
+- [[1950's General Notes]]
 - 1960s - More Liberal America
-    - Election Nixon vs JFK
+    - Election [[Nixon]] vs [[JFK]]
         - Both strongly against [[Communism]] with a service background
         - JFK's Catholicism was a problem for lots of Americans
         - Debates hurt Nixon a lot 
@@ -49,7 +61,7 @@
                 - LBJ used JFK's legacy to move policy forward
     - The Great Society (lecture 21) 1965-1968
         - 1964 Election
-            - LBJ worked to pass legislation after JFK's assassination in 1963
+            - [[LBJ]] worked to pass legislation after JFK's assassination in 1963
             - LBJ was radical but Goldwater was more radical
                 - Goldwater wanted to use Atomics in Vietnam
         - LBJ
@@ -74,8 +86,8 @@
             - Great Society legislation brought hope to everyday Americans
                 - wiped out whites only signs
                 - Not handouts handups
-    - Vietnam
-        - Vietnam wanted independence from France
+    - [[Vietnam]]
+        - Vietnam wanted independence from [[France]]
         - Divided on 17th parralel and was designed
         - Began as part of the Domino Theory
             - If Vietnam fell to [[Communism]] the rest of South Asia
@@ -122,9 +134,9 @@
             - Rights of Accused
                 - Mapp v Ohio (1961)
                 - Miranda v Arizona (1966)
-        - Black Power Movement
+        - [[Black Power]] Movement
             - New voices that opposed some of the things MLK stood for
-                - Malcolm X
+                - [[Malcolm X]]
                     - Said race was number one problem in US.
                     - assassinated in 1965
                     - aspired for liberation not integration
@@ -134,7 +146,7 @@
                     - Chairman of SNCC
                     - Abandoned Interracial Collaboration
                     - Lowndes County Freedom Party
-                - The Black Panthers
+                - The [[Black Panthers]]
                     - Black Panther Party for Self Defense
                         - The Vanguard
                             - Studied law and said that anybody without a felony could carry firearm
@@ -179,7 +191,7 @@
                     - employment
                     - poverty as cause
                 - The report of the Kerner Commission, appointed by President Lyndon B. Johnson to examine the causes of race riots in American cities in previous years, declares the nation is..."moving toward two societies, one black, one white--seperate and unequal." [src](https://www.smithsonianmag.com/history/timeline-seismic-180967503/)
-        - Native American rights
+        - [[Native American]] rights
             - 1961 Declaration of Purposes
                 - Criticized government's treatment of Native Americans
                 - lobbied for
@@ -197,7 +209,7 @@
                 - Reclaim Alcatraz Island for price that was payed for Manhattan it and help not indigenous people learn of their culture
                     - Got discussion with President Nixon
                     - Advocated for many different thigns
-        - Latine Rights
+        - [[Latine]] Rights
             - Similar types of problems
                 - poverty
                 - wage gap
@@ -243,7 +255,7 @@
             - Columbia expanding in black neighborhoods
             - University supported police violence
             - large multiple day protest
-        - June 5 RFK assasinated
+        - June 5 [[RFK]] assasinated
             - directly after winning California primary
             - RFK would be first anti-war person in the white house
         - June 28 New tax bill
@@ -276,4 +288,19 @@
         - December Apollo missions success
     - Youth Revolt in 1970sth
     - Veterans return from the war in 1970s
-- [[1970's]]
+- [[1970's General Notes]]
+
+---
+
+**Related-Topics**:: 
+	
+**Sub-Topics**::
+	
+**Outline**::
+
+--- 
+##### MarkdownText
+
+##### PlainText
+
+

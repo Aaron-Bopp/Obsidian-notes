@@ -1,4 +1,16 @@
-- [[1970's]]
+---
+creation date: 2021-04-30
+modification date: Friday 30th April 2021 00:44:40
+note-type: 
+- content-note
+creator:
+content-type:
+- class
+source: NWMSU
+bib:
+---
+
+- [[1970's General Notes]]
 - Reagan
     - Lost in primary of 1976
     - Won in 1980 by 9 mil votes
@@ -26,7 +38,7 @@
             - budget cuts
                 - tried to cut medicare and social security but they were far too popular
                 - tried to cut subsidies but subsidized industries had supported his run
-            - anti-liberalism
+            - [[anti-liberalism]]
                 - worked against unions
                 - fought against abortion rights
                 - cut funds to equal opportunity employment commission
@@ -75,7 +87,7 @@
         - affordable housing dissapeared
             - govt programs ended and were given over to private contractors
         - release of mental health patients from no longer govt funded hospitals and services
-    - AIDS epidemic
+    - [[AIDS]] epidemic
         - blood related/transmitted
             - spreads through communities for years without people knowing
         - Very little information
@@ -84,7 +96,7 @@
             - people were very sick and their immune system wasn't working
             - people understood AIDS and HIV as synonymous
         - Reagan did not comment for years
-    - War on Drugs
+    - [[War on Drugs]]
         - Began under Nixon
             - increased funding for DEA and other agencies
             - introduced minimum mandatory sentencing
@@ -92,8 +104,26 @@
             - increased sentencing from Nixon
         - Disproportionately affected minority communities and lead to mass incarceration
 - Election of 1988
-    - Bush was bipartisan vice-president of Reagan
+    - [[HW Bush]] was bipartisan vice-president of Reagan
         - made a fortune in oil  
     - growing fears of national debt but Bush offered no tax hikes
     - Dukakis had no notable features
-- [[1990's]]
+- [[1990's General Notes]]
+
+
+---
+
+#INBOX/0
+
+**Related-Topics**:: 
+	
+**Sub-Topics**::
+	
+**Outline**::
+
+--- 
+##### MarkdownText
+
+##### PlainText
+
+

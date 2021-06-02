@@ -1,15 +1,27 @@
-- [[1920's]]
+---
+creation date: 2021-04-30
+modification date: Friday 30th April 2021 00:44:40
+note-type: 
+- content-note
+creator:
+content-type:
+- class
+source: NWMSU
+bib:
+---
+
+- [[1920's America]]
 - Great Deppression
     - Causes of the Great Deppression
         - [[Wealth Inequality]]- 1%  650x the income of bottom 11%
-        - unequal distributions of corporate power - large trust and monopolys. 1920s rolled back regulations
+        - unequal distributions of corporate power - large trust and [[monopolys]]. 1920s rolled back regulations
         - bad banking structure - didn't have enough cash to keep loans up. When banks failed people lost their money
         - foreign balance of payments - America stifled foreign trade by demanding debts be returned and controlled the worlds gold supply
         - limited or poor state of economic intelligence
         - The government did not understand well enough how the world economy worked
     - Social problems
         - Fathers left their families
-        - Extreme unemployment and poverty
+        - Extreme [[unemployment]] and [[poverty]]
         - Protests 
             - bonus expeditionary force 
             - farmers protested against banks foreclosing their farms
@@ -27,10 +39,10 @@
         - Despite this he prioritized the budget and did not want to give help to individuals 
         -  
     - [[FDR]]
-        - [[FDR]]one the Election with no real plans but with promises of Relif programs, repealing prohibition, and a charming and upbeat demeanor
+        - [[FDR]] won the Election with no real plans but with promises of Relief programs, repealing prohibition, and a charming and upbeat demeanor
         - Worked on the New Deal
             - Created by the Brain Trust
-            - Special session of Congress and accomplished a lot in the first hundred days.
+            - Special session of [[Congress]] and accomplished a lot in the first hundred days.
         - Fireside chats
     - Recovery and the New Deal
         - Non-sound banks were taken over by the government until they could become sound again
@@ -40,8 +52,24 @@
         - NIRA - established prices for companies and consumers
             - Found unconstitutional
         - Second Deal
-            - WPA - built hospitals, airports, infastructure
+            - WPA - built hospitals, airports, [[infrastructure]]
             - Wagner Act - strengthed protection for works
             - Social Security - direct aid to retired workers, left a lot of people out but set a standard of helping who could not help themselves
             - Wealth Tax Act - those who benefited from the economy needed to share it
-- [[1940's]]
+- [[1940's General Notes]]
+
+
+---
+
+**Related-Topics**:: 
+	
+**Sub-Topics**::
+	
+**Outline**::
+
+--- 
+##### MarkdownText
+
+##### PlainText
+
+

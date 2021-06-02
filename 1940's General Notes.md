@@ -1,10 +1,22 @@
-- [[1930's]]
+---
+creation date: 2021-04-30
+modification date: Friday 30th April 2021 00:44:40
+note-type: 
+- content-note
+creator:
+content-type:
+- class
+source: NWMSU
+bib:
+---
+
+- [[1930's General Notes]]
 - WW2
     - Expansions
-        - Germany
+        - [[Germany]]
             - German put weapons in the DMZ
             - Hitler incited riots and used them as an excuse to invade Czechoslovakia
-            - Hitler sold himself as a just trying to unite the german people that had been seperated since WW1
+            - [[Hitler]] sold himself as a just trying to unite the german people that had been seperated since WW1
             - Nazi-Soviet Pact - removed the immediate threat of two front war
             - Blitzkrieg was fast and destructive
                 - Other countries came in when the Soviet Union also attacked poland
@@ -34,7 +46,7 @@
                 - This is when concentration camps were discovered
                 - Eisenhower invited many people to see these atrocities and document them
         - Pacific Theater
-            - Initial battles won by Japan
+            - Initial battles won by [[Japan]]
             - Two-pronged war
                 - australian attacks
                 - island hopping - amphibious landings trying to take back on island at a time
@@ -53,7 +65,7 @@
             - Some died from bomb, others died from infections and wounds, some were effected by the radiation and are still discriminated against
             - [[Did the Atomic Bombs end WW2]]
                 - US knew that Japan was negotiating surrender through neutral states, but US only wanted unconditional surrender
-                - There was invasion in plans for november 1945
+                - There was invasion in plans for November 1945
                 - Japan's navy was already weakened
                 - Truman never apologized or publicly questioned his decision
                     - He did it to shorten the war, save American lives, and bring unconditional surrender
@@ -65,8 +77,8 @@
                 - Provisions
                     - Unconditional Surrender
                     - Military occupation of Germany and Japan
-                        - Germany was divvided between Ally powers
-                - Created United Nations
+                        - Germany was divided between Ally powers
+                - Created [[United Nations]]
                     - Security Council
                         - 11 nations that vary but five primary (victors of WW2)
                             - US
@@ -78,7 +90,7 @@
                     - General Assembly
                         - All major nations
     - Causes
-        - Developement of Totalitarianism - state control of all levels of society
+        - Development of [[Totalitarianism]] - state control of all levels of society
             - Use of a secret service
             - Control of media and propoganda
             - forbidding criticism
@@ -89,7 +101,7 @@
             - Hitler was seen a figure strong enough to protect them against [[Communism]]
             - Once Hitler was appointed Chancelor he replaced non-nazis and jews at all levels of government
             - Framed the Nazi cause as a conflict between the aRyans and jews
-        - Italy
+        - [[Italy]]
             - Musolini became harcore nationalist after Italy
             - also preyed on fear of [[Communism]]
             - Mussolini and his fascist mob took control of the government by force
@@ -98,4 +110,20 @@
             - Ruled by emperor but military had full control of state
             - Industrial power but needed natural resources, colonialism was the answer
             - Believed other Asian nationalities were inferior
-- [[1950's]]
+- [[1950's General Notes]]
+
+
+---
+
+**Related-Topics**:: 
+	
+**Sub-Topics**::
+	
+**Outline**::
+
+--- 
+##### MarkdownText
+
+##### PlainText
+
+

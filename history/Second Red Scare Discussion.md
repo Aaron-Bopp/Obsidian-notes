@@ -1,4 +1,4 @@
-- [[1950's]]
+- [[1950's General Notes]]
 ## Document 1:  [First Amendment to the U.S. Constitution](https://www.mtsu.edu/first-amendment/page/things-you-need)
 - Five freedoms
 	- speech

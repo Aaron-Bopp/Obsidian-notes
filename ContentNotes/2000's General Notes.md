@@ -1,4 +1,16 @@
-- Bush
+---
+creation date: 2021-04-30
+modification date: Friday 30th April 2021 00:44:40
+note-type: 
+- content-note
+creator:
+content-type:
+- class
+source: NWMSU
+bib:
+---
+
+- [[W Bush]]
     - Election of 2000
         - Closest election in history
             - Secretary of State of Florida declared Bush winner then ordered full state hand recount
@@ -46,12 +58,12 @@
                 - invasion was successful but Iraq fell into chaos
                 - increased troops in 2007
             - Anti-war sentiment lead to democrats taking both houses in 2006
-            - Patriot Act
+            - [[Patriot Act]]
                 - Justified domestic surveillance and torture to root out terrorism 
                 - Congress approved use of violence against anyone who was involved in 9/11
                 - Allowed NSA to monitor for terrorist communication without any warrants 
                 - invaded privacy of American citizens
-            - War crimes
+            - [[War crimes]]
                 - Used US bases on foreign soil to skirt US laws
                 - Called terrorists unlawful combatants to avoid Geneva Conventions
                 - Used water-boarding and sleep deprivation as torture-interrogation tactics
@@ -63,15 +75,31 @@
             - 800 billion program
             - unemployment dropped
         - health care reform
-            - Obama insisted on budget neutral reform
+            - [[Obama]] insisted on budget neutral reform
         - legislation
             - equal pay for women
             - dodd-frank act - addressed issues that caused 2008
     - Election of 2010
-        - republicans retook both houses
+        - [[republicans]] retook both houses
         - both parties stopped pursuing legislative goals
     - Foreign Policy
         - Declared that he would end the wars
-        - ended Iraq war
+        - ended [[Iraq]] war
         - growth of isis 
         - drone warfare
+
+
+---
+
+**Related-Topics**:: [[American History]], [[21st Century America]]
+	
+**Sub-Topics**::
+	
+**Outline**::
+
+--- 
+##### MarkdownText
+
+##### PlainText
+
+

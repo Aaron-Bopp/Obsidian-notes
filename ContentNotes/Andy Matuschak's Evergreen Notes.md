@@ -9,6 +9,7 @@ source: https://publish.obsidian.md/andymatuschak/_Start+Here
 bib:
 aliases: [Andy's notes]
 ---
+
 Author:: [[Andy Matuschak]]
 - [[evergreen note]]s evolve, contribute, and accumulate over time/projects
 	- [[evergreen note]]s support knowledge, transient notes don't
