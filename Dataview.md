@@ -11,7 +11,7 @@ note-type: [evergreen-note, tools, topic-note]
 
 Source Code:: https://github.com/blacksmithgu/obsidian-dataview
 Documentation:: https://blacksmithgu.github.io/obsidian-dataview/
-Snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673
+Snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673, https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673/104
 
 
 - Inline Query
@@ -27,6 +27,8 @@ Snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, http
 	- [[Dataview]] simplifies fields defined in line to lower-case-no-special-characters
 
 
+
+	
 # Queries
 ## Basic Syntax
 ```

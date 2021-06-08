@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3c3d37f4f420abba",
+        "id": "1e35572388b51399",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DrK and DrMike conversation.md",
-            "mode": "source"
+            "file": "Koescher/Amelia Berger.md",
+            "mode": "preview"
           }
         }
       }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DrK and DrMike conversation.md"
+                "file": "Koescher/Amelia Berger.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DrK and DrMike conversation.md",
+                "file": "Koescher/Amelia Berger.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,29 +137,37 @@
             "id": "ff1702e116694d8f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d77d0e83d061a2d5",
+            "type": "leaf",
+            "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 386,
     "collapsed": true
   },
-  "active": "3c3d37f4f420abba",
+  "active": "1e35572388b51399",
   "lastOpenFiles": [
-    "Untitled.md",
-    "history/Did the Atomic Bombs end WW2.md",
-    "history/Second Red Scare Discussion.md",
-    "Andy Matuschak.md",
-    "How ADHD effects concentration.md",
-    "evergreen note.md",
-    "mental health.md",
-    "ContentNotes/1920's America.md",
-    "history/21st Century America.md",
-    "history/Reconstruction.md"
+    "Koescher/Amelia Berger.md",
+    "Koescher/Hebert Berger.md",
+    "Investigate a mystery.md",
+    "Obsidian (software).md",
+    "Dataview.md",
+    "Amelia Berger.md",
+    "Addictive Personality Dr.K interview.md",
+    "Alignment.md",
+    "Koescher/The Eve of the End of the World.md",
+    "Koescher/Cricket Rainbow McCallister.md"
   ]
 }

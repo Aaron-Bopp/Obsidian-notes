@@ -7,7 +7,9 @@ note-type:
 
 ---
 
-Obsidian is a markdown editor that includes many features that are valuable to [[personal knowledge management]] systems. 
+Obsidian is a markdown editor that includes many features that are valuable to [[personal knowledge management]] systems.
+
+Snippets:: https://github.com/Dmitriy-Shulha/obsidian-css-snippets/tree/develop/Snippets
 
 It also has a variety of plugins that help the workflow
 - [Templater](https://github.com/SilentVoid13/Templater)
