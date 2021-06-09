@@ -47,9 +47,9 @@ flatten file.tags
 
 ---
 
-**Status**:: #EVER/SPROUT/CULTIVATE  
+**Status**:: #EVER/SPROUT 
 
-**Related-Topics**:: 
+**Related-Topics**:: [[SQL]], [[data querrying]], [[obsidian plugins]]
 	
 **Sub-Topics**::
 	

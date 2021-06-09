@@ -18,16 +18,16 @@ bib:
 		- Cortisol hits within the hour and last for 4-24 hours
 			- Basically keeps you on guard so that you're easier to wake from sleep, more aware, etc.
 		- These we formed for physical forms of stress (tigers) but now effect us even for mental stressors 
-	- Our brains are not designed for correcting the dissonance between thoughts and conclusions
-		- Our brains are designed to make certainty out of uncertainty/find reasons for illogical decisions
-			- If given too many options the brain will make choices that we cannot immediately understand the reasons for
-		- If we get paralyzed through lack of knowledge we won't act 
-			- Existential Dread comes from the knowledge that we are ignorant/can't fully understand the world
-		- #Def [Neurosis](https://en.wikipedia.org/wiki/Neurosis) -> the tendency to worry
-	- As a human, a lot of what is good for us makes us suffer
-		- Most professional success comes from Conscientiousness and Neuroticism  
-		- #TO/EXPLORE/RESEARCH  5-Factor Model
-		- #Def [Neuroticism](https://en.wikipedia.org/wiki/Neuroticism) -> sometimes defined as a tendency for quick arousal when stimulated and slow relaxation from arousal, especially with regard to negative emotional arousal.
+	- our brains are not designed for correcting the dissonance between thoughts and conclusions
+		- our brains are designed to make certainty out of uncertainty/find reasons for illogical decisions
+			- if given too many options the brain will make choices that we cannot immediately understand the reasons for
+		- if we get paralyzed through lack of knowledge we won't act 
+			- existential dread comes from the knowledge that we are ignorant/can't fully understand the world
+		- #def [neurosis](https://en.wikipedia.org/wiki/neurosis) -> the tendency to worry
+	- as a human, a lot of what is good for us makes us suffer
+		- most professional success comes from conscientiousness and neuroticism  
+		- #to/explore/research  5-factor model
+		- #def [neuroticism](https://en.wikipedia.org/wiki/neuroticism) -> sometimes defined as a tendency for quick arousal when stimulated and slow relaxation from arousal, especially with regard to negative emotional arousal.
 			- Is a trait in many models within personality theory, but there is significant disagreement on its definition
 		- #Def [Conscientiousness](https://en.wikipedia.org/wiki/Conscientiousness) -> the personality trait of being careful, or diligent. 
 			- Conscientiousness implies a desire to do a task well, and to take obligations to others seriously. 
