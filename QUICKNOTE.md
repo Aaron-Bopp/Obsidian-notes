@@ -1,12 +1,13 @@
+[[2021-06-13]] 12:27
+[[ContentNotes/Andy Matuschak's Evergreen Notes.md]]: #TO/DO/PROGRAM add quickadd plugin and good templates https://github.com/chhoumann/quickadd
+
 [[2021-05-31]] 09:43
 [[ContentNotes/1920's America.md]]: #TO/DO/PROGRAM [Python script for automatically linking with aliases](https://github.com/perkinsben/obs_tools/tree/master/forward_linker)
 
-[[2021-05-31]] 04:36
-[[topics/on me.md]]: I think in order for me to feel like my [[parents]] [[love]] me, I need to see them empathize with me --> which requires them too consider the fact that they might be wrong.
 
 [[2021-05-31]] 04:36
 [[topics/on me.md]]: I have a stored up emotion of hating myself
-	- When this emotion comes up, the mind rationalizes it away, but the emotion is just stored away ([[Samskara's]]: ball of emotion)
+	- When this emotion comes up, the mind rationalizes it away, but the emotion is just stored away ([[Samskara]]: ball of emotion)
 
 [[2021-05-31]] 04:35
 [[topics/on me.md]]: I don't know if I'm introspective, maybe I just spend a lot of time rationalizing [[my emotions]] instead of dealing them

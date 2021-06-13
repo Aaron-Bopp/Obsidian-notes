@@ -9,7 +9,7 @@ for folder in ["ContentNotes", "tharoline", "."]:
                     notes.setdefault(entry, lines)
                 
 for name in notes:               
-    for tagPattern in ["[[Def", "[[Qoute","[[TO", "[[Ref", "[[Yes", "[[Inbox", "[[No", "[[Sometimes", "[[Fun", "[[EVER"]:
+    for tagPattern in ["[[Allignment", "[[Region", "[[Def", "[[Qoute","[[TO", "[[Ref", "[[Yes", "[[Inbox", "[[No", "[[Sometimes", "[[Fun", "[[EVER"]:
         end = True
         while end:
             try:

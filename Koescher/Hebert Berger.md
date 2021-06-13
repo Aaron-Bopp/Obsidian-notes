@@ -1,9 +1,10 @@
 # Hebert Berger
-Charm-1 Manipulate Someone 
-Cool+1 Act Under Pressure or Help Out 
-Sharp=0  Investigate a Mystery or Read a Bad Situation 
-Tough+1 Kick some ass or protect someone 
-Weird+3 Use Magic 
+| Charm              | Cool                           | Sharp                                         | Tough                            | Weird     |
+| ------------------ | ------------------------------ | --------------------------------------------- | -------------------------------- | --------- |
+| -1                 | +1                             | 0                                             | +1                               | +2        |
+| Manipulate Someone | Act Under Pressure or Help Out | Investigate a Mystery or Read a Bad Situation | Kick some ass or protect someone | Use Magic |
+
+
 
 Luck 3
 XP 3
@@ -12,7 +13,7 @@ Harm 0 Unstable N
 ## Moves
 **Jinx**:  You  can  encourage  coincidences  to  occur,  the  way you want. When you jinx a target, roll +Weird. On a 10+ hold 2 and on a 7-9 hold 1. On a miss, the Keeper holds 2 over you to be used in the same way. Spend your hold to:
 - Interfere with a hunter, giving them -1 forward.
-- Help a hunter, giving them +1 forward, by inter-fering with their enemy.
+- Help a hunter, giving them +1 forward, by interfering with their enemy.
 - Interfere   with   what   a   monster,   minion,   or   bystander is trying to do.
 - Inflict 1-harm on the target due to an accident.
 - The target finds something you left for them.
@@ -23,7 +24,7 @@ Harm 0 Unstable N
 **Haven**
 Haven: Magical Laboratory: You  have  a  mystical  lab  with  all  kinds  of  weird  ingredients  and  tools  useful  for  casting  spells  (like  the  use  magic  move,  big  magic,  and any other magical moves).
 Infirmary: You can heal people, and have the space for one or two to recuperate. The Keeper will tell you how long any patient’s recovery is likely to take, and if you need extra supplies or help
-Protective Spells:  Your  haven  is  safe  from  mon-sters—they  cannot  enter.  Monsters  might  be  able  to do something special to evade the wards, but not easily.
+Protective Spells:  Your  haven  is  safe  from  monsters—they  cannot  enter.  Monsters  might  be  able  to do something special to evade the wards, but not easily.
 
 **Hunches**: When  something  bad  is  happening  (or  just  about  to  happen)  somewhere  that  you  aren’t,  roll +Sharp. On a 10+ you knew where you needed to  go,  just  in  time  to  get  there.  On  a  7-9,  you  get  there  late—in  time  to  intervene,  but  not  prevent  it  altogether. On a miss, you get there just in time to be in trouble yourself.
 
@@ -41,7 +42,7 @@ Past:
 
 Improvements:
 +1 Weird
-Mobility: Good Things: monster cage, armoured Bad thing: Obvious
+Mobility: Good Things: monster cage, armoured, alive Bad thing: Obvious
 
 
 

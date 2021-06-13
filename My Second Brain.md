@@ -14,9 +14,7 @@ Since March 2021 I have become very interested in [[personal knowledge managemen
 	- Organization
 		- [[What is a fleeting note]]
 		- [[What is a content note]]
-			- [[Naming Schema for Content Notes]]
 		- [[What is a permanent note]]
-			- [[Naming Schema for Permanent Notes]]
 		- [[What is a organizational note]]
 			- [[topic note]]
 				- [[How to create topic notes]]

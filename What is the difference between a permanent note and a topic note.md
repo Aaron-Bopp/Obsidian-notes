@@ -12,7 +12,7 @@ A [[permanent note]] is a singular thought and a topic note is a singular idea. 
 
 ---
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SPROUT/CULTIVATE  
 
 **Related-Topics**:: 
 	

@@ -1,9 +1,10 @@
 # [[Amelia Berger]]
 ## Hex
 
-| Charm | Cool | Sharp | Tough | Weird |
-| ----- | ---- | ----- | ----- | ----- |
-| -1    | +1   | 0     | +1    | +2    |
+| Charm              | Cool                           | Sharp                                         | Tough                            | Weird     |
+| ------------------ | ------------------------------ | --------------------------------------------- | -------------------------------- | --------- |
+| -1                 | +1                             | 0                                             | +1                               | +2        |
+| Manipulate Someone | Act Under Pressure or Help Out | Investigate a Mystery or Read a Bad Situation | Kick some ass or protect someone | Use Magic |
 
 **Luck**:: 7
 **Harm**:: 0

@@ -19,6 +19,9 @@ This is a constantly updated index of entry points and topics for my personal fl
 		- [[My Second Brain]]
 		- [[Zettlekassen]]
 	- [[mental health]]
+		- [[ADHD]]
+		- [[trauma]]
+			- 
 
 
 # TODOs 

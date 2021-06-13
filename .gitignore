@@ -1,4 +1,2 @@
+*.md
 
-*/.obsidian/*
-.obsidian/config
-.obsidian/workspace
