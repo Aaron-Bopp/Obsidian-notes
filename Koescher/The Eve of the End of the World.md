@@ -73,4 +73,25 @@
 	- 
 
 ### Loop 3
-- Crack in the top of the parking lot in the top of the resevoir 
+- Crack in the top of the parking lot in the top of the reservoir 
+- Lake Reely - Bill and Dina have a lake house of there
+
+## Epilogue
+- Everybody but [[Hebert Berger]] will be joining the league
+	- [[Hunter's League International]] agents will be living around town
+	- A hunter Doctor will be taking the place of the regular one in the town
+- Colorado and Oregon are homes to most monsters in the world
+- The Raccoon with a weapon
+	- TRWAW's family anime body pillow and three Russian nesting dolls
+	- Sentient animals do not have full intelligence and are still somewhat wild
+- Raccoon-tron or Raccoon-zilla was just a bunch of raccoon's clingy on to each other
+	- Raccoon's have the highest rate of awakening because they are small and easy to experiment on but also nobody cares if they go missing
+- Atlantis exists 
+- Hunt on Baba Yaga in northern Russia 
+- Lazarus Initiative
+	- Each director was dying younger and younger
+	- there is no one to take the title of Director and [[Hunter's League International]]
+	- Will resurrect on New Year's Eve but 
+	- [[Isaac Cyrus]] sacrificed his use this year to resurrect [[Clara]]
+		- If [[Isaac Cyrus]] dies within the next year he will die forever and his knowledge will not be passed on to anyone
+	- 

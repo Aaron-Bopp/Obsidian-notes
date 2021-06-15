@@ -22,8 +22,6 @@ Author:: [[Andy Matuschak]]
 
 ---
 
-[[INBOX/0]]
-
 **Related-Topics**:: [[personal knowledge management]], [[second brain]], [[Zettlekassen]]
 	
 **Sub-Topics**:: 

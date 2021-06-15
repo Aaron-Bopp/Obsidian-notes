@@ -19,6 +19,7 @@ bib:
 - Dr Mike Personal life
 	- After every conversation DrMike is reexamining and reevaluating it to see how he could to do better
 		- When he speaks he is re-examining and fact checking himself
+		- #TO/DO/CONCEPTUALIZE  About the inner monologue and how constantly reevaluating yourself effects your self-worth
 	- Strong values of fairness, justness
 	- Fell in love with medicine because it involves constant learning
 	- Views his skills lie in constantly being introspective
@@ -32,7 +33,7 @@ bib:
 	- Fulfillment is if I die now I will be happy with what I've accomplished
 		- Accomplishment is good relationships with the family, good interactions with people
 	- Happiness is a state of mind in a single moment. Happiness == Flourish
-		- Is DrMike happy or has he defined happiness based off my life?
+		- Is DrMike happy or has he defined happiness based off his life?
 	- Nature of [[Happiness]] is not doing what you love its detachment the decisions of life
 		- Happiness comes from satisfaction in either choice and not placing stake what is the right decision
 		- You can feel sadness and still be happy

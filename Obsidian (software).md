@@ -20,6 +20,7 @@ It also has a variety of plugins that help the workflow
 	- Inspired by [[Roam Research]]'s focus on outlining
 - [Andy's Sliding Panes](https://github.com/deathau/sliding-panes-obsidian)
 	- Named after the prolific [[Andy Matuschak]]
+- [[Dual]]
 
 
 

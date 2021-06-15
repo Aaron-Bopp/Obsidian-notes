@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1e35572388b51399",
+        "id": "3ea2af72e10d55ee",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Koescher/Amelia Berger.md",
-            "mode": "preview"
+            "file": "Dual.md",
+            "mode": "source"
           }
         }
       }
@@ -39,12 +39,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/DO/PROGRAM",
+                "query": "tag:#EVER",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Koescher/Amelia Berger.md"
+                "file": "Dual.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Koescher/Amelia Berger.md",
+                "file": "Dual.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,26 +148,34 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "81e09651c437ca7f",
+            "type": "leaf",
+            "state": {
+              "type": "chat",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 386,
     "collapsed": true
   },
-  "active": "1e35572388b51399",
+  "active": "3ea2af72e10d55ee",
   "lastOpenFiles": [
-    "Koescher/Amelia Berger.md",
-    "Koescher/Hebert Berger.md",
-    "Investigate a mystery.md",
+    "Dual.md",
     "Obsidian (software).md",
-    "Dataview.md",
-    "Amelia Berger.md",
-    "Addictive Personality Dr.K interview.md",
-    "Alignment.md",
-    "Koescher/The Eve of the End of the World.md",
-    "Koescher/Cricket Rainbow McCallister.md"
+    "Mermaid (software).md",
+    "evergreen note.md",
+    "Untitled.md",
+    "ContentNotes/Andy Matuschak's Evergreen Notes.md",
+    "Andy Matuschak.md",
+    "permanent note.md",
+    "INDEX.md",
+    "Sadness is enlightenment and happiness is delusion.md"
   ]
 }
