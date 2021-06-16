@@ -5,15 +5,16 @@ note-type:
 - content-note
 creator:
 content-type:
+- 
 source:
 bib:
 ---
 
+###### [[<% tp.file.title %>]]
+
 <% tp.file.selection() %>
 
 ---
-
-#INBOX/0
 
 **Related-Topics**:: 
 	

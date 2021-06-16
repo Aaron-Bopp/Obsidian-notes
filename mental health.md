@@ -30,8 +30,8 @@ SORT Status
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related-Topics**:: 
+**Related-Topics**:: [[mental disorders]]
 	
-**Sub-Topics**::
+**Sub-Topics**:: [[ADHD]], [[Tips for concentration]], [[Sadness is enlightenment and happiness is delusion]]
 	
 **References**

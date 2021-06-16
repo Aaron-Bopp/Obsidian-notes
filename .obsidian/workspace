@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea2af72e10d55ee",
+        "id": "6e7cc73111618ac4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dual.md",
+            "file": "self-love.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER",
+                "query": "tag:#TO/PONDER/ME",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,32 +88,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dual.md"
+                "file": "self-love.md"
               }
-            }
-          },
-          {
-            "id": "9a0421618d8c3776",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "931846d12c753feb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0ca7f2baf35d0f9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dual.md",
+                "file": "self-love.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,14 +107,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "ff1702e116694d8f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -156,26 +124,37 @@
               "type": "chat",
               "state": {}
             }
+          },
+          {
+            "id": "973f28936c3db7c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "self-love.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
-  "active": "3ea2af72e10d55ee",
+  "active": "6e7cc73111618ac4",
   "lastOpenFiles": [
-    "Dual.md",
-    "Obsidian (software).md",
-    "Mermaid (software).md",
-    "evergreen note.md",
-    "Untitled.md",
-    "ContentNotes/Andy Matuschak's Evergreen Notes.md",
-    "Andy Matuschak.md",
-    "permanent note.md",
+    "self-love.md",
     "INDEX.md",
-    "Sadness is enlightenment and happiness is delusion.md"
+    "In order to for my parents to love me, they need to admit they might be wrong.md",
+    "my parents.md",
+    "writing/To my parents.md",
+    "Loving a a non-believer requires loving the fact that they are going to hell.md",
+    "ContentNotes/my gender.md",
+    "ego.md",
+    "The danger of religious beliefs in early childhood.md",
+    "Christians struggle to feel empathy because they must believe that non-christians are going to hell.md"
   ]
 }

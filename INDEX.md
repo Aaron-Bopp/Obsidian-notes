@@ -21,7 +21,12 @@ This is a constantly updated index of entry points and topics for my personal fl
 	- [[mental health]]
 		- [[ADHD]]
 		- [[trauma]]
-			- 
+			- [[early childhood]]
+		- [[self-actualization]]
+			- [[self-hate]]
+			- [[self-love]]
+			- [[self-improvement]]
+		- 
 
 
 # TODOs 
@@ -53,6 +58,12 @@ for (let tag of todoTags) {
 }
 ```
 
+# Related Topics
+```dataview
+table related-topics
+from ""
+where related-topics != null
+```
 
 # Evergreens
 ```dataview

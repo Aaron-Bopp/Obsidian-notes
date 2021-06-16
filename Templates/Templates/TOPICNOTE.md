@@ -7,6 +7,8 @@ note-type:
 
 ---
 
+###### [[<% tp.file.title %>]]
+
 <% tp.file.selection() %>
 
 ---
@@ -15,7 +17,7 @@ note-type:
 
 ---
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SEED
 
 **Related-Topics**:: 
 	
@@ -28,13 +30,13 @@ note-type:
 ```dataview
 TABLE Status, file.mday AS "Edited", file.cday AS "Created"
 FROM -"tharoline" and -"Templates" and [[<% tp.file.title %>]] and -"ContentNotes"
-WHERE file.name != "QUICKNOTE"
+WHERE file.name != "QUICKNOTE" and "file.name != <% tp.file.title %>"
 SORT Status
 ```
 ## Content Notes related to [[<% tp.file.title %>]]
 ```dataview
 TABLE type, file.mday AS "Edited", file.cday AS "Created"
 FROM -"tharoline" and -"Templates" and [[<% tp.file.title %>]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE"
+WHERE file.name != "QUICKNOTE" and "file.name != <% tp.file.title %>"
 SORT Status
 ```

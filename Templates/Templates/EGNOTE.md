@@ -2,9 +2,11 @@
 creation date: <% tp.file.creation_date("YYYY-MM-DD") %>
 modification date: <% tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>
 note-type: 
--  evergreen-note
+- evergreen-note
 
 ---
+
+###### [[<% tp.file.title %>]]
 
 <% tp.file.selection() %>
 

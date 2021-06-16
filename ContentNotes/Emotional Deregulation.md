@@ -17,7 +17,7 @@ bib:
      - Modify situations using books, music, etc.
      - Distract from emotions
      - suppress emotions
-          - #TO/PONDER/ME  rationalize emotions? 
+          - rationalize emotions? [[Explaining emotion can just be a way of escaping the situation]] 
      - These are good regulators but we need to accept our emotions
 - Managing emotional deregulation with [[mindfullness]] 
      - What do our emotions look like?

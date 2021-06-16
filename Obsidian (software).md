@@ -12,7 +12,7 @@ Obsidian is a markdown editor that includes many features that are valuable to [
 Snippets:: https://github.com/Dmitriy-Shulha/obsidian-css-snippets/tree/develop/Snippets
 
 It also has a variety of plugins that help the workflow
-- [Templater](https://github.com/SilentVoid13/Templater)
+- [[Templater]]
 	- Allows for advanced code execution and pre-built templates in [[Obsidian (software)]]
 - [[Dataview]]
 	- SQL queries for all your notes in [[Obsidian (software)]]
