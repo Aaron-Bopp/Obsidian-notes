@@ -28,7 +28,12 @@ This is a constantly updated index of entry points and topics for my personal fl
 			- [[self-improvement]]
 		- 
 
-
+# Recently Changed
+```dataview
+TABLE file.mtime as Edited, file.ctime as Created
+from ""
+SORT file.mtime DESC
+```
 # TODOs 
 ```dataviewjs
 let todoTags = [

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "self-love.md",
-            "mode": "source"
+            "file": "2021-05-31-23-36-15.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365,
-    "collapsed": true
+    "width": 365
   },
   "right": {
     "id": "d2f47cb3f5d142ba",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-love.md"
+                "file": "2021-05-31-23-36-15.md"
               }
             }
           },
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self-love.md",
+                "file": "2021-05-31-23-36-15.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self-love.md",
+                "file": "2021-05-31-23-36-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +145,15 @@
   },
   "active": "6e7cc73111618ac4",
   "lastOpenFiles": [
-    "self-love.md",
+    "2021-05-31-23-36-15.md",
+    "Social Anxiety stems from Insecurity of Self.md",
     "INDEX.md",
+    "self-love.md",
     "In order to for my parents to love me, they need to admit they might be wrong.md",
     "my parents.md",
     "writing/To my parents.md",
     "Loving a a non-believer requires loving the fact that they are going to hell.md",
     "ContentNotes/my gender.md",
-    "ego.md",
-    "The danger of religious beliefs in early childhood.md",
-    "Christians struggle to feel empathy because they must believe that non-christians are going to hell.md"
+    "ego.md"
   ]
 }
