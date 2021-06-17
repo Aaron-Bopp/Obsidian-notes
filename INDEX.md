@@ -20,19 +20,24 @@ This is a constantly updated index of entry points and topics for my personal fl
 		- [[Zettlekassen]]
 	- [[mental health]]
 		- [[ADHD]]
+			- [[How ADHD effects concentration]]
+				- [[Tips for concentration]]
 		- [[trauma]]
 			- [[early childhood]]
 		- [[self-actualization]]
 			- [[self-hate]]
 			- [[self-love]]
 			- [[self-improvement]]
-		- 
+		- [[anxiety]]
+			- [[Social Anxiety]]
+			- [[Your anxiety is telling you everything that could go wrong not what will go wrong]]
+			- [[Anxiety should be a tool at your disposal not an impedance to your life]]
 
-# Recently Changed
+# Recently Added
 ```dataview
 TABLE file.mtime as Edited, file.ctime as Created
 from ""
-SORT file.mtime DESC
+SORT file.ctime DESC
 ```
 # TODOs 
 ```dataviewjs

@@ -1,3 +1,19 @@
+---
+creation date: 2021-06-07
+modification date: Monday 7th June 2021 20:02:52
+note-type: 
+- organizational-note
+
+---
+
+###### [[QUICKNOTE]]
+
+[[2022-06-16]] 10:30
+[[your anxiety knows your insecurities better than you do.md]]: #TO/DO/RESEARCH 
+- Hierarchy of needs 	
+	- If you are in a bad situation you can't advance past that state but you don't lose those higher needs 
+- arbitrage
+
 [[2021-06-13]] 12:27
 [[ContentNotes/Andy Matuschak's Evergreen Notes.md]]: #TO/DO/PROGRAM add quickadd plugin and good templates https://github.com/chhoumann/quickadd
 
@@ -56,3 +72,14 @@
 
 
 
+
+
+---
+
+**Status**:: #EVER/SEED/UNPLANTED 
+
+**Related-Topics**:: 
+	
+**Sub-Topics**::
+	
+**References**

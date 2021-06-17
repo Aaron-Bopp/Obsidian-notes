@@ -10,7 +10,11 @@ note-type:
 Since March 2021 I have become very interested in [[personal knowledge management]] and the concept of a [[web of thought]] so intricate that it creates a [[second brain]]. This is my structure and philosophy of how I will construct [[My Second Brain]]
 
 # Outline
-- [[My Second Brain]]
+- [[My Second Brain]]2
+	- Starting your second brain
+		- [[Write your notes like you're planting an evergreen forest]]
+		- [[write what you think]]
+		- [[you can write your notes anywhere]]
 	- Organization
 		- [[What is a fleeting note]]
 		- [[What is a content note]]

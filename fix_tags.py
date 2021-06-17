@@ -4,7 +4,7 @@ for folder in ["ContentNotes", "tharoline", "."]:
     with os.scandir(folder) as vault:
         for entry in vault:
             if entry.is_file() and entry.name.endswith(".md"):
-                with open(entry.path, encoding='Latin') as text:
+                with open(entry.path, encoding='UTF-8') as text:
                     lines = text.read()
                     notes.setdefault(entry, lines)
                 

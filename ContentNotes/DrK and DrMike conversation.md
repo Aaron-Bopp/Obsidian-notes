@@ -19,7 +19,7 @@ bib:
 - Dr Mike Personal life
 	- After every conversation DrMike is reexamining and reevaluating it to see how he could to do better
 		- When he speaks he is re-examining and fact checking himself
-		-  #TO/DONE/CONCEPTUALIZED([[Constantly working on yourself is a form a self-hatred]]) the inner monologue and how constantly reevaluating yourself effects your self-worth
+		-  #TO/DONE/CONCEPTUALIZED([[Constantly working on yourself is a form a self-hatred]]) the inner monologue and how constantly reevaluating yourself effects your [[self-worth]]
 	- Strong values of fairness, justness
 	- Fell in love with medicine because it involves constant learning
 	- Views his skills lie in constantly being introspective
@@ -43,7 +43,7 @@ bib:
 	- Even if a treatment is 100% effective but it only gets a 5% compliance rate it won't change the world
 	- Compliance is the true challenge of medicine
 - Notoriety is not a natural thing
-- Social media is like sailing through stormy seas for your mental health - DrK
+- Social media is like sailing through stormy seas for your [[mental health]] - DrK
 
 
 ---

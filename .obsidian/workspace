@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e7cc73111618ac4",
+        "id": "98f1aa9adfb79d67",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-05-31-23-36-15.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,6 +65,46 @@
             }
           }
         ]
+      },
+      {
+        "id": "110feb2b7e642fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d9b1f65983935ec",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6782305791974078,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2021-05-31-23-36-15.md"
-              }
+              "state": {}
             }
           },
           {
@@ -97,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-31-23-36-15.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,9 +164,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-05-31-23-36-15.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -141,19 +174,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
-  "active": "6e7cc73111618ac4",
+  "active": "98f1aa9adfb79d67",
   "lastOpenFiles": [
-    "2021-05-31-23-36-15.md",
-    "Social Anxiety stems from Insecurity of Self.md",
-    "INDEX.md",
-    "self-love.md",
     "In order to for my parents to love me, they need to admit they might be wrong.md",
-    "my parents.md",
-    "writing/To my parents.md",
-    "Loving a a non-believer requires loving the fact that they are going to hell.md",
-    "ContentNotes/my gender.md",
-    "ego.md"
+    "unconditional love.md",
+    "Alignment.md",
+    "QUICKNOTE.md",
+    "self-worth.md",
+    "ContentNotes/DrK and DrMike conversation.md",
+    "Sadness is enlightenment and happiness is delusion.md",
+    "To be happy you need to not be sad.md",
+    "INDEX.md",
+    "related topics.md"
   ]
 }
