@@ -13,7 +13,7 @@ While Yang's presidential run can only be said to have had a net positive effect
 
 ---
 
-**Status**:: [[EVER/SEED/UNPLANTED]] 
+**Status**:: #EVER/SEED/UNPLANTED 
 
 **Related-Topics**:: [[poltical strategy]], [[politics]]
 	
