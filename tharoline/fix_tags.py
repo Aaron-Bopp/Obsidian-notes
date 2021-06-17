@@ -1,17 +1,23 @@
 import os
+import sys
 notes = {}
-# for folder in ["ContentNotes", "tharoline", "."]:
-with os.scandir() as vault:
-    for entryFolder in vault:
-        if entryFolder.is_dir():
-            with os.scandir(entryFolder) as folder:
-                for entry in folder:
-                    if entry.is_file() and entry.name.endswith(".md"):
-                        with open(entry.path, encoding='utf-8') as text:
-                            print(entry.path)
-                            lines = text.read()
-                            notes.setdefault(entry, lines)
-                
+
+def scanFolder(folderPath=os.getcwd()):                
+    with os.scandir(folderPath) as folder:
+        for entry in folder:
+            if entry.is_dir():
+                scanFolder(entry)
+            if entry.is_file() and entry.name.endswith(".md"):
+                with open(entry.path, encoding='utf-8') as text:
+                    print(entry.path)
+                    lines = text.read()
+                    notes.setdefault(entry, lines)
+try:
+    folder = sys.argv[1]
+    scanFolder(folder)
+except IndexError:
+    scanFolder()
+    
 for name in notes:               
     for tagPattern in ["[[Allignment", "[[Alignment", "[[Region", "[[Def", "[[Qoute","[[TO", "[[Ref", "[[Yes", "[[Inbox", "[[No", "[[Sometimes", "[[Fun", "[[EVER"]:
         end = True
