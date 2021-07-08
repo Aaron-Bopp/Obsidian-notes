@@ -1,0 +1,24 @@
+---
+creation date: 2021-06-28
+modification date: Monday 28th June 2021 21:13:38
+note-type: 
+- evergreen-note
+- personal-note
+
+---
+
+###### [[My relationship with my parents]]
+
+My relationship with [[my parents]] is rocky at best. I think that I broke my dad a little bit when I told him I wasn't a [[Christianity|christian]] anymore. It was the most hateful I had ever seen him, but I know that a lot of it is because of the grief of his dad's death that I don't think he's ever been able to work through. He really needs therapy... 
+
+I think at a certain point you can't teach an old dog new tricks. It's kind of hard for me because I know [[In order to for my parents to love me, they need to admit they might be wrong]]
+
+---
+
+**Status**:: #EVER/SPROUT/WATER 
+
+**Related-Topics**:: [[self-love]], [[self-validation]], [[self-hate]], [[my parents]], [[love]], [[unconditional love]]
+	
+**Sub-Topics**::
+	
+**References**

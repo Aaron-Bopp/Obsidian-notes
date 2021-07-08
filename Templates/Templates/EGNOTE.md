@@ -1,21 +1,20 @@
----
-creation date: <% tp.file.creation_date("YYYY-MM-DD") %>
-modification date: <% tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>
+<% tp.file.include("[[META]]") %>
 note-type: 
 - evergreen-note
-
+aliases:
+- 
 ---
 
-###### [[<% tp.file.title %>]]
+<% tp.file.include("[[TITLE-ALLLINKS]]") %>
 
-<% tp.file.selection() %>
+<% tp.system.clipboard() %>
 
----
+### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related-Topics**:: 
+**Related Topics**:: 
 	
-**Sub-Topics**::
+<% tp.file.include("[[MODIFIED FIELD]]") %>
 	
-**References**
+### References

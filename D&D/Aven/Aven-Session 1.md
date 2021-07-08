@@ -1,0 +1,25 @@
+- July 16th 
+- [[Aven]]
+- [[Brinn]] - write in journal and bite lip 6'0"
+- [[Saga]] - sort and count all of her flower, and pick at daisies cause she hates them
+	- sea elf
+- [[Fenwyn Keenstrider]] - rubs her worry bone (shark tooth)
+	- 4'11'' wearing fresh adventurer's clothes, brand new other than the boots
+	- 90 pounds of muscle
+	- dark brown hair in a bun
+	- pale grey eyes
+	- very lanky, long legs
+	- about 20
+	- look of awe and wonder
+	- Talk to Mathias at the queen and cat pub
+- [[Omir's oddities]]
+	- skanky man
+- [[Sage]] speaker
+- [[Misha]] and [[Nolder]] (the himbos) have a map that was left to them by their father
+	- Four pin prick holes on the southern border of the island
+	- where teens go to do the nasty
+	- ![[Pasted image 20210626114149.png]]
+	- Pickaxe with note "look for the starfish"
+	- ![[Pasted image 20210626120819.png]]
+	- pirates hats, rusty skimitar's 
+- 

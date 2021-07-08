@@ -9,11 +9,6 @@ source:
 bib:
 ---
 
----
-date updated: '2021-05-31T21:07:17-05:00'
-
----
-
 # Notes
 
 ## **Document A**:  [Ronald Reagan's 'A Time to Choose' speech](https://sourcebooks.fordham.edu/mod/1964reagan1.asp)

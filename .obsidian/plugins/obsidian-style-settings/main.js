@@ -3694,6 +3694,7 @@ function createVariableNumberSlider(opts) {
             settingsManager.setSetting(sectionId, config.id, value);
         }, 250, true);
         slider
+            .setDynamicTooltip()
             .setLimits(config.min, config.max, config.step)
             .setValue(value !== undefined ? value : config.default)
             .onChange(onChange);

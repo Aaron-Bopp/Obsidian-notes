@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "98f1aa9adfb79d67",
+        "id": "8849b51538b9d99a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "QUICKNOTE.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/PONDER/ME",
+                "query": "tag:#Alignment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "110feb2b7e642fa2",
@@ -76,10 +80,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "QUICKNOTE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -88,17 +93,17 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -1.5,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "lineSizeMultiplier": 2.83823529411765,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6782305791974078,
+                  "scale": 0.25568322955757855,
                   "close": true
                 }
               }
@@ -108,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365
+    "width": 370.5
   },
   "right": {
     "id": "d2f47cb3f5d142ba",
@@ -123,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "QUICKNOTE.md"
+              }
             }
           },
           {
@@ -132,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "QUICKNOTE.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,30 +172,55 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "QUICKNOTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "5c8a27f16eefc034",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "a08b9f6491b7d013",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6099a23b34295cb",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 386,
+    "width": 339.5,
     "collapsed": true
   },
-  "active": "98f1aa9adfb79d67",
+  "active": "8849b51538b9d99a",
   "lastOpenFiles": [
-    "In order to for my parents to love me, they need to admit they might be wrong.md",
-    "unconditional love.md",
-    "Alignment.md",
     "QUICKNOTE.md",
-    "self-worth.md",
-    "ContentNotes/DrK and DrMike conversation.md",
-    "Sadness is enlightenment and happiness is delusion.md",
-    "To be happy you need to not be sad.md",
+    "TODO.md",
     "INDEX.md",
-    "related topics.md"
+    "EVERGREENS.md",
+    "ContentNotes/History/1990's General Notes.md",
+    "ContentNotes/Mental Health/gender-dysphoria-bible/1 What is Gender.md",
+    "ContentNotes/Mental Health/gender-dysphoria-bible/I relate to.md",
+    "ContentNotes/Mental Health/DrK and DrMike conversation.md",
+    "ContentNotes/Mental Health/Emotional Deregulation.md",
+    "ContentNotes/Mental Health/Existential Dread.md"
   ]
 }

@@ -4,6 +4,7 @@ nmap k gk
 " I like using H and L for beginning/end of line
 nmap H ^
 nmap L $
+nnoremap <space> i<space><esc>
 " Quickly remove search highlights
 nmap <F9> :nohl
 
@@ -16,5 +17,6 @@ exmap back obcommand app:go-back
 nmap <C-o> :back
 exmap forward obcommand app:go-forward
 nmap <C-i> :forward
+iunmap <C-c> —
 
 inoremap jk <ESC>

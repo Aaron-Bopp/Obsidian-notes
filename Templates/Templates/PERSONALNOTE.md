@@ -1,20 +1,18 @@
----
-creation date: 2021-06-11
-modification date: Friday 11th June 2021 21:17:53
-note-type:
-- personal-note
+<% tp.file.include("[[META]]") %>
+note-type: 
 - evergreen-note
+- personal-note
+aliases:
+- 
 ---
 
-###### [[<% tp.file.title %>]]
+<% tp.file.include("[[TITLE-ALLLINKS]]") %>
+<% tp.system.clipboard() %>
 
-
-
----
+### <hr class="footnote"/>
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related-Topics**:: 
+**Related Topics**:: 
+
+<% tp.file.include("[[MODIFIED FIELD]]") %>
 	
-**Sub-Topics**::
-	
-**References**

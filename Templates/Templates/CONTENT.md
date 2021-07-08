@@ -11,20 +11,17 @@ bib:
 ---
 
 ###### [[<% tp.file.title %>]]
+**Related-Topics**:: 
 
-<% tp.file.selection() %>
+<% tp.file.include("[[MODIFIED FIELD]]") %>
+
 
 ---
 
-**Related-Topics**:: 
-	
-**Sub-Topics**::
-	
-**Outline**::
 
---- 
 ##### MarkdownText
+<% tp.system.clipboard() %>
 
 ##### PlainText
-
+<% tp.system.clipboard() %>
 

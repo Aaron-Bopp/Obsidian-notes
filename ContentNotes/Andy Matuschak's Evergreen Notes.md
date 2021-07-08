@@ -11,9 +11,9 @@ aliases: [Andy's notes]
 ---
 
 Author:: [[Andy Matuschak]]
-- [[evergreen note]]s evolve, contribute, and accumulate over time/projects
-	- [[evergreen note]]s support knowledge, transient notes don't
-- [[evergreen note]]s should be:
+- [[evergreen notes]]s evolve, contribute, and accumulate over time/projects
+	- [[evergreen notes]]s support knowledge, transient notes don't
+- [[evergreen notes]]s should be:
 	- atomic
 	- concept oriented
 	- densely linked
@@ -24,7 +24,7 @@ Author:: [[Andy Matuschak]]
 
 **Related-Topics**:: [[personal knowledge management]], [[second brain]], [[Zettlekassen]]
 	
-**Sub-Topics**:: 
+**Sub-Topics**:: [[note writing]]
 	
 **Outline**::
 
