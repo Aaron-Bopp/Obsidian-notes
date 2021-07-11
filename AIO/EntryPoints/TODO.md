@@ -7,7 +7,6 @@ note-type:
 aliases:
 - 
 ---
-
 ```dataviewjs
 let todoTags = [
 	"#TO/DO/WRITE",

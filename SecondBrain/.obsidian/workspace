@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EvergreenNotes/how I use Obsidian tags.md",
+            "file": "EntryPoints/INDEX.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EvergreenNotes/how I use Obsidian tags.md",
+                "file": "EntryPoints/INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,11 @@
   },
   "active": "c8d95724f1c094a2",
   "lastOpenFiles": [
+    "EntryPoints/INDEX.md",
+    "TopicNotes/20th Century America.md",
+    "TopicNotes/21st Century America.md",
+    "EVERSEEDS.md",
+    "TODO.md",
     "EvergreenNotes/how I use Obsidian tags.md"
   ]
 }

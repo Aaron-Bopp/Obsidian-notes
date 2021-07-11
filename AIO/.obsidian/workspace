@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EVERSEEDS.md",
+            "file": "TopicNotes/21st Century America.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "EVERSEEDS.md",
+                "file": "TopicNotes/21st Century America.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EVERSEEDS.md",
+                "file": "TopicNotes/21st Century America.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EVERSEEDS.md",
+                "file": "TopicNotes/21st Century America.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5,
-    "collapsed": true
+    "width": 344.5
   },
   "right": {
     "id": "d2f47cb3f5d142ba",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EVERSEEDS.md"
+                "file": "TopicNotes/21st Century America.md"
               }
             }
           },
@@ -238,15 +237,15 @@
   },
   "active": "470c53558f881deb",
   "lastOpenFiles": [
+    "TopicNotes/21st Century America.md",
+    "TopicNotes/20th Century America.md",
+    "TopicNotes/abortion.md",
+    "TODO.md",
     "EVERSEEDS.md",
     "EVERGREENS.md",
     "EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
     "Templates/Templates/DVJS-TOPICNOTLINKED.md",
     "TopicNotes/My Second Brain.md",
-    "EvergreenNotes/index note.md",
-    "EvergreenNotes/web of thought.md",
-    "TopicNotes/zettle.md",
-    "EvergreenNotes/Templater.md",
-    "EvergreenNotes/The bible is god breathed.md"
+    "EvergreenNotes/index note.md"
   ]
 }
