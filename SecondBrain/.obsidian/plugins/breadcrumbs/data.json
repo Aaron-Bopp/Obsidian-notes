@@ -10,12 +10,12 @@
   "showNameOrType": false,
   "showRelationType": true,
   "showTrail": true,
-  "trailOrTable": 2,
+  "trailOrTable": 3,
   "gridHeatmap": true,
   "showAll": true,
   "noPathMessage": "This note has no real or implied parents",
   "trailSeperator": "-->",
   "respectReadableLineLength": true,
-  "debugMode": false,
+  "debugMode": true,
   "superDebugMode": false
 }

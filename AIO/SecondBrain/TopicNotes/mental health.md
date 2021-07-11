@@ -6,6 +6,7 @@ embedded:
 - [[ADHD]]
 - [[trauma]]
 - [[my emotions]]
+- [[yoga]]
 note-type: 
 - evergreen-note
 - topic-note
@@ -28,10 +29,10 @@ note-type:
 	- [[self-hate]]
 	- [[self-love]]
 	- [[self-improvement]]
-- Coping mechanisms
+- Techniques to improve mental health
 	- [[Tips for concentration]]
 	- [[mindfullness]]
-	- [[meditation]]
+	- ![[yoga#yoga length this file inlinks]]
 - [[Sadness is enlightenment and happiness is delusion]]
 - ![[my emotions#my emotions length this file inlinks]]
 

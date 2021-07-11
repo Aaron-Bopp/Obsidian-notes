@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:Templates",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5400319
       }
+    },
+    {
+      "query": "bio-note",
+      "color": {
+        "a": 1,
+        "rgb": 15208725
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 14.078431372549,
   "linkStrength": 0.617647058823529,
   "linkDistance": 30,
-  "scale": 0.05409711755704053,
+  "scale": 0.06278742497389198,
   "close": false
 }

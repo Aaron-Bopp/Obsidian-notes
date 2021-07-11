@@ -7,8 +7,33 @@
         "id": "7c59d7d0b8534828",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/TopicNotes/mental health.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "ed023698a435ef9f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/TopicNotes/self-worth.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "935433a7e56d1a1d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/TopicNotes/self-love.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -44,12 +69,57 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "381eec3271df63c0",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "031fe1b37666a6d6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "SecondBrain/TopicNotes/self-love.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.326528251257172,
+                  "close": true
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 430.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -65,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SecondBrain/TopicNotes/self-love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,27 +171,47 @@
             }
           },
           {
-            "id": "381eec3271df63c0",
+            "id": "a04e9363db7056e4",
             "type": "leaf",
             "state": {
-              "type": "breadcrumbs-matrix",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "SecondBrain/TopicNotes/self-love.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f04cf8a156e228f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 461.5,
     "collapsed": true
   },
-  "active": "7c59d7d0b8534828",
+  "active": "935433a7e56d1a1d",
   "lastOpenFiles": [
-    "EntryPoints/INDEX.md",
-    "TopicNotes/20th Century America.md",
-    "TopicNotes/21st Century America.md",
-    "EVERSEEDS.md",
-    "TODO.md",
-    "EvergreenNotes/how I use Obsidian tags.md"
+    "SecondBrain/TopicNotes/self-love.md",
+    "SecondBrain/TopicNotes/self-worth.md",
+    "SecondBrain/TopicNotes/mental health.md",
+    "SecondBrain/TopicNotes/self-improvement.md",
+    "SecondBrain/TopicNotes/self-hate.md",
+    "SecondBrain/TopicNotes/self-actualization.md",
+    "SecondBrain/TopicNotes/Neuroscience.md",
+    "SecondBrain/TopicNotes/anxiety.md",
+    "SecondBrain/INDEX.md",
+    "SecondBrain/TopicNotes/mindfullness.md"
   ]
 }
