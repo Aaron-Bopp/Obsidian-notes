@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "-path:D&D -path:Templates",
+  "search": "-path:Templates",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "organizational-note",
@@ -75,5 +75,5 @@
   "linkStrength": 0.617647058823529,
   "linkDistance": 30,
   "scale": 0.05409711755704053,
-  "close": true
+  "close": false
 }

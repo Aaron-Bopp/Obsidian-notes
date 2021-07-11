@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "89d448d7fba0fd45",
+    "type": "split",
+    "children": [
+      {
+        "id": "18e1d9fc9e9fc979",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "910719a61536b55a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c21f393113b1c6f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5561471fe3107a2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a521a20de04d020",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4957aafc9974964",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee675549abf91113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36c8bb08ad15a8b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e9b326bd563c9de",
+            "type": "leaf",
+            "state": {
+              "type": "chat",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e4268c1b2fa7fb3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c6e9a397ac2809c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "6811339854aa462b",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "18e1d9fc9e9fc979",
+  "lastOpenFiles": [
+    "D&D/Misc/oneshot.md",
+    "oneshot.md"
+  ]
+}

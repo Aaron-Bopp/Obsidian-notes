@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "569b383eab46d6af",
+        "id": "a4661a0a31f26db0",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -221,7 +221,7 @@
     "width": 660.5,
     "collapsed": true
   },
-  "active": "569b383eab46d6af",
+  "active": "a4661a0a31f26db0",
   "lastOpenFiles": [
     "TopicNotes/21st Century America.md",
     "TopicNotes/20th Century America.md",

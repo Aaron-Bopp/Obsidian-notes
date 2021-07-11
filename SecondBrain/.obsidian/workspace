@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8d95724f1c094a2",
+        "id": "7c59d7d0b8534828",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "EntryPoints/INDEX.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EntryPoints/INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +114,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c8d95724f1c094a2",
+  "active": "7c59d7d0b8534828",
   "lastOpenFiles": [
     "EntryPoints/INDEX.md",
     "TopicNotes/20th Century America.md",

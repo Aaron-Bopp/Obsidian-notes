@@ -1,0 +1,17 @@
+- [[060 the destruction of the library]]
+- [[Valerie]]
+	- small island southern coast of [[Ezemor]]
+	- Elf, emerald green eyes, long red hair, pale skin, 
+- long dark hair, fine necklace, vampire? [[Calviron Von Altisbloot]] ^9dcf13
+	- necklace family heirloom
+		- been around since the beginning of time
+		- broken ruby is most important in world?
+	- his eyes are red like the ruby
+	- creepy as fuck, bites [[Valerie]]
+- six months later
+	- went under magical experiements for months and then cast out because unworthy
+- the [[Raven Queen]] 
+	- [[Valerie]] reeks of the undead
+		- [[Raven Queen]] could cure her if she kills the vampire
+- [[Honey's Den of Wonder]] 
+- [[071 Gathering allies]]
