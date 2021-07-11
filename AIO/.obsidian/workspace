@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "470c53558f881deb",
+        "id": "569b383eab46d6af",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TopicNotes/21st Century America.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,18 +49,15 @@
             "id": "ea25f640b177a755",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "bbcaf33471732a1b",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "empty",
               "state": {}
             }
           },
@@ -73,7 +67,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TopicNotes/21st Century America.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -106,12 +99,8 @@
             "id": "973f28936c3db7c0",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "TopicNotes/21st Century America.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -120,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopicNotes/21st Century America.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,10 +145,8 @@
             "id": "cf2e9198cdd23edd",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "TopicNotes/21st Century America.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -235,7 +221,7 @@
     "width": 660.5,
     "collapsed": true
   },
-  "active": "470c53558f881deb",
+  "active": "569b383eab46d6af",
   "lastOpenFiles": [
     "TopicNotes/21st Century America.md",
     "TopicNotes/20th Century America.md",
