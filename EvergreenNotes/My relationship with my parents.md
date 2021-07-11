@@ -17,7 +17,9 @@ I think at a certain point you can't teach an old dog new tricks. It's kind of h
 
 **Status**:: #EVER/SPROUT/WATER 
 
-**Related-Topics**:: [[self-love]], [[self-validation]], [[self-hate]], [[my parents]], [[love]], [[unconditional love]]
+**Parent**:: [[my parents]]
+
+**Related-Topics**:: [[self-love]], [[self-validation]], [[self-hate]], [[love]], [[unconditional love]], [[my emotions]]
 	
 **Sub-Topics**::
 	

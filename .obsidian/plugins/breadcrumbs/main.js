@@ -1,7 +1,7 @@
 'use strict';
 
-require('cluster');
 var obsidian = require('obsidian');
+require('dns');
 
 var commonjsGlobal = typeof globalThis !== 'undefined' ? globalThis : typeof window !== 'undefined' ? window : typeof global !== 'undefined' ? global : typeof self !== 'undefined' ? self : {};
 
@@ -6230,33 +6230,29 @@ const splitLinksRegex = new RegExp(/\[\[(.+?)\]\]/g);
 const dropHeaderOrAlias = new RegExp(/\[\[([^#|]+)\]\]/);
 const DATAVIEW_INDEX_DELAY = 3000;
 
+function normalise(arr) {
+    const max = Math.max(...arr);
+    return arr.map(item => item / max);
+}
 function getFileFrontmatterArr(app, settings) {
     const files = app.vault.getMarkdownFiles();
     const fileFrontMatterArr = [];
     // If dataview is **enabled** (not just installed), use its index
     if (app.plugins.plugins.dataview !== undefined) {
-        if (settings.debugMode) {
-            console.log("Using Dataview metadataCache");
-        }
+        debug(settings, "Using Dataview");
         app.workspace.onLayoutReady(() => {
             files.forEach((file) => {
                 var _a;
-                if (settings.superDebugMode) {
-                    console.log(`Get frontmatter: ${file.basename}`);
-                }
+                superDebug(settings, `Get frontmatter: ${file.basename}`);
                 const dv = (_a = app.plugins.plugins.dataview.api.page(file.path)) !== null && _a !== void 0 ? _a : [];
-                if (settings.superDebugMode) {
-                    console.log({ dv });
-                }
+                superDebug(settings, dv);
                 fileFrontMatterArr.push({ file, frontmatter: dv });
             });
         });
     }
     // Otherwise use Obsidian's
     else {
-        if (settings.debugMode) {
-            console.log("Using Obsidian metadataCache");
-        }
+        debug(settings, "Using Obsidian");
         files.forEach((file) => {
             var _a;
             const obs = (_a = app.metadataCache.getFileCache(file).frontmatter) !== null && _a !== void 0 ? _a : [];
@@ -6266,9 +6262,7 @@ function getFileFrontmatterArr(app, settings) {
             });
         });
     }
-    if (settings.debugMode) {
-        console.log({ fileFrontMatterArr });
-    }
+    debug(settings, fileFrontMatterArr);
     return fileFrontMatterArr;
 }
 function splitAndDrop(str) {
@@ -6284,19 +6278,18 @@ async function getJugglLinks(app, settings) {
         const links = (_b = (_a = app.metadataCache.getFileCache(file)) === null || _a === void 0 ? void 0 : _a.links) !== null && _b !== void 0 ? _b : [];
         const content = await app.vault.cachedRead(file);
         links.forEach(link => {
-            var _a, _b, _c, _d;
+            var _a, _b, _c, _d, _e;
             const lineNo = link.position.start.line;
             const line = content.split('\n')[lineNo];
-            const linksInLine = (_b = (_a = line.match(splitLinksRegex)) === null || _a === void 0 ? void 0 : _a.map(link => link.slice(2, link.length - 2))) !== null && _b !== void 0 ? _b : [];
+            const linksInLine = (_c = (_b = (_a = line
+                .match(splitLinksRegex)) === null || _a === void 0 ? void 0 : _a.map(link => link.slice(2, link.length - 2))) === null || _b === void 0 ? void 0 : _b.map(innerText => innerText.split('|')[0])) !== null && _c !== void 0 ? _c : [];
             const parsedLinks = parseTypedLink(link, line, '-');
-            jugglLink.links.push({ type: (_d = (_c = parsedLinks === null || parsedLinks === void 0 ? void 0 : parsedLinks.properties) === null || _c === void 0 ? void 0 : _c.type) !== null && _d !== void 0 ? _d : '', linksInLine });
+            jugglLink.links.push({ type: (_e = (_d = parsedLinks === null || parsedLinks === void 0 ? void 0 : parsedLinks.properties) === null || _d === void 0 ? void 0 : _d.type) !== null && _e !== void 0 ? _e : '', linksInLine });
         });
         return jugglLink;
     }));
-    if (settings.debugMode) {
-        console.log({ typedLinksArr });
-    }
-    const allFields = [settings.parentFieldName, settings.siblingFieldName, settings.childFieldName].flat();
+    debug(settings, typedLinksArr);
+    const allFields = [settings.parentFieldName, settings.siblingFieldName, settings.childFieldName].map(splitAndTrim).flat().filter(field => field !== "");
     typedLinksArr.forEach(jugglLink => {
         if (jugglLink.links.length) {
             const fieldTypesOnly = [];
@@ -6309,26 +6302,20 @@ async function getJugglLinks(app, settings) {
         }
     });
     const filteredLinks = typedLinksArr.filter(link => link.links.length ? true : false);
-    if (settings.debugMode) {
-        console.log(filteredLinks);
-    }
+    debug(settings, filteredLinks);
     return filteredLinks;
 }
 function getFields(fileFrontmatter, field, settings) {
     var _a, _b, _c, _d, _e, _f;
-    const fieldItems = (_a = fileFrontmatter.frontmatter[field]) !== null && _a !== void 0 ? _a : [];
+    const fieldItems = (_b = (_a = fileFrontmatter.frontmatter) === null || _a === void 0 ? void 0 : _a[field]) !== null && _b !== void 0 ? _b : [];
     if (typeof fieldItems === "string") {
-        if (settings.superDebugMode) {
-            console.log(`${field} (type: '${typeof fieldItems}') of: ${fileFrontmatter.file.basename} is: ${fieldItems}`);
-        }
-        const links = (_c = (_b = splitAndDrop(fieldItems)) === null || _b === void 0 ? void 0 : _b.map((value) => { var _a; return (_a = value === null || value === void 0 ? void 0 : value.split("/").last()) !== null && _a !== void 0 ? _a : ''; })) !== null && _c !== void 0 ? _c : [];
+        superDebug(settings, `${field} (type: '${typeof fieldItems}') of: ${fileFrontmatter.file.basename} is: ${fieldItems}`);
+        const links = (_d = (_c = splitAndDrop(fieldItems)) === null || _c === void 0 ? void 0 : _c.map((value) => { var _a; return (_a = value === null || value === void 0 ? void 0 : value.split("/").last()) !== null && _a !== void 0 ? _a : ''; })) !== null && _d !== void 0 ? _d : [];
         return links;
     }
     else {
-        if (settings.superDebugMode) {
-            console.log(`${field} (type: '${typeof fieldItems}') of: ${fileFrontmatter.file.basename} is:`);
-            console.log((_d = fieldItems === null || fieldItems === void 0 ? void 0 : fieldItems.join(', ')) !== null && _d !== void 0 ? _d : undefined);
-        }
+        superDebug(settings, `${field} (type: '${typeof fieldItems}') of: ${fileFrontmatter.file.basename} is:`);
+        // superDebug(settings, (fieldItems?.join(', ') ?? undefined))
         const links = (_f = (_e = [fieldItems]
             .flat()) === null || _e === void 0 ? void 0 : _e.map((link) => { var _a, _b, _c; return (_b = (_a = link.path) === null || _a === void 0 ? void 0 : _a.split("/").last()) !== null && _b !== void 0 ? _b : ((_c = link === null || link === void 0 ? void 0 : link.split("/").last()) !== null && _c !== void 0 ? _c : ''); })) !== null && _f !== void 0 ? _f : [];
         return links;
@@ -6376,25 +6363,28 @@ async function getNeighbourObjArr(plugin, fileFrontmatterArr) {
         }
         return { current: fileFrontmatter.file, parents, siblings, children };
     });
-    if (plugin.settings.debugMode) {
-        console.log({ neighbourObjArr });
-    }
+    debug(plugin.settings, neighbourObjArr);
     return neighbourObjArr;
 }
-// This doesn't work for some reason. Even if you pass it `app`, metadatacache is undefined
-// export function resolvedClass(
-//   app: App,
-//   toFile: string,
-//   currFile: TFile
-// ):
-//   | "internal-link is-unresolved breadcrumbs-link"
-//   | "internal-link breadcrumbs-link" {
-//   return app.metadataCache.unresolvedLinks[currFile.path][toFile] > 0
-//     ? "internal-link is-unresolved breadcrumbs-link"
-//     : "internal-link breadcrumbs-link";
-// }
+function debug(settings, log) {
+    if (settings.debugMode) {
+        console.log(log);
+    }
+}
+function superDebug(settings, log) {
+    if (settings.superDebugMode) {
+        console.log(log);
+    }
+}
+function closeImpliedLinks(real, implied) {
+    const closedG = real;
+    implied.edges().forEach(impliedEdge => {
+        closedG.setEdge(impliedEdge.w, impliedEdge.v);
+    });
+    return closedG;
+}
 const isInVault = (app, note) => !!app.metadataCache.getFirstLinkpathDest(note, app.workspace.getActiveFile().path);
-function hoverPreview(event, matrixView) {
+function hoverPreview$2(event, matrixView) {
     const targetEl = event.target;
     matrixView.app.workspace.trigger("hover-link", {
         event,
@@ -6415,7 +6405,8 @@ async function openOrSwitch(app, dest, currFile, event) {
             openLeaves.push(leaf);
         }
     });
-    if (openLeaves.length) {
+    if (openLeaves.length > 0) {
+        console.log(openLeaves[0]);
         workspace.setActiveLeaf(openLeaves[0]);
     }
     else {
@@ -6426,6 +6417,46 @@ async function openOrSwitch(app, dest, currFile, event) {
             : workspace.getUnpinnedLeaf();
         await leaf.openFile(destFile, { active: true, mode });
     }
+}
+function padArray(arr, finalLength, filler = '') {
+    const currLength = arr.length;
+    if (currLength > finalLength) {
+        throw new Error('Current length is greater than final length');
+    }
+    else if (currLength === finalLength) {
+        return arr;
+    }
+    else {
+        for (let i = currLength; i < finalLength; i++) {
+            arr.push(filler);
+        }
+        return arr;
+    }
+}
+function transpose(A) {
+    const cols = A[0].length;
+    const AT = [];
+    // For each column
+    for (let j = 0; j < cols; j++) {
+        // Add a new row to AT
+        AT.push([]);
+        // And fill it with the values in the jth column of A
+        A.forEach(row => AT[j].push(row[j]));
+    }
+    return AT;
+}
+function runs(arr) {
+    const runs = [];
+    let i = 0;
+    while (i < arr.length) {
+        const currValue = arr[i];
+        runs.push({ value: currValue, first: i, last: undefined });
+        while (currValue === arr[i]) {
+            i++;
+        }
+        runs.last().last = i - 1;
+    }
+    return runs;
 }
 
 class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
@@ -6488,10 +6519,8 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
                 plugin.settings.refreshIntervalTime = num;
                 await plugin.saveSettings();
                 plugin.refreshIntervalID = window.setInterval(async () => {
-                    if (plugin.trailDiv || plugin.matrixView) {
-                        plugin.currGraphs = await plugin.initGraphs();
-                    }
-                    if (plugin.trailDiv) {
+                    plugin.currGraphs = await plugin.initGraphs();
+                    if (plugin.settings.showTrail) {
                         await plugin.drawTrail();
                     }
                     if (plugin.matrixView) {
@@ -6539,22 +6568,39 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
         }));
         containerEl.createEl("h3", { text: "Breadcrumb Trail" });
         new obsidian.Setting(containerEl)
-            .setName("Show Breadcrumb Trail")
+            .setName("Show Breadcrumbs")
             .setDesc("Show a trail of notes leading from your index note down to the current note you are in (if a path exists)")
             .addToggle((toggle) => toggle.setValue(plugin.settings.showTrail).onChange(async (value) => {
             plugin.settings.showTrail = value;
             await plugin.saveSettings();
-            if (value) {
-                plugin.trailDiv = createDiv({
-                    cls: `breadcrumbs-trail is-readable-line-width${plugin.settings.respectReadableLineLength
-                        ? " markdown-preview-sizer markdown-preview-section"
-                        : ""}`,
-                });
-                await plugin.drawTrail();
-            }
-            else {
-                plugin.trailDiv.remove();
-            }
+            await plugin.drawTrail();
+        }));
+        new obsidian.Setting(containerEl)
+            .setName("Trail or Table or Both")
+            .setDesc("Wether to show the regular breadcrumb trails, the table view, neither, or both. 1 = Only Trail, 2 = Only Grid, 3 = Both")
+            .addText((text) => {
+            text
+                .setPlaceholder("Index Note")
+                .setValue(plugin.settings.trailOrTable.toString())
+                .onChange(async (value) => {
+                const num = parseInt(value);
+                if ([1, 2, 3].includes(num)) {
+                    plugin.settings.trailOrTable = num;
+                    await plugin.saveSettings();
+                    await plugin.drawTrail();
+                }
+                else {
+                    new obsidian.Notice("The value has to be 1, 2, or 3");
+                }
+            });
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Grid view heatmap")
+            .setDesc("If the grid view is visible, change the background colour of squares based on the number of children leaving that note.")
+            .addToggle((toggle) => toggle.setValue(plugin.settings.gridHeatmap).onChange(async (value) => {
+            plugin.settings.gridHeatmap = value;
+            await plugin.saveSettings();
+            await plugin.drawTrail();
         }));
         new obsidian.Setting(containerEl)
             .setName("Index/Home Note(s)")
@@ -6582,6 +6628,16 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
                 }
             };
         });
+        new obsidian.Setting(containerEl)
+            .setName("Default: All or Shortest")
+            .setDesc("If multiple paths are found going up the parent tree, should all of them be shown by default, or only the shortest? On = all, off = shortest")
+            .addToggle((toggle) => toggle
+            .setValue(plugin.settings.showAll)
+            .onChange(async (value) => {
+            plugin.settings.showAll = value;
+            await plugin.saveSettings();
+            await plugin.drawTrail();
+        }));
         new obsidian.Setting(containerEl)
             .setName("Breadcrumb trail seperator")
             .setDesc("The character to show between crumbs in the breadcrumb trail. The default is '→'")
@@ -6706,6 +6762,9 @@ function set_data(text, data) {
     data = '' + data;
     if (text.wholeText !== data)
         text.data = data;
+}
+function set_style(node, key, value, important) {
+    node.style.setProperty(key, value, important ? 'important' : '');
 }
 
 let current_component;
@@ -6979,27 +7038,27 @@ class SvelteComponent {
 
 /* src/List.svelte generated by Svelte v3.35.0 */
 
-function add_css$2() {
+function add_css$4() {
 	var style = element("style");
-	style.id = "svelte-gqfoka-style";
-	style.textContent = "summary.svelte-gqfoka{font-size:larger;margin:3px;color:var(--text-title-h3)}h5.breadcrumbs-header.svelte-gqfoka{color:var(--text-title-h5)}ol.markdown-preview-view.svelte-gqfoka{padding-top:3px;padding-bottom:5px}";
+	style.id = "svelte-18k8e34-style";
+	style.textContent = "summary.svelte-18k8e34{color:var(--text-title-h3)}h5.breadcrumbs-header.svelte-18k8e34{color:var(--text-title-h5)}ol.markdown-preview-view.svelte-18k8e34{padding-top:3px;padding-bottom:5px}";
 	append(document.head, style);
 }
 
-function get_each_context$3(ctx, list, i) {
+function get_each_context$5(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[12] = list[i];
 	return child_ctx;
 }
 
-function get_each_context_1$1(ctx, list, i) {
+function get_each_context_1$3(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[15] = list[i];
 	return child_ctx;
 }
 
 // (15:2) {#if realItems.length}
-function create_if_block_2$1(ctx) {
+function create_if_block_2$2(ctx) {
 	let t;
 	let ol;
 	let if_block = /*settings*/ ctx[1].showRelationType && create_if_block_3$1();
@@ -7007,7 +7066,7 @@ function create_if_block_2$1(ctx) {
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value_1.length; i += 1) {
-		each_blocks[i] = create_each_block_1$1(get_each_context_1$1(ctx, each_value_1, i));
+		each_blocks[i] = create_each_block_1$3(get_each_context_1$3(ctx, each_value_1, i));
 	}
 
 	return {
@@ -7020,7 +7079,7 @@ function create_if_block_2$1(ctx) {
 				each_blocks[i].c();
 			}
 
-			attr(ol, "class", "markdown-preview-view svelte-gqfoka");
+			attr(ol, "class", "markdown-preview-view svelte-18k8e34");
 		},
 		m(target, anchor) {
 			if (if_block) if_block.m(target, anchor);
@@ -7048,12 +7107,12 @@ function create_if_block_2$1(ctx) {
 				let i;
 
 				for (i = 0; i < each_value_1.length; i += 1) {
-					const child_ctx = get_each_context_1$1(ctx, each_value_1, i);
+					const child_ctx = get_each_context_1$3(ctx, each_value_1, i);
 
 					if (each_blocks[i]) {
 						each_blocks[i].p(child_ctx, dirty);
 					} else {
-						each_blocks[i] = create_each_block_1$1(child_ctx);
+						each_blocks[i] = create_each_block_1$3(child_ctx);
 						each_blocks[i].c();
 						each_blocks[i].m(ol, null);
 					}
@@ -7083,7 +7142,7 @@ function create_if_block_3$1(ctx) {
 		c() {
 			h5 = element("h5");
 			h5.textContent = "Real";
-			attr(h5, "class", "breadcrumbs-header svelte-gqfoka");
+			attr(h5, "class", "breadcrumbs-header svelte-18k8e34");
 		},
 		m(target, anchor) {
 			insert(target, h5, anchor);
@@ -7095,11 +7154,12 @@ function create_if_block_3$1(ctx) {
 }
 
 // (21:6) {#each realItems as realItem}
-function create_each_block_1$1(ctx) {
+function create_each_block_1$3(ctx) {
 	let li;
 	let div;
 	let t0_value = /*realItem*/ ctx[15].to.split("/").last() + "";
 	let t0;
+	let div_class_value;
 	let t1;
 	let mounted;
 	let dispose;
@@ -7114,7 +7174,7 @@ function create_each_block_1$1(ctx) {
 			div = element("div");
 			t0 = text(t0_value);
 			t1 = space();
-			attr(div, "class", /*realItem*/ ctx[15].cls);
+			attr(div, "class", div_class_value = /*realItem*/ ctx[15].cls);
 		},
 		m(target, anchor) {
 			insert(target, li, anchor);
@@ -7143,15 +7203,16 @@ function create_each_block_1$1(ctx) {
 }
 
 // (35:2) {#if impliedItems.length}
-function create_if_block$3(ctx) {
+function create_if_block$4(ctx) {
 	let t;
 	let ol;
-	let if_block = /*settings*/ ctx[1].showRelationType && create_if_block_1$1();
+	let ol_start_value;
+	let if_block = /*settings*/ ctx[1].showRelationType && create_if_block_1$2();
 	let each_value = /*impliedItems*/ ctx[5];
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value.length; i += 1) {
-		each_blocks[i] = create_each_block$3(get_each_context$3(ctx, each_value, i));
+		each_blocks[i] = create_each_block$5(get_each_context$5(ctx, each_value, i));
 	}
 
 	return {
@@ -7164,8 +7225,8 @@ function create_if_block$3(ctx) {
 				each_blocks[i].c();
 			}
 
-			attr(ol, "class", "markdown-preview-view svelte-gqfoka");
-			attr(ol, "start", /*realItems*/ ctx[4].length + 1);
+			attr(ol, "class", "markdown-preview-view svelte-18k8e34");
+			attr(ol, "start", ol_start_value = /*realItems*/ ctx[4].length + 1);
 		},
 		m(target, anchor) {
 			if (if_block) if_block.m(target, anchor);
@@ -7179,7 +7240,7 @@ function create_if_block$3(ctx) {
 		p(ctx, dirty) {
 			if (/*settings*/ ctx[1].showRelationType) {
 				if (if_block) ; else {
-					if_block = create_if_block_1$1();
+					if_block = create_if_block_1$2();
 					if_block.c();
 					if_block.m(t.parentNode, t);
 				}
@@ -7193,12 +7254,12 @@ function create_if_block$3(ctx) {
 				let i;
 
 				for (i = 0; i < each_value.length; i += 1) {
-					const child_ctx = get_each_context$3(ctx, each_value, i);
+					const child_ctx = get_each_context$5(ctx, each_value, i);
 
 					if (each_blocks[i]) {
 						each_blocks[i].p(child_ctx, dirty);
 					} else {
-						each_blocks[i] = create_each_block$3(child_ctx);
+						each_blocks[i] = create_each_block$5(child_ctx);
 						each_blocks[i].c();
 						each_blocks[i].m(ol, null);
 					}
@@ -7221,14 +7282,14 @@ function create_if_block$3(ctx) {
 }
 
 // (36:4) {#if settings.showRelationType}
-function create_if_block_1$1(ctx) {
+function create_if_block_1$2(ctx) {
 	let h5;
 
 	return {
 		c() {
 			h5 = element("h5");
 			h5.textContent = "Implied";
-			attr(h5, "class", "breadcrumbs-header svelte-gqfoka");
+			attr(h5, "class", "breadcrumbs-header svelte-18k8e34");
 		},
 		m(target, anchor) {
 			insert(target, h5, anchor);
@@ -7240,11 +7301,12 @@ function create_if_block_1$1(ctx) {
 }
 
 // (41:6) {#each impliedItems as impliedItem}
-function create_each_block$3(ctx) {
+function create_each_block$5(ctx) {
 	let li;
 	let div;
 	let t0_value = /*impliedItem*/ ctx[12].to.split("/").last() + "";
 	let t0;
+	let div_class_value;
 	let t1;
 	let mounted;
 	let dispose;
@@ -7259,7 +7321,7 @@ function create_each_block$3(ctx) {
 			div = element("div");
 			t0 = text(t0_value);
 			t1 = space();
-			attr(div, "class", /*impliedItem*/ ctx[12].cls);
+			attr(div, "class", div_class_value = /*impliedItem*/ ctx[12].cls);
 			attr(li, "class", "breadcrumbs-implied");
 		},
 		m(target, anchor) {
@@ -7288,13 +7350,13 @@ function create_each_block$3(ctx) {
 	};
 }
 
-function create_fragment$3(ctx) {
+function create_fragment$5(ctx) {
 	let details;
 	let summary;
 	let t1;
 	let t2;
-	let if_block0 = /*realItems*/ ctx[4].length && create_if_block_2$1(ctx);
-	let if_block1 = /*impliedItems*/ ctx[5].length && create_if_block$3(ctx);
+	let if_block0 = /*realItems*/ ctx[4].length && create_if_block_2$2(ctx);
+	let if_block1 = /*impliedItems*/ ctx[5].length && create_if_block$4(ctx);
 
 	return {
 		c() {
@@ -7305,7 +7367,7 @@ function create_fragment$3(ctx) {
 			if (if_block0) if_block0.c();
 			t2 = space();
 			if (if_block1) if_block1.c();
-			attr(summary, "class", "svelte-gqfoka");
+			attr(summary, "class", "svelte-18k8e34");
 			details.open = true;
 			attr(details, "class", "breadcrumbs-details");
 		},
@@ -7331,7 +7393,7 @@ function create_fragment$3(ctx) {
 	};
 }
 
-function instance$3($$self, $$props, $$invalidate) {
+function instance$5($$self, $$props, $$invalidate) {
 	
 	
 	
@@ -7342,9 +7404,9 @@ function instance$3($$self, $$props, $$invalidate) {
 	let { list } = $$props;
 	const { realItems, impliedItems, fieldName } = list;
 	const click_handler = async (realItem, e) => openOrSwitch(app, realItem.to, currFile, e);
-	const mouseover_handler = e => hoverPreview(e, matrixView);
+	const mouseover_handler = e => hoverPreview$2(e, matrixView);
 	const click_handler_1 = async (impliedItem, e) => openOrSwitch(app, impliedItem.to, currFile, e);
-	const mouseover_handler_1 = e => hoverPreview(e, matrixView);
+	const mouseover_handler_1 = e => hoverPreview$2(e, matrixView);
 
 	$$self.$$set = $$props => {
 		if ("app" in $$props) $$invalidate(0, app = $$props.app);
@@ -7373,9 +7435,9 @@ function instance$3($$self, $$props, $$invalidate) {
 class List extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-gqfoka-style")) add_css$2();
+		if (!document.getElementById("svelte-18k8e34-style")) add_css$4();
 
-		init(this, options, instance$3, create_fragment$3, safe_not_equal, {
+		init(this, options, instance$5, create_fragment$5, safe_not_equal, {
 			app: 0,
 			settings: 1,
 			matrixView: 2,
@@ -7387,14 +7449,14 @@ class List extends SvelteComponent {
 
 /* src/Lists.svelte generated by Svelte v3.35.0 */
 
-function get_each_context$2(ctx, list, i) {
+function get_each_context$4(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[8] = list[i];
 	return child_ctx;
 }
 
 // (18:4) {#if list.realItems.length > 0 || list.impliedItems.length > 0}
-function create_if_block$2(ctx) {
+function create_if_block$3(ctx) {
 	let list;
 	let current;
 
@@ -7440,10 +7502,10 @@ function create_if_block$2(ctx) {
 }
 
 // (17:2) {#each lists as list}
-function create_each_block$2(ctx) {
+function create_each_block$4(ctx) {
 	let if_block_anchor;
 	let current;
-	let if_block = (/*list*/ ctx[8].realItems.length > 0 || /*list*/ ctx[8].impliedItems.length > 0) && create_if_block$2(ctx);
+	let if_block = (/*list*/ ctx[8].realItems.length > 0 || /*list*/ ctx[8].impliedItems.length > 0) && create_if_block$3(ctx);
 
 	return {
 		c() {
@@ -7474,14 +7536,14 @@ function create_each_block$2(ctx) {
 	};
 }
 
-function create_fragment$2(ctx) {
+function create_fragment$4(ctx) {
 	let div;
 	let current;
 	let each_value = /*lists*/ ctx[4];
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value.length; i += 1) {
-		each_blocks[i] = create_each_block$2(get_each_context$2(ctx, each_value, i));
+		each_blocks[i] = create_each_block$4(get_each_context$4(ctx, each_value, i));
 	}
 
 	const out = i => transition_out(each_blocks[i], 1, 1, () => {
@@ -7510,6 +7572,697 @@ function create_fragment$2(ctx) {
 		p(ctx, [dirty]) {
 			if (dirty & /*lists, currFile, settings, matrixView, app*/ 31) {
 				each_value = /*lists*/ ctx[4];
+				let i;
+
+				for (i = 0; i < each_value.length; i += 1) {
+					const child_ctx = get_each_context$4(ctx, each_value, i);
+
+					if (each_blocks[i]) {
+						each_blocks[i].p(child_ctx, dirty);
+						transition_in(each_blocks[i], 1);
+					} else {
+						each_blocks[i] = create_each_block$4(child_ctx);
+						each_blocks[i].c();
+						transition_in(each_blocks[i], 1);
+						each_blocks[i].m(div, null);
+					}
+				}
+
+				group_outros();
+
+				for (i = each_value.length; i < each_blocks.length; i += 1) {
+					out(i);
+				}
+
+				check_outros();
+			}
+		},
+		i(local) {
+			if (current) return;
+
+			for (let i = 0; i < each_value.length; i += 1) {
+				transition_in(each_blocks[i]);
+			}
+
+			current = true;
+		},
+		o(local) {
+			each_blocks = each_blocks.filter(Boolean);
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				transition_out(each_blocks[i]);
+			}
+
+			current = false;
+		},
+		d(detaching) {
+			if (detaching) detach(div);
+			destroy_each(each_blocks, detaching);
+		}
+	};
+}
+
+function instance$4($$self, $$props, $$invalidate) {
+	
+	
+	
+	
+	let { parents } = $$props;
+	let { siblings } = $$props;
+	let { children } = $$props;
+	let { currFile } = $$props;
+	let { settings } = $$props;
+	let { matrixView } = $$props;
+	let { app } = $$props;
+	const lists = [parents, siblings, children];
+
+	$$self.$$set = $$props => {
+		if ("parents" in $$props) $$invalidate(5, parents = $$props.parents);
+		if ("siblings" in $$props) $$invalidate(6, siblings = $$props.siblings);
+		if ("children" in $$props) $$invalidate(7, children = $$props.children);
+		if ("currFile" in $$props) $$invalidate(0, currFile = $$props.currFile);
+		if ("settings" in $$props) $$invalidate(1, settings = $$props.settings);
+		if ("matrixView" in $$props) $$invalidate(2, matrixView = $$props.matrixView);
+		if ("app" in $$props) $$invalidate(3, app = $$props.app);
+	};
+
+	return [currFile, settings, matrixView, app, lists, parents, siblings, children];
+}
+
+class Lists extends SvelteComponent {
+	constructor(options) {
+		super();
+
+		init(this, options, instance$4, create_fragment$4, safe_not_equal, {
+			parents: 5,
+			siblings: 6,
+			children: 7,
+			currFile: 0,
+			settings: 1,
+			matrixView: 2,
+			app: 3
+		});
+	}
+}
+
+/* src/Square.svelte generated by Svelte v3.35.0 */
+
+function add_css$3() {
+	var style = element("style");
+	style.id = "svelte-w8vuio-style";
+	style.textContent = "div.breadcrumbs-matrix-square.svelte-w8vuio{border:2px solid var(--background-modifier-border);border-radius:5px;padding:5px;height:fit-content;position:relative}.breadcrumbs-matrix-header.svelte-w8vuio{margin:2px}h3.breadcrumbs-matrix-header.svelte-w8vuio{color:var(--text-title-h3)}h5.breadcrumbs-matrix-header.svelte-w8vuio{color:var(--text-title-h5)}ol.svelte-w8vuio{margin:3px;padding-left:20px}";
+	append(document.head, style);
+}
+
+function get_each_context$3(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[11] = list[i];
+	return child_ctx;
+}
+
+function get_each_context_1$2(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[14] = list[i];
+	return child_ctx;
+}
+
+// (17:2) {#if realItems.length}
+function create_if_block_2$1(ctx) {
+	let t;
+	let ol;
+	let if_block = /*settings*/ ctx[4].showRelationType && create_if_block_3();
+	let each_value_1 = /*realItems*/ ctx[0];
+	let each_blocks = [];
+
+	for (let i = 0; i < each_value_1.length; i += 1) {
+		each_blocks[i] = create_each_block_1$2(get_each_context_1$2(ctx, each_value_1, i));
+	}
+
+	return {
+		c() {
+			if (if_block) if_block.c();
+			t = space();
+			ol = element("ol");
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].c();
+			}
+
+			attr(ol, "class", "svelte-w8vuio");
+		},
+		m(target, anchor) {
+			if (if_block) if_block.m(target, anchor);
+			insert(target, t, anchor);
+			insert(target, ol, anchor);
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].m(ol, null);
+			}
+		},
+		p(ctx, dirty) {
+			if (/*settings*/ ctx[4].showRelationType) {
+				if (if_block) ; else {
+					if_block = create_if_block_3();
+					if_block.c();
+					if_block.m(t.parentNode, t);
+				}
+			} else if (if_block) {
+				if_block.d(1);
+				if_block = null;
+			}
+
+			if (dirty & /*realItems, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 105) {
+				each_value_1 = /*realItems*/ ctx[0];
+				let i;
+
+				for (i = 0; i < each_value_1.length; i += 1) {
+					const child_ctx = get_each_context_1$2(ctx, each_value_1, i);
+
+					if (each_blocks[i]) {
+						each_blocks[i].p(child_ctx, dirty);
+					} else {
+						each_blocks[i] = create_each_block_1$2(child_ctx);
+						each_blocks[i].c();
+						each_blocks[i].m(ol, null);
+					}
+				}
+
+				for (; i < each_blocks.length; i += 1) {
+					each_blocks[i].d(1);
+				}
+
+				each_blocks.length = each_value_1.length;
+			}
+		},
+		d(detaching) {
+			if (if_block) if_block.d(detaching);
+			if (detaching) detach(t);
+			if (detaching) detach(ol);
+			destroy_each(each_blocks, detaching);
+		}
+	};
+}
+
+// (18:4) {#if settings.showRelationType}
+function create_if_block_3(ctx) {
+	let h5;
+
+	return {
+		c() {
+			h5 = element("h5");
+			h5.textContent = "Real";
+			attr(h5, "class", "breadcrumbs-matrix-header svelte-w8vuio");
+		},
+		m(target, anchor) {
+			insert(target, h5, anchor);
+		},
+		d(detaching) {
+			if (detaching) detach(h5);
+		}
+	};
+}
+
+// (22:6) {#each realItems as realItem}
+function create_each_block_1$2(ctx) {
+	let li;
+	let div;
+	let t0_value = /*realItem*/ ctx[14].to.split("/").last() + "";
+	let t0;
+	let div_class_value;
+	let t1;
+	let mounted;
+	let dispose;
+
+	function click_handler(...args) {
+		return /*click_handler*/ ctx[7](/*realItem*/ ctx[14], ...args);
+	}
+
+	return {
+		c() {
+			li = element("li");
+			div = element("div");
+			t0 = text(t0_value);
+			t1 = space();
+			attr(div, "class", div_class_value = "" + (null_to_empty(/*realItem*/ ctx[14].cls) + " svelte-w8vuio"));
+		},
+		m(target, anchor) {
+			insert(target, li, anchor);
+			append(li, div);
+			append(div, t0);
+			append(li, t1);
+
+			if (!mounted) {
+				dispose = [
+					listen(div, "click", click_handler),
+					listen(div, "mouseover", /*mouseover_handler*/ ctx[8])
+				];
+
+				mounted = true;
+			}
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+			if (dirty & /*realItems*/ 1 && t0_value !== (t0_value = /*realItem*/ ctx[14].to.split("/").last() + "")) set_data(t0, t0_value);
+
+			if (dirty & /*realItems*/ 1 && div_class_value !== (div_class_value = "" + (null_to_empty(/*realItem*/ ctx[14].cls) + " svelte-w8vuio"))) {
+				attr(div, "class", div_class_value);
+			}
+		},
+		d(detaching) {
+			if (detaching) detach(li);
+			mounted = false;
+			run_all(dispose);
+		}
+	};
+}
+
+// (36:2) {#if impliedItems.length}
+function create_if_block$2(ctx) {
+	let t;
+	let ol;
+	let ol_start_value;
+	let if_block = /*settings*/ ctx[4].showRelationType && create_if_block_1$1();
+	let each_value = /*impliedItems*/ ctx[1];
+	let each_blocks = [];
+
+	for (let i = 0; i < each_value.length; i += 1) {
+		each_blocks[i] = create_each_block$3(get_each_context$3(ctx, each_value, i));
+	}
+
+	return {
+		c() {
+			if (if_block) if_block.c();
+			t = space();
+			ol = element("ol");
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].c();
+			}
+
+			attr(ol, "start", ol_start_value = /*realItems*/ ctx[0].length + 1);
+			attr(ol, "class", "svelte-w8vuio");
+		},
+		m(target, anchor) {
+			if (if_block) if_block.m(target, anchor);
+			insert(target, t, anchor);
+			insert(target, ol, anchor);
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].m(ol, null);
+			}
+		},
+		p(ctx, dirty) {
+			if (/*settings*/ ctx[4].showRelationType) {
+				if (if_block) ; else {
+					if_block = create_if_block_1$1();
+					if_block.c();
+					if_block.m(t.parentNode, t);
+				}
+			} else if (if_block) {
+				if_block.d(1);
+				if_block = null;
+			}
+
+			if (dirty & /*impliedItems, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 106) {
+				each_value = /*impliedItems*/ ctx[1];
+				let i;
+
+				for (i = 0; i < each_value.length; i += 1) {
+					const child_ctx = get_each_context$3(ctx, each_value, i);
+
+					if (each_blocks[i]) {
+						each_blocks[i].p(child_ctx, dirty);
+					} else {
+						each_blocks[i] = create_each_block$3(child_ctx);
+						each_blocks[i].c();
+						each_blocks[i].m(ol, null);
+					}
+				}
+
+				for (; i < each_blocks.length; i += 1) {
+					each_blocks[i].d(1);
+				}
+
+				each_blocks.length = each_value.length;
+			}
+
+			if (dirty & /*realItems*/ 1 && ol_start_value !== (ol_start_value = /*realItems*/ ctx[0].length + 1)) {
+				attr(ol, "start", ol_start_value);
+			}
+		},
+		d(detaching) {
+			if (if_block) if_block.d(detaching);
+			if (detaching) detach(t);
+			if (detaching) detach(ol);
+			destroy_each(each_blocks, detaching);
+		}
+	};
+}
+
+// (37:4) {#if settings.showRelationType}
+function create_if_block_1$1(ctx) {
+	let h5;
+
+	return {
+		c() {
+			h5 = element("h5");
+			h5.textContent = "Implied";
+			attr(h5, "class", "breadcrumbs-matrix-header svelte-w8vuio");
+		},
+		m(target, anchor) {
+			insert(target, h5, anchor);
+		},
+		d(detaching) {
+			if (detaching) detach(h5);
+		}
+	};
+}
+
+// (41:6) {#each impliedItems as impliedItem}
+function create_each_block$3(ctx) {
+	let li;
+	let div;
+	let t0_value = /*impliedItem*/ ctx[11].to.split("/").last() + "";
+	let t0;
+	let div_class_value;
+	let t1;
+	let mounted;
+	let dispose;
+
+	function click_handler_1(...args) {
+		return /*click_handler_1*/ ctx[9](/*impliedItem*/ ctx[11], ...args);
+	}
+
+	return {
+		c() {
+			li = element("li");
+			div = element("div");
+			t0 = text(t0_value);
+			t1 = space();
+			attr(div, "class", div_class_value = "" + (null_to_empty(/*impliedItem*/ ctx[11].cls) + " svelte-w8vuio"));
+			attr(li, "class", "breadcrumbs-implied");
+		},
+		m(target, anchor) {
+			insert(target, li, anchor);
+			append(li, div);
+			append(div, t0);
+			append(li, t1);
+
+			if (!mounted) {
+				dispose = [
+					listen(div, "click", click_handler_1),
+					listen(div, "mouseover", /*mouseover_handler_1*/ ctx[10])
+				];
+
+				mounted = true;
+			}
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+			if (dirty & /*impliedItems*/ 2 && t0_value !== (t0_value = /*impliedItem*/ ctx[11].to.split("/").last() + "")) set_data(t0, t0_value);
+
+			if (dirty & /*impliedItems*/ 2 && div_class_value !== (div_class_value = "" + (null_to_empty(/*impliedItem*/ ctx[11].cls) + " svelte-w8vuio"))) {
+				attr(div, "class", div_class_value);
+			}
+		},
+		d(detaching) {
+			if (detaching) detach(li);
+			mounted = false;
+			run_all(dispose);
+		}
+	};
+}
+
+function create_fragment$3(ctx) {
+	let div;
+	let h3;
+	let t0;
+	let t1;
+	let t2;
+	let if_block0 = /*realItems*/ ctx[0].length && create_if_block_2$1(ctx);
+	let if_block1 = /*impliedItems*/ ctx[1].length && create_if_block$2(ctx);
+
+	return {
+		c() {
+			div = element("div");
+			h3 = element("h3");
+			t0 = text(/*fieldName*/ ctx[2]);
+			t1 = space();
+			if (if_block0) if_block0.c();
+			t2 = space();
+			if (if_block1) if_block1.c();
+			attr(h3, "class", "breadcrumbs-matrix-header svelte-w8vuio");
+			attr(div, "class", "breadcrumbs-matrix-square svelte-w8vuio");
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+			append(div, h3);
+			append(h3, t0);
+			append(div, t1);
+			if (if_block0) if_block0.m(div, null);
+			append(div, t2);
+			if (if_block1) if_block1.m(div, null);
+		},
+		p(ctx, [dirty]) {
+			if (dirty & /*fieldName*/ 4) set_data(t0, /*fieldName*/ ctx[2]);
+
+			if (/*realItems*/ ctx[0].length) {
+				if (if_block0) {
+					if_block0.p(ctx, dirty);
+				} else {
+					if_block0 = create_if_block_2$1(ctx);
+					if_block0.c();
+					if_block0.m(div, t2);
+				}
+			} else if (if_block0) {
+				if_block0.d(1);
+				if_block0 = null;
+			}
+
+			if (/*impliedItems*/ ctx[1].length) {
+				if (if_block1) {
+					if_block1.p(ctx, dirty);
+				} else {
+					if_block1 = create_if_block$2(ctx);
+					if_block1.c();
+					if_block1.m(div, null);
+				}
+			} else if (if_block1) {
+				if_block1.d(1);
+				if_block1 = null;
+			}
+		},
+		i: noop,
+		o: noop,
+		d(detaching) {
+			if (detaching) detach(div);
+			if (if_block0) if_block0.d();
+			if (if_block1) if_block1.d();
+		}
+	};
+}
+
+function instance$3($$self, $$props, $$invalidate) {
+	
+	
+	
+	let { realItems } = $$props;
+	let { impliedItems } = $$props;
+	let { fieldName } = $$props;
+	let { currFile } = $$props;
+	let { settings } = $$props;
+	let { matrixView } = $$props;
+	let { app } = $$props;
+	const click_handler = async (realItem, e) => openOrSwitch(app, realItem.to, currFile, e);
+	const mouseover_handler = event => hoverPreview$2(event, matrixView);
+	const click_handler_1 = async (impliedItem, e) => openOrSwitch(app, impliedItem.to, currFile, e);
+	const mouseover_handler_1 = event => hoverPreview$2(event, matrixView);
+
+	$$self.$$set = $$props => {
+		if ("realItems" in $$props) $$invalidate(0, realItems = $$props.realItems);
+		if ("impliedItems" in $$props) $$invalidate(1, impliedItems = $$props.impliedItems);
+		if ("fieldName" in $$props) $$invalidate(2, fieldName = $$props.fieldName);
+		if ("currFile" in $$props) $$invalidate(3, currFile = $$props.currFile);
+		if ("settings" in $$props) $$invalidate(4, settings = $$props.settings);
+		if ("matrixView" in $$props) $$invalidate(5, matrixView = $$props.matrixView);
+		if ("app" in $$props) $$invalidate(6, app = $$props.app);
+	};
+
+	return [
+		realItems,
+		impliedItems,
+		fieldName,
+		currFile,
+		settings,
+		matrixView,
+		app,
+		click_handler,
+		mouseover_handler,
+		click_handler_1,
+		mouseover_handler_1
+	];
+}
+
+class Square extends SvelteComponent {
+	constructor(options) {
+		super();
+		if (!document.getElementById("svelte-w8vuio-style")) add_css$3();
+
+		init(this, options, instance$3, create_fragment$3, safe_not_equal, {
+			realItems: 0,
+			impliedItems: 1,
+			fieldName: 2,
+			currFile: 3,
+			settings: 4,
+			matrixView: 5,
+			app: 6
+		});
+	}
+}
+
+/* src/Matrix.svelte generated by Svelte v3.35.0 */
+
+function add_css$2() {
+	var style = element("style");
+	style.id = "svelte-1rzjv2z-style";
+	style.textContent = "div.breadcrumbs-matrix.svelte-1rzjv2z{text-align:center;padding:5px;margin:0 auto}";
+	append(document.head, style);
+}
+
+function get_each_context$2(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[8] = list[i];
+	return child_ctx;
+}
+
+// (18:4) {#if item.realItems.length > 0 || item.impliedItems.length > 0}
+function create_if_block$1(ctx) {
+	let square;
+	let current;
+
+	const square_spread_levels = [
+		/*item*/ ctx[8],
+		{ currFile: /*currFile*/ ctx[0] },
+		{ settings: /*settings*/ ctx[1] },
+		{ matrixView: /*matrixView*/ ctx[2] },
+		{ app: /*app*/ ctx[3] }
+	];
+
+	let square_props = {};
+
+	for (let i = 0; i < square_spread_levels.length; i += 1) {
+		square_props = assign(square_props, square_spread_levels[i]);
+	}
+
+	square = new Square({ props: square_props });
+
+	return {
+		c() {
+			create_component(square.$$.fragment);
+		},
+		m(target, anchor) {
+			mount_component(square, target, anchor);
+			current = true;
+		},
+		p(ctx, dirty) {
+			const square_changes = (dirty & /*list, currFile, settings, matrixView, app*/ 31)
+			? get_spread_update(square_spread_levels, [
+					dirty & /*list*/ 16 && get_spread_object(/*item*/ ctx[8]),
+					dirty & /*currFile*/ 1 && { currFile: /*currFile*/ ctx[0] },
+					dirty & /*settings*/ 2 && { settings: /*settings*/ ctx[1] },
+					dirty & /*matrixView*/ 4 && { matrixView: /*matrixView*/ ctx[2] },
+					dirty & /*app*/ 8 && { app: /*app*/ ctx[3] }
+				])
+			: {};
+
+			square.$set(square_changes);
+		},
+		i(local) {
+			if (current) return;
+			transition_in(square.$$.fragment, local);
+			current = true;
+		},
+		o(local) {
+			transition_out(square.$$.fragment, local);
+			current = false;
+		},
+		d(detaching) {
+			destroy_component(square, detaching);
+		}
+	};
+}
+
+// (17:2) {#each list as item}
+function create_each_block$2(ctx) {
+	let if_block_anchor;
+	let current;
+	let if_block = (/*item*/ ctx[8].realItems.length > 0 || /*item*/ ctx[8].impliedItems.length > 0) && create_if_block$1(ctx);
+
+	return {
+		c() {
+			if (if_block) if_block.c();
+			if_block_anchor = empty();
+		},
+		m(target, anchor) {
+			if (if_block) if_block.m(target, anchor);
+			insert(target, if_block_anchor, anchor);
+			current = true;
+		},
+		p(ctx, dirty) {
+			if (/*item*/ ctx[8].realItems.length > 0 || /*item*/ ctx[8].impliedItems.length > 0) if_block.p(ctx, dirty);
+		},
+		i(local) {
+			if (current) return;
+			transition_in(if_block);
+			current = true;
+		},
+		o(local) {
+			transition_out(if_block);
+			current = false;
+		},
+		d(detaching) {
+			if (if_block) if_block.d(detaching);
+			if (detaching) detach(if_block_anchor);
+		}
+	};
+}
+
+function create_fragment$2(ctx) {
+	let div;
+	let current;
+	let each_value = /*list*/ ctx[4];
+	let each_blocks = [];
+
+	for (let i = 0; i < each_value.length; i += 1) {
+		each_blocks[i] = create_each_block$2(get_each_context$2(ctx, each_value, i));
+	}
+
+	const out = i => transition_out(each_blocks[i], 1, 1, () => {
+		each_blocks[i] = null;
+	});
+
+	return {
+		c() {
+			div = element("div");
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].c();
+			}
+
+			attr(div, "class", "breadcrumbs-matrix  markdown-preview-view svelte-1rzjv2z");
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].m(div, null);
+			}
+
+			current = true;
+		},
+		p(ctx, [dirty]) {
+			if (dirty & /*list, currFile, settings, matrixView, app*/ 31) {
+				each_value = /*list*/ ctx[4];
 				let i;
 
 				for (i = 0; i < each_value.length; i += 1) {
@@ -7572,697 +8325,6 @@ function instance$2($$self, $$props, $$invalidate) {
 	let { settings } = $$props;
 	let { matrixView } = $$props;
 	let { app } = $$props;
-	const lists = [parents, siblings, children];
-
-	$$self.$$set = $$props => {
-		if ("parents" in $$props) $$invalidate(5, parents = $$props.parents);
-		if ("siblings" in $$props) $$invalidate(6, siblings = $$props.siblings);
-		if ("children" in $$props) $$invalidate(7, children = $$props.children);
-		if ("currFile" in $$props) $$invalidate(0, currFile = $$props.currFile);
-		if ("settings" in $$props) $$invalidate(1, settings = $$props.settings);
-		if ("matrixView" in $$props) $$invalidate(2, matrixView = $$props.matrixView);
-		if ("app" in $$props) $$invalidate(3, app = $$props.app);
-	};
-
-	return [currFile, settings, matrixView, app, lists, parents, siblings, children];
-}
-
-class Lists extends SvelteComponent {
-	constructor(options) {
-		super();
-
-		init(this, options, instance$2, create_fragment$2, safe_not_equal, {
-			parents: 5,
-			siblings: 6,
-			children: 7,
-			currFile: 0,
-			settings: 1,
-			matrixView: 2,
-			app: 3
-		});
-	}
-}
-
-/* src/Square.svelte generated by Svelte v3.35.0 */
-
-function add_css$1() {
-	var style = element("style");
-	style.id = "svelte-w8vuio-style";
-	style.textContent = "div.breadcrumbs-matrix-square.svelte-w8vuio{border:2px solid var(--background-modifier-border);border-radius:5px;padding:5px;height:fit-content;position:relative}.breadcrumbs-matrix-header.svelte-w8vuio{margin:2px}h3.breadcrumbs-matrix-header.svelte-w8vuio{color:var(--text-title-h3)}h5.breadcrumbs-matrix-header.svelte-w8vuio{color:var(--text-title-h5)}ol.svelte-w8vuio{margin:3px;padding-left:20px}";
-	append(document.head, style);
-}
-
-function get_each_context$1(ctx, list, i) {
-	const child_ctx = ctx.slice();
-	child_ctx[11] = list[i];
-	return child_ctx;
-}
-
-function get_each_context_1(ctx, list, i) {
-	const child_ctx = ctx.slice();
-	child_ctx[14] = list[i];
-	return child_ctx;
-}
-
-// (17:2) {#if realItems.length}
-function create_if_block_2(ctx) {
-	let t;
-	let ol;
-	let if_block = /*settings*/ ctx[4].showRelationType && create_if_block_3();
-	let each_value_1 = /*realItems*/ ctx[0];
-	let each_blocks = [];
-
-	for (let i = 0; i < each_value_1.length; i += 1) {
-		each_blocks[i] = create_each_block_1(get_each_context_1(ctx, each_value_1, i));
-	}
-
-	return {
-		c() {
-			if (if_block) if_block.c();
-			t = space();
-			ol = element("ol");
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].c();
-			}
-
-			attr(ol, "class", "svelte-w8vuio");
-		},
-		m(target, anchor) {
-			if (if_block) if_block.m(target, anchor);
-			insert(target, t, anchor);
-			insert(target, ol, anchor);
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].m(ol, null);
-			}
-		},
-		p(ctx, dirty) {
-			if (/*settings*/ ctx[4].showRelationType) {
-				if (if_block) ; else {
-					if_block = create_if_block_3();
-					if_block.c();
-					if_block.m(t.parentNode, t);
-				}
-			} else if (if_block) {
-				if_block.d(1);
-				if_block = null;
-			}
-
-			if (dirty & /*realItems, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 105) {
-				each_value_1 = /*realItems*/ ctx[0];
-				let i;
-
-				for (i = 0; i < each_value_1.length; i += 1) {
-					const child_ctx = get_each_context_1(ctx, each_value_1, i);
-
-					if (each_blocks[i]) {
-						each_blocks[i].p(child_ctx, dirty);
-					} else {
-						each_blocks[i] = create_each_block_1(child_ctx);
-						each_blocks[i].c();
-						each_blocks[i].m(ol, null);
-					}
-				}
-
-				for (; i < each_blocks.length; i += 1) {
-					each_blocks[i].d(1);
-				}
-
-				each_blocks.length = each_value_1.length;
-			}
-		},
-		d(detaching) {
-			if (if_block) if_block.d(detaching);
-			if (detaching) detach(t);
-			if (detaching) detach(ol);
-			destroy_each(each_blocks, detaching);
-		}
-	};
-}
-
-// (18:4) {#if settings.showRelationType}
-function create_if_block_3(ctx) {
-	let h5;
-
-	return {
-		c() {
-			h5 = element("h5");
-			h5.textContent = "Real";
-			attr(h5, "class", "breadcrumbs-matrix-header svelte-w8vuio");
-		},
-		m(target, anchor) {
-			insert(target, h5, anchor);
-		},
-		d(detaching) {
-			if (detaching) detach(h5);
-		}
-	};
-}
-
-// (22:6) {#each realItems as realItem}
-function create_each_block_1(ctx) {
-	let li;
-	let div;
-	let t0_value = /*realItem*/ ctx[14].to.split("/").last() + "";
-	let t0;
-	let div_class_value;
-	let t1;
-	let mounted;
-	let dispose;
-
-	function click_handler(...args) {
-		return /*click_handler*/ ctx[7](/*realItem*/ ctx[14], ...args);
-	}
-
-	return {
-		c() {
-			li = element("li");
-			div = element("div");
-			t0 = text(t0_value);
-			t1 = space();
-			attr(div, "class", div_class_value = "" + (null_to_empty(/*realItem*/ ctx[14].cls) + " svelte-w8vuio"));
-		},
-		m(target, anchor) {
-			insert(target, li, anchor);
-			append(li, div);
-			append(div, t0);
-			append(li, t1);
-
-			if (!mounted) {
-				dispose = [
-					listen(div, "click", click_handler),
-					listen(div, "mouseover", /*mouseover_handler*/ ctx[8])
-				];
-
-				mounted = true;
-			}
-		},
-		p(new_ctx, dirty) {
-			ctx = new_ctx;
-			if (dirty & /*realItems*/ 1 && t0_value !== (t0_value = /*realItem*/ ctx[14].to.split("/").last() + "")) set_data(t0, t0_value);
-
-			if (dirty & /*realItems*/ 1 && div_class_value !== (div_class_value = "" + (null_to_empty(/*realItem*/ ctx[14].cls) + " svelte-w8vuio"))) {
-				attr(div, "class", div_class_value);
-			}
-		},
-		d(detaching) {
-			if (detaching) detach(li);
-			mounted = false;
-			run_all(dispose);
-		}
-	};
-}
-
-// (36:2) {#if impliedItems.length}
-function create_if_block$1(ctx) {
-	let t;
-	let ol;
-	let ol_start_value;
-	let if_block = /*settings*/ ctx[4].showRelationType && create_if_block_1();
-	let each_value = /*impliedItems*/ ctx[1];
-	let each_blocks = [];
-
-	for (let i = 0; i < each_value.length; i += 1) {
-		each_blocks[i] = create_each_block$1(get_each_context$1(ctx, each_value, i));
-	}
-
-	return {
-		c() {
-			if (if_block) if_block.c();
-			t = space();
-			ol = element("ol");
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].c();
-			}
-
-			attr(ol, "start", ol_start_value = /*realItems*/ ctx[0].length + 1);
-			attr(ol, "class", "svelte-w8vuio");
-		},
-		m(target, anchor) {
-			if (if_block) if_block.m(target, anchor);
-			insert(target, t, anchor);
-			insert(target, ol, anchor);
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].m(ol, null);
-			}
-		},
-		p(ctx, dirty) {
-			if (/*settings*/ ctx[4].showRelationType) {
-				if (if_block) ; else {
-					if_block = create_if_block_1();
-					if_block.c();
-					if_block.m(t.parentNode, t);
-				}
-			} else if (if_block) {
-				if_block.d(1);
-				if_block = null;
-			}
-
-			if (dirty & /*impliedItems, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 106) {
-				each_value = /*impliedItems*/ ctx[1];
-				let i;
-
-				for (i = 0; i < each_value.length; i += 1) {
-					const child_ctx = get_each_context$1(ctx, each_value, i);
-
-					if (each_blocks[i]) {
-						each_blocks[i].p(child_ctx, dirty);
-					} else {
-						each_blocks[i] = create_each_block$1(child_ctx);
-						each_blocks[i].c();
-						each_blocks[i].m(ol, null);
-					}
-				}
-
-				for (; i < each_blocks.length; i += 1) {
-					each_blocks[i].d(1);
-				}
-
-				each_blocks.length = each_value.length;
-			}
-
-			if (dirty & /*realItems*/ 1 && ol_start_value !== (ol_start_value = /*realItems*/ ctx[0].length + 1)) {
-				attr(ol, "start", ol_start_value);
-			}
-		},
-		d(detaching) {
-			if (if_block) if_block.d(detaching);
-			if (detaching) detach(t);
-			if (detaching) detach(ol);
-			destroy_each(each_blocks, detaching);
-		}
-	};
-}
-
-// (37:4) {#if settings.showRelationType}
-function create_if_block_1(ctx) {
-	let h5;
-
-	return {
-		c() {
-			h5 = element("h5");
-			h5.textContent = "Implied";
-			attr(h5, "class", "breadcrumbs-matrix-header svelte-w8vuio");
-		},
-		m(target, anchor) {
-			insert(target, h5, anchor);
-		},
-		d(detaching) {
-			if (detaching) detach(h5);
-		}
-	};
-}
-
-// (41:6) {#each impliedItems as impliedItem}
-function create_each_block$1(ctx) {
-	let li;
-	let div;
-	let t0_value = /*impliedItem*/ ctx[11].to.split("/").last() + "";
-	let t0;
-	let div_class_value;
-	let t1;
-	let mounted;
-	let dispose;
-
-	function click_handler_1(...args) {
-		return /*click_handler_1*/ ctx[9](/*impliedItem*/ ctx[11], ...args);
-	}
-
-	return {
-		c() {
-			li = element("li");
-			div = element("div");
-			t0 = text(t0_value);
-			t1 = space();
-			attr(div, "class", div_class_value = "" + (null_to_empty(/*impliedItem*/ ctx[11].cls) + " svelte-w8vuio"));
-			attr(li, "class", "breadcrumbs-implied");
-		},
-		m(target, anchor) {
-			insert(target, li, anchor);
-			append(li, div);
-			append(div, t0);
-			append(li, t1);
-
-			if (!mounted) {
-				dispose = [
-					listen(div, "click", click_handler_1),
-					listen(div, "mouseover", /*mouseover_handler_1*/ ctx[10])
-				];
-
-				mounted = true;
-			}
-		},
-		p(new_ctx, dirty) {
-			ctx = new_ctx;
-			if (dirty & /*impliedItems*/ 2 && t0_value !== (t0_value = /*impliedItem*/ ctx[11].to.split("/").last() + "")) set_data(t0, t0_value);
-
-			if (dirty & /*impliedItems*/ 2 && div_class_value !== (div_class_value = "" + (null_to_empty(/*impliedItem*/ ctx[11].cls) + " svelte-w8vuio"))) {
-				attr(div, "class", div_class_value);
-			}
-		},
-		d(detaching) {
-			if (detaching) detach(li);
-			mounted = false;
-			run_all(dispose);
-		}
-	};
-}
-
-function create_fragment$1(ctx) {
-	let div;
-	let h3;
-	let t0;
-	let t1;
-	let t2;
-	let if_block0 = /*realItems*/ ctx[0].length && create_if_block_2(ctx);
-	let if_block1 = /*impliedItems*/ ctx[1].length && create_if_block$1(ctx);
-
-	return {
-		c() {
-			div = element("div");
-			h3 = element("h3");
-			t0 = text(/*fieldName*/ ctx[2]);
-			t1 = space();
-			if (if_block0) if_block0.c();
-			t2 = space();
-			if (if_block1) if_block1.c();
-			attr(h3, "class", "breadcrumbs-matrix-header svelte-w8vuio");
-			attr(div, "class", "breadcrumbs-matrix-square svelte-w8vuio");
-		},
-		m(target, anchor) {
-			insert(target, div, anchor);
-			append(div, h3);
-			append(h3, t0);
-			append(div, t1);
-			if (if_block0) if_block0.m(div, null);
-			append(div, t2);
-			if (if_block1) if_block1.m(div, null);
-		},
-		p(ctx, [dirty]) {
-			if (dirty & /*fieldName*/ 4) set_data(t0, /*fieldName*/ ctx[2]);
-
-			if (/*realItems*/ ctx[0].length) {
-				if (if_block0) {
-					if_block0.p(ctx, dirty);
-				} else {
-					if_block0 = create_if_block_2(ctx);
-					if_block0.c();
-					if_block0.m(div, t2);
-				}
-			} else if (if_block0) {
-				if_block0.d(1);
-				if_block0 = null;
-			}
-
-			if (/*impliedItems*/ ctx[1].length) {
-				if (if_block1) {
-					if_block1.p(ctx, dirty);
-				} else {
-					if_block1 = create_if_block$1(ctx);
-					if_block1.c();
-					if_block1.m(div, null);
-				}
-			} else if (if_block1) {
-				if_block1.d(1);
-				if_block1 = null;
-			}
-		},
-		i: noop,
-		o: noop,
-		d(detaching) {
-			if (detaching) detach(div);
-			if (if_block0) if_block0.d();
-			if (if_block1) if_block1.d();
-		}
-	};
-}
-
-function instance$1($$self, $$props, $$invalidate) {
-	
-	
-	
-	let { realItems } = $$props;
-	let { impliedItems } = $$props;
-	let { fieldName } = $$props;
-	let { currFile } = $$props;
-	let { settings } = $$props;
-	let { matrixView } = $$props;
-	let { app } = $$props;
-	const click_handler = async (realItem, e) => openOrSwitch(app, realItem.to, currFile, e);
-	const mouseover_handler = event => hoverPreview(event, matrixView);
-	const click_handler_1 = async (impliedItem, e) => openOrSwitch(app, impliedItem.to, currFile, e);
-	const mouseover_handler_1 = event => hoverPreview(event, matrixView);
-
-	$$self.$$set = $$props => {
-		if ("realItems" in $$props) $$invalidate(0, realItems = $$props.realItems);
-		if ("impliedItems" in $$props) $$invalidate(1, impliedItems = $$props.impliedItems);
-		if ("fieldName" in $$props) $$invalidate(2, fieldName = $$props.fieldName);
-		if ("currFile" in $$props) $$invalidate(3, currFile = $$props.currFile);
-		if ("settings" in $$props) $$invalidate(4, settings = $$props.settings);
-		if ("matrixView" in $$props) $$invalidate(5, matrixView = $$props.matrixView);
-		if ("app" in $$props) $$invalidate(6, app = $$props.app);
-	};
-
-	return [
-		realItems,
-		impliedItems,
-		fieldName,
-		currFile,
-		settings,
-		matrixView,
-		app,
-		click_handler,
-		mouseover_handler,
-		click_handler_1,
-		mouseover_handler_1
-	];
-}
-
-class Square extends SvelteComponent {
-	constructor(options) {
-		super();
-		if (!document.getElementById("svelte-w8vuio-style")) add_css$1();
-
-		init(this, options, instance$1, create_fragment$1, safe_not_equal, {
-			realItems: 0,
-			impliedItems: 1,
-			fieldName: 2,
-			currFile: 3,
-			settings: 4,
-			matrixView: 5,
-			app: 6
-		});
-	}
-}
-
-/* src/Matrix.svelte generated by Svelte v3.35.0 */
-
-function add_css() {
-	var style = element("style");
-	style.id = "svelte-hlcqxq-style";
-	style.textContent = "div.breadcrumbs-matrix.svelte-hlcqxq{text-align:center;padding:1em;margin:0 auto}";
-	append(document.head, style);
-}
-
-function get_each_context(ctx, list, i) {
-	const child_ctx = ctx.slice();
-	child_ctx[8] = list[i];
-	return child_ctx;
-}
-
-// (18:4) {#if item.realItems.length > 0 || item.impliedItems.length > 0}
-function create_if_block(ctx) {
-	let square;
-	let current;
-
-	const square_spread_levels = [
-		/*item*/ ctx[8],
-		{ currFile: /*currFile*/ ctx[0] },
-		{ settings: /*settings*/ ctx[1] },
-		{ matrixView: /*matrixView*/ ctx[2] },
-		{ app: /*app*/ ctx[3] }
-	];
-
-	let square_props = {};
-
-	for (let i = 0; i < square_spread_levels.length; i += 1) {
-		square_props = assign(square_props, square_spread_levels[i]);
-	}
-
-	square = new Square({ props: square_props });
-
-	return {
-		c() {
-			create_component(square.$$.fragment);
-		},
-		m(target, anchor) {
-			mount_component(square, target, anchor);
-			current = true;
-		},
-		p(ctx, dirty) {
-			const square_changes = (dirty & /*list, currFile, settings, matrixView, app*/ 31)
-			? get_spread_update(square_spread_levels, [
-					dirty & /*list*/ 16 && get_spread_object(/*item*/ ctx[8]),
-					dirty & /*currFile*/ 1 && { currFile: /*currFile*/ ctx[0] },
-					dirty & /*settings*/ 2 && { settings: /*settings*/ ctx[1] },
-					dirty & /*matrixView*/ 4 && { matrixView: /*matrixView*/ ctx[2] },
-					dirty & /*app*/ 8 && { app: /*app*/ ctx[3] }
-				])
-			: {};
-
-			square.$set(square_changes);
-		},
-		i(local) {
-			if (current) return;
-			transition_in(square.$$.fragment, local);
-			current = true;
-		},
-		o(local) {
-			transition_out(square.$$.fragment, local);
-			current = false;
-		},
-		d(detaching) {
-			destroy_component(square, detaching);
-		}
-	};
-}
-
-// (17:2) {#each list as item}
-function create_each_block(ctx) {
-	let if_block_anchor;
-	let current;
-	let if_block = (/*item*/ ctx[8].realItems.length > 0 || /*item*/ ctx[8].impliedItems.length > 0) && create_if_block(ctx);
-
-	return {
-		c() {
-			if (if_block) if_block.c();
-			if_block_anchor = empty();
-		},
-		m(target, anchor) {
-			if (if_block) if_block.m(target, anchor);
-			insert(target, if_block_anchor, anchor);
-			current = true;
-		},
-		p(ctx, dirty) {
-			if (/*item*/ ctx[8].realItems.length > 0 || /*item*/ ctx[8].impliedItems.length > 0) if_block.p(ctx, dirty);
-		},
-		i(local) {
-			if (current) return;
-			transition_in(if_block);
-			current = true;
-		},
-		o(local) {
-			transition_out(if_block);
-			current = false;
-		},
-		d(detaching) {
-			if (if_block) if_block.d(detaching);
-			if (detaching) detach(if_block_anchor);
-		}
-	};
-}
-
-function create_fragment(ctx) {
-	let div;
-	let current;
-	let each_value = /*list*/ ctx[4];
-	let each_blocks = [];
-
-	for (let i = 0; i < each_value.length; i += 1) {
-		each_blocks[i] = create_each_block(get_each_context(ctx, each_value, i));
-	}
-
-	const out = i => transition_out(each_blocks[i], 1, 1, () => {
-		each_blocks[i] = null;
-	});
-
-	return {
-		c() {
-			div = element("div");
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].c();
-			}
-
-			attr(div, "class", "breadcrumbs-matrix  markdown-preview-view svelte-hlcqxq");
-		},
-		m(target, anchor) {
-			insert(target, div, anchor);
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].m(div, null);
-			}
-
-			current = true;
-		},
-		p(ctx, [dirty]) {
-			if (dirty & /*list, currFile, settings, matrixView, app*/ 31) {
-				each_value = /*list*/ ctx[4];
-				let i;
-
-				for (i = 0; i < each_value.length; i += 1) {
-					const child_ctx = get_each_context(ctx, each_value, i);
-
-					if (each_blocks[i]) {
-						each_blocks[i].p(child_ctx, dirty);
-						transition_in(each_blocks[i], 1);
-					} else {
-						each_blocks[i] = create_each_block(child_ctx);
-						each_blocks[i].c();
-						transition_in(each_blocks[i], 1);
-						each_blocks[i].m(div, null);
-					}
-				}
-
-				group_outros();
-
-				for (i = each_value.length; i < each_blocks.length; i += 1) {
-					out(i);
-				}
-
-				check_outros();
-			}
-		},
-		i(local) {
-			if (current) return;
-
-			for (let i = 0; i < each_value.length; i += 1) {
-				transition_in(each_blocks[i]);
-			}
-
-			current = true;
-		},
-		o(local) {
-			each_blocks = each_blocks.filter(Boolean);
-
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				transition_out(each_blocks[i]);
-			}
-
-			current = false;
-		},
-		d(detaching) {
-			if (detaching) detach(div);
-			destroy_each(each_blocks, detaching);
-		}
-	};
-}
-
-function instance($$self, $$props, $$invalidate) {
-	
-	
-	
-	
-	let { parents } = $$props;
-	let { siblings } = $$props;
-	let { children } = $$props;
-	let { currFile } = $$props;
-	let { settings } = $$props;
-	let { matrixView } = $$props;
-	let { app } = $$props;
 	const list = [parents, siblings, children];
 
 	$$self.$$set = $$props => {
@@ -8281,9 +8343,9 @@ function instance($$self, $$props, $$invalidate) {
 class Matrix extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-hlcqxq-style")) add_css();
+		if (!document.getElementById("svelte-1rzjv2z-style")) add_css$2();
 
-		init(this, options, instance, create_fragment, safe_not_equal, {
+		init(this, options, instance$2, create_fragment$2, safe_not_equal, {
 			parents: 5,
 			siblings: 6,
 			children: 7,
@@ -8349,7 +8411,7 @@ class MatrixView extends obsidian.ItemView {
             items.forEach((item) => {
                 internalLinkObjArr.push({
                     to: item,
-                    cls: this.resolvedClass(item, currFile),
+                    cls: this.resolvedClass(item, currFile) + (realQ ? '' : ' breadcrumbs-implied'),
                 });
             });
         }
@@ -8369,44 +8431,65 @@ class MatrixView extends obsidian.ItemView {
             });
         });
     }
-    getAdjList(gChildren, currFile, depth) {
-        const adjList = new Map();
-        function addNode(node) {
-            adjList.set(node, []);
+    dfsAllPaths(g, startNode) {
+        var _a;
+        const queue = [
+            { node: startNode, path: [] },
+        ];
+        const pathsArr = [];
+        let i = 0;
+        while (queue.length > 0 && i < 1000) {
+            i++;
+            const currPath = queue.shift();
+            const newNodes = ((_a = g.successors(currPath.node)) !== null && _a !== void 0 ? _a : []);
+            const extPath = [currPath.node, ...currPath.path];
+            queue.unshift(...newNodes.map((n) => {
+                return { node: n, path: extPath };
+            }));
+            if (newNodes.length === 0) {
+                pathsArr.push(extPath);
+            }
         }
-        addNode(currFile);
-        const visited = new Set();
-        // Do this `depth` number of times
-        for (let i = 1; i < depth; i++) {
-            console.log(adjList);
-            adjList.forEach((childArr, parent) => {
-                var _a;
-                let childrenOfKey;
-                // If the node hasn't been visited before
-                if (!visited.has(parent)) {
-                    // Get it's children
-                    childrenOfKey = ((_a = gChildren.successors(parent)) !== null && _a !== void 0 ? _a : []);
-                    // Mark it as visited
-                    visited.add(parent);
-                    // Add it to the adjList
-                    adjList.set(parent, childrenOfKey);
-                    // Add the children as top-level map items
-                    childrenOfKey.forEach((childOfKey) => {
-                        addNode(childOfKey);
-                    });
-                }
-            });
-        }
-        return adjList;
+        return pathsArr;
     }
-    // mapToMD(adjList: Map<string, string[]>): string {
-    //   let md = '';
-    //   // Here I need help...
-    //   return md
-    // }
     async draw() {
         var _a;
         this.contentEl.empty();
+        // this.currGraphs = this.plugin.currGraphs;
+        const { gParents, gSiblings, gChildren } = this.plugin.currGraphs;
+        const currFile = this.app.workspace.getActiveFile();
+        const settings = this.plugin.settings;
+        // SECTION Create Index
+        const allPaths = this.dfsAllPaths(closeImpliedLinks(gChildren, gParents), currFile.basename);
+        const reversed = allPaths.map(path => path.reverse());
+        reversed.forEach(path => path.shift());
+        let txt = currFile.basename + '\n';
+        const indent = '  ';
+        const visited = [];
+        const depths = [];
+        reversed.forEach(path => {
+            for (let i = 0; i < path.length; i++) {
+                const curr = path[i];
+                if (!visited.includes(curr)) {
+                    const index = visited.indexOf(curr);
+                    if (depths[index] !== i) {
+                        txt += indent.repeat(i + 1);
+                        txt += `- ${curr}\n`;
+                        visited.push(curr);
+                        depths.push(i);
+                    }
+                }
+                else {
+                    const next = path[i + 1];
+                    if (next) {
+                        txt += indent.repeat(i + 2);
+                        txt += `- ${next}\n`;
+                    }
+                }
+            }
+        });
+        console.log({ visited });
+        // !SECTION Create Index
         const viewToggleButton = this.contentEl.createEl("button", {
             text: this.matrixQ ? "List" : "Matrix",
         });
@@ -8418,16 +8501,12 @@ class MatrixView extends obsidian.ItemView {
         const createIndexButton = this.contentEl.createEl("button", {
             text: "Create Index",
         });
-        createIndexButton.addEventListener("click", () => console.log(this.getAdjList(this.plugin.currGraphs.gChildren, currFile.basename, 2)));
-        this.currGraphs = this.plugin.currGraphs;
-        const currFile = this.app.workspace.getActiveFile();
-        const settings = this.plugin.settings;
+        createIndexButton.addEventListener("click", () => console.log(txt));
         const [parentFieldName, siblingFieldName, childFieldName] = [
             settings.showNameOrType ? settings.parentFieldName : "Parent",
             settings.showNameOrType ? settings.siblingFieldName : "Sibling",
             settings.showNameOrType ? settings.childFieldName : "Child",
         ];
-        const { gParents, gSiblings, gChildren } = this.currGraphs;
         const [realParents, realSiblings, realChildren, impliedParents, impliedChildren,] = [
             this.squareItems(gParents, currFile),
             this.squareItems(gSiblings, currFile),
@@ -8435,7 +8514,8 @@ class MatrixView extends obsidian.ItemView {
             this.squareItems(gChildren, currFile, false),
             this.squareItems(gParents, currFile, false),
         ];
-        /// Implied Siblings
+        // SECTION Implied Siblings
+        /// Notes with the same parents
         const currParents = ((_a = gParents.successors(currFile.basename)) !== null && _a !== void 0 ? _a : []);
         const impliedSiblingsArr = [];
         if (currParents.length) {
@@ -8454,6 +8534,9 @@ class MatrixView extends obsidian.ItemView {
                 });
             });
         }
+        /// A real sibling implies the reverse sibling
+        impliedSiblingsArr.push(...this.squareItems(gSiblings, currFile, false));
+        // !SECTION
         this.removeDuplicateImplied(realParents, impliedParents);
         this.removeDuplicateImplied(realSiblings, impliedSiblingsArr);
         this.removeDuplicateImplied(realChildren, impliedChildren);
@@ -8503,17 +8586,760 @@ class MatrixView extends obsidian.ItemView {
     }
 }
 
+/* src/TrailGrid.svelte generated by Svelte v3.35.0 */
+
+function add_css$1() {
+	var style = element("style");
+	style.id = "svelte-vqpdko-style";
+	style.textContent = "div.breadcrumbs-trail-grid.svelte-vqpdko{border:2px solid var(--background-modifier-border);display:grid;align-items:stretch;width:auto;height:auto}div.breadcrumbs-trail-grid-item.svelte-vqpdko{display:flex;border:1px solid var(--background-modifier-border);align-items:center;justify-content:center;padding:2px;font-size:smaller}div.breadcrumbs-trail-grid-item.breadcrumbs-filler.svelte-vqpdko{opacity:0.7}";
+	append(document.head, style);
+}
+
+function get_each_context$1(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[17] = list[i];
+	child_ctx[19] = i;
+	return child_ctx;
+}
+
+function get_each_context_1$1(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[20] = list[i];
+	return child_ctx;
+}
+
+// (61:4) {#each allRuns[i] as step}
+function create_each_block_1$1(ctx) {
+	let div;
+	let t0_value = /*step*/ ctx[20].value + "";
+	let t0;
+	let t1;
+	let div_class_value;
+	let div_style_value;
+	let mounted;
+	let dispose;
+
+	function click_handler(...args) {
+		return /*click_handler*/ ctx[10](/*step*/ ctx[20], ...args);
+	}
+
+	return {
+		c() {
+			div = element("div");
+			t0 = text(t0_value);
+			t1 = space();
+
+			attr(div, "class", div_class_value = "breadcrumbs-trail-grid-item \n            " + /*resolvedClass*/ ctx[6](/*step*/ ctx[20].value, /*currFile*/ ctx[4]) + " \n            " + (/*step*/ ctx[20].value === ""
+			? "breadcrumbs-filler"
+			: "") + " svelte-vqpdko");
+
+			attr(div, "style", div_style_value = "\n            grid-area: " + (/*step*/ ctx[20].first + 1) + " / " + (/*i*/ ctx[19] + 1) + " / \n                " + (/*step*/ ctx[20].last + 2) + " / " + (/*i*/ ctx[19] + 2) + ";\n            " + (/*settings*/ ctx[3].gridHeatmap
+			? `background-color: rgba(50, 50, 50, ${/*children*/ ctx[2][/*step*/ ctx[20].value]})`
+			: ""));
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+			append(div, t0);
+			append(div, t1);
+
+			if (!mounted) {
+				dispose = [
+					listen(div, "click", click_handler),
+					listen(div, "mouseover", /*mouseover_handler*/ ctx[11])
+				];
+
+				mounted = true;
+			}
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+
+			if (dirty & /*children*/ 4 && div_style_value !== (div_style_value = "\n            grid-area: " + (/*step*/ ctx[20].first + 1) + " / " + (/*i*/ ctx[19] + 1) + " / \n                " + (/*step*/ ctx[20].last + 2) + " / " + (/*i*/ ctx[19] + 2) + ";\n            " + (/*settings*/ ctx[3].gridHeatmap
+			? `background-color: rgba(50, 50, 50, ${/*children*/ ctx[2][/*step*/ ctx[20].value]})`
+			: ""))) {
+				attr(div, "style", div_style_value);
+			}
+		},
+		d(detaching) {
+			if (detaching) detach(div);
+			mounted = false;
+			run_all(dispose);
+		}
+	};
+}
+
+// (59:0) {#each transposedTrails as col, i}
+function create_each_block$1(ctx) {
+	let each_1_anchor;
+	let each_value_1 = /*allRuns*/ ctx[8][/*i*/ ctx[19]];
+	let each_blocks = [];
+
+	for (let i = 0; i < each_value_1.length; i += 1) {
+		each_blocks[i] = create_each_block_1$1(get_each_context_1$1(ctx, each_value_1, i));
+	}
+
+	return {
+		c() {
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].c();
+			}
+
+			each_1_anchor = empty();
+		},
+		m(target, anchor) {
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].m(target, anchor);
+			}
+
+			insert(target, each_1_anchor, anchor);
+		},
+		p(ctx, dirty) {
+			if (dirty & /*resolvedClass, allRuns, currFile, settings, children, openOrSwitch, app, hoverPreview, activeLeafView*/ 382) {
+				each_value_1 = /*allRuns*/ ctx[8][/*i*/ ctx[19]];
+				let i;
+
+				for (i = 0; i < each_value_1.length; i += 1) {
+					const child_ctx = get_each_context_1$1(ctx, each_value_1, i);
+
+					if (each_blocks[i]) {
+						each_blocks[i].p(child_ctx, dirty);
+					} else {
+						each_blocks[i] = create_each_block_1$1(child_ctx);
+						each_blocks[i].c();
+						each_blocks[i].m(each_1_anchor.parentNode, each_1_anchor);
+					}
+				}
+
+				for (; i < each_blocks.length; i += 1) {
+					each_blocks[i].d(1);
+				}
+
+				each_blocks.length = each_value_1.length;
+			}
+		},
+		d(detaching) {
+			destroy_each(each_blocks, detaching);
+			if (detaching) detach(each_1_anchor);
+		}
+	};
+}
+
+function create_fragment$1(ctx) {
+	let div;
+	let each_value = /*transposedTrails*/ ctx[7];
+	let each_blocks = [];
+
+	for (let i = 0; i < each_value.length; i += 1) {
+		each_blocks[i] = create_each_block$1(get_each_context$1(ctx, each_value, i));
+	}
+
+	return {
+		c() {
+			div = element("div");
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].c();
+			}
+
+			attr(div, "class", "breadcrumbs-trail-grid svelte-vqpdko");
+			set_style(div, "grid-template-columns", ("1fr ").repeat(/*transposedTrails*/ ctx[7].length));
+			set_style(div, "grid-template-rows", ("1fr ").repeat(/*sortedTrails*/ ctx[0].length));
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].m(div, null);
+			}
+		},
+		p(ctx, [dirty]) {
+			if (dirty & /*allRuns, resolvedClass, currFile, settings, children, openOrSwitch, app, hoverPreview, activeLeafView*/ 382) {
+				each_value = /*transposedTrails*/ ctx[7];
+				let i;
+
+				for (i = 0; i < each_value.length; i += 1) {
+					const child_ctx = get_each_context$1(ctx, each_value, i);
+
+					if (each_blocks[i]) {
+						each_blocks[i].p(child_ctx, dirty);
+					} else {
+						each_blocks[i] = create_each_block$1(child_ctx);
+						each_blocks[i].c();
+						each_blocks[i].m(div, null);
+					}
+				}
+
+				for (; i < each_blocks.length; i += 1) {
+					each_blocks[i].d(1);
+				}
+
+				each_blocks.length = each_value.length;
+			}
+
+			if (dirty & /*sortedTrails*/ 1) {
+				set_style(div, "grid-template-rows", ("1fr ").repeat(/*sortedTrails*/ ctx[0].length));
+			}
+		},
+		i: noop,
+		o: noop,
+		d(detaching) {
+			if (detaching) detach(div);
+			destroy_each(each_blocks, detaching);
+		}
+	};
+}
+
+function hoverPreview$1(event, view) {
+	const targetEl = event.target;
+
+	view.app.workspace.trigger("hover-link", {
+		event,
+		source: view.getViewType(),
+		hoverParent: view,
+		targetEl,
+		linktext: targetEl.innerText
+	});
+}
+
+function instance$1($$self, $$props, $$invalidate) {
+	
+	
+	let { sortedTrails } = $$props;
+	let { app } = $$props;
+	let { plugin } = $$props;
+	const settings = plugin.settings;
+	const currFile = app.workspace.getActiveFile();
+	const activeLeafView = app.workspace.activeLeaf.view;
+
+	function resolvedClass(toFile, currFile) {
+		return app.metadataCache.unresolvedLinks[currFile.path][toFile] > 0
+		? "internal-link is-unresolved breadcrumbs-link"
+		: "internal-link breadcrumbs-link";
+	}
+
+	const allCells = [...new Set(sortedTrails.reduce((a, b) => [...a, ...b]))];
+
+	// const data: {[cell: string]: number} = {}
+	// allCells.forEach(cell => data[cell] = app.metadataCache.getFileCache(app.metadataCache.getFirstLinkpathDest(cell, currFile.path))?.links.length ?? 0);
+	const children = {};
+
+	allCells.forEach(cell => {
+		var _a;
+
+		return $$invalidate(
+			2,
+			children[cell] = ((_a = closeImpliedLinks(plugin.currGraphs.gChildren, plugin.currGraphs.gParents).successors(cell)) !== null && _a !== void 0
+			? _a
+			: []).length,
+			children
+		);
+	});
+
+	const normalisedData = normalise(Object.values(children));
+
+	allCells.forEach((cell, i) => {
+		$$invalidate(2, children[cell] = normalisedData[i], children);
+	});
+
+	// const normalisedData = allCells.forEach(cell => {
+	// })
+	// const links: {[cell: string]: number}[] = []
+	// data.forEach(cell => links[Object.keys(cell)[0]] = (Object.values(cell)[0]?.links.length ?? 0))
+	// console.log(data)
+	const maxLength = Math.max(...sortedTrails.map(trail => trail.length));
+
+	const paddedTrails = sortedTrails.map(trail => padArray(trail, maxLength));
+
+	// const permutations: string[][][] = permute(paddedTrails.map(trail => [trail[0]]))
+	// //  permutations.map(trails => sum(transpose(trails).map(runs).map(runs => runs.length)))
+	// const ALLRuns = permutations.map(permutation => transpose(permutation).map(runs))
+	// const runsPerRun = ALLRuns.map(runs => runs[0].length)
+	// const minRunLength = Math.min(...runsPerRun);
+	// const indexOfMinRun = runsPerRun.indexOf(minRunLength);
+	// const minRun = ALLRuns[indexOfMinRun]
+	const transposedTrails = transpose(paddedTrails);
+
+	const allRuns = transposedTrails.map(runs);
+	const click_handler = (step, e) => openOrSwitch(app, step.value, currFile, e);
+	const mouseover_handler = e => hoverPreview$1(e, activeLeafView);
+
+	$$self.$$set = $$props => {
+		if ("sortedTrails" in $$props) $$invalidate(0, sortedTrails = $$props.sortedTrails);
+		if ("app" in $$props) $$invalidate(1, app = $$props.app);
+		if ("plugin" in $$props) $$invalidate(9, plugin = $$props.plugin);
+	};
+
+	return [
+		sortedTrails,
+		app,
+		children,
+		settings,
+		currFile,
+		activeLeafView,
+		resolvedClass,
+		transposedTrails,
+		allRuns,
+		plugin,
+		click_handler,
+		mouseover_handler
+	];
+}
+
+class TrailGrid extends SvelteComponent {
+	constructor(options) {
+		super();
+		if (!document.getElementById("svelte-vqpdko-style")) add_css$1();
+		init(this, options, instance$1, create_fragment$1, safe_not_equal, { sortedTrails: 0, app: 1, plugin: 9 });
+	}
+}
+
+/* src/TrailPath.svelte generated by Svelte v3.35.0 */
+
+function add_css() {
+	var style = element("style");
+	style.id = "svelte-154mvpu-style";
+	style.textContent = "span.breadcrumbs-trail-path-container.svelte-154mvpu{display:flex;justify-content:space-between}";
+	append(document.head, style);
+}
+
+function get_each_context(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[11] = list[i];
+	return child_ctx;
+}
+
+function get_each_context_1(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[14] = list[i];
+	child_ctx[16] = i;
+	return child_ctx;
+}
+
+// (30:16) {:else}
+function create_else_block(ctx) {
+	let each_1_anchor;
+	let each_value_1 = /*trail*/ ctx[11];
+	let each_blocks = [];
+
+	for (let i = 0; i < each_value_1.length; i += 1) {
+		each_blocks[i] = create_each_block_1(get_each_context_1(ctx, each_value_1, i));
+	}
+
+	return {
+		c() {
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].c();
+			}
+
+			each_1_anchor = empty();
+		},
+		m(target, anchor) {
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].m(target, anchor);
+			}
+
+			insert(target, each_1_anchor, anchor);
+		},
+		p(ctx, dirty) {
+			if (dirty & /*settings, trailsToShow, openOrSwitch, app, currFile, hoverPreview, activeLeafView*/ 206) {
+				each_value_1 = /*trail*/ ctx[11];
+				let i;
+
+				for (i = 0; i < each_value_1.length; i += 1) {
+					const child_ctx = get_each_context_1(ctx, each_value_1, i);
+
+					if (each_blocks[i]) {
+						each_blocks[i].p(child_ctx, dirty);
+					} else {
+						each_blocks[i] = create_each_block_1(child_ctx);
+						each_blocks[i].c();
+						each_blocks[i].m(each_1_anchor.parentNode, each_1_anchor);
+					}
+				}
+
+				for (; i < each_blocks.length; i += 1) {
+					each_blocks[i].d(1);
+				}
+
+				each_blocks.length = each_value_1.length;
+			}
+		},
+		d(detaching) {
+			destroy_each(each_blocks, detaching);
+			if (detaching) detach(each_1_anchor);
+		}
+	};
+}
+
+// (28:16) {#if trail.length === 0}
+function create_if_block_1(ctx) {
+	let span;
+	let t_value = /*settings*/ ctx[2].noPathMessage + "";
+	let t;
+
+	return {
+		c() {
+			span = element("span");
+			t = text(t_value);
+		},
+		m(target, anchor) {
+			insert(target, span, anchor);
+			append(span, t);
+		},
+		p(ctx, dirty) {
+			if (dirty & /*settings*/ 4 && t_value !== (t_value = /*settings*/ ctx[2].noPathMessage + "")) set_data(t, t_value);
+		},
+		d(detaching) {
+			if (detaching) detach(span);
+		}
+	};
+}
+
+// (38:24) {#if i < trail.length - 1}
+function create_if_block_2(ctx) {
+	let span;
+	let t_value = " " + /*settings*/ ctx[2].trailSeperator + " " + "";
+	let t;
+
+	return {
+		c() {
+			span = element("span");
+			t = text(t_value);
+		},
+		m(target, anchor) {
+			insert(target, span, anchor);
+			append(span, t);
+		},
+		p(ctx, dirty) {
+			if (dirty & /*settings*/ 4 && t_value !== (t_value = " " + /*settings*/ ctx[2].trailSeperator + " " + "")) set_data(t, t_value);
+		},
+		d(detaching) {
+			if (detaching) detach(span);
+		}
+	};
+}
+
+// (31:20) {#each trail as crumb, i}
+function create_each_block_1(ctx) {
+	let span;
+	let t0_value = /*crumb*/ ctx[14] + "";
+	let t0;
+	let t1;
+	let if_block_anchor;
+	let mounted;
+	let dispose;
+
+	function click_handler(...args) {
+		return /*click_handler*/ ctx[8](/*crumb*/ ctx[14], ...args);
+	}
+
+	let if_block = /*i*/ ctx[16] < /*trail*/ ctx[11].length - 1 && create_if_block_2(ctx);
+
+	return {
+		c() {
+			span = element("span");
+			t0 = text(t0_value);
+			t1 = space();
+			if (if_block) if_block.c();
+			if_block_anchor = empty();
+			attr(span, "class", "internal-link breadcrumbs-link");
+		},
+		m(target, anchor) {
+			insert(target, span, anchor);
+			append(span, t0);
+			insert(target, t1, anchor);
+			if (if_block) if_block.m(target, anchor);
+			insert(target, if_block_anchor, anchor);
+
+			if (!mounted) {
+				dispose = [
+					listen(span, "click", click_handler),
+					listen(span, "mouseover", /*mouseover_handler*/ ctx[9])
+				];
+
+				mounted = true;
+			}
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+			if (dirty & /*trailsToShow*/ 64 && t0_value !== (t0_value = /*crumb*/ ctx[14] + "")) set_data(t0, t0_value);
+
+			if (/*i*/ ctx[16] < /*trail*/ ctx[11].length - 1) {
+				if (if_block) {
+					if_block.p(ctx, dirty);
+				} else {
+					if_block = create_if_block_2(ctx);
+					if_block.c();
+					if_block.m(if_block_anchor.parentNode, if_block_anchor);
+				}
+			} else if (if_block) {
+				if_block.d(1);
+				if_block = null;
+			}
+		},
+		d(detaching) {
+			if (detaching) detach(span);
+			if (detaching) detach(t1);
+			if (if_block) if_block.d(detaching);
+			if (detaching) detach(if_block_anchor);
+			mounted = false;
+			run_all(dispose);
+		}
+	};
+}
+
+// (26:8) {#each trailsToShow as trail}
+function create_each_block(ctx) {
+	let div;
+	let t;
+
+	function select_block_type(ctx, dirty) {
+		if (/*trail*/ ctx[11].length === 0) return create_if_block_1;
+		return create_else_block;
+	}
+
+	let current_block_type = select_block_type(ctx);
+	let if_block = current_block_type(ctx);
+
+	return {
+		c() {
+			div = element("div");
+			if_block.c();
+			t = space();
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+			if_block.m(div, null);
+			append(div, t);
+		},
+		p(ctx, dirty) {
+			if (current_block_type === (current_block_type = select_block_type(ctx)) && if_block) {
+				if_block.p(ctx, dirty);
+			} else {
+				if_block.d(1);
+				if_block = current_block_type(ctx);
+
+				if (if_block) {
+					if_block.c();
+					if_block.m(div, t);
+				}
+			}
+		},
+		d(detaching) {
+			if (detaching) detach(div);
+			if_block.d();
+		}
+	};
+}
+
+// (47:4) {#if sortedTrails.length > 1}
+function create_if_block(ctx) {
+	let div;
+	let button;
+	let t;
+	let mounted;
+	let dispose;
+
+	return {
+		c() {
+			div = element("div");
+			button = element("button");
+			t = text(/*buttonText*/ ctx[5]);
+			attr(button, "class", "button-div");
+		},
+		m(target, anchor) {
+			insert(target, div, anchor);
+			append(div, button);
+			append(button, t);
+
+			if (!mounted) {
+				dispose = listen(button, "click", /*click_handler_1*/ ctx[10]);
+				mounted = true;
+			}
+		},
+		p(ctx, dirty) {
+			if (dirty & /*buttonText*/ 32) set_data(t, /*buttonText*/ ctx[5]);
+		},
+		d(detaching) {
+			if (detaching) detach(div);
+			mounted = false;
+			dispose();
+		}
+	};
+}
+
+function create_fragment(ctx) {
+	let span;
+	let div;
+	let t;
+	let each_value = /*trailsToShow*/ ctx[6];
+	let each_blocks = [];
+
+	for (let i = 0; i < each_value.length; i += 1) {
+		each_blocks[i] = create_each_block(get_each_context(ctx, each_value, i));
+	}
+
+	let if_block = /*sortedTrails*/ ctx[0].length > 1 && create_if_block(ctx);
+
+	return {
+		c() {
+			span = element("span");
+			div = element("div");
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].c();
+			}
+
+			t = space();
+			if (if_block) if_block.c();
+			attr(div, "class", "trails-div");
+			attr(span, "class", "breadcrumbs-trail-path-container svelte-154mvpu");
+		},
+		m(target, anchor) {
+			insert(target, span, anchor);
+			append(span, div);
+
+			for (let i = 0; i < each_blocks.length; i += 1) {
+				each_blocks[i].m(div, null);
+			}
+
+			append(span, t);
+			if (if_block) if_block.m(span, null);
+		},
+		p(ctx, [dirty]) {
+			if (dirty & /*settings, trailsToShow, openOrSwitch, app, currFile, hoverPreview, activeLeafView*/ 206) {
+				each_value = /*trailsToShow*/ ctx[6];
+				let i;
+
+				for (i = 0; i < each_value.length; i += 1) {
+					const child_ctx = get_each_context(ctx, each_value, i);
+
+					if (each_blocks[i]) {
+						each_blocks[i].p(child_ctx, dirty);
+					} else {
+						each_blocks[i] = create_each_block(child_ctx);
+						each_blocks[i].c();
+						each_blocks[i].m(div, null);
+					}
+				}
+
+				for (; i < each_blocks.length; i += 1) {
+					each_blocks[i].d(1);
+				}
+
+				each_blocks.length = each_value.length;
+			}
+
+			if (/*sortedTrails*/ ctx[0].length > 1) {
+				if (if_block) {
+					if_block.p(ctx, dirty);
+				} else {
+					if_block = create_if_block(ctx);
+					if_block.c();
+					if_block.m(span, null);
+				}
+			} else if (if_block) {
+				if_block.d(1);
+				if_block = null;
+			}
+		},
+		i: noop,
+		o: noop,
+		d(detaching) {
+			if (detaching) detach(span);
+			destroy_each(each_blocks, detaching);
+			if (if_block) if_block.d();
+		}
+	};
+}
+
+function hoverPreview(event, view) {
+	const targetEl = event.target;
+
+	view.app.workspace.trigger("hover-link", {
+		event,
+		source: view.getViewType(),
+		hoverParent: view,
+		targetEl,
+		linktext: targetEl.innerText
+	});
+}
+
+function instance($$self, $$props, $$invalidate) {
+	let buttonText;
+	let trailsToShow;
+	
+	
+	let { sortedTrails } = $$props;
+	let { app } = $$props;
+	let { settings } = $$props;
+	let { currFile } = $$props;
+	const activeLeafView = app.workspace.activeLeaf.view;
+	let showAll = settings.showAll;
+	const click_handler = async (crumb, e) => await openOrSwitch(app, crumb, currFile, e);
+	const mouseover_handler = e => hoverPreview(e, activeLeafView);
+	const click_handler_1 = () => $$invalidate(4, showAll = !showAll);
+
+	$$self.$$set = $$props => {
+		if ("sortedTrails" in $$props) $$invalidate(0, sortedTrails = $$props.sortedTrails);
+		if ("app" in $$props) $$invalidate(1, app = $$props.app);
+		if ("settings" in $$props) $$invalidate(2, settings = $$props.settings);
+		if ("currFile" in $$props) $$invalidate(3, currFile = $$props.currFile);
+	};
+
+	$$self.$$.update = () => {
+		if ($$self.$$.dirty & /*showAll*/ 16) {
+			$$invalidate(5, buttonText = showAll ? "Shortest" : "All");
+		}
+
+		if ($$self.$$.dirty & /*showAll, sortedTrails*/ 17) {
+			$$invalidate(6, trailsToShow = showAll ? sortedTrails : [sortedTrails[0]]);
+		}
+	};
+
+	return [
+		sortedTrails,
+		app,
+		settings,
+		currFile,
+		showAll,
+		buttonText,
+		trailsToShow,
+		activeLeafView,
+		click_handler,
+		mouseover_handler,
+		click_handler_1
+	];
+}
+
+class TrailPath extends SvelteComponent {
+	constructor(options) {
+		super();
+		if (!document.getElementById("svelte-154mvpu-style")) add_css();
+
+		init(this, options, instance, create_fragment, safe_not_equal, {
+			sortedTrails: 0,
+			app: 1,
+			settings: 2,
+			currFile: 3
+		});
+	}
+}
+
 const DEFAULT_SETTINGS = {
     parentFieldName: "parent",
     siblingFieldName: "sibling",
     childFieldName: "child",
-    indexNote: ["Index"],
+    indexNote: [""],
     refreshIntervalTime: 0,
     defaultView: true,
     showNameOrType: true,
     showRelationType: true,
     showTrail: true,
-    noPathMessage: `No path to index note was found`,
+    trailOrTable: 3,
+    gridHeatmap: false,
+    showAll: false,
+    noPathMessage: `This note has no real or implied parents`,
     trailSeperator: "→",
     respectReadableLineLength: true,
     debugMode: false,
@@ -8540,25 +9366,19 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
     async onload() {
         console.log("loading breadcrumbs plugin");
         await this.loadSettings();
+        this.visited = [];
         this.registerView(VIEW_TYPE_BREADCRUMBS_MATRIX, (leaf) => (this.matrixView = new MatrixView(leaf, this)));
         this.app.workspace.onLayoutReady(async () => {
+            // this.trailDiv = createDiv()
             setTimeout(async () => {
                 this.currGraphs = await this.initGraphs();
                 this.initView(VIEW_TYPE_BREADCRUMBS_MATRIX);
-                this.trailDiv = createDiv({
-                    // Check if respectReadableLineLength is enabled
-                    cls: `breadcrumbs-trail is-readable-line-width${this.settings.respectReadableLineLength
-                        ? " markdown-preview-sizer markdown-preview-section"
-                        : ""}`,
-                });
                 if (this.settings.showTrail) {
                     await this.drawTrail();
                 }
                 this.registerEvent(this.app.workspace.on("active-leaf-change", async () => {
                     this.currGraphs = await this.initGraphs();
-                    if (this.settings.debugMode) {
-                        console.log(this.currGraphs);
-                    }
+                    debug(this.settings, this.currGraphs);
                     await this.matrixView.draw();
                     if (this.settings.showTrail) {
                         await this.drawTrail();
@@ -8568,7 +9388,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                 if (this.settings.refreshIntervalTime > 0) {
                     this.refreshIntervalID = window.setInterval(async () => {
                         this.currGraphs = await this.initGraphs();
-                        if (this.trailDiv && this.settings.showTrail) {
+                        if (this.settings.showTrail) {
                             await this.drawTrail();
                         }
                         if (this.matrixView) {
@@ -8622,117 +9442,132 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             ? "internal-link is-unresolved breadcrumbs-link"
             : "internal-link breadcrumbs-link";
     }
-    // breadcrumbArrs(g: Graph): string[] {
-    //   const from = this.app.workspace.getActiveFile().basename;
-    //   const indexNotes: string[] = [this.settings.indexNote].flat();
-    //   let allTrails: string[][] = [];
-    //   if (indexNotes === [""]) {
-    //     allTrails.push([])
-    //     let parents = (g.predecessors(from) ?? []) as string[];
-    //     let i = 0;
-    //     const MAX_DEPTH = 200;
-    //     while (parents.length !== 0 || i < MAX_DEPTH) {
-    //       allTrails[0].push(parents[0])
-    //       parents = (g.predecessors(parents[0]) ?? []) as string[]
-    //       i++
-    //     }
-    //   }
-    //   return allTrails[0]
-    // }
+    bfsAllPaths(g, startNode) {
+        var _a;
+        const queue = [{ node: startNode, path: [] }];
+        const pathsArr = [];
+        let i = 0;
+        while (queue.length !== 0 && i < 1000) {
+            i++;
+            const currPath = queue.shift();
+            const newNodes = ((_a = g.successors(currPath.node)) !== null && _a !== void 0 ? _a : []);
+            const extPath = [currPath.node, ...currPath.path];
+            queue.push(...newNodes.map((n) => { return { node: n, path: extPath }; }));
+            // terminal node
+            if (newNodes.length === 0) {
+                pathsArr.push(extPath);
+            }
+        }
+        pathsArr.forEach(path => {
+            if (path.length) {
+                path.splice(path.length - 1, 1);
+            }
+        });
+        debug(this.settings, { pathsArr });
+        return pathsArr;
+    }
+    dfsAllPaths(g, startNode) {
+        var _a;
+        const queue = [
+            { node: startNode, path: [] },
+        ];
+        const pathsArr = [];
+        let i = 0;
+        while (queue.length > 0 && i < 1000) {
+            i++;
+            const currPath = queue.shift();
+            const newNodes = ((_a = g.successors(currPath.node)) !== null && _a !== void 0 ? _a : []);
+            const extPath = [currPath.node, ...currPath.path];
+            queue.unshift(...newNodes.map((n) => {
+                return { node: n, path: extPath };
+            }));
+            if (newNodes.length === 0) {
+                pathsArr.push(extPath);
+            }
+        }
+        return pathsArr;
+    }
     getBreadcrumbs(g) {
-        var _a, _b;
         const from = this.app.workspace.getActiveFile().basename;
         const paths = graphlib.alg.dijkstra(g, from);
         const indexNotes = [this.settings.indexNote].flat();
-        let allTrails = [];
+        const allTrails = [];
         let sortedTrails = [];
+        // No index note chosen
         if (indexNotes[0] === "") {
-            const breadcrumbs = [];
-            let parents = ((_a = g.successors(from)) !== null && _a !== void 0 ? _a : []);
-            let i = 0;
-            const MAX_DEPTH = 200;
-            if (parents.length === 0) {
-                breadcrumbs.push(this.settings.noPathMessage);
+            const bfsAllPaths = this.bfsAllPaths(g, from);
+            if (bfsAllPaths.length > 1) {
+                sortedTrails = bfsAllPaths.sort((a, b) => a.length - b.length);
             }
             else {
-                while (parents.length !== 0 && i < MAX_DEPTH) {
-                    breadcrumbs.push(parents[0]);
-                    parents = ((_b = g.successors(parents[0])) !== null && _b !== void 0 ? _b : []);
-                    i++;
-                }
+                sortedTrails = bfsAllPaths;
             }
-            breadcrumbs.reverse().push(from);
-            sortedTrails.push(breadcrumbs);
         }
         else {
             indexNotes.forEach((index) => {
                 let step = index;
-                const breadcrumbs = [];
-                // Check if indexNote exists
-                if (!isInVault(this.app, index)) {
-                    return [
-                        `${index} is not a note in your vault. Please change the settings for Index Notes`
-                    ];
-                }
-                // Check if a path even exists
-                else if (paths[step].distance === Infinity) {
-                    breadcrumbs.push(this.settings.noPathMessage);
-                }
-                else {
-                    // If it does, walk it until arriving at `from`
+                if (paths[step].distance !== Infinity) {
+                    const breadcrumbs = [];
+                    // Walk it until arriving at `from`
                     while (paths[step].distance !== 0) {
                         breadcrumbs.push(step);
                         step = paths[step].predecessor;
                     }
-                    breadcrumbs.push(from);
+                    if (breadcrumbs.length > 0) {
+                        // Add the last step
+                        breadcrumbs.push(from);
+                    }
+                    allTrails.push(breadcrumbs);
                 }
-                allTrails.push(breadcrumbs);
             });
-            if (allTrails.some((trail) => trail[0] !== this.settings.noPathMessage)) {
-                allTrails = allTrails.filter((trail) => trail[0] !== this.settings.noPathMessage);
-            }
-            sortedTrails = allTrails.sort((a, b) => a.length < b.length ? -1 : 1);
+            const filteredTrails = allTrails.filter(trail => trail.length > 0);
+            sortedTrails = filteredTrails.sort((a, b) => a.length < b.length ? -1 : 1);
         }
-        if (this.settings.debugMode) {
-            console.log({ sortedTrails, allTrails });
-        }
-        return sortedTrails[0];
-    }
-    fillTrailDiv(breadcrumbs, currFile) {
-        // If a path was found
-        if (breadcrumbs[0] !== this.settings.noPathMessage) {
-            breadcrumbs.forEach((crumb) => {
-                const link = this.trailDiv.createSpan({
-                    text: crumb,
-                    // A link in the trail will never be unresolved, so no need to check
-                    cls: "internal-link breadcrumbs-link",
-                });
-                link.addEventListener("click", async (e) => {
-                    await openOrSwitch(this.app, crumb, currFile, e);
-                });
-                this.trailDiv.createSpan({
-                    text: ` ${this.settings.trailSeperator} `,
-                });
-            });
-            this.trailDiv.removeChild(this.trailDiv.lastChild);
-        }
-        // Otherwise don't add any links, just text
-        else {
-            this.trailDiv.createSpan({ text: this.settings.noPathMessage });
-        }
+        debug(this.settings, sortedTrails);
+        return sortedTrails;
     }
     async drawTrail() {
-        const gParents = this.currGraphs.gParents;
-        const breadcrumbs = this.getBreadcrumbs(gParents);
-        const currFile = this.app.workspace.getActiveFile();
-        // Get the container div of the active note
-        this.previewView = document.querySelector("div.mod-active div.view-content div.markdown-preview-view");
-        // Prepend the exisiting trailDiv (created in `onLoad`)
-        this.previewView.prepend(this.trailDiv);
-        // Make sure it's empty when changing files
-        this.trailDiv.empty();
-        // Fill in the breadcrumbs
-        this.fillTrailDiv(breadcrumbs, currFile);
+        var _a;
+        if (this.settings.showTrail) {
+            const { gParents, gChildren } = this.currGraphs;
+            const closedParents = closeImpliedLinks(gParents, gChildren);
+            const sortedTrails = this.getBreadcrumbs(closedParents);
+            const currFile = this.app.workspace.getActiveFile();
+            const settings = this.settings;
+            // Get the container div of the active note
+            const previewView = document.querySelector("div.mod-active div.view-content div.markdown-preview-view");
+            (_a = previewView.querySelector('div.breadcrumbs-trail')) === null || _a === void 0 ? void 0 : _a.remove();
+            const trailDiv = createDiv();
+            previewView.prepend(trailDiv);
+            this.visited.push([currFile.path, trailDiv]);
+            trailDiv.className = `breadcrumbs-trail is-readable-line-width${settings.respectReadableLineLength
+                ? " markdown-preview-sizer markdown-preview-section"
+                : ""}`;
+            previewView.prepend(trailDiv);
+            trailDiv.empty();
+            if (settings.trailOrTable === 1) {
+                new TrailPath({
+                    target: trailDiv,
+                    props: { sortedTrails, app: this.app, settings, currFile }
+                });
+            }
+            else if (settings.trailOrTable === 2) {
+                new TrailGrid({
+                    target: trailDiv,
+                    props: { sortedTrails, app: this.app, plugin: this }
+                });
+            }
+            else {
+                new TrailPath({
+                    target: trailDiv,
+                    props: { sortedTrails, app: this.app, settings, currFile }
+                });
+                new TrailGrid({
+                    target: trailDiv,
+                    props: { sortedTrails, app: this.app, plugin: this }
+                });
+            }
+        }
     }
     async loadSettings() {
         this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
@@ -8744,12 +9579,9 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         console.log("unloading");
         // Detach matrix view
         const openLeaves = this.app.workspace.getLeavesOfType(VIEW_TYPE_BREADCRUMBS_MATRIX);
-        // console.log(openLeaves);
         openLeaves.forEach((leaf) => leaf.detach());
         // Empty trailDiv
-        if (this.trailDiv) {
-            this.trailDiv.remove();
-        }
+        this.visited.forEach(visit => visit[1].remove());
     }
 }
 

@@ -28,9 +28,8 @@ Despite all that I still think [[Faith can be a useful tool for grounding yourse
 
 **Status**:: #EVER/GREEN 
 
-**Related-Topics**:: [[Christianity]], [[belief systems]], [[worldview]], [[faith]]
+**Related-Topics**:: [[Christianity]], [[belief systems]], [[worldview]], [[faith]], [[self-love]], [[self-hate]], [[Evangelicalism]]
 	
-**Sub-Topics**::[[mental health]], [[self-love]], [[self-hate]], [[Evangelicalism]]
 	
 **References**
 

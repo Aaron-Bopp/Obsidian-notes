@@ -14,8 +14,8 @@ note-type:
 
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: [[human experience]], [[human advancement]], [[human survival]]
+**Related-Topics**:: [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]]
 	
-**Sub-Topics**:: [[Neuroscience]]
+**Sub-Topics**:: 
 	
 **References**

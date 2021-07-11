@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8849b51538b9d99a",
+        "id": "470c53558f881deb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "QUICKNOTE.md",
-            "mode": "source"
+            "file": "EVERGREENS.md",
+            "mode": "preview"
           }
         }
       }
@@ -66,21 +66,14 @@
               "type": "starred",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "110feb2b7e642fa2",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "8d9b1f65983935ec",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "QUICKNOTE.md",
+                "file": "EVERGREENS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -103,17 +96,55 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.25568322955757855,
+                  "scale": 0.35846351508788604,
                   "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "973f28936c3db7c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EVERGREENS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fa9ab00271fd18a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EVERGREENS.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "509706f5b23868b4",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 750.5,
+    "collapsed": true
   },
   "right": {
     "id": "d2f47cb3f5d142ba",
@@ -129,24 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QUICKNOTE.md"
-              }
-            }
-          },
-          {
-            "id": "fa9ab00271fd18a4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "QUICKNOTE.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "EVERGREENS.md"
               }
             }
           },
@@ -167,18 +181,6 @@
             }
           },
           {
-            "id": "973f28936c3db7c0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "QUICKNOTE.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "5c8a27f16eefc034",
             "type": "leaf",
             "state": {
@@ -193,34 +195,26 @@
               "type": "juggl_style",
               "state": {}
             }
-          },
-          {
-            "id": "a6099a23b34295cb",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-matrix",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
+    "width": 660.5,
     "collapsed": true
   },
-  "active": "8849b51538b9d99a",
+  "active": "470c53558f881deb",
   "lastOpenFiles": [
-    "QUICKNOTE.md",
-    "TODO.md",
-    "INDEX.md",
     "EVERGREENS.md",
-    "ContentNotes/History/1990's General Notes.md",
-    "ContentNotes/Mental Health/gender-dysphoria-bible/1 What is Gender.md",
-    "ContentNotes/Mental Health/gender-dysphoria-bible/I relate to.md",
-    "ContentNotes/Mental Health/DrK and DrMike conversation.md",
-    "ContentNotes/Mental Health/Emotional Deregulation.md",
-    "ContentNotes/Mental Health/Existential Dread.md"
+    "EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
+    "Templates/Templates/DVJS-TOPICNOTLINKED.md",
+    "TopicNotes/My Second Brain.md",
+    "EvergreenNotes/index note.md",
+    "EvergreenNotes/web of thought.md",
+    "TopicNotes/zettle.md",
+    "EvergreenNotes/Templater.md",
+    "EvergreenNotes/The bible is god breathed.md",
+    "EvergreenNotes/Tags should be general.md"
   ]
 }

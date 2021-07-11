@@ -8,7 +8,7 @@ note-type:
 
 ###### [[your anxiety knows your insecurities better than you do]]
 
-When you are feeling [[anxiety]] it can often be very difficult to understand where the [[anxiety]] is coming from. In some situations it can be obvious (skydiving, flying, having a child, buying a house) while at other times it may seem obvious but be very nuanced, and at others it can be almost impossible to discover the source of the [[anxiety]]. 
+When you are feeling [[anxiety]] it can often be very difficult to understand where the [[anxiety]] is coming from. In some situations it can be obvious (skydiving, flying, having a child, buying a house) while at other times it may seem obvious but be very nuanced, and at others it can be almost impossible to discover the source of the [[anxiety]], because [[Your insecurity is just more avenues for your anxiety to take advantage of]].
 
 As you are trying to deal with your [[anxiety]] you may start removing many perceived sources of [[anxiety]] to no success. This may be because there are just too many sources of [[anxiety]], or because the source of [[anxiety]] is much more primal and less obvious. 
 
@@ -21,7 +21,7 @@ You can also experience large amounts of [[anxiety]] if your identity is severel
 
 **Status**:: #EVER/SPROUT/WATER  
 
-**Related-Topics**:: [[Your insecurity is just more avenues for your anxiety to take advantage of]], [[anxiety]], [[mental health]], [[self-actualization]], [[self-improvement]], [[self-hate]], [[social anxiety]]
+**Related-Topics**::  [[anxiety]], [[mental health]], [[self-actualization]], [[self-improvement]], [[self-hate]], [[social anxiety]]
 	
 **Sub-Topics**::
 	

@@ -1,13 +1,13 @@
 ---
 creation date: 2021-07-05
-parent: [[INDEX]]
+parent: [[Dataview]]
 note-type:
 - organizational-note
 ---
 searchType:: tags
 searchTerm:: EVER/SEED/UNPLANTED
  [Search](https://github.com/torantine/obsidian-snippets#across-vault-word-count)
-```dataviewjs
+<%*
 
 // thanks to Christian for the MetaEdit Plugin and help with containers
 // https://github.com/chhoumann/MetaEdit
@@ -126,6 +126,6 @@ if(metaeditEnabled === true) {
 } else {
 	dv.paragraph("<strong>!!! Please enable the MetaEdit plugin then reload this page to search via menus. !!!</strong>")
 }
-
+%>
 
 ```

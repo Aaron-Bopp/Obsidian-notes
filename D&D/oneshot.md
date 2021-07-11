@@ -1,0 +1,89 @@
+- someone has put out the word to kill us
+- forced accross the shard desert to escape 
+- the shard desert is massive
+	- people have shattered to dust by shards
+		- rumor that shards are the remains of a crystal palace
+	- large creatures have been rumored
+		- shape shifting foxes
+		- giant scorpians
+		- genies
+- People
+	- Magron the defiler
+	- [[tyrnnicus]]
+		- prayer rugs
+		- been to shadowfell
+	- [[Norkruuth]] 
+		- pottery
+		- not talkative
+		- footprints match
+	- [[Vola]]
+		- female orc
+		- priest of Lathandar
+		- complains a lot
+		- holy text, holy symbol
+		- footprint does not match too big
+	- [[daseem terak]]
+		- average earth genasi
+		- boring
+		- water skin is similar 
+		- feet do match
+	- [[quinn]]
+		- tiefling merchant of arcane artifacts
+		- tall and thin 
+		- alyyra 
+		- do not match
+	- [[Alyyra]]
+		- muscular halfelf
+		- beautiful singing voice
+		- do not match
+	- [[einkil]]
+		- cleanshaven dwarf
+		- on edge
+		- does not match
+	- [[gimble turin]]
+		- male gnome
+		- sticks with [[zanna]]
+		- too small
+	- [[zanna]]
+		- performers clothes
+		- too small
+	- [[kalim]]
+		- caravan guard
+		- light hearted
+		- interested in [[Gulad]]
+		- match
+		- hated him and wanted him dead
+	- [[oma]] 
+		- lean and muscular
+		- been around the desert a lot
+		- does not match
+	- [[nadine]]
+		- no nonsense
+		- do not match
+	- [[bashir]] 
+		- intimidating
+		- sticks close to Nadine and Oma
+		- betrothed to merchant baron's daughter, business take.
+			- [[tyrnnicus]]
+			- [[Norkruuth]]
+			- [[quinn]]
+			- Salma  wanted him dead
+- group
+	- [[Gulad]]
+		- cannot wink
+	- [[Hazel]]
+	- [[Beck]]
+- [[Alyyra]], [[oma]], [[]]
+- healing, resilience
+- burnt carpet
+	- ash on floor
+	- telescope has scorch marks
+	- footprints
+		- match
+			- [[kalim]]
+			- [[Norkruuth]]
+			- [[daseem terak]]
+			- [[oma]]
+	- investigation
+		- [[daseem terak]]
+			- thinks it was [[Norkruuth]] bcs of night before and flirting with [[Alyyra]]

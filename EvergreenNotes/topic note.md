@@ -1,12 +1,10 @@
 ---
 creation date: 2021-05-23
-modification date: Sunday 23rd May 2021 01:55:30
 note-type: 
-  evergreen-note
-  topic-note
+- evergreen-note
 ---
 
-###### [[topic note]] `=length([[topic note]].file.inlinks) + length([[topic note]].file.outlinks)`
+##### [[topic note]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 Topic notes are a kind of note in a [[web of thought]]/[[personal knowledge management]]/[[Zettlekassen]] system.
 
@@ -17,16 +15,12 @@ Topic notes should be able to form naturally from your other notes so they shoul
 A topic note can come to be in two ways:
 1. In the creation of an outline for a topic I would like to writing about
 2. Through repeated mentions in other notes
-
----
+[[How to write atomically]] 
+### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 
 
 **Related-Topics**::  [[second brain]], [[My Second Brain]], [[Zettlekassen]], [[personal knowledge management]]
 	
-**Sub-Topics**:: [[How to write atomically]] 
-	
-**Outline**::
+**Last Edited**:: *`=this.file.mtime`*	
 
---- 
-**References**

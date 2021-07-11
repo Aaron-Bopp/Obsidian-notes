@@ -16,6 +16,6 @@ You're never sure you're trans. I heard that in a tiktok today. I don't think yo
 
 **Related-Topics**:: [[mental health]], [[self-actualization]]
 	
-**Sub-Topics**::[[self-love]], [[self-hate]]
+**Sub-Topics**::[[self-love]], [[self-hate]], [[my emotions]]
 	
 **References**

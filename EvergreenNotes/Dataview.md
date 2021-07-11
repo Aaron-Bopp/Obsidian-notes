@@ -1,11 +1,13 @@
 ---
 creation date: 2021-05-29
-modification date: saturday 29th may 2021 20:52:39
-note-type: [evergreen-note, tools, topic-note]
-
+note-type: 
+- evergreen-note
+- tools 
+- topic-note
 ---
 
 
+**Related-Topics**:: [[INDEX]]
 
 [[dataview]] is an plugin for [[obsidian (software)]] that allows for [[sql]] like queries over the notes in your obsidian vault.
 
@@ -28,21 +30,24 @@ snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, http
 - functions
 	- `replace([string], replaced, inserted)`
 	
+
+## handy functions 
+![[DVJSFUNCS]]
 # queries
-## basic syntax
+### basic syntax
 ```
 table|list|task <field> [as "column name"], <field>, ..., <field> from<source> (like [[tag]] or "folder")`
 where <expression> (like 'field = value')
 sort <expression> [asc/desc] (like 'field asc')
 ... other data commands
 ```
-## from tags
+### from tags
 ```dataviewx
 table  file.tags as tags, file.mtime as "last modified" from #to
 flatten file.tags
 ```
 
-## [tasks that are overdue](https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/23)
+### [tasks that are overdue](https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/23)
 ```dataviewjs
 function overdue(t) {
   let dvalidate = moment(t.text, 'yyyy-mm-dd', true);
@@ -56,7 +61,7 @@ dv.tasklist(dv.pages("").file.tasks
 	.where (t => overdue(t))
 	.where (t => !t.completed))
 ```
-## Hierarchy
+### Hierarchy
 ```dataviewjs
 const getTotalLinks = page => {
 	return Number(page.file.outlinks.length + page.file.inlinks.length) 
@@ -79,9 +84,66 @@ for (const page of sortedPages(dv.pages(''), 8)) {
 //}))
 	
 ```
+### Get number notes with every note-type
+```dataviewjs
+const tallyTypes = () => {
+	let types = {}
+	const incrTypes = (type) => {
+		types[type] = (types[type]+1) || 1
+	}
+	dv.pages().forEach((pg) => {
+		let noteTypes = pg["note-type"]
+		if (typeof noteTypes === "object") {
+			noteTypes.forEach((type) => incrTypes(type))
+		} else if (typeof noteTypes === "string") {
+			noteTypes.split(" ").forEach(type => incrTypes(type)) 
+		} else {
+			incrTypes(String(noteTypes))
+		}
+	})
+	return types
+}
+dv.paragraph(tallyTypes())
+```
+### testing
+```
+function notLinkedPages(folder) {
+	return dv.pages(wrap(thisFile.file.name))
+			.where(p => {
+				return !allPaths.contains(p.file.path) && 
+				p.file.path.contains(folder) 
+			})
+			.sort(p => p.file.inlinks.length + p.file.outlinks.length, 'desc')
+}
 
+function statusTable(folder, pages, includeStatus) {
+	let headers = [folder, "I/O", "Edited", "Created"]
+	let values = p => [p.file.link, getIO(p.file), p.file.mtime, formatDate(p["creation date"])]
+	let realValues = ""
+	if (includeStatus) {
+		headers.splice(2, 0, "Status")
+		realValues = p => values(p).splice(2, 0, p.status)
+	} else {
+		realValues = values
+	}
+	if (pages.length > 0) {
+		dv.table(headers, pages
+			
+			.map(p => realValues(p)))
+	}
+}
+const topicPages = notLinkedPages("TopicNotes")
+const egPages = notLinkedPages("EvergreenNotes")
+const contentPages = notLinkedPages("ContentNotes")
+if (topicPages.length + egPages.length + contentPages.length !== 0) {
+	dv.header(4, "Linked notes not outlined")
+	statusTable("TopicNotes", topicPages, true)
+	statusTable("EvergreenNotes", egPages, false)
+	statusTable("ContentNotes", contentPages, false)
+}
+```
 
----
+### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
 

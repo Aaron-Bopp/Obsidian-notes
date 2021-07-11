@@ -4,20 +4,21 @@ note-type:
 - topic-note
 aliases:
 - 
+embedded:
+- 
 ---
  
 <% tp.file.include("[[TITLE-ALLLINKS]]") %>
-<% tp.system.clipboard() %>
+<% tp.file.cursor() %><% tp.system.clipboard() %>
 
-**Status**:: #EVER/SEED
-
+**Status**:: #EVER/SEED 
+**Related-Topics**:: 
 <% tp.file.include("[[MODIFIED FIELD]]") %>
 <% tp.file.include("[[TITLE-TOPIC]]") %>
 - 
 
 ### <hr class="dataviews"/>
 
-<% tp.file.include("[[DV-EGNOTLINKED]]") %>
+<% tp.file.include("[[DVJS-TOPICNOTLINKED]]") %>
 
-<% tp.file.include("[[DV-CNNOTLINKED]]") %>
-### References
+### <hr class="references"/>

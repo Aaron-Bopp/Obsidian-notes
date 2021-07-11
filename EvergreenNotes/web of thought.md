@@ -12,7 +12,7 @@ note-type:
 
 **Status**:: #EVER/SPROUT/WATER  
 
-**Related-Topics**:: 
+**Related-Topics**:: [[second brain]]
 	
 **Sub-Topics**::
 	

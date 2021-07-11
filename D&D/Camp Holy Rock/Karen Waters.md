@@ -1,0 +1,1 @@
+Tran-woman Janitor, is the only one at camp who knows about [[the incident]]. Is a fledgling member of [[IWCC]].

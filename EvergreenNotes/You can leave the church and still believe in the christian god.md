@@ -3,7 +3,6 @@ creation date: 2021-06-28
 modification date: Monday 28th June 2021 19:34:19
 note-type: 
 - evergreen-note
-parent: [[Deconstruction (Christianity)]]
 ---
 
 ###### [[You can leave the church and still believe in the christian god]]
@@ -16,8 +15,10 @@ While [[Christians struggle to feel empathy because they must believe that non-c
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related-Topics**:: [[Christianity]], 
+**Parent**:: [[Deconstruction (Christianity)]]
 	
+**Related-Topics**:: [[Christianity]], 
+
 **Sub-Topics**:: 
 	
 **References**

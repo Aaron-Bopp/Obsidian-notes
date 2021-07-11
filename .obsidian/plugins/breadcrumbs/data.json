@@ -1,1 +1,21 @@
-{"parentFieldName":"parent","siblingFieldName":"related-topics","childFieldName":"sub-topics","indexNote":["INDEX"],"refreshIntervalTime":0,"defaultView":true,"showNameOrType":true,"showRelationType":true,"showTrail":true,"noPathMessage":"No path to index note was found","trailSeperator":"→","respectReadableLineLength":true,"debugMode":false,"superDebugMode":false}
+{
+  "parentFieldName": "related-topics",
+  "siblingFieldName": "related-topics",
+  "childFieldName": "",
+  "indexNote": [
+    "INDEX"
+  ],
+  "refreshIntervalTime": 0,
+  "defaultView": true,
+  "showNameOrType": false,
+  "showRelationType": true,
+  "showTrail": true,
+  "trailOrTable": 2,
+  "gridHeatmap": true,
+  "showAll": true,
+  "noPathMessage": "This note has no real or implied parents",
+  "trailSeperator": "-->",
+  "respectReadableLineLength": true,
+  "debugMode": false,
+  "superDebugMode": false
+}

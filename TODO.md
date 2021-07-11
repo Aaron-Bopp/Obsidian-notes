@@ -1,11 +1,11 @@
 ---
 creation date: 2021-07-05
+parent: [[Dataview]]
 note-type: 
 - evergreen-note
 - organizational-note
 aliases:
 - 
-parent: [[INDEX]]
 ---
 
 ```dataviewjs

@@ -5,7 +5,6 @@ note-type:
 - evergreen-note
 - organizational-note
 - topic-note 
-sub-topics: [[QUICKNOTE]], [[Journal]], [[TODO]], [[SEARCH]], [[EVERGREENS]], [[EVERSPROUTS]], [[EVERSEEDS]]
 ---
 
 This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[personal knowledge management]] system.
@@ -22,6 +21,8 @@ This is a constantly updated index of entry points and topics for my personal fl
 	- [[EVERGREENS]]
 	- [[EVERSPROUTS]]
 	- [[EVERSEEDS]]
+- ![[Dataview#Get number notes with every note-type]]
+
 # Topic Outlines
 - ![[personal knowledge management#personal knowledge management length personal knowledge management file inlinks]] 
 - ![[mental health#mental health length mental health file inlinks]]

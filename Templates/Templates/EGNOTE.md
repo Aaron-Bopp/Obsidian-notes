@@ -7,7 +7,7 @@ aliases:
 
 <% tp.file.include("[[TITLE-ALLLINKS]]") %>
 
-<% tp.system.clipboard() %>
+<% tp.file.cursor() %><% tp.system.clipboard() %>
 
 ### <hr class="footnote"/>
 
@@ -17,4 +17,4 @@ aliases:
 	
 <% tp.file.include("[[MODIFIED FIELD]]") %>
 	
-### References
+### <hr class="references"/>
