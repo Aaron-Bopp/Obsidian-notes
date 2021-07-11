@@ -1,0 +1,74 @@
+{
+  "choices": [
+    {
+      "id": "daf462a1-0ec5-4538-baa3-472d8dc213eb",
+      "name": "CONTENT",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Templates/CONTENT.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false
+      },
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical"
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFile": true
+    },
+    {
+      "id": "4b68822a-b2c0-4d7f-9d58-9b97cbf3e07b",
+      "name": "EVERGREEN",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Templates/EGNOTE.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false
+      },
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical"
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFile": true
+    },
+    {
+      "id": "67d798dd-7d7a-48ac-a615-0b6353cf8cb7",
+      "name": "TOPIC",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Templates/TOPICNOTE.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false
+      },
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical"
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFile": true
+    }
+  ],
+  "macros": []
+}

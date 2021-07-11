@@ -7,8 +7,11 @@
         "id": "c8d95724f1c094a2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "EvergreenNotes/how I use Obsidian tags.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EvergreenNotes/how I use Obsidian tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,6 +77,38 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "f8d99c8694fa4567",
+            "type": "leaf",
+            "state": {
+              "type": "chat",
+              "state": {}
+            }
+          },
+          {
+            "id": "329843cb574cd786",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e38787a6b9482f8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "381eec3271df63c0",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
             }
           }
         ]
@@ -83,5 +119,7 @@
     "collapsed": true
   },
   "active": "c8d95724f1c094a2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "EvergreenNotes/how I use Obsidian tags.md"
+  ]
 }

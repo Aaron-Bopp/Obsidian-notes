@@ -1,1 +1,37 @@
-{}
+{
+  "tabSize": 4,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Attachments",
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "newFileLocation": "root",
+  "vimMode": true,
+  "spellcheckDictionary": [
+    "habitus",
+    "Hermione",
+    "Granger",
+    "Bopp",
+    "Logline",
+    "knick",
+    "minecraft",
+    "BigThoughts",
+    "FunFact",
+    "Adderall",
+    "abopp",
+    "egnote",
+    "Dataview",
+    "Eversprouts",
+    "Everseedlings",
+    "Dataviews",
+    "gameplay",
+    "Curation",
+    "Todo"
+  ],
+  "readableLineLength": false,
+  "fileSortOrder": "alphabetical",
+  "newFileFolderPath": "0"
+}

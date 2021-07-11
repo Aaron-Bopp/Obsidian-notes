@@ -1,22 +1,79 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "-path:D&D -path:Templates",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "organizational-note",
+      "color": {
+        "a": 1,
+        "rgb": 16772608
+      }
+    },
+    {
+      "query": "topic-note",
+      "color": {
+        "a": 1,
+        "rgb": 6109956
+      }
+    },
+    {
+      "query": "personal-note",
+      "color": {
+        "a": 1,
+        "rgb": 14707926
+      }
+    },
+    {
+      "query": "tag:#EVER/GREEN",
+      "color": {
+        "a": 1,
+        "rgb": 31236
+      }
+    },
+    {
+      "query": "tag:#EVER/SPROUT",
+      "color": {
+        "a": 1,
+        "rgb": 3382065
+      }
+    },
+    {
+      "query": "tag:#EVER/SEED",
+      "color": {
+        "a": 1,
+        "rgb": 8254725
+      }
+    },
+    {
+      "query": "path:ContentNotes/",
+      "color": {
+        "a": 1,
+        "rgb": 5400319
+      }
+    },
+    {
+      "query": "bio-note",
+      "color": {
+        "a": 1,
+        "rgb": 15208725
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.19379617409119157,
-  "close": false
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.43511235955056,
+  "lineSizeMultiplier": 0.333988764044944,
+  "collapse-forces": false,
+  "centerStrength": 0.347058823529412,
+  "repelStrength": 14.078431372549,
+  "linkStrength": 0.617647058823529,
+  "linkDistance": 30,
+  "scale": 0.05409711755704053,
+  "close": true
 }

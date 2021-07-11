@@ -1,3 +1,10 @@
 {
-  "baseFontSize": 16
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "tag-pills"
+  ],
+  "baseFontSize": 16,
+  "translucency": false,
+  "baseFontSizeAction": false
 }
