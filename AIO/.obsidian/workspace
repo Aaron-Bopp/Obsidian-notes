@@ -7,8 +7,11 @@
         "id": "470c53558f881deb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "EVERSEEDS.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -70,6 +73,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "EVERSEEDS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -104,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EVERSEEDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EVERSEEDS.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 750.5
+    "width": 453.5,
+    "collapsed": true
   },
   "right": {
     "id": "d2f47cb3f5d142ba",
@@ -152,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "EVERSEEDS.md"
+              }
             }
           },
           {
@@ -229,6 +238,7 @@
   },
   "active": "470c53558f881deb",
   "lastOpenFiles": [
+    "EVERSEEDS.md",
     "EVERGREENS.md",
     "EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
     "Templates/Templates/DVJS-TOPICNOTLINKED.md",
@@ -237,7 +247,6 @@
     "EvergreenNotes/web of thought.md",
     "TopicNotes/zettle.md",
     "EvergreenNotes/Templater.md",
-    "EvergreenNotes/The bible is god breathed.md",
-    "EvergreenNotes/Tags should be general.md"
+    "EvergreenNotes/The bible is god breathed.md"
   ]
 }
