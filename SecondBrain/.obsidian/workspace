@@ -4,35 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7c59d7d0b8534828",
+        "id": "b237dc7341cc73ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/mental health.md",
+            "file": "SecondBrain/TopicNotes/OCD.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "ed023698a435ef9f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SecondBrain/TopicNotes/self-worth.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "935433a7e56d1a1d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SecondBrain/TopicNotes/self-love.md",
-            "mode": "source"
           }
         }
       }
@@ -84,42 +62,144 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/self-love.md",
+                "file": "SecondBrain/TopicNotes/OCD.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
+                  "search": "-file:INDEX",
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "personal-note",
+                      "color": {
+                        "a": 1,
+                        "rgb": 15433453
+                      }
+                    },
+                    {
+                      "query": "topic-note tag:#EVER/GREEN",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4072964
+                      }
+                    },
+                    {
+                      "query": "topic-note tag:#EVER/SPROUT",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4993291
+                      }
+                    },
+                    {
+                      "query": "topic-note tag:#EVER/SEED",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5916418
+                      }
+                    },
+                    {
+                      "query": "tag:#EVER/GREEN",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1272066
+                      }
+                    },
+                    {
+                      "query": "tag:#EVER/SPROUT",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4042759
+                      }
+                    },
+                    {
+                      "query": "tag:#EVER/SEED",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6749952
+                      }
+                    },
+                    {
+                      "query": "path:ContentNotes",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5414624
+                      }
+                    },
+                    {
+                      "query": "bio-note",
+                      "color": {
+                        "a": 1,
+                        "rgb": 10028552
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "lineSizeMultiplier": 0.417058823529412,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.326528251257172,
+                  "scale": 0.3025776834061067,
                   "close": true
                 }
               }
             }
+          },
+          {
+            "id": "945ffe61918129cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SecondBrain/TopicNotes/OCD.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a04e9363db7056e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SecondBrain/TopicNotes/OCD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f04cf8a156e228f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 430.5,
-    "collapsed": true
+    "width": 485.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -129,23 +209,6 @@
         "id": "6ac4eb311366ca17",
         "type": "tabs",
         "children": [
-          {
-            "id": "945ffe61918129cd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "SecondBrain/TopicNotes/self-love.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "f8d99c8694fa4567",
             "type": "leaf",
@@ -169,49 +232,26 @@
               "type": "juggl_style",
               "state": {}
             }
-          },
-          {
-            "id": "a04e9363db7056e4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "SecondBrain/TopicNotes/self-love.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "3f04cf8a156e228f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 461.5,
     "collapsed": true
   },
-  "active": "935433a7e56d1a1d",
+  "active": "b237dc7341cc73ba",
   "lastOpenFiles": [
-    "SecondBrain/TopicNotes/self-love.md",
-    "SecondBrain/TopicNotes/self-worth.md",
+    "SecondBrain/TopicNotes/OCD.md",
     "SecondBrain/TopicNotes/mental health.md",
-    "SecondBrain/TopicNotes/self-improvement.md",
-    "SecondBrain/TopicNotes/self-hate.md",
-    "SecondBrain/TopicNotes/self-actualization.md",
-    "SecondBrain/TopicNotes/Neuroscience.md",
-    "SecondBrain/TopicNotes/anxiety.md",
-    "SecondBrain/INDEX.md",
-    "SecondBrain/TopicNotes/mindfullness.md"
+    "SecondBrain/EvergreenNotes/The nature of happiness is not doing what you love its detachment from the decisions of the life.md",
+    "SecondBrain/TopicNotes/mindfullness.md",
+    "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
+    "SecondBrain/TopicNotes/religious trauma.md",
+    "SecondBrain/ContentNotes/Mental Health/To my parents.md",
+    "SecondBrain/TopicNotes/trauma.md",
+    "SecondBrain/TopicNotes/self-love.md",
+    "self-care.md"
   ]
 }

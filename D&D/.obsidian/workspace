@@ -7,8 +7,11 @@
         "id": "18e1d9fc9e9fc979",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "D&D/Wildemount/Chapter 1.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e4957aafc9974964",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Wildemount/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,16 +111,25 @@
               "type": "breadcrumbs-matrix",
               "state": {}
             }
+          },
+          {
+            "id": "eb3e3d2edd918674",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "18e1d9fc9e9fc979",
   "lastOpenFiles": [
+    "D&D/Wildemount/Chapter 1.md",
     "D&D/Misc/oneshot.md",
     "oneshot.md"
   ]

@@ -14,5 +14,5 @@ note-type:
 
 **Status**:: #EVER/SEED/WATER 
 
-**Related-Topics**:: [[mental health]], [[self-love]], [[self-hate]], [[self-worth]], [[childhood trauma]], [[gender dysphoria]], [[body dysmorphia]]
+**Related-Topics**:: [[mental health]], [[self-love]], [[self-hate]], [[self-love]], [[childhood trauma]], [[gender dysphoria]], [[body dysmorphia]]
 	

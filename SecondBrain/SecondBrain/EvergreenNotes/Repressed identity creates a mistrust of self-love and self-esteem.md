@@ -10,7 +10,7 @@ note-type:
 ### <hr class="footnote"/>
 **Status**:: #EVER/SEED/WATER  
 
-**Related Topics**:: [[identity]], [[self-love]], [[self-validation]], [[self-hate]], [[self care]]
+**Related Topics**:: [[identity]], [[self-care|self-validation]], [[self-hate]], [[self-love]]
 	
 **Last Edited**:: *`=[[Repressed identity creates a mistrust of self-love and self-esteem]].file.mtime`*
 

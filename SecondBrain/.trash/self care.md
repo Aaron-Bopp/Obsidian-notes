@@ -1,28 +1,27 @@
 ---
-creation date: 2021-06-29
-modification date: Tuesday 29th June 2021 23:55:28
-note-type: evergreen-note,topic-note,ADSF
+creation date: 2021-07-03
+note-type: 
 - evergreen-note
 - topic-note
 aliases:
 - 
-parent: [[trauma]]
+embedded:
+- 
 ---
  
-###### [[religious trauma]]
+##### [[self care]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+	- [[self-hate]]
+	- [[self-love]]
+	- [[self-actualization]]
 
-ADHD
-
-**Status**:: #EVER/SEED
-
-Related-Topics:: [[trauma]]
-
+**Status**:: #EVER/SEED 
+**Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
-###### [[religious trauma]] `=length([[religious trauma]].file.inlinks)` 
-
-- Often results in [[Deconstruction (Christianity)]]
+##### [[self care]] `=length(this.file.inlinks)` 
+- 
 
 ### <hr class="dataviews"/>
+
 #### Notes not yet in outline
 ```dataviewjs
 const thisFile = dv.pages().where(f => f.file.path == dv.current().file.path)[0]
@@ -99,3 +98,6 @@ statusTable("TopicNotes")
 statusTable("EvergreenNotes")
 contentNotesTable("ContentNotes")
 ```
+
+
+### <hr class="references"/>

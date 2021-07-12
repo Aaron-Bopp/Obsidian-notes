@@ -15,7 +15,7 @@ related-topics: [[anxiety]]
 **Last Edited**:: *`=this.file.mtime`*
 ##### `=this.file.link` `=length(this.file.inlinks)` 
 - Symptoms
-	- lack of [[self-worth]]
+	- lack of [[self-love]]
 	- Acutely aware of [[social discomfort]]
 		- [[Anxiety should be a tool at your disposal not an impedance to your life]]
 	- For me

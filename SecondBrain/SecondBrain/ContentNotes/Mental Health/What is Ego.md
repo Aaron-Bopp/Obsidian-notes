@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
 	- anything you do in the present is a preparing for the future
 - [09:08](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8#t=548.8713731983643)
 	- Is your job your identity?
-		- if you build your [[self-worth]] around your job then it is part of your identity
+		- if you build your [[self-love]] around your job then it is part of your identity
 - [12:30](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8#t=750.1068872479553)
 	- Developed identity and sexual reproduction are linked
 - [15:21](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8#t=921.2163206871949)

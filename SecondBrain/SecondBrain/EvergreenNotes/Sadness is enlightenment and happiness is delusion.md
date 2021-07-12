@@ -21,7 +21,7 @@ Once someone has reached this state of "enlightenment," they will not only find 
 ---
 **Status**:: #EVER/GREEN/PRUNE  
 
-**Related-Topics**:: [[mental health]], [[self]], [[self-worth]], [[Bhuddism]], [[depression]]
+**Related-Topics**:: [[mental health]], [[self]], [[self-love]], [[Bhuddism]], [[depression]]
 	
 **Sub-Topics**:: [[To be happy you need to not be sad]], [[Happiness]], [[The nature of happiness is not doing what you love its detachment from the decisions of the life]]
 	**Last Edited**:: *`=this.file.mtime`*

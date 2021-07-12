@@ -6,16 +6,16 @@ note-type:
 
 ---
 
-###### [[Parents need to model the ability to deal with emotion to their children]] `=length([[Parents need to model the ability to deal with emotion to their children]].file.inlinks) + length([[Parents need to model the ability to deal with emotion to their children]].file.outlinks)`
+##### [[Parents need to model the ability to deal with emotion to their children]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 #TO/EXPLORE/RESEARCH how this works
 
----
+### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
 
-**Related-Topics**:: [[human advancement]], [[Neuroscience]], [[social fitness]] [[self care]], [[self soothing]], [[self-validation]]
+**Related-Topics**:: [[human advancement]], [[Neuroscience]], [[social fitness]], [[self-care|self-validation]], [[self-care|self-soothing]]
 	
-**Sub-Topics**::
+**Last Edited**:: *`=this.file.mtime`*
 	
 **References**
