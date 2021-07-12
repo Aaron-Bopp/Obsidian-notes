@@ -145,6 +145,8 @@ As judged by the eyes of the local lawmaster, appointed hands of that lawmaster,
 
 **Treason:** execution.
 
+
+
 # Kryn Dynasty
 
 The Kryn Dynasty rules the northern wastes of Xhorhas, and has only revealed itself to the wider world within the past century. Centered around — and under — the ruins of Ghor Dranas in Eastern Wynandir, the dynasty governs many townships and small villages where the Kryn have helped establish a modicum of civilized living among the nomadic wastefolk. They believe that beings not yet beyond redemption can be turned to the light of the Luxon, and often struggle with the unruly denizens of the wastes, hoping to gain converts to their cause and faith. Those that do accept the dynasty often do so because they seek protection from the dregs of the Calamity that wander the wastes, as well as the scouts of the Dwendalian Empire.
@@ -263,6 +265,9 @@ _Neutral, female half-orc_
 
 A scatterbrained scholar whose subtle brilliance has increased the effectiveness of the dynasty warmachines, Professor Waccoh usually oversees a number of academic programs and private research projects at the Marble Tomes Conservatory within the Firmaments of Rosohna. Recently obsessed with the desolate, cursed lands of Blightshore and the mysteries that lie hidden within, Tuss is actively seeking allies and mercenaries to send into the dangerous lands to recover information, relics, and specimens for further study.
 
+## 
+
+
 # Cerberus Assembly
 
 The Cerberus Assembly was established nearly three hundred years ago, when strife and competition between warring mage lords threatened to unravel the social order of the Dwendalian Empire. The house leaders of this conflict nearly destroyed one another in what was called the Eve of Crimson Midnight, an arcane battle within the capital of Rexxentrum that leveled two wards of the city, killing hundreds of civilians. At the peak of the violence, a parlay was called, and the mage lords decided to put aside their differences and avoid mutually assured destruction, instead joining as a unified conclave. When brought before the king for judgment of their crimes, they offered an accord to instead officially instate the conclave and submit entirely to king’s rule. Taking the name the Cerberus Assembly, a reference to a powerful, historical union of mages during the Age of Arcanum, the mages took the empire to new heights of power and expansion.
@@ -342,6 +347,10 @@ Zivan Margolin inherited the position of headmaster from his father, the late Jo
 _Lawful neutral, male earth genasi_
 
 The current headmaster of the Hall of Erudition in Zadash, Oremid is tasked with watching and grooming the next generation of mages and arcane specialists outside Rexxentrum. While he himself is a gentle soul who adores animals, he puts on the façade of a strict man with no sense of humor, which is further enhanced by the elemental influence of his earth genasi blood. He teaches students that failure is not an option, and that emotion is a barrier to one’s true ability. Equally feared, respected, and privately loathed by the students (and some instructors), Oremid personally dismisses those who break under his school’s curriculum and heaps joyous praise on those who endure their training.
+
+## 
+
+
 
 # Clovis Concord
 
@@ -437,6 +446,7 @@ All religions are legal to practice in private, but public worship of Betrayer G
 
 **Murder:** 5–10 years incarceration and/or a fine of 5,000 gp.
 
+
 # The Myriad
 
 Any civilized society will turn the people it has failed into criminals, and the societies of Wildemount are no exception. The continent’s largest criminal organization took shape about eighty years ago, when a shipping company in the Dwendalian city of Yrrosa turned to smuggling contraband to make ends meet. This tightknit group of clever smugglers soon began to bargain with their competitors, employing blackmail and offering membership to their organization as an alternative to elimination.
@@ -500,10 +510,14 @@ A patient and intimidating figure in the underground of Deastok for over forty y
 _Lawful neutral, female elf_
 
 A talented songstress and dancer renowned throughout the Menagerie Coast for her sweet voice and enchanting allure, Chessia is a popular performer in many opulent social circles across Port Damali. Chessia uses her charming persona to deflect suspicion as she weaves her way into the lives of politicians and guild masters to steer them toward Myriad interests.
+
+
 ## 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-05.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-05.png)
 
 A Dwendalian farmer, a trader of the Kryn Dynasty, and a fisherman of the Clovis Concord
+## 
+
 
 # Children of Malice
 
@@ -608,6 +622,7 @@ The elder king of the surviving elves of Molaesmyr, Imathan is as candid as he i
 _Lawful good, male dwarf_
 
 Gulrim is praised as the brazen — though perhaps crazy — explorer who convinced Queen Fruunast to allow his team to cross the Frigid Depths. He and his surveyors found the mysterious banks of Eiselcross, established the Syrinlya outpost, and recovered fragments of ancient relics previously lost in the ice and snow. Professor Gulrim now helms the Uthodurnian efforts to expand Syrinlya and learn more about the mysteries hidden among the glacial fields.
+
 ## 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-07.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-07.png)
 
@@ -666,6 +681,9 @@ The elder of the Trebain family, Darko helms the efforts to excavate the ruins o
 _Lawful evil, male half-elf_
 
 Known for his skills in negotiation and deceit, Ionos has proven himself the master of the family’s distribution network. Inspired to expand the business alliances of the Jagentoth family far beyond the northern edges of the Dwendalian Empire, Ionos has been making arrangements with Myriad operatives while simultaneously rooting out Myriad influence in those same circles. Either the noose is about to tighten, or he’s designed a brilliant ploy to eliminate the competition.
+
+## 
+
 
 # Library of the Cobalt Soul
 
@@ -727,6 +745,9 @@ _Neutral, female halfling_
 
 As Yudala Fon’s secret right-hand, Sia organizes the expositors of the Rexxentrum Archive. She is determined to root out the infiltrators who would seek to undermine the leadership of the Library and grab power for the Crown, and she is swift and brutal in her work. Those that know of her fear her, and many wonder if her methods are crossing a line.
 
+##
+
+
 # Scars of Scale and Tooth
 
 For hundreds of years, the small, cloistered dragonborn nation of Draconia reigned over the Dreemoth Ravine to the south of Xhorhas, removed from the troubles of the wastes. The erudite draconbloods of the ruling houses, marked by their intellect, jeweled tails, and ostentatious wealth, looked down from the floating chain of islands that formed their capitol while the droves of tailless slave dragonborn, known as ravenites, toiled away in the ravine below, gathering resources and serving their masters for generations. This structure collapsed around twenty years ago, when the Chroma Conclave, a union of ancient dragons, destroyed Draconia and left the city ruined in the ravine below.
@@ -775,6 +796,9 @@ _Neutral good, male dragonborn_
 
 Druvis first noticed Troka for his silver tongue, and tasked him with infiltrating the empire and appraising the situation in Talonstadt. Frustrated by the meager living conditions and demeaning treatment of his people, Troka has retaliated by sowing chaos throughout the surrounding Dwendalian territories. Troka and his troupe of slippery thieves steal from the Crown, confuse the local military, and keep a watchful eye on the dragonborn refugees, making him a folk hero among their community.
 
+## 
+
+
 # Claret Orders
 
 Centuries ago, the high cleric of the Julous Dominion made secret pacts with a devil of the Nine Hells, hoping to gain enough power to repel the aggressive Dwendalian Empire. However, he failed to read the fine print of the devilish contract — he succeeded in his mission, but his people paid a terrible cost. The empire was indeed repelled, but it was because the lands of the Marrow Valley were brimming with devils and undead. The common folks hid in their homes, and the valley grew unhallowed and gray. In this brief era of terror, a humble priest of the Raven Queen named Trence Orman prayed for a way to protect his flock, his people, and the lands they called home. The Matron of Death blessed him with the ancient secrets of blood magic. Trence trained his most trusted friends in the techniques of hemocraft, and they sacrificed a portion of their humanity in exchange for the power to defend the dominion. This marked the origin of the Claret Orders.
@@ -820,6 +844,9 @@ A famed blood hunter across the orders, Elias has successfully hunted some of th
 _Chaotic good, female werewolf (half-elf)_
 
 A sarcastic spitfire who joined the orders to help gain control over her lycanthropy, Lilyana has become a masterful blood hunter in an impressively short period of time. She leads many hunts with her keen, lycanthropic senses, and is known for being more personable than most who undergo the Hunter’s Bane. Lilyana is spoken of with equal parts irritation and awe within the circles of the orders.
+
+## 
+
 
 # Golden Grin
 
@@ -867,6 +894,9 @@ An affluent noble among the upper crust of the Clovis Concord, Duasad is an inhe
 
 These days, Duasad has become well known as a powerful empath who uses his psychic talents to help others deal with trauma or seek a more fulfilling path in life. He has become one of the most influential and effective members of the Golden Grin in Wildemount. However, the radical shifts in his clients’ life choices have not gone unnoticed, and Duasad is aware that the watchful gaze of the Clovis Concord is now firmly fixed on him.
 
+##
+
+
 # The Revelry
 
 The Revelry’s allies within the Clovis Concord will tell you that they turned to piracy because of the concord’s excessive taxes and unjust laws. Perhaps it began that way, but over time, a movement that began as public dissent turned to lawful protest, which then became violent action. Eventually, a union of disenfranchised salvage ships and trade vessels fought their way into the Dragshallow Reef and violently overthrew the small sanctuary port of Darktow.
@@ -902,6 +932,10 @@ After seizing the mantle of Plank King, Wyatt quickly established his position w
 _Chaotic good, female human_
 
 Known to many as the “Screaming Knuckle,” Alyson is the loud and joyful captain of the ship The Ill Hand who enjoys a good brawl as much as she appreciates a stiff drink. Paij took to piracy because of her hatred for the Clovis Concord, but she is driven by an uncompromising sense of moral duty to the downtrodden. She never raids civilian vessels, and she does her best to rein in the Revelry’s cruelest captains and focus their efforts on those who deserve to have their goods stolen.
+
+
+##
+
 
 # CULTS: DUBIOUS WORSHIP FROM THE SHADOWS
 

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6453cd85ab492501",
+        "id": "31de1a8e1a134204",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -159,17 +159,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6453cd85ab492501",
+  "active": "31de1a8e1a134204",
   "lastOpenFiles": [
     "D&D/Wildemount/Factions and Societies/Factions and Societies.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Distant Lands of Exandria.md",
+    "D&D/Wildemount/Factions and Societies/Ionos Jagentoth.md",
     "D&D/Wildemount/INDEX.md",
     "D&D/Wildemount/Wildemount Gazetteer/Wildemount Gazetteer.md",
     "D&D/Wildemount/Story of Wildemount/Story of Wildemount.md",
     "D&D/Wildemount/Story of Wildemount/Pantheon of Exandria/Pantheon of Exandria.md",
     "D&D/Wildemount/Wildemount Gazetteer/Menagerie Coast.md",
     "D&D/Wildemount/Story of Wildemount/History of Wildemount/History of Wildemount.md",
-    "D&D/Wildemount/Story of Wildemount/Pantheon of Exandria/Asmodeus, the Lord of the Nine Hells.md",
-    "D&D/Wildemount/Story of Wildemount/History of Wildemount/Myth of Exandria.md",
-    "D&D/Wildemount/Story of Wildemount/History of Wildemount/Wildemount after the Calamity/Wildemount after the Calamity.md"
+    "D&D/Wildemount/Story of Wildemount/Pantheon of Exandria/Asmodeus, the Lord of the Nine Hells.md"
   ]
 }
