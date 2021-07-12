@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "18e1d9fc9e9fc979",
+        "id": "dcee654095a43237",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Wildemount/Chapter 1.md",
+            "file": "D&D/Wildemount/Chapter 2 - Factions and Societies.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/Chapter 1.md",
+                "file": "D&D/Wildemount/Chapter 2 - Factions and Societies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,22 +89,6 @@
             }
           },
           {
-            "id": "3e4268c1b2fa7fb3",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "7c6e9a397ac2809c",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
-          },
-          {
             "id": "6811339854aa462b",
             "type": "leaf",
             "state": {
@@ -117,20 +101,76 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Wildemount/Chapter 2 - Factions and Societies.md"
+              }
+            }
+          },
+          {
+            "id": "ef4903cebcb2603a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "D&D/Wildemount/Chapter 2 - Factions and Societies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f26fe85a4864e383",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "D&D/Wildemount/Chapter 2 - Factions and Societies.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.28139604308472976,
+                  "close": false
+                }
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "18e1d9fc9e9fc979",
+  "active": "dcee654095a43237",
   "lastOpenFiles": [
-    "D&D/Wildemount/Chapter 1.md",
-    "D&D/Misc/oneshot.md",
-    "oneshot.md"
+    "D&D/Wildemount/Chapter 2 - Factions and Societies.md",
+    "D&D/Wildemount/King Bertrand Dwendal.md",
+    "D&D/Wildemount/Shadowhand Essek Thelyss.md",
+    "D&D/Wildemount/Factions and Societies.md",
+    "D&D/Wildemount/Chapter 2.md",
+    "D&D/Wildemount/Bane, the Strife Emperor.md",
+    "D&D/Wildemount/Arms of the Betrayers.md",
+    "D&D/Wildemount/Age of Arcanum.md",
+    "D&D/Wildemount/Adventures in Wildemount - Dangerous Designs.md",
+    "D&D/Wildemount/A King Is Crowned.md"
   ]
 }
