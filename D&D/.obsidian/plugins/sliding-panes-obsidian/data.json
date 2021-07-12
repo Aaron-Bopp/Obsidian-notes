@@ -1,1 +1,11 @@
-{"headerWidth":32,"leafWidth":800,"leafAutoWidth":false,"disabled":false,"rotateHeaders":false,"headerAlt":true,"orienation":"mixed","stackingEnabled":true,"smoothAnimation":true}
+{
+  "headerWidth": 32,
+  "leafWidth": 800,
+  "leafAutoWidth": true,
+  "disabled": false,
+  "rotateHeaders": false,
+  "headerAlt": true,
+  "orienation": "mixed",
+  "stackingEnabled": true,
+  "smoothAnimation": true
+}

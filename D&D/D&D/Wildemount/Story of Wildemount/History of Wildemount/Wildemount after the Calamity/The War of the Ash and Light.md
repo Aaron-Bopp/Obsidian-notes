@@ -1,0 +1,5 @@
+### The War of the Ash and Light
+
+In the past century, the Dwendalian Empire has clashed with the Kryn Dynasty. Small skirmishes and slain soldiers on both sides deter expansion beyond the Ashkeeper Peaks, with each faction keeping a close eye on the other.
+
+Recently, the empire’s interest in growing Kryn influence has led to increasing curiosity about the source of the Kryn’s mysterious arcane capabilities. Dwendalian spies successfully stole two of four artifacts known as “beacons,” which seemed to be powerful sources of the unique magical energy called dunamis. The Bright Queen Leylas Kryn began an initiative steal back the beacons and assault Dwendalian strongholds until these sacred relics are returned. Now, in 835 PD, the resulting skirmishes have escalated into all-out war. A fifth beacon has been recently uncovered by the Cerberus Assembly, and the violence threatens to grow past the Ashkeeper Peaks and embroil other denizens of Wildemount in the conflict.

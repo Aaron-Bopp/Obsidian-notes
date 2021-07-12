@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dcee654095a43237",
+        "id": "6453cd85ab492501",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Wildemount/Chapter 2 - Factions and Societies.md",
+            "file": "D&D/Wildemount/Factions and Societies/Factions and Societies.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e4957aafc9974964",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/Chapter 2 - Factions and Societies.md",
+                "file": "D&D/Wildemount/Factions and Societies/Factions and Societies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Wildemount/Chapter 2 - Factions and Societies.md"
+                "file": "D&D/Wildemount/Factions and Societies/Factions and Societies.md"
               }
             }
           },
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/Chapter 2 - Factions and Societies.md",
+                "file": "D&D/Wildemount/Factions and Societies/Factions and Societies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/Chapter 2 - Factions and Societies.md",
+                "file": "D&D/Wildemount/Factions and Societies/Factions and Societies.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,17 +159,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dcee654095a43237",
+  "active": "6453cd85ab492501",
   "lastOpenFiles": [
-    "D&D/Wildemount/Chapter 2 - Factions and Societies.md",
-    "D&D/Wildemount/King Bertrand Dwendal.md",
-    "D&D/Wildemount/Shadowhand Essek Thelyss.md",
-    "D&D/Wildemount/Factions and Societies.md",
-    "D&D/Wildemount/Chapter 2.md",
-    "D&D/Wildemount/Bane, the Strife Emperor.md",
-    "D&D/Wildemount/Arms of the Betrayers.md",
-    "D&D/Wildemount/Age of Arcanum.md",
-    "D&D/Wildemount/Adventures in Wildemount - Dangerous Designs.md",
-    "D&D/Wildemount/A King Is Crowned.md"
+    "D&D/Wildemount/Factions and Societies/Factions and Societies.md",
+    "D&D/Wildemount/INDEX.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Wildemount Gazetteer.md",
+    "D&D/Wildemount/Story of Wildemount/Story of Wildemount.md",
+    "D&D/Wildemount/Story of Wildemount/Pantheon of Exandria/Pantheon of Exandria.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Menagerie Coast.md",
+    "D&D/Wildemount/Story of Wildemount/History of Wildemount/History of Wildemount.md",
+    "D&D/Wildemount/Story of Wildemount/Pantheon of Exandria/Asmodeus, the Lord of the Nine Hells.md",
+    "D&D/Wildemount/Story of Wildemount/History of Wildemount/Myth of Exandria.md",
+    "D&D/Wildemount/Story of Wildemount/History of Wildemount/Wildemount after the Calamity/Wildemount after the Calamity.md"
   ]
 }

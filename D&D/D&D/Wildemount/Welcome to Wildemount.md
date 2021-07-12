@@ -36,22 +36,6 @@ The Kryn Dynasty is an empire made up of dark elves (drow) and other humanoids t
 
 A campaign set in Xhorhas will doubtless involve the war between the Kryn Dynasty and the Dwendalian Empire, but it can also include traditional dungeon crawls, political intrigue within the courts of the dynasty, or even wilderness exploration that could unearth secrets lost since the fall of the Betrayer Gods.
 
-## What’s in This Book?
-
-[Chapter 1](https://www.dndbeyond.com/sources/egtw/story-of-wildemount "Chapter 1") of this book introduces the big ideas you’ll need to know before creating a campaign in Wildemount: its history and its gods.
-
-[Chapter 2](https://www.dndbeyond.com/sources/egtw/factions-and-societies "Chapter 2") presents the major political players that shape daily life in Wildemount: its factions and societies. Depending on the choices made by your party of adventurers, these organizations might become their allies or their enemies. Some characters might begin play with a history of involvement with one of these factions, and several backgrounds are included later on to represent this allegiance.
-
-[Chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "Chapter 3") contains the Wildemount gazetteer, which details the cities and points of interest in each of the continent’s regions. The gazetteer includes NPCs, background information, and even plot hooks that you can use as the seeds of your own adventures. It also gives a brief overview of the other lands of Exandria beyond Wildemount.
-
-[Chapter 4](https://www.dndbeyond.com/sources/egtw/character-options "Chapter 4") is for players first and foremost; combined with the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"), it contains everything you need to create a character for a Wildemount campaign.
-
-The final chapters of this book, [chapters 5](https://www.dndbeyond.com/sources/egtw/adventures-in-wildemount "chapters 5") through [7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary "7"), give DMs starting adventures they can use to kick off their campaigns as well as new magic items and monsters to include in adventures of their own design.
-
-![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/00-Poster-Map-850.png)
-
-Continent of Wildemount [View High Resolution Version](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/00-Poster-Map-9000.jpg)  
-[View map without place names](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/00-Poster-Map-9000-notext.jpg)
 
 ## War!
 
@@ -112,84 +96,7 @@ The Exandrian calendar year is divided into 328 days, grouped into seven-day wee
 The names of the seven days of the week are Miresen, Grissen, Whelsen, Conthsen, Folsen, Yulisen, and Da’leysen. Each day is 24 hours long.
 
 ##### Exandrian Calendar
-
-Month
-
-Days
-
-Holidays
-
-Horisal
-
-29
-
-New Dawn (1st), Hillsgold (27th)
-
-Misuthar
-
-30
-
-Day of Challenging (7th)
-
-Dualahei
-
-30
-
-Renewal Festival (13th),  
-Wild’s Grandeur (20th)
-
-Thunsheer
-
-31
-
-Harvest’s Rise (11th),  
-Merryfrond’s Day (31st)
-
-Unndilar
-
-28
-
-Deep Solace (8th), Zenith (26th)
-
-Brussendar
-
-31
-
-Artisan’s Faire (15th),  
-Elvendawn (20th)
-
-Sydenstar
-
-32
-
-Highsummer (7th),  
-Morn of Largesse (14th)
-
-Fessuran
-
-29
-
-Harvest’s Close (3rd)
-
-Quen’pillar
-
-27
-
-Hazel Festival (10th),  
-Civilization’s Dawn (22nd)
-
-Cuersaar
-
-29
-
-Night of Ascension (13th)
-
-Duscar
-
-32
-
-Barren Eve (2nd),  
-Embertide (5th)
+#Table
 
 ### Seasons
 

@@ -19,11 +19,11 @@ Adventure hooks labeled as "any level" can be presented at any point in your par
 
 ## Regions
 
--   [Menagerie Coast](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-menagerie-coast "Menagerie Coast")
--   [Marrow Valley](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-marrow-valley "Marrow Valley")
--   [Zemni Fields](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-zemni-fields "Zemni Fields")
--   [Greying Wildlands](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-greying-wildlands "Greying Wildlands")
--   [Eiselcross](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-eiselcross "Eiselcross")
--   [Wastes of Xhorhas](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-wastes-of-xhorhas "Wastes of Xhorhas")
--   [Blightshore](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-blightshore "Blightshore")
--   [Distant Lands of Exandria](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-distant-lands-of-exandria "Distant Lands of Exandria")
+- [[Menagerie Coast]]
+- [[Marrow Valley]]
+- [[Zemni Fields]]
+- [[Greying Wildlands]]
+- [[Eiselcross]]
+- [[Wastes of Xhorhas]]
+- [[Blightshore]]
+- [[Distant Lands of Exandria]]
