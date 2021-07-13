@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/OCD.md",
+            "file": "SecondBrain/INDEX.md",
             "mode": "preview"
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/OCD.md",
+                "file": "SecondBrain/INDEX.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/OCD.md",
+                "file": "SecondBrain/INDEX.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/OCD.md",
+                "file": "SecondBrain/INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,11 +188,8 @@
             "id": "3f04cf8a156e228f",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -221,7 +218,7 @@
             "id": "329843cb574cd786",
             "type": "leaf",
             "state": {
-              "type": "juggl_nodes",
+              "type": "empty",
               "state": {}
             }
           },
@@ -229,8 +226,18 @@
             "id": "4e38787a6b9482f8",
             "type": "leaf",
             "state": {
-              "type": "juggl_style",
+              "type": "empty",
               "state": {}
+            }
+          },
+          {
+            "id": "17b4d267df1e074f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SecondBrain/INDEX.md"
+              }
             }
           }
         ],
@@ -243,6 +250,7 @@
   },
   "active": "b237dc7341cc73ba",
   "lastOpenFiles": [
+    "SecondBrain/INDEX.md",
     "SecondBrain/TopicNotes/OCD.md",
     "SecondBrain/TopicNotes/mental health.md",
     "SecondBrain/EvergreenNotes/The nature of happiness is not doing what you love its detachment from the decisions of the life.md",
@@ -251,7 +259,6 @@
     "SecondBrain/TopicNotes/religious trauma.md",
     "SecondBrain/ContentNotes/Mental Health/To my parents.md",
     "SecondBrain/TopicNotes/trauma.md",
-    "SecondBrain/TopicNotes/self-love.md",
-    "self-care.md"
+    "SecondBrain/TopicNotes/self-love.md"
   ]
 }

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8093c4c0e5aef1c6",
+        "id": "a6c570822ec207e7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/Wildemount/History of Wildemount/The Founding.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -54,7 +51,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/History of Wildemount/The Founding.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +62,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/History of Wildemount/The Founding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,9 +77,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D&D/Wildemount/History of Wildemount/The Founding.md"
-              }
+              "state": {}
             }
           },
           {
@@ -118,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305.5
   },
   "right": {
     "id": "e4957aafc9974964",
@@ -142,7 +135,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/History of Wildemount/The Founding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,20 +145,20 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
+                  "nodeSizeMultiplier": 0.719705882352941,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "collapse-forces": false,
+                  "centerStrength": 0.426470588235294,
+                  "repelStrength": 13.5882352941176,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.14316358147432942,
-                  "close": true
+                  "linkDistance": 30,
+                  "scale": 0.10211506980678846,
+                  "close": false
                 }
               }
             }
@@ -179,17 +171,17 @@
     "width": 788.5,
     "collapsed": true
   },
-  "active": "8093c4c0e5aef1c6",
+  "active": "a6c570822ec207e7",
   "lastOpenFiles": [
-    "D&D/Wildemount/History of Wildemount/The Founding.md",
-    "D&D/Wildemount/History of Wildemount/The Calamity.md",
-    "D&D/Wildemount/History of Wildemount/Age of Arcanum.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/Molaesmyr.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/The Ki’Nau.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/The Chroma Conclave.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/The Kryn Dynasty.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Volantim.md",
+    "D&D/Wildemount/aliases.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Wastes of Xhorhas.md",
+    "D&D/Wildemount/Glossary/Glossary.md",
+    "Tal’Dorei.md",
     "D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Grimgolir.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/Grimgolir.md",
-    "D&D/Wildemount/History of Wildemount.md"
+    "D&D/Wildemount/Adventures in Wildemount/Adventures in Wildemount - Dangerous Designs.md",
+    "D&D/Wildemount/Factions and Societies/Dwendalian Empire.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Hupperdook.md",
+    "D&D/tharoline/Section/069 Goodbye Mentira, Hello Krenos.md"
   ]
 }
