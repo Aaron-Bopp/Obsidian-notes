@@ -26,7 +26,7 @@ def link_title(title, txt):
     matches = re.finditer('(?<!([\[\w\|]))' + re.escape(title.lower()) + '(?!([\|\]\w]))', txt.lower())
     offset = 0 # track the offset of our matches (start index) due to document modifications
     if '# ' in txt or '::' in txt:
-        print(matches)
+        print(list(matches))
         return txt
     
     
