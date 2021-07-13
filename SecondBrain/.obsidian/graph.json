@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:templates",
+  "search": "-path:templates -file:related-topics -file:aliases",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -67,6 +67,6 @@
   "repelStrength": 14.078431372549,
   "linkStrength": 0.617647058823529,
   "linkDistance": 30,
-  "scale": 0.045505030357172405,
+  "scale": 0.1253971182430475,
   "close": false
 }

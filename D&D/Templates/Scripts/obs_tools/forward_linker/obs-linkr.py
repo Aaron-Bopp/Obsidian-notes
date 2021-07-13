@@ -1,4 +1,5 @@
 # pip3 install pyperclip pyyaml python-frontmatter
+from typing import Type
 import frontmatter
 import pyperclip
 import yaml
@@ -26,6 +27,8 @@ def link_title(title, txt):
     offset = 0 # track the offset of our matches (start index) due to document modifications
     
     for m in matches:
+        if '# ' in txt or '::' in txt:
+            continue
         # get the original text to link
         txt_to_link = updated_txt[m.start() + offset:m.end() + offset]
         
@@ -145,8 +148,11 @@ if regenerate_aliases:
         for title in generated_aliases:
             af.write(title + ":\n" if yaml_mode else "[[" + title + "]]:\n")
             print(title)
-            for alias in generated_aliases[title]:
-                af.write("- " + alias + "\n")
+            try:
+                for alias in generated_aliases[title]:
+                    af.write("- " + alias + "\n")
+            except TypeError:
+                pass
                 print(alias)
             # if title in generated_aliases:
             #     try: 
@@ -200,11 +206,22 @@ if (all_text):
     for root, dirs, files in os.walk(obsidian_home):
         for file in files:
             # ignore any 'dot' folders (.trash, .obsidian, etc.)
-            if file.endswith('.md') and '\\.' not in root and '/.' not in root:
+            if file.endswith('.md') and '\\.' not in root and '/.' not in root and file != aliases_file:
                 with open(root + "/" + file, 'r', encoding="utf-8") as f:
                     unlinked_txt = f.read()
+                    
+                    start_of_yaml = unlinked_txt.find("---", 0, 10)
+                    end_of_yaml = unlinked_txt.find("---", start_of_yaml)
+                    base_yaml = ""
+                    if start_of_yaml > -1:
+                        base_yaml += unlinked_txt[start_of_yaml+4: end_of_yaml]
+                    unlinked_txt = unlinked_txt[end_of_yaml+3:]
+
                 with open(root + "/" + file, 'w', encoding="utf-8") as f:
                     print(file)
+                    if (clear_links):
+                        unlinked_txt = unlinkr.unlink_text(unlinked_txt)
+                    
                     linked_txt = ""
 
                     if paragraph_mode:
@@ -212,8 +229,11 @@ if (all_text):
                             linked_txt += link_content(paragraph) + "\n"
                         linked_txt = linked_txt[:-1] # scrub the last newline
                     else:
-                        linked_txt = link_content(unlinked_txt)
-                    f.write(linked_txt)
+                        for paragraph in unlinked_txt.split("\n"):
+                            linked_txt += link_content(paragraph) + "\n"
+                        linked_txt = linked_txt[:-1] # scrub the last newline
+                    
+                    f.write(f"---\n{base_yaml}---\n{linked_txt}")
 else:
     clip_txt = pyperclip.paste()
     #print('--- clipboard text ---')
