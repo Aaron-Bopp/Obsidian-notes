@@ -100,7 +100,7 @@ if len(sys.argv) > 1:
             elif flag == "-u":
                 clear_links = True
             elif flag == "-t":
-                all_text == True
+                all_text = True
 
 else:
     print("usage - python obs-link.py <path to obsidian vault> [-r] [-y] [-w / -p]")
@@ -196,14 +196,16 @@ page_titles = sorted(page_titles, key=lambda x: len(x), reverse=True)
 
 # get text from clipboard
 if (all_text):
+    print("hit")
     for root, dirs, files in os.walk(obsidian_home):
         for file in files:
             # ignore any 'dot' folders (.trash, .obsidian, etc.)
             if file.endswith('.md') and '\\.' not in root and '/.' not in root:
-                with open(root + "/" + file, 'rw', encoding="utf-8") as f:
+                with open(root + "/" + file, 'r', encoding="utf-8") as f:
+                    unlinked_txt = f.read()
+                with open(root + "/" + file, 'w', encoding="utf-8") as f:
                     print(file)
                     linked_txt = ""
-                    unlinked_txt = f.read()
 
                     if paragraph_mode:
                         for paragraph in unlinked_txt.split("\n"):
