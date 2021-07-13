@@ -4,9 +4,10 @@ modification date: Sunday 20th June 2021 16:34:26
 note-type: 
 - content-note
 creator:
-content-type: https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
-- 
-source:
+content-type: 
+- youtube
+- video
+source: https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&index=8
 bib:
 ---
 

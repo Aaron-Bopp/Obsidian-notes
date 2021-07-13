@@ -1,7 +1,7 @@
 ---
 creation date: 2021-06-29
 modification date: Tuesday 29th June 2021 23:55:28
-note-type: evergreen-note,topic-note,ADSF
+note-type: 
 - evergreen-note
 - topic-note
 aliases:

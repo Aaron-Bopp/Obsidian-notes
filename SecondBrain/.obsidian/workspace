@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9b7e46fad580f00e",
+        "id": "7ccaea24e5206a6c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EVERSEEDS.md",
+            "file": "SecondBrain/aliases.md",
             "mode": "source"
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EVERSEEDS.md",
+                "file": "SecondBrain/aliases.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EVERSEEDS.md",
+                "file": "SecondBrain/aliases.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EVERSEEDS.md",
+                "file": "SecondBrain/aliases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,13 +192,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -238,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EVERSEEDS.md"
+                "file": "SecondBrain/aliases.md"
               }
             }
           }
@@ -250,17 +248,17 @@
     "width": 461.5,
     "collapsed": true
   },
-  "active": "9b7e46fad580f00e",
+  "active": "7ccaea24e5206a6c",
   "lastOpenFiles": [
-    "SecondBrain/EVERSEEDS.md",
     "SecondBrain/aliases.md",
+    "SecondBrain/EVERGREENS.md",
+    "SecondBrain/TopicNotes/religious trauma.md",
+    "SecondBrain/ContentNotes/Mental Health/What is Ego.md",
+    "SecondBrain/EVERSEEDS.md",
     "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
     "SecondBrain/EvergreenNotes/Early childhood trauma causes us to make wide assumptions about the world.md",
     "SecondBrain/EvergreenNotes/Obsidian (software).md",
     "SecondBrain/RELATED-TOPICS.md",
-    "SecondBrain/TopicNotes/ADHD.md",
-    "SecondBrain/ContentNotes/History/1930's General Notes.md",
-    "SecondBrain/ContentNotes/Mental Health/gender-dysphoria-bible/10 Existential Euphoria.md",
-    "SecondBrain/TopicNotes/evergreen notes.md"
+    "SecondBrain/TopicNotes/ADHD.md"
   ]
 }

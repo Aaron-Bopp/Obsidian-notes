@@ -25,10 +25,12 @@ def link_title(title, txt):
     # find instances of the title where it's not surrounded by [], | or other letters
     matches = re.finditer('(?<!([\[\w\|]))' + re.escape(title.lower()) + '(?!([\|\]\w]))', txt.lower())
     offset = 0 # track the offset of our matches (start index) due to document modifications
+    if '# ' in txt or '::' in txt:
+        print(matches)
+        return txt
+    
     
     for m in matches:
-        if '# ' in txt or '::' in txt:
-            continue
         # get the original text to link
         txt_to_link = updated_txt[m.start() + offset:m.end() + offset]
         
@@ -206,7 +208,8 @@ if (all_text):
     for root, dirs, files in os.walk(obsidian_home):
         for file in files:
             # ignore any 'dot' folders (.trash, .obsidian, etc.)
-            if file.endswith('.md') and '\\.' not in root and '/.' not in root and file != aliases_file:
+            print(file)
+            if file.endswith('.md') and '\\.' not in root and '/.' not in root and "aliases" not in file:
                 with open(root + "/" + file, 'r', encoding="utf-8") as f:
                     unlinked_txt = f.read()
                     
