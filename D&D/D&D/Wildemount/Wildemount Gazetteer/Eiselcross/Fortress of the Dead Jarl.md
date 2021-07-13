@@ -1,0 +1,7 @@
+### Fortress of the Dead Jarl
+
+From the outside, the Fortress of the Dead Jarl is an enormous fairy-tale castle made entirely of ice. The horrors inside the place tell a different story. The frost giant leader, Jarl Conessa Berg, was obsessed with gathering objects from Aeor. Two centuries ago, one of those items turned Conessa and every giant within her castle into an undead zombie. These beings are trapped inside the castle along with a hoard of Aeorian items.
+
+The Aeorian items within the fortress are enough to tempt most adventurers, but there are other reasons to go to the fortress.
+
+_**They're Free (Mid Level).**_ When the characters arrive in Balenpost or Syrinlya, a [frost giant zombie](https://www.dndbeyond.com/monsters/frost-giant-zombie) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#FrostGiantZombie "chapter 7")) attacks the camp. If the characters help defeat the giant, the leader of the camp tells the characters it is the third attack in as many days and asks them to find the source of the zombies. Characters can track the zombies back to the fortress. Each day the characters follow this path, roll any die. On an even result, the characters encounter 1d4 frost giant zombies. When they reach the fortress, they find that one of the walls is breached and must repair it to stop the zombies from leaving the castle. This breach could be natural or could be caused by a faction with a score to settle against the attacked outpost.

@@ -1,7 +1,0 @@
-### The Kryn Dynasty
-
-Beneath the ruins of Ghor Dranas, a group of scavenging drow turned from Lolth, their primary deity for centuries, finding renewed faith in an esoteric entity they called the Luxon. Guided by the light of their new deity, the drow survived their ascent from deep within the Underdark and reclaimed the halls of Ghor Dranas for themselves, naming their new home Rosohna, or “Rebirth.” The leading house of Kryn helped build a new nation of dark elves who sought the surface as part of their worship, and slowly began to reach out to the nearby nomads to unite under the light of the Luxon.
-
-As the first nation of post-Calamity Xhorhas, the Kryn Dynasty worked to expand its reach throughout the wasteland and bring unity to the ravaging hordes. Dormant evils continued to rise from beneath the marshes and badlands of Xhorhas, spreading chaos and battling with the warriors who called the desolate valley their home. The struggle to convert the denizens of Eastern Wynandir to the light of the Luxon continues to this day, while the agents of Lolth seek to spite and destroy her once-chosen for their arrogance.
-
-Meanwhile, the dragonborn have begun to reach out to Exandria’s sprawling political world, wishing to exchange knowledge and trade their gold and jewels for powerful magics to better their standing.

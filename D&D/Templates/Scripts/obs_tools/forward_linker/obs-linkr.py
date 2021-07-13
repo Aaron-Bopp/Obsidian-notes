@@ -16,6 +16,7 @@ paragraph_mode = False
 yaml_mode = False
 regenerate_aliases = False
 clear_links = False
+all_text= False
 
 
 def link_title(title, txt):
@@ -98,6 +99,8 @@ if len(sys.argv) > 1:
                 yaml_mode = True
             elif flag == "-u":
                 clear_links = True
+            elif flag == "-t":
+                all_text == True
 
 else:
     print("usage - python obs-link.py <path to obsidian vault> [-r] [-y] [-w / -p]")
@@ -106,6 +109,7 @@ else:
     print("-w = only the first occurrence of a page title (or alias) in the content will be linked ('wikipedia mode')")
     print("-p = only the first occurrence of a page title (or alias) in each paragraph will be linked ('paragraph mode')")
     print("-u = remove existing links in clipboard text before performing linking")
+    print("-t = perform replacements on all text in vault")
     exit()
 
 aliases_file = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
@@ -117,18 +121,18 @@ for root, dirs, files in os.walk(obsidian_home):
         # ignore any 'dot' folders (.trash, .obsidian, etc.)
         if file.endswith('.md') and '\\.' not in root and '/.' not in root:
             page_title = re.sub(r'\.md$', '', file)
-            #print(page_title)
+            print(page_title)
             page_titles.append(page_title)
             
             # load yaml frontmatter and parse aliases
             if regenerate_aliases:
                 try:
                     with open(root + "/" + file, encoding="utf-8") as f:
-                        #print(file)
+                        print(file)
                         fm = frontmatter.load(f)
                         
                         if fm and 'aliases' in fm:
-                            #print(fm['aliases'])
+                            print(fm['aliases'])
                             generated_aliases[page_title] = fm['aliases']
                 except yaml.YAMLError as exc:
                     print("Error processing aliases in file: " + file)
@@ -140,10 +144,17 @@ if regenerate_aliases:
     with open(aliases_file, "w", encoding="utf-8") as af:
         for title in generated_aliases:
             af.write(title + ":\n" if yaml_mode else "[[" + title + "]]:\n")
-            #print(title)
+            print(title)
             for alias in generated_aliases[title]:
                 af.write("- " + alias + "\n")
-                #print(alias)
+                print(alias)
+            # if title in generated_aliases:
+            #     try: 
+            #         for alias in generated_aliases[title]:
+            #             af.write("- " + alias + "\n")
+            #           print(alias)
+            #     except TypeError:
+            #         pass
             af.write("\n")
         if not yaml_mode: af.write("aliases:\n- ")
 
@@ -184,30 +195,48 @@ for alias in page_aliases:
 page_titles = sorted(page_titles, key=lambda x: len(x), reverse=True)
 
 # get text from clipboard
-clip_txt = pyperclip.paste()
-#print('--- clipboard text ---')
-#print(clip_txt)
-print('----------------------')
+if (all_text):
+    for root, dirs, files in os.walk(obsidian_home):
+        for file in files:
+            # ignore any 'dot' folders (.trash, .obsidian, etc.)
+            if file.endswith('.md') and '\\.' not in root and '/.' not in root:
+                with open(root + "/" + file, 'rw', encoding="utf-8") as f:
+                    print(file)
+                    linked_txt = ""
+                    unlinked_txt = f.read()
 
-# unlink text prior to processing if enabled
-if (clear_links):
-    clip_txt = unlinkr.unlink_text(clip_txt)
-    #print('--- text after scrubbing links ---')
-    #print(clip_txt)
-    #print('----------------------')
-
-# prepare our linked text output
-linked_txt = ""
-
-if paragraph_mode:
-    for paragraph in clip_txt.split("\n"):
-        linked_txt += link_content(paragraph) + "\n"
-    linked_txt = linked_txt[:-1] # scrub the last newline
+                    if paragraph_mode:
+                        for paragraph in unlinked_txt.split("\n"):
+                            linked_txt += link_content(paragraph) + "\n"
+                        linked_txt = linked_txt[:-1] # scrub the last newline
+                    else:
+                        linked_txt = link_content(unlinked_txt)
+                    f.write(linked_txt)
 else:
-    linked_txt = link_content(clip_txt)
+    clip_txt = pyperclip.paste()
+    #print('--- clipboard text ---')
+    #print(clip_txt)
+    print('----------------------')
 
-# send the linked text to the clipboard
-pyperclip.copy(linked_txt)
-#print(clip_txt)
-print('----------------------')
-print('linked text copied to clipboard')
+    # unlink text prior to processing if enabled
+    if (clear_links):
+        clip_txt = unlinkr.unlink_text(clip_txt)
+        #print('--- text after scrubbing links ---')
+        #print(clip_txt)
+        #print('----------------------')
+
+    # prepare our linked text output
+    linked_txt = ""
+
+    if paragraph_mode:
+        for paragraph in clip_txt.split("\n"):
+            linked_txt += link_content(paragraph) + "\n"
+        linked_txt = linked_txt[:-1] # scrub the last newline
+    else:
+        linked_txt = link_content(clip_txt)
+
+    # send the linked text to the clipboard
+    pyperclip.copy(linked_txt)
+    #print(clip_txt)
+    print('----------------------')
+    print('linked text copied to clipboard')

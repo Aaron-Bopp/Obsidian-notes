@@ -8,8 +8,8 @@
   "attachmentFolderPath": "Attachments",
   "spellcheck": true,
   "strictLineBreaks": false,
-  "newFileLocation": "root",
-  "vimMode": true,
+  "newFileLocation": "current",
+  "vimMode": false,
   "spellcheckDictionary": [
     "habitus",
     "Hermione",
@@ -29,9 +29,12 @@
     "Dataviews",
     "gameplay",
     "Curation",
-    "Todo"
+    "Todo",
+    "Chronurgy",
+    "Graviturgy"
   ],
   "readableLineLength": false,
   "fileSortOrder": "alphabetical",
-  "newFileFolderPath": "0"
+  "newFileFolderPath": "0",
+  "showFrontmatter": true
 }

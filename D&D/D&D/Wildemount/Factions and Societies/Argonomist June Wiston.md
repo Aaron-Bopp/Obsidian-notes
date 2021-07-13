@@ -1,0 +1,5 @@
+### Argonomist June Wiston
+
+_Chaotic good, female half-elf_
+
+June is seen as a studious spitfire, and she has unexpectedly proven to also be a masterful bureaucrat with a talent for exploiting legal loopholes. Driven by a youth in poverty, she swore to help repair a broken system of agricultural distribution. By making the right moves and the right friends — and making a loud fuss when necessary — she eventually became a folk hero to the underprivileged. Hoping to watch her eat her words and collapse under the pressure of imperial politics, the Crown offered her chief management over all agriculture in the position of Argonomist. Much to their chagrin, she’s proven both driven and capable, pushing for advanced change in the empire. Unable to discard someone so high profile during a time of general unrest, the Crown instead endures her work while attempting to bury her in red tape.

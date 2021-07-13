@@ -1,0 +1,5 @@
+### High Curator Yudala Fon, Herald of the Rexxentrum Archive
+
+_Lawful good, agender half-elf_
+
+Yudala is a wise and respected figure who has spent most of their life fighting to protect and maintain the Rexxentrum Archive. They have mastered the art of parrying the Crown’s and the assembly’s attempts to subjugate the Archive and bring it under state control. For nearly two decades, they have been engaged in a battle of wills with the infuriated Theolocrat Kon Bruda — and they fear that Kon’s patience is at an end. His vengeance will be elaborate, exacting, and swift, or so Yudala fears. Their network of spies and expositors is frantically seeking to find and publicize evidence of Kon’s unlawful dealings and end the feud before it escalates further.

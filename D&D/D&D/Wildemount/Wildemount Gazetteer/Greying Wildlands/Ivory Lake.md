@@ -1,0 +1,3 @@
+### Ivory Lake
+
+Fed by the annual snow melt and heavy rains that wash across the Flotket Alps, Ivory Lake is the largest source of standing fresh water in the region. Many creatures throughout the Rime Plains make their way to the lake during the summer when the waters are thawed and the fish are plentiful. The banks of the lake are dangerous for smaller beasts and humanoids alike, as wyverns and other predators lie in wait to gorge on unsuspecting travelers.
