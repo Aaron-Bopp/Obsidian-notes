@@ -7,6 +7,9 @@ note-type:
 
 ---
 
+
+https://docs.github.com/en/github/copilot/research-recitation#github-copilot-parrot-or-crow #TO/EXPLORE/READ 
+
 [[2021-06-27]] 09:49
 [[EvergreenNotes/2021-06-14.md]]: #TO/EXPLORE/READ That's not what I meant Deborah tannon #TO/EXPLORE/READ Erickson child development #TO/EXPLORE/READ Thanks for the feedback Sheila Heen
 

@@ -20,15 +20,11 @@ clear_links = False
 all_text= False
 
 
-def link_title(title, txt):
+def link_title(title, txt, alias='', link_all=True):
     updated_txt = txt
     # find instances of the title where it's not surrounded by [], | or other letters
     matches = re.finditer('(?<!([\[\w\|]))' + re.escape(title.lower()) + '(?!([\|\]\w]))', txt.lower())
     offset = 0 # track the offset of our matches (start index) due to document modifications
-    if '# ' in txt or '::' in txt:
-        print(list(matches))
-        return txt
-    
     
     for m in matches:
         # get the original text to link
@@ -46,7 +42,7 @@ def link_title(title, txt):
             if (next_opening_index == -1 and next_closing_index == -1) or (next_opening_index < next_closing_index):
                 updated_title = title
                 # handle aliases
-                if title in page_aliases: updated_title = page_aliases[title]
+                if alias != '': updated_title = alias
                 # handle the display text if it doesn't match the page title
                 if txt_to_link != updated_title: updated_title += '|' + txt_to_link
                 # create the link and update our text
@@ -54,7 +50,7 @@ def link_title(title, txt):
                 # change our offset due to modifications to the document
                 offset = offset + (len(updated_title) + 4 - len(txt_to_link))  # pairs of double brackets adds 4 chars
                 # if wikipedia mode is on, return after first link is created
-                if wikipedia_mode: return updated_txt
+                if not link_all: return updated_txt
             
     return updated_txt
 
@@ -73,11 +69,60 @@ def link_content(content):
             if len(updated_txt) != len(content):
                 content = updated_txt
                 print("linked %s" % page_title)
-
-            # lowercase our updated text for the next round of search
-            content_low = content.lower()        
-    
     return content
+
+
+def get_vault_titles(obsidian_home, get_aliases=True, get_uncreated=True):
+    """
+    get a directory listing of obsidian *.md files
+    use it to build our list of titles and aliases
+    returns:
+        list of page_titles
+        dict of aliases for with keys of page_titles
+    """
+    page_titles = []
+    generated_aliases = {}
+    for root, dirs, files in os.walk(obsidian_home):
+        for file in files:
+            # ignore any 'dot' folders (.trash, .obsidian, etc.)
+            if file.endswith('.md') and '\\.' not in root and '/.' not in root:
+                page_title = re.sub(r'\.md$', '', file)
+                print(page_title)
+                page_titles.append(page_title)
+                
+                # load yaml frontmatter and parse aliases
+                if (get_aliases):
+                    try:
+                        with open(root + "/" + file, encoding="utf-8") as f:
+                            print(file)
+                            fm = frontmatter.load(f)
+                            
+                            if fm and 'aliases' in fm:
+                                print(fm['aliases'])
+                                generated_aliases[page_title] = fm['aliases']
+                    except yaml.YAMLError as exc:
+                        print(f"{exc} while processing frontmatter in {file}")
+                if (get_uncreated):
+                    pass       
+    return page_titles, generated_aliases
+                
+
+def regenerate_aliases_file(obsidian_home):
+    page_titles, aliases = get_vault_titles(obsidian_home)
+    aliases_file_path = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
+    with open(aliases_file, "w", encoding="utf-8") as af:
+        for title in generated_aliases:
+            try:
+                af.write(title + ":\n" if yaml_mode else "[[" + title + "]]:\n")
+                print(title)
+                for alias in generated_aliases[title]:
+                    af.write("- " + alias + "\n")
+            except TypeError:
+                pass
+                print(alias)
+            af.write("\n")
+        if not yaml_mode: af.write("aliases:\n- ")
+    return aliases_file_path
 
 
 # main entry point
@@ -117,55 +162,13 @@ else:
     print("-t = perform replacements on all text in vault")
     exit()
 
-aliases_file = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
+page_titles, page_aliases = get_vault_titles(obsidian_home)
 
-# get a directory listing of obsidian *.md files
-# use it to build our list of titles and aliases
-for root, dirs, files in os.walk(obsidian_home):
-    for file in files:
-        # ignore any 'dot' folders (.trash, .obsidian, etc.)
-        if file.endswith('.md') and '\\.' not in root and '/.' not in root:
-            page_title = re.sub(r'\.md$', '', file)
-            print(page_title)
-            page_titles.append(page_title)
-            
-            # load yaml frontmatter and parse aliases
-            if regenerate_aliases:
-                try:
-                    with open(root + "/" + file, encoding="utf-8") as f:
-                        print(file)
-                        fm = frontmatter.load(f)
-                        
-                        if fm and 'aliases' in fm:
-                            print(fm['aliases'])
-                            generated_aliases[page_title] = fm['aliases']
-                except yaml.YAMLError as exc:
-                    print("Error processing aliases in file: " + file)
-                    exit()
-
-# if -r passed on command line, regenerate aliases.yml
-# this is only necessary if new aliases are present
 if regenerate_aliases:
-    with open(aliases_file, "w", encoding="utf-8") as af:
-        for title in generated_aliases:
-            af.write(title + ":\n" if yaml_mode else "[[" + title + "]]:\n")
-            print(title)
-            try:
-                for alias in generated_aliases[title]:
-                    af.write("- " + alias + "\n")
-            except TypeError:
-                pass
-                print(alias)
-            # if title in generated_aliases:
-            #     try: 
-            #         for alias in generated_aliases[title]:
-            #             af.write("- " + alias + "\n")
-            #           print(alias)
-            #     except TypeError:
-            #         pass
-            af.write("\n")
-        if not yaml_mode: af.write("aliases:\n- ")
-
+    aliases_file = regenerate_aliases_file(obsidian_home)
+else:
+    aliases_file = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
+    
 # load the aliases file
 # we pivot (invert) the dict for lookup purposes
 if os.path.isfile(aliases_file):
@@ -203,65 +206,30 @@ for alias in page_aliases:
 page_titles = sorted(page_titles, key=lambda x: len(x), reverse=True)
 
 # get text from clipboard
-if (all_text):
-    print("hit")
-    for root, dirs, files in os.walk(obsidian_home):
-        for file in files:
-            # ignore any 'dot' folders (.trash, .obsidian, etc.)
-            print(file)
-            if file.endswith('.md') and '\\.' not in root and '/.' not in root and "aliases" not in file:
-                with open(root + "/" + file, 'r', encoding="utf-8") as f:
-                    unlinked_txt = f.read()
-                    
-                    start_of_yaml = unlinked_txt.find("---", 0, 10)
-                    end_of_yaml = unlinked_txt.find("---", start_of_yaml)
-                    base_yaml = ""
-                    if start_of_yaml > -1:
-                        base_yaml += unlinked_txt[start_of_yaml+4: end_of_yaml]
-                    unlinked_txt = unlinked_txt[end_of_yaml+3:]
+clip_txt = pyperclip.paste()
+#print('--- clipboard text ---')
+#print(clip_txt)
+print('----------------------')
 
-                with open(root + "/" + file, 'w', encoding="utf-8") as f:
-                    print(file)
-                    if (clear_links):
-                        unlinked_txt = unlinkr.unlink_text(unlinked_txt)
-                    
-                    linked_txt = ""
+# unlink text prior to processing if enabled
+if (clear_links):
+    clip_txt = unlinkr.unlink_text(clip_txt)
+    #print('--- text after scrubbing links ---')
+    #print(clip_txt)
+    #print('----------------------')
 
-                    if paragraph_mode:
-                        for paragraph in unlinked_txt.split("\n"):
-                            linked_txt += link_content(paragraph) + "\n"
-                        linked_txt = linked_txt[:-1] # scrub the last newline
-                    else:
-                        for paragraph in unlinked_txt.split("\n"):
-                            linked_txt += link_content(paragraph) + "\n"
-                        linked_txt = linked_txt[:-1] # scrub the last newline
-                    
-                    f.write(f"---\n{base_yaml}---\n{linked_txt}")
+# prepare our linked text output
+linked_txt = ""
+
+if paragraph_mode:
+    for paragraph in clip_txt.split("\n"):
+        linked_txt += link_content(paragraph) + "\n"
+    linked_txt = linked_txt[:-1] # scrub the last newline
 else:
-    clip_txt = pyperclip.paste()
-    #print('--- clipboard text ---')
-    #print(clip_txt)
-    print('----------------------')
+    linked_txt = link_content(clip_txt)
 
-    # unlink text prior to processing if enabled
-    if (clear_links):
-        clip_txt = unlinkr.unlink_text(clip_txt)
-        #print('--- text after scrubbing links ---')
-        #print(clip_txt)
-        #print('----------------------')
-
-    # prepare our linked text output
-    linked_txt = ""
-
-    if paragraph_mode:
-        for paragraph in clip_txt.split("\n"):
-            linked_txt += link_content(paragraph) + "\n"
-        linked_txt = linked_txt[:-1] # scrub the last newline
-    else:
-        linked_txt = link_content(clip_txt)
-
-    # send the linked text to the clipboard
-    pyperclip.copy(linked_txt)
-    #print(clip_txt)
-    print('----------------------')
-    print('linked text copied to clipboard')
+# send the linked text to the clipboard
+pyperclip.copy(linked_txt)
+#print(clip_txt)
+print('----------------------')
+print('linked text copied to clipboard')

@@ -36,5 +36,6 @@
   "readableLineLength": false,
   "fileSortOrder": "alphabetical",
   "newFileFolderPath": "0",
+  "mobilePullAction": "templater-obsidian:insert-templater",
   "showFrontmatter": true
 }

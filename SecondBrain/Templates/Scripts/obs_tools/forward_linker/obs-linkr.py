@@ -1,4 +1,5 @@
 # pip3 install pyperclip pyyaml python-frontmatter
+from typing import Type
 import frontmatter
 import pyperclip
 import yaml
@@ -16,9 +17,10 @@ paragraph_mode = False
 yaml_mode = False
 regenerate_aliases = False
 clear_links = False
+all_text= False
 
 
-def link_title(title, txt):
+def link_title(title, txt, alias='', link_all=True):
     updated_txt = txt
     # find instances of the title where it's not surrounded by [], | or other letters
     matches = re.finditer('(?<!([\[\w\|]))' + re.escape(title.lower()) + '(?!([\|\]\w]))', txt.lower())
@@ -40,7 +42,7 @@ def link_title(title, txt):
             if (next_opening_index == -1 and next_closing_index == -1) or (next_opening_index < next_closing_index):
                 updated_title = title
                 # handle aliases
-                if title in page_aliases: updated_title = page_aliases[title]
+                if alias != '': updated_title = alias
                 # handle the display text if it doesn't match the page title
                 if txt_to_link != updated_title: updated_title += '|' + txt_to_link
                 # create the link and update our text
@@ -48,7 +50,7 @@ def link_title(title, txt):
                 # change our offset due to modifications to the document
                 offset = offset + (len(updated_title) + 4 - len(txt_to_link))  # pairs of double brackets adds 4 chars
                 # if wikipedia mode is on, return after first link is created
-                if wikipedia_mode: return updated_txt
+                if not link_all: return updated_txt
             
     return updated_txt
 
@@ -67,11 +69,60 @@ def link_content(content):
             if len(updated_txt) != len(content):
                 content = updated_txt
                 print("linked %s" % page_title)
-
-            # lowercase our updated text for the next round of search
-            content_low = content.lower()        
-    
     return content
+
+
+def get_vault_titles(obsidian_home, get_aliases=True, get_uncreated=True):
+    """
+    get a directory listing of obsidian *.md files
+    use it to build our list of titles and aliases
+    returns:
+        list of page_titles
+        dict of aliases for with keys of page_titles
+    """
+    page_titles = []
+    generated_aliases = {}
+    for root, dirs, files in os.walk(obsidian_home):
+        for file in files:
+            # ignore any 'dot' folders (.trash, .obsidian, etc.)
+            if file.endswith('.md') and '\\.' not in root and '/.' not in root:
+                page_title = re.sub(r'\.md$', '', file)
+                print(page_title)
+                page_titles.append(page_title)
+                
+                # load yaml frontmatter and parse aliases
+                if (get_aliases):
+                    try:
+                        with open(root + "/" + file, encoding="utf-8") as f:
+                            print(file)
+                            fm = frontmatter.load(f)
+                            
+                            if fm and 'aliases' in fm:
+                                print(fm['aliases'])
+                                generated_aliases[page_title] = fm['aliases']
+                    except yaml.YAMLError as exc:
+                        print(f"{exc} while processing frontmatter in {file}")
+                if (get_uncreated):
+                    pass       
+    return page_titles, generated_aliases
+                
+
+def regenerate_aliases_file(obsidian_home):
+    page_titles, aliases = get_vault_titles(obsidian_home)
+    aliases_file_path = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
+    with open(aliases_file, "w", encoding="utf-8") as af:
+        for title in generated_aliases:
+            try:
+                af.write(title + ":\n" if yaml_mode else "[[" + title + "]]:\n")
+                print(title)
+                for alias in generated_aliases[title]:
+                    af.write("- " + alias + "\n")
+            except TypeError:
+                pass
+                print(alias)
+            af.write("\n")
+        if not yaml_mode: af.write("aliases:\n- ")
+    return aliases_file_path
 
 
 # main entry point
@@ -98,6 +149,8 @@ if len(sys.argv) > 1:
                 yaml_mode = True
             elif flag == "-u":
                 clear_links = True
+            elif flag == "-t":
+                all_text = True
 
 else:
     print("usage - python obs-link.py <path to obsidian vault> [-r] [-y] [-w / -p]")
@@ -106,47 +159,16 @@ else:
     print("-w = only the first occurrence of a page title (or alias) in the content will be linked ('wikipedia mode')")
     print("-p = only the first occurrence of a page title (or alias) in each paragraph will be linked ('paragraph mode')")
     print("-u = remove existing links in clipboard text before performing linking")
+    print("-t = perform replacements on all text in vault")
     exit()
 
-aliases_file = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
+page_titles, page_aliases = get_vault_titles(obsidian_home)
 
-# get a directory listing of obsidian *.md files
-# use it to build our list of titles and aliases
-for root, dirs, files in os.walk(obsidian_home):
-    for file in files:
-        # ignore any 'dot' folders (.trash, .obsidian, etc.)
-        if file.endswith('.md') and '\\.' not in root and '/.' not in root:
-            page_title = re.sub(r'\.md$', '', file)
-            #print(page_title)
-            page_titles.append(page_title)
-            
-            # load yaml frontmatter and parse aliases
-            if regenerate_aliases:
-                try:
-                    with open(root + "/" + file, encoding="utf-8") as f:
-                        #print(file)
-                        fm = frontmatter.load(f)
-                        
-                        if fm and 'aliases' in fm:
-                            #print(fm['aliases'])
-                            generated_aliases[page_title] = fm['aliases']
-                except yaml.YAMLError as exc:
-                    print("Error processing aliases in file: " + file)
-                    exit()
-
-# if -r passed on command line, regenerate aliases.yml
-# this is only necessary if new aliases are present
 if regenerate_aliases:
-    with open(aliases_file, "w", encoding="utf-8") as af:
-        for title in generated_aliases:
-            af.write(title + ":\n" if yaml_mode else "[[" + title + "]]:\n")
-            #print(title)
-            for alias in generated_aliases[title]:
-                af.write("- " + alias + "\n")
-                #print(alias)
-            af.write("\n")
-        if not yaml_mode: af.write("aliases:\n- ")
-
+    aliases_file = regenerate_aliases_file(obsidian_home)
+else:
+    aliases_file = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
+    
 # load the aliases file
 # we pivot (invert) the dict for lookup purposes
 if os.path.isfile(aliases_file):

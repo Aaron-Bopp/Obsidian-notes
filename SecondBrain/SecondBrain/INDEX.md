@@ -24,9 +24,9 @@ This is a constantly updated index of entry points and topics for my personal fl
 - ![[Dataview#Get number notes with every note-type]]
 
 # Topic Outlines
-- ![[personal knowledge management#personal knowledge management length personal knowledge management file inlinks]] 
-- ![[mental health#mental health length mental health file inlinks]]
-- ![[Neuroscience#this file link length this file inlinks]]
-- ![[Christianity#this file link length this file inlinks]]
-- [[Obsidian (software)]]
+### ![[personal knowledge management#personal knowledge management length personal knowledge management file inlinks]] 
+### ![[mental health#mental health length mental health file inlinks]]
+### ![[Neuroscience#this file link length this file inlinks]]
+### ![[Christianity#this file link length this file inlinks]]
+### [[Obsidian (software)]]
 
