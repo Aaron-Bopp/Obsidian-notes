@@ -11,15 +11,15 @@ bib:
 ---
 
 - [[1960's General Notes]]
-- Youth Revolt
+- Youth [[Revolt]]
      - Anti War - non-college students could be drafted, college students could nto
           - Broad wave of dissatisfaction among young middle class white Americans
-          - Counter-culture
+          - [[Counter-culture]]
                - hippie movement
-                    - Eastern mysticism was popular
+                    - [[eastern philosophy|Eastern mysticism]] was popular
                     - Woodstock
                     - rejection of traditional politics authority and morality
-               - New Left students for Democratic Soceity (SDS)
+               - [[The Left|New Left]] students for [[Democratic]] Soceity (SDS)
                     - Port Huron Statement
                     - In support of direct democracy
                     - Free Speech Movement (FSM)
@@ -33,24 +33,24 @@ bib:
                     - build different society through violence
           - Nixon changed policies to make draft process more "fair"
           - Anti-war movement could not be quelled
-- Veterans return from the war
+- [[Veteran]]s return from the war
      - Met with disgust and hate from anti-war movement
      - Vietnam Vets against the war
-          - War must end immediately
+          - [[War]] must end immediately
           - stand up to govt is most important responsibility
      - John Carry
           - Spoke to the pointlessness of the Vietnam War
           - Painted a picture of violence done by american soldiers
                - brought a lot of hate from other people in the military who claimed it was extreme cases
-     - The pentagon Papers
+     - The [[Pentagon]] Papers
           - History of Vietnam Policy
                - commisioned by secretary of war because he was uncomfortable with the war
                - detailed how LBJ had hidden elements of the war from congress
           - Nixon tried to silence it
           - anti-war sentiment only grew stronger
      - Impact of vietnam under north vietnamese leadership
-          - US policy for Asia in shambles
-          - Changes in view of Cold War
+          - [[US Policy]] for Asia in shambles
+          - Changes in view of [[The Cold War]]
                - doesn't need to be direct involvement
           - PTSD and health concerns due to to tactics used in the war
      - Nixon and Vietnam
@@ -75,7 +75,7 @@ bib:
                     - regressive
                     - small government
                     - fiscally conservative
-               - democrats
+               - [[Democrat]]
                     - civil rights
                     - social rights
      - Foreign policy
@@ -124,7 +124,7 @@ bib:
       - Hoover of 1970s
       - Vetoed 39 bills
       - Pardoned Nixon
-- Carter
+- [[Jimmy Carter]]
      - Election of 1976
           - half of americans didn't vote
           - outsider

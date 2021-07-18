@@ -14,7 +14,7 @@ note-type:
 
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: [[christianity]], [[modern american culture]], [[social progress]], [[Civil Rights]], [[Homophobia]], [[racism]], [[American Conservatism]]
+**Related-Topics**:: [[christianity]], [[modern american culture]], [[social progress]], [[Civil Rights]], [[Homophobia]], [[racism]], [[Conservatism]]
 	
 **Last Edited**:: *`=[[The many transgressions of the christian church]].file.mtime`*
 	

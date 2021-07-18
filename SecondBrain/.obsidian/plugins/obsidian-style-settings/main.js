@@ -3587,6 +3587,7 @@ function createHeading(opts) {
         if (opts.config.collapsed)
             setting.settingEl.addClass("is-collapsed");
         setting.settingEl.dataset.level = opts.config.level.toString();
+        setting.settingEl.dataset.id = opts.config.id;
         const iconContainer = createSpan({
             cls: "style-settings-collapse-indicator",
         });
@@ -3620,6 +3621,9 @@ function createClassToggle(opts) {
                 document.body.classList.remove(config.id);
             }
         });
+    })
+        .then((setting) => {
+        setting.settingEl.dataset.id = opts.config.id;
     });
 }
 function createVariableText(opts) {
@@ -3648,6 +3652,9 @@ function createVariableText(opts) {
             settingsManager.clearSetting(sectionId, config.id);
         });
         b.setTooltip(resetTooltip);
+    })
+        .then((setting) => {
+        setting.settingEl.dataset.id = opts.config.id;
     });
 }
 function createVariableNumber(opts) {
@@ -3677,6 +3684,9 @@ function createVariableNumber(opts) {
             settingsManager.clearSetting(sectionId, config.id);
         });
         b.setTooltip(resetTooltip);
+    })
+        .then((setting) => {
+        setting.settingEl.dataset.id = opts.config.id;
     });
 }
 function createVariableNumberSlider(opts) {
@@ -3707,6 +3717,9 @@ function createVariableNumberSlider(opts) {
             settingsManager.clearSetting(sectionId, config.id);
         });
         b.setTooltip(resetTooltip);
+    })
+        .then((setting) => {
+        setting.settingEl.dataset.id = opts.config.id;
     });
 }
 function createVariableSelect(opts) {
@@ -3735,6 +3748,9 @@ function createVariableSelect(opts) {
             settingsManager.clearSetting(sectionId, config.id);
         });
         b.setTooltip(resetTooltip);
+    })
+        .then((setting) => {
+        setting.settingEl.dataset.id = opts.config.id;
     });
 }
 function getPickrSettings(opts) {
@@ -3786,6 +3802,7 @@ function createVariableColor(opts) {
         .setName(config.title)
         .setDesc(createDescription(config.description, config.default))
         .then((setting) => {
+        setting.settingEl.dataset.id = opts.config.id;
         pickr = Pickr.create(getPickrSettings({
             el: setting.controlEl.createDiv({ cls: "picker" }),
             containerEl,
@@ -3852,6 +3869,7 @@ function createVariableThemedColor(opts) {
     new obsidian.Setting(containerEl)
         .setName(config.title)
         .then((setting) => {
+        setting.settingEl.dataset.id = opts.config.id;
         // Construct description
         setting.descEl.createSpan({}, (span) => {
             if (config.description) {

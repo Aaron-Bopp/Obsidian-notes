@@ -12,7 +12,7 @@ bib:
 ---
 
 - #Def Rejection Sensitivity - The tendency to anixously expect, readily perceive, and intensely react to rejection 
-     - Connected to [[gender dysphoria]], [[depression]], [[anxiety]], [[borderline personality disorder]]
+     - Connected to [[gender dysphoria]], [[depression]], [[BPD]]ty disorder]]
      - caused by: Repeated instances of rejection
      - it doesn't matter what the rejection is it matters who intense the response is
      - People with rejection sensitivity more easily go into fight, flight, or freeze
@@ -26,12 +26,12 @@ bib:
                     - green => face head on
           - reflect and reframe
                - first thoughts aren't often correct
-     - Sometimes rejection isn't rejection its just disappointment
+     - Sometimes rejection is[[BPD]]nt
 
 
 ---
 
-**Related-Topics**:: [[ADHD]], [[gender dysphoria]], [[depression]], [[anxiety]], [[borderline personality disorder]]
+**Related-Topics**:: [[ADHD]], [[gender dysphoria]], [[depression]], [[anxiety]], [[BPD]]
 	
 **Sub-Topics**::
 	

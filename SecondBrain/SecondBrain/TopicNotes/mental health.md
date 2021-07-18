@@ -24,10 +24,10 @@ note-type:
 
 ^79d947
 
-- ![[anxiety#this file link length this file inlinks]]
-- ![[ADHD#ADHD length ADHD file inlinks]]
-- ![[trauma#trauma length trauma file inlinks]]
 - [[mental disorders]]
+	- ![[anxiety#this file link length this file inlinks]]
+	- ![[ADHD#ADHD length ADHD file inlinks]]
+	- ![[trauma#trauma length trauma file inlinks]]
 - ![[self-improvement#self-improvement length this file inlinks]]
 - Techniques to improve mental health
 	- [[Tips for concentration]]

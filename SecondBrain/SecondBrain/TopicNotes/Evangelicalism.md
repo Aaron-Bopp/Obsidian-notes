@@ -6,6 +6,9 @@ note-type:
 - topic-note
 aliases:
 - evangelical christianity
+- fundamentalist 
+- fundamentalism
+- 
 ---
 
 ###### [[Evangelicalism]]

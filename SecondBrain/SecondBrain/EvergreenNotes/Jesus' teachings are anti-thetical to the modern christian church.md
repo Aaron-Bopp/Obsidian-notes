@@ -13,7 +13,7 @@ Jesus was a radical socialist who fought against power for oppressed people usin
 
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: [[Christianity]], [[Evangelicalism]], [[Marxism]], [[social progress]],  [[Civil Rights]], [[American Conservatism]]
+**Related-Topics**:: [[Christianity]], [[Evangelicalism]], [[Marxism]], [[social progress]],  [[Civil Rights]], [[Conservatism]]
 	
 **Last Edited**:: *`=[[Jesus' teachings are anti-thetical to the modern christian church]].file.mtime`*
 	

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8bfa259938fd3d",
+        "id": "8ec136f36771035b",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "segre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,14 +73,6 @@
             }
           },
           {
-            "id": "2d8c68d8e6fe84c6",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-matrix",
-              "state": {}
-            }
-          },
-          {
             "id": "e5b4565528193b1b",
             "type": "leaf",
             "state": {
@@ -104,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471
+    "width": 471,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -211,25 +204,42 @@
                 }
               }
             }
+          },
+          {
+            "id": "24b0e86e831057a2",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "0dcf928768542278",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 1168,
     "collapsed": true
   },
-  "active": "8b8bfa259938fd3d",
+  "active": "8ec136f36771035b",
   "lastOpenFiles": [
-    "SecondBrain/TopicNotes/self-hate.md",
-    "SecondBrain/EvergreenNotes/your anxiety knows your insecurities better than you do.md",
-    "SecondBrain/EvergreenNotes/My self-image is purely based on other's perceptions of me.md",
-    "SecondBrain/TopicNotes/my emotions.md",
-    "SecondBrain/TopicNotes/defense-mechanisms.md",
-    "SecondBrain/INDEX.md",
-    "SecondBrain/TopicNotes/self-love.md",
-    "SecondBrain/TopicNotes/self-improvement.md",
-    "SecondBrain/TopicNotes/mental health.md",
-    "SecondBrain/EvergreenNotes/Happiness is enlightenment and sadness is delusion.md"
+    "love.md",
+    "PTSD.md",
+    "free-will.md",
+    "inter-generational trauma.md",
+    "Happiness.md",
+    "DrMike.md",
+    "DrK.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "API.md"
   ]
 }

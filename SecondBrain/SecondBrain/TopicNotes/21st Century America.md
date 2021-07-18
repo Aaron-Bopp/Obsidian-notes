@@ -6,7 +6,6 @@ note-type:
 - topic-note
 
 ---
-testing
 - America's changing population
     - Ethnic makeup of America is majorly shifting
         - majority minority by 2050

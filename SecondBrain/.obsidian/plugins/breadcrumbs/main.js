@@ -1,7 +1,6 @@
 'use strict';
 
 var obsidian = require('obsidian');
-require('dns');
 
 var commonjsGlobal = typeof globalThis !== 'undefined' ? globalThis : typeof window !== 'undefined' ? window : typeof global !== 'undefined' ? global : typeof self !== 'undefined' ? self : {};
 
@@ -6322,7 +6321,6 @@ function getFields(fileFrontmatter, field, settings) {
             debug(settings, link);
             return (_b = (_a = link === null || link === void 0 ? void 0 : link.path) === null || _a === void 0 ? void 0 : _a.split("/").last()) !== null && _b !== void 0 ? _b : ((_c = link === null || link === void 0 ? void 0 : link.split("/").last()) !== null && _c !== void 0 ? _c : (''));
         })) !== null && _e !== void 0 ? _e : [];
-        debug(settings, { links });
         return links;
     }
 }
@@ -8412,7 +8410,11 @@ class MatrixView extends obsidian.ItemView {
         return Promise.resolve();
     }
     resolvedClass(toFile, currFile) {
-        return this.app.metadataCache.unresolvedLinks[currFile.path][toFile] > 0
+        const { unresolvedLinks } = this.app.metadataCache;
+        if (!unresolvedLinks[currFile.path]) {
+            return "internal-link breadcrumbs-link";
+        }
+        return unresolvedLinks[currFile.path][toFile] > 0
             ? "internal-link is-unresolved breadcrumbs-link"
             : "internal-link breadcrumbs-link";
     }
@@ -8440,18 +8442,9 @@ class MatrixView extends obsidian.ItemView {
         return internalLinkObjArr;
     }
     // ANCHOR Remove duplicate implied links
-    removeDuplicateImplied(real, implied) {
-        const impliedTos = implied.map((impliedObj, i) => [
-            impliedObj.to,
-            i,
-        ]);
-        real.forEach((realItem) => {
-            impliedTos.forEach((impliedTo) => {
-                if (impliedTo[0] === realItem.to) {
-                    implied.splice(impliedTo[1], 1);
-                }
-            });
-        });
+    removeDuplicateImplied(reals, implieds) {
+        const realTos = reals.map(real => real.to);
+        return implieds.filter(implied => !realTos.includes(implied.to));
     }
     dfsAllPaths(g, startNode) {
         var _a;
@@ -8510,7 +8503,6 @@ class MatrixView extends obsidian.ItemView {
                 }
             }
         });
-        console.log({ visited });
         // !SECTION Create Index
         const viewToggleButton = this.contentEl.createEl("button", {
             text: this.matrixQ ? "List" : "Matrix",
@@ -8529,7 +8521,7 @@ class MatrixView extends obsidian.ItemView {
             settings.showNameOrType ? settings.siblingFieldName : "Sibling",
             settings.showNameOrType ? settings.childFieldName : "Child",
         ];
-        const [realParents, realSiblings, realChildren, impliedParents, impliedChildren,] = [
+        let [realParents, realSiblings, realChildren, impliedParents, impliedChildren,] = [
             this.squareItems(gParents, currFile),
             this.squareItems(gSiblings, currFile),
             this.squareItems(gChildren, currFile),
@@ -8539,7 +8531,7 @@ class MatrixView extends obsidian.ItemView {
         // SECTION Implied Siblings
         /// Notes with the same parents
         const currParents = ((_a = gParents.successors(currFile.basename)) !== null && _a !== void 0 ? _a : []);
-        const impliedSiblingsArr = [];
+        let impliedSiblingsArr = [];
         if (currParents.length) {
             currParents.forEach((parent) => {
                 var _a;
@@ -8559,9 +8551,9 @@ class MatrixView extends obsidian.ItemView {
         /// A real sibling implies the reverse sibling
         impliedSiblingsArr.push(...this.squareItems(gSiblings, currFile, false));
         // !SECTION
-        this.removeDuplicateImplied(realParents, impliedParents);
-        this.removeDuplicateImplied(realSiblings, impliedSiblingsArr);
-        this.removeDuplicateImplied(realChildren, impliedChildren);
+        impliedParents = this.removeDuplicateImplied(realParents, impliedParents);
+        impliedSiblingsArr = this.removeDuplicateImplied(realSiblings, impliedSiblingsArr);
+        impliedChildren = this.removeDuplicateImplied(realChildren, impliedChildren);
         debug(settings, { realParents, impliedParents, realSiblings, impliedSiblingsArr, realChildren, impliedChildren });
         const parentsSquare = {
             realItems: realParents,
@@ -8631,7 +8623,7 @@ function get_each_context_1$1(ctx, list, i) {
 	return child_ctx;
 }
 
-// (62:4) {#each allRuns[i] as step}
+// (61:4) {#each allRuns[i] as step}
 function create_each_block_1$1(ctx) {
 	let div;
 	let t0_value = /*step*/ ctx[20].value + "";
@@ -8691,7 +8683,7 @@ function create_each_block_1$1(ctx) {
 	};
 }
 
-// (60:0) {#each transposedTrails as col, i}
+// (59:0) {#each transposedTrails as col, i}
 function create_each_block$1(ctx) {
 	let each_1_anchor;
 	let each_value_1 = /*allRuns*/ ctx[8][/*i*/ ctx[19]];
@@ -8863,8 +8855,6 @@ function instance$1($$self, $$props, $$invalidate) {
 	allCells.forEach((cell, i) => {
 		$$invalidate(2, children[cell] = normalisedData[i], children);
 	});
-
-	console.log(children);
 
 	// const normalisedData = allCells.forEach(cell => {
 	// })
@@ -9393,7 +9383,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         console.log("loading breadcrumbs plugin");
         await this.loadSettings();
         this.visited = [];
-        this.registerView(VIEW_TYPE_BREADCRUMBS_MATRIX, (leaf) => (this.matrixView = new MatrixView(leaf, this)));
+        this.registerView(VIEW_TYPE_BREADCRUMBS_MATRIX, (leaf) => (new MatrixView(leaf, this)));
         this.app.workspace.onLayoutReady(async () => {
             // this.trailDiv = createDiv()
             setTimeout(async () => {
@@ -9405,7 +9395,10 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                 this.registerEvent(this.app.workspace.on("active-leaf-change", async () => {
                     this.currGraphs = await this.initGraphs();
                     debug(this.settings, this.currGraphs);
-                    await this.matrixView.draw();
+                    const activeView = this.getActiveView();
+                    if (activeView) {
+                        await activeView.draw();
+                    }
                     if (this.settings.showTrail) {
                         await this.drawTrail();
                     }
@@ -9417,8 +9410,9 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                         if (this.settings.showTrail) {
                             await this.drawTrail();
                         }
-                        if (this.matrixView) {
-                            await this.matrixView.draw();
+                        const activeView = this.getActiveView();
+                        if (activeView) {
+                            await activeView.draw();
                         }
                     }, this.settings.refreshIntervalTime * 1000);
                     this.registerInterval(this.refreshIntervalID);
@@ -9438,6 +9432,16 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             },
         });
         this.addSettingTab(new BreadcrumbsSettingTab(this.app, this));
+    }
+    getActiveView() {
+        const leaves = this.app.workspace.getLeavesOfType(VIEW_TYPE_BREADCRUMBS_MATRIX);
+        if (leaves && leaves.length >= 1) {
+            const view = leaves[0].view;
+            if (view instanceof MatrixView) {
+                return view;
+            }
+        }
+        return null;
     }
     // SECTION OneSource
     populateGraph(g, currFileName, neighbours, relationship) {
@@ -9463,7 +9467,11 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
     // !SECTION OneSource
     // SECTION Breadcrumbs
     resolvedClass(toFile, currFile) {
-        return this.app.metadataCache.unresolvedLinks[currFile.path][toFile] > 0
+        const { unresolvedLinks } = this.app.metadataCache;
+        if (!unresolvedLinks[currFile.path]) {
+            return "internal-link breadcrumbs-link";
+        }
+        return unresolvedLinks[currFile.path][toFile] > 0
             ? "internal-link is-unresolved breadcrumbs-link"
             : "internal-link breadcrumbs-link";
     }
@@ -9513,7 +9521,11 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         return pathsArr;
     }
     getBreadcrumbs(g) {
-        const from = this.app.workspace.getActiveFile().basename;
+        const currFile = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView).file;
+        if (currFile.extension !== 'md') {
+            return null;
+        }
+        const from = currFile.basename;
         const paths = graphlib.alg.dijkstra(g, from);
         const indexNotes = [this.settings.indexNote].flat();
         const allTrails = [];
@@ -9556,7 +9568,11 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         if (!this.settings.showTrail) {
             return;
         }
-        const currFile = this.app.workspace.getActiveFile();
+        const activeMDView = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
+        if (!activeMDView) {
+            return;
+        }
+        const currFile = activeMDView.file;
         const frontm = (_b = (_a = this.app.metadataCache.getFileCache(currFile)) === null || _a === void 0 ? void 0 : _a.frontmatter) !== null && _b !== void 0 ? _b : {};
         if (frontm['kanban-plugin']) {
             return;
@@ -9564,16 +9580,20 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         const { gParents, gChildren } = this.currGraphs;
         const closedParents = closeImpliedLinks(gParents, gChildren);
         const sortedTrails = this.getBreadcrumbs(closedParents);
+        if (!sortedTrails) {
+            return;
+        }
         const settings = this.settings;
         // Get the container div of the active note
-        const previewView = document.querySelector("div.mod-active div.view-content div.markdown-preview-view");
+        const previewView = activeMDView.contentEl.querySelector('.markdown-preview-view');
         (_c = previewView.querySelector('div.breadcrumbs-trail')) === null || _c === void 0 ? void 0 : _c.remove();
-        const trailDiv = createDiv();
-        previewView.prepend(trailDiv);
+        const trailDiv = createDiv({
+            cls: `breadcrumbs-trail ${settings.respectReadableLineLength
+                ? "is-readable-line-width markdown-preview-sizer markdown-preview-section"
+                : ""}`
+        });
+        // previewView.prepend(trailDiv)
         this.visited.push([currFile.path, trailDiv]);
-        trailDiv.className = `breadcrumbs-trail is-readable-line-width${settings.respectReadableLineLength
-            ? " markdown-preview-sizer markdown-preview-section"
-            : ""}`;
         previewView.prepend(trailDiv);
         trailDiv.empty();
         if (settings.trailOrTable === 1) {

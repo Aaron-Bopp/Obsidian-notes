@@ -9,10 +9,10 @@ embedded:
 ---
  
 <% tp.file.include("[[TITLE-ALLLINKS]]") %>
-<% tp.file.cursor() %><% tp.system.clipboard() %>
+
 
 **Status**:: #EVER/SEED 
-**Related-Topics**:: 
+**Related-Topics**:: <% tp.system.clipboard() %>
 <% tp.file.include("[[MODIFIED FIELD]]") %>
 <% tp.file.include("[[TITLE-TOPIC]]") %>
 - 

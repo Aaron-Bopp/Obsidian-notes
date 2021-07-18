@@ -18,12 +18,12 @@ bib:
             - Supreme Court ruled with Bush and stopped recount
         - Bush ran as compassionate conservative
     - Domestic Policy
-        - Compassionate conservatism
+        - Compassionate [[Conservatism]]
             - traditional conservative ideas + social goals
             - faith based and community initiatives
                 - qualms over separation of church and state
             - stem cell debate
-        - education reform
+        - education [[reform]]
             - 100% literacy or school got cut funding
             - controversial and repealed in 2015
         - tax cuts
@@ -40,7 +40,7 @@ bib:
             - emergency economic stabilization act
     - Foreign Policy
         - 9/11 erased any qualms over Bush's legitimacy and skyrocketed his approval rating
-        - War on Terror
+        - [[War on Terror]]
             - Operation Enduring Freedom
                 - use of special forces
                 - air campaign to destroy al-queda
@@ -67,7 +67,7 @@ bib:
                 - Used US bases on foreign soil to skirt US laws
                 - Called terrorists unlawful combatants to avoid Geneva Conventions
                 - Used water-boarding and sleep deprivation as torture-interrogation tactics
-- Obama
+- [[Obama]]
     - Election of 2008
         - Obama was unknown but charismatic
     - Domestic Policy
@@ -80,7 +80,7 @@ bib:
             - equal pay for women
             - dodd-frank act - addressed issues that caused 2008
     - Election of 2010
-        - [[republicans]] retook both houses
+        - [[Republican]]s retook both houses
         - both parties stopped pursuing legislative goals
     - Foreign Policy
         - Declared that he would end the wars

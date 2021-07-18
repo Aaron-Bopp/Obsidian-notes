@@ -11,11 +11,11 @@ bib:
 ---
 
 - [[1940's General Notes]]
-- 1950s - Conformity and Conflict and the Second Red Scare
+- [[1950s]] - Conformity and Conflict and the Second Red Scare
     - [[Second Red Scare Discussion]]
-    - Growth of middle class,  Suburbia and business (Baby Boomers)
-        - Baby Boomers - Lots of kids, lots of houses
-        - House ownership grew from 40% (pre 1940) to 60% (1960)
+    - Growth of [[middle class]],  [[Suburbia]] and [[business]] (Baby Boomers)
+        - [[Baby Boomers]] - Lots of kids, lots of houses
+        - [[House ownership]] grew from 40% (pre 1940) to 60% (1960)
             - GI Bill helped veterans get college education and house loans
             - Housing prices and education very affordable
         - focus on religion
@@ -39,8 +39,8 @@ bib:
                                 - drills were unhelpful
                 - All of this was to make people think they can do something and let them keep agency of their lives. If people lived in fear they wouldn't be able to live the American dream
 - [[Civil Rights]] Movement
-    - Segregation still a problem years after race focused ammendments
-    - Moving to cities (1920s)and WW veterans really helped to bring black people out of the south
+    - [[Segregation]] still a problem years after race focused ammendments
+    - Moving to cities (1920s)and WW2 veterans really helped to bring black people out of the south
     - [[Civil Rights]] Movement on hold during WW2
         - [Asa Philip Randolph](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj59Z66sIHwAhWLHM0KHRPGAJsQFjAAegQIBhAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FA._Philip_Randolph&usg=AOvVaw2DD1QbeJIrw3d-dg2xZTa9) called for a march on Washington in 1940 but Roosevelt asked to wait and said it was not the time
     - Truman supported [[Civil Rights]] movement and saw it was the governments job to set an example
@@ -52,9 +52,9 @@ bib:
                 - Thurgood Marshall and Robert Carter were prosecution
                 - John W Davis was defense attorney
                 - Universal decision decided that separate but equal was not constitutional
-                - Viewed as the second Magna Carta, the second Emancipation
+                - Viewed as the second Magna Carta, the second [[Emancipation]]
                 - Suggested that segregation itself was unconstitutional
-        - Emmitt Till - Murdered for talking to a white woman (breaking the unspoken laws of jim crow)
+        - [[Emmitt Till]] - Murdered for talking to a white woman (breaking the unspoken laws of jim crow)
             - He was brutally beaten to death and the world saw this at his open casket funeral
             - His destroyed body juxtaposition with his childhood photo and other photos went "viral"
             - All white jury a acquitted the murderers
@@ -62,7 +62,7 @@ bib:
                 - Woman admitted that she made up the story about emmitt till
             - Lots of people were moved to speak out against this
         - Montgomery Bus Boycott 1955
-            - Rosa Parks refused to give up seat and was arrested and fined 15 dollars
+            - [[Rosa Parks]] refused to give up seat and was arrested and fined 15 dollars
             - [Claudette Coleman](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwilwf-us4HwAhWXVs0KHdp1Bh0QFjALegQIBhAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FClaudette_Colvin&usg=AOvVaw1pz7z1mUnxVGr9_BCzp5va) was the first to do this but she was to young and dark skinned to be the face of the movement like Rosa Parks
             - [[MLK]] was chosen as spokesperson for this boycott that centered around Rosa Parks
             - There was support for this boycott and was incredibly effective
@@ -70,7 +70,7 @@ bib:
         - Non-violent civil disobedience
             - Coordinated protests were based off of Montgomery happened all across the country
         - [[Civil Rights]] Acts of 1957 and 1960
-            - Eisenhower did not do anything to pass CRA of 1957 but Senate Majority Leader LBJ did
+            - [[Eisenhower]] did not do anything to pass CRA of 1957 but Senate Majority Leader [[LBJ]] did
             - CRA 1957 created National [[Civil Rights]] Division focused on legal challenges to getting black people the right to vote
             - CRA 1960 - allowed govt to come in and register people people to vote where a pattern of racial discrimination 
             - This legislation was not executed quickly or without resistance

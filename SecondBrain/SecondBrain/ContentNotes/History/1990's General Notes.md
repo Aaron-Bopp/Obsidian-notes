@@ -15,7 +15,7 @@ bib:
         - "New chapter focused on unity diversity and generosity"
         - Deficit
             - Wanted to eliminate deficit to support new programs
-            - compromised with [[democrats]] for tax hikes and spending cuts to get things done
+            - compromised with [[Democrat]] for tax hikes and spending cuts to get things done
         - legislation - Signed a lot of centrist legislation that got flack from both sides
             - Americans with disabilities act 
                 - businesses and republicans against
@@ -78,7 +78,7 @@ bib:
                 - tried to oust dictator and threatened invasion
             - doctrine of enlargement
                 - promoted American involvement in foreign affairs
-            - Ethnic wars in europe
+            - Ethnic wars in [[Europe]]
                 - post cold war europe
                 - brought ex-USSR nations into NATO
     - Second term

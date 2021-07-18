@@ -26,7 +26,7 @@ bib:
             - anti-communist
             - lower taxes and decreased regulation
     - First Term
-        - Domestic policy
+        - [[Domestic policy]]
             - reagonomics 
                 - trickle-down/supply side economics
                     - Kansas from 2010-2017
@@ -35,7 +35,7 @@ bib:
                         - state was extremely underfunded
                             - transportation and healthcare decayed
                 - if you cut taxes they will hire more and stop stagflation
-            - budget cuts
+            - [[budget cuts]]
                 - tried to cut medicare and social security but they were far too popular
                 - tried to cut subsidies but subsidized industries had supported his run
             - [[anti-liberalism]]
@@ -57,7 +57,7 @@ bib:
         - Reagan won off of economic recovery that had nothing to do with him
     - Second term
         - Half-hearted revolution
-            - Govt grew, not shrink
+            - [[government]] grew, not shrink
             - welfare programs were not cut
             - Budget was never balanced and government spending tripled
             - did not ban abortion or require prayer in schools 
@@ -76,9 +76,9 @@ bib:
                 - brought hope to the people 
                 - allowed for private business
 - Economic Changes
-    - Computer Revolution
+    - [[Computer]] Revolution
     - Americans were spending a lot on a lot after stagflation
-    - Debt and Stock Market Plunge
+    - [[Debt]] and [[Stock Market]] Plunge
         - Black monday
         - Larger monetary loss than the great Depression but safety measures stopped the economy from colapsing
     - Decrease in banking regulation under Reagan allowed for risky investments that required govt bailouts

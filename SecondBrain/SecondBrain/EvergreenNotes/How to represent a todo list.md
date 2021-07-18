@@ -18,7 +18,7 @@ My todo list is represented by [[my TO(DO) and EVER(GREEN) structure]]. This wor
 
 **Status**:: #EVER/GREEN  
 
-**Related-Topics**:: [[todo note]]
+**Related-Topics**:: 
 	
 **Sub-Topics**:: [[Make your inbox into an entry point]], [[my TO(DO) and EVER(GREEN) structure]], [[how I use Obsidian tags]]
 	

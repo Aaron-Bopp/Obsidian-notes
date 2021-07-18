@@ -19,15 +19,15 @@ bib:
             - JFK wore makeup and Nixon was sweaty
         - Segregationist Byrd won 15 EC votes from OK, MS, and AL
     - JFK
-        - Tyranny, poverty, and disease -> what can you do for your country to eradicate these things
+        - [[Tyranny]], [[poverty]], and [[disease]] -> what can you do for your country to eradicate these things
         - established Peace Corps gave Americans an excuse to make connections with other countries (and act against [[Communism]])
-        - Foreign Policy
+        - [[Foreign Policy]]
             - Space Race - fight [[Communism]], government funding helped innovate many new daily products (velcro)
             - Bay of Pigs 
                 - Batista was anti-communist dictator of Cuba and supported by US
                 - Fidel Castor overthrew Batista and established communist govt
-                - Many Cubans fled to US and US was fearful of communist country so close to US with ties to russia
-                - Bay of Pigs Invasion -> CIA plan to overthrow Cuba but with US troop involvement and invasion failed
+                - Many Cubans fled to the US and US was fearful of communist country so close to US with ties to russia
+                - Bay of Pigs Invasion -> [[CIA]] plan to overthrow [[Cuba]] but with US troop involvement and invasion failed
             - Berlin Wall
                 - Fear of Russian sector of Berlin
                 - Khrushchev ordered building wall
@@ -46,7 +46,7 @@ bib:
                 - Civil rights legislation
                 - end to poverty
                 - containment of [[Communism]]
-                    - Vietnam
+                    - [[Vietnam]]
                 - Majority of this platform was not passed till LBJ
             - Sit-ins and protests
                 - Young black protesters sat peacefully in segregated bars while being attacked 
@@ -65,7 +65,7 @@ bib:
             - LBJ was radical but Goldwater was more radical
                 - Goldwater wanted to use Atomics in Vietnam
         - LBJ
-            - Opposite of Kennedy
+            - Opposite of JFK
             - The War on Poverty
                 - Community action programs - critically underfunded
                 - Adult basic education - GED
@@ -80,7 +80,7 @@ bib:
                 - Murder of young black people allowed opportunity for change
                 - Selma 
                     - bloody sunday - marching to protest access to vote
-                        - john lewis
+                        - [[John Lewis]]
                     - Third day joined by MLK
             - Eliminated Poll taxes and other barriers to vote
             - Great Society legislation brought hope to everyday Americans
@@ -148,11 +148,11 @@ bib:
                     - Lowndes County Freedom Party
                 - The [[Black Panthers]]
                     - Black Panther Party for Self Defense
-                        - The Vanguard
+                        - [[The Vanguard]]
                             - Studied law and said that anybody without a felony could carry firearm
                             - Kept police in line with intimidation and non-violence
                         - Got a lot of backlash as "hooligans with guns"
-                        - Ronald Reagan was against
+                        - Ronald [[Reagan]] was against
                             - California passed legislation banning firearms in public
                         - Some members of the Black community were also against it
                     - Huey P Newton and Bobby Seale
@@ -200,7 +200,7 @@ bib:
                     - federal aid from the government
             - 1964 Lobbied in Washington to be included in the Great Society's war on Poverty
                 - beureau of Indian Affairs
-                    - LBJ chose first Indigienous head
+                    - LBJ chose first [[Indigenous]] head
                 - National Council on Indian Opportunity
             - Red Power
                 - National Indian Youth Council 
@@ -229,7 +229,7 @@ bib:
                     - Birth Control
                     - Roe v wade
                 - intersectionality
-        - Gay Rights
+        - [[Gay Rights]] [[Queer]]
             - Stonewall riots 1969
                 - police raided bar that was known for providing help to disadvantaged people
             - Gay liberation front
@@ -251,7 +251,7 @@ bib:
             - Mass fleeing the draft
             - Large anti-war sentiment
             - Large college movements
-        - April 23-30 Portests and sit ins at columbia
+        - April 23-30 Protests and sit ins at columbia
             - Columbia expanding in black neighborhoods
             - University supported police violence
             - large multiple day protest
@@ -260,10 +260,10 @@ bib:
             - RFK would be first anti-war person in the white house
         - June 28 New tax bill
             - raised taxes and lowered govt spending
-        - August 8 Nixon becomes Republican candidate for president
+        - August 8 Nixon becomes [[Republican]] candidate for president
         - August 26-28 DNC
             - Turned into conflict
-                - Anti-war protests
+                - [[Anti-war]] protests
                     - Chicago mayor brings in thousands of troops
                     - creates police state
                     - McCarthy supporters protested
@@ -279,7 +279,7 @@ bib:
         - October 3 Third party candidates
             - George Wallace - ardent segregationist
         - October 14th involuntary second tours for Vietnam soldiers
-        - october 16th summer olympics in Mexico City
+        - october 16th summer olympics in [[Mexico]] City
             - Tommy Smith and John Carlos barred for life after raising fists during national anthem
         - October 31 End to bombing in Vietnam
             - Tried to get support for Democrats in election
