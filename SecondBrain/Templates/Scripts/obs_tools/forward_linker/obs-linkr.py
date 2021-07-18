@@ -75,28 +75,28 @@ def link_content(content):
                 print("linked %s" % page_title)
     return content
 
-def get_linkable_lines(txt, ignore_frontmater=True, ignore_headers=True, ignore_dataview_attrs=True, ignore_codeblocks=True):
-    lines = map(lambda l: l.strip(), txt.split("\n"))
-    frontmatter_start, frontmatter_end = -1, -1
-    if ignore_frontmater:
-        frontmater_start = lines.find("---")
-        if all(l == '' for l in lines[:frontmater_start]):
-            frontmatter_end= lines.find("---", frontmater_start)
-    txt_start = max([frontmater_start, frontmatter_end, 0])
-    code_lines = []
-    if ignore_codeblocks:
-        block_start = lines.find('```')
-        while(block_start != -1):
-            block_end = lines.find('```', block_start)
-            code_lines.extend(range(block_start, block_end))
-            block_start = lines.find('```', block_end)
+# def get_linkable_lines(txt, ignore_frontmater=True, ignore_headers=True, ignore_dataview_attrs=True, ignore_codeblocks=True):
+#     lines = map(lambda l: l.strip(), txt.split("\n"))
+#     frontmatter_start, frontmatter_end = -1, -1
+#     if ignore_frontmater:
+#         frontmater_start = lines.find("---")
+#         if all(l == '' for l in lines[:frontmater_start]):
+#             frontmatter_end= lines.find("---", frontmater_start)
+#     txt_start = max([frontmater_start, frontmatter_end, 0])
+#     code_lines = []
+#     if ignore_codeblocks:
+#         block_start = lines.find('```')
+#         while(block_start != -1):
+#             block_end = lines.find('```', block_start)
+#             code_lines.extend(range(block_start, block_end))
+#             block_start = lines.find('```', block_end)
   
-    i = txt_start
-    # if ignore_codeblocks: avoided_patterns.add('`%`')
-    for line in lines[txt_start:]:
-        if ignore_headers:
+#     i = txt_start
+#     # if ignore_codeblocks: avoided_patterns.add('`%`')
+#     for line in lines[txt_start:]:
+#         if ignore_headers:
             
-        linkable_lines = [i]
+#         linkable_lines = [i]
         
 def get_vault_titles(obsidian_home, get_aliases=True, get_uncreated=True):
     """
@@ -129,7 +129,7 @@ def get_vault_titles(obsidian_home, get_aliases=True, get_uncreated=True):
                         except yaml.YAMLError as exc:
                             print(f"{exc} while processing frontmatter in {file}")
                         if get_uncreated:
-                            full_text
+                            pass
     return page_titles, generated_aliases
                 
 
@@ -179,7 +179,7 @@ if len(sys.argv) > 1:
                 all_text = True
 
 else:
-    print("usage - python obs-link.py <path to obsidian vault> [-r] [-y] [-w / -p]")
+    print("usage - python obs-linkr.py <path to obsidian vault> [-r] [-y] [-w / -p]")
     print("-r = regenerate the aliases.md file using yaml frontmatter inside vault markdown files")
     print("-y = use aliases.yml as aliases file instead of aliases.md")
     print("-w = only the first occurrence of a page title (or alias) in the content will be linked ('wikipedia mode')")
