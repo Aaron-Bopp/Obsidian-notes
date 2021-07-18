@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "8ec136f36771035b",
+        "id": "819da1f7aaac9826",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471,
-    "collapsed": true
+    "width": 471
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -229,8 +228,9 @@
     "width": 1168,
     "collapsed": true
   },
-  "active": "8ec136f36771035b",
+  "active": "819da1f7aaac9826",
   "lastOpenFiles": [
+    "Unemployment 1.md",
     "love.md",
     "PTSD.md",
     "free-will.md",
@@ -239,7 +239,6 @@
     "DrMike.md",
     "DrK.md",
     "Untitled 2.md",
-    "Untitled 1.md",
-    "API.md"
+    "Untitled 1.md"
   ]
 }

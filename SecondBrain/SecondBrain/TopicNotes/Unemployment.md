@@ -9,13 +9,13 @@ embedded:
 - 
 ---
  
-##### [[Untitled]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+##### [[Unemployment]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 
 **Status**:: #EVER/SEED 
 **Related-Topics**::  
 **Last Edited**:: *`=this.file.mtime`*
-##### [[Untitled]] `=length(this.file.inlinks)` 
+##### [[Unemployment]] `=length(this.file.inlinks)` 
 - 
 
 ### <hr class="dataviews"/>
