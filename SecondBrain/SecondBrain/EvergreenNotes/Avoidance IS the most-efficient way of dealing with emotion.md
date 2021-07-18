@@ -1,22 +1,21 @@
 ---
 creation date: 2021-06-24
-modification date: Thursday 24th June 2021 14:29:34
 note-type: 
 - evergreen-note
 
 ---
 
-###### [[Avoidance IS the most-efficient way of dealing with emotion]] `=length([[Avoidance IS the most-efficient way of dealing with emotion]].file.inlinks) + length([[Avoidance IS the most-efficient way of dealing with emotion]].file.outlinks) - 1`
+##### [[Avoidance IS the most-efficient way of dealing with emotion]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+
+#TO/DO/CONCEPTUALIZE personal experience
 
 
+### <hr class="footnote"/>
 
+**Status**:: #EVER/SEED
 
----
+**Related-Topics**:: [[mental health]], [[trauma]], [[early childhood]]
 
-**Status**:: #EVER/SEED/UNPLANTED 
-
-**Related-Topics**:: 
+**Last Edited**:: *`=this.file.mtime`*
 	
-**Sub-Topics**::
-	
-**References**
+### <hr class="references"/>

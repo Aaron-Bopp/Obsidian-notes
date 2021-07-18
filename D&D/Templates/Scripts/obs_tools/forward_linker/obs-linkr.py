@@ -21,6 +21,10 @@ all_text= False
 
 
 def link_title(title, txt, alias='', link_all=True):
+    """
+    Search txt for instances of title that are case inreferrent and not surrounded by letters, [], or |
+    returns updated txt
+    """
     updated_txt = txt
     # find instances of the title where it's not surrounded by [], | or other letters
     matches = re.finditer('(?<!([\[\w\|]))' + re.escape(title.lower()) + '(?!([\|\]\w]))', txt.lower())
@@ -71,7 +75,29 @@ def link_content(content):
                 print("linked %s" % page_title)
     return content
 
-
+# def get_linkable_lines(txt, ignore_frontmater=True, ignore_headers=True, ignore_dataview_attrs=True, ignore_codeblocks=True):
+#     lines = map(lambda l: l.strip(), txt.split("\n"))
+#     frontmatter_start, frontmatter_end = -1, -1
+#     if ignore_frontmater:
+#         frontmater_start = lines.find("---")
+#         if all(l == '' for l in lines[:frontmater_start]):
+#             frontmatter_end= lines.find("---", frontmater_start)
+#     txt_start = max([frontmater_start, frontmatter_end, 0])
+#     code_lines = []
+#     if ignore_codeblocks:
+#         block_start = lines.find('```')
+#         while(block_start != -1):
+#             block_end = lines.find('```', block_start)
+#             code_lines.extend(range(block_start, block_end))
+#             block_start = lines.find('```', block_end)
+  
+#     i = txt_start
+#     # if ignore_codeblocks: avoided_patterns.add('`%`')
+#     for line in lines[txt_start:]:
+#         if ignore_headers:
+            
+#         linkable_lines = [i]
+        
 def get_vault_titles(obsidian_home, get_aliases=True, get_uncreated=True):
     """
     get a directory listing of obsidian *.md files
@@ -92,18 +118,18 @@ def get_vault_titles(obsidian_home, get_aliases=True, get_uncreated=True):
                 
                 # load yaml frontmatter and parse aliases
                 if (get_aliases):
-                    try:
-                        with open(root + "/" + file, encoding="utf-8") as f:
-                            print(file)
+                    with open(root + "/" + file, encoding="utf-8") as f:
+                        print(file)
+                        try:    
                             fm = frontmatter.load(f)
                             
                             if fm and 'aliases' in fm:
                                 print(fm['aliases'])
                                 generated_aliases[page_title] = fm['aliases']
-                    except yaml.YAMLError as exc:
-                        print(f"{exc} while processing frontmatter in {file}")
-                if (get_uncreated):
-                    pass       
+                        except yaml.YAMLError as exc:
+                            print(f"{exc} while processing frontmatter in {file}")
+                        if get_uncreated:
+                            full_text
     return page_titles, generated_aliases
                 
 
@@ -111,11 +137,11 @@ def regenerate_aliases_file(obsidian_home):
     page_titles, aliases = get_vault_titles(obsidian_home)
     aliases_file_path = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
     with open(aliases_file, "w", encoding="utf-8") as af:
-        for title in generated_aliases:
+        for title in aliases:
             try:
                 af.write(title + ":\n" if yaml_mode else "[[" + title + "]]:\n")
                 print(title)
-                for alias in generated_aliases[title]:
+                for alias in aliases[title]:
                     af.write("- " + alias + "\n")
             except TypeError:
                 pass
@@ -164,10 +190,9 @@ else:
 
 page_titles, page_aliases = get_vault_titles(obsidian_home)
 
+aliases_file = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
 if regenerate_aliases:
     aliases_file = regenerate_aliases_file(obsidian_home)
-else:
-    aliases_file = obsidian_home + "/aliases" + (".yml" if yaml_mode else ".md")
     
 # load the aliases file
 # we pivot (invert) the dict for lookup purposes

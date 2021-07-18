@@ -14,7 +14,7 @@ I think that religion can be a healthy way to avoid the uncertainty of not knowi
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related-Topics**:: [[belief systems]], [[faith]], [[worldview]]
+**Related-Topics**:: [[belief systems]], [[faith]], [[worldview]], [[Christianity]]
 	
 **Sub-Topics**::
 	

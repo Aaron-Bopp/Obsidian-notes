@@ -10,9 +10,7 @@ embedded:
 ---
  
 ##### [[self-hate]] `=length(this.file.inlinks) + length(this.file.outlinks)`
-	- [[self-hate]]
-	- [[self-love]]
-	- [[self-actualization]]
+
 
 **Status**:: #EVER/SEED 
 **Related-Topics**:: 
@@ -51,8 +49,12 @@ const statusDict = {
 	"SEED":2
 }
 const statusLevel = (status) => {
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
+	try {
+		const [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch {
+		return ""
+	}
 }
 //includes first called file as last element
 function getEmbeds(name){

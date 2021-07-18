@@ -8,14 +8,15 @@ note-type:
 
 ###### [[Sympathy does not dissallow judgment]]
 
-
+[[Accepting responsibility is not only about your actions]]
+[[My worldview is not about conversion it is about acceptance]]
 
 ---
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SEED
 
-**Related-Topics**:: 
+**Related-Topics**:: [[empathy]], [[sympathy]]
 	
-**Sub-Topics**::
+**Last Edited**:: *`=this.file.mtime`*
 	
 **References**

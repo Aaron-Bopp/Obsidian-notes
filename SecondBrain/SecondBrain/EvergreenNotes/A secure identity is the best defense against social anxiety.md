@@ -1,22 +1,21 @@
 ---
 creation date: 2021-06-20
-modification date: Sunday 20th June 2021 08:19:32
 note-type: 
 - evergreen-note
 
 ---
 
-###### [[A secure identity is the best defense against social anxiety]] `=length([[A secure identity is the best defense against social anxiety]].file.inlinks) + length([[A secure identity is the best defense against social anxiety]].file.outlinks)`
+##### [[A secure identity is the best defense against social anxiety]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 
 
 
----
+### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SEED
 
-**Related-Topics**:: 
+**Related-Topics**:: [[social anxiety]], [[identity]]
 	
-**Sub-Topics**::
+**Last Edited**:: *`=this.file.mtime`*
 	
-**References**
+### <hr class="references"/>

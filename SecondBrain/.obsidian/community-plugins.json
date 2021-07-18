@@ -5,6 +5,14 @@
   "metaedit",
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
+  "sliding-panes-obsidian",
   "breadcrumbs",
-  "sliding-panes-obsidian"
+  "better-word-count",
+  "table-editor-obsidian",
+  "better-fn",
+  "media-extended",
+  "obsidian-outliner",
+  "quickadd",
+  "tag-wrangler",
+  "open-vscode"
 ]

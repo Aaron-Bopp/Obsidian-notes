@@ -1,22 +1,21 @@
 ---
-creation date: 2021-06-15
+creation date: 2021-07-14
 note-type: 
 - evergreen-note
 - topic-note
 aliases:
-- self-worth
-- self-esteem
+- 
 embedded:
 - 
 ---
  
-##### [[self-love]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+##### [[Depersonalization]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+   
 
-
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SEED 
 **Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
-##### [[self-love]] `=length(this.file.inlinks)` 
+##### [[Depersonalization]] `=length(this.file.inlinks)` 
 - 
 
 ### <hr class="dataviews"/>
@@ -97,3 +96,6 @@ statusTable("TopicNotes")
 statusTable("EvergreenNotes")
 contentNotesTable("ContentNotes")
 ```
+
+
+### <hr class="references"/>

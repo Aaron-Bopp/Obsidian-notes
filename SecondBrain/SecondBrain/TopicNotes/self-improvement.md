@@ -21,7 +21,7 @@ embedded:
 - [[self-love]]
 - [[self-actualization]]
 	- [[Explaining emotion can just be a way of escaping the situation]]
-- [[self-love]]
+
 
 ### <hr class="dataviews"/>
 

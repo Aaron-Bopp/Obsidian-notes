@@ -7,8 +7,11 @@
         "id": "a6c570822ec207e7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "D&D/tharoline/Section/030 Blackvale Corruption.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -51,6 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/tharoline/Section/030 Blackvale Corruption.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -62,6 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/tharoline/Section/030 Blackvale Corruption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/tharoline/Section/030 Blackvale Corruption.md"
+              }
             }
           },
           {
@@ -135,6 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "D&D/tharoline/Section/030 Blackvale Corruption.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,15 +181,15 @@
   },
   "active": "a6c570822ec207e7",
   "lastOpenFiles": [
+    "D&D/tharoline/Section/030 Blackvale Corruption.md",
+    "D&D/tharoline/Section/010 Deepshore Missing Kids.md",
+    "D&D/tharoline/Section/000 Backstory.md",
+    "D&D/tharoline/Section/072.md",
+    "D&D/tharoline/Section/071 Gathering allies.md",
     "D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Volantim.md",
     "D&D/Wildemount/aliases.md",
     "D&D/Wildemount/Wildemount Gazetteer/Wastes of Xhorhas.md",
     "D&D/Wildemount/Glossary/Glossary.md",
-    "Tal’Dorei.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Grimgolir.md",
-    "D&D/Wildemount/Adventures in Wildemount/Adventures in Wildemount - Dangerous Designs.md",
-    "D&D/Wildemount/Factions and Societies/Dwendalian Empire.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Hupperdook.md",
-    "D&D/tharoline/Section/069 Goodbye Mentira, Hello Krenos.md"
+    "Tal’Dorei.md"
   ]
 }

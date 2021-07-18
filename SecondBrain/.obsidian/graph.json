@@ -1,22 +1,72 @@
 {
   "collapse-filter": false,
-  "search": "-path:templates path:D&D/Wildemount",
+  "search": "-path:templates -file:related-topics -file:aliases",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "organizational-note",
+      "color": {
+        "a": 1,
+        "rgb": 16772608
+      }
+    },
+    {
+      "query": "topic-note",
+      "color": {
+        "a": 1,
+        "rgb": 6109956
+      }
+    },
+    {
+      "query": "personal-note",
+      "color": {
+        "a": 1,
+        "rgb": 14707926
+      }
+    },
+    {
+      "query": "tag:#EVER/GREEN",
+      "color": {
+        "a": 1,
+        "rgb": 31236
+      }
+    },
+    {
+      "query": "tag:#EVER/SPROUT",
+      "color": {
+        "a": 1,
+        "rgb": 3382065
+      }
+    },
+    {
+      "query": "tag:#EVER/SEED",
+      "color": {
+        "a": 1,
+        "rgb": 8254725
+      }
+    },
+    {
+      "query": "path:ContentNotes/",
+      "color": {
+        "a": 1,
+        "rgb": 5400319
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.1,
-  "nodeSizeMultiplier": 0.980898876404494,
-  "lineSizeMultiplier": 0.292696629213483,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.43511235955056,
+  "lineSizeMultiplier": 0.333988764044944,
   "collapse-forces": false,
   "centerStrength": 0.347058823529412,
   "repelStrength": 14.078431372549,
   "linkStrength": 0.617647058823529,
   "linkDistance": 30,
-  "scale": 0.04091056269337494,
+  "scale": 0.08352674749259781,
   "close": true
 }

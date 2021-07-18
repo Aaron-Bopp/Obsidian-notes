@@ -10,10 +10,10 @@ embedded:
 ---
  
 ##### [[abortion]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+	
 
 
-
-**Status**:: 
+**Status**:: #EVER/SEED 
 **Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[abortion]] `=length(this.file.inlinks)` 

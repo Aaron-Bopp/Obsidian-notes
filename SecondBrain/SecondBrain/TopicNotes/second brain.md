@@ -13,7 +13,7 @@ A second brain is a term that refers to a system of written thought that allows 
 #TO/DO/WRITE/LONGTERM Article with my flavor of [[personal knowledge management]]
 
 **Status**:: #EVER/GREEN 
-**Related-Topics**:: [[INDEX]]
+**Related-Topics**:: [[INDEX]], [[personal knowledge management]], [[web of thought]], [[Zettlekassen]]
 **Last Edited**:: *`=this.file.mtime`*
 
 ###### [[second brain]] `=length([[second brain]].file.inlinks)`
@@ -37,6 +37,7 @@ A second brain is a term that refers to a system of written thought that allows 
 - Tips
 	- [[How to title your notes]]
 	- [[How to write atomically]]
+	- [[tags as a data structure]]
 - ![[My Second Brain#My Second Brain length this file inlinks]]
 
 ### <hr class="dataviews"/>

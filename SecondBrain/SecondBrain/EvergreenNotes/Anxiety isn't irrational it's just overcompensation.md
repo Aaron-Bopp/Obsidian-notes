@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Anxiety isn't irrational it's just overcompensation]]
+##### [[Anxiety isn't irrational it's just overcompensation]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 People who say anxiety is irrational are just unaware of their surroundings
 
 It is mainly a [[Neuroscience|neurological]] fact but can also be affected by [[trauma]].
