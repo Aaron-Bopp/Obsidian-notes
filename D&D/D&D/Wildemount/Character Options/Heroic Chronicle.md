@@ -380,8 +380,8 @@ If you’re looking for prophecy goals for your character, you can roll on the P
 | 13  | I will hesitate at an important moment. Another person will suffer for it.                                                                                      |
 | 14  | I will stumble by accident into the arms of the [[Golden Grin]]. Though I will reject their call at first, something will draw me back.                             |
 | 15  | I will befriend a flying beast and ride it through the skies. Others will envy me for the bond I have with this creature.                                       |
-| 16  | I will kneel before [[Bright Queen Leylas Kryn]] without knowing who she is. This moment of uncertainty will lead to danger.                                        |
-| 17  | I will stand before [[Princess Suria Dwendal]] and briefly hold the fate of the empire in my hand. I won’t realize the gravity of my decision until it is too late. |
+| 16  | I will kneel before Bright Queen [[Leylas Kryn]] without knowing who she is. This moment of uncertainty will lead to danger.                                        |
+| 17  | I will stand before Princess [[Suria Dwendal]] and briefly hold the fate of the empire in my hand. I won’t realize the gravity of my decision until it is too late. |
 | 18  | My actions will lead to the death of a marquis of the [[Clovis Concord]]. I will know exactly who killed them, but no one in power will believe me.                 |
 | 19  | I will anger one of the [[Tribes of Shadycreek Run]]. As its members hunt me in retribution, others will suffer and I will pay the price.                           |
 | 20  | I will meet my birth parents. Doing so reveals a secret about my birth that will change the way I look at the world.                                            |

@@ -2,7 +2,7 @@
 
 **Population:** 7,440 (58% [[humans]], 23% [[halflings]], 13% [[dwarves]], 6% other races)
 
-**Government:** Starosta Brennan Keef oversees his network of appointees, but his true loyalty is to the Truscan family.
+**Government:** Starosta Brennan Keef oversees his network of appointees, but his true loyalty is to the [[Truscan family]].
 
 **Defense:** [[Crownsguard]] and hired mercenaries protect independent business interests.
 
@@ -14,9 +14,9 @@ Kamordah was built within the Bromkiln Hills by a collection of zealous follower
 
 While the majority of [[Western Wynandir]] and the [[Marrow Valley]] is filled with rolling fields of green grasses and tall, vibrant trees, the Bromkiln Hills that surround the city of Kamordah are gray and rocky, unable to sustain the vegetation. Patches of gray, bubbling mud form between the hills, where natural vents perpetually release lazy plumes of sulfurous gases that give the region its unmistakable smell. Mineral shelves surrounding areas of intense seismic or thermal activity sometimes produce rings of vibrant colors, and many locals study these minerals for their medicinal and arcane properties. Others worry that the source of this activity is a portent of terrible things to come, whether it be an imminent eruption or some slumbering elemental power.
 
-Starosta Brennan Keef is the Crown-appointed governor of Kamordah. Though his close ties to the Truscan family grant him good standing with the Crown and local traders in the [[Truscan Vale]], locals grouse that he puts Truscan interests before those of his own people.
+Starosta Brennan Keef is the Crown-appointed governor of Kamordah. Though his close ties to the [[Truscan family]] grant him good standing with the Crown and local traders in the [[Truscan Vale]], locals grouse that he puts Truscan interests before those of his own people.
 
-Coinmaster Dela Folger has a long-standing feud with [[Exchequer Aethia Drooze]]. Folger, a staunch supporter of Kamordan wineries and their local businesses, resists Drooze's attempts to squeeze every last copper out of Kamordah and into the Crown's coffers.
+Coinmaster Dela Folger has a long-standing feud with Exchequer [[Aethia Drooze]]. Folger, a staunch supporter of Kamordan wineries and their local businesses, resists Drooze's attempts to squeeze every last copper out of Kamordah and into the Crown's coffers.
 
 The businesses in Kamordah carefully guard their rare goods. [[Crownsguard]] mingle with hired mercenaries to keep a watchful eye on business deals, making the few criminals within the city extremely cautious.
 

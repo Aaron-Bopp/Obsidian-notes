@@ -21,7 +21,7 @@ Meanwhile, the monstrosities of the Xhorhasian wastes can sense the power vacuum
 
 Rumors of the [[Dwendalian Empire]] mistreating [[dragonborn]] ravenites have bred a heavy distaste for King Dwendal and his nation. The empire has recently sent emissaries to request an alliance against the dynasty, but Kryn diplomats have also arrived in [[Xarzith Kitril]], seeking friendship and offering to aid the dragonborn in their efforts to rebuild. The Scars have heatedly debated which power they should side with — or if they can afford to aid either.
 
-Ships from the [[Clovis Concord]] have docked on Kitrilian shores in recent years, eager to resume trade with the [[dragonborn]] people. In particular, [[Nicodranas]] has welcomed the emerging nation, and a few emissaries from Marquis Zhafe Uludan currently reside within [[Xarzith Kitril]] to keep an eye on the developing city-state and to aid to whatever limited extent they can.
+Ships from the [[Clovis Concord]] have docked on Kitrilian shores in recent years, eager to resume trade with the [[dragonborn]] people. In particular, [[Nicodranas]] has welcomed the emerging nation, and a few emissaries from Marquis [[Zhafe Uludan]] currently reside within [[Xarzith Kitril]] to keep an eye on the developing city-state and to aid to whatever limited extent they can.
 
 ## Figures of Interest
 
@@ -31,6 +31,6 @@ The former slaves of [[Draconia]] are eager to forge their own destiny in the wo
 
 ### ![[Vemosi Runek]]
 
-### ![[Troka, the Scoundrel King]]
+### ![[Troka]]
 
 ##

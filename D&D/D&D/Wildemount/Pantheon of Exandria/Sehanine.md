@@ -10,7 +10,7 @@ Sehanine is found among the verdant tangles of the realm of Arborea, watching ov
 
 Sehanine, the Moon Weaver
 
-**_Holy Day._** Sehanine has no holy day but is celebrated by the [[elves]] on the night of the decade’s largest full moon. Elven astronomers track the moon’s phases and how it grows closer and farther to [[Exandria]] to predict these days with great accuracy. Many haughty elves use this festival as an excuse to be sly and mischievous, while younger elves use costumes and illusions to prank their peers. Some elves of [[Bysaes Tyl]] hold a secret festival in the Pearlbow Wilderness during the full moon, since the [[Dwendalian Empire]] doesn’t allow worship of the Moon Weaver.
+**_Holy Day._** Sehanine has no holy day but is celebrated by the [[elves]] on the night of the decade’s largest full moon. Elven astronomers track the moon’s phases and how it grows closer and farther to [[Exandria]] to predict these days with great accuracy. Many haughty elves use this festival as an excuse to be sly and mischievous, while younger elves use costumes and illusions to prank their peers. Some elves of [[Bysaes Tyl]] hold a secret festival in the [[Pearlbow Wilderness]] during the full moon, since the [[Dwendalian Empire]] doesn’t allow worship of the Moon Weaver.
 
 #### Commandments of Sehanine
 

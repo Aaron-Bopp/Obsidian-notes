@@ -24,41 +24,41 @@ In addition to the races of the [Player’s Handbook](https://www.dndbeyond.com/
 
 The dominant races of [[Wildemount]]—[[dwarves]], [[elves]], [[halflings]], and [[humans]]—are presented first in this section, followed by the less common races in alphabetical order.
 
-## Dwarves in Exandria
+## [[Dwarves]] in [[Exandria]]
 ![[Dwarves]]
-## Elves in Exandria
+## [[Elves]] in [[Exandria]]
 ![[Elves]]
-## Halflings in Exandria
+## [[Halflings]] in [[Exandria]]
 ![[Halflings]]
-## Humans in Exandria
+## [[Humans]] in [[Exandria]]
 ![[Humans]]
-## Aarakocra in Exandria
+## [[Aarakocra]] in [[Exandria]]
 ![[Aarakocra]]
-## Aasimar in Exandria
+## [[Aasimar]] in [[Exandria]]
 ![[Aasimar]]
-## Dragonborn in Exandria
+## [[Dragonborn]] in [[Exandria]]
 ![[Dragonborn]]
-## Firbolgs in Exandria
+## [[Firbolgs]] in [[Exandria]]
 ![[Firbolgs]]
-## Genasi in Exandria
+## [[Genasi]] in [[Exandria]]
 ![[Genasi]]
-## Gnomes in Exandria
+## [[Gnomes]] in [[Exandria]]
 ![[Gnomes]]
-## Goblinkin in Exandria
+## [[Goblinkin]] in [[Exandria]]
 ![[Goblinkin]]
-## Goliaths in Exandria
+## [[Goliaths]] in [[Exandria]]
 ![[Goliaths]]
-## Half-Elves in Exandria
+## [[Half-Elves]] in [[Exandria]]
 ![[Half-Elves]]
-## Kenku in Exandria
+## [[Kenku]] in [[Exandria]]
 ![[Kenku]]
-## Orcs and Half-Orcs in Exandria
-![[Orcs and Half-Orcs]]
-## Tabaxi in Exandria
+## [[Orcs and Half-orcs]] in [[Exandria]]
+![[Orcs and Half-orcs]]
+## [[Tabaxi]] in [[Exandria]]
 ![[Tabaxi]]
-## Tieflings in Exandria
+## [[Tieflings]] in [[Exandria]]
 ![[Tieflings]]
-## Tortles in Exandria
+## [[Tortles]] in [[Exandria]]
 ![[Tortles]]
-## Hollow Ones
+## [[Hollow Ones]]
 ![[Hollow Ones]]

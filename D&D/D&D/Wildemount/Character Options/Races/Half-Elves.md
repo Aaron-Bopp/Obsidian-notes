@@ -8,7 +8,7 @@ The [[Dwendalian Empire]] sees half-[[elves]] as a sign that imperial rule is he
 
 ### Half-[[Elves]] on the [[Menagerie Coast]]
 
-In some ways, the [[Clovis Concord]] can be considered a half-elf nation, founded as it was by the native human Ki’Nau people and by elf and human settlers from [[Marquet]]. Half-[[elves]] are also a common sight arriving on passenger ships from Tal’Dorei. The elves of Syngorn, the center of elven culture in Tal’Dorei, still hold a shameful and outdated view of their half-elf children, many of whom seek passage or stow away on ships to the [[Menagerie Coast]] to start new lives.
+In some ways, the [[Clovis Concord]] can be considered a half-elf nation, founded as it was by the native human [[Ki’Nau]] people and by elf and human settlers from [[Marquet]]. Half-[[elves]] are also a common sight arriving on passenger ships from Tal’Dorei. The elves of Syngorn, the center of elven culture in Tal’Dorei, still hold a shameful and outdated view of their half-elf children, many of whom seek passage or stow away on ships to the [[Menagerie Coast]] to start new lives.
 
 ### Half-[[Elves]] in [[Xhorhas]]
 

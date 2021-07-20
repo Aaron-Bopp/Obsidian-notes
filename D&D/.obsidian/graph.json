@@ -67,7 +67,7 @@
       "query": "path:\"D&D/Wildemount/Wildemount Gazetteer/Blightshore\"",
       "color": {
         "a": 1,
-        "rgb": 1390852
+        "rgb": 2373892
       }
     },
     {
@@ -109,7 +109,7 @@
       "query": "path:\"D&D/Wildemount/Wildemount Gazetteer/Wastes of Xhorhas\"",
       "color": {
         "a": 1,
-        "rgb": 557623
+        "rgb": 4417295
       }
     },
     {
@@ -137,13 +137,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.9,
-  "nodeSizeMultiplier": 1.43511235955056,
+  "nodeSizeMultiplier": 0.860344827586207,
   "lineSizeMultiplier": 0.333988764044944,
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.08064170017783096,
-  "close": false
+  "scale": 0.10519117534755891,
+  "close": true
 }

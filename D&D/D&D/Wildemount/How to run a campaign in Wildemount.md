@@ -2,7 +2,7 @@
 
 [[Wildemount]] is a new setting for your Dungeons & Dragons campaign, originally created by Matthew Mercer as the setting for the second campaign of the hit series Critical Role. Though it’s just one continent in the larger world of [[Exandria]], Wildemount is teeming with varied cultures, locales, peoples, and monsters. It is home to both avatars of evil and paragons of good, but it is defined by the common people who exist in between these two ideals.
 
-This book is for D&D players and Dungeon Masters of all experience levels. It is for newcomers and for hardcore fans of Critical Role alike. If you’ve watched every episode of Critical Role to date, this book will still contain surprises for you, as there are corners of [[Wildemount]] that even the Mighty Nein weren’t able to explore in their adventures.
+This book is for D&D players and Dungeon Masters of all experience levels. It is for newcomers and for hardcore fans of Critical Role alike. If you’ve watched every episode of Critical Role to date, this book will still contain surprises for you, as there are corners of [[Wildemount]] that even the [[Mighty Nein]] weren’t able to explore in their adventures.
 
 If you’re a Dungeon Master, this book will help you create a D&D campaign set in a land of war, intrigue, and swashbuckling adventure. You could set your campaign entirely within one of [[Wildemount]]’s four regions, or you could follow the example set by Critical Role and create a campaign with a constantly evolving tone as the adventurers journey across the continent. You will also find brand-new monsters and introductory adventures that can help you start a campaign in any of Wildemount’s four regions.
 

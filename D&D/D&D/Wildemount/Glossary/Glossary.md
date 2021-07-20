@@ -27,11 +27,11 @@ Assembly refers to the [[Cerberus Assembly]].
 
 Blood Hunters are mistrusted monster hunters that live outside society, using blood magic to stalk their quarries.
 
-[[Bright Queen Leylas Kryn]] is the head of Den Kryn and heralded as the leader of the [[Kryn Dynasty]] of [[Xhorhas]].
+Bright Queen [[Leylas Kryn]] is the head of Den Kryn and heralded as the leader of the [[Kryn Dynasty]] of [[Xhorhas]].
 
 Calamity is the name given for the collective wars and ensuing cataclysms that occurred at the end of the [[Age of Arcanum]], which nearly destroyed all life and civilization across [[Exandria]].
 
-[[Cerberus Assembly]] is a collection of eight powerful mages who work within the [[Dwendalian Empire]] under [[King Bertrand Dwendal]], but often pursue their own interests.
+[[Cerberus Assembly]] is a collection of eight powerful mages who work within the [[Dwendalian Empire]] under King [[Bertrand Dwendal]], but often pursue their own interests.
 
 Change Bringer is the alternate title for the god [[Avandra]].
 
@@ -49,7 +49,7 @@ Consecution is the Kryn ritual of binding a soul to a [Luxon beacon](https://www
 
 [[Corellon]] is the god of spring, beauty, and the art.
 
-Crown refers to the rulership of [[King Bertrand Dwendal]] and the [[Dwendalian Empire]].
+Crown refers to the rulership of King [[Bertrand Dwendal]] and the [[Dwendalian Empire]].
 
 
 
@@ -107,11 +107,11 @@ Glassblades are the trained soldiers and rangers that serve the [[Diarchy of Uth
 
 Julous Dominion was the society that resisted Dwendalian expansion in the mid-500’s PD before being conquered and absorbed into the empire.
 
-Ki’Nau are the indigenous island people who reestablished society along the [[Menagerie Coast]] after [[the Calamity]].
+[[Ki’Nau]] are the indigenous island people who reestablished society along the [[Menagerie Coast]] after [[the Calamity]].
 
-King generally refers to [[King Bertrand Dwendal]].
+King generally refers to King [[Bertrand Dwendal]].
 
-[[King Bertrand Dwendal]] is the current ruler of the [[Dwendalian Empire]] and [[Western Wynandir]].
+King [[Bertrand Dwendal]] is the current ruler of the [[Dwendalian Empire]] and [[Western Wynandir]].
 
 Knowing Mentor is the alternative title for the god [[Ioun]].
 

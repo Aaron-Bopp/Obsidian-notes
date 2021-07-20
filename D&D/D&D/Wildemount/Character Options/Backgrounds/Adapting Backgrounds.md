@@ -30,7 +30,7 @@ As a rank-and-file pupil of the Cobalt Soul, you adventure to help expand your m
 
 ### Spy ([[Augen Trust]])
 
-Little is known about the [[Augen Trust]], even within the court of the [[Dwendalian Empire]]. Only one person knows all the members of this elite network of imperial spies: its leader, Oliver Schreiber, a noble gnome with the ear of King Dwendal.
+Little is known about the [[Augen Trust]], even within the court of the [[Dwendalian Empire]]. Only one person knows all the members of this elite network of imperial spies: its leader, [[Oliver Schreiber]], a noble gnome with the ear of King Dwendal.
 
 If you were favored with membership in the [[Augen Trust]], your entire life was laid bare before the secret spymaster at one point, and you were found to be a loyal servant of the empire with a particular set of skills. Betraying the Trust is high treason against the crown, and defectors are hunted down and quickly slain.
 

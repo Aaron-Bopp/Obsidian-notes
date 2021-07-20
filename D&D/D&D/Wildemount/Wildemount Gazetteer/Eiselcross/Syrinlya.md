@@ -2,7 +2,7 @@
 
 **Population:** 182 (72% [[dwarves]], 24% [[elves]], 4% other races)
 
-**Government:** [[Professor Gulrim Shalebrow]] is in charge of Syrinlya, appointed to run the outpost by Queen Fruunast of [[Uthodurn]].
+**Government:** Professor [[Gulrim Shalebrow]] is in charge of Syrinlya, appointed to run the outpost by Queen Fruunast of [[Uthodurn]].
 
 **Defense:** Syrinlya's inhabitants are explorers capable of defending the settlement.
 
@@ -10,7 +10,7 @@
 
 **Organizations:** [[Elves]], [[dwarves]], and a few others from [[Uthodurn]] are the only residents of Syrinlya. Most have no organizational ties.
 
-Syrinlya is a collection of yurts filled with mercenary explorers from [[Uthodurn]] looking to get rich. [[Professor Gulrim Shalebrow]] (see "[Diarchy of Uthodurn](https://www.dndbeyond.com/sources/egtw/factions-and-societies#DiarchyofUthodurn "[[Diarchy of Uthodurn]]")" in chapter 2) runs this outpost with few rules: just an unspoken agreement that all explorers have each other's backs against the harsh environment, just as they would back in their mountain home.
+Syrinlya is a collection of yurts filled with mercenary explorers from [[Uthodurn]] looking to get rich. Professor [[Gulrim Shalebrow]] (see "[Diarchy of Uthodurn](https://www.dndbeyond.com/sources/egtw/factions-and-societies#DiarchyofUthodurn "[[Diarchy of Uthodurn]]")" in chapter 2) runs this outpost with few rules: just an unspoken agreement that all explorers have each other's backs against the harsh environment, just as they would back in their mountain home.
 
 #### A Lawless, Moral Land
 

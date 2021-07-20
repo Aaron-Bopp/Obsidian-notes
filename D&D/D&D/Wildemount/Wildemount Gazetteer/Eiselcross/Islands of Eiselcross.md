@@ -10,7 +10,7 @@
 
 **Frostbogen.** Given its proximity to Foren, one might think that this island is also a popular destination for explorers. But ever since a [[Cerberus Assembly]] delegation of over one hundred people, their ship, and all their belongings vanished during an expedition to Frostbogen, no one has dared to explore the island.
 
-**Gelier.** [[Eiselcross]]'s second-largest island holds the body of [[Quajath]], and its wormkin (see "[Tomb of the Worm](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-eiselcross#TomboftheWorm "[[Tomb of the Worm]]")" later in this chapter).
+**[[Gelier]].** [[Eiselcross]]'s second-largest island holds the body of [[Quajath]], and its wormkin (see "[Tomb of the Worm](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-eiselcross#TomboftheWorm "[[Tomb of the Worm]]")" later in this chapter).
 
 **Kaltsel.** The smallest of [[Eiselcross]]'s islands floats off the southeast coast of Foren and is said to be the home of Mynarc Furdahl, an undead warlock of [[Asmodeus]] willing to make deals in exchange for souls.
 

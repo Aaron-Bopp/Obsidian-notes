@@ -2,7 +2,7 @@
 
 Revered by seers, sages, and teachers of all walks of life, Ioun guided the growth of civilization throughout the [[Age of Arcanum]] like sunlight guides the branches of a tree. Grievously wounded by the Chained Oblivion during [[the Calamity]], her followers are now hunted by agents of her ancient foes as she recovers. Her devout now worship in private, spreading knowledge, philosophy, and lore anonymously through traceless channels.
 
-Ioun sits among the infinite library that fills the hidden realm of the Endless Athenaeum, her celestial servants cataloging all known things as she inspires those who pray for her insight and guidance.
+Ioun sits among the infinite library that fills the hidden realm of the [[Endless Athenaeum]], her celestial servants cataloging all known things as she inspires those who pray for her insight and guidance.
 
 **_Depiction._** Common representations show the Knowing Mentor as a graying, mature woman with a welcoming, matronly smile, swathed in billowing robes and scarves that fan into books and scrolls. Some colloquially refer to Ioun as the Knowing Mistress, revering her as a headmistress of knowledge among the gods.
 

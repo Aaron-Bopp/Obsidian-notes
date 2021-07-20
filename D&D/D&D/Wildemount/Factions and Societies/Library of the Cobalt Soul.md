@@ -30,7 +30,7 @@ Empires thrive on misinformation and propaganda, yet it is necessary for the Cob
 
 ## Relationships
 
-The Library tries to remain autonomous, but their agents within the empire are under constant siege by [[Theolocrat Kon Bruda]], a once-respected monk of the Cobalt Soul who is now just another corrupt lackey of the Crown. Bruda and the archivists wage a quiet battle of wills and subterfuge, each trying to outsmart and undermine the other. This situation, combined with the empire’s efforts to prevent the education of their people, has created palpable unrest within the Library.
+The Library tries to remain autonomous, but their agents within the empire are under constant siege by Theolocrat [[Kon Bruda]], a once-respected monk of the Cobalt Soul who is now just another corrupt lackey of the Crown. Bruda and the archivists wage a quiet battle of wills and subterfuge, each trying to outsmart and undermine the other. This situation, combined with the empire’s efforts to prevent the education of their people, has created palpable unrest within the Library.
 
 The perceptive ears of the expositors often hear rumors of unwholesome practices behind closed doors within the Soltryce Academy and other places under the [[Cerberus Assembly]]’s oversight. The Library is concerned about the assembly’s secretive cabal but has thus far been unable to infiltrate deep enough to uncover anything damning.
 
@@ -44,4 +44,4 @@ Operating under the will of [[Ioun]], and driven by curiosity and the desire to 
 
 ### ![[Yudala Fon]]
 
-### ![[Expositor Sia Kresh]]
+### ![[Sia Kresh]]

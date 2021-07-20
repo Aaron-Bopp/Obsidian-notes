@@ -16,7 +16,7 @@ Three generations have passed since the fall of the dominion, and many adult tie
 
 ### Tieflings on the [[Menagerie Coast]]
 
-Tieflings’ extravagant skin tones and striking horns are considered attractive in the culture of the [[Clovis Concord]], and many tieflings have capitalized on this reaction to become entertainers. Some of the best-known tiefling actors, gladiators, and musicians found their start on the [[Menagerie Coast]]—as have innumerable entertainers of the bawdier sort, including the prominent [[Nicodranas]] courtesan known as Ruby of the Sea. Many such performers have gone on to perform at the court of [[King Bertrand Dwendal]], or to tour the distant lands of Tal’Dorei and [[Marquet]].
+Tieflings’ extravagant skin tones and striking horns are considered attractive in the culture of the [[Clovis Concord]], and many tieflings have capitalized on this reaction to become entertainers. Some of the best-known tiefling actors, gladiators, and musicians found their start on the [[Menagerie Coast]]—as have innumerable entertainers of the bawdier sort, including the prominent [[Nicodranas]] courtesan known as Ruby of the Sea. Many such performers have gone on to perform at the court of King [[Bertrand Dwendal]], or to tour the distant lands of Tal’Dorei and [[Marquet]].
 
 ### Tieflings in [[Xhorhas]]
 

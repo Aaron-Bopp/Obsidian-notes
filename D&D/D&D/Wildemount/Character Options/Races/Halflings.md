@@ -6,7 +6,7 @@ For their part, halflings in the [[Dwendalian Empire]] and the [[Menagerie Coast
 
 ### Halflings in the [[Dwendalian Empire]]
 
-Generations ago, the halflings of the Felder clan established a settlement now known as [[Felderwin Tillage]], and discovered in time that they had inadvertently created an agricultural powerhouse. The word “halfling” has been synonymous with a simple, rural lifestyle ever since.
+Generations ago, the halflings of the [[Felder clan]] established a settlement now known as [[Felderwin Tillage]], and discovered in time that they had inadvertently created an agricultural powerhouse. The word “halfling” has been synonymous with a simple, rural lifestyle ever since.
 
 The dutiful, orderly people of the [[Dwendalian Empire]] most often think of halflings as carefree country bumpkins. In a nation obsessed with its heritage and its legacy, the stereotypical halfling philosophy of living life in the moment is viewed as pathetically unambitious.
 

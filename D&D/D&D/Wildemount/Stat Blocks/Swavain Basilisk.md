@@ -1,6 +1,6 @@
 ## Swavain Basilisk
 
-Pearl divers and seafloor scavengers sometimes tell tales of mysterious ocean gardens filled with statues of sea creatures and sailors—the underwater grottoes of the deadly Swavain basilisk. Though named for the Swavain Islands where they are most commonly found, these dangerous hunters have been known to wander inland waterways, and have even been spotted in subterranean sewer systems.
+Pearl divers and seafloor scavengers sometimes tell tales of mysterious ocean gardens filled with statues of sea creatures and sailors—the underwater grottoes of the deadly Swavain basilisk. Though named for the [[Swavain Islands]] where they are most commonly found, these dangerous hunters have been known to wander inland waterways, and have even been spotted in subterranean sewer systems.
 
 _**Death’s Slimy Embrace.**_ Physically dissimilar to its land-based cousins, the Swavain basilisk is a thin, elongated sea serpent that commonly grows to lengths of twenty-five feet. Its sinuous body lets it move rapidly through the water and ensnare prey with equal ease. Unlike the deadly gaze of its land-based cousin, the Swavain basilisk secretes a thick oil that can turn other creatures to stone. Petrified prey sinks to the ocean floor, where the basilisk feeds at its leisure, the devoured bits returning to flesh once consumed. If processed properly under the supervision of an experienced alchemist, the basilisk’s oil can be used to reverse the petrification effects it causes.
 

@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "24f84e720dc671ff",
+        "id": "a404b1f7e5424236",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "D&D/Wildemount/Character Options/Races/Orcs and Half-orcs.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aliases path:D&D/Wildemount",
+                "query": "\"shimmer ward\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -51,6 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Wildemount/Character Options/Races/Orcs and Half-orcs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -62,6 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Wildemount/Character Options/Races/Orcs and Half-orcs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Wildemount/Character Options/Races/Orcs and Half-orcs.md"
+              }
             }
           },
           {
@@ -99,11 +106,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 442
+    "width": 358
   },
   "right": {
     "id": "e4957aafc9974964",
@@ -127,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "D&D/Wildemount/Character Options/Races/Orcs and Half-orcs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,17 +209,17 @@
     "width": 962,
     "collapsed": true
   },
-  "active": "24f84e720dc671ff",
+  "active": "a404b1f7e5424236",
   "lastOpenFiles": [
-    "D&D/Wildemount/Stat Blocks/Core Spawn.md",
-    "D&D/Wildemount/Factions and Societies/Dwendalian Empire.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Felderwin Tillage.md",
-    "D&D/Wildemount/Pantheon of Exandria/Tiamat.md",
-    "D&D/Wildemount/Adventures in Wildemount/Adventures in Wildemount - Dangerous Designs.md",
-    "D&D/Wildemount/Character Options/Backgrounds/Adapting Backgrounds.md",
-    "D&D/Wildemount/Character Options/Dunamancy Spells/Gravity Sinkhole.md",
-    "D&D/Wildemount/Character Options/Dunamancy Spells/Magnify Gravity.md",
-    "D&D/Wildemount/Character Options/Dunamancy Spells/Pulse Wave.md",
-    "D&D/Wildemount/Character Options/Dunamancy Spells/Ravenous Void.md"
+    "D&D/Wildemount/Character Options/Races/Orcs and Half-Orcs.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Greying Wildlands/Boroftkrah.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Greying Wildlands/Blooming Grove.md",
+    "D&D/Wildemount/Factions and Societies/The Revelry.md",
+    "D&D/Wildemount/Character Options/Heroic Chronicle.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Eastern Wynandir.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Bizarre Terrain of Blightshore.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Tooth of Zehir.md",
+    "Far Realm.md"
   ]
 }

@@ -2,7 +2,7 @@
 
 **Population:** 2,610 (81% dark [[elves]], 8% goblinoids, 11% other races)
 
-**Government:** Martial law is enforced by [[Taskhand Verin Thelyss]] and maintained by the local military.
+**Government:** Martial law is enforced by Taskhand [[Verin Thelyss]] and maintained by the local military.
 
 **Defense:** The [[Aurora Watch]] defends the town and keeps the demonic incursions at bay. The few citizens learn combat skills out of necessity.
 
@@ -14,7 +14,7 @@ Bazzoxan was once a dark temple instrumental in the machinations of the Betrayer
 
 About forty years ago, a group of curious local dungeoneers uncovered a long-dormant gateway to the Abyss. Its demonic influence drove them mad, and they accidentally reactivated the gateway of Bazzoxan—an immense rift between the Abyss and [[Exandria]]. This enabled demonic forces to pour out into the ruins and surrounding city. The incursion was eventually stifled, though at a great loss of life. The civilians that remain in Bazzoxan support the warriors who keep the forces of the Abyss at bay, as well as the arcanists who work to reseal the rift and reclaim the city.
 
-The town is under martial law, with [[Aurora Watch]] soldiers keeping the peace under the current governance of [[Taskhand Verin Thelyss]]. The taskhand's lieutenants serve as minor officials and bureaucrats, and even the civilians who continue to stay are trained to defend themselves and fall into rank if malevolent forces rise from beneath their home.
+The town is under martial law, with [[Aurora Watch]] soldiers keeping the peace under the current governance of Taskhand [[Verin Thelyss]]. The taskhand's lieutenants serve as minor officials and bureaucrats, and even the civilians who continue to stay are trained to defend themselves and fall into rank if malevolent forces rise from beneath their home.
 
 With the tension of living in constant fear of demonic threat, the focus on survival in Bazzoxan leaves little room to break the law for personal gain. Even so, the rare grifter sometimes profits from gouging the price of provisions or swindling the fearful. Criminals who are caught by the Watch are sent south to [[Rosohna]] for punishment or simply executed, depending on the severity of their crimes.
 

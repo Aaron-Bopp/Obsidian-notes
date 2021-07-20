@@ -1,0 +1,1 @@
+(chaotic good, female, lightfoot halfling [scout](https://www.dndbeyond.com/monsters/scout))

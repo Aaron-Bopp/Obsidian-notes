@@ -44,7 +44,7 @@ The lands of [[Western Wynandir]] were the epicenter of [[the Calamity]]’s des
 
 While destruction came to the farthest reaches of the world during the divine conflicts of [[the Calamity]], the islands of the Lucidian Ocean off the western coast of [[Wildemount]] thought they might fare better than most. But though they were far removed from the central fury of the magics unleashed in the final battles, the region’s civilizations were instead wiped out by massive floods. Immense tidal surges left the coast drowned and empty, the islands consumed by the raging ocean, leaving behind only the most accomplished of sailors. Eventually, the waters settled once more, and nature swiftly reclaimed the lands with lush green jungles.
 
-### ![[The Ki’Nau]]
+### ![[Ki’Nau]]
 
 ### ![[The Marquesian Alliance]]
 
@@ -62,7 +62,7 @@ The fierce powers released in the conflicts of [[the Calamity]] tore through the
 
 The once thickly forested landscape of [[Xhorhas]] was the site of the final battleground of [[the Calamity]]. It was subjugated to such intense destruction at the hands of the warring gods that when the dust of the [[Divergence]] cleared, [[Eastern Wynandir]] was naught but a cracked, ashen wasteland. Ghor Dranas, the citadel of the Betrayer Gods, lay broken, cursed, and abandoned, while lingering demons and monstrosities fled to the surrounding jagged cliffs and blackened marshlands. Discarded abominations seeped from beneath the ruined earth of Xhorhas’s eastern shores, climbing past the [[Penumbra Range]] where the forgotten creations of the Betrayers were locked away.
 
-Throughout this wasteland, scattered bands of aimless men, beasts, and [[goblinkin]] battled for shelter and sustenance. These tribes were confined to their desolate home by [[the Ki’Nau]] leviathan who guarded the waters past the southern shores and the surviving [[dwarves]] of [[Grimgolir]], who prevented any Xhorhasians from moving farther west. The nomadic, warring clans fought against the harsh conditions of the valley for centuries, only able to develop small bastions of civilization within the harsh wilderness.
+Throughout this wasteland, scattered bands of aimless men, beasts, and [[goblinkin]] battled for shelter and sustenance. These tribes were confined to their desolate home by [[Ki’Nau]] leviathan who guarded the waters past the southern shores and the surviving [[dwarves]] of [[Grimgolir]], who prevented any Xhorhasians from moving farther west. The nomadic, warring clans fought against the harsh conditions of the valley for centuries, only able to develop small bastions of civilization within the harsh wilderness.
 
 ### ![[Kryn Dynasty#After the Calamity]]
 

@@ -2,7 +2,7 @@
 
 **Population:** 31,900 (68% [[humans]], 13% [[halflings]], 8% [[dwarves]], 10% other races)
 
-**Government:** The city is ruled by Marquis Zhafe Uludan, who maintains his position through his family's ties with the [[Dwendalian Empire]].
+**Government:** The city is ruled by Marquis [[Zhafe Uludan]], who maintains his position through his family's ties with the [[Dwendalian Empire]].
 
 **Defense:** A respectable army remains stationed within Nicodranas to dissuade empire foolishness. [[Zhelezo]] mingle with small squads of imperial [[Crownsguard]]. Powerful nobles and diplomats also keep hired swords and guards.
 
@@ -16,7 +16,7 @@ A lighthouse of the Wild Mother overlooks the docks of the Restless Wharf, where
 
 Sitting just beyond the southern borders of the empire, Nicodranas has been nicknamed "the Escape" for many who seek to enjoy the simple pleasures of the tropics—but also because other folk come here to flee from the dreary realities of daily life in the city's plentiful gambling houses. Some successful Dwendalian merchants have even gained the [[Cerberus Assembly]]'s approval to relocate to Nicodranas.
 
-Nicodranas is currently led by Marquis Zhafe Uludan, a powerful guildmaster who is related to Lord [[Athesias Uludan]], a respected member of the [[Cerberus Assembly]]. This connection has enabled Zhafe's family line to maintain the tenuous truce between the empire and the [[Clovis Concord]], including the controlled trade and travel between borders. The [[Zhelezo]] who guard the city intermingle with assigned Dwendalian sentries, though the overlapping jurisdiction occasionally causes conflict.
+Nicodranas is currently led by Marquis [[Zhafe Uludan]], a powerful guildmaster who is related to Lord [[Athesias Uludan]], a respected member of the [[Cerberus Assembly]]. This connection has enabled Zhafe's family line to maintain the tenuous truce between the empire and the [[Clovis Concord]], including the controlled trade and travel between borders. The [[Zhelezo]] who guard the city intermingle with assigned Dwendalian sentries, though the overlapping jurisdiction occasionally causes conflict.
 
 The awkward intersection of Dwendalian and concord law makes Nicodranas an especially dangerous place to delve into criminal activity. Both factions are competitive in their enforcement of the laws, so the local criminals are extremely cautious to avoid attention. However, many things considered unlawful within the empire are carefully regulated but nonetheless legal here, giving Nicodranas the dubious honor of being the safest place in [[Wildemount]] to indulge in one's vices.
 
