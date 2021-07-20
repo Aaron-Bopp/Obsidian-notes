@@ -32,11 +32,11 @@ A genasi character has the following racial traits.
 
 _**Ability Score Increase.**_ Your Constitution score increases by 2.
 
-_**Age.**_ Genasi mature at about the same rate as humans and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years.
+_**Age.**_ Genasi mature at about the same rate as [[humans]] and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years.
 
 _**Alignment.**_ Independent and self-reliant, genasi tend toward a neutral alignment.
 
-_**Size.**_ Genasi are as varied as their mortal parents but are generally built like humans. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+_**Size.**_ Genasi are as varied as their mortal parents but are generally built like [[humans]]. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
 Size modifier = 2d10
 

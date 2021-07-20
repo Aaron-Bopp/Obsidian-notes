@@ -1,6 +1,6 @@
 ### Shadycreek Run
 
-**Population:** 14,770 (56% humans, 15% elves, 14% dwarves, 15% other races)
+**Population:** 14,770 (56% [[humans]], 15% [[elves]], 14% [[dwarves]], 15% other races)
 
 **Government:** Four organized crime families and the citizen-run Greytrader Union vie for control of the city, while the mercenary peacekeepers of the Grudge Gang attempt to prevent complete chaos.
 

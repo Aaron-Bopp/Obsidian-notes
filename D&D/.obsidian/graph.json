@@ -39,7 +39,7 @@
       "query": "path:\"D&D/Wildemount/Character Options/Races\"",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 15662848
       }
     },
     {
@@ -140,10 +140,10 @@
   "nodeSizeMultiplier": 1.43511235955056,
   "lineSizeMultiplier": 0.333988764044944,
   "collapse-forces": false,
-  "centerStrength": 0.347058823529412,
-  "repelStrength": 14.078431372549,
-  "linkStrength": 0.617647058823529,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11305828449690682,
+  "scale": 0.08064170017783096,
   "close": false
 }

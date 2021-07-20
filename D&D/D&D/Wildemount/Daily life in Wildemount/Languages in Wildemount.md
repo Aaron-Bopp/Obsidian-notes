@@ -1,6 +1,6 @@
 ### Languages  in [[Wildemount]]
 
-All the typical languages found in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") and the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual") are fair game in [[Wildemount]]. While Common is used across the continent and typically associated with human empires, it is not the language that most humans spoke in Wildemount before the rise of [[Dwendalian Empire]] three centuries ago.
+All the typical languages found in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") and the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual") are fair game in [[Wildemount]]. While Common is used across the continent and typically associated with human empires, it is not the language that most [[humans]] spoke in Wildemount before the rise of [[Dwendalian Empire]] three centuries ago.
 
 This setting has three languages unique to the human cultures of [[Wildemount]]: Zemnian, Marquesian, and Naush. A human character can learn one of these languages instead of a skill or tool proficiency granted by their background, class, or variant racial traits. Each of these languages is described below:
 

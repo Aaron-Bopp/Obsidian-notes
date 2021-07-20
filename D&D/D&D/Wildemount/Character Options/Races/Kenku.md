@@ -24,7 +24,7 @@ A kenku character has the following racial traits.
 
 _**Ability Score Increase.**_ Your Dexterity score increases by 2, and your Wisdom score increases by 1.
 
-_**Age.**_ Kenku have shorter lifespans than humans. They reach maturity at about 12 years old and can live to 60.
+_**Age.**_ Kenku have shorter lifespans than [[humans]]. They reach maturity at about 12 years old and can live to 60.
 
 _**Alignment.**_ Kenku are chaotic creatures, rarely making enduring commitments, and they care mostly for preserving their own hides. They are generally chaotic neutral in outlook.
 

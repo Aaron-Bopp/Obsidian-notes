@@ -22,7 +22,7 @@ A goliath character has the following racial traits.
 
 _**Ability Score Increase.**_ Your Strength score increases by 2, and your Constitution score increases by 1.
 
-_**Age.**_ Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.
+_**Age.**_ Goliaths have lifespans comparable to [[humans]]. They enter adulthood in their late teens and usually live less than a century.
 
 _**Alignment.**_ Goliath society, with its clear roles and tasks, has a strong lawful bent. The goliath sense of fairness, balanced with an emphasis on self-sufficiency and personal accountability, pushes them toward neutrality.
 

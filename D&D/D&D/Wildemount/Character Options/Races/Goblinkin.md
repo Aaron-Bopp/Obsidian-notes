@@ -90,7 +90,7 @@ A hobgoblin character has the following racial traits.
 
 _**Ability Score Increase.**_ Your Constitution score increases by 2, and your Intelligence score increases by 1.
 
-_**Age.**_ Hobgoblins mature at the same rate as humans and have lifespans similar in length to theirs.
+_**Age.**_ Hobgoblins mature at the same rate as [[humans]] and have lifespans similar in length to theirs.
 
 _**Alignment.**_ Hobgoblins adhere to a strict code of honor and a rigid idea of martial discipline. Most are lawful, tending toward harsh enforcement of their laws.
 

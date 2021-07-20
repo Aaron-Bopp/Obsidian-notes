@@ -12,7 +12,7 @@ When a young sahuagin named Selachai lost her parents in a raid against the shar
 
 In the first part of the adventure, the characters are enjoying a day of relaxation or invigorating shark hunting on the sunny shores of [[Palma Flora]] when a ground-quaking tremor rocks the coast. Before their eyes, the island-based portion of the village begins to sink into the depths. Sahuagin prowl the waters, eviscerating those who try to swim to safety. The characters must fight to survive and have a chance to save as many villagers as they can before Palma Flora is overrun.
 
-In the end, the characters must leap aboard a ship fleeing the sinking village before they are overwhelmed. If they survive this attack and make it to the open water, they reach 2nd level. While aboard the ship, the characters interact with the crew and their mysterious tabaxi captain as they plan their next moves.
+In the end, the characters must leap aboard a ship fleeing the sinking village before they are overwhelmed. If they survive this attack and make it to the open water, they reach 2nd level. While aboard the ship, the characters interact with the crew and their mysterious [[tabaxi]] captain as they plan their next moves.
 
 In the last part of the adventure, characters who want to save [[Palma Flora]] and unravel the mystery of the sinking village are faced with several options. Captain [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is keen for them to undertake the quest, and many of the nearby islands offer resources for underwater adventuring that might help them.
 
@@ -142,7 +142,7 @@ _Wavechaser_ is outfitted with two ballistae on its stern for ship-to-ship comba
 
 The crew members of _Wavechaser_ are all easy to spot as they attend to their duties around the ship. Read:
 
-Most of the crew of _Wavechaser_ are secretly Revelry pirates, as is the captain of the ship—a female tabaxi with snow leopard-like spots named [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) (on account of her three earrings). The captain is in her cabin, plotting the ship’s next move.
+Most of the crew of _Wavechaser_ are secretly Revelry pirates, as is the captain of the ship—a female [[tabaxi]] with snow leopard-like spots named [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) (on account of her three earrings). The captain is in her cabin, plotting the ship’s next move.
 
 If you want to roleplay the interactions between the characters and the crew, you can fill these NPCs with as much personality as you want, making them fully fleshed-out characters:
 
@@ -156,7 +156,7 @@ If you want to roleplay the interactions between the characters and the crew, yo
 
 **Kijori (Male Human).** This tan-skinned, chaotic neutral [bandit](https://www.dndbeyond.com/monsters/bandit) is the ship’s navigator. Despite his muscled physique, he isn’t very strong. A philanderer who hails from [[Port Damali]], Kijori is a fool and isn’t suspicious of anyone.
 
-**[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) (Female Tabaxi).** This pale, spotted, neutral evil [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain) is a low-ranking member of [[the Revelry]] pirates. She brought her vessel to the village of [[Palma Flora]] because she was informed that a local sahuagin tribe had uncovered an unusual treasure. Three Earrings rightly assumed that they were going to attack the village, and she intended to be there to plunder the ruins after the attack. She didn’t anticipate Flora Isle sinking.
+**[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) (Female [[Tabaxi]]).** This pale, spotted, neutral evil [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain) is a low-ranking member of [[the Revelry]] pirates. She brought her vessel to the village of [[Palma Flora]] because she was informed that a local sahuagin tribe had uncovered an unusual treasure. Three Earrings rightly assumed that they were going to attack the village, and she intended to be there to plunder the ruins after the attack. She didn’t anticipate Flora Isle sinking.
 
 Once the characters are done chatting with the crew, have the NPC they’re currently speaking to tell them that Captain Three Earrings would like to see the characters in her cabin.
 
@@ -172,17 +172,17 @@ If a character wears or displays the shark tooth necklace taken from the sahuagi
 
 When the characters meet with Captain Three Earrings in her quarters, read:
 
-[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a pirate. More accurately, she is a member of [[the Revelry]], a highly organized coalition of buccaneers headquartered on the dread isle of [[Darktow]], many leagues west (see [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-menagerie-coast#Darktow "chapter 3")). The tabaxi is interested in the adventurers she has brought on board, wanting to appraise their skill and enrich herself in the process. Ultimately, she intends to use them as tools in her hunt for sahuagin treasure and invites them to join her crew. First, however, she needs a plan.
+[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a pirate. More accurately, she is a member of [[the Revelry]], a highly organized coalition of buccaneers headquartered on the dread isle of [[Darktow]], many leagues west (see [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-menagerie-coast#Darktow "chapter 3")). The [[tabaxi]] is interested in the adventurers she has brought on board, wanting to appraise their skill and enrich herself in the process. Ultimately, she intends to use them as tools in her hunt for sahuagin treasure and invites them to join her crew. First, however, she needs a plan.
 
-The captain of _Wavechaser_ is a cunning tabaxi [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain) with a climbing speed of 20 feet, the Feline Agility trait (see below), and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet. She can read, write, and speak Common and Sahuagin. As an action, she can make a melee weapon attack with her claws (+4 to hit), dealing 1d4 slashing damage on a hit.
+The captain of _Wavechaser_ is a cunning [[tabaxi]] [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain) with a climbing speed of 20 feet, the Feline Agility trait (see below), and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet. She can read, write, and speak Common and Sahuagin. As an action, she can make a melee weapon attack with her claws (+4 to hit), dealing 1d4 slashing damage on a hit.
 
 Three Earrings has a knack for knowing exactly what a person wants and how to offer it to them. Unless a character has a passive Charisma ([Deception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Deception)) score of 15 or higher, she is able to discern that character’s ideal, bond, and flaw simply by observing them for 10 minutes. To determine this passive score, add 10 to a character’s bonus to Charisma ([Deception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Deception)) checks.
 
 As she talks to the characters, Three Earrings glibly answers any questions they put to her (see below) and attempts to manipulate them into suggesting that they want to save [[Palma Flora]]. She only aggressively suggests a course of action if the characters appear out of their depth. Part of her strategy is to make the adventurers feel as though they are in complete control, even as she subtly directs the conversation.
 
-A character who succeeds on a DC 16 Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check catches the tabaxi captain trying to subtly goad the characters into action. If confronted, Three Earrings slyly smiles and takes note of this clever adventurer. She blithely says that she appreciates initiative, and she wants to know what the characters are capable of. If she thinks this character would make a successful pirate, she visits them during the night and offers them membership in [[the Revelry]]—if they can convince the rest of the party to help her claim the sahuagin treasure.
+A character who succeeds on a DC 16 Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check catches the [[tabaxi]] captain trying to subtly goad the characters into action. If confronted, Three Earrings slyly smiles and takes note of this clever adventurer. She blithely says that she appreciates initiative, and she wants to know what the characters are capable of. If she thinks this character would make a successful pirate, she visits them during the night and offers them membership in [[the Revelry]]—if they can convince the rest of the party to help her claim the sahuagin treasure.
 
-The tabaxi captain knows exactly what happened in [[Palma Flora]], thanks to [[the Revelry]] spies that have been observing the village and the Sharkfeather Abyss for the past few months. She reveals any of the following information:
+The [[tabaxi]] captain knows exactly what happened in [[Palma Flora]], thanks to [[the Revelry]] spies that have been observing the village and the Sharkfeather Abyss for the past few months. She reveals any of the following information:
 
 -   The earthquake dragged Flora Isle into the Sharkfeather Abyss, a nearby trench that is home to a clan of shark-herding humanoids known as sahuagin.
 -   The Sharkfeather sahuagin and the people of [[Palma Flora]] have been at odds for generations, since Palma Flora hosts an annual shark-hunting festival.
@@ -248,7 +248,7 @@ In addition to the general features noted above, [[Brokenbank]] has the followin
 
 [[Brokenbank]] is a muddy, rain-slick village crammed full of travelers. It can feel claustrophobic, and it seems as though a leering [[Zhelezo]] guard stands on every street corner.
 
-[[Brokenbank]]’s apothecary is a chubby, female sea elf [druid](https://www.dndbeyond.com/monsters/druid) named Aldageam. [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) saved Aldageam’s life when she was young, and although she doesn’t fully trust the tabaxi (who she knows is a pirate), she is happy to help her friend. She has ten [potions of water breathing](https://www.dndbeyond.com/magic-items/potion-of-water-breathing) in stock and sells them to the characters at half price for 40 gp each.
+[[Brokenbank]]’s apothecary is a chubby, female sea elf [druid](https://www.dndbeyond.com/monsters/druid) named Aldageam. [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) saved Aldageam’s life when she was young, and although she doesn’t fully trust the [[tabaxi]] (who she knows is a pirate), she is happy to help her friend. She has ten [potions of water breathing](https://www.dndbeyond.com/magic-items/potion-of-water-breathing) in stock and sells them to the characters at half price for 40 gp each.
 
 [[Brokenbank]] features a thriving pawn shop that doubles as its general store. Items sold here fetch 75 percent of their value rather than 50 percent.
 
@@ -268,11 +268,11 @@ These experimental helmets are [breathing bubbles](https://www.dndbeyond.com/mag
 
 Once the characters have concluded their business in port, [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) looks sternly at them and asks, “Are you prepared? You’re about to risk life and limb for naught but treasure and a sense of vengeance. The only folk who would do such a thing are the greedy, the foolish, and those with nothing left to lose.”
 
-A character can make a DC 16 Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check to read the tabaxi’s inscrutable face. On a success, the character discerns that Three Earrings is conflicted over something—and that she might even be looking at them sympathetically with her catlike eyes.
+A character can make a DC 16 Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check to read the [[tabaxi]]’s inscrutable face. On a success, the character discerns that Three Earrings is conflicted over something—and that she might even be looking at them sympathetically with her catlike eyes.
 
 Against her own nature, [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) has taken a liking to these adventurers (unless they have done something to annoy her) and is having second thoughts about using them as disposable tools in her attempt to gain the _[rod of retribution](https://www.dndbeyond.com/magic-items/rod-of-retribution)_.
 
-If a character confronts the tabaxi over this in private at any time before the final battle (see “[Sharkfeather Abyss](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-tide-of-retribution#DescentintoSharkfeatherAbyss "Sharkfeather Abyss")” later in this chapter), Three Earrings asks, “What’s the most important thing a captain can feel for her crew? Is it trust? Or is it pride?” The character can make a DC 13 Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check when they answer her. On a success, Three Earrings nods sadly and reconsiders her plan to use the adventurers as pawns. This choice comes into play after the final battle (see “[Concluding the Adventure](https://www.dndbeyond.com/sources/egtw/adventures-in-wildemount-tide-of-retribution#ConcludingtheAdventure "Concluding the Adventure")”).
+If a character confronts the [[tabaxi]] over this in private at any time before the final battle (see “[Sharkfeather Abyss](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-tide-of-retribution#DescentintoSharkfeatherAbyss "Sharkfeather Abyss")” later in this chapter), Three Earrings asks, “What’s the most important thing a captain can feel for her crew? Is it trust? Or is it pride?” The character can make a DC 13 Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check when they answer her. On a success, Three Earrings nods sadly and reconsiders her plan to use the adventurers as pawns. This choice comes into play after the final battle (see “[Concluding the Adventure](https://www.dndbeyond.com/sources/egtw/adventures-in-wildemount-tide-of-retribution#ConcludingtheAdventure "Concluding the Adventure")”).
 
 ### Encounter on the Open Sea
 
@@ -358,7 +358,7 @@ If the characters prevailed in the battle against Selachai, the _[rod of retribu
 
 If any of the characters convinced [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) not to think of them as pawns earlier in the adventure, she resolves to treat all the characters as friends now. She welcomes them back onto _Wavechaser_ with a huge smile, then asks the adventurers to come with her to the pirate haven of [[Darktow]]. “There’s no use in being subtle about it,” she says with a shrug. “I need to fence this thing in order to get you your gold. No place to do that but in Darktow.”
 
-If the characters refuse the offer, the tabaxi sadly accepts their decision—but she draws her cutlass and half-jokingly threatens to gut them if they ever betray her in future.
+If the characters refuse the offer, the [[tabaxi]] sadly accepts their decision—but she draws her cutlass and half-jokingly threatens to gut them if they ever betray her in future.
 
 If the characters go with Three Earrings, she is true to her word. She even invites the party to join her as pirates on _Wavechaser_—and hints that they could earn the command of their own ship if they stick with her. From this point, your campaign can continue with the characters as pirates along the [[Menagerie Coast]], or they could mutiny and try to take _Wavechaser_ for themselves.
 

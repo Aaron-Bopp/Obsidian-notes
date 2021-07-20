@@ -1,6 +1,6 @@
 ### Nicodranas
 
-**Population:** 31,900 (68% humans, 13% halflings, 8% dwarves, 10% other races)
+**Population:** 31,900 (68% [[humans]], 13% [[halflings]], 8% [[dwarves]], 10% other races)
 
 **Government:** The city is ruled by Marquis Zhafe Uludan, who maintains his position through his family's ties with the [[Dwendalian Empire]].
 

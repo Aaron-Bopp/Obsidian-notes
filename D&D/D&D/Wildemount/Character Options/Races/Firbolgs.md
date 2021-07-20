@@ -16,7 +16,7 @@ Since firbolgs are neither prone to travel nor native to the [[Menagerie Coast]]
 
 Firbolgs who travel southeast from the [[Greying Wildlands]] and cross the [[Dunrock Mountains]] might find themselves wandering the wastes of [[Xhorhas]]. The territorial monsters that prowl the wastes show no pity to unprepared wanderers, and most firbolg families know better than to undertake such a dangerous journey.
 
-With northern [[Xhorhas]] firmly under the control of the [[Kryn Dynasty]], the dark elves have saved a number of firbolg travelers from monsters over the years. Enough of those have remained in the wastes for small firbolg communities to develop in [[Rosohna]] and other major Kryn cities.
+With northern [[Xhorhas]] firmly under the control of the [[Kryn Dynasty]], the dark [[elves]] have saved a number of firbolg travelers from monsters over the years. Enough of those have remained in the wastes for small firbolg communities to develop in [[Rosohna]] and other major Kryn cities.
 
 ### Firbolg Classes
 
@@ -24,7 +24,7 @@ With northern [[Xhorhas]] firmly under the control of the [[Kryn Dynasty]], the 
 
 Firbolg
 
-Most firbolgs are druids, rangers, or fighters. Among their kind, these vocations are passed down from one generation to the next. The firbolgs’ magical heritage also expresses itself in other ways; those who become bards preserve the clan’s lore, and firbolg sorcerers defend their communities. Firbolg wizards arise when a clan becomes friendly with elves.
+Most firbolgs are druids, rangers, or fighters. Among their kind, these vocations are passed down from one generation to the next. The firbolgs’ magical heritage also expresses itself in other ways; those who become bards preserve the clan’s lore, and firbolg sorcerers defend their communities. Firbolg wizards arise when a clan becomes friendly with [[elves]].
 
 Firbolg rogues are typically scouts tasked with spying on neighboring folk to determine their intentions. They are most common among firbolgs whose homes border human settlements.
 
@@ -64,7 +64,7 @@ Weight in pounds = 175 + (2d6 × your size modifier)
 
 _**Speed.**_ Your base walking speed is 30 feet.
 
-_**Firbolg Magic.**_ You can cast [detect magic](https://www.dndbeyond.com/spells/detect-magic) and [disguise self](https://www.dndbeyond.com/spells/disguise-self) with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can’t cast it again with this trait until you finish a short or long rest. When you use this version of [disguise self](https://www.dndbeyond.com/spells/disguise-self), you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
+_**Firbolg Magic.**_ You can cast [detect magic](https://www.dndbeyond.com/spells/detect-magic) and [disguise self](https://www.dndbeyond.com/spells/disguise-self) with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can’t cast it again with this trait until you finish a short or long rest. When you use this version of [disguise self](https://www.dndbeyond.com/spells/disguise-self), you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with [[humans]] and [[elves]].
 
 _**Hidden Step.**_ As a bonus action, you can magically turn [invisible](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can’t use it again until you finish a short or long rest.
 

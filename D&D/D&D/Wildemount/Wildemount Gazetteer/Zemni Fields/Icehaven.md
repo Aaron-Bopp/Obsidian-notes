@@ -1,6 +1,6 @@
 ### Icehaven
 
-**Population:** 5,090 (71% humans, 12% elves, 10% dwarves, 7% other races)
+**Population:** 5,090 (71% [[humans]], 12% [[elves]], 10% [[dwarves]], 7% other races)
 
 **Government:** Though technically run by Ernath Noack, the Crown-appointed starosta, the town is mostly ruled by a committee of locals who pay little mind to the will of the [[Dwendalian Empire]].
 

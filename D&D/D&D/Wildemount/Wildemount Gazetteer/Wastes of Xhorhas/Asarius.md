@@ -1,6 +1,6 @@
 ### Asarius, the City of Beasts
 
-**Population:** 48,025 (41% goblinoids, 32% gnolls, 10% dark elves, 17% other races)
+**Population:** 48,025 (41% goblinoids, 32% gnolls, 10% dark [[elves]], 17% other races)
 
 **Government:** Den Olios governs the city, the laws of which are enforced and monitored by captains of the [[Aurora Watch]].
 
@@ -18,7 +18,7 @@ Although the establishment of Asarius was initially fraught, the city quickly gr
 
 Asarius, the City of Beasts
 
-The wastes have always bred strong peoples who could survive despite the harsh environment, deadly wildlife, and scarce resources. Many of the [[wastefolk]] fought each other over hunting grounds and territory until the Kryn rebuffed attempts at violence and instead offered to bring together the tribes for the common goal of mutually assured survival. Some were intrigued by the opportunity, while others did not fully trust the strange elves who chose to wield words instead of swords. The early establishment of Asarius was marked by conflict, and while the community has since flourished, there are still many who live beneath the dynasty's protection but mistrust the dark elves' intentions.
+The wastes have always bred strong peoples who could survive despite the harsh environment, deadly wildlife, and scarce resources. Many of the [[wastefolk]] fought each other over hunting grounds and territory until the Kryn rebuffed attempts at violence and instead offered to bring together the tribes for the common goal of mutually assured survival. Some were intrigued by the opportunity, while others did not fully trust the strange [[elves]] who chose to wield words instead of swords. The early establishment of Asarius was marked by conflict, and while the community has since flourished, there are still many who live beneath the dynasty's protection but mistrust the dark elves' intentions.
 
 While many see the establishment of Asarius as pure altruism on the part of the [[Kryn Dynasty]], one cannot deny the importance of the city's central location among the wastes and strategic proximity to the border of the empire. The Bright Queen has transformed the tiny township into a gargantuan military hub for the dynasty, enlisting many thousands of [[wastefolk]] to form the backbone of its standing army. Wide swaths of military tents cover the western outskirts of the city as countless soldiers prepare for the coming conflicts in the west, training atop the terrifying war beasts and towering war machines brought from [[Rosohna]] or built alongside the towering walls of Asarius.
 

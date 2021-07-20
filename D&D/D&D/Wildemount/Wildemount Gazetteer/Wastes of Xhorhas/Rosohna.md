@@ -1,6 +1,6 @@
 ### Rosohna (Ghor Dranas)
 
-**Population:** 113,190 (66% dark elves, 9% goblins, 7% duergar, 18% other races)
+**Population:** 113,190 (66% dark [[elves]], 9% goblins, 7% duergar, 18% other races)
 
 **Government:** The twelve ruling dark elf Dens oversee the city, all at the command of Den Kryn and the Bright Queen herself.
 
@@ -52,7 +52,7 @@ _**Firmaments.**_ Near the center of Rosohna, travelers will find the Firmaments
 
 _**Lucid Bastion.**_ Located at the very center of Rosohna is the awe-inspiring and towering citadel of the Lucid Bastion. This impressive cathedral is built from the ruins of Virkwzual and now stands as the symbol of Kryn rebirth and their faith in the light of [[the Luxon]]. The Lucid Bastion's spires of gray quartz pierce the sky, and the soft interior glow that suffuses the interior chambers never darkens, shining over the city day and night. Major religious events are centered around the Bastion, for it houses the "heart of consecution," the first [Luxon beacon](https://www.dndbeyond.com/magic-items/luxon-beacon) to have been discovered. Within these halls, the Bright Queen, her trusted [[Umavi]], and their Dens work to govern and protect all citizens of the [[Kryn Dynasty]].
 
-_**Shadowshire.**_ Several well-guarded stairways curl beneath the Firmaments, descending under the surface of [[Xhorhas]] into the Shadowshire, a vast subterranean district built throughout the reclaimed prisons of [[Torog]]. Less affluent dark elves live among the stone and glass abodes built into the rock and sediment. Caverns amass bioluminescent fungi to be harvested for food and medicine, while enchanted lanterns light the various levels with a soft and many-colored luminescence. A magical underground farmland has been established here, where sunless crops are grown to feed the city. The second entrance of the Dungeon of Penance is located within the Shadowshire.
+_**Shadowshire.**_ Several well-guarded stairways curl beneath the Firmaments, descending under the surface of [[Xhorhas]] into the Shadowshire, a vast subterranean district built throughout the reclaimed prisons of [[Torog]]. Less affluent dark [[elves]] live among the stone and glass abodes built into the rock and sediment. Caverns amass bioluminescent fungi to be harvested for food and medicine, while enchanted lanterns light the various levels with a soft and many-colored luminescence. A magical underground farmland has been established here, where sunless crops are grown to feed the city. The second entrance of the Dungeon of Penance is located within the Shadowshire.
 
 _**Dungeon of Penance.**_ The many levels of the Dungeon of Penance delve under the city. This terrifying oubliette bears the marks of the [[Kryn Dynasty]]'s renovations on its upper levels, but become less explored and less changed from the days of Ghor Dranas the deeper one delves.
 

@@ -1,6 +1,6 @@
 ### Rexxentrum
 
-**Population:** 205,200 (81% humans, 8% dwarves, 6% halflings, 5% other races)
+**Population:** 205,200 (81% [[humans]], 8% [[dwarves]], 6% [[halflings]], 5% other races)
 
 **Government:** [[King Bertrand Dwendal]] rules the city and the [[Dwendalian Empire]] from Rexxentrum. He delegates lesser matters to Arbiter [[Sydnock Truscan]], while citywide guild business falls under the purview of Guildmaster [[Kai Arness]].
 

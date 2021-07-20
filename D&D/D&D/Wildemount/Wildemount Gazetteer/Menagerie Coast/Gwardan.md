@@ -1,6 +1,6 @@
 ### Gwardan
 
-**Population:** 18,900 (63% elves, 16% humans, 11% gnomes, 10% other races)
+**Population:** 18,900 (63% [[elves]], 16% [[humans]], 11% [[gnomes]], 10% other races)
 
 **Government:** The city is governed by the four Noldar, one of whom must act as marquis.
 
@@ -10,11 +10,11 @@
 
 **Organizations:** The Houses of Sagacity (see "Geography" below) are the center of worship, though small shrines dot the city. The [[Clovis Concord]] is involved in the city's affairs, though kept peripheral by the Noldar. Myriad interests are slowly invading.
 
-After the sea guardian of the Ki'Nau was banished, the [[Menagerie Coast]] received an influx of travelers from [[Marquet]]. Many Ki'Nau of elven heritage joined the desert elves of Marquet to seek a new home. They traveled inland toward the protection of the [[Cyrios Mountains]], where precious metals and stones lay unclaimed, and paid their respects to the fey folk of the Doralle, taking only what lumber they felt was needed. Together, they built a new center for elven culture among the fields outside the forest.
+After the sea guardian of the Ki'Nau was banished, the [[Menagerie Coast]] received an influx of travelers from [[Marquet]]. Many Ki'Nau of elven heritage joined the desert [[elves]] of Marquet to seek a new home. They traveled inland toward the protection of the [[Cyrios Mountains]], where precious metals and stones lay unclaimed, and paid their respects to the fey folk of the Doralle, taking only what lumber they felt was needed. Together, they built a new center for elven culture among the fields outside the forest.
 
 When the [[Clovis Concord]] was established, Gwardan was the force that mandated autonomy between each city-state. The elegantly carved wooden arches of Gwardan rise out of the fields like the waving grass writ large, with neighborhoods of domed yurts rising into tall spires of brass and silver. The Houses of Sagacity allow a limited number of students annually to join their halls to seek higher knowledge.
 
-The elves of Gwardan built sprawling mines throughout the nearby mountains, becoming the most renowned metallurgists and smiths across the [[Menagerie Coast]]. The mingling of elven cultures has occasioned the guarded development of a unique style of metalworking. Blending organic designs with super-heated caustic mists, the "steamcasting" process imbues metal with a prismatic shimmer and enables cheap, brittle materials to become as workable and as strong as steel. Gwardan is known across [[Exandria]] for its unique steamcast goods, and no one else has managed to get the style quite right, making Gwardan's decor, jewelry, and weapons coveted throughout the world.
+The [[elves]] of Gwardan built sprawling mines throughout the nearby mountains, becoming the most renowned metallurgists and smiths across the [[Menagerie Coast]]. The mingling of elven cultures has occasioned the guarded development of a unique style of metalworking. Blending organic designs with super-heated caustic mists, the "steamcasting" process imbues metal with a prismatic shimmer and enables cheap, brittle materials to become as workable and as strong as steel. Gwardan is known across [[Exandria]] for its unique steamcast goods, and no one else has managed to get the style quite right, making Gwardan's decor, jewelry, and weapons coveted throughout the world.
 
 General city affairs are overseen by the Noldar, a council of four figures who represent the larger facets of Gwardan society. Though the Noldar were established in the interest of fairness, they were forced to select one of their number as their marquis when Gwardan entered into the [[Clovis Concord]]. Currently, Marquis Vasan Atrith has led the Gwardan people for just under a century, and is seen as both just and forthright.
 

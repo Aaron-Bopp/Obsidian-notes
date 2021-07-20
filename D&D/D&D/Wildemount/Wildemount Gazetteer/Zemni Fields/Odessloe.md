@@ -1,6 +1,6 @@
 ### Odessloe
 
-**Population:** 6,970 (73% humans, 12% elves, 8% dwarves, 7% other races)
+**Population:** 6,970 (73% [[humans]], 12% [[elves]], 8% [[dwarves]], 7% other races)
 
 **Government:** Starosta Vesdan Wothassic is eager to please the Crown and demands huge harvests from the fishers of Odessloe. As resentment builds, the few noble families who have business interests here work with Watchmaster Lein Untgaf to maintain order.
 

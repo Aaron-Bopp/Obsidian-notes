@@ -8,7 +8,7 @@ Even though the human-majority civilizations of the [[Dwendalian Empire]] and th
 
 ### Elves in the [[Dwendalian Empire]]
 
-Though the dark elves of [[Xhorhas]] are the subject of imperial propaganda and widespread prejudice, elves of other kinds living within the empire are generally treated as friends and allies. Imperial humans love to revere elves as ethereal, flawless beings, and to express shock when elves reveal the ways that they are all-to similar to humans. Elves who maintain their “exotic mystique” are most likely to become respected members of society, and many hold great social power within cities such as [[Zadash]] and [[Rexxentrum]].
+Though the dark elves of [[Xhorhas]] are the subject of imperial propaganda and widespread prejudice, elves of other kinds living within the empire are generally treated as friends and allies. Imperial [[humans]] love to revere elves as ethereal, flawless beings, and to express shock when elves reveal the ways that they are all-to similar to humans. Elves who maintain their “exotic mystique” are most likely to become respected members of society, and many hold great social power within cities such as [[Zadash]] and [[Rexxentrum]].
 
 ### Elves on the [[Menagerie Coast]]
 

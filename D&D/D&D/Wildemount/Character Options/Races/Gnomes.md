@@ -10,7 +10,7 @@ The forest gnomes of the [[Velvin Thicket]] have resisted imperial takeover for 
 
 ### Gnomes on the [[Menagerie Coast]]
 
-Large numbers of gnomes live within the [[Clovis Concord]], primarily in the city of [[Gwardan]], where a group of gnomes who seceded from [[Hupperdook]] settled before the Concord’s founding. Just as the elves of Gwardan were the metaphorical architects of the original concordance that founded the nation of city-states, the gnomes of Gwardan were the literal architects of the Clovis Concord’s magnificent cities and halls of governance. A rock gnome by the name of Ionia Marbleweaver is revered as the grandmother of Concordian art and architecture for her innovative use of columns, frescoes, and friezes, all of which feature prominently in the great buildings of the [[Menagerie Coast]]’s cities.
+Large numbers of gnomes live within the [[Clovis Concord]], primarily in the city of [[Gwardan]], where a group of gnomes who seceded from [[Hupperdook]] settled before the Concord’s founding. Just as the [[elves]] of Gwardan were the metaphorical architects of the original concordance that founded the nation of city-states, the gnomes of Gwardan were the literal architects of the Clovis Concord’s magnificent cities and halls of governance. A rock gnome by the name of Ionia Marbleweaver is revered as the grandmother of Concordian art and architecture for her innovative use of columns, frescoes, and friezes, all of which feature prominently in the great buildings of the [[Menagerie Coast]]’s cities.
 
 ### Gnomes in [[Xhorhas]]
 

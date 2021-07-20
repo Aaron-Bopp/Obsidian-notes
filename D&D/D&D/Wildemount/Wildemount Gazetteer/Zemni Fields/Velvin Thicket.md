@@ -1,6 +1,6 @@
 ### Velvin Thicket
 
-**Population:** 850 (98% gnomes, 2% other races)
+**Population:** 850 (98% [[gnomes]], 2% other races)
 
 **Government:** The people of the Thicket are governed by a loose union between the leaders of the Velvins, the collection of local nomadic clans who convene only when threatened.
 
@@ -14,4 +14,4 @@ Bordering the soggy fields of the [[Saltwallow Bog]] is the strange forest known
 
 The gnome families that live in the Velvin Thicket are suspicious of outsiders. The [[Cerberus Assembly]]'s interest in the area might be enough to bring the characters to this strange place.
 
-_**Dyolet Mounds (Mid Level).**_ Herwin Melvot (chaotic neutral, male, forest gnome [mage](https://www.dndbeyond.com/monsters/mage)) attempted to grow a new kind of dyolet with magic. His experiment resulted in shambling mounds made of dyolet plants that terrorize the Thicket. The gnomes allow the characters into the forest if the adventurers slay the plant monsters.
+_**Dyolet Mounds (Mid Level).**_ Herwin Melvot (chaotic neutral, male, forest gnome [mage](https://www.dndbeyond.com/monsters/mage)) attempted to grow a new kind of dyolet with magic. His experiment resulted in shambling mounds made of dyolet plants that terrorize the Thicket. The [[gnomes]] allow the characters into the forest if the adventurers slay the plant monsters.

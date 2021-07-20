@@ -1,6 +1,6 @@
 ### Ashguard Garrison
 
-**Population:** 5,720 (74% dark elves, 26% other races)
+**Population:** 5,720 (74% dark [[elves]], 26% other races)
 
 **Government:** The garrison is currently helmed by the acting general of the Kryn forces holding the stronghold.
 

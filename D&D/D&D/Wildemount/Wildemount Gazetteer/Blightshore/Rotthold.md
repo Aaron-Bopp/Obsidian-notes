@@ -1,6 +1,6 @@
 ### Rotthold
 
-**Population:** 8,800 (30% humans, 15% dark elves, 15% goblins, 15% tieflings, 5% [[hollow ones]], 20% other races)
+**Population:** 8,800 (30% [[humans]], 15% dark [[elves]], 15% goblins, 15% [[tieflings]], 5% [[hollow ones]], 20% other races)
 
 **Government:** Rotthold has no official governing body but is held together by a consortium of local guild leaders, merchants, and veteran adventurers who meet in secret once a week to discuss current affairs, shared interests, and potential threats.
 

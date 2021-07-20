@@ -50,7 +50,7 @@ In the [[Dwendalian Empire]], rural folk are seen as honest, hardworking, and pi
 
 **_Greying Wildlands._** The [[Greying Wildlands]] and the settlement of [[Shadycreek Run]] are lawless. Crime is a virtue here, mercy a vice. Only strength rules in the land run by the coalition of criminals known as “the Tribes.” Anyone who doesn’t have the personal strength to defend themself is treated with contempt, and those who represent the iron fist of the empire are utterly despised.
 
-Travel farther north, however, and one reaches the [[Diarchy of Uthodurn]], a stable and ancient city ruled by elves and dwarves. Here, order and art are prized over chaos and personal enrichment. If your character is from [[Uthodurn]] rather than [[Shadycreek Run]], replace any rival you gain from the Social Status Relationships table with an ally, and vice-versa.
+Travel farther north, however, and one reaches the [[Diarchy of Uthodurn]], a stable and ancient city ruled by [[elves]] and [[dwarves]]. Here, order and art are prized over chaos and personal enrichment. If your character is from [[Uthodurn]] rather than [[Shadycreek Run]], replace any rival you gain from the Social Status Relationships table with an ally, and vice-versa.
 
 **_Eastern Wynandir._** Accumulating knowledge and achieving spiritual enlightenment are the virtues of the [[Kryn Dynasty]], whose society is built around the tenets of [[the Luxon]]. Artists, entertainers, artisans, and all people who create are well-valued in Kryn society. Yet in this age of war, people whose skills allow them to destroy are paradoxically prized just as highly.
 

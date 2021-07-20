@@ -13,51 +13,52 @@ This section also includes information on what a typical character from each of 
 
 In addition to the races of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"), [[Wildemount]] is home to many other races, including the following:
 
-[[Aarakocra in Exandria]] bird-like humanoids who roost on isolated mountaintops
-[[Aasimar in Exandria]] beings who gain supernatural power from the angelic spark in their souls
-[[Firbolgs in Exandria]] forest guardians who engage in peaceful methods to protect their homes
-[[Genasi in Exandria]] humanoids imbued with elemental power as a result of their birth
-[[Goblinkin in Exandria]] outcast scavengers descended from the experiments of a dark god
-[[Goliaths in Exandria]] hulking wanderers who dwell atop the highest mountains
-[[Kenku in Exandria]] accursed corvine humanoids who can speak only using mimicry
-[[Tortles in Exandria]] tortoise-like humanoids with an innate connection to the sea
+[[Aarakocra]] in [[Exandria]] bird-like humanoids who roost on isolated mountaintops
+[[Aasimar]] in [[Exandria]] beings who gain supernatural power from the angelic spark in their souls
+[[Firbolgs]] in [[Exandria]] forest guardians who engage in peaceful methods to protect their homes
+[[Genasi]] in [[Exandria]] humanoids imbued with elemental power as a result of their birth
+[[Goblinkin]] in [[Exandria]] outcast scavengers descended from the experiments of a dark god
+[[Goliaths]] in [[Exandria]] hulking wanderers who dwell atop the highest mountains
+[[Kenku]] in [[Exandria]] accursed corvine humanoids who can speak only using mimicry
+[[Tortles]] in [[Exandria]] tortoise-like humanoids with an innate connection to the sea
 
-The dominant races of [[Wildemount]]—dwarves, elves, halflings, and humans—are presented first in this section, followed by the less common races in alphabetical order.
+The dominant races of [[Wildemount]]—[[dwarves]], [[elves]], [[halflings]], and [[humans]]—are presented first in this section, followed by the less common races in alphabetical order.
 
-## ![[Dwarves in Exandria]]
-
-## ![[Elves in Exandria]]
-
-## ![[Halflings in Exandria]]
-
-## ![[Humans in Exandria]]
-
-## ![[Aarakocra in Exandria]]
-
-## ![[Aasimar in Exandria]]
-
-## ![[Dragonborn in Exandria]]
-
-## ![[Firbolgs in Exandria]]
-
-## ![[Genasi in Exandria]]
-
-## ![[Gnomes in Exandria]]
-
-## ![[Goblinkin in Exandria]]
-
-## ![[Goliaths in Exandria]]
-
-## ![[Half-Elves in Exandria]]
-
-## ![[Kenku in Exandria]]
-
-## ![[Orcs and Half-Orcs in Exandria]]
-
-## ![[Tabaxi in Exandria]]
-
-## ![[Tieflings in Exandria]]
-
-## ![[Tortles in Exandria]]
-
-## ![[Hollow Ones]]
+## Dwarves in Exandria
+![[Dwarves]]
+## Elves in Exandria
+![[Elves]]
+## Halflings in Exandria
+![[Halflings]]
+## Humans in Exandria
+![[Humans]]
+## Aarakocra in Exandria
+![[Aarakocra]]
+## Aasimar in Exandria
+![[Aasimar]]
+## Dragonborn in Exandria
+![[Dragonborn]]
+## Firbolgs in Exandria
+![[Firbolgs]]
+## Genasi in Exandria
+![[Genasi]]
+## Gnomes in Exandria
+![[Gnomes]]
+## Goblinkin in Exandria
+![[Goblinkin]]
+## Goliaths in Exandria
+![[Goliaths]]
+## Half-Elves in Exandria
+![[Half-Elves]]
+## Kenku in Exandria
+![[Kenku]]
+## Orcs and Half-Orcs in Exandria
+![[Orcs and Half-Orcs]]
+## Tabaxi in Exandria
+![[Tabaxi]]
+## Tieflings in Exandria
+![[Tieflings]]
+## Tortles in Exandria
+![[Tortles]]
+## Hollow Ones
+![[Hollow Ones]]

@@ -1,6 +1,6 @@
 ### Jigow
 
-**Population:** 13,210 (56% goblinkin, 31% orcs, 13% other races)
+**Population:** 13,210 (56% [[goblinkin]], 31% orcs, 13% other races)
 
 **Government:** The assigned taskhand, Durth Mirimm, has a strained partnership with the two elder leaders of the goblin and orc clans.
 

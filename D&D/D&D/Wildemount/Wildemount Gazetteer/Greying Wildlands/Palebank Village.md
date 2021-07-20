@@ -1,6 +1,6 @@
 ### Palebank Village
 
-**Population:** 690 (61% dwarves, 32% elves, 3% gnomes, 4% other races)
+**Population:** 690 (61% [[dwarves]], 32% [[elves]], 3% [[gnomes]], 4% other races)
 
 **Government:** The elf ranger Elro Aldataur is the appointed leader of the village. He delegates tasks to proven friends and trustworthy allies.
 

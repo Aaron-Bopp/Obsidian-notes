@@ -28,11 +28,11 @@ A tabaxi character has the following racial traits.
 
 _**Ability Score Increase.**_ Your Dexterity score increases by 2, and your Charisma score increases by 1.
 
-_**Age.**_ Tabaxi have lifespans equivalent to humans.
+_**Age.**_ Tabaxi have lifespans equivalent to [[humans]].
 
 _**Alignment.**_ Tabaxi tend toward chaotic alignments, as they let impulse and fancy guide their decisions. They are rarely evil, with most of them driven by curiosity rather than greed and other dark impulses.
 
-_**Size.**_ Tabaxi are taller on average than humans and relatively slender. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+_**Size.**_ Tabaxi are taller on average than [[humans]] and relatively slender. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
 Size modifier = 2d10
 

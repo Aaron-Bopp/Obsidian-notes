@@ -1,6 +1,6 @@
 ### Felderwin
 
-**Population:** 8,180 (58% halflings, 21% humans, 6% dragonborn, 15% other races)
+**Population:** 8,180 (58% [[halflings]], 21% [[humans]], 6% [[dragonborn]], 15% other races)
 
 **Government:** The locally elected starosta, Theanor Whisperthin, works with the Crown-appointed lawmaster to organize and distribute the harvests.
 
@@ -14,7 +14,7 @@ Felderwin is the heart of halfling society in Wynandir. The settlement itself is
 
 This area was originally settled by the halfling Felder clan many centuries ago, and the community has always valued the simple, grounded life of a farmer. The exceedingly fertile soil surrounding Felderwin is known throughout the empire, and the best farmers and students of agriculture in the land have settled here. As such, the agricultural skills taught in Felderwin are second to none.
 
-Some family bloodlines have tilled the earth for as long as Felderwin has existed and fiercely guard their plots against any incursion — be it from other farmers, local goblins, or invading dark elves. Nomadic goblin camps moving through the nearby [[Cyrios Mountains]] often encroach in the dark of night during harvest time.
+Some family bloodlines have tilled the earth for as long as Felderwin has existed and fiercely guard their plots against any incursion — be it from other farmers, local goblins, or invading dark [[elves]]. Nomadic goblin camps moving through the nearby [[Cyrios Mountains]] often encroach in the dark of night during harvest time.
 
 Without Felderwin, the [[Dwendalian Empire]] — and the imperial military — would surely starve. Recognizing the importance of Felderwin's fertile fields, the Crown has allowed the settlement's starosta to be selected by the local community instead of appointing a leader from [[Rexxentrum]]. When the starosta dies or is deposed, the community votes on their replacement. The current starosta, Theanor Whisperthin, has served the community for over thirty years and does his best to maintain order. However, Theanor is under pressure by his assigned overseer on the [[Cerberus Assembly]], Marquis Jenna Iresor, to expand the settlement's contributions to the war effort — or be replaced.
 

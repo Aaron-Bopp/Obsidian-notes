@@ -1,6 +1,6 @@
 ### Palma Flora
 
-**Population:** 1,780 (68% humans, 13% halflings, 11% dwarves, 8% other races)
+**Population:** 1,780 (68% [[humans]], 13% [[halflings]], 11% [[dwarves]], 8% other races)
 
 **Government:** An elder manages settlement-wide issues, but most people tend to their own affairs.
 

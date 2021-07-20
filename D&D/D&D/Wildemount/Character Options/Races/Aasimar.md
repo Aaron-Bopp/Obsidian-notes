@@ -1,6 +1,6 @@
 ## Aasimar
 
-The light of the gods still shines upon [[Exandria]], even from behind the [[Divine Gate]]. Aasimar are the purest expression of that divine light as it burns within every mortal soul, for the souls of those blessed with an angelic ancestor blaze brighter than any other. Even rarer than the tieflings with whom they share a commonality of ancestry, aasimar are mortal, and yet are understood to be destined for a grander cosmic purpose than others around them. In every culture across the continent of [[Wildemount]], the birth of an aasimar is seen as a blessing and a portent.
+The light of the gods still shines upon [[Exandria]], even from behind the [[Divine Gate]]. Aasimar are the purest expression of that divine light as it burns within every mortal soul, for the souls of those blessed with an angelic ancestor blaze brighter than any other. Even rarer than the [[tieflings]] with whom they share a commonality of ancestry, aasimar are mortal, and yet are understood to be destined for a grander cosmic purpose than others around them. In every culture across the continent of [[Wildemount]], the birth of an aasimar is seen as a blessing and a portent.
 
 Aasimar who can bear the burden of their destiny become champions of noble causes, and encourage others to walk always in the light. More often than not, however, an aasimar saddled with a vague destiny and the grand aspirations of their clan ultimately falls from grace, their inner light succumbing to shadow.
 
@@ -94,11 +94,11 @@ An aasimar character has the following racial traits.
 
 _**Ability Score Increase.**_ Your Charisma score increases by 2.
 
-_**Age.**_ Aasimar mature at the same rate as humans, but they can live up to 160 years.
+_**Age.**_ Aasimar mature at the same rate as [[humans]], but they can live up to 160 years.
 
 _**Alignment.**_ Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil.
 
-_**Size.**_ Aasimar have the same range of height and weight as humans. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+_**Size.**_ Aasimar have the same range of height and weight as [[humans]]. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
 Size modifier = 2d10
 

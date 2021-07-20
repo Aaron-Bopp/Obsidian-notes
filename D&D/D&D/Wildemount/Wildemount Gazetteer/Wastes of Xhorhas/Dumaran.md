@@ -12,6 +12,6 @@ While crimes occur from time to time, the threat of swift and brutal punishment 
 
 Those who serve the Spider Queen in [[Xhorhas]] often pass through Dumaran, and heroes who seek to end her poisonous influence might attempt to destroy the stronghold.
 
-_**Matron of Malice (Mid Level).**_ The [[Kryn Dynasty]] aims to create upheaval within Dumaran by hiring the characters to infiltrate the fortress and assassinate Head Matron [[Vivurk Tonn]]. To get to her, the characters are given potions that can polymorph them into dark elves for 24 hours.
+_**Matron of Malice (Mid Level).**_ The [[Kryn Dynasty]] aims to create upheaval within Dumaran by hiring the characters to infiltrate the fortress and assassinate Head Matron [[Vivurk Tonn]]. To get to her, the characters are given potions that can polymorph them into dark [[elves]] for 24 hours.
 
 _**A Looming Visit (High Level).**_ Intercepted messages between the [[Children of Malice]] speak of a ritual that is being prepared in the heart of Dumaran in the coming weeks. Victims have been captured for a mass sacrifice, and the messages mention a "great arrival." The [[Kryn Dynasty]] hires the characters to uncover more information about this ritual, attempt to release any prisoners, and, should the opportunity present itself, stop this ritual or destroy whatever arrives at its completion.

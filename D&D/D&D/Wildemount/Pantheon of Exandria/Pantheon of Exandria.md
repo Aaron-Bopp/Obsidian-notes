@@ -42,7 +42,7 @@ Silver dragon’s head in profile
 
 CG
 
-Art, beauty, elves
+Art, beauty, [[elves]]
 
 Arcana,\*\* Light
 

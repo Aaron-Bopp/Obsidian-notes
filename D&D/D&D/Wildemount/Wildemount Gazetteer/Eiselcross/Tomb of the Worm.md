@@ -1,6 +1,6 @@
 ### Tomb of the Worm
 
-**Population:** 345 (83% humans, 17% halflings)
+**Population:** 345 (83% [[humans]], 17% [[halflings]])
 
 **Government:** [[Quajath]] commands the settlement's inhabitants telepathically, though a cult fanatic named Galgonos serves as the Tomb of the Worm's leader for day-to-day operations.
 

@@ -1,6 +1,6 @@
 ### Zadash
 
-**Population:** 89,210 (70% humans, 11% halflings, 9% dwarves, 10% other races)
+**Population:** 89,210 (70% [[humans]], 11% [[halflings]], 9% [[dwarves]], 10% other races)
 
 **Government:** Starosta Wyatt Fedar is the city's nominal leader, but nothing gets done without the assent of the lawmaster, other Crown-appointed officials, and the wealthy elite.
 

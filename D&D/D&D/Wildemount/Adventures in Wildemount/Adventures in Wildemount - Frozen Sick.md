@@ -100,7 +100,7 @@ Any character with a passive Wisdom ([Perception](https://www.dndbeyond.com/comp
 
 The antique shop occupies the large front room of the cabin. When the characters can see into this area, read:
 
-This area is difficult terrain thanks to the debris covering it. The five elves are [bandits](https://www.dndbeyond.com/monsters/bandit) with [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet, advantage on saving throws against being [charmed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed), and immunity to magic that would put them to sleep.
+This area is difficult terrain thanks to the debris covering it. The five [[elves]] are [bandits](https://www.dndbeyond.com/monsters/bandit) with [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet, advantage on saving throws against being [charmed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed), and immunity to magic that would put them to sleep.
 
 The bandits attack as soon as they notice the characters, fighting until only one remains. That survivor then surrenders. If a captive bandit is questioned, a character who succeeds on a DC 10 Charisma ([Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation)) check can learn the following information:
 
@@ -135,7 +135,7 @@ The frogs spend much of their time resting in pools of murky, frigid water in Cr
 
 ### Uttolot Bandits
 
-The bandits sent out with Hulil by the Uttolot family are all dwarves and elves. Up to ten bandits normally occupy Croaker Cave, but only three are currently present (in [area C2](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#C2TrainingPool "area C2")). They use the [bandit](https://www.dndbeyond.com/monsters/bandit) stat block and have [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet. In addition, the dwarves have resistance to poison damage and have advantage on saving throws against poison; the elves have advantage on saving throws against being [charmed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed) and immunity to magic that would put them to sleep
+The bandits sent out with Hulil by the Uttolot family are all [[dwarves]] and [[elves]]. Up to ten bandits normally occupy Croaker Cave, but only three are currently present (in [area C2](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#C2TrainingPool "area C2")). They use the [bandit](https://www.dndbeyond.com/monsters/bandit) stat block and have [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet. In addition, the dwarves have resistance to poison damage and have advantage on saving throws against poison; the elves have advantage on saving throws against being [charmed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed) and immunity to magic that would put them to sleep
 
 Uttolot bandits attack any intruders on sight. Each fights until reduced to half its hit points or fewer, then flees the caves. If the characters capture an Uttolot bandit, they can learn the following information with a successful DC 10 Charisma ([Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation)) check:
 
@@ -180,7 +180,7 @@ The floor of this area is covered in slippery bat guano. Whenever a creature sta
 
 One of the bedrolls covers the opening of a 10-foot-deep pit trap. The trap can be spotted with a DC 10 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check. If not spotted, anyone walking across the bedroll falls into the pit, taking 3 (1d6) bludgeoning damage and landing [prone](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Prone). A creature that falls into the pit makes enough noise that the bandits in [area C2](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#C2TrainingPool "area C2") investigate.
 
-Searching all the bedrolls reveals that one contains an unopened bottle of Bald Dwarf Whisky (worth 25 gp), an alcohol made by elves in [[Uthodurn]].
+Searching all the bedrolls reveals that one contains an unopened bottle of Bald Dwarf Whisky (worth 25 gp), an alcohol made by [[elves]] in [[Uthodurn]].
 
 ### C5. Old Croaker’s Pool
 
@@ -299,7 +299,7 @@ Orvo is grief-stricken to hear about the demise of his friend Urgon Wenth. If th
 -   Orvo and Urgon found the blue vials in Salsvault, an Aeorian ruin partially submerged in water in a region of Foren where the glacial ice is thin. Explorers call this region Thin Sheets. Orvo believes the ruin is as well preserved as it is because the structure was reinforced with magic, as were many of [[Aeor]]’s buildings that housed hazardous materials or secret projects.
 -   Salsvault is two hundred miles northwest of [[Syrinlya]]. Ice mephits are drawn to the magic of something at that location. Orvo and Urgon found the ruin after following one of the creatures.
 -   Salsvault appears to have been an Aeorian lab. Orvo and Urgon explored only three of its chambers before being chased away by animated suits of armor.
--   The dwarves didn’t know what the vials contained.
+-   The [[dwarves]] didn’t know what the vials contained.
 -   Orvo sold his share of the treasure from Salsvault to the Buyer. Urgon decided to hang onto his share until he returned home to [[Palebank Village]].
 
 ## Into the Wilds

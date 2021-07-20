@@ -32,7 +32,7 @@ Campaigns set in the [[Biting North]] often involve morally gray characters butt
 
 ### [[Kryn Dynasty]]
 
-The [[Kryn Dynasty]] is an empire made up of dark elves (drow) and other humanoids typically considered to be monsters by the other nations of [[Wildemount]], such as minotaurs, goblinkin, and gnolls. The Kryn Dynasty rules over the wastes of [[Xhorhas]], a land once blighted by the rule of the Betrayer Gods when immortals still walked the land. The Kryn safeguard a secret; if your players haven’t seen any of Critical Role, revealing this secret could mark the turning point of a campaign.
+The [[Kryn Dynasty]] is an empire made up of dark [[elves]] (drow) and other humanoids typically considered to be monsters by the other nations of [[Wildemount]], such as minotaurs, [[goblinkin]], and gnolls. The Kryn Dynasty rules over the wastes of [[Xhorhas]], a land once blighted by the rule of the Betrayer Gods when immortals still walked the land. The Kryn safeguard a secret; if your players haven’t seen any of Critical Role, revealing this secret could mark the turning point of a campaign.
 
 A campaign set in [[Xhorhas]] will doubtless involve the war between the [[Kryn Dynasty]] and the [[Dwendalian Empire]], but it can also include traditional dungeon crawls, political intrigue within the courts of the dynasty, or even wilderness exploration that could unearth secrets lost since the fall of the Betrayer Gods.
 

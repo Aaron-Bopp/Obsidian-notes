@@ -1,6 +1,6 @@
 ### Bladegarden
 
-**Population:** 9,910 (32% half-orcs, 21% orcs, 25% humans, 22% other races)
+**Population:** 9,910 (32% half-orcs, 21% orcs, 25% [[humans]], 22% other races)
 
 **Government:** General Kruth Doorav and Starosta Leman TuFinn are often at odds, but work together to manage Bladegarden.
 
@@ -14,7 +14,7 @@ When the Julous Dominion was defeated, the expanding empire saw the nomadic Odak
 
 From this accord, the new Righteous Brand training facility in the central [[Marrow Valley]] was established. Bladegarden was the site of one of the bloodiest battles of [[the Calamity]]; its name referred to the volume of weaponry scavenged by orcs from the war-ravaged earth, and has since been adapted to the idea that warriors are grown within its walls. Bladegarden is both a training complex and the core of orcish society in [[Western Wynandir]]. Contests of skill and might are commonplace among the recruits and their trainers. Even the merchants come from sturdier stock and often partake. A sense of honor and pride fills the ranks here, stoked by the rivalry between Bladegarden and [[Grimgolir]].
 
-As scuffles with the Kryn escalated and a growing number of dragonborn refugees left [[Talonstadt]] to join the military, a certain belligerent mirth filled the warriors of Bladegarden. This oddly jovial wartime atmosphere was shaken when the Xhorhasian assault on the [[Ashguard Garrison]] proved far more swift and brutal than anyone predicted. However, now that the surviving Ashguard forces have retreated to Bladegarden and the scattered armies of the empire have moved east to join them, the city is as crowded and lively as ever — but morale is tenuous. One more defeat like the one at Ashguard could crack Bladegarden like a nut.
+As scuffles with the Kryn escalated and a growing number of [[dragonborn]] refugees left [[Talonstadt]] to join the military, a certain belligerent mirth filled the warriors of Bladegarden. This oddly jovial wartime atmosphere was shaken when the Xhorhasian assault on the [[Ashguard Garrison]] proved far more swift and brutal than anyone predicted. However, now that the surviving Ashguard forces have retreated to Bladegarden and the scattered armies of the empire have moved east to join them, the city is as crowded and lively as ever — but morale is tenuous. One more defeat like the one at Ashguard could crack Bladegarden like a nut.
 
 While Bladegarden is technically a military settlement under the watch of General Kruth Doorav, the Crown also assigned a starosta, Leman TuFinn, to oversee the day-to-day minutiae of imperial governance.
 
@@ -28,4 +28,4 @@ The training grounds at Bladegarden
 
 Bladegarden is an excellent base of operations for characters fighting in the war on the side of the empire, or for Xhorhasian spies who wish to infiltrate their enemies' ranks. With the [[Crownsguard]] overworked, there are also plenty of adventures fighting crime within the city.
 
-_**Morale Pals (Any Level).**_ The Crown sends the Morale Pals, a famous comedic halfling duo, to keep spirits up in Bladegarden. But when the curtain goes up on opening night, it reveals the decapitated bodies of the Morale Pals! The characters are hired to answer the question everyone is asking: who killed the halflings? It might be Xhorhasian [spies](https://www.dndbeyond.com/monsters/spy) determined to keep morale low, thieves who wanted the halflings' purses, or perhaps a rogue killer who wanted to send a message to the whole city that this is just the beginning.
+_**Morale Pals (Any Level).**_ The Crown sends the Morale Pals, a famous comedic halfling duo, to keep spirits up in Bladegarden. But when the curtain goes up on opening night, it reveals the decapitated bodies of the Morale Pals! The characters are hired to answer the question everyone is asking: who killed the [[halflings]]? It might be Xhorhasian [spies](https://www.dndbeyond.com/monsters/spy) determined to keep morale low, thieves who wanted the halflings' purses, or perhaps a rogue killer who wanted to send a message to the whole city that this is just the beginning.

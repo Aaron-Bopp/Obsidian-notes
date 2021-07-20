@@ -1,6 +1,6 @@
 ## Orcs and Half-Orcs
 
-The first half-orcs in [[Wildemount]] were born of a union between human warriors and orc traitors in the final days of [[the Calamity]]. Orcs are one of [[Exandria]]’s youngest races, and are said to have been born from elves seared by the blood of [[Gruumsh]], when [[Corellon]] pierced the orc god’s eye on the field of battle. For long years, orcs were feared as mindless abominations, drawn to slaughter like moths to flame.
+The first half-orcs in [[Wildemount]] were born of a union between human warriors and orc traitors in the final days of [[the Calamity]]. Orcs are one of [[Exandria]]’s youngest races, and are said to have been born from [[elves]] seared by the blood of [[Gruumsh]], when [[Corellon]] pierced the orc god’s eye on the field of battle. For long years, orcs were feared as mindless abominations, drawn to slaughter like moths to flame.
 
 Stories tell of how the blood of the Ruiner flows in the veins of all orcs, driving them to commit acts of terrible violence and anger. Orcs call this fury _hgar’Gruum_, or the curse of ruin, and use it to refer to everything from battle rage to a bad temper. Half-orcs are said to have inherited the blood of the Ruiner, and to carry the same bloodlust and fury that orcs do.
 
@@ -20,9 +20,9 @@ Only the Concordian city of [[Othe]] has a significant half-orc population. Orig
 
 ### Half-Orcs in [[Xhorhas]]
 
-The orcs of [[Xhorhas]] are a predominantly nomadic people, living in mixed clans of orcs, humans, and bugbears. They wander the wastes, taming the indigenous beasts and trading with Kryn settlements. The relationship between the orcs and the Kryn is relatively peaceful, though many nomadic orcs are angered when Kryn souls are reborn in orc bodies. These orcs nonetheless readily accept Kryn into their roving clans, seeing it as a point of pride that a city dweller has been drawn to a more exciting life in the chaos of the wastes.
+The orcs of [[Xhorhas]] are a predominantly nomadic people, living in mixed clans of orcs, [[humans]], and bugbears. They wander the wastes, taming the indigenous beasts and trading with Kryn settlements. The relationship between the orcs and the Kryn is relatively peaceful, though many nomadic orcs are angered when Kryn souls are reborn in orc bodies. These orcs nonetheless readily accept Kryn into their roving clans, seeing it as a point of pride that a city dweller has been drawn to a more exciting life in the chaos of the wastes.
 
-Most half-orcs in [[Xhorhas]] have human or drow blood. In the culture of the Xhorhasian nomads, the union of orcs and goblinkin is strictly taboo, for the clans’ elders fear the uncontrolled madness of a soul afflicted by both [[Gruumsh]]’s curse of ruin and [[Bane]]’s curse of strife.
+Most half-orcs in [[Xhorhas]] have human or drow blood. In the culture of the Xhorhasian nomads, the union of orcs and [[goblinkin]] is strictly taboo, for the clans’ elders fear the uncontrolled madness of a soul afflicted by both [[Gruumsh]]’s curse of ruin and [[Bane]]’s curse of strife.
 
 ### Orc Traits
 

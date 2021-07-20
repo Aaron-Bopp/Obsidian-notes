@@ -6,7 +6,7 @@ Dwarves’ long memories give them uncommon insight into the world of the past. 
 
 Most folk in the [[Dwendalian Empire]] think of dwarves as greedy, cave-dwelling hermits with a passion only for jewelry, drinking, and fighting. Most dwarves in the empire come from the city-state of [[Grimgolir]] and its settlements under the [[Dunrock Mountains]], whose miners, jewelers, and warriors are some of the finest in the empire.
 
-Imperial beer, particularly smooth, sweet Trost ale from [[Trostenwald]], is a delicacy among Grimgol dwarves. The people who lived beneath the mountains never grew wheat or hops, and so never brewed beer. Until the dwarves began trading with humans from the long-fallen Julous Dominion, dwarven liquor was a potent, ugly-smelling spirit called rütga, distilled from heavy root vegetables.
+Imperial beer, particularly smooth, sweet Trost ale from [[Trostenwald]], is a delicacy among Grimgol dwarves. The people who lived beneath the mountains never grew wheat or hops, and so never brewed beer. Until the dwarves began trading with [[humans]] from the long-fallen Julous Dominion, dwarven liquor was a potent, ugly-smelling spirit called rütga, distilled from heavy root vegetables.
 
 ### Dwarves on the [[Menagerie Coast]]
 

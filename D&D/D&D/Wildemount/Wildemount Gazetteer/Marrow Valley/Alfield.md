@@ -1,6 +1,6 @@
 ### Alfield
 
-**Population:** 3,410 (61% humans, 22% halflings, 11% gnomes, 6% other races)
+**Population:** 3,410 (61% [[humans]], 22% [[halflings]], 11% [[gnomes]], 6% other races)
 
 **Government:** Starosta Kosh Clearbarker cravenly delegates the responsibilities of governance to the local watchmaster and lawmaster.
 

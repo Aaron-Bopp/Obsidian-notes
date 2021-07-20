@@ -258,7 +258,7 @@ A majestic temple to [[Moradin]] the All-Hammer, this mighty octagonal structure
 
 Attached through a series of angled hallways, this network of foundries forms a sprawling compound that smelts, purifies, and prepares a majority of the metal materials and ingots distributed throughout the [[Marrow Valley]].
 
-Long run by the Neverbend family of gnomes, this is the place to go for arms and armor, as well as general smithing needs. Standard metal weapons and armor, as well as metal-based adventuring gear, can be purchased here.
+Long run by the Neverbend family of [[gnomes]], this is the place to go for arms and armor, as well as general smithing needs. Standard metal weapons and armor, as well as metal-based adventuring gear, can be purchased here.
 
 Built across from Gearhole Prison, this squat, metal-reinforced barracks is home to most of the [[Crownsguard]] and Righteous Brand soldiers stationed in [[Hupperdook]]. Watchmaster Bram Gulchswattle can often be found here.
 
