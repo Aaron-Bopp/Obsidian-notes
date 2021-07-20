@@ -49,7 +49,7 @@ Map 3.3: Marrow Valley
 
 [[Ustaloch]]
 
-[[Volantim]]
+[[Vol'antim]]
 
 [[Wuyun Gate]]
 

@@ -1,7 +1,3 @@
----
-aliases:
-- wastes of Xhorhas
----
 Stretching across the lands of Eastern Wynandir is a valley that still bears the lingering scars of the final battles of [[The Calamity|the Calamity]]. Fields of broken earth and muddy paths weave around muggy swamps and corrupted forests, home to creatures twisted by the echoing shadows of the Betrayer Gods who once ruled this region. Fierce storms rule the sky as hungry predators stalk the open, desolate plains.
 
 All manner of beastfolk, goblinkin, and nomadic outlanders claim the marshes and badlands of this region, honing their survival skills and warring ways against the elements and each other. Meanwhile, the dark elves of Rosohna have emerged as the core of civilization in Xhorhas, reaching out to the wayward tribes and offering them enlightenment if they join the [[Kryn Dynasty]].

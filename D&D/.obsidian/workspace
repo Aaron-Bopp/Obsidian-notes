@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dea2332a1e44aa8b",
+        "id": "3edee1e891607cc5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
+            "file": "D&D/Wildemount/aliases.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Move/Monstrous",
+                "query": "aliases path:D&D/Wildemount",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
+                "file": "D&D/Wildemount/aliases.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
+                "file": "D&D/Wildemount/aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md"
+                "file": "D&D/Wildemount/aliases.md"
               }
             }
           },
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
+                "file": "D&D/Wildemount/aliases.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,17 +209,17 @@
     "width": 962,
     "collapsed": true
   },
-  "active": "dea2332a1e44aa8b",
+  "active": "3edee1e891607cc5",
   "lastOpenFiles": [
-    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
+    "D&D/Wildemount/aliases.md",
+    "D&D/Wildemount/Character Options/Chronurgist.md",
+    "D&D/Wildemount/How to run a campaign in Wildemount.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Volantim.md",
+    "D&D/tharoline/Section/Aliases.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Xhorhas.md",
     "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
-    "D&D/Wildemount/Character Options/Races/Hollow Ones.md",
-    "D&D/Wildemount/Pantheon of Exandria/Bahamut, the Platinum Dragon.md",
-    "D&D/Wildemount/Pantheon of Exandria/Avandra, the Change Bringer.md",
-    "D&D/Wildemount/Pantheon of Exandria/Asmodeus, the Lord of the Nine Hells.md",
-    "D&D/Wildemount/Stat Blocks/Aeorian Nullifier.md",
-    "D&D/Wildemount/Stat Blocks/Aeorian Hunters.md",
-    "D&D/Wildemount/Stat Blocks/A Sea Fury’s Lair.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Distant Lands of Exandria.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Zemni Fields.md",
     "D&D/Wildemount/Wildemount Gazetteer/Menagerie Coast.md"
   ]
 }

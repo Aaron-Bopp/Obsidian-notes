@@ -1,7 +1,4 @@
----
-aliases: 
-- Vol'antim
----
+
 ### Vol'antim
 
 **Population:** 3,890 (96% aarakocra, 4% other races)
