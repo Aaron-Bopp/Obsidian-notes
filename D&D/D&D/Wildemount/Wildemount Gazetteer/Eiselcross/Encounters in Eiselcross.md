@@ -12,7 +12,7 @@ The characters encounter 1d4 wildfolk [scouts](https://www.dndbeyond.com/monster
 
 2
 
-The characters encounter a lost [[Cerberus Assembly]] [mage](https://www.dndbeyond.com/monsters/mage) trying to return to [[Balenpost]]. The rest of the mage's team died in the ruins of [[Aeor]], and there is a 50 percent chance the mage carries a recently recovered Aeorian item.
+The characters encounter a lost [[Cerberus Assembly]] [mage](https://www.dndbeyond.com/monsters/mage) trying to return to [[Balenpost]]. The rest of the mage's team died in the ruins of [[Aeor]], and there is a 50 percent chance the mage carries a recently recovered [[Aeor|Aeorian]] item.
 
 3
 
@@ -48,11 +48,11 @@ The characters encounter 2d4 [yetis from Allowak's Sanctuary](https://www.dndbey
 
 4
 
-The characters pass an Aeorian building that crashed nearby. The building contains 1d4 + 4 [wights](https://www.dndbeyond.com/monsters/wight).
+The characters pass an [[Aeor|Aeorian]] building that crashed nearby. The building contains 1d4 + 4 [wights](https://www.dndbeyond.com/monsters/wight).
 
 5
 
-An [Aeorian absorber](https://www.dndbeyond.com/monsters/aeorian-absorber) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#AeorianAbsorber "chapter 7")) ambushes the characters.
+An [Aeorian absorber](https://www.dndbeyond.com/monsters/[[Aeor|aeorian]]-absorber) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#AeorianAbsorber "chapter 7")) ambushes the characters.
 
 6
 
@@ -80,7 +80,7 @@ A [roc](https://www.dndbeyond.com/monsters/roc) flies overhead and attempts to s
 
 5
 
-The characters encounter a coven of three [night hags](https://www.dndbeyond.com/monsters/night-hag) searching for Aeorian items. In their humanoid guises, these hags pretend to be lost explorers and request the characters' escort. When the characters are in a vulnerable spot, the hags reveal their true nature and attack.
+The characters encounter a coven of three [night hags](https://www.dndbeyond.com/monsters/night-hag) searching for [[Aeor|Aeorian]] items. In their humanoid guises, these hags pretend to be lost explorers and request the characters' escort. When the characters are in a vulnerable spot, the hags reveal their true nature and attack.
 
 6
 
@@ -92,7 +92,7 @@ Encounter
 
 1
 
-The characters find the buried top of an Aeorian tower that crashed into the ice. Ice fills the lower levels of the tower, and 1d4 + 1 [Aeorian nullifiers](https://www.dndbeyond.com/monsters/aeorian-nullifier) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#AeorianNullifier "chapter 7")) are frozen in the ice.
+The characters find the buried top of an [[Aeor|Aeorian]] tower that crashed into the ice. Ice fills the lower levels of the tower, and 1d4 + 1 [Aeorian nullifiers](https://www.dndbeyond.com/monsters/aeorian-nullifier) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#AeorianNullifier "chapter 7")) are frozen in the ice.
 
 2
 
@@ -104,11 +104,11 @@ The characters find a humanoid skull frozen in the ice. If they free the skull, 
 
 4
 
-The characters encounter two [mages](https://www.dndbeyond.com/monsters/mage) from [[Balenpost]] planning to steal an Aeorian item from a camp of 3d6 [frost giants](https://www.dndbeyond.com/monsters/frost-giant) and their tamed [frost worm](https://www.dndbeyond.com/monsters/frost-worm) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#FrostWorm "chapter 7")) The mages ask for the characters' help with the heist.
+The characters encounter two [mages](https://www.dndbeyond.com/monsters/mage) from [[Balenpost]] planning to steal an [[Aeor|Aeorian]] item from a camp of 3d6 [frost giants](https://www.dndbeyond.com/monsters/frost-giant) and their tamed [frost worm](https://www.dndbeyond.com/monsters/frost-worm) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#FrostWorm "chapter 7")) The mages ask for the characters' help with the heist.
 
 5
 
-The characters encounter the [ghost](https://www.dndbeyond.com/monsters/ghost) of an Aeorian citizen. If the characters are kind to the ghost, the undead might be able to share the history of the crashed city with the characters.
+The characters encounter the [ghost](https://www.dndbeyond.com/monsters/ghost) of an [[Aeor|Aeorian]] citizen. If the characters are kind to the ghost, the undead might be able to share the history of the crashed city with the characters.
 
 6
 

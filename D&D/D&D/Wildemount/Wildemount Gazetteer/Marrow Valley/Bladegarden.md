@@ -1,6 +1,6 @@
 ### Bladegarden
 
-**Population:** 9,910 (32% half-[[orcs]], 21% orcs, 25% [[humans]], 22% other races)
+**Population:** 9,910 (32% [[Orcs|half-orcs]], 21% [[orcs]], 25% [[humans]], 22% other races)
 
 **Government:** General Kruth Doorav and Starosta Leman TuFinn are often at odds, but work together to manage Bladegarden.
 

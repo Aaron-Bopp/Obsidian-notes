@@ -4,4 +4,4 @@ Northeast of the elven city of [[Gwardan]] lies the Dolithil Mine, owned and ope
 
 Dolithil Mine is such a critical location for the [[Clovis Concord]] that adventurers could be hired to find the mine for the organization's enemies, or they might be paid to protect the place from threats outside and within.
 
-_**Revelry Razing (Mid Level).**_ [[The Revelry]] knows that finding and destroying Dolithil Mine would be an excellent way to hinder their enemies in the [[Clovis Concord]]. The characters could be hired by the Revelry to find and destroy the mine, or by the concord to defend the mine from Revelry invaders.
+_**[[The Revelry|Revelry]] Razing (Mid Level).**_ [[The Revelry]] knows that finding and destroying Dolithil Mine would be an excellent way to hinder their enemies in the [[Clovis Concord]]. The characters could be hired by the Revelry to find and destroy the mine, or by the concord to defend the mine from Revelry invaders.

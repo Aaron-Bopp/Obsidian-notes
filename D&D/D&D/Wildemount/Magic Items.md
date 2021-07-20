@@ -7,7 +7,7 @@ Adventurers, archeologists, and unscrupulous explorers delve into dungeons, ruin
 
 Whether found in a subterranean tomb while searching for lost treasure, chosen as a reward from a wealthy collector of curiosities, or stumbled across as a discarded object of hidden potential, magic items are always highly sought after by adventurers in a [[Wildemount]] campaign. Relics of magic provide a perfect opportunity to bring alive the history of ages long gone, and to reward players for diligently seeking their way in the world.
 
-Many of the magic items in this section are relics of the flying city-state of [[Aeor]], and can often be found in Aeorian ruins in [[Eiselcross]]. 
+Many of the magic items in this section are relics of the flying city-state of [[Aeor]], and can often be found in [[Aeor|Aeorian]] ruins in [[Eiselcross]]. 
 
 
 These magic items are presented in alphabetical order. For the rules on magic items, see [chapter 7](https://www.dndbeyond.com/sources/dmg/treasure#MagicItems "chapter 7") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide").

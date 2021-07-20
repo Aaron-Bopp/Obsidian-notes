@@ -41,7 +41,7 @@ Change Bringer is the alternate title for the god [[Avandra]].
 
 [[Clovis Concord]] is the governing body of the [[Menagerie Coast]], comprised of a union between the marquises who independently rule the major coastal cities.
 
-Cobalt Soul refers to the [[Library of the Cobalt Soul]].
+[[Library of the Cobalt Soul|Cobalt Soul]] refers to the [[Library of the Cobalt Soul]].
 
 Concord (Concordian) refers to the [[Clovis Concord]] (and members of that particular faction).
 
@@ -91,7 +91,7 @@ Everlight is the alternative title for the god [[Raei]].
 
 [[Exandria]] is the name of the world that includes the continent of [[Wildemount]]. It exists on the Material Plane.
 
-Expositors are highly trained spies and infiltrators working for the Cobalt Soul.
+Expositors are highly trained spies and infiltrators working for the [[Library of the Cobalt Soul|Cobalt Soul]].
 
 Ghor Dranas was the central city of the Betrayer Gods and their armies. Destroyed in [[the Calamity]], it has been rebuilt as the city of [[Rosohna]].
 
@@ -145,7 +145,7 @@ Moon Weaver is the alternative title for the god [[Sehanine]].
 
 [[Moradin]] is the god of craft and creation.
 
-Myriad are a scattered but powerful network of criminals and thieves throughout [[Wildemount]].
+[[The Myriad|Myriad]] are a scattered but powerful network of criminals and thieves throughout [[Wildemount]].
 
 PD denotes a year that has occurred “Post-[[Divergence]].” For example, [[The Chroma Conclave]]’s attack on Tal’Dorei occurred in 815 PD.
 
@@ -163,7 +163,7 @@ Raven Queen is the god of winter, fate, and the transition of death.
 
 Ravenites are the surviving [[dragonborn]] previously held as a lower, slave-class under the Draconbloods of [[Draconia]] before its fall, known for their tailless bodies and hardy physique.
 
-Revelry is the faction and banner that most operating pirates across the [[Menagerie Coast]] are united under.
+[[The Revelry|Revelry]] is the faction and banner that most operating pirates across the [[Menagerie Coast]] are united under.
 
 Righteous Brand is the military army of the [[Dwendalian Empire]].
 

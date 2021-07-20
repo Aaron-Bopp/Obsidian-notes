@@ -10,7 +10,7 @@ Ioun sits among the infinite library that fills the hidden realm of the [[Endles
 
 Ioun, the Knowing Mentor
 
-**_Holy Day._** Ioun has no public holy day, for her public worship was shattered during [[the Calamity]], and she has since fallen into half-remembered myth. Only in the monasteries of the Cobalt Soul has the Knowing Mentor’s faith been resurrected—though her worship by the intellectuals of the city bears little resemblance to that of the knowledge-seekers of old.
+**_Holy Day._** Ioun has no public holy day, for her public worship was shattered during [[the Calamity]], and she has since fallen into half-remembered myth. Only in the monasteries of the [[Library of the Cobalt Soul|Cobalt Soul]] has the Knowing Mentor’s faith been resurrected—though her worship by the intellectuals of the city bears little resemblance to that of the knowledge-seekers of old.
 
 #### Commandments of Ioun
 

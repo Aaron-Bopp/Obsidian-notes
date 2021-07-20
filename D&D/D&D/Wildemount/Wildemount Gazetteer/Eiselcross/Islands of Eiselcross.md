@@ -14,6 +14,6 @@
 
 **Kaltsel.** The smallest of [[Eiselcross]]'s islands floats off the southeast coast of Foren and is said to be the home of Mynarc Furdahl, an undead warlock of [[Asmodeus]] willing to make deals in exchange for souls.
 
-**Schneescel.** A permanent magical blizzard rages across Schneescel, a small island to the west of Foren, making it nigh impossible to explore. Many believe that a fallen Aeorian relic causes this storm.
+**Schneescel.** A permanent magical blizzard rages across Schneescel, a small island to the west of Foren, making it nigh impossible to explore. Many believe that a fallen [[Aeor|Aeorian]] relic causes this storm.
 
 **Taergoss.** [[Eiselcross]]'s second smallest island is a favorite spot for fishing vessels to anchor overnight. The crews tend to stay on their boats and never set foot on shore, since faint wails can be heard at all times of day coming from Taergoss's center.

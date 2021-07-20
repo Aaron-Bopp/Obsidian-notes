@@ -16,7 +16,7 @@ Since firbolgs are neither prone to travel nor native to the [[Menagerie Coast]]
 
 Firbolgs who travel southeast from the [[Greying Wildlands]] and cross the [[Dunrock Mountains]] might find themselves wandering the wastes of [[Xhorhas]]. The territorial monsters that prowl the wastes show no pity to unprepared wanderers, and most firbolg families know better than to undertake such a dangerous journey.
 
-With northern [[Xhorhas]] firmly under the control of the [[Kryn Dynasty]], the dark [[elves]] have saved a number of firbolg travelers from monsters over the years. Enough of those have remained in the wastes for small firbolg communities to develop in [[Rosohna]] and other major Kryn cities.
+With northern [[Xhorhas]] firmly under the control of the [[Kryn Dynasty]], the [[Dark Elves]] have saved a number of firbolg travelers from monsters over the years. Enough of those have remained in the wastes for small firbolg communities to develop in [[Rosohna]] and other major Kryn cities.
 
 ### Firbolg Classes
 

@@ -138,7 +138,7 @@ Members of the [[Crownsguard]] are on site. They try to keep the characters away
 
 When the characters are led to the scene of the escape, read:
 
-The elf asks the characters their business, and introduces herself as [Yinra Emberwind](https://www.dndbeyond.com/monsters/yinra-emberwind) (see her stat block later in the adventure), a bounty hunter who heard the commotion from the Idleworks Shelf. She brags about having already finished her work here, and wishes the characters good luck in finding Sken before she does. The characters can attempt to barter for the paper Yinra recovered, which she relinquishes for 50 gp in coins or other treasure. A character who wants to steal the paper from Yinra while she’s engaged in conversation must succeed on a DC 18 Dexterity ([Sleight of Hand](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#SleightofHand)) check. On a failure, Yinra grabs the would-be thief’s hand and laughs at them before leaving.
+The [[Elves|elf]] asks the characters their business, and introduces herself as [Yinra Emberwind](https://www.dndbeyond.com/monsters/yinra-emberwind) (see her stat block later in the adventure), a bounty hunter who heard the commotion from the Idleworks Shelf. She brags about having already finished her work here, and wishes the characters good luck in finding Sken before she does. The characters can attempt to barter for the paper Yinra recovered, which she relinquishes for 50 gp in coins or other treasure. A character who wants to steal the paper from Yinra while she’s engaged in conversation must succeed on a DC 18 Dexterity ([Sleight of Hand](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#SleightofHand)) check. On a failure, Yinra grabs the would-be thief’s hand and laughs at them before leaving.
 
 If the characters procure the charred paper, they appear to be fragments of a damaged note written in clear handwriting. (Show the players [handout A](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#HandoutABurnedLetterFragment "Handout A").)
 
@@ -164,7 +164,7 @@ Use the following to guide the next steps of the characters’ investigation:
 
 [Yinra Emberwind](https://www.dndbeyond.com/monsters/yinra-emberwind)
 
-Medium humanoid (elf), neutral good
+Medium humanoid ([[Elves|elf]]), neutral good
 
 **Armor Class** 15 (studded leather)
 
@@ -382,7 +382,7 @@ If any kobolds are captured and questioned, they reveal what they know of Stahlm
 
 -   The Master is planning to make many tiny metal crabs ([vox seekers](https://www.dndbeyond.com/monsters/vox-seeker), as described in [chapter 6](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-treasures#VoxSeeker "chapter 6")).
 -   The gray dwarf is obsessed with his ugly statue.
--   The scary elf visits every few weeks to train the kobolds, and then vanishes into the Master’s fire room.
+-   The scary [[Elves|elf]] visits every few weeks to train the kobolds, and then vanishes into the Master’s fire room.
 
 Though the winding passages of the compound help mute the sounds of footsteps, loud noises (including combat or shouting) alert the lair’s inhabitants of intruders at your determination.
 
@@ -400,7 +400,7 @@ The crossbow turret is Large object with AC 17, 15 hit points, and immunity to p
 
 A [kobold underling](https://www.dndbeyond.com/monsters/kobold-underling) (see the stat block earlier in this adventure) sits at one of the tables as the characters approach this area, cleaning a pile of soiled tools and weapons with a rag as it curses under its breath in Draconic. If it receives any warning that intruders are coming (including hearing the characters fighting or talking in area L1), it might make a brief stand against them—or it might flee before they arrive, leaving its work behind.
 
-The north door into area L3 is locked. Roguun the duergar blacksmith ([area L14](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L14Smithy "area L14")) has the key, or the lock can be picked with a successful DC 18 Dexterity check using thieves’ tools.
+The north door into area L3 is locked. Roguun the [[duergar]] blacksmith ([area L14](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L14Smithy "area L14")) has the key, or the lock can be picked with a successful DC 18 Dexterity check using thieves’ tools.
 
 If the characters were captured and thrown into the prison cells in area L7, their weapons hang on the walls here and their other equipment is in the chest beneath the table. [Yinra Emberwind’s](https://www.dndbeyond.com/monsters/yinra-emberwind) equipment is also stored there (see [area L7](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L7PrisonCells "area L7")).
 
@@ -484,9 +484,9 @@ Even unfinished, the statuette is worth 5 gp. Characters who search the room tho
 
 ### L14. Smithy
 
-The blacksmith, Roguun (a lawful evil, male [duergar](https://www.dndbeyond.com/monsters/duergar)), is hard at work when the characters first enter this area. He attacks intruders at once but flees to join Stahlmast in the clockwork forge ([area L19](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L19ClockworkForge "area L19")) if he is reduced to 11 hit points or fewer. Roguun carries the keys to the volatile materials storage cavern ([area L3](https://www.dndbeyond.com/sources/egtw/adventures-in-wildemount-dangerous-designs#L3VolatileMaterialsStorage "area L3")).
+The blacksmith, Roguun (a lawful evil, male [duergar](https://www.dndbeyond.com/monsters/[[duergar]])), is hard at work when the characters first enter this area. He attacks intruders at once but flees to join Stahlmast in the clockwork forge ([area L19](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L19ClockworkForge "area L19")) if he is reduced to 11 hit points or fewer. Roguun carries the keys to the volatile materials storage cavern ([area L3](https://www.dndbeyond.com/sources/egtw/adventures-in-wildemount-dangerous-designs#L3VolatileMaterialsStorage "area L3")).
 
-If a character possesses the small statue from area L13 and threatens to smash it, Roguun halts his aggression and refrains from fleeing while he attempts to barter for its safety. A character holding the statuette has advantage on Charisma checks made against the duergar. If he is captured and questioned, Roguun might mention the explosives locked away in [area L3](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L3VolatileMaterialsStorage "area L3"), and might also mention the secret door that Stahlmast had him install in [area L5](https://www.dndbeyond.com/sources/egtw/adventures-in-wildemount-dangerous-designs#L5StahlmastsWorkroom "area L5").
+If a character possesses the small statue from area L13 and threatens to smash it, Roguun halts his aggression and refrains from fleeing while he attempts to barter for its safety. A character holding the statuette has advantage on Charisma checks made against the [[duergar]]. If he is captured and questioned, Roguun might mention the explosives locked away in [area L3](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L3VolatileMaterialsStorage "area L3"), and might also mention the secret door that Stahlmast had him install in [area L5](https://www.dndbeyond.com/sources/egtw/adventures-in-wildemount-dangerous-designs#L5StahlmastsWorkroom "area L5").
 
 Any creature that enters the open forge for the first time on a turn or that starts its turn there takes 7 (2d6) fire damage.
 

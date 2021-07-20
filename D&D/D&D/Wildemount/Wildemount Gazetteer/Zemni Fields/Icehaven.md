@@ -8,7 +8,7 @@
 
 **Commerce:** Resources are limited, so mostly basic supplies and standard arms are available. Relics recovered from [[Eiselcross]] can occasionally pass through, providing strange and exotic curiosities for acquisition.
 
-**Organizations:** Simple temples mark city squares, while hidden shrines to Crown-forbidden gods lurk on the outskirts of the town. The empire continues to push for stronger influence, and Myriad operatives interested in [[Eiselcross]]'s mysteries are also beginning to work their way into Icehaven.
+**Organizations:** Simple temples mark city squares, while hidden shrines to Crown-forbidden gods lurk on the outskirts of the town. The empire continues to push for stronger influence, and [[The Myriad|Myriad]] operatives interested in [[Eiselcross]]'s mysteries are also beginning to work their way into Icehaven.
 
 Along the icy northeastern shores of the [[Zemni Fields]] stands the only port in [[Western Wynandir]]. Icehaven is home to the dozen or so ships in the region outfitted to wander the ice floes of the Frigid Depths, and is the central trade post and only open port for hunters and adventurers who brave the [[Saltwallow Bog]] or the frozen north toward [[Eiselcross]]. The inhabitants of Icehaven earn their living ice fishing within the oft-frozen [[Kaltenloch]], or are trappers who stalk the [[Velvin Thicket]] or edges of the [[Pearlbow Wilderness]] and return to peddle their furs and meats. Some more confident individuals might try their hand at netting some Eiselcross crab, a rare delicacy throughout the empire, but the shifting, freezing weather makes such endeavors dangerous.
 

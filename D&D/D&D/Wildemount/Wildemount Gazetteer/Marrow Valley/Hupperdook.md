@@ -6,7 +6,7 @@
 
 **Defense:** A small number of [[Crownsguard]] are backed by a larger civilian militia of volunteer soldiers. Many war machines and engines also defend the city.
 
-**Commerce:** A strong industry around metals, mining, tinkering, and entertainment makes most basic supplies and some rarer goods available. Upper Hupperdook has many taverns, inns, and places of revelry.
+**Commerce:** A strong industry around metals, mining, tinkering, and entertainment makes most basic supplies and some rarer goods available. Upper Hupperdook has many taverns, inns, and places of [[The Revelry|revelry]].
 
 **Organizations:** Industrial families are heavily invested in the city and its business. Temples to empire-approved gods, especially [[Moradin]], are easy to find.
 
@@ -20,7 +20,7 @@ Fireworks over Hupperdook
 
 For as long as the people of Hupperdook have lived on the mountain, they've been pushing to better their respective trades. The ten-hour work days are long and sometimes arduous, as sparks fly and clangs of metal ring through the city, but when dusk comes, the whistles blow and the carousing begins. Nearly every evening is a wild party celebrating the end of a productive day. Music, fireworks, dancing, and lots and lots of alcohol have given Hupperdook a reputation as one of the rowdiest locales within the empire. Such a lifestyle can be taxing on folk not used to such grueling labor and formidable merriment, but as the saying goes, "ya come here for an early grave worth earning."
 
-The traditional nighttime drink is called fuse, a mixture of strong liquor and an energy-boosting herbal concoction that is considered by the hardest workers as a necessity to properly embrace an evening of revelry, though some visitors complain of the rather unpleasant aftermath of imbibing the powerful substance. A jet-black coffee with the consistency (and some say, the taste) of lantern oil is customary the following morning.
+The traditional nighttime drink is called fuse, a mixture of strong liquor and an energy-boosting herbal concoction that is considered by the hardest workers as a necessity to properly embrace an evening of [[The Revelry|revelry]], though some visitors complain of the rather unpleasant aftermath of imbibing the powerful substance. A jet-black coffee with the consistency (and some say, the taste) of lantern oil is customary the following morning.
 
 The Crown understands the benefit of keeping Hupperdook and its citizens happy through relative autonomy, as no other city can develop and produce weapons like the ones found here. A sizable portion of Hupperdook's industry is allocated to the production and development of defense weaponry, siege engines, and firearms. Finished implements of war are shipped across the valley to [[Bladegarden]] or [[Rockguard Garrison]], with a few left stockpiled within the city.
 

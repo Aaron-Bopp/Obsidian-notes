@@ -2,7 +2,7 @@
 
 In the northern part of Foren, a strange patch of wilderness exactly 30 miles in diameter is avoided by the wildfolk at all costs. They call this region Mutalos. Every morning at dawn, the area's environment suddenly changes. Mutalos shifts from desert to forest, from mountainous to swamp, or from any one habitat to another without any discernible pattern. The area can even be a seemingly normal icy tundra, so unsuspecting explorers traveling through Mutalos could suddenly find themselves in the middle of the sea when the sun rises.
 
-The origins of these environmental changes are unknown, but scholars believe an Aeorian object fell from the city and created the region. All [[Wildemount]]'s factions are interested in an item of such incredible transmutation power.
+The origins of these environmental changes are unknown, but scholars believe an [[Aeor|Aeorian]] object fell from the city and created the region. All [[Wildemount]]'s factions are interested in an item of such incredible transmutation power.
 
 When the environment of Mutalos changes, so do its inhabitants. At dawn, a mountainous region filled with kobolds, goats, and ogres might become a swamp inhabited by lizardfolk, rats, and yuan-ti. It is unknown where exactly these creatures come from and where they go when the regions change. They could be transported from other places in [[Exandria]], teleported from elsewhere in the multiverse, or created and destroyed by this strange magic. It is also unknown if the same creatures reappear with the same habitats or if the creatures are always new to Mutalos. The origin of the region's changes likely holds the answers to these questions.
 

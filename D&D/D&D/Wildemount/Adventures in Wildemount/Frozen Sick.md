@@ -4,7 +4,7 @@ If your players are using the [[heroic chronicle]] to create their characters (s
 
 ## Story Overview
 
-Urgon Wenth, a dwarf explorer, recently returned home to [[Palebank Village]] after exploring the icy wastes of [[Eiselcross]] for a year. The dwarf brought home several items plundered from ruins on Foren, the largest of Eiselcross’s islands. Among these treasures were two beautiful blue glass vials, which Urgon sold to an elf collector named Verla Pelc. The vials were then stolen, given to a fence out of [[Shadycreek Run]], and sold again to an unsuspecting merchant.
+Urgon Wenth, a dwarf explorer, recently returned home to [[Palebank Village]] after exploring the icy wastes of [[Eiselcross]] for a year. The dwarf brought home several items plundered from ruins on Foren, the largest of Eiselcross’s islands. Among these treasures were two beautiful blue glass vials, which Urgon sold to an [[Elves|elf]] collector named Verla Pelc. The vials were then stolen, given to a fence out of [[Shadycreek Run]], and sold again to an unsuspecting merchant.
 
 In truth, the vials’ beautiful blue color is the result of deadly blue spores that cling to the interior of the glass. Faint cracks in both the vials have exposed each person who handled them to frigid woe, a deadly disease that can’t be cured by conventional means. The disease has already killed Urgon and Verla, turning them into ice statues. Details on frigid woe are found in the “[Eiselcross](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-[[eiselcross]] "Eiselcross")” section of chapter 3.
 
@@ -26,7 +26,7 @@ The adventure begins in [[Palebank Village]], with the characters drawn immediat
 
 As part of their characters’ backstories, the players can decide whether any of them knew Urgon or whether they’ve come to the funeral simply to show respect to the folk of the community. Either way, continue by reading the following:
 
-Whether the characters are known in the village as neophyte adventurers or simply look the part, Elro (a neutral good, male wood elf [veteran](https://www.dndbeyond.com/monsters/veteran)) hopes that they’re the sort of people not afraid to step up to help folks in need. Use the following points to help guide the conversation as he explains his concerns to the characters:
+Whether the characters are known in the village as neophyte adventurers or simply look the part, Elro (a neutral good, male wood [[Elves|elf]] [veteran](https://www.dndbeyond.com/monsters/veteran)) hopes that they’re the sort of people not afraid to step up to help folks in need. Use the following points to help guide the conversation as he explains his concerns to the characters:
 
 -   Two months ago, Urgon Wenth returned home after exploring [[Eiselcross]] for a year. He had been back for only for a few days when he came down with a strange affliction, which made the dwarf move slowly and caused blue veins to appear all over his body.
 -   The village’s priests of [[Moradin]] and [[Corellon]] used every spell they could muster to attempt to heal Urgon, but nothing they tried could stop the bizarre malady. Urgon battled the affliction for weeks, until his ever-slowing body eventually turned to ice.
@@ -41,7 +41,7 @@ Elro thinks a group of adventurers might have better luck convincing Tulgi to ta
 
 ### Urgon’s Cabin
 
-Urgon Wenth lived in a one-story, one-room log cabin at the edge of town. A good-natured Glassblade rookie named Mila Teno (a lawful good, female wood elf [scout](https://www.dndbeyond.com/monsters/scout)) stands guard outside the front door. If the characters explain why they’ve come, she allows them to enter the house and look around. When the characters enter the cabin, read:
+Urgon Wenth lived in a one-story, one-room log cabin at the edge of town. A good-natured Glassblade rookie named Mila Teno (a lawful good, female wood [[Elves|elf]] [scout](https://www.dndbeyond.com/monsters/scout)) stands guard outside the front door. If the characters explain why they’ve come, she allows them to enter the house and look around. When the characters enter the cabin, read:
 
 Any character who examines the mess in the cabin realizes that someone recently trashed the place while searching it. A successful DC 12 Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) check reveals the intruder’s footprints. Tulgi Lutan was the culprit, desperate for any clues that might help her cure the frigid woe that is killing her. Her tracks lead outside and back to her cabin (see “[Tulgi’s Cabin](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#TulgisCabin "Tulgi’s Cabin")” below).
 
@@ -49,7 +49,7 @@ Urgon’s adventuring equipment consists of a silvered maul; a suit of splint ar
 
 A character who succeeds on a DC 15 Intelligence ([Nature](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Nature)) check recognizes that the head mounted above the mantle belonged to a yeti, a monstrosity found in [[Eiselcross]].
 
-A character who searches through the books on the shelf and succeeds on a DC 10 Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) check finds a folded receipt used as a bookmark. The receipt is dated two months previous, and indicates that Urgon sold several Aeorian items found in [[Eiselcross]] to local antique shop Pelc’s Curiosities for 1,000 gp. The items are listed as a dagger, a scroll case, a jade statuette, a quiver of twenty arrows, a silver ring set with a jasper, and two blue glass vials.
+A character who searches through the books on the shelf and succeeds on a DC 10 Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) check finds a folded receipt used as a bookmark. The receipt is dated two months previous, and indicates that Urgon sold several [[Aeor|Aeorian]] items found in [[Eiselcross]] to local antique shop Pelc’s Curiosities for 1,000 gp. The items are listed as a dagger, a scroll case, a jade statuette, a quiver of twenty arrows, a silver ring set with a jasper, and two blue glass vials.
 
 Characters who are residents of [[Palebank Village]] or have been there for a while know of Pelc’s Curiosities—and also know that the shop was robbed and vandalized two months ago.
 
@@ -90,7 +90,7 @@ The characters have no trouble finding either Croaker Cave or Pelc’s Curiositi
 
 ### Pelc’s Curiosities
 
-Pelc’s Curiosities is an antique shop run by an introverted elf named Verla Pelc. Verla keeps to herself, opening her shop only when the mood strikes her. She trades any and all objects that interest her, shipping them across [[Wildemount]]. Characters who are residents of [[Palebank Village]] or have been there for a while know of Pelc’s Curiosities—and also know that the shop was robbed and vandalized two months ago. If the characters are recent arrivals to the village, anyone they ask about the shop mentions the robbery.
+Pelc’s Curiosities is an antique shop run by an introverted [[Elves|elf]] named Verla Pelc. Verla keeps to herself, opening her shop only when the mood strikes her. She trades any and all objects that interest her, shipping them across [[Wildemount]]. Characters who are residents of [[Palebank Village]] or have been there for a while know of Pelc’s Curiosities—and also know that the shop was robbed and vandalized two months ago. If the characters are recent arrivals to the village, anyone they ask about the shop mentions the robbery.
 
 Pelc’s Curiosities is a one-story, two-room log cabin. The windows are shuttered and locked from inside, leaving the interior dark. The only entrance is the front door, but characters can force open one of the shutters around the back with a successful DC 12 Strength ([Athletics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Athletics)) check, granting access to Verla’s quarters (see that section below).
 
@@ -111,7 +111,7 @@ The bandits attack as soon as they notice the characters, fighting until only on
 
 Verla’s quarters are at the back of the cabin. When the characters gain access to this area, read:
 
-The figure in the bed is the unfortunate Verla Pelc, who was infected with frigid woe by Urgon Wenth’s Aeorian relics. Her symptoms appeared a few weeks after the shop was robbed, but the reclusive elf never told anyone about them.
+The figure in the bed is the unfortunate Verla Pelc, who was infected with frigid woe by Urgon Wenth’s [[Aeor|Aeorian]] relics. Her symptoms appeared a few weeks after the shop was robbed, but the reclusive [[Elves|elf]] never told anyone about them.
 
 Questioning any of the bandits can turn up solid leads that can take the characters to Croaker Cave, or back to Tulgi’s cabin if there are other questions the dwarf has yet to answer. If they were unable to question the bandits, you can have one of the bandits carrying orders from Hulil that point toward the Croaker Cave hideout.
 
@@ -192,7 +192,7 @@ Croaker Cave’s largest denizen—named Old Croaker by the Uttolot bandits—ha
 
 When the characters can see into this area, read:
 
-[Hulil Lutan](https://www.dndbeyond.com/monsters/hulil-lutan) (a neutral evil, female mountain dwarf [cult fanatic](https://www.dndbeyond.com/monsters/cult-fanatic) with a walking speed of 15 feet, [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet, resistance to poison damage, and advantage on saving throws against poison) and her apprentice, [Raegrin Mau](https://www.dndbeyond.com/monsters/raegrin-mau) (a neutral evil, male wood elf [cultist](https://www.dndbeyond.com/monsters/cultist) with [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet, advantage on saving throws against being [charmed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed), and immunity to magic that would put him to sleep), are both in a state of deep meditation, praying to [[Tiamat]] for a cure for the dwarf’s affliction. Even if combat broke out in area C5, they remain unaware of the characters’ presence until they are disturbed or attacked. Hulil and Raegrin are both greedy servants of Tiamat and the Uttolot family. Raegrin follows Hulil’s every order with unshaking loyalty.
+[Hulil Lutan](https://www.dndbeyond.com/monsters/hulil-lutan) (a neutral evil, female mountain dwarf [cult fanatic](https://www.dndbeyond.com/monsters/cult-fanatic) with a walking speed of 15 feet, [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet, resistance to poison damage, and advantage on saving throws against poison) and her apprentice, [Raegrin Mau](https://www.dndbeyond.com/monsters/raegrin-mau) (a neutral evil, male wood [[Elves|elf]] [cultist](https://www.dndbeyond.com/monsters/cultist) with [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet, advantage on saving throws against being [charmed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed), and immunity to magic that would put him to sleep), are both in a state of deep meditation, praying to [[Tiamat]] for a cure for the dwarf’s affliction. Even if combat broke out in area C5, they remain unaware of the characters’ presence until they are disturbed or attacked. Hulil and Raegrin are both greedy servants of Tiamat and the Uttolot family. Raegrin follows Hulil’s every order with unshaking loyalty.
 
 Hulil is so desperate for a cure for the ailment that is slowly killing her that she doesn’t attack the characters when she first sees them, as long as she isn’t attacked first. Instead, she orders them to stand down and demands to know why they came to the cave. A quick-thinking character can claim to have come to help Hulil (at the direction of her sister, after receiving a message from [[Tiamat]], or with another appropriate rationale). With a successful Charisma ([Deception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Deception)) check opposed by Hulil’s Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check, the character convinces the dwarf that all the characters are her allies. On a failed check, or if the characters challenge her, Hulil and Raegrin attack.
 
@@ -222,7 +222,7 @@ The Jolly Dwarf is a cozy, two-story inn run by a retired adventurer named Arl B
 
 Arl Bortock (a neutral good, male, mountain dwarf [veteran](https://www.dndbeyond.com/monsters/veteran)) works behind the bar. If the characters ask for Irven Liel, the dwarf points them toward the laughing family.
 
-Irven Liel, his husband Fenton Tethwick (both neutral good, male Dwendalian human [commoners](https://www.dndbeyond.com/monsters/commoner)), and their adopted daughters Honor and Magic (both tiefling noncombatants) are friendly and invite the characters to join them. Irven and Fenton are traveling booksellers. If asked about the vial, Irven explains that they met [Hulil Lutan](https://www.dndbeyond.com/monsters/hulil-lutan) on the road to [[Palebank Village]]. She said she was moving and needed to shed some possessions, so she offered him a chance to buy the Aeorian relic at a great price. He plans to sell the item for a profit in [[Uthodurn]].
+Irven Liel, his husband Fenton Tethwick (both neutral good, male Dwendalian human [commoners](https://www.dndbeyond.com/monsters/commoner)), and their adopted daughters Honor and Magic (both tiefling noncombatants) are friendly and invite the characters to join them. Irven and Fenton are traveling booksellers. If asked about the vial, Irven explains that they met [Hulil Lutan](https://www.dndbeyond.com/monsters/hulil-lutan) on the road to [[Palebank Village]]. She said she was moving and needed to shed some possessions, so she offered him a chance to buy the [[Aeor|Aeorian]] relic at a great price. He plans to sell the item for a profit in [[Uthodurn]].
 
 If the characters tell Irven the truth about the vial, he panics, saying that everyone in his family has touched the object. Fenton gives the vial to the characters, handing it to them wrapped up in a cloth. Any character who touches the vial directly must succeed on a DC 11 Constitution saving throw or contract frigid woe.
 
@@ -244,7 +244,7 @@ When the characters are ready to leave for [[Eiselcross]], Elro Aldataur provide
 
 -   Elro has arranged passage to [[Eiselcross]] for the characters on the _Remorhaz_, a sailing ship owned and operated by the Glassblades.
 -   The characters will be taken to [[Syrinlya]], an Uthodurnian outpost on Foren, [[Eiselcross]]’s largest island. Once there, they should talk to a dwarf named Orvo Mustave, who has gone on numerous expeditions into the wilds of Eiselcross with Urgon Wenth.
--   Once the characters have found the cure, they should use whatever they need for themselves, then give the rest to an elf in [[Syrinlya]] who goes by the name “the Buyer.” They can tell the Buyer to teleport the cure to Elro in [[Palebank Village]].
+-   Once the characters have found the cure, they should use whatever they need for themselves, then give the rest to an [[Elves|elf]] in [[Syrinlya]] who goes by the name “the Buyer.” They can tell the Buyer to teleport the cure to Elro in [[Palebank Village]].
 
 The [[islands of Eiselcross]] are covered in ice and snow, and are always well below freezing. Characters who don’t already have cold weather gear will want to purchase it, or they will be subject to extreme cold (see [chapter 5](https://www.dndbeyond.com/sources/dmg/adventure-environments#Weather "chapter 5") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")).
 
@@ -258,7 +258,7 @@ The characters are in a race against time to cure Irven and his family (and poss
 
 ### Voyage of the Remorhaz
 
-It takes the _Remorhaz_ nine days to get to [[Syrinlya]]. This trip could be uneventful, or you could populate the ship with interesting NPCs and have the characters encounter ocean monsters, Revelry pirates, or severe weather.
+It takes the _Remorhaz_ nine days to get to [[Syrinlya]]. This trip could be uneventful, or you could populate the ship with interesting NPCs and have the characters encounter ocean monsters, [[The Revelry|Revelry]] pirates, or severe weather.
 
 When the ship reaches [[Syrinlya]], read:
 
@@ -280,11 +280,11 @@ Once the characters are settled, Morgo wishes them luck and leaves to prepare fo
 
 Morgo Delwur or any other resident of [[Syrinlya]] can point out the Buyer’s hut to the characters. It is Syrinlya’s largest yurt. When the characters enter, read:
 
-The Buyer (lawful neutral, nonbinary, high elf [mage](https://www.dndbeyond.com/monsters/mage)) is a mysterious elf who purchases Aeorian relics in [[Syrinlya]] for the Uthodurnian government. See the “[Syrinlya](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-[[eiselcross]]#Syrinlya "Syrinlya")” section of chapter 3 for more information about the Buyer and their business. The green [faerie dragon](https://www.dndbeyond.com/monsters/faerie-dragon-older) is Dew, the elf’s familiar.
+The Buyer (lawful neutral, nonbinary, high [[Elves|elf]] [mage](https://www.dndbeyond.com/monsters/mage)) is a mysterious elf who purchases [[Aeor|Aeorian]] relics in [[Syrinlya]] for the Uthodurnian government. See the “[Syrinlya](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-[[eiselcross]]#Syrinlya "Syrinlya")” section of chapter 3 for more information about the Buyer and their business. The green [faerie dragon](https://www.dndbeyond.com/monsters/faerie-dragon-older) is Dew, the elf’s familiar.
 
-The Buyer has been in [[Syrinlya]] since the day the outpost was founded. They can answer any questions the characters might have about the outpost’s history, the island of Foren, or frigid woe. If the characters want to confirm that the Buyer is able to quickly send the cure for frigid woe to [[Palebank Village]], the elf tells them that the stone chest in the yurt has the magical capability to teleport objects on command.
+The Buyer has been in [[Syrinlya]] since the day the outpost was founded. They can answer any questions the characters might have about the outpost’s history, the island of Foren, or frigid woe. If the characters want to confirm that the Buyer is able to quickly send the cure for frigid woe to [[Palebank Village]], the [[Elves|elf]] tells them that the stone chest in the yurt has the magical capability to teleport objects on command.
 
-In addition to the aid they provide in getting the cure back to [[Palebank Village]], the Buyer offers to purchase any Aeorian relics the characters want to sell.
+In addition to the aid they provide in getting the cure back to [[Palebank Village]], the Buyer offers to purchase any [[Aeor|Aeorian]] relics the characters want to sell.
 
 A [detect magic](https://www.dndbeyond.com/spells/detect-magic) spell reveals that the chest radiates an aura of conjuration magic. When an item is placed in the chest, the Buyer can teleport it to secret locations in [[Uthodurn]] or its outpost of [[Palebank Village]], with those locations known only to the authorities of those settlements.
 
@@ -296,9 +296,9 @@ Orvo Mustave (a chaotic good, male mountain dwarf [scout](https://www.dndbeyond.
 
 Orvo is grief-stricken to hear about the demise of his friend Urgon Wenth. If the characters ask Orvo about the blue vials that brought disease to [[Palebank Village]], Orvo shares the following information:
 
--   Orvo and Urgon found the blue vials in Salsvault, an Aeorian ruin partially submerged in water in a region of Foren where the glacial ice is thin. Explorers call this region Thin Sheets. Orvo believes the ruin is as well preserved as it is because the structure was reinforced with magic, as were many of [[Aeor]]’s buildings that housed hazardous materials or secret projects.
+-   Orvo and Urgon found the blue vials in Salsvault, an [[Aeor|Aeorian]] ruin partially submerged in water in a region of Foren where the glacial ice is thin. Explorers call this region Thin Sheets. Orvo believes the ruin is as well preserved as it is because the structure was reinforced with magic, as were many of [[Aeor]]’s buildings that housed hazardous materials or secret projects.
 -   Salsvault is two hundred miles northwest of [[Syrinlya]]. Ice mephits are drawn to the magic of something at that location. Orvo and Urgon found the ruin after following one of the creatures.
--   Salsvault appears to have been an Aeorian lab. Orvo and Urgon explored only three of its chambers before being chased away by animated suits of armor.
+-   Salsvault appears to have been an [[Aeor|Aeorian]] lab. Orvo and Urgon explored only three of its chambers before being chased away by animated suits of armor.
 -   The [[dwarves]] didn’t know what the vials contained.
 -   Orvo sold his share of the treasure from Salsvault to the Buyer. Urgon decided to hang onto his share until he returned home to [[Palebank Village]].
 
@@ -366,7 +366,7 @@ Salsvault’s heavy doors are made of black stone, and its walls are made of blu
 
 If an area’s description notes a locked door, the lock can be picked with a successful DC 15 Dexterity check using thieves’ tools, or the door can be forced open with a successful DC 18 Strength check. [Ferol Sal](https://www.dndbeyond.com/monsters/ferol-sal) (see [area S17](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#S17FerolsLaboratory "area S17")) carries a master key that locks or unlocks all the doors in Salsvault.
 
-The undead in the complex wear archaic-looking robes. With a successful DC 12 Intelligence ([History](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#History)) check, a character recognizes the robes as being of Aeorian style. The characters can also find intact robes of the same style in the complex. Constructs and zombies in the complex don’t attack a character wearing intact robes, unless the character attacks first.
+The undead in the complex wear archaic-looking robes. With a successful DC 12 Intelligence ([History](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#History)) check, a character recognizes the robes as being of [[Aeor|Aeorian]] style. The characters can also find intact robes of the same style in the complex. Constructs and zombies in the complex don’t attack a character wearing intact robes, unless the character attacks first.
 
 Salsvault is tilted in the ice, with its east side lower than its west side. Every area within the complex features a gentle slope downward to the east.
 
@@ -442,13 +442,13 @@ Each chest is locked (see “[Salsvault Features](https://www.dndbeyond.com/sour
 
 ### S6. North Hall
 
-Three human [zombies](https://www.dndbeyond.com/monsters/zombie) in tattered Aeorian robes roam this hall aimlessly and attack intruders on sight.
+Three human [zombies](https://www.dndbeyond.com/monsters/zombie) in tattered [[Aeor|Aeorian]] robes roam this hall aimlessly and attack intruders on sight.
 
 ## Salsvault (areas S7-S12)
 
 ### S7. Unoccupied Dorm
 
-One of the footlockers holds an intact Aeorian robe (see “[Salsvault Features](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#SalsvaultFeatures "Salsvault Features")” at the beginning of this section).
+One of the footlockers holds an intact [[Aeor|Aeorian]] robe (see “[Salsvault Features](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#SalsvaultFeatures "Salsvault Features")” at the beginning of this section).
 
 ### S8. Ruined Dorm
 
@@ -456,7 +456,7 @@ Salsvault’s crash into Foren destroyed the magic torches in this room, leaving
 
 The floor of this chamber is covered in rubble, making it difficult terrain. A [rug of smothering](https://www.dndbeyond.com/monsters/rug-of-smothering) is hidden beneath the rubble. A character with a passive Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) score of 12 or higher notices the rug, but gets no hint that it is animated.
 
-A search of the rubble and a successful DC 14 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check turns up an intact Aeorian robe (see “[Salsvault Features](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#SalsvaultFeatures "Salsvault Features")” at the beginning of this section).
+A search of the rubble and a successful DC 14 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check turns up an intact [[Aeor|Aeorian]] robe (see “[Salsvault Features](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#SalsvaultFeatures "Salsvault Features")” at the beginning of this section).
 
 ### S9. Zombie Dorm
 
@@ -477,7 +477,7 @@ The chest contains Ferol’s treasure (see below), along with a [swarm of undead
 
 Any search of the desk turns up a bottle of dried ink, several used quills, five sheets of blank parchment, and a piece of paper with a faded message written on it in archaic Draconic. A character who understands Draconic can spend a few minutes to piece together the meaning of the note, or it can be deciphered with a [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages) spell or similar magic. The note reads:
 
-The chest contains 1,006 sp, 45 ep, and 201 gp in Aeorian coinage.
+The chest contains 1,006 sp, 45 ep, and 201 gp in [[Aeor|Aeorian]] coinage.
 
 ### S11. Kitchen
 
@@ -547,7 +547,7 @@ Each table holds a working set of alchemist’s supplies that Ferol uses to expe
 
 ### S18. Drowned Curative Laboratory
 
-Aeorian mages worked in this chamber to ensure that they could cure the diseases they created. Four [giant crabs](https://www.dndbeyond.com/monsters/giant-crab) now lair here, hiding beneath the kelp in the 5-foot-deep water and attacking any creatures that intrude. A character with a passive Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) score of 14 or higher notices the crabs, which attack with surprise if not spotted. See “[Salsvault Features](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#SalsvaultFeatures "Salsvault Features"),” at the beginning of this section, for what happens if characters enter the frigid water. Additionally, the kelp makes the water difficult terrain for creatures other than the giant crabs.
+[[Aeor|Aeorian]] mages worked in this chamber to ensure that they could cure the diseases they created. Four [giant crabs](https://www.dndbeyond.com/monsters/giant-crab) now lair here, hiding beneath the kelp in the 5-foot-deep water and attacking any creatures that intrude. A character with a passive Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) score of 14 or higher notices the crabs, which attack with surprise if not spotted. See “[Salsvault Features](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#SalsvaultFeatures "Salsvault Features"),” at the beginning of this section, for what happens if characters enter the frigid water. Additionally, the kelp makes the water difficult terrain for creatures other than the giant crabs.
 
 A character with a passive Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) score of 11 or higher notices a stone chest built into the floor and submerged in the water against the back wall. The chest is locked (see “Salsvault Features” at the beginning of this section).
 
@@ -557,7 +557,7 @@ The chest is packed with fine sand and contains twenty doses of frigid woe antid
 
 ## Concluding the Adventure
 
-You can roll for random encounters on the way back to [[Syrinlya]] (see “[Encounters in Eiselcross](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-[[eiselcross]]#EncountersinEiselcross "Encounters in Eiselcros")” in chapter 3), or you can allow the characters an uneventful trip as reward for a job well done. When the characters arrive in Syrinlya, they can arrange for the Buyer to teleport the antidote for frigid woe to [[Palebank Village]]. After doing so, the elf pays out the 200 gp reward on behalf of Elro Aldataur.
+You can roll for random encounters on the way back to [[Syrinlya]] (see “[Encounters in Eiselcross](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-[[eiselcross]]#EncountersinEiselcross "Encounters in Eiselcros")” in chapter 3), or you can allow the characters an uneventful trip as reward for a job well done. When the characters arrive in Syrinlya, they can arrange for the Buyer to teleport the antidote for frigid woe to [[Palebank Village]]. After doing so, the [[Elves|elf]] pays out the 200 gp reward on behalf of Elro Aldataur.
 
 If the characters don’t successfully recover the frigid woe antidote in time to save Irven and his family, all four family members succumb to the disease. If the characters are successful, they have the thanks of Elro Aldataur, Irven and his family, the people of [[Palebank Village]], and the explorers of [[Syrinlya]].
 

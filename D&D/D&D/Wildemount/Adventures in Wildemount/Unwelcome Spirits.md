@@ -4,7 +4,7 @@ If your players are using the [[heroic chronicle]] to create their characters (s
 
 ## Story Overview
 
-Trouble has come to the roaming village of [[Urzin]], which slowly ambles through the wastes of [[Xhorhas]] atop the massive, mossy shells of horizonback tortoises. The village’s elder seer, the goblin warlock [Bol’bara](https://www.dndbeyond.com/monsters/bolbara), has gone missing. Three nights ago, while foraging by night for rare alchemical ingredients, Bol’bara was beset by a cadre of [[Dwendalian Empire]] soldiers near the foothills of [[Brokenveil Bluffs]]. On the orders of an imperial inquisitor named [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost), the goblin warlock was forcefully escorted to the local garrison for questioning—and for magical experimentation.
+Trouble has come to the roaming village of [[Urzin]], which slowly ambles through the wastes of [[Xhorhas]] atop the massive, mossy shells of horizonback tortoises. The village’s elder seer, the [[Goblinkin|goblin]] warlock [Bol’bara](https://www.dndbeyond.com/monsters/bolbara), has gone missing. Three nights ago, while foraging by night for rare alchemical ingredients, Bol’bara was beset by a cadre of [[Dwendalian Empire]] soldiers near the foothills of [[Brokenveil Bluffs]]. On the orders of an imperial inquisitor named [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost), the goblin warlock was forcefully escorted to the local garrison for questioning—and for magical experimentation.
 
 What neither the imperial forces nor the goblinoids of [[Urzin]] know is that Bol’bara was performing a series of rare communal rites near a site of major arcane significance. With those rites interrupted, she is now in the throes of possession by her patron, a shadow demon known as Trush. If its dark power is set free, Trush could wreak havoc across the wastes of [[Xhorhas]], using Bol’bara as its worldly vessel.
 
@@ -33,14 +33,14 @@ If the characters enter the hall of Ogre Lord Buhfal II, add the following:
 [Ogre Lord Buhfal II](https://www.dndbeyond.com/monsters/ogre-lord-buhfal-ii)—a lawful evil, male [ogre](https://www.dndbeyond.com/monsters/ogre) with an Intelligence score of 10—explains the current situation to the characters:
 
 -   Since his father was slain forty years earlier by the Kryn paragon [[Sunbreaker Olomon]], Buhfal II has seen a slow swell of discontent among [[Urzin]]’s goblinoid population, who labor tirelessly to execute the [[Kryn Dynasty]]’s clandestine agendas. An increasing number of Urzin’s residents look to Buhfal and his advisors for leadership, despite the dynasty’s overt hold on the area.
--   Three nights ago, Buhfal’s most trusted counselor, the goblin witch [Bol’bara](https://www.dndbeyond.com/monsters/bolbara), journeyed to the foothills of the [[Brokenveil Bluffs]] to the west, where she regularly forages for ritual components. She never returned.
+-   Three nights ago, Buhfal’s most trusted counselor, the [[Goblinkin|goblin]] witch [Bol’bara](https://www.dndbeyond.com/monsters/bolbara), journeyed to the foothills of the [[Brokenveil Bluffs]] to the west, where she regularly forages for ritual components. She never returned.
 -   Buhfal doesn’t know what happened to her, but he knows that [[Dwendalian Empire]] patrols had been spotted in the area in previous weeks. The patrols strike out from an outpost known as Fort Venture, which watches over the [[Brokenveil Bluffs]].
 -   An elder villager who remembers the reign of the first Buhfal, Bol’bara is [[Urzin]]’s chief loremaster and a pivotal ally in both the ongoing battle against the empire and the enduring struggle against the cruel environs of the Xhorhasian swamps. Little is known of Bol’bara’s otherworldly patron, but her warlock powers are respected by all.
 -   Without Bol’bara’s arcane protections and political guile, Buhfal fears his people will grow submissive to the [[Kryn Dynasty]]’s whims, making [[Urzin]] a more notable target for imperial reprisals.
 
 ### Buhfal’s Boon
 
-[Buhfal](https://www.dndbeyond.com/monsters/ogre-lord-buhfal-ii) hires the characters to locate the goblin warlock and retrieve her. For rescuing [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) from her kidnappers, the ogre lord agrees to pay 200 gp and to provide the characters with “premium weapons.”
+[Buhfal](https://www.dndbeyond.com/monsters/ogre-lord-buhfal-ii) hires the characters to locate the [[Goblinkin|goblin]] warlock and retrieve her. For rescuing [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) from her kidnappers, the ogre lord agrees to pay 200 gp and to provide the characters with “premium weapons.”
 
 Buhfal suggests that the characters begin by reconnoitering the imperial garrison at Fort Venture to the west, under the keen supervision of a [hobgoblin](https://www.dndbeyond.com/monsters/hobgoblin) scout named Morgid.
 
@@ -51,7 +51,7 @@ As they make preparations, the characters discover that the “premium weapons�
 Characters looking for better gear can equip themselves (at normal prices) for the journey through [[Brokenveil Marsh]] by visiting one of [[Urzin]]’s merchants. Popular stops in the village include the following:
 
 -   Graaf the blacksmith (a lawful neutral, male [orc](https://www.dndbeyond.com/monsters/orc)) for weapons and armor
--   Quartermaster Krekk (a lawful evil, male [goblin](https://www.dndbeyond.com/monsters/goblin)) for tools and adventuring gear
+-   Quartermaster Krekk (a lawful evil, male [goblin](https://www.dndbeyond.com/monsters/[[Goblinkin|goblin]])) for tools and adventuring gear
 -   Vreya Trestilya (a chaotic good, agender [drow](https://www.dndbeyond.com/monsters/drow)) for bows, crossbows, arrows and bolts, as well as simple hunters’ traps
 
 ## Exploring [[Brokenveil Marsh]]
@@ -282,7 +282,7 @@ The [[Dwendalian Empire]]’s hold on [[Eastern Wynandir]] is tenuous at best, a
 
 Commander Struther Felmont and the Dwendalian soldiers at the fort have grown callous and cruel under the leadership of Imperial Inquisitor [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost), who conducts deranged experiments on the humanoids of the marsh with an unsavory and sadistic application of divine magic. The guards of Fort Venture engage in defense, training, and patrol work in eight-hour shifts. Few of those guards respect Pellinost, but all obey him for fear of strict retribution.
 
-The party’s travel time from [[Urzin]] to Fort Venture determines whether the goblin warlock [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) is still a prisoner of the empire or has become an unfettered vessel of demonic possession and torn the fort apart. After three days of torture and experimentation, Parson Pellinost triggers Bol’bara’s full demonic possession—making her powerful enough to kill the inquisitor and escape captivity.
+The party’s travel time from [[Urzin]] to Fort Venture determines whether the [[Goblinkin|goblin]] warlock [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) is still a prisoner of the empire or has become an unfettered vessel of demonic possession and torn the fort apart. After three days of torture and experimentation, Parson Pellinost triggers Bol’bara’s full demonic possession—making her powerful enough to kill the inquisitor and escape captivity.
 
 If the characters spend the minimum three days traversing the marsh and enter Fort Venture at once, they can either prevent the second phase of Bol’bara’s possession or become witness to it. With or without the party’s intervention, once Bol’bara enters the second phase of her possession, she plots a return to [[Urzin]] and attempts to destroy anyone and anything in her way.
 
@@ -368,7 +368,7 @@ As the characters approach this area, read:
 
 The front door can be locked and bolted from inside (see below) but is usually unlocked. When the characters can see inside the main hall, read:
 
-The main hall is a place for the guards of Fort Venture to join together for meals, revelry, and prayer. However, most of the guards prefer to spend their time in the open spaces of the training yard or in their own tents because of the unsavory sounds that issue forth from Parson Pellinost’s chapel ([area V6](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#V6Chapel "area V6")).
+The main hall is a place for the guards of Fort Venture to join together for meals, [[The Revelry|revelry]], and prayer. However, most of the guards prefer to spend their time in the open spaces of the training yard or in their own tents because of the unsavory sounds that issue forth from Parson Pellinost’s chapel ([area V6](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#V6Chapel "area V6")).
 
 Any character who succeeds on a DC 15 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check in this area can hear muffled screaming coming from behind the closed door on the west side of the room.
 
@@ -394,7 +394,7 @@ When the characters arrive, [Parson Pellinost](https://www.dndbeyond.com/monster
 
 What Pellinost doesn’t know is that the third time he attempts to cast [revivify](https://www.dndbeyond.com/spells/revivify) on the possessed warlock, her tortured mind will break, allowing her to be possessed by her shadow demon patron—a fiend known as Trush.
 
-[Bol’bara](https://www.dndbeyond.com/monsters/bolbara) is a chaotic good (for now at least), female [goblin](https://www.dndbeyond.com/monsters/goblin) (see the accompanying stat block), but she doesn’t have legendary actions until she is fully possessed.
+[Bol’bara](https://www.dndbeyond.com/monsters/bolbara) is a chaotic good (for now at least), female [goblin](https://www.dndbeyond.com/monsters/[[Goblinkin|goblin]]) (see the accompanying stat block), but she doesn’t have legendary actions until she is fully possessed.
 
 [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost) uses the [priest](https://www.dndbeyond.com/monsters/priest) stat block but has the following cleric spells prepared:
 
@@ -410,7 +410,7 @@ Pellinost has a [prosthetic limb](https://www.dndbeyond.com/magic-items/prosthet
 
 The door to the chapel is usually locked. Parson Pellinost and one of the guards on duty in the main hall carry keys to the door, which can also be unlocked with a successful DC 15 Dexterity check using thieves’ tools.
 
-[Bol’bara](https://www.dndbeyond.com/monsters/bolbara) is shackled by each limb to the four corners of the low stone altar. A rope gag muffles her screaming, and her arms and legs are covered in an array of fresh contusions and magically healed lacerations. Rivulets of her dark goblin blood run down the side of the stone slab and into a narrow channel cut into the floor around the altar. Without the key, the manacle locks can be opened with a successful DC 15 Dexterity check using thieves’ tools.
+[Bol’bara](https://www.dndbeyond.com/monsters/bolbara) is shackled by each limb to the four corners of the low stone altar. A rope gag muffles her screaming, and her arms and legs are covered in an array of fresh contusions and magically healed lacerations. Rivulets of her dark [[Goblinkin|goblin]] blood run down the side of the stone slab and into a narrow channel cut into the floor around the altar. Without the key, the manacle locks can be opened with a successful DC 15 Dexterity check using thieves’ tools.
 
 If the characters reached Fort Venture within three days of setting out from [[Urzin]] (see “[Bol’bara’s Exorcism](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#BolbarasExorcism "Bol’bara’s Exorcism")” earlier in this chapter), they arrive here to find [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost) ready to deliver a death blow against [Bol’bara](https://www.dndbeyond.com/monsters/bolbara). If Bol’bara is slain and revived with the use of a [revivify](https://www.dndbeyond.com/spells/revivify) spell (the third time Pellinost has brought her back to life that way), her otherworldly patron manipulates the veil between the Shadowfell and the Border Ethereal to possess her. Alternatively, if 1 minute passes from the time the characters arrive and interrupt the torture session, the shadow demon Trush completes its own ritual from the Shadowfell and takes control of the warlock.
 
@@ -430,7 +430,7 @@ Small humanoid (goblinoid), chaotic good (chaotic evil when fully possessed)
 
 **Senses** [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) 60 ft., passive Perception 11
 
-**Languages** Common, Goblin
+**Languages** Common, [[Goblinkin|Goblin]]
 
 **Challenge** 3 (700 XP)
 
@@ -484,7 +484,7 @@ If the characters manage to free Alonne Frith, the cultist can be convinced to j
 
 In addition to the playing card set and dice they use for entertainment, the two guards each have a coin purse containing 26 cp and 17 cp, respectively. In addition to the [[hunter’s coat]] Alonne Frith wears (see [chapter 6](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-treasures#HuntersCoat "chapter 6")), one guard also carries Frith’s weapon, a [black-bladed +1 scimitar](https://www.dndbeyond.com/magic-items/scimitar-1), but is unaware of its magical properties and doesn’t use the weapon in combat.
 
-If [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) has already been possessed, the two guards are dead and Alonne Frith huddles in his cage, the only living witness to Fort Venture’s demise. Frith can describe seeing a lone goblin spellcaster taking on the garrison, and how her power forced many of the soldiers to turn against each other. He can still be asked to join the party, but the Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check to convince him is made with disadvantage.
+If [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) has already been possessed, the two guards are dead and Alonne Frith huddles in his cage, the only living witness to Fort Venture’s demise. Frith can describe seeing a lone [[Goblinkin|goblin]] spellcaster taking on the garrison, and how her power forced many of the soldiers to turn against each other. He can still be asked to join the party, but the Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check to convince him is made with disadvantage.
 
 ### V9. Storehouse
 
@@ -514,7 +514,7 @@ If [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) has already been pos
 
 ## Return to [[Urzin]]
 
-If the characters don’t rescue [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) from captivity before [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost) completes his interrogation and triggers her full possession, the goblin warlock is taken over by her otherworldly patron. Her alignment becomes chaotic evil, and she gains the legendary actions noted in her stat block. After destroying Pellinost and the garrison of Fort Venture, Bol’bara heads into the [[Brokenveil Marsh]], slaying every creature she meets on her way back to destroy the village of [[Urzin]].
+If the characters don’t rescue [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) from captivity before [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost) completes his interrogation and triggers her full possession, the [[Goblinkin|goblin]] warlock is taken over by her otherworldly patron. Her alignment becomes chaotic evil, and she gains the legendary actions noted in her stat block. After destroying Pellinost and the garrison of Fort Venture, Bol’bara heads into the [[Brokenveil Marsh]], slaying every creature she meets on her way back to destroy the village of [[Urzin]].
 
 To prevent the people of [[Urzin]] from suffering a terrible fate, the characters must track Bol’bara across the swamp and intercept her for a final confrontation. You can use a location the characters didn’t visit on their journey to the fort as the site of a climactic battle, or reuse an already-visited site as a location for a deadly ambush. Alternatively, you could have the characters catch the warlock as she reaches Urzin, turning the unique village into the site of a deadly battle.
 

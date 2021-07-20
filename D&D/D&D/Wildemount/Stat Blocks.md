@@ -6,7 +6,7 @@ Endless turmoil has scarred [[Wildemount]], from the wars of ages long past to t
 
 This chapter provides stat blocks for various creatures of [[Wildemount]]. These creatures are presented in alphabetical order. For guidance on how to use a creature’s stat block, see the introduction of the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual").
 
-## [[Stat Blocks by Creature Type]]
+## Stat Blocks by Creature Type
 
 ## [[Wildemount NPCs]]
 

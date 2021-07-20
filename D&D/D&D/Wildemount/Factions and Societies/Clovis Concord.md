@@ -22,7 +22,7 @@ Despite the concord’s cordial relationship with the [[Dwendalian Empire]], the
 
 The Clovis Concord is concerned with maintaining the trade and commerce that ensures their continued influence, both in [[Wildemount]] and the rest of [[Exandria]]. Anything that might jeopardize business is viewed as a major threat to the sanctity of life along the [[Menagerie Coast]]. Faced with the hazards of dangerous creatures that lurk in the nearby jungles and beneath the waves, as well as piracy on the open waters, the concord is employing substantial numbers of adventurers and mercenaries.
 
-Forty years ago, when the concord worked to enforce rising taxation on independent merchant companies operating within the [[Menagerie Coast]], the outrage led a small union of angry enterprises to turn to piracy, calling themselves [[the Revelry]]. These pirates have claimed the island of [[Darktow]] and terrorized the shipping lanes for four decades, all while deftly avoiding pursuit and naval retribution. The concord is eager to destroy the Revelry in its entirety, and have put massive bounties on the heads of the so-called scourges of the ocean.
+Forty years ago, when the concord worked to enforce rising taxation on independent merchant companies operating within the [[Menagerie Coast]], the outrage led a small union of angry enterprises to turn to piracy, calling themselves [[the Revelry]]. These pirates have claimed the island of [[Darktow]] and terrorized the shipping lanes for four decades, all while deftly avoiding pursuit and naval retribution. The concord is eager to destroy the [[The Revelry|Revelry]] in its entirety, and have put massive bounties on the heads of the so-called scourges of the ocean.
 
 ## Relationships
 

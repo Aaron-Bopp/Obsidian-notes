@@ -4,4 +4,4 @@ This powerful archfey of selfish and anarchic intent, who was once known by the 
 
 Eccentric, fickle, and prone to whimsy and impulse, the Traveler wanders [[Exandria]], seeking allies and followers who entertain him. Lending his powerful fey magics in the guise of divine boons and weaving a spreading myth surrounding his secretive purpose, the Traveler appears when least expected and leaves when least preferred. Those who hear of his tenets are prone to disbelief, but the occasional “miracle” serves to reinforce his influence. Does he wish to become a new god, or is this all still just a game?
 
-**_Appearance._** The Traveler is often depicted as a tall elf man hidden within a billowing green cloak, the hood obscuring his face except for his knowing grin.
+**_Appearance._** The Traveler is often depicted as a tall [[Elves|elf]] man hidden within a billowing green cloak, the hood obscuring his face except for his knowing grin.

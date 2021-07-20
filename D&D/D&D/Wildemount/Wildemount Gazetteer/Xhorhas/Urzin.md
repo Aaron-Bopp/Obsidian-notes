@@ -1,6 +1,6 @@
 ### Urzin
 
-**Population:** 5,930 (62% goblinoids, 21% gnolls, 10% [[orcs]], 7% other races)
+**Population:** 5,930 (62% goblinoids, 21% [[gnolls]], 10% [[orcs]], 7% other races)
 
 **Government:** The reigning champion of Urzin, [[Sunbreaker Olomon]], guides the townsfolk, who follow with zeal and dedication.
 

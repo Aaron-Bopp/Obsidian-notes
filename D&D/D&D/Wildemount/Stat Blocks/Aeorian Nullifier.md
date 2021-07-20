@@ -1,8 +1,8 @@
-### Aeorian Nullifier
+### [[Aeor|Aeorian]] Nullifier
 
 Nullifiers are the [[bane]] of all magic users, with their physical forms and innate powers shaped specifically to resist and cancel magical effects. Against other foes, a nullifier is no less fearsome for the grotesque mouths filled with razor-sharp teeth that cover its torso—and which set up a cacophony of gnashing that can drive other creatures mad.
 
-[Aeorian Nullifier](https://www.dndbeyond.com/monsters/aeorian-nullifier)
+[Aeorian Nullifier](https://www.dndbeyond.com/monsters/[[Aeor|aeorian]]-nullifier)
 
 Large monstrosity, neutral evil
 

@@ -8,7 +8,7 @@
 
 **Commerce:** Most basic goods and facilities can be found within the city, while rarer commodities are scarce. Inns and taverns are limited compared to other coastal cities.
 
-**Organizations:** The Houses of Sagacity (see "Geography" below) are the center of worship, though small shrines dot the city. The [[Clovis Concord]] is involved in the city's affairs, though kept peripheral by the Noldar. Myriad interests are slowly invading.
+**Organizations:** The Houses of Sagacity (see "Geography" below) are the center of worship, though small shrines dot the city. The [[Clovis Concord]] is involved in the city's affairs, though kept peripheral by the Noldar. [[The Myriad|Myriad]] interests are slowly invading.
 
 After the sea guardian of the Ki'Nau was banished, the [[Menagerie Coast]] received an influx of travelers from [[Marquet]]. Many Ki'Nau of elven heritage joined the desert [[elves]] of Marquet to seek a new home. They traveled inland toward the protection of the [[Cyrios Mountains]], where precious metals and stones lay unclaimed, and paid their respects to the fey folk of the Doralle, taking only what lumber they felt was needed. Together, they built a new center for elven culture among the fields outside the forest.
 
@@ -26,4 +26,4 @@ The Korrwa Ring is the inner ring of Gwardan, where business is conducted betwee
 
 Characters could come to Gwardan seeking steamcast goods or any of the city's strange crafting secrets.
 
-_**Bring 'em Back (Low Level).**_ Talamin Raanan (chaotic neutral, female, high elf [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain)) once worked for the [[tribes of Shadycreek Run]] as an assassin. The elf disappeared five years ago, but spies report that she resides in Gwardan under the name Valemis Tirdra. One of the Shadycreek Tribes, or a faction that wants to see Talamin pay for her crimes, hires the characters to capture the elf. When the characters find Talamin, they learn that all she desires is to leave her violent past behind and live out her days with her new family, including her two young children.
+_**Bring 'em Back (Low Level).**_ Talamin Raanan (chaotic neutral, female, high [[Elves|elf]] [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain)) once worked for the [[tribes of Shadycreek Run]] as an assassin. The elf disappeared five years ago, but spies report that she resides in Gwardan under the name Valemis Tirdra. One of the Shadycreek Tribes, or a faction that wants to see Talamin pay for her crimes, hires the characters to capture the elf. When the characters find Talamin, they learn that all she desires is to leave her violent past behind and live out her days with her new family, including her two young children.

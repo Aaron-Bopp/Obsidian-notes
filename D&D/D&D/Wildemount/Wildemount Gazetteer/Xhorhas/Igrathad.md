@@ -34,7 +34,7 @@ The seven villages are connected by muddy paths that cut through the rocky grass
 
 **Wrathfall** is the village of humanoid outlanders who never joined with the Odarami or the clans of the [[Iothia Moorland]]. It is little more than a few scattered clusters of yurts.
 
-**Unyeethi** is home to the gnoll clan of the same name. It is the least social of the villages. The gnolls live in primitive huts made from bark, furs, and bones.
+**Unyeethi** is home to the gnoll clan of the same name. It is the least social of the villages. The [[gnolls]] live in primitive huts made from bark, furs, and bones.
 
 **Dodafir** is the fortress village of hill giants that marks the southernmost borough of Igrathad. The fortress is made of great logs crudely fitted together, with roofs made of bark tiles and thatch.
 

@@ -48,7 +48,7 @@ The characters might not be interested in saving the shark hunters, perhaps feel
 
 Four [sahuagin](https://www.dndbeyond.com/monsters/sahuagin) emerge from the water to pursue two shark hunters (use the [tribal warrior](https://www.dndbeyond.com/monsters/tribal-warrior) stat block). If the characters don’t interfere, the shark hunters are handily skewered and killed by the sahuagin.
 
-The two shark hunters are reckless human teenagers—a female half-elf named Elanza and a male tiefling named Joao. Elanza fears that the entire village will sink into the sea, and she urges the characters to accompany her to the ships on the eastern shore and escape. Joao is obsessed with glory. If he survives this encounter, he heads for the north shore to keep fighting unless a character can convince him to flee to safety with a successful DC 10 Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check.
+The two shark hunters are reckless human teenagers—a female [[Half Elves|half-elf]] named Elanza and a male tiefling named Joao. Elanza fears that the entire village will sink into the sea, and she urges the characters to accompany her to the ships on the eastern shore and escape. Joao is obsessed with glory. If he survives this encounter, he heads for the north shore to keep fighting unless a character can convince him to flee to safety with a successful DC 10 Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check.
 
 After this encounter, an aftershock rocks the village. Any character who succeeds on a DC 10 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check confirms that [[Palma Flora]] is sinking. Every 10 minutes from this point forward, the size of the island shrinks by 5 feet on all sides as it is slowly submerged in the ocean.
 
@@ -142,15 +142,15 @@ _Wavechaser_ is outfitted with two ballistae on its stern for ship-to-ship comba
 
 The crew members of _Wavechaser_ are all easy to spot as they attend to their duties around the ship. Read:
 
-Most of the crew of _Wavechaser_ are secretly Revelry pirates, as is the captain of the ship—a female [[tabaxi]] with snow leopard-like spots named [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) (on account of her three earrings). The captain is in her cabin, plotting the ship’s next move.
+Most of the crew of _Wavechaser_ are secretly [[The Revelry|Revelry]] pirates, as is the captain of the ship—a female [[tabaxi]] with snow leopard-like spots named [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) (on account of her three earrings). The captain is in her cabin, plotting the ship’s next move.
 
 If you want to roleplay the interactions between the characters and the crew, you can fill these NPCs with as much personality as you want, making them fully fleshed-out characters:
 
-**Boerth (Male Human).** This darkly handsome, chaotic neutral [bandit](https://www.dndbeyond.com/monsters/bandit) is heavyset and strong, and has a keen mind for games of chance. He hails from [[Port Damali]]. Boerth doesn’t trust anyone—especially his fellow Revelry sailors.
+**Boerth (Male Human).** This darkly handsome, chaotic neutral [bandit](https://www.dndbeyond.com/monsters/bandit) is heavyset and strong, and has a keen mind for games of chance. He hails from [[Port Damali]]. Boerth doesn’t trust anyone—especially his fellow [[The Revelry|Revelry]] sailors.
 
-**Dajarkal (Female Half-Orc).** This lawful neutral **[druid](https://www.dndbeyond.com/monsters/druid)** is soft-spoken and likes animals more than other people. She joined _Wavechaser_’s crew a week ago in [[Nicodranas]]—as a mercenary spy for the [[Clovis Concord]] tasked with identifying Revelry pirates. She secretly casts [animal messenger](https://www.dndbeyond.com/spells/animal-messenger) every evening to send reports on _Wavechaser_’s whereabouts to her superiors.
+**Dajarkal (Female Half-Orc).** This lawful neutral **[druid](https://www.dndbeyond.com/monsters/druid)** is soft-spoken and likes animals more than other people. She joined _Wavechaser_’s crew a week ago in [[Nicodranas]]—as a mercenary spy for the [[Clovis Concord]] tasked with identifying [[The Revelry|Revelry]] pirates. She secretly casts [animal messenger](https://www.dndbeyond.com/spells/animal-messenger) every evening to send reports on _Wavechaser_’s whereabouts to her superiors.
 
-**Dillyu (Male Sea Elf).** This green-complexioned, chaotic good [bandit](https://www.dndbeyond.com/monsters/bandit) joined the crew only a few days before. As a result, he has no idea yet that he’s working on a pirate vessel. Dillyu spent most of his life in [[Port Zoon]] after losing his family to a sahuagin raid as a child, and he hates the sea devils with a passion.
+**Dillyu (Male Sea [[Elves|Elf]]).** This green-complexioned, chaotic good [bandit](https://www.dndbeyond.com/monsters/bandit) joined the crew only a few days before. As a result, he has no idea yet that he’s working on a pirate vessel. Dillyu spent most of his life in [[Port Zoon]] after losing his family to a sahuagin raid as a child, and he hates the sea devils with a passion.
 
 **Heidi Axebeard (Female Dwarf).** This lawful evil [acolyte](https://www.dndbeyond.com/monsters/acolyte) is the ship’s pilot and first mate, and she has a knack for predicting the weather. She hails from [[Grimgolir]] in the [[Dwendalian Empire]] but has spent decades navigating the sea. Heidi has fought sahuagin on multiple occasions but has never seen them wield magic like whatever caused Flora Isle to sink beneath the sea.
 
@@ -248,7 +248,7 @@ In addition to the general features noted above, [[Brokenbank]] has the followin
 
 [[Brokenbank]] is a muddy, rain-slick village crammed full of travelers. It can feel claustrophobic, and it seems as though a leering [[Zhelezo]] guard stands on every street corner.
 
-[[Brokenbank]]’s apothecary is a chubby, female sea elf [druid](https://www.dndbeyond.com/monsters/druid) named Aldageam. [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) saved Aldageam’s life when she was young, and although she doesn’t fully trust the [[tabaxi]] (who she knows is a pirate), she is happy to help her friend. She has ten [potions of water breathing](https://www.dndbeyond.com/magic-items/potion-of-water-breathing) in stock and sells them to the characters at half price for 40 gp each.
+[[Brokenbank]]’s apothecary is a chubby, female sea [[Elves|elf]] [druid](https://www.dndbeyond.com/monsters/druid) named Aldageam. [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) saved Aldageam’s life when she was young, and although she doesn’t fully trust the [[tabaxi]] (who she knows is a pirate), she is happy to help her friend. She has ten [potions of water breathing](https://www.dndbeyond.com/magic-items/potion-of-water-breathing) in stock and sells them to the characters at half price for 40 gp each.
 
 [[Brokenbank]] features a thriving pawn shop that doubles as its general store. Items sold here fetch 75 percent of their value rather than 50 percent.
 
@@ -282,7 +282,7 @@ This encounter provides a means of breaking up travel and for deepening the intr
 
 The intercepting ship, named _Moonbeam_, is a caravel flying the colors of the [[Clovis Concord]], the government of the [[Menagerie Coast]]. The craft is slightly smaller than _Wavechaser_ and is gaining on her rapidly.
 
-_Moonbeam_ is on the hunt for [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) and is captained by Lieutenant Commander Voskiir Larth, a princely and flamboyant pale-skinned, male half-elf [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain). _Wavechaser_’s druid crew member Dajarkal, a spy for the [[Clovis Concord]], has reported the ship’s movements by way of her animal messengers, and _Moonbeam_ has been sent to intercept the secret pirate vessel.
+_Moonbeam_ is on the hunt for [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) and is captained by Lieutenant Commander Voskiir Larth, a princely and flamboyant pale-skinned, male [[Half Elves|half-elf]] [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain). _Wavechaser_’s druid crew member Dajarkal, a spy for the [[Clovis Concord]], has reported the ship’s movements by way of her animal messengers, and _Moonbeam_ has been sent to intercept the secret pirate vessel.
 
 It takes _Moonbeam_ 10 minutes to intercept _Wavechaser_, giving the characters and the crew time to wake up and don their armor (see “[Getting Into and Out of Armor](https://www.dndbeyond.com/sources/phb/equipment#GettingIntoandOutofArmor "Getting Into and Out of Armor")” in chapter 5 of the __[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")__). Combat begins when Voskiir and his boarding party of two [thugs](https://www.dndbeyond.com/monsters/thug), two [scouts](https://www.dndbeyond.com/monsters/scout), and four [bandits](https://www.dndbeyond.com/monsters/bandit) swing aboard the vessel. He shouts out, “In the name of the laws of the [[Clovis Concord]], surrender your vessel peacefully, or we shall take her!”
 
@@ -294,7 +294,7 @@ Dajarkal and Dillyu are wild cards in the battle, and can be used as you see fit
 
 Combat ends when Voskiir and his boarding party are defeated. _Moonbeam_ sails away with all haste once the battle is lost, but _Wavechaser_ doesn’t follow. If the boarding party is killed, that’s the end of that. If the adventurers capture Voskiir, however, they have the chance to interrogate him. (You can also have Dajarkal or one of Voskiir’s crew know what he knows if the captain didn’t survive.)
 
-Voskiir offers up willingly that [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a Revelry pirate and that he is an officer of the [[Zhelezo]] sent to apprehend her. If the characters try to get more out of him, you can cut things short by having Three Earrings appear and order one of her crew to “Throw this wretched do-gooder in the brig.”
+Voskiir offers up willingly that [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a [[The Revelry|Revelry]] pirate and that he is an officer of the [[Zhelezo]] sent to apprehend her. If the characters try to get more out of him, you can cut things short by having Three Earrings appear and order one of her crew to “Throw this wretched do-gooder in the brig.”
 
 If Three Earrings’s piratical nature isn’t public knowledge yet, now is a good time for the characters to question her about it. She tries to deflect all criticism and claims that she simply wants to claim the _[rod of retribution](https://www.dndbeyond.com/magic-items/rod-of-retribution)_. The fact that she’s a pirate has no bearing on the characters’ situation. “Unless,” she adds with a smirk, “word gets out that you attacked an officer of the [[Clovis Concord]] defending a wanted corsair. Right now, the only people who know about this are you, me, and the varmints who boarded our ship.”
 

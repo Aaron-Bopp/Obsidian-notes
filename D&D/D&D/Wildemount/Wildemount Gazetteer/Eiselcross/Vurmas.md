@@ -1,6 +1,6 @@
 ### Vurmas
 
-**Population:** 193 (51% dark [[elves]], 23% [[orcs]], 14% gnolls, 12% other races)
+**Population:** 193 (51% [[Dark Elves]], 23% [[orcs]], 14% [[gnolls]], 12% other races)
 
 **Government:** Captain Hallwas Denalor has authority over this floating outpost, but Norca Brighttusk leads the expeditions.
 
@@ -10,7 +10,7 @@
 
 **Organizations:** The people of Vurmas are not associated with any organizations beyond the [[Kryn Dynasty]].
 
-Vurmas is a floating outpost for the [[Kryn Dynasty]] near the north shore of [[Gelier]], and the dynasty keeps Vurmas secret from other factions. The Kryn established this base near [[Eiselcross]]'s second-largest island not to find Aeorian items but to make allies of Eiselcross's wildfolk.
+Vurmas is a floating outpost for the [[Kryn Dynasty]] near the north shore of [[Gelier]], and the dynasty keeps Vurmas secret from other factions. The Kryn established this base near [[Eiselcross]]'s second-largest island not to find [[Aeor|Aeorian]] items but to make allies of Eiselcross's wildfolk.
 
 [](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-20.png)
 
@@ -18,9 +18,9 @@ Vurmas
 
 Vurmas is not a true settlement: it's actually three sailing ships tied together and anchored near the north shore of [[Gelier]]. These boats are the _New Radiance_, the _Candlefire_, and the _Soulsailor_. At any given moment, one of the ships could be traveling to [[Xhorhas]] with a hold full of new Luxon-worshiping wildfolk converts or on the way back to [[Eiselcross]] with more supplies.
 
-The Kryn's explorers stay on the boats when they can, bringing supplies to shore when they go out in search of allies. These ships are maintained and run by Captain Hallwas Denalor (lawful neutral, female, dark elf [veteran](https://www.dndbeyond.com/monsters/veteran)), while Norca Brighttusk (neutral, female, orc [priest](https://www.dndbeyond.com/monsters/priest)) leads the expedition teams.
+The Kryn's explorers stay on the boats when they can, bringing supplies to shore when they go out in search of allies. These ships are maintained and run by Captain Hallwas Denalor (lawful neutral, female, [[Dark Elves|dark elf]] [veteran](https://www.dndbeyond.com/monsters/veteran)), while Norca Brighttusk (neutral, female, orc [priest](https://www.dndbeyond.com/monsters/priest)) leads the expedition teams.
 
-The [[Kryn Dynasty]] believes that the [[wildfolk of Eiselcross]] are a better find and more reliable than most Aeorian objects, especially since the items tend to interfere with the Kryn's divine magic. With the [[Cerberus Assembly]] and the Uthodurnians busy in Foren, the Kryn stay clear of the largest island and search for allies in the rest of [[Eiselcross]]'s lands. Many wildfolk are easy converts of [[the Luxon]] since they respect divine magic but do not worship any deity.
+The [[Kryn Dynasty]] believes that the [[wildfolk of Eiselcross]] are a better find and more reliable than most [[Aeor|Aeorian]] objects, especially since the items tend to interfere with the Kryn's divine magic. With the [[Cerberus Assembly]] and the Uthodurnians busy in Foren, the Kryn stay clear of the largest island and search for allies in the rest of [[Eiselcross]]'s lands. Many wildfolk are easy converts of [[the Luxon]] since they respect divine magic but do not worship any deity.
 
 The Kryn approach each wildfolk clan with caution and kindness, healing the sick and injured while preaching the faith of [[the Luxon]]. They take only willing wildfolk away from the clan, knowing many others will follow because they miss their friends and family.
 

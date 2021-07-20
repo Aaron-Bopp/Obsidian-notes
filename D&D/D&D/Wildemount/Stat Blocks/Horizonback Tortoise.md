@@ -22,7 +22,7 @@ Gargantuan monstrosity, unaligned
 
 **Senses** [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) 60 ft., passive Perception 10
 
-**Languages** understands Goblin but can’t speak
+**Languages** understands [[Goblinkin|Goblin]] but can’t speak
 
 **Challenge** 7 (3,900 XP)
 
