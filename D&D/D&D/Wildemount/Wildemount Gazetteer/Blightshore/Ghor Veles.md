@@ -6,7 +6,7 @@ The name Ghor Veles means "Vault of Shadows," and a vast dungeon indeed lurks be
 
 #### Land of Refugees and Hermits
 
-Ghor Veles is pockmarked by crumbling houses and dilapidated fortresses, and countless people displaced from elsewhere in [[Xhorhas]] by war or exile have made this blighted battlefield their home. A notable resident of the ruins surrounding Ghor Veles is a [[dranassar]] survivor named Liv-Burrath. She uses magic to disguise herself as a [[Dark Elves|dark elf]] to avoid attracting attention, but is covertly collecting arcane relics from Ghor Veles with the hope that she can one day reunite with other dranassar and retake their ancient home of Ghor Dranas. She pays a fair sum for any artifacts that adventurers gather from the ruins.
+Ghor Veles is pockmarked by crumbling houses and dilapidated fortresses, and countless people displaced from elsewhere in [[Xhorhas]] by war or exile have made this blighted battlefield their home. A notable resident of the ruins surrounding Ghor Veles is a [[dranassar]] survivor named Liv-Burrath. She uses magic to disguise herself as a [[Dark-Elves|dark elf]] to avoid attracting attention, but is covertly collecting arcane relics from Ghor Veles with the hope that she can one day reunite with other dranassar and retake their ancient home of Ghor Dranas. She pays a fair sum for any artifacts that adventurers gather from the ruins.
 
 Only the undead horrors beneath Ghor Veles rival the cutthroat grave robbers that characters might encounter among the crumbling ruins.
 

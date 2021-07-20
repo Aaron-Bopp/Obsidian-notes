@@ -12,7 +12,7 @@ Children of Malice
 
 ## Goals
 
-The primary goal of the Children of Malice is to subjugate and dismantle the flourishing, Luxon-worshiping [[Dark Elves|dark elf]] society in [[Xhorhas]]. They wish to raze everything the Kryn have built, crush their will, ruin the holy implements of [[the Luxon]], and drag these broken, traitorous drow back under [[Lolth]]’s influence and command.
+The primary goal of the Children of Malice is to subjugate and dismantle the flourishing, Luxon-worshiping [[Dark-Elves|dark elf]] society in [[Xhorhas]]. They wish to raze everything the Kryn have built, crush their will, ruin the holy implements of [[the Luxon]], and drag these broken, traitorous drow back under [[Lolth]]’s influence and command.
 
 To achieve this goal, [[Lolth]] and her children know well the necessary tenets of secrecy, lies, and patience. Most of their spies are sleeper agents who wait in the shadows, quietly gaining converts while worming their way into the heart of [[Rosohna]] and awaiting the order to strike.
 

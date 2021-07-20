@@ -12,7 +12,7 @@ The few aarakocra who descend from the [[Cyrios Mountains]] or emerge from the c
 
 ### Aarakocra in [[Xhorhas]]
 
-Aarakocra are native to the mountains and jungles of western [[Wildemount]], and have precious few settlements in the mountains surrounding [[Xhorhas]]. The average Kryn [[Dark Elves|dark elf]] would react to the sight of an aarakocra with shock, for they have neither stories nor experience with such creatures.
+Aarakocra are native to the mountains and jungles of western [[Wildemount]], and have precious few settlements in the mountains surrounding [[Xhorhas]]. The average Kryn [[Dark-Elves|dark elf]] would react to the sight of an aarakocra with shock, for they have neither stories nor experience with such creatures.
 
 ### Aarakocra Names
 

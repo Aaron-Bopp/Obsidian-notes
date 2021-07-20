@@ -8,8 +8,8 @@ The [[Dwendalian Empire]] sees half-[[elves]] as a sign that imperial rule is he
 
 ### Half-[[Elves]] on the [[Menagerie Coast]]
 
-In some ways, the [[Clovis Concord]] can be considered a half-[[Elves|elf]] nation, founded as it was by the native human [[Ki’Nau]] people and by elf and human settlers from [[Marquet]]. Half-[[elves]] are also a common sight arriving on passenger ships from Tal’Dorei. The elves of Syngorn, the center of elven culture in Tal’Dorei, still hold a shameful and outdated view of their half-elf children, many of whom seek passage or stow away on ships to the [[Menagerie Coast]] to start new lives.
+In some ways, the [[Clovis Concord]] can be considered a [[Half-Elves|half-elf]] nation, founded as it was by the native human [[Ki’Nau]] people and by [[Elves|elf]] and human settlers from [[Marquet]]. Half-[[elves]] are also a common sight arriving on passenger ships from Tal’Dorei. The elves of Syngorn, the center of elven culture in Tal’Dorei, still hold a shameful and outdated view of their half-elf children, many of whom seek passage or stow away on ships to the [[Menagerie Coast]] to start new lives.
 
 ### Half-[[Elves]] in [[Xhorhas]]
 
-Half-[[elves]] of all different ancestries dwell within the lands of the Kryn, with most having one [[Dark Elves|dark elf]] parent. The idea of elves forming relationships and even having children with people of other humanoid races has long since been accepted throughout Kryn lands—so much so that it seems somewhat unnatural when people outside the culture express surprise at half-elves with small, minotaur-like horns, or with the tufted ears and yellow eyes of a bugbear.
+Half-[[elves]] of all different ancestries dwell within the lands of the Kryn, with most having one [[Dark-Elves|dark elf]] parent. The idea of elves forming relationships and even having children with people of other humanoid races has long since been accepted throughout Kryn lands—so much so that it seems somewhat unnatural when people outside the culture express surprise at half-elves with small, minotaur-like horns, or with the tufted ears and yellow eyes of a bugbear.
