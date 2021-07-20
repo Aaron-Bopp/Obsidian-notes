@@ -4,7 +4,7 @@
 
 **Government:** The assigned taskhand, Durth Mirimm, has a strained partnership with the two elder leaders of the goblin and orc clans.
 
-**Defense:** Taskhand Mirimm's small platoon of Aurora Watch soldiers bolsters the sizable ranks of the local warriors.
+**Defense:** Taskhand Mirimm's small platoon of [[Aurora Watch]] soldiers bolsters the sizable ranks of the local warriors.
 
 **Commerce:** Most basic goods and services can be found here, though their quality reflects their rough and rural origins. Hostels and lodges offer rooms and provisions for travelers.
 
@@ -20,10 +20,10 @@ The beliefs and superstitions of the original Gakthash, Uvuroh, and Zetek goblin
 
 Taskhand Durth Mirimm represents the dynasty's interests first and foremost, putting the needs of Jigow's residents a distant second. His controversial judgments are often challenged by the most vocal of the clan elders: Elder Cubu-Ka, an elderly goblin who enjoys frustrating the Kryn representatives, and Elder Ushru, an aging orc hunter eager to maintain the cultural heritage of his people. To the dynasty, maintaining order resembles a handful of adults failing to keep unruly children under control. The native people of Jigow, however, see their willfulness as a way to establish boundaries against a clueless enforcer.
 
-While members of the Aurora Watch do their best to keep things under control, a constant hum of small-scale thefts can't be quelled. Between watching their own pockets, the occasional violent confrontation from a contest gone sour, and illegal attempts to undermine a competitor's business, the Watch is perpetually overworked, which only invites more shenanigans from the people of Jigow.
+While members of the [[Aurora Watch]] do their best to keep things under control, a constant hum of small-scale thefts can't be quelled. Between watching their own pockets, the occasional violent confrontation from a contest gone sour, and illegal attempts to undermine a competitor's business, the Watch is perpetually overworked, which only invites more shenanigans from the people of Jigow.
 
 Jigow is more of a collection of coastal villages than a singular, central city. The settlement is comprised of a chain of settlements clustered among the trees of the shoreline. The main docks, known as the Meatwaters, lie on the westernmost shore, where the fishing industry thrives due to the healthy marine ecosystem. The central villages, called the Jumble, sit slightly farther from the coast, built among the massive mangrove trees and nomadic horizonback tortoises that serve as roving homesteads. The eastern edges, known as the Wetwalks, are filled with huts and shacks built on stilts over the low wetland patches where grains are cultivated in the paddies amid the reeds.
 
 Characters in Jigow might get pulled into local competitions, or they might be keeping an eye on the populace for the Kryn, who are trying to avoid a revolt.
 
-_**Battle of the Braggarts (Low Level).**_ At a tavern, the adventurers witness two braggarts engage in a boast-off. The two boasters, a battle-scarred old [orc](https://www.dndbeyond.com/monsters/orc) named Temgor and a young [goblin](https://www.dndbeyond.com/monsters/goblin) named Gerb, are both prideful and refuse to back down. It seems like the conflict is going to come to blows, and both Temgor and Gerb's friends separately ask the adventurers to defuse the tensions before the Aurora Watch gets involved.
+_**Battle of the Braggarts (Low Level).**_ At a tavern, the adventurers witness two braggarts engage in a boast-off. The two boasters, a battle-scarred old [orc](https://www.dndbeyond.com/monsters/orc) named Temgor and a young [goblin](https://www.dndbeyond.com/monsters/goblin) named Gerb, are both prideful and refuse to back down. It seems like the conflict is going to come to blows, and both Temgor and Gerb's friends separately ask the adventurers to defuse the tensions before the [[Aurora Watch]] gets involved.

@@ -14,7 +14,7 @@ A character’s story begins with determining the region where they were born, t
 
 #### Homeland
 
-The known lands of [[Wildemount]] are divided into four major geographic regions, each of which is described in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "chapter 3"). From west to east, these regions are the [[Menagerie Coast]], Western Wynandir (which is further divided into the [[Marrow Valley]] and the [[Zemni Fields]]), the [[Greying Wildlands]], and Eastern Wynandir. The northernmost reaches of the continent—the forgotten lands of [[Eiselcross]]—are not included in this section.
+The known lands of [[Wildemount]] are divided into four major geographic regions, each of which is described in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "chapter 3"). From west to east, these regions are the [[Menagerie Coast]], [[Western Wynandir]] (which is further divided into the [[Marrow Valley]] and the [[Zemni Fields]]), the [[Greying Wildlands]], and [[Eastern Wynandir]]. The northernmost reaches of the continent—the forgotten lands of [[Eiselcross]]—are not included in this section.
 
 Roll a d100 and consult the Homelands table to determine which region you were born in. If you were born in one region but grew up in another, roll twice on the table to determine your place of birth and the region you eventually settled in.
 
@@ -23,10 +23,10 @@ Roll a d100 and consult the Homelands table to determine which region you were b
 | d100  | Region (Government)                                                            |
 | ----- | ------------------------------------------------------------------------------ |
 | 01–21 | [[Menagerie Coast]] (choose either the [[Clovis Concord]] or Revelry pirates)          |
-| 22–40 | [[Marrow Valley]] in Western Wynandir ([[Dwendalian Empire]])                          |
-| 41–72 | [[Zemni Fields]] in Western Wynandir ([[Dwendalian Empire]])                           |
+| 22–40 | [[Marrow Valley]] in [[Western Wynandir]] ([[Dwendalian Empire]])                          |
+| 41–72 | [[Zemni Fields]] in [[Western Wynandir]] ([[Dwendalian Empire]])                           |
 | 73–77 | [[Greying Wildlands]] (choose either the [[Tribes of Shadycreek Run]] or [[Uthodurn]])     |
-| 78–00 | [[Xhorhas]] in Eastern Wynandir (choose either the [[Kryn Dynasty]] or [[Xarzith Kitril]]) |
+| 78–00 | [[Xhorhas]] in [[Eastern Wynandir]] (choose either the [[Kryn Dynasty]] or [[Xarzith Kitril]]) |
 
 #### Background
 
@@ -52,7 +52,7 @@ In the [[Dwendalian Empire]], rural folk are seen as honest, hardworking, and pi
 
 Travel farther north, however, and one reaches the [[Diarchy of Uthodurn]], a stable and ancient city ruled by elves and dwarves. Here, order and art are prized over chaos and personal enrichment. If your character is from [[Uthodurn]] rather than [[Shadycreek Run]], replace any rival you gain from the Social Status Relationships table with an ally, and vice-versa.
 
-**_[[Eastern Wynandir]]._** Accumulating knowledge and achieving spiritual enlightenment are the virtues of the [[Kryn Dynasty]], whose society is built around the tenets of [[the Luxon]]. Artists, entertainers, artisans, and all people who create are well-valued in Kryn society. Yet in this age of war, people whose skills allow them to destroy are paradoxically prized just as highly.
+**_Eastern Wynandir._** Accumulating knowledge and achieving spiritual enlightenment are the virtues of the [[Kryn Dynasty]], whose society is built around the tenets of [[the Luxon]]. Artists, entertainers, artisans, and all people who create are well-valued in Kryn society. Yet in this age of war, people whose skills allow them to destroy are paradoxically prized just as highly.
 
 To the Kryn, a person’s background is less important than the experiences they’ve accumulated—particularly for those who have begun walking the sacred path known as consecution. Nonetheless, even the most enlightened society can’t help but look down upon its lowest citizens and sneer at its haughty elite. Once all beings are beloved by [[the Luxon]], perhaps these ills of society will be purged once and for all.
 
@@ -114,14 +114,14 @@ Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/source
 | 04–06 | [[Palebank Village]] | Village |
 | 07–30 | [[Shadycreek Run]]   | City    |
 | 31–00 | [[Uthodurn]]         | City    |
-##### Eastern Wynandir Settlements
+##### [[Eastern Wynandir]] Settlements
 
 | d100  | Settlement Name       | Type             |
 | ----- | --------------------- | ---------------- |
 | 01–20 | [[Asarius]]               | City             |
 | 21    | [[Bazzoxan]]              | Town             |
 | 22    | [[Charis]]                | Village          |
-| 23–30 | [[Igrathad]]Igrathad              | Seven villages   |
+| 23–30 | IgrathadIgrathad              | Seven villages   |
 | 31–36 | [[Jigow]]                 | City             |
 | 37    | [[New Haxon]]             | Military outpost |
 | 38–89 | [[Rosohna]] | City             |
@@ -269,7 +269,7 @@ Heavily fermented and pickled vegetables feature prominently in the cuisine of b
 
 Local drinks are made from fermented berries, but consumption of alcohol in the Wildlands was historically limited to ritual purposes. That changed with the arrival of [[the Myriad]], and the overconsumption of illicit alcohol is now seen as a symbol of status and wealth.
 
-**_Eastern Wynandir._** Much of the territory of [[Xhorhas]] is wasteland, and the most edible plants in Eastern Wynandir are hearty tubers, roots, and grasses. The marshes and bogs of this land are also known for producing vast quantities of rice and cranberries. Most folk living here are hunters who band together to take down the mammoths and other massive beasts that roam the wastelands, one of which can provide enough food to feed a tribe for weeks.
+**_Eastern Wynandir._** Much of the territory of [[Xhorhas]] is wasteland, and the most edible plants in [[Eastern Wynandir]] are hearty tubers, roots, and grasses. The marshes and bogs of this land are also known for producing vast quantities of rice and cranberries. Most folk living here are hunters who band together to take down the mammoths and other massive beasts that roam the wastelands, one of which can provide enough food to feed a tribe for weeks.
 
 The luxurious cuisine of the Kryn court makes heavy use of mushrooms and rare meats found only in the dangerous caverns of the Underdark. The aboveground regions of [[Xhorhas]] are known for their fiery plum spirits, whereas working-class drow traditionally drink an earthy, mushroom-based beer.
 
@@ -283,7 +283,7 @@ The luxurious cuisine of the Kryn court makes heavy use of mushrooms and rare me
 | 6   | Snakelocks noodles—sea anemone tendrils coated in honey batter and delicately fried |
 | 7   | Queen’s water—a soft drink made from syrup, honey, guava, and tamarind              |
 | 8   | Blacksand coffee—a tiny shot of coffee, brewed atop red-hot sand, [[Marquet]]-style     |
-##### Favorite Foods (Western Wynandir)
+##### Favorite Foods ([[Western Wynandir]])
 
 | d8  | Food                                                                              |
 | --- | --------------------------------------------------------------------------------- |
@@ -309,13 +309,13 @@ The luxurious cuisine of the Kryn court makes heavy use of mushrooms and rare me
 | 7   | Blazing tea—a beverage blended from fermented fireroot and mouth-scalding spices |
 | 8   | Sbiten—a drink made from honey and spices, best enjoyed hot on snowy days        |
 
-##### Favorite Foods (Eastern Wynandir)
+##### Favorite Foods ([[Eastern Wynandir]])
 
 | d8  | Food                                                                                                                                       |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | Rzukaal—a dish made from sautéed rice noodles, hearty mushrooms, and giant spider legs                                                     |
-| 2   | Yuyandl—grilled yuyo (a zucchini-like vegetable that grows in Rosohna’s sunless gardens) spiced and served with rice                       |
-| 3   | Mastodon kor’rundl—grilled mastodon served with sunless kor’run (a squash-like vegetable that grows in Rosohna’s sunless gardens) and rice |
+| 2   | Yuyandl—grilled yuyo (a zucchini-like vegetable that grows in [[Rosohna]]’s sunless gardens) spiced and served with rice                       |
+| 3   | Mastodon kor’rundl—grilled mastodon served with sunless kor’run (a squash-like vegetable that grows in [[Rosohna]]’s sunless gardens) and rice |
 | 4   | Kinespaji spaaldl—soup made from mushrooms or vegetables and the boiled spit of a horizonback turtle                                       |
 | 5   | Umarindaly—a dessert akin to rice pudding, topped with spiced gooseberry jam                                                               |
 | 6   | Keltaly—heavy cream mixed with pulverized black currants and frozen into a fluffy, sweet, creamy dessert                                   |

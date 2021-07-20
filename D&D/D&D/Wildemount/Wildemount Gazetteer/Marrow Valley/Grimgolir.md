@@ -1,5 +1,5 @@
 ## After [[the Calamity]]
-The dwarven clan of Grimgol that once helped hold the center of the [[Ashkeeper Peaks]] was nearly wiped out during [[the Calamity]]. The surviving families and warriors burrowed deep beneath the surface of Exandria to wait out the chaos. Collapsing nearly every established tunnel used in the wars above, the clan found themselves cut off from the rest of Exandria. For centuries, the dwarves of Clan Grimgol endured the darkness alone, defending against the dregs of the Betrayer Gods’ forces and adapting themselves into a hardy and stalwart people.
+The dwarven clan of Grimgol that once helped hold the center of the [[Ashkeeper Peaks]] was nearly wiped out during [[the Calamity]]. The surviving families and warriors burrowed deep beneath the surface of [[Exandria]] to wait out the chaos. Collapsing nearly every established tunnel used in the wars above, the clan found themselves cut off from the rest of Exandria. For centuries, the dwarves of Clan Grimgol endured the darkness alone, defending against the dregs of the Betrayer Gods’ forces and adapting themselves into a hardy and stalwart people.
 
 Half-remembered tales and myths of their forgotten history, mingled with worship of [[Moradin]], began to stir an eagerness to return to their ancestral home and build anew. With new purpose, they carved their way back toward the surface, only to find the mountains of their home reduced to dust and pebbles.
 
@@ -11,7 +11,7 @@ Not easily dissuaded, the dwarves returned to the surface for the first time in 
 
 **Government:** Underbaron Brock Dummaroff rules the city with a council of dwarf lords and ladies. The Crown-appointed starosta is effectively just another councilor.
 
-**Defense:** A fair Crownsguard presence is overshadowed by the impressive force of elite dwarf soldiers known as Monoliths that protect the city. Private Monolith warriors are hired to protect merchant families. Most civilians are trained in basic combat.
+**Defense:** A fair [[Crownsguard]] presence is overshadowed by the impressive force of elite dwarf soldiers known as Monoliths that protect the city. Private Monolith warriors are hired to protect merchant families. Most civilians are trained in basic combat.
 
 **Commerce:** A majority of services can be found, as well as raw ore, materials, gems, and goods. Taverns and inns are plentiful.
 

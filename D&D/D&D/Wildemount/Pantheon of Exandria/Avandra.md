@@ -2,7 +2,7 @@
 
 Also known as “She Who Makes the Path,” Avandra champions freedom, travel, trade, and adventure across the lands. Her will heralds open frontiers, and her call beckons her followers to discover that which awaits them beyond the known. There are few urban temples dedicated to the Change Bringer, but her shrines are often found along well-traveled roads and off the beaten path. Her worship is common among merchants, free spirits, and adventurers, and tavern cheers celebrate her as a bringer of luck and fortune.
 
-Avandra calls no domain in the planes her residence, instead eternally wandering through the Outer Planes where serenity can be found, distantly watching over the potential of mortals.
+Avandra calls no domain in the planes her residence, instead eternally wandering through the [[Outer Planes]] where serenity can be found, distantly watching over the potential of mortals.
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-05.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-05.png)
 

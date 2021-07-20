@@ -246,7 +246,7 @@ The scrollery is a mile from the harbor and is run by an old female tortle shama
 
 In addition to the general features noted above, [[Brokenbank]] has the following features.
 
-[[Brokenbank]] is a muddy, rain-slick village crammed full of travelers. It can feel claustrophobic, and it seems as though a leering Zhelezo guard stands on every street corner.
+[[Brokenbank]] is a muddy, rain-slick village crammed full of travelers. It can feel claustrophobic, and it seems as though a leering [[Zhelezo]] guard stands on every street corner.
 
 [[Brokenbank]]’s apothecary is a chubby, female sea elf [druid](https://www.dndbeyond.com/monsters/druid) named Aldageam. [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) saved Aldageam’s life when she was young, and although she doesn’t fully trust the tabaxi (who she knows is a pirate), she is happy to help her friend. She has ten [potions of water breathing](https://www.dndbeyond.com/magic-items/potion-of-water-breathing) in stock and sells them to the characters at half price for 40 gp each.
 
@@ -294,7 +294,7 @@ Dajarkal and Dillyu are wild cards in the battle, and can be used as you see fit
 
 Combat ends when Voskiir and his boarding party are defeated. _Moonbeam_ sails away with all haste once the battle is lost, but _Wavechaser_ doesn’t follow. If the boarding party is killed, that’s the end of that. If the adventurers capture Voskiir, however, they have the chance to interrogate him. (You can also have Dajarkal or one of Voskiir’s crew know what he knows if the captain didn’t survive.)
 
-Voskiir offers up willingly that [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a Revelry pirate and that he is an officer of the Zhelezo sent to apprehend her. If the characters try to get more out of him, you can cut things short by having Three Earrings appear and order one of her crew to “Throw this wretched do-gooder in the brig.”
+Voskiir offers up willingly that [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a Revelry pirate and that he is an officer of the [[Zhelezo]] sent to apprehend her. If the characters try to get more out of him, you can cut things short by having Three Earrings appear and order one of her crew to “Throw this wretched do-gooder in the brig.”
 
 If Three Earrings’s piratical nature isn’t public knowledge yet, now is a good time for the characters to question her about it. She tries to deflect all criticism and claims that she simply wants to claim the _[rod of retribution](https://www.dndbeyond.com/magic-items/rod-of-retribution)_. The fact that she’s a pirate has no bearing on the characters’ situation. “Unless,” she adds with a smirk, “word gets out that you attacked an officer of the [[Clovis Concord]] defending a wanted corsair. Right now, the only people who know about this are you, me, and the varmints who boarded our ship.”
 

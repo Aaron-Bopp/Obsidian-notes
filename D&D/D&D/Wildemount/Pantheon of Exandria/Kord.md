@@ -1,6 +1,6 @@
 ### Kord, the Storm Lord
 
-Where thunder booms and conflict rises, prayers to the Storm Lord are shouted into the maelstrom. Reveling in all tests of strength, Kord blesses those who prove themselves on the battlefield. Worshiped by athletes and warriors all across Exandria, he exalts those whose force of spirit and desire for victory call his attention. He brings tumultuous storms over land and sea, and those who wish for clearer skies offer their praises and prayers to appease him.
+Where thunder booms and conflict rises, prayers to the Storm Lord are shouted into the maelstrom. Reveling in all tests of strength, Kord blesses those who prove themselves on the battlefield. Worshiped by athletes and warriors all across [[Exandria]], he exalts those whose force of spirit and desire for victory call his attention. He brings tumultuous storms over land and sea, and those who wish for clearer skies offer their praises and prayers to appease him.
 
 Kord dwells among the roving settlements and battlefields within the rugged and glorious realm of Ysgard, where struggle, victory, and celebration shape the landscape and those who reside there.
 

@@ -4,7 +4,7 @@
 
 **Government:** Starosta Vesdan Wothassic is eager to please the Crown and demands huge harvests from the fishers of Odessloe. As resentment builds, the few noble families who have business interests here work with Watchmaster Lein Untgaf to maintain order.
 
-**Defense:** A small cadre of Crownsguard watch over the city under the direction of the watchmaster.
+**Defense:** A small cadre of [[Crownsguard]] watch over the city under the direction of the watchmaster.
 
 **Commerce:** As a popular trade stop on the way to the capital, Odessloe has many taverns and hostels. General stores provide basic supplies and occasionally offer strange relics pawned by cash-strapped adventurers.
 

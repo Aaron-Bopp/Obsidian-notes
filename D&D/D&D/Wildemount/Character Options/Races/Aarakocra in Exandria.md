@@ -4,7 +4,7 @@ Many people across [[Wildemount]] consider the winged aarakocra to be a myth, so
 
 ### Aarakocra in the [[Dwendalian Empire]]
 
-Within the empire, most aarakocra keep to the hidden settlement of Vol’antim in the [[Cyrios Mountains]]. The appearance of an aarakocra is seen as a blessing in the settlements of the Truscan Vale and the [[Marrow Valley]]—often much to the aarakocra’s embarrassment. Most rural folk consider the aarakocra to be angels of [[Erathis]] the Law Bearer, no matter how diligently the aarakocra explain otherwise.
+Within the empire, most aarakocra keep to the hidden settlement of Vol’antim in the [[Cyrios Mountains]]. The appearance of an aarakocra is seen as a blessing in the settlements of the [[Truscan Vale]] and the [[Marrow Valley]]—often much to the aarakocra’s embarrassment. Most rural folk consider the aarakocra to be angels of [[Erathis]] the Law Bearer, no matter how diligently the aarakocra explain otherwise.
 
 ### Aarakocra on the [[Menagerie Coast]]
 

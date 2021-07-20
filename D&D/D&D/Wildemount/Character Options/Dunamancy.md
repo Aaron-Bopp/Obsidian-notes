@@ -1,6 +1,6 @@
 ![[Dunamis]]
 
-Dunamancy is an ancient, esoteric study of magic almost unknown across Exandria. Facets of dunamancy have quietly bled into the more common applications of spellcraft like an unrealized glimpse behind the curtain of creation. Mages who pursue the study of this strange and complex force call themselves dunamancers, and their interest in learning to alter the fabric of gravity, potential, and time often coincides with a hunger to understand the oldest mysteries of the cosmos.
+Dunamancy is an ancient, esoteric study of magic almost unknown across [[Exandria]]. Facets of dunamancy have quietly bled into the more common applications of spellcraft like an unrealized glimpse behind the curtain of creation. Mages who pursue the study of this strange and complex force call themselves dunamancers, and their interest in learning to alter the fabric of gravity, potential, and time often coincides with a hunger to understand the oldest mysteries of the cosmos.
 
 ### Beyond the [[Kryn Dynasty]]
 

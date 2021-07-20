@@ -6,7 +6,7 @@ Gruumsh rules the barren plains of Nishrek in the chaotic realm of Acheron, wher
 
 **_Depiction._** Primitive clay representations in barbaric communities of his followers show the Ruiner as a hulking, bulbous behemoth of an orc. His missing eye has shifted, and the prominent eye is now centered in his face, like a nightmarish cyclops.
 
-**_Enemies._** [[Corellon]] shot out Gruumsh’s right eye during [[the Calamity]], and the god of slaughter longs for the day he can return the favor twofold. Those who serve the Ruiner are sometimes hypnotized by his hateful rage from across the Divine Gate and fall into a strange bloodlust, longing to slaughter elves and those who worship magic at the altar of the Arch Heart.
+**_Enemies._** [[Corellon]] shot out Gruumsh’s right eye during [[the Calamity]], and the god of slaughter longs for the day he can return the favor twofold. Those who serve the Ruiner are sometimes hypnotized by his hateful rage from across the [[Divine Gate]] and fall into a strange bloodlust, longing to slaughter elves and those who worship magic at the altar of the Arch Heart.
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-19.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-19.png)
 

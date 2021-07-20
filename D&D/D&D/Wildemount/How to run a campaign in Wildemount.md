@@ -1,6 +1,6 @@
 ## A New D&D Setting
 
-[[Wildemount]] is a new setting for your Dungeons & Dragons campaign, originally created by Matthew Mercer as the setting for the second campaign of the hit series Critical Role. Though it’s just one continent in the larger world of Exandria, Wildemount is teeming with varied cultures, locales, peoples, and monsters. It is home to both avatars of evil and paragons of good, but it is defined by the common people who exist in between these two ideals.
+[[Wildemount]] is a new setting for your Dungeons & Dragons campaign, originally created by Matthew Mercer as the setting for the second campaign of the hit series Critical Role. Though it’s just one continent in the larger world of [[Exandria]], Wildemount is teeming with varied cultures, locales, peoples, and monsters. It is home to both avatars of evil and paragons of good, but it is defined by the common people who exist in between these two ideals.
 
 This book is for D&D players and Dungeon Masters of all experience levels. It is for newcomers and for hardcore fans of Critical Role alike. If you’ve watched every episode of Critical Role to date, this book will still contain surprises for you, as there are corners of [[Wildemount]] that even the Mighty Nein weren’t able to explore in their adventures.
 
@@ -14,9 +14,9 @@ If you’re a player, this book contains new options that will help your charact
 
 ### [[Dwendalian Empire]]
 
-The [[Dwendalian Empire]] is a young, ambitious state borne from decades of strife in Western Wynandir — the heartland of [[Wildemount]]. Its austere lands are dotted with tiny villages, ruins of ancient civilizations, and pockets of uncharted wilderness.
+The [[Dwendalian Empire]] is a young, ambitious state borne from decades of strife in [[Western Wynandir]] — the heartland of [[Wildemount]]. Its austere lands are dotted with tiny villages, ruins of ancient civilizations, and pockets of uncharted wilderness.
 
-Campaigns set in the [[Dwendalian Empire]] are bound to involve elements of war and political intrigue. The empire is at war with the [[Kryn Dynasty]], a nation of surface-dwelling drow which occupies Eastern Wynandir and the wastes of [[Xhorhas]]. This war allows various Dwendalian factions, such as the power-hungry [[Cerberus Assembly]], to vie for political dominance.
+Campaigns set in the [[Dwendalian Empire]] are bound to involve elements of war and political intrigue. The empire is at war with the [[Kryn Dynasty]], a nation of surface-dwelling drow which occupies [[Eastern Wynandir]] and the wastes of [[Xhorhas]]. This war allows various Dwendalian factions, such as the power-hungry [[Cerberus Assembly]], to vie for political dominance.
 
 ### [[Clovis Concord]]
 
@@ -28,7 +28,7 @@ Campaigns set on the [[Menagerie Coast]] are often nautical, exploring the confl
 
 The [[Tribes of Shadycreek Run]] are a fragmented coalition of thieves, slavers, and scoundrels who managed to amass power in the frigid backwater of [[Shadycreek Run]]. While they struggle to enrich themselves through crime, however, they fail to realize that malign, primordial powers are creeping into the north underneath their noses.
 
-Campaigns set in the Biting North often involve morally gray characters butting heads with equally amoral organizations in a struggle to survive — and then explode into chaos as forces beyond mortal imagination make all these petty conflicts seem insignificant by comparison.
+Campaigns set in the [[Biting North]] often involve morally gray characters butting heads with equally amoral organizations in a struggle to survive — and then explode into chaos as forces beyond mortal imagination make all these petty conflicts seem insignificant by comparison.
 
 ### [[Kryn Dynasty]]
 

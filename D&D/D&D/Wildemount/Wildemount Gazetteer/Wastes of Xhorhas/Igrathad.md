@@ -4,7 +4,7 @@
 
 **Government:** A local leader governs independently alongside a Kryn representative in each of the seven villages. The village leaders occasionally convene as a council.
 
-**Defense:** A small force of Aurora Watch soldiers weave through the villages, and each village maintains its own army of warriors.
+**Defense:** A small force of [[Aurora Watch]] soldiers weave through the villages, and each village maintains its own army of warriors.
 
 **Commerce:** Most goods or services can be found within the villages, though it might take some searching, and strange or rare commodities are occasionally available from merchants or scavengers. Inns and taverns are scattered throughout the villages.
 
@@ -18,9 +18,9 @@ Over the generations of fighting each other as well as the roving clans of nomad
 
 While the villages of Igrathad have enjoyed the fruits of a somewhat collaborative society under the guidance of the dynasty, the centuries of turmoil have not been forgotten. Neighbors argue over territory, and youths challenge each other for social dominance. The people take pride in the unique history of their own village, and that pride can win out over the dynasty's message of unity. Interactions between the villages often grow tense when the Kryn aren't around to keep the peace. This isn't helped by the fact that a record number of able-bodied villagers from Igrathad have been sent north to fight on the front lines of the war. The center of the Kryn's government is far away from Igrathad, and many of the Dens are concerned that the tenuous union between the Many Hosts is crumbling.
 
-Each of the seven villages has its own leader, who is usually chosen for their lineage or with a contest of strength. Each leader is assigned a representative from Rosohna to help enforce the will of the Bright Queen, though the leaders often disagree with various facets of the dynasty's decrees, making total unity challenging. The various leaders meet in a public space to make most major decisions and judgments: they debate and sometimes duel to resolve the matters before them. While this unconventional court is not consistent with the dynasty's intended order, few of the Kryn representatives find the will to argue.
+Each of the seven villages has its own leader, who is usually chosen for their lineage or with a contest of strength. Each leader is assigned a representative from [[Rosohna]] to help enforce the will of the Bright Queen, though the leaders often disagree with various facets of the dynasty's decrees, making total unity challenging. The various leaders meet in a public space to make most major decisions and judgments: they debate and sometimes duel to resolve the matters before them. While this unconventional court is not consistent with the dynasty's intended order, few of the Kryn representatives find the will to argue.
 
-Some Aurora Watch soldiers keep the peace and manage the day-to-day quarrels within Igrathad. However, the majority of the Hosts' people are expertly trained warriors, so they both handle their own problems and make it difficult to enforce any laws on them. The idea of attempting to punish or incapacitate a criminal ogre or angered giant keeps all but the strongest from taking a post in Igrathad.
+Some [[Aurora Watch]] soldiers keep the peace and manage the day-to-day quarrels within Igrathad. However, the majority of the Hosts' people are expertly trained warriors, so they both handle their own problems and make it difficult to enforce any laws on them. The idea of attempting to punish or incapacitate a criminal ogre or angered giant keeps all but the strongest from taking a post in Igrathad.
 
 The seven villages are connected by muddy paths that cut through the rocky grassland. Each village has its own culture, complete with distinct customs and religious practices:
 

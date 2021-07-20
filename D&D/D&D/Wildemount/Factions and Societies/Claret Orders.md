@@ -10,7 +10,7 @@ The newly installed Dwendalian lords blamed the Claret Orders for inviting fiend
 
 The Claret Orders
 
-The orders have spread to the outskirts of Western Wynandir and beyond. They maintain small keeps to train new generations of protectors who are willing to take the Hunter’s [[Bane]] and embrace their inner darkness to combat the outer darkness in the world.
+The orders have spread to the outskirts of [[Western Wynandir]] and beyond. They maintain small keeps to train new generations of protectors who are willing to take the Hunter’s [[Bane]] and embrace their inner darkness to combat the outer darkness in the world.
 
 ## Goals
 
@@ -20,7 +20,7 @@ The creed of the Claret Orders asks its followers to commit their lives to hunti
 
 The existence of the Claret Orders is largely rumor and myth in most places, as the orders have no alliance with or allegiance to any standing government or group. The empire is well aware of their presence and makes a point to ignore their heroic deeds while publicizing misdeeds of those few hunters that succumb to the corrupting influence of their powers.
 
-Some splinter orders have traveled beyond the boundaries of the empire, seeking more welcoming folk and more unique challenges in lands across Exandria. Still, no matter where the guardians of the Claret Orders travel, they know they will never be free from the hatred of those that misunderstand them.
+Some splinter orders have traveled beyond the boundaries of the empire, seeking more welcoming folk and more unique challenges in lands across [[Exandria]]. Still, no matter where the guardians of the Claret Orders travel, they know they will never be free from the hatred of those that misunderstand them.
 
 ## Figures of Interest
 

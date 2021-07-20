@@ -4,7 +4,7 @@
 
 **Government:** The reigning champion of Urzin, [[Sunbreaker Olomon]], guides the townsfolk, who follow with zeal and dedication.
 
-**Defense:** A legion of Aurora Watch defends the town, while the hordes of Urzin hunters scout the marsh. The horizonback tortoises that bear the town on their backs are more than capable of defending themselves.
+**Defense:** A legion of [[Aurora Watch]] defends the town, while the hordes of Urzin hunters scout the marsh. The horizonback tortoises that bear the town on their backs are more than capable of defending themselves.
 
 **Commerce:** Trade in Urzin is fairly basic and geared toward survival and warfare. Many common goods can be bought or traded for, but rarer items are coveted and appear infrequently. Inns are very rare.
 
@@ -18,7 +18,7 @@ With his guidance, Olomon brought the teachings of [[the Luxon]], in the name of
 
 A large number of the denizens of Urzin make their homes atop the shells of the horizonbacks, but many also carry temporary tents and makeshift abodes that allow a home to be made wherever they find themselves. Whole packs of tortoises reconfigure daily, and often the settlement breaks up and scatters across the marsh for periods of time, leaving satellite outposts all over the region before reforming elsewhere among the muck. Because of this, the Dwendalian military finds the movements of Urzin hard to track and even harder to predict.
 
-While there is a comparatively thin presence of authoritarian Aurora Watch soldiers among the ever-shifting boundaries of Urzin, [[Sunbreaker Olomon]] and his appointed council are treated with reverence and their orders are followed with impressive zeal. The culture of Urzin prizes unity and adherence to the wishes of their champion, so Urzin's governance at times seems strangely smooth compared to other locations in the dynasty. While Olomon is away on other business, the Urzinians can become restless or slower to follow instruction, but this insubordination lasts only until his return.
+While there is a comparatively thin presence of authoritarian [[Aurora Watch]] soldiers among the ever-shifting boundaries of Urzin, [[Sunbreaker Olomon]] and his appointed council are treated with reverence and their orders are followed with impressive zeal. The culture of Urzin prizes unity and adherence to the wishes of their champion, so Urzin's governance at times seems strangely smooth compared to other locations in the dynasty. While Olomon is away on other business, the Urzinians can become restless or slower to follow instruction, but this insubordination lasts only until his return.
 
 Criminal activity within the settlement is rare, given the zealous nature of the marshfolk. Dissent within the ranks is often punished with exile, so the few that do disobey find themselves ostracized and left to survive alone among the foggy dangers of the marsh.
 

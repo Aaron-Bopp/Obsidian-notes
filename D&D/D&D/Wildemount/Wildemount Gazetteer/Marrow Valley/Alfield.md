@@ -4,7 +4,7 @@
 
 **Government:** Starosta Kosh Clearbarker cravenly delegates the responsibilities of governance to the local watchmaster and lawmaster.
 
-**Defense:** A small cadre of Crownsguard keep the peace as the empire focuses on larger settlements.
+**Defense:** A small cadre of [[Crownsguard]] keep the peace as the empire focuses on larger settlements.
 
 **Commerce:** Alfield is a minor stop for traders, with little beyond basic supplies and a couple of inns.
 
@@ -14,7 +14,7 @@ Alfield is a rural town nestled into a scattered patch of trees near the Amber R
 
 The starosta, a middle-aged gnome named Kosh Clearbarker, leans heavily on his dutiful watchmaster, the half-elf Bryce Feelid. Bryce personally shoulders the town's burdens while the starosta continues to oversee the town from within his quarters, excusing himself from any hands-on governance.
 
-Since Alfield is both overlooked and under-protected by the Crown, charlatans and thieves often sweep through town in an attempt to relieve the townsfolk of any loose coin. The relatively small Crownsguard presence is perpetually frustrated with the lack of support from the empire; they must split the attention of their small force between policing the borders and watching for hooligans who seek to abuse the civilians within the town.
+Since Alfield is both overlooked and under-protected by the Crown, charlatans and thieves often sweep through town in an attempt to relieve the townsfolk of any loose coin. The relatively small [[Crownsguard]] presence is perpetually frustrated with the lack of support from the empire; they must split the attention of their small force between policing the borders and watching for hooligans who seek to abuse the civilians within the town.
 
 The welcoming farming community and beautiful countryside surrounding Alfield often call to those who want a simpler life in the empire. Flanked to the north and east by the Alfield Wood, the town is shaped like a small diamond in shape, only a couple of miles across on all sides. The Dustway and Harvest Path roads divide the town into four quarters, meandering lazily through the ramshackle wooden buildings until they meet at the recently rebuilt Candleglow Inn at the center of town.
 

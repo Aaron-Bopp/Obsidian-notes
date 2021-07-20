@@ -1,6 +1,6 @@
 ### Lotusden Greenwood
 
-The dark, verdant forest of the Lotusden Greenwood envelops the southern end of Eastern Wynandir in eerie mists, murderous trolls, and hungry trees. Incredibly lush and filled with life compared to the barren and desolate wastes to the north, this unchecked forest is home to many creatures and beasts, some of whom have grown to a nightmarish size because of the residual power of the long-buried druidic fane that empowers and protects the Greenwood.
+The dark, verdant forest of the Lotusden Greenwood envelops the southern end of [[Eastern Wynandir]] in eerie mists, murderous trolls, and hungry trees. Incredibly lush and filled with life compared to the barren and desolate wastes to the north, this unchecked forest is home to many creatures and beasts, some of whom have grown to a nightmarish size because of the residual power of the long-buried druidic fane that empowers and protects the Greenwood.
 
 Giant predators and dire monstrosities stalk the undergrowth, while vicious, carnivorous plants patiently await their next meal. Cold nights bring icy mists to the wood, drawing the spirits of those claimed by the Lotusden out into the moonlight to siphon the warmth from the living. The [[Kryn Dynasty]] considers exploiting the mysterious and deadly forest to be an unnecessary risk, so the Lotusden Greenwood remains one of the few places on this side of the [[Penumbra Range]] untouched by Kryn interests.
 

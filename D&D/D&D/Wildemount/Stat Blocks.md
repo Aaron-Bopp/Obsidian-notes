@@ -1,6 +1,6 @@
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/07-01.jpg)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/07-01.jpg)
 
-Adventurers confront a fiendish [[udaak]] that haunts the edges of civilization in Eastern Wynandir
+Adventurers confront a fiendish [[udaak]] that haunts the edges of civilization in [[Eastern Wynandir]]
 
 Endless turmoil has scarred [[Wildemount]], from the wars of ages long past to the more recent bloody conflicts between the many factions that lay claim to this land. These struggles have shaped the past and the future—even as they have imbued the denizens of Wildemount with the tenacity to survive in a world filled with danger.
 

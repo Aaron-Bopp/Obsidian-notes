@@ -1,10 +1,10 @@
 ## Elves
 
-When Exandria trembled at the gods’ footfalls, the ancient elves of the north pleaded with the Arch Heart to save them from the world’s ending. [[Corellon]] did not respond, for it is said that their divine ears still rang with pain after their duel to the death with [[Gruumsh]]. Desperate and panicked, the greatest mages of the elves performed a ritual powerful enough to encase their entire civilization in ice, in hopes of protecting it from the wrath of the warring gods while the elves escaped into the Feywild.
+When [[Exandria]] trembled at the gods’ footfalls, the ancient elves of the north pleaded with the Arch Heart to save them from the world’s ending. [[Corellon]] did not respond, for it is said that their divine ears still rang with pain after their duel to the death with [[Gruumsh]]. Desperate and panicked, the greatest mages of the elves performed a ritual powerful enough to encase their entire civilization in ice, in hopes of protecting it from the wrath of the warring gods while the elves escaped into the Feywild.
 
-It is said that the ashes of [[the Calamity]] still blew upon the breeze when, centuries later, the barriers of ice melted and the elves of [[Wildemount]] emerged from the Feywild once more. On their return to the world, they found that their ritual had not held fast. The Calamity had wiped almost all traces of elven civilization from Exandria. With only the ruined husks of their mighty cities still standing, the elves began to rebuild.
+It is said that the ashes of [[the Calamity]] still blew upon the breeze when, centuries later, the barriers of ice melted and the elves of [[Wildemount]] emerged from the Feywild once more. On their return to the world, they found that their ritual had not held fast. The Calamity had wiped almost all traces of elven civilization from [[Exandria]]. With only the ruined husks of their mighty cities still standing, the elves began to rebuild.
 
-Even though the human-majority civilizations of the [[Dwendalian Empire]] and the [[Clovis Concord]] view elves as reclusive relics of the ancient past, most elves view themselves as newcomers to the world, for their return to [[Wildemount]] is only a generation or two removed from the present day. The notable exception are the dark elves of [[Xhorhas]], who have lived in Eastern Wynandir since time immemorial. Still, it is only in the past few centuries that they have abandoned the labyrinthine caverns of the Underdark and emerged to live on the surface.
+Even though the human-majority civilizations of the [[Dwendalian Empire]] and the [[Clovis Concord]] view elves as reclusive relics of the ancient past, most elves view themselves as newcomers to the world, for their return to [[Wildemount]] is only a generation or two removed from the present day. The notable exception are the dark elves of [[Xhorhas]], who have lived in [[Eastern Wynandir]] since time immemorial. Still, it is only in the past few centuries that they have abandoned the labyrinthine caverns of the Underdark and emerged to live on the surface.
 
 ### Elves in the [[Dwendalian Empire]]
 
@@ -36,7 +36,7 @@ Weight in pounds = 90 + (1d4 × your size modifier)
 
 #### Pallid Elf
 
-The pallid elves are a mystical and insightful people with skin as pale as the surface of Exandria’s largest moon. They emerged from the [[Pallid Grove]] this century and wander the world with childlike curiosity.
+The pallid elves are a mystical and insightful people with skin as pale as the surface of [[Exandria]]’s largest moon. They emerged from the [[Pallid Grove]] this century and wander the world with childlike curiosity.
 
 _**Ability Score Increase.**_ Your Wisdom score increases by 1.
 

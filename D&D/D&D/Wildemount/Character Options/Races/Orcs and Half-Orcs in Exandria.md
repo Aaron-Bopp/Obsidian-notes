@@ -1,6 +1,6 @@
 ## Orcs and Half-Orcs
 
-The first half-orcs in [[Wildemount]] were born of a union between human warriors and orc traitors in the final days of [[the Calamity]]. Orcs are one of Exandria’s youngest races, and are said to have been born from elves seared by the blood of [[Gruumsh]], when [[Corellon]] pierced the orc god’s eye on the field of battle. For long years, orcs were feared as mindless abominations, drawn to slaughter like moths to flame.
+The first half-orcs in [[Wildemount]] were born of a union between human warriors and orc traitors in the final days of [[the Calamity]]. Orcs are one of [[Exandria]]’s youngest races, and are said to have been born from elves seared by the blood of [[Gruumsh]], when [[Corellon]] pierced the orc god’s eye on the field of battle. For long years, orcs were feared as mindless abominations, drawn to slaughter like moths to flame.
 
 Stories tell of how the blood of the Ruiner flows in the veins of all orcs, driving them to commit acts of terrible violence and anger. Orcs call this fury _hgar’Gruum_, or the curse of ruin, and use it to refer to everything from battle rage to a bad temper. Half-orcs are said to have inherited the blood of the Ruiner, and to carry the same bloodlust and fury that orcs do.
 

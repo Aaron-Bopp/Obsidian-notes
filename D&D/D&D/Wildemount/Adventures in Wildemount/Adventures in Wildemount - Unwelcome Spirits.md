@@ -1,4 +1,4 @@
-An elder warlock from the goblinoid swamp village of [[Urzin]] has been kidnapped by soldiers of the [[Dwendalian Empire]]. Now the machinations of an evil imperial inquisitor might unleash an evil that could threaten the garrison at Fort Venture and the goblinoids of Urzin alike. “Unwelcome Spirits” is a [[Wildemount]] adventure that takes characters from 1st to 3rd level, and which introduces them to Wildemount’s desolate and foreboding Eastern Wynandir region.
+An elder warlock from the goblinoid swamp village of [[Urzin]] has been kidnapped by soldiers of the [[Dwendalian Empire]]. Now the machinations of an evil imperial inquisitor might unleash an evil that could threaten the garrison at Fort Venture and the goblinoids of Urzin alike. “Unwelcome Spirits” is a [[Wildemount]] adventure that takes characters from 1st to 3rd level, and which introduces them to Wildemount’s desolate and foreboding [[Eastern Wynandir]] region.
 
 If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), you can talk with them about creating characters with ties to [[Urzin]] or nearby Xhorhasian settlements. Alternatively, characters from elsewhere might be traveling to Urzin, whether individually or as a group. Since this adventure ties directly to the [[Kryn Dynasty]]’s conflict with the [[Dwendalian Empire]], you can also ask each player to consider their character’s stance on the war and how the war might tie into their background.
 
@@ -278,7 +278,7 @@ Having successfully navigated the challenges of [[Brokenveil Marsh]], the charac
 
 ## Infiltrating Fort Venture
 
-The [[Dwendalian Empire]]’s hold on Eastern Wynandir is tenuous at best, and the ramshackle garrison at Fort Venture is testament to the empire’s attempt to solidify its influence. Despite the outpost’s modest appearance, its freshly laid stonework and newly erected battlements offer solid protection against the harsh environs and deadly creatures of the [[Brokenveil Marsh]].
+The [[Dwendalian Empire]]’s hold on [[Eastern Wynandir]] is tenuous at best, and the ramshackle garrison at Fort Venture is testament to the empire’s attempt to solidify its influence. Despite the outpost’s modest appearance, its freshly laid stonework and newly erected battlements offer solid protection against the harsh environs and deadly creatures of the [[Brokenveil Marsh]].
 
 Commander Struther Felmont and the Dwendalian soldiers at the fort have grown callous and cruel under the leadership of Imperial Inquisitor [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost), who conducts deranged experiments on the humanoids of the marsh with an unsavory and sadistic application of divine magic. The guards of Fort Venture engage in defense, training, and patrol work in eight-hour shifts. Few of those guards respect Pellinost, but all obey him for fear of strict retribution.
 
@@ -342,7 +342,7 @@ At the first sight of intruders, Felmont reaches for a horn at his side and soun
 
 The chest at the foot of the bed is locked and trapped. Any character who examines the chest and succeeds on a DC 15 Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) check discovers a [poisoned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Poisoned) needle hidden in the chest’s lock. The needle can be removed with a successful DC 15 Dexterity check using thieves’ tools. On a failed check, the character attempting to remove the needle takes 1 piercing damage and 7 (2d6) poison damage, and must succeed on a DC 15 Constitution saving throw or be [poisoned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Poisoned) for 1 hour.
 
-The wooden chest contains 10 silver ingots stamped with the crest of the [[Dwendalian Empire]] (worth 25 gp each) and a [potion of mind reading](https://www.dndbeyond.com/magic-items/potion-of-mind-reading). Additionally, the drawer of the bedside table contains the following items: an ornate coral-handled dagger (25 gp), a magnifying glass, and a dog-eared book of Eastern Wynandir mythology titled Fabled Mutants of the Miskath Strand (worth 10 gp).
+The wooden chest contains 10 silver ingots stamped with the crest of the [[Dwendalian Empire]] (worth 25 gp each) and a [potion of mind reading](https://www.dndbeyond.com/magic-items/potion-of-mind-reading). Additionally, the drawer of the bedside table contains the following items: an ornate coral-handled dagger (25 gp), a magnifying glass, and a dog-eared book of [[Eastern Wynandir]] mythology titled Fabled Mutants of the [[Miskath Strand]] (worth 10 gp).
 
 If [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) has already been possessed, Struther Felmont isn’t in his tent but can be found among the dead guards in the training yard.
 
@@ -526,6 +526,6 @@ If the characters successfully rescue or defeat [Bol’bara](https://www.dndbeyo
 
 ### Character Advancement
 
-At the end of this adventure, the characters reach 3rd level. Further opportunities for adventure might be found in Eastern Wynandir, perhaps involving the goblinoids of [[Urzin]] or the soldiers of Fort Venture. Or the characters might use the success of this adventure—or their unwelcome notoriety if the mission failed—as an excuse to seek out new opportunities elsewhere in [[Wildemount]].
+At the end of this adventure, the characters reach 3rd level. Further opportunities for adventure might be found in [[Eastern Wynandir]], perhaps involving the goblinoids of [[Urzin]] or the soldiers of Fort Venture. Or the characters might use the success of this adventure—or their unwelcome notoriety if the mission failed—as an excuse to seek out new opportunities elsewhere in [[Wildemount]].
 
 [](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/05-08.png)

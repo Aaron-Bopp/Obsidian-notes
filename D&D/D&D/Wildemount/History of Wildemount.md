@@ -12,7 +12,7 @@ The continent of [[Wildemount]] has undergone many ages of discovery, conflict, 
 
 # [[Wildemount]] after [[the Calamity]]
 
-In the wake of the vast destruction of [[the Calamity]] and the exile of the pantheon in the Divergence, the survivors began to emerge from the ash and shadows to reclaim and rebuild Exandria. Across the continents, many took the pieces of their cultures and sought a place to forge a new age. This tome focuses on the rebirth of the deeply scarred land now known as [[Wildemount]], the site of the most terrible conflicts of the Calamity, where the echoes of those deadly battles linger to this day.
+In the wake of the vast destruction of [[the Calamity]] and the exile of the pantheon in the [[Divergence]], the survivors began to emerge from the ash and shadows to reclaim and rebuild [[Exandria]]. Across the continents, many took the pieces of their cultures and sought a place to forge a new age. This tome focuses on the rebirth of the deeply scarred land now known as [[Wildemount]], the site of the most terrible conflicts of the Calamity, where the echoes of those deadly battles linger to this day.
 
 ## In the Wake of the Gods
 
@@ -22,9 +22,9 @@ As the dust settled, surviving mortals grasped at what they could from their byg
 
 Others picked up what they could from the ruins and chose to start anew, hoping that their descendants would learn from their mistakes. Over those early centuries, the scattered survivors fought back the terrors that stalked the abandoned lands of [[Wildemount]], continuing to endure and build new societies, civilizations that eventually reclaimed Wildemount and brought the world to this modern age.
 
-## Western Wynandir
+## [[Western Wynandir]]
 
-The lands of Western Wynandir were the epicenter of [[the Calamity]]’s destruction. Rocky ranges of mountains were sundered, entire landscapes burned, and hovering seats of power crashed down from the sky, their floating cities consumed beneath the hungry earth.
+The lands of [[Western Wynandir]] were the epicenter of [[the Calamity]]’s destruction. Rocky ranges of mountains were sundered, entire landscapes burned, and hovering seats of power crashed down from the sky, their floating cities consumed beneath the hungry earth.
 
 ### ![[Grimgolir#After the Calamity]]
 
@@ -58,9 +58,9 @@ The fierce powers released in the conflicts of [[the Calamity]] tore through the
 
 ### ![[The Corruption]]
 
-## Eastern Wynandir
+## [[Eastern Wynandir]]
 
-The once thickly forested landscape of [[Xhorhas]] was the site of the final battleground of [[the Calamity]]. It was subjugated to such intense destruction at the hands of the warring gods that when the dust of the Divergence cleared, Eastern Wynandir was naught but a cracked, ashen wasteland. Ghor Dranas, the citadel of the Betrayer Gods, lay broken, cursed, and abandoned, while lingering demons and monstrosities fled to the surrounding jagged cliffs and blackened marshlands. Discarded abominations seeped from beneath the ruined earth of Xhorhas’s eastern shores, climbing past the [[Penumbra Range]] where the forgotten creations of the Betrayers were locked away.
+The once thickly forested landscape of [[Xhorhas]] was the site of the final battleground of [[the Calamity]]. It was subjugated to such intense destruction at the hands of the warring gods that when the dust of the [[Divergence]] cleared, [[Eastern Wynandir]] was naught but a cracked, ashen wasteland. Ghor Dranas, the citadel of the Betrayer Gods, lay broken, cursed, and abandoned, while lingering demons and monstrosities fled to the surrounding jagged cliffs and blackened marshlands. Discarded abominations seeped from beneath the ruined earth of Xhorhas’s eastern shores, climbing past the [[Penumbra Range]] where the forgotten creations of the Betrayers were locked away.
 
 Throughout this wasteland, scattered bands of aimless men, beasts, and goblinkin battled for shelter and sustenance. These tribes were confined to their desolate home by [[the Ki’Nau]] leviathan who guarded the waters past the southern shores and the surviving dwarves of [[Grimgolir]], who prevented any Xhorhasians from moving farther west. The nomadic, warring clans fought against the harsh conditions of the valley for centuries, only able to develop small bastions of civilization within the harsh wilderness.
 

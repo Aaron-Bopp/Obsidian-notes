@@ -2,7 +2,7 @@
 
 It is darkness unending, less like a god and more like another world. Life and death do not exist within Tharizdun, only utter destruction and madness. Even the other Betrayer Gods treat this mad god with caution. In its endless imprisonment, Tharizdun dreams the infinite depths of the Abyss into reality, along with all its demonic legions. The Prime Deities had thought it locked away during [[the Founding]] until it nearly returned to ruin the world during the conflicts of [[the Calamity]].
 
-Now, its chaotic mind has fallen into more frightful dreams, imagining nightmarish aberrations into existence deep beneath Exandria. The Chained Oblivion’s demented cultists work without word from their twisted patron, awaiting the Epoch of Ends, when its freedom will be attained and all beings shall be consumed in deathlessness unending.
+Now, its chaotic mind has fallen into more frightful dreams, imagining nightmarish aberrations into existence deep beneath [[Exandria]]. The Chained Oblivion’s demented cultists work without word from their twisted patron, awaiting the Epoch of Ends, when its freedom will be attained and all beings shall be consumed in deathlessness unending.
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-21.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-21.png)
 

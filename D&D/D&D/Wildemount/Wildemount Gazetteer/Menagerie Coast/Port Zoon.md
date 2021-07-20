@@ -2,9 +2,9 @@
 
 **Population:** 19,120 (80% humans, 7% halflings, 13% other races)
 
-**Government:** Marquis [[Alamads Haddou]] collaborates closely with his trusted Zhelezo captains. Numerous crafting guilds guide major facets of industry and influence.
+**Government:** Marquis [[Alamads Haddou]] collaborates closely with his trusted [[Zhelezo]] captains. Numerous crafting guilds guide major facets of industry and influence.
 
-**Defense:** A strong force of dedicated Zhelezo and paid militia keep order in and around the city. Artisans and guild heads keep bodyguards, while newly designed defense weapons are employed along watchtowers.
+**Defense:** A strong force of dedicated [[Zhelezo]] and paid militia keep order in and around the city. Artisans and guild heads keep bodyguards, while newly designed defense weapons are employed along watchtowers.
 
 **Commerce:** Common supplies and businesses are abundant, as are inns and taverns. Esoteric goods can be hard to find, as many of the rare materials imported are already spoken for by the crafting guilds.
 
@@ -14,7 +14,7 @@ Settled between [[Feolinn]] and [[Nicodranas]], Port Zoon is the industrial cent
 
 Most artisan crafts and skills can be learned in Port Zoon under various schools and halls run by the guilds of the [[Clovis Concord]]. Many consider Port Zoon to be the best place for common folk to learn a trade. Training programs generally have moderate to high fees, depending on the promise of the student, or an agreement that a percentage of the profits from the student's future work will belong to the guild. Many students end up finding work within the guilds that trained them, increasing the appeal of apprenticeships in Port Zoon while also strengthening the stranglehold that the guilds have on production and business along the coast.
 
-Often referred to as "Ironpuss" by those not in his presence, Marquis [[Alamads Haddou]] is an older dwarf, a master of ironworking, and the head of the Silverbone Smithing Guild. Ornery but passionate about the city and its people, Alamads rules with clear intent, and swiftly punishes anyone who crosses his laws or endangers the people of Port Zoon. His Zhelezo are trained to be naturally mistrusting of idle hands. Convicted criminals are chained and forced into labor for the various guilds, doing the harshest jobs in each industry.
+Often referred to as "Ironpuss" by those not in his presence, Marquis [[Alamads Haddou]] is an older dwarf, a master of ironworking, and the head of the Silverbone Smithing Guild. Ornery but passionate about the city and its people, Alamads rules with clear intent, and swiftly punishes anyone who crosses his laws or endangers the people of Port Zoon. His [[Zhelezo]] are trained to be naturally mistrusting of idle hands. Convicted criminals are chained and forced into labor for the various guilds, doing the harshest jobs in each industry.
 
 The sheer volume of equipment and goods produced within the city draws the attention of opportunists and counterfeiters from all over. An entire industry has developed to differentiate true work from fakes, and the laws of Port Zoon are especially strict when it comes to forgeries. Unfortunately, Marquis Haddou's attention has been divided across issues of production and supply with the growing war to the northeast, diverting his attention from the growing Myriad influence over the city's businesses and political leaders.
 

@@ -4,7 +4,7 @@ A perpetual storm chokes the stony shores of this dark and brackish expanse, whe
 
 Although the waters of the Cauldron Sea present challenges to those who would tame its tides, a handful of unmapped (and often unnamed) villages are scattered along its savage shores. Some of these settlements offer safe havens to weary travelers of the northern Strand, prospectors and pirates alike, but most treat outsiders with disdain or even outright hostility.
 
-Soothsayers claim that [[Tharizdun]], created the Cauldron Sea to loosen the veil between worlds and warn that one day he will rend the very fabric of reality from the depths of its accursed waters. There are those who would see this mad prophecy fulfilled, but many more would do anything to prevent the Betrayer God's malevolent return.
+Soothsayers claim that [[Tharizdun]], created the Cauldron Sea to loosen the veil between worlds and warn that one day he will rend the very fabric of reality from the depths of its accursed waters. There are those who would see this mad prophecy fulfilled, but many more would do anything to prevent the [[Betrayer God]]'s malevolent return.
 
 [](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-25.png)
 

@@ -4,7 +4,7 @@
 
 **Government:** The city is ruled by Marquis Zhafe Uludan, who maintains his position through his family's ties with the [[Dwendalian Empire]].
 
-**Defense:** A respectable army remains stationed within Nicodranas to dissuade empire foolishness. Zhelezo mingle with small squads of imperial Crownsguard. Powerful nobles and diplomats also keep hired swords and guards.
+**Defense:** A respectable army remains stationed within Nicodranas to dissuade empire foolishness. [[Zhelezo]] mingle with small squads of imperial [[Crownsguard]]. Powerful nobles and diplomats also keep hired swords and guards.
 
 **Commerce:** The [[Dwendalian Empire]] is Nicodranas's primary foreign trade partner, and Nicodranas is renowned as a city where foreign travelers can find respite and entertainment.
 
@@ -12,11 +12,11 @@
 
 The easternmost city of the [[Menagerie Coast]], Nicodranas (meaning "gathering of colors" in Draconic) sits close to the [[Dwendalian Empire]]'s southern border. The proximity to the empire has made Nicodranas as an embassy state between the two powers, and the city hosts most diplomatic relations between the [[Clovis Concord]] and the Dwendalian Empire. The second-largest city of the coast, Nicodranas is similar to its larger sister city, [[Port Damali]]. Although it lacks the bustle of the unofficial capital, Nicodranas is preferred by travelers who dislike the crowds and rapid pace of Port Damali.
 
-A lighthouse of the Wild Mother overlooks the docks of the Restless Wharf, where traders and sailors maneuver their goods in and out of the harbor. Many of the local businesses are connected with either the ruling Uludan family or the entrepreneurial mage Yussa Errenis in the Tidepeak Tower, creating an additional level of competition. Those with coin to spend eventually find themselves drawn to the delights of the Opal Archways, where dens of indulgence are plentiful, though they are always under the supervision of the local Zhelezo guard.
+A lighthouse of the Wild Mother overlooks the docks of the Restless Wharf, where traders and sailors maneuver their goods in and out of the harbor. Many of the local businesses are connected with either the ruling Uludan family or the entrepreneurial mage Yussa Errenis in the Tidepeak Tower, creating an additional level of competition. Those with coin to spend eventually find themselves drawn to the delights of the Opal Archways, where dens of indulgence are plentiful, though they are always under the supervision of the local [[Zhelezo]] guard.
 
 Sitting just beyond the southern borders of the empire, Nicodranas has been nicknamed "the Escape" for many who seek to enjoy the simple pleasures of the tropics—but also because other folk come here to flee from the dreary realities of daily life in the city's plentiful gambling houses. Some successful Dwendalian merchants have even gained the [[Cerberus Assembly]]'s approval to relocate to Nicodranas.
 
-Nicodranas is currently led by Marquis Zhafe Uludan, a powerful guildmaster who is related to Lord [[Athesias Uludan]], a respected member of the [[Cerberus Assembly]]. This connection has enabled Zhafe's family line to maintain the tenuous truce between the empire and the [[Clovis Concord]], including the controlled trade and travel between borders. The Zhelezo who guard the city intermingle with assigned Dwendalian sentries, though the overlapping jurisdiction occasionally causes conflict.
+Nicodranas is currently led by Marquis Zhafe Uludan, a powerful guildmaster who is related to Lord [[Athesias Uludan]], a respected member of the [[Cerberus Assembly]]. This connection has enabled Zhafe's family line to maintain the tenuous truce between the empire and the [[Clovis Concord]], including the controlled trade and travel between borders. The [[Zhelezo]] who guard the city intermingle with assigned Dwendalian sentries, though the overlapping jurisdiction occasionally causes conflict.
 
 The awkward intersection of Dwendalian and concord law makes Nicodranas an especially dangerous place to delve into criminal activity. Both factions are competitive in their enforcement of the laws, so the local criminals are extremely cautious to avoid attention. However, many things considered unlawful within the empire are carefully regulated but nonetheless legal here, giving Nicodranas the dubious honor of being the safest place in [[Wildemount]] to indulge in one's vices.
 

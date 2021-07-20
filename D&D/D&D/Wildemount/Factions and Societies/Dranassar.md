@@ -1,0 +1,1 @@
+Dranassar were tall, beautiful humanoids whom [[Bane]] transformed into goblins, hobgoblins, and bugbears to create his armies.

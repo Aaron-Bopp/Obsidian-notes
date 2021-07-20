@@ -4,7 +4,7 @@ Some of the many merrow that dwell in the watery shadows of the [[Menagerie Coas
 
 Rumors speak of underground waterways and lakes carved into the rock beneath [[Wildemount]], where shallowpriests hold court over huge subterranean communities of merrow. These evil creatures are thought to seek the means of flooding the surface world, allowing them to steal away who and what they will to the dark waters below.
 
-While most shallowpriests do not bind themselves in the service of a specific deity, some are drawn to the worship of entities that reign over regions of the Elemental Plane of Water, hoping to find means of expanding their dominion into the seas of Exandria. These merrow often spearhead the construction of intricate shrines and temples along the bottom of the ocean, preparing a sacred space for planar doorways to their master’s realm to be opened and maintained.
+While most shallowpriests do not bind themselves in the service of a specific deity, some are drawn to the worship of entities that reign over regions of the Elemental Plane of Water, hoping to find means of expanding their dominion into the seas of [[Exandria]]. These merrow often spearhead the construction of intricate shrines and temples along the bottom of the ocean, preparing a sacred space for planar doorways to their master’s realm to be opened and maintained.
 
 [Merrow Shallowpriest](https://www.dndbeyond.com/monsters/merrow-shallowpriest)
 

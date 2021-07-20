@@ -1,6 +1,6 @@
 ### Ustaloch
 
-This beautiful lake is the largest body of fresh water in the southern reaches of the empire and the largest source of fish in the [[Marrow Valley]]. The city of [[Trostenwald]] rests firmly against the western banks, tending to its waters and the bounties they provide. Clear waters aid fisherman in their trade, and the purity of the lake water is thought to be a key ingredient in Trostenwald's sweet ales. Crownsguard patrol the shores of the lake at all hours to prevent anyone from tampering with the ecosystem that the locals depend on.
+This beautiful lake is the largest body of fresh water in the southern reaches of the empire and the largest source of fish in the [[Marrow Valley]]. The city of [[Trostenwald]] rests firmly against the western banks, tending to its waters and the bounties they provide. Clear waters aid fisherman in their trade, and the purity of the lake water is thought to be a key ingredient in Trostenwald's sweet ales. [[Crownsguard]] patrol the shores of the lake at all hours to prevent anyone from tampering with the ecosystem that the locals depend on.
 
 #### Myths and Murmurs
 

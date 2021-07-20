@@ -68,7 +68,7 @@ Map 3.1: Menagerie Coast
 
 [[Quoraska Jungle]]
 
-[[Ruins of Sepesca]]
+[[Sepesca]]
 
 [[Rumblecusp]]
 

@@ -4,7 +4,7 @@
 
 **Government:** Matters of state are managed by Othe's marquis, while local industrial and religious leaders govern on a smaller scale.
 
-**Defense:** Zhelezo guards and volunteer citizen warriors maintain the law and protect the city.
+**Defense:** [[Zhelezo]] guards and volunteer citizen warriors maintain the law and protect the city.
 
 **Commerce:** Basic needs can be readily tended to through a trading post or inn. Some traveling merchants bring outside goods, but rarer commodities are sparse. Othe exports herbs with natural medicinal properties at high cost.
 
@@ -14,7 +14,7 @@ Established around 410 PD by the Ki'Nau as a shamanistic site for meditation and
 
 While the bogs surrounding Othe aren't the most picturesque of settings, the city is a regional center for spiritual guidance. Within the Apa-feids of Othe lie many humble temples, where numerous holy guides welcome travelers who seek a comforting word or a moment of clarity. The spiritual traditions of the native Ki'Nau people are alive and well here, and have melded with worship of the gods to create a unique religious practice. Here, connections are forged between the modern tenets of the gods and the animistic faiths of the Ki'Nau people in search of universal truth.
 
-The Marquis Mata Laau-afu is a respected spiritual shaman who has followed in his family's tradition for generations. While he acts the part of the wise and mysterious guide to the people of the marsh, Mata is also a shrewd negotiator and clever bureaucrat when dealing with the other marquises and the politics of the [[Menagerie Coast]]. Bolstering his Zhelezo with a handful of faithful druidic guardians of the [[Othemoor]], Mata remains vigilant in the protection of his people and their interests.
+The Marquis Mata Laau-afu is a respected spiritual shaman who has followed in his family's tradition for generations. While he acts the part of the wise and mysterious guide to the people of the marsh, Mata is also a shrewd negotiator and clever bureaucrat when dealing with the other marquises and the politics of the [[Menagerie Coast]]. Bolstering his [[Zhelezo]] with a handful of faithful druidic guardians of the [[Othemoor]], Mata remains vigilant in the protection of his people and their interests.
 
 As watchful as the marquis intends to be, the growing demand for Othe's unique medicinal herbs has drawn the attention of opportunists and swindlers. Myriad agents masquerading as potential investors and partners in small family businesses have tried to abscond with herbal cuttings, but haven't yet been able to break into the highly secretive society that cultivates them. Those that are caught trying to steal or counterfeit Othenian herbs are usually thrown into the Bogpit prison, and weightier crimes come with severe penalties, such as being left tethered and submerged in the most putrid swamps of the [[Othemoor]].
 

@@ -27,7 +27,7 @@ Anyone who might be from [[Shadycreek Run]] is treated as a lowlife brigand and 
 
 ## Figures of Interest
 
-Distanced from the political bustle of Western and Eastern Wynandir, these figures within the [[Uthodurn]] diarchy are beginning to seek their place in the wider world of Exandria.
+Distanced from the political bustle of Western and [[Eastern Wynandir]], these figures within the [[Uthodurn]] diarchy are beginning to seek their place in the wider world of [[Exandria]].
 
 ### ![[Queen Simone Fruunast]]
 
@@ -38,4 +38,4 @@ Distanced from the political bustle of Western and Eastern Wynandir, these figur
 ## 
 > ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-07.png)
 >
->  A Dwendalian Crownsguard, Righteous Brand soldier, a [[Clovis Concord]] Zhelezo, and a Shore Warden soldier
+>  A Dwendalian [[Crownsguard]], Righteous Brand soldier, a [[Clovis Concord]] [[Zhelezo]], and a Shore Warden soldier

@@ -4,7 +4,7 @@
 
 **Government:** The Ring of Three reluctantly cooperates with the appointed starosta, Uther Prent, to govern the city. Exalted elven houses also work with the Ring of Three to preserve their culture under imperial rule.
 
-**Defense:** Both local and assigned Crownsguard stand ready to defend the city.
+**Defense:** Both local and assigned [[Crownsguard]] stand ready to defend the city.
 
 **Commerce:** Nearly any equipment, goods, or services are available, though rarer supplies are generally kept from non-elven travelers.
 

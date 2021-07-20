@@ -4,7 +4,7 @@
 
 **Government:** Starosta Carliyle Vesperwind has left most of the governing to idolmaster Julienne Droogba and other community figures.
 
-**Defense:** Though a bare-bones garrison of Crownsguard guards the town, sellswords protect travelers within the Labenda Swamp.
+**Defense:** Though a bare-bones garrison of [[Crownsguard]] guards the town, sellswords protect travelers within the Labenda Swamp.
 
 **Commerce:** Supplies beyond basic goods and tools are uncommon. A handful of meager inns provide limited lodging.
 
@@ -18,7 +18,7 @@ The ragged swampfolk that call this place home have remained due to familial tie
 
 Atop the Stilts region of the settlement lies the Summit House, home to Starosta Carliyle Vesperwind. Vesperwind greatly despises his assignment and quietly resents his inability to protest his appointment. He spends most of his time locked within his abode or traveling to neighboring locales to avoid responsibility. The governance of the town is mostly left in the hands of the Mossmire Temple's idolmaster, Julienne Droogba.
 
-Without an active starosta or a well-staffed Crownsguard, crime in Berleben is fairly common and rarely punished. Most folk who live within the town carry their own means of self-defense and are slow to trust outsiders.
+Without an active starosta or a well-staffed [[Crownsguard]], crime in Berleben is fairly common and rarely punished. Most folk who live within the town carry their own means of self-defense and are slow to trust outsiders.
 
 Built over unsteady, stinking swampland, the somewhat miserable and half-sunken town is divided into thirds. The three districts correspond to different ages of construction in the empire and visually differ based on whatever construction materials the townsfolk had access to at the time.
 

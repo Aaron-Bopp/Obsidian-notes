@@ -2,7 +2,7 @@
 
 Under the enlightening scriptures of [[Ioun]], teachers, priests, and monks who have been drawn to the calling of truth and knowledge spend their lives training within the Library of the Cobalt Soul. Rather than a single physical building, the Library of the Cobalt Soul is a collective term for the universal knowledge and philosophies upheld by those who follow Ioun’s teachings. The Cobalt Soul is guided by a central belief that true strength is found in understanding the world around you. Despite their idealism, the pursuit of truth is hampered by the realities of life in the empire: politics, propaganda, and the dangers of the wilderness.
 
-The Cobalt Soul is based in [[Rexxentrum]] but operates throughout the empire and across the whole of Exandria. Temples to [[Ioun]] under the management of the Cobalt Soul act as massive libraries called archives, usually located in larger cities and cultural centers. Its members come from all walks of life and are expected to assist in the maintenance, organization, and protection of the archives. Its satellite archives collect artifacts and research information both historical and contemporary along the [[Menagerie Coast]] and in the distant lands of Tal’Dorei, [[Issylra]], and beyond.
+The Cobalt Soul is based in [[Rexxentrum]] but operates throughout the empire and across the whole of [[Exandria]]. Temples to [[Ioun]] under the management of the Cobalt Soul act as massive libraries called archives, usually located in larger cities and cultural centers. Its members come from all walks of life and are expected to assist in the maintenance, organization, and protection of the archives. Its satellite archives collect artifacts and research information both historical and contemporary along the [[Menagerie Coast]] and in the distant lands of Tal’Dorei, [[Issylra]], and beyond.
 
 Archivists act as administrators at each Archive, delineating tasks, overseeing the training of new members, and even negotiating for or purchasing artifacts and records — often from those unaware of their true value.
 
@@ -34,7 +34,7 @@ The Library tries to remain autonomous, but their agents within the empire are u
 
 The perceptive ears of the expositors often hear rumors of unwholesome practices behind closed doors within the Soltryce Academy and other places under the [[Cerberus Assembly]]’s oversight. The Library is concerned about the assembly’s secretive cabal but has thus far been unable to infiltrate deep enough to uncover anything damning.
 
-Meanwhile, a small number of volunteers from within the Library have agreed to travel deep into [[Xhorhas]] in the hopes of communicating with the [[Kryn Dynasty]] to learn more about their mysterious society, and to understand the level of threat they pose to the people of Western Wynandir and beyond. None of the volunteers have yet returned.
+Meanwhile, a small number of volunteers from within the Library have agreed to travel deep into [[Xhorhas]] in the hopes of communicating with the [[Kryn Dynasty]] to learn more about their mysterious society, and to understand the level of threat they pose to the people of [[Western Wynandir]] and beyond. None of the volunteers have yet returned.
 
 ## Figures of Interest
 

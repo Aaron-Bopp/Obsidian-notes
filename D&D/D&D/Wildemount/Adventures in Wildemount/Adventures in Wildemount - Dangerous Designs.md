@@ -1,6 +1,6 @@
-A war criminal is broken out of prison by well-armed kobolds working for a mysterious mastermind who threatens the gnomish city of [[Hupperdook]]. “Dangerous Designs” is an adventure that takes characters from 1st to 3rd level, and which introduces them to the Western Wynandir region of the continent under the rule of the [[Dwendalian Empire]]. This region is geared toward adventures that involve monster hunting, political intrigue, and the war with [[Xhorhas]].
+A war criminal is broken out of prison by well-armed kobolds working for a mysterious mastermind who threatens the gnomish city of [[Hupperdook]]. “Dangerous Designs” is an adventure that takes characters from 1st to 3rd level, and which introduces them to the [[Western Wynandir]] region of the continent under the rule of the [[Dwendalian Empire]]. This region is geared toward adventures that involve monster hunting, political intrigue, and the war with [[Xhorhas]].
 
-If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), they might wish to create characters who grew up in the [[Zemni Fields]] or [[Marrow Valley]], giving them a closer connection to this region and to the [[Dwendalian Empire]]. For characters not from Western Wynandir, the players should consider what has drawn those characters to [[Hupperdook]]. Because this adventure ties directly to the [[Kryn Dynasty]]’s conflict with the Dwendalian Empire, you can also ask each player to consider their character’s stance on the war and how the war might tie into their background.
+If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), they might wish to create characters who grew up in the [[Zemni Fields]] or [[Marrow Valley]], giving them a closer connection to this region and to the [[Dwendalian Empire]]. For characters not from [[Western Wynandir]], the players should consider what has drawn those characters to [[Hupperdook]]. Because this adventure ties directly to the [[Kryn Dynasty]]’s conflict with the Dwendalian Empire, you can also ask each player to consider their character’s stance on the war and how the war might tie into their background.
 
 ## Story Overview
 
@@ -68,7 +68,7 @@ A successful DC 14 Intelligence ([Investigation](https://www.dndbeyond.com/compe
 
 If the characters manage to subdue or capture any kobolds, their loyalty to Stahlmast is hard to break. A successful DC 15 Charisma ([Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation)) check begins to turn a captured kobold, but before it can reveal any information, crossbow bolts shot from the distant shadows (where more of Stahlmast’s loyal forces are watching) silences the would-be confessor.
 
-When the fight is done, numerous citizens and members of the Crownsguard respond to the commotion, followed by the Watchmaster Bram Gulchswattle (a lawful good, male gnome [veteran](https://www.dndbeyond.com/monsters/veteran)). Bram wants to know who the characters are and what they saw. If the characters are hesitant to answer openly, the watchmaster might take it as a sign of guilt, threatening to arrest them unless they speak plainly.
+When the fight is done, numerous citizens and members of the [[Crownsguard]] respond to the commotion, followed by the Watchmaster Bram Gulchswattle (a lawful good, male gnome [veteran](https://www.dndbeyond.com/monsters/veteran)). Bram wants to know who the characters are and what they saw. If the characters are hesitant to answer openly, the watchmaster might take it as a sign of guilt, threatening to arrest them unless they speak plainly.
 
 Bram might recognize the characters as adventurers by their actions in trying to stop the escaping criminals (if they did so), by their attire and equipment, or if they introduce themselves as such. Either way, he offers to hire them. He describes the runaway goliath as Sken Zabriss, a prisoner of war, but has no idea who the kobolds were. He offers a bounty of 500 gp to anyone who will hunt down and bring Sken back, as well as investigate who was responsible for breaking her out. Bram offers 250 gp up front. If the contract is accepted, he presents the characters with a copper-and-gold badge that indicates they are working under his authority. While the emblem is visible, all the characters have advantage on Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) checks made to pry information from stubborn citizens of [[Hupperdook]].
 
@@ -134,7 +134,7 @@ _**Hand Crossbow.** Ranged Weapon Attack:_ +5 to hit, range 30/120 ft., one targ
 
 If the adventurers head toward Gearhole Prison, read:
 
-Members of the Crownsguard are on site. They try to keep the characters away from the scene, though characters can talk their way past these guards by showing their delegate emblem or convincing the guards that they’ve come to help with a successful DC 12 Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check.
+Members of the [[Crownsguard]] are on site. They try to keep the characters away from the scene, though characters can talk their way past these guards by showing their delegate emblem or convincing the guards that they’ve come to help with a successful DC 12 Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check.
 
 When the characters are led to the scene of the escape, read:
 
@@ -194,7 +194,7 @@ _**Longbow.** Ranged Weapon Attack:_ +5 to hit, range 150/600 ft., one target. _
 
 If the adventurers head toward the Builder’s Plot, read:
 
-During the day, the characters find Cleff Tinkertop and his daughter Rissa (chaotic good gnome [commoners](https://www.dndbeyond.com/monsters/commoner)) building a prototype metallic glider. If they arrive in the evening, the area is empty except for a few patrolling Crownsguard. Asking the guards about Cleff Tinkertop sees the characters directed to Sootswallow Lodge (see “[Other [[Hupperdook]] Locations](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#OtherHupperdookLocations "Other Hupperdook Locations")” later in the adventure), where he often spends his evenings after work.
+During the day, the characters find Cleff Tinkertop and his daughter Rissa (chaotic good gnome [commoners](https://www.dndbeyond.com/monsters/commoner)) building a prototype metallic glider. If they arrive in the evening, the area is empty except for a few patrolling [[Crownsguard]]. Asking the guards about Cleff Tinkertop sees the characters directed to Sootswallow Lodge (see “[Other [[Hupperdook]] Locations](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#OtherHupperdookLocations "Other Hupperdook Locations")” later in the adventure), where he often spends his evenings after work.
 
 Cleff is an amiable middle-aged gnome, albeit a bit absent-minded and easily distracted. Rissa is sharp and keeps her father on track as best she can. If they are asked about explosives or shown the bronze shrapnel, they direct the characters toward the Firemark Facility ([area H5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#H5FiremarkFacility "area H5")), the only sanctioned manufacturing den of [blasting powder](https://www.dndbeyond.com/equipment/blasting-powder) and black powder in [[Hupperdook]].
 
@@ -260,7 +260,7 @@ Attached through a series of angled hallways, this network of foundries forms a 
 
 Long run by the Neverbend family of gnomes, this is the place to go for arms and armor, as well as general smithing needs. Standard metal weapons and armor, as well as metal-based adventuring gear, can be purchased here.
 
-Built across from Gearhole Prison, this squat, metal-reinforced barracks is home to most of the Crownsguard and Righteous Brand soldiers stationed in [[Hupperdook]]. Watchmaster Bram Gulchswattle can often be found here.
+Built across from Gearhole Prison, this squat, metal-reinforced barracks is home to most of the [[Crownsguard]] and Righteous Brand soldiers stationed in [[Hupperdook]]. Watchmaster Bram Gulchswattle can often be found here.
 
 The largest (and one of the only) taverns operating below the Idleworks Shelf, the Sootswallow Lodge caters to the builders and makers of the Ironlot during work hours, then plays home to the sketchier elements of [[Hupperdook]] by night. A fence named Udoth who keeps a room here in the evenings is always in the market for adventuring goods, which he buys for 75 percent of their value rather than 50 percent.
 
@@ -590,4 +590,4 @@ If the characters made a positive impression on Bram, they might try to convince
 
 ## Character Advancement
 
-At the end of this adventure, the characters reach 3rd level. You might have more adventures in mind for Western Wynandir—especially if the characters are able to claim Stahlmast’s lair. But from this point, the course of your campaign is up to you.
+At the end of this adventure, the characters reach 3rd level. You might have more adventures in mind for [[Western Wynandir]]—especially if the characters are able to claim Stahlmast’s lair. But from this point, the course of your campaign is up to you.

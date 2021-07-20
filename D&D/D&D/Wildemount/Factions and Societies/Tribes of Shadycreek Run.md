@@ -20,7 +20,7 @@ Some see this age of tenuous cooperation as a chance to escape from the long sha
 
 The Tribes endure each other in order to maintain a level of civility within the otherwise cutthroat streets of [[Shadycreek Run]], but they are each on the lookout for ways to subvert or weaken their opposition and become the city’s dominant family.
 
-All members of the Tribes are documented criminals within the empire, with bounties to match. Travel within the borders of Western Wynandir is dangerous for these criminal overlords, but each family has their own connections within the major cities of the empire that enable business.
+All members of the Tribes are documented criminals within the empire, with bounties to match. Travel within the borders of [[Western Wynandir]] is dangerous for these criminal overlords, but each family has their own connections within the major cities of the empire that enable business.
 
 In the past, [[the Myriad]] has oft attempted to subjugate the Tribes, but it has been rebuked time after time. The Tribes are too proud of their well-oiled engine of vice to permit the Myriad to take over. Even though the Tribes are pursuing new alliances with the Myriad, the people of [[Shadycreek Run]] fear that conflict between these shady powers is inevitable.
 

@@ -1,6 +1,6 @@
 ### Mount Mentiri
 
-Mount Mentiri is a sky-piercing crimson monolith and an ever-present visual landmark within the Truscan Vale. Thin wisps of steam rise from numerous vents scattered throughout the massive mountain. The nearby Bromkiln Hills and the northern lands around Pride's Call have been altered by the elemental power that radiates from the rock beneath Mentiri.
+Mount Mentiri is a sky-piercing crimson monolith and an ever-present visual landmark within the [[Truscan Vale]]. Thin wisps of steam rise from numerous vents scattered throughout the massive mountain. The nearby Bromkiln Hills and the northern lands around Pride's Call have been altered by the elemental power that radiates from the rock beneath Mentiri.
 
 The source of this subterranean heat is a mystery to the people of the empire. Scholars have proposed many theories, suggesting that Mentiri may be a young volcano — or that it sits atop a rift to the Elemental Plane of Fire.
 

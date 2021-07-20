@@ -2,9 +2,9 @@
 
 **Population:** 15,270 (70% humans, 17% dwarves, 8% elves, 5% other races)
 
-**Government:** Starosta Brumae Luddie handles the affairs of the city with the support of the lawmaster's regiment of Crownsguard. Nobles under the starosta handle in local administration.
+**Government:** Starosta Brumae Luddie handles the affairs of the city with the support of the lawmaster's regiment of [[Crownsguard]]. Nobles under the starosta handle in local administration.
 
-**Defense:** A number of Crownsguard share protective duties with a regiment of Righteous Brand soldiers called the Last Aegis.
+**Defense:** A number of [[Crownsguard]] share protective duties with a regiment of Righteous Brand soldiers called the Last Aegis.
 
 **Commerce:** Well-stocked trading posts and inns make most supplies readily available, though rare or exotic goods are difficult to locate.
 
@@ -16,7 +16,7 @@ Originally founded as a guard post near the Quannah Breach to watch for deadly c
 
 Starosta Brumae Luddie, a retired general of the Righteous Brand, has watched over the city for fifteen years. Brumae is driven by a strong sense of duty and pride in the empire, never questioning the words of the king. Because Brumae is regarded by most as a fair and just starosta, some fear that his advanced age will soon bring an end to his tenure and allow less-scrupulous figures to vie for his position.
 
-The strong military presence within Nogvurot keeps petty crime within the city to a minimum. Unfortunately, the Crownsguard often puff out their chests and try to one-up the soldiers of the Righteous Brand — and some local criminals have taken advantage of this petty rivalry to keep the soldiers distracted and continue their criminal behavior unimpeded.
+The strong military presence within Nogvurot keeps petty crime within the city to a minimum. Unfortunately, the [[Crownsguard]] often puff out their chests and try to one-up the soldiers of the Righteous Brand — and some local criminals have taken advantage of this petty rivalry to keep the soldiers distracted and continue their criminal behavior unimpeded.
 
 Corruption is also becoming a problem, as Last Aegis soldiers use their sway within the city to make easy coin by turning a blind eye to smuggling to and from [[Shadycreek Run]] and other criminal hotspots in the [[Greying Wildlands]].
 
@@ -24,4 +24,4 @@ The oblong city is divided between the eastern Aegis Block, which houses the bul
 
 Characters could go to Nogvurot to find someone in the city or to join the Righteous Brand. The city is also a good place for adventurers looking to test their mettle in competitive games against trained soldiers.
 
-_**Traitors in the Midst (Low Level).**_ The characters are approached by Telva Cornwrath (neutral, female, human [spy](https://www.dndbeyond.com/monsters/spy)), who claims to work for the Augen Trust. She hires the characters to infiltrate the ranks of the Righteous Brand in Nogvurot and discover which soldiers are accepting bribes from the [[Tribes of Shadycreek Run]]. She wants to know which criminal family pays each crooked official. She could be who she claims, or she might be a spy for [[the Myriad]] or one of the Tribes in [[Shadycreek Run]] looking to remove competition. In the latter case, she might not want the characters sticking around as loose ends.
+_**Traitors in the Midst (Low Level).**_ The characters are approached by Telva Cornwrath (neutral, female, human [spy](https://www.dndbeyond.com/monsters/spy)), who claims to work for the [[Augen Trust]]. She hires the characters to infiltrate the ranks of the Righteous Brand in Nogvurot and discover which soldiers are accepting bribes from the [[Tribes of Shadycreek Run]]. She wants to know which criminal family pays each crooked official. She could be who she claims, or she might be a spy for [[the Myriad]] or one of the Tribes in [[Shadycreek Run]] looking to remove competition. In the latter case, she might not want the characters sticking around as loose ends.
