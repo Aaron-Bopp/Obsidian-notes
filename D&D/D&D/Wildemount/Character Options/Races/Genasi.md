@@ -14,7 +14,7 @@ Even the cosmopolitan people of the [[Clovis Concord]] react to the sight of a g
 
 ### Genasi in [[Xhorhas]]
 
-Powerful storms wrack the flat plains of [[Xhorhas]], and many who live beyond the walls of the [[Kryn Dynasty]]’s cities pray to [[Kord]] the Storm Lord to win blessings and protection from his wrath. Air, fire, and water genasi are often born under Kord’s auspices, and many become shamans serving the folk of Xhorhas. Few earth genasi roam the wastes, though some are said to dwell within the [[Vermaloc Wildwood]].
+Powerful storms wrack the flat plains of [[Xhorhas]], and many who live beyond the walls of the [[Kryn Dynasty]]’s cities pray to [[Kord]] the Storm Lord to win blessings and protection from his wrath. Air, fire, and water genasi are often born under [[Kord]]’s auspices, and many become shamans serving the folk of [[Xhorhas]]. Few earth genasi roam the wastes, though some are said to dwell within the [[Vermaloc Wildwood]].
 
 The Kryn know little about the genasi and are eager to rectify that. Their scouts have orders to bring back any genasi they encounter to [[Rosohna]].
 
@@ -32,7 +32,7 @@ A genasi character has the following racial traits.
 
 _**Ability Score Increase.**_ Your Constitution score increases by 2.
 
-_**Age.**_ Genasi mature at about the same rate as [[humans]] and reach adulthood in their late teens. They live somewhat longer than humans do, up to 120 years.
+_**Age.**_ Genasi mature at about the same rate as [[humans]] and reach adulthood in their late teens. They live somewhat longer than [[humans]] do, up to 120 years.
 
 _**Alignment.**_ Independent and self-reliant, genasi tend toward a neutral alignment.
 

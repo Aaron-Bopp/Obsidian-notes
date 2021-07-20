@@ -1,16 +1,16 @@
 ## A New D&D Setting
 
-[[Wildemount]] is a new setting for your Dungeons & Dragons campaign, originally created by Matthew Mercer as the setting for the second campaign of the hit series Critical Role. Though it’s just one continent in the larger world of [[Exandria]], Wildemount is teeming with varied cultures, locales, peoples, and monsters. It is home to both avatars of evil and paragons of good, but it is defined by the common people who exist in between these two ideals.
+[[Wildemount]] is a new setting for your Dungeons & Dragons campaign, originally created by Matthew Mercer as the setting for the second campaign of the hit series Critical Role. Though it’s just one continent in the larger world of [[Exandria]], [[Wildemount]] is teeming with varied cultures, locales, peoples, and monsters. It is home to both avatars of evil and paragons of good, but it is defined by the common people who exist in between these two ideals.
 
 This book is for D&D players and Dungeon Masters of all experience levels. It is for newcomers and for hardcore fans of Critical Role alike. If you’ve watched every episode of Critical Role to date, this book will still contain surprises for you, as there are corners of [[Wildemount]] that even the [[Mighty Nein]] weren’t able to explore in their adventures.
 
-If you’re a Dungeon Master, this book will help you create a D&D campaign set in a land of war, intrigue, and swashbuckling adventure. You could set your campaign entirely within one of [[Wildemount]]’s four regions, or you could follow the example set by Critical Role and create a campaign with a constantly evolving tone as the adventurers journey across the continent. You will also find brand-new monsters and introductory adventures that can help you start a campaign in any of Wildemount’s four regions.
+If you’re a Dungeon Master, this book will help you create a D&D campaign set in a land of war, intrigue, and swashbuckling adventure. You could set your campaign entirely within one of [[Wildemount]]’s four regions, or you could follow the example set by Critical Role and create a campaign with a constantly evolving tone as the adventurers journey across the continent. You will also find brand-new monsters and introductory adventures that can help you start a campaign in any of [[Wildemount]]’s four regions.
 
 If you’re a player, this book contains new options that will help your character fit in perfectly with this strange new land. You can use the [[heroic chronicle]] system to create a backstory that firmly roots your character in the lands of [[Wildemount]]. You’ll also find new subclasses as well as new [[magic items]] that will help you attain greater and greater power as you travel the continent.
 
 ## Nations of [[Wildemount]]
 
-[[Wildemount]]’s various regions are described in greater detail in [[Wildemount Gazetteer]] Here’s a quick overview of the major civilizations of Wildemount.
+[[Wildemount]]’s various regions are described in greater detail in [[Wildemount Gazetteer]] Here’s a quick overview of the major civilizations of [[Wildemount]].
 
 ### [[Dwendalian Empire]]
 
@@ -20,7 +20,7 @@ Campaigns set in the [[Dwendalian Empire]] are bound to involve elements of war 
 
 ### [[Clovis Concord]]
 
-The [[Clovis Concord]] is a republic of city-states lining the [[Menagerie Coast]], the westernmost shore of [[Wildemount]]. This tropical region is rich with history and known for a lively, free-spirited culture that contrasts sharply with Wildemount’s other, politically narrow-minded nations.
+The [[Clovis Concord]] is a republic of city-states lining the [[Menagerie Coast]], the westernmost shore of [[Wildemount]]. This tropical region is rich with history and known for a lively, free-spirited culture that contrasts sharply with [[Wildemount]]’s other, politically narrow-minded nations.
 
 Campaigns set on the [[Menagerie Coast]] are often nautical, exploring the conflict between the law of the [[Clovis Concord]] and the chaos of [[the Revelry]] pirates. They can also investigate the jungles that line the coast and the ancient ruins hidden within their verdant boughs.
 
@@ -32,14 +32,14 @@ Campaigns set in the [[Biting North]] often involve morally gray characters butt
 
 ### [[Kryn Dynasty]]
 
-The [[Kryn Dynasty]] is an empire made up of [[Dark Elves]] (drow) and other humanoids typically considered to be monsters by the other nations of [[Wildemount]], such as minotaurs, [[goblinkin]], and [[gnolls]]. The Kryn Dynasty rules over the wastes of [[Xhorhas]], a land once blighted by the rule of the Betrayer Gods when immortals still walked the land. The Kryn safeguard a secret; if your players haven’t seen any of Critical Role, revealing this secret could mark the turning point of a campaign.
+The [[Kryn Dynasty]] is an empire made up of [[Dark Elves]] (drow) and other humanoids typically considered to be monsters by the other nations of [[Wildemount]], such as minotaurs, [[goblinkin]], and [[gnolls]]. The [[Kryn Dynasty]] rules over the wastes of [[Xhorhas]], a land once blighted by the rule of the Betrayer Gods when immortals still walked the land. The Kryn safeguard a secret; if your players haven’t seen any of Critical Role, revealing this secret could mark the turning point of a campaign.
 
 A campaign set in [[Xhorhas]] will doubtless involve the war between the [[Kryn Dynasty]] and the [[Dwendalian Empire]], but it can also include traditional dungeon crawls, political intrigue within the courts of the dynasty, or even wilderness exploration that could unearth secrets lost since the fall of the Betrayer Gods.
 
 
 ## War!
 
-The continent of [[Wildemount]] is a powder keg about to explode. Tensions between the [[Dwendalian Empire]] and the [[Kryn Dynasty]] have just erupted into open war, and everyone in Wildemount, including the adventurers, must contend with the fallout of the conflict between the continent’s two imperial superpowers.
+The continent of [[Wildemount]] is a powder keg about to explode. Tensions between the [[Dwendalian Empire]] and the [[Kryn Dynasty]] have just erupted into open war, and everyone in [[Wildemount]], including the adventurers, must contend with the fallout of the conflict between the continent’s two imperial superpowers.
 
 ### The War of Ash and Light
 

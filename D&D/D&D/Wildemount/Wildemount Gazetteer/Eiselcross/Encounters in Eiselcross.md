@@ -1,6 +1,6 @@
 ## Encounters in [[Eiselcross]]
 
-[[Eiselcross]] is a land of strange magic, bizarre creatures, and fascinating people. Each day that the characters travel the land, roll a d20. On a result of 15 or higher, an encounter chosen or rolled on the Eiselcross Encounters table of the appropriate level occurs. Not all of these encounters are meant to result in combat, and the ideas on the tables can inspire encounters of your own creation.
+[[Eiselcross]] is a land of strange magic, bizarre creatures, and fascinating people. Each day that the characters travel the land, roll a d20. On a result of 15 or higher, an encounter chosen or rolled on the [[Eiselcross]] Encounters table of the appropriate level occurs. Not all of these encounters are meant to result in combat, and the ideas on the tables can inspire encounters of your own creation.
 #Table 
 d6
 
@@ -92,7 +92,7 @@ Encounter
 
 1
 
-The characters find the buried top of an [[Aeor|Aeorian]] tower that crashed into the ice. Ice fills the lower levels of the tower, and 1d4 + 1 [Aeorian nullifiers](https://www.dndbeyond.com/monsters/aeorian-nullifier) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#AeorianNullifier "chapter 7")) are frozen in the ice.
+The characters find the buried top of an [[Aeor|Aeorian]] tower that crashed into the ice. Ice fills the lower levels of the tower, and 1d4 + 1 [Aeorian nullifiers](https://www.dndbeyond.com/monsters/[[Aeor|aeorian]]-nullifier) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#AeorianNullifier "chapter 7")) are frozen in the ice.
 
 2
 

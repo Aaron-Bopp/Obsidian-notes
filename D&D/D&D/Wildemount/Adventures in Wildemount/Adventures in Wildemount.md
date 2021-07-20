@@ -10,7 +10,7 @@ This chapter of the book is for DMs only. If you’re planning to run through an
 
 The [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual") contains statistics for many of the creatures found in these adventures. When a creature’s name appears in **bold** type, that’s a visual cue pointing you to the creature’s stat block in the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual"). If the stat block instead appears in this book, the adventure’s text tells you so.
 
-The names of spells and [[magic items]] referenced in the adventure are in _italics_. If a spell or magic item appears in this book, the text will say so. If it doesn’t, information on spells can be found in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") and information on magic items can be found in the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide").
+The names of spells and [[magic items]] referenced in the adventure are in _italics_. If a spell or magic item appears in this book, the text will say so. If it doesn’t, information on spells can be found in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") and information on [[magic items]] can be found in the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide").
 
 ## Using These Adventures
 

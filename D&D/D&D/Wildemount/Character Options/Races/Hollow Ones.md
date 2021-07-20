@@ -8,7 +8,7 @@ Hollow One
 
 The magic that sustains Hollow Ones is a mystery. Most Hollow Ones are reborn after dying in [[Blightshore]], suggesting that the spell-scarred nature of the land brought them back for an unknown purpose. Yet some beings find that, days after they died, they awaken, clutching to life, with only a terrible emptiness inside to remind them of their death.
 
-In [[Blightshore]], Hollow Ones are seen as a people like any other. They seem strange, but the adventurous and hardy folk of Blightshore are used to making allies with strange creatures. Elsewhere, Hollow Ones are indistinguishable from living creatures, save for the faint stench of necromancy that lingers about them.
+In [[Blightshore]], Hollow Ones are seen as a people like any other. They seem strange, but the adventurous and hardy folk of [[Blightshore]] are used to making allies with strange creatures. Elsewhere, Hollow Ones are indistinguishable from living creatures, save for the faint stench of necromancy that lingers about them.
 
 The transition from life to becoming a Hollow One affects different people to different degrees. Some let their anger and regret consume them. Others use their second chance to become a brighter force in the world. However, all Hollow Ones are marked by their new existence: feelings of unease, dread or sadness cling to them like tattered rags of their past life.
 

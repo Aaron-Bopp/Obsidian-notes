@@ -1,8 +1,8 @@
 ## Kenku
 
-In ancient times, kenku were black-winged angels—ambassadors who served [[the Raven Queen]] as her emissaries of death. Their voices were once heard across entire planes, calling the dead to the Raven Queen’s embrace. The kenku likewise served as her loyal warriors in [[the Calamity]], and even saved her from a near-fatal encounter with the [[Betrayer God]] known as [[Tharizdun]].
+In ancient times, kenku were black-winged angels—ambassadors who served [[the Raven Queen]] as her emissaries of death. Their voices were once heard across entire planes, calling the dead to [[the Raven Queen]]’s embrace. The kenku likewise served as her loyal warriors in [[the Calamity]], and even saved her from a near-fatal encounter with the [[Betrayer God]] known as [[Tharizdun]].
 
-Though the kenku saved [[the Raven Queen]] from oblivion, all of her black-winged emissaries were consumed by [[Tharizdun]]’s infinite void. For long years, the kenku were thought to have been annihilated, and it was only when Tharizdun was defeated and chained by the god [[Ioun]] near [[the Calamity]]’s end that they were freed.
+Though the kenku saved [[the Raven Queen]] from oblivion, all of her black-winged emissaries were consumed by [[Tharizdun]]’s infinite void. For long years, the kenku were thought to have been annihilated, and it was only when [[Tharizdun]] was defeated and chained by the god [[Ioun]] near [[the Calamity]]’s end that they were freed.
 
 When the gods sealed themselves behind the [[Divine Gate]], [[the Raven Queen]] realized what her emissaries had sacrificed to save her. Though the kenku survived oblivion, they returned as mortals, stripped of all the divine gifts their god had bestowed on them: their voices, their wings, and all memories of their past existence. Bearing [[Tharizdun]]’s curse of oblivion, the kenku were reduced to squat beings that could speak only by mimicking the words of others.
 

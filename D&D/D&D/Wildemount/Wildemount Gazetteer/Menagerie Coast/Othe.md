@@ -24,4 +24,4 @@ While the winds are often earthy and mingled with marsh air, the simpler, pastor
 
 The characters may come to Othe to seek guidance from one of the city's many temples.
 
-_**Seeking Misguidance (Any Level).**_ A ranking official of the [[Clovis Concord]] is in Othe seeking guidance on handling [[the Myriad]]. The criminal organization hires the characters to pose as holy guides and convince the official to work with the [[The Myriad|Myriad]] instead of against them.
+_**Seeking Misguidance (Any Level).**_ A ranking official of the [[Clovis Concord]] is in Othe seeking guidance on handling [[the Myriad]]. The criminal organization hires the characters to pose as holy guides and convince the official to work with [[the Myriad]] instead of against them.

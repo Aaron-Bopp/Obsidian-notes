@@ -67,11 +67,11 @@ Draconblood are the former ruling class of [[dragonborn]] in [[Draconia]] before
 
 
 
-[[Dunamancy]] is the arcane study and mastering of [[dunamis]] and dunamis-related magic.
+[[Dunamancy]] is the arcane study and mastering of [[dunamis]] and [[dunamis]]-related magic.
 
 [[Dunamis]] is the mysterious arcane energy of potential, probability, and gravity studied and harnessed by spellcasters of the [[Kryn Dynasty]].
 
-[[Dwendalian Empire]] refers to the Dwendalian Empire that rules over [[Western Wynandir]].
+[[Dwendalian Empire]] refers to the [[Dwendalian Empire]] that rules over [[Western Wynandir]].
 
 Dynasty refers to the [[Kryn Dynasty]] of [[Xhorhas]].
 
@@ -135,7 +135,7 @@ Luxon is a pre-pantheon entity of light that is worshiped by the [[Kryn Dynasty]
 
 Marquis is generally the title of a city leader within the [[Clovis Concord]].
 
-Marquessian refers to the language of [[Marquet]], architecture and crafts from Marquet, or denizens who descend from citizens of Marquet.
+Marquessian refers to the language of [[Marquet]], architecture and crafts from [[Marquet]], or denizens who descend from citizens of [[Marquet]].
 
 [[Miskath Strand]] is the far-eastern shore of [[Eastern Wynandir]], scarred with deep corruption from the experiments of the Betrayer Gods. This region is now known as [[Blightshore]].
 

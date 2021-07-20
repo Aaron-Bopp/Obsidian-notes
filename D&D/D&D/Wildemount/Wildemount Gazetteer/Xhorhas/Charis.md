@@ -10,7 +10,7 @@
 
 **Organizations:** A mighty treetop temple to [[Melora]] shades the center of the village.
 
-A wandering community of [[halflings]] survived in the fiend-twisted [[Lotusden Greenwood]] for generations through their cunning and the grace of their faith in [[Melora]]. When they found themselves ambushed by a group of starving ravenites fleeing from the destruction of [[Draconia]], the halflings shunned conflict in favor of kindness. They offered to feed the ravenites, and a bond between peoples was born.
+A wandering community of [[halflings]] survived in the fiend-twisted [[Lotusden Greenwood]] for generations through their cunning and the grace of their faith in [[Melora]]. When they found themselves ambushed by a group of starving ravenites fleeing from the destruction of [[Draconia]], the [[halflings]] shunned conflict in favor of kindness. They offered to feed the ravenites, and a bond between peoples was born.
 
 This burgeoning community of [[halflings]] and [[dragonborn]] was able to carve out a permanent home within a safer region of the Lotusden and, with the blessing of the Wild Mother, ward off the evils of the forest. They gave their woodland village the name Charis, from the Draconic word for "hope." This hidden hamlet of hollowed trees, moss-covered grottoes, and mushroom fields harbors a nature-worshiping commune of vegetarian farmers, forest guardians, and druids who work to live in harmony with the surrounding forest. They hope to cleanse the Lotusden of the evils that have pervaded its shadows since before the [[Divergence]].
 

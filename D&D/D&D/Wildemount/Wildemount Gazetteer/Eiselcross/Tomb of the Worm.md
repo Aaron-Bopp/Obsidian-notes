@@ -14,7 +14,7 @@ Three decades ago, a clan of wildfolk on [[Gelier]] found the exposed body of [[
 
 The people living in the Tomb of the Worm work together in harmony. [[Galgonos]]  with the wormkin template described below) is the leader of the settlement, and he organizes parties of wormkin that search [[Gelier]] and the rest of [[Eiselcross]] for more wildfolk to join their ranks. Outsiders often find the settlement charming because of how well the villagers get along, though a character who succeeds on a DC 15 Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check can tell that the wormkin are more dangerous than they appear. The villagers offer the Undermaw's meat to visitors and force-feed it to those who refuse but would make worthy additions to the Undermaw's army.
 
-The wormkin have two goals: grow their numbers and free [[Quajath]] from the ice. What Quajath plans to have its followers do once it leaves the ice is known only to the Undermaw.
+The wormkin have two goals: grow their numbers and free [[Quajath]] from the ice. What [[Quajath]] plans to have its followers do once it leaves the ice is known only to the Undermaw.
 
 [](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-19.png)
 
@@ -24,7 +24,7 @@ Humanoids that consume the Undermaw's flesh ten or fewer days after it has been 
 
 **Alignment.** The creature's alignment becomes chaotic neutral.
 
-**Connected to [[Quajath]].** No matter where the creature is, Quajath can read the creature's every thought and memory and speak with the creature telepathically. Quajath can also access the creature's senses and perceive what the creature perceives. As a bonus action, Quajath can take direct control of the creature, choosing the actions, bonus action, reactions, and movement the creature takes until Quajath ends this control as a bonus action.
+**Connected to [[Quajath]].** No matter where the creature is, [[Quajath]] can read the creature's every thought and memory and speak with the creature telepathically. [[Quajath]] can also access the creature's senses and perceive what the creature perceives. As a bonus action, [[Quajath]] can take direct control of the creature, choosing the actions, bonus action, reactions, and movement the creature takes until [[Quajath]] ends this control as a bonus action.
 
 **Magic Resistance.** The creature has advantage on saving throws against spells and other magical effects.
 
@@ -32,6 +32,6 @@ Humanoids that consume the Undermaw's flesh ten or fewer days after it has been 
 
 The characters might find adventure, allies, and adversaries in the Tomb of the Worm.
 
-_**Meat Thieves (Low Level).**_ As the characters explore [[Gelier]], they cross paths with a group of four wildfolk commoners led by Jarinmine. The halfling begs them to take a 300-pound package of meat to the sea and dump it in the icy water. She warns the characters not to eat it and offers them her ivory necklace (worth 100 gp) if they agree to the task. If pressed, she says the meat is tainted and that it turns people into slaves for [[Galgonos]]. Jarinmine stole the meat from the wormkin because she believes the diet poisons their minds. She needs to get back to the Tomb of the Worm before Galgonos realizes what she's done.
+_**Meat Thieves (Low Level).**_ As the characters explore [[Gelier]], they cross paths with a group of four wildfolk commoners led by Jarinmine. The halfling begs them to take a 300-pound package of meat to the sea and dump it in the icy water. She warns the characters not to eat it and offers them her ivory necklace (worth 100 gp) if they agree to the task. If pressed, she says the meat is tainted and that it turns people into slaves for [[Galgonos]]. Jarinmine stole the meat from the wormkin because she believes the diet poisons their minds. She needs to get back to the Tomb of the Worm before [[Galgonos]] realizes what she's done.
 
-Before the characters reach the sea, six wormkin catch up to them. Their leader is [[Redjaw]], and the others are cultists, all with the wormkin template applied. Redjaw demands that the characters give back the food that was stolen and forces a fight if the characters refuse. If the characters return the meat, Redjaw invites them back to the Tomb of the Worm. If the characters go to the village, they find that Jarinmine and her friends have been captured by the wormkin and are about to be executed for their crimes.
+Before the characters reach the sea, six wormkin catch up to them. Their leader is [[Redjaw]], and the others are cultists, all with the wormkin template applied. [[Redjaw]] demands that the characters give back the food that was stolen and forces a fight if the characters refuse. If the characters return the meat, [[Redjaw]] invites them back to the Tomb of the Worm. If the characters go to the village, they find that Jarinmine and her friends have been captured by the wormkin and are about to be executed for their crimes.

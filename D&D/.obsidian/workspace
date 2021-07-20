@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0e30a2d581ac475",
+        "id": "9aea85324a656e25",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/Wildemount/aliases.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -54,7 +51,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/aliases.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +62,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,9 +77,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D&D/Wildemount/aliases.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,11 +100,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 358
+    "width": 358,
+    "collapsed": true
   },
   "right": {
     "id": "e4957aafc9974964",
@@ -135,7 +129,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/aliases.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,17 +202,17 @@
     "width": 962,
     "collapsed": true
   },
-  "active": "f0e30a2d581ac475",
+  "active": "9aea85324a656e25",
   "lastOpenFiles": [
+    "D&D/Wildemount/Factions and Societies/Dwendalian Empire.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Menagerie Coast.md",
+    "D&D/Wildemount/Character Options/Races/Half Elves.md",
     "D&D/Wildemount/aliases.md",
     "D&D/Wildemount/Character Options/Races/Dark Elves.md",
-    "D&D/Wildemount/Character Options/Races/Half Elves.md",
     "Dark Elves.md",
     "dark elf.md",
-    "D&D/Wildemount/Character Options/Races/Half-Elves.md",
-    "Dark-Elves.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Xhorhas/Asarius.md",
-    "Untitled.md",
-    "Gnolls.md"
+    "D&D/Wildemount/Character Options/Races/Half-Elves.md"
   ]
 }

@@ -32,6 +32,6 @@ From the ashes of a land devastated by [[the Calamity]] grew the civilizations o
 
 # CULTS: DUBIOUS WORSHIP FROM THE SHADOWS
 
-While this chapter outlines the major players across the continent operating in ways that directly affect the political landscape of [[Wildemount]], there are numerous smaller factions that can be introduced in your own Wildemount campaigns. Among these lesser powers are countless cabals, cults, and leaderless groups of people who fall under the influence of the numerous Betrayer Gods and other entities who corrupt and manipulate mortals. These may operate on their own or within larger factions, providing challenges, villains, and an element of chaos that can make your Wildemount campaign unique.
+While this chapter outlines the major players across the continent operating in ways that directly affect the political landscape of [[Wildemount]], there are numerous smaller factions that can be introduced in your own [[Wildemount]] campaigns. Among these lesser powers are countless cabals, cults, and leaderless groups of people who fall under the influence of the numerous Betrayer Gods and other entities who corrupt and manipulate mortals. These may operate on their own or within larger factions, providing challenges, villains, and an element of chaos that can make your [[Wildemount]] campaign unique.
 
 Below are a few examples of cults deeply rooted throughout [[Wildemount]], and their respective goals.

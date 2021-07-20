@@ -18,7 +18,7 @@ The Golden Grin — or simply the Grin — exists to enlighten and inspire, keep
 
 The Grin claims no formal allies, since its members never reveal themselves to others except in the direst of circumstances. They uplift and bolster other groups that work with the people’s best interests at heart. Some grinners occasionally find their way into government positions, granting them a platform to disseminate the ideals behind their cause. While some may not agree with their rather anarchistic views, grinners are generally regarded as idealistic paragons of individual virtue.
 
-The Grin’s mischief in [[Wildemount]] began relatively recently, so it is largely unknown and able to conduct its work unimpeded; however, those versed in historical lore might know of its deeds and read the signs of its meddling. The Golden Grin currently is seeking an alliance with the [[Library of the Cobalt Soul]] to root out the untrustworthy within the [[Library of the Cobalt Soul|Cobalt Soul]] and align their interests to aid the people of Wildemount.
+The Grin’s mischief in [[Wildemount]] began relatively recently, so it is largely unknown and able to conduct its work unimpeded; however, those versed in historical lore might know of its deeds and read the signs of its meddling. The Golden Grin currently is seeking an alliance with the [[Library of the Cobalt Soul]] to root out the untrustworthy within the [[Library of the Cobalt Soul|Cobalt Soul]] and align their interests to aid the people of [[Wildemount]].
 
 ## Figures of Interest
 

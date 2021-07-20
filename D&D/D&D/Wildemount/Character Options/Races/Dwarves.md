@@ -16,6 +16,6 @@ Ancient legends tell of dwarves living in mountaintop citadels in the ominous [[
 
 ### Dwarves in [[Xhorhas]]
 
-Dwarves are few and far between in [[Xhorhas]], and those few who remain are known as [[duergar]], or “deep dwarves.” Though some duergar have joined with the [[Kryn Dynasty]] and dwell on the surface, most live in the ancient tunnels of the Underdark and harbor a deep-seated enmity for the drow.
+Dwarves are few and far between in [[Xhorhas]], and those few who remain are known as [[duergar]], or “deep dwarves.” Though some [[duergar]] have joined with the [[Kryn Dynasty]] and dwell on the surface, most live in the ancient tunnels of the Underdark and harbor a deep-seated enmity for the drow.
 
-[[Duergar]] insurgents, striking Kryn settlements or seeking hidden paths toward the surface from perhaps a dozen small outposts in the Underdark, are trying to carve out their own underground dominion. Kryn forces have been successful in holding onto their underground territories so far, but many generals fear that the war in the west is drawing more and more soldiers from their fortifications in the Underdark. If duergar aggression is left unchecked, territory might inevitably have to be ceded to the insurgents.
+[[Duergar]] insurgents, striking Kryn settlements or seeking hidden paths toward the surface from perhaps a dozen small outposts in the Underdark, are trying to carve out their own underground dominion. Kryn forces have been successful in holding onto their underground territories so far, but many generals fear that the war in the west is drawing more and more soldiers from their fortifications in the Underdark. If [[duergar]] aggression is left unchecked, territory might inevitably have to be ceded to the insurgents.

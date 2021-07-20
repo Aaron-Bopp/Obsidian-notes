@@ -1,6 +1,6 @@
 ## Aarakocra
 
-Many people across [[Wildemount]] consider the winged aarakocra to be a myth, so infrequently do they descend from their lofty aeries to deal with wingless folk. Where they are known, the aarakocra rarely engage with the land-bound societies of Wildemount, though some take great pleasure in traveling on the open ocean with Concord sailors and [[The Revelry|Revelry]] pirates. Some legends say that [[Melora]] the Wild Mother created the aarakocra as storm herders who drive the clouds across the sky, and some aarakocra tribes play a sport called h’aara-shie, or “cloud chasing,” that reflects this ancient tale.
+Many people across [[Wildemount]] consider the winged aarakocra to be a myth, so infrequently do they descend from their lofty aeries to deal with wingless folk. Where they are known, the aarakocra rarely engage with the land-bound societies of [[Wildemount]], though some take great pleasure in traveling on the open ocean with Concord sailors and [[The Revelry|Revelry]] pirates. Some legends say that [[Melora]] the Wild Mother created the aarakocra as storm herders who drive the clouds across the sky, and some aarakocra tribes play a sport called h’aara-shie, or “cloud chasing,” that reflects this ancient tale.
 
 ### Aarakocra in the [[Dwendalian Empire]]
 

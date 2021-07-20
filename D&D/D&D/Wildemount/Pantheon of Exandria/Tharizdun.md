@@ -12,7 +12,7 @@ Tharizdun is believed to be chained in the deepest pits of the Abyss, bound by d
 
 **_Depiction._** Few visual attempts to depict Tharizdun exist, but the texts speak of a creature of rolling, hungry ink and darkness, a spreading cloud of lightless destruction born from a thousand ravenous mouths. Current references show the nightmare constrained by chains of gold and black, barely keeping the dark at bay.
 
-**_Enemies._** The few remaining followers of [[Ioun]] are dedicated to ensuring that Tharizdun is never again unchained. Ioun led the charge against the all-consuming destroyer god’s reemergence, and her bravery allowed the other Prime Deities to shackle their enemy, though the victory nearly cost her immortal life. Some say Ioun can only be fully restored if the Chained Oblivion is destroyed for good.
+**_Enemies._** The few remaining followers of [[Ioun]] are dedicated to ensuring that Tharizdun is never again unchained. [[Ioun]] led the charge against the all-consuming destroyer god’s reemergence, and her bravery allowed the other Prime Deities to shackle their enemy, though the victory nearly cost her immortal life. Some say [[Ioun]] can only be fully restored if the Chained Oblivion is destroyed for good.
 
 #### Commandments of Tharizdun
 

@@ -16,7 +16,7 @@ This eerie, fog-shrouded town is built into the southern cliff of [[Darktow Isle
 
 While most [[The Revelry|Revelry]] pirates are sailors by trade, many of the isle's residents never take to sea. Instead, they maintain the town's defenses, repair ships in port, entertain pirates on shore leave, or sell goods and services. A large number of these landlocked folk were denizens at the time of the town's capture or are their descendants, having been granted safety in exchange for their allegiance to [[the Revelry]].
 
-Within [[the Revelry]], each captain is the lord of their own ship, but all business must be reported to the Plank King, the leader of the [[The Revelry|Revelry]] as a whole. Though the Plank King rarely leaves the Throne Roost in the town of Darktow, he oversees operations, organizes raids, protects the island, and punishes traitors.
+Within [[the Revelry]], each captain is the lord of their own ship, but all business must be reported to the Plank King, the leader of [[the Revelry]] as a whole. Though the Plank King rarely leaves the Throne Roost in the town of Darktow, he oversees operations, organizes raids, protects the island, and punishes traitors.
 
 One would think a landscape of law-breakers would be rife with crime, but the rule of the Plank King heavily punishes thievery within Darktow. A number of bird-picked skulls adorn the rocky shore aside his lair as a warning to play nice with one's fellow pirates. Even so, some folks do push those boundaries should they feel confident in their ability to get away with it. Theft and conflict beyond the boundaries of the Dragshallow Reef is reviewed and judged by the Plank King.
 

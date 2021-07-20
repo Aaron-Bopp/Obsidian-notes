@@ -6,7 +6,7 @@ Lolth sends forth her corrupting poisons and whispers from her realm of the Demo
 
 **_Depiction._** Many Lolthite icons and idols show an alluring woman with dark purple skin and silver hair, her abdomen swelling into the terrifying body of a monstrous spider.
 
-**_Enemies._** Lolth holds a searing grudge against [[Kord]], for with one throw of his mighty thunderspear he impaled her against a cliffside, leaving her drow armies leaderless during [[the Calamity]]. Lolth and [[Gruumsh]] also share a burning hatred for [[Corellon]], whom she claims drove her children below the earth, and Lolth often manipulates Gruumsh’s followers into attacking her enemies so that the drow may remain safe. While Lolth cannot sense the will or power of [[the Luxon]], the entity that is now worshiped by the [[Dark Elves]] of [[Xhorhas]], she is bent entirely toward the destruction of its followers and their memory.
+**_Enemies._** Lolth holds a searing grudge against [[Kord]], for with one throw of his mighty thunderspear he impaled her against a cliffside, leaving her drow armies leaderless during [[the Calamity]]. Lolth and [[Gruumsh]] also share a burning hatred for [[Corellon]], whom she claims drove her children below the earth, and Lolth often manipulates [[Gruumsh]]’s followers into attacking her enemies so that the drow may remain safe. While Lolth cannot sense the will or power of [[the Luxon]], the entity that is now worshiped by the [[Dark Elves]] of [[Xhorhas]], she is bent entirely toward the destruction of its followers and their memory.
 
 #### Commandments of Lolth
 

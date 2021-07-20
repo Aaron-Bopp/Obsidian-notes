@@ -6,7 +6,7 @@ Vecna calls no place among the planes his home, instead wandering in search of p
 
 **_Depiction._** Those who claim to have looked on Vecna’s form speak of a tall, skeletal lich swathed in tattered robes and enchanted jewels, missing both his left hand and left eye.
 
-**_Enemies._** While Vecna loathes all other gods and wishes to destroy them and become the sole divine power in the planes, he has a particular hatred for [[Ioun]]. Ioun seeks to share with the world the same secrets Vecna guards for himself, and his followers work diligently to undermine and destroy the [[Library of the Cobalt Soul]] and any others who follow her path. [[The Raven Queen]] also despises Vecna, and sees his presence as a mighty affront to her purpose.
+**_Enemies._** While Vecna loathes all other gods and wishes to destroy them and become the sole divine power in the planes, he has a particular hatred for [[Ioun]]. [[Ioun]] seeks to share with the world the same secrets Vecna guards for himself, and his followers work diligently to undermine and destroy the [[Library of the Cobalt Soul]] and any others who follow her path. [[The Raven Queen]] also despises Vecna, and sees his presence as a mighty affront to her purpose.
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-24.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-24.png)
 

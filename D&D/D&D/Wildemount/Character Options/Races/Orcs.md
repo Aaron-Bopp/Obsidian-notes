@@ -16,7 +16,7 @@ Half-orcs are proud of their heritage, though many are wary of the wrathful curs
 
 The folk of the [[Clovis Concord]] welcome people of all kinds to their shores, yet orcs and half-orcs are uncommon in Concordian cities. Most half-orcs on the [[Menagerie Coast]] come from the continent of Tal’Dorei as visitors, merchants, or mercenaries, and rarely settle. Half-orc children in the settlements of the coast are often bullied for their unusual teeth.
 
-Only the Concordian city of [[Othe]] has a significant half-orc population. Originally established as a spiritual site for [[Ki’Nau]] people, the city has long attracted orcs and half-orcs who believe that the curse of ruin has caused them to lash out at those they love. In Othe, they find peace through spiritualism—and a place to belong.
+Only the Concordian city of [[Othe]] has a significant half-orc population. Originally established as a spiritual site for [[Ki’Nau]] people, the city has long attracted orcs and half-orcs who believe that the curse of ruin has caused them to lash out at those they love. In [[Othe]], they find peace through spiritualism—and a place to belong.
 
 ### Half-Orcs in [[Xhorhas]]
 
