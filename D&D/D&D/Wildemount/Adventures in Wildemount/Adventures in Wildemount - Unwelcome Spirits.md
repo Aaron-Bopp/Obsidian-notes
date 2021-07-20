@@ -1,6 +1,6 @@
-An elder warlock from the goblinoid swamp village of [[Urzin]] has been kidnapped by soldiers of the [[Dwendalian Empire]]. Now the machinations of an evil imperial inquisitor might unleash an evil that could threaten the garrison at Fort Venture and the goblinoids of [[Urzin]] alike. “Unwelcome Spirits” is a [[Wildemount]] adventure that takes characters from 1st to 3rd level, and which introduces them to Wildemount’s desolate and foreboding Eastern Wynandir region.
+An elder warlock from the goblinoid swamp village of [[Urzin]] has been kidnapped by soldiers of the [[Dwendalian Empire]]. Now the machinations of an evil imperial inquisitor might unleash an evil that could threaten the garrison at Fort Venture and the goblinoids of Urzin alike. “Unwelcome Spirits” is a [[Wildemount]] adventure that takes characters from 1st to 3rd level, and which introduces them to Wildemount’s desolate and foreboding Eastern Wynandir region.
 
-If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), you can talk with them about creating characters with ties to [[Urzin]] or nearby Xhorhasian settlements. Alternatively, characters from elsewhere might be traveling to [[Urzin]], whether individually or as a group. Since this adventure ties directly to the [[Kryn Dynasty]]’s conflict with the [[Dwendalian Empire]], you can also ask each player to consider their character’s stance on the war and how the war might tie into their background.
+If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), you can talk with them about creating characters with ties to [[Urzin]] or nearby Xhorhasian settlements. Alternatively, characters from elsewhere might be traveling to Urzin, whether individually or as a group. Since this adventure ties directly to the [[Kryn Dynasty]]’s conflict with the [[Dwendalian Empire]], you can also ask each player to consider their character’s stance on the war and how the war might tie into their background.
 
 ## Story Overview
 
@@ -10,13 +10,13 @@ What neither the imperial forces nor the goblinoids of [[Urzin]] know is that Bo
 
 ## Adventure Summary
 
-In the political absence of the champion chief of [[Urzin]], [[Sunbreaker Olomon]], the village’s proud and protective acting leader is [Ogre Lord Buhfal II](https://www.dndbeyond.com/monsters/ogre-lord-buhfal-ii). Buhfal seeks to resolve the plight of the missing warlock, [Bol’bara](https://www.dndbeyond.com/monsters/bolbara), which he worries will threaten the frail alliances among the village’s restless goblinoids. He and his advisors suspect the nearby imperial outpost at Fort Venture has something to do with Bol’bara’s fate. However, Buhfal knows that goblinoids advancing on Fort Venture will draw reprisals against [[Urzin]], so he seeks an outside group who might more easily seek the warlock there and bring her back to help safeguard the settlement.
+In the political absence of the champion chief of [[Urzin]], [[Sunbreaker Olomon]], the village’s proud and protective acting leader is [Ogre Lord Buhfal II](https://www.dndbeyond.com/monsters/ogre-lord-buhfal-ii). Buhfal seeks to resolve the plight of the missing warlock, [Bol’bara](https://www.dndbeyond.com/monsters/bolbara), which he worries will threaten the frail alliances among the village’s restless goblinoids. He and his advisors suspect the nearby imperial outpost at Fort Venture has something to do with Bol’bara’s fate. However, Buhfal knows that goblinoids advancing on Fort Venture will draw reprisals against Urzin, so he seeks an outside group who might more easily seek the warlock there and bring her back to help safeguard the settlement.
 
 At Buhfal’s behest, the characters must chart a course to the [[Brokenveil Bluffs]] with the help of a hobgoblin guide, locate Fort Venture, and extract Bol’bara. Unfortunately, the reckless aims of the imperial inquisitor Parson Pellinost and his lackeys work to undermine their efforts. Without a timely interruption, the torturous interrogation of Bol’bara will lead to her possession by Trush, her shadow demon patron—and to a series of calamitous arcane events. Trush’s demonic rampage will start at Fort Venture before wending its way back to [[Urzin]]—and it’s up to the adventurers to do something about it.
 
 ## Setup and Starting Points
 
-Before starting the adventure, work with your players as they talk about why their characters have come to [[Urzin]]. Details regarding this unique settlement and its politics can be found in [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-wastes-of-[[xhorhas]]#[[Urzin]] "chapter 3"). The [horizonback tortoises](https://www.dndbeyond.com/monsters/horizonback-tortoise) that give the village its mobility are detailed in [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#HorizonbackTortoise "chapter 7"). Goblinoid or orc characters might be residents of [[Urzin]], but characters of other races are probably visitors to this remote settlement—and are probably feeling very much out of their element.
+Before starting the adventure, work with your players as they talk about why their characters have come to [[Urzin]]. Details regarding this unique settlement and its politics can be found in [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-wastes-of-[[xhorhas]]#Urzin "chapter 3"). The [horizonback tortoises](https://www.dndbeyond.com/monsters/horizonback-tortoise) that give the village its mobility are detailed in [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#HorizonbackTortoise "chapter 7"). Goblinoid or orc characters might be residents of Urzin, but characters of other races are probably visitors to this remote settlement—and are probably feeling very much out of their element.
 
 This is also a good time to figure out if the characters already know each other or if this adventure is the first time they’ve met. If none of the characters are goblinoids, they most likely already make up an adventuring party and have traveled to [[Urzin]] together.
 
@@ -24,7 +24,7 @@ This is also a good time to figure out if the characters already know each other
 
 Whether the characters are local to the area or have traveled to [[Urzin]], the adventure starts with them being summoned to an audience with [Ogre Lord Buhfal II](https://www.dndbeyond.com/monsters/ogre-lord-buhfal-ii), leader of the village. The characters might have made it known that they are mercenary adventurers seeking work, or they might simply look the part. Alternatively, if they are all strangers to the village, Lord Buhfal might approach them simply because he wants there to be no connection between the characters and the village if their intended mission goes bad.
 
-The tone of the adventure and the read-aloud text assumes that the characters find [[Urzin]] a strange and exotic location. If the party consists of some or all goblinoids or other natives of [[Urzin]], adjust the flavor and the read-aloud text accordingly.
+The tone of the adventure and the read-aloud text assumes that the characters find [[Urzin]] a strange and exotic location. If the party consists of some or all goblinoids or other natives of Urzin, adjust the flavor and the read-aloud text accordingly.
 
 Once the players are ready to begin, read or paraphrase the following to set the scene:
 
@@ -32,7 +32,7 @@ If the characters enter the hall of Ogre Lord Buhfal II, add the following:
 
 [Ogre Lord Buhfal II](https://www.dndbeyond.com/monsters/ogre-lord-buhfal-ii)—a lawful evil, male [ogre](https://www.dndbeyond.com/monsters/ogre) with an Intelligence score of 10—explains the current situation to the characters:
 
--   Since his father was slain forty years earlier by the Kryn paragon [[Sunbreaker Olomon]], Buhfal II has seen a slow swell of discontent among [[Urzin]]’s goblinoid population, who labor tirelessly to execute the [[Kryn Dynasty]]’s clandestine agendas. An increasing number of [[Urzin]]’s residents look to Buhfal and his advisors for leadership, despite the dynasty’s overt hold on the area.
+-   Since his father was slain forty years earlier by the Kryn paragon [[Sunbreaker Olomon]], Buhfal II has seen a slow swell of discontent among [[Urzin]]’s goblinoid population, who labor tirelessly to execute the [[Kryn Dynasty]]’s clandestine agendas. An increasing number of Urzin’s residents look to Buhfal and his advisors for leadership, despite the dynasty’s overt hold on the area.
 -   Three nights ago, Buhfal’s most trusted counselor, the goblin witch [Bol’bara](https://www.dndbeyond.com/monsters/bolbara), journeyed to the foothills of the [[Brokenveil Bluffs]] to the west, where she regularly forages for ritual components. She never returned.
 -   Buhfal doesn’t know what happened to her, but he knows that [[Dwendalian Empire]] patrols had been spotted in the area in previous weeks. The patrols strike out from an outpost known as Fort Venture, which watches over the [[Brokenveil Bluffs]].
 -   An elder villager who remembers the reign of the first Buhfal, Bol’bara is [[Urzin]]’s chief loremaster and a pivotal ally in both the ongoing battle against the empire and the enduring struggle against the cruel environs of the Xhorhasian swamps. Little is known of Bol’bara’s otherworldly patron, but her warlock powers are respected by all.
@@ -80,7 +80,7 @@ Morgid (a neutral, male [hobgoblin](https://www.dndbeyond.com/monsters/hobgoblin
 
 ### Random Encounters
 
-In addition to the fixed locations the characters pass through, encounters can occur at any point as the characters venture through the unwelcoming environs of [[Brokenveil Marsh]]. While the characters are traveling or camping in the swampy wilderness, roll a d12 three times per day of game time, checking for encounters each morning, afternoon, and evening or night. An encounter occurs on a roll of 16 or higher. Roll a d20 and check the [[Brokenveil Marsh]] Encounters table to determine what the characters encounter, or choose an encounter you like.
+In addition to the fixed locations the characters pass through, encounters can occur at any point as the characters venture through the unwelcoming environs of [[Brokenveil Marsh]]. While the characters are traveling or camping in the swampy wilderness, roll a d12 three times per day of game time, checking for encounters each morning, afternoon, and evening or night. An encounter occurs on a roll of 16 or higher. Roll a d20 and check the Brokenveil Marsh Encounters table to determine what the characters encounter, or choose an encounter you like.
 
 d12
 
@@ -136,7 +136,7 @@ Any character with a passive Wisdom ([Perception](https://www.dndbeyond.com/comp
 
 ### B1. [[Urzin]]’s March
 
-As the characters push through the [[Brokenveil Marsh]] to reach the garrison at Fort Venture, the lethargic horizonback tortoises that hold the village of [[Urzin]] aloft move through the swamp at a rate of 1 mile per day. Roll a d6 to randomly determine which neighboring hex the village enters, and don’t divulge [[Urzin]]’s new location to the players.
+As the characters push through the [[Brokenveil Marsh]] to reach the garrison at Fort Venture, the lethargic horizonback tortoises that hold the village of [[Urzin]] aloft move through the swamp at a rate of 1 mile per day. Roll a d6 to randomly determine which neighboring hex the village enters, and don’t divulge Urzin’s new location to the players.
 
 Whenever the party is at two miles or more away from the village, [[Urzin]]’s exact location can no longer be determined. Characters within two miles of the village can zero in on signs of its movement with a successful DC 15 Wisdom ([Survival](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Survival)) check. The characters will be forced to account for the village’s movement when they make their way back after the encounter at Fort Venture, with or without a guide.
 
@@ -172,7 +172,7 @@ Skr’a S’orsk
 
 The lizardfolk have dutifully stacked the skulls and bones of their victims in a mound near the center of the sunken boneyard. Although most of the clothing and equipment of these victims has been cast aside or destroyed, any character who searches the bone mounds and succeeds on a DC 18 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check finds 2d4 gold teeth (worth 1 gp each) among a few errant skulls.
 
-The [[horizonback tortoise]] skulls used as dwellings by the lizardfolk are sparsely decorated with stone bedding and humanoid skull trophies. Any search of the central skull turns up the shaman’s trove of valuables: a [wand of magic detection](https://www.dndbeyond.com/magic-items/wand-of-magic-detection) and a small collection of holy symbols representing various gods. A tarnished silver amulet of Tharizdun (worth 25 gp) feels cold to the touch.
+The [[horizonback tortoise]] skulls used as dwellings by the lizardfolk are sparsely decorated with stone bedding and humanoid skull trophies. Any search of the central skull turns up the shaman’s trove of valuables: a [wand of magic detection](https://www.dndbeyond.com/magic-items/wand-of-magic-detection) and a small collection of holy symbols representing various gods. A tarnished silver amulet of [[Tharizdun]] (worth 25 gp) feels cold to the touch.
 
 ### B4. Crumbling Tower
 
@@ -386,7 +386,7 @@ If the guards in Fort Venture suffer massive casualties or become targets of a [
 
 ### V6. Chapel
 
-Since Parson Pellinost’s arrival, the chapel built for the use of Fort Venture’s soldiers has facilitated his fetish for torture and now houses a secret altar to the god of blood, death, and life: [[Vesh, the Bloody Siren]] (described in [chapter 1](https://www.dndbeyond.com/sources/egtw/story-of-[[wildemount]]#VeshtheBloodySiren "chapter 1")).
+Since Parson Pellinost’s arrival, the chapel built for the use of Fort Venture’s soldiers has facilitated his fetish for torture and now houses a secret altar to the god of blood, death, and life: [[Vesh]] (described in [chapter 1](https://www.dndbeyond.com/sources/egtw/story-of-[[wildemount]]#VeshtheBloodySiren "chapter 1")).
 
 When the characters can see into this area, read:
 
@@ -414,7 +414,7 @@ The door to the chapel is usually locked. Parson Pellinost and one of the guards
 
 If the characters reached Fort Venture within three days of setting out from [[Urzin]] (see “[Bol’bara’s Exorcism](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#BolbarasExorcism "Bol’bara’s Exorcism")” earlier in this chapter), they arrive here to find [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost) ready to deliver a death blow against [Bol’bara](https://www.dndbeyond.com/monsters/bolbara). If Bol’bara is slain and revived with the use of a [revivify](https://www.dndbeyond.com/spells/revivify) spell (the third time Pellinost has brought her back to life that way), her otherworldly patron manipulates the veil between the Shadowfell and the Border Ethereal to possess her. Alternatively, if 1 minute passes from the time the characters arrive and interrupt the torture session, the shadow demon Trush completes its own ritual from the Shadowfell and takes control of the warlock.
 
-In addition to his [prosthetic limb](https://www.dndbeyond.com/magic-items/prosthetic-limb) (right hand), Pellinost carries a solid ring of polished bloodstone on a tarnished silver chain (worth 50 gp)—a holy symbol of [[Vesh, the Bloody Siren]].
+In addition to his [prosthetic limb](https://www.dndbeyond.com/magic-items/prosthetic-limb) (right hand), Pellinost carries a solid ring of polished bloodstone on a tarnished silver chain (worth 50 gp)—a holy symbol of [[Vesh]].
 
 If [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) has already been possessed, Parson Pellinost and the guard here are dead. Any character who succeeds on a DC 18 Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) check can determine that the guard attacked Pellinost (under the influence of Bol’bara’s Zone of Calamity legendary action) alongside another creature using magic.
 
@@ -516,13 +516,13 @@ If [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) has already been pos
 
 If the characters don’t rescue [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) from captivity before [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost) completes his interrogation and triggers her full possession, the goblin warlock is taken over by her otherworldly patron. Her alignment becomes chaotic evil, and she gains the legendary actions noted in her stat block. After destroying Pellinost and the garrison of Fort Venture, Bol’bara heads into the [[Brokenveil Marsh]], slaying every creature she meets on her way back to destroy the village of [[Urzin]].
 
-To prevent the people of [[Urzin]] from suffering a terrible fate, the characters must track Bol’bara across the swamp and intercept her for a final confrontation. You can use a location the characters didn’t visit on their journey to the fort as the site of a climactic battle, or reuse an already-visited site as a location for a deadly ambush. Alternatively, you could have the characters catch the warlock as she reaches [[Urzin]], turning the unique village into the site of a deadly battle.
+To prevent the people of [[Urzin]] from suffering a terrible fate, the characters must track Bol’bara across the swamp and intercept her for a final confrontation. You can use a location the characters didn’t visit on their journey to the fort as the site of a climactic battle, or reuse an already-visited site as a location for a deadly ambush. Alternatively, you could have the characters catch the warlock as she reaches Urzin, turning the unique village into the site of a deadly battle.
 
 Ending Bol’bara’s possession while she is alive is beyond the characters’ abilities. However, if the warlock is reduced to 0 hit points during the party’s confrontation with her, she falls [unconscious](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Unconscious) rather than dying outright. If she is brought back to 1 hit point within 3 rounds, she is restored to her normal self. This reverts her alignment to chaotic good and causes her to lose her legendary actions. A character who succeeds on a DC 13 Intelligence ([Arcana](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Arcana) or [Religion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Religion)) check when the warlock falls can deduce this fact from observing how the unnatural magic infusing her dissipates, or the characters might receive this information as a prophetic insight from the [Mossback Steward](https://www.dndbeyond.com/monsters/mossback-steward) ([area B8](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#B8TheMossbackSteward "area B8")).
 
 ## Concluding the Adventure
 
-If the characters successfully rescue or defeat [Bol’bara](https://www.dndbeyond.com/monsters/bolbara), they have the gratitude of [Buhfal II](https://www.dndbeyond.com/monsters/ogre-lord-buhfal-ii) and the people of [[Urzin]]—and will no doubt attract the questionable attention of local [[Kryn Dynasty]] operatives. If the characters fail, Bol’bara attacks [[Urzin]] and becomes an ongoing threat in [[Brokenveil Marsh]]—a threat for which the characters are almost certain to be blamed, by any surviving goblinoids and the [[Dwendalian Empire]] alike.
+If the characters successfully rescue or defeat [Bol’bara](https://www.dndbeyond.com/monsters/bolbara), they have the gratitude of [Buhfal II](https://www.dndbeyond.com/monsters/ogre-lord-buhfal-ii) and the people of [[Urzin]]—and will no doubt attract the questionable attention of local [[Kryn Dynasty]] operatives. If the characters fail, Bol’bara attacks Urzin and becomes an ongoing threat in [[Brokenveil Marsh]]—a threat for which the characters are almost certain to be blamed, by any surviving goblinoids and the [[Dwendalian Empire]] alike.
 
 ### Character Advancement
 

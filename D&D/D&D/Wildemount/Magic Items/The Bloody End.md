@@ -3,7 +3,7 @@
 
 _Weapon (morningstar), artifact (requires attunement)_
 
-Carrying the power of Bane, this adamantine morningstar sports foot-long spikes and has a jagged blade on its pommel.
+Carrying the power of [[Bane]], this adamantine morningstar sports foot-long spikes and has a jagged blade on its pommel.
 
 [The Bloody End](https://www.dndbeyond.com/magic-items/the-bloody-end) is a sentient lawful evil weapon with an Intelligence of 22, a Wisdom of 18, and a Charisma of 24. It has hearing and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 120 feet.
 

@@ -3,7 +3,7 @@
 
 _Weapon (rapier), artifact (requires attunement)_
 
-The blade of this rapier is made of spider silk. Its onyx pommel is tipped with a ruby cut in the shape of a spider, and the blade carries the blessing of Lolth.
+The blade of this rapier is made of spider silk. Its onyx pommel is tipped with a ruby cut in the shape of a spider, and the blade carries the blessing of [[Lolth]].
 
 [Silken Spite](https://www.dndbeyond.com/magic-items/silken-spite) is a sentient chaotic evil weapon with an Intelligence of 13, a Wisdom of 15, and a Charisma of 15. It has hearing and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 120 feet.
 

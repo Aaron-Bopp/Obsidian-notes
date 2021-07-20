@@ -10,7 +10,7 @@ Torog remains banished within an unknown sliver of the Far Realm that now border
 
 Torog, the Crawling King
 
-**_Enemies._** Pelor and Raei defeated Torog during [[the Calamity]] by luring their nemesis above ground. Pelor pierced Torog’s tenebrous body with ten thousand lances of sunlight, and the Everlight imprisoned him beyond the boundaries of Exandria. The tears of pain and anger the Crawling King shed burned through Exandria, and his faithful fled into these tunnels to escape their enemies’ holy light.
+**_Enemies._** [[Pelor]] and [[Raei]] defeated Torog during [[the Calamity]] by luring their nemesis above ground. Pelor pierced Torog’s tenebrous body with ten thousand lances of sunlight, and the Everlight imprisoned him beyond the boundaries of Exandria. The tears of pain and anger the Crawling King shed burned through Exandria, and his faithful fled into these tunnels to escape their enemies’ holy light.
 
 #### Commandments of Torog
 

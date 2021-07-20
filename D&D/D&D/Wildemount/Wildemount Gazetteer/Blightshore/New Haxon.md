@@ -14,7 +14,7 @@ Whatever disaster befell Old Haxon is a tale lost to time and [[the Calamity]]. 
 
 The adult copper dragon Satyana Vorvexis commands New Haxon's threadbare legion of soldiers with a healthy measure of cunning and inventiveness. In addition to her military prowess, Satyana's draconic predilections and experience in the field have earned her a reputation as one of Wynandir's foremost curators and collectors of arcane relics. Some members of the assembly (and their imperial patrons) question the chaotic dragon's true intentions, but the people of New Haxon would be hard pressed to find a more competent leader to navigate the region's tumultuous history and enduring threats.
 
-Among its other mysteries, Old Haxon is rumored to be the site of one of the lost vaults of Vecna, where the lich hid countless [[magic items]] of awesome power and ill intent. Whether or not this arcane storehouse is merely the stuff of legend remains to be seen, but its presence would certainly explain the [[Cerberus Assembly]]'s keen interest in Haxon's wayward history.
+Among its other mysteries, Old Haxon is rumored to be the site of one of the lost vaults of [[Vecna]], where the lich hid countless [[magic items]] of awesome power and ill intent. Whether or not this arcane storehouse is merely the stuff of legend remains to be seen, but its presence would certainly explain the [[Cerberus Assembly]]'s keen interest in Haxon's wayward history.
 
 Characters who adventure in New Haxon are likely conscripts, volunteers, or opponents of the local stratocracy's oppressive military force.
 

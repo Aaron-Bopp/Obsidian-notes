@@ -1,6 +1,6 @@
 # Scars of Scale and Tooth
 
-For hundreds of years, the small, cloistered dragonborn nation of [[Draconia]] reigned over the [[Dreemoth Ravine]] to the south of [[Xhorhas]], removed from the troubles of the wastes. The erudite draconbloods of the ruling houses, marked by their intellect, jeweled tails, and ostentatious wealth, looked down from the floating chain of islands that formed their capitol while the droves of tailless slave dragonborn, known as ravenites, toiled away in the ravine below, gathering resources and serving their masters for generations. This structure collapsed around twenty years ago, when [[the Chroma Conclave]], a union of ancient dragons, destroyed [[Draconia]] and left the city ruined in the ravine below.
+For hundreds of years, the small, cloistered dragonborn nation of [[Draconia]] reigned over the [[Dreemoth Ravine]] to the south of [[Xhorhas]], removed from the troubles of the wastes. The erudite draconbloods of the ruling houses, marked by their intellect, jeweled tails, and ostentatious wealth, looked down from the floating chain of islands that formed their capitol while the droves of tailless slave dragonborn, known as ravenites, toiled away in the ravine below, gathering resources and serving their masters for generations. This structure collapsed around twenty years ago, when [[the Chroma Conclave]], a union of ancient dragons, destroyed Draconia and left the city ruined in the ravine below.
 
 When the Conclave was destroyed, the surviving dragonborn ravenites outnumbered their previous masters, who were bereft of their former privilege and power. In the uprising that followed, many draconbloods were executed for their crimes, and others fled to the empire for asylum. Thus freed from their shackles, the ravenites built a new society adjacent to the ruins of the old nation of [[Draconia]].
 
@@ -13,9 +13,9 @@ Scars of Scale and Tooth
 
 The conflicting goals of the Scars’ leaders have placed their nascent settlement in peril. Every would-be ruler wants something different for their people and has sufficient support within their faction to cause the streets of [[Xarzith Kitril]] to run red with ravenite blood, if they so desired.
 
-Some amid the Kitrilians are outraged over news that a massive number of ravenite and draconblood refugees have been relocated to a shantytown called [[Talonstadt]]. Not only is the treatment of their kin unfair and inhumane, but this makeshift settlement practically straddles the [[Dwendalian Empire]]’s eastern border, and they fear that [[Talonstadt]] will soon become the first casualty of a Kryn invasion.
+Some amid the Kitrilians are outraged over news that a massive number of ravenite and draconblood refugees have been relocated to a shantytown called [[Talonstadt]]. Not only is the treatment of their kin unfair and inhumane, but this makeshift settlement practically straddles the [[Dwendalian Empire]]’s eastern border, and they fear that Talonstadt will soon become the first casualty of a Kryn invasion.
 
-Meanwhile, the monstrosities of the Xhorhasian wastes can sense the power vacuum left in the wake of [[Draconia]]’s fall. [[Xarzith Kitril]] has no formal military, just a loose militia of hunters and trappers. This leaderless force is stretched to its limits, and more hunters are lost every day to opportunistic monsters. Outside aid is urgently required, but the squabbling councilors of [[Xarzith Kitril]] can’t agree on whose aid they should request.
+Meanwhile, the monstrosities of the Xhorhasian wastes can sense the power vacuum left in the wake of [[Draconia]]’s fall. [[Xarzith Kitril]] has no formal military, just a loose militia of hunters and trappers. This leaderless force is stretched to its limits, and more hunters are lost every day to opportunistic monsters. Outside aid is urgently required, but the squabbling councilors of Xarzith Kitril can’t agree on whose aid they should request.
 
 ## Relationships
 

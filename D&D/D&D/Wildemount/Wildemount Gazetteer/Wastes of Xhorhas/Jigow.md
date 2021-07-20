@@ -8,9 +8,9 @@
 
 **Commerce:** Most basic goods and services can be found here, though their quality reflects their rough and rural origins. Hostels and lodges offer rooms and provisions for travelers.
 
-**Organizations:** A central temple to the Luxon presides over a district called the Jumble (see "Geography" later in this section). Each clan maintains their own network of artisans and merchants.
+**Organizations:** A central temple to [[the Luxon]] presides over a district called the Jumble (see "Geography" later in this section). Each clan maintains their own network of artisans and merchants.
 
-A tenuous alliance of goblin clans and territorial orc clans once scavenged along the northern shores of [[Xhorhas]], warring and competing for survival. Over the past century, the [[Kryn Dynasty]] has worked to bring the two roving factions together. The negotiations were long and arduous, but the [[Kryn Dynasty]]'s introduction of the faith of the Luxon ultimately helped the clans to form a unified society.
+A tenuous alliance of goblin clans and territorial orc clans once scavenged along the northern shores of [[Xhorhas]], warring and competing for survival. Over the past century, the [[Kryn Dynasty]] has worked to bring the two roving factions together. The negotiations were long and arduous, but the Kryn Dynasty's introduction of the faith of [[the Luxon]] ultimately helped the clans to form a unified society.
 
 From these talks, the coastal city of Jigow rose to become an important source of seafood within the dynasty. A booming fishing society that spreads over both the banks of the Emerald Gulch Sea and the northern Ifolon River, this community of powerful hunters, cunning fishers, and tireless crafters has become a valuable symbol of the dynasty's growth and influence.
 

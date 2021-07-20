@@ -3,7 +3,7 @@
 
 _Wondrous item, legendary (requires attunement)_
 
-This loop of golden thorns is inset with dozens of gems representing the five colors of Tiamat.
+This loop of golden thorns is inset with dozens of gems representing the five colors of [[Tiamat]].
 
 While wearing the wreath in its dormant state, you have [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet. If you already have [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision), wearing the wreath increases the range of your [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) by 60 feet.
 

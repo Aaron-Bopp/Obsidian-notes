@@ -29,7 +29,7 @@ Map 3.3: Marrow Valley
 
 [[Felderwin Tillage]]
 
-[[D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Grimgolir]]
+D&D/[[Wildemount]]/[[Wildemount Gazetteer]]/Marrow Valley/[[Grimgolir]]
 
 [[Herethis Mines]]
 

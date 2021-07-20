@@ -20,4 +20,4 @@ Tieflings’ extravagant skin tones and striking horns are considered attractive
 
 ### Tieflings in [[Xhorhas]]
 
-Some legends talk of how the first tieflings were born in Ghor Dranas. Asmodeus, Lord of the Nine Hells, is said to have tempted a number of that city’s original inhabitants into tying their bloodlines to his own infernal power in exchange for magical knowledge. Though the truth of the tale is impossible to confirm, Rosohna maintains a significant tiefling population, and tieflings are a common sight in Kryn society.
+Some legends talk of how the first tieflings were born in Ghor Dranas. [[Asmodeus]], Lord of the Nine Hells, is said to have tempted a number of that city’s original inhabitants into tying their bloodlines to his own infernal power in exchange for magical knowledge. Though the truth of the tale is impossible to confirm, Rosohna maintains a significant tiefling population, and tieflings are a common sight in Kryn society.

@@ -10,7 +10,7 @@ Asmodeus lords over his fiendish hordes from within his fortress of Nalsheem, ne
 > 
 > Asmodeus, the Lord of the Nine Hells
 
-**_Enemies._** Asmodeus’s enemies are numerous, even among the Betrayer Gods, many of whom only follow the archdevil for fear of his immense power. His archnemesis is [[Avandra, the Change Bringer]], whose mischief and cunning has vexed him throughout the eons. It was she who defeated him in [[the Calamity]] by tricking his fiendish armies into attacking one another. The Devil Lord’s greatest triumph during [[the Calamity]] was fooling and betraying the Everlight and slaughtering all her followers in one fell stroke—an act that has united the followers of Raei and Avandra in a bond of unbreakable fellowship ever since.
+**_Enemies._** Asmodeus’s enemies are numerous, even among the Betrayer Gods, many of whom only follow the archdevil for fear of his immense power. His archnemesis is [[Avandra]], whose mischief and cunning has vexed him throughout the eons. It was she who defeated him in [[the Calamity]] by tricking his fiendish armies into attacking one another. The Devil Lord’s greatest triumph during the Calamity was fooling and betraying the Everlight and slaughtering all her followers in one fell stroke—an act that has united the followers of [[Raei]] and Avandra in a bond of unbreakable fellowship ever since.
 
 #### Commandments of Asmodeus
 

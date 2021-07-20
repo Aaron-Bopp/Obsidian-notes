@@ -3,13 +3,13 @@
 
 _Weapon (mace), artifact (requires attunement)_
 
-This mace has a haft of black iron and a ruby head with a fiendish countenance. Carrying the boon of Asmodeus, it is fit for the most powerful servants of the Nine Hells.
+This mace has a haft of black iron and a ruby head with a fiendish countenance. Carrying the boon of [[Asmodeus]], it is fit for the most powerful servants of the Nine Hells.
 
 The [Mace of the Black Crown](https://www.dndbeyond.com/magic-items/mace-of-the-black-crown) is a sentient lawful evil weapon with an Intelligence of 20, a Wisdom of 12, and a Charisma of 18. It has hearing and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 120 feet.
 
 The weapon communicates telepathically with its wielder and can speak, read, and understand Common and Infernal.
 
-A greedy [erinyes](https://www.dndbeyond.com/monsters/erinyes) named Xartaza lives within the [Mace of the Black Crown](https://www.dndbeyond.com/magic-items/mace-of-the-black-crown). Xartaza wants to recruit more souls for Asmodeus, so the weapon pushes its wielder toward lawful evil actions by manipulating the wielder’s dreams. A former Blood War general, Xartaza hates demons and relishes crafting sound battle plans in any conflict.
+A greedy [erinyes](https://www.dndbeyond.com/monsters/erinyes) named Xartaza lives within the [Mace of the Black Crown](https://www.dndbeyond.com/magic-items/mace-of-the-black-crown). Xartaza wants to recruit more souls for [[Asmodeus]], so the weapon pushes its wielder toward lawful evil actions by manipulating the wielder’s dreams. A former Blood War general, Xartaza hates demons and relishes crafting sound battle plans in any conflict.
 
 The mace grants the following benefits in its dormant state:
 

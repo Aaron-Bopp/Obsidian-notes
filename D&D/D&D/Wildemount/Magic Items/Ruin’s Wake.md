@@ -3,7 +3,7 @@
 
 _Weapon (spear), artifact (requires attunement)_
 
-This spear is made from the ivory bone of an ancient gold dragon and carved with an Orc hymn to Gruumsh.
+This spear is made from the ivory bone of an ancient gold dragon and carved with an Orc hymn to [[Gruumsh]].
 
 [Ruin’s Wake](https://www.dndbeyond.com/magic-items/ruins-wake) is a sentient chaotic evil weapon with an Intelligence of 20, a Wisdom of 16, and a Charisma of 22. It has hearing and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 120 feet.
 

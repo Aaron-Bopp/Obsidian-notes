@@ -18,7 +18,7 @@ Suggested Domains
 
 Common Symbol
 
-Avandra
+[[Avandra]]
 
 CG
 
@@ -28,7 +28,7 @@ Nature, Trickery
 
 Woman’s profile embossed on a gold coin or pendant
 
-Bahamut
+[[Bahamut]]
 
 LG
 
@@ -38,7 +38,7 @@ Life, Order,\* War
 
 Silver dragon’s head in profile
 
-Corellon
+[[Corellon]]
 
 CG
 
@@ -48,7 +48,7 @@ Arcana,\*\* Light
 
 Two crescent moons facing each other atop a four-pointed star
 
-Erathis
+[[Erathis]]
 
 LN
 
@@ -58,7 +58,7 @@ Knowledge, Order\*
 
 Double-headed axe inset with a pattern of scales
 
-Ioun
+[[Ioun]]
 
 N
 
@@ -68,7 +68,7 @@ Arcana,\*\* Knowledge
 
 Pair of open eyes crowned with a third open eye
 
-Kord
+[[Kord]]
 
 CN
 
@@ -78,7 +78,7 @@ Tempest, War
 
 Four bolts of lightning radiating from the center of a shield
 
-Melora
+[[Melora]]
 
 N
 
@@ -88,7 +88,7 @@ Life, Nature, Tempest
 
 Wreath of grass and grain affixed to a crook
 
-Moradin
+[[Moradin]]
 
 LG
 
@@ -98,7 +98,7 @@ Forge,\*\*\* Knowledge, War
 
 Hammer with ends carved in the likeness of dwarven heads
 
-Pelor
+[[Pelor]]
 
 NG
 
@@ -108,7 +108,7 @@ Life, Light, Nature
 
 Bright, eight-pointed star
 
-Raei
+[[Raei]]
 
 NG
 
@@ -118,7 +118,7 @@ Life, Light
 
 Humanoid, feminine phoenix
 
-The Raven Queen
+[[The Raven Queen]]
 
 LN
 
@@ -128,7 +128,7 @@ Death, Grave\*\*\*
 
 White, humanoid mask framed in black feathers
 
-Sehanine
+[[Sehanine]]
 
 CG
 
@@ -142,29 +142,29 @@ Crescent moon turned upward, strung like a bow
 \*\* The [Arcana domain](https://www.dndbeyond.com/classes/cleric#ArcanaDomain "Arcana domain") appears in [Sword Coast Adventurer’s Guide](https://www.dndbeyond.com/sources/scag "Sword Coast Adventurer’s Guide").  
 \*\*\* The [Forge](https://www.dndbeyond.com/classes/cleric#ForgeDomain "Forge domain") and [Grave](https://www.dndbeyond.com/classes/cleric#GraveDomain "Grave domain") domains appear in [Xanathar’s Guide to Everything](https://www.dndbeyond.com/sources/xgte "Xanathar’s Guide to Everything").
 
-### ![[Avandra, the Change Bringer]]
+### ![[Avandra]]
 
-### ![[Bahamut, the Platinum Dragon]]
+### ![[Bahamut]]
 
-### ![[Corellon, the Arch Heart]]
+### ![[Corellon]]
 
-### ![[Erathis, the Law Bearer]]
+### ![[Erathis]]
 
-### ![[Ioun, the Knowing Mentor]]
+### ![[Ioun]]
 
-### ![[Kord, the Storm Lord]]
+### ![[Kord]]
 
-### ![[Melora, the Wild Mother]]
+### ![[Melora]]
 
-### ![[Moradin, the All-Hammer]]
+### ![[Moradin]]
 
-### ![[Pelor, the Dawn Father]]
+### ![[Pelor]]
 
-### ![[Raei, the Everlight]]
+### ![[Raei]]
 
-### ![[The Raven Queen, Matron of Death]]
+### ![[The Raven Queen]]
 
-### ![[Sehanine, the Moon Weaver]]
+### ![[Sehanine]]
 
 ## Betrayer Gods
 
@@ -180,7 +180,7 @@ Suggested Domains
 
 Common Symbol
 
-Asmodeus
+[[Asmodeus]]
 
 LE
 
@@ -190,7 +190,7 @@ Trickery, War
 
 Crown of spiked onyx and curved horns
 
-Bane
+[[Bane]]
 
 LE
 
@@ -200,7 +200,7 @@ Forge,\* Order,\*\* War
 
 Flail of chains, each ending in shackles
 
-Gruumsh
+[[Gruumsh]]
 
 CE
 
@@ -210,7 +210,7 @@ Death, Tempest, War
 
 Single, unblinking eye that bleeds
 
-Lolth
+[[Lolth]]
 
 CE
 
@@ -220,7 +220,7 @@ Knowledge, Trickery
 
 Jeweled spider
 
-Tharizdun
+[[Tharizdun]]
 
 CE
 
@@ -230,7 +230,7 @@ Death, Grave,\* Trickery
 
 Crooked, seven-pointed star made of chains
 
-Tiamat
+[[Tiamat]]
 
 LE
 
@@ -240,7 +240,7 @@ Order,\*\* Trickery, War
 
 Taloned dragon claw
 
-Torog
+[[Torog]]
 
 NE
 
@@ -250,7 +250,7 @@ Death, Trickery
 
 Three pale arms clawing from a dark void
 
-Vecna
+[[Vecna]]
 
 NE
 
@@ -260,7 +260,7 @@ Arcana,\*\*\* Death, Grave,\* Knowledge
 
 Desiccated hand with an eye in the palm
 
-Zehir
+[[Zehir]]
 
 CE
 
@@ -274,23 +274,23 @@ Coiled serpent
 \*\* The [Order](https://www.dndbeyond.com/classes/cleric#OrderDomain "Order domain") domain appears in [Guildmaster’s Guide to Ravnica](https://www.dndbeyond.com/sources/ggtr "Guildmaster’s Guide to Ravnica").  
 \*\*\* The [Arcana domain](https://www.dndbeyond.com/classes/cleric#ArcanaDomain "Arcana domain") appears in [Sword Coast Adventurer’s Guide](https://www.dndbeyond.com/sources/scag "Sword Coast Adventurer’s Guide").
 
-### ![[Asmodeus, the Lord of the Nine Hells]]
+### ![[Asmodeus]]
 
-### ![[Bane, the Strife Emperor]]
+### ![[Bane]]
 
-### ![[Gruumsh, the Ruiner]]
+### ![[Gruumsh]]
 
-### ![[Lolth, the Spider Queen]]
+### ![[Lolth]]
 
-### ![[Tharizdun, the Chained Oblivion]]
+### ![[Tharizdun]]
 
-### ![[Tiamat, the Scaled Tyrant]]
+### ![[Tiamat]]
 
-### ![[Torog, the Crawling King]]
+### ![[Torog]]
 
-### ![[Vecna, the Whispered One]]
+### ![[Vecna]]
 
-### ![[Zehir, the Cloaked Serpent]]
+### ![[Zehir]]
 
 ## Lesser Idols
 
@@ -326,7 +326,7 @@ Knowledge, Tempest
 
 Three mismatched eyes surrounded by teeth
 
-Desirat
+[[Desirat]]
 
 LE
 
@@ -346,7 +346,7 @@ Life, Nature
 
 Wreath of flowers shaped into demon horns
 
-Quajath
+[[Quajath]]
 
 CN
 
@@ -366,7 +366,7 @@ Knowledge, Trickery
 
 Single red horn
 
-The Luxon
+[[The Luxon]]
 
 N
 
@@ -386,7 +386,7 @@ Nature, Trickery
 
 Arched doorway over a road that vanishes into the distance
 
-Uk’otoa
+[[Uk’otoa]]
 
 NE
 
@@ -396,7 +396,7 @@ Knowledge, Tempest
 
 Yellow, slitted eye
 
-Vesh
+[[Vesh]]
 
 NE
 
@@ -423,20 +423,20 @@ Single blackened wing
 
 ### ![[Ceratos]]
 
-### ![[Desirat, the Twilight Phoenix]]
+### ![[Desirat]]
 
 ### ![[Naviask]]
 
-### ![[Quajath, the Undermaw]]
+### ![[Quajath]]
 
 ### ![[The Hag Mother]]
 
-### ![[The Luxon, the First Radiance]]
+### ![[The Luxon]]
 
 ### ![[The Traveler]]
 
-### ![[Uk’otoa, the Leviathan Lord]]
+### ![[Uk’otoa]]
 
-### ![[Vesh, the Bloody Siren]]
+### ![[Vesh]]
 
 ### ![[Xalicas]]

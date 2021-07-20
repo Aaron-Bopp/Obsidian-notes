@@ -23,6 +23,6 @@ Adventure hooks labeled as "any level" can be presented at any point in your par
 - [[Zemni Fields]]
 - [[Greying Wildlands]]
 - [[Eiselcross]]
-- [[Wastes of Xhorhas]]
+- Wastes of [[Xhorhas]]
 - [[Blightshore]]
 - [[Distant Lands of Exandria]]

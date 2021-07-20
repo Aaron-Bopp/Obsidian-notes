@@ -1,5 +1,5 @@
 
-## [[Chronurgy]] Wizard
+## Chronurgy Wizard
 **Tag**:: #Subclass/Wizard 
 Features: `=this.feature`
 ### Chronurgy Magic

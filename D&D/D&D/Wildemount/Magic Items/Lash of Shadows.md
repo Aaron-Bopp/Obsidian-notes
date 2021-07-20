@@ -3,7 +3,7 @@
 
 _Weapon (whip), artifact (requires attunement)_
 
-This snakeskin whip is touched by the power of Zehir and ends in five animated serpent heads.
+This snakeskin whip is touched by the power of [[Zehir]] and ends in five animated serpent heads.
 
 The [Lash of Shadows](https://www.dndbeyond.com/magic-items/lash-of-shadows) is a sentient chaotic evil weapon with an Intelligence of 18, a Wisdom of 16, and a Charisma of 20. It has hearing and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 120 feet.
 

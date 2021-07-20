@@ -3,7 +3,7 @@
 
 _Weapon (dagger), artifact (requires attunement by a humanoid)_
 
-A weapon of Tharizdun, this dagger is a piece of jagged stone whose blade is scribed with a maze-like pattern with no beginning or end.
+A weapon of [[Tharizdun]], this dagger is a piece of jagged stone whose blade is scribed with a maze-like pattern with no beginning or end.
 
 The [Blade of Broken Mirrors](https://www.dndbeyond.com/magic-items/blade-of-broken-mirrors) is a sentient chaotic evil weapon with an Intelligence of 21, a Wisdom of 24, and a Charisma of 24. It has hearing and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 120 feet.
 

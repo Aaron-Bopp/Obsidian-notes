@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3edee1e891607cc5",
+        "id": "341fa845b8bca99f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/Wildemount/Factions and Societies/Diarchy of Uthodurn.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "319baa2ff4c34420",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/Wildemount/Pantheon of Exandria/Asmodeus, the Lord of the Nine Hells.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -65,7 +51,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/Pantheon of Exandria/Asmodeus, the Lord of the Nine Hells.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -77,7 +62,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/Pantheon of Exandria/Asmodeus, the Lord of the Nine Hells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +77,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D&D/Wildemount/Pantheon of Exandria/Asmodeus, the Lord of the Nine Hells.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/Pantheon of Exandria/Asmodeus, the Lord of the Nine Hells.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,17 +200,17 @@
     "width": 962,
     "collapsed": true
   },
-  "active": "319baa2ff4c34420",
+  "active": "341fa845b8bca99f",
   "lastOpenFiles": [
-    "D&D/Wildemount/Pantheon of Exandria/Asmodeus, the Lord of the Nine Hells.md",
-    "D&D/Wildemount/Pantheon of Exandria/Arms of the Betrayers.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/Molaesmyr.md",
-    "Veluthil Forest.md",
-    "D&D/Wildemount/Factions and Societies/Diarchy of Uthodurn.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Greying Wildlands/Uthodurn.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Wildemount.md",
-    "Wildemount.md",
-    "D&D/Wildemount/Magic Items.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Xhorhas.md"
+    "D&D/Wildemount/Pantheon of Exandria/Sehanine, the Moon Weaver.md",
+    "D&D/Wildemount/Pantheon of Exandria/Tharizdun, the Chained Oblivion.md",
+    "D&D/Wildemount/Pantheon of Exandria/The Hag Mother.md",
+    "D&D/Wildemount/Pantheon of Exandria/The Luxon, the First Radiance.md",
+    "D&D/Wildemount/Pantheon of Exandria/The Traveler.md",
+    "D&D/Wildemount/Pantheon of Exandria/The Raven Queen, Matron of Death.md",
+    "D&D/Wildemount/Pantheon of Exandria/Tiamat, the Scaled Tyrant.md",
+    "D&D/Wildemount/Pantheon of Exandria/Torog, the Crawling King.md",
+    "D&D/Wildemount/Pantheon of Exandria/Uk’otoa, the Leviathan Lord.md",
+    "D&D/Wildemount/Pantheon of Exandria/Vecna, the Whispered One.md"
   ]
 }

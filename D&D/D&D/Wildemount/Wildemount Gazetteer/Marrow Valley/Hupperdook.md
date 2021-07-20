@@ -8,7 +8,7 @@
 
 **Commerce:** A strong industry around metals, mining, tinkering, and entertainment makes most basic supplies and some rarer goods available. Upper Hupperdook has many taverns, inns, and places of revelry.
 
-**Organizations:** Industrial families are heavily invested in the city and its business. Temples to empire-approved gods, especially Moradin, are easy to find.
+**Organizations:** Industrial families are heavily invested in the city and its business. Temples to empire-approved gods, especially [[Moradin]], are easy to find.
 
 The gnomish community of Hupperdook is built along the eastern base of the [[Silberquel Ridge]], marked by the ever-rising columns of dark smoke and steam. Predating the empire, Hupperdook remained autonomous until the Crown absorbed the community through diplomatic agreements over two centuries ago. This smoke-stacked city is now the heart of industry in the empire, manufacturing technological marvels and large-scale weapons of war for the [[Dwendalian Empire]].
 

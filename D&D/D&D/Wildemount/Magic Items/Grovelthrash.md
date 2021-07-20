@@ -3,7 +3,7 @@
 
 _Weapon (warhammer), artifact (requires attunement)_
 
-Crafted from a single piece of obsidian, this warhammer of Torog hums with magical energy and is carved with the images of faces screaming in pain.
+Crafted from a single piece of obsidian, this warhammer of [[Torog]] hums with magical energy and is carved with the images of faces screaming in pain.
 
 [Grovelthrash](https://www.dndbeyond.com/magic-items/grovelthrash) is a sentient neutral evil weapon with an Intelligence of 18, a Wisdom of 15, and a Charisma of 19. It has hearing and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 120 feet.
 

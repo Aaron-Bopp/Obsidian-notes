@@ -1,4 +1,4 @@
-### Tooth of Zehir
+### Tooth of [[Zehir]]
 
 This eastern arm of [[Blightshore]] is a mist-shrouded peninsula, the northernmost swath of which is covered by the stone forest of Strathfell (described below).
 

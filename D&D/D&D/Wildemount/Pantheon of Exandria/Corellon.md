@@ -16,4 +16,4 @@ Corellon, the Arch Heart
 
 -   Create, inspire, and find beauty in all that you do.
 -   Follow the echoes of lost magics, forgotten sites, and ancient art, for within these lie the Arch Heart’s first works.
--   Combat the followers of Lolth wherever they might be.
+-   Combat the followers of [[Lolth]] wherever they might be.

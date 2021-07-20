@@ -8,7 +8,7 @@
 
 **Commerce:** Nearly any equipment, goods, or services are available, though rarer supplies are generally kept from non-elven travelers.
 
-**Organizations:** While smaller temples dedicated to the empire-approved gods are present, shrines to Corellon, Melora, and Sehanine hide in plain sight. The beginnings of Myriad influence are taking hold.
+**Organizations:** While smaller temples dedicated to the empire-approved gods are present, shrines to [[Corellon]], [[Melora]], and [[Sehanine]] hide in plain sight. The beginnings of Myriad influence are taking hold.
 
 The rustic elven city of Bysaes Tyl is tucked away in the northern region of the Pearlbow Wilderness. Built synergistically within the tangled boreal forests, this hidden settlement of tall wooden arches and warm hearths sits below a massive network of treehouses and bridges that form the canopy and upper levels of the city. The streets are made of smooth stones set in packed earth, gently enchanted to warm the pathways and melt the frequent snow. Large, bowed tutoring halls hold lectures for the masses, while cleared patches of forest facilitate the training of warriors in the defense of both the city and the empire.
 

@@ -1,22 +1,22 @@
 Trouble darkens the shores of the Vezdali Peninsula when an earthquake hits, sending part of the village of [[Palma Flora]] down into the sea. “Tide of Retribution” is an adventure that takes characters from 1st to 3rd level. It introduces them to the [[Menagerie Coast]]—a tropical region filled with monstrous abominations, mysterious curses, and ancient temples. This setting is ideal for nautical and jungle-exploring adventures.
 
-If your players use the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), talk to them about creating characters who grew up on the [[Menagerie Coast]] to give them a closer connection to this region. For characters not from the [[Menagerie Coast]], the players should think about why those characters were drawn from across the continent to an idyllic village by the sea.
+If your players use the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), talk to them about creating characters who grew up on the [[Menagerie Coast]] to give them a closer connection to this region. For characters not from the Menagerie Coast, the players should think about why those characters were drawn from across the continent to an idyllic village by the sea.
 
 ## Story Overview
 
-The village of [[Palma Flora]] is known for its vibrant green foliage, its competitive shark-hunting tournaments, and a sweet cocktail that shares the village’s name. Lurking in the Sharkfeather Abyss, an ocean trench just west of the village, is a small clan of some dozen sahuagin that has grown weary of the shark hunters of [[Palma Flora]]. Year after year, the sea devils have attacked the shark hunters in an effort to spoil the tournaments, but their small numbers have seen them consistently defeated by the hunters and the village’s hired mercenaries. However, things have recently changed.
+The village of [[Palma Flora]] is known for its vibrant green foliage, its competitive shark-hunting tournaments, and a sweet cocktail that shares the village’s name. Lurking in the Sharkfeather Abyss, an ocean trench just west of the village, is a small clan of some dozen sahuagin that has grown weary of the shark hunters of Palma Flora. Year after year, the sea devils have attacked the shark hunters in an effort to spoil the tournaments, but their small numbers have seen them consistently defeated by the hunters and the village’s hired mercenaries. However, things have recently changed.
 
-When a young sahuagin named Selachai lost her parents in a raid against the shark hunters during last year’s tournament, her distraught prayers for vengeance touched the fathomless consciousness of Uk’otoa, an ancient leviathan trapped beneath the ocean. Selachai beseeched her new patron for the power to destroy the shark hunters and all who exploit the sea. She received that power in the form of a magic scepter tipped with a crystalline amber eye. Transformed by the scepter into a conduit for Uk’otoa’s might, Selachai now leads the Sharkfeather clan on a path of dark retribution, and it’s up to the adventurers to stop it.
+When a young sahuagin named Selachai lost her parents in a raid against the shark hunters during last year’s tournament, her distraught prayers for vengeance touched the fathomless consciousness of [[Uk’otoa]], an ancient leviathan trapped beneath the ocean. Selachai beseeched her new patron for the power to destroy the shark hunters and all who exploit the sea. She received that power in the form of a magic scepter tipped with a crystalline amber eye. Transformed by the scepter into a conduit for Uk’otoa’s might, Selachai now leads the Sharkfeather clan on a path of dark retribution, and it’s up to the adventurers to stop it.
 
 ## Adventure Summary
 
-In the first part of the adventure, the characters are enjoying a day of relaxation or invigorating shark hunting on the sunny shores of [[Palma Flora]] when a ground-quaking tremor rocks the coast. Before their eyes, the island-based portion of the village begins to sink into the depths. Sahuagin prowl the waters, eviscerating those who try to swim to safety. The characters must fight to survive and have a chance to save as many villagers as they can before [[Palma Flora]] is overrun.
+In the first part of the adventure, the characters are enjoying a day of relaxation or invigorating shark hunting on the sunny shores of [[Palma Flora]] when a ground-quaking tremor rocks the coast. Before their eyes, the island-based portion of the village begins to sink into the depths. Sahuagin prowl the waters, eviscerating those who try to swim to safety. The characters must fight to survive and have a chance to save as many villagers as they can before Palma Flora is overrun.
 
 In the end, the characters must leap aboard a ship fleeing the sinking village before they are overwhelmed. If they survive this attack and make it to the open water, they reach 2nd level. While aboard the ship, the characters interact with the crew and their mysterious tabaxi captain as they plan their next moves.
 
 In the last part of the adventure, characters who want to save [[Palma Flora]] and unravel the mystery of the sinking village are faced with several options. Captain [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is keen for them to undertake the quest, and many of the nearby islands offer resources for underwater adventuring that might help them.
 
-Returning to the watery ruins of [[Palma Flora]], the characters face off against their sahuagin foes. The battle is vicious, as many of [[Palma Flora]]’s shark hunters have been twisted by eldritch power into half-humanoid, half-shark abominations. No matter the outcome of the final battle, the adventurers are set up to continue their nautical adventures along the [[Menagerie Coast]].
+Returning to the watery ruins of [[Palma Flora]], the characters face off against their sahuagin foes. The battle is vicious, as many of Palma Flora’s shark hunters have been twisted by eldritch power into half-humanoid, half-shark abominations. No matter the outcome of the final battle, the adventurers are set up to continue their nautical adventures along the [[Menagerie Coast]].
 
 ## Setup and Starting Points
 
@@ -114,7 +114,7 @@ Three ships are docked on the east side of the island. One is a caravel named _W
 
 The three-story Riptide Inn and Tavern is the tallest building on Flora Isle. Most visitors to the island stay here. The tavern’s ground floor is open to the air and looks out at the waves.
 
-In the center of Flora Isle stands a wishing pool looked over by a statue of Kord the Storm Lord, patron deity of [[Palma Flora]]’s shark hunters. Most travelers throw a silver piece in for good luck. The pool presently contains 36 sp, but stealing these offerings is frowned on by the villagers. Several market stalls selling fresh fruit stand just north of the square.
+In the center of Flora Isle stands a wishing pool looked over by a statue of [[Kord]] the Storm Lord, patron deity of [[Palma Flora]]’s shark hunters. Most travelers throw a silver piece in for good luck. The pool presently contains 36 sp, but stealing these offerings is frowned on by the villagers. Several market stalls selling fresh fruit stand just north of the square.
 
 ## Seafarers
 
@@ -172,7 +172,7 @@ If a character wears or displays the shark tooth necklace taken from the sahuagi
 
 When the characters meet with Captain Three Earrings in her quarters, read:
 
-[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a pirate. More accurately, she is a member of [[the Revelry]], a highly organized coalition of buccaneers headquartered on the dread isle of [[Darktow]], many leagues west (see [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-menagerie-coast#[[Darktow]] "chapter 3")). The tabaxi is interested in the adventurers she has brought on board, wanting to appraise their skill and enrich herself in the process. Ultimately, she intends to use them as tools in her hunt for sahuagin treasure and invites them to join her crew. First, however, she needs a plan.
+[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a pirate. More accurately, she is a member of [[the Revelry]], a highly organized coalition of buccaneers headquartered on the dread isle of [[Darktow]], many leagues west (see [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-menagerie-coast#Darktow "chapter 3")). The tabaxi is interested in the adventurers she has brought on board, wanting to appraise their skill and enrich herself in the process. Ultimately, she intends to use them as tools in her hunt for sahuagin treasure and invites them to join her crew. First, however, she needs a plan.
 
 The captain of _Wavechaser_ is a cunning tabaxi [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain) with a climbing speed of 20 feet, the Feline Agility trait (see below), and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet. She can read, write, and speak Common and Sahuagin. As an action, she can make a melee weapon attack with her claws (+4 to hit), dealing 1d4 slashing damage on a hit.
 
@@ -185,7 +185,7 @@ A character who succeeds on a DC 16 Wisdom ([Insight](https://www.dndbeyond.com/
 The tabaxi captain knows exactly what happened in [[Palma Flora]], thanks to [[the Revelry]] spies that have been observing the village and the Sharkfeather Abyss for the past few months. She reveals any of the following information:
 
 -   The earthquake dragged Flora Isle into the Sharkfeather Abyss, a nearby trench that is home to a clan of shark-herding humanoids known as sahuagin.
--   The Sharkfeather sahuagin and the people of [[Palma Flora]] have been at odds for generations, since [[Palma Flora]] hosts an annual shark-hunting festival.
+-   The Sharkfeather sahuagin and the people of [[Palma Flora]] have been at odds for generations, since Palma Flora hosts an annual shark-hunting festival.
 -   A young female sahuagin named Selachai recently took charge of the Sharkfeather clan and wields unusual powers. She carries a magic scepter that has been recognized as a _[rod of retribution](https://www.dndbeyond.com/magic-items/rod-of-retribution)_, which has become a conduit for unearthly levels of magical power. (The rod is a new magic item detailed in [chapter 6](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-treasures#RodofRetribution "chapter 6").)
 -   No one knows exactly how this young sahuagin managed to cause an earthquake powerful enough to drag Flora Isle under the waves, but that isn’t important. What is important is finding a way to delve beneath those waves and take the scepter from Selachai. Doing so would stop her from causing any more chaos, and the relic would doubtlessly sell for a pretty penny on the black market.
 -   [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) wants to sell the treasure and split it three ways—a third to her and the ship’s upkeep, a third to the crew, and a third to the adventurers. She offers them a total of 500 gp as their one-third share if they help her retrieve the rod.
@@ -316,7 +316,7 @@ If the characters ignore the order, or if they kill all the sahuagin before kill
 
 ### Descent into Sharkfeather Abyss
 
-An earthquake caused by the writhing of Uk’otoa deep beneath the sea has drawn Flora Isle into the trench the sahuagin call home. The now-ruined island is lodged within a tight corner of the trench one hundred feet below the surface of the sea. The locations in this section are keyed to map 5.3.
+An earthquake caused by the writhing of [[Uk’otoa]] deep beneath the sea has drawn Flora Isle into the trench the sahuagin call home. The now-ruined island is lodged within a tight corner of the trench one hundred feet below the surface of the sea. The locations in this section are keyed to map 5.3.
 
 Diving into the depths of the trench is difficult but not impossible for heroic adventurers. Ask each character to make a DC 13 Strength ([Athletics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Athletics)) check. On a success, the character dives down to the ruins without strain. On a failure, the character makes the dive but gains one level of [exhaustion](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Exhaustion) (see appendix A, “[Conditions](https://www.dndbeyond.com/sources/phb/appendix-a-conditions#AppendixAConditions "Conditions"),” in the __[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")__).
 
@@ -332,7 +332,7 @@ The deep, turbulent water of the trench makes movement difficult for creatures n
 
 Once the characters arrive at the ruins, read:
 
-Two [sharkbody abominations](https://www.dndbeyond.com/monsters/sharkbody-abomination) (see the “[Sharkbody Abominations](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-tide-of-retribution#SharkbodyAbominations "Sharkbody Abominations")” sidebar earlier in this chapter) and five [sahuagin](https://www.dndbeyond.com/monsters/sahuagin) are gathered around Selachai, the [sahuagin warlock of Uk’otoa](https://www.dndbeyond.com/monsters/sahuagin-warlock-of-ukotoa) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#SahuaginWarlockofUkotoa "chapter 7")) who has channeled the power to destroy the hated surface dwellers. These creatures are all lending Selachai their prayers as she invokes Uk’otoa’s power, turning another drowned villager into a sharkbody abomination.
+Two [sharkbody abominations](https://www.dndbeyond.com/monsters/sharkbody-abomination) (see the “[Sharkbody Abominations](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-tide-of-retribution#SharkbodyAbominations "Sharkbody Abominations")” sidebar earlier in this chapter) and five [sahuagin](https://www.dndbeyond.com/monsters/sahuagin) are gathered around Selachai, the [sahuagin warlock of Uk’otoa](https://www.dndbeyond.com/monsters/sahuagin-warlock-of-ukotoa) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#SahuaginWarlockofUkotoa "chapter 7")) who has channeled the power to destroy the hated surface dwellers. These creatures are all lending Selachai their prayers as she invokes [[Uk’otoa]]’s power, turning another drowned villager into a sharkbody abomination.
 
 As soon as combat begins, Selachai orders her sahuagin supplicants to protect her. However, none of them move to attack. Instead, they stand 20 feet back from her, still kneeling, intent on giving up their lives to protect her. Selachai orders the sharkbody abominations to put the characters out of commission.
 
@@ -356,7 +356,7 @@ This ending sets up future adventures along the [[Menagerie Coast]]. As a DM, yo
 
 If the characters prevailed in the battle against Selachai, the _[rod of retribution](https://www.dndbeyond.com/magic-items/rod-of-retribution)_ falls from her lifeless hand and settles in the sand as any remaining foes flee into the murky depths. When the characters return to the surface with the rod, Three Earrings and her crew throw down rope ladders and bring them aboard. The captain of _Wavechaser_ is conflicted. She asks for the _[rod of retribution](https://www.dndbeyond.com/magic-items/rod-of-retribution)_ straight away no matter what. However, depending on the characters’ actions, she might have formed a bond with them over their brief time together.
 
-If any of the characters convinced [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) not to think of them as pawns earlier in the adventure, she resolves to treat all the characters as friends now. She welcomes them back onto _Wavechaser_ with a huge smile, then asks the adventurers to come with her to the pirate haven of [[Darktow]]. “There’s no use in being subtle about it,” she says with a shrug. “I need to fence this thing in order to get you your gold. No place to do that but in [[Darktow]].”
+If any of the characters convinced [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) not to think of them as pawns earlier in the adventure, she resolves to treat all the characters as friends now. She welcomes them back onto _Wavechaser_ with a huge smile, then asks the adventurers to come with her to the pirate haven of [[Darktow]]. “There’s no use in being subtle about it,” she says with a shrug. “I need to fence this thing in order to get you your gold. No place to do that but in Darktow.”
 
 If the characters refuse the offer, the tabaxi sadly accepts their decision—but she draws her cutlass and half-jokingly threatens to gut them if they ever betray her in future.
 
@@ -366,7 +366,7 @@ If [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) wasn’t 
 
 “They know too much now,” she growls bitterly. “The Plank King will know what to do with them.”
 
-If the adventure ends this way, the characters are in a rough spot. Their next destination is a prison—and possibly an execution—in [[Darktow]]. They might have to join [[the Revelry]], or try to escape their prison and stow away on a pirate ship. Or perhaps _Moonbeam_ will return and intercept _Wavechaser_ as it returns to [[Darktow]]. The choice is yours!
+If the adventure ends this way, the characters are in a rough spot. Their next destination is a prison—and possibly an execution—in [[Darktow]]. They might have to join [[the Revelry]], or try to escape their prison and stow away on a pirate ship. Or perhaps _Moonbeam_ will return and intercept _Wavechaser_ as it returns to Darktow. The choice is yours!
 
 ## Character Advancement
 

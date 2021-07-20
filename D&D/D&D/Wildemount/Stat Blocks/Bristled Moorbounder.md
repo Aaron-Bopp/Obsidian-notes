@@ -1,6 +1,6 @@
 ### Bristled [[Moorbounder]]
 
-_**Bristled [[Moorbounders]].**_ A weird and deadly offshoot of the [[moorbounder]] has rows of long, bladelike bristles covering its sleek body. The creature weaponizes these blades, using them to slash nearby creatures to ribbons. However, these blades make the bristled [[moorbounder]] less suitable as a mount.
+_**Bristled [[Moorbounders]].**_ A weird and deadly offshoot of the [[moorbounder]] has rows of long, bladelike bristles covering its sleek body. The creature weaponizes these blades, using them to slash nearby creatures to ribbons. However, these blades make the bristled moorbounder less suitable as a mount.
 
 [Bristled Moorbounder](https://www.dndbeyond.com/monsters/bristled-[[moorbounder]])
 

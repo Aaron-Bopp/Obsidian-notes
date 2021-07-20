@@ -8,7 +8,7 @@
 
 **Commerce:** Basic goods and services can be found alongside comfortable lodging. Some imported, rare goods can be sought by those with black market connections.
 
-**Organizations:** A single temple to Bahamut is the only official religious locale. The Truscan family and their allies hold tight to their power, while Myriad influence grows in secret.
+**Organizations:** A single temple to [[Bahamut]] is the only official religious locale. The Truscan family and their allies hold tight to their power, while Myriad influence grows in secret.
 
 Travelers in the Truscan Vale find the city of Deastok at the southwestern edge of the [[Dwendalian Empire]]. The sister city of [[Kamordah]] to the north, Deastok is a borough that appears unusually affluent for its size, largely because the Truscan family has called the city home for many generations. Fine cobblestone streets connect numerous modern buildings and charming country shops, while elegant entertainment venues and picturesque views make the city a quaint holiday location for many wealthy travelers.
 
@@ -26,4 +26,4 @@ Elements of intrigue, noble finery, and [[the Myriad]] define adventures in Deas
 
 _**Merry Spouses of Deastok (Mid Level).**_ A member of the nobility in Deastok is murdered, and the characters are hired to find the killer. During the investigation, more nobles and prominent members of society are slain. It seems the victims cannot be connected, and each murder employs a different grisly method. The truth is that a group of [incubi](https://www.dndbeyond.com/monsters/incubus) and [succubi](https://www.dndbeyond.com/monsters/succubus) married into the Truscan family over the past decade. These fiends are committing murders for the thrill of it.
 
-_**Kryn-filtration (Any Level).**_ The [[Kryn Dynasty]] wants to infiltrate the nobility of Deastok to manipulate and steal information from wealthy Dwendalian citizens. The Kryn could hire the characters to accomplish this, or the characters could uncover the Kryn plot and try to find the [spies](https://www.dndbeyond.com/monsters/spy). In either case, [[the Myriad]]'s involvement in the city adds another dimension to the conflict between the [[Dwendalian Empire]] and [[Kryn Dynasty]], making the characters wondering who — if anyone — they can trust.
+_**Kryn-filtration (Any Level).**_ The [[Kryn Dynasty]] wants to infiltrate the nobility of Deastok to manipulate and steal information from wealthy Dwendalian citizens. The Kryn could hire the characters to accomplish this, or the characters could uncover the Kryn plot and try to find the [spies](https://www.dndbeyond.com/monsters/spy). In either case, [[the Myriad]]'s involvement in the city adds another dimension to the conflict between the [[Dwendalian Empire]] and Kryn Dynasty, making the characters wondering who — if anyone — they can trust.

@@ -14,7 +14,7 @@ The Jagentoth family has earned a reputation for being especially brutal and unf
 
 Conflict between the families is a constant in [[Shadycreek Run]], but the apparent absence of Myriad activity has given the Tribes a unique opportunity to expand their horizons — and their influence. Lately, the Tribes have occasionally endured each other long enough to embark on joint ventures into the empire to rekindle old alliances with [[the Myriad]].
 
-Some see this age of tenuous cooperation as a chance to escape from the long shadow of [[the Myriad]] and stand alongside them as equals, but others fear that forging new bonds with [[the Myriad]] will just give it the freedom to destroy the Tribes from within.
+Some see this age of tenuous cooperation as a chance to escape from the long shadow of [[the Myriad]] and stand alongside them as equals, but others fear that forging new bonds with the Myriad will just give it the freedom to destroy the Tribes from within.
 
 ## Relationships
 
@@ -22,7 +22,7 @@ The Tribes endure each other in order to maintain a level of civility within the
 
 All members of the Tribes are documented criminals within the empire, with bounties to match. Travel within the borders of Western Wynandir is dangerous for these criminal overlords, but each family has their own connections within the major cities of the empire that enable business.
 
-In the past, [[the Myriad]] has oft attempted to subjugate the Tribes, but it has been rebuked time after time. The Tribes are too proud of their well-oiled engine of vice to permit [[the Myriad]] to take over. Even though the Tribes are pursuing new alliances with [[the Myriad]], the people of [[Shadycreek Run]] fear that conflict between these shady powers is inevitable.
+In the past, [[the Myriad]] has oft attempted to subjugate the Tribes, but it has been rebuked time after time. The Tribes are too proud of their well-oiled engine of vice to permit the Myriad to take over. Even though the Tribes are pursuing new alliances with the Myriad, the people of [[Shadycreek Run]] fear that conflict between these shady powers is inevitable.
 
 ## Figures of Interest
 

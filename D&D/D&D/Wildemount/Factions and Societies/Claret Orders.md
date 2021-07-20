@@ -1,6 +1,6 @@
 # Claret Orders
 
-Centuries ago, the high cleric of the Julous Dominion made secret pacts with a devil of the Nine Hells, hoping to gain enough power to repel the aggressive [[Dwendalian Empire]]. However, he failed to read the fine print of the devilish contract — he succeeded in his mission, but his people paid a terrible cost. The empire was indeed repelled, but it was because the lands of the [[Marrow Valley]] were brimming with devils and undead. The common folks hid in their homes, and the valley grew unhallowed and gray. In this brief era of terror, a humble priest of the Raven Queen named Trence Orman prayed for a way to protect his flock, his people, and the lands they called home. The Matron of Death blessed him with the ancient secrets of blood magic. Trence trained his most trusted friends in the techniques of hemocraft, and they sacrificed a portion of their humanity in exchange for the power to defend the dominion. This marked the origin of the Claret Orders.
+Centuries ago, the high cleric of the Julous Dominion made secret pacts with a devil of the Nine Hells, hoping to gain enough power to repel the aggressive [[Dwendalian Empire]]. However, he failed to read the fine print of the devilish contract — he succeeded in his mission, but his people paid a terrible cost. The empire was indeed repelled, but it was because the lands of the [[Marrow Valley]] were brimming with devils and undead. The common folks hid in their homes, and the valley grew unhallowed and gray. In this brief era of terror, a humble priest of [[the Raven Queen]] named Trence Orman prayed for a way to protect his flock, his people, and the lands they called home. The Matron of Death blessed him with the ancient secrets of blood magic. Trence trained his most trusted friends in the techniques of hemocraft, and they sacrificed a portion of their humanity in exchange for the power to defend the dominion. This marked the origin of the Claret Orders.
 
 Using their forbidden skills, the Claret Orders managed to seal away the source of this dark deal, free the high cleric from his torturous form, and clear the countryside of the evil that pervaded it. Unfortunately, before the Claret Orders could be celebrated as saviors, the armies of the empire swept into the freshly purged [[Marrow Valley]] and crushed the Julous Dominion.
 
@@ -10,7 +10,7 @@ The newly installed Dwendalian lords blamed the Claret Orders for inviting fiend
 
 The Claret Orders
 
-The orders have spread to the outskirts of Western Wynandir and beyond. They maintain small keeps to train new generations of protectors who are willing to take the Hunter’s Bane and embrace their inner darkness to combat the outer darkness in the world.
+The orders have spread to the outskirts of Western Wynandir and beyond. They maintain small keeps to train new generations of protectors who are willing to take the Hunter’s [[Bane]] and embrace their inner darkness to combat the outer darkness in the world.
 
 ## Goals
 

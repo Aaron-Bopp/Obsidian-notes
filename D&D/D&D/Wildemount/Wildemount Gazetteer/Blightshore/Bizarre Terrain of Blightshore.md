@@ -2,7 +2,7 @@
 
 The strange landscape of the Miskath Strand has been savagely reshaped by [[the Calamity]], infusing the earth with chaotic new elements and especially inhospitable terrain. As a result, much of this region of Eastern Wynandir remains relatively unmapped by modern scholars.
 
-The terrain and weather features described in the sections that follow can be encountered anywhere within [[Blightshore]]'s defiled expanse. Many of these areas present hazardous (and potentially fatal) conditions for travelers and explorers. As your players traverse the desolate badlands of the Miskath Strand, you can present [[Blightshore]]'s weird and wondrous terrain as a character in its own right. And perhaps there are even stranger features of this accursed frontier that wait to be discovered, tamed, or avoided at all costs.
+The terrain and weather features described in the sections that follow can be encountered anywhere within [[Blightshore]]'s defiled expanse. Many of these areas present hazardous (and potentially fatal) conditions for travelers and explorers. As your players traverse the desolate badlands of the Miskath Strand, you can present Blightshore's weird and wondrous terrain as a character in its own right. And perhaps there are even stranger features of this accursed frontier that wait to be discovered, tamed, or avoided at all costs.
 
 These chunks of broken land hover and swirl in the air, held aloft by unknown arcane forces. A typical earth mote is 1d6 × 10 feet in diameter and hovers 2d10 × 10 feet above the ground. Earth motes are capable of supporting the weight of modest structures as well as creatures.
 

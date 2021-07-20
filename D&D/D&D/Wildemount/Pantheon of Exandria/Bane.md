@@ -6,7 +6,7 @@ Bane plots his conquest of the planes from within the bastion of Banehold, tower
 
 **_Depiction._** Bane is often depicted as a brutish, ogre-like man clad from head to toe in jagged black armor. Heads dangle from his belt, and the shadows that obscure his helmeted face do not hide his yellow eyes.
 
-**_Enemies._** The Strife Emperor’s greatest enemy is Melora, who defeated him at Rifenmist during [[the Calamity]]. The Strife Emperor grew his armies by corrupting noble creatures into monsters and destroying the wilds to fuel his terrible engines of conflict, and the two deities clashed many times during the war before his defeat at Beynsfal Plateau.
+**_Enemies._** The Strife Emperor’s greatest enemy is [[Melora]], who defeated him at Rifenmist during [[the Calamity]]. The Strife Emperor grew his armies by corrupting noble creatures into monsters and destroying the wilds to fuel his terrible engines of conflict, and the two deities clashed many times during the war before his defeat at Beynsfal Plateau.
 
 #### Commandments of Bane
 

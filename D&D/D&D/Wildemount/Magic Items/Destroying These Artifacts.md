@@ -1,6 +1,6 @@
 ### Destroying These Artifacts
 
-Destroying any of the [[Arms of the Betrayers]] is no easy task. Most conventional means of destruction fail to even scratch one of these ancient artifacts. Each weapon’s method of destruction is determined by the DM and should be unique and require at least one adventure to accomplish. The DM can choose or roll for a weapon’s method of destruction on the [[Arms of the Betrayers]] Destruction table, or use the table as inspiration.
+Destroying any of the [[Arms of the Betrayers]] is no easy task. Most conventional means of destruction fail to even scratch one of these ancient artifacts. Each weapon’s method of destruction is determined by the DM and should be unique and require at least one adventure to accomplish. The DM can choose or roll for a weapon’s method of destruction on the Arms of the Betrayers Destruction table, or use the table as inspiration.
 
 When one of the [[Arms of the Betrayers]] is destroyed, the soul of the fiend within the weapon returns to its home plane—and begins to plot the destruction of the creatures responsible.
 
@@ -26,7 +26,7 @@ The fiery breath of an ancient red dragon is the only thing that can destroy the
 
 5
 
-The weapon is destroyed if devoured by Uk’otoa.
+The weapon is destroyed if devoured by [[Uk’otoa]].
 
 6
 

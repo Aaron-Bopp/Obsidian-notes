@@ -30,7 +30,7 @@ Roll a d100 and consult the Homelands table to determine which region you were b
 
 #### Background
 
-In addition to granting you items, gold, and proficiencies, your background gives you a sense of belonging in the world. You can roll on the [[Backgrounds]] table to randomly determine your character’s background, or you can choose one that fits your character concept. This table includes new [[backgrounds]] and adapted [[backgrounds]] from this book (EGW) as well as the backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") (PH). New and adapted backgrounds are described later in this chapter.
+In addition to granting you items, gold, and proficiencies, your background gives you a sense of belonging in the world. You can roll on the [[Backgrounds]] table to randomly determine your character’s background, or you can choose one that fits your character concept. This table includes new backgrounds and adapted backgrounds from this book (EGW) as well as the backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") (PH). New and adapted backgrounds are described later in this chapter.
 
 Your background determines your place in the world. Within the strict hierarchy of the [[Dwendalian Empire]], a family with a poor social status is worth less than the soil they till, while a family of great renown enjoys all the privileges of high society. Most folk toil in the same profession from the day they’re old enough to work until the day they die, and few families ever rise to glory from obscurity. That’s just the way of things.
 
@@ -40,9 +40,9 @@ Each nation in [[Wildemount]] views people’s [[backgrounds]] according to its 
 
 ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-21.png)
 
-**_Menagerie Coast._** Both the [[Clovis Concord]] and their hated nemesis, [[the Revelry]] pirates, prize personal freedom over all other things. [[The Revelry]] simply takes this ideology one bloody step further. People of the Concord celebrate folk heroes and entertainers, and all other people who might become celebrities, iconoclasts, and figures of legend.
+**_Menagerie Coast._** Both the [[Clovis Concord]] and their hated nemesis, [[the Revelry]] pirates, prize personal freedom over all other things. The Revelry simply takes this ideology one bloody step further. People of the Concord celebrate folk heroes and entertainers, and all other people who might become celebrities, iconoclasts, and figures of legend.
 
-At the same time, the common working-class sailor is a symbol of the Concord’s strength. As with the crew of a well-run ship, the small actions of individuals can have a huge impact when all are working toward common goals. Common sailors despise [[the Revelry]], and noteworthy sailors might even have a rival within [[the Revelry]].
+At the same time, the common working-class sailor is a symbol of the Concord’s strength. As with the crew of a well-run ship, the small actions of individuals can have a huge impact when all are working toward common goals. Common sailors despise [[the Revelry]], and noteworthy sailors might even have a rival within the Revelry.
 
 **_Western Wynandir._** The [[Dwendalian Empire]] prizes king and country over personal freedoms—at least as far as the freedoms of the poor are concerned. For the wealthy noble class, most laws are mere guidelines, since bribery and political favors can make almost any problem go away.
 
@@ -52,9 +52,9 @@ In the [[Dwendalian Empire]], rural folk are seen as honest, hardworking, and pi
 
 Travel farther north, however, and one reaches the [[Diarchy of Uthodurn]], a stable and ancient city ruled by elves and dwarves. Here, order and art are prized over chaos and personal enrichment. If your character is from [[Uthodurn]] rather than [[Shadycreek Run]], replace any rival you gain from the Social Status Relationships table with an ally, and vice-versa.
 
-**_Eastern Wynandir._** Accumulating knowledge and achieving spiritual enlightenment are the virtues of the [[Kryn Dynasty]], whose society is built around the tenets of the Luxon. Artists, entertainers, artisans, and all people who create are well-valued in Kryn society. Yet in this age of war, people whose skills allow them to destroy are paradoxically prized just as highly.
+**_Eastern Wynandir._** Accumulating knowledge and achieving spiritual enlightenment are the virtues of the [[Kryn Dynasty]], whose society is built around the tenets of [[the Luxon]]. Artists, entertainers, artisans, and all people who create are well-valued in Kryn society. Yet in this age of war, people whose skills allow them to destroy are paradoxically prized just as highly.
 
-To the Kryn, a person’s background is less important than the experiences they’ve accumulated—particularly for those who have begun walking the sacred path known as consecution. Nonetheless, even the most enlightened society can’t help but look down upon its lowest citizens and sneer at its haughty elite. Once all beings are beloved by the Luxon, perhaps these ills of society will be purged once and for all.
+To the Kryn, a person’s background is less important than the experiences they’ve accumulated—particularly for those who have begun walking the sacred path known as consecution. Nonetheless, even the most enlightened society can’t help but look down upon its lowest citizens and sneer at its haughty elite. Once all beings are beloved by [[the Luxon]], perhaps these ills of society will be purged once and for all.
 
 #### Home Settlement
 

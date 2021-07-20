@@ -1,5 +1,5 @@
 
-## [[Graviturgy]] Wizard
+## Graviturgy Wizard
 
 **Tag**:: #Subclass/Wizard 
 **Features**:: `=this.feature`

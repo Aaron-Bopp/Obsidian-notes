@@ -4,7 +4,7 @@ Half-elves occupy all lands where humans and elves gather. In ancient times, the
 
 ### Half-Elves in the [[Dwendalian Empire]]
 
-The [[Dwendalian Empire]] sees half-elves as a sign that imperial rule is healthy, and that people are traveling across and strengthening the bonds of its disparate provinces. However, this belief is less pervasive in the elven enclave of [[Bysaes Tyl]], which was coerced into joining the empire decades ago. The elves of [[Bysaes Tyl]] are dedicated to maintaining a tenuous grasp on their lost realm of [[Molaesmyr]], and any elf who bears a non-elf child is considered a traitor to their ancient culture.
+The [[Dwendalian Empire]] sees half-elves as a sign that imperial rule is healthy, and that people are traveling across and strengthening the bonds of its disparate provinces. However, this belief is less pervasive in the elven enclave of [[Bysaes Tyl]], which was coerced into joining the empire decades ago. The elves of Bysaes Tyl are dedicated to maintaining a tenuous grasp on their lost realm of [[Molaesmyr]], and any elf who bears a non-elf child is considered a traitor to their ancient culture.
 
 ### Half-Elves on the [[Menagerie Coast]]
 

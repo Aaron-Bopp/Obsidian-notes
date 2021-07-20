@@ -1,8 +1,8 @@
 # Library of the Cobalt Soul
 
-Under the enlightening scriptures of [[Ioun, the Knowing Mentor]], teachers, priests, and monks who have been drawn to the calling of truth and knowledge spend their lives training within the Library of the Cobalt Soul. Rather than a single physical building, the Library of the Cobalt Soul is a collective term for the universal knowledge and philosophies upheld by those who follow Ioun’s teachings. The Cobalt Soul is guided by a central belief that true strength is found in understanding the world around you. Despite their idealism, the pursuit of truth is hampered by the realities of life in the empire: politics, propaganda, and the dangers of the wilderness.
+Under the enlightening scriptures of [[Ioun]], teachers, priests, and monks who have been drawn to the calling of truth and knowledge spend their lives training within the Library of the Cobalt Soul. Rather than a single physical building, the Library of the Cobalt Soul is a collective term for the universal knowledge and philosophies upheld by those who follow Ioun’s teachings. The Cobalt Soul is guided by a central belief that true strength is found in understanding the world around you. Despite their idealism, the pursuit of truth is hampered by the realities of life in the empire: politics, propaganda, and the dangers of the wilderness.
 
-The Cobalt Soul is based in [[Rexxentrum]] but operates throughout the empire and across the whole of Exandria. Temples to Ioun under the management of the Cobalt Soul act as massive libraries called archives, usually located in larger cities and cultural centers. Its members come from all walks of life and are expected to assist in the maintenance, organization, and protection of the archives. Its satellite archives collect artifacts and research information both historical and contemporary along the [[Menagerie Coast]] and in the distant lands of Tal’Dorei, [[Issylra]], and beyond.
+The Cobalt Soul is based in [[Rexxentrum]] but operates throughout the empire and across the whole of Exandria. Temples to [[Ioun]] under the management of the Cobalt Soul act as massive libraries called archives, usually located in larger cities and cultural centers. Its members come from all walks of life and are expected to assist in the maintenance, organization, and protection of the archives. Its satellite archives collect artifacts and research information both historical and contemporary along the [[Menagerie Coast]] and in the distant lands of Tal’Dorei, [[Issylra]], and beyond.
 
 Archivists act as administrators at each Archive, delineating tasks, overseeing the training of new members, and even negotiating for or purchasing artifacts and records — often from those unaware of their true value.
 
@@ -22,9 +22,9 @@ The Library has continued to work with and under the empire out of necessity, bu
 
 ## Goals
 
-Untold knowledge was lost when [[the Calamity]] brought the [[Age of Arcanum]] to its fiery end, and so too was the case when Ioun was mortally wounded in that terrible war. Since that day, the Cobalt Soul and their progenitors have sought to recover what was lost. They hope that, in time, their tireless effort will eventually usher all societies to an enlightened future.
+Untold knowledge was lost when [[the Calamity]] brought the [[Age of Arcanum]] to its fiery end, and so too was the case when [[Ioun]] was mortally wounded in that terrible war. Since that day, the Cobalt Soul and their progenitors have sought to recover what was lost. They hope that, in time, their tireless effort will eventually usher all societies to an enlightened future.
 
-Ioun is still wounded, but her wisdom and grace has returned to the world — at least in part. Under the guidance and wisdom of their patron god, members of the Cobalt Soul seek to enlighten themselves through study and research. They devote their lives to studying the mysteries of the world, and turning that knowledge to protect it from another Calamity. To this end, the Library makes the immense breadth of knowledge within their archives available to anyone and everyone who seeks to educate themselves — though some secrets are so potent that they must remain hidden from the public until the proper time.
+[[Ioun]] is still wounded, but her wisdom and grace has returned to the world — at least in part. Under the guidance and wisdom of their patron god, members of the Cobalt Soul seek to enlighten themselves through study and research. They devote their lives to studying the mysteries of the world, and turning that knowledge to protect it from another Calamity. To this end, the Library makes the immense breadth of knowledge within their archives available to anyone and everyone who seeks to educate themselves — though some secrets are so potent that they must remain hidden from the public until the proper time.
 
 Empires thrive on misinformation and propaganda, yet it is necessary for the Cobalt Soul to operate within the [[Dwendalian Empire]]. As such, the Cobalt Soul works to provide the truth to those who will listen, to covertly update revisionist history, and to remove false information before it can spread too far. Unfortunately, imperial agents and even spies from foreign powers have successfully infiltrated the Library over the centuries, and some of their attempts to rewrite fact and history in favor of their own interests have succeeded. In response, the Library has had to construct a powerful, hidden force of expositors to defend their texts from manipulation and uncover truths that remain guarded.
 
@@ -38,7 +38,7 @@ Meanwhile, a small number of volunteers from within the Library have agreed to t
 
 ## Figures of Interest
 
-Operating under the will of Ioun, and driven by curiosity and the desire to further universal understanding, the diverse agents of the Cobalt Soul seek to change the world for the better.
+Operating under the will of [[Ioun]], and driven by curiosity and the desire to further universal understanding, the diverse agents of the Cobalt Soul seek to change the world for the better.
 
 ### ![[Loman Turray]]
 

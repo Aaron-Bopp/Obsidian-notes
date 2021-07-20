@@ -24,6 +24,6 @@ Buttressed against the southern tree line of the [[Plumgroves]] and surrounded b
 
 Feolinn is a good place for adventurers to get caught up in shady business deals and cutthroat competition.
 
-_**Loose Lips (Low Level).**_ The characters are invited to a citywide alcohol fair, where Feolinn's wineries and distilleries enter their products to compete for prizes. The fair is secretly sponsored by [[the Myriad]], which plans to get the city's most influential people drunk and learn their secrets to use as blackmail. The characters get wind of this plan and must decide whether to stop [[the Myriad]] or get in on the plan.
+_**Loose Lips (Low Level).**_ The characters are invited to a citywide alcohol fair, where Feolinn's wineries and distilleries enter their products to compete for prizes. The fair is secretly sponsored by [[the Myriad]], which plans to get the city's most influential people drunk and learn their secrets to use as blackmail. The characters get wind of this plan and must decide whether to stop the Myriad or get in on the plan.
 
 _**Celebrity Endorsement (Any Level).**_ After the characters gain recognition for their deeds, the competing wineries and distilleries in Feolinn attempt to convince them to become official spokespeople of their brands, offering money and free booze. If the characters accept an offer, the rejected companies turn on them, trying to embarrass the characters at every turn and hiring rival adventurers to take credit for their accomplishments.

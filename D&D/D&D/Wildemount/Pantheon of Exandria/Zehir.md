@@ -1,6 +1,6 @@
 ### Zehir, the Cloaked Serpent
 
-A wanderer in the shadows and the creator of snakes and serpentkin, Zehir is the evil god of poisons, assassins, and darkness. The ancient serpentkin worship him over all other deities, dragging screaming offerings to their temples in his honor. Most of the Cloaked Serpent’s worshipers were annihilated during [[the Calamity]], and the rest are either suspended in self-induced stasis or hunted for sport by the servants of Lolth and Torog. But perhaps Zehir is merely biding his time, waiting for the proper moment to unleash his hidden armies on the world once more.
+A wanderer in the shadows and the creator of snakes and serpentkin, Zehir is the evil god of poisons, assassins, and darkness. The ancient serpentkin worship him over all other deities, dragging screaming offerings to their temples in his honor. Most of the Cloaked Serpent’s worshipers were annihilated during [[the Calamity]], and the rest are either suspended in self-induced stasis or hunted for sport by the servants of [[Lolth]] and [[Torog]]. But perhaps Zehir is merely biding his time, waiting for the proper moment to unleash his hidden armies on the world once more.
 
 Zehir subverts and poisons Exandria from the shadowed Towers of Night, hidden among the ever-shifting winds of the Astral Plane.
 
@@ -10,7 +10,7 @@ Zehir subverts and poisons Exandria from the shadowed Towers of Night, hidden am
 
 Zehir, the Cloaked Serpent
 
-**_Enemies._** Zehir loathes Erathis and Melora, for he despises life, order, and love above all things. His surviving worshipers use poison and fire to undermine civilization and consume nature, hoping to infuriate both gods and cast Exandria into chaos.
+**_Enemies._** Zehir loathes [[Erathis]] and [[Melora]], for he despises life, order, and love above all things. His surviving worshipers use poison and fire to undermine civilization and consume nature, hoping to infuriate both gods and cast Exandria into chaos.
 
 #### Commandments of Zehir
 

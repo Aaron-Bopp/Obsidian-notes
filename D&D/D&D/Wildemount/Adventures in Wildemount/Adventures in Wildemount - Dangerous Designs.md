@@ -1,10 +1,10 @@
 A war criminal is broken out of prison by well-armed kobolds working for a mysterious mastermind who threatens the gnomish city of [[Hupperdook]]. “Dangerous Designs” is an adventure that takes characters from 1st to 3rd level, and which introduces them to the Western Wynandir region of the continent under the rule of the [[Dwendalian Empire]]. This region is geared toward adventures that involve monster hunting, political intrigue, and the war with [[Xhorhas]].
 
-If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), they might wish to create characters who grew up in the [[Zemni Fields]] or [[Marrow Valley]], giving them a closer connection to this region and to the [[Dwendalian Empire]]. For characters not from Western Wynandir, the players should consider what has drawn those characters to [[Hupperdook]]. Because this adventure ties directly to the [[Kryn Dynasty]]’s conflict with the [[Dwendalian Empire]], you can also ask each player to consider their character’s stance on the war and how the war might tie into their background.
+If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), they might wish to create characters who grew up in the [[Zemni Fields]] or [[Marrow Valley]], giving them a closer connection to this region and to the [[Dwendalian Empire]]. For characters not from Western Wynandir, the players should consider what has drawn those characters to [[Hupperdook]]. Because this adventure ties directly to the [[Kryn Dynasty]]’s conflict with the Dwendalian Empire, you can also ask each player to consider their character’s stance on the war and how the war might tie into their background.
 
 ## Story Overview
 
-The characters are drawn into this adventure in the lower regions of the city of [[Hupperdook]], an industrious gnomish enclave where long days of hard work in the forges and scrapyards end with evenings of extensive celebration and debauchery. A brilliant human engineer named Huron Stahlmast was assigned to [[Hupperdook]] by the [[Dwendalian Empire]], where he led the development of weapons for the war against the [[Kryn Dynasty]]. After years of rising disapproval of his ideas and methods, Stahlmast was ousted by the folk of the city due to his eccentric experimentation and brutal means of testing his weapon designs. Shamed and without funds, the inventor allowed his dark hatred to push him to meet with agents of the [[Kryn Dynasty]], seeking aid that would let him complete his work and enact his revenge.
+The characters are drawn into this adventure in the lower regions of the city of [[Hupperdook]], an industrious gnomish enclave where long days of hard work in the forges and scrapyards end with evenings of extensive celebration and debauchery. A brilliant human engineer named Huron Stahlmast was assigned to Hupperdook by the [[Dwendalian Empire]], where he led the development of weapons for the war against the [[Kryn Dynasty]]. After years of rising disapproval of his ideas and methods, Stahlmast was ousted by the folk of the city due to his eccentric experimentation and brutal means of testing his weapon designs. Shamed and without funds, the inventor allowed his dark hatred to push him to meet with agents of the Kryn Dynasty, seeking aid that would let him complete his work and enact his revenge.
 
 With the Kryn resources now funneled to him, Stahlmast has amassed and trained a force of kobold minions to help him steal resources from [[Hupperdook]] and establish a secret subterranean base deep within the [[Silberquel Ridge]]. As construction of his experimental weapons nears completion, Stahlmast plans to use those weapons against the empire that cast him aside.
 
@@ -22,13 +22,13 @@ In the final part of the adventure, the characters are urged to continue their i
 
 ### Setup and Starting Points
 
-Before the adventure begins, talk to your players about why their characters might have made the journey to [[Hupperdook]]. You can provide details regarding the city and the surrounding region as outlined in [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-marrow-valley#[[Hupperdook]] "chapter 3"). You can also ask the players if they want to share any of their characters’ goals, which might provide reasons for their group to come together. Seeking paying work, purchasing equipment, and wanting to join the war effort are all common reasons for traveling to the gnomish enclave.
+Before the adventure begins, talk to your players about why their characters might have made the journey to [[Hupperdook]]. You can provide details regarding the city and the surrounding region as outlined in [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-marrow-valley#Hupperdook "chapter 3"). You can also ask the players if they want to share any of their characters’ goals, which might provide reasons for their group to come together. Seeking paying work, purchasing equipment, and wanting to join the war effort are all common reasons for traveling to the gnomish enclave.
 
 Use this time to also discuss if the characters are meeting for the first time or if any of them already know each other.
 
 ## A Boom in the Night
 
-The adventure begins with the characters arriving (whether singly or together) in [[Hupperdook]]. [Map 5.4](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#Map54LowerHupperdook "Map 5.4") shows Lower [[Hupperdook]] and marks the locations of the Ironlot and Assembly Yard sections of the city.
+The adventure begins with the characters arriving (whether singly or together) in [[Hupperdook]]. [Map 5.4](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#Map54LowerHupperdook "Map 5.4") shows Lower Hupperdook and marks the locations of the Ironlot and Assembly Yard sections of the city.
 
 Once the players are ready to begin, read or paraphrase the following boxed text to set the scene:
 
@@ -40,7 +40,7 @@ When the characters are headed past the Assembly Yard into the Ironlot area of t
 
 [](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/5.4-lower-[[hupperdook]].png)
 
-Map 5.4: Lower [[Hupperdook]] [View Player Version](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/5.4-lower-[[hupperdook]]-player.jpg)
+Map 5.4: Lower [[Hupperdook]] [View Player Version](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/5.4-lower-hupperdook-player.jpg)
 
 ### Prison Break!
 
@@ -194,7 +194,7 @@ _**Longbow.** Ranged Weapon Attack:_ +5 to hit, range 150/600 ft., one target. _
 
 If the adventurers head toward the Builder’s Plot, read:
 
-During the day, the characters find Cleff Tinkertop and his daughter Rissa (chaotic good gnome [commoners](https://www.dndbeyond.com/monsters/commoner)) building a prototype metallic glider. If they arrive in the evening, the area is empty except for a few patrolling Crownsguard. Asking the guards about Cleff Tinkertop sees the characters directed to Sootswallow Lodge (see “[Other [[Hupperdook]] Locations](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#OtherHupperdookLocations "Other [[Hupperdook]] Locations")” later in the adventure), where he often spends his evenings after work.
+During the day, the characters find Cleff Tinkertop and his daughter Rissa (chaotic good gnome [commoners](https://www.dndbeyond.com/monsters/commoner)) building a prototype metallic glider. If they arrive in the evening, the area is empty except for a few patrolling Crownsguard. Asking the guards about Cleff Tinkertop sees the characters directed to Sootswallow Lodge (see “[Other [[Hupperdook]] Locations](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#OtherHupperdookLocations "Other Hupperdook Locations")” later in the adventure), where he often spends his evenings after work.
 
 Cleff is an amiable middle-aged gnome, albeit a bit absent-minded and easily distracted. Rissa is sharp and keeps her father on track as best she can. If they are asked about explosives or shown the bronze shrapnel, they direct the characters toward the Firemark Facility ([area H5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#H5FiremarkFacility "area H5")), the only sanctioned manufacturing den of [blasting powder](https://www.dndbeyond.com/equipment/blasting-powder) and black powder in [[Hupperdook]].
 
@@ -254,7 +254,7 @@ Handout B: Nima’s Note
 
 The following miscellaneous locations are minor areas the characters might visit in [[Hupperdook]] during their investigations.
 
-A majestic temple to Moradin the All-Hammer, this mighty octagonal structure resembles a massive anvil atop an iron shrine. Within, holy symbols and prayer coins are pressed and forged, while blacksmiths and tinkerers come to have their plans and creations blessed.
+A majestic temple to [[Moradin]] the All-Hammer, this mighty octagonal structure resembles a massive anvil atop an iron shrine. Within, holy symbols and prayer coins are pressed and forged, while blacksmiths and tinkerers come to have their plans and creations blessed.
 
 Attached through a series of angled hallways, this network of foundries forms a sprawling compound that smelts, purifies, and prepares a majority of the metal materials and ingots distributed throughout the [[Marrow Valley]].
 
@@ -530,7 +530,7 @@ If the characters have managed to get this far without Stahlmast being alerted, 
 
 Stahlmast has no qualms about whom he works with, as long as those who serve him understand that he’s in charge. He might appeal to the characters as free adventurers, hoping to convince him that fighting against the [[Dwendalian Empire]] is a noble cause, or he might appeal to their greed, talking of how much wealth might be gained by breaking the empire’s power.
 
-If the characters abandon their pledge to aid [[Hupperdook]] and instead agree to Stahlmast’s offer, they are granted a room of their choice within the lair and a weekly pay of 25 gp as his elite enforcers. The characters reach 3rd level (see “[Concluding the Adventure](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#ConcludingtheAdventure1 "Concluding the Adventure")”), but their path now leans toward working with the [[Kryn Dynasty]] and helping Stahlmast with his plots against [[Hupperdook]] and the [[Dwendalian Empire]].
+If the characters abandon their pledge to aid [[Hupperdook]] and instead agree to Stahlmast’s offer, they are granted a room of their choice within the lair and a weekly pay of 25 gp as his elite enforcers. The characters reach 3rd level (see “[Concluding the Adventure](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#ConcludingtheAdventure1 "Concluding the Adventure")”), but their path now leans toward working with the [[Kryn Dynasty]] and helping Stahlmast with his plots against Hupperdook and the [[Dwendalian Empire]].
 
 Alternatively, the characters might pretend to want to serve Stahlmast to get the upper hand on him. That kind of twist is perfect for an intrigue adventure, so have fun with it!
 
