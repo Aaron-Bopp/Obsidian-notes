@@ -12,7 +12,7 @@
 
 Alfield is a rural town nestled into a scattered patch of trees near the Amber Road. The old mines winding beneath the nearby hills yield a fair amount of tin, copper, and quartz that supplement the town's economy. Small in size compared to the surrounding townships, Alfield is regarded by most travelers as a stop on the route to more important business elsewhere. This frustrates some proud residents and local entrepreneurs, but most prefer the small-town lifestyle and are happy to see the passing traders and travelers move on. Alfield is currently recovering from a recent assault by a roving band of violent [[gnolls]], so a number of buildings are still being repaired or rebuilt.
 
-The starosta, a middle-aged gnome named Kosh Clearbarker, leans heavily on his dutiful watchmaster, the [[Half-Elves|half-elf]] Bryce Feelid. Bryce personally shoulders the town's burdens while the starosta continues to oversee the town from within his quarters, excusing himself from any hands-on governance.
+The starosta, a middle-aged gnome named Kosh Clearbarker, leans heavily on his dutiful watchmaster, the [[Half Elves|half-elf]] Bryce Feelid. Bryce personally shoulders the town's burdens while the starosta continues to oversee the town from within his quarters, excusing himself from any hands-on governance.
 
 Since Alfield is both overlooked and under-protected by the Crown, charlatans and thieves often sweep through town in an attempt to relieve the townsfolk of any loose coin. The relatively small [[Crownsguard]] presence is perpetually frustrated with the lack of support from the empire; they must split the attention of their small force between policing the borders and watching for hooligans who seek to abuse the civilians within the town.
 
