@@ -66,7 +66,7 @@ Throughout this wasteland, scattered bands of aimless men, beasts, and goblinkin
 
 ### ![[Kryn Dynasty#After the Calamity]]
 
-### ![[D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/Draconia]]
+### ![[Draconia]]
 
 ### ![[The Chroma Conclave]]
 
