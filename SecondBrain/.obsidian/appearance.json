@@ -1,11 +1,8 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Moonlight",
-  "theme": "obsidian",
-  "enabledCssSnippets": [
-    "tag-pills"
-  ],
+  "cssTheme": "Yin and Yang",
+  "theme": "moonstone",
+  "enabledCssSnippets": [],
   "translucency": false,
-  "baseFontSizeAction": false,
-  "obsidianCss": false
+  "baseFontSizeAction": false
 }

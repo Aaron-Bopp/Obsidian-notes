@@ -1,21 +1,22 @@
 {
-  "parentFieldName": "related-topics",
-  "siblingFieldName": "related-topics",
-  "childFieldName": "",
+  "parentFieldName": "related-topics, parent",
+  "siblingFieldName": "sub-topics",
+  "childFieldName": "child",
   "indexNote": [
     "INDEX"
   ],
   "refreshIntervalTime": 0,
   "defaultView": true,
-  "showNameOrType": false,
+  "showNameOrType": true,
   "showRelationType": true,
   "showTrail": true,
   "trailOrTable": 3,
-  "gridHeatmap": true,
+  "gridHeatmap": false,
+  "heatmapColour": "#EEEEEE",
   "showAll": true,
   "noPathMessage": "This note has no real or implied parents",
-  "trailSeperator": "-->",
+  "trailSeperator": "→",
   "respectReadableLineLength": true,
-  "debugMode": true,
+  "debugMode": false,
   "superDebugMode": false
 }

@@ -129,7 +129,7 @@ def get_vault_titles(obsidian_home, get_aliases=True, get_uncreated=True):
                         except yaml.YAMLError as exc:
                             print(f"{exc} while processing frontmatter in {file}")
                         if get_uncreated:
-                            full_text
+                            pass
     return page_titles, generated_aliases
                 
 
@@ -179,7 +179,7 @@ if len(sys.argv) > 1:
                 all_text = True
 
 else:
-    print("usage - python obs-link.py <path to obsidian vault> [-r] [-y] [-w / -p]")
+    print("usage - python obs-linkr.py <path to obsidian vault> [-r] [-y] [-w / -p]")
     print("-r = regenerate the aliases.md file using yaml frontmatter inside vault markdown files")
     print("-y = use aliases.yml as aliases file instead of aliases.md")
     print("-w = only the first occurrence of a page title (or alias) in the content will be linked ('wikipedia mode')")

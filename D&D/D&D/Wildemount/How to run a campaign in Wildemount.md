@@ -1,3 +1,6 @@
+---
+aliases: 
+---
 ## A New D&D Setting
 
 Wildemount is a new setting for your Dungeons & Dragons campaign, originally created by Matthew Mercer as the setting for the second campaign of the hit series Critical Role. Though it’s just one continent in the larger world of Exandria, Wildemount is teeming with varied cultures, locales, peoples, and monsters. It is home to both avatars of evil and paragons of good, but it is defined by the common people who exist in between these two ideals.

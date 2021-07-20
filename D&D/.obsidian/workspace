@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c570822ec207e7",
+        "id": "dea2332a1e44aa8b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/tharoline/Section/030 Blackvale Corruption.md",
+            "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Table",
+                "query": "tag:#Move/Monstrous",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/tharoline/Section/030 Blackvale Corruption.md",
+                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/tharoline/Section/030 Blackvale Corruption.md",
+                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,16 +83,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/tharoline/Section/030 Blackvale Corruption.md"
+                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md"
               }
-            }
-          },
-          {
-            "id": "6811339854aa462b",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-matrix",
-              "state": {}
             }
           },
           {
@@ -110,7 +102,7 @@
             "id": "0d645caca1f610c2",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {}
             }
           }
@@ -132,7 +124,7 @@
             "id": "4e9b326bd563c9de",
             "type": "leaf",
             "state": {
-              "type": "chat",
+              "type": "empty",
               "state": {}
             }
           },
@@ -142,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/tharoline/Section/030 Blackvale Corruption.md",
+                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,10 +146,39 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "#Monster",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "#PC",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5897984
+                      }
+                    },
+                    {
+                      "query": "#NPC",
+                      "color": {
+                        "a": 1,
+                        "rgb": 560646
+                      }
+                    },
+                    {
+                      "query": "#Org",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14606617
+                      }
+                    }
+                  ],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -1.5,
                   "nodeSizeMultiplier": 0.719705882352941,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
@@ -165,10 +186,18 @@
                   "repelStrength": 13.5882352941176,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.10211506980678846,
-                  "close": false
+                  "scale": 0.2353914602264472,
+                  "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "56526ef2092d0e54",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
             }
           }
         ],
@@ -176,20 +205,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 788.5,
+    "width": 962,
     "collapsed": true
   },
-  "active": "a6c570822ec207e7",
+  "active": "dea2332a1e44aa8b",
   "lastOpenFiles": [
-    "D&D/tharoline/Section/030 Blackvale Corruption.md",
-    "D&D/tharoline/Section/010 Deepshore Missing Kids.md",
-    "D&D/tharoline/Section/000 Backstory.md",
-    "D&D/tharoline/Section/072.md",
-    "D&D/tharoline/Section/071 Gathering allies.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Volantim.md",
-    "D&D/Wildemount/aliases.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Wastes of Xhorhas.md",
-    "D&D/Wildemount/Glossary/Glossary.md",
-    "Tal’Dorei.md"
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Bizarre Terrain of Blightshore.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Tooth of Zehir.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Far Hharom.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Incanter's Rest.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Miskath Pit.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/New Haxon.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Olc Skerry.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Rotthold.md"
   ]
 }

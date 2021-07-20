@@ -1,0 +1,1 @@
+ Take +1 Cool (max +3)

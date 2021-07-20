@@ -6,5 +6,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
   "breadcrumbs",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-style-settings",
+  "tag-wrangler"
 ]

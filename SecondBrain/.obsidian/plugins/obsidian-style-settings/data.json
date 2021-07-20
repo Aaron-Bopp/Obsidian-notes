@@ -1,1 +1,13 @@
-{"obsidian-default-theme@@text-accent@@light":"#D8CC2A","obsidian-default-theme@@text-accent@@dark":"#E0D43B","obsidian-default-theme@@text-accent-hover@@dark":"#FEFF99","obsidian-default-theme@@text-error@@dark":"#33FF6C","Yin and Yang@@base-s":1,"Yin and Yang@@base-h":252}
+{
+  "obsidian-default-theme@@text-accent@@light": "#D8CC2A",
+  "obsidian-default-theme@@text-accent@@dark": "#E0D43B",
+  "obsidian-default-theme@@text-accent-hover@@dark": "#FEFF99",
+  "obsidian-default-theme@@text-error@@dark": "#33FF6C",
+  "Yin and Yang@@wys-headings": false,
+  "Yin and Yang@@wys-enhanced": false,
+  "Yin and Yang@@rainbow-headers": true,
+  "Yin and Yang@@d-accent": "#E29ACE",
+  "Yin and Yang@@base-h": 214,
+  "Yin and Yang@@base-s": 47,
+  "Yin and Yang@@persistent-sb": true
+}

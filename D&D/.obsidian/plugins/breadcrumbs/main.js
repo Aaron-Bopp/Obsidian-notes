@@ -1,7 +1,6 @@
 'use strict';
 
 var obsidian = require('obsidian');
-require('dns');
 
 var commonjsGlobal = typeof globalThis !== 'undefined' ? globalThis : typeof window !== 'undefined' ? window : typeof global !== 'undefined' ? global : typeof self !== 'undefined' ? self : {};
 
@@ -6226,6 +6225,7 @@ const parseTypedLink = function (link, line, typedLinkPrefix) {
 
 const VIEW_TYPE_BREADCRUMBS_MATRIX = "breadcrumbs-matrix";
 const TRAIL_ICON = "breadcrumbs-trail-icon";
+const TRAIL_ICON_SVG = '<path fill="currentColor" stroke="currentColor" d="M48.8,4c-6,0-13.5,0.5-19.7,3.3S17.9,15.9,17.9,25c0,5,2.6,9.7,6.1,13.9s8.1,8.3,12.6,12.3s9,7.8,12.2,11.5 c3.2,3.7,5.1,7.1,5.1,10.2c0,14.4-13.4,19.3-13.4,19.3c-0.7,0.2-1.2,0.8-1.3,1.5s0.1,1.4,0.7,1.9c0.6,0.5,1.3,0.6,2,0.3 c0,0,16.1-6.1,16.1-23c0-4.6-2.6-8.8-6.1-12.8c-3.5-4-8.1-7.9-12.6-11.8c-4.5-3.9-8.9-7.9-12.2-11.8c-3.2-3.9-5.2-7.7-5.2-11.4 c0-7.8,3.6-11.6,8.8-14S43,8,48.8,8c4.6,0,9.3,0,11,0c0.7,0,1.4-0.4,1.7-1c0.3-0.6,0.3-1.4,0-2s-1-1-1.7-1C58.3,4,53.4,4,48.8,4 L48.8,4z M78.1,4c-0.6,0-1.2,0.2-1.6,0.7l-8.9,9.9c-0.5,0.6-0.7,1.4-0.3,2.2c0.3,0.7,1,1.2,1.8,1.2h0.1l-2.8,2.6 c-0.6,0.6-0.8,1.4-0.5,2.2c0.3,0.8,1,1.3,1.9,1.3h1.3l-4.5,4.6c-0.6,0.6-0.7,1.4-0.4,2.2c0.3,0.7,1,1.2,1.8,1.2h10v4 c0,0.7,0.4,1.4,1,1.8c0.6,0.4,1.4,0.4,2,0c0.6-0.4,1-1,1-1.8v-4h10c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.1-1.6-0.4-2.2L86.9,24h1.3 c0.8,0,1.6-0.5,1.9-1.3c0.3-0.8,0.1-1.6-0.5-2.2l-2.8-2.6h0.1c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.2-1.6-0.3-2.2l-8.9-9.9 C79.1,4.3,78.6,4,78.1,4L78.1,4z M78,9l4.4,4.9h-0.7c-0.8,0-1.6,0.5-1.9,1.3c-0.3,0.8-0.1,1.6,0.5,2.2l2.8,2.6h-1.1 c-0.8,0-1.5,0.5-1.8,1.2c-0.3,0.7-0.1,1.6,0.4,2.2l4.5,4.6H70.8l4.5-4.6c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-1.1 l2.8-2.6c0.6-0.6,0.8-1.4,0.5-2.2c-0.3-0.8-1-1.3-1.9-1.3h-0.7L78,9z M52.4,12c-4.1,0-7.1,0.5-9.4,1.5c-2.3,1-3.8,2.5-4.5,4.3 c-0.7,1.8-0.5,3.6,0.1,5.2c0.6,1.5,1.5,2.9,2.5,3.9c5.4,5.4,18.1,12.6,29.6,21c5.8,4.2,11.2,8.6,15.1,13c3.9,4.4,6.2,8.7,6.2,12.4 c0,14.5-12.9,18.7-12.9,18.7c-0.7,0.2-1.2,0.8-1.4,1.5s0.1,1.5,0.7,1.9c0.6,0.5,1.3,0.6,2,0.3c0,0,15.6-5.6,15.6-22.5 c0-5.3-2.9-10.3-7.2-15.1C84.6,53.6,79,49,73.1,44.7c-11.8-8.6-24.8-16.3-29.2-20.6c-0.6-0.6-1.2-1.5-1.6-2.4 c-0.3-0.9-0.4-1.7-0.1-2.4c0.3-0.7,0.8-1.4,2.3-2c1.5-0.7,4.1-1.2,7.8-1.2c4.9,0,9.4,0.1,9.4,0.1c0.7,0,1.4-0.3,1.8-1 c0.4-0.6,0.4-1.4,0-2.1c-0.4-0.6-1.1-1-1.8-1C61.9,12.1,57.3,12,52.4,12L52.4,12z M24,46c-0.5,0-1.1,0.2-1.4,0.6L9.2,60.5 c-0.6,0.6-0.7,1.4-0.4,2.2c0.3,0.7,1,1.2,1.8,1.2h3l-6.5,6.8c-0.6,0.6-0.7,1.4-0.4,2.2s1,1.2,1.8,1.2H13l-8.5,8.6 C4,83.2,3.8,84,4.2,84.8C4.5,85.5,5.2,86,6,86h16v5.4c0,0.7,0.4,1.4,1,1.8c0.6,0.4,1.4,0.4,2,0c0.6-0.4,1-1,1-1.8V86h16 c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.1-1.6-0.4-2.2L35,74h4.4c0.8,0,1.5-0.5,1.8-1.2s0.2-1.6-0.4-2.2l-6.5-6.8h3 c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.2-1.6-0.4-2.2L25.4,46.6C25.1,46.2,24.5,46,24,46L24,46z M24,50.9l8.7,9h-3 c-0.8,0-1.5,0.5-1.8,1.2s-0.2,1.6,0.4,2.2l6.5,6.8h-4.5c-0.8,0-1.5,0.5-1.8,1.2c-0.3,0.7-0.1,1.6,0.4,2.2l8.5,8.6H10.8l8.5-8.6 c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-4.5l6.5-6.8c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-3L24,50.9z"/>';
 const splitLinksRegex = new RegExp(/\[\[(.+?)\]\]/g);
 const dropHeaderOrAlias = new RegExp(/\[\[([^#|]+)\]\]/);
 const DATAVIEW_INDEX_DELAY = 3000;
@@ -6245,7 +6245,7 @@ function getFileFrontmatterArr(app, settings) {
                 var _a;
                 superDebug(settings, `Get frontmatter: ${file.basename}`);
                 const dv = (_a = app.plugins.plugins.dataview.api.page(file.path)) !== null && _a !== void 0 ? _a : [];
-                superDebug(settings, dv);
+                superDebug(settings, { dv });
                 fileFrontMatterArr.push({ file, frontmatter: dv });
             });
         });
@@ -6254,15 +6254,14 @@ function getFileFrontmatterArr(app, settings) {
     else {
         debug(settings, "Using Obsidian");
         files.forEach((file) => {
-            var _a;
-            const obs = (_a = app.metadataCache.getFileCache(file).frontmatter) !== null && _a !== void 0 ? _a : [];
+            const obs = app.metadataCache.getFileCache(file).frontmatter;
             fileFrontMatterArr.push({
                 file,
                 frontmatter: obs,
             });
         });
     }
-    debug(settings, fileFrontMatterArr);
+    debug(settings, { fileFrontMatterArr });
     return fileFrontMatterArr;
 }
 function splitAndDrop(str) {
@@ -6288,8 +6287,8 @@ async function getJugglLinks(app, settings) {
         });
         return jugglLink;
     }));
-    debug(settings, typedLinksArr);
-    const allFields = [settings.parentFieldName, settings.siblingFieldName, settings.childFieldName].map(splitAndTrim).flat().filter(field => field !== "");
+    debug(settings, { typedLinksArr });
+    const allFields = [settings.parentFieldName, settings.siblingFieldName, settings.childFieldName].map(splitAndTrim).flat().filter((field) => field !== "");
     typedLinksArr.forEach(jugglLink => {
         if (jugglLink.links.length) {
             const fieldTypesOnly = [];
@@ -6302,11 +6301,11 @@ async function getJugglLinks(app, settings) {
         }
     });
     const filteredLinks = typedLinksArr.filter(link => link.links.length ? true : false);
-    debug(settings, filteredLinks);
+    debug(settings, { filteredLinks });
     return filteredLinks;
 }
 function getFields(fileFrontmatter, field, settings) {
-    var _a, _b, _c, _d, _e, _f;
+    var _a, _b, _c, _d, _e;
     const fieldItems = (_b = (_a = fileFrontmatter.frontmatter) === null || _a === void 0 ? void 0 : _a[field]) !== null && _b !== void 0 ? _b : [];
     if (typeof fieldItems === "string") {
         superDebug(settings, `${field} (type: '${typeof fieldItems}') of: ${fileFrontmatter.file.basename} is: ${fieldItems}`);
@@ -6316,8 +6315,12 @@ function getFields(fileFrontmatter, field, settings) {
     else {
         superDebug(settings, `${field} (type: '${typeof fieldItems}') of: ${fileFrontmatter.file.basename} is:`);
         // superDebug(settings, (fieldItems?.join(', ') ?? undefined))
-        const links = (_f = (_e = [fieldItems]
-            .flat()) === null || _e === void 0 ? void 0 : _e.map((link) => { var _a, _b, _c; return (_b = (_a = link.path) === null || _a === void 0 ? void 0 : _a.split("/").last()) !== null && _b !== void 0 ? _b : ((_c = link === null || link === void 0 ? void 0 : link.split("/").last()) !== null && _c !== void 0 ? _c : ''); })) !== null && _f !== void 0 ? _f : [];
+        const flattenedItems = ([fieldItems].flat(5));
+        const links = (_e = flattenedItems.map((link) => {
+            var _a, _b, _c;
+            debug(settings, link);
+            return (_b = (_a = link === null || link === void 0 ? void 0 : link.path) === null || _a === void 0 ? void 0 : _a.split("/").last()) !== null && _b !== void 0 ? _b : ((_c = link === null || link === void 0 ? void 0 : link.split("/").last()) !== null && _c !== void 0 ? _c : (''));
+        })) !== null && _e !== void 0 ? _e : [];
         return links;
     }
 }
@@ -6363,7 +6366,7 @@ async function getNeighbourObjArr(plugin, fileFrontmatterArr) {
         }
         return { current: fileFrontmatter.file, parents, siblings, children };
     });
-    debug(plugin.settings, neighbourObjArr);
+    debug(plugin.settings, { neighbourObjArr });
     return neighbourObjArr;
 }
 function debug(settings, log) {
@@ -6468,15 +6471,16 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
         const plugin = this.plugin;
         const { containerEl } = this;
         containerEl.empty();
-        containerEl.createEl("h2", { text: "Settings for Breadcrumbs plugin." });
-        containerEl.createEl("h3", { text: "Metadata Field Names" });
-        containerEl.createEl("p", {
+        containerEl.createEl("h2", { text: "Settings for Breadcrumbs plugin" });
+        const fieldDetails = containerEl.createEl("details");
+        fieldDetails.createEl("summary", { text: "Metadata Field Names" });
+        fieldDetails.createEl("p", {
             text: "The field names you use to indicate parent, sibling, and child relationships. Just enter the unformatted field name. So if you use `**parent**:: [[Note]]`, just enter `parent`.",
         });
-        containerEl.createEl("p", {
+        fieldDetails.createEl("p", {
             text: "You can enter multiple field names in a comma seperated list. For example: `parent, broader, upper`",
         });
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(fieldDetails)
             .setName("Parent Metadata Field")
             .setDesc("The key name you use as the parent field.")
             .addText((text) => text
@@ -6486,7 +6490,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             plugin.settings.parentFieldName = value;
             await plugin.saveSettings();
         }));
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(fieldDetails)
             .setName("Sibling Metadata Field")
             .setDesc("The key name you use as the sibling field.")
             .addText((text) => text
@@ -6496,7 +6500,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             plugin.settings.siblingFieldName = value;
             await plugin.saveSettings();
         }));
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(fieldDetails)
             .setName("Child Metadata Field")
             .setDesc("The key name you use as the child field.")
             .addText((text) => text
@@ -6506,7 +6510,9 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             plugin.settings.childFieldName = value;
             await plugin.saveSettings();
         }));
-        new obsidian.Setting(containerEl)
+        const generalDetails = containerEl.createEl("details");
+        generalDetails.createEl("summary", { text: "General Options" });
+        new obsidian.Setting(generalDetails)
             .setName("Refresh Interval")
             .setDesc("Enter an integer number of seconds to wait before Breadcrumbs auto-refreshes its data. This would update the matrix view and the trail if either are affected. (Set to 0 to disable autorefreshing)")
             .addText((text) => text
@@ -6538,15 +6544,16 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
                 new obsidian.Notice("The interval must be a non-negative number");
             }
         }));
-        containerEl.createEl("h3", { text: "Matrix/List View" });
-        new obsidian.Setting(containerEl)
+        const MLViewDetails = containerEl.createEl("details");
+        MLViewDetails.createEl("summary", { text: "Matrix/List View" });
+        new obsidian.Setting(MLViewDetails)
             .setName("Show Matrix or List view by default")
             .setDesc("When Obsidian first loads, which view should it show? On = Matrix, Off = List")
             .addToggle((toggle) => toggle.setValue(plugin.settings.defaultView).onChange(async (value) => {
             plugin.settings.defaultView = value;
             await plugin.saveSettings();
         }));
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(MLViewDetails)
             .setName("Show all field names or just relation types")
             .setDesc("This changes the headers in matrix/list view. You can have the headers be the list of metadata fields for each relation type (e.g. `parent, broader, upper`). Or you can have them just be the name of the relation type, i.e. 'Parent', 'Sibling', 'Child'. On = show the full list of names.")
             .addToggle((toggle) => toggle
@@ -6556,7 +6563,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             await plugin.saveSettings();
             await plugin.matrixView.draw();
         }));
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(MLViewDetails)
             .setName("Show Relationship Type")
             .setDesc("Show whether a link is real or implied. A real link is one you explicitly put in a note. E.g. parent:: [[Note]]. An implied link is the reverse of a real link. For example, if A is the real parent of B, then B must be the implied child of A.")
             .addToggle((toggle) => toggle
@@ -6566,8 +6573,9 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             await plugin.saveSettings();
             await plugin.matrixView.draw();
         }));
-        containerEl.createEl("h3", { text: "Breadcrumb Trail" });
-        new obsidian.Setting(containerEl)
+        const trailDetails = containerEl.createEl("details");
+        trailDetails.createEl("summary", { text: "Trail/Grid" });
+        new obsidian.Setting(trailDetails)
             .setName("Show Breadcrumbs")
             .setDesc("Show a trail of notes leading from your index note down to the current note you are in (if a path exists)")
             .addToggle((toggle) => toggle.setValue(plugin.settings.showTrail).onChange(async (value) => {
@@ -6575,7 +6583,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             await plugin.saveSettings();
             await plugin.drawTrail();
         }));
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(trailDetails)
             .setName("Trail or Table or Both")
             .setDesc("Wether to show the regular breadcrumb trails, the table view, neither, or both. 1 = Only Trail, 2 = Only Grid, 3 = Both")
             .addText((text) => {
@@ -6594,7 +6602,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
                 }
             });
         });
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(trailDetails)
             .setName("Grid view heatmap")
             .setDesc("If the grid view is visible, change the background colour of squares based on the number of children leaving that note.")
             .addToggle((toggle) => toggle.setValue(plugin.settings.gridHeatmap).onChange(async (value) => {
@@ -6602,7 +6610,18 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             await plugin.saveSettings();
             await plugin.drawTrail();
         }));
-        new obsidian.Setting(containerEl)
+        const mainColourDiv = trailDetails.createDiv();
+        mainColourDiv.createEl("h4", {
+            text: "Heat map colour",
+        });
+        const mainColourPicker = mainColourDiv.createEl("input", { type: "color" });
+        mainColourPicker.value = plugin.settings.heatmapColour;
+        mainColourPicker.addEventListener("change", async () => {
+            plugin.settings.heatmapColour = mainColourPicker.value;
+            console.log(mainColourPicker.value);
+            await plugin.saveSettings();
+        });
+        new obsidian.Setting(trailDetails)
             .setName("Index/Home Note(s)")
             .setDesc("The note that all of your other notes lead back to. The parent of all your parent notes. Just enter the name. So if your index note is `000 Home.md`, enter `000 Home`. You can also have multiple index notes (comma-separated list). The breadcrumb trail will show the shortest path back to any one of the index notes listed. You can now leave this field empty, meaning the trail will show a path going as far up the parent-tree as possible.")
             .addText((text) => {
@@ -6628,7 +6647,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
                 }
             };
         });
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(trailDetails)
             .setName("Default: All or Shortest")
             .setDesc("If multiple paths are found going up the parent tree, should all of them be shown by default, or only the shortest? On = all, off = shortest")
             .addToggle((toggle) => toggle
@@ -6638,7 +6657,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             await plugin.saveSettings();
             await plugin.drawTrail();
         }));
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(trailDetails)
             .setName("Breadcrumb trail seperator")
             .setDesc("The character to show between crumbs in the breadcrumb trail. The default is '→'")
             .addText((text) => text
@@ -6650,7 +6669,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             // BUG This doesn't seem to work... you still have to switch notes for it to redraw
             await plugin.matrixView.draw();
         }));
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(trailDetails)
             .setName("No path found message")
             .setDesc("The text to display when no path to the index note was found, or when the current note has no parent (this happens if you haven't chosen an index note)")
             .addText((text) => text
@@ -6660,7 +6679,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             plugin.settings.noPathMessage = value;
             await plugin.saveSettings();
         }));
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(trailDetails)
             .setName("Respect Readable Line Length")
             .setDesc("Should the breadcrumbs trail adjust its width to the readable line length, or use as much space as possible? On = use readable line length.")
             .addToggle((toggle) => toggle
@@ -6669,15 +6688,16 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             plugin.settings.respectReadableLineLength = value;
             await plugin.saveSettings();
         }));
-        containerEl.createEl("h3", { text: "Debugging Options" });
-        new obsidian.Setting(containerEl)
+        const debugDetails = containerEl.createEl("details");
+        debugDetails.createEl("summary", { text: "Debugging" });
+        new obsidian.Setting(debugDetails)
             .setName("Debug Mode")
             .setDesc("Toggling this on will enable a few console logs to appear when use the matrix/list view, or the trail.")
             .addToggle((toggle) => toggle.setValue(plugin.settings.debugMode).onChange(async (value) => {
             plugin.settings.debugMode = value;
             await plugin.saveSettings();
         }));
-        new obsidian.Setting(containerEl)
+        new obsidian.Setting(debugDetails)
             .setName("Super Debug Mode")
             .setDesc("Toggling this on will enable ALOT of console logs")
             .addToggle((toggle) => toggle
@@ -8390,7 +8410,11 @@ class MatrixView extends obsidian.ItemView {
         return Promise.resolve();
     }
     resolvedClass(toFile, currFile) {
-        return this.app.metadataCache.unresolvedLinks[currFile.path][toFile] > 0
+        const { unresolvedLinks } = this.app.metadataCache;
+        if (!unresolvedLinks[currFile.path]) {
+            return "internal-link breadcrumbs-link";
+        }
+        return unresolvedLinks[currFile.path][toFile] > 0
             ? "internal-link is-unresolved breadcrumbs-link"
             : "internal-link breadcrumbs-link";
     }
@@ -8418,18 +8442,9 @@ class MatrixView extends obsidian.ItemView {
         return internalLinkObjArr;
     }
     // ANCHOR Remove duplicate implied links
-    removeDuplicateImplied(real, implied) {
-        const impliedTos = implied.map((impliedObj, i) => [
-            impliedObj.to,
-            i,
-        ]);
-        real.forEach((realItem) => {
-            impliedTos.forEach((impliedTo) => {
-                if (impliedTo[0] === realItem.to) {
-                    implied.splice(impliedTo[1], 1);
-                }
-            });
-        });
+    removeDuplicateImplied(reals, implieds) {
+        const realTos = reals.map(real => real.to);
+        return implieds.filter(implied => !realTos.includes(implied.to));
     }
     dfsAllPaths(g, startNode) {
         var _a;
@@ -8488,7 +8503,6 @@ class MatrixView extends obsidian.ItemView {
                 }
             }
         });
-        console.log({ visited });
         // !SECTION Create Index
         const viewToggleButton = this.contentEl.createEl("button", {
             text: this.matrixQ ? "List" : "Matrix",
@@ -8507,7 +8521,7 @@ class MatrixView extends obsidian.ItemView {
             settings.showNameOrType ? settings.siblingFieldName : "Sibling",
             settings.showNameOrType ? settings.childFieldName : "Child",
         ];
-        const [realParents, realSiblings, realChildren, impliedParents, impliedChildren,] = [
+        let [realParents, realSiblings, realChildren, impliedParents, impliedChildren,] = [
             this.squareItems(gParents, currFile),
             this.squareItems(gSiblings, currFile),
             this.squareItems(gChildren, currFile),
@@ -8517,7 +8531,7 @@ class MatrixView extends obsidian.ItemView {
         // SECTION Implied Siblings
         /// Notes with the same parents
         const currParents = ((_a = gParents.successors(currFile.basename)) !== null && _a !== void 0 ? _a : []);
-        const impliedSiblingsArr = [];
+        let impliedSiblingsArr = [];
         if (currParents.length) {
             currParents.forEach((parent) => {
                 var _a;
@@ -8537,9 +8551,10 @@ class MatrixView extends obsidian.ItemView {
         /// A real sibling implies the reverse sibling
         impliedSiblingsArr.push(...this.squareItems(gSiblings, currFile, false));
         // !SECTION
-        this.removeDuplicateImplied(realParents, impliedParents);
-        this.removeDuplicateImplied(realSiblings, impliedSiblingsArr);
-        this.removeDuplicateImplied(realChildren, impliedChildren);
+        impliedParents = this.removeDuplicateImplied(realParents, impliedParents);
+        impliedSiblingsArr = this.removeDuplicateImplied(realSiblings, impliedSiblingsArr);
+        impliedChildren = this.removeDuplicateImplied(realChildren, impliedChildren);
+        debug(settings, { realParents, impliedParents, realSiblings, impliedSiblingsArr, realChildren, impliedChildren });
         const parentsSquare = {
             realItems: realParents,
             impliedItems: impliedParents,
@@ -8634,7 +8649,7 @@ function create_each_block_1$1(ctx) {
 			: "") + " svelte-vqpdko");
 
 			attr(div, "style", div_style_value = "\n            grid-area: " + (/*step*/ ctx[20].first + 1) + " / " + (/*i*/ ctx[19] + 1) + " / \n                " + (/*step*/ ctx[20].last + 2) + " / " + (/*i*/ ctx[19] + 2) + ";\n            " + (/*settings*/ ctx[3].gridHeatmap
-			? `background-color: rgba(50, 50, 50, ${/*children*/ ctx[2][/*step*/ ctx[20].value]})`
+			? `background-color: ${/*settings*/ ctx[3].heatmapColour}${Math.round(/*children*/ ctx[2][/*step*/ ctx[20].value] * 200 + 55).toString(16)}`
 			: ""));
 		},
 		m(target, anchor) {
@@ -8655,7 +8670,7 @@ function create_each_block_1$1(ctx) {
 			ctx = new_ctx;
 
 			if (dirty & /*children*/ 4 && div_style_value !== (div_style_value = "\n            grid-area: " + (/*step*/ ctx[20].first + 1) + " / " + (/*i*/ ctx[19] + 1) + " / \n                " + (/*step*/ ctx[20].last + 2) + " / " + (/*i*/ ctx[19] + 2) + ";\n            " + (/*settings*/ ctx[3].gridHeatmap
-			? `background-color: rgba(50, 50, 50, ${/*children*/ ctx[2][/*step*/ ctx[20].value]})`
+			? `background-color: ${/*settings*/ ctx[3].heatmapColour}${Math.round(/*children*/ ctx[2][/*step*/ ctx[20].value] * 200 + 55).toString(16)}`
 			: ""))) {
 				attr(div, "style", div_style_value);
 			}
@@ -8694,7 +8709,7 @@ function create_each_block$1(ctx) {
 			insert(target, each_1_anchor, anchor);
 		},
 		p(ctx, dirty) {
-			if (dirty & /*resolvedClass, allRuns, currFile, settings, children, openOrSwitch, app, hoverPreview, activeLeafView*/ 382) {
+			if (dirty & /*resolvedClass, allRuns, currFile, settings, Math, children, openOrSwitch, app, hoverPreview, activeLeafView*/ 382) {
 				each_value_1 = /*allRuns*/ ctx[8][/*i*/ ctx[19]];
 				let i;
 
@@ -8753,7 +8768,7 @@ function create_fragment$1(ctx) {
 			}
 		},
 		p(ctx, [dirty]) {
-			if (dirty & /*allRuns, resolvedClass, currFile, settings, children, openOrSwitch, app, hoverPreview, activeLeafView*/ 382) {
+			if (dirty & /*allRuns, resolvedClass, currFile, settings, Math, children, openOrSwitch, app, hoverPreview, activeLeafView*/ 382) {
 				each_value = /*transposedTrails*/ ctx[7];
 				let i;
 
@@ -9338,6 +9353,7 @@ const DEFAULT_SETTINGS = {
     showTrail: true,
     trailOrTable: 3,
     gridHeatmap: false,
+    heatmapColour: '#EEEEEE',
     showAll: false,
     noPathMessage: `This note has no real or implied parents`,
     trailSeperator: "→",
@@ -9367,7 +9383,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         console.log("loading breadcrumbs plugin");
         await this.loadSettings();
         this.visited = [];
-        this.registerView(VIEW_TYPE_BREADCRUMBS_MATRIX, (leaf) => (this.matrixView = new MatrixView(leaf, this)));
+        this.registerView(VIEW_TYPE_BREADCRUMBS_MATRIX, (leaf) => (new MatrixView(leaf, this)));
         this.app.workspace.onLayoutReady(async () => {
             // this.trailDiv = createDiv()
             setTimeout(async () => {
@@ -9379,7 +9395,10 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                 this.registerEvent(this.app.workspace.on("active-leaf-change", async () => {
                     this.currGraphs = await this.initGraphs();
                     debug(this.settings, this.currGraphs);
-                    await this.matrixView.draw();
+                    const activeView = this.getActiveView();
+                    if (activeView) {
+                        await activeView.draw();
+                    }
                     if (this.settings.showTrail) {
                         await this.drawTrail();
                     }
@@ -9391,15 +9410,16 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                         if (this.settings.showTrail) {
                             await this.drawTrail();
                         }
-                        if (this.matrixView) {
-                            await this.matrixView.draw();
+                        const activeView = this.getActiveView();
+                        if (activeView) {
+                            await activeView.draw();
                         }
                     }, this.settings.refreshIntervalTime * 1000);
                     this.registerInterval(this.refreshIntervalID);
                 }
             }, DATAVIEW_INDEX_DELAY);
         });
-        obsidian.addIcon(TRAIL_ICON, '<path fill="currentColor" stroke="currentColor" d="M48.8,4c-6,0-13.5,0.5-19.7,3.3S17.9,15.9,17.9,25c0,5,2.6,9.7,6.1,13.9s8.1,8.3,12.6,12.3s9,7.8,12.2,11.5 c3.2,3.7,5.1,7.1,5.1,10.2c0,14.4-13.4,19.3-13.4,19.3c-0.7,0.2-1.2,0.8-1.3,1.5s0.1,1.4,0.7,1.9c0.6,0.5,1.3,0.6,2,0.3 c0,0,16.1-6.1,16.1-23c0-4.6-2.6-8.8-6.1-12.8c-3.5-4-8.1-7.9-12.6-11.8c-4.5-3.9-8.9-7.9-12.2-11.8c-3.2-3.9-5.2-7.7-5.2-11.4 c0-7.8,3.6-11.6,8.8-14S43,8,48.8,8c4.6,0,9.3,0,11,0c0.7,0,1.4-0.4,1.7-1c0.3-0.6,0.3-1.4,0-2s-1-1-1.7-1C58.3,4,53.4,4,48.8,4 L48.8,4z M78.1,4c-0.6,0-1.2,0.2-1.6,0.7l-8.9,9.9c-0.5,0.6-0.7,1.4-0.3,2.2c0.3,0.7,1,1.2,1.8,1.2h0.1l-2.8,2.6 c-0.6,0.6-0.8,1.4-0.5,2.2c0.3,0.8,1,1.3,1.9,1.3h1.3l-4.5,4.6c-0.6,0.6-0.7,1.4-0.4,2.2c0.3,0.7,1,1.2,1.8,1.2h10v4 c0,0.7,0.4,1.4,1,1.8c0.6,0.4,1.4,0.4,2,0c0.6-0.4,1-1,1-1.8v-4h10c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.1-1.6-0.4-2.2L86.9,24h1.3 c0.8,0,1.6-0.5,1.9-1.3c0.3-0.8,0.1-1.6-0.5-2.2l-2.8-2.6h0.1c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.2-1.6-0.3-2.2l-8.9-9.9 C79.1,4.3,78.6,4,78.1,4L78.1,4z M78,9l4.4,4.9h-0.7c-0.8,0-1.6,0.5-1.9,1.3c-0.3,0.8-0.1,1.6,0.5,2.2l2.8,2.6h-1.1 c-0.8,0-1.5,0.5-1.8,1.2c-0.3,0.7-0.1,1.6,0.4,2.2l4.5,4.6H70.8l4.5-4.6c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-1.1 l2.8-2.6c0.6-0.6,0.8-1.4,0.5-2.2c-0.3-0.8-1-1.3-1.9-1.3h-0.7L78,9z M52.4,12c-4.1,0-7.1,0.5-9.4,1.5c-2.3,1-3.8,2.5-4.5,4.3 c-0.7,1.8-0.5,3.6,0.1,5.2c0.6,1.5,1.5,2.9,2.5,3.9c5.4,5.4,18.1,12.6,29.6,21c5.8,4.2,11.2,8.6,15.1,13c3.9,4.4,6.2,8.7,6.2,12.4 c0,14.5-12.9,18.7-12.9,18.7c-0.7,0.2-1.2,0.8-1.4,1.5s0.1,1.5,0.7,1.9c0.6,0.5,1.3,0.6,2,0.3c0,0,15.6-5.6,15.6-22.5 c0-5.3-2.9-10.3-7.2-15.1C84.6,53.6,79,49,73.1,44.7c-11.8-8.6-24.8-16.3-29.2-20.6c-0.6-0.6-1.2-1.5-1.6-2.4 c-0.3-0.9-0.4-1.7-0.1-2.4c0.3-0.7,0.8-1.4,2.3-2c1.5-0.7,4.1-1.2,7.8-1.2c4.9,0,9.4,0.1,9.4,0.1c0.7,0,1.4-0.3,1.8-1 c0.4-0.6,0.4-1.4,0-2.1c-0.4-0.6-1.1-1-1.8-1C61.9,12.1,57.3,12,52.4,12L52.4,12z M24,46c-0.5,0-1.1,0.2-1.4,0.6L9.2,60.5 c-0.6,0.6-0.7,1.4-0.4,2.2c0.3,0.7,1,1.2,1.8,1.2h3l-6.5,6.8c-0.6,0.6-0.7,1.4-0.4,2.2s1,1.2,1.8,1.2H13l-8.5,8.6 C4,83.2,3.8,84,4.2,84.8C4.5,85.5,5.2,86,6,86h16v5.4c0,0.7,0.4,1.4,1,1.8c0.6,0.4,1.4,0.4,2,0c0.6-0.4,1-1,1-1.8V86h16 c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.1-1.6-0.4-2.2L35,74h4.4c0.8,0,1.5-0.5,1.8-1.2s0.2-1.6-0.4-2.2l-6.5-6.8h3 c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.2-1.6-0.4-2.2L25.4,46.6C25.1,46.2,24.5,46,24,46L24,46z M24,50.9l8.7,9h-3 c-0.8,0-1.5,0.5-1.8,1.2s-0.2,1.6,0.4,2.2l6.5,6.8h-4.5c-0.8,0-1.5,0.5-1.8,1.2c-0.3,0.7-0.1,1.6,0.4,2.2l8.5,8.6H10.8l8.5-8.6 c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-4.5l6.5-6.8c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-3L24,50.9z"/>');
+        obsidian.addIcon(TRAIL_ICON, TRAIL_ICON_SVG);
         this.addCommand({
             id: "show-breadcrumbs-matrix-view",
             name: "Open Matrix View",
@@ -9413,9 +9433,18 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         });
         this.addSettingTab(new BreadcrumbsSettingTab(this.app, this));
     }
+    getActiveView() {
+        const leaves = this.app.workspace.getLeavesOfType(VIEW_TYPE_BREADCRUMBS_MATRIX);
+        if (leaves && leaves.length >= 1) {
+            const view = leaves[0].view;
+            if (view instanceof MatrixView) {
+                return view;
+            }
+        }
+        return null;
+    }
     // SECTION OneSource
     populateGraph(g, currFileName, neighbours, relationship) {
-        // NOTE I removed an if(neighbours[relationship]) check here
         g.setNode(currFileName, currFileName);
         neighbours[relationship].forEach((node) => g.setEdge(currFileName, node, relationship));
     }
@@ -9438,7 +9467,11 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
     // !SECTION OneSource
     // SECTION Breadcrumbs
     resolvedClass(toFile, currFile) {
-        return this.app.metadataCache.unresolvedLinks[currFile.path][toFile] > 0
+        const { unresolvedLinks } = this.app.metadataCache;
+        if (!unresolvedLinks[currFile.path]) {
+            return "internal-link breadcrumbs-link";
+        }
+        return unresolvedLinks[currFile.path][toFile] > 0
             ? "internal-link is-unresolved breadcrumbs-link"
             : "internal-link breadcrumbs-link";
     }
@@ -9488,7 +9521,11 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         return pathsArr;
     }
     getBreadcrumbs(g) {
-        const from = this.app.workspace.getActiveFile().basename;
+        const currFile = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView).file;
+        if (currFile.extension !== 'md') {
+            return null;
+        }
+        const from = currFile.basename;
         const paths = graphlib.alg.dijkstra(g, from);
         const indexNotes = [this.settings.indexNote].flat();
         const allTrails = [];
@@ -9527,46 +9564,59 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         return sortedTrails;
     }
     async drawTrail() {
-        var _a;
-        if (this.settings.showTrail) {
-            const { gParents, gChildren } = this.currGraphs;
-            const closedParents = closeImpliedLinks(gParents, gChildren);
-            const sortedTrails = this.getBreadcrumbs(closedParents);
-            const currFile = this.app.workspace.getActiveFile();
-            const settings = this.settings;
-            // Get the container div of the active note
-            const previewView = document.querySelector("div.mod-active div.view-content div.markdown-preview-view");
-            (_a = previewView.querySelector('div.breadcrumbs-trail')) === null || _a === void 0 ? void 0 : _a.remove();
-            const trailDiv = createDiv();
-            previewView.prepend(trailDiv);
-            this.visited.push([currFile.path, trailDiv]);
-            trailDiv.className = `breadcrumbs-trail is-readable-line-width${settings.respectReadableLineLength
-                ? " markdown-preview-sizer markdown-preview-section"
-                : ""}`;
-            previewView.prepend(trailDiv);
-            trailDiv.empty();
-            if (settings.trailOrTable === 1) {
-                new TrailPath({
-                    target: trailDiv,
-                    props: { sortedTrails, app: this.app, settings, currFile }
-                });
-            }
-            else if (settings.trailOrTable === 2) {
-                new TrailGrid({
-                    target: trailDiv,
-                    props: { sortedTrails, app: this.app, plugin: this }
-                });
-            }
-            else {
-                new TrailPath({
-                    target: trailDiv,
-                    props: { sortedTrails, app: this.app, settings, currFile }
-                });
-                new TrailGrid({
-                    target: trailDiv,
-                    props: { sortedTrails, app: this.app, plugin: this }
-                });
-            }
+        var _a, _b, _c;
+        if (!this.settings.showTrail) {
+            return;
+        }
+        const activeMDView = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
+        if (!activeMDView) {
+            return;
+        }
+        const currFile = activeMDView.file;
+        const frontm = (_b = (_a = this.app.metadataCache.getFileCache(currFile)) === null || _a === void 0 ? void 0 : _a.frontmatter) !== null && _b !== void 0 ? _b : {};
+        if (frontm['kanban-plugin']) {
+            return;
+        }
+        const { gParents, gChildren } = this.currGraphs;
+        const closedParents = closeImpliedLinks(gParents, gChildren);
+        const sortedTrails = this.getBreadcrumbs(closedParents);
+        if (!sortedTrails) {
+            return;
+        }
+        const settings = this.settings;
+        // Get the container div of the active note
+        const previewView = activeMDView.contentEl.querySelector('.markdown-preview-view');
+        (_c = previewView.querySelector('div.breadcrumbs-trail')) === null || _c === void 0 ? void 0 : _c.remove();
+        const trailDiv = createDiv({
+            cls: `breadcrumbs-trail ${settings.respectReadableLineLength
+                ? "is-readable-line-width markdown-preview-sizer markdown-preview-section"
+                : ""}`
+        });
+        // previewView.prepend(trailDiv)
+        this.visited.push([currFile.path, trailDiv]);
+        previewView.prepend(trailDiv);
+        trailDiv.empty();
+        if (settings.trailOrTable === 1) {
+            new TrailPath({
+                target: trailDiv,
+                props: { sortedTrails, app: this.app, settings, currFile }
+            });
+        }
+        else if (settings.trailOrTable === 2) {
+            new TrailGrid({
+                target: trailDiv,
+                props: { sortedTrails, app: this.app, plugin: this }
+            });
+        }
+        else {
+            new TrailPath({
+                target: trailDiv,
+                props: { sortedTrails, app: this.app, settings, currFile }
+            });
+            new TrailGrid({
+                target: trailDiv,
+                props: { sortedTrails, app: this.app, plugin: this }
+            });
         }
     }
     async loadSettings() {
