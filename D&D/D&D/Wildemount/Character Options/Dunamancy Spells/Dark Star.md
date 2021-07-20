@@ -14,7 +14,7 @@ This spell creates a sphere centered on a point you choose within range. The sph
 
 For the duration, the spell’s area is difficult terrain. A creature with [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) can’t see through the magical darkness, and nonmagical light can’t illuminate it. No sound can be created within or pass through the area. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are [deafened](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Deafened) while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
-Any creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Constitution saving throw. The creature takes 8d10 force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points by this damage is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.
+Any creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Constitution saving throw. The creature takes 8d10 force damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points by this damage is disintegrated. A disintegrated creature and everything it is wearing and carrying, except [[magic items]], are reduced to a pile of fine gray dust.
 
 ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-19.png)
 

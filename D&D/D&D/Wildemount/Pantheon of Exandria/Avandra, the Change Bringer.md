@@ -10,7 +10,7 @@ Avandra, the Change Bringer
 
 **_Depiction._** The Change Bringer is often depicted as a young woman of dark complexion and long, light brown hair that cascades to form the road left behind her. Most art shows her in constant motion, ever leading into the unknown.
 
-**_Holy Day._** Avandra’s holy day, called New Dawn, takes place on the first day of the first month, when the old year gives way to the new. On the Menagerie Coast, people celebrate by having a feast on the shore at dusk to watch the sunset. They feast and discuss their hopes for the new year until the sun rises.
+**_Holy Day._** Avandra’s holy day, called New Dawn, takes place on the first day of the first month, when the old year gives way to the new. On the [[Menagerie Coast]], people celebrate by having a feast on the shore at dusk to watch the sunset. They feast and discuss their hopes for the new year until the sun rises.
 
 #### Commandments of Avandra
 

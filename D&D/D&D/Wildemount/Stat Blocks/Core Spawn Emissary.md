@@ -1,8 +1,8 @@
-### Core Spawn Emissary
+### [[Core Spawn]] Emissary
 
-These airborne predators serve as assassins and sentinels for the core spawn. The terrible thrum of its insectoid wings and a chittering of mandibles announces an emissary’s arrival.
+These airborne predators serve as assassins and sentinels for the [[core spawn]]. The terrible thrum of its insectoid wings and a chittering of mandibles announces an emissary’s arrival.
 
-The core spawn emissary can expel clouds of crystalline spores from tubes in its head. These spores act like a contact poison and can be deadly if inhaled.
+The [[core spawn]] emissary can expel clouds of crystalline spores from tubes in its head. These spores act like a contact poison and can be deadly if inhaled.
 
 [Core Spawn Emissary](https://www.dndbeyond.com/monsters/core-spawn-emissary)
 

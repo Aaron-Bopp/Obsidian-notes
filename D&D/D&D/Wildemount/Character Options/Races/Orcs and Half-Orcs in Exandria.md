@@ -1,28 +1,28 @@
 ## Orcs and Half-Orcs
 
-The first half-orcs in Wildemount were born of a union between human warriors and orc traitors in the final days of the Calamity. Orcs are one of Exandria’s youngest races, and are said to have been born from elves seared by the blood of Gruumsh, the Ruiner, when Corellon pierced the orc god’s eye on the field of battle. For long years, orcs were feared as mindless abominations, drawn to slaughter like moths to flame.
+The first half-orcs in [[Wildemount]] were born of a union between human warriors and orc traitors in the final days of [[the Calamity]]. Orcs are one of Exandria’s youngest races, and are said to have been born from elves seared by the blood of [[Gruumsh, the Ruiner]], when Corellon pierced the orc god’s eye on the field of battle. For long years, orcs were feared as mindless abominations, drawn to slaughter like moths to flame.
 
 Stories tell of how the blood of the Ruiner flows in the veins of all orcs, driving them to commit acts of terrible violence and anger. Orcs call this fury _hgar’Gruum_, or the curse of ruin, and use it to refer to everything from battle rage to a bad temper. Half-orcs are said to have inherited the blood of the Ruiner, and to carry the same bloodlust and fury that orcs do.
 
 Orcs and half-orcs do feel a certain pull toward violence and anger. But the simple truth is that there is no curse of ruin. No supernatural power drives orcs to kill. Rather, they are simply victims of the same selfish, violent impulses that corrupt all mortal beings.
 
-### Half-Orcs in the Dwendalian Empire
+### Half-Orcs in the [[Dwendalian Empire]]
 
-The orcish settlement of Bladegarden was incorporated into the Dwendalian Empire after the fall of the Julous Dominion, nearly three hundred years ago. Orcs are now renowned as some of the empire’s most accomplished soldiers, though many folk still fear the ancient legends of the curse of ruin.
+The orcish settlement of [[Bladegarden]] was incorporated into the [[Dwendalian Empire]] after the fall of the Julous Dominion, nearly three hundred years ago. Orcs are now renowned as some of the empire’s most accomplished soldiers, though many folk still fear the ancient legends of the curse of ruin.
 
 Half-orcs are proud of their heritage, though many are wary of the wrathful curse that supposedly drives them to violence. Those who embrace this gift of fury often enlist in the Righteous Brand to focus their rage against the enemies of the empire. Other half-orcs reject the idea that they are destined for violence, and rely on faith, meditation, and friendship to live peaceful lives.
 
-### Half-Orcs on the Menagerie Coast
+### Half-Orcs on the [[Menagerie Coast]]
 
-The folk of the Clovis Concord welcome people of all kinds to their shores, yet orcs and half-orcs are uncommon in Concordian cities. Most half-orcs on the Menagerie Coast come from the continent of Tal’Dorei as visitors, merchants, or mercenaries, and rarely settle. Half-orc children in the settlements of the coast are often bullied for their unusual teeth.
+The folk of the [[Clovis Concord]] welcome people of all kinds to their shores, yet orcs and half-orcs are uncommon in Concordian cities. Most half-orcs on the [[Menagerie Coast]] come from the continent of Tal’Dorei as visitors, merchants, or mercenaries, and rarely settle. Half-orc children in the settlements of the coast are often bullied for their unusual teeth.
 
-Only the Concordian city of Othe has a significant half-orc population. Originally established as a spiritual site for the Ki’Nau people, the city has long attracted orcs and half-orcs who believe that the curse of ruin has caused them to lash out at those they love. In Othe, they find peace through spiritualism—and a place to belong.
+Only the Concordian city of [[Othe]] has a significant half-orc population. Originally established as a spiritual site for [[the Ki’Nau]] people, the city has long attracted orcs and half-orcs who believe that the curse of ruin has caused them to lash out at those they love. In [[Othe]], they find peace through spiritualism—and a place to belong.
 
-### Half-Orcs in Xhorhas
+### Half-Orcs in [[Xhorhas]]
 
-The orcs of Xhorhas are a predominantly nomadic people, living in mixed clans of orcs, humans, and bugbears. They wander the wastes, taming the indigenous beasts and trading with Kryn settlements. The relationship between the orcs and the Kryn is relatively peaceful, though many nomadic orcs are angered when Kryn souls are reborn in orc bodies. These orcs nonetheless readily accept Kryn into their roving clans, seeing it as a point of pride that a city dweller has been drawn to a more exciting life in the chaos of the wastes.
+The orcs of [[Xhorhas]] are a predominantly nomadic people, living in mixed clans of orcs, humans, and bugbears. They wander the wastes, taming the indigenous beasts and trading with Kryn settlements. The relationship between the orcs and the Kryn is relatively peaceful, though many nomadic orcs are angered when Kryn souls are reborn in orc bodies. These orcs nonetheless readily accept Kryn into their roving clans, seeing it as a point of pride that a city dweller has been drawn to a more exciting life in the chaos of the wastes.
 
-Most half-orcs in Xhorhas have human or drow blood. In the culture of the Xhorhasian nomads, the union of orcs and goblinkin is strictly taboo, for the clans’ elders fear the uncontrolled madness of a soul afflicted by both Gruumsh’s curse of ruin and Bane’s curse of strife.
+Most half-orcs in [[Xhorhas]] have human or drow blood. In the culture of the Xhorhasian nomads, the union of orcs and goblinkin is strictly taboo, for the clans’ elders fear the uncontrolled madness of a soul afflicted by both Gruumsh’s curse of ruin and Bane’s curse of strife.
 
 ### Orc Traits
 

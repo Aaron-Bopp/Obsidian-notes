@@ -2,7 +2,7 @@
 
 Desolate badlands and soggy marshes are home to the ancient and massive horizonback tortoises of Eastern Wynandir. Nearly fifty feet from nose to tail, and with a habit of remaining stationary for long periods, a horizonback tortoise is easy to mistake for a low hill at a distance. But when these impressive creatures rise to begin their march, the sight inspires fear and awe in equal parts. An omnivore of incredible size, these scavengers prefer to feed on dead vegetation, but make use of whatever edible matter they come across.
 
-_**Friend to the Wastefolk.**_ Referred to as “kinespaji” by the goblins of the east, these majestic and slow-moving beasts have long enjoyed a symbiotic relationship with the denizens of Xhorhas. Horizonback tortoises provide mobile homesteads and can act as siege weapons in times of crisis.
+_**Friend to the Wastefolk.**_ Referred to as “kinespaji” by the goblins of the east, these majestic and slow-moving beasts have long enjoyed a symbiotic relationship with the denizens of [[Xhorhas]]. Horizonback tortoises provide mobile homesteads and can act as siege weapons in times of crisis.
 
 [Horizonback Tortoise](https://www.dndbeyond.com/monsters/horizonback-tortoise)
 

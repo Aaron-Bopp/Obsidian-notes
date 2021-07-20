@@ -2,7 +2,7 @@
 **Tag**:: #Subclass/Fighter
 Features: `=this.feature`
 
-A mysterious and feared frontline warrior of the Kryn Dynasty, the Echo Knight has mastered the art of using dunamis to summon the fading shades of unrealized timelines to aid them in battle. Surrounded by echoes of their own might, they charge into the fray as a cycling swarm of shadows and strikes. Sublcass for Fighter
+A mysterious and feared frontline warrior of the [[Kryn Dynasty]], the Echo Knight has mastered the art of using [[dunamis]] to summon the fading shades of unrealized timelines to aid them in battle. Surrounded by echoes of their own might, they charge into the fray as a cycling swarm of shadows and strikes. Sublcass for Fighter
 
 ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-16.png)
 

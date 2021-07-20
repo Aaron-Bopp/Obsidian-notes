@@ -1,6 +1,6 @@
-## Encounters in Eiselcross
+## Encounters in [[Eiselcross]]
 
-Eiselcross is a land of strange magic, bizarre creatures, and fascinating people. Each day that the characters travel the land, roll a d20. On a result of 15 or higher, an encounter chosen or rolled on the Eiselcross Encounters table of the appropriate level occurs. Not all of these encounters are meant to result in combat, and the ideas on the tables can inspire encounters of your own creation.
+[[Eiselcross]] is a land of strange magic, bizarre creatures, and fascinating people. Each day that the characters travel the land, roll a d20. On a result of 15 or higher, an encounter chosen or rolled on the [[Eiselcross]] Encounters table of the appropriate level occurs. Not all of these encounters are meant to result in combat, and the ideas on the tables can inspire encounters of your own creation.
 #Table 
 d6
 
@@ -12,7 +12,7 @@ The characters encounter 1d4 wildfolk [scouts](https://www.dndbeyond.com/monster
 
 2
 
-The characters encounter a lost Cerberus Assembly [mage](https://www.dndbeyond.com/monsters/mage) trying to return to Balenpost. The rest of the mage's team died in the ruins of Aeor, and there is a 50 percent chance the mage carries a recently recovered Aeorian item.
+The characters encounter a lost [[Cerberus Assembly]] [mage](https://www.dndbeyond.com/monsters/mage) trying to return to [[Balenpost]]. The rest of the mage's team died in the ruins of [[Aeor]], and there is a 50 percent chance the mage carries a recently recovered Aeorian item.
 
 3
 
@@ -20,7 +20,7 @@ The characters find a [griffon](https://www.dndbeyond.com/monsters/griffon) with
 
 4
 
-The characters encounter the [revenant](https://www.dndbeyond.com/monsters/revenant) of a dead explorer from Balenpost who was murdered by one of its team and is looking for vengeance.
+The characters encounter the [revenant](https://www.dndbeyond.com/monsters/revenant) of a dead explorer from [[Balenpost]] who was murdered by one of its team and is looking for vengeance.
 
 5
 
@@ -44,7 +44,7 @@ An [abominable yeti](https://www.dndbeyond.com/monsters/abominable-yeti) and 1d4
 
 3
 
-The characters encounter 2d4 [yetis from Allowak's Sanctuary](https://www.dndbeyond.com/monsters/yeti-allowak-variant) (see "[Allowak's Sanctuary Yeti Statistics](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-eiselcross#AllowaksSanctuaryYetiStatistics "Allowak's Sanctuary Yeti Statistics")" later in this chapter). The yetis attempt to scare the characters away but do not wish to do harm.
+The characters encounter 2d4 [yetis from Allowak's Sanctuary](https://www.dndbeyond.com/monsters/yeti-allowak-variant) (see "[Allowak's Sanctuary Yeti Statistics](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-[[eiselcross]]#AllowaksSanctuaryYetiStatistics "[[Allowak's Sanctuary]] Yeti Statistics")" later in this chapter). The yetis attempt to scare the characters away but do not wish to do harm.
 
 4
 
@@ -52,7 +52,7 @@ The characters pass an Aeorian building that crashed nearby. The building contai
 
 5
 
-An [Aeorian absorber](https://www.dndbeyond.com/monsters/aeorian-absorber) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#AeorianAbsorber "chapter 7")) ambushes the characters.
+An [Aeorian absorber](https://www.dndbeyond.com/monsters/aeorian-absorber) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#AeorianAbsorber "chapter 7")) ambushes the characters.
 
 6
 
@@ -92,11 +92,11 @@ Encounter
 
 1
 
-The characters find the buried top of an Aeorian tower that crashed into the ice. Ice fills the lower levels of the tower, and 1d4 + 1 [Aeorian nullifiers](https://www.dndbeyond.com/monsters/aeorian-nullifier) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#AeorianNullifier "chapter 7")) are frozen in the ice.
+The characters find the buried top of an Aeorian tower that crashed into the ice. Ice fills the lower levels of the tower, and 1d4 + 1 [Aeorian nullifiers](https://www.dndbeyond.com/monsters/aeorian-nullifier) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#AeorianNullifier "chapter 7")) are frozen in the ice.
 
 2
 
-The characters encounter 2d6 gladiator wormkin (see "[Tomb of the Worm](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-eiselcross#TomboftheWorm "Tomb of the Worm")" later in this chapter) attempting to force-feed a group of 3d6 wildfolk [commoners](https://www.dndbeyond.com/monsters/commoner) the meat of the Undermaw.
+The characters encounter 2d6 gladiator wormkin (see "[Tomb of the Worm](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-[[eiselcross]]#TomboftheWorm "[[Tomb of the Worm]]")" later in this chapter) attempting to force-feed a group of 3d6 wildfolk [commoners](https://www.dndbeyond.com/monsters/commoner) the meat of the Undermaw.
 
 3
 
@@ -104,7 +104,7 @@ The characters find a humanoid skull frozen in the ice. If they free the skull, 
 
 4
 
-The characters encounter two [mages](https://www.dndbeyond.com/monsters/mage) from Balenpost planning to steal an Aeorian item from a camp of 3d6 [frost giants](https://www.dndbeyond.com/monsters/frost-giant) and their tamed [frost worm](https://www.dndbeyond.com/monsters/frost-worm) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#FrostWorm "chapter 7")) The mages ask for the characters' help with the heist.
+The characters encounter two [mages](https://www.dndbeyond.com/monsters/mage) from [[Balenpost]] planning to steal an Aeorian item from a camp of 3d6 [frost giants](https://www.dndbeyond.com/monsters/frost-giant) and their tamed [frost worm](https://www.dndbeyond.com/monsters/frost-worm) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#FrostWorm "chapter 7")) The mages ask for the characters' help with the heist.
 
 5
 
@@ -112,11 +112,11 @@ The characters encounter the [ghost](https://www.dndbeyond.com/monsters/ghost) o
 
 6
 
-The characters encounter 2d6 [frost giant zombies](https://www.dndbeyond.com/monsters/frost-giant-zombie) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#FrostGiantZombie "chapter 7")). These zombies did not come from the Fortress of the Dead Jarl. Their origin is up to you.
+The characters encounter 2d6 [frost giant zombies](https://www.dndbeyond.com/monsters/frost-giant-zombie) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#FrostGiantZombie "chapter 7")). These zombies did not come from the [[Fortress of the Dead Jarl]]. Their origin is up to you.
 
 7
 
-The characters cross over an area of thin ice. A [kraken](https://www.dndbeyond.com/monsters/kraken) obsessed with Aeor floats beneath the ice and orders the characters to share any knowledge they have of the place or face its wrath.
+The characters cross over an area of thin ice. A [kraken](https://www.dndbeyond.com/monsters/kraken) obsessed with [[Aeor]] floats beneath the ice and orders the characters to share any knowledge they have of the place or face its wrath.
 
 8
 

@@ -1,6 +1,6 @@
-### Core Spawn Seer
+### [[Core Spawn]] Seer
 
-Core spawn seers are humanoid arcanists corrupted by the eldritch power of the Elder Evils through blasphemous rites or accursed encounters. Ravaged by otherworldly radiation and disease, their bodies are covered in horrible protrusions of fluorescent crystals, which emit a psychedelic glow from beneath the tattered folds of their robes.
+[[Core spawn]] seers are humanoid arcanists corrupted by the eldritch power of the Elder Evils through blasphemous rites or accursed encounters. Ravaged by otherworldly radiation and disease, their bodies are covered in horrible protrusions of fluorescent crystals, which emit a psychedelic glow from beneath the tattered folds of their robes.
 
 [Core Spawn Seer](https://www.dndbeyond.com/monsters/core-spawn-seer)
 

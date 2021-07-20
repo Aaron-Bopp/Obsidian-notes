@@ -1,22 +1,22 @@
 ## Firbolgs
 
-Firbolgs are a forest-dwelling race native to the Greying Wildlands, particularly the mysterious Savalirwood. Their bodies are covered with thick fur ranging from tones of earthen brown and ruddy red to cool grays and blues, and even to wild hues of pink and green. Their bodies are bovine or camelid in appearance, with floppy, pointed ears and broad, pink noses, but they are bipedal and have hands that can manipulate weapons and objects.
+Firbolgs are a forest-dwelling race native to the [[Greying Wildlands]], particularly the mysterious [[Savalirwood]]. Their bodies are covered with thick fur ranging from tones of earthen brown and ruddy red to cool grays and blues, and even to wild hues of pink and green. Their bodies are bovine or camelid in appearance, with floppy, pointed ears and broad, pink noses, but they are bipedal and have hands that can manipulate weapons and objects.
 
 Most firbolgs live in extended family units, and it is unusual to find one living alone. However, they are introverted to the point where they seldom engage with other firbolgs outside the family unit, and firbolgs rarely form their own cities, villages, or even large tribes. Despite this, many firbolgs enjoy visiting other nations’ settlements for a short time for trade, sightseeing, and to visit friends.
 
-### Firbolgs in the Dwendalian Empire
+### Firbolgs in the [[Dwendalian Empire]]
 
-Most imperial citizens have never even heard of firbolgs. Stories involving these folk are rare, and typically liken them to the giants, depicting firbolgs as hulking humanoid warriors rather than fur-covered nature lovers. People living in the great crossroads city of Zadash might be familiar with one firbolg in particular: the jolly, eccentric enchanter known as Pumat Sol. This familiarity means that many warm quickly to new firbolgs, albeit after some initial surprise.
+Most imperial citizens have never even heard of firbolgs. Stories involving these folk are rare, and typically liken them to the giants, depicting firbolgs as hulking humanoid warriors rather than fur-covered nature lovers. People living in the great crossroads city of [[Zadash]] might be familiar with one firbolg in particular: the jolly, eccentric enchanter known as Pumat Sol. This familiarity means that many warm quickly to new firbolgs, albeit after some initial surprise.
 
-### Firbolgs on the Menagerie Coast
+### Firbolgs on the [[Menagerie Coast]]
 
-Since firbolgs are neither prone to travel nor native to the Menagerie Coast, their numbers along Wildemount’s western shores are vanishingly small. The people of the Clovis Concord share the same folk tales of giant-like humanoid firbolgs as the folk of the Dwendalian Empire, and are likewise surprised by their gentle nature when they meet them.
+Since firbolgs are neither prone to travel nor native to the [[Menagerie Coast]], their numbers along [[Wildemount]]’s western shores are vanishingly small. The people of the [[Clovis Concord]] share the same folk tales of giant-like humanoid firbolgs as the folk of the [[Dwendalian Empire]], and are likewise surprised by their gentle nature when they meet them.
 
-### Firbolgs in Xhorhas
+### Firbolgs in [[Xhorhas]]
 
-Firbolgs who travel southeast from the Greying Wildlands and cross the Dunrock Mountains might find themselves wandering the wastes of Xhorhas. The territorial monsters that prowl the wastes show no pity to unprepared wanderers, and most firbolg families know better than to undertake such a dangerous journey.
+Firbolgs who travel southeast from the [[Greying Wildlands]] and cross the [[Dunrock Mountains]] might find themselves wandering the wastes of [[Xhorhas]]. The territorial monsters that prowl the wastes show no pity to unprepared wanderers, and most firbolg families know better than to undertake such a dangerous journey.
 
-With northern Xhorhas firmly under the control of the Kryn Dynasty, the dark elves have saved a number of firbolg travelers from monsters over the years. Enough of those have remained in the wastes for small firbolg communities to develop in Rosohna and other major Kryn cities.
+With northern [[Xhorhas]] firmly under the control of the [[Kryn Dynasty]], the dark elves have saved a number of firbolg travelers from monsters over the years. Enough of those have remained in the wastes for small firbolg communities to develop in Rosohna and other major Kryn cities.
 
 ### Firbolg Classes
 

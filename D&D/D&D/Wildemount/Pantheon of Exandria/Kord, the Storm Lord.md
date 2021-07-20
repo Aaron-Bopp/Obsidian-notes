@@ -10,7 +10,7 @@ Kord dwells among the roving settlements and battlefields within the rugged and 
 
 Kord, the Storm Lord
 
-**_Holy Day._** Kord’s holy day is the Day of Challenging, which is celebrated on the seventh day of the second month. The Day of Challenging is one of the most raucous holidays in Port Damali, and thousands of spectators attend the annual Godsbrawl held in the Temple of Kord to root for their favored deity’s champion, particularly the chosen champions of the Storm Lord and the All-Hammer.
+**_Holy Day._** Kord’s holy day is the Day of Challenging, which is celebrated on the seventh day of the second month. The Day of Challenging is one of the most raucous holidays in [[Port Damali]], and thousands of spectators attend the annual Godsbrawl held in the Temple of Kord to root for their favored deity’s champion, particularly the chosen champions of the Storm Lord and the All-Hammer.
 
 #### Commandments of Kord
 

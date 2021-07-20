@@ -1,6 +1,6 @@
 ## Frost Worm
 
-Frost worms burrow through the snow, dirt, ice, and rock of Wildemount’s Biting North. These enormous monstrosities eagerly consume any living creature they can wrap their jaws around.
+Frost worms burrow through the snow, dirt, ice, and rock of [[Wildemount]]’s Biting North. These enormous monstrosities eagerly consume any living creature they can wrap their jaws around.
 
 A frost worm spends most of its time beneath the frozen ground, conserving energy while it waits for prey to pass overhead. Smart travelers can identify a frost worm’s hunting grounds by looking for recently iced-over tunnels. When the worm senses vibrations above, it bursts forth through dirt, ice, and snow. Those who escape its initial assault must still contend with the worm’s haunting trill—a hypnotizing call that stops creatures in their tracks to make them easy prey.
 

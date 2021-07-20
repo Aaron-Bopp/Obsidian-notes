@@ -1,6 +1,6 @@
 ## Nergaliid (Devil Toad)
 
-Corpulent, scaled, and utterly repulsive, these vicious devils stalk the dark edges of society away from prying eyes, subsisting on the life force of unsuspecting humanoids. Creatures that die to the nergaliid’s feeding leave a corrupted undead corpse behind known as a husk zombie (presented earlier in this chapter).
+Corpulent, scaled, and utterly repulsive, these vicious devils stalk the dark edges of society away from prying eyes, subsisting on the life force of unsuspecting humanoids. Creatures that die to the nergaliid’s feeding leave a corrupted undead corpse behind known as a [[husk zombie]] (presented earlier in this chapter).
 
 The nergaliid favors feeding on the life force of sleeping humanoids, feasting on the same prey nightly—so long as its victim remains unaware. This ensures a lasting source of nourishment, with the victim beset by terrible nightmares as long as the feeding continues. When a nergaliid is discovered, it tries to strike a deal with the one who uncovered it. It might offer material wealth in exchange for freedom and silence. Only when an accord seems unlikely does the nergaliid attack.
 

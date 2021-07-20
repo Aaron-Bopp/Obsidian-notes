@@ -3,7 +3,7 @@
 
 _Armor (studded leather), legendary (requires attunement)_
 
-It is believed that this polished and beautifully detailed leather armor was a gift from Melora, bestowed on a long-forgotten archdruid and champion of the natural world before the terrors of the Calamity.
+It is believed that this polished and beautifully detailed leather armor was a gift from Melora, bestowed on a long-forgotten archdruid and champion of the natural world before the terrors of [[the Calamity]].
 
 While wearing the armor in its dormant state, you gain the following benefits:
 

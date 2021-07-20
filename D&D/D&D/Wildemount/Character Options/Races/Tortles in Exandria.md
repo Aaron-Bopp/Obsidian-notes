@@ -1,8 +1,8 @@
 ## Tortles
 
-For centuries, the people of Xhorhas and the Dwendalian Empire believed tortles to be a hoax concocted by Concordian hucksters. In truth, tortles are an ancient and long-lived people who dwell within the jungles and along the beaches of the Menagerie Coast. Most tortles who journey far from the coast begin to feel pangs of homesickness, which can develop into a depression.
+For centuries, the people of [[Xhorhas]] and the [[Dwendalian Empire]] believed tortles to be a hoax concocted by Concordian hucksters. In truth, tortles are an ancient and long-lived people who dwell within the jungles and along the beaches of the [[Menagerie Coast]]. Most tortles who journey far from the coast begin to feel pangs of homesickness, which can develop into a depression.
 
-Tortles are almost unheard of beyond the sunny shores of the Menagerie Coast.
+Tortles are almost unheard of beyond the sunny shores of the [[Menagerie Coast]].
 
 ### Life of a Tortle
 

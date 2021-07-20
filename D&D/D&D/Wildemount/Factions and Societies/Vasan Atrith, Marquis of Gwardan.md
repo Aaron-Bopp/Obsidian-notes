@@ -1,4 +1,4 @@
-### Vasan Atrith, Marquis of Gwardan
+### Vasan Atrith, Marquis of [[Gwardan]]
 
 _Lawful good, female elf_
 

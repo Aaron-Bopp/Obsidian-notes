@@ -1,6 +1,6 @@
 ### Ioun, the Knowing Mentor
 
-Revered by seers, sages, and teachers of all walks of life, Ioun guided the growth of civilization throughout the Age of Arcanum like sunlight guides the branches of a tree. Grievously wounded by the Chained Oblivion during the Calamity, her followers are now hunted by agents of her ancient foes as she recovers. Her devout now worship in private, spreading knowledge, philosophy, and lore anonymously through traceless channels.
+Revered by seers, sages, and teachers of all walks of life, Ioun guided the growth of civilization throughout the [[Age of Arcanum]] like sunlight guides the branches of a tree. Grievously wounded by the Chained Oblivion during [[the Calamity]], her followers are now hunted by agents of her ancient foes as she recovers. Her devout now worship in private, spreading knowledge, philosophy, and lore anonymously through traceless channels.
 
 Ioun sits among the infinite library that fills the hidden realm of the Endless Athenaeum, her celestial servants cataloging all known things as she inspires those who pray for her insight and guidance.
 
@@ -10,7 +10,7 @@ Ioun sits among the infinite library that fills the hidden realm of the Endless 
 
 Ioun, the Knowing Mentor
 
-**_Holy Day._** Ioun has no public holy day, for her public worship was shattered during the Calamity, and she has since fallen into half-remembered myth. Only in the monasteries of the Cobalt Soul has the Knowing Mentor’s faith been resurrected—though her worship by the intellectuals of the city bears little resemblance to that of the knowledge-seekers of old.
+**_Holy Day._** Ioun has no public holy day, for her public worship was shattered during [[the Calamity]], and she has since fallen into half-remembered myth. Only in the monasteries of the Cobalt Soul has the Knowing Mentor’s faith been resurrected—though her worship by the intellectuals of the city bears little resemblance to that of the knowledge-seekers of old.
 
 #### Commandments of Ioun
 

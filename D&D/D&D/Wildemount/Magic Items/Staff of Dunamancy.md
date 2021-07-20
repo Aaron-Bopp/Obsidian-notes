@@ -1,6 +1,6 @@
-### Staff of Dunamancy
+### Staff of [[Dunamancy]]
 
-(https://www.dndbeyond.com/magic-items/staff-of-dunamancy)
+(https://www.dndbeyond.com/magic-items/staff-of-[[dunamancy]])
 
 _Staff, very rare (requires attunement by a wizard)_
 

@@ -1,6 +1,6 @@
 ## Goliaths
 
-The goliaths of Exandria are a mighty people with stone giant blood running in their veins. Most stand well over seven feet tall and are blessed with a naturally powerful physique. Like their stone giant progenitors, goliaths are a rare sight in Wildemount. Most live on isolated peaks in the Cyrios Mountains, the Penumbra Range, and on the isolated land of Eiselcross. Those few goliaths who are exiled from their herds and wander into more densely peopled lands are uniformly greeted with fear and confusion.
+The goliaths of Exandria are a mighty people with stone giant blood running in their veins. Most stand well over seven feet tall and are blessed with a naturally powerful physique. Like their stone giant progenitors, goliaths are a rare sight in [[Wildemount]]. Most live on isolated peaks in the [[Cyrios Mountains]], the [[Penumbra Range]], and on the isolated land of [[Eiselcross]]. Those few goliaths who are exiled from their herds and wander into more densely peopled lands are uniformly greeted with fear and confusion.
 
 Goliaths have a compulsion to compete and keep score, counting their deeds and tallying their accomplishments to compare to others. Goliaths love to win, but they see defeat as a prod to improve their skills. Above all else, they are driven to outdo their past efforts. Few goliaths reach old age, as most die attempting to surpass their past achievements.
 

@@ -2,11 +2,11 @@
 
 The Divine Gate, established during the Divergence, is a powerful barrier between the Material Plane and the divine realms. The Divine Gate sealed away both the Betrayer Gods and the Prime Deities within their respective domains in hopes of salvaging the new age and preventing another Calamity. If the Divine Gate were to be destroyed by the unanimous effort of the Prime Deities, all powers would be unleashed, threatening armageddon. Thus, the gods patiently watch their creations from beyond the veil, lending what small power they can send through the gate to aid the goals of their faithful. In the absence of the gods, lesser entities seek to gain power and influence, making pacts with mortals and offering their own gifts in exchange for favor, worship, or deeds done in their name.
 
-The following gods, patrons, and titles are recommended as the existing pantheon, but they are only a recommendation. You are welcome to alter, supplement, or completely change the gods in your Wildemount campaign to fit your needs. The domains and pacts listed are the likely choices for clerics, warlocks, and followers of each entity, but these are not the only options, and many other domains can be attributed to your preferred deity. Talk with your DM about how best to dress your domain or pact choice to fit within the philosophies and commandments of your patron deity.
+The following gods, patrons, and titles are recommended as the existing pantheon, but they are only a recommendation. You are welcome to alter, supplement, or completely change the gods in your [[Wildemount]] campaign to fit your needs. The domains and pacts listed are the likely choices for clerics, warlocks, and followers of each entity, but these are not the only options, and many other domains can be attributed to your preferred deity. Talk with your DM about how best to dress your domain or pact choice to fit within the philosophies and commandments of your patron deity.
 
 ## Prime Deities
 
-The circle of Prime Deities includes the leaders and luminary creators that battled the Primordials and instigated the Founding, forging the mortal races of Exandria. They represent a spectrum of light, protection, love, death, and all other facets of freedom and life in the world. While some gods may disagree and squabble, they exist in a subtle alliance to maintain the sanctity of life and their respective creations.
+The circle of Prime Deities includes the leaders and luminary creators that battled the Primordials and instigated [[the Founding]], forging the mortal races of Exandria. They represent a spectrum of light, protection, love, death, and all other facets of freedom and life in the world. While some gods may disagree and squabble, they exist in a subtle alliance to maintain the sanctity of life and their respective creations.
 #Table 
 Deity
 
@@ -168,7 +168,7 @@ Crescent moon turned upward, strung like a bow
 
 ## Betrayer Gods
 
-The Betrayer Gods are the deities who strayed from the ideals of the Founding and embraced the destructive chaos of the Primordials or grew selfish of their own creations. The Betrayer Gods rarely work together, since they see each other as threats to their own plots and goals. This very weakness allowed the Prime Deities to defeat and banish them, ending the Calamity.
+The Betrayer Gods are the deities who strayed from the ideals of [[the Founding]] and embraced the destructive chaos of the Primordials or grew selfish of their own creations. The Betrayer Gods rarely work together, since they see each other as threats to their own plots and goals. This very weakness allowed the Prime Deities to defeat and banish them, ending [[the Calamity]].
 #Table
 Deity
 
@@ -306,7 +306,7 @@ Suggested Domains
 
 Common Symbol
 
-Arms of the Betrayers
+[[Arms of the Betrayers]]
 
 NE
 
@@ -316,7 +316,7 @@ Death, War
 
 Blade thrust downward through an eight-eyed skull
 
-Ceratos
+[[Ceratos]]
 
 CN
 
@@ -336,7 +336,7 @@ Light, Trickery
 
 Burning purple feather
 
-Naviask
+[[Naviask]]
 
 NG
 
@@ -356,7 +356,7 @@ Nature, War
 
 Ring of teeth
 
-The Hag Mother
+[[The Hag Mother]]
 
 NE
 
@@ -376,7 +376,7 @@ Arcana,\*\* Light
 
 Hollow dodecahedron
 
-The Traveler
+[[The Traveler]]
 
 CN
 
@@ -406,7 +406,7 @@ Death, Life
 
 Crimson ring hanging from a chain
 
-Xalicas
+[[Xalicas]]
 
 LG
 

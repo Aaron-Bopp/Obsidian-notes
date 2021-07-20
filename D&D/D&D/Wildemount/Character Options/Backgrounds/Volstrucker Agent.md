@@ -1,6 +1,6 @@
 ## Volstrucker Agent
 
-The Volstrucker are a clandestine organization of arcane assassins and enforcers in the service of the Cerberus Assembly. Their operatives bear no official title, but are referred to in hushed tones as “scourgers” by residents of large Dwendalian cities such as Zadash and Rexxentrum.
+The Volstrucker are a clandestine organization of arcane assassins and enforcers in the service of the [[Cerberus Assembly]]. Their operatives bear no official title, but are referred to in hushed tones as “scourgers” by residents of large Dwendalian cities such as [[Zadash]] and [[Rexxentrum]].
 
 You are a Volstrucker agent. Your duty is to silence dissidents who would undermine the will of King Dwendal—and more importantly, the will of the Assembly.
 
@@ -14,13 +14,13 @@ You are a Volstrucker agent. Your duty is to silence dissidents who would underm
 
 ### Tragedy
 
-Happy people aren’t selected to join the Volstrucker. The Cerberus Assembly preys upon talented individuals who have been broken by tragedy—in some cases, tragedy that the Volstrucker has arranged for. A slightly broken mind is more easily reshaped and reeducated. Choose the tragedy that set you on this path, or roll on the Tragedies table.
+Happy people aren’t selected to join the Volstrucker. The [[Cerberus Assembly]] preys upon talented individuals who have been broken by tragedy—in some cases, tragedy that the Volstrucker has arranged for. A slightly broken mind is more easily reshaped and reeducated. Choose the tragedy that set you on this path, or roll on the Tragedies table.
 
 |d6 |Tragedy|
 | --- | --- |
 | 1 |**Familicide.** Through deceit or manipulation, the Volstrucker convinced you to slaughter your own family. |
 | 2 | **Amnesia.** You were forced to study magic so potent that it strained your mind beyond mortal limits, stealing away the memories of your past. |
-| 3 | **Capture.** You were captured and tortured by agents of the Kryn Dynasty, and barely escaped. |
+| 3 | **Capture.** You were captured and tortured by agents of the [[Kryn Dynasty]], and barely escaped. |
 | 4 | **Starvation.** A terrible blight afflicted your rural village, and many of your friends and family members starved to death. You survived, but only barely. |
 | 5 | **Disfigurement.** One of your arcane experiments went wrong and scarred or dismembered you so gravely that others now shun you. Only the Volstrucker showed you kindness after that day. |
 | 6 | **Vicissitude.** You were once the scion of a wealthy family who lost their entire fortune in the blink of an eye. |
@@ -47,7 +47,7 @@ Agents of the Volstrucker are groomed to follow orders without question and to k
 | d6  | Ideal                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Order.** The will of the crown is absolute. (Law)                                                                       |
-| 2   | **True Loyalty.** The Cerberus Assembly is greater than any power, even the crown. (Law)                                  |
+| 2   | **True Loyalty.** The [[Cerberus Assembly]] is greater than any power, even the crown. (Law)                                  |
 | 3   | **Death.** The penalty for disloyalty is death. (Evil)                                                                    |
 | 4   | **Determination.** I cannot fail. Not ever. (Neutral)                                                                     |
 | 5   | **Fear.** People should not respect power. They should fear it. (Evil)                                                    |

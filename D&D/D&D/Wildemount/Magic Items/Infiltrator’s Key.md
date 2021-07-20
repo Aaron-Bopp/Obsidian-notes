@@ -3,7 +3,7 @@
 
 _Wondrous item, legendary (requires attunement)_
 
-This mithral skeleton key was forged using the blood of twelve master thieves executed for trying to steal magic items during the Age of Arcanum.
+This mithral skeleton key was forged using the blood of twelve master thieves executed for trying to steal [[magic items]] during the [[Age of Arcanum]].
 
 The [infiltrator’s key](https://www.dndbeyond.com/magic-items/infiltrators-key) grants the following benefits in its dormant state:
 

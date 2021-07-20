@@ -10,7 +10,7 @@
 
 **Organizations:** Industrial families are heavily invested in the city and its business. Temples to empire-approved gods, especially Moradin, are easy to find.
 
-The gnomish community of Hupperdook is built along the eastern base of the Silberquel Ridge, marked by the ever-rising columns of dark smoke and steam. Predating the empire, Hupperdook remained autonomous until the Crown absorbed the community through diplomatic agreements over two centuries ago. This smoke-stacked city is now the heart of industry in the empire, manufacturing technological marvels and large-scale weapons of war for the Dwendalian Empire.
+The gnomish community of Hupperdook is built along the eastern base of the [[Silberquel Ridge]], marked by the ever-rising columns of dark smoke and steam. Predating the empire, Hupperdook remained autonomous until the Crown absorbed the community through diplomatic agreements over two centuries ago. This smoke-stacked city is now the heart of industry in the empire, manufacturing technological marvels and large-scale weapons of war for the [[Dwendalian Empire]].
 
 The gnomish culture within Hupperdook prizes hard work and hard play. Family trades vary from coal mining and clockwork development to practical enchantment and the brewing of zesty libations. Within the bounds of the city, a general air of upbeat anticipation frames the day-to-day activities of residents as they bound their way toward dusk.
 
@@ -22,9 +22,9 @@ For as long as the people of Hupperdook have lived on the mountain, they've been
 
 The traditional nighttime drink is called fuse, a mixture of strong liquor and an energy-boosting herbal concoction that is considered by the hardest workers as a necessity to properly embrace an evening of revelry, though some visitors complain of the rather unpleasant aftermath of imbibing the powerful substance. A jet-black coffee with the consistency (and some say, the taste) of lantern oil is customary the following morning.
 
-The Crown understands the benefit of keeping Hupperdook and its citizens happy through relative autonomy, as no other city can develop and produce weapons like the ones found here. A sizable portion of Hupperdook's industry is allocated to the production and development of defense weaponry, siege engines, and firearms. Finished implements of war are shipped across the valley to Bladegarden or Rockguard Garrison, with a few left stockpiled within the city.
+The Crown understands the benefit of keeping Hupperdook and its citizens happy through relative autonomy, as no other city can develop and produce weapons like the ones found here. A sizable portion of Hupperdook's industry is allocated to the production and development of defense weaponry, siege engines, and firearms. Finished implements of war are shipped across the valley to [[Bladegarden]] or [[Rockguard Garrison]], with a few left stockpiled within the city.
 
-As per the accord enabling it to become part of the Dwendalian Empire, Hupperdook is one of the only imperial cities allowed to choose its own leadership. Starosta Emma Zezbok is a bombastic gnome who negotiated the absorption of the city into the empire and has held her seat for two centuries. Emma has sharp mind for problem solving and a love of debauchery — and cares little for politics outside the city walls or for the short-lived "Kings of Men," so long as they leave her and her people alone.
+As per the accord enabling it to become part of the [[Dwendalian Empire]], Hupperdook is one of the only imperial cities allowed to choose its own leadership. Starosta Emma Zezbok is a bombastic gnome who negotiated the absorption of the city into the empire and has held her seat for two centuries. Emma has sharp mind for problem solving and a love of debauchery — and cares little for politics outside the city walls or for the short-lived "Kings of Men," so long as they leave her and her people alone.
 
 Due to the independent nature of the city, the Crownsguard presence is relatively small, and the volunteers of the Citizens' Watch pick up the slack. This has led to some tension between the two law enforcement factions, but many of the Crownsguard forgive any slights when the evening drinks begin to flow.
 
@@ -36,7 +36,7 @@ Lower Hupperdook sits at ground level and is divided into two sections. The soot
 
 The more charming, residential region of Upper Hupperdook sits about two hundred feet above the ground atop a platform of leveled rock. This level of the city has two regions: Silver Falls Grove, where the massive Silver Falls descend from atop the mountainside and spill into a small lake surrounded by residential living towers, and the Idleworks Shelf, a recreational region of sprawling commerce, colorful markets, and social gatherings.
 
-The nearby Silberquel Ridge is a ready source of dangerous beasts and unnatural dangers, while the evening celebrations of the city conceal all sorts of shenanigans.
+The nearby [[Silberquel Ridge]] is a ready source of dangerous beasts and unnatural dangers, while the evening celebrations of the city conceal all sorts of shenanigans.
 
 _**Life Is a Drag (Any Level).**_ The annual Iron Runway celebration is seeking entertainers to wow the nobility with show-stopping, gender-bending performances and delightfully bawdy humor. The characters can choose to participate for an impressive top prize, or be hired to guard the event, which is known to get a little rowdy.
 

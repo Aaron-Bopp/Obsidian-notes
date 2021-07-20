@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:templates -file:related-topics -file:aliases",
+  "search": "path:D&D/Wildemount",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -67,6 +67,6 @@
   "repelStrength": 14.078431372549,
   "linkStrength": 0.617647058823529,
   "linkDistance": 30,
-  "scale": 0.11305828449690675,
-  "close": true
+  "scale": 0.05751974600100256,
+  "close": false
 }

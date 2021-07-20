@@ -1,4 +1,4 @@
-## Adventures in Wildemount
+## Adventures in [[Wildemount]]
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/05-01.jpg)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/05-01.jpg)
 
@@ -10,19 +10,19 @@ This chapter of the book is for DMs only. If you’re planning to run through an
 
 The [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual") contains statistics for many of the creatures found in these adventures. When a creature’s name appears in **bold** type, that’s a visual cue pointing you to the creature’s stat block in the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual"). If the stat block instead appears in this book, the adventure’s text tells you so.
 
-The names of spells and magic items referenced in the adventure are in _italics_. If a spell or magic item appears in this book, the text will say so. If it doesn’t, information on spells can be found in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") and information on magic items can be found in the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide").
+The names of spells and [[magic items]] referenced in the adventure are in _italics_. If a spell or magic item appears in this book, the text will say so. If it doesn’t, information on spells can be found in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") and information on [[magic items]] can be found in the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide").
 
 ## Using These Adventures
 
-Each of these adventures is designed as an introduction to one of the four main regions of Wildemount, as well as some of the themes that commonly guide events within those regions. The adventures are as follows:
+Each of these adventures is designed as an introduction to one of the four main regions of [[Wildemount]], as well as some of the themes that commonly guide events within those regions. The adventures are as follows:
 
-**“[Tide of Retribution](https://www.dndbeyond.com/sources/egtw/adventures-in-wildemount-tide-of-retribution "Tide of Retribution")”** presents a threat to the village of Palma Flora on the beautiful Menagerie Coast.
+**“[Tide of Retribution](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-tide-of-retribution "Tide of Retribution")”** presents a threat to the village of [[Palma Flora]] on the beautiful [[Menagerie Coast]].
 
-**“[Dangerous Designs](https://www.dndbeyond.com/sources/egtw/adventures-in-wildemount-dangerous-designs "Dangerous Designs")”** is a tale of political intrigue set in the gnomish city of Hupperdook in Western Wynandir.
+**“[Dangerous Designs](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs "Dangerous Designs")”** is a tale of political intrigue set in the gnomish city of [[Hupperdook]] in Western Wynandir.
 
-**“[Frozen Sick](https://www.dndbeyond.com/sources/egtw/adventures-in-wildemount-frozen-sick "Frozen Sick")”** takes characters on a perilous journey to the far reaches of the Biting North.
+**“[Frozen Sick](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick "Frozen Sick")”** takes characters on a perilous journey to the far reaches of the Biting North.
 
-**“[Unwelcome Spirits](https://www.dndbeyond.com/sources/egtw/adventures-in-wildemount-unwelcome-spirits "Unwelcome Spirits")”** offers a glimpse of the wonders and terrors that dominate Eastern Wynandir.
+**“[Unwelcome Spirits](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits "Unwelcome Spirits")”** offers a glimpse of the wonders and terrors that dominate Eastern Wynandir.
 
 You are invited to change any aspects of an adventure to suit the type of game you and your players would enjoy the most.
 

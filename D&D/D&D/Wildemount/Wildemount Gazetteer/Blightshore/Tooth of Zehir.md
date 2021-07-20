@@ -1,6 +1,6 @@
 ### Tooth of Zehir
 
-This eastern arm of Blightshore is a mist-shrouded peninsula, the northernmost swath of which is covered by the stone forest of Strathfell (described below).
+This eastern arm of [[Blightshore]] is a mist-shrouded peninsula, the northernmost swath of which is covered by the stone forest of Strathfell (described below).
 
 The lower region of the Tooth is marked by craggy basalt beaches covered in black sand, and the ocean is full of hazardous, fossilized coral reefs. Exotic fey creatures are said to congregate among the Tooth's darker dominions, which are rumored to skirt the Shadowfell via the Border Ethereal.
 

@@ -1,6 +1,6 @@
 ### Raei, the Everlight
 
-God of atonement and compassion, Raei spreads the message of understanding and optimism in even the darkest of places. She believes that the corrupt can be redeemed, a mindset that led to a betrayal by the Lord of the Nine Hells, who decimated her followers during the Calamity. This misplaced trust caused many priests to strike her name from historical records, leaving her title and faith scattered to obscurity for much of the recent age. Only recently has her faith been rediscovered and her temples returned to prominence. The Everlight’s followers are often rural healers and community philosophers, offering a voice of reason and empathy in angry and cynical times.
+God of atonement and compassion, Raei spreads the message of understanding and optimism in even the darkest of places. She believes that the corrupt can be redeemed, a mindset that led to a betrayal by the Lord of the Nine Hells, who decimated her followers during [[the Calamity]]. This misplaced trust caused many priests to strike her name from historical records, leaving her title and faith scattered to obscurity for much of the recent age. Only recently has her faith been rediscovered and her temples returned to prominence. The Everlight’s followers are often rural healers and community philosophers, offering a voice of reason and empathy in angry and cynical times.
 
 Raei guides her people from within her temple beside the crystal beaches of the Island of Renewal, a hidden sanctuary of flame alongside the Blessed Fields of Elysium.
 

@@ -1,8 +1,8 @@
 ## Udaak
 
-Known commonly as the brutes of Xhorhas, these enormous creatures resemble an immense, demonic cross between ox and gorilla. Udaaks are solitary wanderers, found most commonly along the edges of settled lands in the barrens of Eastern Wynandir. Though they often scavenge for food, a hungry udaak will attack almost any prey, its four sets of red eyes and its tangle of teeth and tusks striking fear into the heart of any creature.
+Known commonly as the brutes of [[Xhorhas]], these enormous creatures resemble an immense, demonic cross between ox and gorilla. Udaaks are solitary wanderers, found most commonly along the edges of settled lands in the barrens of Eastern Wynandir. Though they often scavenge for food, a hungry udaak will attack almost any prey, its four sets of red eyes and its tangle of teeth and tusks striking fear into the heart of any creature.
 
-_**Living Siege Engine.**_ Originally brought to Exandria from the Abyss, udaaks lost their connection to that realm after the Divergence and have roamed the world freely ever since. In recent years, the warmasters of the Kryn Dynasty have developed arcane collars that can keep an udaak under control, and they have begun using these dread creatures in the war against the Dwendalian Empire.
+_**Living Siege Engine.**_ Originally brought to Exandria from the Abyss, udaaks lost their connection to that realm after the Divergence and have roamed the world freely ever since. In recent years, the warmasters of the [[Kryn Dynasty]] have developed arcane collars that can keep an udaak under control, and they have begun using these dread creatures in the war against the [[Dwendalian Empire]].
 
 [Udaak](https://www.dndbeyond.com/monsters/udaak)
 

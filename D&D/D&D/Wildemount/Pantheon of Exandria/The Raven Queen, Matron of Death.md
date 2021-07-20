@@ -6,7 +6,7 @@ The Raven Queen tugs at the threads of fate from her stronghold of black ice wit
 
 **_Depiction._** Few existing visual depictions of the Raven Queen exist; many temples merely use the raven as a symbol of her blessing. The few illustrations of her portray a tall, pale woman wrapped in dangling black linens, with her face obscured by a white porcelain mask and her onyx-black hair straight and neverending.
 
-**_Holy Day._** The Raven Queen’s holy day is called the Night of Ascension, celebrating her apotheosis. The actual date of the her rise to divinity is unclear, but the Night of Ascension is celebrated on the thirteenth day of the tenth month. What was once a night of cheery celebration of the dead in the Dwendalian Empire has recently become an occasion to burn effigies and decry the Kryn Dynasty for their unnatural relationship with death.
+**_Holy Day._** The Raven Queen’s holy day is called the Night of Ascension, celebrating her apotheosis. The actual date of the her rise to divinity is unclear, but the Night of Ascension is celebrated on the thirteenth day of the tenth month. What was once a night of cheery celebration of the dead in the [[Dwendalian Empire]] has recently become an occasion to burn effigies and decry the [[Kryn Dynasty]] for their unnatural relationship with death.
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-15.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-15.png)
 

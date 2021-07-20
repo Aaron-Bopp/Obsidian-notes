@@ -1,8 +1,8 @@
-### Bristled Moorbounder
+### Bristled [[Moorbounder]]
 
-_**Bristled Moorbounders.**_ A weird and deadly offshoot of the moorbounder has rows of long, bladelike bristles covering its sleek body. The creature weaponizes these blades, using them to slash nearby creatures to ribbons. However, these blades make the bristled moorbounder less suitable as a mount.
+_**Bristled [[Moorbounders]].**_ A weird and deadly offshoot of the [[moorbounder]] has rows of long, bladelike bristles covering its sleek body. The creature weaponizes these blades, using them to slash nearby creatures to ribbons. However, these blades make the bristled [[moorbounder]] less suitable as a mount.
 
-[Bristled Moorbounder](https://www.dndbeyond.com/monsters/bristled-moorbounder)
+[Bristled Moorbounder](https://www.dndbeyond.com/monsters/bristled-[[moorbounder]])
 
 Large beast, unaligned
 
@@ -18,13 +18,13 @@ Large beast, unaligned
 
 **Challenge** 3 (700 XP)
 
-_**Bladed Hide.**_ At the start of each of its turns, the moorbounder deals 5 (2d4) piercing damage to any creature grappling it.
+_**Bladed Hide.**_ At the start of each of its turns, the [[moorbounder]] deals 5 (2d4) piercing damage to any creature grappling it.
 
-_**Standing Leap.**_ The moorbounder’s long jump is up to 40 feet and its high jump is up to 20 feet, with or without a running start.
+_**Standing Leap.**_ The [[moorbounder]]’s long jump is up to 40 feet and its high jump is up to 20 feet, with or without a running start.
 
 Actions
 
-_**Multiattack.**_ The moorbounder makes two attacks: one with its blades and one with its claws.
+_**Multiattack.**_ The [[moorbounder]] makes two attacks: one with its blades and one with its claws.
 
 _**Blades.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
 

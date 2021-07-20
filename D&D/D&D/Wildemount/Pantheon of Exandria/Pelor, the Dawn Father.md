@@ -10,7 +10,7 @@ Pelor is often found within the Fortress of the Sun, a shining, golden citadel t
 
 Pelor, the Dawn Father
 
-**_Holy Day._** Pelor’s holy day is called Highsummer, and takes place on the fifteenth day of the seventh month. While other parts of Exandria feast, the Dwendalian Empire uses this day as an opportunity to enlist more soldiers in its army. The military holds great feasts and hands out toy soldiers and other propaganda, encouraging people to enlist and help fight against the evil that threatens the king.
+**_Holy Day._** Pelor’s holy day is called Highsummer, and takes place on the fifteenth day of the seventh month. While other parts of Exandria feast, the [[Dwendalian Empire]] uses this day as an opportunity to enlist more soldiers in its army. The military holds great feasts and hands out toy soldiers and other propaganda, encouraging people to enlist and help fight against the evil that threatens the king.
 
 #### Commandments of Pelor
 

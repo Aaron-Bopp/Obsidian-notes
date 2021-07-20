@@ -1,6 +1,6 @@
-### Holidays in Wildemount
+### Holidays in [[Wildemount]]
 
-The different nations of Wildemount celebrate different holidays, though some of the gods’ holy days are consistent across the land. Notably, the Dwendalian Empire has banned the worship of certain gods within its borders, and thus only celebrates the holidays of legal gods. These holy days are listed in [[Pantheon of Exandria]], along with the gods they celebrate.
+The different nations of [[Wildemount]] celebrate different holidays, though some of the gods’ holy days are consistent across the land. Notably, the [[Dwendalian Empire]] has banned the worship of certain gods within its borders, and thus only celebrates the holidays of legal gods. These holy days are listed in [[Pantheon of Exandria]], along with the gods they celebrate.
 
 Holidays unrelated to the gods celebrated across the continent in some form include:
 

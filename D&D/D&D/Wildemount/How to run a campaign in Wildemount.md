@@ -1,49 +1,49 @@
 ## A New D&D Setting
 
-Wildemount is a new setting for your Dungeons & Dragons campaign, originally created by Matthew Mercer as the setting for the second campaign of the hit series Critical Role. Though it’s just one continent in the larger world of Exandria, Wildemount is teeming with varied cultures, locales, peoples, and monsters. It is home to both avatars of evil and paragons of good, but it is defined by the common people who exist in between these two ideals.
+[[Wildemount]] is a new setting for your Dungeons & Dragons campaign, originally created by Matthew Mercer as the setting for the second campaign of the hit series Critical Role. Though it’s just one continent in the larger world of Exandria, Wildemount is teeming with varied cultures, locales, peoples, and monsters. It is home to both avatars of evil and paragons of good, but it is defined by the common people who exist in between these two ideals.
 
-This book is for D&D players and Dungeon Masters of all experience levels. It is for newcomers and for hardcore fans of Critical Role alike. If you’ve watched every episode of Critical Role to date, this book will still contain surprises for you, as there are corners of Wildemount that even the Mighty Nein weren’t able to explore in their adventures.
+This book is for D&D players and Dungeon Masters of all experience levels. It is for newcomers and for hardcore fans of Critical Role alike. If you’ve watched every episode of Critical Role to date, this book will still contain surprises for you, as there are corners of [[Wildemount]] that even the Mighty Nein weren’t able to explore in their adventures.
 
-If you’re a Dungeon Master, this book will help you create a D&D campaign set in a land of war, intrigue, and swashbuckling adventure. You could set your campaign entirely within one of Wildemount’s four regions, or you could follow the example set by Critical Role and create a campaign with a constantly evolving tone as the adventurers journey across the continent. You will also find brand-new monsters and introductory adventures that can help you start a campaign in any of Wildemount’s four regions.
+If you’re a Dungeon Master, this book will help you create a D&D campaign set in a land of war, intrigue, and swashbuckling adventure. You could set your campaign entirely within one of [[Wildemount]]’s four regions, or you could follow the example set by Critical Role and create a campaign with a constantly evolving tone as the adventurers journey across the continent. You will also find brand-new monsters and introductory adventures that can help you start a campaign in any of Wildemount’s four regions.
 
-If you’re a player, this book contains new options that will help your character fit in perfectly with this strange new land. You can use the heroic chronicle system to create a backstory that firmly roots your character in the lands of Wildemount. You’ll also find new subclasses as well as new magic items that will help you attain greater and greater power as you travel the continent.
+If you’re a player, this book contains new options that will help your character fit in perfectly with this strange new land. You can use the [[heroic chronicle]] system to create a backstory that firmly roots your character in the lands of [[Wildemount]]. You’ll also find new subclasses as well as new [[magic items]] that will help you attain greater and greater power as you travel the continent.
 
-## Nations of Wildemount
+## Nations of [[Wildemount]]
 
-Wildemount’s various regions are described in greater detail in [[Wildemount Gazetteer]] Here’s a quick overview of the major civilizations of Wildemount.
+[[Wildemount]]’s various regions are described in greater detail in [[Wildemount Gazetteer]] Here’s a quick overview of the major civilizations of Wildemount.
 
 ### [[Dwendalian Empire]]
 
-The Dwendalian Empire is a young, ambitious state borne from decades of strife in Western Wynandir — the heartland of Wildemount. Its austere lands are dotted with tiny villages, ruins of ancient civilizations, and pockets of uncharted wilderness.
+The [[Dwendalian Empire]] is a young, ambitious state borne from decades of strife in Western Wynandir — the heartland of [[Wildemount]]. Its austere lands are dotted with tiny villages, ruins of ancient civilizations, and pockets of uncharted wilderness.
 
-Campaigns set in the Dwendalian Empire are bound to involve elements of war and political intrigue. The empire is at war with the Kryn Dynasty, a nation of surface-dwelling drow which occupies Eastern Wynandir and the wastes of Xhorhas. This war allows various Dwendalian factions, such as the power-hungry Cerberus Assembly, to vie for political dominance.
+Campaigns set in the [[Dwendalian Empire]] are bound to involve elements of war and political intrigue. The empire is at war with the [[Kryn Dynasty]], a nation of surface-dwelling drow which occupies Eastern Wynandir and the wastes of [[Xhorhas]]. This war allows various Dwendalian factions, such as the power-hungry [[Cerberus Assembly]], to vie for political dominance.
 
 ### [[Clovis Concord]]
 
-The Clovis Concord is a republic of city-states lining the Menagerie Coast, the westernmost shore of Wildemount. This tropical region is rich with history and known for a lively, free-spirited culture that contrasts sharply with Wildemount’s other, politically narrow-minded nations.
+The [[Clovis Concord]] is a republic of city-states lining the [[Menagerie Coast]], the westernmost shore of [[Wildemount]]. This tropical region is rich with history and known for a lively, free-spirited culture that contrasts sharply with Wildemount’s other, politically narrow-minded nations.
 
-Campaigns set on the Menagerie Coast are often nautical, exploring the conflict between the law of the Clovis Concord and the chaos of the Revelry pirates. They can also investigate the jungles that line the coast and the ancient ruins hidden within their verdant boughs.
+Campaigns set on the [[Menagerie Coast]] are often nautical, exploring the conflict between the law of the [[Clovis Concord]] and the chaos of [[the Revelry]] pirates. They can also investigate the jungles that line the coast and the ancient ruins hidden within their verdant boughs.
 
 ### [[Tribes of Shadycreek Run]]
 
-The Tribes of Shadycreek Run are a fragmented coalition of thieves, slavers, and scoundrels who managed to amass power in the frigid backwater of Shadycreek Run. While they struggle to enrich themselves through crime, however, they fail to realize that malign, primordial powers are creeping into the north underneath their noses.
+The [[Tribes of Shadycreek Run]] are a fragmented coalition of thieves, slavers, and scoundrels who managed to amass power in the frigid backwater of [[Shadycreek Run]]. While they struggle to enrich themselves through crime, however, they fail to realize that malign, primordial powers are creeping into the north underneath their noses.
 
 Campaigns set in the Biting North often involve morally gray characters butting heads with equally amoral organizations in a struggle to survive — and then explode into chaos as forces beyond mortal imagination make all these petty conflicts seem insignificant by comparison.
 
 ### [[Kryn Dynasty]]
 
-The Kryn Dynasty is an empire made up of dark elves (drow) and other humanoids typically considered to be monsters by the other nations of Wildemount, such as minotaurs, goblinkin, and gnolls. The Kryn Dynasty rules over the wastes of Xhorhas, a land once blighted by the rule of the Betrayer Gods when immortals still walked the land. The Kryn safeguard a secret; if your players haven’t seen any of Critical Role, revealing this secret could mark the turning point of a campaign.
+The [[Kryn Dynasty]] is an empire made up of dark elves (drow) and other humanoids typically considered to be monsters by the other nations of [[Wildemount]], such as minotaurs, goblinkin, and gnolls. The [[Kryn Dynasty]] rules over the wastes of [[Xhorhas]], a land once blighted by the rule of the Betrayer Gods when immortals still walked the land. The Kryn safeguard a secret; if your players haven’t seen any of Critical Role, revealing this secret could mark the turning point of a campaign.
 
-A campaign set in Xhorhas will doubtless involve the war between the Kryn Dynasty and the Dwendalian Empire, but it can also include traditional dungeon crawls, political intrigue within the courts of the dynasty, or even wilderness exploration that could unearth secrets lost since the fall of the Betrayer Gods.
+A campaign set in [[Xhorhas]] will doubtless involve the war between the [[Kryn Dynasty]] and the [[Dwendalian Empire]], but it can also include traditional dungeon crawls, political intrigue within the courts of the dynasty, or even wilderness exploration that could unearth secrets lost since the fall of the Betrayer Gods.
 
 
 ## War!
 
-The continent of Wildemount is a powder keg about to explode. Tensions between the Dwendalian Empire and the Kryn Dynasty have just erupted into open war, and everyone in Wildemount, including the adventurers, must contend with the fallout of the conflict between the continent’s two imperial superpowers.
+The continent of [[Wildemount]] is a powder keg about to explode. Tensions between the [[Dwendalian Empire]] and the [[Kryn Dynasty]] have just erupted into open war, and everyone in Wildemount, including the adventurers, must contend with the fallout of the conflict between the continent’s two imperial superpowers.
 
 ### The War of Ash and Light
 
-The war is only as important as you make it. If you place either the battles of the war or their consequences front and center, the war will be of chief concern to your players. If you keep the war and its consequences distant, then the characters will be free to interact with or ignore the war as they see fit. With a little bit of creative tweaking of the setting, you could create a Wildemount campaign where the war has been called off or never even happened!
+The war is only as important as you make it. If you place either the battles of the war or their consequences front and center, the war will be of chief concern to your players. If you keep the war and its consequences distant, then the characters will be free to interact with or ignore the war as they see fit. With a little bit of creative tweaking of the setting, you could create a [[Wildemount]] campaign where the war has been called off or never even happened!
 
 If you want the war to be an important part of your campaign, you need to give your players a reason for their characters to care about it. The easiest way to get buy-in from your players is to discuss out-of-character how big of a factor they want war to be in this campaign. You can even dial the importance of the war up and down over the course of the campaign, depending on how you and your players feel over time.
 
@@ -57,13 +57,13 @@ The adventurers don’t have to be active combatants for the war to affect their
 
 #### No War, Please
 
-If you want the war to be completely absent, simply dial the timeline back by a year, or even just a few months. All the political tensions between the Dwendalian Empire and the Kryn Dynasty still exist, but now they’re just simmering instead of at a full boil.
+If you want the war to be completely absent, simply dial the timeline back by a year, or even just a few months. All the political tensions between the [[Dwendalian Empire]] and the [[Kryn Dynasty]] still exist, but now they’re just simmering instead of at a full boil.
 
 ### Adventuring Options
 
-Not all campaigns set in Wildemount need to deal with the war directly. That is, the characters aren’t expected to conscript with one army or another, or even serve as mercenaries. The effects of war are far-reaching and multifarious, and loose-cannon adventurers are the perfect people to get involved in the countless conflicts sparked by war. These schemes could include:
+Not all campaigns set in [[Wildemount]] need to deal with the war directly. That is, the characters aren’t expected to conscript with one army or another, or even serve as mercenaries. The effects of war are far-reaching and multifarious, and loose-cannon adventurers are the perfect people to get involved in the countless conflicts sparked by war. These schemes could include:
 
-**Crime.** In times of war, criminals and smugglers take advantage of lax law enforcement. Petty criminals and crime syndicates like the Myriad will need help moving illicit goods in and out of Dwendalian and Xhorhasian cities, and Revelry pirates will need loyal crew members to raid unprotected towns.
+**Crime.** In times of war, criminals and smugglers take advantage of lax law enforcement. Petty criminals and crime syndicates like [[the Myriad]] will need help moving illicit goods in and out of Dwendalian and Xhorhasian cities, and Revelry pirates will need loyal crew members to raid unprotected towns.
 
 **Disaster.** When a town is destroyed by advancing armies, or by a landslide caused by artillery, the common folk need help escaping. This could involve escorting noncombatants through no-man’s-land to a nearby town, or carving out a new settlement from the wilds.
 

@@ -1,20 +1,20 @@
 ## Aasimar
 
-The light of the gods still shines upon Exandria, even from behind the Divine Gate. Aasimar are the purest expression of that divine light as it burns within every mortal soul, for the souls of those blessed with an angelic ancestor blaze brighter than any other. Even rarer than the tieflings with whom they share a commonality of ancestry, aasimar are mortal, and yet are understood to be destined for a grander cosmic purpose than others around them. In every culture across the continent of Wildemount, the birth of an aasimar is seen as a blessing and a portent.
+The light of the gods still shines upon Exandria, even from behind the Divine Gate. Aasimar are the purest expression of that divine light as it burns within every mortal soul, for the souls of those blessed with an angelic ancestor blaze brighter than any other. Even rarer than the tieflings with whom they share a commonality of ancestry, aasimar are mortal, and yet are understood to be destined for a grander cosmic purpose than others around them. In every culture across the continent of [[Wildemount]], the birth of an aasimar is seen as a blessing and a portent.
 
 Aasimar who can bear the burden of their destiny become champions of noble causes, and encourage others to walk always in the light. More often than not, however, an aasimar saddled with a vague destiny and the grand aspirations of their clan ultimately falls from grace, their inner light succumbing to shadow.
 
-### Aasimar in the Dwendalian Empire
+### Aasimar in the [[Dwendalian Empire]]
 
-To a law-abiding family worshiping state-approved gods, the birth of an aasimar child is nothing short of a miracle. Such a child is not only promised a charmed life, but elevates the social status of their family. However, to a family that secretly worships gods outlawed by the empire, the birth of a child touched by an angel of such deities is a mixed blessing. If the event draws the scrutiny of a settlement’s idolmaster and their cronies, it might force family members to flee their homes for the Greying Wildlands or the Menagerie Coast.
+To a law-abiding family worshiping state-approved gods, the birth of an aasimar child is nothing short of a miracle. Such a child is not only promised a charmed life, but elevates the social status of their family. However, to a family that secretly worships gods outlawed by the empire, the birth of a child touched by an angel of such deities is a mixed blessing. If the event draws the scrutiny of a settlement’s idolmaster and their cronies, it might force family members to flee their homes for the [[Greying Wildlands]] or the [[Menagerie Coast]].
 
-### Aasimar on the Menagerie Coast
+### Aasimar on the [[Menagerie Coast]]
 
-In the Clovis Concord, the cosmopolitan melting pot of Wildemount, most folk are inured to the sight of unusual and remarkable people. Even so, aasimar are a sight to behold, and there are many who don’t mind being rude if it means spending a few extra seconds staring at a radiant aasimar as they pass by.
+In the [[Clovis Concord]], the cosmopolitan melting pot of [[Wildemount]], most folk are inured to the sight of unusual and remarkable people. Even so, aasimar are a sight to behold, and there are many who don’t mind being rude if it means spending a few extra seconds staring at a radiant aasimar as they pass by.
 
-### Aasimar in Xhorhas
+### Aasimar in [[Xhorhas]]
 
-Those in the Kryn Dynasty who study dunamancy see aasimar as brimming with near-limitless potential. As such, aasimar are often sought out from birth to be trained as dunamancers and echo knights. The tribesfolk who wander Xhorhas see the birth of an aasimar as a message from the gods, and their shamans ascribe meaning to that birth by the conditions of the world. An aasimar born during a raging storm might be a word of warning from Kord the Storm Lord, whereas an aasimar whose mother gave birth in a field of flowers could be a vow of protection from Melora the Wild Mother.
+Those in the [[Kryn Dynasty]] who study [[dunamancy]] see aasimar as brimming with near-limitless potential. As such, aasimar are often sought out from birth to be trained as dunamancers and echo knights. The tribesfolk who wander [[Xhorhas]] see the birth of an aasimar as a message from the gods, and their shamans ascribe meaning to that birth by the conditions of the world. An aasimar born during a raging storm might be a word of warning from Kord the Storm Lord, whereas an aasimar whose mother gave birth in a field of flowers could be a vow of protection from Melora the Wild Mother.
 
 ### Aasimar Guides
 

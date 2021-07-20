@@ -1,6 +1,6 @@
 ## Grinner
 
-The Golden Grin began in the far-off land of Tal’Dorei, trading secret messages through a network of bards and minstrels to undermine an iron-fisted king’s authoritarian rule. Today, Tal’Dorei is a relatively peaceful republic, and some Grinners have grown restless while waiting for tyranny to raise its ugly head again. A contingent of such Grinners traveled to the Menagerie Coast and set up a network of secret bases in the cities of the Clovis Concord, from which they are presently working their way into the highest echelons of the Dwendalian Empire.
+The [[Golden Grin]] began in the far-off land of Tal’Dorei, trading secret messages through a network of bards and minstrels to undermine an iron-fisted king’s authoritarian rule. Today, Tal’Dorei is a relatively peaceful republic, and some Grinners have grown restless while waiting for tyranny to raise its ugly head again. A contingent of such Grinners traveled to the [[Menagerie Coast]] and set up a network of secret bases in the cities of the [[Clovis Concord]], from which they are presently working their way into the highest echelons of the [[Dwendalian Empire]].
 
 You are a Grinner. Your goals are to spread freedom and inspire hope—or, in time, revolution—in the hearts of the oppressed.
 
@@ -12,7 +12,7 @@ You are a Grinner. Your goals are to spread freedom and inspire hope—or, in ti
 
 ### Favorite Code-Song
 
-All members of the Golden Grin have learned a handful of folk songs in their travels, and use those songs to send secret codes and alert fellow Grinners to danger. Choose a favorite song or roll on the Favorite Code-Songs table.
+All members of the [[Golden Grin]] have learned a handful of folk songs in their travels, and use those songs to send secret codes and alert fellow Grinners to danger. Choose a favorite song or roll on the Favorite Code-Songs table.
 
 > ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-22.png)
 > Dr Dranzel, the Grinner
@@ -20,15 +20,15 @@ All members of the Golden Grin have learned a handful of folk songs in their tra
 | d6 | Favorite Code-Song|
 | --- | --- |
 | 1 | _Zan’s Comin’ Back_. This hopeful Tal’Dorei folk song declares the inevitable return of a just ruler. Use it to seek out potential allies.|
-| 2 | _Blow Fire Down the Coast_. A rowdy fighting song from the Clovis Concord, this ditty talks of blasting up pirate ships. Use it to encourage battle.|
+| 2 | _Blow Fire Down the Coast_. A rowdy fighting song from the [[Clovis Concord]], this ditty talks of blasting up pirate ships. Use it to encourage battle.|
 | 3 | _Hush! Onward Come the Dragons_. This Tal’Dorei folk song recounts the terror in the days after the invasion of the red dragon called the Cinder King. Use it to encourage caution in speech and deed.|
-| 4 | _Let the Sword Grow Rust_. An antiwar anthem from Marquet, this song has uncertain origins. Use it to help quell violent encounters.|
-| 5 | _Drink Deep, Li’l Hummingbird_. A drinking rondo from the Menagerie Coast, this song tells the tale of a young person who drinks so heavily that they awaken to find they’ve stowed away on a ship. Use it to encourage alertness in social situations.|
+| 4 | _Let the Sword Grow Rust_. An antiwar anthem from [[Marquet]], this song has uncertain origins. Use it to help quell violent encounters.|
+| 5 | _Drink Deep, Li’l Hummingbird_. A drinking rondo from the [[Menagerie Coast]], this song tells the tale of a young person who drinks so heavily that they awaken to find they’ve stowed away on a ship. Use it to encourage alertness in social situations.|
 | 6 | _Dirge for the Emerald Fire_. This elven song supposedly has thousands of obscure verses. Use the first two verses to spread news of death or defeat.|
 
 ### Feature: Ballad of the Grinning Fool
 
-Like every Grinner, you know how to find a hideout. In any city of 10,000 people or more on the Menagerie Coast or in the lands of the Dwendalian Empire, you can play the “Ballad of the Grinning Fool” in a major tavern or inn. A member of the Golden Grin will find you and give shelter to you and any companions you vouch for. This shelter might be discontinued if it becomes too dangerous to hide you, at the DM’s discretion.
+Like every Grinner, you know how to find a hideout. In any city of 10,000 people or more on the [[Menagerie Coast]] or in the lands of the [[Dwendalian Empire]], you can play the “Ballad of the Grinning Fool” in a major tavern or inn. A member of the [[Golden Grin]] will find you and give shelter to you and any companions you vouch for. This shelter might be discontinued if it becomes too dangerous to hide you, at the DM’s discretion.
 
 This feature must be used with caution, for not all who know the ballad are your friends. Some are traitors, counterspies, or agents of tyranny.
 
@@ -57,7 +57,7 @@ Grinners are trained in the art of secrecy and innuendo, and are skilled at hidi
 
 | d6 | Bond |
 | --- | --- |
-| 1 | I lost someone important to an agent of the Dwendalian Empire. That regime will fall. |
+| 1 | I lost someone important to an agent of the [[Dwendalian Empire]]. That regime will fall. |
 | 2 | The first people to be hurt by this war will be the common folk. I need to protect them. |
 | 3 | Music helped me through a dark time in my life. Now, I’ll use music to change the world. |
 | 4 | I will be known as the greatest spy who ever lived. |

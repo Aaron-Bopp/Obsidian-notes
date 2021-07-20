@@ -8,13 +8,13 @@
 
 **Commerce:** Most goods or services can be found within the villages, though it might take some searching, and strange or rare commodities are occasionally available from merchants or scavengers. Inns and taverns are scattered throughout the villages.
 
-**Organizations:** Small shrines and temples can be found in each village, and they each maintain their own marketplace and merchant unions. The Children of Malice have begun to infiltrate many of the villages.
+**Organizations:** Small shrines and temples can be found in each village, and they each maintain their own marketplace and merchant unions. The [[Children of Malice]] have begun to infiltrate many of the villages.
 
-South of the Sorrowseep Waters, where the fields are more fertile, lies a scattered network of seven villages with robust communities of goblinkin, orcs, and giants, known as the Many Hosts of Igrathad. The seven villages are Kranad, Broonbobah, Aruuth, Oshinik-Ka, Wrathfall, Unyeethi, and Dodafir.
+South of the [[Sorrowseep Waters]], where the fields are more fertile, lies a scattered network of seven villages with robust communities of goblinkin, orcs, and giants, known as the Many Hosts of Igrathad. The seven villages are Kranad, Broonbobah, Aruuth, Oshinik-Ka, Wrathfall, Unyeethi, and Dodafir.
 
-All seven villages were built on a central battleground where the factions of this region feuded and warred over resources and glory. The Kryn Dynasty reached out to the village leaders nearly a century ago and managed to broker a peace to halt the bloodshed. This disparate community is a uniquely powerful, if quarrelsome, ally to the dynasty.
+All seven villages were built on a central battleground where the factions of this region feuded and warred over resources and glory. The [[Kryn Dynasty]] reached out to the village leaders nearly a century ago and managed to broker a peace to halt the bloodshed. This disparate community is a uniquely powerful, if quarrelsome, ally to the dynasty.
 
-Over the generations of fighting each other as well as the roving clans of nomads that wander the Iothia Moorland, the many people of Igrathad have come to prize displays of combat prowess and hunting skills. Children are trained with arms from an early age, and the Many Hosts are respected as the finest warriors in the region, making them feared soldiers within the dynasty's military forces.
+Over the generations of fighting each other as well as the roving clans of nomads that wander the [[Iothia Moorland]], the many people of Igrathad have come to prize displays of combat prowess and hunting skills. Children are trained with arms from an early age, and the Many Hosts are respected as the finest warriors in the region, making them feared soldiers within the dynasty's military forces.
 
 While the villages of Igrathad have enjoyed the fruits of a somewhat collaborative society under the guidance of the dynasty, the centuries of turmoil have not been forgotten. Neighbors argue over territory, and youths challenge each other for social dominance. The people take pride in the unique history of their own village, and that pride can win out over the dynasty's message of unity. Interactions between the villages often grow tense when the Kryn aren't around to keep the peace. This isn't helped by the fact that a record number of able-bodied villagers from Igrathad have been sent north to fight on the front lines of the war. The center of the Kryn's government is far away from Igrathad, and many of the Dens are concerned that the tenuous union between the Many Hosts is crumbling.
 
@@ -32,7 +32,7 @@ The seven villages are connected by muddy paths that cut through the rocky grass
 
 **Oshinik-Ka** is a village of the hobgoblin folk, who reside in stone bunkers behind barricades that markedly push the militant air of life within.
 
-**Wrathfall** is the village of humanoid outlanders who never joined with the Odarami or the clans of the Iothia Moorland. It is little more than a few scattered clusters of yurts.
+**Wrathfall** is the village of humanoid outlanders who never joined with the Odarami or the clans of the [[Iothia Moorland]]. It is little more than a few scattered clusters of yurts.
 
 **Unyeethi** is home to the gnoll clan of the same name. It is the least social of the villages. The gnolls live in primitive huts made from bark, furs, and bones.
 

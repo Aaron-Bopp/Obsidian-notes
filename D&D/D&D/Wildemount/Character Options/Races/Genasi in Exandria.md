@@ -1,20 +1,20 @@
 ## Genasi
 
-Genasi are exceedingly rare on Exandria, as befits their unique origins. Most live among the elementally attuned Ashari tribes of Tal’Dorei or on the Elemental Planes. However, there are no major rifts to the Elemental Planes in Wildemount, and thus no Ashari to safeguard them. The few genasi who dwell on this continent are often created as the result of a powerful elemental influence at the moment of their birth. A baby born within the eye of a hurricane might become an air genasi, while a fire genasi might be born in the midst of a raging forest fire.
+Genasi are exceedingly rare on Exandria, as befits their unique origins. Most live among the elementally attuned Ashari tribes of Tal’Dorei or on the Elemental Planes. However, there are no major rifts to the Elemental Planes in [[Wildemount]], and thus no Ashari to safeguard them. The few genasi who dwell on this continent are often created as the result of a powerful elemental influence at the moment of their birth. A baby born within the eye of a hurricane might become an air genasi, while a fire genasi might be born in the midst of a raging forest fire.
 
 Some genasi are more attuned to their native element than others. A genasi with a powerful connection to elemental fire might have their head covered by crackling flames rather than hair. A genasi with a connection to elemental water might have blue-tinged skin and appear to sweat profusely at all times.
 
-### Genasi in the Dwendalian Empire
+### Genasi in the [[Dwendalian Empire]]
 
-Genasi are so visually distinctive and uncommon that they are treated with equal amounts of surprise and wonder in all the nations of Wildemount. The authoritarian regime of the Dwendalian Empire reacts the most harshly to the unique power of genasi, and the Cerberus Assembly takes the greatest interest in them. Genasi are often press-ganged into joining the assembly under threat of death or exile, and most accept the offer. Those who refuse—and who survive—often take refuge in the empire’s criminal underworld, with many finding acceptance in the Myriad crime syndicate.
+Genasi are so visually distinctive and uncommon that they are treated with equal amounts of surprise and wonder in all the nations of [[Wildemount]]. The authoritarian regime of the [[Dwendalian Empire]] reacts the most harshly to the unique power of genasi, and the [[Cerberus Assembly]] takes the greatest interest in them. Genasi are often press-ganged into joining the assembly under threat of death or exile, and most accept the offer. Those who refuse—and who survive—often take refuge in the empire’s criminal underworld, with many finding acceptance in [[the Myriad]] crime syndicate.
 
-### Genasi on the Menagerie Coast
+### Genasi on the [[Menagerie Coast]]
 
-Even the cosmopolitan people of the Clovis Concord react to the sight of a genasi with wonder. Sailors and pirates alike take special interest in genasi, for the power to harness the elements is a gift from the gods on the open sea.
+Even the cosmopolitan people of the [[Clovis Concord]] react to the sight of a genasi with wonder. Sailors and pirates alike take special interest in genasi, for the power to harness the elements is a gift from the gods on the open sea.
 
-### Genasi in Xhorhas
+### Genasi in [[Xhorhas]]
 
-Powerful storms wrack the flat plains of Xhorhas, and many who live beyond the walls of the Kryn Dynasty’s cities pray to Kord the Storm Lord to win blessings and protection from his wrath. Air, fire, and water genasi are often born under Kord’s auspices, and many become shamans serving the folk of Xhorhas. Few earth genasi roam the wastes, though some are said to dwell within the Vermaloc Wildwood.
+Powerful storms wrack the flat plains of [[Xhorhas]], and many who live beyond the walls of the [[Kryn Dynasty]]’s cities pray to Kord the Storm Lord to win blessings and protection from his wrath. Air, fire, and water genasi are often born under Kord’s auspices, and many become shamans serving the folk of [[Xhorhas]]. Few earth genasi roam the wastes, though some are said to dwell within the [[Vermaloc Wildwood]].
 
 The Kryn know little about the genasi and are eager to rectify that. Their scouts have orders to bring back any genasi they encounter to Rosohna.
 

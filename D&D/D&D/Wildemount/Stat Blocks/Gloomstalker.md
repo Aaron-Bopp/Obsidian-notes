@@ -6,7 +6,7 @@ _**Shadows of Doom.**_ Hailing from the cursed lands of the Shadowfell, these ni
 
 _**Night Hunters.**_ A gloomstalker’s proclivity for darkness makes it extremely dangerous at night or in heavily shaded places where it can blend in with their shadowed surroundings, but more dangerous than the lone hunter is a pack of gloomstalkers. Small packs of three to six are common. Larger packs of ten or more, called frenzies, are often harbingers of a greater evil yet to come.
 
-_**Terror Mounts.**_ Gloomstalkers were employed by arcanists and the followers of the Betrayer Gods as mounts in the ancient battles of the Calamity. A respectable number of gloomstalkers, now free of their burden, still hold hidden lairs scattered across the wastes of Xhorhas.
+_**Terror Mounts.**_ Gloomstalkers were employed by arcanists and the followers of the Betrayer Gods as mounts in the ancient battles of [[the Calamity]]. A respectable number of gloomstalkers, now free of their burden, still hold hidden lairs scattered across the wastes of [[Xhorhas]].
 
 [Gloomstalker](https://www.dndbeyond.com/monsters/gloomstalker)
 
