@@ -8,7 +8,7 @@ The dark elves of the [[Kryn Dynasty]] worship [[the Luxon]], a mysterious deity
 
 Map 3.8: Wastes of Xorhas
 
-[[Asarius, the City of Beasts]]
+[[Asarius]]
 
 [[Barbed Fields]]
 
@@ -18,7 +18,7 @@ Map 3.8: Wastes of Xorhas
 
 [[Charis]]
 
-[[Deepriver Mine and Icozrin Steelworks]]
+[[Deepriver Mine]]
 
 [[Dreemoth Ravine]]
 
@@ -32,11 +32,11 @@ Map 3.8: Wastes of Xorhas
 
 [[Lotusden Greenwood]]
 
-[[Many Hosts of Igrathad]]
+[[Igrathad]]
 
 [[Penumbra Range]]
 
-[[Rosohna (Ghor Dranas)]]
+[[Rosohna]]
 
 [[Ruins of Draconia]]
 

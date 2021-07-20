@@ -52,7 +52,7 @@ In the [[Dwendalian Empire]], rural folk are seen as honest, hardworking, and pi
 
 Travel farther north, however, and one reaches the [[Diarchy of Uthodurn]], a stable and ancient city ruled by elves and dwarves. Here, order and art are prized over chaos and personal enrichment. If your character is from [[Uthodurn]] rather than [[Shadycreek Run]], replace any rival you gain from the Social Status Relationships table with an ally, and vice-versa.
 
-**_Eastern Wynandir._** Accumulating knowledge and achieving spiritual enlightenment are the virtues of the [[Kryn Dynasty]], whose society is built around the tenets of [[the Luxon]]. Artists, entertainers, artisans, and all people who create are well-valued in Kryn society. Yet in this age of war, people whose skills allow them to destroy are paradoxically prized just as highly.
+**_[[Eastern Wynandir]]._** Accumulating knowledge and achieving spiritual enlightenment are the virtues of the [[Kryn Dynasty]], whose society is built around the tenets of [[the Luxon]]. Artists, entertainers, artisans, and all people who create are well-valued in Kryn society. Yet in this age of war, people whose skills allow them to destroy are paradoxically prized just as highly.
 
 To the Kryn, a person’s background is less important than the experiences they’ve accumulated—particularly for those who have begun walking the sacred path known as consecution. Nonetheless, even the most enlightened society can’t help but look down upon its lowest citizens and sneer at its haughty elite. Once all beings are beloved by [[the Luxon]], perhaps these ills of society will be purged once and for all.
 
@@ -89,7 +89,7 @@ Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/source
 | 41–44 | [[Kamordah]]          | City             |
 | 45    | [[Talonstadt]]        | Town             |
 | 46–50 | [[Trostenwald]]       | City             |
-| 51–52 | Vol’antim         | Town             |
+| 51–52 | [[Vol'antim]]         | Town             |
 | 53–00 | [[Zadash]]            | City             |
 
 
@@ -101,7 +101,7 @@ Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/source
 | 12–13 | [[Icehaven]]           | Town             |
 | 14–18 | [[Nogvurot]]           | City             |
 | 19–20 | [[Odessloe]]           | City             |
-| 21–26 | Pride’s Call       | City             |
+| 21–26 | [[Prides Call]]       | City             |
 | 27–96 | [[Rexxentrum]]         | City             |
 | 97–98 | [[Rockguard Garrison]] | Military outpost |
 | 99    | [[Velvin Thicket]]     | Nomadic diaspora |
@@ -118,13 +118,13 @@ Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/source
 
 | d100  | Settlement Name       | Type             |
 | ----- | --------------------- | ---------------- |
-| 01–20 | Asarius               | City             |
+| 01–20 | [[Asarius]]               | City             |
 | 21    | [[Bazzoxan]]              | Town             |
 | 22    | [[Charis]]                | Village          |
-| 23–30 | Igrathad              | Seven villages   |
+| 23–30 | [[Igrathad]]Igrathad              | Seven villages   |
 | 31–36 | [[Jigow]]                 | City             |
 | 37    | [[New Haxon]]             | Military outpost |
-| 38–89 | [[Rosohna (Ghor Dranas)]] | City             |
+| 38–89 | [[Rosohna]] | City             |
 | 90–93 | [[Rotthold]]              | City             |
 | 94–96 | [[Urzin]]                 | Town             |
 | 97–00 | [[Xarzith Kitril]]        | City             |

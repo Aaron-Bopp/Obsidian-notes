@@ -25,4 +25,4 @@ Adventure hooks labeled as "any level" can be presented at any point in your par
 - [[Eiselcross]]
 - Wastes of [[Xhorhas]]
 - [[Blightshore]]
-- [[Distant Lands of Exandria]]
+- [[Exandria]]

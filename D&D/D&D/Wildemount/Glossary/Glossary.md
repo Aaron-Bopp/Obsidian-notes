@@ -61,9 +61,9 @@ Divergence is the term used to describe the moment that Prime Gods, after banish
 
 Divine Gate is the boundary established by the Prime Gods between Exandria and the Outer Planes, preventing all major divinity from setting foot on the world.
 
-Draconblood are the former ruling class of dragonborn in [[Draconia]] before its fall, known for their tailed bodies and guile.
+Draconblood are the former ruling class of dragonborn in [[D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/Draconia]] before its fall, known for their tailed bodies and guile.
 
-[[Draconia]] was the once majestic dragonborn nation that now lays in ruins within the [[Dreemoth Ravine]].
+[[D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/Draconia]] was the once majestic dragonborn nation that now lays in ruins within the [[Dreemoth Ravine]].
 
 Dranassar were tall, beautiful humanoids whom [[Bane]] transformed into goblins, hobgoblins, and bugbears to create his armies.
 
@@ -161,13 +161,13 @@ Prime Deities are the gods who turn to the more orderly, good, and balanced view
 
 Raven Queen is the god of winter, fate, and the transition of death.
 
-Ravenites are the surviving dragonborn previously held as a lower, slave-class under the Draconbloods of [[Draconia]] before its fall, known for their tailless bodies and hardy physique.
+Ravenites are the surviving dragonborn previously held as a lower, slave-class under the Draconbloods of [[D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/Draconia]] before its fall, known for their tailless bodies and hardy physique.
 
 Revelry is the faction and banner that most operating pirates across the [[Menagerie Coast]] are united under.
 
 Righteous Brand is the military army of the [[Dwendalian Empire]].
 
-[[Scars of Scale and Tooth]] is a new faction of Ravenites and survivors of the destruction of [[Draconia]], centered around the city of [[Xarzith Kitril]].
+[[Scars of Scale and Tooth]] is a new faction of Ravenites and survivors of the destruction of [[D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/Draconia]], centered around the city of [[Xarzith Kitril]].
 
 [[Sehanine]] is the god of moonlight, illusions, and misdirection.
 
