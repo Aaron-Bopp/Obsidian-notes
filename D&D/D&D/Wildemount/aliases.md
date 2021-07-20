@@ -18,13 +18,13 @@
 
 [[Wildemount Gazetteer]]:
 
-[[Adventures in Wildemount - Dangerous Designs]]:
+[[Dangerous Designs]]:
 
-[[Adventures in Wildemount - Frozen Sick]]:
+[[Frozen Sick]]:
 
-[[Adventures in Wildemount - Tide of Retribution]]:
+[[Tide of Retribution]]:
 
-[[Adventures in Wildemount - Unwelcome Spirits]]:
+[[Unwelcome Spirits]]:
 
 [[Adventures in Wildemount]]:
 
@@ -88,7 +88,13 @@
 
 [[Dwarves]]:
 
+[[Dark-Elves]]:
+- "dark-elf"
+- "dark elf"
+- "dark elves"
+
 [[Elves]]:
+- "elf"
 
 [[Firbolgs]]:
 
@@ -96,11 +102,17 @@
 
 [[Gnomes]]:
 
+[[Gnolls]]:
+
 [[Goblinkin]]:
+- "goblinnoids"
+- "goblin"
+- "hob-goblin"
 
 [[Goliaths]]:
 
 [[Half-Elves]]:
+- "half-elf"
 
 [[Halflings]]:
 
@@ -112,6 +124,7 @@
 
 [[Orcs]]:
 - "Orcs and Half-orcs"
+- "half-orcs"
 
 [[Tabaxi]]:
 
@@ -120,10 +133,12 @@
 [[Tortles]]:
 
 [[Calendar and Time]]:
+- "calendar"
 
 [[Currency in Wildemount]]:
 
 [[Holidays in Wildemount]]:
+- "holiday"
 
 [[Languages in Wildemount]]:
 
@@ -201,7 +216,7 @@
 
 [[Iris Bethelas]]:
 
-[[JagBrukk]]:
+[[Jaglord Brukk]]:
 
 [[Jagoda Uttolot]]:
 
@@ -222,6 +237,7 @@
 [[Leylas Kryn]]:
 
 [[Library of the Cobalt Soul]]:
+- "cobalt soul"
 
 [[Lilyana Cayd]]:
 
@@ -254,6 +270,7 @@
 [[Scars of Scale and Tooth]]:
 
 [[Shakäste]]:
+- "shakaste"
 
 [[Sia Kresh]]:
 
@@ -266,22 +283,26 @@
 [[Sydnock Truscan]]:
 
 [[The Caustic Heart]]:
+- "Caustic heart"
 
 [[The Gentleman]]:
 
 [[The Harbingers of the Core]]:
 
 [[The Myriad]]:
+- "myriad"
 
 [[The Remnants]]:
 
 [[The Revelry]]:
+- "revelry"
 
 [[Trent Ikithon]]:
 
 [[Tribes of Shadycreek Run]]:
 
 [[Troka]]:
+- "the Scoundrel King"
 
 [[Truscan family]]:
 
@@ -318,6 +339,7 @@
 [[Zyn Daev’yana]]:
 
 [[Aeor]]:
+- "aeorian"
 
 [[Glossary]]:
 
@@ -338,6 +360,7 @@
 [[Founding of the Dwendalian Empire]]:
 
 [[Ki’Nau]]:
+- "ki nau"
 
 [[Modern Dwendalian Empire]]:
 
@@ -585,8 +608,6 @@
 
 [[Shadowghast]]:
 
-[[Stat Blocks by Creature Type]]:
-
 [[Swavain Basilisk]]:
 
 [[Udaak]]:
@@ -672,6 +693,7 @@
 [[Shattered Teeth]]:
 
 [[Tal'Dorei]]:
+- "tal dorei"
 
 [[Blooming Grove]]:
 
@@ -842,6 +864,7 @@
 [[Wuyun Gorge]]:
 
 [[Asarius]]:
+- "Asarius, the City of Beasts"
 
 [[Barbed Fields]]:
 

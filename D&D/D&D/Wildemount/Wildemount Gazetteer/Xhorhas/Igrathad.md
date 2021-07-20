@@ -1,6 +1,6 @@
 ### Many Hosts of Igrathad
 
-**Population:** 6,750 (41% [[goblinkin]], 19% orcs, 15% humanoids, 25% other races)
+**Population:** 6,750 (41% [[goblinkin]], 19% [[orcs]], 15% humanoids, 25% other races)
 
 **Government:** A local leader governs independently alongside a Kryn representative in each of the seven villages. The village leaders occasionally convene as a council.
 
@@ -10,7 +10,7 @@
 
 **Organizations:** Small shrines and temples can be found in each village, and they each maintain their own marketplace and merchant unions. The [[Children of Malice]] have begun to infiltrate many of the villages.
 
-South of the [[Sorrowseep Waters]], where the fields are more fertile, lies a scattered network of seven villages with robust communities of [[goblinkin]], orcs, and giants, known as the Many Hosts of Igrathad. The seven villages are Kranad, Broonbobah, Aruuth, Oshinik-Ka, Wrathfall, Unyeethi, and Dodafir.
+South of the [[Sorrowseep Waters]], where the fields are more fertile, lies a scattered network of seven villages with robust communities of [[goblinkin]], [[orcs]], and giants, known as the Many Hosts of Igrathad. The seven villages are Kranad, Broonbobah, Aruuth, Oshinik-Ka, Wrathfall, Unyeethi, and Dodafir.
 
 All seven villages were built on a central battleground where the factions of this region feuded and warred over resources and glory. The [[Kryn Dynasty]] reached out to the village leaders nearly a century ago and managed to broker a peace to halt the bloodshed. This disparate community is a uniquely powerful, if quarrelsome, ally to the dynasty.
 

@@ -1,6 +1,6 @@
 ### Vurmas
 
-**Population:** 193 (51% dark [[elves]], 23% orcs, 14% gnolls, 12% other races)
+**Population:** 193 (51% dark [[elves]], 23% [[orcs]], 14% gnolls, 12% other races)
 
 **Government:** Captain Hallwas Denalor has authority over this floating outpost, but Norca Brighttusk leads the expeditions.
 

@@ -1,6 +1,6 @@
 ### Jigow
 
-**Population:** 13,210 (56% [[goblinkin]], 31% orcs, 13% other races)
+**Population:** 13,210 (56% [[goblinkin]], 31% [[orcs]], 13% other races)
 
 **Government:** The assigned taskhand, Durth Mirimm, has a strained partnership with the two elder leaders of the goblin and orc clans.
 
@@ -16,7 +16,7 @@ From these talks, the coastal city of Jigow rose to become an important source o
 
 Despite the peace between the peoples of Jigow, their long-standing rivalries require other outlets wherein they can express their need to conquer and gloat, which is why Jigow celebrates competition in any form. Whether the rivalry of the day is a contest between hunting parties, a cooking competition, or just children playing sporting games, the people of Jigow love turning amicable rivalries into a loud and colorful spectacle—especially when they can make bets or help their chosen side cheat to achieve victory.
 
-The beliefs and superstitions of the original Gakthash, Uvuroh, and Zetek goblin clans permeate Jigow's goblin society. Similarly, the honorable traditions of the Norgab and Shoomat orcs continue to guide their people. While some have adopted the beliefs of the Kryn, many resist the teachings of the drow, as they feel that the presence of drow is suffocating their own culture. The mounting tensions between the dynasty and the people of Jigow are only further exacerbated by the worry that the dynasty's war will spill into Jigow territory.
+The beliefs and superstitions of the original Gakthash, Uvuroh, and Zetek goblin clans permeate Jigow's goblin society. Similarly, the honorable traditions of the Norgab and Shoomat [[orcs]] continue to guide their people. While some have adopted the beliefs of the Kryn, many resist the teachings of the drow, as they feel that the presence of drow is suffocating their own culture. The mounting tensions between the dynasty and the people of Jigow are only further exacerbated by the worry that the dynasty's war will spill into Jigow territory.
 
 Taskhand Durth Mirimm represents the dynasty's interests first and foremost, putting the needs of Jigow's residents a distant second. His controversial judgments are often challenged by the most vocal of the clan elders: Elder Cubu-Ka, an elderly goblin who enjoys frustrating the Kryn representatives, and Elder Ushru, an aging orc hunter eager to maintain the cultural heritage of his people. To the dynasty, maintaining order resembles a handful of adults failing to keep unruly children under control. The native people of Jigow, however, see their willfulness as a way to establish boundaries against a clueless enforcer.
 

@@ -1,6 +1,6 @@
 ### Bladegarden
 
-**Population:** 9,910 (32% half-orcs, 21% orcs, 25% [[humans]], 22% other races)
+**Population:** 9,910 (32% half-[[orcs]], 21% orcs, 25% [[humans]], 22% other races)
 
 **Government:** General Kruth Doorav and Starosta Leman TuFinn are often at odds, but work together to manage Bladegarden.
 
@@ -10,9 +10,9 @@
 
 **Organizations:** The Righteous Brand maintains a strong presence within Bladegarden. Small temples dot the knotted streets.
 
-When the Julous Dominion was defeated, the expanding empire saw the nomadic Odakar orc clan, formerly under Julous rule, as an opportunity to secure their hold on the eastern border. The empire reached out to the more approachable members of the orc settlement of Bladegarden, offering them wages, resources, and access to imperial goods and services. A number of them became the cornerstone of the eastern branch of the Righteous Brand and emboldened the empire's military techniques with the prowess of the border-hardened orcs. Other orc clans who rejected these ideals were forced eastward into the [[Brokenveil Marsh]] and forgotten.
+When the Julous Dominion was defeated, the expanding empire saw the nomadic Odakar orc clan, formerly under Julous rule, as an opportunity to secure their hold on the eastern border. The empire reached out to the more approachable members of the orc settlement of Bladegarden, offering them wages, resources, and access to imperial goods and services. A number of them became the cornerstone of the eastern branch of the Righteous Brand and emboldened the empire's military techniques with the prowess of the border-hardened [[orcs]]. Other orc clans who rejected these ideals were forced eastward into the [[Brokenveil Marsh]] and forgotten.
 
-From this accord, the new Righteous Brand training facility in the central [[Marrow Valley]] was established. Bladegarden was the site of one of the bloodiest battles of [[the Calamity]]; its name referred to the volume of weaponry scavenged by orcs from the war-ravaged earth, and has since been adapted to the idea that warriors are grown within its walls. Bladegarden is both a training complex and the core of orcish society in [[Western Wynandir]]. Contests of skill and might are commonplace among the recruits and their trainers. Even the merchants come from sturdier stock and often partake. A sense of honor and pride fills the ranks here, stoked by the rivalry between Bladegarden and [[Grimgolir]].
+From this accord, the new Righteous Brand training facility in the central [[Marrow Valley]] was established. Bladegarden was the site of one of the bloodiest battles of [[the Calamity]]; its name referred to the volume of weaponry scavenged by [[orcs]] from the war-ravaged earth, and has since been adapted to the idea that warriors are grown within its walls. Bladegarden is both a training complex and the core of orcish society in [[Western Wynandir]]. Contests of skill and might are commonplace among the recruits and their trainers. Even the merchants come from sturdier stock and often partake. A sense of honor and pride fills the ranks here, stoked by the rivalry between Bladegarden and [[Grimgolir]].
 
 As scuffles with the Kryn escalated and a growing number of [[dragonborn]] refugees left [[Talonstadt]] to join the military, a certain belligerent mirth filled the warriors of Bladegarden. This oddly jovial wartime atmosphere was shaken when the Xhorhasian assault on the [[Ashguard Garrison]] proved far more swift and brutal than anyone predicted. However, now that the surviving Ashguard forces have retreated to Bladegarden and the scattered armies of the empire have moved east to join them, the city is as crowded and lively as ever — but morale is tenuous. One more defeat like the one at Ashguard could crack Bladegarden like a nut.
 

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:D&D/Wildemount",
+  "search": "path:D&D/Wildemount -file:aliases.md",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -144,6 +144,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.10519117534755891,
+  "scale": 0.10348281438187228,
   "close": true
 }
