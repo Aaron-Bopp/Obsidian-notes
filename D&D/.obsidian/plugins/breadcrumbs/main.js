@@ -6232,7 +6232,7 @@ const DATAVIEW_INDEX_DELAY = 3000;
 
 function normalise(arr) {
     const max = Math.max(...arr);
-    return arr.map(item => item / max);
+    return arr.map((item) => item / max);
 }
 function getFileFrontmatterArr(app, settings) {
     const files = app.vault.getMarkdownFiles();
@@ -6276,23 +6276,33 @@ async function getJugglLinks(app, settings) {
         const jugglLink = { note: file.basename, links: [] };
         const links = (_b = (_a = app.metadataCache.getFileCache(file)) === null || _a === void 0 ? void 0 : _a.links) !== null && _b !== void 0 ? _b : [];
         const content = await app.vault.cachedRead(file);
-        links.forEach(link => {
+        links.forEach((link) => {
             var _a, _b, _c, _d, _e;
             const lineNo = link.position.start.line;
-            const line = content.split('\n')[lineNo];
+            const line = content.split("\n")[lineNo];
             const linksInLine = (_c = (_b = (_a = line
-                .match(splitLinksRegex)) === null || _a === void 0 ? void 0 : _a.map(link => link.slice(2, link.length - 2))) === null || _b === void 0 ? void 0 : _b.map(innerText => innerText.split('|')[0])) !== null && _c !== void 0 ? _c : [];
-            const parsedLinks = parseTypedLink(link, line, '-');
-            jugglLink.links.push({ type: (_e = (_d = parsedLinks === null || parsedLinks === void 0 ? void 0 : parsedLinks.properties) === null || _d === void 0 ? void 0 : _d.type) !== null && _e !== void 0 ? _e : '', linksInLine });
+                .match(splitLinksRegex)) === null || _a === void 0 ? void 0 : _a.map((link) => link.slice(2, link.length - 2))) === null || _b === void 0 ? void 0 : _b.map((innerText) => innerText.split("|")[0])) !== null && _c !== void 0 ? _c : [];
+            const parsedLinks = parseTypedLink(link, line, "-");
+            jugglLink.links.push({
+                type: (_e = (_d = parsedLinks === null || parsedLinks === void 0 ? void 0 : parsedLinks.properties) === null || _d === void 0 ? void 0 : _d.type) !== null && _e !== void 0 ? _e : "",
+                linksInLine,
+            });
         });
         return jugglLink;
     }));
     debug(settings, { typedLinksArr });
-    const allFields = [settings.parentFieldName, settings.siblingFieldName, settings.childFieldName].map(splitAndTrim).flat().filter((field) => field !== "");
-    typedLinksArr.forEach(jugglLink => {
+    const allFields = [
+        settings.parentFieldName,
+        settings.siblingFieldName,
+        settings.childFieldName,
+    ]
+        .map(splitAndTrim)
+        .flat()
+        .filter((field) => field !== "");
+    typedLinksArr.forEach((jugglLink) => {
         if (jugglLink.links.length) {
             const fieldTypesOnly = [];
-            jugglLink.links.forEach(link => {
+            jugglLink.links.forEach((link) => {
                 if (allFields.includes(link.type)) {
                     fieldTypesOnly.push(link);
                 }
@@ -6300,7 +6310,7 @@ async function getJugglLinks(app, settings) {
             jugglLink.links = fieldTypesOnly;
         }
     });
-    const filteredLinks = typedLinksArr.filter(link => link.links.length ? true : false);
+    const filteredLinks = typedLinksArr.filter((link) => link.links.length ? true : false);
     debug(settings, { filteredLinks });
     return filteredLinks;
 }
@@ -6309,17 +6319,17 @@ function getFields(fileFrontmatter, field, settings) {
     const fieldItems = (_b = (_a = fileFrontmatter.frontmatter) === null || _a === void 0 ? void 0 : _a[field]) !== null && _b !== void 0 ? _b : [];
     if (typeof fieldItems === "string") {
         superDebug(settings, `${field} (type: '${typeof fieldItems}') of: ${fileFrontmatter.file.basename} is: ${fieldItems}`);
-        const links = (_d = (_c = splitAndDrop(fieldItems)) === null || _c === void 0 ? void 0 : _c.map((value) => { var _a; return (_a = value === null || value === void 0 ? void 0 : value.split("/").last()) !== null && _a !== void 0 ? _a : ''; })) !== null && _d !== void 0 ? _d : [];
+        const links = (_d = (_c = splitAndDrop(fieldItems)) === null || _c === void 0 ? void 0 : _c.map((value) => { var _a; return (_a = value === null || value === void 0 ? void 0 : value.split("/").last()) !== null && _a !== void 0 ? _a : ""; })) !== null && _d !== void 0 ? _d : [];
         return links;
     }
     else {
         superDebug(settings, `${field} (type: '${typeof fieldItems}') of: ${fileFrontmatter.file.basename} is:`);
         // superDebug(settings, (fieldItems?.join(', ') ?? undefined))
-        const flattenedItems = ([fieldItems].flat(5));
+        const flattenedItems = [fieldItems].flat(5);
         const links = (_e = flattenedItems.map((link) => {
             var _a, _b, _c;
             debug(settings, link);
-            return (_b = (_a = link === null || link === void 0 ? void 0 : link.path) === null || _a === void 0 ? void 0 : _a.split("/").last()) !== null && _b !== void 0 ? _b : ((_c = link === null || link === void 0 ? void 0 : link.split("/").last()) !== null && _c !== void 0 ? _c : (''));
+            return (_c = (_b = (_a = link === null || link === void 0 ? void 0 : link.path) === null || _a === void 0 ? void 0 : _a.split("/").last()) !== null && _b !== void 0 ? _b : link === null || link === void 0 ? void 0 : link.split("/").last()) !== null && _c !== void 0 ? _c : "";
         })) !== null && _e !== void 0 ? _e : [];
         return links;
     }
@@ -6349,9 +6359,9 @@ async function getNeighbourObjArr(plugin, fileFrontmatterArr) {
                 .flat(),
         ];
         if (plugin.app.plugins.plugins.juggl !== undefined) {
-            const currFileJugglLinks = jugglLinks.filter(link => link.note === fileFrontmatter.file.basename);
-            currFileJugglLinks.forEach(jugglLink => {
-                jugglLink.links.forEach(link => {
+            const currFileJugglLinks = jugglLinks.filter((link) => link.note === fileFrontmatter.file.basename);
+            currFileJugglLinks.forEach((jugglLink) => {
+                jugglLink.links.forEach((link) => {
                     if (parentFields.includes(link.type)) {
                         parents = [...parents, ...link.linksInLine];
                     }
@@ -6381,7 +6391,7 @@ function superDebug(settings, log) {
 }
 function closeImpliedLinks(real, implied) {
     const closedG = real;
-    implied.edges().forEach(impliedEdge => {
+    implied.edges().forEach((impliedEdge) => {
         closedG.setEdge(impliedEdge.w, impliedEdge.v);
     });
     return closedG;
@@ -6409,7 +6419,6 @@ async function openOrSwitch(app, dest, currFile, event) {
         }
     });
     if (openLeaves.length > 0) {
-        console.log(openLeaves[0]);
         workspace.setActiveLeaf(openLeaves[0]);
     }
     else {
@@ -6421,10 +6430,10 @@ async function openOrSwitch(app, dest, currFile, event) {
         await leaf.openFile(destFile, { active: true, mode });
     }
 }
-function padArray(arr, finalLength, filler = '') {
+function padArray(arr, finalLength, filler = "") {
     const currLength = arr.length;
     if (currLength > finalLength) {
-        throw new Error('Current length is greater than final length');
+        throw new Error("Current length is greater than final length");
     }
     else if (currLength === finalLength) {
         return arr;
@@ -6444,7 +6453,7 @@ function transpose(A) {
         // Add a new row to AT
         AT.push([]);
         // And fill it with the values in the jth column of A
-        A.forEach(row => AT[j].push(row[j]));
+        A.forEach((row) => AT[j].push(row[j]));
     }
     return AT;
 }
@@ -6529,8 +6538,8 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
                     if (plugin.settings.showTrail) {
                         await plugin.drawTrail();
                     }
-                    if (plugin.matrixView) {
-                        await plugin.matrixView.draw();
+                    if (plugin.getActiveView()) {
+                        await plugin.getActiveView().draw();
                     }
                 }, num * 1000);
                 plugin.registerInterval(plugin.refreshIntervalID);
@@ -6561,7 +6570,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             .onChange(async (value) => {
             plugin.settings.showNameOrType = value;
             await plugin.saveSettings();
-            await plugin.matrixView.draw();
+            await plugin.getActiveView().draw();
         }));
         new obsidian.Setting(MLViewDetails)
             .setName("Show Relationship Type")
@@ -6571,7 +6580,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             .onChange(async (value) => {
             plugin.settings.showRelationType = value;
             await plugin.saveSettings();
-            await plugin.matrixView.draw();
+            await plugin.getActiveView().draw();
         }));
         const trailDetails = containerEl.createEl("details");
         trailDetails.createEl("summary", { text: "Trail/Grid" });
@@ -6638,7 +6647,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
                     plugin.settings.indexNote = finalValue;
                     await plugin.saveSettings();
                 }
-                else if (finalValue.every(index => isInVault(this.app, index))) {
+                else if (finalValue.every((index) => isInVault(this.app, index))) {
                     plugin.settings.indexNote = finalValue;
                     await plugin.saveSettings();
                 }
@@ -6650,9 +6659,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
         new obsidian.Setting(trailDetails)
             .setName("Default: All or Shortest")
             .setDesc("If multiple paths are found going up the parent tree, should all of them be shown by default, or only the shortest? On = all, off = shortest")
-            .addToggle((toggle) => toggle
-            .setValue(plugin.settings.showAll)
-            .onChange(async (value) => {
+            .addToggle((toggle) => toggle.setValue(plugin.settings.showAll).onChange(async (value) => {
             plugin.settings.showAll = value;
             await plugin.saveSettings();
             await plugin.drawTrail();
@@ -6667,7 +6674,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             plugin.settings.trailSeperator = value;
             await plugin.saveSettings();
             // BUG This doesn't seem to work... you still have to switch notes for it to redraw
-            await plugin.matrixView.draw();
+            await plugin.getActiveView().draw();
         }));
         new obsidian.Setting(trailDetails)
             .setName("No path found message")
@@ -8387,9 +8394,6 @@ class MatrixView extends obsidian.ItemView {
         super.onload();
         await this.plugin.saveSettings();
         this.matrixQ = this.plugin.settings.defaultView;
-        this.app.workspace.onLayoutReady(async () => {
-            setTimeout(async () => await this.draw(), DATAVIEW_INDEX_DELAY);
-        });
     }
     getViewType() {
         return VIEW_TYPE_BREADCRUMBS_MATRIX;
@@ -8400,8 +8404,11 @@ class MatrixView extends obsidian.ItemView {
     async onOpen() {
         await this.plugin.saveSettings();
         this.app.workspace.onLayoutReady(async () => {
-            await this.draw();
+            setTimeout(async () => await this.draw(), DATAVIEW_INDEX_DELAY);
         });
+        // this.app.workspace.on("dataview:api-ready", () =>
+        //   console.log("dv ready")
+        // );
     }
     onClose() {
         if (this.view) {
@@ -8409,16 +8416,13 @@ class MatrixView extends obsidian.ItemView {
         }
         return Promise.resolve();
     }
-    resolvedClass(toFile, currFile) {
+    unresolvedQ(to, from) {
         const { unresolvedLinks } = this.app.metadataCache;
-        if (!unresolvedLinks[currFile.path]) {
-            return "internal-link breadcrumbs-link";
+        if (!unresolvedLinks[from]) {
+            return false;
         }
-        return unresolvedLinks[currFile.path][toFile] > 0
-            ? "internal-link is-unresolved breadcrumbs-link"
-            : "internal-link breadcrumbs-link";
+        return unresolvedLinks[from][to] > 0;
     }
-    // NOTE I should be able to check for duplicates in real and implied here
     squareItems(g, currFile, realQ = true) {
         var _a, _b;
         let items;
@@ -8431,11 +8435,15 @@ class MatrixView extends obsidian.ItemView {
             items = predecessors;
         }
         const internalLinkObjArr = [];
+        // TODO I don't think I need to check the length here
+        /// forEach won't run if it's empty anyway
         if (items.length) {
             items.forEach((item) => {
                 internalLinkObjArr.push({
                     to: item,
-                    cls: this.resolvedClass(item, currFile) + (realQ ? '' : ' breadcrumbs-implied'),
+                    cls: "internal-link breadcrumbs-link" +
+                        (this.unresolvedQ(item, currFile.path) ? " is-unresolved" : "") +
+                        (realQ ? "" : " breadcrumbs-implied"),
                 });
             });
         }
@@ -8443,8 +8451,8 @@ class MatrixView extends obsidian.ItemView {
     }
     // ANCHOR Remove duplicate implied links
     removeDuplicateImplied(reals, implieds) {
-        const realTos = reals.map(real => real.to);
-        return implieds.filter(implied => !realTos.includes(implied.to));
+        const realTos = reals.map((real) => real.to);
+        return implieds.filter((implied) => !realTos.includes(implied.to));
     }
     dfsAllPaths(g, startNode) {
         var _a;
@@ -8476,13 +8484,13 @@ class MatrixView extends obsidian.ItemView {
         const settings = this.plugin.settings;
         // SECTION Create Index
         const allPaths = this.dfsAllPaths(closeImpliedLinks(gChildren, gParents), currFile.basename);
-        const reversed = allPaths.map(path => path.reverse());
-        reversed.forEach(path => path.shift());
-        let txt = currFile.basename + '\n';
-        const indent = '  ';
+        const reversed = allPaths.map((path) => path.reverse());
+        reversed.forEach((path) => path.shift());
+        let txt = currFile.basename + "\n";
+        const indent = "  ";
         const visited = [];
         const depths = [];
-        reversed.forEach(path => {
+        reversed.forEach((path) => {
             for (let i = 0; i < path.length; i++) {
                 const curr = path[i];
                 if (!visited.includes(curr)) {
@@ -8543,7 +8551,10 @@ class MatrixView extends obsidian.ItemView {
                 impliedSiblings.forEach((impliedSibling) => {
                     impliedSiblingsArr.push({
                         to: impliedSibling,
-                        cls: this.resolvedClass(impliedSibling, currFile),
+                        cls: "internal-link breadcrumbs-link breadcrumbs-implied" +
+                            (this.unresolvedQ(impliedSibling, currFile.path)
+                                ? " is-unresolved"
+                                : ""),
                     });
                 });
             });
@@ -8554,7 +8565,14 @@ class MatrixView extends obsidian.ItemView {
         impliedParents = this.removeDuplicateImplied(realParents, impliedParents);
         impliedSiblingsArr = this.removeDuplicateImplied(realSiblings, impliedSiblingsArr);
         impliedChildren = this.removeDuplicateImplied(realChildren, impliedChildren);
-        debug(settings, { realParents, impliedParents, realSiblings, impliedSiblingsArr, realChildren, impliedChildren });
+        debug(settings, {
+            realParents,
+            impliedParents,
+            realSiblings,
+            impliedSiblingsArr,
+            realChildren,
+            impliedChildren,
+        });
         const parentsSquare = {
             realItems: realParents,
             impliedItems: impliedParents,
@@ -8580,7 +8598,7 @@ class MatrixView extends obsidian.ItemView {
                     currFile,
                     settings: settings,
                     matrixView: this,
-                    app: this.app
+                    app: this.app,
                 },
             });
         }
@@ -8594,7 +8612,7 @@ class MatrixView extends obsidian.ItemView {
                     currFile,
                     settings: settings,
                     matrixView: this,
-                    app: this.app
+                    app: this.app,
                 },
             });
         }
@@ -9353,7 +9371,7 @@ const DEFAULT_SETTINGS = {
     showTrail: true,
     trailOrTable: 3,
     gridHeatmap: false,
-    heatmapColour: '#EEEEEE',
+    heatmapColour: getComputedStyle(document.body).getPropertyValue("--text-accent"),
     showAll: false,
     noPathMessage: `This note has no real or implied parents`,
     trailSeperator: "→",
@@ -9383,7 +9401,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         console.log("loading breadcrumbs plugin");
         await this.loadSettings();
         this.visited = [];
-        this.registerView(VIEW_TYPE_BREADCRUMBS_MATRIX, (leaf) => (new MatrixView(leaf, this)));
+        this.registerView(VIEW_TYPE_BREADCRUMBS_MATRIX, (leaf) => new MatrixView(leaf, this));
         this.app.workspace.onLayoutReady(async () => {
             // this.trailDiv = createDiv()
             setTimeout(async () => {
@@ -9477,7 +9495,9 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
     }
     bfsAllPaths(g, startNode) {
         var _a;
-        const queue = [{ node: startNode, path: [] }];
+        const queue = [
+            { node: startNode, path: [] },
+        ];
         const pathsArr = [];
         let i = 0;
         while (queue.length !== 0 && i < 1000) {
@@ -9485,13 +9505,16 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             const currPath = queue.shift();
             const newNodes = ((_a = g.successors(currPath.node)) !== null && _a !== void 0 ? _a : []);
             const extPath = [currPath.node, ...currPath.path];
-            queue.push(...newNodes.map((n) => { return { node: n, path: extPath }; }));
+            queue.push(...newNodes.map((n) => {
+                return { node: n, path: extPath };
+            }));
             // terminal node
             if (newNodes.length === 0) {
                 pathsArr.push(extPath);
             }
         }
-        pathsArr.forEach(path => {
+        // Splice off the current note from the path
+        pathsArr.forEach((path) => {
             if (path.length) {
                 path.splice(path.length - 1, 1);
             }
@@ -9522,44 +9545,19 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
     }
     getBreadcrumbs(g) {
         const currFile = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView).file;
-        if (currFile.extension !== 'md') {
+        if (currFile.extension !== "md") {
             return null;
         }
         const from = currFile.basename;
-        const paths = graphlib.alg.dijkstra(g, from);
         const indexNotes = [this.settings.indexNote].flat();
-        const allTrails = [];
-        let sortedTrails = [];
+        let allTrails = this.bfsAllPaths(g, from);
         // No index note chosen
-        if (indexNotes[0] === "") {
-            const bfsAllPaths = this.bfsAllPaths(g, from);
-            if (bfsAllPaths.length > 1) {
-                sortedTrails = bfsAllPaths.sort((a, b) => a.length - b.length);
-            }
-            else {
-                sortedTrails = bfsAllPaths;
-            }
+        if (indexNotes[0] !== "" && allTrails[0].length > 0) {
+            allTrails = allTrails.filter((trail) => indexNotes.includes(trail[0]));
         }
-        else {
-            indexNotes.forEach((index) => {
-                let step = index;
-                if (paths[step].distance !== Infinity) {
-                    const breadcrumbs = [];
-                    // Walk it until arriving at `from`
-                    while (paths[step].distance !== 0) {
-                        breadcrumbs.push(step);
-                        step = paths[step].predecessor;
-                    }
-                    if (breadcrumbs.length > 0) {
-                        // Add the last step
-                        breadcrumbs.push(from);
-                    }
-                    allTrails.push(breadcrumbs);
-                }
-            });
-            const filteredTrails = allTrails.filter(trail => trail.length > 0);
-            sortedTrails = filteredTrails.sort((a, b) => a.length < b.length ? -1 : 1);
-        }
+        let sortedTrails = allTrails
+            .filter((trail) => trail.length > 0)
+            .sort((a, b) => a.length - b.length);
         debug(this.settings, sortedTrails);
         return sortedTrails;
     }
@@ -9574,48 +9572,54 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         }
         const currFile = activeMDView.file;
         const frontm = (_b = (_a = this.app.metadataCache.getFileCache(currFile)) === null || _a === void 0 ? void 0 : _a.frontmatter) !== null && _b !== void 0 ? _b : {};
-        if (frontm['kanban-plugin']) {
-            return;
-        }
-        const { gParents, gChildren } = this.currGraphs;
-        const closedParents = closeImpliedLinks(gParents, gChildren);
-        const sortedTrails = this.getBreadcrumbs(closedParents);
-        if (!sortedTrails) {
+        if (frontm["kanban-plugin"]) {
             return;
         }
         const settings = this.settings;
+        const { gParents, gChildren } = this.currGraphs;
+        const closedParents = closeImpliedLinks(gParents, gChildren);
+        const sortedTrails = this.getBreadcrumbs(closedParents);
+        debug(settings, { sortedTrails });
         // Get the container div of the active note
-        const previewView = activeMDView.contentEl.querySelector('.markdown-preview-view');
-        (_c = previewView.querySelector('div.breadcrumbs-trail')) === null || _c === void 0 ? void 0 : _c.remove();
+        const previewView = activeMDView.contentEl.querySelector(".markdown-preview-view");
+        // Make sure it's empty
+        (_c = previewView.querySelector("div.breadcrumbs-trail")) === null || _c === void 0 ? void 0 : _c.remove();
+        if (sortedTrails.length === 0 && settings.noPathMessage === "") {
+            return;
+        }
         const trailDiv = createDiv({
             cls: `breadcrumbs-trail ${settings.respectReadableLineLength
                 ? "is-readable-line-width markdown-preview-sizer markdown-preview-section"
-                : ""}`
+                : ""}`,
         });
         // previewView.prepend(trailDiv)
         this.visited.push([currFile.path, trailDiv]);
         previewView.prepend(trailDiv);
         trailDiv.empty();
+        if (sortedTrails.length === 0) {
+            trailDiv.innerText = settings.noPathMessage;
+            return;
+        }
         if (settings.trailOrTable === 1) {
             new TrailPath({
                 target: trailDiv,
-                props: { sortedTrails, app: this.app, settings, currFile }
+                props: { sortedTrails, app: this.app, settings, currFile },
             });
         }
         else if (settings.trailOrTable === 2) {
             new TrailGrid({
                 target: trailDiv,
-                props: { sortedTrails, app: this.app, plugin: this }
+                props: { sortedTrails, app: this.app, plugin: this },
             });
         }
         else {
             new TrailPath({
                 target: trailDiv,
-                props: { sortedTrails, app: this.app, settings, currFile }
+                props: { sortedTrails, app: this.app, settings, currFile },
             });
             new TrailGrid({
                 target: trailDiv,
-                props: { sortedTrails, app: this.app, plugin: this }
+                props: { sortedTrails, app: this.app, plugin: this },
             });
         }
     }
@@ -9631,7 +9635,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         const openLeaves = this.app.workspace.getLeavesOfType(VIEW_TYPE_BREADCRUMBS_MATRIX);
         openLeaves.forEach((leaf) => leaf.detach());
         // Empty trailDiv
-        this.visited.forEach(visit => visit[1].remove());
+        this.visited.forEach((visit) => visit[1].remove());
     }
 }
 

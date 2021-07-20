@@ -8,31 +8,31 @@ While the [[Dwendalian Empire]] and its constituents seek to establish a foothol
 > Map 3.10: Blightshore
 
 ## Regions
-### Cauldron Sea
+### [[Cauldron Sea]]
 ![[Cauldron Sea#Cauldron Sea]]
-### Ebonglass Massif
+### [[Ebonglass Massif]]
 ![[Ebonglass Massif]]
-### Far Hharom
+### [[Far Hharom]]
 ![[Far Hharom]]
-### Ghor Veles
+### [[Ghor Veles]]
 ![[Ghor Veles]]
 ### Incanter'
 ![[Incanter's Rest]]
-### Miskath Pit
+### [[Miskath Pit]]
 ![[Miskath Pit]]
-### New Haxon
+### [[New Haxon]]
 ![[New Haxon]]
-### Olc Skerry
+### [[Olc Skerry]]
 ![[Olc Skerry]]
-### Rotthold
+### [[Rotthold]]
 ![[Rotthold]]
-### Tooth of Zehir
+### [[Tooth of Zehir]]
 ![[Tooth of Zehir]]
 ## Bizarre Terrain of Blightshore
 
 The strange landscape of the [[Miskath Strand]] has been savagely reshaped by [[the Calamity]], infusing the earth with chaotic new elements and especially inhospitable terrain. As a result, much of this region of [[Eastern Wynandir]] remains relatively unmapped by modern scholars.
 
-The terrain and weather features described in the sections that follow can be encountered anywhere within [[Blightshore]]'s defiled expanse. Many of these areas present hazardous (and potentially fatal) conditions for travelers and explorers. As your players traverse the desolate badlands of the [[Miskath Strand]], you can present Blightshore's weird and wondrous terrain as a character in its own right. And perhaps there are even stranger features of this accursed frontier that wait to be discovered, tamed, or avoided at all costs.
+The terrain and weather features described in the sections that follow can be encountered anywhere within Blightshore's defiled expanse. Many of these areas present hazardous (and potentially fatal) conditions for travelers and explorers. As your players traverse the desolate badlands of the [[Miskath Strand]], you can present Blightshore's weird and wondrous terrain as a character in its own right. And perhaps there are even stranger features of this accursed frontier that wait to be discovered, tamed, or avoided at all costs.
 
 These chunks of broken land hover and swirl in the air, held aloft by unknown arcane forces. A typical earth mote is 1d6 × 10 feet in diameter and hovers 2d10 × 10 feet above the ground. Earth motes are capable of supporting the weight of modest structures as well as creatures.
 
@@ -75,7 +75,7 @@ A virulent expanse of malignant fungal growths blankets the landscape and fills 
 -   Any non-plant creature within 20 feet of a toxic fungus colony is [poisoned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Poisoned). A creature [poisoned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Poisoned) by the colony for 1 hour has a 20 percent chance of gaining a random form of short-term madness (see "[Madness](https://www.dndbeyond.com/sources/dmg/running-the-game#Madness "Madness")" in chapter 8 of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")).
 -   A toxic fungus colony can be bioluminescent. A bioluminescent colony sheds dim light within its area and for an additional 20 feet beyond its outer edges.
 
-The arcane fallout from [[the Calamity]] is so widespread throughout [[Blightshore]] that the very land, sea, and air have been subtly altered in strange and mysterious ways. As characters explore the post-Calamity [[Miskath Strand]], roll on the Uncanny Phenomena table as frequently as you like to augment the world they encounter. If you roll something that doesn't make sense, roll again, choose a more appropriate entry, or use the result as inspiration to make up your own phenomenon. The magical effects of these phenomena can't be dispelled.
+The arcane fallout from [[the Calamity]] is so widespread throughout Blightshore that the very land, sea, and air have been subtly altered in strange and mysterious ways. As characters explore the post-Calamity [[Miskath Strand]], roll on the Uncanny Phenomena table as frequently as you like to augment the world they encounter. If you roll something that doesn't make sense, roll again, choose a more appropriate entry, or use the result as inspiration to make up your own phenomenon. The magical effects of these phenomena can't be dispelled.
 #Table 
 d10
 

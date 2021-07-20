@@ -12,7 +12,7 @@
 
 Felderwin is the heart of halfling society in Wynandir. The settlement itself is surrounded by fertile farmland — the sprawling [[Felderwin Tillage]] that has been cultivated by the halfling community for over seven centuries. In the wake of a sudden and vicious attack from the [[Kryn Dynasty]], the [[Crownsguard]] presence has recently increased, and paranoia has gripped the citizens of Felderwin. Taverns and shops are filled with hushed whispers about the fate of the empire.
 
-This area was originally settled by the halfling Felder clan many centuries ago, and the community has always valued the simple, grounded life of a farmer. The exceedingly fertile soil surrounding Felderwin is known throughout the empire, and the best farmers and students of agriculture in the land have settled here. As such, the agricultural skills taught in Felderwin are second to none.
+This area was originally settled by the halfling [[Felder clan]] many centuries ago, and the community has always valued the simple, grounded life of a farmer. The exceedingly fertile soil surrounding Felderwin is known throughout the empire, and the best farmers and students of agriculture in the land have settled here. As such, the agricultural skills taught in Felderwin are second to none.
 
 Some family bloodlines have tilled the earth for as long as Felderwin has existed and fiercely guard their plots against any incursion — be it from other farmers, local goblins, or invading dark [[elves]]. Nomadic goblin camps moving through the nearby [[Cyrios Mountains]] often encroach in the dark of night during harvest time.
 
