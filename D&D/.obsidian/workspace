@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
+            "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
+                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
+                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md"
+                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
+                "file": "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,15 +210,15 @@
   },
   "active": "dea2332a1e44aa8b",
   "lastOpenFiles": [
-    "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Bizarre Terrain of Blightshore.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Tooth of Zehir.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Far Hharom.md",
     "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Ghor Veles.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Incanter's Rest.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Miskath Pit.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/New Haxon.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Olc Skerry.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Blightshore/Rotthold.md"
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
+    "D&D/Wildemount/Character Options/Races/Hollow Ones.md",
+    "D&D/Wildemount/Pantheon of Exandria/Bahamut, the Platinum Dragon.md",
+    "D&D/Wildemount/Pantheon of Exandria/Avandra, the Change Bringer.md",
+    "D&D/Wildemount/Pantheon of Exandria/Asmodeus, the Lord of the Nine Hells.md",
+    "D&D/Wildemount/Stat Blocks/Aeorian Nullifier.md",
+    "D&D/Wildemount/Stat Blocks/Aeorian Hunters.md",
+    "D&D/Wildemount/Stat Blocks/A Sea Fury’s Lair.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Menagerie Coast.md"
   ]
 }
