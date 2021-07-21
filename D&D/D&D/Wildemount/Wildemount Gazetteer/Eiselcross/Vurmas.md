@@ -20,7 +20,7 @@ Vurmas is not a true settlement: it's actually three sailing ships tied together
 
 The Kryn's explorers stay on the boats when they can, bringing supplies to shore when they go out in search of allies. These ships are maintained and run by Captain Hallwas Denalor (lawful neutral, female, [[Dark Elves|dark elf]] [veteran](https://www.dndbeyond.com/monsters/veteran)), while Norca Brighttusk (neutral, female, orc [priest](https://www.dndbeyond.com/monsters/priest)) leads the expedition teams.
 
-The [[Kryn Dynasty]] believes that the [[wildfolk of Eiselcross]] are a better find and more reliable than most [[Aeor|Aeorian]] objects, especially since the items tend to interfere with the Kryn's divine magic. With the [[Cerberus Assembly]] and the Uthodurnians busy in Foren, the Kryn stay clear of the largest island and search for allies in the rest of [[Eiselcross]]'s lands. Many wildfolk are easy converts of [[the Luxon]] since they respect divine magic but do not worship any deity.
+The [[Kryn Dynasty]] believes that the [[Wildfolk]] are a better find and more reliable than most [[Aeor|Aeorian]] objects, especially since the items tend to interfere with the Kryn's divine magic. With the [[Cerberus Assembly]] and the Uthodurnians busy in Foren, the Kryn stay clear of the largest island and search for allies in the rest of [[Eiselcross]]'s lands. Many wildfolk are easy converts of [[the Luxon]] since they respect divine magic but do not worship any deity.
 
 The Kryn approach each wildfolk clan with caution and kindness, healing the sick and injured while preaching the faith of [[the Luxon]]. They take only willing wildfolk away from the clan, knowing many others will follow because they miss their friends and family.
 

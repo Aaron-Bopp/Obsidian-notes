@@ -12,7 +12,7 @@ Map 3.7: Eiselcross
 
 [[Islands of Eiselcross]]
 
-[[Wildfolk of Eiselcross]]
+[[Wildfolk]]
 
 # Areas of Eiselcross
 

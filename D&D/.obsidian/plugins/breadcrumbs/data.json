@@ -1,6 +1,6 @@
 {
   "parentFieldName": "related-topics, parent",
-  "siblingFieldName": "sub-topics",
+  "siblingFieldName": "sub-topics, sibling",
   "childFieldName": "child",
   "indexNote": [
     "INDEX"

@@ -9,7 +9,7 @@ When the environment of Mutalos changes, so do its inhabitants. At dawn, a mount
 Sometimes a creature that appears in Mutalos leaves the borders of the region. When this occurs, the creature becomes untethered from the magic that brought it to Foren and remains in [[Eiselcross]] even after Mutalos's environment changes. Many creatures from other habitats don't last for long in the arctic wastes, but a few are smart or strong enough to survive.
 
 Each day at dawn, the habitat of Mutalos changes. You can choose or roll this new environment on the Mutalos Habitats table. If you roll the result of Mutalos's current environment, roll again until you get a new result.
-
+#Table 
 d8
 
 Habitat

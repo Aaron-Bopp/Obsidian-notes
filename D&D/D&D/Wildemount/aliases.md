@@ -912,7 +912,7 @@
 
 [[Wildemount NPCs]]:
 
-[[Wildfolk of Eiselcross]]:
+[[Wildfolk]]:
 
 [[Will of the Talon]]:
 

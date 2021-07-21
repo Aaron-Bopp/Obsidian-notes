@@ -1,6 +1,6 @@
 ### [[Aeor]] Crash Site
 
-While pieces of [[Aeor]] were thrown all over [[Eiselcross]] and the Frigid Depths, the city's main crash initially created a three-mile-diameter crater in the center of Foren. In the centuries since, ice covered the crater. Ruins poke through the frosty surface, creating tunnels, pits, and chasms. The buried ruins are filled with dangerous, wonderful creations and pockets of people frozen in time.
+While pieces of [[Aeor]] were thrown all over [[Eiselcross]] and the [[Frigid Depths]], the city's main crash initially created a three-mile-diameter crater in the center of Foren. In the centuries since, ice covered the crater. Ruins poke through the frosty surface, creating tunnels, pits, and chasms. The buried ruins are filled with dangerous, wonderful creations and pockets of people frozen in time.
 
 Most of [[Aeor]]'s streets, buildings, and people were smashed to pieces when the city collided with Foren. Amid the ruins are magic fields of translucent blue force surrounding moments frozen in time. Many of these bubbles hold diverse crowds of humanoids huddled in the street, their bodies, clothes, belongings, and the ground itself unharmed by the crash. Others contain families holding hands as they brace for impact around dining tables, mages waving wands in the air around laboratory benches, soldiers with glowing swords raised to the sky, siege crews climbing atop weapons meant to fire massive projectiles, and more. Each magic field is a 10-foot-radius sphere, and nothing within appears damaged or moved by the crash.
 
