@@ -1,5 +1,5 @@
 ### Shattered Teeth
-**Tag**:: #Exandria/Locale/Wynandir/Exandria
+**Tag**:: #Exandria/Locale/ShatteredTeeth
 **Location**:: [[Exandria]]
 
 Should one wish to brave the perilous waters far south of [[Wildemount]], past the dangerous, perpetual fog bank called the Fool's Curtain, they might discover themselves adrift among a cluster of forty-three islands known as the Shattered Teeth.

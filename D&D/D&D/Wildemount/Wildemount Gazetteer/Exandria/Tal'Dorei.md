@@ -1,5 +1,5 @@
 ### Tal'Dorei
-**Tag**:: #Exandria/Locale/Wynandir/Exandria
+**Tag**:: #Exandria/Locale/TalDorei
 **Location**:: [[Exandria]]
 
 The continent of Tal'Dorei lies west of [[Wildemount]], nearly connected by a land bridge that stands sundered by the Shearing Channel. The independent city-state of Whitestone lords over the northeastern reaches of Tal'Dorei from deep within the chilled woods of the Parchwood Timberland. Farther west, the endless, green fields and forests of the Dividing Plains form a landscape of farmland, rivers, and untamed wilderness.

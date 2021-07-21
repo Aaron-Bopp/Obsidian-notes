@@ -1,0 +1,4 @@
+## The Puddles
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley/Berleben 
+**Location**:: [[Berleben]]
+[[The Puddles]] are the oldest and poorest region of Berleben, with numerous old stone and wood buildings that now sit in several inches of marsh water. The Midway Docks are the central region of Berleben, where the workers and fishmongers do business and where a majority of locals socialize. The Stilts are, for what little it's worth, the newest and most affluent part of town, marked by sturdier houses atop heavy load-bearing stilts that raise the buildings a few feet above the swamp in hopes of outlasting the rest of the sinking settlement.

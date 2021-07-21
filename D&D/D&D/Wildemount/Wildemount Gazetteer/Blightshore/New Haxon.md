@@ -6,7 +6,7 @@
 
 **Government**:: The [[Cerberus Assembly]] works in tandem with allied mercenaries to maintain a stratocracy of lawful military power.
 
-**Defense**:: Satyana Vorvexis, an adult copper dragon, commands a garrison of over two hundred active duty soldiers, and each citizen of New Haxon is enlisted for reserve military duty.
+**Defense**:: Satyana Vorvexis, an adult copper [[dragon]], commands a garrison of over two hundred active duty soldiers, and each citizen of New Haxon is enlisted for reserve military duty.
 
 **Commerce**:: Common goods and services are available via the city's vast network of enterprising military merchants. Meanwhile, the [[Cerberus Assembly]] strives to subvert New Haxon's thriving and profitable black market for rare arcane antiquities.
 

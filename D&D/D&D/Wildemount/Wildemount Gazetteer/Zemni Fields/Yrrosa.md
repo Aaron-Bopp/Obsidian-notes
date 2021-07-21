@@ -1,10 +1,6 @@
 ## Yrrosa
 **Tag**:: #Exandria/Locale/Wynandir/ZemniFields
 **Location**:: [[Zemni Fields]]
-This file:: **`=this.file.path`**
-Linked by::`=this.file.inlinks`
-### Yrrosa
-**Location**:: #Locale/[[Wildemount]]/ZemniFields 
 
 **Population:**:: 3,220 
 

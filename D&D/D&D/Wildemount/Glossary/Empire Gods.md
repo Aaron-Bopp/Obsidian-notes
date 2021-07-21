@@ -1,0 +1,1 @@
+[[Empire Gods]] refers to the members of the Prime Deities pantheon that remain approved for worship within the [[Dwendalian Empire]]. This includes [[Erathis]], [[Bahamut]], [[Moradin]], [[Pelor]], [[Ioun]], and [[the Raven Queen]].

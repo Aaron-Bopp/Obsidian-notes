@@ -65,6 +65,7 @@
 [[Aurora Watch]]:
 
 [[Avandra]]:
+- Change Bringer
 
 [[Backgrounds]]:
 
@@ -83,8 +84,11 @@
 [[Bazzoxan]]:
 
 [[Berleben]]:
+- the Sog Sticks
 
 [[Bertrand Dwendal]]:
+- crown
+- king
 
 [[Betrayer Artifact Properties]]:
 
@@ -142,6 +146,7 @@
 [[Ceratos]]:
 
 [[Cerberus Assembly]]:
+- assembly
 
 [[Character Options]]:
 
@@ -158,6 +163,8 @@
 [[Claret Orders]]:
 
 [[Clovis Concord]]:
+- concord
+- concordian
 
 [[Coin of Delving]]:
 
@@ -176,6 +183,7 @@
 [[Core Spawn Worm]]:
 
 [[Corellon]]:
+- Arch Heart
 
 [[Corpse Slayer]]:
 
@@ -241,6 +249,7 @@
 [[Draconia]]:
 
 [[Dragonborn]]:
+- draconblood
 
 [[Dranassar]]:
 
@@ -269,6 +278,7 @@
 [[Dwarves]]:
 
 [[Dwendalian Empire]]:
+- empire
 
 [[Eastern Wynandir]]:
 
@@ -292,6 +302,7 @@
 [[Endless Athenaeum]]:
 
 [[Erathis]]:
+- Law Bearer
 
 [[Erdeloch]]:
 
@@ -453,6 +464,7 @@
 [[Iothia Moorland]]:
 
 [[Ioun]]:
+- Knowing Mentor
 
 [[Iris Bethelas]]:
 
@@ -493,6 +505,8 @@
 [[Kravaraad]]:
 
 [[Kryn Dynasty]]:
+- dynasty
+- kryn
 
 [[Languages in Wildemount]]:
 
@@ -560,6 +574,7 @@
 [[Moorbounders]]:
 
 [[Moradin]]:
+- all-hammer
 
 [[Mount Mentiri]]:
 
@@ -620,6 +635,7 @@
 [[Pearlbow Wilderness]]:
 
 [[Pelor]]:
+- dawn father
 
 [[Penumbra Range]]:
 
@@ -650,6 +666,7 @@
 [[Quoraska Jungle]]:
 
 [[Raei]]:
+- Everlight
 
 [[Rastum Den]]:
 

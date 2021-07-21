@@ -1,8 +1,12 @@
 ## Adventures in [[Wildemount]]
-
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/05-01.jpg)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/05-01.jpg)
-
-Adventurers confront the mad inventor Stahlmast and his deadly mechanical masterpiece, the Stahlmaster!
+**Location**:: [[INDEX]]
+```dataview
+Table level, Location
+from #Exandria/Adventure 
+sort level, location
+```
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/05-01.jpg)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/05-01.jpg)
+> Adventurers confront the mad inventor Stahlmast and his deadly mechanical masterpiece, the Stahlmaster!
 
 Every epic journey begins somewhere. A long night at sea brings fated friends together. The mystery of a bloodstained cloak causes talented minds to join forces to seek justice. A simple tavern gathering leads a number of eager dungeoneers to come together as one. Whatever the scenario, that first step that unites a would-be band of heroes can be a challenging one. This chapter presents four short adventures designed to provide those initial events that get a campaign started.
 
@@ -16,13 +20,13 @@ The names of spells and [[magic items]] referenced in the adventure are in _ital
 
 Each of these adventures is designed as an introduction to one of the four main regions of [[Wildemount]], as well as some of the themes that commonly guide events within those regions. The adventures are as follows:
 
-**“[Tide of Retribution](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-tide-of-retribution "[[Tide of Retribution]]")”** presents a threat to the village of [[Palma Flora]] on the beautiful [[Menagerie Coast]].
+**[[Tide of Retribution]]** presents a threat to the village of [[Palma Flora]] on the beautiful [[Menagerie Coast]].
 
-**“[Dangerous Designs](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs "[[Dangerous Designs]]")”** is a tale of political intrigue set in the gnomish city of [[Hupperdook]] in [[Western Wynandir]].
+**“[[Dangerous Designs]]"** is a tale of political intrigue set in the gnomish city of [[Hupperdook]] in [[Western Wynandir]].
 
-**“[Frozen Sick](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick "[[Frozen Sick]]")”** takes characters on a perilous journey to the far reaches of the [[Biting North]].
+**“[[Frozen Sick]]”** takes characters on a perilous journey to the far reaches of the [[Biting North]].
 
-**“[Unwelcome Spirits](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits "[[Unwelcome Spirits]]")”** offers a glimpse of the wonders and terrors that dominate [[Eastern Wynandir]].
+**“[[Unwelcome Spirits]]”** offers a glimpse of the wonders and terrors that dominate [[Eastern Wynandir]].
 
 You are invited to change any aspects of an adventure to suit the type of game you and your players would enjoy the most.
 

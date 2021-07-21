@@ -1,5 +1,5 @@
 ### Marquet
-**Tag**:: #Exandria/Locale/Wynandir/Exandria
+**Tag**:: #Exandria/Locale/Marquet
 **Location**:: [[Exandria]]
 
 Beyond the winds and waves to the far southwest of [[Wildemount]], across the Lucidian Ocean and the Ozmit Sea, one can find the chain of islands called the Hespet Archipelago, and, farther still, the shores of the continent of Marquet. The pebble beaches of the Bay of Gifts greet weary travelers, where the port city of Shammel offers gambling and extravagance to the traders who travel from afar.

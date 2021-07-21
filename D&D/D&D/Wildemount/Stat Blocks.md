@@ -1,3 +1,4 @@
+**Location**:: [[INDEX]]
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/07-01.jpg)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/07-01.jpg)
 
 Adventurers confront a fiendish [[udaak]] that haunts the edges of civilization in [[Eastern Wynandir]]

@@ -1,4 +1,5 @@
 # Pantheon of [[Exandria]]
+**Location**:: [[INDEX]]
 
 The [[Divine Gate]], established during the [[Divergence]], is a powerful barrier between the Material Plane and the divine realms. The [[Divine Gate]] sealed away both the Betrayer Gods and the Prime Deities within their respective domains in hopes of salvaging the new age and preventing another Calamity. If the [[Divine Gate]] were to be destroyed by the unanimous effort of the Prime Deities, all powers would be unleashed, threatening armageddon. Thus, the gods patiently watch their creations from beyond the veil, lending what small power they can send through the gate to aid the goals of their faithful. In the absence of the gods, lesser entities seek to gain power and influence, making pacts with mortals and offering their own gifts in exchange for favor, worship, or deeds done in their name.
 

@@ -1,4 +1,5 @@
 # History of [[Wildemount]]
+**Location**:: [[INDEX]]
 
 The continent of [[Wildemount]] has undergone many ages of discovery, conflict, and renewal. These bygone eras are more than ancient history. Whether the people of [[Wildemount]] know it or not, the struggles they face in their daily lives were set in motion by the turbulent events of past ages. This section explores this history and the major figures whose actions shaped the physical and cultural landscape of [[Wildemount]].
 
