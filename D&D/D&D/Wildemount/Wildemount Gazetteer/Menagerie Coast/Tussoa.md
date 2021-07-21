@@ -1,14 +1,16 @@
 ### Tussoa
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
-**Population:** 15,110 (74% [[humans]], 10% [[elves]], 8% [[halflings]], 8% other races)
+**Population**:: 15,110 (74% [[humans]], 10% [[elves]], 8% [[halflings]], 8% other races)
 
-**Government:** Beneath the just rule of Marquis Tusila Latu, community leaders and wealthy families helm guild business.
+**Government**:: Beneath the just rule of Marquis Tusila Latu, community leaders and wealthy families helm guild business.
 
-**Defense:** A small force is maintained for the defense of the city alongside the protection of the [[Zhelezo]]. City leaders often keep bodyguards.
+**Defense**:: A small force is maintained for the defense of the city alongside the protection of the [[Zhelezo]]. City leaders often keep bodyguards.
 
-**Commerce:** This rural city can provide most common services and products, though exotic goods might prove difficult to obtain. Outside exporting lumber, the biggest businesses in the city are food, lodging, and entertainment.
+**Commerce**:: This rural city can provide most common services and products, though exotic goods might prove difficult to obtain. Outside exporting lumber, the biggest businesses in the city are food, lodging, and entertainment.
 
-**Organizations:** Humble temples are found near and around the Lotoe Plaza. Family businesses work beneath the marquis and the local guild masters.
+**Organizations**:: Humble temples are found near and around the Lotoe Plaza. Family businesses work beneath the marquis and the local guild masters.
 
 Tussoa began as a Ki'Nau freshwater fishing village along the Tyodan River, but it has grown into a respectable city in the centuries following the creation of the [[Clovis Concord]]. The central district where the two main streets of the city meet has larger, more modern structures and bustling streets, but the outer regions are still dominated by humble homes of river reeds and straw.
 
@@ -24,4 +26,5 @@ Laid out in the shape of a large V, this bustling fishing city of lively docks a
 
 Tussoa's bustling logging industry, minimal presence of [[Zhelezo]], and location near the [[Copia Wildwood]] make it an excellent place for urban adventures to overlap with wilderness expeditions.
 
-_**Log Wars (Low Level).**_ A business war turns physical when a camp of Regver loggers is murdered and evidence points to a nearby camp of Majest loggers as culprits. Regver responds by burning Majest vessels, and the violence continues to escalate. The marquis fears that the war might spill into Tussoa's streets, so she hires the characters to negotiate a peace. They might find that [[the Revelry]] committed the inciting murders as a way to cause chaos in the city.
+**Adventures**:: [[Log Wars (Low Level)]]
+![[Log Wars (Low Level)]]

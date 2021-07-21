@@ -1,4 +1,6 @@
 ## After [[the Calamity]]
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 The dwarven clan of Grimgol that once helped hold the center of the [[Ashkeeper Peaks]] was nearly wiped out during [[the Calamity]]. The surviving families and warriors burrowed deep beneath the surface of [[Exandria]] to wait out the chaos. Collapsing nearly every established tunnel used in the wars above, the clan found themselves cut off from the rest of [[Exandria]]. For centuries, the [[dwarves]] of Clan Grimgol endured the darkness alone, defending against the dregs of the Betrayer Gods’ forces and adapting themselves into a hardy and stalwart people.
 
 Half-remembered tales and myths of their forgotten history, mingled with worship of [[Moradin]], began to stir an eagerness to return to their ancestral home and build anew. With new purpose, they carved their way back toward the surface, only to find the mountains of their home reduced to dust and pebbles.
@@ -7,15 +9,15 @@ Not easily dissuaded, the [[dwarves]] returned to the surface for the first time
 
 ## Grimgolir
 
-**Population:** 19,090 (81% [[dwarves]], 8% [[humans]], 6% [[halflings]], 5% other races)
+**Population**:: 19,090 (81% [[dwarves]], 8% [[humans]], 6% [[halflings]], 5% other races)
 
-**Government:** Underbaron Brock Dummaroff rules the city with a council of dwarf lords and ladies. The Crown-appointed starosta is effectively just another councilor.
+**Government**:: Underbaron Brock Dummaroff rules the city with a council of dwarf lords and ladies. The Crown-appointed starosta is effectively just another councilor.
 
-**Defense:** A fair [[Crownsguard]] presence is overshadowed by the impressive force of elite dwarf soldiers known as Monoliths that protect the city. Private Monolith warriors are hired to protect merchant families. Most civilians are trained in basic combat.
+**Defense**:: A fair [[Crownsguard]] presence is overshadowed by the impressive force of elite dwarf soldiers known as Monoliths that protect the city. Private Monolith warriors are hired to protect merchant families. Most civilians are trained in basic combat.
 
-**Commerce:** A majority of services can be found, as well as raw ore, materials, gems, and goods. Taverns and inns are plentiful.
+**Commerce**:: A majority of services can be found, as well as raw ore, materials, gems, and goods. Taverns and inns are plentiful.
 
-**Organizations:** Local merchant guilds and conglomerates control the flow of business. Temples to [[Moradin]] and [[Bahamut]] are prominent, followed by the other Dwendalian gods. All answer to the Crown, but it holds less political influence here than in other cities.
+**Organizations**:: Local merchant guilds and conglomerates control the flow of business. Temples to [[Moradin]] and [[Bahamut]] are prominent, followed by the other Dwendalian gods. All answer to the Crown, but it holds less political influence here than in other cities.
 
 The dwarven stronghold of Grimgolir sits at the core of an immense network of tunnels carved throughout the southern [[Dunrock Mountains]], perfectly situated to watch over the eastern border with [[Xhorhas]]. Though the [[Dwendalian Empire]] and the Grimgol [[dwarves]] have clashed in the past, the empire now counts the disciplined armies of Grimgolir as one of its staunchest assets in the war against the [[Kryn Dynasty]]. The predominantly dwarven society of Grimgolir prizes fine metals, finer craftsmanship, and proven skill on the battlefield, and their culture drills these virtues into every young dwarf, human, and halfling born in their city. Since days long past, the people of Grimgolir have waged eternal war on the monstrous denizens of the lightless caverns, in order to mine the precious mineral veins that suffuse the [[Dunrock Mountains]].
 
@@ -35,6 +37,7 @@ The interior cavern of the top ward, known as the Cage Ward, resembles a giant, 
 
 With monsters aplenty and war at its doorstep, Grimgolir has no shortage of adventures.
 
-_**Mimics in the Mine (Low Level).**_ Monsters are killing Grimgolir's miners. The typically tough and unbeatable Grimgolir soldiers can't seem to find the creatures. Looking for a fresh perspective, they hire the characters to hunt the monsters in the abandoned mine while operations are shutdown. The monsters are [mimics](https://www.dndbeyond.com/monsters/mimic) that turn into pickaxes, railcars, and other mining equipment. They strike at the characters with hit-and-run tactics, retreating into darkness and using their unique powers to blend in with the environment.
-
-_**Rise of the Worms (Epic Level).**_ While the characters are in Grimgolir, several [purple worms](https://www.dndbeyond.com/monsters/purple-worm) tunnel into the city, causing mass destruction. After the worms are killed or driven off, Kryn forces come through the tunnels created by the monstrosities, razing strategic military outposts while the city is already in disarray. The [[Kryn Dynasty]] knows how critical the city is to training Dwendalian troops, so they mobilized the worms and followed behind to deal Grimgolir a decisive blow.
+**Adventures**:: [[Mimics in the Mine (Low Level)]]
+![[Mimics in the Mine (Low Level)]]
+**Adventures**:: [[Rise of the Worms (Epic Level)]]
+![[Rise of the Worms (Epic Level)]]

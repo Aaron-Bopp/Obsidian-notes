@@ -1,14 +1,16 @@
 ### Bysaes Tyl
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 
-**Population:** 19,090 (83% [[elves]], 7% [[humans]], 10% other races)
+**Population**:: 19,090 (83% [[elves]], 7% [[humans]], 10% other races)
 
-**Government:** The Ring of Three reluctantly cooperates with the appointed starosta, Uther Prent, to govern the city. Exalted elven houses also work with the Ring of Three to preserve their culture under imperial rule.
+**Government**:: The Ring of Three reluctantly cooperates with the appointed starosta, Uther Prent, to govern the city. Exalted elven houses also work with the Ring of Three to preserve their culture under imperial rule.
 
-**Defense:** Both local and assigned [[Crownsguard]] stand ready to defend the city.
+**Defense**:: Both local and assigned [[Crownsguard]] stand ready to defend the city.
 
-**Commerce:** Nearly any equipment, goods, or services are available, though rarer supplies are generally kept from non-elven travelers.
+**Commerce**:: Nearly any equipment, goods, or services are available, though rarer supplies are generally kept from non-elven travelers.
 
-**Organizations:** While smaller temples dedicated to the empire-approved gods are present, shrines to [[Corellon]], [[Melora]], and [[Sehanine]] hide in plain sight. The beginnings of [[The Myriad|Myriad]] influence are taking hold.
+**Organizations**:: While smaller temples dedicated to the empire-approved gods are present, shrines to [[Corellon]], [[Melora]], and [[Sehanine]] hide in plain sight. The beginnings of [[The Myriad|Myriad]] influence are taking hold.
 
 The rustic elven city of Bysaes Tyl is tucked away in the northern region of the [[Pearlbow Wilderness]]. Built synergistically within the tangled boreal forests, this hidden settlement of tall wooden arches and warm hearths sits below a massive network of treehouses and bridges that form the canopy and upper levels of the city. The streets are made of smooth stones set in packed earth, gently enchanted to warm the pathways and melt the frequent snow. Large, bowed tutoring halls hold lectures for the masses, while cleared patches of forest facilitate the training of warriors in the defense of both the city and the empire.
 
@@ -26,12 +28,13 @@ The [[elves]] of the city rarely engage in criminal activity, but escalating the
 
 The city exists partially on the forest floor and partially within and around the trees, giving the settlement an air of rustic nostalgia that tempers its elven mystique. The walled surface streets are known as the Rough, or _Talan_, where structures weave between rocks and wide-trunked trees, giving a slanted octagonal shape to the tall, wooden exterior walls of the city. Nearly all structures here are built from pine and other taiga trees, favoring designs that resemble a bowed arch rising to an apex. Spiraling staircases known as the Shrouds, or _Halya_, twist around and within trees, climbing up to the elevated walkways and buildings amid the forest canopy.
 
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-10.png)
-
-Bysaes Tyl
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-10.png)
+> 
+> Bysaes Tyl
 
 The tension between the Crown and the [[elves]] in Bysaes Tyl plays a part in any of the city's adventures. [[Elves]] trying to maintain their cultural connection with nature and their lost homeland of [[Molaesmyr]] could look to adventurers for aid, the Crown could use help keeping the peace, and [[the Myriad]] could hire the characters to infiltrate the city.
 
-_**[[Elves]], Arise (Mid Level).**_ A group of [[Elves|elf]] [assassins](https://www.dndbeyond.com/monsters/assassin) unhappy with the Crown's leadership hatch a plot to simultaneously assassinate the Ring of Three, Starosta Uther Prent, and other important figures in Bysaes Tyl. They believe that with the Crown distracted by the war, now is a perfect time to rise up and take back their city. The characters get wind of the plot and must decide whether to ignore, stop, or support the assassins.
-
-_**Evil, Arise (Epic Level).**_ A powerful artifact of the long-deceased Archmage Oleyahs has been recovered from the [[ruins of Molaesmyr]] and is secretly in transit to Bysaes Tyl. Researchers hope that this object holds a key to understanding the destruction of their ancestral home, but when the object arrives, it is revealed to instead be a deceptive casing for the archmage's [demilich](https://www.dndbeyond.com/monsters/demilich) form. A plague of arcane terror rains on Bysaes Tyl, and the characters are tasked by the Ring of Three to destroy or banish the demilich Oleyahs from the burning city.
+**Adventures**:: [[Elves, Arise (Mid Level)]]
+![[Elves, Arise (Mid Level)]]
+**Adventures**:: [[Evil, Arise (Epic Level)]]
+![[Evil, Arise (Epic Level)]]

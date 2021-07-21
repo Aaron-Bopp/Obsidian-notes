@@ -1,14 +1,16 @@
 ### Odessloe
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 
-**Population:** 6,970 (73% [[humans]], 12% [[elves]], 8% [[dwarves]], 7% other races)
+**Population**:: 6,970 (73% [[humans]], 12% [[elves]], 8% [[dwarves]], 7% other races)
 
-**Government:** Starosta Vesdan Wothassic is eager to please the Crown and demands huge harvests from the fishers of Odessloe. As resentment builds, the few noble families who have business interests here work with Watchmaster Lein Untgaf to maintain order.
+**Government**:: Starosta Vesdan Wothassic is eager to please the Crown and demands huge harvests from the fishers of Odessloe. As resentment builds, the few noble families who have business interests here work with Watchmaster Lein Untgaf to maintain order.
 
-**Defense:** A small cadre of [[Crownsguard]] watch over the city under the direction of the watchmaster.
+**Defense**:: A small cadre of [[Crownsguard]] watch over the city under the direction of the watchmaster.
 
-**Commerce:** As a popular trade stop on the way to the capital, Odessloe has many taverns and hostels. General stores provide basic supplies and occasionally offer strange relics pawned by cash-strapped adventurers.
+**Commerce**:: As a popular trade stop on the way to the capital, Odessloe has many taverns and hostels. General stores provide basic supplies and occasionally offer strange relics pawned by cash-strapped adventurers.
 
-**Organizations:** The city harbors many small shrines to empire-approved gods. Most businesses are run by locals but owned by absentee nobles. [[The Myriad]] has a quiet presence here.
+**Organizations**:: The city harbors many small shrines to empire-approved gods. Most businesses are run by locals but owned by absentee nobles. [[The Myriad]] has a quiet presence here.
 
 Adjacent to the clear waters of the [[Erdeloch]], Odessloe is a prominent fishing and logging settlement, supplying [[Rexxentrum]] and the surrounding townships with fresh fish and lumber. The only major stop on the Cloakjaunt Path for those traveling between [[Bysaes Tyl]] and the capital, Odessloe also acts as a supply stop for traders and drifters moving through the shaded trees of the [[Pearlbow Wilderness]].
 
@@ -22,4 +24,5 @@ Built along the eastern shore of the [[Erdeloch]], this kidney-shaped city is co
 
 With [[the Myriad]] lurking in Odessloe, there are plenty of opportunities for characters who want to work for or against the organization. The settlement also makes an excellent base of operations for adventurers exploring the [[Pearlbow Wilderness]].
 
-_**Feeling Crabby (Low Level).**_ The residents of Odessloe fear that they somehow angered the spirit of the [[Erdeloch]]. Starving giant crabs from the lake have terrorized the Greenset region of the settlement every night for the past week. The cityfolk have left expensive offerings for the spirit on the lake's banks. These offerings are taken, but the crabs continue to attack. If the characters investigate, they find a group of bandits who are capturing and starving the crabs before releasing them into the settlement, and stealing the offerings for themselves. Are these ruffians connected to [[the Myriad]]? Could the stolen offerings anger the actual spirit of the lake enough to punish the settlement for the disrespect?
+**Adventures**:: [[Feeling Crabby (Low Level)]]
+![[Feeling Crabby (Low Level)]]

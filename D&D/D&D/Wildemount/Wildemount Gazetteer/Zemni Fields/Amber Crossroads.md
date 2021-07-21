@@ -1,9 +1,12 @@
 ### Amber Crossroads
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 
 The Amber Road and the Havenpath Road merge with the Cloakjaunt Path and the Glory Run road to form a great crossroads, where a small makeshift marketplace has sprung up. Mercenaries flock here to find work among traveling caravans, and merchants exchange goods in the absence of imperial oversight before heading into the nearby cities to set up shop. Wandering performers bring color and life to the crossroads, while charlatans of all walks of life take advantage of the fact that the market has no [[Crownsguard]] presence.
 
 The conjunction of trade and travel creates a location rife with mystery, danger, and the need for adventurers.
 
-_**Rob from the Rich (Low Level).**_ Arriving just in time for a semiannual bazaar known as the Carnival of Coin, the characters begin to notice a strange, trance-like state that temporarily overtakes a number of wealthy merchants, who then sell off their most expensive wares for next to nothing. These merchants hire the characters to find the source of this enchantment, which turns out to be a wandering band of charlatans who seek to redistribute wealth to the poor of the [[Marrow Valley]]. The characters must decide whether they wish to turn in these thieves for rewards from the merchants, or let them go and risk becoming hunted alongside them.
-
-_**War Plans (Mid Level).**_ The characters are hired by [[the Myriad]] or the [[Kryn Dynasty]] to intercept imperial documents as they travel from [[Rexxentrum]] to [[Zadash]]. The first courier takes the documents as far as the crossroads before handling them off to a second courier. Both couriers are [knights](https://www.dndbeyond.com/monsters/knight) of the [[Crownsguard]] mounted on [warhorses](https://www.dndbeyond.com/monsters/warhorse). The documents are war plans bearing magical wards and the seal of the king.
+**Adventures**:: [[Rob from the Rich (Low Level)]]
+![[Rob from the Rich (Low Level)]]
+**Adventures**:: [[War Plans (Mid Level)]]
+![[War Plans (Mid Level)]]

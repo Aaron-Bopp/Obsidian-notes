@@ -1,14 +1,16 @@
 ### Urzin
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
-**Population:** 5,930 (62% goblinoids, 21% [[gnolls]], 10% [[orcs]], 7% other races)
+**Population**:: 5,930 (62% goblinoids, 21% [[gnolls]], 10% [[orcs]], 7% other races)
 
-**Government:** The reigning champion of Urzin, [[Sunbreaker Olomon]], guides the townsfolk, who follow with zeal and dedication.
+**Government**:: The reigning champion of Urzin, [[Sunbreaker Olomon]], guides the townsfolk, who follow with zeal and dedication.
 
-**Defense:** A legion of [[Aurora Watch]] defends the town, while the hordes of Urzin hunters scout the marsh. The horizonback tortoises that bear the town on their backs are more than capable of defending themselves.
+**Defense**:: A legion of [[Aurora Watch]] defends the town, while the hordes of Urzin hunters scout the marsh. The horizonback tortoises that bear the town on their backs are more than capable of defending themselves.
 
-**Commerce:** Trade in Urzin is fairly basic and geared toward survival and warfare. Many common goods can be bought or traded for, but rarer items are coveted and appear infrequently. Inns are very rare.
+**Commerce**:: Trade in Urzin is fairly basic and geared toward survival and warfare. Many common goods can be bought or traded for, but rarer items are coveted and appear infrequently. Inns are very rare.
 
-**Organizations:** Some small Luxon temples travel on tortoise-back alongside shrines to older [[goblinkin]] patrons.
+**Organizations**:: Some small Luxon temples travel on tortoise-back alongside shrines to older [[goblinkin]] patrons.
 
 A uniquely mobile settlement with its permanent dwellings built on the backs of dozens of horizonback tortoises, Urzin is home to swamp hunters, scouts, and trappers that know the [[Brokenveil Marsh]] like no one else. The most recent society to come under the wing of the [[Kryn Dynasty]], Urzin acts as a powerful, mobile fortress for the Kryn military throughout the [[Brokenveil Marsh]]. The settlement rarely stays in one location for more than a month, and its people are skilled at the art of camouflage and ambush. Urzin has become a major boon to the dynasty as the conflict with the [[Dwendalian Empire]] escalates.
 
@@ -26,10 +28,11 @@ The town of Urzin consists of around forty horizonback tortoises and many hundre
 
 Note that any specific indicator of Urzin's location on a map is an approximation of its location, due to the roving nature of the community.
 
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-23.png)
-
-Urzin moving through the marsh
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-23.png)
+> 
+> Urzin moving through the marsh
 
 Just finding the settlement and winning the trust of the people of Urzin is an adventure. Characters on the run could also try to hide in Urzin, since the settlement does the running for them.
 
-_**Horizonback Horror (Mid Level).**_ A [horizonback tortoise](https://www.dndbeyond.com/monsters/horizonback-tortoise) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#HorizonbackTortoise "chapter 7")) has broken away from Urzin's fleet and is rampaging through [[Jigow]]. The [[orcs]] and [[goblinkin]] fought to contain it, but every wound they inflict on the beast seems to stitch together before their eyes! An [oni](https://www.dndbeyond.com/monsters/oni) that once led a clan of trolls the [[orcs]] defeated several months ago is out for revenge and devised an alchemical infusion created from troll blood. The oni administered the toxin to the tortoise, granting it the Regeneration feature of a troll and causing it to go berserk, terrifying not only the denizens of [[Jigow]], but also the people clinging to their homes atop the frenzied tortoise.
+**Adventures**:: [[Horizonback Horror (Mid Level)]]
+![[Horizonback Horror (Mid Level)]]

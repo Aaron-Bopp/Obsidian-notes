@@ -1,3 +1,5 @@
 ### Festerwill Pool
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
 Festerwill Pool's bubbling waters emit a powerful sulfurous smell that fills the valley, while the nearby rock is discolored by mineral buildup. The pool itself is a green lake choked by algae and weeds at the base of a ragged mountain valley, surrounded by moss-covered, leafless trees. This lake and the surrounding rocky cliffs are home to the grotesque and ravenous gorefeather [harpies](https://www.dndbeyond.com/monsters/harpy). Screeching through the air, the harpy troupes bring their prey here to devour, the bloody remnants falling into the brackish waters below. Under their matron, Uada, the gorefeathers claim this region as their territory, hiding baubles and trinkets among their filthy nests.

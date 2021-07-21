@@ -1,4 +1,6 @@
 ### Ashkeeper Peaks
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
 This grand mountain range extends northward from the Lucidian Ocean through the center of [[Wildemount]], marking the boundary between the [[Dwendalian Empire]] and the wastelands of [[Xhorhas]]. The Ashkeeper Peaks reach skyward in a jagged array of steep mountaintops, like the pikes of a shadowy army looming over the [[Marrow Valley]]. The mountains house the treacherous paths to the Gehen Basin and the hidden valley of the [[Verstglade]] — secret lands that only the truly courageous or truly desperate attempt to reach.
 

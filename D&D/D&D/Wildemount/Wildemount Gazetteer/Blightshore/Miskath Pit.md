@@ -1,4 +1,6 @@
 ### Miskath Pit
+**Tag**:: #Exandria/Locale/Wynandir/Blightshore
+**Location**:: [[Blightshore]]
 
 This geographical anomaly is an arcane sinkhole of unknown depth and origin. Its oblong opening measures roughly 120 feet in diameter and plunges endlessly into the planet's surface. Few survivors have returned from the pit's staggering subterranean expanse, and those who have appear maddened and deranged with fear. Whatever precipitated the advent of the pit is ultimately inconsequential compared to the sheer devastation it causes in the surrounding [[Blightshore]] wilds.
 

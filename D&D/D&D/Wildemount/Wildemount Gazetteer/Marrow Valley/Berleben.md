@@ -1,14 +1,16 @@
 ### Berleben
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
-**Population:** 3,230 (63% [[humans]], 17% [[halflings]], 12% [[gnomes]], 8% other races)
+**Population**:: 3,230 (63% [[humans]], 17% [[halflings]], 12% [[gnomes]], 8% other races)
 
-**Government:** Starosta Carliyle Vesperwind has left most of the governing to idolmaster Julienne Droogba and other community figures.
+**Government**:: Starosta Carliyle Vesperwind has left most of the governing to idolmaster Julienne Droogba and other community figures.
 
-**Defense:** Though a bare-bones garrison of [[Crownsguard]] guards the town, sellswords protect travelers within the Labenda Swamp.
+**Defense**:: Though a bare-bones garrison of [[Crownsguard]] guards the town, sellswords protect travelers within the Labenda Swamp.
 
-**Commerce:** Supplies beyond basic goods and tools are uncommon. A handful of meager inns provide limited lodging.
+**Commerce**:: Supplies beyond basic goods and tools are uncommon. A handful of meager inns provide limited lodging.
 
-**Organizations:** The idolmaster maintains the small shrines within the city. Local business is thriving, but few outsiders are willing to invest in this lopsided backwater.
+**Organizations**:: The idolmaster maintains the small shrines within the city. Local business is thriving, but few outsiders are willing to invest in this lopsided backwater.
 
 Near the green waters of the [[Ounterloch]], the marsh town of Berleben is nestled deep in the Labenda Swamp. Berleben was settled early in the expansion of the [[Dwendalian Empire]], and the town initially showed promise with a booming industry in the cultivation of unique swamp plants sought after by healers and mages alike. However, the watershed from the Silberquel Mountains runs into the Labenda Swamp, and the land slowly grew unstable, causing half of the town to begin sinking into the surrounding marsh. Those who remained in the town have had to adapt over the years, as much of the settlement now sits uncomfortably under inches of swamp water.
 
@@ -26,4 +28,5 @@ The Puddles are the oldest and poorest region of Berleben, with numerous old sto
 
 Berleben is an all-but-lawless settlement that needs heroes to help keep the peace. Likewise, it is a wonderful place for unscrupulous sellswords, since no one takes notice of petty crime.
 
-_**A New Drink (Low Level).**_ People in Berleben are obsessed with swamp swill, a new whiskey that gets folk drunk more quickly and for longer. Some claim to have wonderful reveries while intoxicated by swamp swill, and many have become addicted to the stuff, resorting to violence to get their next drink. If the characters investigate, they find that a tribe of [lizardfolk](https://www.dndbeyond.com/monsters/lizardfolk) is making the swill and giving it to a merchant in Berleben to sell. The lizardfolk plan to take over Berleben once enough people are dependent on the swill, but only because [trolls](https://www.dndbeyond.com/monsters/troll) threaten the lizardfolk's territory.
+**Adventures**:: [[A New Drink (Low Level)]]
+![[A New Drink (Low Level)]]

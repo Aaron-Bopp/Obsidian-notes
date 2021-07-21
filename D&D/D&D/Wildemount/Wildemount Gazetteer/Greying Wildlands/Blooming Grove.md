@@ -1,4 +1,6 @@
 ### Blooming Grove
+**Tag**:: #Exandria/Locale/Wynandir/GreyingWildlands
+**Location**:: [[Greying Wildlands]]
 
 Nearly ten miles northwest of [[Shadycreek Run]], deep in the [[Savalirwood]], a centuries-old willow grove and small temple have held back the curse that darkens these woods. The Clay family, heralds to the Wild Mother and the Arch Heart, built this holy place as a funeral grove of renewal, designed to return the bodies of the fallen to nature while letting their spirits move on. Each bloodline that is interred among the swampy ponds and vibrant leaves nurtures a wholly unique flower, giving the location the macabre nickname of the Bone Orchard.
 

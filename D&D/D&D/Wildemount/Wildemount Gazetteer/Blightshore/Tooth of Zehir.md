@@ -1,4 +1,6 @@
 ### Tooth of [[Zehir]]
+**Tag**:: #Exandria/Locale/Wynandir/Blightshore
+**Location**:: [[Blightshore]]
 
 This eastern arm of [[Blightshore]] is a mist-shrouded peninsula, the northernmost swath of which is covered by the stone forest of Strathfell (described below).
 

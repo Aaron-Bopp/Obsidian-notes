@@ -1,4 +1,6 @@
 ### Lushgut Forest
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
 Choking the valley floor between the [[Stonecage Cliffs]] and the entire northwest region of the [[Menagerie Coast]], the Lushgut Forest is a monument to the fury and anger of [[Melora]]. It is said that a terrible battle between [[Melora]] and [[Zehir]] took place during [[the Calamity]], when the Cloaked Serpent plotted an ambush by a shrine to the Wild Mother. This ambush poisoned and slaughtered an innumerable number of [[Melora]]'s chosen. In her anguish and rage, [[Melora]]'s scream shook the heavens and birthed a twisting, thorny woodland that crushed and consumed the serpentfolk of [[Zehir]], sending the dark god fleeing the valley. The Lushgut Forest remains a physical manifestation of the Wild Mother's vengeful nature; her wrath is embodied in the tall, curling boughs that still ooze toxins from the poison left in [[Zehir]]'s wake. The poisonous denizens of the labyrinthine wilderness of shadow and fumes are rumored to protect something that lingers near its center, and scholars still debate if these slithering sentinels are born from the will of [[Melora]] or the spite of [[Zehir]].
 
@@ -6,4 +8,5 @@ The deep woods of the Lushgut Forest are also home to a civilization of goblins 
 
 Whether traveling from [[Tal'Dorei]] or wandering far north of the [[Menagerie Coast]], adventuring parties can find unique challenges within these deep woods.
 
-_**Venomous Request (Low Level).**_ Wandering deep into the shady heart of the forest, the characters discover a hidden society of yuan-ti who worship the Wild Mother instead of [[Zehir]]. However, they bear a cancerous curse that cuts their lives short, which they believe stems from the poisonous sunken temple they choose to guard in [[Melora]]'s name, slaying the twisted creatures that spill from its corruption. The village leader asks the characters for aid in venturing deep into the deadly temple to seek the source of these terrors, and perhaps their own curse, in hopes of destroying it once and for all.
+**Adventures**:: [[Venomous Request (Low Level)]]
+![[Venomous Request (Low Level)]]

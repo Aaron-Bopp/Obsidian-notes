@@ -1,4 +1,6 @@
 ### [[Felderwin]] Tillage
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
 The Tillage, as it's called by locals, is the expanse of fertile farmland surrounding [[Felderwin]], west of the [[Ashkeeper Peaks]]. This sprawling network of farms cultivates most of the empire's crops and livestock used and consumed across [[Western Wynandir]]. Crops are cultivated and harvested in the Tillage, while most business and shipping is handled within [[Felderwin]] itself. Farming families frequently travel between their acreage and the settlement of [[Felderwin]] to sell their goods and distribute their tithes to the empire.
 
@@ -8,6 +10,7 @@ A stealth unit of Kryn warriors recently sneaked into the [[Marrow Valley]] from
 
 The characters could aid or stop Kryn raids on [[Felderwin]] Tillage, or defend the farms against burglars and monsters.
 
-_**Kryn Spy (Low Level).**_ The characters are hired by a farming family in the Tillage to get to the bottom of recent arsons that burned crops in [[Felderwin]] Tillage. The culprit behind the fires is difficult to find because they are a [doppelganger](https://www.dndbeyond.com/monsters/doppelganger) working for the Kryn, masquerading as multiple absent members of the community. Moreover, once the characters ask too many questions, the doppelganger begins hunting them as well.
-
-_**A Friend in Need (Mid Level).**_ Stumbling on a secret gathering of [cultists](https://www.dndbeyond.com/monsters/cultist) of [[Tiamat]] preparing to sacrifice a woman to their evil goddess, the adventurers must stop the ritual and free the captive, who aids them in the battle. She introduces herself as Calianna, a [[Half Elves|half-elf]] sorcerer with a draconic lineage that covers half of her body in black scales. She breathlessly describes this terrible cabal, known as the Cult of [[the Caustic Heart]] (see [chapter 2](https://www.dndbeyond.com/sources/egtw/factions-and-societies#sidebarCultsDubiousWorshipFromTheShadows "chapter 2")), and requests the characters' aid in vanquishing it once and for all.
+**Adventures**:: [[Kryn Spy (Low Level)]]
+![[Kryn Spy (Low Level)]]
+**Adventures**:: [[A Friend in Need (Mid Level)]]
+![[A Friend in Need (Mid Level)]]

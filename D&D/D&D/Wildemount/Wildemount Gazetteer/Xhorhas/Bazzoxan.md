@@ -1,14 +1,16 @@
 ### Bazzoxan
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
-**Population:** 2,610 (81% [[Dark Elves]], 8% goblinoids, 11% other races)
+**Population**:: 2,610 (81% [[Dark Elves]], 8% goblinoids, 11% other races)
 
-**Government:** Martial law is enforced by Taskhand [[Verin Thelyss]] and maintained by the local military.
+**Government**:: Martial law is enforced by Taskhand [[Verin Thelyss]] and maintained by the local military.
 
-**Defense:** The [[Aurora Watch]] defends the town and keeps the demonic incursions at bay. The few citizens learn combat skills out of necessity.
+**Defense**:: The [[Aurora Watch]] defends the town and keeps the demonic incursions at bay. The few citizens learn combat skills out of necessity.
 
-**Commerce:** Very basic supplies are available, if scarce, due to the dangerous circumstances surrounding the town. Most trade involves provisions and goods for survival and defense.
+**Commerce**:: Very basic supplies are available, if scarce, due to the dangerous circumstances surrounding the town. Most trade involves provisions and goods for survival and defense.
 
-**Organizations:** There are a number of partially destroyed temples and a handful of small ones that are still intact.
+**Organizations**:: There are a number of partially destroyed temples and a handful of small ones that are still intact.
 
 Bazzoxan was once a dark temple instrumental in the machinations of the Betrayer Gods during [[the Calamity]], but the remaining ruin was left to gather dust like many relics of those terrible times. After Ghor Dranas was claimed by the Kryn, settlers roamed north through the [[Barbed Fields]] to discover this site with hopes of renovating it as well. A community began to flourish within the ruins of Bazzoxan over a few generations, building the foundations of a new city around the looming stone structures of the abandoned sanctum—until demonic forces from within the old temple threw the burgeoning society into chaos. Bazzoxan is now perpetually locked in a stalemate between the dynasty's forces and the abyssal incursion from within the temple. This unholy site is the subject of constant research and of growing worry for the dynasty.
 
@@ -22,4 +24,5 @@ The towering ruined temple sits against the rocky southern base of the [[Penumbr
 
 Adventurers loyal to the [[Kryn Dynasty]] are welcome in Bazzoxan and will almost certainly be asked to aid with keeping Abyssal forces at bay or gathering spell components for the mages trying to seal the rift.
 
-_**Heir Aberrant (Mid Level).**_ One of the dungeoneers who first discovered the gateway beneath Bazzoxan, a lunatic who nonetheless lived out his final days in luxury, has just passed away. The inheritor of his estate is offering a modest reward to any investigators who can locate certain relics of abyssal origin rumored to be hidden in the deceased madman's trapped abode. But what are the intentions of the so-called inheritor, and what danger do these relics pose to the people of [[Xhorhas]]?
+**Adventures**:: [[Heir Aberrant (Mid Level)]]
+![[Heir Aberrant (Mid Level)]]

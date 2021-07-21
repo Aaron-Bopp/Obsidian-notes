@@ -1,4 +1,6 @@
 ### Ustaloch
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
 This beautiful lake is the largest body of fresh water in the southern reaches of the empire and the largest source of fish in the [[Marrow Valley]]. The city of [[Trostenwald]] rests firmly against the western banks, tending to its waters and the bounties they provide. Clear waters aid fisherman in their trade, and the purity of the lake water is thought to be a key ingredient in [[Trostenwald]]'s sweet ales. [[Crownsguard]] patrol the shores of the lake at all hours to prevent anyone from tampering with the ecosystem that the locals depend on.
 
@@ -8,8 +10,8 @@ The Ustaloch is not without dangerous creatures that stalk the deeper waters, an
 
 From fishing for food to hunting a witch, there are adventures aplenty for the characters to find in and around Ustaloch.
 
-_**Witch's Amulet (Mid Level).**_ Something in Ustaloch is turning the fish and crabs in the lake into skeletal abominations that attack boats and people near the shore. The characters are hired to uncover the source of this curse, which happens to be an amulet from the witch's island grove that a group of children discovered and threw in the water. If the characters can find and retrieve the amulet, the witch (a [night hag](https://www.dndbeyond.com/monsters/night-hag)) might soon come looking for it.
-
+**Adventures**:: [[Witch's Amulet (Mid Level)]]
+![[Witch's Amulet (Mid Level)]]
 To create the skeletal creatures in this adventure, take any aquatic beast and make the following changes to it:
 
 -   The creature is undead and doesn't require air, food, drink, or sleep.

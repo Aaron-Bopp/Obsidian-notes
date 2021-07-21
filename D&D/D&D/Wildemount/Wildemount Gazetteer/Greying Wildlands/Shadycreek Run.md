@@ -1,14 +1,16 @@
 ### Shadycreek Run
+**Tag**:: #Exandria/Locale/Wynandir/GreyingWildlands
+**Location**:: [[Greying Wildlands]]
 
-**Population:** 14,770 (56% [[humans]], 15% [[elves]], 14% [[dwarves]], 15% other races)
+**Population**:: 14,770 (56% [[humans]], 15% [[elves]], 14% [[dwarves]], 15% other races)
 
-**Government:** Four organized crime families and the citizen-run Greytrader Union vie for control of the city, while the mercenary peacekeepers of the Grudge Gang attempt to prevent complete chaos.
+**Government**:: Four organized crime families and the citizen-run Greytrader Union vie for control of the city, while the mercenary peacekeepers of the Grudge Gang attempt to prevent complete chaos.
 
-**Defense:** The [[Tribes of Shadycreek Run]] each employ personal soldiers and bodyguards, while the Grudge Gang defends the city at large.
+**Defense**:: The [[Tribes of Shadycreek Run]] each employ personal soldiers and bodyguards, while the Grudge Gang defends the city at large.
 
-**Commerce:** Most general goods are available, and rare imports and stolen commodities are sold and auctioned in secret. Many taverns, inns, and places of vice are open to the public.
+**Commerce**:: Most general goods are available, and rare imports and stolen commodities are sold and auctioned in secret. Many taverns, inns, and places of vice are open to the public.
 
-**Organizations:** Most business is run by one of the Tribes or the Union, even if alliances are hidden. The city has scattered, humble temples.
+**Organizations**:: Most business is run by one of the Tribes or the Union, even if alliances are hidden. The city has scattered, humble temples.
 
 Past the northern outposts of Wynandir, a scattered line of shantytowns and hovels chokes the pathway into the trees of the wildlands alongside a small creek. Originally comprised of a patchwork of makeshift, impoverished societies run by cruel slumlords, Shadycreek Run is now known as a hive of criminal activity and savage humanity given free reign. The degenerate dregs of civilization see this place as a chance to gain untold fame and power. Most debates end in a brawl, and most brawls end in bloodshed.
 
@@ -30,14 +32,15 @@ What began as an extended string of shanties and shacks built along the southern
 
 The western end of the Clover Alley, known as the Wickerskids, is home to the scavengers and farmers who do their best to coax the harsh lands of the cold north to produce food for the people of Shadycreek Run. The central square of Clover Alley is named Clover Plaza and marks the heart of commerce, conflict, and vice within the city. In the plaza, all factions mingle in broad daylight, disguising their hidden agendas with a bawdy and loud lifestyle of indulgence and excess. The eastern end of Clover Alley, called the Gruff Slum, houses a cluster of peasants and cutpurses who live among drug dens and pig pens.
 
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-15.png)
-
-Streets of Shadycreek Run
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-15.png)
+> 
+> Streets of Shadycreek Run
 
 Slack laws and the promise of easy money draw many opportunists to these dangerous streets.
 
-_**A Stolen Heart (Low Level).**_ At the Trench Tavern, the characters join a drinking game with some of the local Grudge Gang. Win or lose, an [orc](https://www.dndbeyond.com/monsters/orc) member of the gang, Dratto, reveals their connection with the Mardoon family. Dratto mentions that they need some hands to steal a [[Molaesmyr]] relic currently held by the Trebain family. The characters can turn Dratto into the Trebains to gain their favor or agree to aid in the theft.
-
+**Adventures**:: [[A Stolen Heart (Low Level)]]
+![[A Stolen Heart (Low Level)]]
 If the characters agree to help Dratto, a dangerous burglary ensues. They must infiltrate a guarded shed outside the Wickerskids, only to discover the relic is actually a slumbering [pixie](https://www.dndbeyond.com/monsters/pixie). This creature wakes in the presence of the characters, when a mysterious aspect of one character's nature draws the pixie from out of its torpor and binds its affection to the character.
 
-_**King's Spy (Any Level).**_ Nella Durlon (lawful neutral, nonbinary, human [spy](https://www.dndbeyond.com/monsters/spy)) lives in Shadycreek Run as a spy for the empire. They gather information about the settlement's defenses to take back to Oliver Schrieber (see "[Dwendalian Empire](https://www.dndbeyond.com/sources/egtw/factions-and-societies#DwendalianEmpire "[[Dwendalian Empire]]")" in chapter 2). The characters learn of Nella's job from a faction that hires them to find the spy. Depending on the faction, the characters must either escort Nella safely out of the settlement so they can report to Oliver, or ask that Nella be killed for giving away the settlement's secrets. Either way, finding Nella is no small task. The spy is a master of their craft and blends in with the criminals and ruffians of the Run.
+**Adventures**:: [[King's Spy (Any Level)]]
+![[King's Spy (Any Level)]]

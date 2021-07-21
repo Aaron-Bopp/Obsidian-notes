@@ -1,4 +1,6 @@
 ### Ebonglass Massif
+**Tag**:: #Exandria/Locale/Wynandir/Blightshore
+**Location**:: [[Blightshore]]
 
 The sharp obsidian peaks of the Ebonglass Massif spell doom to those who would attempt to tame them, but many still try. This jagged range of lustrous volcanic rock divides northeastern [[Blightshore]] into two large peninsulas: [[Far Hharom]] to the north, and the [[Tooth of Zehir]] to the east. Expeditions to the Ebonglass Massif from the nations of [[Western Wynandir]] and beyond have been fraught with peril, and the craggy mountains are considered all but impassable by cautious outlanders, curious prospectors, and others who would explore their mysteries.
 
@@ -10,4 +12,5 @@ The [[dwarves]] of the Ebonglass Massif persist as incorporeal caretakers in the
 
 Adventurers who find themselves near the peaks of the Ebonglass Massif have strayed very far indeed from the political turmoil of [[Wildemount]]. The nigh impassable mountains hide strange creatures and even stranger secrets.
 
-_**Lost Xagonstar (Low Level).**_ The adventurers travel to Ebonglass Massif by airship to join a well-funded archaeological expedition mounted by Duurek Kronst, a wealthy dwarf who is determined to find the dwarven stronghold of Xagonstar, lost and buried since [[the Calamity]]. An unnatural storm sweeping across [[Blightshore]] causes the airship to crash, but the characters survive. Once they reach the dig site, they see that great progress has already been made. The first great hall of Xagonstar has been discovered! Unfortunately, the archaeologists are missing and the site has been abandoned. Were the diggers captured by the Fang of the Worm or carried off by a hungry [gloomstalker](https://www.dndbeyond.com/monsters/[[gloomstalker]]) (as described in [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#[[Gloomstalker]] "chapter 7")), or did something slip out of Xagonstar to devour them?
+**Adventures**:: [[Lost Xagonstar (Low Level)]]
+![[Lost Xagonstar (Low Level)]]

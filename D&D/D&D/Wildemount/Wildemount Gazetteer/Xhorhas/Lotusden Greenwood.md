@@ -1,4 +1,6 @@
 ### Lotusden Greenwood
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
 The dark, verdant forest of the Lotusden Greenwood envelops the southern end of [[Eastern Wynandir]] in eerie mists, murderous trolls, and hungry trees. Incredibly lush and filled with life compared to the barren and desolate wastes to the north, this unchecked forest is home to many creatures and beasts, some of whom have grown to a nightmarish size because of the residual power of the long-buried druidic fane that empowers and protects the Greenwood.
 
@@ -8,4 +10,5 @@ No one knows the source of the wild curses that plague the Lotusden, but there a
 
 The characters might enter the forest to retrieve someone who is lost or to escape Kryn forces in pursuit. Any plant in Lotusden Greenwood could be a carnivorous monster waiting to attack.
 
-_**Mother's Milk (Mid Level).**_ Someone or something has been kidnapping the infants and children of [[Charis]]. A terrible evil lurks at the heart of the matter: an unholy coven of hags, led by a [night hag](https://www.dndbeyond.com/monsters/night-hag) of prodigious influence and power. The hag preside over a dark corner of the Greenwood, where they lair beneath the roots of a gargantuan tree. Here, the nightmarish coven and its minions manufacture the slow doom of the Greenwood itself as they siphon the lifeblood of the [[Charis]] children into a loathsome artifact known as the Gloom Lathe.
+**Adventures**:: [[Mother's Milk (Mid Level)]]
+![[Mother's Milk (Mid Level)]]

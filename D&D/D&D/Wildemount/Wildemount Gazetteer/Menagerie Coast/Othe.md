@@ -1,14 +1,16 @@
 ### Othe
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
-**Population:** 8,320 (64% [[humans]], 16% [[halflings]], 11% [[Orcs|half-orcs]], 9% other races)
+**Population**:: 8,320 (64% [[humans]], 16% [[halflings]], 11% [[Orcs|half-orcs]], 9% other races)
 
-**Government:** Matters of state are managed by Othe's marquis, while local industrial and religious leaders govern on a smaller scale.
+**Government**:: Matters of state are managed by Othe's marquis, while local industrial and religious leaders govern on a smaller scale.
 
-**Defense:** [[Zhelezo]] guards and volunteer citizen warriors maintain the law and protect the city.
+**Defense**:: [[Zhelezo]] guards and volunteer citizen warriors maintain the law and protect the city.
 
-**Commerce:** Basic needs can be readily tended to through a trading post or inn. Some traveling merchants bring outside goods, but rarer commodities are sparse. Othe exports herbs with natural medicinal properties at high cost.
+**Commerce**:: Basic needs can be readily tended to through a trading post or inn. Some traveling merchants bring outside goods, but rarer commodities are sparse. Othe exports herbs with natural medicinal properties at high cost.
 
-**Organizations:** A collection of small temples resides in the Apa-feids. Merchant guilds are small but work in conjunction with one another. [[The Myriad|Myriad]] agents are embedded in numerous elements of the city.
+**Organizations**:: A collection of small temples resides in the Apa-feids. Merchant guilds are small but work in conjunction with one another. [[The Myriad|Myriad]] agents are embedded in numerous elements of the city.
 
 Established around 410 PD by the Ki'Nau as a shamanistic site for meditation and medicinal ritual, the location expanded into the village of Othe when Marquesian explorers discovered the unique properties of the [[Othemoor]] and the flora it sustains. Othe is the smallest of the coastal [[Clovis Concord]] domains, and the local leaders are generally left to their own devices. This makes the social environment of Othe extremely insular and less hospitable to outsiders who don't go out of their way to engage with the locals.
 
@@ -24,4 +26,5 @@ While the winds are often earthy and mingled with marsh air, the simpler, pastor
 
 The characters may come to Othe to seek guidance from one of the city's many temples.
 
-_**Seeking Misguidance (Any Level).**_ A ranking official of the [[Clovis Concord]] is in Othe seeking guidance on handling [[the Myriad]]. The criminal organization hires the characters to pose as holy guides and convince the official to work with [[the Myriad]] instead of against them.
+**Adventures**:: [[Seeking Misguidance (Any Level)]]
+![[Seeking Misguidance (Any Level)]]

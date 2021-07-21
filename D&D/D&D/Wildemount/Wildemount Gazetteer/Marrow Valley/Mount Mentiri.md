@@ -1,4 +1,6 @@
 ### Mount Mentiri
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
 Mount Mentiri is a sky-piercing crimson monolith and an ever-present visual landmark within the [[Truscan Vale]]. Thin wisps of steam rise from numerous vents scattered throughout the massive mountain. The nearby Bromkiln Hills and the northern lands around Pride's Call have been altered by the elemental power that radiates from the rock beneath Mentiri.
 

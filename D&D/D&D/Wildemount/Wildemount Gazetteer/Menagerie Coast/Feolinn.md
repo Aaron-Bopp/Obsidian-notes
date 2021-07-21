@@ -1,14 +1,16 @@
 ### Feolinn
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
-**Population:** 12,700 (73% [[humans]], 10% [[elves]], 5% [[gnomes]], 12% other races)
+**Population**:: 12,700 (73% [[humans]], 10% [[elves]], 5% [[gnomes]], 12% other races)
 
-**Government:** Marquis Hector Soliva runs the city, with wealthy, non-competitive businesses operating as an unofficial council.
+**Government**:: Marquis Hector Soliva runs the city, with wealthy, non-competitive businesses operating as an unofficial council.
 
-**Defense:** Local [[Zhelezo]] keep the peace and protect the city perimeter. Affluent members of society also keep a hired guard.
+**Defense**:: Local [[Zhelezo]] keep the peace and protect the city perimeter. Affluent members of society also keep a hired guard.
 
-**Commerce:** Most basic supplies are readily available in taverns, inns, and the marketplace.
+**Commerce**:: Most basic supplies are readily available in taverns, inns, and the marketplace.
 
-**Organizations:** Shrines and temples to the Prime Deities are present, if downplayed in prominence. Local merchant families vie for financial and political dominance, leaving room for growing [[The Myriad|Myriad]] corruption.
+**Organizations**:: Shrines and temples to the Prime Deities are present, if downplayed in prominence. Local merchant families vie for financial and political dominance, leaving room for growing [[The Myriad|Myriad]] corruption.
 
 Smaller than its nearest coastal neighbors, Feolinn is widely referred to as the Garden City for its rural aesthetic, proximity to the [[Plumgroves]], and well-kept parks and gardens. Feolinn acts as a harbor for the plentiful fishing around the Mother's Sigh Reef, as well as a destination for travelers looking to escape the chaos of [[Exandria]]'s woes. Feolinn is a popular destination for wealthy socialites, and it is filled with businesses that specialize in indulgence and self-pampering.
 
@@ -24,6 +26,7 @@ Buttressed against the southern tree line of the [[Plumgroves]] and surrounded b
 
 Feolinn is a good place for adventurers to get caught up in shady business deals and cutthroat competition.
 
-_**Loose Lips (Low Level).**_ The characters are invited to a citywide alcohol fair, where Feolinn's wineries and distilleries enter their products to compete for prizes. The fair is secretly sponsored by [[the Myriad]], which plans to get the city's most influential people drunk and learn their secrets to use as blackmail. The characters get wind of this plan and must decide whether to stop [[the Myriad]] or get in on the plan.
-
-_**Celebrity Endorsement (Any Level).**_ After the characters gain recognition for their deeds, the competing wineries and distilleries in Feolinn attempt to convince them to become official spokespeople of their brands, offering money and free booze. If the characters accept an offer, the rejected companies turn on them, trying to embarrass the characters at every turn and hiring rival adventurers to take credit for their accomplishments.
+**Adventures**:: [[Loose Lips (Low Level)]]
+![[Loose Lips (Low Level)]]
+**Adventures**:: [[Celebrity Endorsement (Any Level)]]
+![[Celebrity Endorsement (Any Level)]]

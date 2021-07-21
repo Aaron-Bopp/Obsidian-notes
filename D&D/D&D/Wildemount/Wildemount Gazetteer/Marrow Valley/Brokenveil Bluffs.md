@@ -1,4 +1,6 @@
 ### Brokenveil Bluffs
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
 Long ago, the Brokenveil Bluffs were once a section of the [[Ashkeeper Peaks]] that linked to the nearby [[Dunrock Mountains]]. The mountain ranges were sundered in the final battles of [[the Calamity]], creating two mountain passes — the only land route that connects Eastern and [[Western Wynandir]].
 

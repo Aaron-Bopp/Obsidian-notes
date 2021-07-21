@@ -1,4 +1,6 @@
 ### Ruins of [[Molaesmyr]]
+**Tag**:: #Exandria/Locale/Wynandir/GreyingWildlands
+**Location**:: [[Greying Wildlands]]
 
 Just north of the Boreal Omen River, toward the center of the warped [[Savalirwood]] forest, looms the ravaged elven city of [[Molaesmyr]]. Once a beautiful city filled with erudite scholars and designed to blend in with the towering trees by masterful elven architects, the metropolis now lies abandoned. The canopy of trees above the ruins is thick enough to block most of the sun, and massive, twisting bramble vines choke the streets and rooftops, spreading into the surrounding woods like veins from a corrupted heart. Crumbling spires lean against trees swollen with disease, halls of learning are smothered by toxic fungus and moss, and a perpetual heavy fog obscures the dangers that lurk in unseen alcoves. All manner of terrible fey creatures now call this city home. The rest of the woods are filled with natural forest denizens mutated by errant magics as well as many [[elves]] who were caught in the horrifying catastrophe and who now stalk the shadows as terrible monstrosities, mockeries of their former selves.
 

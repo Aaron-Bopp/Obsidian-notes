@@ -1,14 +1,16 @@
 ### Nicodranas
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
-**Population:** 31,900 (68% [[humans]], 13% [[halflings]], 8% [[dwarves]], 10% other races)
+**Population**:: 31,900 (68% [[humans]], 13% [[halflings]], 8% [[dwarves]], 10% other races)
 
-**Government:** The city is ruled by Marquis [[Zhafe Uludan]], who maintains his position through his family's ties with the [[Dwendalian Empire]].
+**Government**:: The city is ruled by Marquis [[Zhafe Uludan]], who maintains his position through his family's ties with the [[Dwendalian Empire]].
 
-**Defense:** A respectable army remains stationed within Nicodranas to dissuade empire foolishness. [[Zhelezo]] mingle with small squads of imperial [[Crownsguard]]. Powerful nobles and diplomats also keep hired swords and guards.
+**Defense**:: A respectable army remains stationed within Nicodranas to dissuade empire foolishness. [[Zhelezo]] mingle with small squads of imperial [[Crownsguard]]. Powerful nobles and diplomats also keep hired swords and guards.
 
-**Commerce:** The [[Dwendalian Empire]] is Nicodranas's primary foreign trade partner, and Nicodranas is renowned as a city where foreign travelers can find respite and entertainment.
+**Commerce**:: The [[Dwendalian Empire]] is Nicodranas's primary foreign trade partner, and Nicodranas is renowned as a city where foreign travelers can find respite and entertainment.
 
-**Organizations:** The port is home to many places of worship, though temples to the gods approved by the empire are kept to the north side of the city, separated from those of banned gods. The [[Dwendalian Empire]] has a strong presence among high society. [[The Myriad]] is very quiet but unquestionably present.
+**Organizations**:: The port is home to many places of worship, though temples to the gods approved by the empire are kept to the north side of the city, separated from those of banned gods. The [[Dwendalian Empire]] has a strong presence among high society. [[The Myriad]] is very quiet but unquestionably present.
 
 The easternmost city of the [[Menagerie Coast]], Nicodranas (meaning "gathering of colors" in Draconic) sits close to the [[Dwendalian Empire]]'s southern border. The proximity to the empire has made Nicodranas as an embassy state between the two powers, and the city hosts most diplomatic relations between the [[Clovis Concord]] and the [[Dwendalian Empire]]. The second-largest city of the coast, Nicodranas is similar to its larger sister city, [[Port Damali]]. Although it lacks the bustle of the unofficial capital, Nicodranas is preferred by travelers who dislike the crowds and rapid pace of [[Port Damali]].
 
@@ -34,10 +36,10 @@ The Skew encompasses the residential sprawl of the city, a colorful collection o
 
 Characters looking to relax in Nicodranas might stumble into an adventure involving [[the Myriad]], the [[Clovis Concord]], or the [[Cerberus Assembly]].
 
-_**Vine Shine (Low Level).**_ Overnight, heavy vines grow over the lighthouse of the Wild Mother, and anyone who cuts their way through to investigate the sacred place doesn't return. The characters are hired to investigate and find an infestation of [vine blights](https://www.dndbeyond.com/monsters/vine-blight) in the temple. How did the blights come to be? Are they part of a plan to corrupt the lighthouse for dark purposes, or are they a priest's experiment gone terribly wrong?
-
-_**Chaos Companions (High Level).**_ While the characters visit the city, they witness a noble drop dead as a [slaad tadpole](https://www.dndbeyond.com/monsters/slaad-tadpole) bursts from her chest. More nobles die in the same way as the characters investigate. They eventually discover that the victims all visited the same brothel, an establishment run by a [death slaad](https://www.dndbeyond.com/monsters/death-slaad) in disguise with several slaad bouncers.
-
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-04.png)
-
-Streets of Nicodranas
+**Adventures**:: [[Vine Shine (Low Level)]]
+![[Vine Shine (Low Level)]]
+**Adventures**:: [[Chaos Companions (High Level)]]
+![[Chaos Companions (High Level)]]
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-04.png)
+> 
+> Streets of Nicodranas

@@ -1,4 +1,6 @@
 ### Deepriver Mine and Icozrin Steelworks
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
 Established around a plentiful source of iron and copper within a dry, subterranean riverbed, the Deepriver Mine is one of the dynasty's most productive mining operations. Workers toil away within the mines beneath the red canopy of the Vermaloc, or work the smelters that litter the courtyard, preparing to send their goods to [[Rosohna]] or farther into the west of [[Xhorhas]].
 

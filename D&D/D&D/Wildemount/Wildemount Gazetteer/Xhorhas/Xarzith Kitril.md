@@ -1,14 +1,16 @@
 ### Xarzith Kitril
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
-**Population:** 9,110 (93% [[dragonborn]], 7% other races)
+**Population**:: 9,110 (93% [[dragonborn]], 7% other races)
 
-**Government:** A council of six oversees the city, with the Wardens of the Ravine keeping order under their guidance.
+**Government**:: A council of six oversees the city, with the Wardens of the Ravine keeping order under their guidance.
 
-**Defense:** An army of Wardens of the Ravine are ever at the ready to defend the city. Many self-trained citizens can form a militia if need be.
+**Defense**:: An army of Wardens of the Ravine are ever at the ready to defend the city. Many self-trained citizens can form a militia if need be.
 
-**Commerce:** Trade is mostly limited to the city, making rare goods hard to find. Most basic equipment, arms, and services can be found here, as well as taverns and lodging.
+**Commerce**:: Trade is mostly limited to the city, making rare goods hard to find. Most basic equipment, arms, and services can be found here, as well as taverns and lodging.
 
-**Organizations:** Small, rough sanctums of worship can be found within the city. Unions of artisans and merchants work together on a small scale.
+**Organizations**:: Small, rough sanctums of worship can be found within the city. Unions of artisans and merchants work together on a small scale.
 
 Shortly after the fall of [[Draconia]], when the lords of the ruined city-state were deposed and scattered, the remaining ravenite [[dragonborn]] took the reins of their new freedom and began to develop a new [[dragonborn]] society in [[Wildemount]]. The ravenites have spent nearly two decades building a new city of hope for the [[dragonborn]] survivors within the cliffs of the [[Dreemoth Ravine]]. The fortified stone city of Xarzith Kitril continues to grow, and its borders are constantly being rebuilt to accommodate its exploding centers of residence and industry amid the ore-bearing mines and tall smoke pillars from ever-burning forges. The leaders of the city, members of the newly formed [[Scars of Scale and Tooth]], work to bring unity to the fractured, feuding ravenites.
 
@@ -26,4 +28,5 @@ The central, base region of the city is referred to as the Roots, where the majo
 
 All manner of adventures and challenges await within this recovering [[dragonborn]] society.
 
-_**Best Left Alone (Mid Level).**_ One of the prominent mining companies within the city has recently uncovered a mysterious purple stone of unknown origin, about fifteen feet in diameter. Dozens of superstitious miners have fled this site, so the company hires the characters to investigate the stone and uncover its nature. When any of the stone's smooth, reflective surface takes damages, this buried relic of the Shadowfell begins to summon [shadowghasts](https://www.dndbeyond.com/monsters/[[shadowghast]]) and [gloomstalkers](https://www.dndbeyond.com/monsters/[[gloomstalker]]) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#[[Gloomstalker]] "chapter 7")) at an increasingly fast rate. The characters must discover a way to repair and reseal the stone, destroy it, or banish it from [[Exandria]] before the city is overwhelmed.
+**Adventures**:: [[Best Left Alone (Mid Level)]]
+![[Best Left Alone (Mid Level)]]

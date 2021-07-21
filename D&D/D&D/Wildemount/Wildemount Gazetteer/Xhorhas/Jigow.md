@@ -1,14 +1,16 @@
 ### Jigow
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
-**Population:** 13,210 (56% [[goblinkin]], 31% [[orcs]], 13% other races)
+**Population**:: 13,210 (56% [[goblinkin]], 31% [[orcs]], 13% other races)
 
-**Government:** The assigned taskhand, Durth Mirimm, has a strained partnership with the two elder leaders of the [[Goblinkin|goblin]] and orc clans.
+**Government**:: The assigned taskhand, Durth Mirimm, has a strained partnership with the two elder leaders of the [[Goblinkin|goblin]] and orc clans.
 
-**Defense:** Taskhand Mirimm's small platoon of [[Aurora Watch]] soldiers bolsters the sizable ranks of the local warriors.
+**Defense**:: Taskhand Mirimm's small platoon of [[Aurora Watch]] soldiers bolsters the sizable ranks of the local warriors.
 
-**Commerce:** Most basic goods and services can be found here, though their quality reflects their rough and rural origins. Hostels and lodges offer rooms and provisions for travelers.
+**Commerce**:: Most basic goods and services can be found here, though their quality reflects their rough and rural origins. Hostels and lodges offer rooms and provisions for travelers.
 
-**Organizations:** A central temple to [[the Luxon]] presides over a district called the Jumble (see "Geography" later in this section). Each clan maintains their own network of artisans and merchants.
+**Organizations**:: A central temple to [[the Luxon]] presides over a district called the Jumble (see "Geography" later in this section). Each clan maintains their own network of artisans and merchants.
 
 A tenuous alliance of [[Goblinkin|goblin]] clans and territorial orc clans once scavenged along the northern shores of [[Xhorhas]], warring and competing for survival. Over the past century, the [[Kryn Dynasty]] has worked to bring the two roving factions together. The negotiations were long and arduous, but the [[Kryn Dynasty]]'s introduction of the faith of [[the Luxon]] ultimately helped the clans to form a unified society.
 
@@ -26,4 +28,5 @@ Jigow is more of a collection of coastal villages than a singular, central city.
 
 Characters in Jigow might get pulled into local competitions, or they might be keeping an eye on the populace for the Kryn, who are trying to avoid a revolt.
 
-_**Battle of the Braggarts (Low Level).**_ At a tavern, the adventurers witness two braggarts engage in a boast-off. The two boasters, a battle-scarred old [orc](https://www.dndbeyond.com/monsters/orc) named Temgor and a young [goblin](https://www.dndbeyond.com/monsters/[[Goblinkin|goblin]]) named Gerb, are both prideful and refuse to back down. It seems like the conflict is going to come to blows, and both Temgor and Gerb's friends separately ask the adventurers to defuse the tensions before the [[Aurora Watch]] gets involved.
+**Adventures**:: [[Battle of the Braggarts (Low Level)]]
+![[Battle of the Braggarts (Low Level)]]

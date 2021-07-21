@@ -1,14 +1,16 @@
 ### Pride's Call
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 
-**Population:** 16,090 (81% [[dwarves]], 8% [[humans]], 6% [[halflings]], 5% other races)
+**Population**:: 16,090 (81% [[dwarves]], 8% [[humans]], 6% [[halflings]], 5% other races)
 
-**Government:** Starosta Ghuldi Demosk walks the fine line of honoring imperial rule without undermining dwarven tradition. Small guilds run by dwarf nobles support his rule.
+**Government**:: Starosta Ghuldi Demosk walks the fine line of honoring imperial rule without undermining dwarven tradition. Small guilds run by dwarf nobles support his rule.
 
-**Defense:** Watchmaster Hildas Cliffhollow oversees the local [[Crownsguard]], which is sometimes bolstered by mercenaries.
+**Defense**:: Watchmaster Hildas Cliffhollow oversees the local [[Crownsguard]], which is sometimes bolstered by mercenaries.
 
-**Commerce:** Most goods and services are available here, including room and board for travelers. Pride silk is a popular commodity.
+**Commerce**:: Most goods and services are available here, including room and board for travelers. Pride silk is a popular commodity.
 
-**Organizations:** Empire-approved gods have humble temples alongside the local guilds and businesses, while [[The Myriad|Myriad]] agents lurk within the shadows of the city.
+**Organizations**:: Empire-approved gods have humble temples alongside the local guilds and businesses, while [[The Myriad|Myriad]] agents lurk within the shadows of the city.
 
 Within the rolling hills of the southern [[Zemni Fields]] lies the dwarven city of Pride's Call. Established in the ashes of [[the Calamity]] and slowly rebuilt as the center of hill dwarf culture in [[Wildemount]], Pride's Call chose to ally with the [[Dwendalian Empire]] during the empire's expansion nearly two centuries ago. Their favor as the empire's first allies eventually waned when the dwarven city of [[Grimgolir]] was absorbed a century later, leaving Pride's Call overshadowed by the new, impressive, and strategically significant dwarf city. However, Pride's Call is nonetheless respectable in martial might and historically rich in culture, music, and their coveted pride silk. The city is a bright spot in the otherwise cold and dour northwestern Wynandir.
 
@@ -22,10 +24,11 @@ While the city's colorful veneer makes it seem a place of plenty, the economy of
 
 The city is comprised of four boroughs built atop and within a cluster of large hills that wrap around the base of the [[Cyrios Mountains]]. The two largest boroughs, known as the Tillers and Crafters, are twin sections of mixed residential neighborhoods with areas of concentrated commerce. The Tillers cultivates produce and meats for the city, though most local food has a bland and bitter taste, making spices a popular import. The Crafters contains numerous forges, tanneries, and the well-guarded subterranean silk-production warehouses. Nearest to the mountains is the Vigil borough, where the locally trained [[Crownsguard]] mingle with those assigned from [[Bladegarden]] to watch over the hillside. The western branch of the Righteous Brand are also stationed in the Vigil borough. Between Vigil and Crafters lies the fourth and smallest borough, called Moot, which is marked by a circular road surrounded by the wealthier houses. The Moot itself is an open, stone forum for discussion and debate that long predates the empire's rule.
 
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-11.png)
-
-Hills of Pride’s Call
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-11.png)
+> 
+> Hills of Pride’s Call
 
 If the characters seek pride silk or master artisans, Pride's Call is where they should go. In a city experiencing political and economic turmoil, there is no end to the intriguing adventures characters might experience.
 
-_**Worm Your Way In (Low Level).**_ The characters encounter a traveling textile merchant named Cardorn Brentahill (neutral evil, male, human [noble](https://www.dndbeyond.com/monsters/noble)), who lives in [[Yrrosa]]. He's seeking bodyguards to help him escort his cart back to his home, paying 100 gp per hired hand. Along the journey, the characters and their employer are attacked by a crew of mercenaries representing the Durrodan family, claiming that Cardorn stole silk worms from their silk farm. Cardorn offers to increase the characters' pay if they defend him. If they side with the Durrodan family, Cardorn is taken prisoner but the Durrodans grant them a small reward and the promise of future work. If they side with Cardorn, fight off the mercenaries, and escort Cardorn home, he introduces the characters to Gothad Miskal (neutral evil, male, halfling [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain)), a [[The Myriad|Myriad]] taskmaster from [[Yrrosa]] who is interested in offering better pay for less legal work.
+**Adventures**:: [[Worm Your Way In (Low Level)]]
+![[Worm Your Way In (Low Level)]]

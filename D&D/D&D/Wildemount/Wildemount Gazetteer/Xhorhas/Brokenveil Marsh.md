@@ -1,4 +1,6 @@
 ### Brokenveil Marsh
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
 The sheer cliffs and ravines of the [[Brokenveil Bluffs]] were created when the [[Dunrock Mountains]] and the [[Ashkeeper Peaks]] were sundered in [[the Calamity]]. Between these precipices, a dense morass of thick, stinking marshland claims the valley floor. Gnarled trees and tangle vines clutter the shaded canyons, while sucking mud pits and buzzing insects make travel a slow and arduous experience. All kinds of swamp beasts and sinking muck traps threaten to swallow those who trespass in the marsh, and filthy bluff harpies are eager to pluck away stragglers.
 

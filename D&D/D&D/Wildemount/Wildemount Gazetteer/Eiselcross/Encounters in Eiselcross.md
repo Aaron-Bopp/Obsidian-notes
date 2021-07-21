@@ -1,4 +1,6 @@
 ## Encounters in [[Eiselcross]]
+**Tag**:: #Exandria/Locale/Wynandir/Eiselcross
+**Location**:: [[Eiselcross]]
 
 [[Eiselcross]] is a land of strange magic, bizarre creatures, and fascinating people. Each day that the characters travel the land, roll a d20. On a result of 15 or higher, an encounter chosen or rolled on the [[Eiselcross]] Encounters table of the appropriate level occurs. Not all of these encounters are meant to result in combat, and the ideas on the tables can inspire encounters of your own creation.
 #Table 

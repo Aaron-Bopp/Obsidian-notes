@@ -1,19 +1,22 @@
+## Yrrosa
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 This file:: **`=this.file.path`**
 Linked by::`=this.file.inlinks`
 ### Yrrosa
 **Location**:: #Locale/[[Wildemount]]/ZemniFields 
 
-**Population::** 3,220 
+**Population:**:: 3,220 
 
 **Population Breakdown**:: 54% [[humans]], 28% [[dwarves]], 14% [[elves]], 4% other races
 
-**Government::** The Crown's will is imposed by Starosta Zulla Sauer, in tandem with the local noble families.
+**Government:**:: The Crown's will is imposed by Starosta Zulla Sauer, in tandem with the local noble families.
 
-**Defense::** Yrrosa is protected by a battalion of [[Crownsguard]] supplemented by mercenaries.
+**Defense:**:: Yrrosa is protected by a battalion of [[Crownsguard]] supplemented by mercenaries.
 
-**Commerce::** An older and smaller trade post, the town has basic equipment and supplies available for trade or purchase. Rooms and taverns are humble, but available.
+**Commerce:**:: An older and smaller trade post, the town has basic equipment and supplies available for trade or purchase. Rooms and taverns are humble, but available.
 
-**Organizations::** A temple to [[Bahamut]] looms over smaller shrines to the other empire-approved gods. [[The Myriad]] was once headquartered here; in its absence, the local businesses are entirely independent.
+**Organizations:**:: A temple to [[Bahamut]] looms over smaller shrines to the other empire-approved gods. [[The Myriad]] was once headquartered here; in its absence, the local businesses are entirely independent.
 
 Once a snowy outpost between [[Icehaven]] and [[Rexxentrum]], Yrrosa has slowly grown into a sizable township where travelers and traders warm themselves as they pass through the frigid fields. The town is comprised of humble homesteads and numerous inns that promote themselves as "the hearth before the hoarfrost."
 

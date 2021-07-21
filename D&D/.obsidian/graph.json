@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "path:D&D/Wildemount -file:aliases.md",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -53,14 +53,14 @@
       "query": "path:\"D&D/Wildemount/Character Options\"",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 16730895
       }
     },
     {
       "query": "path:\"D&D/Wildemount/Adventures in Wildemount\"",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 609772
       }
     },
     {
@@ -143,7 +143,7 @@
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.08559128854654488,
-  "close": true
+  "linkDistance": 500,
+  "scale": 0.16348370567220674,
+  "close": false
 }

@@ -1,4 +1,6 @@
 ### Pallid Grove
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
 Hidden near the northern heart of the [[Cyrios Mountains]], the valley known as the Pallid Grove is cut off from the rest of [[Wildemount]] by deadly peaks. Once a beautiful, untouched woodland atop a mountain plateau, the grove was home to reclusive [[elves]] who worshiped [[Sehanine]], protected by the illusory magics of their moon priests.
 

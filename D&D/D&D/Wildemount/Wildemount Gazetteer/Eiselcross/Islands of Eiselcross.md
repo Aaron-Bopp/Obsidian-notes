@@ -1,4 +1,6 @@
 ## Islands of [[Eiselcross]]
+**Tag**:: #Exandria/Locale/Wynandir/Eiselcross
+**Location**:: [[Eiselcross]]
 
 [[Eiselcross]] is a collection of eight icy islands, some of which have small, snow-covered mountain ranges:
 

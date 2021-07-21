@@ -1,5 +1,5 @@
 {
-  "parentFieldName": "related-topics, parent",
+  "parentFieldName": "related-topics, parent, location",
   "siblingFieldName": "sub-topics, sibling",
   "childFieldName": "child",
   "indexNote": [
@@ -7,10 +7,10 @@
   ],
   "refreshIntervalTime": 0,
   "defaultView": true,
-  "showNameOrType": true,
+  "showNameOrType": false,
   "showRelationType": true,
   "showTrail": true,
-  "trailOrTable": 3,
+  "trailOrTable": 1,
   "gridHeatmap": false,
   "heatmapColour": "#EEEEEE",
   "showAll": true,

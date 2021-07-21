@@ -1,15 +1,18 @@
+## Vol'antim
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
 ### Vol'antim
 
-**Population:** 3,890 (96% [[aarakocra]], 4% other races)
+**Population**:: 3,890 (96% [[aarakocra]], 4% other races)
 
-**Government:** Vol'antim is ruled by a council of twelve elders known as the Horizon.
+**Government**:: Vol'antim is ruled by a council of twelve elders known as the Horizon.
 
-**Defense:** The settlement's perilous surroundings make it easily defensible, and trained [[aarakocra]] warriors vigilantly protect it from above and within.
+**Defense**:: The settlement's perilous surroundings make it easily defensible, and trained [[aarakocra]] warriors vigilantly protect it from above and within.
 
-**Commerce:** General arms, simple supplies, and natural goods can be purchased or traded here. Lodging for guests is sparse.
+**Commerce**:: General arms, simple supplies, and natural goods can be purchased or traded here. Lodging for guests is sparse.
 
-**Organizations:** Dual temples to both [[Melora]] and [[Erathis]] mark the cliff face and interior caverns. No major organizations make their home here.
+**Organizations**:: Dual temples to both [[Melora]] and [[Erathis]] mark the cliff face and interior caverns. No major organizations make their home here.
 
 The hidden cliffside settlement of Vol'antim is nestled deep within the heart of the [[Cyrios Mountains]]. Tucked beneath an unreachable mountain precipice that soars over a thousand feet in the air above jagged rocks and brush, the community is home to [[aarakocra]] who live in relative seclusion. Few ever see these [[aarakocra]], as they keep to the [[Cyrios Mountains]] and watch intently for uninvited guests.
 
@@ -27,4 +30,5 @@ Standing high above a rocky valley, the mountain spire curls at its peak, formin
 
 If the characters earn the respect of the [[aarakocra]] of Vol'antim, they could be asked to help keep the [[Cyrios Mountains]] free from evil. If the characters instead earn their ire, they would do well to steer clear of the mountains.
 
-_**Break a Few Eggs (Low Level).**_ The characters are asked by the [aarakocra](https://www.dndbeyond.com/monsters/[[aarakocra]]) of Vol'antim to help destroy a nest of gorefeather [harpies](https://www.dndbeyond.com/monsters/harpy). During the quest, the characters uncover a clutch of harpy eggs, which the [[aarakocra]] believe should be destroyed, since legends say that each generation of harpies is stronger than the last. If the characters destroy the eggs, they will drive the harpies to greater acts of destruction. But they refuse, how might the [[aarakocra]] react?
+**Adventures**:: [[Break a Few Eggs (Low Level)]]
+![[Break a Few Eggs (Low Level)]]

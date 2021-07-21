@@ -1,4 +1,6 @@
 ### Cinderrest Sanctum
+**Tag**:: #Exandria/Locale/Wynandir/GreyingWildlands
+**Location**:: [[Greying Wildlands]]
 
 Hidden along the eastern slopes of [[Kravaraad]] is a cavern of onyx, where a pool of uncooling lava sits at the heart of the black stone grotto. Within this spacious chamber, black iron adornments and supports bear tales etched in runes. Carved reliefs depict dwarven interpretations of [[Melora]] granting stone and ore from below the ground to [[Moradin]] the All-Hammer, for him to craft into great halls and mighty guardians.
 

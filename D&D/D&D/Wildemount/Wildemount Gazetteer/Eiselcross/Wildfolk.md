@@ -1,4 +1,6 @@
 ## Wildfolk of [[Eiselcross]]
+**Tag**:: #Exandria/Locale/Wynandir/Eiselcross
+**Location**:: [[Eiselcross]]
 
 While most of the world did not know about [[Eiselcross]]'s secrets for centuries, the islands are home to nomadic clans of [[humans]] and [[halflings]]. These people move in small groups, following herds of elk and mammoths. They have no gods but instead revere the animals and natural phenomena such as the wind, snow, and waves. The wildfolk avoid [[Aeor]]'s ruins and the terrible dangers that lurk there.
 

@@ -1,4 +1,6 @@
 ### Ruins of Sepesca
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
 In the centuries that followed [[the Calamity]], the Ki'Nau people established Sepesca, meaning "Nature's End," as their holiest of burial temples, built over a lush grove where the blood of the Wild Mother is said to have spilled before the [[Divergence]]. Every Ki'Nau priest and king that passed was interred within Sepesca's massive stone structure.
 

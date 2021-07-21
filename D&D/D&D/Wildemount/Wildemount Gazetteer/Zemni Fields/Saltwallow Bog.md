@@ -1,3 +1,5 @@
 ### Saltwallow Bog
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 
 Born from the sunken muck that merges with the northern treeline of the [[Velvin Thicket]], the Saltwallow Bog is a marsh of briny, slightly acidic waters. Myths speak of a terrible servant of the Crawling King that was slain during the battles of [[the Calamity]], its corrosive corpse sinking into the floor of the forest and corrupting the thicket around it until this toxic bog was left as a final cry of defiance. Strange and twisted creatures have adapted to live in this grotesque place, delving into the [[Velvin Thicket]] to hunt and drag their prey back to their lairs in the bog. As dangerous as they are, some of these creatures are now highly prized by tanners and alchemists for their leather and harvested parts, and hunters venture into the depths of the bog year-round, risking life and limb for coin.

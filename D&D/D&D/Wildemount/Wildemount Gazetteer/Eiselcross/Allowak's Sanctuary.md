@@ -1,14 +1,16 @@
 ### Allowak's Sanctuary
+**Tag**:: #Exandria/Locale/Wynandir/Eiselcross
+**Location**:: [[Eiselcross]]
 
-**Population:** 532 (100% yetis)
+**Population**:: 532 (100% yetis)
 
-**Government:** Brightheart, the settlement's smartest and strongest abominable yeti, rules Allowak's Sanctuary as a dictator.
+**Government**:: Brightheart, the settlement's smartest and strongest abominable yeti, rules Allowak's Sanctuary as a dictator.
 
-**Defense:** Every resident of Allowak's Sanctuary is capable of defending the settlement.
+**Defense**:: Every resident of Allowak's Sanctuary is capable of defending the settlement.
 
-**Commerce:** Aside from trading for simple goods and services, there is no major commerce.
+**Commerce**:: Aside from trading for simple goods and services, there is no major commerce.
 
-**Organizations:** The yetis have no organizational ties.
+**Organizations**:: The yetis have no organizational ties.
 
 When [[Aeor]] fell into Foren, the impact threw a monolithic, purple crystal miles away from the crash site. The stone pierced the body of an abominable yeti named Allowak, but the crystal's magic preserved the yeti's corpse and absorbed Allowak's soul. When other yetis touched the crystal, their intellect increased and their innate desire to slaughter faded away. A society of the monstrosities living in huts and keeping mammoths for food sprung up around the crystal. These peaceful yetis abhor their more savage kin.
 
@@ -26,6 +28,6 @@ The [yetis of Allowak's Sanctuary](https://www.dndbeyond.com/monsters/yeti-allow
 
 The characters could stumble across Allowak's Sanctuary or fight their way through the perimeter guards to uncover the village.
 
-_**A Matter of Trust (Mid Level).**_ As the characters travel Foren, they find Dawnmind, a female Allowak [yeti](https://www.dndbeyond.com/monsters/yeti-allowak-variant) (see "Allowak's Sanctuary Yeti Statistics") holding the tatters of a net as she lies in the snow, covered in claw wounds from others of her kind, with 1 hit point remaining. Three other yeti corpses, Dawnmind's companions, lie in the bloody snow nearby. Dawnmind begs the characters to escort her back to Allowak's Sanctuary along with the corpses. Her group failed to capture six wild yetis, but those yetis are nearby and stalk the characters if they help Dawnmind.
-
+**Adventures**:: [[A Matter of Trust (Mid Level)]]
+![[A Matter of Trust (Mid Level)]]
 If the characters travel to Allowak's Sanctuary with Dawnmind, Brightheart welcomes them as heroes and thanks them with a place to stay, provided that they swear to keep Allowak's Sanctuary a secret — or the [abominable yeti](https://www.dndbeyond.com/monsters/abominable-yeti) could order the characters to prove their loyalty by capturing a group of wild yetis or [mammoths](https://www.dndbeyond.com/monsters/mammoth) for her.

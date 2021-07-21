@@ -1,4 +1,6 @@
 ### Plumgroves
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
 The Plumgroves are a luscious woodland filled with soft grass, swaying tropical trees with white bark and purple flowers, and numerous varieties of delicious, celebrated fruit. Nowhere else is there such a condensed collection of sought-after berries and fruit throughout the continent, and the people of [[Feolinn]] have based their identity and lifestyle around this abundance.
 

@@ -1,14 +1,16 @@
 ### Felderwin
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
-**Population:** 8,180 (58% [[halflings]], 21% [[humans]], 6% [[dragonborn]], 15% other races)
+**Population**:: 8,180 (58% [[halflings]], 21% [[humans]], 6% [[dragonborn]], 15% other races)
 
-**Government:** The locally elected starosta, Theanor Whisperthin, works with the Crown-appointed lawmaster to organize and distribute the harvests.
+**Government**:: The locally elected starosta, Theanor Whisperthin, works with the Crown-appointed lawmaster to organize and distribute the harvests.
 
-**Defense:** A sizable regiment of [[Crownsguard]] is now bolstered by a patrolling legion of Righteous Brand soldiers, while guildmasters keep personal bodyguards.
+**Defense**:: A sizable regiment of [[Crownsguard]] is now bolstered by a patrolling legion of Righteous Brand soldiers, while guildmasters keep personal bodyguards.
 
-**Commerce:** Basic supplies and general goods are produced locally, and humble rooms and amenities are available to travelers.
+**Commerce**:: Basic supplies and general goods are produced locally, and humble rooms and amenities are available to travelers.
 
-**Organizations:** Shrines to the Dawn Father bless the outer fields, while most worship takes place in homesteads within the city. The farming families and guilds aren't independent, but are operated directly by the Crown.
+**Organizations**:: Shrines to the Dawn Father bless the outer fields, while most worship takes place in homesteads within the city. The farming families and guilds aren't independent, but are operated directly by the Crown.
 
 Felderwin is the heart of halfling society in Wynandir. The settlement itself is surrounded by fertile farmland — the sprawling [[Felderwin Tillage]] that has been cultivated by the halfling community for over seven centuries. In the wake of a sudden and vicious attack from the [[Kryn Dynasty]], the [[Crownsguard]] presence has recently increased, and paranoia has gripped the citizens of Felderwin. Taverns and shops are filled with hushed whispers about the fate of the empire.
 
@@ -22,12 +24,13 @@ Felderwin is not a haven for unlawful activity, but the importance of the local 
 
 This rustic settlement is home to the beating heart of the [[Marrow Valley]]'s farming community. Felderwin is built around three small hubs, each surrounding a communal gathering site called a Hall, which give the settlement a roughly triangular shape. Each section is filled with intersecting dirt roads, large barns, storehouses, lively taverns, and livestock pens that give the streets their unique, shifting smell of fresh grass, sweet pollen, and animal dung. The Green Hall calls forth trade meetings and day celebrations, while the Sunset Hall acts as a massive tavern for evening festivities and diplomatic events. The Lake Hall is built at the edge of the Scymir River and helms the small fishing community within the city.
 
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-07.png)
-
-Felderwin and the Tillage
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-07.png)
+> 
+> Felderwin and the Tillage
 
 Felderwin is an excellent location for new adventurers. The war has visited the settlement, and there are criminals and goblins aplenty for the characters to defeat.
 
-_**Short Uprising (Any Level).**_ The characters find themselves in Felderwin when Starosta Theanor gives in to the [[Cerberus Assembly]] and raises taxes. The people of Felderwin, still trying to recoup their losses from the Kryn attack, begin to riot, demanding that the starosta step down so they can elect a replacement. Both sides pressure the characters to join them in the conflict.
-
-_**A Price Paid in Blood (Low Level).**_ A series of macabre murders have shaken the denizens of Felderwin. The watchmaster has heard rumors that a [blood hunter](https://www.dndbeyond.com/monsters/blood-hunter) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#BloodHunter "chapter 7")) recently arrived in the city and hires the characters to hunt down the possible murderer. When they finally find the [[blood hunter]], she tries to convince them that the murders are the fault of a rakshasa that's secretly living within the settlement as the watchmaster. The characters must either help the [[blood hunter]] take down the watchmaster or capture the [[blood hunter]] to claim their reward.
+**Adventures**:: [[Short Uprising (Any Level)]]
+![[Short Uprising (Any Level)]]
+**Adventures**:: [[A Price Paid in Blood (Low Level)]]
+![[A Price Paid in Blood (Low Level)]]

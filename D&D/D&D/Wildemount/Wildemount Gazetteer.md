@@ -1,5 +1,5 @@
 ## [[Wildemount]] Gazetteer
-
+**Location**:: [[INDEX]]
 > ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-01.jpg)
 > The beauty and danger of [[Wildemount]] are all but lost on a party of adventurers traversing the [[Brokenveil Bluffs]]
 

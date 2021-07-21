@@ -1,7 +1,10 @@
 ### Silberquel Ridge
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 
 The imposing mountain range known as the Silberquel Ridge extends across the middle of [[Western Wynandir]], dividing the [[Marrow Valley]] from the [[Pearlbow Wilderness]]. A range of jagged mountain tops visible from most cities in the empire, the Silberquel Ridge is an important landmark, but it is best known for its seemingly endless cache of rich metals and deep caverns. The ore and gems mined here provided [[Rexxentrum]] with most of its wealth and funded the rise of the [[Dwendalian Empire]]. The surface veins are the largest source of silver in [[Wildemount]], but the deeper paths reveal other precious metals, gems, and forgotten remnants of pre-[[Divergence]] curiosities — and many deadly beasts that have come to call those ancient corners home.
 
 Traveling across the Silberquel Ridge is its own adventure, given the number of dangerous creatures that inhabit the region's mountains and tunnels. Caravans, miners, and prospectors hire adventurers to guard them as they travel and work in the mountains.
 
-_**Hell Hound Purge (Mid Level).**_ Marta Denizreitch (chaotic neutral, female, human [mage](https://www.dndbeyond.com/monsters/mage)) lives in a remote tower where she experiments with conjuration magic to develop new spells. The [[Cerberus Assembly]] funds Marta's research. Years ago, Marta had a problem with [trolls](https://www.dndbeyond.com/monsters/troll) attacking the tower, so she summoned [hell hounds](https://www.dndbeyond.com/monsters/hell-hound) to roam the wilds near her tower and keep the trolls at bay. She does not want the hell hounds to cause problems down the line, so she hires the characters to hunt a few to keep the population down. The characters discover they aren't the only ones killing hell hounds: a [hill giant](https://www.dndbeyond.com/monsters/hill-giant) and a small gang of trolls are killing the hounds in preparation for an attack on Marta's tower!
+**Adventures**:: [[Hell Hound Purge (Mid Level)]]
+![[Hell Hound Purge (Mid Level)]]

@@ -1,4 +1,6 @@
 ### Cyrengreen Forest
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
 At the southwestern end of Wynandir, the Cyrengreen Forest hugs the base of the [[Cyrios Mountains]]. The forest is the second-largest source of lumber in the empire, with logging companies from [[Deastok]] and [[Trostenwald]] working the north and south sides, respectively. Most logging is limited to the outer tree line due to dangers in the shady interior of the Cyrengreen. The lush heart of the forest is home to some wilder families who brave the dangers of the forest to live a freer life, as the tax reapers are reticent to visit too often. There are also scores of abandoned cabins scattered throughout the deep woods where it is believed folks were either forced to flee or were killed by the wild denizens of the forest. To stumble on such a site is considered terrible luck; local tales speak of hungry fey spirits and shapeshifting hunters that stalk the dark shadows of the forest in search of prey to toy with. The Cyrengreen Forest is also one of the wild sanctuaries of those cursed with lycanthropy, though the sects of those shackled with this terrible affliction are divided between those who struggle to contain their feral hunger and those who embrace their predatory instincts. The conflict between these factions builds with each passing moon cycle, threatening to spill into the nearby cities.
 
@@ -6,8 +8,8 @@ While the dangers of the Cyrengreen include the more common threats such as subt
 
 Crossing through the Cyrengreen Forest is an adventure that has travelers looking over their shoulders at every stray sound. The creatures in the shady depths of Cyrengreen love to toy with travelers.
 
-_**Lumberjack Madness (Low Level).**_ Lumberjacks from [[Deastok]] and [[Trostenwald]] working in the Cyrengreen have reported strange events. They fall asleep randomly on the job, witness twinkling lights, see horrific nightmarish creatures for mere moments — and some even turn into beasts such as frogs and rabbits for short periods of time. The loggers are spooked and refuse to return to their work until the characters deal with the problem. The problem is [pixies](https://www.dndbeyond.com/monsters/pixie) — they're upset that the loggers are tearing their forest apart! The good fey are stubborn but might cut a deal with the loggers if the characters agree to negotiate.
-
-_**More Perfect People (Mid Level).**_ Reports of wolves attacking travelers on the road from [[Deastok]], [[Kamordah]], and [[Trostenwald]] have become more frequent. All travelers tell the same story: the beasts tear through caravans, biting as many people as possible before moving on. There is never a death toll. The reason for the strange attacks becomes obvious during the next full moon when the bite victims turn into [werewolves](https://www.dndbeyond.com/monsters/werewolf). The characters are hired to find and stop the lycanthropes spreading the curse.
-
+**Adventures**:: [[Lumberjack Madness (Low Level)]]
+![[Lumberjack Madness (Low Level)]]
+**Adventures**:: [[More Perfect People (Mid Level)]]
+![[More Perfect People (Mid Level)]]
 The instigating werewolves live in the dark heart of the Cyrengreen. They call themselves the Brotherhood of the Moon and aim to spread their curse throughout the [[Dwendalian Empire]]. They believe their mission will make humanoids evolve into a stronger, more perfect people.

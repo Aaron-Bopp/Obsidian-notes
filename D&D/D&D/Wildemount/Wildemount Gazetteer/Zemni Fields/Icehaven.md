@@ -1,14 +1,16 @@
 ### Icehaven
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 
-**Population:** 5,090 (71% [[humans]], 12% [[elves]], 10% [[dwarves]], 7% other races)
+**Population**:: 5,090 (71% [[humans]], 12% [[elves]], 10% [[dwarves]], 7% other races)
 
-**Government:** Though technically run by Ernath Noack, the Crown-appointed starosta, the town is mostly ruled by a committee of locals who pay little mind to the will of the [[Dwendalian Empire]].
+**Government**:: Though technically run by Ernath Noack, the Crown-appointed starosta, the town is mostly ruled by a committee of locals who pay little mind to the will of the [[Dwendalian Empire]].
 
-**Defense:** A small company of [[Crownsguard]] keeps the peace, while a fresh group of Righteous Brand soldiers have been assigned to the docks.
+**Defense**:: A small company of [[Crownsguard]] keeps the peace, while a fresh group of Righteous Brand soldiers have been assigned to the docks.
 
-**Commerce:** Resources are limited, so mostly basic supplies and standard arms are available. Relics recovered from [[Eiselcross]] can occasionally pass through, providing strange and exotic curiosities for acquisition.
+**Commerce**:: Resources are limited, so mostly basic supplies and standard arms are available. Relics recovered from [[Eiselcross]] can occasionally pass through, providing strange and exotic curiosities for acquisition.
 
-**Organizations:** Simple temples mark city squares, while hidden shrines to Crown-forbidden gods lurk on the outskirts of the town. The empire continues to push for stronger influence, and [[The Myriad|Myriad]] operatives interested in [[Eiselcross]]'s mysteries are also beginning to work their way into Icehaven.
+**Organizations**:: Simple temples mark city squares, while hidden shrines to Crown-forbidden gods lurk on the outskirts of the town. The empire continues to push for stronger influence, and [[The Myriad|Myriad]] operatives interested in [[Eiselcross]]'s mysteries are also beginning to work their way into Icehaven.
 
 Along the icy northeastern shores of the [[Zemni Fields]] stands the only port in [[Western Wynandir]]. Icehaven is home to the dozen or so ships in the region outfitted to wander the ice floes of the Frigid Depths, and is the central trade post and only open port for hunters and adventurers who brave the [[Saltwallow Bog]] or the frozen north toward [[Eiselcross]]. The inhabitants of Icehaven earn their living ice fishing within the oft-frozen [[Kaltenloch]], or are trappers who stalk the [[Velvin Thicket]] or edges of the [[Pearlbow Wilderness]] and return to peddle their furs and meats. Some more confident individuals might try their hand at netting some [[Eiselcross]] crab, a rare delicacy throughout the empire, but the shifting, freezing weather makes such endeavors dangerous.
 
@@ -22,4 +24,5 @@ Surrounding the small inlet harbor, Icehaven is a cramped, crescent-shaped town 
 
 As a remote port town, Icehaven has need of adventurers to enforce the law, escort caravans, and find supplies in the wilderness.
 
-_**Snowed In (Any Level).**_ While the characters are in Icehaven, a terrible blizzard strikes, leaving many residents to fend for themselves inside their homes. As the snowdrifts rise and wind howls, a gang of criminals or monsters comes in to cause mayhem and take whatever they like. If the characters don't brave the snow to stop these villains, no one will.
+**Adventures**:: [[Snowed In (Any Level)]]
+![[Snowed In (Any Level)]]

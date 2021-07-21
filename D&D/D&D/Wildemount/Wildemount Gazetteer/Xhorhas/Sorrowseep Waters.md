@@ -1,4 +1,6 @@
 ### Sorrowseep Waters
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
 The Sorrowseep Waters are one of the twin lakes that dominate the central wastes of [[Xhorhas]]. These dark waters are home to a curious ecosystem of swamp beasts, amphibious behemoths, [[moorbounders]], and apocryphal creatures said to live within the lake itself. Fishers, hunters, and trappers often brave the surrounding knotted boughs and stinking mud of Sorrowseep Marsh in search of unique prey, while healers or their hirelings also risk the journey to collect the waters of the lake, which are believed to have restorative qualities. The crisp waters of the lake branch out across the wastelands of [[Xhorhas]], feeding rivers and sustaining life throughout the scarred plains.
 
@@ -6,6 +8,7 @@ The true depth of the Sorrowseep has yet to be discovered due to the density of 
 
 Characters exploring the Sorrowseep Waters encounter all manner of strange creatures and eccentric denizens.
 
-_**Something Borrowed (Low Level).**_ One of the characters is contacted by a close childhood friend or family member to announce their sudden betrothal to a passionate love interest. This union is taboo, however, for the love interest is actually a [green hag](https://www.dndbeyond.com/monsters/green-hag). The character is invited to be a member of the wedding party—but something about this marriage seems fishy.
-
-_**Entangled (High Level).**_ A gnome inventor claims to have created a submersible vessel that can survive the lightless journey through the Tanglebed, past the known depths of the Sorrowseep. He hires the characters to help him helm the machine. Together, they discover a mysterious location beneath the lake, where a [marid](https://www.dndbeyond.com/monsters/marid) is gathering a cult to purge the nearby rivers of civilization.
+**Adventures**:: [[Something Borrowed (Low Level)]]
+![[Something Borrowed (Low Level)]]
+**Adventures**:: [[Entangled (High Level)]]
+![[Entangled (High Level)]]

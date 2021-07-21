@@ -1,4 +1,6 @@
 ### [[Darktow]] Isle
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
 The volcanic rock that forms the jagged cliffs of [[Darktow]] Isle is wildly varied in height and shape, creating the impression of a massive, toothy maw. These rocks hide many caverns and tunnels that have inspired numerous local myths of secret hideouts and legendary beasts. The island is barren of greenery, save for the verdant basin in its center, known to locals as the Pit. This small pocket of jungle is the largest source of natural resources on the isle, and its fruit, game, and timber sustain the pirate haven in lean times.
 

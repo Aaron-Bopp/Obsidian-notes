@@ -1,4 +1,6 @@
 ### Iothia Moorland
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
 The Iothia Moorland fills much of the central valley of [[Xhorhas]], a landscape of hilly grasslands and muddy fields that stretches from horizon to horizon, framed by soggy swamps and massive lakes. The Moorland is surprisingly fertile, supporting a robust ecosystem of game and beasts that call the valley home. The roving Dolorav and Koshtask clans claim the Moorlands as their hunting grounds, fighting back the deadly predators that stalk the marshes while also fighting intruders and each other.
 
@@ -14,4 +16,5 @@ The Koshtask clan is a powerful union of ornery orc marauders and abandoned [[wa
 
 These muck-laden fields of swamp and grass hide many lost secrets that have sunk beneath the mud—and deadly denizens intent on keeping those secrets hidden.
 
-_**Lost Resting Place (Mid Level).**_ A disorganized clan of [cyclopes](https://www.dndbeyond.com/monsters/cyclops) wander the moorland, searching for the grave of their founding champion who died hundreds of years ago. They might parlay with the characters and are willing to trade fine, rare items for aid in seeking out their champion's resting place. When the grave is discovered, the cyclopes immediately begin a ceremony that raises the bones of their founder from the muck into a new existence as a giant. The characters can decide to halt the ritual, angering the cyclopes, or learn later that the clan is terrorizing the tribes of the moorland.
+**Adventures**:: [[Lost Resting Place (Mid Level)]]
+![[Lost Resting Place (Mid Level)]]

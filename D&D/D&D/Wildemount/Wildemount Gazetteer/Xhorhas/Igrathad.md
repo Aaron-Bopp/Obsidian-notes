@@ -1,14 +1,16 @@
 ### Many Hosts of Igrathad
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
-**Population:** 6,750 (41% [[goblinkin]], 19% [[orcs]], 15% humanoids, 25% other races)
+**Population**:: 6,750 (41% [[goblinkin]], 19% [[orcs]], 15% humanoids, 25% other races)
 
-**Government:** A local leader governs independently alongside a Kryn representative in each of the seven villages. The village leaders occasionally convene as a council.
+**Government**:: A local leader governs independently alongside a Kryn representative in each of the seven villages. The village leaders occasionally convene as a council.
 
-**Defense:** A small force of [[Aurora Watch]] soldiers weave through the villages, and each village maintains its own army of warriors.
+**Defense**:: A small force of [[Aurora Watch]] soldiers weave through the villages, and each village maintains its own army of warriors.
 
-**Commerce:** Most goods or services can be found within the villages, though it might take some searching, and strange or rare commodities are occasionally available from merchants or scavengers. Inns and taverns are scattered throughout the villages.
+**Commerce**:: Most goods or services can be found within the villages, though it might take some searching, and strange or rare commodities are occasionally available from merchants or scavengers. Inns and taverns are scattered throughout the villages.
 
-**Organizations:** Small shrines and temples can be found in each village, and they each maintain their own marketplace and merchant unions. The [[Children of Malice]] have begun to infiltrate many of the villages.
+**Organizations**:: Small shrines and temples can be found in each village, and they each maintain their own marketplace and merchant unions. The [[Children of Malice]] have begun to infiltrate many of the villages.
 
 South of the [[Sorrowseep Waters]], where the fields are more fertile, lies a scattered network of seven villages with robust communities of [[goblinkin]], [[orcs]], and giants, known as the Many Hosts of Igrathad. The seven villages are Kranad, Broonbobah, Aruuth, Oshinik-Ka, Wrathfall, Unyeethi, and Dodafir.
 
@@ -40,4 +42,5 @@ The seven villages are connected by muddy paths that cut through the rocky grass
 
 Characters could come to Igrathad seeking help from a powerful giant, or to help keep the villages united, or, conversely, to try to drive them apart.
 
-_**Necromancer's Army (Mid Level).**_ An exiled Dolorav necromancer has allied himself with a clan of bloodthirsty [minotaurs](https://www.dndbeyond.com/monsters/minotaur) to manufacture an army of undead, whose slow expansion poses a threat to Igrathad. Each of Igrathad's seven villages appoints a champion to march with Dolorav and Koshtask warriors against this cruel usurper and his legion of unholy monstrosities. The characters must join the fight if they want the villages to help them with some other matter.
+**Adventures**:: [[Necromancer's Army (Mid Level)]]
+![[Necromancer's Army (Mid Level)]]

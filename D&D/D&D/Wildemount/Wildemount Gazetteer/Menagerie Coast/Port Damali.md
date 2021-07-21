@@ -1,14 +1,16 @@
 ### Port Damali
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
-**Population:** 82,110 (51% [[humans]], 16% [[halflings]], 15% [[elves]], 18% other races)
+**Population**:: 82,110 (51% [[humans]], 16% [[halflings]], 15% [[elves]], 18% other races)
 
-**Government:** The city is helmed by Marquis [[Olesya Lapidus]], who works with local guildmasters and nobles, bolstered by the distant support of the other [[Clovis Concord]] members.
+**Government**:: The city is helmed by Marquis [[Olesya Lapidus]], who works with local guildmasters and nobles, bolstered by the distant support of the other [[Clovis Concord]] members.
 
-**Defense:** Port Damali maintains a sizable army alongside the many [[Zhelezo]] who guard the city. Nobles and wealthy merchants keep bodyguards.
+**Defense**:: Port Damali maintains a sizable army alongside the many [[Zhelezo]] who guard the city. Nobles and wealthy merchants keep bodyguards.
 
-**Commerce:** Nearly any sort of goods or services can be found here, legal and otherwise. The high volume of travelers means that there are plentiful inns, taverns, underground markets, and rare auctions.
+**Commerce**:: Nearly any sort of goods or services can be found here, legal and otherwise. The high volume of travelers means that there are plentiful inns, taverns, underground markets, and rare auctions.
 
-**Organizations:** Temples to the Prime Deities are common, and some notable shrines to the Betrayer Gods are secreted away within this large city. The numerous merchant guilds run most businesses, but [[the Myriad]] is the real power behind the guilds themselves.
+**Organizations**:: Temples to the Prime Deities are common, and some notable shrines to the Betrayer Gods are secreted away within this large city. The numerous merchant guilds run most businesses, but [[the Myriad]] is the real power behind the guilds themselves.
 
 The jewel of the [[Menagerie Coast]], the original Marquesian colony, and the unofficial capital of free trade outside the empire, Port Damali is a bustling city filled with music, color, and commerce. The massive port hosts ships from all around the world, creating a mishmash of cultures and trades that mingle to form the society of Port Damali. Trade routes splinter from all other sides of the city to ensure rapid transport of goods to destinations throughout [[Wildemount]] and beyond.
 
@@ -36,22 +38,18 @@ Those who fail [[the Myriad]] are shackled and shipped off as living contraband.
 
 The largest city on the western coast of [[Wildemount]], the resplendent seaside metropolis of Port Damali is nestled against the Tyodan River where it meets the Lucidian Ocean. The city is built atop a cluster of leveled hills, and slight changes of elevation physically mark the variation between wards. Past the farmsteads, beyond the tents and ramshackle homes that mark the boundaries of the city, lies the Prism Path, a series of connecting main roads made of smooth, multicolored stones reclaimed from the ocean shores. These roads carve through the interior wards: the Tumbledowns, the Beaded Alley, the Crescents, the Gilded Esplanade, and the Larboard Light.
 
-_**The Tumbledowns.**_ Within the Tumbledowns, the majority of citizens live in cramped structures of varied shape and design, from clay domes to thatched huts to warped wooden shacks. The architecture resembles a mishmash of cultures from all over [[Exandria]], which, along with the Prism Path, creates a pleasant patchwork atmosphere even in the more run-down regions. A number of small temples are also situated in the Tumbledowns.
-
-_**The Beaded Alley.**_ The Beaded Alley is the center of general commerce and trade within Port Damali, named for the decorative cords that hang over each intersection bearing all manner of streamers and dangling beads. Businesses both young and old all mingle here, competing for the attention of anyone with coin. Many bards and performers bring an air of lively irreverence to the bustling atmosphere.
-
-_**The Crescents.**_ The ward known as the Crescents was named in reference to the seven large, moon-shaped statues that were a gift from the Alkamar family when the city was founded. This affluent area houses competing guild families and well-connected nobles who wish to live near the politics of the city or the delights of the port. The beautiful Pearl Shrine temple to [[Avandra]] and the Sunfall Sanctuary temple to [[Pelor]] reside within the Crescents.
-
-_**The Gilded Esplanade.**_ The Gilded Esplanade is definitely the most extravagant locale within Port Damali. Each street is lined with the most lauded of artists and performers, with markets lush with expensive wares and high-end imports from around the world. Home to the Auction House and venues for recurring festivities, as well as the spire-like skyport, the Esplanade is known to be the sparkling locale that comes to mind whenever people mention Port Damali.
-
-_**The Larboard Light.**_ The massive harbor that forms the southern edge of the city is known as the Larboard Light. This upscale dockside region is as lavish as docks come. Dozens of ships come into port every day, carrying goods and gold from all over, and many visitors coming to briefly live like a king with the many amusements the city has to offer. The office of the marquis is located on the northern end of this ward.
-
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.2-Port-Damali.jpg)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.2-Port-Damali.jpg)
-
-Map 3.2: Port Damali [View Player Version](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.2-Port-Damali-player.jpg)
+![[The Tumbledowns]]
+![[The Beaded Alley]]
+![[The Crescents]]
+![[The Gilded Esplanade]]
+![[The Larboard Light]]
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.2-Port-Damali.jpg)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.2-Port-Damali.jpg)
+> 
+> Map 3.2: Port Damali [View Player Version](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.2-Port-Damali-player.jpg)
 
 Between the [[Clovis Concord]], [[the Myriad]], [[the Revelry]], skyships, auctions, and more, adventure abounds within the colorful city of Port Damali.
 
-_**Mephit Madness (High Level).**_ The [marid](https://www.dndbeyond.com/monsters/marid) who was freed beneath the city isn't pleased about its incarceration. Every day, it summons [steam mephits](https://www.dndbeyond.com/monsters/steam-mephit) to terrorize the people of Port Damali with pranks and mischief. The characters are hired to discover the source of the mephit problem and solve it. They must face the marid in its lair, where they might learn the truth of the city's steam power.
-
-_**Hot Purchase (Epic Level).**_ The characters aim to legally or illegally acquire a powerful item from the Exalted Collection Auction House. They could want this item for themselves or be hired to acquire it for [[the Revelry]], [[the Myriad]], or another faction. While the characters attempt to claim the item, they are confronted by a [balor](https://www.dndbeyond.com/monsters/balor) and a crew of demons who were charged by a demon lord to claim the same item.
+**Adventures**:: [[Mephit Madness (High Level)]]
+![[Mephit Madness (High Level)]]
+**Adventures**:: [[Hot Purchase (Epic Level)]]
+![[Hot Purchase (Epic Level)]]

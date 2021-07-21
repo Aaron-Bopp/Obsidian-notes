@@ -1,4 +1,6 @@
 ### Ghor Veles
+**Tag**:: #Exandria/Locale/Wynandir/Blightshore
+**Location**:: [[Blightshore]]
 
 The ruined keep at the heart of this crumbling city once served as an arcane repository and research facility for the Betrayer Gods during their pre-Calamity ascent to power. Artifacts and wondrous items from the [[Age of Arcanum]] are rumored to linger within its shadow-haunted vaults, lying in wait for those brave or foolish enough to challenge the citadel's timeless guardians. Now, its decaying battlements stand as a stark monument to [[the Calamity]]'s unstoppable devastation.
 
@@ -10,9 +12,9 @@ Ghor Veles is pockmarked by crumbling houses and dilapidated fortresses, and cou
 
 Only the undead horrors beneath Ghor Veles rival the cutthroat grave robbers that characters might encounter among the crumbling ruins.
 
-_**Shadow Essence (Mid Level).**_ The characters are hired by [[Cerberus Assembly]] sages in [[New Haxon]] to gather a rare magical ingredient—shadow essence—that can be collected from dead [gloomstalkers](https://www.dndbeyond.com/monsters/[[gloomstalker]]) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#[[Gloomstalker]] "chapter 7")). As gloomstalkers are known to circle above Ghor Veles like vultures, the sages ask the characters to travel there, slay a [[gloomstalker]], and collect its shadow essence in a specially made flask. The sages warn the characters not to linger near Ghor Veles, lest they fall prey to the terrible creatures lurking in its haunted fortress.
-
-_**Of Vaults and Vengeance (High Level).**_ One or more of the characters are kidnapped by minions of [Oracs the Enduring](https://www.dndbeyond.com/monsters/oracs-the-enduring) (chaotic evil, male, ancient black dracolich) and are carried away to the vaults below Ghor Veles for indoctrination and necromantic experimentation. With the help of a [core spawn seer](https://www.dndbeyond.com/monsters/core-spawn-seer) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#CoreSpawnSeer "chapter 7")) from the [[Miskath Pit]], the dracolich and his minions are weaponizing their mortal enemies to gruesome effect. As one half of the party struggles to survive captivity, the rest of the characters must plot their harrowing rescue.
-
+**Adventures**:: [[Shadow Essence (Mid Level)]]
+![[Shadow Essence (Mid Level)]]
+**Adventures**:: [[Of Vaults and Vengeance (High Level)]]
+![[Of Vaults and Vengeance (High Level)]]
 > [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-26.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-26.png)
 > Ghor Veles

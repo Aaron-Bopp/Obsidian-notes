@@ -1,4 +1,6 @@
 ### Rime Plains
+**Tag**:: #Exandria/Locale/Wynandir/GreyingWildlands
+**Location**:: [[Greying Wildlands]]
 
 These fields of rolling tundra and bursts of boreal forest stretch on and on, covering the southeastern [[Greying Wildlands]]. Wild muskox and snow foxes wander across the rocky grassland, as wolves, saber-toothed tigers, and other beasts hunt to survive the freezing nights. [[Humans]] have not yet encroached on this region, and the people of [[Uthodurn]] abandoned their expansion into the plains, so wayfaring [[orcs]] and goblinoid bands have claimed areas of the region unchallenged. The Rime Plains are a mostly open, untamed wilderness where survival depends on one's ability to endure the elements and navigate the wilds skillfully.
 

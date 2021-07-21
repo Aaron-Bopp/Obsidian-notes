@@ -1,22 +1,24 @@
 ### Hupperdook
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
-**Population:** 12,090 (76% [[gnomes]], 10% [[dwarves]], 8% [[humans]], 6% other races)
+**Population**:: 12,090 (76% [[gnomes]], 10% [[dwarves]], 8% [[humans]], 6% other races)
 
-**Government:** Starosta Emma Zezbok, who has ruled for two centuries, works with elected officials and the major houses of industry.
+**Government**:: Starosta Emma Zezbok, who has ruled for two centuries, works with elected officials and the major houses of industry.
 
-**Defense:** A small number of [[Crownsguard]] are backed by a larger civilian militia of volunteer soldiers. Many war machines and engines also defend the city.
+**Defense**:: A small number of [[Crownsguard]] are backed by a larger civilian militia of volunteer soldiers. Many war machines and engines also defend the city.
 
-**Commerce:** A strong industry around metals, mining, tinkering, and entertainment makes most basic supplies and some rarer goods available. Upper Hupperdook has many taverns, inns, and places of [[The Revelry|revelry]].
+**Commerce**:: A strong industry around metals, mining, tinkering, and entertainment makes most basic supplies and some rarer goods available. Upper Hupperdook has many taverns, inns, and places of [[The Revelry|revelry]].
 
-**Organizations:** Industrial families are heavily invested in the city and its business. Temples to empire-approved gods, especially [[Moradin]], are easy to find.
+**Organizations**:: Industrial families are heavily invested in the city and its business. Temples to empire-approved gods, especially [[Moradin]], are easy to find.
 
 The gnomish community of Hupperdook is built along the eastern base of the [[Silberquel Ridge]], marked by the ever-rising columns of dark smoke and steam. Predating the empire, Hupperdook remained autonomous until the Crown absorbed the community through diplomatic agreements over two centuries ago. This smoke-stacked city is now the heart of industry in the empire, manufacturing technological marvels and large-scale weapons of war for the [[Dwendalian Empire]].
 
 The gnomish culture within Hupperdook prizes hard work and hard play. Family trades vary from coal mining and clockwork development to practical enchantment and the brewing of zesty libations. Within the bounds of the city, a general air of upbeat anticipation frames the day-to-day activities of residents as they bound their way toward dusk.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-08.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-08.png)
-
-Fireworks over Hupperdook
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-08.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-08.png)
+> 
+> Fireworks over Hupperdook
 
 For as long as the people of Hupperdook have lived on the mountain, they've been pushing to better their respective trades. The ten-hour work days are long and sometimes arduous, as sparks fly and clangs of metal ring through the city, but when dusk comes, the whistles blow and the carousing begins. Nearly every evening is a wild party celebrating the end of a productive day. Music, fireworks, dancing, and lots and lots of alcohol have given Hupperdook a reputation as one of the rowdiest locales within the empire. Such a lifestyle can be taxing on folk not used to such grueling labor and formidable merriment, but as the saying goes, "ya come here for an early grave worth earning."
 
@@ -38,6 +40,7 @@ The more charming, residential region of Upper Hupperdook sits about two hundred
 
 The nearby [[Silberquel Ridge]] is a ready source of dangerous beasts and unnatural dangers, while the evening celebrations of the city conceal all sorts of shenanigans.
 
-_**Life Is a Drag (Any Level).**_ The annual Iron Runway celebration is seeking entertainers to wow the nobility with show-stopping, gender-bending performances and delightfully bawdy humor. The characters can choose to participate for an impressive top prize, or be hired to guard the event, which is known to get a little rowdy.
-
-_**A Hungry Problem (Low Level).**_ An illegally transported [rust monster](https://www.dndbeyond.com/monsters/rust-monster) escaped from its cage in the night, nested within the Silberquel Mines, and gave birth to a small brood. The hungry creatures now threaten to consume the veins of ore needed for the empire's war effort, unless the characters manage to slay or capture them.
+**Adventures**:: [[Life Is a Drag (Any Level)]]
+![[Life Is a Drag (Any Level)]]
+**Adventures**:: [[A Hungry Problem (Low Level)]]
+![[A Hungry Problem (Low Level)]]

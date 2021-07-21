@@ -1,4 +1,6 @@
 ### Far Hharom
+**Tag**:: #Exandria/Locale/Wynandir/Blightshore
+**Location**:: [[Blightshore]]
 
 Beyond the [[Ebonglass Massif]]'s hyaline peaks, a lonely expanse of moorland stretches northward toward the icy waters of the Frigid Depths. Though the landscape is drab and featureless, the peninsula known as Far Hharom is littered with the barrows of a long-forgotten barbarian people, who vanished centuries before [[the Calamity]] ravaged the [[Miskath Strand]]. Here and there, gelid bogs home to bizarre flora and fauna dot the landscape. And all around, an obstinate air of doom lingers among the peninsula's perpetual howling winds.
 
@@ -12,6 +14,7 @@ There are rumors of a frightening clan of amphibious humanoids who dwell along t
 
 The northern peninsula of [[Blightshore]] is a remote and unwelcoming place, but characters in search of secret histories and treasured lore will find it most inviting.
 
-_**Deep Ones of Far Hharom (Low Level).**_ A coastal storm causes the characters' ship to run aground on the northern shore of Far Hharom. As they take stock of the damage and make plans to head inland, waves of [kuo-toa](https://www.dndbeyond.com/monsters/kuo-toa) converge on the ship and attack them.
-
-_**It Kills at Night (Mid Level).**_ While exploring a Far Hharom barrow, the characters are surprised to discover a group of spooked travelers who have taken shelter within. Instead of the subterranean wights and poltergeists of legend, these survivors fear an even greater threat that stalks the moorland at night—something so supernaturally horrible, they must huddle in darkness every evening to evade it as they wearily cross the accursed landscape.
+**Adventures**:: [[Deep Ones of Far Hharom (Low Level)]]
+![[Deep Ones of Far Hharom (Low Level)]]
+**Adventures**:: [[It Kills at Night (Mid Level)]]
+![[It Kills at Night (Mid Level)]]

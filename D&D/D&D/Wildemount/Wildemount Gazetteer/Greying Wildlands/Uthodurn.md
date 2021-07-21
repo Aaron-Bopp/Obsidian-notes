@@ -1,22 +1,24 @@
 ### Uthodurn
+**Tag**:: #Exandria/Locale/Wynandir/GreyingWildlands
+**Location**:: [[Greying Wildlands]]
 
-**Population:** 26,240 (56% [[dwarves]], 36% [[elves]], 4% [[gnomes]], 4% other races)
+**Population**:: 26,240 (56% [[dwarves]], 36% [[elves]], 4% [[gnomes]], 4% other races)
 
-**Government:** A diarchy between the dwarven and elven monarchs rules over the populace, each leader supported by a council of nobles who share the responsibilities of overseeing the city and its functions.
+**Government**:: A diarchy between the dwarven and elven monarchs rules over the populace, each leader supported by a council of nobles who share the responsibilities of overseeing the city and its functions.
 
-**Defense:** Uthodurn maintains a well-trained army of Glassblades to keep the peace and stations scouts and skirmishers across the [[Flotket Alps]]. Nobles also employ bodyguards.
+**Defense**:: Uthodurn maintains a well-trained army of Glassblades to keep the peace and stations scouts and skirmishers across the [[Flotket Alps]]. Nobles also employ bodyguards.
 
-**Commerce:** Most basic goods and services are available. Uthodurn's isolation means that imports are limited and inns for outsiders are scarce.
+**Commerce**:: Most basic goods and services are available. Uthodurn's isolation means that imports are limited and inns for outsiders are scarce.
 
-**Organizations:** Numerous temples dot the Volition Disc area of the city, and competing guilds do business under the oversight of the councils. Hidden agents from the [[Tribes of Shadycreek Run]] have begun to find their way into the city.
+**Organizations**:: Numerous temples dot the Volition Disc area of the city, and competing guilds do business under the oversight of the councils. Hidden agents from the [[Tribes of Shadycreek Run]] have begun to find their way into the city.
 
 Hidden among the icy peaks of the [[Flotket Alps]], the northernmost dwarven stronghold of [[Wildemount]] is ensconced in the base of a steep mountain valley. Uthodurn is a bastion of dwarven culture, home to a secluded people who've endured the freezing temperatures and continuous snowfall across the mountains and surrounding lands since they founded the stronghold nearly eight hundred years ago. The [[dwarves]] of Uthodurn are sharp of wit, hairier than their southern brethren, and as unyielding as the rock they live in. The Queen of Uthodurn broke from stubborn dwarven traditions and opened the city's doors to thousands of elven refugees following the destruction of [[Molaesmyr]] nearly three centuries ago. While there have been moments of conflict between the [[dwarves]] and [[elves]] as ancient grudges are briefly revived, the society within these fire-warmed stone halls has grown into a unique union of both cultures.
 
 Beyond the iron doors of the city, the wildlands surrounding the underground stronghold are brutally cold and battered by cutting winds. The people of Uthodurn hunt and track in bursts, like sudden flurries of snow, stalking the wild white bison and cliffneck goats that call the [[Flotket Alps]] home. The [[dwarves]] and [[elves]] of Uthodurn have adapted to their environment, becoming skilled hunters and trackers as well as hearty travelers used to persisting through extreme conditions. As the hunter's saying goes, "squeezing water from a stone might be hard, but snaring a rabbit from the Flots is harder." A strong martial force is necessary to combat dangers such as frost giant clans and snow-faring goblinoid bands that hunt throughout the slopes and caverns of the mountain range, and the masters of Uthodurn have trained fierce warriors and spellslingers.
 
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-16.png)
-
-The fiery volcano [[Kravaraad]] looms over the snow-covered [[Flotket Alps]], home of the [[Diarchy of Uthodurn]]
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-16.png)
+> 
+> The fiery volcano [[Kravaraad]] looms over the snow-covered [[Flotket Alps]], home of the [[Diarchy of Uthodurn]]
 
 Uthodurn has the unique distinction of being the only place in [[Wildemount]] where dwarven and elven lifestyles and traditions come together within one location. The resulting collaborations have created incredible new crafts and means of circumventing the challenges of the region. Dwarven carving techniques blend with elven arcane knowledge to elevate architecture and excavation capabilities. Historical knowledge of the local vegetation meets refined herbalism to cultivate and grow cold-resistant crops. The crafting and smithing techniques of each lineage entwine and complement one another, making Uthodurnian goods that pass beyond the [[Greying Wildlands]] valuable indeed.
 
@@ -38,8 +40,9 @@ At the bottom of the city, the Grand Disc contains the Luddenbrock Mines that pu
 
 Travel to and from Uthodurn is its own adventure, given the severity of the surrounding environment. The Glassblades might also turn to adventurers to help stem the rising tide of crime.
 
-_**Awful Wails (Low Level).**_ The characters are hired by the Glassblades to investigate a series of murders. Ancient [[elves]], old enough to remember the destruction of [[Molaesmyr]], are withering and dying in the streets at night. Witnesses all report hearing the same thing before finding the bodies: a horrible wail. The culprit is Myra Quirn, an [[Elves|elf]] who was turned into a [banshee](https://www.dndbeyond.com/monsters/banshee) when she was left behind as her people fled [[Molaesmyr]], and turned into a vengeful spirit by the dark magic of the ruins. After many years of searching, Myra found her still-living kin in Uthodurn, and she plans to exact revenge on every last [[Elves|elf]] that left her behind.
-
-_**Barren Shelves (Mid Level).**_ Uthodurn's stock of food is running out as winter approaches. The monarchs sponsor a mammoth-hunting contest, offering a prize of 1,000 gp to the team that brings back the largest [mammoth](https://www.dndbeyond.com/monsters/mammoth). If the characters wish to partake, they must hunt and kill the largest mammoth possible, then deal with a rival crew of adventurers that tries to take their kill by force.
-
-_**A Dreadful Bore (High Level).**_ The Kryn mount a daring incursion into Uthodurn, using [purple worms](https://www.dndbeyond.com/monsters/purple-worm) to bore into the subterranean city. After breaching the outer wall of the Grand Disc, Kryn invaders storm the Grandcast Citadel and hold both monarchs hostage after they're pinned down and unable to escape with their captives. The Glassblades turn to the adventurers for help freeing the monarchs and bringing the Kryn invaders to justice.
+**Adventures**:: [[Awful Wails (Low Level)]]
+![[Awful Wails (Low Level)]]
+**Adventures**:: [[Barren Shelves (Mid Level)]]
+![[Barren Shelves (Mid Level)]]
+**Adventures**:: [[A Dreadful Bore (High Level)]]
+![[A Dreadful Bore (High Level)]]

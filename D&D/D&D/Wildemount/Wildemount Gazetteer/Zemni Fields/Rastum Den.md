@@ -1,4 +1,6 @@
 ### Rastum Den
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 
 Hidden among the [[Dunrock Mountains]], north of the [[Pearlbow Wilderness]] and [[Rexxentrum]], is an encampment for breeding and training military griffons. These mighty beasts are used by the Dwendalian griffon riders of the Righteous Brand, some of the best-respected soldiers in the empire.
 

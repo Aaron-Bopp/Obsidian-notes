@@ -1,4 +1,6 @@
 ### Urukayxl
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
 The island of Urukayxl was once the site of the temple of the leviathan Uk'otoa. Many centuries ago, the spiteful followers of [[Zehir]] murdered Uk'otoa's Ki'Nau adherents and used the temple as the seal preventing Uk'otoa from returning to the Material Plane.
 

@@ -1,14 +1,16 @@
 ### Druvenlode
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 
-**Population:** 12,110 (70% [[humans]], 14% [[dwarves]], 9% [[elves]], 7% other races)
+**Population**:: 12,110 (70% [[humans]], 14% [[dwarves]], 9% [[elves]], 7% other races)
 
-**Government:** The city is run by Starosta Uvilia Whek, who oversees the mining guilds. Her rule is supported by Watchmaster Quin Theramast and her [[Crownsguard]].
+**Government**:: The city is run by Starosta Uvilia Whek, who oversees the mining guilds. Her rule is supported by Watchmaster Quin Theramast and her [[Crownsguard]].
 
-**Defense:** A regiment of [[Crownsguard]] help protect the city, as well as the mines. Guildmasters and nobles also maintain personal guards.
+**Defense**:: A regiment of [[Crownsguard]] help protect the city, as well as the mines. Guildmasters and nobles also maintain personal guards.
 
-**Commerce:** Basic supplies, inns, and taverns are easy to find here. Ore and ingots are readily available, and rough, rare metals are traded on occasion.
+**Commerce**:: Basic supplies, inns, and taverns are easy to find here. Ore and ingots are readily available, and rough, rare metals are traded on occasion.
 
-**Organizations:** Several temples can be found across the city. While smaller organizations exist within the city, the mining guilds are by far the most powerful and wealthy merchant groups.
+**Organizations**:: Several temples can be found across the city. While smaller organizations exist within the city, the mining guilds are by far the most powerful and wealthy merchant groups.
 
 Established in the early years following [[the Calamity]], Druvenlode is the primary source of precious metal in [[Western Wynandir]]. Located at the western base of the [[Silberquel Ridge]] by the mouth of the largest silver vein ever found on the continent. Dusty from wind-swept mountain dirt that turns to mud in the wetter seasons, Druvenlode is a far cry from beautiful [[Rexxentrum]] or any of the pastoral villages of the empire. Though the city is wealthy, buildings here were designed for function and storage while the talented architects focused on the noble homesteads and wards of the capital, leaving Druvenlode seemingly rough and rustic by comparison.
 
@@ -20,4 +22,5 @@ Druvenlode is divided into three main areas. Most citizens live in the ramshackl
 
 Adventure can be found in Druvenlode's mines, which occasionally fill up with burrowing beasts, as well as in the city proper, where shady characters are often found indulging in gambling or petty theft.
 
-_**Fire in the Mines (Mid Level).**_ A being made of fire attacked miners from the Surgoth Guild who were working a vein of silver ore. The miners survived but are too scared to go back into the mine. Instead, they gamble their savings away at the Sterling Satchel. If the characters investigate, they find a path of destruction in the mine that leads to a [fire elemental](https://www.dndbeyond.com/monsters/fire-elemental) under the control of Casper Windmouth (neutral evil, male, human [mage](https://www.dndbeyond.com/monsters/mage)). Casper is a gambler with many debts to pay, so he took a job from an anonymous source to scare the miners out. Was it a rival miner's guild? Was it the proprietors of the Sterling Satchel, looking to hang on to their customers day and night? Or was it the owner of the Cabin of Fortune, hoping to bankrupt their competitor's clients?
+**Adventures**:: [[Fire in the Mines (Mid Level)]]
+![[Fire in the Mines (Mid Level)]]

@@ -1,4 +1,6 @@
 ### Issylra
+**Tag**:: #Exandria/Locale/Wynandir/Exandria
+**Location**:: [[Exandria]]
 
 Far northwest of [[Wildemount]], beyond [[Tal'Dorei]] and across the freezing waters of the Frigid Depths and the Ozmit Sea, lies the oldest continent in known Exandrian history. Issylra is thought to be the land where all civilization once emerged and spread in the time of [[the Founding]], making it the focal point of historical study and the epicenter of many faiths. The territory known as Othanzia encompasses a majority of the continent's developed regions, keeping most domains protected and governed by the might of the theocracy of Vasselheim.
 

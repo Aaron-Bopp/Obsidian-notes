@@ -1,14 +1,16 @@
 ### Boroftkrah
+**Tag**:: #Exandria/Locale/Wynandir/GreyingWildlands
+**Location**:: [[Greying Wildlands]]
 
-**Population:** 3,060 (70% [[orcs]], 17% [[Orcs|half-orcs]], 13% other races)
+**Population**:: 3,060 (70% [[orcs]], 17% [[Orcs|half-orcs]], 13% other races)
 
-**Government:** The town is guided by a circle of elder warriors known as the [[Runemarked]].
+**Government**:: The town is guided by a circle of elder warriors known as the [[Runemarked]].
 
-**Defense:** A force of hunter-warriors defends the settlement, but every able-bodied citizen is trained in combat to defend Boroftkrah.
+**Defense**:: A force of hunter-warriors defends the settlement, but every able-bodied citizen is trained in combat to defend Boroftkrah.
 
-**Commerce:** Basic everyday supplies are available, as well as simple crafts and weapons.
+**Commerce**:: Basic everyday supplies are available, as well as simple crafts and weapons.
 
-**Organizations:** A shrine to [[Kord]] sits in the center of the town, but no organizations, religious or otherwise, exist in Boroftkrah.
+**Organizations**:: A shrine to [[Kord]] sits in the center of the town, but no organizations, religious or otherwise, exist in Boroftkrah.
 
 After the orc's creator god [[Gruumsh]] was banished in the [[Divergence]], many of the war clans of his bloody army fled and went into hiding. Splintered from the same throng of Odakar [[orcs]] that held the [[Ashkeeper Peaks]], the leaderless droves migrated northward to the [[Rime Plains]]. Although they were severed from the direct influence of the Ruiner, the directionless [[orcs]] began to succumb to the Ruiner's "gift" of bloodlust. A schism tore the clans asunder, and from the bloodshed emerged a new clan of orcish marauders known as the Jez-Araz.
 
@@ -24,4 +26,5 @@ The settlement of Boroftkrah is a loose collection of tents and shelters surroun
 
 Navigating Boroftkrah is its own adventure. To gain the trust of the [[orcs]], the characters must prove themselves in contests of strength.
 
-_**Storm Celebration (Low Level).**_ When lightning splits the sky, the Boroftkrah [[orcs]] honor [[Kord]] with competitive games that last until the storm breaks. Characters who have earned the [[orcs]]' trust might find themselves volunteered as participants or judges during such a time. Meanwhile, an [orc eye of Gruumsh](https://www.dndbeyond.com/monsters/orc-eye-of-[[gruumsh]]) leads a band of [orc](https://www.dndbeyond.com/monsters/orc) and [orog](https://www.dndbeyond.com/monsters/orog) warriors who have secretly begun worshiping the Ruiner. They plan to display their faith during the contest by turning the games into a bloodbath, hoping to convert other [[orcs]] with the promise of glorious bloodshed, and murder any who resist.
+**Adventures**:: [[Storm Celebration (Low Level)]]
+![[Storm Celebration (Low Level)]]

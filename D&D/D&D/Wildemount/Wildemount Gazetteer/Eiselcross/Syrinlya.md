@@ -1,14 +1,16 @@
 ### Syrinlya
+**Tag**:: #Exandria/Locale/Wynandir/Eiselcross
+**Location**:: [[Eiselcross]]
 
-**Population:** 182 (72% [[dwarves]], 24% [[elves]], 4% other races)
+**Population**:: 182 (72% [[dwarves]], 24% [[elves]], 4% other races)
 
-**Government:** Professor [[Gulrim Shalebrow]] is in charge of Syrinlya, appointed to run the outpost by Queen Fruunast of [[Uthodurn]].
+**Government**:: Professor [[Gulrim Shalebrow]] is in charge of Syrinlya, appointed to run the outpost by Queen Fruunast of [[Uthodurn]].
 
-**Defense:** Syrinlya's inhabitants are explorers capable of defending the settlement.
+**Defense**:: Syrinlya's inhabitants are explorers capable of defending the settlement.
 
-**Commerce:** Syrinlya's explorers are willing to trade for meager belongings. Aoerian items can be sold to the Buyer (see "The Buyer's Hut" below).
+**Commerce**:: Syrinlya's explorers are willing to trade for meager belongings. Aoerian items can be sold to the Buyer (see "The Buyer's Hut" below).
 
-**Organizations:** [[Elves]], [[dwarves]], and a few others from [[Uthodurn]] are the only residents of Syrinlya. Most have no organizational ties.
+**Organizations**:: [[Elves]], [[dwarves]], and a few others from [[Uthodurn]] are the only residents of Syrinlya. Most have no organizational ties.
 
 Syrinlya is a collection of yurts filled with mercenary explorers from [[Uthodurn]] looking to get rich. Professor [[Gulrim Shalebrow]] (see "[Diarchy of Uthodurn](https://www.dndbeyond.com/sources/egtw/factions-and-societies#DiarchyofUthodurn "[[Diarchy of Uthodurn]]")" in chapter 2) runs this outpost with few rules: just an unspoken agreement that all explorers have each other's backs against the harsh environment, just as they would back in their mountain home.
 
@@ -22,8 +24,8 @@ The largest yurt in the outpost is occupied by an [[Elves|elf]] called the Buyer
 
 The main reason for many characters to come to Syrinlya is to seek out Aoerian items for [[Uthodurn]], but there are plenty of other adventures to be had in the outpost.
 
-_**The Arcane Tree (Mid Level).**_ While the characters are in Syrinlya, Morgo Delwur returns from an expedition with a bag of five green seeds from one of [[Eiselcross]]'s [[Aeor|Aeorian]] ruins. The [werebear](https://www.dndbeyond.com/monsters/werebear) lost a seed in the snow when showing them off, and a 15-foot-tall, green tree springs up overnight in the middle of the camp. Whenever a creature casts a spell that restores hit points or deals radiant damage to another creature within 90 feet of the tree, the tree uproots itself from the ground and attacks the creature. After killing the spellcasting creature and other threats, the tree replants its roots. Every 1d10 days the tree remains rooted, a new tree of the same type grows up from the ground within 30 feet. If the trees become a problem, Professor Gulgrim Shalebrow asks the characters to deal with them.
-
+**Adventures**:: [[The Arcane Tree (Mid Level)]]
+![[The Arcane Tree (Mid Level)]]
 The [animated tree](https://www.dndbeyond.com/monsters/animated-tree) uses the [treant](https://www.dndbeyond.com/monsters/treant) stat block, with these changes:
 
 -   It is unaligned.

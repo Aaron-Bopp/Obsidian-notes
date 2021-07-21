@@ -1,14 +1,16 @@
 ### Nogvurot
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 
-**Population:** 15,270 (70% [[humans]], 17% [[dwarves]], 8% [[elves]], 5% other races)
+**Population**:: 15,270 (70% [[humans]], 17% [[dwarves]], 8% [[elves]], 5% other races)
 
-**Government:** Starosta Brumae Luddie handles the affairs of the city with the support of the lawmaster's regiment of [[Crownsguard]]. Nobles under the starosta handle in local administration.
+**Government**:: Starosta Brumae Luddie handles the affairs of the city with the support of the lawmaster's regiment of [[Crownsguard]]. Nobles under the starosta handle in local administration.
 
-**Defense:** A number of [[Crownsguard]] share protective duties with a regiment of Righteous Brand soldiers called the Last Aegis.
+**Defense**:: A number of [[Crownsguard]] share protective duties with a regiment of Righteous Brand soldiers called the Last Aegis.
 
-**Commerce:** Well-stocked trading posts and inns make most supplies readily available, though rare or exotic goods are difficult to locate.
+**Commerce**:: Well-stocked trading posts and inns make most supplies readily available, though rare or exotic goods are difficult to locate.
 
-**Organizations:** There are temples to empire-approved gods, and most businesses are independently run without the oversight of a guild.
+**Organizations**:: There are temples to empire-approved gods, and most businesses are independently run without the oversight of a guild.
 
 A major stop along the Glory Run Road heading eastward from the capital, Nogvurot hosts travelers making their way through the empire, many of whom need provisions and like to buy locally made trinkets as souvenirs of their journey. There is some business to be had in a small mine at the base of the [[Dunrock Mountains]] to the north of the city, but most Nogvurot folk earn their keep by crafting, farming, or joining the local military.
 
@@ -24,4 +26,5 @@ The oblong city is divided between the eastern Aegis Block, which houses the bul
 
 Characters could go to Nogvurot to find someone in the city or to join the Righteous Brand. The city is also a good place for adventurers looking to test their mettle in competitive games against trained soldiers.
 
-_**Traitors in the Midst (Low Level).**_ The characters are approached by Telva Cornwrath (neutral, female, human [spy](https://www.dndbeyond.com/monsters/spy)), who claims to work for the [[Augen Trust]]. She hires the characters to infiltrate the ranks of the Righteous Brand in Nogvurot and discover which soldiers are accepting bribes from the [[Tribes of Shadycreek Run]]. She wants to know which criminal family pays each crooked official. She could be who she claims, or she might be a spy for [[the Myriad]] or one of the Tribes in [[Shadycreek Run]] looking to remove competition. In the latter case, she might not want the characters sticking around as loose ends.
+**Adventures**:: [[Traitors in the Midst (Low Level)]]
+![[Traitors in the Midst (Low Level)]]

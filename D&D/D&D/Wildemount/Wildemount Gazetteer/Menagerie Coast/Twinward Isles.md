@@ -1,4 +1,6 @@
 ### Twinward Isles
+**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
+**Location**:: [[Menagerie Coast]]
 
 A sacred location to the native people of the coast, this pair of surprisingly tall islands are all cliffs, with no beaches. While the surrounding waters are often choppy from the waves that crash against the nearby Mother's Sigh Reef, the seaside cliffs are filled with healthy fruits and game to hunt. At the inception of the [[Clovis Concord]], the Ki'Nau people demanded that the islands' natural resources were to always remain untouched. This agreement has been dutifully upheld over the centuries.
 

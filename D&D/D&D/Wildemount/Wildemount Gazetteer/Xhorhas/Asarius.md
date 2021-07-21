@@ -1,22 +1,24 @@
 ### Asarius, the City of Beasts
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
-**Population:** 48,025 (41% goblinoids, 32% [[gnolls]], 10% [[Dark Elves]], 17% other races)
+**Population**:: 48,025 (41% goblinoids, 32% [[gnolls]], 10% [[Dark Elves]], 17% other races)
 
-**Government:** [[Den Olios]] governs the city, the laws of which are enforced and monitored by captains of the [[Aurora Watch]].
+**Government**:: [[Den Olios]] governs the city, the laws of which are enforced and monitored by captains of the [[Aurora Watch]].
 
-**Defense:** An impressive army is stationed on the outskirts of the city, comprised of [[Aurora Watch]] soldiers and trained local warriors, as well as mercenaries.
+**Defense**:: An impressive army is stationed on the outskirts of the city, comprised of [[Aurora Watch]] soldiers and trained local warriors, as well as mercenaries.
 
-**Commerce:** Basic supplies and equipment are available, as well as quality arms and some rare goods. Inns and taverns offer austere accommodations.
+**Commerce**:: Basic supplies and equipment are available, as well as quality arms and some rare goods. Inns and taverns offer austere accommodations.
 
-**Organizations:** There are several temples to [[the Luxon]], as well as some shrines to other deities. Merchant unions are beholden to the will of [[Den Olios]]. Meanwhile, [[Lolth]]'s [[Children of Malice]] lurk in the shadows.
+**Organizations**:: There are several temples to [[the Luxon]], as well as some shrines to other deities. Merchant unions are beholden to the will of [[Den Olios]]. Meanwhile, [[Lolth]]'s [[Children of Malice]] lurk in the shadows.
 
 Encircling and covering a massive, cracked hillside in the center of northern [[Xhorhas]], Asarius has grown into a cluttered sprawl of roughshod homesteads, mud huts, and military fortifications that are home to a bustling blend of the many peoples of the [[Kryn Dynasty]]. The city is a cultural hub established by the Kryn for the wilder folk of the surrounding wastes and nomadic peoples who joined the dynasty. The Kryn convinced these [[wastefolk]] to unite under their banner by promising them protection, resources, and, in many cases, enlightenment (followed by conversion to the faith of [[the Luxon]]).
 
 Although the establishment of Asarius was initially fraught, the city quickly grew into a symbol of unity for the scattered cultures of northern [[Xhorhas]], who eschewed the dangerous, competitive fight for survival to instead focus on building a community. In the generations since, the city has blossomed into a tangled web of quirky neighborhoods, filled with industry and musky scents. The muddy plains outside are tilled for hearty roots and produce, monstrous livestock are herded and kept in large pens and pits, and a growing force of [[Aurora Watch]] soldiers train and prepare to battle the forces of the [[Dwendalian Empire]].
 
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-21.png)
-
-Asarius, the City of Beasts
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-21.png)
+> 
+> Asarius, the City of Beasts
 
 The wastes have always bred strong peoples who could survive despite the harsh environment, deadly wildlife, and scarce resources. Many of the [[wastefolk]] fought each other over hunting grounds and territory until the Kryn rebuffed attempts at violence and instead offered to bring together the tribes for the common goal of mutually assured survival. Some were intrigued by the opportunity, while others did not fully trust the strange [[elves]] who chose to wield words instead of swords. The early establishment of Asarius was marked by conflict, and while the community has since flourished, there are still many who live beneath the dynasty's protection but mistrust the [[Dark Elves]]' intentions.
 
@@ -32,8 +34,8 @@ The southeast region of Asarius is called the Pits, named for the multitude of b
 
 Characters might come to the City of Beasts to find a reliable war beast, receive military training, or spy on the Kryn military preparations.
 
-_**War Beast Escape (Mid Level).**_ While the characters stay in Asarius, [spies](https://www.dndbeyond.com/monsters/spy) from the [[Dwendalian Empire]] infiltrate the city and simultaneously release war beasts from their pens after enraging them with whips and hot irons. As the characters try to stop the rampage, they learn that the spies are using the confusion to steal the city's secrets.
-
-_**Echo of the Past (Mid Level).**_ A chaotic good, male, [[dranassar]] survivor named Jibu-Corryn has been living as a [[Dark Elves|dark elf]] in Asarius under the name of Alyxikon, a minor government secretary. A cult of [hobgoblins](https://www.dndbeyond.com/monsters/hobgoblin) and [bugbears](https://www.dndbeyond.com/monsters/bugbear) who call themselves the Lords of Strife are hunting Jibu after hearing a rumor that one of the last of the [[dranassar]] are hiding in Asarius. Their leader, a hobgoblin captain named Gorthux, possesses the power to transform into a [bone devil](https://www.dndbeyond.com/monsters/bone-devil) once per day, and plans to offer Jibu as a sacrifice to [[Bane]].
-
+**Adventures**:: [[War Beast Escape (Mid Level)]]
+![[War Beast Escape (Mid Level)]]
+**Adventures**:: [[Echo of the Past (Mid Level)]]
+![[Echo of the Past (Mid Level)]]
 Jibu has heard tales of the characters' prowess and contacts them with a cryptic note. He begs for protection while he settles his affairs in Asarius and travels to a hermitage in [[Blightshore]].

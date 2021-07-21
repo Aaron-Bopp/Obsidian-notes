@@ -1,4 +1,6 @@
 ### Ruins of Ruins of [[Draconia]]
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
 At the bottom of the deep [[Dreemoth Ravine]] lie the crumbled ruins of the once-proud nation of Ruins of [[Draconia]]. The floating islands of the city-state were the original home of [[dragonborn]] society within [[Wildemount]], though the ruling class installed a strict caste system and forced the tailless ravenite [[dragonborn]] to labor in the ravine below their magically elevated island city. When the city was assaulted by [[The Chroma Conclave]] two decades before, the islands were sundered and fell into the ravine, killing many of the inhabitants. However, this disaster gave the ravenites a chance to rebel against their cruel masters.
 
@@ -10,4 +12,5 @@ Those champions who were lost in the struggle are immortalized in statues left a
 
 Those brave enough to delve into the ruins of Ruins of [[Draconia]] can find treasures and a few ghosts of the destroyed city.
 
-_**Former Glory (Low Level).**_ A cabal of disaffected draconblood [[dragonborn]] have been secretly assembling in the ruins of their former metropolis. They are guided by the whispers of a [death knight](https://www.dndbeyond.com/monsters/death-knight) who promises them the power to reassert control over the ravenites. They have begun learning necromancy and even making minor sacrifices in his name. The death knight, Pentrakath, is currently gathering artifacts elsewhere in [[Wildemount]], but will soon use his cultists and cult fanatics to carry out his twisted plans, if no one intervenes (see "[Dreemoth Ravine Adventures](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-wastes-of-[[xhorhas]]#DreemothRavineAdventures "[[Dreemoth Ravine]] Adventures")" earlier in this chapter).
+**Adventures**:: [[Former Glory (Low Level)]]
+![[Former Glory (Low Level)]]

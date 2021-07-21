@@ -1,4 +1,6 @@
 # Blightshore
+**Tag**:: #Exandria/Locale/Wynandir/Region
+**Location**:: [[Wildemount Gazetteer]]
 
 The blackened seaboard that forms the easternmost edge of [[Wildemount]] is a savage wasteland struggling to recover from the arcane havoc wrought by [[the Calamity]] so many years ago. The [[Miskath Strand]] was once a temperate expanse of arboreal pulchritude and coastal tranquility, but it has since become a lonely stretch of hazardous terrain and maddening isolation. This coastline of cursed earth and the surrounding area have come to be known as Blightshore, a fitting moniker for the once-proud seaside paradise defiled by the Betrayer Gods. Here, among the [[Miskath Strand]]'s smoldering remains, explorers vie for the opportunities offered up by Blightshore's weird new varieties of flora and fauna—not to mention the hidden wealth that lurks within the lightless vaults of the Betrayers themselves. Life in Blightshore is difficult at best; for many, it represents a true test of spirit as they weather the persistent chaos of Blightshore's terrain.
 

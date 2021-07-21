@@ -1,14 +1,16 @@
 ### Bladegarden
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
-**Population:** 9,910 (32% [[Orcs|half-orcs]], 21% [[orcs]], 25% [[humans]], 22% other races)
+**Population**:: 9,910 (32% [[Orcs|half-orcs]], 21% [[orcs]], 25% [[humans]], 22% other races)
 
-**Government:** General Kruth Doorav and Starosta Leman TuFinn are often at odds, but work together to manage Bladegarden.
+**Government**:: General Kruth Doorav and Starosta Leman TuFinn are often at odds, but work together to manage Bladegarden.
 
-**Defense:** The city, which houses a large number of [[Crownsguard]], is perpetually host to a large legion of Righteous Brand soldiers and soldiers-in-training.
+**Defense**:: The city, which houses a large number of [[Crownsguard]], is perpetually host to a large legion of Righteous Brand soldiers and soldiers-in-training.
 
-**Commerce:** There are many modest inns and taverns. Armaments and basic supplies are readily available, but more luxurious services and goods are extremely difficult to find.
+**Commerce**:: There are many modest inns and taverns. Armaments and basic supplies are readily available, but more luxurious services and goods are extremely difficult to find.
 
-**Organizations:** The Righteous Brand maintains a strong presence within Bladegarden. Small temples dot the knotted streets.
+**Organizations**:: The Righteous Brand maintains a strong presence within Bladegarden. Small temples dot the knotted streets.
 
 When the Julous Dominion was defeated, the expanding empire saw the nomadic Odakar orc clan, formerly under Julous rule, as an opportunity to secure their hold on the eastern border. The empire reached out to the more approachable members of the orc settlement of Bladegarden, offering them wages, resources, and access to imperial goods and services. A number of them became the cornerstone of the eastern branch of the Righteous Brand and emboldened the empire's military techniques with the prowess of the border-hardened [[orcs]]. Other orc clans who rejected these ideals were forced eastward into the [[Brokenveil Marsh]] and forgotten.
 
@@ -22,10 +24,11 @@ As the chaos of the war grows more frenzied with each passing week, the overwork
 
 Aside from the impressive halls of the sprawling Righteous Brand barracks that loom over the eastern edge of the city, Bladegarden is considered by many a remarkably drab place. The oval settlement is threaded by wandering dirt roads that seemingly stop and start without reason, and there is little color in the streets. Beyond the western walls, there are a number of farmsteads where local produce is gathered to aid in feeding the populace, but the majority of food is brought via cart from other sources across the [[Marrow Valley]].
 
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-06.png)
-
-The training grounds at Bladegarden
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-06.png)
+> 
+> The training grounds at Bladegarden
 
 Bladegarden is an excellent base of operations for characters fighting in the war on the side of the empire, or for Xhorhasian spies who wish to infiltrate their enemies' ranks. With the [[Crownsguard]] overworked, there are also plenty of adventures fighting crime within the city.
 
-_**Morale Pals (Any Level).**_ The Crown sends the Morale Pals, a famous comedic halfling duo, to keep spirits up in Bladegarden. But when the curtain goes up on opening night, it reveals the decapitated bodies of the Morale Pals! The characters are hired to answer the question everyone is asking: who killed the [[halflings]]? It might be Xhorhasian [spies](https://www.dndbeyond.com/monsters/spy) determined to keep morale low, thieves who wanted the [[halflings]]' purses, or perhaps a rogue killer who wanted to send a message to the whole city that this is just the beginning.
+**Adventures**:: [[Morale Pals (Any Level)]]
+![[Morale Pals (Any Level)]]

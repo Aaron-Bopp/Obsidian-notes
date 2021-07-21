@@ -1,14 +1,16 @@
 ### Zadash
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
 
-**Population:** 89,210 (70% [[humans]], 11% [[halflings]], 9% [[dwarves]], 10% other races)
+**Population**:: 89,210 (70% [[humans]], 11% [[halflings]], 9% [[dwarves]], 10% other races)
 
-**Government:** Starosta Wyatt Fedar is the city's nominal leader, but nothing gets done without the assent of the lawmaster, other Crown-appointed officials, and the wealthy elite.
+**Government**:: Starosta Wyatt Fedar is the city's nominal leader, but nothing gets done without the assent of the lawmaster, other Crown-appointed officials, and the wealthy elite.
 
-**Defense:** An impressive host of [[Crownsguard]] is integrated throughout the city, while a sizable legion of Righteous Brand soldiers is stationed within the Signet Ramparts. Political figures and nobles also employ personal guards.
+**Defense**:: An impressive host of [[Crownsguard]] is integrated throughout the city, while a sizable legion of Righteous Brand soldiers is stationed within the Signet Ramparts. Political figures and nobles also employ personal guards.
 
-**Commerce:** Nearly all goods and services are available in Zadash, including [[magic items]]. Illegal imports and contraband are found in underground circles.
+**Commerce**:: Nearly all goods and services are available in Zadash, including [[magic items]]. Illegal imports and contraband are found in underground circles.
 
-**Organizations:** Major temples to empire-approved gods are scattered throughout the city. The [[Cerberus Assembly]] holds great sway, as do the high nobility and the guildmasters. [[The Myriad]], once thought banished, is still deeply entrenched in the city's businesses.
+**Organizations**:: Major temples to empire-approved gods are scattered throughout the city. The [[Cerberus Assembly]] holds great sway, as do the high nobility and the guildmasters. [[The Myriad]], once thought banished, is still deeply entrenched in the city's businesses.
 
 Zadash was the capital of the Julous Dominion before it was conquered by the [[Dwendalian Empire]] nearly two centuries ago. Now the city is the central crossroads of the southern region of the empire and a smaller sister city to the capital of [[Rexxentrum]]. Zadash accommodates heavy traffic through its winding streets, serving noble diplomats, countless trade caravans, and rushing messengers from all across [[Western Wynandir]] and the [[Menagerie Coast]]. The city's ruling class is comprised of powerful merchant lords and ladies who oversee the guilds that control the markets throughout the city.
 
@@ -22,22 +24,18 @@ A crime boss known in some circles as [[the Gentleman]] runs a thieves' guild ba
 
 Zadash has a mix of older Julous architecture and modern Dwendalian construction, giving the picturesque, triangular city a varied and mismatched look. Zadash is broken into five major districts: the Outersteads, the Pentamarket, the Innerstead Sprawl, the Tri-Spires, and the Signet Wall.
 
-_**The Outersteads.**_ Divided into the East and West Outersteads, this area is home to the poor and powerless of the city, a collection of slums and neighborhoods of hovels that cluster around and beyond the city walls. The majority of folks who live within these areas are humble crafters hoping to catch the eye of traders passing through, workers who handle the less desirable careers that keep the city functioning, or the destitute who are trying to regain control of their lives. Many sections are humble but welcoming, with family communities who work together to keep the peace when the [[Crownsguard]] are too sparse or too uncaring to watch over them. The regions beyond the walls are equal parts farming communities and tent cities. However, some areas of the Outersteads have become hotbeds for criminal activity, with locals disappearing often enough to cause discontent with the empire's indifference.
-
-_**The Pentamarket.**_ The Pentamarket is the bustling heart of commerce, a massive bazaar that rests at the junction of the city's five main roads. Here, all manner of guild shops and businesses provide both wares and lodging for droves of weary travelers. During many [[Calendar and Time|calendar]] holidays, this region of the city is flamboyantly decorated, and music and games fill the streets surrounding the crafters' temple, Hearth of the All-Hammer, and the massive gladiatorial arena known as the Victory Pit.
-
-_**The Innerstead Sprawl.**_ A labyrinth of houses owned by the working-class people of Zadash, the Sprawl bends between the other districts, acting as the boundary between them. Except for a few of the temples, such as the Valley Archive of the [[Library of the Cobalt Soul|Cobalt Soul]], the Platinum House, and the King's Hall, much of the architecture is simple and built for function.
-
-_**The Tri-Spires.**_ The Tri-Spires are known throughout the walls of Zadash as the neighborhood of the noble elite and the wealthy. Built on the ruins of the old Pious District after the fall of the Julous Dominion, the Tri-Spires now stand as the center of aristocracy and higher learning within the city — and, indeed, throughout the empire, second only to [[Rexxentrum]]. The region takes its name from the three large, uniquely constructed towers that lord over the skyline: the Zauberspire, the Constellation Bridge, and the Triumph Chime. The Zauberspire is the central tower of the Halls of Erudition, a beautiful ivory campus that is an extension of the Soltryce Academy. The Constellation Bridge looms over the Gilded Willows neighborhood as an extremely tall, thin watchtower that offers an incredible view of the entire city and the [[Marrow Valley]] beyond. Once a temple to [[Avandra]], The Triumph Chime is now a squat, seven-story belfry outfitted with sleeping chambers, bars, and a raucous gambling hall.
-
-_**The Signet Wall.**_ The Signet Wall encloses the eastern end of the city and houses Zadash's reserve force of Righteous Brand soldiers. The Signet Ramparts are a collection of four simple stone and wood buildings that act as barracks and living quarters for all local [[Crownsguard]]. The clangs of training blades and blacksmiths' hammers fill the air for half the day, while drinking songs and bawdy rhymes fill the other half. Beyond those grounds lies the dark stone entrance to the impressive, eight-floor, subterranean prison known as the Umber Dungeon, where criminals from the streets of Zadash are held and punished, with the most dangerous imprisoned in the deepest cells. The Shrine of the Dawn, a temple of pale stone and stained glass dedicated to [[Pelor]] the Dawn Father, where both civilians and soldiers can worship, marks the center of the district. The eastern wall ends in the Marrow Keeps of the Righteous Brand, a massive stronghold surrounded by a half-dozen smaller fortifications that make up the southern bastion of the Crown's military power.
-
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-09.png)
-
-Pentamarket of Zadash
+![[The Outersteads]]
+![[The Pentamarket]]
+![[The Innerstead Sprawl]]
+![[The Tri-Spires]]
+![[The Signet Wall]]
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-09.png)
+> 
+> Pentamarket of Zadash
 
 As a large city full of travelers, criminals, and politicians, Zadash has plenty of opportunities for adventure.
 
-_**Send a Message (Mid Level).**_ The characters are hired — or blackmailed — by [[the Myriad]] to convince Starosta Wyatt Fedar to let [[the Myriad]] quell unrest in the city in exchange for favors from the city leader. If the starosta accepts, [[the Myriad]] asks the characters to crack down on non-[[The Myriad|Myriad]] crime in the city. If the starosta refuses, [[the Myriad]] asks the characters to run amok, causing and inspiring as much chaos as possible until the starosta relents.
-
-_**Victory Breakout (High Level).**_ The characters are in Zadash when several monsters are freed from their confines in the Victory Pit. These monsters — an [abominable yeti](https://www.dndbeyond.com/monsters/abominable-yeti), a [behir](https://www.dndbeyond.com/monsters/behir), a [hydra](https://www.dndbeyond.com/monsters/hydra), a [tyrannosaurus rex](https://www.dndbeyond.com/monsters/tyrannosaurus-rex), and others, tear through the streets, leaving carnage in their wake. Did these monsters escape by themselves, or did someone else free them to distract the [[Crownsguard]] and characters while another crime took place?
+**Adventures**:: [[Send a Message (Mid Level)]]
+![[Send a Message (Mid Level)]]
+**Adventures**:: [[Victory Breakout (High Level)]]
+![[Victory Breakout (High Level)]]

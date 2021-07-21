@@ -1,4 +1,6 @@
 ### Mutalos
+**Tag**:: #Exandria/Locale/Wynandir/Eiselcross
+**Location**:: [[Eiselcross]]
 
 In the northern part of Foren, a strange patch of wilderness exactly 30 miles in diameter is avoided by the wildfolk at all costs. They call this region Mutalos. Every morning at dawn, the area's environment suddenly changes. Mutalos shifts from desert to forest, from mountainous to swamp, or from any one habitat to another without any discernible pattern. The area can even be a seemingly normal icy tundra, so unsuspecting explorers traveling through Mutalos could suddenly find themselves in the middle of the sea when the sun rises.
 
@@ -48,4 +50,5 @@ Swamp
 
 Trying to find the origin of Mutalos's magic or simply traveling through the region is an adventure, but there are other reasons to explore the area.
 
-_**Lost Staff (High Level).**_ Farrhan Yost (lawful evil, female, human [archmage](https://www.dndbeyond.com/monsters/archmage)) was a part of the initial [[Cerberus Assembly]] team that explored [[Eiselcross]]. Now back on the mainland, she tells the characters she lost her [staff of power](https://www.dndbeyond.com/magic-items/staff-of-power) in Mutalos when the region was an ocean habitat, hoping it tempts them into exploring the region to find her old staff. As the characters search, she uses the [scrying](https://www.dndbeyond.com/spells/scrying) spell to keep tabs on them. Should the characters discover her staff or any other interesting treasures, Farrhan teleports to their location with her shield guardian and offers a meager payment for the find. If the characters refuse, she attacks. Farrhan intends to get her staff back no matter what and wants to claim the characters' discoveries as her own.
+**Adventures**:: [[Lost Staff (High Level)]]
+![[Lost Staff (High Level)]]

@@ -1,14 +1,16 @@
 ### Rotthold
+**Tag**:: #Exandria/Locale/Wynandir/Blightshore
+**Location**:: [[Blightshore]]
 
-**Population:** 8,800 (30% [[humans]], 15% [[Dark Elves]], 15% goblins, 15% [[tieflings]], 5% [[hollow ones]], 20% other races)
+**Population**:: 8,800 (30% [[humans]], 15% [[Dark Elves]], 15% goblins, 15% [[tieflings]], 5% [[hollow ones]], 20% other races)
 
-**Government:** Rotthold has no official governing body but is held together by a consortium of local guild leaders, merchants, and veteran adventurers who meet in secret once a week to discuss current affairs, shared interests, and potential threats.
+**Government**:: Rotthold has no official governing body but is held together by a consortium of local guild leaders, merchants, and veteran adventurers who meet in secret once a week to discuss current affairs, shared interests, and potential threats.
 
-**Defense:** The small but precious amount of sanctuary Rotthold provides from the [[Blightshore]] wastes is upheld by a militia of battle-hardened locals and dutifully concerned citizens. Other fortune-seekers often join this militia simply for the opportunities and information the alliance provides.
+**Defense**:: The small but precious amount of sanctuary Rotthold provides from the [[Blightshore]] wastes is upheld by a militia of battle-hardened locals and dutifully concerned citizens. Other fortune-seekers often join this militia simply for the opportunities and information the alliance provides.
 
-**Commerce:** Almost anything can be bought or sold in Rotthold, where the merchants are just as unscrupulous as in the surrounding [[Blightshore]] wilderness. Rotthold is the center of black market trade in [[Eastern Wynandir]], and perhaps in all of [[Wildemount]].
+**Commerce**:: Almost anything can be bought or sold in Rotthold, where the merchants are just as unscrupulous as in the surrounding [[Blightshore]] wilderness. Rotthold is the center of black market trade in [[Eastern Wynandir]], and perhaps in all of [[Wildemount]].
 
-**Organizations:** In addition to the city's handful of merchants and thieves' guilds, a confederacy of agents representing the mercantile interests of [[the Myriad]] and [[the Revelry]] operate in public throughout Rotthold, while a covert sect of the [[Cerberus Assembly]] carries out their own clandestine business.
+**Organizations**:: In addition to the city's handful of merchants and thieves' guilds, a confederacy of agents representing the mercantile interests of [[the Myriad]] and [[the Revelry]] operate in public throughout Rotthold, while a covert sect of the [[Cerberus Assembly]] carries out their own clandestine business.
 
 Some say this lawless harbor city is as dangerous as the arcane wilds of [[Blightshore]] that surround it. But whether or not visitors enjoy its chaotic disposition, Rotthold is an unmistakable center of travel and commerce in eastern [[Wildemount]]. The decayed stone dwellings and wooden tenements that line Rotthold's ramshackle streets are enveloped by a luminous, rust-colored moss that bathes the city's evenings in a sick crimson glow. Many outlanders view this crime-ridden settlement as little more than a collection of degenerate safe houses and slums, while others see it as a raw jewel—full of potential—that shines bright among the dusky shadows of the poisoned east.
 
@@ -20,10 +22,10 @@ No walls protect Rotthold from the surrounding [[Blightshore]] wastes, but eleve
 
 The moss-lit streets of Rotthold are ripe with adventure for characters with a taste for small-city mystery or black market mayhem.
 
-_**Rough Times in Rotthold (Low Level).**_ A moment of respite goes south in one of North Rotthold's taverns, where the characters—along with the proprietors and other patrons—become targets of an impromptu shakedown by an upstart gang with ties to a prominent thieves' guild. Successfully thwarting the [thugs](https://www.dndbeyond.com/monsters/thug) could very well earn the characters the ire (or the respect) of the guild, which operates under the clandestine guidance of a mysterious cabal of enlightened [nothics](https://www.dndbeyond.com/monsters/nothic).
-
-_**The Cairn Hill Horror (Mid Level).**_ A serial killer [cultist](https://www.dndbeyond.com/monsters/cultist) stalks the streets of western Rotthold from his catacomb lair beneath Cairn Hill, where the viscera of a hundred victims have been offered to summon his otherworldly patron: a [glabrezu](https://www.dndbeyond.com/monsters/glabrezu) named Vrath. This demon is a cruel, immortal deceiver that promises its [acolytes](https://www.dndbeyond.com/monsters/acolyte) unrivaled power in the wake of its awful arrival—and only the characters can stop it.
-
-_**The Krakenwhacker (High Level).**_ Captain Veluna Samarshan of the galley _Krakenwhacker_ has decided to retire in Rotthold. Having heard about the adventurers' exploits, she offers to sell the _Krakenwhacker_ to them for one gold piece, though they'll need to find their own crew. The ship is in excellent condition and has a magical figurehead carved in the likeness of [[Bahamut]] that grants the vessel immunity to fire, lightning, and thunder damage. The ship is the envy of several other [[The Revelry|Revelry]] captains, and the characters might have to fend off their advances to keep it. Captain Samarshan also warns them about an [adult bronze dragon](https://www.dndbeyond.com/monsters/adult-bronze-dragon) named Walarkus. Corrupted by the magic of [[Blightshore]], this once-noble dragon has become a coastal menace consumed by greed. It would like nothing more than to add the ship's magical figurehead to its undersea trove.
-
+**Adventures**:: [[Rough Times in Rotthold (Low Level)]]
+![[Rough Times in Rotthold (Low Level)]]
+**Adventures**:: [[The Cairn Hill Horror (Mid Level)]]
+![[The Cairn Hill Horror (Mid Level)]]
+**Adventures**:: [[The Krakenwhacker (High Level)]]
+![[The Krakenwhacker (High Level)]]
 Chapter 5 of the [Dungeon Master's Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master's Guide") has rules and statistics for ships, as well as information about hiring a crew and making ship repairs.

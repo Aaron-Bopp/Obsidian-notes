@@ -1,14 +1,16 @@
 ### Charis
+**Tag**:: #Exandria/Locale/Wynandir/Xhorhas
+**Location**:: [[Xhorhas]]
 
-**Population:** 950 (53% [[dragonborn]], 41% [[halflings]], 6% other races)
+**Population**:: 950 (53% [[dragonborn]], 41% [[halflings]], 6% other races)
 
-**Government:** Two elders preside over this village, one representing its [[dragonborn]] population and the other representing its halfling population.
+**Government**:: Two elders preside over this village, one representing its [[dragonborn]] population and the other representing its halfling population.
 
-**Defense:** Numerous bands of experienced fighters, druids, and hunters patrol the area. Civilians know basic combat techniques to defend the village if necessary.
+**Defense**:: Numerous bands of experienced fighters, druids, and hunters patrol the area. Civilians know basic combat techniques to defend the village if necessary.
 
-**Commerce:** Travelers can find basic supplies, most likely at a small inn. Visits from traveling merchants are infrequent, so rare goods are special finds.
+**Commerce**:: Travelers can find basic supplies, most likely at a small inn. Visits from traveling merchants are infrequent, so rare goods are special finds.
 
-**Organizations:** A mighty treetop temple to [[Melora]] shades the center of the village.
+**Organizations**:: A mighty treetop temple to [[Melora]] shades the center of the village.
 
 A wandering community of [[halflings]] survived in the fiend-twisted [[Lotusden Greenwood]] for generations through their cunning and the grace of their faith in [[Melora]]. When they found themselves ambushed by a group of starving ravenites fleeing from the destruction of [[Draconia]], the [[halflings]] shunned conflict in favor of kindness. They offered to feed the ravenites, and a bond between peoples was born.
 
@@ -24,4 +26,5 @@ Nestled within a sunken meadow surrounded by dense trees and hills, this hidden 
 
 Finding Charis is an adventure the characters might undertake to locate a person with a specific item or piece of information that could aid them in another quest.
 
-_**Overlord of the Overgrowth (Mid Level).**_ A demon has made the forest bordering Charis its lair. Every day, the [hezrou](https://www.dndbeyond.com/monsters/hezrou) Garlagrag attempts to summon more and more demons into the forest, and the woods are now flush with hezrous and [dretches](https://www.dndbeyond.com/monsters/dretch). The people of Charis seek aid to fight off the demons or to end Garlagrag's plot once and for all.
+**Adventures**:: [[Overlord of the Overgrowth (Mid Level)]]
+![[Overlord of the Overgrowth (Mid Level)]]

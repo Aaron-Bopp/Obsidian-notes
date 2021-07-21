@@ -1,14 +1,16 @@
 ### Rexxentrum
+**Tag**:: #Exandria/Locale/Wynandir/ZemniFields
+**Location**:: [[Zemni Fields]]
 
-**Population:** 205,200 (81% [[humans]], 8% [[dwarves]], 6% [[halflings]], 5% other races)
+**Population**:: 205,200 (81% [[humans]], 8% [[dwarves]], 6% [[halflings]], 5% other races)
 
-**Government:** King [[Bertrand Dwendal]] rules the city and the [[Dwendalian Empire]] from Rexxentrum. He delegates lesser matters to Arbiter [[Sydnock Truscan]], while citywide guild business falls under the purview of Guildmaster [[Kai Arness]].
+**Government**:: King [[Bertrand Dwendal]] rules the city and the [[Dwendalian Empire]] from Rexxentrum. He delegates lesser matters to Arbiter [[Sydnock Truscan]], while citywide guild business falls under the purview of Guildmaster [[Kai Arness]].
 
-**Defense:** [[Crownsguard]] patrol all major streets, while the bulk of the Righteous Brand soldiers within the empire are stationed in the King's Bastion to defend the capital city.
+**Defense**:: [[Crownsguard]] patrol all major streets, while the bulk of the Righteous Brand soldiers within the empire are stationed in the King's Bastion to defend the capital city.
 
-**Commerce:** Rexxentrum is the largest city in [[Wildemount]] and the seat of the [[Dwendalian Empire]]'s power, enabling massive volumes of trade in and out of the city. Most any goods, services, and places of business can be found within the city walls.
+**Commerce**:: Rexxentrum is the largest city in [[Wildemount]] and the seat of the [[Dwendalian Empire]]'s power, enabling massive volumes of trade in and out of the city. Most any goods, services, and places of business can be found within the city walls.
 
-**Organizations:** Grand temples to empire-approved gods can be found throughout the city, while the most powerful guilds in the empire vie for power and influence. The [[Cerberus Assembly]] takes an active role in political affairs, while the deep-rooted [[The Myriad|Myriad]] weaves tapestries of crime and corruption throughout the city.
+**Organizations**:: Grand temples to empire-approved gods can be found throughout the city, while the most powerful guilds in the empire vie for power and influence. The [[Cerberus Assembly]] takes an active role in political affairs, while the deep-rooted [[The Myriad|Myriad]] weaves tapestries of crime and corruption throughout the city.
 
 The majestic capital of the [[Dwendalian Empire]] was founded in the year 514 PD. The central location and plentiful surrounding resources of the region made Rexxentrum the most favorable place to oversee the rule and expansion of the freshly established [[Dwendalian Empire]]. Over the next three centuries, Rexxentrum grew to become the largest city in [[Wildemount]], and the cultural and military center of [[Western Wynandir]].
 
@@ -18,9 +20,9 @@ Glowing orbs of arcane fire flicker at the tops of dark iron lamp poles at major
 
 The massive and beautiful center for arcane study known as the Soltryce Academy is located in the Candles, a thin crescent of a neighborhood marked by the tall and imposing tower homes of all eight leading members of the [[Cerberus Assembly]], each unique and imposing in its own way. The beating heart of the city, and of the empire, lies positioned within the arc of the Candles in the terrace of [[Castle Ungebroch]]. From within the castle halls, King [[Bertrand Dwendal]] and his council of chosen authorities oversee all matters of state.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.5-Rexxentrum.jpg)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.5-Rexxentrum.jpg)
-
-Map 3.5: Rexxentrum [View Player Version](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.5-Rexxentrum-player.jpg)
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.5-Rexxentrum.jpg)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.5-Rexxentrum.jpg)
+> 
+> Map 3.5: Rexxentrum [View Player Version](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/3.5-Rexxentrum-player.jpg)
 
 Much of the empire's prosperity over the centuries stems from the [[Cerberus Assembly]], a union of the nation's most powerful mages working directly for the Crown. These arcane practitioners and scholars aid the king in engaging foreign interests, in developing magical technology to better oversee the land and enforce his will, and making use of the rare relics that the Crown confiscates from unearthed sites of pre-Calamity might. This arrangement affords the assembly homes in the Candles and across the major cities of the empire, as well as access to every Dwendalian political figure. Thus, members of the assembly are extremely influential and, by the nature of their arrangement, very carefully watched by the king. Most civilians swap rumors of demonic pacts and demigod-level magics at the assembly's disposal, adding to their aura of mystique among the common folk. When an assembly mage walks the streets of Rexxentrum or attends the halls of an establishment within the city, it is an event that everyone will be talking about for days to come.
 
@@ -40,24 +42,19 @@ The city spreads across the tallgrass fields south of the [[Pearlbow Wilderness]
 
 _**Mosaic Ward**_. A sprawl of impoverished neighborhoods are hidden behind colorful banners and small fences that segregate this ratty residential district from the central thoroughfares and avenues. The region, which encompasses most of the southern and southwestern regions of the city along the outer walls, is a hotbed for crime and violence. [[Crownsguard]] interest in policing the region wavers, and opportunists often use the lack of military presence to victimize poorer citizens. This has led to a growing collection of vigilantes and self-appointed protectors of the Mosaics.
 
-_**Mudtop Ward.**_ The northern end of the city houses its own large slum, known as the Mudtop Ward. The cobblestone streets of the city were never quite built up to the northern wall, causing this area to be rife with mud and muck year round, leaving the denizens cold, ornery, and prone to illness. Many of the sick and diseased are relegated to the Mudtop to be forgotten. However, some healers have come to their aid, as well as some priests who wish to remedy the unjust conditions of the poor, becoming local heroes for their selfless work.
-
-_**The Tangles.**_ This western region of Rexxentrum houses the working class folk of the city. It is here that most of the city's general commerce takes place. Dozens of smaller streets branch off major roads to create a labyrinth of twisting neighborhoods and industrial districts. The network of major roads converges to form three major plazas across the district, where shops, inns, and various forms of entertainment can be found. The Platinum Veranda plaza lies at the northern end of the Tangles, where the more expensive homes and luxurious entertainment can be found, as well as the central temple to [[Bahamut]], called the Dragon Seat.
-
+![[Mudtop Ward]]
+![[The Tangles]]
 Near the southern end of the Tangles is the Vigil's Circle, a marketplace built around a loop of road that surrounds the Tower of Writ, the temple to [[Erathis]] where the Prime Arbiter delivers his judgment. All manner of commerce takes place here, while the nearby Claykeep prison looms as an ominous reminder to any who might seek to break the laws of the land.
 
 The Court of Colors, on the western edge of the Tangles, is the largest of the three main plazas. The Court is a winding knot of streets, each of which is wholly dedicated to traders who come from far-off places to sell their exotic wares, while artists and performers bring an air of lively celebration despite the gray and dreary skies of the region. It's within this lively area that the Rexxentrum Archive of the [[Library of the Cobalt Soul|Cobalt Soul]] can be found. Near the southern wall of the Shimmer Ward is the Chantry of the Dawn, the ancient temple to the Dawn Father on which the city was originally founded, now restored and expanded into an awe-inspiring cathedral.
 
-_**Shimmer Ward.**_ Within the inner walls of the city, the Shimmer Ward is where the noble houses and guild leaders of Rexxentrum dwell. Here, beautiful gardens and museums celebrate Zemnian culture, and specialist merchants promote their unique wares. The debate forum is rarely used aside from holidays, where intellectuals will challenge each other to arguments about philosophy and history. Cottages and tasteful estates sit behind tall fences and walls, and a pair of open squares host occasional galas when the local elite are in need of socialization.
-
-_**Academy Grounds.**_ To the northwest of the castle lie the Academy Grounds, a well-kept and heavily guarded campus where the halls and towers of the Soltryce Academy reside. A college of higher learning for all pursuits related to the arcane arts, the Soltryce Academy is all but exclusively a school for wealthy scions, though a number of rare talents found in the wild are offered entry every year. Each subject's curriculum is tailored so that the young mind is indoctrinated to support the interests of the empire, and the [[Cerberus Assembly]] is always looking for prodigies with exemplary talent to take under its wing.
-
-_**The Candles.**_ East of the castle stands the collection of eight tall spires that house the members of the [[Cerberus Assembly]]. Each tower has its own unique appearance. The original Candles were built to the specifications of the original leading members of the [[Cerberus Assembly]]. In the years since, each tower has been magically altered to the taste of their successors. This creates a jagged and subtly unsettling sight visible from any point in the city.
-
-_**[[Castle Ungebroch]] Terrace.**_ Standing vigilant in the center of the inner walls is the [[Castle Ungebroch]] Terrace, a small district of compact military outposts that surround [[Castle Ungebroch]]. The dark stone of the castle splits into numerous towers, while high-arched stained glass windows dress the exterior of each floor of the citadel. Within the shadowy halls of the castle, lit by flickering torchlight, the king rules with his family and councilors at his beck and call.
-
+![[Shimmer Ward]]
+![[Academy Grounds]]
+![[The Candles]]
+![[Castle Ungebroch Terrace]]
 A noble house in Rexxentrum that isn't scheming for more power is a noble house in decline, or so the gentry believe. The city's officials and nobles have schemes to grab more money and power, and more than a few of the common folk have their own plots to launch themselves into positions of influence. Most of these social climbers need the help of adventurers willing to take risks, while others often need protection from their fellow schemers.
 
-_**Call a Locksmith (Low Level).**_ The exploits of the characters might draw the attention of the Locksmiths, a resistance group seeking to undermine the totalitarian rule of the king. A friendly face the characters have come to know within the city invites them to meet Lady Quana Seledo (chaotic good, female, human [noble](https://www.dndbeyond.com/monsters/noble)), a well-connected figure who reveals herself to be a key figure in the Locksmiths. She asks the characters to join the cause, offering allies, rare goods, and well-paid work. If they agree, the first mission begins: help the Locksmiths infiltrate the office of Exchequer [[Aethia Drooze]] and steal the current year's tithe ledgers.
-
-_**King Killers (Mid Level).**_ The characters intercept a cryptic note which indicates that there will be an attempt on King [[Bertrand Dwendal]]'s life the next time the monarch makes a public appearance. The characters are too inexperienced to get an audience with the king or anyone close to him, so it's up to the characters to thwart the plot. These [assassins](https://www.dndbeyond.com/monsters/assassin) could be sent by the [[Kryn Dynasty]], the [[Cerberus Assembly]], [[the Myriad]], the cult of a [[Betrayer god]], or by the Crown itself to garner sympathy among the people. If the characters manage to stop the assassins, they earn the notice of the king, who will likely ask more of them.
+**Adventures**:: [[Call a Locksmith (Low Level)]]
+![[Call a Locksmith (Low Level)]]
+**Adventures**:: [[King Killers (Mid Level)]]
+![[King Killers (Mid Level)]]
