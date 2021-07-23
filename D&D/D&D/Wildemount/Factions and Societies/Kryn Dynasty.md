@@ -50,48 +50,23 @@ Though the Kryn have remained fairly isolated throughout their history, they are
 
 There are many humanoid tribes that roam the southern reaches of [[Xhorhas]] that have declined to ally themselves with the Kryn — or to be assimilated by them. While the Bright Queen has allowed them to continue their neutrality for the time being, she watches them closely, lest they be courted by the [[Dwendalian Empire|empire]]’s coin and empty promises.
 
-## LAWS OF THE KRYN DYNASTY
-
-Within the sight of [[the Luxon]], the [[Umavi]], and the Dens who protect the lands of [[Xhorhas]] and its people, any who are presented for judgement before the presiding officials entrusted with the wisdom of the Bright Queen are to have their sentence carried our accordingly. All fines and punishments for crimes against an [[Aurora Watch]] soldier or noble are doubled. All fines and punishments regarding crimes against a Den official or member of the Bright Queen’s council are tripled.
-
-**Theft:** 2–5 days incarceration and a fine equal to the worth stolen.
-
-**Ownership of another intelligent humanoid creature:** 10–20 months incarceration and a fine of 1,500 gp.
-
-**Trespassing:** 5 days incarceration and a fine of 120 gp.
-
-**Damage to private property:** 5–20 days incarceration or a fine of twice the worth of property destroyed.
-
-**Damage to dynasty property:** 12–50 days incarceration and a fine of twice the worth of property destroyed.
-
-**Kidnapping:** 60 days incarceration and/or a fine of 800 gp.
-
-**Worship of Betrayer Gods:** 150 days incarceration, or execution.
-
-**Assault with intent to injure:** 12 days incarceration and a fine of 200 gp.
-
-**Assault with intent to kill:** 200 days incarceration and a fine of 1,200 gp, or execution.
-
-**Murder:** 5–10 years incarceration and/or a fine of 4,000 gp, or execution.
-
-**Treason:** execution.
-
 ## Figures of Interest
 
 There are many powerful figures that guide the faith of [[the Luxon]] and the expansion of the Kryn Dynasty’s power and influence.
 
-### ![[Bright Queen Leylas Kryn]]
+### Bright Queen [[Leylas Kryn]]
 
-### ![[Dusk Captain Quana Kryn]]
+### Dusk Captain [[Quana Kryn]]
 
-### ![[Shadowhand Essek Thelyss]]
+### Shadowhand [[Essek Thelyss]]
 
-### ![[Sunbreaker Olomon]]
+### [[Sunbreaker Olomon]]
 
-### ![[Taskhand Verin Thelyss]]
+### Taskhand [[Verin Thelyss]]
 
-### ![[Skysybil Abrianna Mirimm]]
+### Skysybil [[Abrianna Mirimm]]
 
-### ![[Professor Tuss Waccoh]]
+### Professor [[Tuss Waccoh]]
 
 ##
+![[LAWS OF THE KRYN DYNASTY]]

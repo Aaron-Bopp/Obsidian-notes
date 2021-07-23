@@ -1,4 +1,4 @@
-# Library of the Cobalt Soul
+ibrary of the Cobalt So
 
 Under the enlightening scriptures of [[Ioun]], teachers, priests, and monks who have been drawn to the calling of truth and knowledge spend their lives training within the Library of the Cobalt Soul. Rather than a single physical building, the Library of the Cobalt Soul is a collective term for the universal knowledge and philosophies upheld by those who follow [[Ioun]]’s teachings. The Cobalt Soul is guided by a central belief that true strength is found in understanding the world around you. Despite their idealism, the pursuit of truth is hampered by the realities of life in the [[Dwendalian Empire|empire]]: politics, propaganda, and the dangers of the wilderness.
 
@@ -40,8 +40,8 @@ Meanwhile, a small number of volunteers from within the Library have agreed to t
 
 Operating under the will of [[Ioun]], and driven by curiosity and the desire to further universal understanding, the diverse agents of the Cobalt Soul seek to change the world for the better.
 
-### ![[Loman Turray]]
+### [[Loman Turray]]
 
-### ![[Yudala Fon]]
+### [[Yudala Fon]]
 
-### ![[Sia Kresh]]
+### [[Sia Kresh]]

@@ -14,7 +14,7 @@ Most criminals in [[Wildemount]] are petty thieves and cutpurses who operate out
 
 ### Sailor ([[The Revelry|Revelry]] Pirate)
 
-It seems that just about everyone is a sailor on the [[Menagerie Coast]]. Plenty of pirates ply the waters of the coast as well, but none are as infamous or as organized as the mighty [[The Revelry|Revelry]]. If you’re a pirate of [[the Revelry]], you serve the Plank King and return a cut of all your plunder to him on the island of [[Darktow]].
+It seems that just about everyone is a sailor on the [[Menagerie Coast]]. Plenty of pirates ply the waters of the coast as well, but none are as infamous or as organized as the mighty [[The Revelry|Revelry]]. If you’re a pirate of [[the Revelry]], you serve [[Wyatt Maranoss|the Plank King]] and return a cut of all your plunder to him on the island of [[Darktow]].
 
 [[The Revelry]] doesn’t take kindly to traitors and deserters, so if you count yourself a former member of that crew, you’ll want to watch your back while traveling on the [[Menagerie Coast]]. Thugs might hassle you and your allies until you even the score with [[the Revelry]], either by paying up, submitting to imprisonment, or proving that you’re too dangerous to tangle with.
 

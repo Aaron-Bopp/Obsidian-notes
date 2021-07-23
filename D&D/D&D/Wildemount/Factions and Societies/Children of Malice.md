@@ -1,4 +1,3 @@
-# Children of Malice
 
 In the echoing stillness that followed the [[Divergence]], the ruined lands of the surface retained remnants of civilizations trying to rebuild their world from the ashes. Below, however, the surviving children of [[Lolth]] could feel her presence fade with her banishment. The chains she held over her drow were weakened, and those who had found renewed faith and purpose in the discovery of [[the Luxon]] abandoned their terrible mistress and slowly climbed their way to the surface to reclaim [[Ghor Dranas]] and be rid of their spiteful god for eternity.
 
@@ -24,13 +23,13 @@ The Children of Malice have no formal alliances; they prefer to infiltrate other
 
 The Children of Malice vary dramatically in both appearance and methods.
 
-### ![[Zyn Daev’yana]]
+### [[Zyn Daev’yana]]
 
-### ![[Ereldra Icozrin]]
+### [[Ereldra Icozrin]]
 
-### ![[Ironeye Jaglord Brukk]]
+### Ironeye [[Jaglord Brukk]]
 
-### ![[Vivurk Tonn]]
+### [[Vivurk Tonn]]
 ## 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-06.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-06.png)
 

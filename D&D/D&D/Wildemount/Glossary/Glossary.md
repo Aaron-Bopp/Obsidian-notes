@@ -90,7 +90,7 @@ Prime Deities are the gods who turn to the more orderly, good, and balanced view
 
 Raven Queen is the god of winter, fate, and the transition of death.
 
-Ravenites are the surviving [[dragonborn]] previously held as a lower, slave-class under the Draconbloods of [[Draconia]] before its fall, known for their tailless bodies and hardy physique.
+Ravenites are the surviving [[dragonborn]] previously held as a lower, slave-class under the [[Dragonborn|Draconbloods]] of [[Draconia]] before its fall, known for their tailless bodies and hardy physique.
 
 [[The Revelry|Revelry]] is the faction and banner that most operating pirates across the [[Menagerie Coast]] are united under.
 

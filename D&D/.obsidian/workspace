@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Wildemount/Factions and Societies/Scars of Scale and Tooth.md",
+            "file": "D&D/Wildemount/Magic Items.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nonbinary",
+                "query": "\"LAWS OF THE ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/Factions and Societies/Scars of Scale and Tooth.md",
+                "file": "D&D/Wildemount/Magic Items.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Wildemount/Factions and Societies/Scars of Scale and Tooth.md"
+                "file": "D&D/Wildemount/Magic Items.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/Factions and Societies/Scars of Scale and Tooth.md",
+                "file": "D&D/Wildemount/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/Factions and Societies/Scars of Scale and Tooth.md",
+                "file": "D&D/Wildemount/Magic Items.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,15 +209,15 @@
   },
   "active": "3adaa6346e23fec9",
   "lastOpenFiles": [
-    "D&D/Wildemount/Factions and Societies/Scars of Scale and Tooth.md",
-    "D&D/Wildemount/Factions and Societies/Vemosi Runek.md",
-    "D&D/Wildemount/aliases.md",
-    "D&D/Wildemount/Factions and Societies/Kryn Dynasty.md",
-    "D&D/Wildemount/Factions and Societies/Sunbreaker Olomon.md",
-    "D&D/Wildemount/Factions and Societies/Suria Dwendal.md",
-    "D&D/Wildemount/Factions and Societies/The Caustic Heart.md",
-    "D&D/Wildemount/Factions and Societies/Sydnock Truscan.md",
-    "D&D/Wildemount/Factions and Societies/The Gentleman.md",
-    "D&D/Wildemount/Factions and Societies/The Harbingers of the Core.md"
+    "D&D/Wildemount/Magic Items.md",
+    "D&D/Wildemount/Magic Items/Reincarnation Dust.md",
+    "D&D/Wildemount/Glossary/CULTS.md",
+    "D&D/Wildemount/Wildemount Gazetteer.md",
+    "D&D/Wildemount/Factions and Societies.md",
+    "D&D/Wildemount/History of Wildemount.md",
+    "D&D/Wildemount/How to run a campaign in Wildemount.md",
+    "D&D/Wildemount/Factions and Societies/The Remnants.md",
+    "D&D/Wildemount/CULTS DUBIOUS WORSHIP FROM THE SHADOWS.md",
+    "D&D/Wildemount/Factions and Societies/Clovis Concord.md"
   ]
 }

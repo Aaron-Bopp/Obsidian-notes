@@ -26,7 +26,7 @@ Until recently, many of the businesses in Port Damali were heated and powered by
 
 Port Damali is the central city for most seafaring business and shipping throughout the Lucidian Ocean and a popular destination for those with gold, but it is also the only city in [[Wildemount]] with a skyport. While the [[Dwendalian Empire|empire]] refuses to establish a skyport within [[Rexxentrum]], in what many believe to be a symbol of their dedication to their isolation, Port Damali occasionally receives skyships from [[Tal'Dorei]] or [[Marquet]], drawing crowds that rush to see the majestic display.
 
-The laws of the [[Clovis Concord]] are enforced with varying stringency within each city. Nowhere is this more true than in Port Damali, where the law can be bought like any other commodity. Anything can be purchased here, even the ear of Marquis [[Olesya Lapidus]], the celebrated leader of Port Damali.
+The [[laws of the Clovis Concord]] are enforced with varying stringency within each city. Nowhere is this more true than in Port Damali, where the law can be bought like any other commodity. Anything can be purchased here, even the ear of Marquis [[Olesya Lapidus]], the celebrated leader of Port Damali.
 
 The Lapidus family rose to prominence over a century ago, when they shifted from employing merchants to deploying mercenaries. In time, anyone who sought safety on the waves turned to Lapidus family privateers. As the fifth in her family to lead Port Damali, Marquis Olesya steadfastly collaborates with the other leaders of the [[Menagerie Coast]] to keep the [[Clovis Concord|concord]] an independent nation, free from imperial control.
 

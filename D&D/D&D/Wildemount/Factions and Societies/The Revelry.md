@@ -4,7 +4,7 @@ The Revelry’s allies within the [[Clovis Concord]] will tell you that they tur
 
 After establishing a lawless base of operations on the isle of [[Darktow]], these pirates began stalking the well-known shipping routes of the [[Menagerie Coast]] to harry, intimidate, steal from, and destroy passing ships that flew under the [[Clovis Concord|concord]]’s banner. Calling themselves The Revelry, these “free folk of the sea” have now spent over forty years terrorizing the Lucidian Ocean. With loose morals and a twisted code of honor, they take what they want from less protected targets while living a life of debauchery in the well-guarded haven of [[Darktow]]. The Revelry lacks a uniform symbol, instead changing the colors and symbols of its banner regularly to avoid counterfeiting and infiltration.
 
-The Revelry is governed by a collective of captains, all of whom defer to the final word of the Plank King, a capricious monarch who never leaves [[Darktow]]. The original Plank King, [[Hunnis Breeah]], ruled for twenty-five years before a [[Goliaths|goliath]] named [[Wyatt Maranoss]] challenged him for his increasingly lackadaisical attitude — and won. Now Breeah is dead, and Wyatt claims the title of Plank King.
+The Revelry is governed by a collective of captains, all of whom defer to the final word of [[Wyatt Maranoss|the Plank King]], a capricious monarch who never leaves [[Darktow]]. The original Plank King, [[Hunnis Breeah]], ruled for twenty-five years before a [[Goliaths|goliath]] named [[Wyatt Maranoss]] challenged him for his increasingly lackadaisical attitude — and won. Now Breeah is dead, and Wyatt claims the title of Plank King.
 ## Goals
 
 While the Revelry’s original goal was to scare the [[Clovis Concord|concord]] into revoking their soaring taxes, its charter has changed. The [[Clovis Concord]] refused to change its laws, and the pirates found a certain dark joy in theft and murder on the waves. The original members of the Revelry (and now their children) have no plans to return to their former lives as legitimate traders. They intend to maintain and grow their operations across the Lucidian Ocean, while continuing to defend and improve their fortress in [[Darktow]], finding intricate ways of reinforcing the reefs with dangerous traps and impassable barriers.
@@ -21,12 +21,12 @@ Some of the more affluent Marquesian merchant guilds that have little investment
 
 Whether it be for glory, for gold, or for freedom from law on the ocean waves, the banner of the Revelry calls many to join the cause.
 
-### ![[Wyatt Maranoss]]
+### [[Wyatt Maranoss]]
 
-### ![[Alyson Paij]]
+### [[Alyson Paij]]
 
-### ![[The Remnants]]
+### [[The Remnants]]
 
-### ![[The Caustic Heart]]
+### [[The Caustic Heart]]
 
-### ![[The Harbingers of the Core]]
+### [[The Harbingers of the Core]]

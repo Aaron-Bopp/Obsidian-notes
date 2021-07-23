@@ -32,15 +32,15 @@ In the supposed absence of the Myriad, the [[Tribes of Shadycreek Run]] have beg
 
 The dangerous aspirations of the Myriad are driven by a curiously scattered collective of intelligent liars.
 
-### ![[Iris Bethelas]]
+### [[Iris Bethelas]]
 
-### ![[Doctor Waldorf Perifeather]]
+### Doctor [[Waldorf Perifeather]]
 
-### ![[The Gentleman]]
+### [[The Gentleman]]
 
-### ![[Korshad Seddiki]]
+### [[Korshad Seddiki]]
 
-### ![[Chessia Wakiam]]
+### [[Chessia Wakiam]]
 
 
 ## 

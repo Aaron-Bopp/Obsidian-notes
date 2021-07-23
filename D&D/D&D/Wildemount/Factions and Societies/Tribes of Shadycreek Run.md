@@ -28,12 +28,12 @@ In the past, [[the Myriad]] has oft attempted to subjugate the Tribes, but it ha
 
 Life in Shadycreek is perpetually dangerous for the members of the Tribes, where every smile hides ill intent.
 
-### ![[Ophelia Mardoon]]
+### [[Ophelia Mardoon]]
 
-### ![[Jagoda Uttolot]]
+### [[Jagoda Uttolot]]
 
-### ![[Lord Darko Trebain]]
+### Lord [[Darko Trebain]]
 
-### ![[Ionos Jagentoth]]
+### [[Ionos Jagentoth]]
 
 ##

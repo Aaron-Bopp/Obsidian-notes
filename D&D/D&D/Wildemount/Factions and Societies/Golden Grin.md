@@ -24,8 +24,8 @@ The Grin’s mischief in [[Wildemount]] began relatively recently, so it is larg
 
 In a world where strife and struggle often define one’s life, it takes a certain quality of hero to step up and answer the call of the Grin.
 
-### ![[Sir Linus Denwallop]]
+### Sir [[Linus Denwallop]]
 
-### ![[Shakäste (Hush)]]
+### [[Shakäste]] (Hush)
 
-### ![[Master Duasad Keef]]
+### Master [[Duasad Keef]]

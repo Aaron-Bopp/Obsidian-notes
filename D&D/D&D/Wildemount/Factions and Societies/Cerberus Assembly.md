@@ -30,20 +30,20 @@ The acquisition of a [[Luxon beacon]] and the hunger among assembly mages to unl
 
 The mysterious minds of the Cerberus Assembly often quarrel over goals and methods, but ultimately these eight mages are united by their heritage and a shared thirst for knowledge.
 
-### ![[Trent Ikithon]]
+### [[Trent Ikithon]]
 
-### ![[Ludinus Daleth]]
+### [[Ludinus Daleth]]
 
-### ![[Jenna Iresor]]
+### [[Jenna Iresor]]
 
-### ![[Doolan Tversky]]
+### [[Doolan Tversky]]
 
-### ![[Athesias Uludan]]
+### [[Athesias Uludan]]
 
-### ![[Vess de Rogna]]
+### [[Vess de Rogna]]
 
-### ![[Zivan Margolin]]
+### [[Zivan Margolin]]
 
-### ![[Oremid Hass]]
+### [[Oremid Hass]]
 
 ##
