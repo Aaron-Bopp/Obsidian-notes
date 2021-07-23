@@ -4,7 +4,7 @@
 
 **Population**:: 950 (53% [[dragonborn]], 41% [[halflings]], 6% other races)
 
-**Government**:: Two elders preside over this village, one representing its [[dragonborn]] population and the other representing its halfling population.
+**Government**:: Two elders preside over this village, one representing its [[dragonborn]] population and the other representing its [[Halflings|halfling]] population.
 
 **Defense**:: Numerous bands of experienced fighters, druids, and hunters patrol the area. Civilians know basic combat techniques to defend the village if necessary.
 
@@ -18,7 +18,7 @@ This burgeoning community of [[halflings]] and [[dragonborn]] was able to carve 
 
 Despite the chaos and turmoil that rock the lands of [[Wildemount]] beyond the [[Lotusden Greenwood]], the people of Charis are happy in their isolation. Lacking any real interest in outside affairs, they focus entirely on protecting the surrounding forest and their fellow villagers. Outsiders occasionally visit Charis, and while the villagers are welcoming to those who offer no sign of aggression, they usually find a way to quickly usher them along, preferring to be left to their simple lives and pursuits. The people of this village would never consider leaving their tranquil home, unless so commanded by the Wild Mother herself.
 
-The community is small enough that most intricacies of formal government are unnecessary. Volunteers take up responsibilities in shifts, from keeping watch to gathering food. Leaderships is shared between two elders, one for each of the halfling and [[dragonborn]] populations, and their authority is mostly required for giving spiritual guidance and resolving minor disputes.
+The community is small enough that most intricacies of formal government are unnecessary. Volunteers take up responsibilities in shifts, from keeping watch to gathering food. Leaderships is shared between two elders, one for each of the [[Halflings|halfling]] and [[dragonborn]] populations, and their authority is mostly required for giving spiritual guidance and resolving minor disputes.
 
 The society within the village operates without money, gold, or emphasis on precious stones. Everything is provided by the community and shared equally, in theory. In practice, however, disputes do occasionally arise, and ravenites who remember their times in the [[Dreemoth Ravine]] sometimes feel compelled to secretly hoard things once considered valuable. While there are no formal laws, if enough citizens feel wronged by an action, they bring the issue before the elders, who will judge the situation and choose a fitting punishment.
 

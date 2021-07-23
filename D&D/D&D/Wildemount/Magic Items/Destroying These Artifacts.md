@@ -22,7 +22,7 @@ The weapon must be brought back to a forgotten forge in [[Xhorhas]] and melted d
 
 4
 
-The fiery breath of an ancient red dragon is the only thing that can destroy the weapon.
+The fiery breath of an ancient red [[dragon]] is the only thing that can destroy the weapon.
 
 5
 

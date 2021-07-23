@@ -6,7 +6,7 @@ Aasimar who can bear the burden of their destiny become champions of noble cause
 
 ### Aasimar in the [[Dwendalian Empire]]
 
-To a law-abiding family worshiping state-approved gods, the birth of an aasimar child is nothing short of a miracle. Such a child is not only promised a charmed life, but elevates the social status of their family. However, to a family that secretly worships gods outlawed by the empire, the birth of a child touched by an angel of such deities is a mixed blessing. If the event draws the scrutiny of a settlement’s idolmaster and their cronies, it might force family members to flee their homes for the [[Greying Wildlands]] or the [[Menagerie Coast]].
+To a law-abiding family worshiping state-approved gods, the birth of an aasimar child is nothing short of a miracle. Such a child is not only promised a charmed life, but elevates the social status of their family. However, to a family that secretly worships gods outlawed by the [[Dwendalian Empire|empire]], the birth of a child touched by an angel of such deities is a mixed blessing. If the event draws the scrutiny of a settlement’s [[idolmaster]] and their cronies, it might force family members to flee their homes for the [[Greying Wildlands]] or the [[Menagerie Coast]].
 
 ### Aasimar on the [[Menagerie Coast]]
 
@@ -86,7 +86,7 @@ Kind and parental
 
 ### Aasimar Names
 
-Most aasimar are born from human parents. They use the same naming conventions as their native culture.
+Most aasimar are born from [[Humans|human]] parents. They use the same naming conventions as their native culture.
 
 ### Aasimar Traits
 

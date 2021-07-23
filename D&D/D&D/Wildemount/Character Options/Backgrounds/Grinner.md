@@ -21,7 +21,7 @@ All members of the [[Golden Grin]] have learned a handful of folk songs in their
 | --- | --- |
 | 1 | _Zan’s Comin’ Back_. This hopeful Tal’Dorei folk song declares the inevitable return of a just ruler. Use it to seek out potential allies.|
 | 2 | _Blow Fire Down the Coast_. A rowdy fighting song from the [[Clovis Concord]], this ditty talks of blasting up pirate ships. Use it to encourage battle.|
-| 3 | _Hush! Onward Come the Dragons_. This Tal’Dorei folk song recounts the terror in the days after the invasion of the red dragon called the Cinder King. Use it to encourage caution in speech and deed.|
+| 3 | _Hush! Onward Come the Dragons_. This Tal’Dorei folk song recounts the terror in the days after the invasion of the red [[dragon]] called the Cinder King. Use it to encourage caution in speech and deed.|
 | 4 | _Let the Sword Grow Rust_. An antiwar anthem from [[Marquet]], this song has uncertain origins. Use it to help quell violent encounters.|
 | 5 | _Drink Deep, Li’l Hummingbird_. A drinking rondo from the [[Menagerie Coast]], this song tells the tale of a young person who drinks so heavily that they awaken to find they’ve stowed away on a ship. Use it to encourage alertness in social situations.|
 | 6 | _Dirge for the Emerald Fire_. This elven song supposedly has thousands of obscure verses. Use the first two verses to spread news of death or defeat.|

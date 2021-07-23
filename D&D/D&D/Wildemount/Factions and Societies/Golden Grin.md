@@ -4,7 +4,7 @@ When the lands of Tal’Dorei were ruled by the tyrant Drassig, a hidden society
 
 Each member, known as a [[grinner]], pledges to uphold the ideal that every individual has the power to change the world. They seek out places where hope is faint and the soul grows dim without inspiration, lifting the spirits of the downtrodden and heartening those who feel forgotten. Little is known about the Golden Grin aside from myths and rumors, and its members prefer it this way. The grinners listen for whispers and information using fabricated personas they create when they join the faction.
 
-The Golden Grin arrived in [[Wildemount]] by following the trade routes from Tal’Dorei to the [[Menagerie Coast]], where its members discovered a land plagued by warring despots. A sect of the Golden Grin has spent the past generation spreading its roots throughout the [[Clovis Concord]]. Now firmly established, the Grin has set about undermining corruption within the concord and has begun working their way into the [[Dwendalian Empire]].
+The Golden Grin arrived in [[Wildemount]] by following the trade routes from Tal’Dorei to the [[Menagerie Coast]], where its members discovered a land plagued by warring despots. A sect of the Golden Grin has spent the past generation spreading its roots throughout the [[Clovis Concord]]. Now firmly established, the Grin has set about undermining corruption within the [[Clovis Concord|concord]] and has begun working their way into the [[Dwendalian Empire]].
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-15.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-15.png)
 

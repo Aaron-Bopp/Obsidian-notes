@@ -10,9 +10,9 @@ Exandrian tieflings have a wide array of skin tones, all of them vibrant and col
 
 Tiefling
 
-Most imperial tieflings live in the cities of the empire or in small communes in the countryside. Many are encouraged by their parents to join the [[Crownsguard]] or the Righteous Brand to valiantly serve the empire, and a direct connection can be drawn between the tieflings’ ancient persecution and their focus on military service. Centuries ago, countless tieflings joined the armies of the Julous Dominion in hopes of winning glory and proving themselves the equals of their oppressors. Over time, many found acceptance in the eyes of the Julous people and its government, eventually becoming hardline loyalists of the Julous Dominion. Their spirits were thus crushed when the dominion fell to the mighty armies of the invading [[Dwendalian Empire]].
+Most imperial tieflings live in the cities of the [[Dwendalian Empire|empire]] or in small communes in the countryside. Many are encouraged by their parents to join the [[Crownsguard]] or the Righteous Brand to valiantly serve the [[Dwendalian Empire|empire]], and a direct connection can be drawn between the tieflings’ ancient persecution and their focus on military service. Centuries ago, countless tieflings joined the armies of the [[Julous Dominion]] in hopes of winning glory and proving themselves the equals of their oppressors. Over time, many found acceptance in the eyes of the Julous people and its government, eventually becoming hardline loyalists of the [[Julous Dominion]]. Their spirits were thus crushed when the dominion fell to the mighty armies of the invading [[Dwendalian Empire]].
 
-Three generations have passed since the fall of the dominion, and many adult tieflings still remember the war stories their grandparents told them as children. The empire’s propagandists have been quick to capitalize on this, stoking a hunger for glory that sees the lives of eager tieflings fuel the imperial war machine.
+Three generations have passed since the fall of the dominion, and many adult tieflings still remember the war stories their grandparents told them as children. The [[Dwendalian Empire|empire]]’s propagandists have been quick to capitalize on this, stoking a hunger for glory that sees the lives of eager tieflings fuel the imperial war machine.
 
 ### Tieflings on the [[Menagerie Coast]]
 
@@ -20,4 +20,4 @@ Tieflings’ extravagant skin tones and striking horns are considered attractive
 
 ### Tieflings in [[Xhorhas]]
 
-Some legends talk of how the first tieflings were born in Ghor Dranas. [[Asmodeus]], Lord of the Nine Hells, is said to have tempted a number of that city’s original inhabitants into tying their bloodlines to his own infernal power in exchange for magical knowledge. Though the truth of the tale is impossible to confirm, [[Rosohna]] maintains a significant tiefling population, and tieflings are a common sight in Kryn society.
+Some legends talk of how the first tieflings were born in [[Ghor Dranas]]. [[Asmodeus]], Lord of the Nine Hells, is said to have tempted a number of that city’s original inhabitants into tying their bloodlines to his own infernal power in exchange for magical knowledge. Though the truth of the tale is impossible to confirm, [[Rosohna]] maintains a significant tiefling population, and tieflings are a common sight in [[Kryn Dynasty|Kryn]] society.

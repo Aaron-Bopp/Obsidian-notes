@@ -1,3 +1,2 @@
-Dunamis is the primal magical energy of potentiality and actuality, an anticipatory arcane force that helps shape the multiverse and might very well be what holds its elements together, like an infinite web of unseen tethers. Manifesting as a translucent gray energy that shimmers and drifts like an ethereal cloud of mist when gathered, dunamis darkens as it vibrates and condenses to the moment of action or invocation, manipulating fundamental aspects of reality. Those who study to control and tap into this near-invisible power can subtly bend the flow of time and space by controlling the forces of localized gravity, peering into possible timelines to shift fate in their favor, and scattering the potential energy of their enemies to rob them of their potency.
 
 

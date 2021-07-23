@@ -5,6 +5,6 @@ Western Wynandir is the western, central valley of [[Wildemount]], which include
 
 ```dataview
 Table tag
-from [[Western Wynandir]]
+from Western Wynandir
 where contains(tag, "Locale")
 ```

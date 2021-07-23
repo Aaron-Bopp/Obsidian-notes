@@ -4,39 +4,39 @@ If your players are using the [[heroic chronicle]] to create their characters (s
 
 ## Story Overview
 
-The characters are drawn into this adventure in the lower regions of the city of [[Hupperdook]], an industrious gnomish enclave where long days of hard work in the forges and scrapyards end with evenings of extensive celebration and debauchery. A brilliant human engineer named Huron Stahlmast was assigned to [[Hupperdook]] by the [[Dwendalian Empire]], where he led the development of weapons for the war against the [[Kryn Dynasty]]. After years of rising disapproval of his ideas and methods, Stahlmast was ousted by the folk of the city due to his eccentric experimentation and brutal means of testing his weapon designs. Shamed and without funds, the inventor allowed his dark hatred to push him to meet with agents of the [[Kryn Dynasty]], seeking aid that would let him complete his work and enact his revenge.
+The characters are drawn into this adventure in the lower regions of the city of [[Hupperdook]], an industrious gnomish enclave where long days of hard work in the forges and scrapyards end with evenings of extensive celebration and debauchery. A brilliant [[Humans|human]] engineer named Huron Stahlmast was assigned to [[Hupperdook]] by the [[Dwendalian Empire]], where he led the development of weapons for the war against the [[Kryn Dynasty]]. After years of rising disapproval of his ideas and methods, Stahlmast was ousted by the folk of the city due to his eccentric experimentation and brutal means of testing his weapon designs. Shamed and without funds, the inventor allowed his dark hatred to push him to meet with agents of the [[Kryn Dynasty]], seeking aid that would let him complete his work and enact his revenge.
 
-With the Kryn resources now funneled to him, Stahlmast has amassed and trained a force of kobold minions to help him steal resources from [[Hupperdook]] and establish a secret subterranean base deep within the [[Silberquel Ridge]]. As construction of his experimental weapons nears completion, Stahlmast plans to use those weapons against the empire that cast him aside.
+With the [[Kryn Dynasty|Kryn]] resources now funneled to him, Stahlmast has amassed and trained a force of kobold minions to help him steal resources from [[Hupperdook]] and establish a secret subterranean base deep within the [[Silberquel Ridge]]. As construction of his experimental weapons nears completion, Stahlmast plans to use those weapons against the [[Dwendalian Empire|empire]] that cast him aside.
 
-Stahlmast’s plot to take over [[Hupperdook]] and hobble the military might of the [[Dwendalian Empire]]’s gnomish war machine begins with a prison break. The target is a Kryn operative whose assistance Stahlmast needs. From there, the characters are drawn into the growing chaos orchestrated by Stahlmast and his minions, chasing down leads and eventually confronting the mad inventor within his mountain lair.
+Stahlmast’s plot to take over [[Hupperdook]] and hobble the military might of the [[Dwendalian Empire]]’s gnomish war machine begins with a prison break. The target is a [[Kryn Dynasty|Kryn]] operative whose assistance Stahlmast needs. From there, the characters are drawn into the growing chaos orchestrated by Stahlmast and his minions, chasing down leads and eventually confronting the mad inventor within his mountain lair.
 
 ### Adventure Summary
 
-In the first part of the adventure, even as the characters arrive in [[Hupperdook]], a jailbreak sees a dangerous goliath prisoner of war named Sken Zabriss freed by a group of cloaked kobolds. Their violent escape route crosses the characters’ path before they flee into the night. The city’s watchmaster, Bram Gulchswattle, hires the characters to investigate the breakout and to discover the whereabouts of Zabriss and her kobold allies.
+In the first part of the adventure, even as the characters arrive in [[Hupperdook]], a jailbreak sees a dangerous [[Goliaths|goliath]] prisoner of war named Sken Zabriss freed by a group of cloaked kobolds. Their violent escape route crosses the characters’ path before they flee into the night. The city’s watchmaster, Bram Gulchswattle, hires the characters to investigate the breakout and to discover the whereabouts of Zabriss and her kobold allies.
 
 Clues lead the adventurers to a waterfall-cloaked cavern that conceals Sken Zabriss, a force of kobolds, and a master artisan missing from the city. When the characters complete this encounter, they reach 2nd level and can return the subdued Sken Zabriss to [[Hupperdook]] and collect their reward.
 
-In the final part of the adventure, the characters are urged to continue their investigation by entering Stahlmast’s base—or they might pursue Sken to that base if they allowed the goliath to escape. Once inside the halls of Stahlmast’s mountain compound, the adventurers must uncover the depths of the mad inventor’s betrayal of the empire. The dangerous incursion culminates with an all-out battle against Stahlmast and his prototype war machine.
+In the final part of the adventure, the characters are urged to continue their investigation by entering Stahlmast’s base—or they might pursue Sken to that base if they allowed the [[Goliaths|goliath]] to escape. Once inside the halls of Stahlmast’s mountain compound, the adventurers must uncover the depths of the mad inventor’s betrayal of the [[Dwendalian Empire|empire]]. The dangerous incursion culminates with an all-out battle against Stahlmast and his prototype war machine.
 
 [](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/05-03.png)
 
 ### Setup and Starting Points
 
-Before the adventure begins, talk to your players about why their characters might have made the journey to [[Hupperdook]]. You can provide details regarding the city and the surrounding region as outlined in [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-marrow-valley#[[Hupperdook]] "chapter 3"). You can also ask the players if they want to share any of their characters’ goals, which might provide reasons for their group to come together. Seeking paying work, purchasing equipment, and wanting to join the war effort are all common reasons for traveling to the gnomish enclave.
+Before the adventure begins, talk to your players about why their characters might have made the journey to [[Hupperdook]]. You can provide details regarding the city and the surrounding region as outlined in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-marrow-valley#Hupperdook "chapter 3"). You can also ask the players if they want to share any of their characters’ goals, which might provide reasons for their group to come together. Seeking paying work, purchasing equipment, and wanting to join the war effort are all common reasons for traveling to the gnomish enclave.
 
 Use this time to also discuss if the characters are meeting for the first time or if any of them already know each other.
 
 ## A Boom in the Night
 
-The adventure begins with the characters arriving (whether singly or together) in [[Hupperdook]]. [Map 5.4](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#Map54LowerHupperdook "Map 5.4") shows Lower [[Hupperdook]] and marks the locations of the Ironlot and Assembly Yard sections of the city.
+The adventure begins with the characters arriving (whether singly or together) in [[Hupperdook]]. [Map 5.4](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#Map54LowerHupperdook "Map 5.4") shows Lower [[Hupperdook]] and marks the locations of the Ironlot and [[Cerberus Assembly|Assembly]] Yard sections of the city.
 
 Once the players are ready to begin, read or paraphrase the following boxed text to set the scene:
 
 Start by having the players describe their characters and determine which of them are traveling together. If they arrive as an established party, prompt them to talk about their collective goals in coming to [[Hupperdook]]. If they arrive as smaller groups or solo characters, play out their interactions as smaller vignettes covering how they cross each other’s paths, prompting introductions on the way to a destined meeting. Either way, point out that most activity appears to be happening in the upper city.
 
-With the scene set, the characters can progress farther through the streets. As they do, they come across an older fellow named Auby Shudderstone (a neutral good, male gnome [commoner](https://www.dndbeyond.com/monsters/commoner)), cleaning his open-air machinist’s workstation. The only gnome still working in the area of the Assembly Yard that the characters pass through, Auby is a bit ornery and doesn’t want to party with his fellow machinists. However, he can offer up information about the city if prompted. He’ll recommend that characters speak with Watchmaster Bram Gulchswattle for work, and will even act as a guide if treated with respect or offered coin.
+With the scene set, the characters can progress farther through the streets. As they do, they come across an older fellow named Auby Shudderstone (a neutral good, male [[Gnomes|gnome]] [commoner](https://www.dndbeyond.com/monsters/commoner)), cleaning his open-air machinist’s workstation. The only [[Gnomes|gnome]] still working in the area of the [[Cerberus Assembly|Assembly]] Yard that the characters pass through, Auby is a bit ornery and doesn’t want to party with his fellow machinists. However, he can offer up information about the city if prompted. He’ll recommend that characters speak with Watchmaster Bram Gulchswattle for work, and will even act as a guide if treated with respect or offered coin.
 
-When the characters are headed past the Assembly Yard into the Ironlot area of the city, proceed with the next section.
+When the characters are headed past the [[Cerberus Assembly|Assembly]] Yard into the Ironlot area of the city, proceed with the next section.
 
 [](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/5.4-lower-[[hupperdook]].png)
 
@@ -58,7 +58,7 @@ Map 5.5: Ironlot Streets [View Player Version](https://media.dndbeyond.com/compe
 
 The cloaked figures are five [kobold underlings](https://www.dndbeyond.com/monsters/kobold-underling) and [Sken Zabriss](https://www.dndbeyond.com/monsters/sken-zabriss) (see the accompanying [[stat blocks]]). They begin at the western edge of map 5.5. Having just escaped from prison, Sken has no interest in fighting to the death. Instead, she attempts to push past any interlopers to reach the northeast edge of the map and escape the city. The kobolds, however, attack anyone they perceive as interfering with their escape, shouting “No witnesses!” If two of the kobold underlings are killed or two of the characters drop to 0 hit points, the remaining kobolds and Sken focus on escaping. Sken drops a [fog cloud](https://www.dndbeyond.com/spells/fog-cloud) spell behind her, and all the NPCs use the [Dash](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Dash) action to make their exit.
 
-If the characters convinced Auby the gnome to guide them through the city, they’ve inadvertently led him into a dangerous fray. Enemies attempt to strike him if he gets in their way, and the characters might need to decide between protecting their guide and focusing on the attackers.
+If the characters convinced Auby the [[Gnomes|gnome]] to guide them through the city, they’ve inadvertently led him into a dangerous fray. Enemies attempt to strike him if he gets in their way, and the characters might need to decide between protecting their guide and focusing on the attackers.
 
 If any kobold underlings are reduced to 0 hit points during the fight, the characters have only 2 rounds to investigate and loot the corpse before the body begins to emit a high-pitched whine. If a kobold was reduced to 0 hit points by a critical hit, it explodes immediately (see the Messy End trait in the kobold underling’s stat block).
 
@@ -68,15 +68,15 @@ A successful DC 14 Intelligence ([Investigation](https://www.dndbeyond.com/compe
 
 If the characters manage to subdue or capture any kobolds, their loyalty to Stahlmast is hard to break. A successful DC 15 Charisma ([Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation)) check begins to turn a captured kobold, but before it can reveal any information, crossbow bolts shot from the distant shadows (where more of Stahlmast’s loyal forces are watching) silences the would-be confessor.
 
-When the fight is done, numerous citizens and members of the [[Crownsguard]] respond to the commotion, followed by the Watchmaster Bram Gulchswattle (a lawful good, male gnome [veteran](https://www.dndbeyond.com/monsters/veteran)). Bram wants to know who the characters are and what they saw. If the characters are hesitant to answer openly, the watchmaster might take it as a sign of guilt, threatening to arrest them unless they speak plainly.
+When the fight is done, numerous citizens and members of the [[Crownsguard]] respond to the commotion, followed by the Watchmaster Bram Gulchswattle (a lawful good, male [[Gnomes|gnome]] [veteran](https://www.dndbeyond.com/monsters/veteran)). Bram wants to know who the characters are and what they saw. If the characters are hesitant to answer openly, the watchmaster might take it as a sign of guilt, threatening to arrest them unless they speak plainly.
 
-Bram might recognize the characters as adventurers by their actions in trying to stop the escaping criminals (if they did so), by their attire and equipment, or if they introduce themselves as such. Either way, he offers to hire them. He describes the runaway goliath as Sken Zabriss, a prisoner of war, but has no idea who the kobolds were. He offers a bounty of 500 gp to anyone who will hunt down and bring Sken back, as well as investigate who was responsible for breaking her out. Bram offers 250 gp up front. If the contract is accepted, he presents the characters with a copper-and-gold badge that indicates they are working under his authority. While the emblem is visible, all the characters have advantage on Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) checks made to pry information from stubborn citizens of [[Hupperdook]].
+Bram might recognize the characters as adventurers by their actions in trying to stop the escaping criminals (if they did so), by their attire and equipment, or if they introduce themselves as such. Either way, he offers to hire them. He describes the runaway [[Goliaths|goliath]] as Sken Zabriss, a prisoner of war, but has no idea who the kobolds were. He offers a bounty of 500 gp to anyone who will hunt down and bring Sken back, as well as investigate who was responsible for breaking her out. Bram offers 250 gp up front. If the contract is accepted, he presents the characters with a copper-and-gold badge that indicates they are working under his authority. While the emblem is visible, all the characters have advantage on Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) checks made to pry information from stubborn citizens of [[Hupperdook]].
 
 The characters can travel across Lower [[Hupperdook]] to hunt down their quarry. If they ask Bram for guidance on where to look first, he points them in the direction of the smoking hole in the side of the mountain, at the site of Gearhole Prison.
 
 [Sken Zabriss](https://www.dndbeyond.com/monsters/sken-zabriss)
 
-Medium humanoid (goliath), lawful evil
+Medium humanoid ([[Goliaths|goliath]]), lawful evil
 
 **Armor Class** 16 (breastplate, shield)
 
@@ -194,31 +194,31 @@ _**Longbow.** Ranged Weapon Attack:_ +5 to hit, range 150/600 ft., one target. _
 
 If the adventurers head toward the Builder’s Plot, read:
 
-During the day, the characters find Cleff Tinkertop and his daughter Rissa (chaotic good gnome [commoners](https://www.dndbeyond.com/monsters/commoner)) building a prototype metallic glider. If they arrive in the evening, the area is empty except for a few patrolling [[Crownsguard]]. Asking the guards about Cleff Tinkertop sees the characters directed to Sootswallow Lodge (see “[Other [[Hupperdook]] Locations](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#OtherHupperdookLocations "Other [[Hupperdook]] Locations")” later in the adventure), where he often spends his evenings after work.
+During the day, the characters find Cleff Tinkertop and his daughter Rissa (chaotic good [[Gnomes|gnome]] [commoners](https://www.dndbeyond.com/monsters/commoner)) building a prototype metallic glider. If they arrive in the evening, the area is empty except for a few patrolling [[Crownsguard]]. Asking the guards about Cleff Tinkertop sees the characters directed to Sootswallow Lodge (see “[Other [[Hupperdook]] Locations](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#OtherHupperdookLocations "Other [[Hupperdook]] Locations")” later in the adventure), where he often spends his evenings after work.
 
-Cleff is an amiable middle-aged gnome, albeit a bit absent-minded and easily distracted. Rissa is sharp and keeps her father on track as best she can. If they are asked about explosives or shown the bronze shrapnel, they direct the characters toward the Firemark Facility ([area H5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#H5FiremarkFacility "area H5")), the only sanctioned manufacturing den of [blasting powder](https://www.dndbeyond.com/equipment/blasting-powder) and black powder in [[Hupperdook]].
+Cleff is an amiable middle-aged [[Gnomes|gnome]], albeit a bit absent-minded and easily distracted. Rissa is sharp and keeps her father on track as best she can. If they are asked about explosives or shown the bronze shrapnel, they direct the characters toward the Firemark Facility ([area H5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#H5FiremarkFacility "area H5")), the only sanctioned manufacturing den of [blasting powder](https://www.dndbeyond.com/equipment/blasting-powder) and black powder in [[Hupperdook]].
 
 If the characters show Cleff the damaged automaton, he recognizes the design as his own. Thinking at first that the device might be one of his older models, he inspects it further and scoffs at the realization that it is a poor copy. The crafting reminds him of the work of an old colleague of his—Huron Stahlmast. Talented but impatient, Stahlmast was [prone](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Prone) to copying the work of others and executing it poorly. He hasn’t been seen in [[Hupperdook]] for years.
 
-If the characters are particularly interested in the functionality of the broken automaton, Cleff offers to repair it. Doing so takes a few hours and costs 15 gp for materials, whereupon the characters are the owners of a [vox seeker](https://www.dndbeyond.com/magic-items/vox-seeker) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-treasures#VoxSeeker "chapter 6")).
+If the characters are particularly interested in the functionality of the broken automaton, Cleff offers to repair it. Doing so takes a few hours and costs 15 gp for materials, whereupon the characters are the owners of a [vox seeker](https://www.dndbeyond.com/magic-items/vox-seeker) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#VoxSeeker "chapter 6")).
 
 ### H4. Lay of the Land Herbalist
 
 If the adventurers find their way to this shop, read:
 
-The welcoming herbalist Zendasa (a chaotic good, female human [druid](https://www.dndbeyond.com/monsters/druid)) treats her customers almost as children under her care, and asks frequent and probing questions regarding the characters’ daily habits and hygiene. Her shop sells the following items from chapter 5 of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"): antitoxin, candles, druidic focuses, incense, healer’s kits, oil, perfume, [potions of healing](https://www.dndbeyond.com/equipment/potion-of-healing), alchemist’s supplies, and herbalism kits.
+The welcoming herbalist Zendasa (a chaotic good, female [[Humans|human]] [druid](https://www.dndbeyond.com/monsters/druid)) treats her customers almost as children under her care, and asks frequent and probing questions regarding the characters’ daily habits and hygiene. Her shop sells the following items from chapter 5 of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"): antitoxin, candles, druidic focuses, incense, healer’s kits, oil, perfume, [potions of healing](https://www.dndbeyond.com/equipment/potion-of-healing), alchemist’s supplies, and herbalism kits.
 
 If the characters describe the stained, muddy feet of the kobolds who helped break Sken Zabriss out of prison, she tells them that red clay shouldn’t be found in [[Hupperdook]]. The most likely place for it to have come from is farther up the mountain, near the long-dormant volcanic caps of the [[Silberquel Ridge]].
 
 When the adventurers arrive at the Firemark Facility, read:
 
-The gnome [guard](https://www.dndbeyond.com/monsters/guard) does her best to shoo the adventurers away from this restricted site. The characters can sway her with a 15 gp bribe, or can attempt to talk their way past with a successful DC 14 Charisma ([Deception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Deception) or [Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation)) check. Once inside, they can speak with the site’s blast gaffer, Sleese.
+The [[Gnomes|gnome]] [guard](https://www.dndbeyond.com/monsters/guard) does her best to shoo the adventurers away from this restricted site. The characters can sway her with a 15 gp bribe, or can attempt to talk their way past with a successful DC 14 Charisma ([Deception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Deception) or [Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation)) check. Once inside, they can speak with the site’s blast gaffer, Sleese.
 
-Sleese Firemark (a lawful neutral, male gnome [commoner](https://www.dndbeyond.com/monsters/commoner)) is a hotheaded fellow who seems intent on working himself into an early grave. He isn’t happy about having his workflow interrupted but entertains questions from the characters for a few moments.
+Sleese Firemark (a lawful neutral, male [[Gnomes|gnome]] [commoner](https://www.dndbeyond.com/monsters/commoner)) is a hotheaded fellow who seems intent on working himself into an early grave. He isn’t happy about having his workflow interrupted but entertains questions from the characters for a few moments.
 
-If the adventurers inquire about any missing [blasting powder](https://www.dndbeyond.com/equipment/blasting-powder), Sleese denies that any such thing could happen, checks his ledgers, and confirms that all is accounted for. He touts the rather impressive guard force that watches over the facility and the importance of the work done there with the escalating need to overpower the Kryn. He might also lament that the facility’s most talented powder artisan has been out ill for a few weeks.
+If the adventurers inquire about any missing [blasting powder](https://www.dndbeyond.com/equipment/blasting-powder), Sleese denies that any such thing could happen, checks his ledgers, and confirms that all is accounted for. He touts the rather impressive guard force that watches over the facility and the importance of the work done there with the escalating need to overpower the [[Kryn Dynasty|Kryn]]. He might also lament that the facility’s most talented powder artisan has been out ill for a few weeks.
 
-If asked about the ill artisan, Sleese mentions that a gnome named Nima Cinnarid had been one of the Firemark Facility’s most diligent suppliers of raw materials and most skilled crafters of high-quality blasting powder, at least until she took ill three weeks ago. She’s been holed up in her house in the northern part of the Ironlot ever since. A few of her Firemark compatriots have tried to visit her, but she won’t let anyone in. Sleese is noticeably fearful over how bad this illness might be.
+If asked about the ill artisan, Sleese mentions that a [[Gnomes|gnome]] named Nima Cinnarid had been one of the Firemark Facility’s most diligent suppliers of raw materials and most skilled crafters of high-quality blasting powder, at least until she took ill three weeks ago. She’s been holed up in her house in the northern part of the Ironlot ever since. A few of her Firemark compatriots have tried to visit her, but she won’t let anyone in. Sleese is noticeably fearful over how bad this illness might be.
 
 Sleese offers a pouch of [blasting powder](https://www.dndbeyond.com/equipment/blasting-powder) (see the “[Alchemical Items](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#AlchemicalItems "Alchemical Items")” sidebar later in the adventure) as a gift if the characters agree to check in on Nima Cinnarid. He can direct them to her house at area H6.
 
@@ -230,7 +230,7 @@ Map 5.6: Nima Cinnarid’s House [View Player Version](https://media.dndbeyond.c
 
 This encounter location is shown on map 5.6. If the characters seek out Nina Cinnarid at home, read:
 
-The front and side doors to the house are locked, but can be picked with a successful DC 15 Dexterity check using thieves’ tools. Knocking once on the front door yields no answer, but a second knock summons a coughing, creaky voice from the other side that falteringly tells the characters to stay away for fear of catching the sickness. Any character with a passive Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) score of 15 or higher, or who is successful on a DC 15 Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check, recognizes that the voice is nervous—and is definitely not a female gnome.
+The front and side doors to the house are locked, but can be picked with a successful DC 15 Dexterity check using thieves’ tools. Knocking once on the front door yields no answer, but a second knock summons a coughing, creaky voice from the other side that falteringly tells the characters to stay away for fear of catching the sickness. Any character with a passive Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) score of 15 or higher, or who is successful on a DC 15 Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check, recognizes that the voice is nervous—and is definitely not a female [[Gnomes|gnome]].
 
 If the characters mention anything about the prison break, the voice pauses, then states, “Actually, I think I might know something about that.” As the front door is unlocked, the voice invites the characters in.
 
@@ -242,7 +242,7 @@ As in area H1, a successful DC 14 Intelligence ([Investigation](https://www.dndb
 
 If the characters manage to subdue a kobold, it gives up what it knows with a successful DC 15 Charisma ([Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation)) check. The kobold can reveal that it works for someone called “the Master,” and that Nima Cinnarid has been kidnapped and is presently held high up the mountain at a location called Silver Falls. If its life is spared, the kobold promises to guide the characters to the Silver Falls cavern area. The kobold accompanies the party through the “Mountain Climb” section below but attempts to escape at any opportunity.
 
-Any search of the house reveals signs of a struggle from a few weeks past, including broken furniture and an emptied chest with a broken lock. A few heavy coats and sets of work boots sized for a gnome are all stained with red dirt. A broken worktable has been dumped into a corner strewn with scraps and garbage. Searching through the refuse reveals a number of torn parchment notes, one of which provides a clue to the location of Silver Falls. (Show the players handout B.)
+Any search of the house reveals signs of a struggle from a few weeks past, including broken furniture and an emptied chest with a broken lock. A few heavy coats and sets of work boots sized for a [[Gnomes|gnome]] are all stained with red dirt. A broken worktable has been dumped into a corner strewn with scraps and garbage. Searching through the refuse reveals a number of torn parchment notes, one of which provides a clue to the location of Silver Falls. (Show the players handout B.)
 
 Characters who sift through the wreckage find a pouch of [blasting powder](https://www.dndbeyond.com/equipment/blasting-powder) (see the “[Alchemical Items](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#AlchemicalItems "Alchemical Items")” sidebar).
 
@@ -254,7 +254,7 @@ Handout B: Nima’s Note
 
 The following miscellaneous locations are minor areas the characters might visit in [[Hupperdook]] during their investigations.
 
-A majestic temple to [[Moradin]] the All-Hammer, this mighty octagonal structure resembles a massive anvil atop an iron shrine. Within, holy symbols and prayer coins are pressed and forged, while blacksmiths and tinkerers come to have their plans and creations blessed.
+A majestic temple to [[Moradin]] the [[Moradin|All-Hammer]], this mighty octagonal structure resembles a massive anvil atop an iron shrine. Within, holy symbols and prayer coins are pressed and forged, while blacksmiths and tinkerers come to have their plans and creations blessed.
 
 Attached through a series of angled hallways, this network of foundries forms a sprawling compound that smelts, purifies, and prepares a majority of the metal materials and ingots distributed throughout the [[Marrow Valley]].
 
@@ -270,7 +270,7 @@ This gated courtyard contains the many entrances to the deep tunnels and ore vei
 
 These giant steel platforms lifted by impressively large chains carry heavy equipment and large groups of people between the Ironlot and the Idleworks Shelf.
 
-The upper part of the city is divided into two main sections—the Idleworks Shelf and Silver Falls Grove. The Idleworks Shelf is a largely recreational district that houses the city’s evening celebrations, and is home to the empire-renowned Blushing Tankard tavern. Wrapped around the waterfall lake that gives it its name, Silver Falls Grove is the residential core of [[Hupperdook]], its streets dense with elevated stone-and-metal towers that house families at every level.
+The upper part of the city is divided into two main sections—the Idleworks Shelf and Silver Falls Grove. The Idleworks Shelf is a largely recreational district that houses the city’s evening celebrations, and is home to the [[Dwendalian Empire|empire]]-renowned Blushing Tankard tavern. Wrapped around the waterfall lake that gives it its name, Silver Falls Grove is the residential core of [[Hupperdook]], its streets dense with elevated stone-and-metal towers that house families at every level.
 
 ## Ascending the Mountain
 
@@ -322,21 +322,21 @@ The bats that long dwelled in this cavern (the source of the guano from which Ni
 
 Four [kobold underlings](https://www.dndbeyond.com/monsters/kobold-underling) and [Sken Zabriss](https://www.dndbeyond.com/monsters/sken-zabriss) all attack the characters (see their [[stat blocks]] earlier in this adventure). Sken loudly taunts them for how they’re all about to die, and shouts that the fall of the [[Dwendalian Empire]] at the hands of [[Xhorhas]] is imminent. If the characters were guided by a captive kobold from Nima’s house, it rushes to the other kobolds if it can, borrows a weapon, and joins the fray.
 
-The shackled gnome is Nima Cinnarid, a neutral good, female gnome [commoner](https://www.dndbeyond.com/monsters/commoner). She hides beneath her workbench when combat breaks out, but if a kobold or Sken moves within 30 feet of the bench, read:
+The shackled [[Gnomes|gnome]] is Nima Cinnarid, a neutral good, female [[Gnomes|gnome]] [commoner](https://www.dndbeyond.com/monsters/commoner). She hides beneath her workbench when combat breaks out, but if a kobold or Sken moves within 30 feet of the bench, read:
 
 Nima throws an [explosive seed](https://www.dndbeyond.com/equipment/explosive-seed) (see the “[Alchemical Items](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#AlchemicalItems "Alchemical Items")” sidebar earlier in this adventure) at whichever enemies are closest, then throws another seed on each of her turns until she runs out of seeds. She has a total of four explosive seeds.
 
-If any of the characters speak to Nima and offer her help, Sken rushes over to take the gnome hostage, threatening to kill her unless the characters drop their weapons. If the characters don’t comply and can’t stop Sken in time, the goliath attacks Nima.
+If any of the characters speak to Nima and offer her help, Sken rushes over to take the [[Gnomes|gnome]] hostage, threatening to kill her unless the characters drop their weapons. If the characters don’t comply and can’t stop Sken in time, the [[Goliaths|goliath]] attacks Nima.
 
 If Sken is reduced to 11 hit points or fewer, she attempts to use her [ring of obscuring](https://www.dndbeyond.com/magic-items/ring-of-obscuring) and flees to the steel door. She spends her action pulling out a lead key she carries and opening the door, and it takes another action to close and lock it behind her. If Sken escapes, the characters need to pursue her into Stahlmast’s lair to complete their contract with Bram Gulchswattle.
 
-If the battle is won and Nima survives, the characters can free her from her shackles and learn a number of details regarding what’s going on. The gnome can offer up the following information in response to the characters’ questions:
+If the battle is won and Nima survives, the characters can free her from her shackles and learn a number of details regarding what’s going on. The [[Gnomes|gnome]] can offer up the following information in response to the characters’ questions:
 
 -   Nima has long been a munitions expert, developing refined explosives and weapons for the war effort against the [[Kryn Dynasty]].
 -   The cave is a secret source of potent explosive materials, and she has harvested guano from it for years. She normally comes here once every four to six months to stock up.
 -   Nima’s last trip three weeks ago ended with her capture by the kobolds and their master, Huron Stahlmast. A former engineer for the [[Dwendalian Empire]], Stahlmast was shamed for his imperfect designs and immoral experimentation. He left [[Hupperdook]] years before and was assumed to have found his fortune elsewhere. Instead, he’s been building a lair beyond the waterfall cavern, sealed off behind the steel door.
 -   Stahlmast imprisoned Nima in the cavern and has been forcing her to produce explosive devices. One of those devices was used to help Sken break out of Gearhole Prison. She has also been working on plans for larger explosive devices whose purpose she doesn’t yet know.
--   Stahlmast is bent on vengeance against the empire—and against the city of [[Hupperdook]] and its people.
+-   Stahlmast is bent on vengeance against the [[Dwendalian Empire|empire]]—and against the city of [[Hupperdook]] and its people.
 
 If Nima was killed, the characters can seek this information from Sken or a captured kobold. If the fight in the cavern left no enemies or allies alive, you can move these revelations to an NPC in [[Hupperdook]] who recognizes the explosive seeds as Stahlmast’s work.
 
@@ -344,7 +344,7 @@ If any character investigates the steel door, read:
 
 If the characters want to try to open the door right away, see the next section of the adventure (“[Stahlmast’s Lair](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#StahlmastsLair "Stahlmast’s Lair")”) for more information.
 
-After defeating Sken, the characters can claim her [ring of obscuring](https://www.dndbeyond.com/magic-items/ring-of-obscuring) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-treasures#RingofObscuring "chapter 6")). The workbench Nima was working at holds 1d4 + 1 [explosive seeds](https://www.dndbeyond.com/equipment/explosive-seed) (see the earlier “[Alchemical Items](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#AlchemicalItems "Alchemical Items")” sidebar).
+After defeating Sken, the characters can claim her [ring of obscuring](https://www.dndbeyond.com/magic-items/ring-of-obscuring) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#RingofObscuring "chapter 6")). The workbench Nima was working at holds 1d4 + 1 [explosive seeds](https://www.dndbeyond.com/equipment/explosive-seed) (see the earlier “[Alchemical Items](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#AlchemicalItems "Alchemical Items")” sidebar).
 
 ### Character Advancement
 
@@ -354,7 +354,7 @@ If the players want to press on immediately—especially if both Nima and Sken w
 
 ### Next Moves
 
-If Sken was left alive after combat, the characters can use the chains that once shackled Nima to bind the goliath. Taking her or her corpse back to Watchmaster Bram Gulchswattle at Ironside Barracks ([area H10](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#H10IronsideBarracks "area H10") in the first part of the adventure) completes their contract and allows them to collect their reward. The characters can then take some time to rest and handle any business they might wish to conduct in [[Hupperdook]].
+If Sken was left alive after combat, the characters can use the chains that once shackled Nima to bind the [[Goliaths|goliath]]. Taking her or her corpse back to Watchmaster Bram Gulchswattle at Ironside Barracks ([area H10](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#H10IronsideBarracks "area H10") in the first part of the adventure) completes their contract and allows them to collect their reward. The characters can then take some time to rest and handle any business they might wish to conduct in [[Hupperdook]].
 
 You can read or paraphrase the following text to complete this part of the adventure:
 
@@ -380,8 +380,8 @@ Even kobolds as well trained as the ones that serve Stahlmast prize self-preserv
 
 If any kobolds are captured and questioned, they reveal what they know of Stahlmast’s operation with a successful DC 13 Charisma ([Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation) or [Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check. You can have individual kobolds know only bits of the overall plan so that the characters learn all the information only over time:
 
--   The Master is planning to make many tiny metal crabs ([vox seekers](https://www.dndbeyond.com/monsters/vox-seeker), as described in [chapter 6](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-treasures#VoxSeeker "chapter 6")).
--   The gray dwarf is obsessed with his ugly statue.
+-   The Master is planning to make many tiny metal crabs ([vox seekers](https://www.dndbeyond.com/monsters/vox-seeker), as described in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#VoxSeeker "chapter 6")).
+-   The gray [[Dwarves|dwarf]] is obsessed with his ugly statue.
 -   The scary [[Elves|elf]] visits every few weeks to train the kobolds, and then vanishes into the Master’s fire room.
 
 Though the winding passages of the compound help mute the sounds of footsteps, loud noises (including combat or shouting) alert the lair’s inhabitants of intruders at your determination.
@@ -424,7 +424,7 @@ Small characters—or Medium characters who crouch down—can don the cloaks fou
 
 Most of the notes here read like mad scrawls mixed with engineering designs. Sketches of the layout of [[Hupperdook]] and the mountaintop are seen, as well as what looks like the designs for [explosive seeds](https://www.dndbeyond.com/equipment/explosive-seed) (see the “[Alchemical Items](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#AlchemicalItems "Alchemical Items")” sidebar earlier in this adventure) and a diagram of how the seeds can be surgically implanted into creatures. Another note details the process by which sharks are to be placed into the waterfall lake in Silver Falls Grove. One strange design shows what appears to be some kind of clockwork-powered armor.
 
-Clinging to the underside of the table is a [vox seeker](https://www.dndbeyond.com/magic-items/vox-seeker) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-treasures#VoxSeeker "chapter 6")). There is a 25 percent chance that the automaton is wound up when discovered, allowing it to attack for up to 5 minutes.
+Clinging to the underside of the table is a [vox seeker](https://www.dndbeyond.com/magic-items/vox-seeker) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#VoxSeeker "chapter 6")). There is a 25 percent chance that the automaton is wound up when discovered, allowing it to attack for up to 5 minutes.
 
 A character who studies the notes and diagrams can determine that Stahlmast plans to set powerful explosives across the mountainside in a way that will bury most of [[Hupperdook]] in a landslide, even as it leaves his lair intact. Bringing these designs to Watchmaster Bram Gulchswattle earns the characters an additional reward (see “[Concluding the Adventure](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#ConcludingtheAdventure1 "Concluding the Adventure")” at the end of this adventure).
 
@@ -478,13 +478,13 @@ With the doors locked, Stahlmast taunts the characters via the speaking tube in 
 
 ### L13. Blacksmith’s Chamber
 
-The small sculpture on the desk is a mostly finished representation of a dwarf, expertly carved. Any inspection of the pile of broken rocks under the table reveals them to be previously failed attempts at the same sculpture.
+The small sculpture on the desk is a mostly finished representation of a [[Dwarves|dwarf]], expertly carved. Any inspection of the pile of broken rocks under the table reveals them to be previously failed attempts at the same sculpture.
 
 Even unfinished, the statuette is worth 5 gp. Characters who search the room thoroughly find a small sack of gems hidden under the bed mattress—four opals (25 gp each), a flawed ruby (75 gp), and a flawed diamond (100 gp).
 
 ### L14. Smithy
 
-The blacksmith, Roguun (a lawful evil, male [duergar](https://www.dndbeyond.com/monsters/[[duergar]])), is hard at work when the characters first enter this area. He attacks intruders at once but flees to join Stahlmast in the clockwork forge ([area L19](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L19ClockworkForge "area L19")) if he is reduced to 11 hit points or fewer. Roguun carries the keys to the volatile materials storage cavern ([area L3](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L3VolatileMaterialsStorage "area L3")).
+The blacksmith, Roguun (a lawful evil, male [duergar](https://www.dndbeyond.com/monsters/duergar)), is hard at work when the characters first enter this area. He attacks intruders at once but flees to join Stahlmast in the clockwork forge ([area L19](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L19ClockworkForge "area L19")) if he is reduced to 11 hit points or fewer. Roguun carries the keys to the volatile materials storage cavern ([area L3](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L3VolatileMaterialsStorage "area L3")).
 
 If a character possesses the small statue from area L13 and threatens to smash it, Roguun halts his aggression and refrains from fleeing while he attempts to barter for its safety. A character holding the statuette has advantage on Charisma checks made against the [[duergar]]. If he is captured and questioned, Roguun might mention the explosives locked away in [area L3](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L3VolatileMaterialsStorage "area L3"), and might also mention the secret door that Stahlmast had him install in [area L5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L5StahlmastsWorkroom "area L5").
 
@@ -522,13 +522,13 @@ A locked chest is hidden beneath the bed, and can be opened with thieves’ tool
 
 ### L19. Clockwork Forge
 
-Huron Stahlmast (a lawful evil human [cultist](https://www.dndbeyond.com/monsters/cultist) wearing [goggles of night](https://www.dndbeyond.com/magic-items/goggles-of-night)) awaits the characters in this elaborate workshop. If the drow ambassador from [area L9](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L9TrainingRoom "area L9") or Roguun from [area L14](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L14Smithy "area L14") escaped earlier encounters with the characters, he has joined Stahlmast here for the final fight.
+Huron Stahlmast (a lawful evil [[Humans|human]] [cultist](https://www.dndbeyond.com/monsters/cultist) wearing [goggles of night](https://www.dndbeyond.com/magic-items/goggles-of-night)) awaits the characters in this elaborate workshop. If the drow ambassador from [area L9](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L9TrainingRoom "area L9") or Roguun from [area L14](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L14Smithy "area L14") escaped earlier encounters with the characters, he has joined Stahlmast here for the final fight.
 
 When the characters can see into this area, read:
 
 If the characters have managed to get this far without Stahlmast being alerted, he shows momentary surprise when he sees them, but his bravado quickly takes over. Either way, as soon as Stahlmast becomes aware of the characters, read:
 
-Stahlmast has no qualms about whom he works with, as long as those who serve him understand that he’s in charge. He might appeal to the characters as free adventurers, hoping to convince him that fighting against the [[Dwendalian Empire]] is a noble cause, or he might appeal to their greed, talking of how much wealth might be gained by breaking the empire’s power.
+Stahlmast has no qualms about whom he works with, as long as those who serve him understand that he’s in charge. He might appeal to the characters as free adventurers, hoping to convince him that fighting against the [[Dwendalian Empire]] is a noble cause, or he might appeal to their greed, talking of how much wealth might be gained by breaking the [[Dwendalian Empire|empire]]’s power.
 
 If the characters abandon their pledge to aid [[Hupperdook]] and instead agree to Stahlmast’s offer, they are granted a room of their choice within the lair and a weekly pay of 25 gp as his elite enforcers. The characters reach 3rd level (see “[Concluding the Adventure](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#ConcludingtheAdventure1 "Concluding the Adventure")”), but their path now leans toward working with the [[Kryn Dynasty]] and helping Stahlmast with his plots against [[Hupperdook]] and the [[Dwendalian Empire]].
 

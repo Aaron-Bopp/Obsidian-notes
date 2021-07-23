@@ -10,7 +10,7 @@ Encounter
 
 1
 
-The characters encounter 1d4 wildfolk [scouts](https://www.dndbeyond.com/monsters/scout) hunting a [saber-toothed tiger](https://www.dndbeyond.com/monsters/saber-toothed-tiger). The scouts are out of arrows and willing to trade equipment and information to replenish their ammunition.
+The characters encounter 1d4 [[wildfolk]] [scouts](https://www.dndbeyond.com/monsters/scout) hunting a [saber-toothed tiger](https://www.dndbeyond.com/monsters/saber-toothed-tiger). The scouts are out of arrows and willing to trade equipment and information to replenish their ammunition.
 
 2
 
@@ -26,7 +26,7 @@ The characters encounter the [revenant](https://www.dndbeyond.com/monsters/reven
 
 5
 
-The characters find a 3-foot-tall, 50-pound egg. If they keep the egg in a cold environment for 1d10 weeks, a [white dragon wyrmling](https://www.dndbeyond.com/monsters/white-dragon-wyrmling) hatches from it.
+The characters find a 3-foot-tall, 50-pound egg. If they keep the egg in a cold environment for 1d10 weeks, a [white [[dragon]] wyrmling](https://www.dndbeyond.com/monsters/white-[[dragon]]-wyrmling) hatches from it.
 
 6
 
@@ -38,7 +38,7 @@ Encounter
 
 1
 
-The characters encounter 1d4 + 1 [mammoths](https://www.dndbeyond.com/monsters/mammoth) being hunted by 2d6 wildfolk [scouts](https://www.dndbeyond.com/monsters/scout).
+The characters encounter 1d4 + 1 [mammoths](https://www.dndbeyond.com/monsters/mammoth) being hunted by 2d6 [[wildfolk]] [scouts](https://www.dndbeyond.com/monsters/scout).
 
 2
 
@@ -46,7 +46,7 @@ An [abominable yeti](https://www.dndbeyond.com/monsters/abominable-yeti) and 1d4
 
 3
 
-The characters encounter 2d4 [yetis from Allowak's Sanctuary](https://www.dndbeyond.com/monsters/yeti-allowak-variant) (see "[Allowak's Sanctuary Yeti Statistics](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-[[eiselcross]]#AllowaksSanctuaryYetiStatistics "[[Allowak's Sanctuary]] Yeti Statistics")" later in this chapter). The yetis attempt to scare the characters away but do not wish to do harm.
+The characters encounter 2d4 [yetis from Allowak's Sanctuary](https://www.dndbeyond.com/monsters/yeti-allowak-variant) (see "[Allowak's Sanctuary Yeti Statistics](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#AllowaksSanctuaryYetiStatistics "[[Allowak's Sanctuary]] Yeti Statistics")" later in this chapter). The yetis attempt to scare the characters away but do not wish to do harm.
 
 4
 
@@ -54,7 +54,7 @@ The characters pass an [[Aeor|Aeorian]] building that crashed nearby. The buildi
 
 5
 
-An [Aeorian absorber](https://www.dndbeyond.com/monsters/[[Aeor|aeorian]]-absorber) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#AeorianAbsorber "chapter 7")) ambushes the characters.
+An [Aeorian absorber](https://www.dndbeyond.com/monsters/aeorian-absorber) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#AeorianAbsorber "chapter 7")) ambushes the characters.
 
 6
 
@@ -66,7 +66,7 @@ Encounter
 
 1
 
-An [adult white dragon](https://www.dndbeyond.com/monsters/adult-white-dragon) confronts the characters, demanding treasure for passage through its territory. The dragon accepts 1,000 gp worth of treasure or a rare magic item as acceptable tribute.
+An [adult white dragon](https://www.dndbeyond.com/monsters/adult-white-[[dragon]]) confronts the characters, demanding treasure for passage through its territory. The [[dragon]] accepts 1,000 gp worth of treasure or a rare magic item as acceptable tribute.
 
 2
 
@@ -74,7 +74,7 @@ The characters encounter an [iron golem](https://www.dndbeyond.com/monsters/iron
 
 3
 
-The characters find a camp of 2d4 [minotaurs](https://www.dndbeyond.com/monsters/minotaur) and 4d6 [orcs](https://www.dndbeyond.com/monsters/orc) looking for wildfolk to recruit for the Kryn. These explorers want to keep their operation covert. If they aren't convinced the characters can keep their secret, the Xhorhasians attack.
+The characters find a camp of 2d4 [minotaurs](https://www.dndbeyond.com/monsters/minotaur) and 4d6 [orcs](https://www.dndbeyond.com/monsters/orc) looking for [[wildfolk]] to recruit for the [[Kryn Dynasty|Kryn]]. These explorers want to keep their operation covert. If they aren't convinced the characters can keep their secret, the Xhorhasians attack.
 
 4
 
@@ -94,11 +94,11 @@ Encounter
 
 1
 
-The characters find the buried top of an [[Aeor|Aeorian]] tower that crashed into the ice. Ice fills the lower levels of the tower, and 1d4 + 1 [Aeorian nullifiers](https://www.dndbeyond.com/monsters/[[Aeor|aeorian]]-nullifier) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#AeorianNullifier "chapter 7")) are frozen in the ice.
+The characters find the buried top of an [[Aeor|Aeorian]] tower that crashed into the ice. Ice fills the lower levels of the tower, and 1d4 + 1 [Aeorian nullifiers](https://www.dndbeyond.com/monsters/aeorian-nullifier) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#AeorianNullifier "chapter 7")) are frozen in the ice.
 
 2
 
-The characters encounter 2d6 gladiator wormkin (see "[Tomb of the Worm](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-[[eiselcross]]#TomboftheWorm "[[Tomb of the Worm]]")" later in this chapter) attempting to force-feed a group of 3d6 wildfolk [commoners](https://www.dndbeyond.com/monsters/commoner) the meat of the Undermaw.
+The characters encounter 2d6 gladiator wormkin (see "[Tomb of the Worm](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#TomboftheWorm "[[Tomb of the Worm]]")" later in this chapter) attempting to force-feed a group of 3d6 [[wildfolk]] [commoners](https://www.dndbeyond.com/monsters/commoner) the meat of the Undermaw.
 
 3
 
@@ -106,7 +106,7 @@ The characters find a humanoid skull frozen in the ice. If they free the skull, 
 
 4
 
-The characters encounter two [mages](https://www.dndbeyond.com/monsters/mage) from [[Balenpost]] planning to steal an [[Aeor|Aeorian]] item from a camp of 3d6 [frost giants](https://www.dndbeyond.com/monsters/frost-giant) and their tamed [frost worm](https://www.dndbeyond.com/monsters/frost-worm) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#FrostWorm "chapter 7")) The mages ask for the characters' help with the heist.
+The characters encounter two [mages](https://www.dndbeyond.com/monsters/mage) from [[Balenpost]] planning to steal an [[Aeor|Aeorian]] item from a camp of 3d6 [frost giants](https://www.dndbeyond.com/monsters/frost-giant) and their tamed [frost worm](https://www.dndbeyond.com/monsters/frost-worm) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#FrostWorm "chapter 7")) The mages ask for the characters' help with the heist.
 
 5
 
@@ -114,7 +114,7 @@ The characters encounter the [ghost](https://www.dndbeyond.com/monsters/ghost) o
 
 6
 
-The characters encounter 2d6 [frost giant zombies](https://www.dndbeyond.com/monsters/frost-giant-zombie) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#FrostGiantZombie "chapter 7")). These zombies did not come from the [[Fortress of the Dead Jarl]]. Their origin is up to you.
+The characters encounter 2d6 [frost giant zombies](https://www.dndbeyond.com/monsters/frost-giant-zombie) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#FrostGiantZombie "chapter 7")). These zombies did not come from the [[Fortress of the Dead Jarl]]. Their origin is up to you.
 
 7
 
@@ -122,4 +122,4 @@ The characters cross over an area of thin ice. A [kraken](https://www.dndbeyond.
 
 8
 
-An [ancient white dragon](https://www.dndbeyond.com/monsters/ancient-white-dragon) ambushes the characters.
+An [ancient white dragon](https://www.dndbeyond.com/monsters/ancient-white-[[dragon]]) ambushes the characters.

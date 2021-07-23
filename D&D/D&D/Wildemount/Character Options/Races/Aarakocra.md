@@ -1,10 +1,10 @@
 ## Aarakocra
 
-Many people across [[Wildemount]] consider the winged aarakocra to be a myth, so infrequently do they descend from their lofty aeries to deal with wingless folk. Where they are known, the aarakocra rarely engage with the land-bound societies of [[Wildemount]], though some take great pleasure in traveling on the open ocean with Concord sailors and [[The Revelry|Revelry]] pirates. Some legends say that [[Melora]] the Wild Mother created the aarakocra as storm herders who drive the clouds across the sky, and some aarakocra tribes play a sport called h’aara-shie, or “cloud chasing,” that reflects this ancient tale.
+Many people across [[Wildemount]] consider the winged aarakocra to be a myth, so infrequently do they descend from their lofty aeries to deal with wingless folk. Where they are known, the aarakocra rarely engage with the land-bound societies of [[Wildemount]], though some take great pleasure in traveling on the open ocean with [[Clovis Concord|Concord]] sailors and [[The Revelry|Revelry]] pirates. Some legends say that [[Melora]] the Wild Mother created the aarakocra as storm herders who drive the clouds across the sky, and some aarakocra tribes play a sport called h’aara-shie, or “cloud chasing,” that reflects this ancient tale.
 
 ### Aarakocra in the [[Dwendalian Empire]]
 
-Within the empire, most aarakocra keep to the hidden settlement of Vol’antim in the [[Cyrios Mountains]]. The appearance of an aarakocra is seen as a blessing in the settlements of the [[Truscan Vale]] and the [[Marrow Valley]]—often much to the aarakocra’s embarrassment. Most rural folk consider the aarakocra to be angels of [[Erathis]] the Law Bearer, no matter how diligently the aarakocra explain otherwise.
+Within the [[Dwendalian Empire|empire]], most aarakocra keep to the hidden settlement of Vol’antim in the [[Cyrios Mountains]]. The appearance of an aarakocra is seen as a blessing in the settlements of the [[Truscan Vale]] and the [[Marrow Valley]]—often much to the aarakocra’s embarrassment. Most rural folk consider the aarakocra to be angels of [[Erathis]] the [[Erathis|Law Bearer]], no matter how diligently the aarakocra explain otherwise.
 
 ### Aarakocra on the [[Menagerie Coast]]
 
@@ -12,7 +12,7 @@ The few aarakocra who descend from the [[Cyrios Mountains]] or emerge from the c
 
 ### Aarakocra in [[Xhorhas]]
 
-Aarakocra are native to the mountains and jungles of western [[Wildemount]], and have precious few settlements in the mountains surrounding [[Xhorhas]]. The average Kryn [[Dark Elves|dark elf]] would react to the sight of an aarakocra with shock, for they have neither stories nor experience with such creatures.
+Aarakocra are native to the mountains and jungles of western [[Wildemount]], and have precious few settlements in the mountains surrounding [[Xhorhas]]. The average [[Kryn Dynasty|Kryn]] [[Dark Elves|dark elf]] would react to the sight of an aarakocra with shock, for they have neither stories nor experience with such creatures.
 
 ### Aarakocra Names
 

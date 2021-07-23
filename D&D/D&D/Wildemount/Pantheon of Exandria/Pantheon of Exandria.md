@@ -37,7 +37,7 @@ Honor, justice
 
 Life, Order,\* War
 
-Silver dragon’s head in profile
+Silver [[dragon]]’s head in profile
 
 [[Corellon]]
 
@@ -235,11 +235,11 @@ Crooked, seven-pointed star made of chains
 
 LE
 
-Dragon god of evil
+[[Dragon]] god of evil
 
 Order,\*\* Trickery, War
 
-Taloned dragon claw
+Taloned [[dragon]] claw
 
 [[Torog]]
 

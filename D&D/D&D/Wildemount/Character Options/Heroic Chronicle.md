@@ -14,7 +14,7 @@ A character’s story begins with determining the region where they were born, t
 
 #### Homeland
 
-The known lands of [[Wildemount]] are divided into four major geographic regions, each of which is described in [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer "chapter 3"). From west to east, these regions are the [[Menagerie Coast]], [[Western Wynandir]] (which is further divided into the [[Marrow Valley]] and the [[Zemni Fields]]), the [[Greying Wildlands]], and [[Eastern Wynandir]]. The northernmost reaches of the continent—the forgotten lands of [[Eiselcross]]—are not included in this section.
+The known lands of [[Wildemount]] are divided into four major geographic regions, each of which is described in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "chapter 3"). From west to east, these regions are the [[Menagerie Coast]], [[Western Wynandir]] (which is further divided into the [[Marrow Valley]] and the [[Zemni Fields]]), the [[Greying Wildlands]], and [[Eastern Wynandir]]. The northernmost reaches of the continent—the forgotten lands of [[Eiselcross]]—are not included in this section.
 
 Roll a d100 and consult the Homelands table to determine which region you were born in. If you were born in one region but grew up in another, roll twice on the table to determine your place of birth and the region you eventually settled in.
 
@@ -40,27 +40,27 @@ Each nation in [[Wildemount]] views people’s [[backgrounds]] according to its 
 
 ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-21.png)
 
-**_Menagerie Coast._** Both the [[Clovis Concord]] and their hated nemesis, [[the Revelry]] pirates, prize personal freedom over all other things. [[The Revelry]] simply takes this ideology one bloody step further. People of the Concord celebrate folk heroes and entertainers, and all other people who might become celebrities, iconoclasts, and figures of legend.
+**_Menagerie Coast._** Both the [[Clovis Concord]] and their hated nemesis, [[the Revelry]] pirates, prize personal freedom over all other things. [[The Revelry]] simply takes this ideology one bloody step further. People of the [[Clovis Concord|Concord]] celebrate folk heroes and entertainers, and all other people who might become celebrities, iconoclasts, and figures of legend.
 
-At the same time, the common working-class sailor is a symbol of the Concord’s strength. As with the crew of a well-run ship, the small actions of individuals can have a huge impact when all are working toward common goals. Common sailors despise [[the Revelry]], and noteworthy sailors might even have a rival within [[the Revelry]].
+At the same time, the common working-class sailor is a symbol of the [[Clovis Concord|Concord]]’s strength. As with the crew of a well-run ship, the small actions of individuals can have a huge impact when all are working toward common goals. Common sailors despise [[the Revelry]], and noteworthy sailors might even have a rival within [[the Revelry]].
 
 **_Western Wynandir._** The [[Dwendalian Empire]] prizes king and country over personal freedoms—at least as far as the freedoms of the poor are concerned. For the wealthy noble class, most laws are mere guidelines, since bribery and political favors can make almost any problem go away.
 
-In the [[Dwendalian Empire]], rural folk are seen as honest, hardworking, and pious, while the wealthy ruling class are viewed as beneficent patricians—or as miserly tyrants. Patriotism is a core virtue, and enlisting in the Righteous Brand and adhering to the empire’s strict religious laws are the most patriotic acts of all.
+In the [[Dwendalian Empire]], rural folk are seen as honest, hardworking, and pious, while the wealthy ruling class are viewed as beneficent patricians—or as miserly tyrants. Patriotism is a core virtue, and enlisting in the Righteous Brand and adhering to the [[Dwendalian Empire|empire]]’s strict religious laws are the most patriotic acts of all.
 
-**_Greying Wildlands._** The [[Greying Wildlands]] and the settlement of [[Shadycreek Run]] are lawless. Crime is a virtue here, mercy a vice. Only strength rules in the land run by the coalition of criminals known as “the Tribes.” Anyone who doesn’t have the personal strength to defend themself is treated with contempt, and those who represent the iron fist of the empire are utterly despised.
+**_Greying Wildlands._** The [[Greying Wildlands]] and the settlement of [[Shadycreek Run]] are lawless. Crime is a virtue here, mercy a vice. Only strength rules in the land run by the coalition of criminals known as “the Tribes.” Anyone who doesn’t have the personal strength to defend themself is treated with contempt, and those who represent the iron fist of the [[Dwendalian Empire|empire]] are utterly despised.
 
 Travel farther north, however, and one reaches the [[Diarchy of Uthodurn]], a stable and ancient city ruled by [[elves]] and [[dwarves]]. Here, order and art are prized over chaos and personal enrichment. If your character is from [[Uthodurn]] rather than [[Shadycreek Run]], replace any rival you gain from the Social Status Relationships table with an ally, and vice-versa.
 
-**_Eastern Wynandir._** Accumulating knowledge and achieving spiritual enlightenment are the virtues of the [[Kryn Dynasty]], whose society is built around the tenets of [[the Luxon]]. Artists, entertainers, artisans, and all people who create are well-valued in Kryn society. Yet in this age of war, people whose skills allow them to destroy are paradoxically prized just as highly.
+**_Eastern Wynandir._** Accumulating knowledge and achieving spiritual enlightenment are the virtues of the [[Kryn Dynasty]], whose society is built around the tenets of [[the Luxon]]. Artists, entertainers, artisans, and all people who create are well-valued in [[Kryn Dynasty|Kryn]] society. Yet in this age of war, people whose skills allow them to destroy are paradoxically prized just as highly.
 
-To the Kryn, a person’s background is less important than the experiences they’ve accumulated—particularly for those who have begun walking the sacred path known as consecution. Nonetheless, even the most enlightened society can’t help but look down upon its lowest citizens and sneer at its haughty elite. Once all beings are beloved by [[the Luxon]], perhaps these ills of society will be purged once and for all.
+To the [[Kryn Dynasty|Kryn]], a person’s background is less important than the experiences they’ve accumulated—particularly for those who have begun walking the sacred path known as [[consecution]]. Nonetheless, even the most enlightened society can’t help but look down upon its lowest citizens and sneer at its haughty elite. Once all beings are beloved by [[the Luxon]], perhaps these ills of society will be purged once and for all.
 
 #### Home Settlement
 
 Once you’ve determined your nation and considered your social status within that realm, roll on the appropriate table in this section to determine which settlement you grew up in. If your character is a traveler—a child of soldiers, a nomad, a traveling performer, and so forth—you can roll for up to three settlements that you’ve visited often and have some connections in.
 
-Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer "chapter 3"). If your home settlement doesn’t make sense for your social status, you can either roll for a different settlement or think about ways to make a contradiction work for your backstory. For example, if you have the Noble background but rolled a village as a home settlement, perhaps you were raised there to protect you from your family’s enemies.
+Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "chapter 3"). If your home settlement doesn’t make sense for your social status, you can either roll for a different settlement or think about ways to make a contradiction work for your backstory. For example, if you have the Noble background but rolled a village as a home settlement, perhaps you were raised there to protect you from your family’s enemies.
 
 | d100  | Settlement Name | Type |
 | ----- | --------------- | ---- |
@@ -130,7 +130,7 @@ Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/source
 | 97–00 | [[Xarzith Kitril]]        | City             |
 #### Race
 
-You can determine your character’s race by consulting the section for your home settlement in [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer "chapter 3"). Each settlement’s description includes a percentile breakdown of its racial demographics. You can roll a d100 to determine your character’s race, or simply choose whichever race you wish to play. If your roll indicates “other races,” you can choose any race that isn’t already represented in the settlement’s demographics.
+You can determine your character’s race by consulting the section for your home settlement in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "chapter 3"). Each settlement’s description includes a percentile breakdown of its racial demographics. You can roll a d100 to determine your character’s race, or simply choose whichever race you wish to play. If your roll indicates “other races,” you can choose any race that isn’t already represented in the settlement’s demographics.
 
 #### Family
 
@@ -218,7 +218,7 @@ If you roll a particularly powerful ally or rival on this table, their involveme
 | 81–90 | You helped this person out once when they were down on their luck, and now they go to you whenever they need help.                                                                                               |     |
 | 91–00 | This person wants to be your friend, but their help has always made your life harder.                                                                                                                            |     |
 
-**_Secret Identities._** Some of these allies and rivals might keep their true identity secret from your character. The DM can decide to make one or more of the rolls on the Ally and Rival Identities table to keep the secret intact. [[Stat blocks]] appear in either appendix B of the _[Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual")_ (MM) or [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary "chapter 7") of this book (EGW).
+**_Secret Identities._** Some of these allies and rivals might keep their true identity secret from your character. The DM can decide to make one or more of the rolls on the Ally and Rival Identities table to keep the secret intact. [[Stat blocks]] appear in either appendix B of the _[Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual")_ (MM) or [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary "chapter 7") of this book (EGW).
 
 ##### Ally and Rival Identities
 
@@ -259,11 +259,11 @@ Each region of [[Wildemount]] favors different cuisine based on climate and cult
 
 **_Menagerie Coast._** The sea and the freewheeling culture of the [[Menagerie Coast]] makes its people favor seafood with bold spices, as well as drinks and salads with powerful fruity flavors. Indigenous ingredients have been married with Marquesian and Tal’Dorei recipes, creating a unique and vibrant culinary culture.
 
-Concordian brewers are known for a potent and sweet brandy called silvertooth, distilled from the starchy palm lily root, and sweetened with fermented pineapple and sugarcane. Pirates favor rum, which is cheaper to produce. Tropical fruits and pods not used for brewing make luxurious desserts, and are eaten raw, cooked, dried, and baked into breads and cakes.
+[[Clovis Concord|Concordian]] brewers are known for a potent and sweet brandy called silvertooth, distilled from the starchy palm lily root, and sweetened with fermented pineapple and sugarcane. Pirates favor rum, which is cheaper to produce. Tropical fruits and pods not used for brewing make luxurious desserts, and are eaten raw, cooked, dried, and baked into breads and cakes.
 
-**_Western Wynandir._** The austere lifestyle of the [[Dwendalian Empire]] and the dour climate of its territories makes the people of the empire favor hearty dishes made of root vegetables and red meat. Poorer households often eat feet, tongue, ears, and tripe, while the best cuts are reserved for noble tables. Imperial cuisine uses few spices, but still contains plenty of flavor from butter and herbs, or from fermentation.
+**_Western Wynandir._** The austere lifestyle of the [[Dwendalian Empire]] and the dour climate of its territories makes the people of the [[Dwendalian Empire|empire]] favor hearty dishes made of root vegetables and red meat. Poorer households often eat feet, tongue, ears, and tripe, while the best cuts are reserved for noble tables. Imperial cuisine uses few spices, but still contains plenty of flavor from butter and herbs, or from fermentation.
 
-Heavily fermented and pickled vegetables feature prominently in the cuisine of both rich and poor households alike. Wealthy imperial families drink imported wine, but the empire is best known for its potent spirits, distilled from root vegetables and enjoyed by rural folk.
+Heavily fermented and pickled vegetables feature prominently in the cuisine of both rich and poor households alike. Wealthy imperial families drink imported wine, but the [[Dwendalian Empire|empire]] is best known for its potent spirits, distilled from root vegetables and enjoyed by rural folk.
 
 **_Greying Wildlands._** Fresh game and foraged roots and berries are the primary food of the hunters of the [[Greying Wildlands]]. People who are particularly well connected within the [[Tribes of Shadycreek Run]] also enjoy exotic foods smuggled across the continent by [[the Myriad]].
 
@@ -271,7 +271,7 @@ Local drinks are made from fermented berries, but consumption of alcohol in the 
 
 **_Eastern Wynandir._** Much of the territory of [[Xhorhas]] is wasteland, and the most edible plants in [[Eastern Wynandir]] are hearty tubers, roots, and grasses. The marshes and bogs of this land are also known for producing vast quantities of rice and cranberries. Most folk living here are hunters who band together to take down the mammoths and other massive beasts that roam the wastelands, one of which can provide enough food to feed a tribe for weeks.
 
-The luxurious cuisine of the Kryn court makes heavy use of mushrooms and rare meats found only in the dangerous caverns of the Underdark. The aboveground regions of [[Xhorhas]] are known for their fiery plum spirits, whereas working-class drow traditionally drink an earthy, mushroom-based beer.
+The luxurious cuisine of the [[Kryn Dynasty|Kryn]] court makes heavy use of mushrooms and rare meats found only in the dangerous caverns of the Underdark. The aboveground regions of [[Xhorhas]] are known for their fiery plum spirits, whereas working-class drow traditionally drink an earthy, mushroom-based beer.
 
 | d8  | Food                                                                                |
 | --- | ----------------------------------------------------------------------------------- |
@@ -367,21 +367,21 @@ If you’re looking for prophecy goals for your character, you can roll on the P
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | I will defeat the creature that killed my parents. Its defeat might make me question my purpose in life.                                                        |
 | 2   | I will uncover the reason that the [[Cerberus Assembly]] took my sibling away. Finding my sibling will set political events beyond my control into motion.          |
-| 3   | I will save my village from the gnoll tribe that has raided us for the past year. Their defeat will inspire me to perform even greater feats of heroism.        |
-| 4   | I will unlock the secrets of consecution that the Kryn are hiding. This knowledge will open my mind to a terrifying truth.                                      |
+| 3   | I will save my village from the [[Gnolls|gnoll]] tribe that has raided us for the past year. Their defeat will inspire me to perform even greater feats of heroism.        |
+| 4   | I will unlock the secrets of [[consecution]] that the [[Kryn Dynasty|Kryn]] are hiding. This knowledge will open my mind to a terrifying truth.                                      |
 | 5   | I will join a [[blood hunter]] order. My new comrades-in-arms will make me powerful, but I must pay a steep price for that power.                                   |
 | 6   | I will steal a king’s ransom from a [[The Revelry|Revelry]] pirate. That wealth will make me happy, but it will also draw unsavory characters to me.                            |
-| 7   | I will become a hero of the war between the [[Dwendalian Empire]] and the Kryn. I will be haunted by the atrocities I witness on the battlefield.                   |
+| 7   | I will become a hero of the war between the [[Dwendalian Empire]] and the [[Kryn Dynasty|Kryn]]. I will be haunted by the atrocities I witness on the battlefield.                   |
 | 8   | I will cleanse the [[Savalirwood]] of its corruption while welcoming that corruption into my own body.                                                              |
 | 9   | I will infiltrate [[the Myriad]], but doing so will compel me to commit evil acts.                                                                                  |
 | 10  | I will uncover a relic from [[Eiselcross]] and become famous, but the relic will exact a terrible cost.                                                             |
-| 11  | I will speak to a dragon, live to tell the tale, and provoke the dragon’s everlasting wrath.                                                                    |
+| 11  | I will speak to a [[dragon]], live to tell the tale, and provoke the [[dragon]]’s everlasting wrath.                                                                    |
 | 12  | I will steal a holy relic of the [[Kryn Dynasty]], making me a target for anyone who desires its power.                                                             |
 | 13  | I will hesitate at an important moment. Another person will suffer for it.                                                                                      |
 | 14  | I will stumble by accident into the arms of the [[Golden Grin]]. Though I will reject their call at first, something will draw me back.                             |
 | 15  | I will befriend a flying beast and ride it through the skies. Others will envy me for the bond I have with this creature.                                       |
 | 16  | I will kneel before Bright Queen [[Leylas Kryn]] without knowing who she is. This moment of uncertainty will lead to danger.                                        |
-| 17  | I will stand before Princess [[Suria Dwendal]] and briefly hold the fate of the empire in my hand. I won’t realize the gravity of my decision until it is too late. |
+| 17  | I will stand before Princess [[Suria Dwendal]] and briefly hold the fate of the [[Dwendalian Empire|empire]] in my hand. I won’t realize the gravity of my decision until it is too late. |
 | 18  | My actions will lead to the death of a marquis of the [[Clovis Concord]]. I will know exactly who killed them, but no one in power will believe me.                 |
 | 19  | I will anger one of the [[Tribes of Shadycreek Run]]. As its members hunt me in retribution, others will suffer and I will pay the price.                           |
 | 20  | I will meet my birth parents. Doing so reveals a secret about my birth that will change the way I look at the world.                                            |

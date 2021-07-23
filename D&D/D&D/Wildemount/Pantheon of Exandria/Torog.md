@@ -4,13 +4,13 @@ The dark god of the endless tunnels and caverns beneath [[Exandria]], Torog is t
 
 Torog remains banished within an unknown sliver of the [[Far Realm]] that now borders the deepest pits of the Underdark, where the boundaries between worlds grow thin and birth terrible abominations bent on subjugation.
 
-**_Depiction._** The Crawling King is rendered as a swollen, malformed worm that slithers through the dark below, with a screaming, hairless human head at the helm and three arms carving through the lightless rock.
+**_Depiction._** The Crawling King is rendered as a swollen, malformed worm that slithers through the dark below, with a screaming, hairless [[Humans|human]] head at the helm and three arms carving through the lightless rock.
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-22.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-22.png)
 
 Torog, the Crawling King
 
-**_Enemies._** [[Pelor]] and [[Raei]] defeated Torog during [[the Calamity]] by luring their nemesis above ground. [[Pelor]] pierced Torog’s tenebrous body with ten thousand lances of sunlight, and the Everlight imprisoned him beyond the boundaries of [[Exandria]]. The tears of pain and anger the Crawling King shed burned through [[Exandria]], and his faithful fled into these tunnels to escape their enemies’ holy light.
+**_Enemies._** [[Pelor]] and [[Raei]] defeated Torog during [[the Calamity]] by luring their nemesis above ground. [[Pelor]] pierced Torog’s tenebrous body with ten thousand lances of sunlight, and the [[Raei|Everlight]] imprisoned him beyond the boundaries of [[Exandria]]. The tears of pain and anger the Crawling King shed burned through [[Exandria]], and his faithful fled into these tunnels to escape their enemies’ holy light.
 
 #### Commandments of Torog
 

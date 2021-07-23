@@ -8,7 +8,7 @@
 
 Blood Hunters are mistrusted monster hunters that live outside society, using blood magic to stalk their quarries.
 
-Bright Queen [[Leylas Kryn]] is the head of Den Kryn and heralded as the leader of the [[Kryn Dynasty]] of [[Xhorhas]].
+Bright Queen [[Leylas Kryn]] is the head of Den [[Kryn Dynasty|Kryn]] and heralded as the leader of the [[Kryn Dynasty]] of [[Xhorhas]].
 
 Calamity is the name given for the collective wars and ensuing cataclysms that occurred at the end of the [[Age of Arcanum]], which nearly destroyed all life and civilization across [[Exandria]].
 
@@ -80,7 +80,7 @@ PD denotes a year that has occurred “Post-[[Divergence]].” For example, [[Th
 
 [[Pelor]] is the god of the sun, summer, and the harvest.
 
-Platinum Dragon is the alternative title for the god [[Bahamut]].
+Platinum [[Dragon]] is the alternative title for the god [[Bahamut]].
 
 Prime Deities are the gods who turn to the more orderly, good, and balanced view of creation.
 
@@ -100,7 +100,7 @@ Righteous Brand is the military army of the [[Dwendalian Empire]].
 
 [[Sehanine]] is the god of moonlight, illusions, and misdirection.
 
-Starosta is the title of a settlement leader within the [[Dwendalian Empire]].
+[[Starosta]] is the title of a settlement leader within the [[Dwendalian Empire]].
 
 Storm Lord is the alternative title for the god [[Kord]].
 

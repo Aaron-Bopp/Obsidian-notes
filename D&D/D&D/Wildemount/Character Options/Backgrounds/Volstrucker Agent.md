@@ -2,7 +2,7 @@
 
 The Volstrucker are a clandestine organization of arcane assassins and enforcers in the service of the [[Cerberus Assembly]]. Their operatives bear no official title, but are referred to in hushed tones as “scourgers” by residents of large Dwendalian cities such as [[Zadash]] and [[Rexxentrum]].
 
-You are a Volstrucker agent. Your duty is to silence dissidents who would undermine the will of King Dwendal—and more importantly, the will of the Assembly.
+You are a Volstrucker agent. Your duty is to silence dissidents who would undermine the will of [[Bertrand Dwendal|King Dwendal]]—and more importantly, the will of the [[Cerberus Assembly|Assembly]].
 
 **Skill Proficiencies:** [Deception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Deception), [Stealth](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Stealth)
 
@@ -46,8 +46,8 @@ Agents of the Volstrucker are groomed to follow orders without question and to k
 
 | d6  | Ideal                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Order.** The will of the crown is absolute. (Law)                                                                       |
-| 2   | **True Loyalty.** The [[Cerberus Assembly]] is greater than any power, even the crown. (Law)                                  |
+| 1   | **Order.** The will of [[Bertrand Dwendal|the crown]] is absolute. (Law)                                                                       |
+| 2   | **True Loyalty.** The [[Cerberus Assembly]] is greater than any power, even [[Bertrand Dwendal|the crown]]. (Law)                                  |
 | 3   | **Death.** The penalty for disloyalty is death. (Evil)                                                                    |
 | 4   | **Determination.** I cannot fail. Not ever. (Neutral)                                                                     |
 | 5   | **Fear.** People should not respect power. They should fear it. (Evil)                                                    |
@@ -58,7 +58,7 @@ Agents of the Volstrucker are groomed to follow orders without question and to k
 | 1   | The job is all that matters. I will see it through.                                                       |
 | 2   | My orders are important, but my comrades are worth more than anything. I would die for them.              |
 | 3   | Everything I’ve done, I’ve done to protect someone close to me.                                           |
-| 4   | If the empire falls, all of civilization falls with it. I will hold back chaos and barbarism at any cost. |
+| 4   | If the [[Dwendalian Empire|empire]] falls, all of civilization falls with it. I will hold back chaos and barbarism at any cost. |
 
 | d4  | Flaw                                                                                                                                                                   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

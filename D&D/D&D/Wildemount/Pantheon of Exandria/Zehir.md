@@ -4,7 +4,7 @@ A wanderer in the shadows and the creator of snakes and serpentkin, Zehir is the
 
 Zehir subverts and poisons [[Exandria]] from the shadowed Towers of Night, hidden among the ever-shifting winds of the Astral Plane.
 
-**_Depiction._** Many forgotten temples were once built to the Cloaked Serpent, and within these chambers his image was embedded within much of the architecture. He is shown as a human body with six arms and a gargantuan serpentine head, fanged and frilled in aggression. Strands of thick, dark hair that sprout from his scaled body form layers of swirling shadow, obscuring his form.
+**_Depiction._** Many forgotten temples were once built to the Cloaked Serpent, and within these chambers his image was embedded within much of the architecture. He is shown as a [[Humans|human]] body with six arms and a gargantuan serpentine head, fanged and frilled in aggression. Strands of thick, dark hair that sprout from his scaled body form layers of swirling shadow, obscuring his form.
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-25.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-25.png)
 

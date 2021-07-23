@@ -8,4 +8,4 @@ Holidays unrelated to the gods celebrated across the continent in some form incl
 
 **Harvest’s Close.** Autumn begins on the 3rd of Fessuran and is typically celebrated with feasting in rural regions and with carnivals in the cities.
 
-**Barren Eve.** Winter’s longest night, the 2nd of Duscar, is a day of mourning for those lost in war. Come victory or ruin in the war between the Dwendalians and the Kryn, countless candles will be lit on the next Barren Eve.
+**Barren Eve.** Winter’s longest night, the 2nd of Duscar, is a day of mourning for those lost in war. Come victory or ruin in the war between the Dwendalians and the [[Kryn Dynasty|Kryn]], countless candles will be lit on the next Barren Eve.

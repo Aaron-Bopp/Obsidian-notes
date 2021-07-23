@@ -2,7 +2,7 @@ e# The Myriad
 
 Any civilized society will turn the people it has failed into criminals, and the societies of [[Wildemount]] are no exception. The continent’s largest criminal organization took shape about eighty years ago, when a shipping company in the Dwendalian city of [[Yrrosa]] turned to smuggling contraband to make ends meet. This tightknit group of clever smugglers soon began to bargain with their competitors, employing blackmail and offering membership to their organization as an alternative to elimination.
 
-The syndicate grew with alarming speed, infiltrating the criminal underbelly of every major city in [[Western Wynandir]]. Masquerading as purveyors of antiquities and foreign textiles, the Myriad focuses on providing their clients with exotic goods, such as illicit substances and magical beasts, or supplying hired muscle to intimidate their clients’ rivals. The worst of the Myriad even deal in human merchandise.
+The syndicate grew with alarming speed, infiltrating the criminal underbelly of every major city in [[Western Wynandir]]. Masquerading as purveyors of antiquities and foreign textiles, the Myriad focuses on providing their clients with exotic goods, such as illicit substances and magical beasts, or supplying hired muscle to intimidate their clients’ rivals. The worst of the Myriad even deal in [[Humans|human]] merchandise.
 
 Originally centered in [[Yrrosa]], the Myriad now operates across the continent as a loose network of gang bosses who run their own local sects without direct oversight from the mysterious heads of the syndicate. Each satellite group is expected to regularly deliver information and a cut of their profits to the leadership. Those who fail to pay up receive quiet threats of enslavement or assassination — and the Myriad always makes good on its threats.
 
@@ -12,7 +12,7 @@ Members of the Myriad are sworn to keep their syndicate secret by pretending tha
 
 The Myriad
 
-The empire scored a major victory fifteen years ago when they discovered and raided the central Myriad stronghold in [[Yrrosa]], forcing the surviving leadership to scatter across the continent. The Myriad has emphasized the narrative of its own fall in order to keep a low profile, though in fact it has retained most of its power. Its influence has stretched to the distant corners of [[Wildemount]] as it bide its time and waits to reinstate its control within the empire. Shifting tactics, the Myriad has now begun seeding major factions with double agents, who turn the most foolish or corrupt of their colleagues into the Myriad’s unwitting pawns.
+The [[Dwendalian Empire|empire]] scored a major victory fifteen years ago when they discovered and raided the central Myriad stronghold in [[Yrrosa]], forcing the surviving leadership to scatter across the continent. The Myriad has emphasized the narrative of its own fall in order to keep a low profile, though in fact it has retained most of its power. Its influence has stretched to the distant corners of [[Wildemount]] as it bide its time and waits to reinstate its control within the [[Dwendalian Empire|empire]]. Shifting tactics, the Myriad has now begun seeding major factions with double agents, who turn the most foolish or corrupt of their colleagues into the Myriad’s unwitting pawns.
 
 ## Goals
 
@@ -26,7 +26,7 @@ Merely mentioning Myriad activity within the [[Dwendalian Empire]] or the [[Mena
 
 Twenty years ago, the Myriad established satellite cells in the distant lands of Tal’Dorei and [[Marquet]]. Since their headquarters in [[Wildemount]] was destroyed, some have suggested sending agents across the oceans to reinforce their foreign operatives. If the network can quickly regain its former strength, there will eventually be little chance of stopping the spread of its power and influence.
 
-In the supposed absence of the Myriad, the [[Tribes of Shadycreek Run]] have begun to push into the empire to stake their claim in Myriad territory. The leaders of the Myriad watch from the shadows and plot ways to conscript (or, if necessary, to destroy) the prideful families of [[Shadycreek Run]].
+In the supposed absence of the Myriad, the [[Tribes of Shadycreek Run]] have begun to push into the [[Dwendalian Empire|empire]] to stake their claim in Myriad territory. The leaders of the Myriad watch from the shadows and plot ways to conscript (or, if necessary, to destroy) the prideful families of [[Shadycreek Run]].
 
 ## Figures of Interest
 

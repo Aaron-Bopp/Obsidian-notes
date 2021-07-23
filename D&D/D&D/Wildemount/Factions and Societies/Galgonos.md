@@ -1,1 +1,1 @@
-(chaotic neutral, male, human [cult fanatic](https://www.dndbeyond.com/monsters/cult-fanatic)
+(chaotic neutral, male, [[Humans|human]] [cult fanatic](https://www.dndbeyond.com/monsters/cult-fanatic)

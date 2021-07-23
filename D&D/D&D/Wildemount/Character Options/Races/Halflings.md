@@ -1,6 +1,6 @@
 ## Halflings
 
-Nearly every race in [[Exandria]] has an origin myth or two. The stories vary from realm to realm, but it’s clear that [[Corellon]] the Arch Heart wove the [[elves]] from grass, [[Moradin]] the All-Hammer carved the [[dwarves]] from earth, and so on. Halflings across [[Wildemount]] have no such stories, and no faiths tell of their god creating the small folk. Some speculate that [[Avandra]] the Change Bringer placed halflings in the world, but despite some of [[Ioun]]’s most devout priests petitioning their god to reveal the truth of the halflings’ creation, the Knowing Mentor has remained infuriatingly coy on the topic.
+Nearly every race in [[Exandria]] has an origin myth or two. The stories vary from realm to realm, but it’s clear that [[Corellon]] the [[Corellon|Arch Heart]] wove the [[elves]] from grass, [[Moradin]] the [[Moradin|All-Hammer]] carved the [[dwarves]] from earth, and so on. Halflings across [[Wildemount]] have no such stories, and no faiths tell of their god creating the small folk. Some speculate that [[Avandra]] the [[Avandra|Change Bringer]] placed halflings in the world, but despite some of [[Ioun]]’s most devout priests petitioning their god to reveal the truth of the halflings’ creation, the [[Ioun|Knowing Mentor]] has remained infuriatingly coy on the topic.
 
 For their part, halflings in the [[Dwendalian Empire]] and the [[Menagerie Coast]] don’t much care where they came from. All they know is that they walked out of a hole in the ground one day to find a beautiful world spread out before them. Some longed to explore to that world’s farthest horizons, while others were content to gaze upon the beauty of the same sunrise each morning. Plenty of halflings have joined the [[Library of the Cobalt Soul|Cobalt Soul]] over the years in desperate search of answers to the world’s big questions—where did we come from, and where are we going? But most halflings are content to leave the questions of past and future well enough alone, simply living in the present.
 
@@ -18,7 +18,7 @@ Halflings are common enough in the [[Clovis Concord]] that just about every vess
 
 ### Halflings in [[Xhorhas]]
 
-Few Xhorhasians have ever seen a halfling except for the occasional halfling soldier in Dwendalian armor. Because of this, most Kryn citizens view halflings as icons of the empire and are quick to distrust them. Only the Lotusden halflings, a reclusive and insular clan native to the [[Lotusden Greenwood]], call [[Xhorhas]] home.
+Few Xhorhasians have ever seen a halfling except for the occasional halfling soldier in Dwendalian armor. Because of this, most [[Kryn Dynasty|Kryn]] citizens view halflings as icons of the [[Dwendalian Empire|empire]] and are quick to distrust them. Only the Lotusden halflings, a reclusive and insular clan native to the [[Lotusden Greenwood]], call [[Xhorhas]] home.
 
 ### Halfling Subraces
 

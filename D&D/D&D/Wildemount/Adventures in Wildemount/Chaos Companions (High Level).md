@@ -8,4 +8,4 @@
 
 [](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/03-04.png)
 
-Streets of Nicodranas
+Streets of [[Nicodranas]]

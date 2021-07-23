@@ -16,7 +16,7 @@ If you’re a player, this book contains new options that will help your charact
 
 The [[Dwendalian Empire]] is a young, ambitious state borne from decades of strife in [[Western Wynandir]] — the heartland of [[Wildemount]]. Its austere lands are dotted with tiny villages, ruins of ancient civilizations, and pockets of uncharted wilderness.
 
-Campaigns set in the [[Dwendalian Empire]] are bound to involve elements of war and political intrigue. The empire is at war with the [[Kryn Dynasty]], a nation of surface-dwelling drow which occupies [[Eastern Wynandir]] and the wastes of [[Xhorhas]]. This war allows various Dwendalian factions, such as the power-hungry [[Cerberus Assembly]], to vie for political dominance.
+Campaigns set in the [[Dwendalian Empire]] are bound to involve elements of war and political intrigue. The [[Dwendalian Empire|empire]] is at war with the [[Kryn Dynasty]], a nation of surface-dwelling drow which occupies [[Eastern Wynandir]] and the wastes of [[Xhorhas]]. This war allows various Dwendalian factions, such as the power-hungry [[Cerberus Assembly]], to vie for political dominance.
 
 ### [[Clovis Concord]]
 
@@ -32,9 +32,9 @@ Campaigns set in the [[Biting North]] often involve morally gray characters butt
 
 ### [[Kryn Dynasty]]
 
-The [[Kryn Dynasty]] is an empire made up of [[Dark Elves]] (drow) and other humanoids typically considered to be monsters by the other nations of [[Wildemount]], such as minotaurs, [[goblinkin]], and [[gnolls]]. The [[Kryn Dynasty]] rules over the wastes of [[Xhorhas]], a land once blighted by the rule of the Betrayer Gods when immortals still walked the land. The Kryn safeguard a secret; if your players haven’t seen any of Critical Role, revealing this secret could mark the turning point of a campaign.
+The [[Kryn Dynasty]] is an [[Dwendalian Empire|empire]] made up of [[Dark Elves]] (drow) and other humanoids typically considered to be monsters by the other nations of [[Wildemount]], such as minotaurs, [[goblinkin]], and [[gnolls]]. The [[Kryn Dynasty]] rules over the wastes of [[Xhorhas]], a land once blighted by the rule of the Betrayer Gods when immortals still walked the land. The [[Kryn Dynasty|Kryn]] safeguard a secret; if your players haven’t seen any of Critical Role, revealing this secret could mark the turning point of a campaign.
 
-A campaign set in [[Xhorhas]] will doubtless involve the war between the [[Kryn Dynasty]] and the [[Dwendalian Empire]], but it can also include traditional dungeon crawls, political intrigue within the courts of the dynasty, or even wilderness exploration that could unearth secrets lost since the fall of the Betrayer Gods.
+A campaign set in [[Xhorhas]] will doubtless involve the war between the [[Kryn Dynasty]] and the [[Dwendalian Empire]], but it can also include traditional dungeon crawls, political intrigue within the courts of the [[Kryn Dynasty|dynasty]], or even wilderness exploration that could unearth secrets lost since the fall of the Betrayer Gods.
 
 
 ## War!

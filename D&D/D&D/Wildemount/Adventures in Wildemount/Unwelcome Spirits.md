@@ -16,7 +16,7 @@ At Buhfal’s behest, the characters must chart a course to the [[Brokenveil Blu
 
 ## Setup and Starting Points
 
-Before starting the adventure, work with your players as they talk about why their characters have come to [[Urzin]]. Details regarding this unique settlement and its politics can be found in [chapter 3](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-gazetteer-wastes-of-[[xhorhas]]#[[Urzin]] "chapter 3"). The [horizonback tortoises](https://www.dndbeyond.com/monsters/horizonback-tortoise) that give the village its mobility are detailed in [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#HorizonbackTortoise "chapter 7"). Goblinoid or orc characters might be residents of [[Urzin]], but characters of other races are probably visitors to this remote settlement—and are probably feeling very much out of their element.
+Before starting the adventure, work with your players as they talk about why their characters have come to [[Urzin]]. Details regarding this unique settlement and its politics can be found in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-wastes-of-[[xhorhas]]#Urzin "chapter 3"). The [horizonback tortoises](https://www.dndbeyond.com/monsters/horizonback-tortoise) that give the village its mobility are detailed in [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#HorizonbackTortoise "chapter 7"). Goblinoid or [[Orcs|orc]] characters might be residents of [[Urzin]], but characters of other races are probably visitors to this remote settlement—and are probably feeling very much out of their element.
 
 This is also a good time to figure out if the characters already know each other or if this adventure is the first time they’ve met. If none of the characters are goblinoids, they most likely already make up an adventuring party and have traveled to [[Urzin]] together.
 
@@ -32,10 +32,10 @@ If the characters enter the hall of Ogre Lord Buhfal II, add the following:
 
 [Ogre Lord Buhfal II](https://www.dndbeyond.com/monsters/ogre-lord-buhfal-ii)—a lawful evil, male [ogre](https://www.dndbeyond.com/monsters/ogre) with an Intelligence score of 10—explains the current situation to the characters:
 
--   Since his father was slain forty years earlier by the Kryn paragon [[Sunbreaker Olomon]], Buhfal II has seen a slow swell of discontent among [[Urzin]]’s goblinoid population, who labor tirelessly to execute the [[Kryn Dynasty]]’s clandestine agendas. An increasing number of [[Urzin]]’s residents look to Buhfal and his advisors for leadership, despite the dynasty’s overt hold on the area.
+-   Since his father was slain forty years earlier by the [[Kryn Dynasty|Kryn]] paragon [[Sunbreaker Olomon]], Buhfal II has seen a slow swell of discontent among [[Urzin]]’s goblinoid population, who labor tirelessly to execute the [[Kryn Dynasty]]’s clandestine agendas. An increasing number of [[Urzin]]’s residents look to Buhfal and his advisors for leadership, despite the [[Kryn Dynasty|dynasty]]’s overt hold on the area.
 -   Three nights ago, Buhfal’s most trusted counselor, the [[Goblinkin|goblin]] witch [Bol’bara](https://www.dndbeyond.com/monsters/bolbara), journeyed to the foothills of the [[Brokenveil Bluffs]] to the west, where she regularly forages for ritual components. She never returned.
 -   Buhfal doesn’t know what happened to her, but he knows that [[Dwendalian Empire]] patrols had been spotted in the area in previous weeks. The patrols strike out from an outpost known as Fort Venture, which watches over the [[Brokenveil Bluffs]].
--   An elder villager who remembers the reign of the first Buhfal, Bol’bara is [[Urzin]]’s chief loremaster and a pivotal ally in both the ongoing battle against the empire and the enduring struggle against the cruel environs of the Xhorhasian swamps. Little is known of Bol’bara’s otherworldly patron, but her warlock powers are respected by all.
+-   An elder villager who remembers the reign of the first Buhfal, Bol’bara is [[Urzin]]’s chief loremaster and a pivotal ally in both the ongoing battle against the [[Dwendalian Empire|empire]] and the enduring struggle against the cruel environs of the Xhorhasian swamps. Little is known of Bol’bara’s otherworldly patron, but her warlock powers are respected by all.
 -   Without Bol’bara’s arcane protections and political guile, Buhfal fears his people will grow submissive to the [[Kryn Dynasty]]’s whims, making [[Urzin]] a more notable target for imperial reprisals.
 
 ### Buhfal’s Boon
@@ -51,7 +51,7 @@ As they make preparations, the characters discover that the “premium weapons�
 Characters looking for better gear can equip themselves (at normal prices) for the journey through [[Brokenveil Marsh]] by visiting one of [[Urzin]]’s merchants. Popular stops in the village include the following:
 
 -   Graaf the blacksmith (a lawful neutral, male [orc](https://www.dndbeyond.com/monsters/orc)) for weapons and armor
--   Quartermaster Krekk (a lawful evil, male [goblin](https://www.dndbeyond.com/monsters/[[Goblinkin|goblin]])) for tools and adventuring gear
+-   Quartermaster Krekk (a lawful evil, male [goblin](https://www.dndbeyond.com/monsters/goblin)) for tools and adventuring gear
 -   Vreya Trestilya (a chaotic good, agender [drow](https://www.dndbeyond.com/monsters/drow)) for bows, crossbows, arrows and bolts, as well as simple hunters’ traps
 
 ## Exploring [[Brokenveil Marsh]]
@@ -190,7 +190,7 @@ The shadowy third floor of the ruins is covered with the rotting husks of swamp 
 
 Any character who searches the watery expanse of the first floor and succeeds on a DC 12 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check finds a locked wooden chest half buried between the slimy swamp muck and a rotted trap door. Once drawn from the water, the chest’s rusted lock can be picked with a successful DC 18 Dexterity check using thieves’ tools, or the chest can be forced open with a successful DC 20 Strength check.
 
-One of the Kryn cadavers is clad in a suit of [elven chain](https://www.dndbeyond.com/magic-items/elven-chain), and a normal longsword is knotted up in webs nearby. The other body isn’t armed or armored, but it wears a silver ring (worth 20 gp) on its left ring finger.
+One of the [[Kryn Dynasty|Kryn]] cadavers is clad in a suit of [elven chain](https://www.dndbeyond.com/magic-items/elven-chain), and a normal longsword is knotted up in webs nearby. The other body isn’t armed or armored, but it wears a silver ring (worth 20 gp) on its left ring finger.
 
 The chest contains a large selection of books and scrolls that have been thoroughly destroyed by soiled water, plus [pipes of haunting](https://www.dndbeyond.com/magic-items/pipes-of-haunting) carved from the bones of a [[moorbounder]].
 
@@ -214,7 +214,7 @@ Among the worthless goods collected by the bullywugs, the characters can find th
 
 -   Eleven unbroken glass bottles of assorted shapes, sizes, and tints
 -   A crude [shortsword](https://www.dndbeyond.com/equipment/shortsword) with artful etchings on its blade
--   A tarnished suit of dwarf-sized [plate mail](https://www.dndbeyond.com/equipment/plate) crafted from a curious alloy
+-   A tarnished suit of [[Dwarves|dwarf]]-sized [plate mail](https://www.dndbeyond.com/equipment/plate) crafted from a curious alloy
 -   A [magnifying glass](https://www.dndbeyond.com/equipment/magnifying-glass) with a silver frame and handle
 -   A copper tankard scribed with an intricate image of vines (worth 25 gp)
 -   A jar half full of glass marbles plus five tiger-eye gemstone marbles (10 gp each)
@@ -251,7 +251,7 @@ When the characters encounter the [Mossback Steward](https://www.dndbeyond.com/m
 
 Any character who succeeds on a DC 14 Intelligence ([Nature](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Nature)) check or a DC 18 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check realizes that the hill is, in fact, the partially submerged moss-covered shell of a [[horizonback tortoise]]. A character who succeeds on a DC 18 Intelligence ([History](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#History)) check guesses that this must be the Mossback Steward, a creature of local mystery and renown.
 
-Long-term proximity to the eldritch phenomena of the marsh has granted the [Mossback Steward](https://www.dndbeyond.com/monsters/mossback-steward) a modest array of magical abilities. This unique creature is a [horizonback tortoise](https://www.dndbeyond.com/monsters/horizonback-tortoise) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-bestiary#HorizonbackTortoise "chapter 7 ") for its stat block) with these changes:
+Long-term proximity to the eldritch phenomena of the marsh has granted the [Mossback Steward](https://www.dndbeyond.com/monsters/mossback-steward) a modest array of magical abilities. This unique creature is a [horizonback tortoise](https://www.dndbeyond.com/monsters/horizonback-tortoise) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#HorizonbackTortoise "chapter 7 ") for its stat block) with these changes:
 
 -   The [Mossback Steward](https://www.dndbeyond.com/monsters/mossback-steward) has an Intelligence of 12 (+1) and a Wisdom of 17 (+3). It has the following skills: [Arcana](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Arcana) +5, [Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight) +7, [Nature](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Nature) +5, [Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception) +7, [Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion) +5.
 -   It understands Common and Primordial, and has telepathy out to a range of 120 feet.
@@ -278,11 +278,11 @@ Having successfully navigated the challenges of [[Brokenveil Marsh]], the charac
 
 ## Infiltrating Fort Venture
 
-The [[Dwendalian Empire]]’s hold on [[Eastern Wynandir]] is tenuous at best, and the ramshackle garrison at Fort Venture is testament to the empire’s attempt to solidify its influence. Despite the outpost’s modest appearance, its freshly laid stonework and newly erected battlements offer solid protection against the harsh environs and deadly creatures of the [[Brokenveil Marsh]].
+The [[Dwendalian Empire]]’s hold on [[Eastern Wynandir]] is tenuous at best, and the ramshackle garrison at Fort Venture is testament to the [[Dwendalian Empire|empire]]’s attempt to solidify its influence. Despite the outpost’s modest appearance, its freshly laid stonework and newly erected battlements offer solid protection against the harsh environs and deadly creatures of the [[Brokenveil Marsh]].
 
 Commander Struther Felmont and the Dwendalian soldiers at the fort have grown callous and cruel under the leadership of Imperial Inquisitor [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost), who conducts deranged experiments on the humanoids of the marsh with an unsavory and sadistic application of divine magic. The guards of Fort Venture engage in defense, training, and patrol work in eight-hour shifts. Few of those guards respect Pellinost, but all obey him for fear of strict retribution.
 
-The party’s travel time from [[Urzin]] to Fort Venture determines whether the [[Goblinkin|goblin]] warlock [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) is still a prisoner of the empire or has become an unfettered vessel of demonic possession and torn the fort apart. After three days of torture and experimentation, Parson Pellinost triggers Bol’bara’s full demonic possession—making her powerful enough to kill the inquisitor and escape captivity.
+The party’s travel time from [[Urzin]] to Fort Venture determines whether the [[Goblinkin|goblin]] warlock [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) is still a prisoner of the [[Dwendalian Empire|empire]] or has become an unfettered vessel of demonic possession and torn the fort apart. After three days of torture and experimentation, Parson Pellinost triggers Bol’bara’s full demonic possession—making her powerful enough to kill the inquisitor and escape captivity.
 
 If the characters spend the minimum three days traversing the marsh and enter Fort Venture at once, they can either prevent the second phase of Bol’bara’s possession or become witness to it. With or without the party’s intervention, once Bol’bara enters the second phase of her possession, she plots a return to [[Urzin]] and attempts to destroy anyone and anything in her way.
 
@@ -336,7 +336,7 @@ This huge canvas tent is completely sealed except for a 5-foot-wide entrance fla
 
 The map shows the area of [[Brokenveil Marsh]]. On the west side of the tent, a wooden bed frame topped with a dusty mattress is flanked by a bedside table. A locked wooden chest lies at the foot of the bed, while a wooden weapon rack and armor stand on the north wall.
 
-Any character who succeeds on a DC 12 Intelligence ([History](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#History)) check can identify the Dwendalian insignias and medal of rank adorning the armor of Commander Struther Felmont (a lawful neutral, male human [veteran](https://www.dndbeyond.com/monsters/veteran)). Felmont prefers the isolation of his command tent to the grim scene inside Pellinost’s chapel, and retreats here whenever the priest conducts his strange exorcisms. He carries a key to the main hall ([area V5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#V5MainHall "area V5")).
+Any character who succeeds on a DC 12 Intelligence ([History](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#History)) check can identify the Dwendalian insignias and medal of rank adorning the armor of Commander Struther Felmont (a lawful neutral, male [[Humans|human]] [veteran](https://www.dndbeyond.com/monsters/veteran)). Felmont prefers the isolation of his command tent to the grim scene inside Pellinost’s chapel, and retreats here whenever the priest conducts his strange exorcisms. He carries a key to the main hall ([area V5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#V5MainHall "area V5")).
 
 At the first sight of intruders, Felmont reaches for a horn at his side and sounds the alarm, alerting the guards outside. The commander is fearful but stubborn, and parleys with the characters only if his support troops have been routed and he is obviously outnumbered or outclassed. If Felmont sounds the horn, six Dwendalian [guards](https://www.dndbeyond.com/monsters/guard) arrive from the training yard within 2 rounds to fight at his side. If combat persists, all the remaining guards at Fort Venture eventually join the battle.
 
@@ -394,7 +394,7 @@ When the characters arrive, [Parson Pellinost](https://www.dndbeyond.com/monster
 
 What Pellinost doesn’t know is that the third time he attempts to cast [revivify](https://www.dndbeyond.com/spells/revivify) on the possessed warlock, her tortured mind will break, allowing her to be possessed by her shadow demon patron—a fiend known as Trush.
 
-[Bol’bara](https://www.dndbeyond.com/monsters/bolbara) is a chaotic good (for now at least), female [goblin](https://www.dndbeyond.com/monsters/[[Goblinkin|goblin]]) (see the accompanying stat block), but she doesn’t have legendary actions until she is fully possessed.
+[Bol’bara](https://www.dndbeyond.com/monsters/bolbara) is a chaotic good (for now at least), female [goblin](https://www.dndbeyond.com/monsters/goblin) (see the accompanying stat block), but she doesn’t have legendary actions until she is fully possessed.
 
 [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost) uses the [priest](https://www.dndbeyond.com/monsters/priest) stat block but has the following cleric spells prepared:
 
@@ -406,7 +406,7 @@ Cantrips (at will): [light](https://www.dndbeyond.com/spells/light), [sacred fla
 
 3rd level (2 slots): [dispel magic](https://www.dndbeyond.com/spells/dispel-magic), [revivify](https://www.dndbeyond.com/spells/revivify)
 
-Pellinost has a [prosthetic limb](https://www.dndbeyond.com/magic-items/prosthetic-limb) (right hand), as described in [chapter 6](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-treasures#ProstheticLimb "chapter 6"), as well as keys to the main hall, the chapel door, and the altar manacles.
+Pellinost has a [prosthetic limb](https://www.dndbeyond.com/magic-items/prosthetic-limb) (right hand), as described in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#ProstheticLimb "chapter 6"), as well as keys to the main hall, the chapel door, and the altar manacles.
 
 The door to the chapel is usually locked. Parson Pellinost and one of the guards on duty in the main hall carry keys to the door, which can also be unlocked with a successful DC 15 Dexterity check using thieves’ tools.
 
@@ -474,15 +474,15 @@ Three of the cages are empty, but the fourth houses a strange prisoner (see belo
 
 Two Dwendalian [guards](https://www.dndbeyond.com/monsters/guard) normally defend this area but spend most of their time playing at cards or dice. Both guards carry master keys for the cages and for the kennels ([area V10](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#V10Kennels "area V10")), and one carries a key to the main hall ([area V5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#V5MainHall "area V5")). Without a key, the cages can be opened with a successful DC 15 Dexterity check using thieves’ tools, or forced open from the outside with a successful DC 20 Strength ([Athletics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Athletics)) check.
 
-The solitary prisoner is a neutral evil hollow one [cultist](https://www.dndbeyond.com/monsters/cultist) of [[Ceratos]] named Alonne Frith, a [[Far Realm]] scholar from [[Rotthold]]. Frith was captured by a Fort Venture patrol during his journey through the [[Brokenveil Marsh]] seeking eldritch relics. His distinctly undead nature was quickly identified as a point of interest for [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost), and Frith has since become a reluctant yet reliable subject for Pellinost’s experiments.
+The solitary prisoner is a neutral evil [[Hollow Ones|hollow one]] [cultist](https://www.dndbeyond.com/monsters/cultist) of [[Ceratos]] named Alonne Frith, a [[Far Realm]] scholar from [[Rotthold]]. Frith was captured by a Fort Venture patrol during his journey through the [[Brokenveil Marsh]] seeking eldritch relics. His distinctly undead nature was quickly identified as a point of interest for [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost), and Frith has since become a reluctant yet reliable subject for Pellinost’s experiments.
 
-Alonne Frith is toilworn and weary after several days of interrogation by Pellinost. He wears a bloodstained [hunter’s coat](https://www.dndbeyond.com/magic-items/hunters-coat) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-treasures#HuntersCoat "chapter 6")) whose magical properties have gone unnoticed by Pellinost and his cronies.
+Alonne Frith is toilworn and weary after several days of interrogation by Pellinost. He wears a bloodstained [hunter’s coat](https://www.dndbeyond.com/magic-items/hunters-coat) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#HuntersCoat "chapter 6")) whose magical properties have gone unnoticed by Pellinost and his cronies.
 
 If the alarm is sounded or the dogs in [area V10](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#V10Kennels "area V10") start barking, one of the guards heads to the kennel to release the dogs before investigating the disturbance, while the other guard holds their position at the jail.
 
 If the characters manage to free Alonne Frith, the cultist can be convinced to join the party and take up the characters’ mission with a successful DC 18 Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check.
 
-In addition to the playing card set and dice they use for entertainment, the two guards each have a coin purse containing 26 cp and 17 cp, respectively. In addition to the [[hunter’s coat]] Alonne Frith wears (see [chapter 6](https://www.dndbeyond.com/sources/egtw/[[wildemount]]-treasures#HuntersCoat "chapter 6")), one guard also carries Frith’s weapon, a [black-bladed +1 scimitar](https://www.dndbeyond.com/magic-items/scimitar-1), but is unaware of its magical properties and doesn’t use the weapon in combat.
+In addition to the playing card set and dice they use for entertainment, the two guards each have a coin purse containing 26 cp and 17 cp, respectively. In addition to the [[hunter’s coat]] Alonne Frith wears (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#HuntersCoat "chapter 6")), one guard also carries Frith’s weapon, a [black-bladed +1 scimitar](https://www.dndbeyond.com/magic-items/scimitar-1), but is unaware of its magical properties and doesn’t use the weapon in combat.
 
 If [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) has already been possessed, the two guards are dead and Alonne Frith huddles in his cage, the only living witness to Fort Venture’s demise. Frith can describe seeing a lone [[Goblinkin|goblin]] spellcaster taking on the garrison, and how her power forced many of the soldiers to turn against each other. He can still be asked to join the party, but the Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check to convince him is made with disadvantage.
 

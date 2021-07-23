@@ -8,11 +8,11 @@ In the [[Dwendalian Empire]], humans are everywhere and occupy every walk of imp
 
 Humans recoil from the unknown in ways that longer-lived folk do not, and nations dominated by a nonhuman majority are a tremendous source of fear and suspicion to human-majority nations. Human survival instinct stokes the flames of fear, especially when those flames are amply fueled by nationalistic propaganda. Such is the relationship between the [[Dwendalian Empire]] and the drow-majority [[Kryn Dynasty]] of [[Xhorhas]].
 
-Other societies—including [[Uthodurn]]’s pluralistic society of [[elves]] and [[dwarves]]—are less maligned. However, this is because the average citizen of the empire knows nothing about those societies, reducing them to objects of curiosity for imperial scholars.
+Other societies—including [[Uthodurn]]’s pluralistic society of [[elves]] and [[dwarves]]—are less maligned. However, this is because the average citizen of the [[Dwendalian Empire|empire]] knows nothing about those societies, reducing them to objects of curiosity for imperial scholars.
 
 ### Humans on the [[Menagerie Coast]]
 
-Within the [[Clovis Concord]], humans are seen as adept diplomats, nation builders, and loyal soldiers. They are the most populous people of the [[Menagerie Coast]], but ever since [[the founding]] of the [[Clovis Concord]], that nation has been one defined by its diversity. Although other nations of [[Wildemount]] and the world might consider humans to be the definitive, adaptable jacks-of-all-trades, the people of the Concord know that all folk have this capacity.
+Within the [[Clovis Concord]], humans are seen as adept diplomats, nation builders, and loyal soldiers. They are the most populous people of the [[Menagerie Coast]], but ever since [[the founding]] of the [[Clovis Concord]], that nation has been one defined by its diversity. Although other nations of [[Wildemount]] and the world might consider humans to be the definitive, adaptable jacks-of-all-trades, the people of the [[Clovis Concord|Concord]] know that all folk have this capacity.
 
 ### Humans in [[Xhorhas]]
 

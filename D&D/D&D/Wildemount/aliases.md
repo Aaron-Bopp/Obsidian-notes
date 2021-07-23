@@ -87,8 +87,8 @@
 - the Sog Sticks
 
 [[Bertrand Dwendal]]:
-- crown
-- king
+- the crown
+- the king
 - King Dwendal
 
 [[Betrayer Artifact Properties]]:
@@ -251,6 +251,9 @@
 
 [[Dragonborn]]:
 - draconblood
+- draconbloods
+- ravenite
+- revenites
 
 [[Dranassar]]:
 
@@ -267,8 +270,7 @@
 [[Dumaran]]:
 
 [[Dunamancy]]:
-
-[[Dunamis]]:
+- dunamis
 
 [[Dunrock Mountains]]:
 
@@ -956,6 +958,7 @@
 [[Wuyun Gorge]]:
 
 [[Wyatt Maranoss]]:
+- the plank king
 
 [[Xalicas]]:
 

@@ -16,7 +16,7 @@ Since firbolgs are neither prone to travel nor native to the [[Menagerie Coast]]
 
 Firbolgs who travel southeast from the [[Greying Wildlands]] and cross the [[Dunrock Mountains]] might find themselves wandering the wastes of [[Xhorhas]]. The territorial monsters that prowl the wastes show no pity to unprepared wanderers, and most firbolg families know better than to undertake such a dangerous journey.
 
-With northern [[Xhorhas]] firmly under the control of the [[Kryn Dynasty]], the [[Dark Elves]] have saved a number of firbolg travelers from monsters over the years. Enough of those have remained in the wastes for small firbolg communities to develop in [[Rosohna]] and other major Kryn cities.
+With northern [[Xhorhas]] firmly under the control of the [[Kryn Dynasty]], the [[Dark Elves]] have saved a number of firbolg travelers from monsters over the years. Enough of those have remained in the wastes for small firbolg communities to develop in [[Rosohna]] and other major [[Kryn Dynasty|Kryn]] cities.
 
 ### Firbolg Classes
 
@@ -26,7 +26,7 @@ Firbolg
 
 Most firbolgs are druids, rangers, or fighters. Among their kind, these vocations are passed down from one generation to the next. The firbolgs’ magical heritage also expresses itself in other ways; those who become bards preserve the clan’s lore, and firbolg sorcerers defend their communities. Firbolg wizards arise when a clan becomes friendly with [[elves]].
 
-Firbolg rogues are typically scouts tasked with spying on neighboring folk to determine their intentions. They are most common among firbolgs whose homes border human settlements.
+Firbolg rogues are typically scouts tasked with spying on neighboring folk to determine their intentions. They are most common among firbolgs whose homes border [[Humans|human]] settlements.
 
 Firbolg barbarians are rare except among clans that face constant threats from evil humanoids and other invaders.
 

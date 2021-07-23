@@ -26,14 +26,14 @@ The [[Library of the Cobalt Soul|Cobalt Soul]] is an organization of monastic sc
 
 [[Volstrucker Agent]]
 
-As a rank-and-file pupil of the [[Library of the Cobalt Soul|Cobalt Soul]], you adventure to help expand your mind. Alternatively (and with the DM’s permission), you might also take on a more specific role within the organization. Expositors are secret agents who gather information in the field, while archivists are the curators who ensure the well-being of the [[Library of the Cobalt Soul|Cobalt Soul]]’s many Archives. Monks of the [[Library of the Cobalt Soul|Cobalt Soul]] are enlightened scholars who lead expeditions into ancient and forgotten places, hoping to reclaim their lost knowledge and history.
+As a rank-and-file pupil of the [[Library of the Cobalt Soul|Cobalt Soul]], you adventure to help expand your mind. Alternatively (and with the DM’s permission), you might also take on a more specific role within the organization. [[Expositors]] are secret agents who gather information in the field, while archivists are the curators who ensure the well-being of the [[Library of the Cobalt Soul|Cobalt Soul]]’s many Archives. Monks of the [[Library of the Cobalt Soul|Cobalt Soul]] are enlightened scholars who lead expeditions into ancient and forgotten places, hoping to reclaim their lost knowledge and history.
 
 ### Spy ([[Augen Trust]])
 
-Little is known about the [[Augen Trust]], even within the court of the [[Dwendalian Empire]]. Only one person knows all the members of this elite network of imperial spies: its leader, [[Oliver Schreiber]], a noble gnome with the ear of King Dwendal.
+Little is known about the [[Augen Trust]], even within the court of the [[Dwendalian Empire]]. Only one person knows all the members of this elite network of imperial spies: its leader, [[Oliver Schreiber]], a noble [[Gnomes|gnome]] with the ear of [[Bertrand Dwendal|King Dwendal]].
 
-If you were favored with membership in the [[Augen Trust]], your entire life was laid bare before the secret spymaster at one point, and you were found to be a loyal servant of the empire with a particular set of skills. Betraying the Trust is high treason against the crown, and defectors are hunted down and quickly slain.
+If you were favored with membership in the [[Augen Trust]], your entire life was laid bare before the secret spymaster at one point, and you were found to be a loyal servant of the [[Dwendalian Empire|empire]] with a particular set of skills. Betraying the Trust is high treason against [[Bertrand Dwendal|the crown]], and defectors are hunted down and quickly slain.
 
-Most defectors from the [[Augen Trust]] flee to the [[Biting North]], beyond the reach of the empire. The [[Clovis Concord]] would extradite traitors in a heartbeat to maintain diplomatic relations with the empire, and fleeing to [[Xhorhas]] is tantamount to suicide in the present political climate.
+Most defectors from the [[Augen Trust]] flee to the [[Biting North]], beyond the reach of the [[Dwendalian Empire|empire]]. The [[Clovis Concord]] would extradite traitors in a heartbeat to maintain diplomatic relations with the [[Dwendalian Empire|empire]], and fleeing to [[Xhorhas]] is tantamount to suicide in the present political climate.
 
-If you are a member of the Trust going on adventures, you are either a traitor who has somehow managed to keep your true identity secret from the greatest spies in the empire—or you are still on active duty. In the latter case, you can work with your DM to figure out why you are traveling with outside adventurers.
+If you are a member of the Trust going on adventures, you are either a traitor who has somehow managed to keep your true identity secret from the greatest spies in the [[Dwendalian Empire|empire]]—or you are still on active duty. In the latter case, you can work with your DM to figure out why you are traveling with outside adventurers.

@@ -3,7 +3,7 @@
 
 _Wondrous item, legendary (requires attunement)_
 
-A [stormgirdle](https://www.dndbeyond.com/magic-items/stormgirdle) is a wide belt made of thick leather branded with the symbol of [[Kord]]. The girdle’s clasps are made from dragon ivory.
+A [stormgirdle](https://www.dndbeyond.com/magic-items/stormgirdle) is a wide belt made of thick leather branded with the symbol of [[Kord]]. The girdle’s clasps are made from [[dragon]] ivory.
 
 While wearing the [stormgirdle](https://www.dndbeyond.com/magic-items/stormgirdle) in its dormant state, you have resistance to lightning damage and thunder damage, and your Strength score becomes 21 if it isn’t already 21 or higher. In addition, you can use an action to become a Storm Avatar for 1 minute, gaining the following benefits for the duration:
 

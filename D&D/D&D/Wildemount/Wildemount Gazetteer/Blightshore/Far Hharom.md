@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/Blightshore
 **Location**:: [[Blightshore]]
 
-Beyond the [[Ebonglass Massif]]'s hyaline peaks, a lonely expanse of moorland stretches northward toward the icy waters of the Frigid Depths. Though the landscape is drab and featureless, the peninsula known as Far Hharom is littered with the barrows of a long-forgotten barbarian people, who vanished centuries before [[the Calamity]] ravaged the [[Miskath Strand]]. Here and there, gelid bogs home to bizarre flora and fauna dot the landscape. And all around, an obstinate air of doom lingers among the peninsula's perpetual howling winds.
+Beyond the [[Ebonglass Massif]]'s hyaline peaks, a lonely expanse of moorland stretches northward toward the icy waters of the [[Frigid Depths]]. Though the landscape is drab and featureless, the peninsula known as Far Hharom is littered with the barrows of a long-forgotten barbarian people, who vanished centuries before [[the Calamity]] ravaged the [[Miskath Strand]]. Here and there, gelid bogs home to bizarre flora and fauna dot the landscape. And all around, an obstinate air of doom lingers among the peninsula's perpetual howling winds.
 
 Far Hharom is a dangerous realm, even by [[Blightshore]]'s standards, and many suggest that the impasse formed by the [[Ebonglass Massif]] is actually a blessing in disguise. The only charted settlement in Far Hharom is an abandoned village on the rocky island west of the peninsula, known as [[Olc Skerry]] (described later in this chapter). Travelers have been known to camp amid the stony ruins—but these interlopers leave as soon as their affairs allow, typically preferring the haunted expanse of Far Hharom's open fells over the eerie isolation of [[Olc Skerry]]'s craggy shores.
 

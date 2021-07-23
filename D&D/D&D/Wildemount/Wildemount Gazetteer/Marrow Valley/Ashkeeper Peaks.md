@@ -6,4 +6,4 @@ This grand mountain range extends northward from the Lucidian Ocean through the 
 
 The hostile landscape of the Ashkeeper Peaks has prevented any attempts to install an imperial presence, and the peaks are teeming with all kinds of monsters and terrible beasts. Most of the cities bordering the Ashkeepers request a reinforced assignment of [[Crownsguard]] to protect their citizens from the many roving mountain predators.
 
-Beneath the surface of the mountains, huge networks of caverns and tunnels weave between subterranean civilizations and the deadly shadows of the Underdark. Unknown to the empire, a massive fire giant citadel rests at the northern heart of the mountain range.
+Beneath the surface of the mountains, huge networks of caverns and tunnels weave between subterranean civilizations and the deadly shadows of the Underdark. Unknown to the [[Dwendalian Empire|empire]], a massive fire giant citadel rests at the northern heart of the mountain range.

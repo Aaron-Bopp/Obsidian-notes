@@ -1,6 +1,6 @@
 ## Hollow One
 
-The eastern coast of [[Xhorhas]], known to the Kryn as [[Blightshore]], is a land scarred by evil magic. Among the creations of that foul place are the Hollow Ones, beings whose souls have left for the afterlife, yet whose bodies still retain a fragment of their former selves.
+The eastern coast of [[Xhorhas]], known to the [[Kryn Dynasty|Kryn]] as [[Blightshore]], is a land scarred by evil magic. Among the creations of that foul place are the Hollow Ones, beings whose souls have left for the afterlife, yet whose bodies still retain a fragment of their former selves.
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-15.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-15.png)
 

@@ -1,5 +1,7 @@
+**Location**:: [[INDEX]]
+
 > ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-01.jpg)
-> An undead knight bequeathes its [[Acheron blade]] to a worthy tiefling adventurer,  but every great treasure has its price
+> An undead knight bequeathes its [[Acheron blade]] to a worthy [[Tieflings|tiefling]] adventurer,  but every great treasure has its price
 
 Since magic was first introduced to mortals in ages past, many have sought to channel the gifts of magic into implements of power. Master crafters and fine artisans have long worked with talented arcanists and divine acolytes to craft beautiful artifacts of protection, or to forge armaments of war. The most skilled archmages enchanted and assembled vast collections of mighty artifacts throughout the [[Age of Arcanum]], most of which were scattered and lost in the conflicts of [[the Calamity]].
 

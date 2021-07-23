@@ -10,7 +10,7 @@ Erathis resides within the glorious divine metropolis of Hestavar, the Bright Ci
 
 Erathis, the Law Bearer
 
-**_Holy Day._** The Law Bearer’s holy day is Civilization’s Dawn, which is celebrated on the autumnal equinox, usually the twenty-second day of the ninth month. In the [[Dwendalian Empire]], people celebrate by having feasts in honor of the laws of the Dwendal bloodline. One seat at every table is left open for the king, who eats in spirit with the people he rules.
+**_Holy Day._** The Law Bearer’s holy day is Civilization’s Dawn, which is celebrated on the autumnal equinox, usually the twenty-second day of the ninth month. In the [[Dwendalian Empire]], people celebrate by having feasts in honor of the laws of the Dwendal bloodline. One seat at every table is left open for [[Bertrand Dwendal|the king]], who eats in spirit with the people he rules.
 
 #### Commandments of Erathis
 

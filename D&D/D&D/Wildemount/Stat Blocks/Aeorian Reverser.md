@@ -2,7 +2,7 @@
 
 A reverser is a terrible foe in melee, laying into other creatures with teeth and claw. But the chaos it imposes is more fearful by far, as its enemies’ healing magic are unraveled and turned against them.
 
-[Aeorian Reverser](https://www.dndbeyond.com/monsters/[[Aeor|aeorian]]-reverser)
+[Aeorian Reverser](https://www.dndbeyond.com/monsters/aeorian-reverser)
 
 Large monstrosity, neutral evil
 

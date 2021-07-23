@@ -1,6 +1,6 @@
 ### Sehanine, the Moon Weaver
 
-Sehanine is the god of moonlight and the autumn season, as well as the patron of illusions and misdirection. Widely worshiped in halfling and elven cultures, she is considered to be the deity of love, protecting the trysts of lovers with shadows of her own making. Those who work in darkness and trickery often ask for her blessing.
+Sehanine is the god of moonlight and the autumn season, as well as the patron of illusions and misdirection. Widely worshiped in [[Halflings|halfling]] and elven cultures, she is considered to be the deity of love, protecting the trysts of lovers with shadows of her own making. Those who work in darkness and trickery often ask for her blessing.
 
 Sehanine is found among the verdant tangles of the realm of Arborea, watching over the elven courts, or wandering among the colorful fields of the Feywild.
 

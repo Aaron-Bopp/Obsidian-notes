@@ -6,7 +6,7 @@ Some genasi are more attuned to their native element than others. A genasi with 
 
 ### Genasi in the [[Dwendalian Empire]]
 
-Genasi are so visually distinctive and uncommon that they are treated with equal amounts of surprise and wonder in all the nations of [[Wildemount]]. The authoritarian regime of the [[Dwendalian Empire]] reacts the most harshly to the unique power of genasi, and the [[Cerberus Assembly]] takes the greatest interest in them. Genasi are often press-ganged into joining the assembly under threat of death or exile, and most accept the offer. Those who refuse—and who survive—often take refuge in the empire’s criminal underworld, with many finding acceptance in [[the Myriad]] crime syndicate.
+Genasi are so visually distinctive and uncommon that they are treated with equal amounts of surprise and wonder in all the nations of [[Wildemount]]. The authoritarian regime of the [[Dwendalian Empire]] reacts the most harshly to the unique power of genasi, and the [[Cerberus Assembly]] takes the greatest interest in them. Genasi are often press-ganged into joining the [[Cerberus Assembly|assembly]] under threat of death or exile, and most accept the offer. Those who refuse—and who survive—often take refuge in the [[Dwendalian Empire|empire]]’s criminal underworld, with many finding acceptance in [[the Myriad]] crime syndicate.
 
 ### Genasi on the [[Menagerie Coast]]
 
@@ -16,7 +16,7 @@ Even the cosmopolitan people of the [[Clovis Concord]] react to the sight of a g
 
 Powerful storms wrack the flat plains of [[Xhorhas]], and many who live beyond the walls of the [[Kryn Dynasty]]’s cities pray to [[Kord]] the Storm Lord to win blessings and protection from his wrath. Air, fire, and water genasi are often born under [[Kord]]’s auspices, and many become shamans serving the folk of [[Xhorhas]]. Few earth genasi roam the wastes, though some are said to dwell within the [[Vermaloc Wildwood]].
 
-The Kryn know little about the genasi and are eager to rectify that. Their scouts have orders to bring back any genasi they encounter to [[Rosohna]].
+The [[Kryn Dynasty|Kryn]] know little about the genasi and are eager to rectify that. Their scouts have orders to bring back any genasi they encounter to [[Rosohna]].
 
 ### Genasi Names
 
@@ -80,7 +80,7 @@ _**Pass without Trace.**_ You can cast the [pass without trace](https://www.dndb
 
 As a fire genasi, you have inherited the volatile mood and keen mind of the efreet. You tend toward impatience and making snap judgments. Rather than hide your distinctive appearance, you exult in it.
 
-Nearly all fire genasi are feverishly hot as if burning inside, an impression reinforced by flaming red, coal-black, or ash-gray skin tones. The more human-looking have fiery red hair that writhes under extreme emotion, while more exotic specimens spot actual flames dancing on their heads. Fire genasi voices sound like crackling flames, and their eyes flare when angered. Some are accompanied by the faint scent of brimstone.
+Nearly all fire genasi are feverishly hot as if burning inside, an impression reinforced by flaming red, coal-black, or ash-gray skin tones. The more [[Humans|human]]-looking have fiery red hair that writhes under extreme emotion, while more exotic specimens spot actual flames dancing on their heads. Fire genasi voices sound like crackling flames, and their eyes flare when angered. Some are accompanied by the faint scent of brimstone.
 
 _**Ability Score Increase.**_ Your Intelligence score increases by 1.
 

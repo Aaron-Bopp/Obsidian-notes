@@ -2,7 +2,7 @@
 
 Resembling some sort of canine or feline quadruped at a distance, the absorber’s monstrous nature becomes quickly apparent as it closes in. Named for its ability to draw magical energy into its body, the absorber can release that energy in devastating blasts through its tail, whose eye is constantly on the lookout for prey.
 
-[Aeorian Absorber](https://www.dndbeyond.com/monsters/[[Aeor|aeorian]]-absorber)
+[Aeorian Absorber](https://www.dndbeyond.com/monsters/aeorian-absorber)
 
 Large monstrosity, neutral evil
 

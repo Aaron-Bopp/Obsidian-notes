@@ -8,7 +8,7 @@ The plundered ruins of the former city are now abandoned heaps of rock and rubbl
 
 The ravenites did have allies among the ruling houses. Many Draconian citizens disagreed with the oppression of their brethren and fought for generations to overturn the laws that kept them enslaved. Others aided the ravenites in their emancipation after the fall of Ruins of [[Draconia]]; those folk came out on top in the end, for they're considered honored members of the emerging ravenite society.
 
-Those champions who were lost in the struggle are immortalized in statues left among the ruins, the most famous of whom is the hero Tiberius Stormwind of Ruins of [[Draconia]]. Tiberius was one of the legendary heroes of Vox Machina, and he gave his life to defend ravenites from the ire of Vorugal, the white dragon of [[The Chroma Conclave]]. His statue and surrounding shrine are a place of pilgrimage for ravenite historians.
+Those champions who were lost in the struggle are immortalized in statues left among the ruins, the most famous of whom is the hero Tiberius Stormwind of Ruins of [[Draconia]]. Tiberius was one of the legendary heroes of Vox Machina, and he gave his life to defend ravenites from the ire of Vorugal, the white [[dragon]] of [[The Chroma Conclave]]. His statue and surrounding shrine are a place of pilgrimage for ravenite historians.
 
 Those brave enough to delve into the ruins of Ruins of [[Draconia]] can find treasures and a few ghosts of the destroyed city.
 

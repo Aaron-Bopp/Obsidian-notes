@@ -14,4 +14,4 @@ If the original d20 roll has advantage or disadvantage, the creature rolls its d
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-05.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-05.png)
 
-**_Soul Snare._** If a follower of [[the Luxon]] who has undergone a ritual of consecution dies within 100 miles of a [Luxon beacon](https://www.dndbeyond.com/magic-items/luxon-beacon), their soul is ensnared by it. This soul will be reincarnated within the body of a random humanoid baby developing within 100 miles of the beacon.
+**_Soul Snare._** If a follower of [[the Luxon]] who has undergone a ritual of [[consecution]] dies within 100 miles of a [Luxon beacon](https://www.dndbeyond.com/magic-items/luxon-beacon), their soul is ensnared by it. This soul will be reincarnated within the body of a random humanoid baby developing within 100 miles of the beacon.

@@ -3,7 +3,7 @@
 
 _Weapon (war pick), artifact (requires attunement)_
 
-Black, blue, green, red, and white gems carved in the form of dragon heads cover this ostentatious gold war pick, marking it as a weapon channeling the power of [[Tiamat]].
+Black, blue, green, red, and white gems carved in the form of [[dragon]] heads cover this ostentatious gold war pick, marking it as a weapon channeling the power of [[Tiamat]].
 
 [Will of the Talon](https://www.dndbeyond.com/magic-items/will-of-the-talon) is a sentient lawful evil weapon with an Intelligence of 14, a Wisdom of 15, and a Charisma of 19. It has hearing and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 120 feet.
 
