@@ -859,6 +859,7 @@
 - tortle
 
 [[Trent Ikithon]]:
+- Ikithon Trent
 
 [[Tribes of Shadycreek Run]]:
 

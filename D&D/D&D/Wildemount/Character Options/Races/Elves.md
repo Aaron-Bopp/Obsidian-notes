@@ -22,9 +22,18 @@ The largest elf-majority civilization in [[Wildemount]] is the [[Kryn Dynasty]] 
 
 Elves who live outside [[the Luxon]]’s cycle of rebirth are viewed with pity, for they have not yet seen the true path. Elves who dwell within the [[Dwendalian Empire]] are a notable exception, their imperial allegiance earning them only the cold bite of a blade.
 
+```dataview
+Table Allignment, Gender, length(file.inlinks) as Inlinks
+from [[Elves]]
+where contains(tag, "#Exandria/Person")
+sort length(file.inlinks) 
+```
 ### Elf Subraces
 
 At the DM’s discretion, players have access to the pallid elf and sea elf subraces described below, in addition to the elf subraces in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook").
+
+- [[Pallid Elf]]
+- [[Sea Elf]]
 
 _**Height and Weight.**_ Here’s how to randomly determine the height and weight of a pallid elf or sea elf, starting with rolling a size modifier:
 
@@ -33,31 +42,3 @@ Size modifier = 2d10
 Height = 4 feet + 6 inches + your size modifier in inches
 
 Weight in pounds = 90 + (1d4 × your size modifier)
-
-#### Pallid Elf
-
-The pallid elves are a mystical and insightful people with skin as pale as the surface of [[Exandria]]’s largest moon. They emerged from the [[Pallid Grove]] this century and wander the world with childlike curiosity.
-
-_**Ability Score Increase.**_ Your Wisdom score increases by 1.
-
-_**Incisive Sense.**_ You have advantage on Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) and Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) checks.
-
-_**Blessing of the Moon Weaver.**_ You know the [light](https://www.dndbeyond.com/spells/light) cantrip. When you reach 3rd level, you can cast the [sleep](https://www.dndbeyond.com/spells/sleep) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [invisibility](https://www.dndbeyond.com/spells/invisibility) spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn’t require material components. Wisdom is your spellcasting ability for these spells.
-
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-02.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-02.png)
-
-Pallid Elf
-
-#### Sea Elf
-
-Sea elves are a reclusive and deeply territorial people who have as much in common with merfolk as they do with other elves. Most sea elves view the people of the [[Clovis Concord]]—even other elves—with mistrust.
-
-_**Ability Score Increase.**_ Your Constitution score increases by 1.
-
-_**Sea Elf Training.**_ You have proficiency with the spear, trident, light crossbow, and net.
-
-_**Child of the Sea.**_ You have a swimming speed of 30 feet, and you can breathe air and water.
-
-_**Friend of the Sea.**_ Using gestures and sounds, you can communicate simple ideas with any beast that has an innate swimming speed.
-
-_**Languages.**_ You can speak, read, and write Aquan.
