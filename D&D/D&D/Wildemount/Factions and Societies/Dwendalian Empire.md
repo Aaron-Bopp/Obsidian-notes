@@ -38,29 +38,29 @@ The King and his chamber ignore most foreign powers. Requests for alliances from
 
 A number of personages maintain the power and influence of the empire, some working to expand its power, while others seek to redeem their country.
 
-### ![[King Bertrand Dwendal]]
+### [[King Bertrand Dwendal]]
 
-### ![[Chamberlain Queselia Vir]]
+### [[Chamberlain Queselia Vir]]
 
-### ![[Prince Eidys Dwendal]]
+### [[Prince Eidys Dwendal]]
 
-### ![[Princess Suria Dwendal]]
+### [[Princess Suria Dwendal]]
 
-### ![[Sydnock Truscan]]
+### [[Sydnock Truscan]]
 
-### ![[Crown Marshal Hayden Damurag]]
+### [[Crown Marshal Hayden Damurag]]
 
-### ![[Exchequer Aethia Drooze]]
+### [[Exchequer Aethia Drooze]]
 
-### ![[Kai Arness]]
+### [[Kai Arness]]
 
-### ![[Argonomist June Wiston]]
+### [[Argonomist June Wiston]]
 
-### ![[Theolocrat Kon Bruda]]
+### [[Theolocrat Kon Bruda]]
 
-### ![[Emissary Lord Zeddan Graf]]
+### [[Emissary Lord Zeddan Graf]]
 
-### ![[Oliver Schreiber, Retainer to the Crown]]
+### [[Oliver Schreiber, Retainer to the Crown]]
 
 ## LAWS OF THE DWENDALIAN EMPIRE
 

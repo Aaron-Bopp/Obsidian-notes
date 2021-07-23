@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "a4661a0a31f26db0",
+        "id": "06c18d0d8cea184f",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -221,8 +221,10 @@
     "width": 660.5,
     "collapsed": true
   },
-  "active": "a4661a0a31f26db0",
+  "active": "06c18d0d8cea184f",
   "lastOpenFiles": [
+    "D&D/Wildemount/Chapter 5.md",
+    "D&D/Wildemount/Chapter 1.md",
     "TopicNotes/21st Century America.md",
     "TopicNotes/20th Century America.md",
     "TopicNotes/abortion.md",
@@ -230,8 +232,6 @@
     "EVERSEEDS.md",
     "EVERGREENS.md",
     "EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
-    "Templates/Templates/DVJS-TOPICNOTLINKED.md",
-    "TopicNotes/My Second Brain.md",
-    "EvergreenNotes/index note.md"
+    "Templates/Templates/DVJS-TOPICNOTLINKED.md"
   ]
 }

@@ -1,3 +1,4 @@
+[[071 Gathering allies]]
 - Going to [[Pulua Ko]]
 - Town is very dreary
 - [[The Crooked Palm]] 
@@ -9,3 +10,5 @@
 - Folks started going missing, and dying in the streets for about a year 
 - [[Doctor Stillwisill]]
 - [[Haden]] kid who died, couple years younger than [[Valerie]]
+
+[[073 Approaching the island]]

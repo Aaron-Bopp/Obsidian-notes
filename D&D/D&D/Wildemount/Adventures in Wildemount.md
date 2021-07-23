@@ -1,9 +1,9 @@
 ## Adventures in [[Wildemount]]
 **Location**:: [[INDEX]]
 ```dataview
-Table level, Location
+Table level, Location, location.file.etags
 from #Exandria/Adventure 
-sort level, location
+sort location.file.etags, level
 ```
 > [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/05-01.jpg)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/05-01.jpg)
 > Adventurers confront the mad inventor Stahlmast and his deadly mechanical masterpiece, the Stahlmaster!

@@ -89,6 +89,7 @@
 [[Bertrand Dwendal]]:
 - crown
 - king
+- King Dwendal
 
 [[Betrayer Artifact Properties]]:
 
@@ -276,6 +277,7 @@
 [[Dust of Deliciousness]]:
 
 [[Dwarves]]:
+- dwarf
 
 [[Dwendalian Empire]]:
 - empire
@@ -337,6 +339,7 @@
 [[Fevergulf Lake]]:
 
 [[Firbolgs]]:
+- firbolg
 
 [[Flotket Alps]]:
 
@@ -371,8 +374,10 @@
 [[Glossary]]:
 
 [[Gnolls]]:
+- gnoll
 
 [[Gnomes]]:
+- gnome
 
 [[Goblinkin]]:
 - goblinnoids
@@ -384,6 +389,7 @@
 [[Golden Grin]]:
 
 [[Goliaths]]:
+- goliath
 
 [[Gravid Archipelago]]:
 
@@ -415,6 +421,7 @@
 - half elves
 
 [[Halflings]]:
+- halfling
 
 [[Hayden Damurag]]:
 
@@ -432,12 +439,14 @@
 - holiday
 
 [[Hollow Ones]]:
+- hollow one
 
 [[Horizonback Tortoise]]:
 
 [[How to run a campaign in Wildemount]]:
 
 [[Humans]]:
+- human
 
 [[Hunter’s Coat]]:
 
@@ -613,6 +622,9 @@
 [[Orcs]]:
 - Orcs and Half-orcs
 - half-orcs
+- orc
+- half-orc
+- half orc
 
 [[Oremid Hass]]:
 
@@ -831,6 +843,7 @@
 [[Tide of Retribution]]:
 
 [[Tieflings]]:
+- tiefling
 
 [[Time Ravage]]:
 
@@ -841,6 +854,7 @@
 [[Torog]]:
 
 [[Tortles]]:
+- tortle
 
 [[Trent Ikithon]]:
 

@@ -26,3 +26,9 @@ Adventure hooks labeled as "any level" can be presented at any point in your par
 - Wastes of [[Xhorhas]]
 - [[Blightshore]]
 - [[Exandria]]
+
+```dataview
+table Location, Population, Government, Defense, Commerce, Organizations
+from #Exandria/Locale/Wynandir 
+where population != null
+sort tag, population
