@@ -1,4 +1,6 @@
 # Heroic Chronicle
+**Tag**:: #Exandria
+**Location**:: [[Character Options]]
 
 The heroic chronicle is a system that allows players and Dungeon Masters to work together to build a compelling character story. It even allows characters to gain additional proficiencies, [[magic items]], spells, or feats before the campaign begins. This section assumes that the player is starting from scratch—without having chosen a race, class, or background for their character. The events that occur as a result of these random rolls inform what kind of character the player has. A player who already has a character concept in mind can choose options from the tables instead of rolling randomly, ignoring anything that doesn’t fit their character concept. If you’re a player using these tables, don’t be surprised if creating a backstory inspires you to change some aspect of your character concept. Let this tool inspire your imagination rather than limit it.
 

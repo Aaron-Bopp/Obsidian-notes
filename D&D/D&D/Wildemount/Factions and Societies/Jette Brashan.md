@@ -1,4 +1,6 @@
 ### Claret Director Jette Brashan
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 _Neutral, male half-orc_
 

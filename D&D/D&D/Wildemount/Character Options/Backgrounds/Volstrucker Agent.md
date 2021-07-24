@@ -1,4 +1,6 @@
 ## Volstrucker Agent
+**Tag**:: #Exandria/Backgrounds
+**Location**:: [[Backgrounds]]
 
 The Volstrucker are a clandestine organization of arcane assassins and enforcers in the service of the [[Cerberus Assembly]]. Their operatives bear no official title, but are referred to in hushed tones as “scourgers” by residents of large Dwendalian cities such as [[Zadash]] and [[Rexxentrum]].
 

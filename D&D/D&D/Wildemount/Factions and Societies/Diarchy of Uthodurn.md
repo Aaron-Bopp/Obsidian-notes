@@ -1,4 +1,6 @@
 # Diarchy of [[Uthodurn]]
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 When the elven city of [[Molaesmyr]] unearthed a terrible curse that ruined the [[Savalirwood]], many survivors fled to the north. They endured the blizzards and dangers of the [[Flotket Alps]], clinging to the hope that the withdrawn [[dwarves]] of [[Uthodurn]] would find enough mercy to aid them. Though many perished in the harsh elements, the elven refugees finally located the iron doors of the subterranean stronghold and requested asylum. It was with only mild hesitation that the [[dwarves]] accepted their desperate guests, taking them into the warm halls of their city and giving them a place to stay.
 

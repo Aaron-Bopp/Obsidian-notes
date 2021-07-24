@@ -1,4 +1,6 @@
 # Cerberus Assembly
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 The Cerberus Assembly was established nearly three hundred years ago, when strife and competition between warring mage lords threatened to unravel the social order of the [[Dwendalian Empire]]. The house leaders of this conflict nearly destroyed one another in what was called [[the Eve of Crimson Midnight]], an arcane battle within the capital of [[Rexxentrum]] that leveled two wards of the city, killing hundreds of civilians. At the peak of the violence, a parlay was called, and the mage lords decided to put aside their differences and avoid mutually assured destruction, instead joining as a unified conclave. When brought before [[Bertrand Dwendal|the king]] for judgment of their crimes, they offered an accord to instead officially instate the conclave and submit entirely to king’s rule. Taking the name the Cerberus Assembly, a reference to a powerful, historical union of mages during the [[Age of Arcanum]], the mages took the [[Dwendalian Empire|empire]] to new heights of power and expansion.
 
@@ -6,9 +8,9 @@ In the centuries since, the Cerberus Assembly has subtly ingrained itself within
 
 Members are elevated into one of the eight major offices on the death of a member that leaves an office vacant, or when a standing member abdicates their position. The remaining members then recommend replacements and vote on the mage to fill the newly open office.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-08.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-08.png)
-
-Cerberus Assembly
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-08.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-08.png)
+> 
+> Cerberus Assembly
 
 ## Goals
 

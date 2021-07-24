@@ -1,4 +1,6 @@
 ### Ereldra Icozrin
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 _Neutral evil, gender-fluid dark elf_
 

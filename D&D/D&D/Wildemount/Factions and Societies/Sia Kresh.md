@@ -1,4 +1,6 @@
 ### Expositor Sia Kresh
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 _Neutral, female halfling_
 

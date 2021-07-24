@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3adaa6346e23fec9",
+        "id": "c59625fae758b772",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Wildemount/Magic Items.md",
-            "mode": "preview"
+            "file": "D&D/Wildemount/Character Options/Races/Genasi.md",
+            "mode": "source"
           }
         }
       }
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"LAWS OF THE ",
+                "query": "Ability score increase",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/Magic Items.md",
+                "file": "D&D/Wildemount/Character Options/Races/Genasi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Wildemount/Magic Items.md"
+                "file": "D&D/Wildemount/Character Options/Races/Genasi.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/Magic Items.md",
+                "file": "D&D/Wildemount/Character Options/Races/Genasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/Magic Items.md",
+                "file": "D&D/Wildemount/Character Options/Races/Genasi.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,19 +205,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 962
+    "width": 962,
+    "collapsed": true
   },
-  "active": "3adaa6346e23fec9",
+  "active": "c59625fae758b772",
   "lastOpenFiles": [
-    "D&D/Wildemount/Magic Items.md",
-    "D&D/Wildemount/Magic Items/Reincarnation Dust.md",
-    "D&D/Wildemount/Glossary/CULTS.md",
-    "D&D/Wildemount/Wildemount Gazetteer.md",
-    "D&D/Wildemount/Factions and Societies.md",
-    "D&D/Wildemount/History of Wildemount.md",
-    "D&D/Wildemount/How to run a campaign in Wildemount.md",
-    "D&D/Wildemount/Factions and Societies/The Remnants.md",
-    "D&D/Wildemount/CULTS DUBIOUS WORSHIP FROM THE SHADOWS.md",
-    "D&D/Wildemount/Factions and Societies/Clovis Concord.md"
+    "D&D/Wildemount/Character Options/Races/Genasi.md",
+    "D&D/Wildemount/Character Options/Races/Gnolls.md",
+    "D&D/Wildemount/Character Options/Races/Gnomes.md",
+    "D&D/Wildemount/Character Options/Races/Goblinkin.md",
+    "D&D/Wildemount/Character Options/Races/Goliaths.md",
+    "D&D/Wildemount/Character Options/Races/Half Elves.md",
+    "D&D/Wildemount/Character Options/Races/Hollow Ones.md",
+    "D&D/Wildemount/Character Options/Races/Humans.md",
+    "D&D/Wildemount/Character Options/Races/Tieflings.md",
+    "D&D/Wildemount/Character Options/Races/Tabaxi.md"
   ]
 }

@@ -1,3 +1,6 @@
+## Library of the Cobalt Soul
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 ibrary of the Cobalt So
 
 Under the enlightening scriptures of [[Ioun]], teachers, priests, and monks who have been drawn to the calling of truth and knowledge spend their lives training within the Library of the Cobalt Soul. Rather than a single physical building, the Library of the Cobalt Soul is a collective term for the universal knowledge and philosophies upheld by those who follow [[Ioun]]’s teachings. The Cobalt Soul is guided by a central belief that true strength is found in understanding the world around you. Despite their idealism, the pursuit of truth is hampered by the realities of life in the [[Dwendalian Empire|empire]]: politics, propaganda, and the dangers of the wilderness.
@@ -6,9 +9,9 @@ The Cobalt Soul is based in [[Rexxentrum]] but operates throughout the [[Dwendal
 
 Archivists act as administrators at each Archive, delineating tasks, overseeing the training of new members, and even negotiating for or purchasing artifacts and records — often from those unaware of their true value.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-12.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-12.png)
-
-Library of the Cobalt Soul
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-12.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-12.png)
+> 
+> Library of the Cobalt Soul
 
 The monks of the Cobalt Soul are the enlightened knowledge-seekers of their order. They research places where ancient knowledge could be hidden and lead large-scale expeditions to these places.
 

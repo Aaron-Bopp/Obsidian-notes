@@ -1,3 +1,6 @@
+## The Myriad
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 e# The Myriad
 
 Any civilized society will turn the people it has failed into criminals, and the societies of [[Wildemount]] are no exception. The continent’s largest criminal organization took shape about eighty years ago, when a shipping company in the Dwendalian city of [[Yrrosa]] turned to smuggling contraband to make ends meet. This tightknit group of clever smugglers soon began to bargain with their competitors, employing blackmail and offering membership to their organization as an alternative to elimination.
@@ -8,9 +11,9 @@ Originally centered in [[Yrrosa]], the Myriad now operates across the continent 
 
 Members of the Myriad are sworn to keep their syndicate secret by pretending that their chapter is still just another local gang. This has given the Myriad a sinister and enigmatic reputation, which further obfuscates its activities from the authorities. Since members of the the Myriad prefer coercion to public displays of violence, officers of the law often fail to recognize Myriad activity until it’s too late.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-09.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-09.png)
-
-The Myriad
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-09.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-09.png)
+> 
+> The Myriad
 
 The [[Dwendalian Empire|empire]] scored a major victory fifteen years ago when they discovered and raided the central Myriad stronghold in [[Yrrosa]], forcing the surviving leadership to scatter across the continent. The Myriad has emphasized the narrative of its own fall in order to keep a low profile, though in fact it has retained most of its power. Its influence has stretched to the distant corners of [[Wildemount]] as it bide its time and waits to reinstate its control within the [[Dwendalian Empire|empire]]. Shifting tactics, the Myriad has now begun seeding major factions with double agents, who turn the most foolish or corrupt of their colleagues into the Myriad’s unwitting pawns.
 
@@ -44,7 +47,7 @@ The dangerous aspirations of the Myriad are driven by a curiously scattered coll
 
 
 ## 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-05.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-05.png)
-
-A Dwendalian farmer, a trader of the [[Kryn Dynasty]], and a fisherman of the [[Clovis Concord]]
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-05.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-05.png)
+> 
+> A Dwendalian farmer, a trader of the [[Kryn Dynasty]], and a fisherman of the [[Clovis Concord]]
 ##

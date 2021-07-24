@@ -1,8 +1,8 @@
 
 ## Graviturgy Wizard
 
-**Tag**:: #Subclass/Wizard 
-**Features**:: `=this.feature`
+**Tag**:: #Subclass/Wizard
+**Location**:: [[Character Options]]
 
 ### Graviturgy Magic
 

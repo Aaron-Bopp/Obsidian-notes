@@ -1,4 +1,6 @@
 # Golden Grin
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 When the lands of Tal’Dorei were ruled by the tyrant Drassig, a hidden society of muses, storytellers, bards, and folk heroes assembled to oppose their despotic king. The Golden Grin has endured since those dark years, and it has secretly guided the just, inspired the common folk, and planted the seeds of discontent and rebellion amid tyranny ever since.
 
@@ -6,9 +8,9 @@ Each member, known as a [[grinner]], pledges to uphold the ideal that every indi
 
 The Golden Grin arrived in [[Wildemount]] by following the trade routes from Tal’Dorei to the [[Menagerie Coast]], where its members discovered a land plagued by warring despots. A sect of the Golden Grin has spent the past generation spreading its roots throughout the [[Clovis Concord]]. Now firmly established, the Grin has set about undermining corruption within the [[Clovis Concord|concord]] and has begun working their way into the [[Dwendalian Empire]].
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-15.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-15.png)
-
-The Golden Grin
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-15.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-15.png)
+> 
+> The Golden Grin
 
 ## Goals
 

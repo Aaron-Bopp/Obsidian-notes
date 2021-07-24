@@ -1,3 +1,3 @@
 ## <% tp.file.title %>
-**Tag**:: #Exandria/Locale 
+**Tag**:: #
 **Location**:: 

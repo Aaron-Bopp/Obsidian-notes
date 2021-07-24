@@ -1,4 +1,6 @@
 # Clovis Concord
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 Nearly four hundred years ago, an alliance of [[Ki’Nau]] islanders and foreign Marquesian traders founded a new nation on the tropical [[Menagerie Coast]]. The Clovis Concord is a democratic nation that enforces law and order, and regulates commerce along the length of the coast. The nation is composed of eight independent city-states, each ruled by its own marquis, which operate as one union under the banner of the Clovis Concord. This arrangement ensures uniform laws, regulation of trade, and mutual protection between the city-states. These eight cities are [[Port Damali]], [[Port Zoon]], [[Gwardan]], [[Tussoa]], [[Othe]], [[Feolinn]], [[Nicodranas]], and [[Brokenbank]].
 
@@ -12,9 +14,9 @@ While the cities do work together for the good of the concord, they are also eac
 
 In recent times, [[the Myriad]] has subtly infiltrated the Clovis Concord, often with the unwitting aid of greedy local politicians. Rumors of criminal collusion have raised suspicion amid members of the concord. Sooner or later, the tension will have to break — and the fallout won’t be pretty.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-04.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-04.png)
-
-Clovis Concord Crest
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-04.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-04.png)
+> 
+> Clovis Concord Crest
 
 Despite the concord’s cordial relationship with the [[Dwendalian Empire]], their proximity to the imperial power is a lingering source of unease. Currently, the concord maintains a standing military of 7,800 Shore Warden soldiers across the coast, a nautical fleet of 370 ships, and 5,200 [[Zhelezo]] divided between the cities. Some of the Shore Wardens are posted inland, scattered around and within the [[Cyrios Mountains]], where they maintain forts along the border with [[Western Wynandir]] and the [[Dwendalian Empire]].
 

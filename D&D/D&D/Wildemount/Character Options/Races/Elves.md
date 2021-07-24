@@ -24,18 +24,18 @@ Elves who live outside [[the Luxon]]’s cycle of rebirth are viewed with pity, 
 
 ```dataview
 Table Allignment, Gender, length(file.inlinks) as Inlinks
-from [[Elves]]
+from Elves
 where contains(tag, "#Exandria/Person")
 sort length(file.inlinks) 
 ```
 ### Elf Subraces
 
-At the DM’s discretion, players have access to the pallid elf and sea elf subraces described below, in addition to the elf subraces in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook").
+At the DM’s discretion, players have access to the [[pallid elf]] and [[sea elf]] subraces described below, in addition to the elf subraces in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook").
 
 - [[Pallid Elf]]
 - [[Sea Elf]]
 
-_**Height and Weight.**_ Here’s how to randomly determine the height and weight of a pallid elf or sea elf, starting with rolling a size modifier:
+_**Height and Weight.**_ Here’s how to randomly determine the height and weight of a [[pallid elf]] or [[sea elf]], starting with rolling a size modifier:
 
 Size modifier = 2d10
 

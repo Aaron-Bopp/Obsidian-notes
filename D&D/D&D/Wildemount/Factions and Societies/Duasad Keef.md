@@ -1,6 +1,10 @@
 ### Master Duasad Keef
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
-_Chaotic good, male human_
+**Allignment**:: Chaotic good
+**Gender**:: male
+**Race**:: [[Humans|human]]
 
 An affluent noble among the upper crust of the [[Clovis Concord]], Duasad is an inheritor of the Keef family’s ancient, generational wealth. Duasad was raised as a woman, but realized as a young adult that something wasn’t right, and sought a mage to help him transition — a fairly simple task in the [[Clovis Concord|concord]], at least for those with affluence.
 

@@ -150,7 +150,7 @@ If you want to roleplay the interactions between the characters and the crew, yo
 
 **Dajarkal (Female [[Orcs|Half-Orc]]).** This lawful neutral **[druid](https://www.dndbeyond.com/monsters/druid)** is soft-spoken and likes animals more than other people. She joined _Wavechaser_’s crew a week ago in [[Nicodranas]]—as a mercenary spy for the [[Clovis Concord]] tasked with identifying [[The Revelry|Revelry]] pirates. She secretly casts [animal messenger](https://www.dndbeyond.com/spells/animal-messenger) every evening to send reports on _Wavechaser_’s whereabouts to her superiors.
 
-**Dillyu (Male Sea [[Elves|Elf]]).** This green-complexioned, chaotic good [bandit](https://www.dndbeyond.com/monsters/bandit) joined the crew only a few days before. As a result, he has no idea yet that he’s working on a pirate vessel. Dillyu spent most of his life in [[Port Zoon]] after losing his family to a sahuagin raid as a child, and he hates the sea devils with a passion.
+**Dillyu (Male [[Sea Elf]]).** This green-complexioned, chaotic good [bandit](https://www.dndbeyond.com/monsters/bandit) joined the crew only a few days before. As a result, he has no idea yet that he’s working on a pirate vessel. Dillyu spent most of his life in [[Port Zoon]] after losing his family to a sahuagin raid as a child, and he hates the sea devils with a passion.
 
 **Heidi Axebeard (Female [[Dwarves|Dwarf]]).** This lawful evil [acolyte](https://www.dndbeyond.com/monsters/acolyte) is the ship’s pilot and first mate, and she has a knack for predicting the weather. She hails from [[Grimgolir]] in the [[Dwendalian Empire]] but has spent decades navigating the sea. Heidi has fought sahuagin on multiple occasions but has never seen them wield magic like whatever caused Flora Isle to sink beneath the sea.
 
@@ -248,7 +248,7 @@ In addition to the general features noted above, [[Brokenbank]] has the followin
 
 [[Brokenbank]] is a muddy, rain-slick village crammed full of travelers. It can feel claustrophobic, and it seems as though a leering [[Zhelezo]] guard stands on every street corner.
 
-[[Brokenbank]]’s apothecary is a chubby, female sea [[Elves|elf]] [druid](https://www.dndbeyond.com/monsters/druid) named Aldageam. [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) saved Aldageam’s life when she was young, and although she doesn’t fully trust the [[tabaxi]] (who she knows is a pirate), she is happy to help her friend. She has ten [potions of water breathing](https://www.dndbeyond.com/magic-items/potion-of-water-breathing) in stock and sells them to the characters at half price for 40 gp each.
+[[Brokenbank]]’s apothecary is a chubby, female [[sea elf]] [druid](https://www.dndbeyond.com/monsters/druid) named Aldageam. [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) saved Aldageam’s life when she was young, and although she doesn’t fully trust the [[tabaxi]] (who she knows is a pirate), she is happy to help her friend. She has ten [potions of water breathing](https://www.dndbeyond.com/magic-items/potion-of-water-breathing) in stock and sells them to the characters at half price for 40 gp each.
 
 [[Brokenbank]] features a thriving pawn shop that doubles as its general store. Items sold here fetch 75 percent of their value rather than 50 percent.
 

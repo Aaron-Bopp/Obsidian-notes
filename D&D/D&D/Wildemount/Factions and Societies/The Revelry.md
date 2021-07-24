@@ -1,4 +1,6 @@
 # The Revelry
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 The Revelry’s allies within the [[Clovis Concord]] will tell you that they turned to piracy because of the [[Clovis Concord|concord]]’s excessive taxes and unjust laws. Perhaps it began that way, but over time, a movement that began as public dissent turned to lawful protest, which then became violent action. Eventually, a union of disenfranchised salvage ships and trade vessels fought their way into the Dragshallow Reef and violently overthrew the small sanctuary port of [[Darktow]].
 

@@ -1,4 +1,6 @@
 # Tribes of [[Shadycreek Run]]
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 The collection of rival criminal families known as the Tribes ran [[Shadycreek Run]] for nearly a century before losing much of their dominance to violent infighting and internal power struggles. Comprised of the Mardoon family, the Uttolot family, the Trebain family, and the Jagentoth family, the Tribes still control most of the business that transpires in the city as they work against each other in secret. While each family center is usually comprised of relatives by blood or marriage, their employees are also considered to be “within the family,” so long as they remain loyal. The Tribes operate without a unified symbol or banner, and their interests lie in fencing stolen goods, importing and providing vice, and controlling the populace through confusion, intimidation, and fear.
 

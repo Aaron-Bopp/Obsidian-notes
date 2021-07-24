@@ -1,4 +1,6 @@
 ### Baroness Jenna Iresor, Archmage of Industry
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 _Neutral doppelganger_
 

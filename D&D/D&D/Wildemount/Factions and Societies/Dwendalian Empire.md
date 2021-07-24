@@ -1,4 +1,6 @@
 # Dwendalian Empire
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 The Dwendalian Empire has reigned over [[Western Wynandir]] for over twelve generations. Imperial rule is maintained through its powerful military, its policy of religious restriction, and the support of the secretive [[Cerberus Assembly]]. Though these institutions nominally exist to ensure the safety of the populace from foreign threats, terrible dangers that wander the wilds, and lingering evils that seep from the scars of [[the Calamity]], they also allow the empire to maintain strict social order within its territories.
 
@@ -12,9 +14,9 @@ The empire’s military force currently stands at around 35,300 Righteous Brand 
 
 Soon after the Dwendalian bloodline came into power, there was a short-lived rebellion helmed by religious civilians. It was swiftly quelled and the rebel leaders were executed in an event known as the Admonition. The ruling class has regarded religion with suspicion ever since, believing that faith inspires the unworthy to rise above their station and spark fruitless rebellion. Instead of abolishing all religious practices, the empire regulates worship within its boundaries. All temples are owned and run by the government, and must be dedicated to deities approved by [[Bertrand Dwendal|the Crown]]. Priests and clerics are on [[Bertrand Dwendal|the Crown]]’s payroll to preach only approved religious texts. Keeping private shrines or worshiping outside official temples is punishable by fines or imprisonment. The only deities that are approved by the empire are [[Erathis]] the [[Erathis|Law Bearer]], [[Bahamut]] the Platinum [[Dragon]], [[Moradin]] the [[Moradin|All-Hammer]], [[Pelor]] the [[Pelor|Dawn Father]], [[Ioun]] the [[Ioun|Knowing Mentor]], and [[The Raven Queen]].
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-02.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-02.png)
-
-Dwendalian Empire Crest
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-02.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-02.png)
+> 
+> Dwendalian Empire Crest
 
 ## Goals
 

@@ -1,4 +1,6 @@
 # Scars of Scale and Tooth
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 For hundreds of years, the small, cloistered [[dragonborn]] nation of [[Draconia]] reigned over the [[Dreemoth Ravine]] to the south of [[Xhorhas]], removed from the troubles of the wastes. The erudite [[Dragonborn|draconbloods]] of the ruling houses, marked by their intellect, jeweled tails, and ostentatious wealth, looked down from the floating chain of islands that formed their capitol while the droves of tailless slave [[dragonborn]], known as ravenites, toiled away in the ravine below, gathering resources and serving their masters for generations. This structure collapsed around twenty years ago, when [[The Chroma Conclave]], a union of ancient dragons, destroyed [[Draconia]] and left the city ruined in the ravine below.
 
@@ -6,9 +8,9 @@ When the Conclave was destroyed, the surviving [[dragonborn]] ravenites outnumbe
 
 The past two decades have seen the rise of a new society, known as the Scars of Scale and Tooth, and it is wracked by the growing pains inherent to the dawn of a new nation. The Scars’ leadership is tenuous, as many seek to claim the prestige of leading their people, and disagreements have led to bloodshed between the newfound councilors. This has made the building of the new city of [[Xarzith Kitril]] slow and fraught. Some heroic figures are seeking to establish a better direction for the ravenites, while others fled to the [[Dwendalian Empire|empire]] to seek better fortunes away from the infighting in their homeland. The war between the [[Kryn Dynasty|Kryn]] and the [[Dwendalian Empire|empire]] has closed the border pass into [[Western Wynandir]], so the ravenites must find a way to coexist and thrive before the strife of warfare engulfs them.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-13.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-13.png)
-
-Scars of Scale and Tooth
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-13.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-13.png)
+> 
+> Scars of Scale and Tooth
 ## Goals
 
 The conflicting goals of the Scars’ leaders have placed their nascent settlement in peril. Every would-be ruler wants something different for their people and has sufficient support within their faction to cause the streets of [[Xarzith Kitril]] to run red with [[Dragonborn|ravenite]] blood, if they so desired.

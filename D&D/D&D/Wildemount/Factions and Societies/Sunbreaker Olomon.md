@@ -1,4 +1,6 @@
 ### Sunbreaker Olomon
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 _Neutral, male minotaur_
 

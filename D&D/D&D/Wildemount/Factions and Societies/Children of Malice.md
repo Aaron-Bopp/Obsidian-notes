@@ -1,3 +1,6 @@
+## Children of Malice
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 In the echoing stillness that followed the [[Divergence]], the ruined lands of the surface retained remnants of civilizations trying to rebuild their world from the ashes. Below, however, the surviving children of [[Lolth]] could feel her presence fade with her banishment. The chains she held over her drow were weakened, and those who had found renewed faith and purpose in the discovery of [[the Luxon]] abandoned their terrible mistress and slowly climbed their way to the surface to reclaim [[Ghor Dranas]] and be rid of their spiteful god for eternity.
 
@@ -5,9 +8,9 @@ Still reeling from her banishment to the Abyss, [[Lolth]] felt a rapid shift in 
 
 The Children of Malice aren’t numerous, but they are clever, driven, and directed by a god of pure hatred. They established hidden cabals throughout the fringes of Xhorhasian society, forming motley bands of Lolthite bugbears and hobgoblins who raid outlying [[Kryn Dynasty|Kryn]] settlements. Drow agents of [[Lolth]] have infiltrated even the highest echelons of [[Kryn Dynasty|Kryn]] society, slowly poisoning the [[Kryn Dynasty|dynasty]] both metaphorically and literally. The true extent of this infiltration is only now being uncovered within [[Rosohna]], spreading fear throughout the [[Kryn Dynasty|dynasty]] as the war against the [[Dwendalian Empire]] continues to divide the attention of the Bright Queen between the enemy outside and the enemy within.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-10.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-10.png)
-
-Children of Malice
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-10.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-10.png)
+> 
+> Children of Malice
 
 ## Goals
 
@@ -31,6 +34,6 @@ The Children of Malice vary dramatically in both appearance and methods.
 
 ### [[Vivurk Tonn]]
 ## 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-06.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-06.png)
-
-Aristocrats and nobles from the [[Dwendalian Empire]], the [[Kryn Dynasty]], and the [[Clovis Concord]]
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-06.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-06.png)
+> 
+> Aristocrats and nobles from the [[Dwendalian Empire]], the [[Kryn Dynasty]], and the [[Clovis Concord]]

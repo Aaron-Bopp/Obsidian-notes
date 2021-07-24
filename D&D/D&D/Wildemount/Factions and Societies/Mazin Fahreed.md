@@ -1,4 +1,6 @@
 ### Portcaller Mazin “Fat Fish” Fahreed
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 _Neutral, male tabaxi_
 

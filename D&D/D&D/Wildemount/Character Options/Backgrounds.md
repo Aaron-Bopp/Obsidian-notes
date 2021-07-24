@@ -1,4 +1,6 @@
 # Backgrounds
+**Tag**:: #Background/Exandria
+**Location**:: [[Character Options]]
 
 This section presents two new backgrounds—the [[Grinner]] and the [[Volstrucker Agent]]—as well as suggestions for adapting some of the backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") to tie them more closely to the factions of [[Wildemount]].
 

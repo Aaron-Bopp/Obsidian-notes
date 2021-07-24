@@ -1,4 +1,6 @@
 ### Professor Tuss Waccoh
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
 
 _Neutral, female half-orc_
 

@@ -1,10 +1,12 @@
-## Adapting [[Backgrounds]]
+## Adapting Backgrounds
+**Tag**:: #Exandria/Backgrounds
+**Location**:: [[Backgrounds]]
 
 All the [[backgrounds]] from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") fit perfectly into [[Wildemount]]. Additionally, though, a number of existing [[backgrounds]] can be adapted to represent specific factions in the campaign.
 
 ### Acolyte (Luxonborn)
 
-Every acolyte is a servant of some god. But you serve [[the Luxon]], a being that you believe transcends godhood and created the cosmos. No mere priest, you are a student of potential, for [[the Luxon]] is potentiality incarnate. Your Shelter of the Faithful feature applies to all who venerate [[the Luxon]], and to all who practice the art of [[dunamancy]] that [[the Luxon]] bestowed upon the world.
+Every acolyte is a servant of some god. But you serve [[the Luxon]], a being that you believe transcends godhood and created the cosmos. No mere priest, you are a student of potential, for [[the Luxon]] is potentiality incarnate. Your Shelter of the Faithful feature applies to all who venerate [[the Luxon]], and to all who practice the art of [[Dunamancy]] that [[the Luxon]] bestowed upon the world.
 
 ### Criminal ([[The Myriad|Myriad]] Operative)
 

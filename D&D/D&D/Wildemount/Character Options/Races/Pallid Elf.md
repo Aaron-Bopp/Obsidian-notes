@@ -1,6 +1,6 @@
-#### Pallid Elf
+#### Pallid [[Elves|Elf]]
 
-The pallid elves are a mystical and insightful people with skin as pale as the surface of [[Exandria]]’s largest moon. They emerged from the [[Pallid Grove]] this century and wander the world with childlike curiosity.
+The pallid [[elves]] are a mystical and insightful people with skin as pale as the surface of [[Exandria]]’s largest moon. They emerged from the [[Pallid Grove]] this century and wander the world with childlike curiosity.
 
 _**Ability Score Increase.**_ Your Wisdom score increases by 1.
 
@@ -10,4 +10,4 @@ _**Blessing of the Moon Weaver.**_ You know the [light](https://www.dndbeyond.co
 
 [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-02.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-02.png)
 
-Pallid Elf
+Pallid [[Elves|Elf]]

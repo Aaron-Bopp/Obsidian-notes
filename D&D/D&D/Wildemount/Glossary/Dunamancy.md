@@ -10,15 +10,7 @@ If you are considering a character pursuing a path involving the manipulation of
 
 In campaigns outside [[Wildemount]], there is no factional control of dunamancy, so the implementation of this arcane discipline is entirely open. Talk to your Dungeon Master about how dunamancy might fit into their campaign, and how your character’s story could be woven into that lore.
 
-## Dunamatic Subclasses
-#### [[Chronurgist]]
-#### [[Graviturgist]]
 
-### [[Dunamis]] as a Martial Focus
-
-Life is an extended series of choices. Every crossroads offers paths to different possibilities. The reality of each possible choice begins to coalesce as you approach the moment of decision, with multiple timelines humming with opportunity. Once a choice is made, one path sparks to life and continues while others fade, their energy of potentiality diffusing into the multiverse. A rare few characters learn to invoke and harness this released [[dunamis]] in the throes of battle to enhance their martial capabilities—and such warriors are uniformly feared.
-
-#### [[Echo Knight]]
 
 
 ## Dunamancy Spells
