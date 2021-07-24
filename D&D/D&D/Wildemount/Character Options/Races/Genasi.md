@@ -1,4 +1,8 @@
 ## Genasi
+**Tag**:: #Race/Genasi
+**Location**:: [[Races]]
+
+**Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Languages']
 
 Genasi are exceedingly rare on [[Exandria]], as befits their unique origins. Most live among the elementally attuned Ashari tribes of Tal’Dorei or on the Elemental Planes. However, there are no major rifts to the Elemental Planes in [[Wildemount]], and thus no Ashari to safeguard them. The few genasi who dwell on this continent are often created as the result of a powerful elemental influence at the moment of their birth. A baby born within the eye of a hurricane might become an air genasi, while a fire genasi might be born in the midst of a raging forest fire.
 
@@ -22,31 +26,31 @@ The [[Kryn Dynasty|Kryn]] know little about the genasi and are eager to rectify 
 
 Genasi use the naming conventions of the people among whom they were raised. They might later assume distinctive names to capture their heritage, such as Flame, Ember, Wave, or Onyx.
 
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-09.png)
-
-From left to right: earth genasi, water genasi, fire genasi, and air genasi
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-09.png)
+> 
+> From left to right: earth genasi, water genasi, fire genasi, and air genasi
 
 ### Genasi Traits
 
 A genasi character has the following racial traits.
 
-_**Ability Score Increase.**_ Your Constitution score increases by 2.
+**Ability Score Increase**:: Your Constitution score increases by 2.
 
-_**Age.**_ Genasi mature at about the same rate as [[humans]] and reach adulthood in their late teens. They live somewhat longer than [[humans]] do, up to 120 years.
+**Age**:: Genasi mature at about the same rate as [[humans]] and reach adulthood in their late teens. They live somewhat longer than [[humans]] do, up to 120 years.
 
-_**Alignment.**_ Independent and self-reliant, genasi tend toward a neutral alignment.
+**Alignment**:: Independent and self-reliant, genasi tend toward a neutral alignment.
 
-_**Size.**_ Genasi are as varied as their mortal parents but are generally built like [[humans]]. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+**Size**:: Genasi are as varied as their mortal parents but are generally built like [[humans]]. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
-Size modifier = 2d10
+**Size modifier**:: 2d10
 
-Height = 4 feet + 8 inches + your size modifier in inches
+**Height**:: 4 feet + 8 inches + your size modifier in inches
 
-Weight in pounds = 110 + (2d4 × your size modifier)
+**Weight in pounds**:: 110 + (2d4 × your size modifier)
 
-_**Speed.**_ Your base walking speed is 30 feet.
+**Speed**:: Your base walking speed is 30 feet.
 
-_**Languages.**_ You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.
+**Languages**:: You can speak, read, and write Common and Primordial. Primordial is a guttural language, filled with harsh syllables and hard consonants.
 
 ### Genasi Subraces
 
