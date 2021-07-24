@@ -8,7 +8,7 @@ Sea [[elves]] are a reclusive and deeply territorial people who have as much in 
 
 **Ability Score Increase**:: Your Constitution score increases by 1.
 
-**Sea Elf Training**:: You have proficiency with the spear, trident, light crossbow, and net.
+**Sea [[Elves|Elf]] Training**:: You have proficiency with the spear, trident, light crossbow, and net.
 
 **Child of the Sea**:: You have a swimming speed of 30 feet, and you can breathe air and water.
 

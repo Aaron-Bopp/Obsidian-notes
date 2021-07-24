@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MarrowValley
 **Location**:: [[Marrow Valley]]
 
-**Population**:: 8,180 (58% [[halflings]], 21% [[humans]], 6% [[dragonborn]], 15% other races)
+**Population**:: 8,180 (58% [[halflings]], 21% [[humans]], 6% [[dragonborn]], 15% other [[races]])
 
 **Government**:: The locally elected [[starosta]], Theanor Whisperthin, works with [[Bertrand Dwendal|the Crown]]-appointed lawmaster to organize and distribute the harvests.
 

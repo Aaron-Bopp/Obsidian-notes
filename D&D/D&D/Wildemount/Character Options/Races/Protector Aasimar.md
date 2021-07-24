@@ -1,10 +1,10 @@
-## Protector Aasimar
+## Protector [[Aasimar]]
 **Tag**:: #Race/Aasimar 
 **Location**:: [[Aasimar]]
 
 **Features**:: ['Ability Score Increase', 'Radiant Soul']
 
-Protector aasimar are charged by the powers of good to protect the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector aasimar receives advice and directives that urge them to stand against evil.
+Protector [[aasimar]] are charged by the powers of good to protect the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector [[aasimar]] receives advice and directives that urge them to stand against evil.
 
 **Ability Score Increase**:: Your Wisdom score increases by 1.
 

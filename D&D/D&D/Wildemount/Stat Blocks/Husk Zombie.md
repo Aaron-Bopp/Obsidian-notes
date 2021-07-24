@@ -8,7 +8,7 @@
 
 The wastes of [[Eastern Wynandir]] retain many curses and corruptions from the time of [[the Calamity]], the worst of which pervert the sanctity of death. One such curse manifests as a terrible roving fog that draws the corpses of the fallen to rise as husk zombies—resilient undead of frightening speed and bloodlust. As well, some of the more heinous fiends that walk these scarred lands feed on the life force of the living, leaving these terrible undead in their wake.
 
-**Psychotic Frenzy**::  Unlike typical zombies, which are ponderous and lumbering stalkers, a husk zombie races quickly toward its prey, eager to tear flesh from bone. Each kill it makes drives it into a fighting frenzy, during which it howls with delight. It doesn’t feed on those it kills, but rather leaves the corpses to rot. Humanoids killed by a husk zombie become husk zombies themselves, rising quickly to join their slayer in merry carnage.
+**Psychotic Frenzy**::  Unlike typical zombies, which are ponderous and lumbering stalkers, a husk zombie [[races]] quickly toward its prey, eager to tear flesh from bone. Each kill it makes drives it into a fighting frenzy, during which it howls with delight. It doesn’t feed on those it kills, but rather leaves the corpses to rot. Humanoids killed by a husk zombie become husk zombies themselves, rising quickly to join their slayer in merry carnage.
 
 **Undead**::  A husk zombie doesn’t require air, food, drink, or sleep.
 

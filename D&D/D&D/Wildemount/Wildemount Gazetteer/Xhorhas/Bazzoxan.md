@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/Xhorhas
 **Location**:: [[Xhorhas]]
 
-**Population**:: 2,610 (81% [[Dark Elves]], 8% goblinoids, 11% other races)
+**Population**:: 2,610 (81% [[Dark Elves]], 8% goblinoids, 11% other [[races]])
 
 **Government**:: Martial law is enforced by Taskhand [[Verin Thelyss]] and maintained by the local military.
 

@@ -11,7 +11,7 @@ from #Exandria/God
 ```
 ## Prime Deities
 
-The circle of Prime Deities includes the leaders and luminary creators that battled the Primordials and instigated [[the Founding]], forging the mortal races of [[Exandria]]. They represent a spectrum of light, protection, love, death, and all other facets of freedom and life in the world. While some gods may disagree and squabble, they exist in a subtle alliance to maintain the sanctity of life and their respective creations.
+The circle of Prime Deities includes the leaders and luminary creators that battled the Primordials and instigated [[the Founding]], forging the mortal [[races]] of [[Exandria]]. They represent a spectrum of light, protection, love, death, and all other facets of freedom and life in the world. While some gods may disagree and squabble, they exist in a subtle alliance to maintain the sanctity of life and their respective creations.
 #Table 
 Deity
 

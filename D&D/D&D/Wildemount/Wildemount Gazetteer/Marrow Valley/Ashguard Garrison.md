@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MarrowValley
 **Location**:: [[Marrow Valley]]
 
-**Population**:: 5,720 (74% [[Dark Elves]], 26% other races)
+**Population**:: 5,720 (74% [[Dark Elves]], 26% other [[races]])
 
 **Government**:: The garrison is currently helmed by the acting general of the [[Kryn Dynasty|Kryn]] forces holding the stronghold.
 

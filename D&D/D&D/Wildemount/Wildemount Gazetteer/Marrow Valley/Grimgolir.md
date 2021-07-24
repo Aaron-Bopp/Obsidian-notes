@@ -9,7 +9,7 @@ Not easily dissuaded, the [[dwarves]] returned to the surface for the first time
 
 ## Grimgolir
 
-**Population**:: 19,090 (81% [[dwarves]], 8% [[humans]], 6% [[halflings]], 5% other races)
+**Population**:: 19,090 (81% [[dwarves]], 8% [[humans]], 6% [[halflings]], 5% other [[races]])
 
 **Government**:: Underbaron Brock Dummaroff rules the city with a council of [[Dwarves|dwarf]] lords and ladies. [[Bertrand Dwendal|The Crown]]-appointed [[starosta]] is effectively just another councilor.
 

@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/ZemniFields
 **Location**:: [[Zemni Fields]]
 
-**Population**:: 15,270 (70% [[humans]], 17% [[dwarves]], 8% [[elves]], 5% other races)
+**Population**:: 15,270 (70% [[humans]], 17% [[dwarves]], 8% [[elves]], 5% other [[races]])
 
 **Government**:: [[Starosta]] Brumae Luddie handles the affairs of the city with the support of the lawmaster's regiment of [[Crownsguard]]. Nobles under the [[starosta]] handle in local administration.
 

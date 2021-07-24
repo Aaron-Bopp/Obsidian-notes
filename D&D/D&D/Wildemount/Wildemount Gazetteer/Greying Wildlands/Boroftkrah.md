@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/GreyingWildlands
 **Location**:: [[Greying Wildlands]]
 
-**Population**:: 3,060 (70% [[orcs]], 17% [[Orcs|half-orcs]], 13% other races)
+**Population**:: 3,060 (70% [[orcs]], 17% [[Orcs|half-orcs]], 13% other [[races]])
 
 **Government**:: The town is guided by a circle of elder warriors known as the [[Runemarked]].
 

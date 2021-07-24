@@ -20,7 +20,7 @@ Aarakocra are native to the mountains and jungles of western [[Wildemount]], and
 
 ### Aarakocra Names
 
-As with much of their speech, aarakocra names include clicks, trills, and whistles to the point that other peoples have a difficult time pronouncing them. Typically, a name has two to four syllables with the sounds acting as connectors. When interacting with other races, aarakocra may use nicknames gained from people they meet or shortened forms of their full names.
+As with much of their speech, aarakocra names include clicks, trills, and whistles to the point that other peoples have a difficult time pronouncing them. Typically, a name has two to four syllables with the sounds acting as connectors. When interacting with other [[races]], aarakocra may use nicknames gained from people they meet or shortened forms of their full names.
 
 **Aarakocra Names:** Aera, Aial, Aur, Deekek, Errk, Heehk, Ikki, Kleeck, Oorr, Ouss, Quaf, Quierk, Salleek, Urreek, or Zeed
 

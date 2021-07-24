@@ -8,7 +8,7 @@
 
 Blood Hunters are mistrusted monster hunters that live outside society, using blood magic to stalk their quarries.
 
-Bright Queen [[Leylas Kryn]] is the head of Den [[Kryn Dynasty|Kryn]] and heralded as the leader of the [[Kryn Dynasty]] of [[Xhorhas]].
+Bright Queen [[Leylas Kryn]] is the head of [[Den]] [[Kryn Dynasty|Kryn]] and heralded as the leader of the [[Kryn Dynasty]] of [[Xhorhas]].
 
 Calamity is the name given for the collective wars and ensuing cataclysms that occurred at the end of the [[Age of Arcanum]], which nearly destroyed all life and civilization across [[Exandria]].
 
@@ -26,9 +26,9 @@ Calamity is the name given for the collective wars and ensuing cataclysms that o
 
 [[Draconia]] was the once majestic [[dragonborn]] nation that now lays in ruins within the [[Dreemoth Ravine]].
 
-[[Dunamancy]] is the arcane study and mastering of [[dunamis]] and [[dunamis]]-related magic.
+[[Dunamancy]] is the arcane study and mastering of [[Dunamancy|dunamis]] and [[Dunamancy|dunamis]]-related magic.
 
-[[Dunamis]] is the mysterious arcane energy of potential, probability, and gravity studied and harnessed by spellcasters of the [[Kryn Dynasty]].
+[[Dunamancy|Dunamis]] is the mysterious arcane energy of potential, probability, and gravity studied and harnessed by spellcasters of the [[Kryn Dynasty]].
 
 [[Eiselcross]] is the cluster of icy islands that makes up the northern region of the [[Biting North]].
 
@@ -50,7 +50,7 @@ King [[Bertrand Dwendal]] is the current ruler of the [[Dwendalian Empire]] and 
 
 [[Kord]] is the god of strength, contests, and storms.
 
-[[Kryn Dynasty]] is the faction of largely drow and [[Wastefolk]] that rules most of [[Xhorhas]].
+[[Kryn Dynasty]] is the faction of largely [[Dark Elves|drow]] and [[Wastefolk]] that rules most of [[Xhorhas]].
 
 [[Lolth]] is the [[Betrayer God]] of deceit and spiders.
 

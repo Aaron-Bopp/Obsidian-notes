@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/Xhorhas
 **Location**:: [[Xhorhas]]
 
-**Population**:: 5,930 (62% goblinoids, 21% [[gnolls]], 10% [[orcs]], 7% other races)
+**Population**:: 5,930 (62% goblinoids, 21% [[gnolls]], 10% [[orcs]], 7% other [[races]])
 
 **Government**:: The reigning champion of Urzin, [[Sunbreaker Olomon]], guides the townsfolk, who follow with zeal and dedication.
 
@@ -16,7 +16,7 @@ A uniquely mobile settlement with its permanent dwellings built on the backs of 
 
 The [[swampfolk]] of Urzin have always prized strength and guile: their leader is simply the reigning champion of one-on-one combat. The previous champion, Ogre Lord Buhfal, ruled the settlement for decades, assaulting the encroaching [[Dwendalian Empire|empire]] and fighting off the dangers of the marsh. Roughly forty years ago, Buhfal was challenged by the [[Kryn Dynasty|Kryn]] paragon [[Sunbreaker Olomon]]. In what is still retold as legend, a mighty bout between the two ended with Buhfal defeated and Olomon elevated to rule the settlement.
 
-With his guidance, Olomon brought the teachings of [[the Luxon]], in the name of the Bright Queen, and promised that with the hearts of the Urzin people behind him and his drow, the terrible soldiers of the [[Dwendalian Empire|empire]] would no longer terrorize the marshfolk. Renewed by this promise, Urzin follows the lead of the [[Kryn Dynasty|dynasty]] with an impressive fervor, working like clockwork to achieve any goal dictated by Olomon. In his absence, Ogre Lord Buhfal II proudly fills the role of leader and protector.
+With his guidance, Olomon brought the teachings of [[the Luxon]], in the name of the Bright Queen, and promised that with the hearts of the Urzin people behind him and his [[Dark Elves|drow]], the terrible soldiers of the [[Dwendalian Empire|empire]] would no longer terrorize the marshfolk. Renewed by this promise, Urzin follows the lead of the [[Kryn Dynasty|dynasty]] with an impressive fervor, working like clockwork to achieve any goal dictated by Olomon. In his absence, Ogre Lord Buhfal II proudly fills the role of leader and protector.
 
 A large number of the denizens of Urzin make their homes atop the shells of the horizonbacks, but many also carry temporary tents and makeshift abodes that allow a home to be made wherever they find themselves. Whole packs of tortoises reconfigure daily, and often the settlement breaks up and scatters across the marsh for periods of time, leaving satellite outposts all over the region before reforming elsewhere among the muck. Because of this, the Dwendalian military finds the movements of Urzin hard to track and even harder to predict.
 

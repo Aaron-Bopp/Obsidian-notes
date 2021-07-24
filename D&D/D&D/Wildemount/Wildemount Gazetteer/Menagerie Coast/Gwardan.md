@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
 **Location**:: [[Menagerie Coast]]
 
-**Population**:: 18,900 (63% [[elves]], 16% [[humans]], 11% [[gnomes]], 10% other races)
+**Population**:: 18,900 (63% [[elves]], 16% [[humans]], 11% [[gnomes]], 10% other [[races]])
 
 **Government**:: The city is governed by the four Noldar, one of whom must act as marquis.
 

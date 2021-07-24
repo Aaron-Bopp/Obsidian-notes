@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/ZemniFields
 **Location**:: [[Zemni Fields]]
 
-**Population**:: 3,850 (71% [[humans]], 12% [[dwarves]], 11% [[elves]], 6% other races)
+**Population**:: 3,850 (71% [[humans]], 12% [[dwarves]], 11% [[elves]], 6% other [[races]])
 
 **Government**:: [[Starosta]] Judus Olessia is the appointed leader of Blumenthal, but the countless directives from [[Rexxentrum]] often bypass him entirely.
 

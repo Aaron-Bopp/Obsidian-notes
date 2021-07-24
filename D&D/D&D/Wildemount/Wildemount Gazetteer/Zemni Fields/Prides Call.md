@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/ZemniFields
 **Location**:: [[Zemni Fields]]
 
-**Population**:: 16,090 (81% [[dwarves]], 8% [[humans]], 6% [[halflings]], 5% other races)
+**Population**:: 16,090 (81% [[dwarves]], 8% [[humans]], 6% [[halflings]], 5% other [[races]])
 
 **Government**:: [[Starosta]] Ghuldi Demosk walks the fine line of honoring imperial rule without undermining dwarven tradition. Small guilds run by [[Dwarves|dwarf]] nobles support his rule.
 

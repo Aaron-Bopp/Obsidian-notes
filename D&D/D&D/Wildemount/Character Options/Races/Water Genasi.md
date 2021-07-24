@@ -1,4 +1,4 @@
-## Water Genasi
+## Water [[Genasi]]
 **Tag**:: #Race/Genasi
 **Location**:: [[Genasi]]
 
@@ -6,7 +6,7 @@
 
 The lapping of waves, the spray of sea foam on the wind, the ocean depths—these things call to your heart as a descendant of the turbulent marids. You wander freely and take pride in your independence, though others might consider you selfish.
 
-Most water genasi look as if they just finished bathing, with beads of moisture collecting on their skin and hair. They smell of fresh rain and clean water. Blue or green skin is common, and most have somewhat overlarge eyes, blue-black in color. A water genasi’s hair might float freely, swaying and waving as if underwater. Some have voices with undertones reminiscent of whale song or trickling streams.
+Most water [[genasi]] look as if they just finished bathing, with beads of moisture collecting on their skin and hair. They smell of fresh rain and clean water. Blue or green skin is common, and most have somewhat overlarge eyes, blue-black in color. A water [[genasi]]’s hair might float freely, swaying and waving as if underwater. Some have voices with undertones reminiscent of whale song or trickling streams.
 
 **Ability Score Increase**:: Your Wisdom score increases by 1.
 

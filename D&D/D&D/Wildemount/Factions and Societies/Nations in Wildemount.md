@@ -1,3 +1,3 @@
-## Nations in Wildemount
+## Nations in [[Wildemount]]
 **Tag**:: #Exandria 
 **Location**:: [[Factions and Societies]]

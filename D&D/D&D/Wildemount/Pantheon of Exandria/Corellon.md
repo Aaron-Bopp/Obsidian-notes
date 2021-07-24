@@ -4,7 +4,7 @@
 
 **Features**:: ['Depiction', 'Holy Day']
 
-Guardian of spring, beauty, and the arts, Corellon is the patron of arcane magic and the fey. [[The Founding]] inspired them to wander the twisted lands, seeding them with the first arcane magics and raising the most ancient of forests. It was by the Arch Heart’s hand that the first [[elves]] wandered from the Feywild, and for this reason they are considered the Mother and Father of all [[elves]]. Those who seek art in all their work, whether magical or mundane, often worship at the altar of Corellon. They loathe the Spider Queen and her priestesses for leading the drow astray.
+Guardian of spring, beauty, and the arts, Corellon is the patron of arcane magic and the fey. [[The Founding]] inspired them to wander the twisted lands, seeding them with the first arcane magics and raising the most ancient of forests. It was by the Arch Heart’s hand that the first [[elves]] wandered from the Feywild, and for this reason they are considered the Mother and Father of all [[elves]]. Those who seek art in all their work, whether magical or mundane, often worship at the altar of Corellon. They loathe the Spider Queen and her priestesses for leading the [[Dark Elves|drow]] astray.
 
 Corellon watches the business of mortals and gods from within the palace of Crescent Grove in the beautiful realm of Arborea, surrounded by towering white trees and pillars of marble.
 

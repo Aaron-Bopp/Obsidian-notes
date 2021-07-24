@@ -14,4 +14,4 @@ In some ways, the [[Clovis Concord]] can be considered a half-[[Elves|elf]] nati
 
 ### Half-[[Elves]] in [[Xhorhas]]
 
-Half-[[elves]] of all different ancestries dwell within the lands of the [[Kryn Dynasty|Kryn]], with most having one [[Dark Elves|dark elf]] parent. The idea of [[elves]] forming relationships and even having children with people of other humanoid races has long since been accepted throughout [[Kryn Dynasty|Kryn]] lands—so much so that it seems somewhat unnatural when people outside the culture express surprise at half-[[elves]] with small, minotaur-like horns, or with the tufted ears and yellow eyes of a bugbear.
+Half-[[elves]] of all different ancestries dwell within the lands of the [[Kryn Dynasty|Kryn]], with most having one [[Dark Elves|dark elf]] parent. The idea of [[elves]] forming relationships and even having children with people of other humanoid [[races]] has long since been accepted throughout [[Kryn Dynasty|Kryn]] lands—so much so that it seems somewhat unnatural when people outside the culture express surprise at half-[[elves]] with small, minotaur-like horns, or with the tufted ears and yellow eyes of a [[bugbear]].

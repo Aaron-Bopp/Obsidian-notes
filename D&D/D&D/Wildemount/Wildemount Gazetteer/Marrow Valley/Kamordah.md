@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MarrowValley
 **Location**:: [[Marrow Valley]]
 
-**Population**:: 7,440 (58% [[humans]], 23% [[halflings]], 13% [[dwarves]], 6% other races)
+**Population**:: 7,440 (58% [[humans]], 23% [[halflings]], 13% [[dwarves]], 6% other [[races]])
 
 **Government**:: [[Starosta]] Brennan Keef oversees his network of appointees, but his true loyalty is to the [[Truscan family]].
 

@@ -1,3 +1,3 @@
-## People in Wildemount
+## People in [[Wildemount]]
 **Tag**:: #Exandria
 **Location**:: [[Factions and Societies]]

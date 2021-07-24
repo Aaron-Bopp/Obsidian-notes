@@ -34,4 +34,4 @@ A bugbear character has the following racial traits.
 
 **Surprise Attack**:: If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
 
-**Languages**:: You can speak, read, and write Common and Goblin.
+**Languages**:: You can speak, read, and write Common and [[Goblinkin|Goblin]].

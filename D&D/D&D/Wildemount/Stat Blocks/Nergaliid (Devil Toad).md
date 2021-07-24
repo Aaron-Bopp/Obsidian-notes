@@ -30,7 +30,7 @@ Large fiend (devil), lawful evil
 
 **Senses**::  [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) 120 ft., passive Perception 12
 
-**Languages**::  Common, Infernal
+**Languages**::  Common, [[Infernal]]
 
 **Challenge**::  3 (700 XP)
 

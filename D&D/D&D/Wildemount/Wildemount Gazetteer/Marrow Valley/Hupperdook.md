@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MarrowValley
 **Location**:: [[Marrow Valley]]
 
-**Population**:: 12,090 (76% [[gnomes]], 10% [[dwarves]], 8% [[humans]], 6% other races)
+**Population**:: 12,090 (76% [[gnomes]], 10% [[dwarves]], 8% [[humans]], 6% other [[races]])
 
 **Government**:: [[Starosta]] Emma Zezbok, who has ruled for two centuries, works with elected officials and the major houses of industry.
 

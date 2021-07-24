@@ -7,8 +7,11 @@
         "id": "57299ad881f114bf",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "D&D/Wildemount/Magic Items/Last Stand Armor.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,11 +39,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Exandria/Adventure",
+                "query": "armor",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -51,6 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Wildemount/Magic Items/Last Stand Armor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -61,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Wildemount/Magic Items/Last Stand Armor.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Wildemount/Magic Items/Last Stand Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,11 +142,12 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "D&D/Wildemount/Magic Items/Last Stand Armor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": false,
+                  "localJumps": 5,
+                  "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": false,
@@ -187,7 +194,7 @@
                   "repelStrength": 13.5882352941176,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.7985252895387122,
+                  "scale": 0.05349915812193437,
                   "close": false
                 }
               }
@@ -203,15 +210,15 @@
   },
   "active": "57299ad881f114bf",
   "lastOpenFiles": [
-    "D&D/Wildemount/Magic Items/Breathing Bubble.md",
-    "D&D/Wildemount/Factions and Societies.md",
-    "D&D/Wildemount/Character Options/Races/Earth Genasi.md",
-    "D&D/Wildemount/Glossary/Frigid Woe.md",
-    "D&D/Wildemount/Glossary/Firmaments.md",
-    "D&D/Wildemount/Glossary/Expositors.md",
-    "D&D/Wildemount/Glossary/Endless Athenaeum.md",
-    "D&D/Wildemount/Glossary/Empire Gods.md",
-    "D&D/Wildemount/Glossary/Elder Evils.md",
-    "D&D/Wildemount/Glossary/Dungeon of Penance.md"
+    "D&D/Wildemount/Magic Items/Last Stand Armor.md",
+    "D&D/Wildemount/Magic Items/Luxon Beacon.md",
+    "D&D/Wildemount/Magic Items/Mace of the Black Crown.md",
+    "D&D/Wildemount/Magic Items/Needle of Mending.md",
+    "D&D/Wildemount/Magic Items/Lash of Shadows.md",
+    "D&D/Wildemount/Magic Items/Infiltrator’s Key.md",
+    "D&D/Wildemount/Magic Items/Hide of the Feral Guardian.md",
+    "D&D/Wildemount/Magic Items/Goggles of Object Reading.md",
+    "D&D/Wildemount/Magic Items/Dust of Deliciousness.md",
+    "D&D/Wildemount/Magic Items/Destroying These Artifacts.md"
   ]
 }

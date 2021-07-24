@@ -386,7 +386,7 @@ The humanoids working in Salsvault died when it crashed into [[Foren]]. Just bef
 
 ### S1. Entrance Chamber
 
-The inscription is in an archaic version of Draconic that was spoken in ancient [[Aeor]]. It can be read by any character who can read Draconic with a few minutes of study, or by anyone with access to a [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages) spell or similar magic. The message reads: “Welcome to Salsvault! Visitors, please wait here for an escort, and DO NOT TOUCH ANYTHING WITHOUT PERMISSION.”
+The inscription is in an archaic version of [[Draconic]] that was spoken in ancient [[Aeor]]. It can be read by any character who can read [[Draconic]] with a few minutes of study, or by anyone with access to a [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages) spell or similar magic. The message reads: “Welcome to Salsvault! Visitors, please wait here for an escort, and DO NOT TOUCH ANYTHING WITHOUT PERMISSION.”
 
 If the characters make any noise louder than a whisper in this chamber, the suits of animated armor in [area S3](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#S3AnimatedArmorLaboratory "area S3") come to investigate.
 
@@ -412,11 +412,11 @@ The zombie wears an apron containing a set of damaged mithral smith’s tools (w
 
 ### S4. [[Frigid Woe]] Laboratory
 
-The inscription in archaic Draconic reads: “Disease storage. Authorized personnel only.”
+The inscription in archaic [[Draconic]] reads: “Disease storage. Authorized personnel only.”
 
 These stone chests are locked (see “[Salsvault Features](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#SalsvaultFeatures "Salsvault Features")” at the beginning of this section) and magically trapped. When a creature makes a failed attempt to pick the chest’s lock, or attacks or attempts to force the chest open, the chest shoots a beam of cold energy at the creature. The beam is +4 to hit and deals 4 (1d8) cold damage on a hit.
 
-A character who searches the exterior of either chest and succeeds on a DC 13 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check finds an archaic Draconic word for “ice” carved in tiny letters near the hinges. With a successful DC 10 Intelligence ([Arcana](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Arcana)) check, a character senses that the inscription is connected to a trap. Scratching out the inscription with a tool or a weapon causes the trap to stop functioning on that chest.
+A character who searches the exterior of either chest and succeeds on a DC 13 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check finds an archaic [[Draconic]] word for “ice” carved in tiny letters near the hinges. With a successful DC 10 Intelligence ([Arcana](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Arcana)) check, a character senses that the inscription is connected to a trap. Scratching out the inscription with a tool or a weapon causes the trap to stop functioning on that chest.
 
 Each chest is packed with fine sand, within which are nestled two vials of [[frigid woe]] (see the “[Vials of Frigid Woe](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#sidebarVialsofFrigidWoe "Vials of [[Frigid Woe]]")” sidebar earlier in this adventure).
 
@@ -426,7 +426,7 @@ The doors from this area to [areas S1](https://www.dndbeyond.com/sources/egtw/ad
 
 A [detect magic](https://www.dndbeyond.com/spells/detect-magic) spell reveals an aura of conjuration magic radiating from the locked door to area S5. When a creature makes a failed attempt to pick the door’s lock, or attacks or attempts to force the door open, that creature is teleported into the middle of [area S15](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#S15AnimatedWeaponStorage "area S15").
 
-A character who searches the door and succeeds on a DC 13 Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) check finds an archaic Draconic word for “disappear” carved in tiny letters near the foot of the door on both sides. With a successful DC 10 Intelligence ([Arcana](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Arcana)) check, a character senses that the inscription is connected to a trap. Scratching out either inscription with a tool or a weapon causes the trap to stop functioning.
+A character who searches the door and succeeds on a DC 13 Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) check finds an archaic [[Draconic]] word for “disappear” carved in tiny letters near the foot of the door on both sides. With a successful DC 10 Intelligence ([Arcana](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Arcana)) check, a character senses that the inscription is connected to a trap. Scratching out either inscription with a tool or a weapon causes the trap to stop functioning.
 
 ### S5. Disease Storage
 
@@ -475,7 +475,7 @@ The chest contains Ferol’s treasure (see below), along with a [swarm of undead
 -   The swarm is made of Tiny undead that don’t require air, food, drink, or sleep.
 -   The swarm has immunity to poison damage and the [poisoned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Poisoned) condition.
 
-Any search of the desk turns up a bottle of dried ink, several used quills, five sheets of blank parchment, and a piece of paper with a faded message written on it in archaic Draconic. A character who understands Draconic can spend a few minutes to piece together the meaning of the note, or it can be deciphered with a [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages) spell or similar magic. The note reads:
+Any search of the desk turns up a bottle of dried ink, several used quills, five sheets of blank parchment, and a piece of paper with a faded message written on it in archaic [[Draconic]]. A character who understands [[Draconic]] can spend a few minutes to piece together the meaning of the note, or it can be deciphered with a [comprehend languages](https://www.dndbeyond.com/spells/comprehend-languages) spell or similar magic. The note reads:
 
 The chest contains 1,006 sp, 45 ep, and 201 gp in [[Aeor|Aeorian]] coinage.
 
@@ -531,7 +531,7 @@ The golem has long since smashed all the objects in this chamber not destroyed b
 
 The undead [Ferol Sal](https://www.dndbeyond.com/monsters/ferol-sal) has worked tirelessly in the laboratory for centuries, obsessed with crafting a disease that can kill the gods. Despite having made no progress in all that time, he keeps working. Ferol is a [wight](https://www.dndbeyond.com/monsters/wight) with an Intelligence of 16 (+3).
 
-Ferol knows nothing of [[Exandria]]’s history since [[Aeor]]’s crash, and his memory of the distant past is almost as hazy. His transformation into a wight and the centuries of solitude since have driven him quite mad. He cares only about taking revenge on the gods—who he incorrectly assumes are still active in [[Exandria]]. As a resident of [[Aeor]], Ferol doesn’t speak Common, though he can communicate in the archaic Draconic of [[Aeor]], as well as an archaic form of Elven. Characters who speak Draconic or Elven can communicate with him, albeit slowly.
+Ferol knows nothing of [[Exandria]]’s history since [[Aeor]]’s crash, and his memory of the distant past is almost as hazy. His transformation into a wight and the centuries of solitude since have driven him quite mad. He cares only about taking revenge on the gods—who he incorrectly assumes are still active in [[Exandria]]. As a resident of [[Aeor]], Ferol doesn’t speak Common, though he can communicate in the archaic [[Draconic]] of [[Aeor]], as well as an archaic form of Elven. Characters who speak [[Draconic]] or Elven can communicate with him, albeit slowly.
 
 When Ferol notices the characters, he demands to know what they’re doing in Salsvault. Any character who claims they have come to help Ferol with his work and succeeds on a Charisma ([Deception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Deception)) check opposed by the wight’s Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check earns the undead’s trust. The check is made with advantage if characters who found and were able to read the note in [area S10](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-frozen-sick#S10FerolSalsChamber "area S10") mention Ferol’s plans to craft a god-killing disease.
 

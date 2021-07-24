@@ -18,7 +18,7 @@ In the [[Clovis Concord]], the cosmopolitan melting pot of [[Wildemount]], most 
 
 ### Aasimar in [[Xhorhas]]
 
-Those in the [[Kryn Dynasty]] who study [[Dunamancy]] see aasimar as brimming with near-limitless potential. As such, aasimar are often sought out from birth to be trained as dunamancers and echo knights. The tribesfolk who wander [[Xhorhas]] see the birth of an aasimar as a message from the gods, and their shamans ascribe meaning to that birth by the conditions of the world. An aasimar born during a raging storm might be a word of warning from [[Kord]] the Storm Lord, whereas an aasimar whose mother gave birth in a field of flowers could be a vow of protection from [[Melora]] the Wild Mother.
+Those in the [[Kryn Dynasty]] who study [[Dunamancy]] see aasimar as brimming with near-limitless potential. As such, aasimar are often sought out from birth to be trained as [[Dunamancy|dunamancers]] and echo knights. The tribesfolk who wander [[Xhorhas]] see the birth of an aasimar as a message from the gods, and their shamans ascribe meaning to that birth by the conditions of the world. An aasimar born during a raging storm might be a word of warning from [[Kord]] the Storm Lord, whereas an aasimar whose mother gave birth in a field of flowers could be a vow of protection from [[Melora]] the Wild Mother.
 
 ### Aasimar Guides
 
@@ -89,6 +89,6 @@ An aasimar character has the following racial traits.
 
 ### Aasimar Subraces
 
-Three subraces for aasimar exist: protector aasimar, scourge aasimar, and fallen aasimar. Choose one of them for your character.
+Three subraces for aasimar exist: [[protector aasimar]], [[scourge aasimar]], and [[fallen aasimar]]. Choose one of them for your character.
 
 **Subraces**:: [[Protector Aasimar]], [[Scourge Aasimar]], [[Fallen Aasimar]]

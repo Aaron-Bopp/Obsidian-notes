@@ -7,13 +7,13 @@ This snakeskin whip is touched by the power of [[Zehir]] and ends in five animat
 
 The [Lash of Shadows](https://www.dndbeyond.com/magic-items/lash-of-shadows) is a sentient chaotic evil weapon with an Intelligence of 18, a Wisdom of 16, and a Charisma of 20. It has hearing and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 120 feet.
 
-The weapon communicates telepathically with its wielder and can speak, read, and understand Abyssal, Common, and Draconic.
+The weapon communicates telepathically with its wielder and can speak, read, and understand Abyssal, Common, and [[Draconic]].
 
 A mad [marilith](https://www.dndbeyond.com/monsters/marilith) named Sizlifeth lives within the [Lash of Shadows](https://www.dndbeyond.com/magic-items/lash-of-shadows). The weapon has a short temper and experiences only extreme emotions. It is most happy when dealing harm.
 
 The whip grants the following benefits in its dormant state:
 
--   You can speak, read, and write Abyssal and Draconic.
+-   You can speak, read, and write Abyssal and [[Draconic]].
 -   You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 -   You can attempt to poison any creature that is hit by the whip. The creature must succeed on a DC 13 Constitution saving throw or suffer the effect of one of the following poisons of your choice; once a poison other than Serpent Venom has been used, that poison can’t be used again until the next dawn:
 

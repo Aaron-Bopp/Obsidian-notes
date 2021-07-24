@@ -2,7 +2,7 @@
 **Tag**:: #Race/Tieflings
 **Location**:: [[Races]]
 
-Centuries have passed since the tieflings first faced persecution for their fiendish heritage in the [[Age of Arcanum]]. Although a certain mystique still surrounds their kind, most people in [[Wildemount]] grew up alongside tieflings, and the tides of war have brought tiefling soldiers, merchants, and entertainers into even the most rural and isolated regions of the continent. For the most part, only overzealously devout paladins and folk raised on the dark tales of an ancient age might actively wish harm on tieflings.
+Centuries have passed since the tieflings first faced persecution for their fiendish heritage in the [[Age of Arcanum]]. Although a certain mystique still surrounds their kind, most [[people in Wildemount]] grew up alongside tieflings, and the tides of war have brought tiefling soldiers, merchants, and entertainers into even the most rural and isolated regions of the continent. For the most part, only overzealously devout paladins and folk raised on the dark tales of an ancient age might actively wish harm on tieflings.
 
 Exandrian tieflings have a wide array of skin tones, all of them vibrant and colorful. The most common hue is a deep crimson, but shades of purple, blue, green, and even yellow and pink have been seen throughout the world. It’s not known what causes these variations, as even tiefling parents with the same skin tone can have children of wildly different colors.
 
@@ -22,4 +22,4 @@ Tieflings’ extravagant skin tones and striking horns are considered attractive
 
 ### Tieflings in [[Xhorhas]]
 
-Some legends talk of how the first tieflings were born in [[Ghor Dranas]]. [[Asmodeus]], Lord of the Nine Hells, is said to have tempted a number of that city’s original inhabitants into tying their bloodlines to his own infernal power in exchange for magical knowledge. Though the truth of the tale is impossible to confirm, [[Rosohna]] maintains a significant tiefling population, and tieflings are a common sight in [[Kryn Dynasty|Kryn]] society.
+Some legends talk of how the first tieflings were born in [[Ghor Dranas]]. [[Asmodeus]], Lord of the Nine Hells, is said to have tempted a number of that city’s original inhabitants into tying their bloodlines to his own [[infernal]] power in exchange for magical knowledge. Though the truth of the tale is impossible to confirm, [[Rosohna]] maintains a significant tiefling population, and tieflings are a common sight in [[Kryn Dynasty|Kryn]] society.

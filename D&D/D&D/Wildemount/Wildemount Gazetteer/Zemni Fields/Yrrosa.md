@@ -4,7 +4,7 @@
 
 **Population:**:: 3,220 
 
-**Population Breakdown**:: 54% [[humans]], 28% [[dwarves]], 14% [[elves]], 4% other races
+**Population Breakdown**:: 54% [[humans]], 28% [[dwarves]], 14% [[elves]], 4% other [[races]]
 
 **Government:**:: [[Bertrand Dwendal|The Crown]]'s will is imposed by [[Starosta]] Zulla Sauer, in tandem with the local noble families.
 

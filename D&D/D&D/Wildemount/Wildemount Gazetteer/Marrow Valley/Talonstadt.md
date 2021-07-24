@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MarrowValley
 **Location**:: [[Marrow Valley]]
 
-**Population**:: 1,810 (82% [[dragonborn]], 11% [[humans]], 4% [[halflings]], 3% other races)
+**Population**:: 1,810 (82% [[dragonborn]], 11% [[humans]], 4% [[halflings]], 3% other [[races]])
 
 **Government**:: Talonstadt's refugees are organized by community leaders who manage to work together, despite their bickering.
 

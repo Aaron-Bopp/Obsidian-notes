@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
 **Location**:: [[Menagerie Coast]]
 
-**Population**:: 1,306 (61% [[humans]], 12% [[elves]], 9% [[dwarves]], 18% other races)
+**Population**:: 1,306 (61% [[humans]], 12% [[elves]], 9% [[dwarves]], 18% other [[races]])
 
 **Government**:: The island is ruled by [[Wyatt Maranoss|the Plank King]], whose power is maintained through the pirate lords loyal to him.
 

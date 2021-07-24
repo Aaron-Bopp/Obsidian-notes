@@ -8,7 +8,7 @@ The most populous race in [[Wildemount]], humans define common culture across th
 
 In the [[Dwendalian Empire]], humans are everywhere and occupy every walk of imperial life.
 
-Humans recoil from the unknown in ways that longer-lived folk do not, and nations dominated by a nonhuman majority are a tremendous source of fear and suspicion to human-majority nations. Human survival instinct stokes the flames of fear, especially when those flames are amply fueled by nationalistic propaganda. Such is the relationship between the [[Dwendalian Empire]] and the drow-majority [[Kryn Dynasty]] of [[Xhorhas]].
+Humans recoil from the unknown in ways that longer-lived folk do not, and nations dominated by a nonhuman majority are a tremendous source of fear and suspicion to human-majority nations. Human survival instinct stokes the flames of fear, especially when those flames are amply fueled by nationalistic propaganda. Such is the relationship between the [[Dwendalian Empire]] and the [[Dark Elves|drow]]-majority [[Kryn Dynasty]] of [[Xhorhas]].
 
 Other societies—including [[Uthodurn]]’s pluralistic society of [[elves]] and [[dwarves]]—are less maligned. However, this is because the average citizen of the [[Dwendalian Empire|empire]] knows nothing about those societies, reducing them to objects of curiosity for imperial scholars.
 

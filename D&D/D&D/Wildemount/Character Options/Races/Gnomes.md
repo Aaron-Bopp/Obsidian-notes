@@ -16,4 +16,4 @@ Large numbers of gnomes live within the [[Clovis Concord]], primarily in the cit
 
 ### Gnomes in [[Xhorhas]]
 
-Most Xhorhasians’ only contact with gnomes is a brief glimpse of a deep gnome scurrying about the Underdark carrying armfuls of gems. The deep gnomes have little interest in surface politics, and even try to stay neutral in the underground war between the [[Kryn Dynasty]] and the [[duergar]] rebels. For the most part, the deep gnomes and their settlements are small enough to remain unnoticed by larger folk.
+Most Xhorhasians’ only contact with gnomes is a brief glimpse of a deep gnome scurrying about the [[Underdark]] carrying armfuls of gems. The deep gnomes have little interest in surface politics, and even try to stay neutral in the underground war between the [[Kryn Dynasty]] and the [[duergar]] rebels. For the most part, the deep gnomes and their settlements are small enough to remain unnoticed by larger folk.

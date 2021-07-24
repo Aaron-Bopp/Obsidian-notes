@@ -212,6 +212,7 @@
 - dark-elf
 - dark elf
 - dark elves
+- drow
 
 [[Dark Star]]:
 
@@ -271,6 +272,7 @@
 
 [[Dunamancy]]:
 - dunamis
+- dunamancers
 
 [[Dunrock Mountains]]:
 

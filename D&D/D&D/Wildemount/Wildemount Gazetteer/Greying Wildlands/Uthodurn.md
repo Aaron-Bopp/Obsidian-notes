@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/GreyingWildlands
 **Location**:: [[Greying Wildlands]]
 
-**Population**:: 26,240 (56% [[dwarves]], 36% [[elves]], 4% [[gnomes]], 4% other races)
+**Population**:: 26,240 (56% [[dwarves]], 36% [[elves]], 4% [[gnomes]], 4% other [[races]])
 
 **Government**:: A diarchy between the dwarven and elven monarchs rules over the populace, each leader supported by a council of nobles who share the responsibilities of overseeing the city and its functions.
 

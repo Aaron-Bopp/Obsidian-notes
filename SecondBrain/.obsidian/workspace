@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
+            "file": "oneshot.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
+                "file": "oneshot.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
+                "file": "oneshot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md"
+                "file": "oneshot.md"
               }
             }
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
+                "file": "oneshot.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX",
@@ -224,7 +224,7 @@
             "id": "0dcf928768542278",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {}
             }
           }
@@ -238,6 +238,7 @@
   },
   "active": "6535b611eee980aa",
   "lastOpenFiles": [
+    "Untitled.md",
     "SecondBrain/EvergreenNotes/Monster of the Week.md",
     "SecondBrain/EvergreenNotes/Non-faith issues have been co-opted to keep people in the christian church.md",
     "Unemployment 1.md",
@@ -246,7 +247,6 @@
     "free-will.md",
     "inter-generational trauma.md",
     "Happiness.md",
-    "DrMike.md",
-    "DrK.md"
+    "DrMike.md"
   ]
 }

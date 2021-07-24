@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/Eiselcross
 **Location**:: [[Eiselcross]]
 
-**Population**:: 205 (69% [[humans]], 11% [[halflings]], 7% [[gnomes]], 7% [[dragonborn]], 6% other races)
+**Population**:: 205 (69% [[humans]], 11% [[halflings]], 7% [[gnomes]], 7% [[dragonborn]], 6% other [[races]])
 
 **Government**:: Mages of the [[Cerberus Assembly]], led by Wardlow Akron, run Balenpost.
 

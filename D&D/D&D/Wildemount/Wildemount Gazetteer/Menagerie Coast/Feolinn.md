@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
 **Location**:: [[Menagerie Coast]]
 
-**Population**:: 12,700 (73% [[humans]], 10% [[elves]], 5% [[gnomes]], 12% other races)
+**Population**:: 12,700 (73% [[humans]], 10% [[elves]], 5% [[gnomes]], 12% other [[races]])
 
 **Government**:: Marquis Hector Soliva runs the city, with wealthy, non-competitive businesses operating as an unofficial council.
 

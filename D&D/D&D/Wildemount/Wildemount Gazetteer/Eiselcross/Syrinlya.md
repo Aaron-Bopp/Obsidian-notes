@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/Eiselcross
 **Location**:: [[Eiselcross]]
 
-**Population**:: 182 (72% [[dwarves]], 24% [[elves]], 4% other races)
+**Population**:: 182 (72% [[dwarves]], 24% [[elves]], 4% other [[races]])
 
 **Government**:: Professor [[Gulrim Shalebrow]] is in charge of Syrinlya, appointed to run the outpost by Queen Fruunast of [[Uthodurn]].
 

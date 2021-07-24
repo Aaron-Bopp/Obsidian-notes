@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MarrowValley
 **Location**:: [[Marrow Valley]]
 
-**Population**:: 3,230 (63% [[humans]], 17% [[halflings]], 12% [[gnomes]], 8% other races)
+**Population**:: 3,230 (63% [[humans]], 17% [[halflings]], 12% [[gnomes]], 8% other [[races]])
 
 **Government**:: [[Starosta]] Carliyle Vesperwind has left most of the governing to [[idolmaster]] Julienne Droogba and other community figures.
 

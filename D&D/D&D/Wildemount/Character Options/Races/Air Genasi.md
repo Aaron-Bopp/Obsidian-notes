@@ -1,12 +1,12 @@
-## Air Genasi
+## Air [[Genasi]]
 **Tag**:: #Race/Genasi
 **Location**:: [[Genasi]]
 
 **Features**:: ['Ability Score Increase', 'Unending Breath', 'Mingle with the Wind']
 
-As an air genasi, you are descended from the djinn. As changeable as the weather, your moods shift from calm to wild and violent with little warning, but these storms rarely last long.
+As an air [[genasi]], you are descended from the djinn. As changeable as the weather, your moods shift from calm to wild and violent with little warning, but these storms rarely last long.
 
-Air genasi typically have light blue skin, hair, and eyes. A faint but constant breeze accompanies them, tousling the hair and stirring the clothing. Some air genasi speak with breathy voices, marked by a faint echo. A few display odd patterns in their flesh.
+Air [[genasi]] typically have light blue skin, hair, and eyes. A faint but constant breeze accompanies them, tousling the hair and stirring the clothing. Some air [[genasi]] speak with breathy voices, marked by a faint echo. A few display odd patterns in their flesh.
 
 **Ability Score Increase**:: Your Dexterity score increases by 1.
 

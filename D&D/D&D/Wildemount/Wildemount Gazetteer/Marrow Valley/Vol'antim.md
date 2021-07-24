@@ -4,7 +4,7 @@
 
 ### Vol'antim
 
-**Population**:: 3,890 (96% [[aarakocra]], 4% other races)
+**Population**:: 3,890 (96% [[aarakocra]], 4% other [[races]])
 
 **Government**:: Vol'antim is ruled by a council of twelve elders known as the Horizon.
 

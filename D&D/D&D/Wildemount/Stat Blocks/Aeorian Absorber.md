@@ -28,7 +28,7 @@ Large monstrosity, neutral evil
 
 **Senses**::  [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) 120 ft., passive Perception 16
 
-**Languages**::  understands Draconic but can’t speak
+**Languages**::  understands [[Draconic]] but can’t speak
 
 **Challenge**::  10 (5,900 XP)
 

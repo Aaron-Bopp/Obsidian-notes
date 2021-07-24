@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
 **Location**:: [[Menagerie Coast]]
 
-**Population**:: 8,320 (64% [[humans]], 16% [[halflings]], 11% [[Orcs|half-orcs]], 9% other races)
+**Population**:: 8,320 (64% [[humans]], 16% [[halflings]], 11% [[Orcs|half-orcs]], 9% other [[races]])
 
 **Government**:: Matters of state are managed by Othe's marquis, while local industrial and religious leaders govern on a smaller scale.
 

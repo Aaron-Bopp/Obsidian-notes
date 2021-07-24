@@ -1,6 +1,6 @@
 ## LAWS OF THE [[Kryn Dynasty]]
 
-Within the sight of [[the Luxon]], the [[Umavi]], and the Dens who protect the lands of [[Xhorhas]] and its people, any who are presented for judgement before the presiding officials entrusted with the wisdom of the Bright Queen are to have their sentence carried our accordingly. All fines and punishments for crimes against an [[Aurora Watch]] soldier or noble are doubled. All fines and punishments regarding crimes against a Den official or member of the Bright Queen’s council are tripled.
+Within the sight of [[the Luxon]], the [[Umavi]], and the Dens who protect the lands of [[Xhorhas]] and its people, any who are presented for judgement before the presiding officials entrusted with the wisdom of the Bright Queen are to have their sentence carried our accordingly. All fines and punishments for crimes against an [[Aurora Watch]] soldier or noble are doubled. All fines and punishments regarding crimes against a [[Den]] official or member of the Bright Queen’s council are tripled.
 
 **Theft:** 2–5 days incarceration and a fine equal to the worth stolen.
 

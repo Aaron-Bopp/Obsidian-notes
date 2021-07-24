@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
 **Location**:: [[Menagerie Coast]]
 
-**Population**:: 15,110 (74% [[humans]], 10% [[elves]], 8% [[halflings]], 8% other races)
+**Population**:: 15,110 (74% [[humans]], 10% [[elves]], 8% [[halflings]], 8% other [[races]])
 
 **Government**:: Beneath the just rule of Marquis Tusila Latu, community leaders and wealthy families helm guild business.
 

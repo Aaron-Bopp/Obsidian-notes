@@ -132,7 +132,7 @@ Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/source
 | 97–00 | [[Xarzith Kitril]]        | City             |
 #### Race
 
-You can determine your character’s race by consulting the section for your home settlement in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "chapter 3"). Each settlement’s description includes a percentile breakdown of its racial demographics. You can roll a d100 to determine your character’s race, or simply choose whichever race you wish to play. If your roll indicates “other races,” you can choose any race that isn’t already represented in the settlement’s demographics.
+You can determine your character’s race by consulting the section for your home settlement in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "chapter 3"). Each settlement’s description includes a percentile breakdown of its racial demographics. You can roll a d100 to determine your character’s race, or simply choose whichever race you wish to play. If your roll indicates “other [[races]],” you can choose any race that isn’t already represented in the settlement’s demographics.
 
 #### Family
 
@@ -273,7 +273,7 @@ Local drinks are made from fermented berries, but consumption of alcohol in the 
 
 **_Eastern Wynandir._** Much of the territory of [[Xhorhas]] is wasteland, and the most edible plants in [[Eastern Wynandir]] are hearty tubers, roots, and grasses. The marshes and bogs of this land are also known for producing vast quantities of rice and cranberries. Most folk living here are hunters who band together to take down the mammoths and other massive beasts that roam the wastelands, one of which can provide enough food to feed a tribe for weeks.
 
-The luxurious cuisine of the [[Kryn Dynasty|Kryn]] court makes heavy use of mushrooms and rare meats found only in the dangerous caverns of the Underdark. The aboveground regions of [[Xhorhas]] are known for their fiery plum spirits, whereas working-class drow traditionally drink an earthy, mushroom-based beer.
+The luxurious cuisine of the [[Kryn Dynasty|Kryn]] court makes heavy use of mushrooms and rare meats found only in the dangerous caverns of the [[Underdark]]. The aboveground regions of [[Xhorhas]] are known for their fiery plum spirits, whereas working-class [[Dark Elves|drow]] traditionally drink an earthy, mushroom-based beer.
 
 | d8  | Food                                                                                |
 | --- | ----------------------------------------------------------------------------------- |

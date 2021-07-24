@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MarrowValley
 **Location**:: [[Marrow Valley]]
 
-**Population**:: 8,900 (66% [[humans]], 13% [[halflings]], 8% [[Half Elves]], 13% other races)
+**Population**:: 8,900 (66% [[humans]], 13% [[halflings]], 8% [[Half Elves]], 13% other [[races]])
 
 **Government**:: [[Starosta]] Fryda Langer works alongside resident nobles and small local guilds to maintain the affairs of the city.
 

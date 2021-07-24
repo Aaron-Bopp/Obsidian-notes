@@ -1,3 +1,3 @@
-## Factions in Wildemount
+## Factions in [[Wildemount]]
 **Tag**:: #Exandria 
 **Location**:: [[Factions and Societies]]

@@ -1,4 +1,4 @@
-### Acheron Blade]
+### Acheron Blade
 (https://www.dndbeyond.com/magic-items/acheron-blade)
 
 _Weapon (any sword), rare (requires attunement)_

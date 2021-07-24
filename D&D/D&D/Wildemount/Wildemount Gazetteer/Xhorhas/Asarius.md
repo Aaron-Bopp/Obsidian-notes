@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/Xhorhas
 **Location**:: [[Xhorhas]]
 
-**Population**:: 48,025 (41% goblinoids, 32% [[gnolls]], 10% [[Dark Elves]], 17% other races)
+**Population**:: 48,025 (41% goblinoids, 32% [[gnolls]], 10% [[Dark Elves]], 17% other [[races]])
 
 **Government**:: [[Den Olios]] governs the city, the laws of which are enforced and monitored by captains of the [[Aurora Watch]].
 

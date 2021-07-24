@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/ZemniFields
 **Location**:: [[Zemni Fields]]
 
-**Population**:: 6,800 (71% [[humans]], 12% [[halflings]], 12% [[dwarves]], 5% other races)
+**Population**:: 6,800 (71% [[humans]], 12% [[halflings]], 12% [[dwarves]], 5% other [[races]])
 
 **Government**:: The garrison is commanded by Marshal Garad Velious, who oversees regiment captains that hold sway in the area.
 

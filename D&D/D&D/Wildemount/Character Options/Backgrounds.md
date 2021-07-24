@@ -14,9 +14,9 @@ This section presents two new backgrounds—the [[Grinner]] and the [[Volstrucke
 
 ## Adapting Backgrounds
 **Tag**:: #Exandria/Backgrounds
-**Location**:: [[Backgrounds]]
+**Location**:: Backgrounds
 
-All the [[backgrounds]] from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") fit perfectly into [[Wildemount]]. Additionally, though, a number of existing [[backgrounds]] can be adapted to represent specific factions in the campaign.
+All the backgrounds from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") fit perfectly into [[Wildemount]]. Additionally, though, a number of existing backgrounds can be adapted to represent specific factions in the campaign.
 
 ### Acolyte (Luxonborn)
 

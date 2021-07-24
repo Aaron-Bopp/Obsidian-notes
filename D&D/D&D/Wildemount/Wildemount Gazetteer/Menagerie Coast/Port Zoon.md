@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
 **Location**:: [[Menagerie Coast]]
 
-**Population**:: 19,120 (80% [[humans]], 7% [[halflings]], 13% other races)
+**Population**:: 19,120 (80% [[humans]], 7% [[halflings]], 13% other [[races]])
 
 **Government**:: Marquis [[Alamads Haddou]] collaborates closely with his trusted [[Zhelezo]] captains. Numerous crafting guilds guide major facets of industry and influence.
 

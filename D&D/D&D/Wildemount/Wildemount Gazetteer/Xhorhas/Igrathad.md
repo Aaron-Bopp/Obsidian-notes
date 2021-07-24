@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/Xhorhas
 **Location**:: [[Xhorhas]]
 
-**Population**:: 6,750 (41% [[goblinkin]], 19% [[orcs]], 15% humanoids, 25% other races)
+**Population**:: 6,750 (41% [[goblinkin]], 19% [[orcs]], 15% humanoids, 25% other [[races]])
 
 **Government**:: A local leader governs independently alongside a [[Kryn Dynasty|Kryn]] representative in each of the seven villages. The village leaders occasionally convene as a council.
 
@@ -26,13 +26,13 @@ Some [[Aurora Watch]] soldiers keep the peace and manage the day-to-day quarrels
 
 The seven villages are connected by muddy paths that cut through the rocky grassland. Each village has its own culture, complete with distinct customs and religious practices:
 
-**Kranad** began as a bugbear clan of the same name and is made up of wooden shanties built around stands of trees.
+**Kranad** began as a [[bugbear]] clan of the same name and is made up of wooden shanties built around stands of trees.
 
 **Broonbobah** is a village of goblins, where clusters of huts and rickety wood structures climb high to oversee the surrounding plains.
 
 **Aruuth** is home to the enduring [[Orcs|orc]] people of the Aruuth-Uk clan, once the dominant clan of the area. The stone village is built around a prominent, deep-set vein of iron that provides ore to the villages.
 
-**Oshinik-Ka** is a village of the hobgoblin folk, who reside in stone bunkers behind barricades that markedly push the militant air of life within.
+**Oshinik-Ka** is a village of the [[hobgoblin]] folk, who reside in stone bunkers behind barricades that markedly push the militant air of life within.
 
 **Wrathfall** is the village of humanoid outlanders who never joined with the Odarami or the clans of the [[Iothia Moorland]]. It is little more than a few scattered clusters of yurts.
 

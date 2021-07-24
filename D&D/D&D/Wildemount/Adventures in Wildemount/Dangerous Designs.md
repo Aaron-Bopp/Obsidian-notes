@@ -86,7 +86,7 @@ Medium humanoid ([[Goliaths|goliath]]), lawful evil
 
 **Senses** passive Perception 10
 
-**Languages** Common, Draconic, Giant
+**Languages** Common, [[Draconic]], Giant
 
 **Challenge** 1 (200 XP)
 
@@ -114,7 +114,7 @@ Small humanoid (kobold), lawful evil
 
 **Senses** [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) 60 ft., passive Perception 9
 
-**Languages** Common, Draconic
+**Languages** Common, [[Draconic]]
 
 **Challenge** 1/8 (25 XP)
 
@@ -196,7 +196,7 @@ If the adventurers head toward the Builder’s Plot, read:
 
 During the day, the characters find Cleff Tinkertop and his daughter Rissa (chaotic good [[Gnomes|gnome]] [commoners](https://www.dndbeyond.com/monsters/commoner)) building a prototype metallic glider. If they arrive in the evening, the area is empty except for a few patrolling [[Crownsguard]]. Asking the guards about Cleff Tinkertop sees the characters directed to Sootswallow Lodge (see “[Other [[Hupperdook]] Locations](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#OtherHupperdookLocations "Other [[Hupperdook]] Locations")” later in the adventure), where he often spends his evenings after work.
 
-Cleff is an amiable middle-aged [[Gnomes|gnome]], albeit a bit absent-minded and easily distracted. Rissa is sharp and keeps her father on track as best she can. If they are asked about explosives or shown the bronze shrapnel, they direct the characters toward the Firemark Facility ([area H5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#H5FiremarkFacility "area H5")), the only sanctioned manufacturing den of [blasting powder](https://www.dndbeyond.com/equipment/blasting-powder) and black powder in [[Hupperdook]].
+Cleff is an amiable middle-aged [[Gnomes|gnome]], albeit a bit absent-minded and easily distracted. Rissa is sharp and keeps her father on track as best she can. If they are asked about explosives or shown the bronze shrapnel, they direct the characters toward the Firemark Facility ([area H5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#H5FiremarkFacility "area H5")), the only sanctioned manufacturing [[den]] of [blasting powder](https://www.dndbeyond.com/equipment/blasting-powder) and black powder in [[Hupperdook]].
 
 If the characters show Cleff the damaged automaton, he recognizes the design as his own. Thinking at first that the device might be one of his older models, he inspects it further and scoffs at the realization that it is a poor copy. The crafting reminds him of the work of an old colleague of his—Huron Stahlmast. Talented but impatient, Stahlmast was [prone](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Prone) to copying the work of others and executing it poorly. He hasn’t been seen in [[Hupperdook]] for years.
 
@@ -398,7 +398,7 @@ The crossbow turret is Large object with AC 17, 15 hit points, and immunity to p
 
 ### L2. Armory
 
-A [kobold underling](https://www.dndbeyond.com/monsters/kobold-underling) (see the stat block earlier in this adventure) sits at one of the tables as the characters approach this area, cleaning a pile of soiled tools and weapons with a rag as it curses under its breath in Draconic. If it receives any warning that intruders are coming (including hearing the characters fighting or talking in area L1), it might make a brief stand against them—or it might flee before they arrive, leaving its work behind.
+A [kobold underling](https://www.dndbeyond.com/monsters/kobold-underling) (see the stat block earlier in this adventure) sits at one of the tables as the characters approach this area, cleaning a pile of soiled tools and weapons with a rag as it curses under its breath in [[Draconic]]. If it receives any warning that intruders are coming (including hearing the characters fighting or talking in area L1), it might make a brief stand against them—or it might flee before they arrive, leaving its work behind.
 
 The north door into area L3 is locked. Roguun the [[duergar]] blacksmith ([area L14](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L14Smithy "area L14")) has the key, or the lock can be picked with a successful DC 18 Dexterity check using thieves’ tools.
 
@@ -454,9 +454,9 @@ Each creature standing on the iron floor when it opens must succeed on a DC 13 D
 
 ### L9. Training Room
 
-When the characters first arrive here, four [kobolds](https://www.dndbeyond.com/monsters/kobold) are being trained by Ishel—a drow ambassador from the [[Kryn Dynasty]]. [Ishel](https://www.dndbeyond.com/monsters/ishel) uses the [drow](https://www.dndbeyond.com/monsters/drow) stat block but has 24 hit points, which raises his challenge rating to 1/2 (100 XP). He carries keys to the chest in area L10 and to the secret door in [area L19](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L19ClockworkForge "area L19").
+When the characters first arrive here, four [kobolds](https://www.dndbeyond.com/monsters/kobold) are being trained by Ishel—a [[Dark Elves|drow]] ambassador from the [[Kryn Dynasty]]. [Ishel](https://www.dndbeyond.com/monsters/ishel) uses the [drow](https://www.dndbeyond.com/monsters/drow) stat block but has 24 hit points, which raises his challenge rating to 1/2 (100 XP). He carries keys to the chest in area L10 and to the secret door in [area L19](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L19ClockworkForge "area L19").
 
-If Ishel is reduced to 12 hit points or fewer, he attempts to flee through [area L20](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L20PassagetotheUnderdark "area L20") and alert Stahlmast about the intruders. If he is captured and questioned, the drow warns the characters of the steam trap in [area L12](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L12SteamTrap "area L12"). If pressed hard, he might mention that he belongs to Den Hythenos of the [[Kryn Dynasty]], which has an agreement with Stahlmast. He can also tell the characters about the path to the Underdark in area L20.
+If Ishel is reduced to 12 hit points or fewer, he attempts to flee through [area L20](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L20PassagetotheUnderdark "area L20") and alert Stahlmast about the intruders. If he is captured and questioned, the [[Dark Elves|drow]] warns the characters of the steam trap in [area L12](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L12SteamTrap "area L12"). If pressed hard, he might mention that he belongs to [[Den]] Hythenos of the [[Kryn Dynasty]], which has an agreement with Stahlmast. He can also tell the characters about the path to the [[Underdark]] in area L20.
 
 ### L10. Ambassador’s Bedroom
 
@@ -518,11 +518,11 @@ The armoire holds five sets of fine clothing, one of which has a [sending stone]
 
 Any character with a passive Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) score of 17 or higher, or who succeeds on a DC 17 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check, notices a thin slab of rock that hides a hidden passageway. This passage leads into Stahlmast’s workroom ([area L5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L5StahlmastsWorkroom "area L5")).
 
-A locked chest is hidden beneath the bed, and can be opened with thieves’ tools and a successful DC 16 Dexterity check. The chest holds 170 gp, 65 sp, and two [potions of healing](https://www.dndbeyond.com/equipment/potion-of-healing). It also contains a letter written in Undercommon, which promises that more support and minions will soon be sent through the tunnel. The letter thanks Stahlmast for his soon-to-be fruitful alliance with Den Hythenos of the [[Kryn Dynasty]]. Turning the letter over to Watchmaster Bram Gulchswattle earns the characters an additional reward (see “[Concluding the Adventure](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#ConcludingtheAdventure1 "Concluding the Adventure")” at the end of this adventure).
+A locked chest is hidden beneath the bed, and can be opened with thieves’ tools and a successful DC 16 Dexterity check. The chest holds 170 gp, 65 sp, and two [potions of healing](https://www.dndbeyond.com/equipment/potion-of-healing). It also contains a letter written in Undercommon, which promises that more support and minions will soon be sent through the tunnel. The letter thanks Stahlmast for his soon-to-be fruitful alliance with [[Den]] Hythenos of the [[Kryn Dynasty]]. Turning the letter over to Watchmaster Bram Gulchswattle earns the characters an additional reward (see “[Concluding the Adventure](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#ConcludingtheAdventure1 "Concluding the Adventure")” at the end of this adventure).
 
 ### L19. Clockwork Forge
 
-Huron Stahlmast (a lawful evil [[Humans|human]] [cultist](https://www.dndbeyond.com/monsters/cultist) wearing [goggles of night](https://www.dndbeyond.com/magic-items/goggles-of-night)) awaits the characters in this elaborate workshop. If the drow ambassador from [area L9](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L9TrainingRoom "area L9") or Roguun from [area L14](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L14Smithy "area L14") escaped earlier encounters with the characters, he has joined Stahlmast here for the final fight.
+Huron Stahlmast (a lawful evil [[Humans|human]] [cultist](https://www.dndbeyond.com/monsters/cultist) wearing [goggles of night](https://www.dndbeyond.com/magic-items/goggles-of-night)) awaits the characters in this elaborate workshop. If the [[Dark Elves|drow]] ambassador from [area L9](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L9TrainingRoom "area L9") or Roguun from [area L14](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L14Smithy "area L14") escaped earlier encounters with the characters, he has joined Stahlmast here for the final fight.
 
 When the characters can see into this area, read:
 
@@ -536,13 +536,13 @@ Alternatively, the characters might pretend to want to serve Stahlmast to get th
 
 If the characters turn down Stahlmast’s offer or if they attack him, read:
 
-The **Stahlmaster** (see the stat block below) surges toward the characters and attacks in a final confrontation. If the Stahlmaster drops to 0 hit points, Huron Stahlmast is ejected from the broken clockwork suit and lands [prone](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Prone) in an unoccupied space within 5 feet of it. On his next turn, he attempts to move to the secret door, use his action to unlock it, and flee down the passage to the Underdark (area L20). The door locks automatically behind him, and Stahlmast collapses the tunnel 1 round later to prevent anyone from following him.
+The **Stahlmaster** (see the stat block below) surges toward the characters and attacks in a final confrontation. If the Stahlmaster drops to 0 hit points, Huron Stahlmast is ejected from the broken clockwork suit and lands [prone](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Prone) in an unoccupied space within 5 feet of it. On his next turn, he attempts to move to the secret door, use his action to unlock it, and flee down the passage to the [[Underdark]] (area L20). The door locks automatically behind him, and Stahlmast collapses the tunnel 1 round later to prevent anyone from following him.
 
 During the fight, any creature pushed into the open forge for the first time on a turn or starts its turn there takes 7 (2d6) fire damage.
 
 A steel lever topped with a brass sphere is mounted on the east wall. If the lever is pulled, the doors to [area L12](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L12SteamTrap "area L12") close and the steam trap in that area triggers. If the wall holes in area L12 are plugged when the lever is pulled, a jet of scalding hot steam erupts from the forge in a line that is 15 feet long and 1 foot wide, and which deals 10 (4d4) fire damage to each creature in its area (including the Stahlmaster while it remains in its initial position).
 
-The secret door leading to area L20 can be spotted by any character with a passive Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) score of 13 or higher, or by one who searches the wall and succeeds on a DC 13 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check. The door is locked, and Stahlmast and the drow ambassador from [area L9](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L9TrainingRoom "area L9") carry keys that open it. The locked door can also be opened with a successful DC 15 Dexterity check using thieves’ tools.
+The secret door leading to area L20 can be spotted by any character with a passive Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) score of 13 or higher, or by one who searches the wall and succeeds on a DC 13 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check. The door is locked, and Stahlmast and the [[Dark Elves|drow]] ambassador from [area L9](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#L9TrainingRoom "area L9") carry keys that open it. The locked door can also be opened with a successful DC 15 Dexterity check using thieves’ tools.
 
 A 3-foot-wide iron chimney rises above the forge, eventually leading outside the mountain. See “[Ascending the Mountain](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#AscendingtheMountain "Ascending the Mountain")” for more information.
 
@@ -572,11 +572,11 @@ _**Slam.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1
 
 _**Shoulder-Mounted Crossbow.** Ranged Weapon Attack:_ +2 to hit, range 30/120 ft., one target. _Hit:_ 6 (1d12) piercing damage.
 
-### L20. Passage to the Underdark
+### L20. Passage to the [[Underdark]]
 
 If the characters get access to this tunnel without Stahlmast collapsing the ceiling to cover his escape, read:
 
-Any character who succeeds on a DC 12 Intelligence ([History](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#History)) check understands that this passage is descending into the Underdark—and knows how incredibly dangerous that subterranean realm is. You might have ideas for other adventures that could lead the characters into the depths, but the players should understand that a successful expedition would require research and resources. For now, the characters are better off heading back and finishing their business in Stahlmast’s lair and in [[Hupperdook]].
+Any character who succeeds on a DC 12 Intelligence ([History](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#History)) check understands that this passage is descending into the [[Underdark]]—and knows how incredibly dangerous that subterranean realm is. You might have ideas for other adventures that could lead the characters into the depths, but the players should understand that a successful expedition would require research and resources. For now, the characters are better off heading back and finishing their business in Stahlmast’s lair and in [[Hupperdook]].
 
 ## Concluding the Adventure
 

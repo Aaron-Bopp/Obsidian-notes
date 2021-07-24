@@ -12,4 +12,4 @@ Unfortunately, a township of criminals and outlaws has sprung up on the southern
 
 > ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-04.png)
 > 
-> In the ruins of [[Ghor Dranas]], drow face the sun for the first time
+> In the ruins of [[Ghor Dranas]], [[Dark Elves|drow]] face the sun for the first time

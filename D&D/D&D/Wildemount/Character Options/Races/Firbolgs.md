@@ -44,7 +44,7 @@ Firbolg monks are almost entirely unheard of, though a monastery might take in t
 
 Firbolg adopt elven names when they must deal with outsiders, although the concept of names strikes them as strange. They know the animals and plants of the forest without formal names, and instead identify the forest’s children by their deeds, habits, and other actions.
 
-By the same token, their clan names merely refer to their homes. When dealing with other races, firbolgs refer to their lands by whatever name the surrounding folk use, as a matter of tact and hospitality, but among their own kind they simply call it “home.”
+By the same token, their clan names merely refer to their homes. When dealing with other [[races]], firbolgs refer to their lands by whatever name the surrounding folk use, as a matter of tact and hospitality, but among their own kind they simply call it “home.”
 
 Sometimes firbolgs adopt the nicknames or titles outsiders give them under the assumption that those who need names can call them whatever they wish.
 

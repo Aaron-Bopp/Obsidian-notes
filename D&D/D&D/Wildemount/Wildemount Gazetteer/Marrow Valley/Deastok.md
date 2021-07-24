@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MarrowValley
 **Location**:: [[Marrow Valley]]
 
-**Population**:: 10,090 (60% [[humans]], 26% [[dwarves]], 10% [[halflings]], 4% other races)
+**Population**:: 10,090 (60% [[humans]], 26% [[dwarves]], 10% [[halflings]], 4% other [[races]])
 
 **Government**:: [[Starosta]] Deter McGinneas is nothing more than a puppet who answers to Prime Arbiter Truscan in [[Rexxentrum]].
 

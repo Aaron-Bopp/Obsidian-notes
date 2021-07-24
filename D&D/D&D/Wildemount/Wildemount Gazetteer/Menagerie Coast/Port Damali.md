@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
 **Location**:: [[Menagerie Coast]]
 
-**Population**:: 82,110 (51% [[humans]], 16% [[halflings]], 15% [[elves]], 18% other races)
+**Population**:: 82,110 (51% [[humans]], 16% [[halflings]], 15% [[elves]], 18% other [[races]])
 
 **Government**:: The city is helmed by Marquis [[Olesya Lapidus]], who works with local guildmasters and nobles, bolstered by the distant support of the other [[Clovis Concord]] members.
 

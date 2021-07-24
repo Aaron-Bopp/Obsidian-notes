@@ -1,10 +1,10 @@
-## Fallen Aasimar
+## Fallen [[Aasimar]]
 **Tag**:: #Race/Aasimar
 **Location**:: [[Aasimar]]
 
 **Features**:: ['Ability Score Increase', 'Necrotic Shroud']
 
-An aasimar who was touched by dark powers as a youth or who turns evil in early adulthood can become one of the fallen—a group of aasimar whose inner light has been replaced by shadow.
+An [[aasimar]] who was touched by dark powers as a youth or who turns evil in early adulthood can become one of the fallen—a group of [[aasimar]] whose inner light has been replaced by shadow.
 
 **Ability Score Increase**:: Your Strength score increases by 1.
 

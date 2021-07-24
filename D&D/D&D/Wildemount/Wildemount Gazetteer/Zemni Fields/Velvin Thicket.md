@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/ZemniFields
 **Location**:: [[Zemni Fields]]
 
-**Population**:: 850 (98% [[gnomes]], 2% other races)
+**Population**:: 850 (98% [[gnomes]], 2% other [[races]])
 
 **Government**:: The people of the Thicket are governed by a loose union between the leaders of the Velvins, the collection of local nomadic clans who convene only when threatened.
 

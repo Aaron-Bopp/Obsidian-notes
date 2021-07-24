@@ -1,4 +1,4 @@
-## Dark Elves
+## Dark [[Elves]]
 **Tag**:: #Race/DarkElves 
 **Location**:: [[Races]]
 ```dataview

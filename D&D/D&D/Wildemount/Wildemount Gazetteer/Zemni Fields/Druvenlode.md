@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/ZemniFields
 **Location**:: [[Zemni Fields]]
 
-**Population**:: 12,110 (70% [[humans]], 14% [[dwarves]], 9% [[elves]], 7% other races)
+**Population**:: 12,110 (70% [[humans]], 14% [[dwarves]], 9% [[elves]], 7% other [[races]])
 
 **Government**:: The city is run by [[Starosta]] Uvilia Whek, who oversees the mining guilds. Her rule is supported by Watchmaster Quin Theramast and her [[Crownsguard]].
 

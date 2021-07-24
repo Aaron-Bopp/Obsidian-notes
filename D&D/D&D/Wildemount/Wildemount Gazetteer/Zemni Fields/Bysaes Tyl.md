@@ -2,7 +2,7 @@
 **Tag**:: #Exandria/Locale/Wynandir/ZemniFields
 **Location**:: [[Zemni Fields]]
 
-**Population**:: 19,090 (83% [[elves]], 7% [[humans]], 10% other races)
+**Population**:: 19,090 (83% [[elves]], 7% [[humans]], 10% other [[races]])
 
 **Government**:: The Ring of Three reluctantly cooperates with the appointed [[starosta]], Uther Prent, to govern the city. Exalted elven houses also work with the Ring of Three to preserve their culture under imperial rule.
 
