@@ -1,13 +1,13 @@
 
 ## Chronurgy Wizard
-**Tag**:: #Exandria/Classes/Wizard
+**Tag**:: #Subclass/Wizard 
 **Location**:: [[Character Options]]
 
 ### Chronurgy Magic
 
 Focusing on the manipulation of time, those who follow the Chronurgy tradition learn to alter the pace of reality to their liking. Using the ramping of anticipatory [[dunamis]] energy, these mages can bend the flow of time as adroitly as a skilled musician plays an instrument, lending themselves and their allies an advantage in the blink of an eye.
 
-![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-17.png)
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-17.png)
 
 #### Chronal Shift
 
