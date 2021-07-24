@@ -1,4 +1,6 @@
-### Technology   in [[Wildemount]]
+### Technology in [[Wildemount]]
+**Tag**:: #Exandria/Customs/Wildemount
+**Location**:: [[Daily Life in Wildemount]]
 
 The level of technology in [[Wildemount]] is generally consistent with the technologies found in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"). However, Dwendalian scientists in [[Hupperdook]] and [[Clovis Concord|Concordian]] tinkerers in [[Port Zoon]] have made incredible advances in black powder technology. Cannons, mobile war engines, and even handheld pistols and muskets have begun to be used as weapons of war.
 

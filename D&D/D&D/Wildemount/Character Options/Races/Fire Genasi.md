@@ -1,6 +1,6 @@
 ## Fire Genasi
-**Tag**:: #Race/FireGenasi
-**Location**:: [[Races]]
+**Tag**:: #Race/Genasi
+**Location**:: [[Genasi]]
 
 **Features**:: ['Ability Score Increase', 'Darkvision', 'Fire Resistance', 'Reach to the Blaze']
 

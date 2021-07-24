@@ -1,6 +1,6 @@
 ## Scourge Aasimar
-**Tag**:: #Race/ScourgeAasimar
-**Location**:: [[Races]]
+**Tag**:: #Race/Aasimar 
+**Location**:: [[Aasimar]]
 
 **Features**:: ['Ability Score Increase', 'Radiant Consumption']
 

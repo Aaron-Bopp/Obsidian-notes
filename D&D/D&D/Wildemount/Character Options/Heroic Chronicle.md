@@ -42,9 +42,9 @@ Each nation in [[Wildemount]] views people’s [[backgrounds]] according to its 
 
 ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-21.png)
 
-**_Menagerie Coast._** Both the [[Clovis Concord]] and their hated nemesis, [[the Revelry]] pirates, prize personal freedom over all other things. [[The Revelry]] simply takes this ideology one bloody step further. People of the [[Clovis Concord|Concord]] celebrate folk heroes and entertainers, and all other people who might become celebrities, iconoclasts, and figures of legend.
+**_Menagerie Coast._** Both the [[Clovis Concord]] and their hated nemesis, [[The Revelry]] pirates, prize personal freedom over all other things. [[The Revelry]] simply takes this ideology one bloody step further. People of the [[Clovis Concord|Concord]] celebrate folk heroes and entertainers, and all other people who might become celebrities, iconoclasts, and figures of legend.
 
-At the same time, the common working-class sailor is a symbol of the [[Clovis Concord|Concord]]’s strength. As with the crew of a well-run ship, the small actions of individuals can have a huge impact when all are working toward common goals. Common sailors despise [[the Revelry]], and noteworthy sailors might even have a rival within [[the Revelry]].
+At the same time, the common working-class sailor is a symbol of the [[Clovis Concord|Concord]]’s strength. As with the crew of a well-run ship, the small actions of individuals can have a huge impact when all are working toward common goals. Common sailors despise [[The Revelry]], and noteworthy sailors might even have a rival within [[The Revelry]].
 
 **_Western Wynandir._** The [[Dwendalian Empire]] prizes king and country over personal freedoms—at least as far as the freedoms of the poor are concerned. For the wealthy noble class, most laws are mere guidelines, since bribery and political favors can make almost any problem go away.
 
@@ -267,9 +267,9 @@ Each region of [[Wildemount]] favors different cuisine based on climate and cult
 
 Heavily fermented and pickled vegetables feature prominently in the cuisine of both rich and poor households alike. Wealthy imperial families drink imported wine, but the [[Dwendalian Empire|empire]] is best known for its potent spirits, distilled from root vegetables and enjoyed by rural folk.
 
-**_Greying Wildlands._** Fresh game and foraged roots and berries are the primary food of the hunters of the [[Greying Wildlands]]. People who are particularly well connected within the [[Tribes of Shadycreek Run]] also enjoy exotic foods smuggled across the continent by [[the Myriad]].
+**_Greying Wildlands._** Fresh game and foraged roots and berries are the primary food of the hunters of the [[Greying Wildlands]]. People who are particularly well connected within the [[Tribes of Shadycreek Run]] also enjoy exotic foods smuggled across the continent by [[The Myriad]].
 
-Local drinks are made from fermented berries, but consumption of alcohol in the Wildlands was historically limited to ritual purposes. That changed with the arrival of [[the Myriad]], and the overconsumption of illicit alcohol is now seen as a symbol of status and wealth.
+Local drinks are made from fermented berries, but consumption of alcohol in the Wildlands was historically limited to ritual purposes. That changed with the arrival of [[The Myriad]], and the overconsumption of illicit alcohol is now seen as a symbol of status and wealth.
 
 **_Eastern Wynandir._** Much of the territory of [[Xhorhas]] is wasteland, and the most edible plants in [[Eastern Wynandir]] are hearty tubers, roots, and grasses. The marshes and bogs of this land are also known for producing vast quantities of rice and cranberries. Most folk living here are hunters who band together to take down the mammoths and other massive beasts that roam the wastelands, one of which can provide enough food to feed a tribe for weeks.
 
@@ -375,7 +375,7 @@ If you’re looking for prophecy goals for your character, you can roll on the P
 | 6   | I will steal a king’s ransom from a [[The Revelry|Revelry]] pirate. That wealth will make me happy, but it will also draw unsavory characters to me.                            |
 | 7   | I will become a hero of the war between the [[Dwendalian Empire]] and the [[Kryn Dynasty|Kryn]]. I will be haunted by the atrocities I witness on the battlefield.                   |
 | 8   | I will cleanse the [[Savalirwood]] of its corruption while welcoming that corruption into my own body.                                                              |
-| 9   | I will infiltrate [[the Myriad]], but doing so will compel me to commit evil acts.                                                                                  |
+| 9   | I will infiltrate [[The Myriad]], but doing so will compel me to commit evil acts.                                                                                  |
 | 10  | I will uncover a relic from [[Eiselcross]] and become famous, but the relic will exact a terrible cost.                                                             |
 | 11  | I will speak to a [[dragon]], live to tell the tale, and provoke the [[dragon]]’s everlasting wrath.                                                                    |
 | 12  | I will steal a holy relic of the [[Kryn Dynasty]], making me a target for anyone who desires its power.                                                             |

@@ -1,4 +1,6 @@
 ### Seasons
+**Tag**:: #Exandria/Customs/Wildemount
+**Location**:: [[Daily Life in Wildemount]]
 
 [[Wildemount]] is a chilly continent — with the exception of the sunny, tropical [[Menagerie Coast]] — and each of the regions experiences the passing of the seasons differently.
 

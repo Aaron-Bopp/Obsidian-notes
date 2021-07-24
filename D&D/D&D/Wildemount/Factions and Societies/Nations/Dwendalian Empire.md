@@ -1,5 +1,5 @@
 # Dwendalian Empire
-**Tag**:: #Exandria/Person
+**Tag**:: #Exandria/Nation
 **Location**:: [[Factions and Societies]]
 
 The Dwendalian Empire has reigned over [[Western Wynandir]] for over twelve generations. Imperial rule is maintained through its powerful military, its policy of religious restriction, and the support of the secretive [[Cerberus Assembly]]. Though these institutions nominally exist to ensure the safety of the populace from foreign threats, terrible dangers that wander the wilds, and lingering evils that seep from the scars of [[the Calamity]], they also allow the empire to maintain strict social order within its territories.

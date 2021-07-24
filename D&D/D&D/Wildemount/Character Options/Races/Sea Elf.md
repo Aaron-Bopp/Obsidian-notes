@@ -1,6 +1,6 @@
 ## Sea [[Elves|Elf]]
-**Tag**:: #Race/SeaElf
-**Location**:: [[Races]]
+**Tag**:: #Race/Elves
+**Location**:: [[Elves]]
 
 **Features**:: ['Ability Score Increase', 'Sea [[Elves|Elf]] Training', 'Child of the Sea', 'Friend of the Sea', 'Languages']
 

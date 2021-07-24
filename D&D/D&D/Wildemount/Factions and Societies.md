@@ -31,4 +31,4 @@ From the ashes of a land devastated by [[the Calamity]] grew the civilizations o
 
 ## ![[The Revelry]]
 
-# ![[CULTS]]
+# ![[Cults in Wildemount]]

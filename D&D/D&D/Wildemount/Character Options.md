@@ -1,7 +1,11 @@
+## Character Options
+**Tag**:: #Exandria 
+**Location**:: [[INDEX]]
+
 > ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-01.jpg)
 > Wizards who master the art of [[Dunamancy]] have infinite worlds and possibilities at their fingertips
 
-The sprawling lands and endless challenges of [[Exandria]] forge heroes and villains of many different stripes. [[The myriad]] dangers of this wild continent constantly encroach upon innocents in need of protection, even as the legends and the magic of the past challenge those brave enough to reshape the world—for good or ill. The material in this chapter offers a number of new options for player characters to define who they are and what they wish to become.
+The sprawling lands and endless challenges of [[Exandria]] forge heroes and villains of many different stripes. [[The Myriad]] dangers of this wild continent constantly encroach upon innocents in need of protection, even as the legends and the magic of the past challenge those brave enough to reshape the world—for good or ill. The material in this chapter offers a number of new options for player characters to define who they are and what they wish to become.
 
 The character options in this book are useful for players and Dungeon Masters alike, allowing adventurers and NPCs to take starring and supporting roles in your [[Wildemount]] D&D campaign. In this chapter, you’ll find stories and statistics that tie the races of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") and the broader world of D&D to the lands of [[Wildemount]], as well as new subclasses, new [[backgrounds]], and new spells focused on an esoteric study of magic known as [[Dunamancy]].
 

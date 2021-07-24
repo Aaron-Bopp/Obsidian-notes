@@ -1,6 +1,6 @@
 ## Water Genasi
-**Tag**:: #Race/WaterGenasi
-**Location**:: [[Races]]
+**Tag**:: #Race/Genasi
+**Location**:: [[Genasi]]
 
 **Features**:: ['Ability Score Increase', 'Acid Resistance', 'Amphibious', 'Swim', 'Call to the Wave']
 

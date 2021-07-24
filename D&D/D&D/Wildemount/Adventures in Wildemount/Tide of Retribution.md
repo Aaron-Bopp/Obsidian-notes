@@ -156,7 +156,7 @@ If you want to roleplay the interactions between the characters and the crew, yo
 
 **Kijori (Male [[Humans|Human]]).** This tan-skinned, chaotic neutral [bandit](https://www.dndbeyond.com/monsters/bandit) is the ship’s navigator. Despite his muscled physique, he isn’t very strong. A philanderer who hails from [[Port Damali]], Kijori is a fool and isn’t suspicious of anyone.
 
-**[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) (Female [[Tabaxi]]).** This pale, spotted, neutral evil [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain) is a low-ranking member of [[the Revelry]] pirates. She brought her vessel to the village of [[Palma Flora]] because she was informed that a local sahuagin tribe had uncovered an unusual treasure. Three Earrings rightly assumed that they were going to attack the village, and she intended to be there to plunder the ruins after the attack. She didn’t anticipate Flora Isle sinking.
+**[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) (Female [[Tabaxi]]).** This pale, spotted, neutral evil [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain) is a low-ranking member of [[The Revelry]] pirates. She brought her vessel to the village of [[Palma Flora]] because she was informed that a local sahuagin tribe had uncovered an unusual treasure. Three Earrings rightly assumed that they were going to attack the village, and she intended to be there to plunder the ruins after the attack. She didn’t anticipate Flora Isle sinking.
 
 Once the characters are done chatting with the crew, have the NPC they’re currently speaking to tell them that Captain Three Earrings would like to see the characters in her cabin.
 
@@ -172,7 +172,7 @@ If a character wears or displays the shark tooth necklace taken from the sahuagi
 
 When the characters meet with Captain Three Earrings in her quarters, read:
 
-[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a pirate. More accurately, she is a member of [[the Revelry]], a highly organized coalition of buccaneers headquartered on the dread isle of [[Darktow]], many leagues west (see [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-menagerie-coast#Darktow "chapter 3")). The [[tabaxi]] is interested in the adventurers she has brought on board, wanting to appraise their skill and enrich herself in the process. Ultimately, she intends to use them as tools in her hunt for sahuagin treasure and invites them to join her crew. First, however, she needs a plan.
+[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a pirate. More accurately, she is a member of [[The Revelry]], a highly organized coalition of buccaneers headquartered on the dread isle of [[Darktow]], many leagues west (see [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-menagerie-coast#Darktow "chapter 3")). The [[tabaxi]] is interested in the adventurers she has brought on board, wanting to appraise their skill and enrich herself in the process. Ultimately, she intends to use them as tools in her hunt for sahuagin treasure and invites them to join her crew. First, however, she needs a plan.
 
 The captain of _Wavechaser_ is a cunning [[tabaxi]] [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain) with a climbing speed of 20 feet, the Feline Agility trait (see below), and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet. She can read, write, and speak Common and Sahuagin. As an action, she can make a melee weapon attack with her claws (+4 to hit), dealing 1d4 slashing damage on a hit.
 
@@ -180,9 +180,9 @@ Three Earrings has a knack for knowing exactly what a person wants and how to of
 
 As she talks to the characters, Three Earrings glibly answers any questions they put to her (see below) and attempts to manipulate them into suggesting that they want to save [[Palma Flora]]. She only aggressively suggests a course of action if the characters appear out of their depth. Part of her strategy is to make the adventurers feel as though they are in complete control, even as she subtly directs the conversation.
 
-A character who succeeds on a DC 16 Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check catches the [[tabaxi]] captain trying to subtly goad the characters into action. If confronted, Three Earrings slyly smiles and takes note of this clever adventurer. She blithely says that she appreciates initiative, and she wants to know what the characters are capable of. If she thinks this character would make a successful pirate, she visits them during the night and offers them membership in [[the Revelry]]—if they can convince the rest of the party to help her claim the sahuagin treasure.
+A character who succeeds on a DC 16 Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check catches the [[tabaxi]] captain trying to subtly goad the characters into action. If confronted, Three Earrings slyly smiles and takes note of this clever adventurer. She blithely says that she appreciates initiative, and she wants to know what the characters are capable of. If she thinks this character would make a successful pirate, she visits them during the night and offers them membership in [[The Revelry]]—if they can convince the rest of the party to help her claim the sahuagin treasure.
 
-The [[tabaxi]] captain knows exactly what happened in [[Palma Flora]], thanks to [[the Revelry]] spies that have been observing the village and the Sharkfeather Abyss for the past few months. She reveals any of the following information:
+The [[tabaxi]] captain knows exactly what happened in [[Palma Flora]], thanks to [[The Revelry]] spies that have been observing the village and the Sharkfeather Abyss for the past few months. She reveals any of the following information:
 
 -   The earthquake dragged Flora Isle into the Sharkfeather Abyss, a nearby trench that is home to a clan of shark-herding humanoids known as sahuagin.
 -   The Sharkfeather sahuagin and the people of [[Palma Flora]] have been at odds for generations, since [[Palma Flora]] hosts an annual shark-hunting festival.
@@ -350,7 +350,7 @@ Any characters who survived the fight awaken a few hours later on the shore alon
 
 When the characters face Selachai, read:
 
-This ending sets up future adventures along the [[Menagerie Coast]]. As a DM, you can have fun with the elusive morality of Selachai and the sahuagin, and of the [[Clovis Concord]]. Who are the real villains. Are either of these factions truly good or evil? What of [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) and [[the Revelry]] pirates? All these dangling plot threads offer hints of new stories that you can guide your players toward, or which they can seek out of their own volition.
+This ending sets up future adventures along the [[Menagerie Coast]]. As a DM, you can have fun with the elusive morality of Selachai and the sahuagin, and of the [[Clovis Concord]]. Who are the real villains. Are either of these factions truly good or evil? What of [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) and [[The Revelry]] pirates? All these dangling plot threads offer hints of new stories that you can guide your players toward, or which they can seek out of their own volition.
 
 ### Victory
 
@@ -366,7 +366,7 @@ If [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) wasn’t 
 
 “They know too much now,” she growls bitterly. “[[Wyatt Maranoss|The Plank King]] will know what to do with them.”
 
-If the adventure ends this way, the characters are in a rough spot. Their next destination is a prison—and possibly an execution—in [[Darktow]]. They might have to join [[the Revelry]], or try to escape their prison and stow away on a pirate ship. Or perhaps _Moonbeam_ will return and intercept _Wavechaser_ as it returns to [[Darktow]]. The choice is yours!
+If the adventure ends this way, the characters are in a rough spot. Their next destination is a prison—and possibly an execution—in [[Darktow]]. They might have to join [[The Revelry]], or try to escape their prison and stow away on a pirate ship. Or perhaps _Moonbeam_ will return and intercept _Wavechaser_ as it returns to [[Darktow]]. The choice is yours!
 
 ## Character Advancement
 

@@ -1,6 +1,6 @@
 ## Protector Aasimar
-**Tag**:: #Race/ProtectorAasimar
-**Location**:: [[Races]]
+**Tag**:: #Race/Aasimar 
+**Location**:: [[Aasimar]]
 
 **Features**:: ['Ability Score Increase', 'Radiant Soul']
 

@@ -24,7 +24,7 @@ Trostenwald is a rural borough of simple homes, competing breweries, and fishing
 
 The city is broken into three main sections. The Northward borders the wind-kissed grain fields, and houses the privately owned breweries and other local industries. The Lochward forms the eastern portion of the settlement, comprised of residential neighborhoods and lakeside fishing communities. The southwest region is the Hillward, where the affluent and noble-blooded live among the guild halls, easily protected by the nearby [[Crownsguard]] barracks.
 
-Characters in Trostenwald could get caught up in adventures with the three brewing families or [[the Myriad]]. They might suddenly get called to action while deep in their cups.
+Characters in Trostenwald could get caught up in adventures with the three brewing families or [[The Myriad]]. They might suddenly get called to action while deep in their cups.
 
 **Adventures**:: [[Grain Hijackers (Low Level)]]
 ![[Grain Hijackers (Low Level)]]

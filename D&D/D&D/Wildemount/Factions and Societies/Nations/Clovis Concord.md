@@ -1,5 +1,5 @@
 # Clovis Concord
-**Tag**:: #Exandria/Person
+**Tag**:: #Exandria/Nation
 **Location**:: [[Factions and Societies]]
 
 Nearly four hundred years ago, an alliance of [[Ki’Nau]] islanders and foreign Marquesian traders founded a new nation on the tropical [[Menagerie Coast]]. The Clovis Concord is a democratic nation that enforces law and order, and regulates commerce along the length of the coast. The nation is composed of eight independent city-states, each ruled by its own marquis, which operate as one union under the banner of the Clovis Concord. This arrangement ensures uniform laws, regulation of trade, and mutual protection between the city-states. These eight cities are [[Port Damali]], [[Port Zoon]], [[Gwardan]], [[Tussoa]], [[Othe]], [[Feolinn]], [[Nicodranas]], and [[Brokenbank]].
@@ -12,7 +12,7 @@ Warriors who prove their might through gladiatorial bouts during times of celebr
 
 While the cities do work together for the good of the concord, they are also each in silent competition with each other, flaunting their affluence and clientele at every opportunity. When a prominent figure from the far reaches of [[Exandria]] finds their way to the [[Menagerie Coast]], it’s not uncommon for them to be courted by multiple marquises in an attempt to convince the personage to stay as a guest of their city.
 
-In recent times, [[the Myriad]] has subtly infiltrated the Clovis Concord, often with the unwitting aid of greedy local politicians. Rumors of criminal collusion have raised suspicion amid members of the concord. Sooner or later, the tension will have to break — and the fallout won’t be pretty.
+In recent times, [[The Myriad]] has subtly infiltrated the Clovis Concord, often with the unwitting aid of greedy local politicians. Rumors of criminal collusion have raised suspicion amid members of the concord. Sooner or later, the tension will have to break — and the fallout won’t be pretty.
 
 > [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-04.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-04.png)
 > 
@@ -24,7 +24,7 @@ Despite the concord’s cordial relationship with the [[Dwendalian Empire]], the
 
 The Clovis Concord is concerned with maintaining the trade and commerce that ensures their continued influence, both in [[Wildemount]] and the rest of [[Exandria]]. Anything that might jeopardize business is viewed as a major threat to the sanctity of life along the [[Menagerie Coast]]. Faced with the hazards of dangerous creatures that lurk in the nearby jungles and beneath the waves, as well as piracy on the open waters, the concord is employing substantial numbers of adventurers and mercenaries.
 
-Forty years ago, when the concord worked to enforce rising taxation on independent merchant companies operating within the [[Menagerie Coast]], the outrage led a small union of angry enterprises to turn to piracy, calling themselves [[the Revelry]]. These pirates have claimed the island of [[Darktow]] and terrorized the shipping lanes for four decades, all while deftly avoiding pursuit and naval retribution. The concord is eager to destroy [[the Revelry]] in its entirety, and have put massive bounties on the heads of the so-called scourges of the ocean.
+Forty years ago, when the concord worked to enforce rising taxation on independent merchant companies operating within the [[Menagerie Coast]], the outrage led a small union of angry enterprises to turn to piracy, calling themselves [[The Revelry]]. These pirates have claimed the island of [[Darktow]] and terrorized the shipping lanes for four decades, all while deftly avoiding pursuit and naval retribution. The concord is eager to destroy [[The Revelry]] in its entirety, and have put massive bounties on the heads of the so-called scourges of the ocean.
 
 ## Relationships
 

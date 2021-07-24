@@ -1,12 +1,12 @@
 ## Goblinkin
-**Tag**:: #Race/Goblinkin
+**Tag**:: #Race/Goblins
 **Location**:: [[Races]]
 
 **Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Darkvision', 'Fury of the Small', 'Nimble Escape', 'Languages']
 
-The civilized people of the world consider goblins to be nothing more than monsters—and in many ways, they’re right. Goblins and their cousins, the hobgoblins and bugbears, were first created by [[Bane]], as foot soldiers for his unholy army. Eons ago, when the flames of [[the Calamity]] burned across [[Exandria]], the Betrayer Gods gathered in the realm that would eventually become [[Xhorhas]]. There, they found a people known as the [[dranassar]]. An ancestor race to the goblinoids, the [[dranassar]] were tall and beautiful, strong of body and mind, and fleet of foot. Their hair was thick and black, and their skin gleamed like gold. Most of the [[dranassar]] willingly served the divine beings that descended upon their land, but a few fought back against the Betrayer Gods’ rule.
+The civilized people of the world consider goblins to be nothing more than monsters—and in many ways, they’re right. Goblins and their cousins, the hobgoblins and bugbears, were first created by [[Bane]], as foot soldiers for his unholy army. Eons ago, when the flames of [[the Calamity]] burned across [[Exandria]], the Betrayer Gods gathered in the realm that would eventually become [[Xhorhas]]. There, they found a people known as the [[Dranassar]]. An ancestor race to the goblinoids, the [[Dranassar]] were tall and beautiful, strong of body and mind, and fleet of foot. Their hair was thick and black, and their skin gleamed like gold. Most of the [[Dranassar]] willingly served the divine beings that descended upon their land, but a few fought back against the Betrayer Gods’ rule.
 
-[[Bane]], a cruel tyrant even among the Betrayer Gods, smote the rebellious [[dranassar]] and twisted them into the goblinkin. When the armies of the Betrayer Gods wanted for skirmishers, [[Bane]] twisted the [[dranassar]] into goblins. When he was in need of loyal soldiers, he made them into hobgoblins. And when brute force was required, he sculpted them into bugbears. As the war of gods and mortals raged on, [[Bane]] corrupted even those [[dranassar]] who remained loyal to him.
+[[Bane]], a cruel tyrant even among the Betrayer Gods, smote the rebellious [[Dranassar]] and twisted them into the goblinkin. When the armies of the Betrayer Gods wanted for skirmishers, [[Bane]] twisted the [[Dranassar]] into goblins. When he was in need of loyal soldiers, he made them into hobgoblins. And when brute force was required, he sculpted them into bugbears. As the war of gods and mortals raged on, [[Bane]] corrupted even those [[Dranassar]] who remained loyal to him.
 
 The Betrayer Gods are long since defeated, but the goblinkin survived—leaderless, lost, and fallen into chaos. It is said that the voice of [[Bane]] still whispers into the minds of the goblinkin, goading them to commit senseless acts of cruelty against all they see.
 
@@ -26,7 +26,7 @@ People living along the northern [[Menagerie Coast]], in cities such as [[Gwarda
 
 ### Goblinkin in [[Xhorhas]]
 
-Goblins, hobgoblins, and bugbears are a common sight in [[Xhorhas]], especially around [[Rosohna]]—for it was here that [[Bane]] first created the goblinkin from the noble [[dranassar]]. The people of the [[Kryn Dynasty]] have made efforts to forge close ties with the goblinkin who have made their home in the region, and have even managed to subvert the curse of strife by the power of [[the Luxon]]. Any creature reborn into a goblinkin body is born without the curse, and any natural-born goblin born within one hundred miles of a [Luxon beacon](https://www.dndbeyond.com/magic-items/luxon-beacon) is likewise shielded from [[Bane]]’s seed of corruption.
+Goblins, hobgoblins, and bugbears are a common sight in [[Xhorhas]], especially around [[Rosohna]]—for it was here that [[Bane]] first created the goblinkin from the noble [[Dranassar]]. The people of the [[Kryn Dynasty]] have made efforts to forge close ties with the goblinkin who have made their home in the region, and have even managed to subvert the curse of strife by the power of [[the Luxon]]. Any creature reborn into a goblinkin body is born without the curse, and any natural-born goblin born within one hundred miles of a [Luxon beacon](https://www.dndbeyond.com/magic-items/luxon-beacon) is likewise shielded from [[Bane]]’s seed of corruption.
 
 ### Goblin Racial Traits
 

@@ -34,7 +34,7 @@ The Opal Archways, a loop of eleven stone arches placed seemingly at random, wer
 
 The Skew encompasses the residential sprawl of the city, a colorful collection of mismatched homesteads whose varying heights and sizes create a jagged skyline. The streets are safer the closer to the Archways they are, but at night the lack of well-lit walkways makes it dangerous to walk through this region alone.
 
-Characters looking to relax in Nicodranas might stumble into an adventure involving [[the Myriad]], the [[Clovis Concord]], or the [[Cerberus Assembly]].
+Characters looking to relax in Nicodranas might stumble into an adventure involving [[The Myriad]], the [[Clovis Concord]], or the [[Cerberus Assembly]].
 
 **Adventures**:: [[Vine Shine (Low Level)]]
 ![[Vine Shine (Low Level)]]

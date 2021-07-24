@@ -21,7 +21,7 @@ The [[Dwendalian Empire|empire]] scored a major victory fifteen years ago when t
 
 The loss of their headquarters taught the surviving Myriad leaders to temper their arrogance with caution. Now a decentralized network of allies and informants, the Myriad is reconnecting with their temporarily dormant contacts, not all of whom are happy to see their cruel masters return.
 
-Beyond the borders of the [[Dwendalian Empire]], the Myriad has deftly utilized the chaos of [[the Revelry]]’s decades-long reign of piracy to infiltrate the guilds of the [[Clovis Concord]]. Between the war in the east and the distractions on the western waters, there has never been a better time for the Myriad to strike.
+Beyond the borders of the [[Dwendalian Empire]], the Myriad has deftly utilized the chaos of [[The Revelry]]’s decades-long reign of piracy to infiltrate the guilds of the [[Clovis Concord]]. Between the war in the east and the distractions on the western waters, there has never been a better time for the Myriad to strike.
 
 ## Relationships
 

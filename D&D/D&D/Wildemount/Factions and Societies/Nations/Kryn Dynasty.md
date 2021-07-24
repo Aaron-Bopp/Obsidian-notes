@@ -1,5 +1,5 @@
 ## After [[the Calamity]]
-**Tag**:: #Exandria/Person
+**Tag**:: #Exandria/Nation
 **Location**:: [[Factions and Societies]]
 Beneath the ruins of [[Ghor Dranas]], a group of scavenging drow turned from [[Lolth]], their primary deity for centuries, finding renewed faith in an esoteric entity they called [[the Luxon]]. Guided by the light of their new deity, the drow survived their ascent from deep within the Underdark and reclaimed the halls of [[Ghor Dranas]] for themselves, naming their new home [[Rosohna]], or “Rebirth.” The leading house of Kryn helped build a new nation of [[Dark Elves]] who sought the surface as part of their worship, and slowly began to reach out to the nearby nomads to unite under the light of [[the Luxon]].
 
@@ -9,7 +9,7 @@ Meanwhile, the [[dragonborn]] have begun to reach out to [[Exandria]]’s sprawl
 
 # Kryn Dynasty
 
-The Kryn Dynasty rules the northern wastes of [[Xhorhas]], and has only revealed itself to the wider world within the past century. Centered around — and under — the ruins of [[Ghor Dranas]] in [[Eastern Wynandir]], the dynasty governs many townships and small villages where the Kryn have helped establish a modicum of civilized living among the nomadic [[wastefolk]]. They believe that beings not yet beyond redemption can be turned to the light of [[the Luxon]], and often struggle with the unruly denizens of the wastes, hoping to gain converts to their cause and faith. Those that do accept the dynasty often do so because they seek protection from the dregs of [[the Calamity]] that wander the wastes, as well as the scouts of the [[Dwendalian Empire]].
+The Kryn Dynasty rules the northern wastes of [[Xhorhas]], and has only revealed itself to the wider world within the past century. Centered around — and under — the ruins of [[Ghor Dranas]] in [[Eastern Wynandir]], the dynasty governs many townships and small villages where the Kryn have helped establish a modicum of civilized living among the nomadic [[Wastefolk]]. They believe that beings not yet beyond redemption can be turned to the light of [[the Luxon]], and often struggle with the unruly denizens of the wastes, hoping to gain converts to their cause and faith. Those that do accept the dynasty often do so because they seek protection from the dregs of [[the Calamity]] that wander the wastes, as well as the scouts of the [[Dwendalian Empire]].
 
 [[Dark Elves]] are the most populous race within the Kryn Dynasty. The drow were the first people to uncover the first buried [[Luxon beacon]] many ages ago, in a time before they turned from [[Lolth]] and escaped enslavement from the Betrayer Gods. The [[dark elves]] claimed the dread citadel of [[Ghor Dranas]] as their own, as well as the massive network of underground caverns that make up the Underdark of [[Wildemount]]. The Kryn are stealthily becoming a force to be reckoned with.
 
@@ -48,7 +48,7 @@ The Kryn Dynasty has spent a generation training and preparing a select group of
 
 Open war has recently broken out between the Kryn Dynasty and the [[Dwendalian Empire]] — a conflict that neither nation can afford to lose. Those bearing the colors of the enemy are subdued and questioned before being punished and sometimes executed. Judgment is swift against the perceived imperial oppressors, and the forces of [[Rosohna]] will continue to push until their foes yield the stolen relics.
 
-Though the Kryn have remained fairly isolated throughout their history, they are now reaching out to other factions in the hopes of making alliances against the [[Dwendalian Empire]]. The Kryn Dynasty has begun hiring mercenaries through the [[Tribes of Shadycreek Run]] and purchasing dangerous weapons of war from [[the Myriad]]. Rumors of strange magics and powerful relics in northern [[Eiselcross]] have reached the dynasty’s ears, and they are willing to seek out any potential advantage over their Dwendalian foes.
+Though the Kryn have remained fairly isolated throughout their history, they are now reaching out to other factions in the hopes of making alliances against the [[Dwendalian Empire]]. The Kryn Dynasty has begun hiring mercenaries through the [[Tribes of Shadycreek Run]] and purchasing dangerous weapons of war from [[The Myriad]]. Rumors of strange magics and powerful relics in northern [[Eiselcross]] have reached the dynasty’s ears, and they are willing to seek out any potential advantage over their Dwendalian foes.
 
 There are many humanoid tribes that roam the southern reaches of [[Xhorhas]] that have declined to ally themselves with the Kryn — or to be assimilated by them. While the Bright Queen has allowed them to continue their neutrality for the time being, she watches them closely, lest they be courted by the [[Dwendalian Empire|empire]]’s coin and empty promises.
 

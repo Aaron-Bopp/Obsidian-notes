@@ -10,7 +10,7 @@
 
 **Commerce**:: Common goods and services are available via the city's vast network of enterprising military merchants. Meanwhile, the [[Cerberus Assembly]] strives to subvert New Haxon's thriving and profitable black market for rare arcane antiquities.
 
-**Organizations**:: Although the [[Cerberus Assembly]]'s sages hold power here, various mercenary guilds from remote corners of [[Wildemount]] have also made New Haxon their base of operations. The city has become an unlikely haven for esoteric [[cults]] of the Betrayer Gods and other dark entities.
+**Organizations**:: Although the [[Cerberus Assembly]]'s sages hold power here, various mercenary guilds from remote corners of [[Wildemount]] have also made New Haxon their base of operations. The city has become an unlikely haven for esoteric [[Cults in Wildemount]] of the Betrayer Gods and other dark entities.
 
 Whatever disaster befell Old Haxon is a tale lost to time and [[the Calamity]]. In its place, a fair-weather confederation of [[humans]] and [[dragonborn]] have erected this lone bastion. The stalwart outpost of New Haxon is garrisoned by agents of the [[Cerberus Assembly]], along with a contingent of allied mercenaries from nearby [[Draconia]]. An amalgam of crumbling ruins and modern battlements, New Haxon serves as the [[Dwendalian Empire]]'s only trusted waypoint for "civilized" exploration throughout [[Blightshore]]'s savage badlands.
 

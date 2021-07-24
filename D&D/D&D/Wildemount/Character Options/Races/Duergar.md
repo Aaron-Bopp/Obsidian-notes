@@ -1,3 +1,3 @@
 ## Duergar
-**Tag**:: #Race/Duergar
-**Location**:: [[Races]]
+**Tag**:: #Race/Dwarves
+**Location**:: [[Dwarves]]

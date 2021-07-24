@@ -1,8 +1,6 @@
 ## Genasi
 **Tag**:: #Race/Genasi
 **Location**:: [[Races]]
-**Tag**:: #Race/Genasi
-**Location**:: [[Races]]
 
 **Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Languages']
 
@@ -12,7 +10,7 @@ Some genasi are more attuned to their native element than others. A genasi with 
 
 ### Genasi in the [[Dwendalian Empire]]
 
-Genasi are so visually distinctive and uncommon that they are treated with equal amounts of surprise and wonder in all the nations of [[Wildemount]]. The authoritarian regime of the [[Dwendalian Empire]] reacts the most harshly to the unique power of genasi, and the [[Cerberus Assembly]] takes the greatest interest in them. Genasi are often press-ganged into joining the [[Cerberus Assembly|assembly]] under threat of death or exile, and most accept the offer. Those who refuse—and who survive—often take refuge in the [[Dwendalian Empire|empire]]’s criminal underworld, with many finding acceptance in [[the Myriad]] crime syndicate.
+Genasi are so visually distinctive and uncommon that they are treated with equal amounts of surprise and wonder in all the nations of [[Wildemount]]. The authoritarian regime of the [[Dwendalian Empire]] reacts the most harshly to the unique power of genasi, and the [[Cerberus Assembly]] takes the greatest interest in them. Genasi are often press-ganged into joining the [[Cerberus Assembly|assembly]] under threat of death or exile, and most accept the offer. Those who refuse—and who survive—often take refuge in the [[Dwendalian Empire|empire]]’s criminal underworld, with many finding acceptance in [[The Myriad]] crime syndicate.
 
 ### Genasi on the [[Menagerie Coast]]
 

@@ -22,7 +22,7 @@ Campaigns set in the [[Dwendalian Empire]] are bound to involve elements of war 
 
 The [[Clovis Concord]] is a republic of city-states lining the [[Menagerie Coast]], the westernmost shore of [[Wildemount]]. This tropical region is rich with history and known for a lively, free-spirited culture that contrasts sharply with [[Wildemount]]’s other, politically narrow-minded nations.
 
-Campaigns set on the [[Menagerie Coast]] are often nautical, exploring the conflict between the law of the [[Clovis Concord]] and the chaos of [[the Revelry]] pirates. They can also investigate the jungles that line the coast and the ancient ruins hidden within their verdant boughs.
+Campaigns set on the [[Menagerie Coast]] are often nautical, exploring the conflict between the law of the [[Clovis Concord]] and the chaos of [[The Revelry]] pirates. They can also investigate the jungles that line the coast and the ancient ruins hidden within their verdant boughs.
 
 ### [[Tribes of Shadycreek Run]]
 
@@ -63,7 +63,7 @@ If you want the war to be completely absent, simply dial the timeline back by a 
 
 Not all campaigns set in [[Wildemount]] need to deal with the war directly. That is, the characters aren’t expected to conscript with one army or another, or even serve as mercenaries. The effects of war are far-reaching and multifarious, and loose-cannon adventurers are the perfect people to get involved in the countless conflicts sparked by war. These schemes could include:
 
-**Crime.** In times of war, criminals and smugglers take advantage of lax law enforcement. Petty criminals and crime syndicates like [[the Myriad]] will need help moving illicit goods in and out of Dwendalian and Xhorhasian cities, and [[The Revelry|Revelry]] pirates will need loyal crew members to raid unprotected towns.
+**Crime.** In times of war, criminals and smugglers take advantage of lax law enforcement. Petty criminals and crime syndicates like [[The Myriad]] will need help moving illicit goods in and out of Dwendalian and Xhorhasian cities, and [[The Revelry|Revelry]] pirates will need loyal crew members to raid unprotected towns.
 
 **Disaster.** When a town is destroyed by advancing armies, or by a landslide caused by artillery, the common folk need help escaping. This could involve escorting noncombatants through no-man’s-land to a nearby town, or carving out a new settlement from the wilds.
 

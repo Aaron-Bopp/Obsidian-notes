@@ -1,6 +1,6 @@
 ## Earth Genasi
-**Tag**:: #Race/EarthGenasi
-**Location**:: [[Races]]
+**Tag**:: #Race/Genasi
+**Location**:: [[Genasi]]
 
 **Features**:: ['Ability Score Increase', 'Earth Walk', 'Pass without Trace']
 

@@ -32,7 +32,7 @@ The city exists partially on the forest floor and partially within and around th
 > 
 > Bysaes Tyl
 
-The tension between [[Bertrand Dwendal|the Crown]] and the [[elves]] in Bysaes Tyl plays a part in any of the city's adventures. [[Elves]] trying to maintain their cultural connection with nature and their lost homeland of [[Molaesmyr]] could look to adventurers for aid, [[Bertrand Dwendal|the Crown]] could use help keeping the peace, and [[the Myriad]] could hire the characters to infiltrate the city.
+The tension between [[Bertrand Dwendal|the Crown]] and the [[elves]] in Bysaes Tyl plays a part in any of the city's adventures. [[Elves]] trying to maintain their cultural connection with nature and their lost homeland of [[Molaesmyr]] could look to adventurers for aid, [[Bertrand Dwendal|the Crown]] could use help keeping the peace, and [[The Myriad]] could hire the characters to infiltrate the city.
 
 **Adventures**:: [[Elves, Arise (Mid Level)]]
 ![[Elves, Arise (Mid Level)]]

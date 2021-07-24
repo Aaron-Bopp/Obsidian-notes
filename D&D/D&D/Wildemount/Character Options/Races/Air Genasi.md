@@ -1,6 +1,6 @@
 ## Air Genasi
-**Tag**:: #Race/AirGenasi
-**Location**:: [[Races]]
+**Tag**:: #Race/Genasi
+**Location**:: [[Genasi]]
 
 **Features**:: ['Ability Score Increase', 'Unending Breath', 'Mingle with the Wind']
 

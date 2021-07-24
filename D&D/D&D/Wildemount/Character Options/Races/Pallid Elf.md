@@ -1,6 +1,6 @@
 ## Pallid [[Elves|Elf]]
-**Tag**:: #Race/PallidElf
-**Location**:: [[Races]]
+**Tag**:: #Race/Elves 
+**Location**:: [[Elves]]
 
 **Features**:: ['Ability Score Increase', 'Incisive Sense', 'Blessing of the Moon Weaver']
 

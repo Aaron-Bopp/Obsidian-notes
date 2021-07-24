@@ -1,6 +1,6 @@
 ## Fallen Aasimar
-**Tag**:: #Race/FallenAasimar
-**Location**:: [[Races]]
+**Tag**:: #Race/Aasimar
+**Location**:: [[Aasimar]]
 
 **Features**:: ['Ability Score Increase', 'Necrotic Shroud']
 

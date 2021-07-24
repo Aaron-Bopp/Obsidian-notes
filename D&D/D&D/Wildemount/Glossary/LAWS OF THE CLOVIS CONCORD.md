@@ -1,4 +1,4 @@
-## LAWS OF THE [[CLOVIS CONCORD]]
+## LAWS OF THE [[Clovis Concord]]
 
 All who are found by the esteemed [[Zhelezo]] to have broken the fair laws of the [[Clovis Concord]] are judged and sentenced by the local magistrate and are subject to punishments befitting the crime. All fines and punishments for crimes against a [[Zhelezo]] official or a noble are doubled. All fines and punishments for crimes against a [[Clovis Concord]] official are tripled.
 

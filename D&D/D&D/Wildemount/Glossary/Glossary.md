@@ -50,7 +50,7 @@ King [[Bertrand Dwendal]] is the current ruler of the [[Dwendalian Empire]] and 
 
 [[Kord]] is the god of strength, contests, and storms.
 
-[[Kryn Dynasty]] is the faction of largely drow and [[wastefolk]] that rules most of [[Xhorhas]].
+[[Kryn Dynasty]] is the faction of largely drow and [[Wastefolk]] that rules most of [[Xhorhas]].
 
 [[Lolth]] is the [[Betrayer God]] of deceit and spiders.
 
