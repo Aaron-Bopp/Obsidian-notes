@@ -1,4 +1,6 @@
 ## [[Aeor|Aeorian]] Hunters
+**Tag**:: #Monster
+**Location**:: [[Stat Blocks]]
 
 Brought to life by mages in the flying city of [[Aeor]] during the [[Age of Arcanum]], [[Aeor|Aeorian]] hunters were created to take on angels, demons, devils, fey, and the gods themselves. When [[Aeor]] crashed into [[Eiselcross]], many of these magically mutated monstrosities survived, and they now stalk [[Aeor]]’s ruins and the islands’ icy wastes.
 

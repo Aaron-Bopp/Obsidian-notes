@@ -5,6 +5,10 @@ The [[Divine Gate]], established during the [[Divergence]], is a powerful barrie
 
 The following gods, patrons, and titles are recommended as the existing pantheon, but they are only a recommendation. You are welcome to alter, supplement, or completely change the gods in your [[Wildemount]] campaign to fit your needs. The domains and pacts listed are the likely choices for clerics, warlocks, and followers of each entity, but these are not the only options, and many other domains can be attributed to your preferred deity. Talk with your DM about how best to dress your domain or pact choice to fit within the philosophies and commandments of your patron deity.
 
+```dataview
+Table (Appearance + Depiction) as Portrayal, (holy-day + enemies) as Practices
+from #Exandria/God 
+```
 ## Prime Deities
 
 The circle of Prime Deities includes the leaders and luminary creators that battled the Primordials and instigated [[the Founding]], forging the mortal races of [[Exandria]]. They represent a spectrum of light, protection, love, death, and all other facets of freedom and life in the world. While some gods may disagree and squabble, they exist in a subtle alliance to maintain the sanctity of life and their respective creations.

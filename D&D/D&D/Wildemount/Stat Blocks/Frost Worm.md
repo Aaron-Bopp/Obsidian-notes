@@ -1,4 +1,10 @@
 ## Frost Worm
+**Tag**:: #Monster
+**Location**:: [[Stat Blocks]]
+
+**Features**:: ['Armor Class', 'Hit Points', 'Speed', 'Saving Throws', 'Damage Vulnerabilities', 'Damage Immunities', 'Senses', 'Languages', 'Challenge', 'Freezing Body', 'Death Burst', 'Tunneler']
+
+**Actions**:: ['Multiattack', 'Bite', 'Trill']
 
 Frost worms burrow through the snow, dirt, ice, and rock of [[Wildemount]]’s [[Biting North]]. These enormous monstrosities eagerly consume any living creature they can wrap their jaws around.
 
@@ -8,38 +14,37 @@ A frost worm spends most of its time beneath the frozen ground, conserving energ
 
 Gargantuan monstrosity, unaligned
 
-**Armor Class** 18 (natural armor)
+**Armor Class**::  18 (natural armor)
 
-**Hit Points** 264 (16d20 + 96)
+**Hit Points**::  264 (16d20 + 96)
 
-**Speed** 40 ft., burrow 30 ft.
+**Speed**::  40 ft., burrow 30 ft.
 
-**Saving Throws** Con +12, Wis +3
+**Saving Throws**::  Con +12, Wis +3
 
-**Damage Vulnerabilities** fire
+**Damage Vulnerabilities**::  fire
 
-**Damage Immunities** cold
+**Damage Immunities**::  cold
 
-**Senses** [blindsight](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Blindsight) 30 ft., [tremorsense](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Tremorsense) 60 ft., passive Perception 7
+**Senses**::  [blindsight](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Blindsight) 30 ft., [tremorsense](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Tremorsense) 60 ft., passive Perception 7
 
-**Languages** —
+**Languages**::  —
 
-**Challenge** 17 (18,000 XP)
+**Challenge**::  17 (18,000 XP)
 
-_**Freezing Body.**_ A creature that touches the worm or hits it with a melee attack while within 5 feet of it takes 10 (3d6) cold damage.
+**Freezing Body**::  A creature that touches the worm or hits it with a melee attack while within 5 feet of it takes 10 (3d6) cold damage.
 
-_**Death Burst.**_ When the worm dies, it explodes in a burst of frigid energy. Each creature within 60 feet of it must make a DC 20 Dexterity saving throw, taking 28 (8d6) cold damage on a failed save, or half as much damage on a successful one. Creatures inside the worm when it dies automatically fail this saving throw.
+**Death Burst**::  When the worm dies, it explodes in a burst of frigid energy. Each creature within 60 feet of it must make a DC 20 Dexterity saving throw, taking 28 (8d6) cold damage on a failed save, or half as much damage on a successful one. Creatures inside the worm when it dies automatically fail this saving throw.
 
-_**Tunneler.**_ The worm can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
+**Tunneler**::  The worm can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
 
-Actions
+#### Actions
+**Multiattack**::  The worm makes two bite attacks, or uses its Trill and makes a bite attack.
 
-_**Multiattack.**_ The worm makes two bite attacks, or uses its Trill and makes a bite attack.
-
-_**Bite.** Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 22 (3d8 + 9) piercing damage plus 10 (3d6) cold damage. If the target is a Large or smaller creature, it must succeed on a DC 20 Dexterity saving throw or be swallowed by the worm. A swallowed creature is [blinded](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Blinded) and [restrained](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Restrained), has total cover against attacks and other effects outside the worm, and takes 10 (3d6) acid damage and 10 (3d6) cold damage at the start of each of the worm’s turns.
+**Bite**::  Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 22 (3d8 + 9) piercing damage plus 10 (3d6) cold damage. If the target is a Large or smaller creature, it must succeed on a DC 20 Dexterity saving throw or be swallowed by the worm. A swallowed creature is [blinded](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Blinded) and [restrained](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Restrained), has total cover against attacks and other effects outside the worm, and takes 10 (3d6) acid damage and 10 (3d6) cold damage at the start of each of the worm’s turns.
 
 If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Prone) in a space within 10 feet of the worm.
 
-_**Trill.**_ The frost worm emits a haunting cry. Each creature within 60 feet of the worm that can hear it must succeed on a DC 20 Wisdom saving throw or be [stunned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Stunned) for 1 minute. A creature can repeat the saving throw each time it takes damage and at the end of each of its turns, ending the effect on itself on a success. Once a creature successfully saves against this effect, or if this effect ends for it, that creature is immune to the Trill of all frost worms for the next 24 hours. Frost worms are immune to this effect.
+**Trill**::  The frost worm emits a haunting cry. Each creature within 60 feet of the worm that can hear it must succeed on a DC 20 Wisdom saving throw or be [stunned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Stunned) for 1 minute. A creature can repeat the saving throw each time it takes damage and at the end of each of its turns, ending the effect on itself on a success. Once a creature successfully saves against this effect, or if this effect ends for it, that creature is immune to the Trill of all frost worms for the next 24 hours. Frost worms are immune to this effect.
 
-[![](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9170/24/270/598/637199798877274924.png)](https://media-waterdeep.cursecdn.com/avatars/9170/24/637199798877274924.png)
+> [![](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9170/24/270/598/637199798877274924.png)](https://media-waterdeep.cursecdn.com/avatars/9170/24/637199798877274924.png)

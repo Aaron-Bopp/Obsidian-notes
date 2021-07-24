@@ -1,5 +1,5 @@
 ## Races
-**Tag**:: #Exandria/Races
+**Tag**:: #Exandria
 **Location**:: [[Character Options]]
 
 ```dataview

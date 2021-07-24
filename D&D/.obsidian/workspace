@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76b3c8def6ffaaa8",
+        "id": "57299ad881f114bf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/Wildemount/Stat Blocks/Sea Fury.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,11 +36,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Region",
+                "query": "tag:#Exandria/Adventure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -54,7 +51,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/Stat Blocks/Sea Fury.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -65,9 +61,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D&D/Wildemount/Stat Blocks/Sea Fury.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/Stat Blocks/Sea Fury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +107,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -142,7 +136,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/Stat Blocks/Sea Fury.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,17 +201,17 @@
     "width": 962,
     "collapsed": true
   },
-  "active": "76b3c8def6ffaaa8",
+  "active": "57299ad881f114bf",
   "lastOpenFiles": [
-    "D&D/Wildemount/Stat Blocks/Sea Fury.md",
-    "D&D/Wildemount/Stat Blocks/Swavain Basilisk.md",
-    "D&D/Wildemount/Stat Blocks/Udaak.md",
-    "D&D/Wildemount/Stat Blocks/Wildemount NPCs.md",
-    "D&D/Wildemount/Stat Blocks/Shadowghast.md",
-    "D&D/Wildemount/Stat Blocks/Sahuagin Warlock of Uk’otoa.md",
-    "D&D/Wildemount/Stat Blocks/Merrow Shallowpriest.md",
-    "D&D/Wildemount/Stat Blocks/Gearkeeper Construct.md",
-    "D&D/Wildemount/Stat Blocks/Frost Worm.md",
-    "D&D/Wildemount/Stat Blocks/Core Spawn Worm.md"
+    "D&D/Wildemount/Magic Items/Breathing Bubble.md",
+    "D&D/Wildemount/Factions and Societies.md",
+    "D&D/Wildemount/Character Options/Races/Earth Genasi.md",
+    "D&D/Wildemount/Glossary/Frigid Woe.md",
+    "D&D/Wildemount/Glossary/Firmaments.md",
+    "D&D/Wildemount/Glossary/Expositors.md",
+    "D&D/Wildemount/Glossary/Endless Athenaeum.md",
+    "D&D/Wildemount/Glossary/Empire Gods.md",
+    "D&D/Wildemount/Glossary/Elder Evils.md",
+    "D&D/Wildemount/Glossary/Dungeon of Penance.md"
   ]
 }

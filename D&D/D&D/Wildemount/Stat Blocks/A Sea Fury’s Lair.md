@@ -1,4 +1,6 @@
-### A [[Sea Fury]]’s Lair
+## A [[Sea Fury]]’s Lair
+**Tag**:: #Monster
+**Location**:: [[Stat Blocks]]
 
 A [[sea fury]] lurks in the caverns where its coven once dwelled, decorating the walls with the bones of its slain kin, as well as baubles stolen from sunken wrecks.
 
