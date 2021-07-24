@@ -1,4 +1,6 @@
-### The War of the Ash and Light
+## The War of the Ash and Light
+**Tag**:: #Exandria/History
+**Location**:: [[History of Wildemount]]
 
 In the past century, the [[Dwendalian Empire]] has clashed with the [[Kryn Dynasty]]. Small skirmishes and slain soldiers on both sides deter expansion beyond the [[Ashkeeper Peaks]], with each faction keeping a close eye on the other.
 

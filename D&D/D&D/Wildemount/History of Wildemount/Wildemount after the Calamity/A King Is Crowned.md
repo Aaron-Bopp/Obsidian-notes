@@ -1,3 +1,5 @@
-### A King Is Crowned
+## A King Is Crowned
+**Tag**:: #Exandria/History
+**Location**:: [[History of Wildemount]]
 
 With citizens of the former [[Julous Dominion]] tense beneath their new rule and a growing sentiment of frustration with imperial leadership building, Emperor Manfried sought a way to reform the nation under his banner. The propagandist minds who fought the social war with the [[Julous Dominion]] recommended a shift in public image and title, one that could command more respect within [[Western Wynandir]] while casting aside the oppressive connotations of the title of emperor. Still riding high on the victory against the Dominion, Emperor Manfried harkened back to the halcyon lore of the [[Age of Arcanum]], recalling the beloved kings and queens of old. It was decided that the people would no longer have an emperor, but a king. Crowning himself the first of the line of Dwendalian kings, King Manfried insisted on maintaining the now-ominous national title of the [[Dwendalian Empire]], famously proclaiming, “I am the Dwendalian king to my people, beloved and open to their wishes. To our enemies, we remain resolute and unstoppable. We are the [[Dwendalian Empire]].”

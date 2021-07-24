@@ -1,4 +1,6 @@
-### The Marquesian Alliance
+## The Marquesian Alliance
+**Tag**:: #Exandria/History
+**Location**:: [[History of Wildemount]]
 
 Around the year 400 PD, an exploration vessel from the distant land of [[Marquet]] was nearing the end of its provisions when it reached the [[Swavain Islands]]. Discovered and captured by the ever-watchful [[Ki’Nau]], the desperate explorers made trade offerings of foreign gold, spices, and fine silks. This diplomatic approach won over the leaders of [[Ki’Nau]], and an alliance was made with the Marquesian travelers to return with trade goods and establish a Marquesian outpost, which was to be named Damali.
 

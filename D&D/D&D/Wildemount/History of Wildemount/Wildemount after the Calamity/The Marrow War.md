@@ -1,4 +1,6 @@
-### The Marrow War
+## The Marrow War
+**Tag**:: #Exandria/History
+**Location**:: [[History of Wildemount]]
 
 It wasn’t long before the expanding borders of the [[Dwendalian Empire]] began to push up against the growing [[Julous Dominion]]. An agreement was brokered to avoid conflict as long as favorable trade could be established and maintained. Even so, the resource-rich center of [[Western Wynandir]] was split between the two states, with both factions eager to discover the other’s weaknesses. Rumors of the discovery of a massive platinum mine within the [[Julous Dominion]] further increased the [[Dwendalian Empire|empire]]’s desire to conquer their neighbor.
 

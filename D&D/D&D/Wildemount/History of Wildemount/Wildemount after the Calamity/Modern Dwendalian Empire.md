@@ -1,4 +1,6 @@
-### Modern [[Dwendalian Empire]]
+## Modern [[Dwendalian Empire]]
+**Tag**:: #Exandria/History
+**Location**:: [[History of Wildemount]]
 
 For three hundred years, the [[Dwendalian Empire|empire]] has expanded and prospered under the rule of the Dwendalian line of kings. King Alfwin Dwendal increased the [[Dwendalian Empire|empire]]’s military power by establishing the stronghold of [[Bladegarden]] and assimilating [[Grimgolir]] into the [[Dwendalian Empire|empire]], seeking to hold back the savage creatures of [[Xhorhas]]. King Theoderich Dwendal’s benevolent nature brokered the partnership with the [[Clovis Concord]] of the [[Menagerie Coast]] without bloodshed and ushered in new opportunities for trade with the rest of [[Exandria]]. King Willamar Dwendal established the initial prominence of House Truscan and granted them oversight of the [[Truscan Vale]], to the displeasure of the other noble houses.
 

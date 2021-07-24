@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4a4d198d3be7e883",
+        "id": "76b3c8def6ffaaa8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Wildemount/History of Wildemount/Age of Arcanum.md",
+            "file": "D&D/Wildemount/Stat Blocks/Sea Fury.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/History of Wildemount/Age of Arcanum.md",
+                "file": "D&D/Wildemount/Stat Blocks/Sea Fury.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Wildemount/History of Wildemount/Age of Arcanum.md"
+                "file": "D&D/Wildemount/Stat Blocks/Sea Fury.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/History of Wildemount/Age of Arcanum.md",
+                "file": "D&D/Wildemount/Stat Blocks/Sea Fury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/History of Wildemount/Age of Arcanum.md",
+                "file": "D&D/Wildemount/Stat Blocks/Sea Fury.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,17 +208,17 @@
     "width": 962,
     "collapsed": true
   },
-  "active": "4a4d198d3be7e883",
+  "active": "76b3c8def6ffaaa8",
   "lastOpenFiles": [
-    "D&D/Wildemount/History of Wildemount/Age of Arcanum.md",
-    "D&D/Wildemount/History of Wildemount/The Calamity.md",
-    "D&D/Wildemount/History of Wildemount/Myth of Exandria.md",
-    "D&D/Wildemount/History of Wildemount.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/Draconia.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/Ki’Nau.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/Molaesmyr.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/The War of the Ash and Light.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/The Marquesian Alliance.md",
-    "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/The Eve of Crimson Midnight.md"
+    "D&D/Wildemount/Stat Blocks/Sea Fury.md",
+    "D&D/Wildemount/Stat Blocks/Swavain Basilisk.md",
+    "D&D/Wildemount/Stat Blocks/Udaak.md",
+    "D&D/Wildemount/Stat Blocks/Wildemount NPCs.md",
+    "D&D/Wildemount/Stat Blocks/Shadowghast.md",
+    "D&D/Wildemount/Stat Blocks/Sahuagin Warlock of Uk’otoa.md",
+    "D&D/Wildemount/Stat Blocks/Merrow Shallowpriest.md",
+    "D&D/Wildemount/Stat Blocks/Gearkeeper Construct.md",
+    "D&D/Wildemount/Stat Blocks/Frost Worm.md",
+    "D&D/Wildemount/Stat Blocks/Core Spawn Worm.md"
   ]
 }

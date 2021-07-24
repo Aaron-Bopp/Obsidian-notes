@@ -1,4 +1,6 @@
-### Birth of the [[Clovis Concord]]
+## Birth of the [[Clovis Concord]]
+**Tag**:: #Exandria/History
+**Location**:: [[History of Wildemount]]
 
 At this time, the city of Ank’Harel in [[Marquet]] had just named the mysterious J’mon Sa Ord as their new emperor. In the transition, the Marquesian colonists now living along the coast demanded independence from [[Marquet]] to begin building their own society and identity alongside [[Ki’Nau]]. Ord eventually accepted the request, and the emancipated Marquesians allied themselves with the [[Ki’Nau]] to build a new civilization. Over the following centuries, numerous port towns sprung up and grew into city states, trade routes expanded along what is now known as the [[Menagerie Coast]], and the emerging guilds consolidated enough power to become the region’s ruling class: the [[Clovis Concord]].
 

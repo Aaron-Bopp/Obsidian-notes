@@ -1,4 +1,6 @@
-### The Ki’Nau
+## The Ki’Nau
+**Tag**:: #Exandria/History
+**Location**:: [[History of Wildemount]]
 
 The few scattered survivors of the floods found shelter among the higher jungles of the [[Swavain Islands]], gifted with the bounty of a more plentiful and tropical environment. These seafaring people rebuilt among the islands and took the name Ki’Nau, meaning “the Water Children” in their language of Naush. Though the terrible floods of [[the Calamity]] had passed, the deadly seas and flourishing horrors of the wilds were still a persistent threat to the Ki’Nau. Each generation struggled to survive the elements that sunk their boats and the predators of the jungles and ocean depths.
 

@@ -1,4 +1,6 @@
-### The Founding
+## The Founding
+**Tag**:: #Exandria/History
+**Location**:: [[History of Wildemount]]
 
 Long ago, this world was one of tumultuous and chaotic forces, naught but unbridled fires and churning, jagged rock. Through the ashen skies of Creation Primordial, the gods came from beyond the ether, new and formless. Looking on this roiling realm, they saw potential for great beauty, great strength, and the chance to learn their own place in creation.
 

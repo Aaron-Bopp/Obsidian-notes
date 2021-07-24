@@ -1,4 +1,6 @@
-### Founding of the [[Dwendalian Empire]]
+## Founding of the [[Dwendalian Empire]]
+**Tag**:: #Exandria/History
+**Location**:: [[History of Wildemount]]
 
 In the frigid fields north of the [[Marrow Valley]], the survivors of the Arcanum city of Zemniaz scraped by in the snow for centuries, clutching their surviving scrolls and fragments of cultural history. They established the dour outposts of [[Icehaven]] and [[Yrrosa]], but it wasn’t until the Zemnian people wandered east to the [[Pearlbow Wilderness]] that they found fields that were fertile enough to nurture a new society.
 

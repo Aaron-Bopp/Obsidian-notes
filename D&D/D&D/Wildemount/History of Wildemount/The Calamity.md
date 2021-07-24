@@ -1,4 +1,6 @@
-### The Calamity
+## The Calamity
+**Tag**:: #Exandria/History
+**Location**:: [[History of Wildemount]]
 
 The battlefields of the catastrophic showdowns of the Calamity were scattered across [[Exandria]], but it was Wynandir that suffered the full destructive powers of the gods. Divided by the [[Ashkeeper Peaks]], the fields of Wynandir were once home to several powerful ruling houses, squabbling over their own goals before being drawn into either side of the conflict of the gods, or abstaining for their own reasons. The immensity of power wielded by the Prime Deities and Betrayer Gods was enough to wound the landscape for eons, and the irresponsible use of arcane knowledge developed by the mortals ensured the ruin of their own legacy.
 
