@@ -1,6 +1,8 @@
 ## Genasi
 **Tag**:: #Race/Genasi
 **Location**:: [[Races]]
+**Tag**:: #Race/Genasi
+**Location**:: [[Races]]
 
 **Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Languages']
 

@@ -1,4 +1,6 @@
 ## Humans
+**Tag**:: #Race/Humans
+**Location**:: [[Races]]
 
 The most populous race in [[Wildemount]], humans define common culture across the continent. Their unrelenting ambition creates societies that aggressively pursue productivity while valuing leisure, and their short life spans often lead humans to romanticize the ugly past and fear the unknown future.
 

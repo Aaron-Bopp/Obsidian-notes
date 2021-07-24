@@ -1,4 +1,6 @@
 ## Dwarves
+**Tag**:: #Race/Dwarves
+**Location**:: [[Races]]
 
 Dwarves’ long memories give them uncommon insight into the world of the past. However, this connection to the past can make their societies resistant to change, even when change is desperately needed.
 

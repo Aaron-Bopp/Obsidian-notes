@@ -1,4 +1,8 @@
 ## Firbolgs
+**Tag**:: #Race/Firbolgs
+**Location**:: [[Races]]
+
+**Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Firbolg Magic', 'Hidden Step', 'Powerful Build', 'Speech of Beast and Leaf', 'Languages']
 
 Firbolgs are a forest-dwelling race native to the [[Greying Wildlands]], particularly the mysterious [[Savalirwood]]. Their bodies are covered with thick fur ranging from tones of earthen brown and ruddy red to cool grays and blues, and even to wild hues of pink and green. Their bodies are bovine or camelid in appearance, with floppy, pointed ears and broad, pink noses, but they are bipedal and have hands that can manipulate weapons and objects.
 
@@ -20,9 +24,9 @@ With northern [[Xhorhas]] firmly under the control of the [[Kryn Dynasty]], the 
 
 ### Firbolg Classes
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-08.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-08.png)
-
-Firbolg
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-08.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-08.png)
+> 
+> Firbolg
 
 Most firbolgs are druids, rangers, or fighters. Among their kind, these vocations are passed down from one generation to the next. The firbolgs’ magical heritage also expresses itself in other ways; those who become bards preserve the clan’s lore, and firbolg sorcerers defend their communities. Firbolg wizards arise when a clan becomes friendly with [[elves]].
 
@@ -48,28 +52,28 @@ Sometimes firbolgs adopt the nicknames or titles outsiders give them under the a
 
 A firbolg character has the following racial traits.
 
-_**Ability Score Increase.**_ Your Wisdom score increases by 2, and your Strength score increases by 1.
+**Ability Score Increase**:: Your Wisdom score increases by 2, and your Strength score increases by 1.
 
-_**Age.**_ As humanoids related to the fey, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years.
+**Age**:: As humanoids related to the fey, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years.
 
-_**Alignment.**_ As people who follow the rhythm of nature and see themselves as its caretakers, firbolg are typically neutral good. Evil firbolg are rare and are usually the sworn enemies of the rest of their kind.
+**Alignment**:: As people who follow the rhythm of nature and see themselves as its caretakers, firbolg are typically neutral good. Evil firbolg are rare and are usually the sworn enemies of the rest of their kind.
 
-_**Size.**_ Firbolg stand between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+**Size**:: Firbolg stand between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
-Size modifier = 2d12
+**Size modifier**:: 2d12
 
-Height = 6 feet + 2 inches + your size modifier in inches
+**Height**:: 6 feet + 2 inches + your size modifier in inches
 
-Weight in pounds = 175 + (2d6 × your size modifier)
+**Weight in pounds**:: 175 + (2d6 × your size modifier)
 
-_**Speed.**_ Your base walking speed is 30 feet.
+**Speed**:: Your base walking speed is 30 feet.
 
-_**Firbolg Magic.**_ You can cast [detect magic](https://www.dndbeyond.com/spells/detect-magic) and [disguise self](https://www.dndbeyond.com/spells/disguise-self) with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can’t cast it again with this trait until you finish a short or long rest. When you use this version of [disguise self](https://www.dndbeyond.com/spells/disguise-self), you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with [[humans]] and [[elves]].
+**Firbolg Magic**:: You can cast [detect magic](https://www.dndbeyond.com/spells/detect-magic) and [disguise self](https://www.dndbeyond.com/spells/disguise-self) with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can’t cast it again with this trait until you finish a short or long rest. When you use this version of [disguise self](https://www.dndbeyond.com/spells/disguise-self), you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with [[humans]] and [[elves]].
 
-_**Hidden Step.**_ As a bonus action, you can magically turn [invisible](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can’t use it again until you finish a short or long rest.
+**Hidden Step**:: As a bonus action, you can magically turn [invisible](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can’t use it again until you finish a short or long rest.
 
-_**Powerful Build.**_ You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+**Powerful Build**:: You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
-_**Speech of Beast and Leaf.**_ You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.
+**Speech of Beast and Leaf**:: You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.
 
-_**Languages.**_ You can speak, read, and write Common, Elvish, and Giant.
+**Languages**:: You can speak, read, and write Common, Elvish, and Giant.

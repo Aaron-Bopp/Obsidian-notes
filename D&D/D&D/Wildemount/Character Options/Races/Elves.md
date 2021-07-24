@@ -1,4 +1,8 @@
 ## Elves
+**Tag**:: #Race/Elves
+**Location**:: [[Races]]
+
+**Features**:: ['Height and Weight', 'Size modifier', 'Height', 'Weight in pounds']
 
 When [[Exandria]] trembled at the gods’ footfalls, the ancient elves of the north pleaded with the [[Corellon|Arch Heart]] to save them from the world’s ending. [[Corellon]] did not respond, for it is said that their divine ears still rang with pain after their duel to the death with [[Gruumsh]]. Desperate and panicked, the greatest mages of the elves performed a ritual powerful enough to encase their entire civilization in ice, in hopes of protecting it from the wrath of the warring gods while the elves escaped into the Feywild.
 
@@ -35,10 +39,10 @@ At the DM’s discretion, players have access to the [[pallid elf]] and [[sea el
 - [[Pallid Elf]]
 - [[Sea Elf]]
 
-_**Height and Weight.**_ Here’s how to randomly determine the height and weight of a [[pallid elf]] or [[sea elf]], starting with rolling a size modifier:
+**Height and Weight**:: Here’s how to randomly determine the height and weight of a [[pallid elf]] or [[sea elf]], starting with rolling a size modifier:
 
-Size modifier = 2d10
+**Size modifier**:: 2d10
 
-Height = 4 feet + 6 inches + your size modifier in inches
+**Height**:: 4 feet + 6 inches + your size modifier in inches
 
-Weight in pounds = 90 + (1d4 × your size modifier)
+**Weight in pounds**:: 90 + (1d4 × your size modifier)

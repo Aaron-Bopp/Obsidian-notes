@@ -1,4 +1,8 @@
 ## Orcs and Half-Orcs
+**Tag**:: #Race/Orcs
+**Location**:: [[Races]]
+
+**Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Darkvision', 'Aggressive', 'Powerful Build', 'Primal Intuition', 'Languages']
 
 The first half-orcs in [[Wildemount]] were born of a union between [[Humans|human]] warriors and orc traitors in the final days of [[the Calamity]]. Orcs are one of [[Exandria]]’s youngest races, and are said to have been born from [[elves]] seared by the blood of [[Gruumsh]], when [[Corellon]] pierced the orc god’s eye on the field of battle. For long years, orcs were feared as mindless abominations, drawn to slaughter like moths to flame.
 
@@ -28,28 +32,28 @@ Most half-orcs in [[Xhorhas]] have [[Humans|human]] or drow blood. In the cultur
 
 Exandrian orcs are not bound to commit acts of evil by nature. An orc character has the following racial traits.
 
-_**Ability Score Increase.**_ Your Strength score increases by 2, and your Constitution score increases by 1.
+**Ability Score Increase**:: Your Strength score increases by 2, and your Constitution score increases by 1.
 
-_**Age.**_ Orcs reach adulthood at age 16, and live up to 80 years.
+**Age**:: Orcs reach adulthood at age 16, and live up to 80 years.
 
-_**Alignment.**_ Orcs fear the curse of ruin that is said to plague their race, and tend strongly toward either chaos (accepting their fate), or toward law (rejecting it).
+**Alignment**:: Orcs fear the curse of ruin that is said to plague their race, and tend strongly toward either chaos (accepting their fate), or toward law (rejecting it).
 
-_**Size.**_ Orcs stand easily 8 feet tall and corded with powerful muscles, weighing up to 280 pounds. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+**Size**:: Orcs stand easily 8 feet tall and corded with powerful muscles, weighing up to 280 pounds. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
-Size modifier = 2d8
+**Size modifier**:: 2d8
 
-Height = 5 feet + 4 inches + your size modifier in inches
+**Height**:: 5 feet + 4 inches + your size modifier in inches
 
-Weight in pounds = 175 + (2d6 × your size modifier)
+**Weight in pounds**:: 175 + (2d6 × your size modifier)
 
-_**Speed.**_ Your base walking speed is 30 feet.
+**Speed**:: Your base walking speed is 30 feet.
 
-_**Darkvision.**_ You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Darkvision**:: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-_**Aggressive.**_ As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.
+**Aggressive**:: As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.
 
-_**Powerful Build.**_ You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+**Powerful Build**:: You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
-_**Primal Intuition.**_ You have proficiency in two skills of your choice from the following list: [Animal Handling](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#AnimalHandling), [Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight), [Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation), [Medicine](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Medicine), [Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception), and [Survival](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Survival).
+**Primal Intuition**:: You have proficiency in two skills of your choice from the following list: [Animal Handling](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#AnimalHandling), [Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight), [Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation), [Medicine](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Medicine), [Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception), and [Survival](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Survival).
 
-_**Languages.**_ You can speak, read, and write Common and Orc.
+**Languages**:: You can speak, read, and write Common and Orc.

@@ -1,4 +1,8 @@
 ## Goblinkin
+**Tag**:: #Race/Goblinkin
+**Location**:: [[Races]]
+
+**Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Darkvision', 'Fury of the Small', 'Nimble Escape', 'Languages']
 
 The civilized people of the world consider goblins to be nothing more than monsters—and in many ways, they’re right. Goblins and their cousins, the hobgoblins and bugbears, were first created by [[Bane]], as foot soldiers for his unholy army. Eons ago, when the flames of [[the Calamity]] burned across [[Exandria]], the Betrayer Gods gathered in the realm that would eventually become [[Xhorhas]]. There, they found a people known as the [[dranassar]]. An ancestor race to the goblinoids, the [[dranassar]] were tall and beautiful, strong of body and mind, and fleet of foot. Their hair was thick and black, and their skin gleamed like gold. Most of the [[dranassar]] willingly served the divine beings that descended upon their land, but a few fought back against the Betrayer Gods’ rule.
 
@@ -28,29 +32,29 @@ Goblins, hobgoblins, and bugbears are a common sight in [[Xhorhas]], especially 
 
 A goblin character has the following racial traits.
 
-_**Ability Score Increase.**_ Your Dexterity score increases by 2, and your Constitution score increases by 1.
+**Ability Score Increase**:: Your Dexterity score increases by 2, and your Constitution score increases by 1.
 
-_**Age.**_ Goblins reach adulthood at age 8 and live up to 60 years.
+**Age**:: Goblins reach adulthood at age 8 and live up to 60 years.
 
-_**Alignment.**_ Goblins tend to look out for themselves, preferably without drawing unwanted attention from any larger and more powerful people.
+**Alignment**:: Goblins tend to look out for themselves, preferably without drawing unwanted attention from any larger and more powerful people.
 
-_**Size.**_ Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+**Size**:: Goblins are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
-Size modifier = 2d4
+**Size modifier**:: 2d4
 
-Height = 3 feet + 5 inches + your size modifier in inches
+**Height**:: 3 feet + 5 inches + your size modifier in inches
 
-Weight in pounds = 35 + your size modifier
+**Weight in pounds**:: 35 + your size modifier
 
-_**Speed.**_ Your base walking speed is 30 feet.
+**Speed**:: Your base walking speed is 30 feet.
 
-_**Darkvision.**_ You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Darkvision**:: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-_**Fury of the Small.**_ When you damage a creature with an attack or a spell and the creature’s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can’t use it again until you finish a short or long rest.
+**Fury of the Small**:: When you damage a creature with an attack or a spell and the creature’s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can’t use it again until you finish a short or long rest.
 
-_**Nimble Escape.**_ You can take the Disengage or [Hide](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Hide) action as a bonus action on each of your turns.
+**Nimble Escape**:: You can take the Disengage or [Hide](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Hide) action as a bonus action on each of your turns.
 
-_**Languages.**_ You can speak, read, and write Common and Goblin.
+**Languages**:: You can speak, read, and write Common and Goblin.
 
 [[Bugbear]]
 [[Hobgoblin]]

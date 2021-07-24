@@ -2,7 +2,13 @@
 **Tag**:: #Exandria/Races
 **Location**:: [[Character Options]]
 
-
+```dataview
+Table ability-score-increase as ASI, Age, Alignment, Size, Speed, Features
+from #Race 
+where features != null and age != null
+sort file.name
+```
+table 
 In addition to the races of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"), [[Wildemount]] is home to many other races, including the following:
 
 [[Aarakocra]] in [[Exandria]] bird-like humanoids who roost on isolated mountaintops

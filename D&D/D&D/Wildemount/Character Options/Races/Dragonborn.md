@@ -1,4 +1,8 @@
 ## Dragonborn
+**Tag**:: #Race/Dragonborn
+**Location**:: [[Races]]
+
+**Features**:: ['Ability Score Increase', 'Darkvision', 'Ability Score Increase', 'Darkvision', 'Vengeful Assault']
 
 [[Wildemount]] was the cradle from which all dragonborn civilization grew. The city-state of [[Draconia]] rose in the [[Dreemoth Ravine]] along the southern edge of the continent, when foreign dragonkin fleeing the gods’ wrath during [[the Calamity]] forged an alliance with native dragonborn already dwelling there. The colonizing dragonborn, who called themselves draconbloods, worked with the native dragonborn, called ravenites, to build a society that could withstand the wandering monsters of [[Xhorhas]]. However, [[Draconia]] swiftly descended into corruption and bigotry, and the draconblood ruling class betrayed and enslaved their ravenite kin.
 
@@ -14,19 +18,19 @@ Draconbloods possess long tails and a knack for social manipulation. They rememb
 
 A draconblood uses the dragonborn traits in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"), with the following traits replacing the Ability Score Increase and Damage Resistance traits.
 
-_**Ability Score Increase.**_ Your Intelligence score increases by 2, and your Charisma score increases by 1.
+**Ability Score Increase**:: Your Intelligence score increases by 2, and your Charisma score increases by 1.
 
-_**Darkvision.**_ You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Darkvision**:: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 _**Forceful Presence**_. You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma ([Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation) or [Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check, you can do so with advantage. Once you use this trait, you can’t do so again until you finish a short or long rest.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-04.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-04.png)
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-04.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-04.png)
+> 
+> Draconblood Dragonborn
 
-Draconblood Dragonborn
-
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-05.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-05.png)
-
-Ravenite Dragonborn
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-05.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-05.png)
+> 
+> Ravenite Dragonborn
 
 #### Dragonborn Variant: Ravenite
 
@@ -34,11 +38,11 @@ Ravenites have no tails and a hearty physique. They remember the days when they 
 
 A ravenite uses the dragonborn traits in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"), with the following traits replacing the Ability Score Increase and Damage Resistance traits.
 
-_**Ability Score Increase.**_ Your Strength score increases by 2, and your Constitution score increases by 1.
+**Ability Score Increase**:: Your Strength score increases by 2, and your Constitution score increases by 1.
 
-_**Darkvision.**_ You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Darkvision**:: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-_**Vengeful Assault.**_ When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack with the weapon against that creature. Once you use this trait, you can’t do so again until you finish a short or long rest.
+**Vengeful Assault**:: When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack with the weapon against that creature. Once you use this trait, you can’t do so again until you finish a short or long rest.
 
 ### Dragonborn in the [[Dwendalian Empire]]
 

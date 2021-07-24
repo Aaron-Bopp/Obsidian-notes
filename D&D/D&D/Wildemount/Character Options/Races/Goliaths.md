@@ -1,4 +1,8 @@
 ## Goliaths
+**Tag**:: #Race/Goliaths
+**Location**:: [[Races]]
+
+**Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Natural Athlete', 'Stone’s Endurance', 'Powerful Build', 'Mountain Born', 'Languages']
 
 The goliaths of [[Exandria]] are a mighty people with stone giant blood running in their veins. Most stand well over seven feet tall and are blessed with a naturally powerful physique. Like their stone giant progenitors, goliaths are a rare sight in [[Wildemount]]. Most live on isolated peaks in the [[Cyrios Mountains]], the [[Penumbra Range]], and on the isolated land of [[Eiselcross]]. Those few goliaths who are exiled from their herds and wander into more densely peopled lands are uniformly greeted with fear and confusion.
 
@@ -20,32 +24,32 @@ Every goliath has three names: a birth name assigned by the newborn’s mother a
 
 A goliath character has the following racial traits.
 
-_**Ability Score Increase.**_ Your Strength score increases by 2, and your Constitution score increases by 1.
+**Ability Score Increase**:: Your Strength score increases by 2, and your Constitution score increases by 1.
 
-_**Age.**_ Goliaths have lifespans comparable to [[humans]]. They enter adulthood in their late teens and usually live less than a century.
+**Age**:: Goliaths have lifespans comparable to [[humans]]. They enter adulthood in their late teens and usually live less than a century.
 
-_**Alignment.**_ Goliath society, with its clear roles and tasks, has a strong lawful bent. The goliath sense of fairness, balanced with an emphasis on self-sufficiency and personal accountability, pushes them toward neutrality.
+**Alignment**:: Goliath society, with its clear roles and tasks, has a strong lawful bent. The goliath sense of fairness, balanced with an emphasis on self-sufficiency and personal accountability, pushes them toward neutrality.
 
-_**Size.**_ Goliaths stand between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+**Size**:: Goliaths stand between 7 and 8 feet tall and weigh between 280 and 340 pounds. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
-Size modifier = 2d10
+**Size modifier**:: 2d10
 
-Height = 6 feet + 2 inches + your size modifier in inches
+**Height**:: 6 feet + 2 inches + your size modifier in inches
 
-Weight in pounds = 200 + (2d6 × your size modifier)
+**Weight in pounds**:: 200 + (2d6 × your size modifier)
 
-_**Speed.**_ Your base walking speed is 30 feet.
+**Speed**:: Your base walking speed is 30 feet.
 
-_**Natural Athlete.**_ You have proficiency in the [Athletics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Athletics) skill.
+**Natural Athlete**:: You have proficiency in the [Athletics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Athletics) skill.
 
-_**Stone’s Endurance.**_ You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest.
+**Stone’s Endurance**:: You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. After you use this trait, you can’t use it again until you finish a short or long rest.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-10.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-10.png)
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-10.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-10.png)
+> 
+> Goliaths
 
-Goliaths
+**Powerful Build**:: You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
-_**Powerful Build.**_ You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+**Mountain Born**:: You have resistance to cold damage. You’re also acclimated to high altitude, including elevations above 20,000 feet.
 
-_**Mountain Born.**_ You have resistance to cold damage. You’re also acclimated to high altitude, including elevations above 20,000 feet.
-
-_**Languages.**_ You can speak, read, and write Common and Giant.
+**Languages**:: You can speak, read, and write Common and Giant.

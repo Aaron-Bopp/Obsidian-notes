@@ -1,4 +1,8 @@
 ## Tabaxi
+**Tag**:: #Race/Tabaxi
+**Location**:: [[Races]]
+
+**Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Darkvision', 'Feline Agility', 'Cat’s Claws', 'Cat’s Talent', 'Languages']
 
 The catlike tabaxi are an agile, witty, and playful folk who have long lived among the indigenous [[Ki’Nau]] people of the [[Menagerie Coast]] and in the cold northern forests of the [[Greying Wildlands]]. Said to have been born from the dreams of [[Melora]] within the jungles of [[Wildemount]]’s more temperate regions, they are natural hunters with keen senses and predatory instincts. The tabaxi of [[Exandria]] are also well known for their social guile. Many are taken with a love of wordplay and debate, often engaging travelers in philosophical conversations meant to challenge the intellect and to subtly gauge the disposition of strangers.
 
@@ -26,32 +30,32 @@ The following list of sample tabaxi names includes nicknames in parentheses.
 
 A tabaxi character has the following racial traits.
 
-_**Ability Score Increase.**_ Your Dexterity score increases by 2, and your Charisma score increases by 1.
+**Ability Score Increase**:: Your Dexterity score increases by 2, and your Charisma score increases by 1.
 
-_**Age.**_ Tabaxi have lifespans equivalent to [[humans]].
+**Age**:: Tabaxi have lifespans equivalent to [[humans]].
 
-_**Alignment.**_ Tabaxi tend toward chaotic alignments, as they let impulse and fancy guide their decisions. They are rarely evil, with most of them driven by curiosity rather than greed and other dark impulses.
+**Alignment**:: Tabaxi tend toward chaotic alignments, as they let impulse and fancy guide their decisions. They are rarely evil, with most of them driven by curiosity rather than greed and other dark impulses.
 
-_**Size.**_ Tabaxi are taller on average than [[humans]] and relatively slender. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+**Size**:: Tabaxi are taller on average than [[humans]] and relatively slender. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
-Size modifier = 2d10
+**Size modifier**:: 2d10
 
-Height = 4 feet + 10 inches + your size modifier in inches
+**Height**:: 4 feet + 10 inches + your size modifier in inches
 
-Weight in pounds = 90 + (2d4 × your size modifier)
+**Weight in pounds**:: 90 + (2d4 × your size modifier)
 
-_**Speed.**_ Your base walking speed is 30 feet.
+**Speed**:: Your base walking speed is 30 feet.
 
-_**Darkvision.**_ You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Darkvision**:: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-12.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-12.png)
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-12.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-12.png)
+> 
+> Tabaxi
 
-Tabaxi
+**Feline Agility**:: Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns.
 
-_**Feline Agility.**_ Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can’t use it again until you move 0 feet on one of your turns.
+**Cat’s Claws**:: Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
-_**Cat’s Claws.**_ Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+**Cat’s Talent**:: You have proficiency in the [Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception) and [Stealth](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Stealth) skills.
 
-_**Cat’s Talent.**_ You have proficiency in the [Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception) and [Stealth](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Stealth) skills.
-
-_**Languages.**_ You can speak, read, and write Common and one other language of your choice.
+**Languages**:: You can speak, read, and write Common and one other language of your choice.

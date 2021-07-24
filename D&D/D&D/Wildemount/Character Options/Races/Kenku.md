@@ -1,4 +1,8 @@
 ## Kenku
+**Tag**:: #Race/Kenku
+**Location**:: [[Races]]
+
+**Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Expert Forgery', 'Kenku Training', 'Mimicry', 'Languages']
 
 In ancient times, kenku were black-winged angels—ambassadors who served [[the Raven Queen]] as her emissaries of death. Their voices were once heard across entire planes, calling the dead to [[the Raven Queen]]’s embrace. The kenku likewise served as her loyal warriors in [[the Calamity]], and even saved her from a near-fatal encounter with the [[Betrayer God]] known as [[Tharizdun]].
 
@@ -22,30 +26,30 @@ Some kenku are law-abiding and pursue legitimate trades. These kenku adopt noise
 
 A kenku character has the following racial traits.
 
-_**Ability Score Increase.**_ Your Dexterity score increases by 2, and your Wisdom score increases by 1.
+**Ability Score Increase**:: Your Dexterity score increases by 2, and your Wisdom score increases by 1.
 
-_**Age.**_ Kenku have shorter lifespans than [[humans]]. They reach maturity at about 12 years old and can live to 60.
+**Age**:: Kenku have shorter lifespans than [[humans]]. They reach maturity at about 12 years old and can live to 60.
 
-_**Alignment.**_ Kenku are chaotic creatures, rarely making enduring commitments, and they care mostly for preserving their own hides. They are generally chaotic neutral in outlook.
+**Alignment**:: Kenku are chaotic creatures, rarely making enduring commitments, and they care mostly for preserving their own hides. They are generally chaotic neutral in outlook.
 
-_**Size.**_ Kenku are around 5 feet tall and weigh between 90 and 120 pounds. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+**Size**:: Kenku are around 5 feet tall and weigh between 90 and 120 pounds. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
-Size modifier = 2d8
+**Size modifier**:: 2d8
 
-Height = 4 feet + 4 inches + your size modifier in inches
+**Height**:: 4 feet + 4 inches + your size modifier in inches
 
-Weight in pounds = 50 + (1d6 × your size modifier)
+**Weight in pounds**:: 50 + (1d6 × your size modifier)
 
-_**Speed.**_ Your base walking speed is 30 feet.
+**Speed**:: Your base walking speed is 30 feet.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-11.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-11.png)
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-11.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-11.png)
+> 
+> Kenku
 
-Kenku
+**Expert Forgery**:: You can duplicate other creatures’ handwriting and craftwork. You have advantage on all checks made to produce forgeries or duplicates of existing objects.
 
-_**Expert Forgery.**_ You can duplicate other creatures’ handwriting and craftwork. You have advantage on all checks made to produce forgeries or duplicates of existing objects.
+**Kenku Training**:: You are proficient in your choice of two of the following skills: [Acrobatics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Acrobatics), [Deception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Deception), [Stealth](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Stealth), and [Sleight of Hand](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#SleightofHand).
 
-_**Kenku Training.**_ You are proficient in your choice of two of the following skills: [Acrobatics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Acrobatics), [Deception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Deception), [Stealth](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Stealth), and [Sleight of Hand](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#SleightofHand).
+**Mimicry**:: You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check contested by your Charisma ([Deception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Deception)) check.
 
-_**Mimicry.**_ You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) check contested by your Charisma ([Deception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Deception)) check.
-
-_**Languages.**_ You can read and write Auran and Common, but you can speak only by using your Mimicry trait.
+**Languages**:: You can read and write Auran and Common, but you can speak only by using your Mimicry trait.

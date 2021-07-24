@@ -1,4 +1,6 @@
 ## Half-[[Elves]]
+**Tag**:: #Race/HalfElves
+**Location**:: [[Races]]
 
 Half-[[elves]] occupy all lands where [[humans]] and [[elves]] gather. In ancient times, the appearance of half-[[elves]] was a cause for alarm in elven society, for prejudiced [[elves]] saw the union between [[elves]] and [[humans]] as a symptom of impurity in their blood and culture. Such attitudes have cooled across the continent in recent centuries, and most elven societies now feature a diverse array of people—notably the pluralistic union of [[dwarves]] and [[elves]] in the city-state of [[Uthodurn]] and the diverse peoples of the [[Kryn Dynasty]].
 

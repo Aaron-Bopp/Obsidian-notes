@@ -1,4 +1,6 @@
 ## Gnomes
+**Tag**:: #Race/Gnomes
+**Location**:: [[Races]]
 
 Gnomes are not native to [[Wildemount]], and are relatively uncommon even in an age of swift boats from [[Marquet]] and flying airships from Tal’Dorei. They hail from the distant continent of [[Issylra]] and were largely content to remain there after [[the Calamity]]. In lands inhabited by people taller and stronger than them, gnomes often resort to living exclusively among other gnomes for their own security. This attitude has kept the gnomes of [[Wildemount]] safe for generations, but it has also instilled many gnomish societies with a pernicious strain of xenophobia.
 

@@ -1,4 +1,8 @@
 ## Halflings
+**Tag**:: #Race/Halflings
+**Location**:: [[Races]]
+
+**Features**:: ['Ability Score Increase', 'Child of the Wood', 'Timberwalk']
 
 Nearly every race in [[Exandria]] has an origin myth or two. The stories vary from realm to realm, but it’s clear that [[Corellon]] the [[Corellon|Arch Heart]] wove the [[elves]] from grass, [[Moradin]] the [[Moradin|All-Hammer]] carved the [[dwarves]] from earth, and so on. Halflings across [[Wildemount]] have no such stories, and no faiths tell of their god creating the small folk. Some speculate that [[Avandra]] the [[Avandra|Change Bringer]] placed halflings in the world, but despite some of [[Ioun]]’s most devout priests petitioning their god to reveal the truth of the halflings’ creation, the [[Ioun|Knowing Mentor]] has remained infuriatingly coy on the topic.
 
@@ -28,12 +32,12 @@ At the DM’s discretion, players have access to the lotusden halfling subrace d
 
 Long tied to the natural heart of the [[Lotusden Greenwood]], these halflings have adapted to live synergistically with the chaotic laws of the wilds.
 
-_**Ability Score Increase.**_ Your Wisdom score increases by 1.
+**Ability Score Increase**:: Your Wisdom score increases by 1.
 
-_**Child of the Wood.**_ You know the [druidcraft](https://www.dndbeyond.com/spells/druidcraft) cantrip. When you reach 3rd level, you can cast the [entangle](https://www.dndbeyond.com/spells/entangle) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [spike growth](https://www.dndbeyond.com/spells/spike-growth) spell once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn’t require material components. Wisdom is your spellcasting ability for these spells.
+**Child of the Wood**:: You know the [druidcraft](https://www.dndbeyond.com/spells/druidcraft) cantrip. When you reach 3rd level, you can cast the [entangle](https://www.dndbeyond.com/spells/entangle) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [spike growth](https://www.dndbeyond.com/spells/spike-growth) spell once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn’t require material components. Wisdom is your spellcasting ability for these spells.
 
-_**Timberwalk.**_ Ability checks made to track you have disadvantage, and you can move across difficult terrain made of nonmagical plants and undergrowth without expending extra movement.
+**Timberwalk**:: Ability checks made to track you have disadvantage, and you can move across difficult terrain made of nonmagical plants and undergrowth without expending extra movement.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-03.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-03.png)
-
-Lotusden Halfling
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-03.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-03.png)
+> 
+> Lotusden Halfling

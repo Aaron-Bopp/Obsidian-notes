@@ -1,4 +1,8 @@
 ## Aarakocra
+**Tag**:: #Race/Aarakocra
+**Location**:: [[Races]]
+
+**Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Flight', 'Talons', 'Languages']
 
 Many people across [[Wildemount]] consider the winged aarakocra to be a myth, so infrequently do they descend from their lofty aeries to deal with wingless folk. Where they are known, the aarakocra rarely engage with the land-bound societies of [[Wildemount]], though some take great pleasure in traveling on the open ocean with [[Clovis Concord|Concord]] sailors and [[The Revelry|Revelry]] pirates. Some legends say that [[Melora]] the Wild Mother created the aarakocra as storm herders who drive the clouds across the sky, and some aarakocra tribes play a sport called h’aara-shie, or “cloud chasing,” that reflects this ancient tale.
 
@@ -26,28 +30,28 @@ Being able to fly at high speed at 1st level is exceptionally effective in certa
 
 An aarakocra character has the following traits.
 
-_**Ability Score Increase.**_ Your Dexterity score increases by 2, and your Wisdom score increases by 1.
+**Ability Score Increase**:: Your Dexterity score increases by 2, and your Wisdom score increases by 1.
 
-_**Age.**_ Aarakocra reach maturity by age 3. They don’t usually live longer than 30 years.
+**Age**:: Aarakocra reach maturity by age 3. They don’t usually live longer than 30 years.
 
-_**Alignment.**_ Most aarakocra are good and rarely choose sides when it comes to law and chaos. Tribal leaders and warriors might be lawful, while explorers and adventurers might tend toward chaotic.
+**Alignment**:: Most aarakocra are good and rarely choose sides when it comes to law and chaos. Tribal leaders and warriors might be lawful, while explorers and adventurers might tend toward chaotic.
 
-_**Size.**_ Aarakocra average 5 feet tall and have slender, lightweight bodies. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+**Size**:: Aarakocra average 5 feet tall and have slender, lightweight bodies. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
-Size modifier = 2d8
+**Size modifier**:: 2d8
 
-Height = 4 feet + 3 inches + your size modifier in inches
+**Height**:: 4 feet + 3 inches + your size modifier in inches
 
-Weight in pounds = 70 + (1d4 × your size modifier)
+**Weight in pounds**:: 70 + (1d4 × your size modifier)
 
-_**Speed.**_ Your base walking speed is 25 feet.
+**Speed**:: Your base walking speed is 25 feet.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-06.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-06.png)
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-06.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-06.png)
+> 
+> Aarakocra
 
-Aarakocra
+**Flight**:: You have a flying speed of 50 feet. To use this speed, you can’t be wearing medium or heavy armor.
 
-_**Flight.**_ You have a flying speed of 50 feet. To use this speed, you can’t be wearing medium or heavy armor.
+**Talons**:: Your talons are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
-_**Talons.**_ Your talons are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-
-_**Languages.**_ You can speak, read, and write Aarakocra, Auran, and Common.
+**Languages**:: You can speak, read, and write Aarakocra, Auran, and Common.

@@ -1,4 +1,8 @@
 ## Aasimar
+**Tag**:: #Race/Aasimar
+**Location**:: [[Races]]
+
+**Features**:: ['Ability Score Increase', 'Age', 'Alignment', 'Size', 'Size modifier', 'Height', 'Weight in pounds', 'Speed', 'Darkvision', 'Celestial Resistance', 'Healing Hands', 'Light Bearer', 'Languages']
 
 The light of the gods still shines upon [[Exandria]], even from behind the [[Divine Gate]]. Aasimar are the purest expression of that divine light as it burns within every mortal soul, for the souls of those blessed with an angelic ancestor blaze brighter than any other. Even rarer than the [[tieflings]] with whom they share a commonality of ancestry, aasimar are mortal, and yet are understood to be destined for a grander cosmic purpose than others around them. In every culture across the continent of [[Wildemount]], the birth of an aasimar is seen as a blessing and a portent.
 
@@ -53,35 +57,35 @@ Most aasimar are born from [[Humans|human]] parents. They use the same naming co
 
 An aasimar character has the following racial traits.
 
-_**Ability Score Increase.**_ Your Charisma score increases by 2.
+**Ability Score Increase**:: Your Charisma score increases by 2.
 
-_**Age.**_ Aasimar mature at the same rate as [[humans]], but they can live up to 160 years.
+**Age**:: Aasimar mature at the same rate as [[humans]], but they can live up to 160 years.
 
-_**Alignment.**_ Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil.
+**Alignment**:: Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil.
 
-_**Size.**_ Aasimar have the same range of height and weight as [[humans]]. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
+**Size**:: Aasimar have the same range of height and weight as [[humans]]. Your size is Medium. Here’s how to determine your height and weight randomly, starting with rolling a size modifier:
 
-Size modifier = 2d10
+**Size modifier**:: 2d10
 
-Height = 4 feet + 8 inches + your size modifier in inches
+**Height**:: 4 feet + 8 inches + your size modifier in inches
 
-Weight in pounds = 110 + (2d4 × your size modifier)
+**Weight in pounds**:: 110 + (2d4 × your size modifier)
 
-_**Speed.**_ Your base walking speed is 30 feet.
+**Speed**:: Your base walking speed is 30 feet.
 
-_**Darkvision.**_ Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Darkvision**:: Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-07.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-07.png)
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-07.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/04-07.png)
+> 
+> Aasimar
 
-Aasimar
+**Celestial Resistance**:: You have resistance to necrotic damage and radiant damage.
 
-_**Celestial Resistance.**_ You have resistance to necrotic damage and radiant damage.
+**Healing Hands**:: As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can’t use it again until you finish a long rest.
 
-_**Healing Hands.**_ As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can’t use it again until you finish a long rest.
+**Light Bearer**:: You know the [light](https://www.dndbeyond.com/spells/light) cantrip. Charisma is your spellcasting ability for it.
 
-_**Light Bearer.**_ You know the [light](https://www.dndbeyond.com/spells/light) cantrip. Charisma is your spellcasting ability for it.
-
-_**Languages.**_ You can speak, read, and write Common and Celestial.
+**Languages**:: You can speak, read, and write Common and Celestial.
 
 ### Aasimar Subraces
 
