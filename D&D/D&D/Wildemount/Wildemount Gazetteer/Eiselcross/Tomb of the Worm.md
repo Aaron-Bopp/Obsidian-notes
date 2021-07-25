@@ -4,7 +4,7 @@
 
 **Population**:: 345 (83% [[humans]], 17% [[halflings]])
 
-**Government**:: [[Quajath]] commands the settlement's inhabitants telepathically, though a cult fanatic named [[Galgonos]] serves as the Tomb of the Worm's leader for day-to-day operations.
+**Government**:: [[Quajath]] commands the settlement's inhabitants telepathically, though a [[Cults in Wildemount|cult]] fanatic named [[Galgonos]] serves as the Tomb of the Worm's leader for day-to-day operations.
 
 **Defense**:: All adult inhabitants in the Tomb of the Worm are capable combatants.
 
