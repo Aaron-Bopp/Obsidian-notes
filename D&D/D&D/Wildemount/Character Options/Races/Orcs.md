@@ -26,7 +26,7 @@ Only the [[Clovis Concord|Concordian]] city of [[Othe]] has a significant half-o
 
 The orcs of [[Xhorhas]] are a predominantly nomadic people, living in mixed clans of orcs, [[humans]], and bugbears. They wander the wastes, taming the indigenous beasts and trading with [[Kryn Dynasty|Kryn]] settlements. The relationship between the orcs and the [[Kryn Dynasty|Kryn]] is relatively peaceful, though many nomadic orcs are angered when [[Kryn Dynasty|Kryn]] souls are reborn in orc bodies. These orcs nonetheless readily accept [[Kryn Dynasty|Kryn]] into their roving clans, seeing it as a point of pride that a city dweller has been drawn to a more exciting life in the chaos of the wastes.
 
-Most half-orcs in [[Xhorhas]] have [[Humans|human]] or [[Dark Elves|drow]] blood. In the culture of the Xhorhasian nomads, the union of orcs and [[goblinkin]] is strictly taboo, for the clans’ elders fear the uncontrolled madness of a soul afflicted by both [[Gruumsh]]’s curse of ruin and [[Bane]]’s curse of strife.
+Most half-orcs in [[Xhorhas]] have [[Humans|human]] or [[Dark Elves|drow]] blood. In the culture of the [[Xhorhas|Xhorhasian]] nomads, the union of orcs and [[goblinkin]] is strictly taboo, for the clans’ elders fear the uncontrolled madness of a soul afflicted by both [[Gruumsh]]’s curse of ruin and [[Bane]]’s curse of strife.
 
 ### Orc Traits
 

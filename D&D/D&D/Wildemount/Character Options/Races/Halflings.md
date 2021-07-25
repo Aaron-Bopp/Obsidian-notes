@@ -22,7 +22,7 @@ Halflings are common enough in the [[Clovis Concord]] that just about every vess
 
 ### Halflings in [[Xhorhas]]
 
-Few Xhorhasians have ever seen a halfling except for the occasional halfling soldier in Dwendalian armor. Because of this, most [[Kryn Dynasty|Kryn]] citizens view halflings as icons of the [[Dwendalian Empire|empire]] and are quick to distrust them. Only the Lotusden halflings, a reclusive and insular clan native to the [[Lotusden Greenwood]], call [[Xhorhas]] home.
+Few Xhorhasians have ever seen a halfling except for the occasional halfling soldier in [[Dwendalian Empire|Dwendalian]] armor. Because of this, most [[Kryn Dynasty|Kryn]] citizens view halflings as icons of the [[Dwendalian Empire|empire]] and are quick to distrust them. Only the Lotusden halflings, a reclusive and insular clan native to the [[Lotusden Greenwood]], call [[Xhorhas]] home.
 
 ### Halfling Subraces
 

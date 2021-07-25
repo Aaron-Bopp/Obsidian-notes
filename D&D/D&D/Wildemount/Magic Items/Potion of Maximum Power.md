@@ -1,5 +1,5 @@
 ## Potion of Maximum Power
-**Tag**:: #Magic/Item
+**Tag**:: #Magic/Item/Wondrous
 **Location**:: [[Magic Items]]
 
 **Features**:: ['Item', 'Rarity']

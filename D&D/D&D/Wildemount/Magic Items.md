@@ -80,7 +80,7 @@ This section presents a number of Vestiges of [[Divergence]] that might be found
 
 ## [[Arms of the Betrayers]]
 
-The [[Arms of the Betrayers]] are sentient weapons forged from the souls of fiends by the Betrayer Gods for their humanoid champions. See [[Pantheon of Exandria]]#Lesser Idols in chapter 1 for more details.) These artifacts are more than just magic items. They are powerful sentient beings, filled with fury and eager to be wielded—and to spill blood.
+The [[Arms of the Betrayers]] are sentient weapons forged from the souls of fiends by the Betrayer Gods for their humanoid champions. These artifacts are more than just magic items. They are powerful sentient beings, filled with fury and eager to be wielded—and to spill blood.
 
 - [[Betrayer Artifact Properties]]
 - [[Destroying These Artifacts]]

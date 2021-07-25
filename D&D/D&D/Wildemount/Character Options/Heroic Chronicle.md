@@ -138,7 +138,7 @@ You can determine your character’s race by consulting the section for your hom
 
 The size of your home settlement plays a part in the size of your family. Villages in [[Wildemount]] are predominantly rural, and families need children to tend their farms and perform household duties. By contrast, land and commodities are expensive in the cities, making it difficult for many people to afford a large family.
 
-Families with at least three children often encourage one child, typically the eldest, to continue the family trade. The other children are encouraged to travel so as to learn a new trade, become a scholar, become apprenticed to a master guild artisan, or similar activities. Imperial families who can afford to do so might even send one or more children to [[Rexxentrum]], where they can learn magic at the Soltryce Academy.
+Families with at least three children often encourage one child, typically the eldest, to continue the family trade. The other children are encouraged to travel so as to learn a new trade, become a scholar, become apprenticed to a master guild artisan, or similar activities. Imperial families who can afford to do so might even send one or more children to [[Rexxentrum]], where they can learn magic at the [[Soltryce Academy]].
 
 Roll twice on the appropriate Family Size table—once to determine how many living parents you have, and once to determine your living siblings. The state of your family might change over the course of your backstory, just as it might change over the course of the campaign.
 
@@ -307,7 +307,7 @@ The luxurious cuisine of the [[Kryn Dynasty|Kryn]] court makes heavy use of mush
 | 3   | Raw venison still dripping with blood                                            |
 | 4   | [[Elves|Elf]]-mash—a creamy dish made from overripe cloudberries                           |
 | 5   | Dwarven rootbake—a hearty casserole of roots and tubers wrapped in seaweed       |
-| 6   | Jam porridge—made from Xhorhasian rice and topped with salmonberry jam           |
+| 6   | Jam porridge—made from [[Xhorhas|Xhorhasian]] rice and topped with salmonberry jam           |
 | 7   | Blazing tea—a beverage blended from fermented fireroot and mouth-scalding spices |
 | 8   | Sbiten—a drink made from honey and spices, best enjoyed hot on snowy days        |
 

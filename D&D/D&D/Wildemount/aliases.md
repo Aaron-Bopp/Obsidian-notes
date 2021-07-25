@@ -285,6 +285,7 @@
 
 [[Dwendalian Empire]]:
 - empire
+- dwendalian
 
 [[Eastern Wynandir]]:
 
@@ -968,6 +969,7 @@
 [[Xarzith Kitril]]:
 
 [[Xhorhas]]:
+- xhorhasian
 
 [[Yrrosa]]:
 

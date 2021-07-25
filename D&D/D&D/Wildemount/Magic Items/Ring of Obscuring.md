@@ -1,5 +1,5 @@
 ## Ring of Obscuring
-**Tag**:: #Magic/Item
+**Tag**:: #Magic/Item/Wondrous
 **Location**:: [[Magic Items]]
 
 (https://www.dndbeyond.com/magic-items/ring-of-obscuring)

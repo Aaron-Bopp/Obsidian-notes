@@ -16,7 +16,7 @@ If you’re a player, this book contains new options that will help your charact
 
 The [[Dwendalian Empire]] is a young, ambitious state borne from decades of strife in [[Western Wynandir]] — the heartland of [[Wildemount]]. Its austere lands are dotted with tiny villages, ruins of ancient civilizations, and pockets of uncharted wilderness.
 
-Campaigns set in the [[Dwendalian Empire]] are bound to involve elements of war and political intrigue. The [[Dwendalian Empire|empire]] is at war with the [[Kryn Dynasty]], a nation of surface-dwelling [[Dark Elves|drow]] which occupies [[Eastern Wynandir]] and the wastes of [[Xhorhas]]. This war allows various Dwendalian factions, such as the power-hungry [[Cerberus Assembly]], to vie for political dominance.
+Campaigns set in the [[Dwendalian Empire]] are bound to involve elements of war and political intrigue. The [[Dwendalian Empire|empire]] is at war with the [[Kryn Dynasty]], a nation of surface-dwelling [[Dark Elves|drow]] which occupies [[Eastern Wynandir]] and the wastes of [[Xhorhas]]. This war allows various [[Dwendalian Empire|Dwendalian]] factions, such as the power-hungry [[Cerberus Assembly]], to vie for political dominance.
 
 ### [[Clovis Concord]]
 
@@ -63,7 +63,7 @@ If you want the war to be completely absent, simply dial the timeline back by a 
 
 Not all campaigns set in [[Wildemount]] need to deal with the war directly. That is, the characters aren’t expected to conscript with one army or another, or even serve as mercenaries. The effects of war are far-reaching and multifarious, and loose-cannon adventurers are the perfect people to get involved in the countless conflicts sparked by war. These schemes could include:
 
-**Crime.** In times of war, criminals and smugglers take advantage of lax law enforcement. Petty criminals and crime syndicates like [[The Myriad]] will need help moving illicit goods in and out of Dwendalian and Xhorhasian cities, and [[The Revelry|Revelry]] pirates will need loyal crew members to raid unprotected towns.
+**Crime.** In times of war, criminals and smugglers take advantage of lax law enforcement. Petty criminals and crime syndicates like [[The Myriad]] will need help moving illicit goods in and out of [[Dwendalian Empire|Dwendalian]] and [[Xhorhas|Xhorhasian]] cities, and [[The Revelry|Revelry]] pirates will need loyal crew members to raid unprotected towns.
 
 **Disaster.** When a town is destroyed by advancing armies, or by a landslide caused by artillery, the common folk need help escaping. This could involve escorting noncombatants through no-man’s-land to a nearby town, or carving out a new settlement from the wilds.
 

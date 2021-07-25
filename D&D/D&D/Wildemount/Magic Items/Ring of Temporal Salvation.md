@@ -1,5 +1,5 @@
 ## Ring of Temporal Salvation
-**Tag**:: #Magic/Item
+**Tag**:: #Magic/Item/Wondrous
 **Location**:: [[Magic Items]]
 (https://www.dndbeyond.com/magic-items/ring-of-temporal-salvation)
 

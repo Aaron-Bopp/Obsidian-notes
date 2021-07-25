@@ -17,7 +17,7 @@ The conflicting goals of the Scars’ leaders have placed their nascent settleme
 
 Some amid the Kitrilians are outraged over news that a massive number of [[Dragonborn|ravenite]] and [[Dragonborn|draconblood]] refugees have been relocated to a shantytown called [[Talonstadt]]. Not only is the treatment of their kin unfair and inhumane, but this makeshift settlement practically straddles the [[Dwendalian Empire]]’s eastern border, and they fear that [[Talonstadt]] will soon become the first casualty of a [[Kryn Dynasty|Kryn]] invasion.
 
-Meanwhile, the monstrosities of the Xhorhasian wastes can sense the power vacuum left in the wake of [[Draconia]]’s fall. [[Xarzith Kitril]] has no formal military, just a loose militia of hunters and trappers. This leaderless force is stretched to its limits, and more hunters are lost every day to opportunistic monsters. Outside aid is urgently required, but the squabbling councilors of [[Xarzith Kitril]] can’t agree on whose aid they should request.
+Meanwhile, the monstrosities of the [[Xhorhas|Xhorhasian]] wastes can sense the power vacuum left in the wake of [[Draconia]]’s fall. [[Xarzith Kitril]] has no formal military, just a loose militia of hunters and trappers. This leaderless force is stretched to its limits, and more hunters are lost every day to opportunistic monsters. Outside aid is urgently required, but the squabbling councilors of [[Xarzith Kitril]] can’t agree on whose aid they should request.
 
 ## Relationships
 

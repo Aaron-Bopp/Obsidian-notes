@@ -1,5 +1,5 @@
 ## Grimoire Infinitus
-**Tag**:: #Magic/Item
+**Tag**:: #Magic/Item/Wondrous 
 **Location**:: [[Magic Items]]
 (https://www.dndbeyond.com/magic-items/grimoire-infinitus)
 

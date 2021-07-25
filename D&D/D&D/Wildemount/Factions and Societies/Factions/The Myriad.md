@@ -3,7 +3,7 @@
 **Location**:: [[Factions and Societies]]
 e# The Myriad
 
-Any civilized society will turn the people it has failed into criminals, and the societies of [[Wildemount]] are no exception. The continent’s largest criminal organization took shape about eighty years ago, when a shipping company in the Dwendalian city of [[Yrrosa]] turned to smuggling contraband to make ends meet. This tightknit group of clever smugglers soon began to bargain with their competitors, employing blackmail and offering membership to their organization as an alternative to elimination.
+Any civilized society will turn the people it has failed into criminals, and the societies of [[Wildemount]] are no exception. The continent’s largest criminal organization took shape about eighty years ago, when a shipping company in the [[Dwendalian Empire|Dwendalian]] city of [[Yrrosa]] turned to smuggling contraband to make ends meet. This tightknit group of clever smugglers soon began to bargain with their competitors, employing blackmail and offering membership to their organization as an alternative to elimination.
 
 The syndicate grew with alarming speed, infiltrating the criminal underbelly of every major city in [[Western Wynandir]]. Masquerading as purveyors of antiquities and foreign textiles, the Myriad focuses on providing their clients with exotic goods, such as illicit substances and magical beasts, or supplying hired muscle to intimidate their clients’ rivals. The worst of the Myriad even deal in [[Humans|human]] merchandise.
 
@@ -49,5 +49,5 @@ The dangerous aspirations of the Myriad are driven by a curiously scattered coll
 ## 
 > [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-05.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-05.png)
 > 
-> A Dwendalian farmer, a trader of the [[Kryn Dynasty]], and a fisherman of the [[Clovis Concord]]
+> A [[Dwendalian Empire|Dwendalian]] farmer, a trader of the [[Kryn Dynasty]], and a fisherman of the [[Clovis Concord]]
 ##

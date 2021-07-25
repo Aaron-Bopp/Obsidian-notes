@@ -1,5 +1,5 @@
 ## Staff of [[Dunamancy]]
-**Tag**:: #Magic/Item
+**Tag**:: #Magic/Item/Wondrous
 **Location**:: [[Magic Items]]
 
 **Features**:: ['New Possibility']

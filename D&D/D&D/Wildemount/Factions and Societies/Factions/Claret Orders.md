@@ -6,7 +6,7 @@ Centuries ago, the high cleric of the [[Julous Dominion]] made secret pacts with
 
 Using their forbidden skills, the Claret Orders managed to seal away the source of this dark deal, free the high cleric from his torturous form, and clear the countryside of the evil that pervaded it. Unfortunately, before the Claret Orders could be celebrated as saviors, the armies of the [[Dwendalian Empire|empire]] swept into the freshly purged [[Marrow Valley]] and crushed the [[Julous Dominion]].
 
-The newly installed Dwendalian lords blamed the Claret Orders for inviting fiends into the [[Marrow Valley]]. While some knew the truth and tried to clear their name, it quickly became clear the Claret Orders were no longer welcome in their own homeland. Trence and his troupe of blood-tithed warriors went into hiding. Even in the face of such opposition, they never stopped protecting their lands from the shadows, seeking and destroying evils that emerged from the scars of [[the Calamity]].
+The newly installed [[Dwendalian Empire|Dwendalian]] lords blamed the Claret Orders for inviting fiends into the [[Marrow Valley]]. While some knew the truth and tried to clear their name, it quickly became clear the Claret Orders were no longer welcome in their own homeland. Trence and his troupe of blood-tithed warriors went into hiding. Even in the face of such opposition, they never stopped protecting their lands from the shadows, seeking and destroying evils that emerged from the scars of [[the Calamity]].
 
 > [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-14.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-14.png)
 > 

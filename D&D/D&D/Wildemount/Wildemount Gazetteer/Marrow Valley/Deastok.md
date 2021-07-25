@@ -4,7 +4,7 @@
 
 **Population**:: 10,090 (60% [[humans]], 26% [[dwarves]], 10% [[halflings]], 4% other [[races]])
 
-**Government**:: [[Starosta]] Deter McGinneas is nothing more than a puppet who answers to Prime Arbiter Truscan in [[Rexxentrum]].
+**Government**:: [[Starosta]] Deter McGinneas is nothing more than a puppet who answers to [[Prime Arbiter]] Truscan in [[Rexxentrum]].
 
 **Defense**:: Deastok enjoys the protection of the [[Crownsguard]]. The city supplements its defenses with a small army of [[sellswords]] and private bodyguards.
 
@@ -14,7 +14,7 @@
 
 Travelers in the [[Truscan Vale]] find the city of Deastok at the southwestern edge of the [[Dwendalian Empire]]. The sister city of [[Kamordah]] to the north, Deastok is a borough that appears unusually affluent for its size, largely because the [[Truscan family]] has called the city home for many generations. Fine cobblestone streets connect numerous modern buildings and charming country shops, while elegant entertainment venues and picturesque views make the city a quaint [[Holidays in Wildemount|holiday]] location for many wealthy travelers.
 
-While [[Starosta]] McGinneas is [[Bertrand Dwendal|the Crown]]-appointed leader of the city, it is no secret that the [[Truscan family]] is the real guiding force in Deastok. The [[starosta]] and all titled subordinates within the city were assigned at the behest of Prime Arbiter [[Sydnock Truscan]], and it is widely assumed that anyone in power is somehow related to the Truscans by marriage or blood, or is deeply indebted to them.
+While [[Starosta]] McGinneas is [[Bertrand Dwendal|the Crown]]-appointed leader of the city, it is no secret that the [[Truscan family]] is the real guiding force in Deastok. The [[starosta]] and all titled subordinates within the city were assigned at the behest of [[Prime Arbiter]] [[Sydnock Truscan]], and it is widely assumed that anyone in power is somehow related to the Truscans by marriage or blood, or is deeply indebted to them.
 
 The clean, well-maintained streets are surprisingly free of crime for a city so socially stratified. There's a good reason that precious few petty criminals exist in Deastok: they've all been recruited by [[The Myriad]]!
 
