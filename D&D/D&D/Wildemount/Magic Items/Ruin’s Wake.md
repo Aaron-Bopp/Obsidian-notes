@@ -1,7 +1,14 @@
-### Ruin’s Wake
+## Ruin’s Wake
+**Tag**:: #Magic/Item/Weapon
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement']
 (https://www.dndbeyond.com/magic-items/ruins-wake)
 
-_Weapon (spear), artifact (requires attunement)_
+**Item**:: Weapon
+**Item Type**:: spear
+**Rarity**:: artifact
+**Requires Attunement**:: True
 
 This spear is made from the ivory bone of an ancient gold [[dragon]] and carved with an [[Orcs|Orc]] hymn to [[Gruumsh]].
 
@@ -11,9 +18,9 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 
 A slaughter-loving [balor](https://www.dndbeyond.com/monsters/balor) named Yarrowish lives within [Ruin’s Wake](https://www.dndbeyond.com/magic-items/ruins-wake). The weapon desires only to draw blood and pushes its wielder to solve problems with violence.
 
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-15.png)
-
-The spear grants the following benefits in its dormant state:
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-15.png)
+> 
+> The spear grants the following benefits in its dormant state:
 
 -   You can speak, read, and write Abyssal and [[Orcs|Orc]].
 -   You gain a +1 bonus to attack and damage rolls made with this magic weapon, and it deals an extra 1d8 piercing damage to any target it hits. Immediately after you make a ranged attack with this weapon, it flies back to your hand.

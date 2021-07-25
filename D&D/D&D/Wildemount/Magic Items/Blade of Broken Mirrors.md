@@ -1,7 +1,14 @@
-### Blade of Broken Mirrors
+## Blade of Broken Mirrors
+**Tag**:: #Magic/Item/Weapon
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement']
 (https://www.dndbeyond.com/magic-items/blade-of-broken-mirrors)
 
-_Weapon (dagger), artifact (requires attunement by a humanoid)_
+**Item**:: Weapon
+**Item Type**:: dagger
+**Rarity**:: artifact
+**Requires Attunement**:: humanoid
 
 A weapon of [[Tharizdun]], this dagger is a piece of jagged stone whose blade is scribed with a maze-like pattern with no beginning or end.
 

@@ -1,7 +1,13 @@
-### Stormgirdle
+## Stormgirdle
+**Tag**:: #Magic/Item/Wondrous
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Rarity', 'Requires Attunement']
 (https://www.dndbeyond.com/magic-items/stormgirdle)
 
-_Wondrous item, legendary (requires attunement)_
+**Item**:: Wondrous item
+**Rarity**:: legendary
+**Requires Attunement**:: True
 
 A [stormgirdle](https://www.dndbeyond.com/magic-items/stormgirdle) is a wide belt made of thick leather branded with the symbol of [[Kord]]. The girdle’s clasps are made from [[dragon]] ivory.
 

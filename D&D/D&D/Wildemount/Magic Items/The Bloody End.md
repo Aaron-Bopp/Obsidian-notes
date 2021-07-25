@@ -1,7 +1,14 @@
-### The Bloody End
+## The Bloody End
+**Tag**:: #Magic/Item/Weapon
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement']
 (https://www.dndbeyond.com/magic-items/the-bloody-end)
 
-_Weapon (morningstar), artifact (requires attunement)_
+**Item**:: Weapon
+**Item Type**:: morningstar
+**Rarity**:: artifact
+**Requires Attunement**:: True
 
 Carrying the power of [[Bane]], this adamantine morningstar sports foot-long spikes and has a jagged blade on its pommel.
 
@@ -32,4 +39,4 @@ When the morningstar reaches an exalted state, it gains the following properties
 -   The saving throw DC for spells cast from the morningstar, as well as for creatures to avoid being [frightened](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Frightened) by it, increases to 17.
 -   When you use your reaction to deal psychic damage to a creature that hits you with a melee attack, the amount of psychic damage increases to 2d6.
 
-[](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-16.png)
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-16.png)

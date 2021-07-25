@@ -1,8 +1,12 @@
-### Potion of Maximum Power
+## Potion of Maximum Power
+**Tag**:: #Magic/Item
+**Location**:: [[Magic Items]]
 
+**Features**:: ['Item', 'Rarity']
 (https://www.dndbeyond.com/magic-items/potion-of-maximum-power)
 
-_Potion, rare_
+**Item**:: Potion
+**Rarity**:: Rare
 
 The first time you cast a damage-dealing spell of 4th level or lower within 1 minute after drinking the potion, instead of rolling dice to determine the damage dealt, you can instead use the highest number possible for each die.
 

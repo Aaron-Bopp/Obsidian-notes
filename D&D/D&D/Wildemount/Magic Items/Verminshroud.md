@@ -1,7 +1,13 @@
-### Verminshroud
+## Verminshroud
+**Tag**:: #Magic/Item/Wondrous
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Rarity', 'Requires Attunement']
 (https://www.dndbeyond.com/magic-items/verminshroud)
 
-_Wondrous item, legendary (requires attunement)_
+**Item**:: Wondrous item
+**Rarity**:: legendary
+**Requires Attunement**:: True
 
 This patchy cloak was pieced together from the pelts of rats found feasting on the dead in [[Blightshore]] and is dotted with the bloated corpses of magically preserved insects along its seams.
 

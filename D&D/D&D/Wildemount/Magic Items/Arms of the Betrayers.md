@@ -1,4 +1,6 @@
-### Arms of the Betrayers
+## Arms of the Betrayers
+**Tag**:: #Magic/Item
+**Location**:: [[Magic Items]]
 
 Before [[the Calamity]], eight of the Betrayer Gods each forged a sentient weapon using the life force of a greater fiend and gave the weapon to a chosen champion in the kingdom of [[Ghor Dranas]]. [[The Calamity]] flung these weapons across [[Wildemount]], burying them in mountains, forests, fields, and underground. Several of these weapons have been recovered, but a few have never been found and are highly sought-after. The weapons—or more properly, the fiends bound inside them—attract their own followings of mortal worshipers.
 

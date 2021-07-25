@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "57299ad881f114bf",
+        "id": "9232c55b6129cc96",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Wildemount/Magic Items/Last Stand Armor.md",
-            "mode": "source"
+            "file": "D&D/Wildemount/Magic Items.md",
+            "mode": "preview"
           }
         }
       }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/Magic Items/Last Stand Armor.md",
+                "file": "D&D/Wildemount/Magic Items.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Wildemount/Magic Items/Last Stand Armor.md"
+                "file": "D&D/Wildemount/Magic Items.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/Magic Items/Last Stand Armor.md",
+                "file": "D&D/Wildemount/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/Magic Items/Last Stand Armor.md",
+                "file": "D&D/Wildemount/Magic Items.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,17 +208,17 @@
     "width": 962,
     "collapsed": true
   },
-  "active": "57299ad881f114bf",
+  "active": "9232c55b6129cc96",
   "lastOpenFiles": [
-    "D&D/Wildemount/Magic Items/Last Stand Armor.md",
-    "D&D/Wildemount/Magic Items/Luxon Beacon.md",
-    "D&D/Wildemount/Magic Items/Mace of the Black Crown.md",
-    "D&D/Wildemount/Magic Items/Needle of Mending.md",
-    "D&D/Wildemount/Magic Items/Lash of Shadows.md",
-    "D&D/Wildemount/Magic Items/Infiltrator’s Key.md",
-    "D&D/Wildemount/Magic Items/Hide of the Feral Guardian.md",
-    "D&D/Wildemount/Magic Items/Goggles of Object Reading.md",
-    "D&D/Wildemount/Magic Items/Dust of Deliciousness.md",
-    "D&D/Wildemount/Magic Items/Destroying These Artifacts.md"
+    "D&D/Wildemount/Magic Items.md",
+    "D&D/Wildemount/Magic Items/Potion of Possibility.md",
+    "D&D/Wildemount/Magic Items/Rod of Retribution.md",
+    "D&D/Wildemount/Magic Items/Ring of Temporal Salvation.md",
+    "D&D/Wildemount/Magic Items/Staff of Dunamancy.md",
+    "D&D/Wildemount/Magic Items/Ring of Obscuring.md",
+    "D&D/Wildemount/Magic Items/Betrayer Artifact Properties.md",
+    "D&D/Wildemount/Magic Items/Destroying These Artifacts.md",
+    "D&D/Wildemount/Magic Items/Hunter’s Coat.md",
+    "D&D/Wildemount/Magic Items/Acheron Blade.md"
   ]
 }

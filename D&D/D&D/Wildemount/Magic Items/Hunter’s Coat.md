@@ -1,8 +1,15 @@
-### Hunter’s Coat
+## Hunter’s Coat
+**Tag**:: #Magic/Item/Armor
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement']
 
 (https://www.dndbeyond.com/magic-items/hunters-coat)
 
-_Armor (leather), very rare (requires attunement)_
+**Item**:: Armor
+**Item Type**:: leather
+**Rarity**:: very rare
+**Requires Attunement**:: True
 
 You gain a +1 bonus to AC while wearing this armor.
 

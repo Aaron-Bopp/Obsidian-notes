@@ -1,8 +1,14 @@
-### Rod of Retribution
+## Rod of Retribution
+**Tag**:: #Magic/Item
+**Location**:: [[Magic Items]]
 
 (https://www.dndbeyond.com/magic-items/rod-of-retribution)
 
-_Rod, uncommon (requires attunement)_
+**Features**:: ['Item', 'Rarity']
+
+**Item**:: Rod
+**Rarity**:: Uncommon
+**Requires Attunement**:: True
 
 This adamantine rod is tipped with a glowing crystalline eye. The rod has 3 charges and regains all its expended charges daily at dawn.
 

@@ -1,8 +1,14 @@
-### Goggles of Object Reading
+## Goggles of Object Reading
+**Tag**:: #Magic/Item/Wondrous
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Rarity', 'Requires Attunement']
 
 (https://www.dndbeyond.com/magic-items/goggles-of-object-reading)
 
-_Wondrous item, uncommon (requires attunement)_
+**Item**:: Wondrous item
+**Rarity**:: uncommon
+**Requires Attunement**:: True
 
 These leather-framed goggles feature purple crystal lenses. While wearing the goggles, you have advantage on Intelligence ([Arcana](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Arcana)) checks made to reveal information about a creature or object you can see.
 

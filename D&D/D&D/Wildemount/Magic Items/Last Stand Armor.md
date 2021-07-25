@@ -1,8 +1,14 @@
-### Last Stand Armor
+## Last Stand Armor
+**Tag**:: #Magic/Item/Armor
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity']
 
 (https://www.dndbeyond.com/magic-items/last-stand-armor)
 
-_Armor (any), very rare_
+**Item**:: Armor
+**Item Type**:: any
+**Rarity**:: very rare
 
 You have a +1 bonus to AC while wearing this armor, which shimmers softly.
 

@@ -1,13 +1,19 @@
-### Danoth’s Visor
+## Danoth’s Visor
+**Tag**:: #Magic/Item/Wondrous
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Rarity', 'Requires Attunement']
 (https://www.dndbeyond.com/magic-items/danoths-visor)
 
-_Wondrous item, legendary (requires attunement)_
+**Item**:: Wondrous item
+**Rarity**:: legendary
+**Requires Attunement**:: True
 
 These mithral-frame goggles with clear diamond lenses were used by the evoker Danoth Oro to spot [invisible](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Invisible) enemies and scout areas from afar.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-08.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-08.png)
-
-While wearing the goggles in their dormant state, you can see normally in darkness, both magical and nonmagical, to a distance of 60 feet. Additionally, you have advantage on Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) and Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) checks that rely on sight.
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-08.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-08.png)
+> 
+> While wearing the goggles in their dormant state, you can see normally in darkness, both magical and nonmagical, to a distance of 60 feet. Additionally, you have advantage on Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) and Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) checks that rely on sight.
 
 When [Danoth’s visor](https://www.dndbeyond.com/magic-items/danoths-visor) reaches an awakened state, it gains the following properties:
 

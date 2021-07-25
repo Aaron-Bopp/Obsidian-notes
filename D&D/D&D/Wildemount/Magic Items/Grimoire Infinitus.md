@@ -1,7 +1,14 @@
-### Grimoire Infinitus
+## Grimoire Infinitus
+**Tag**:: #Magic/Item
+**Location**:: [[Magic Items]]
 (https://www.dndbeyond.com/magic-items/grimoire-infinitus)
 
 _Wondrous item, legendary (requires attunement by a wizard)_
+**Features**:: ['Item', 'Rarity', 'Requires Attunement']
+
+**Item**:: Wondrous item
+**Rarity**:: legendary
+**Requires Attunement**:: wizard
 
 Several of these spellbooks with gilded pages and silver-plated covers were created during the [[Age of Arcanum]], but only one has been found since [[the Calamity]] ended. The book has an infinite number of pages, is three inches thick, eight inches wide, twelve inches long, and weighs three pounds.
 
@@ -9,9 +16,9 @@ Most of the book is blank, but the following spells are recorded in the first pa
 
 You can use the grimoire as your spellbook, and you can scribe new spells into it as normal. When you prepare wizard spells using the grimoire, the number of wizard spells you can prepare increases by 1.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-09.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-09.png)
-
-When the [Grimoire Infinitus](https://www.dndbeyond.com/magic-items/grimoire-infinitus) reaches an awakened state, it gains the following properties:
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-09.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-09.png)
+> 
+> When the [Grimoire Infinitus](https://www.dndbeyond.com/magic-items/grimoire-infinitus) reaches an awakened state, it gains the following properties:
 
 -   While you carry the spellbook, you have advantage on saving throws against spells and magical effects.
 -   When you prepare wizard spells using the grimoire as your spellbook, the number of spells you can prepare increases by 1 again.

@@ -1,7 +1,14 @@
-### Lash of Shadows
+## Lash of Shadows
+**Tag**:: #Magic/Item/Weapon
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement', 'Dead Eyes', 'Serpent Venom']
 (https://www.dndbeyond.com/magic-items/lash-of-shadows)
 
-_Weapon (whip), artifact (requires attunement)_
+**Item**:: Weapon
+**Item Type**:: whip
+**Rarity**:: artifact
+**Requires Attunement**:: True
 
 This snakeskin whip is touched by the power of [[Zehir]] and ends in five animated serpent heads.
 
@@ -17,13 +24,13 @@ The whip grants the following benefits in its dormant state:
 -   You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 -   You can attempt to poison any creature that is hit by the whip. The creature must succeed on a DC 13 Constitution saving throw or suffer the effect of one of the following poisons of your choice; once a poison other than Serpent Venom has been used, that poison can’t be used again until the next dawn:
 
-**Dead Eyes.** A creature that fails the saving throw against this poison is [poisoned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Poisoned) for 1 hour. While [poisoned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Poisoned) in this way, the creature is [blinded](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Blinded).
+**Dead Eyes**:: A creature that fails the saving throw against this poison is [poisoned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Poisoned) for 1 hour. While [poisoned](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Poisoned) in this way, the creature is [blinded](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Blinded).
 
-**Serpent Venom.** A creature that fails the saving throw against this poison takes 3d6 poison damage, or half as much damage on a successful save.
+**Serpent Venom**:: A creature that fails the saving throw against this poison takes 3d6 poison damage, or half as much damage on a successful save.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-12.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-12.png)
-
-When the whip reaches an awakened state, it gains the following properties:
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-12.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-12.png)
+> 
+> When the whip reaches an awakened state, it gains the following properties:
 
 -   The weapon’s bonus to attack and damage rolls increases to +2.
 -   The saving throw DC for the weapon’s poisons increases to 15.

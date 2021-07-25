@@ -1,7 +1,14 @@
-### Grovelthrash
+## Grovelthrash
+**Tag**:: #Magic/Item/Weapon
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement']
 (https://www.dndbeyond.com/magic-items/grovelthrash)
 
-_Weapon (warhammer), artifact (requires attunement)_
+**Item**:: Weapon
+**Item Type**:: warhammer
+**Rarity**:: artifact
+**Requires Attunement**:: True
 
 Crafted from a single piece of obsidian, this warhammer of [[Torog]] hums with magical energy and is carved with the images of faces screaming in pain.
 
@@ -17,9 +24,9 @@ The warhammer grants the following benefits in its dormant state:
 -   You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit with an attack using this warhammer, you can deal an extra 2d6 bludgeoning damage to the target. If you do, you take 1d6 psychic damage. The warhammer deals double damage to objects and structures.
 -   While holding this weapon, you have advantage on Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) checks made to discern a lie spoken in a language you understand.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-14.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-14.png)
-
-When the warhammer reaches an awakened state, it gains the following properties:
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-14.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-14.png)
+> 
+> When the warhammer reaches an awakened state, it gains the following properties:
 
 -   The weapon’s bonus to attack and damage rolls increases to +2.
 -   You gain a burrowing speed equal to your walking speed. You can use your burrowing speed to move through sand, loose earth, mud, or ice, not solid rock.

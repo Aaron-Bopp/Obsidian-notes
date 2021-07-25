@@ -1,7 +1,14 @@
-### Battering Shield
+## Battering Shield
+**Tag**:: #Magic/Item/Armor
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement']
 (https://www.dndbeyond.com/magic-items/battering-shield)
 
-_Armor (shield), rare (requires attunement)_
+**Item**:: Armor
+**Item Type**:: shield
+**Rarity**:: rare
+**Requires Attunement**:: True
 
 While holding this iron tower shield, you gain a +1 bonus to AC. This bonus is in addition to the shield’s normal bonus to AC.
 

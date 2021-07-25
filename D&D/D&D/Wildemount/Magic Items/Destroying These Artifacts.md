@@ -1,4 +1,6 @@
-### Destroying These Artifacts
+## Destroying These Artifacts
+**Tag**:: #Magic/Item
+**Location**:: [[Magic Items]]
 
 Destroying any of the [[Arms of the Betrayers]] is no easy task. Most conventional means of destruction fail to even scratch one of these ancient artifacts. Each weapon’s method of destruction is determined by the DM and should be unique and require at least one adventure to accomplish. The DM can choose or roll for a weapon’s method of destruction on the [[Arms of the Betrayers]] Destruction table, or use the table as inspiration.
 

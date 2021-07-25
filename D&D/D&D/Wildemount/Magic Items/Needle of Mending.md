@@ -1,8 +1,15 @@
-### Needle of Mending
+## Needle of Mending
+**Tag**:: #Magic/Item/Weapon
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement']
 
 (https://www.dndbeyond.com/magic-items/needle-of-mending)
 
-_Weapon (dagger), rare (requires attunement)_
+**Item**:: Weapon
+**Item Type**:: dagger
+**Rarity**:: rare
+**Requires Attunement**:: True
 
 This weapon is a magic dagger disguised as a sewing needle. When you hold it and use a bonus action to speak its command word, it transforms into a dagger or back into a needle.
 

@@ -1,7 +1,14 @@
-### Silken Spite
+## Silken Spite
+**Tag**:: #Magic/Item/Weapon
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement']
 (https://www.dndbeyond.com/magic-items/silken-spite)
 
-_Weapon (rapier), artifact (requires attunement)_
+**Item**:: Weapon
+**Item Type**:: rapier
+**Rarity**:: artifact
+**Requires Attunement**:: True
 
 The blade of this rapier is made of spider silk. Its onyx pommel is tipped with a ruby cut in the shape of a spider, and the blade carries the blessing of [[Lolth]].
 

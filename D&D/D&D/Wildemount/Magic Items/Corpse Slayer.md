@@ -1,8 +1,15 @@
-### Corpse Slayer
+## Corpse Slayer
+**Tag**:: #Magic/Item/Weapon
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement']
 
 (https://www.dndbeyond.com/magic-items/corpse-slayer)
 
-_Weapon (any), rare (requires attunement)_
+**Item**:: Weapon
+**Item Type**:: any
+**Rarity**:: rare
+**Requires Attunement**:: True
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

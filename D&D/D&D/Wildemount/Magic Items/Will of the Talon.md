@@ -1,7 +1,14 @@
-### Will of the Talon
+## Will of the Talon
+**Tag**:: #Magic/Item/Weapon
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement']
 (https://www.dndbeyond.com/magic-items/will-of-the-talon)
 
-_Weapon (war pick), artifact (requires attunement)_
+**Item**:: Weapon
+**Item Type**:: war pick
+**Rarity**:: artifact
+**Requires Attunement**:: True
 
 Black, blue, green, red, and white gems carved in the form of [[dragon]] heads cover this ostentatious gold war pick, marking it as a weapon channeling the power of [[Tiamat]].
 

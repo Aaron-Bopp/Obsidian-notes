@@ -1,7 +1,14 @@
-### Mace of the Black Crown
+## Mace of the Black Crown
+**Tag**:: #Magic/Item/Weapon
+**Location**:: [[Magic Items]]
+
+**Features**:: ['Item', 'Item Type', 'Rarity', 'Requires Attunement']
 (https://www.dndbeyond.com/magic-items/mace-of-the-black-crown)
 
-_Weapon (mace), artifact (requires attunement)_
+**Item**:: Weapon
+**Item Type**:: mace
+**Rarity**:: artifact
+**Requires Attunement**:: True
 
 This mace has a haft of black iron and a ruby head with a fiendish countenance. Carrying the boon of [[Asmodeus]], it is fit for the most powerful servants of the Nine Hells.
 
@@ -24,9 +31,9 @@ When the mace reaches an awakened state, it gains the following properties:
 -   The weapon’s Summon Devil feature can also be used to summon a [bearded devil](https://www.dndbeyond.com/monsters/bearded-devil).
 -   You have resistance to poison damage while holding this weapon.
 
-[![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-13.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-13.png)
-
-When the mace reaches an exalted state, it gains the following properties:
+> [![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-13.png)](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/06-13.png)
+> 
+> When the mace reaches an exalted state, it gains the following properties:
 
 -   The weapon’s bonus to attack and damage rolls increases to +3, and the extra fire damage dealt by the weapon when it is ignited increases to 3d6. Fire damage dealt by the mace ignores resistance to fire damage.
 -   The weapon’s Summon Devil feature can also be used to summon a [barbed devil](https://www.dndbeyond.com/monsters/barbed-devil).

@@ -663,7 +663,7 @@
 
 [[Potion of Maximum Power]]:
 
-[[Potion of Possibility(]]:
+[[Potion of Possibility]]:
 
 [[Prides Call]]:
 
