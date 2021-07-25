@@ -94,7 +94,7 @@ Ravenites are the surviving [[dragonborn]] previously held as a lower, slave-cla
 
 [[The Revelry|Revelry]] is the faction and banner that most operating pirates across the [[Menagerie Coast]] are united under.
 
-Righteous Brand is the military army of the [[Dwendalian Empire]].
+[[Righteous Brand]] is the military army of the [[Dwendalian Empire]].
 
 [[Scars of Scale and Tooth]] is a new faction of Ravenites and survivors of the destruction of [[Draconia]], centered around the city of [[Xarzith Kitril]].
 

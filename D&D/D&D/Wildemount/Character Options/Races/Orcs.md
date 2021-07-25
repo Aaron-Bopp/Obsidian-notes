@@ -14,7 +14,7 @@ Orcs and half-orcs do feel a certain pull toward violence and anger. But the sim
 
 The orcish settlement of [[Bladegarden]] was incorporated into the [[Dwendalian Empire]] after the fall of the [[Julous Dominion]], nearly three hundred years ago. Orcs are now renowned as some of the [[Dwendalian Empire|empire]]’s most accomplished soldiers, though many folk still fear the ancient legends of the curse of ruin.
 
-Half-orcs are proud of their heritage, though many are wary of the wrathful curse that supposedly drives them to violence. Those who embrace this gift of fury often enlist in the Righteous Brand to focus their rage against the enemies of the [[Dwendalian Empire|empire]]. Other half-orcs reject the idea that they are destined for violence, and rely on faith, meditation, and friendship to live peaceful lives.
+Half-orcs are proud of their heritage, though many are wary of the wrathful curse that supposedly drives them to violence. Those who embrace this gift of fury often enlist in the [[Righteous Brand]] to focus their rage against the enemies of the [[Dwendalian Empire|empire]]. Other half-orcs reject the idea that they are destined for violence, and rely on faith, meditation, and friendship to live peaceful lives.
 
 ### Half-Orcs on the [[Menagerie Coast]]
 

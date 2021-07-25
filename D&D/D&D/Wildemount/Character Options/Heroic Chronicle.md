@@ -48,7 +48,7 @@ At the same time, the common working-class sailor is a symbol of the [[Clovis Co
 
 **_Western Wynandir._** The [[Dwendalian Empire]] prizes king and country over personal freedoms—at least as far as the freedoms of the poor are concerned. For the wealthy noble class, most laws are mere guidelines, since bribery and political favors can make almost any problem go away.
 
-In the [[Dwendalian Empire]], rural folk are seen as honest, hardworking, and pious, while the wealthy ruling class are viewed as beneficent patricians—or as miserly tyrants. Patriotism is a core virtue, and enlisting in the Righteous Brand and adhering to the [[Dwendalian Empire|empire]]’s strict religious laws are the most patriotic acts of all.
+In the [[Dwendalian Empire]], rural folk are seen as honest, hardworking, and pious, while the wealthy ruling class are viewed as beneficent patricians—or as miserly tyrants. Patriotism is a core virtue, and enlisting in the [[Righteous Brand]] and adhering to the [[Dwendalian Empire|empire]]’s strict religious laws are the most patriotic acts of all.
 
 **_Greying Wildlands._** The [[Greying Wildlands]] and the settlement of [[Shadycreek Run]] are lawless. Crime is a virtue here, mercy a vice. Only strength rules in the land run by the coalition of criminals known as “the Tribes.” Anyone who doesn’t have the personal strength to defend themself is treated with contempt, and those who represent the iron fist of the [[Dwendalian Empire|empire]] are utterly despised.
 

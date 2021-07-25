@@ -260,7 +260,7 @@ Attached through a series of angled hallways, this network of foundries forms a 
 
 Long run by the Neverbend family of [[gnomes]], this is the place to go for arms and armor, as well as general smithing needs. Standard metal weapons and armor, as well as metal-based adventuring gear, can be purchased here.
 
-Built across from Gearhole Prison, this squat, metal-reinforced barracks is home to most of the [[Crownsguard]] and Righteous Brand soldiers stationed in [[Hupperdook]]. Watchmaster Bram Gulchswattle can often be found here.
+Built across from Gearhole Prison, this squat, metal-reinforced barracks is home to most of the [[Crownsguard]] and [[Righteous Brand]] soldiers stationed in [[Hupperdook]]. Watchmaster Bram Gulchswattle can often be found here.
 
 The largest (and one of the only) taverns operating below the Idleworks Shelf, the Sootswallow Lodge caters to the builders and makers of the Ironlot during work hours, then plays home to the sketchier elements of [[Hupperdook]] by night. A fence named Udoth who keeps a room here in the evenings is always in the market for adventuring goods, which he buys for 75 percent of their value rather than 50 percent.
 

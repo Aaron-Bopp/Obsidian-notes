@@ -7,11 +7,8 @@
         "id": "d6cfd0946b25e06a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/Wildemount/aliases.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Lesser",
+                "query": "#Exandria/Locale",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -54,7 +51,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/aliases.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -65,9 +61,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D&D/Wildemount/aliases.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,11 +108,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 358
+    "width": 358,
+    "collapsed": true
   },
   "right": {
     "id": "e4957aafc9974964",
@@ -143,7 +137,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/aliases.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,15 +204,15 @@
   },
   "active": "d6cfd0946b25e06a",
   "lastOpenFiles": [
+    "Shore Warden.md",
+    "D&D/Wildemount/Factions and Societies/Nations/Diarchy of Uthodurn.md",
+    "Righteous Brand.md",
+    "D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Bladegarden.md",
     "D&D/Wildemount/aliases.md",
     "D&D/Wildemount/Factions and Societies/Cults in Wildemount.md",
     "D&D/Wildemount/History of Wildemount/Wildemount after the Calamity/A King Is Crowned.md",
     "D&D/Wildemount/Glossary/Dunamancy Spells/Magnify Gravity.md",
     "D&D/Wildemount/Glossary/Dunamancy Spells/Pulse Wave.md",
-    "D&D/Wildemount/Glossary/Draconic.md",
-    "D&D/Wildemount/Glossary/dragon.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Menagerie Coast.md",
-    "D&D/Wildemount/Wildemount Gazetteer.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Marrow Valley/Herethis Mines.md"
+    "D&D/Wildemount/Glossary/Draconic.md"
   ]
 }

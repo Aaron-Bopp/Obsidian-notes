@@ -6,7 +6,7 @@
 
 **Government**:: [[Starosta]] Judus Olessia is the appointed leader of Blumenthal, but the countless directives from [[Rexxentrum]] often bypass him entirely.
 
-**Defense**:: A respectable cadre of [[Crownsguard]] and a small body of Righteous Brand soldiers keep the farmsteads of Blumenthal safe.
+**Defense**:: A respectable cadre of [[Crownsguard]] and a small body of [[Righteous Brand]] soldiers keep the farmsteads of Blumenthal safe.
 
 **Commerce**:: While food, produce, and basic supplies are available, little else can be found since most trade heads straight to the capital.
 

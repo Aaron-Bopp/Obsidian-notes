@@ -40,4 +40,4 @@ Distanced from the political bustle of Western and [[Eastern Wynandir]], these f
 ## 
 > ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/02-07.png)
 >
->  A [[Dwendalian Empire|Dwendalian]] [[Crownsguard]], Righteous Brand soldier, a [[Clovis Concord]] [[Zhelezo]], and a Shore Warden soldier
+>  A [[Dwendalian Empire|Dwendalian]] [[Crownsguard]], [[Righteous Brand]] soldier, a [[Clovis Concord]] [[Zhelezo]], and a [[Shore Warden]] soldier

@@ -957,6 +957,8 @@
 
 [[Right Side of Wrong (Low Level)]]:
 
+[[Righteous Brand]]:
+
 [[Rime Plains]]:
 
 [[Ring of Obscuring]]:

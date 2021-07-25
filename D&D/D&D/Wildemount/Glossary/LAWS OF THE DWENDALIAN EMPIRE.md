@@ -1,6 +1,6 @@
 ## LAWS OF THE [[Dwendalian Empire]]
 
-As judged by the eyes of the local lawmaster, appointed hands of that lawmaster, or the [[Erathis|Law Bearer]] herself, any criminals discovered and/or convicted of crimes within local halls of judgment throughout the [[Dwendalian Empire|empire]] are subject to punishments befitting the crime. All fines and punishments for crimes against a [[Crownsguard]] member, Righteous Brand soldier, or noble are doubled. All fines and punishments regarding crimes against an imperial official or associate of the [[Cerberus Assembly]] are tripled.
+As judged by the eyes of the local lawmaster, appointed hands of that lawmaster, or the [[Erathis|Law Bearer]] herself, any criminals discovered and/or convicted of crimes within local halls of judgment throughout the [[Dwendalian Empire|empire]] are subject to punishments befitting the crime. All fines and punishments for crimes against a [[Crownsguard]] member, [[Righteous Brand]] soldier, or noble are doubled. All fines and punishments regarding crimes against an imperial official or associate of the [[Cerberus Assembly]] are tripled.
 
 **Theft:** 5–10 days incarceration and/or a fine of twice the worth of the stolen goods.
 

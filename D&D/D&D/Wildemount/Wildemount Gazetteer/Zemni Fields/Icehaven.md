@@ -6,7 +6,7 @@
 
 **Government**:: Though technically run by Ernath Noack, [[Bertrand Dwendal|the Crown]]-appointed [[starosta]], the town is mostly ruled by a committee of locals who pay little mind to the will of the [[Dwendalian Empire]].
 
-**Defense**:: A small company of [[Crownsguard]] keeps the peace, while a fresh group of Righteous Brand soldiers have been assigned to the docks.
+**Defense**:: A small company of [[Crownsguard]] keeps the peace, while a fresh group of [[Righteous Brand]] soldiers have been assigned to the docks.
 
 **Commerce**:: Resources are limited, so mostly basic supplies and standard arms are available. Relics recovered from [[Eiselcross]] can occasionally pass through, providing strange and exotic curiosities for acquisition.
 

@@ -6,7 +6,7 @@
 
 **Government**:: The locally elected [[starosta]], Theanor Whisperthin, works with [[Bertrand Dwendal|the Crown]]-appointed lawmaster to organize and distribute the harvests.
 
-**Defense**:: A sizable regiment of [[Crownsguard]] is now bolstered by a patrolling legion of Righteous Brand soldiers, while guildmasters keep personal bodyguards.
+**Defense**:: A sizable regiment of [[Crownsguard]] is now bolstered by a patrolling legion of [[Righteous Brand]] soldiers, while guildmasters keep personal bodyguards.
 
 **Commerce**:: Basic supplies and general goods are produced locally, and humble rooms and amenities are available to travelers.
 

@@ -6,7 +6,7 @@
 
 **Government**:: [[Starosta Wyatt Fedar]] is the city's nominal leader, but nothing gets done without the assent of the lawmaster, other Crown-appointed officials, and the wealthy elite.
 
-**Defense**:: An impressive host of [[Crownsguard]] is integrated throughout the city, while a sizable legion of Righteous Brand soldiers is stationed within the Signet Ramparts. Political figures and nobles also employ personal guards.
+**Defense**:: An impressive host of [[Crownsguard]] is integrated throughout the city, while a sizable legion of [[Righteous Brand]] soldiers is stationed within the Signet Ramparts. Political figures and nobles also employ personal guards.
 
 **Commerce**:: Nearly all goods and services are available in Zadash, including [[magic items]]. Illegal imports and contraband are found in underground circles.
 
