@@ -7,6 +7,8 @@ As the first nation of post-Calamity [[Xhorhas]], the Kryn Dynasty worked to exp
 
 Meanwhile, the [[dragonborn]] have begun to reach out to [[Exandria]]’s sprawling political world, wishing to exchange knowledge and trade their gold and jewels for powerful magics to better their standing.
 
+**Continue reading**:: [[Draconia]]
+
 # Kryn Dynasty
 
 The Kryn Dynasty rules the northern wastes of [[Xhorhas]], and has only revealed itself to the wider world within the past century. Centered around — and under — the ruins of [[Ghor Dranas]] in [[Eastern Wynandir]], the dynasty governs many townships and small villages where the Kryn have helped establish a modicum of civilized living among the nomadic [[Wastefolk]]. They believe that beings not yet beyond redemption can be turned to the light of [[the Luxon]], and often struggle with the unruly denizens of the wastes, hoping to gain converts to their cause and faith. Those that do accept the dynasty often do so because they seek protection from the dregs of [[the Calamity]] that wander the wastes, as well as the scouts of the [[Dwendalian Empire]].

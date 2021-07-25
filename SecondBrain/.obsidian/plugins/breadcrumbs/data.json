@@ -1,6 +1,6 @@
 {
-  "parentFieldName": "related-topics, parent",
-  "siblingFieldName": "sub-topics",
+  "parentFieldName": "parent",
+  "siblingFieldName": "related-topics",
   "childFieldName": "child",
   "indexNote": [
     "INDEX"
@@ -17,6 +17,7 @@
   "noPathMessage": "This note has no real or implied parents",
   "trailSeperator": "→",
   "respectReadableLineLength": true,
+  "wikilinkIndex": true,
   "debugMode": false,
   "superDebugMode": false
 }

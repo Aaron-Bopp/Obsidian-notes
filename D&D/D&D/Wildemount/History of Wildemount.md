@@ -7,7 +7,7 @@ The continent of [[Wildemount]] has undergone many ages of discovery, conflict, 
 
 ## ![[The Founding]]
 
-## ![[D&D/Wildemount/History of Wildemount/Age of Arcanum]]
+## ![[Age of Arcanum]]
 
 ## ![[The Calamity]]
 
@@ -71,4 +71,4 @@ Throughout this wasteland, scattered bands of aimless men, beasts, and [[goblink
 
 ### ![[The Chroma Conclave]]
 
-### ![[The War of the Ash and Light]]
+### ![[The War of Ash and Light]]

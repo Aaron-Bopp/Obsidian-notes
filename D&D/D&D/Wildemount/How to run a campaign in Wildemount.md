@@ -41,7 +41,7 @@ A campaign set in [[Xhorhas]] will doubtless involve the war between the [[Kryn 
 
 The continent of [[Wildemount]] is a powder keg about to explode. Tensions between the [[Dwendalian Empire]] and the [[Kryn Dynasty]] have just erupted into open war, and everyone in [[Wildemount]], including the adventurers, must contend with the fallout of the conflict between the continent’s two imperial superpowers.
 
-### The War of Ash and Light
+### [[The War of Ash and Light]]
 
 The war is only as important as you make it. If you place either the battles of the war or their consequences front and center, the war will be of chief concern to your players. If you keep the war and its consequences distant, then the characters will be free to interact with or ignore the war as they see fit. With a little bit of creative tweaking of the setting, you could create a [[Wildemount]] campaign where the war has been called off or never even happened!
 

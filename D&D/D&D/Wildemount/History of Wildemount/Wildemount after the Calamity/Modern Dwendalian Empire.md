@@ -13,3 +13,6 @@ King Bertrand maintains the isolationist world view of his predecessors, even in
 However, [[Bertrand Dwendal|the king]]’s focus on isolationism fades as tensions with [[Xhorhas]] grow. Worry about his legacy mingles with the new and deadly threat of the [[Kryn Dynasty]], now emboldened and pushing into his kingdom with strange magics and dangerous warriors. He mistrusts the very [[Cerberus Assembly]] that grants him so much influence and arcane might to combat the ever-darker world that barks at the borders of the [[Dwendalian Empire|empire]]. Public approval of his rule wanes with growing economic disparity, and the whisper of [[The Myriad|Myriad]] power returning under his nose only heightens his paranoia.
 
 When the [[Kryn Dynasty|Kryn]] orchestrated an attack on the Halls of Erudition in [[Zadash]], the [[Cerberus Assembly]] pushed for a display of military power to rally the people and bring unity to the national identity of the [[Dwendalian Empire|empire]]. [[Bertrand Dwendal|The king]] declared war on the [[Kryn Dynasty]] and the people of [[Xhorhas]], embroiling the region in this new full-scale conflict, with the hope that, as history has proven, people are easier to unite against a common enemy.
+
+**Continue reading**:: [[Dwendalian Empire]]
+

@@ -13,3 +13,5 @@ Thus, hoping to ensure that such ruin would not befall [[Exandria]] again, they 
 The disappearance of the gods is known by many names: the Second Spark for those who study the arcane, and the Penance for those who seek closeness to their gods. The most common name for this time of warfare and divine separation is the [[Divergence]], and it marked the end of the [[Age of Arcanum]].
 
 Much time has passed since, and the world has been reborn once again. The gods still influence and guide from beyond the [[Divine Gate]], bestowing knowledge and power on their worshipers, but the path of mortals is now their own to make. New cities, kingdoms, and cultures have retaken the world, building over the ashes of the old. New songs fill the air, and the hope of a brighter future drives people day after day, while buried ruins and ancient relics remind all people of a darker time of mistakes that should never be repeated.
+
+**Continue reading**:: [[History of Wildemount#Wildemount after the Calamity]]

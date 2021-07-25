@@ -8,6 +8,8 @@ Small civilizations began to form amid the chaos, but it wasn’t until the cent
 
 Increasing their strength with each generation, this movement guided by the Julous family became known as the [[Julous Dominion]], stretching across the south end of [[Western Wynandir]]. Not all agreed to join the [[Julous Dominion]], however. Some outliers rejected the Julous interests, founding their own village of [[Kamordah]] on the boiling earth of the hills in the southwest [[Marrow Valley]]. In time, the people of [[Kamordah]] came to worship a being of primordial fire that lives beneath the mountains and speaks to them in dreams and visions.
 
+**Continue reading**:: [[Founding of the Dwendalian Empire]]
+
 > ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-02.png)
 > 
 > A Floating City from a Bygone Age

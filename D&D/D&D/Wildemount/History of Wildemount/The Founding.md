@@ -21,3 +21,5 @@ The Creators that remained, wishing to salvage their home, their creations, and 
 This gift was the knowledge of arcane magic, which the good children used to drive away their traitorous kin, banish the turned Creators to their own prison-like planes, and ultimately destroy the Primordials, scattering the chaotic elements to their own planes of existence. The world was at peace for the first time since its creation, and the first real civilization took root and grew into a grand city called Vasselheim. The Cradle of Creation. The Dawn City.
 
 Culture developed anew, the [[races]] ventured forth to discover and explore their own lands, and great music filled the air to give a name to this world once and for all: [[Exandria]].
+
+**Continue reading**:: [[Age of Arcanum]]

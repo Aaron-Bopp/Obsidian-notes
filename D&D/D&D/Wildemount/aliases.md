@@ -338,7 +338,8 @@
 - draconblood
 - draconbloods
 - ravenite
-- revenites
+- ravenites
+- dragonkin
 
 [[Dranassar]]:
 
@@ -372,6 +373,7 @@
 [[Dwendalian Empire]]:
 - empire
 - dwendalian
+- Zemnian
 
 [[Dyolet Mounds (Mid Level)]]:
 
@@ -1185,7 +1187,7 @@
 
 [[The Tumbledowns]]:
 
-[[The War of the Ash and Light]]:
+[[The War of Ash and Light]]:
 
 [[The Whispered Study (High Level)]]:
 

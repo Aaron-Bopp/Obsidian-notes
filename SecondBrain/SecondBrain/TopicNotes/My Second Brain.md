@@ -7,6 +7,7 @@ note-type:
 - topic-note
 aliases:
 - 
+parent: [[second brain]]
 ---
  
 ##### [[My Second Brain]] `=length(this.file.inlinks) + length(this.file.outlinks)`

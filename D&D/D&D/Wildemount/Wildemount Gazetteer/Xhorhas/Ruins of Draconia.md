@@ -10,6 +10,8 @@ The ravenites did have allies among the ruling houses. Many Draconian citizens d
 
 Those champions who were lost in the struggle are immortalized in statues left among the ruins, the most famous of whom is the hero Tiberius Stormwind of Ruins of [[Draconia]]. Tiberius was one of the legendary heroes of Vox Machina, and he gave his life to defend ravenites from the ire of Vorugal, the white [[dragon]] of [[The Chroma Conclave]]. His statue and surrounding shrine are a place of pilgrimage for [[Dragonborn|ravenite]] historians.
 
+**Continue Reading**:: [[Xarzith Kitril]]
+
 Those brave enough to delve into the ruins of Ruins of [[Draconia]] can find treasures and a few ghosts of the destroyed city.
 
 **Adventures**:: [[Former Glory (Low Level)]]

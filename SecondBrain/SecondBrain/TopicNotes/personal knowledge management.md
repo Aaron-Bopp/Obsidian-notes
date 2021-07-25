@@ -6,6 +6,7 @@ note-type:
 - topic-note
 embedded: 
 - [[second brain]]
+parent: [[INDEX]]
 ---
 
 ##### [[personal knowledge management]] `=length(this.file.inlinks) + length(this.file.outlinks)`

@@ -6,6 +6,7 @@ note-type:
   topic-note
 embedded: 
 - [[My Second Brain]]
+parent: [[personal knowledge management]]
 ---
 ###### [[second brain]] 
 

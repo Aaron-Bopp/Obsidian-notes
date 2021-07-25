@@ -7,6 +7,8 @@ Half-remembered tales and myths of their forgotten history, mingled with worship
 
 Not easily dissuaded, the [[dwarves]] returned to the surface for the first time in generations, finding the once-ruined world now recovering with renewed life and color. The resilient clan made their way north along the [[Brokenveil Bluffs]] and found a massive mountain to house their new city. They built their stronghold into this monolith among the [[Dunrock Mountains]], and gave their new home the name of Grimgolir.
 
+**Continue reading**:: [[Julous Dominion]]
+
 ## Grimgolir
 
 **Population**:: 19,090 (81% [[dwarves]], 8% [[humans]], 6% [[halflings]], 5% other [[races]])

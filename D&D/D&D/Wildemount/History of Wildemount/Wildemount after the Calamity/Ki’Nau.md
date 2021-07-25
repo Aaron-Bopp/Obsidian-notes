@@ -6,5 +6,6 @@ The few scattered survivors of the floods found shelter among the higher jungles
 
 Over time, an older mind began to call from the waters and entered their dreams. This powerful being, a leviathan creation abandoned by his creator [[Zehir]] in the [[Divergence]], called himself [[Uk’otoa]]. He spoke of his divinity and promised protection to the Ki’Nau people in exchange for their worship. The Ki’Nau accepted the persuasive entity as an ally and protector, allowing [[Uk’otoa]] to rise up as the guardian of the islands and help the Ki’Nau become a proud society of warriors, establishing dominance over the region for centuries.
 
+**Continue reading**:: [[The Marquesian Alliance]]
 > ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-03.png)
 > [[Uk’otoa]] assaults unwelcome ships on the Lucidian Ocean

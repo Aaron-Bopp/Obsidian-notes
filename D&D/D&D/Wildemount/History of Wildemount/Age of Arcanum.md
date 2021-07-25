@@ -20,6 +20,8 @@ Evil was repulsed momentarily, but with the revelation of such a terrible foe, a
 
 For the first time since the Primordials were destroyed, the focus of magic was warfare. The gods themselves agreed to join their children on the field of battle, descending from the heavens to take up arms once more for the war now referred to as [[the Calamity]].
 
+**Continue reading**:: [[The Calamity]]
+
 > ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-01.png)
 > 
 > [[The Calamity]]

@@ -10,6 +10,8 @@ Taking pity on the survivors, the [[dwarves]] took in the elven refugees and off
 
 Unfortunately, a township of criminals and outlaws has sprung up on the southern edge of the [[Savalirwood]], just beyond the [[Dwendalian Empire]]. In addition to the dangerous denizens of this wretched thicket, which is known as [[Shadycreek Run]], there are numerous raiders and thieves seeking relics from the ruins of the forest, escalating conflict throughout the region.
 
+**Continue reading**::[[Blooming Grove]]
+
 > ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-04.png)
 > 
 > In the ruins of [[Ghor Dranas]], [[Dark Elves|drow]] face the sun for the first time
