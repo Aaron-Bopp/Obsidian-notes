@@ -1,62 +1,96 @@
-[[TODO]]:
+[[0 That's Gender Dysphoria, FYI]]:
 
-[[Andy Matuschak's Evergreen Notes]]:
-- Andy's notes
+[[1 What is Gender]]:
 
-[[Samskara]]:
-- samskara's
-- samskaras
-- sanskara
-- sanskaras
+[[10 Existential Euphoria]]:
 
-[[Agoraphobia]]:
+[[11 Managed Dysphoria Gender in Disguise]]:
 
-[[Autism]]:
+[[12 Impostor Syndrome, but make it Trans]]:
 
-[[Children in traumatic households expect more love than their parents can give]]:
+[[13 Diagnosing Gender Dysphoria]]:
 
-[[content note]]:
+[[14 Treating Gender Dysphoria]]:
 
-[[Depersonalization]]:
+[[15 What is the Cause of Gender Incongruence]]:
 
-[[empathy isn't understanding how you would make the decision it's understanding why they made the decision]]:
+[[16 Disorders of Sex Development Gender is not Chromosomal]]:
 
-[[Monster of the Week]]:
-- MOTW
+[[17 Hormones How do they work]]:
 
-[[natural selection]]:
+[[18 Androgenic Second Puberty 101]]:
 
-[[Nuclear Fear]]:
-
-[[Searching for THE answer is dangerous]]:
-
-[[Stupid rules are meant to be broken]]:
-
-[[Webs of thought are densely linked]]:
-
-[[Why note storage is important]]:
-
-[[You can't blame people for failing to rise above their circumstances]]:
+[[19 Estrogenic Second Puberty 101]]:
 
 [[1918]]:
 
+[[1920's America]]:
+
+[[1920's General Notes]]:
+
 [[1920s]]:
+
+[[1930's General Notes]]:
+
+[[1940's General Notes]]:
+
+[[1950's General Notes]]:
 
 [[1950s]]:
 
-[[abortion]]:
+[[1960's General Notes]]:
 
-[[acting]]:
+[[1968 Discussion]]:
 
-[[Adderall]]:
+[[1970's General Notes]]:
+
+[[1980's General Notes]]:
+
+[[1990's General Notes]]:
+
+[[2 A Brief History of Gender Dysphoria]]:
+
+[[20 In Conclusion]]:
+
+[[2000's General Notes]]:
+
+[[20th Century America]]:
+
+[[21st Century America]]:
+
+[[3 Gender Euporia]]:
+
+[[4 Physical Dysphoria]]:
+
+[[5 Biochemical Dysphoria]]:
+
+[[6 Social Dysphoria]]:
+
+[[7 Societal Dysphoria]]:
+
+[[8 Sexual Dysphoria]]:
+
+[[9 Presentational Dysphoria]]:
+
+[[A secure identity is the best defense against social anxiety]]:
 
 [[ADHD]]:
-
-[[Afghanistan]]:
 
 [[AI]]:
 
 [[AIDS]]:
+
+[[API]]:
+
+[[Accepting responsibility is not only about your actions]]:
+
+[[Adderall]]:
+
+[[Addictive Personality Dr.K interview]]:
+
+[[Afghanistan]]:
+
+[[Agoraphobia]]:
 
 [[America]]:
 - Americans
@@ -66,24 +100,36 @@
 
 [[American History]]:
 
-[[anti-liberalism]]:
+[[An Introduction to Bhuddism]]:
+
+[[Andy Matuschak]]:
+
+[[Andy Matuschak's Evergreen Notes]]:
+- Andy's notes
+
+[[Answer open questions]]:
 
 [[Anti-war]]:
 - anti war
 
-[[anxiety]]:
+[[Anxiety isn't irrational it's just overcompensation]]:
 
-[[API]]:
-
-[[atheism]]:
+[[Anxiety should be a tool at your disposal not an impedance to your life]]:
 
 [[Attachment Theory]]:
 
+[[Autism]]:
+
+[[Avoidance IS the most-efficient way of dealing with emotion]]:
+
+[[BPD]]:
+- borderline personality disorder
+
 [[Baby Boomers]]:
 
-[[belief systems]]:
-
 [[Bhuddism]]:
+
+[[Bhuddism is the study of happiness through detachment]]:
 
 [[Bill Clinton]]:
 
@@ -91,60 +137,60 @@
 
 [[Black Power]]:
 
-[[body dysmorphia]]:
-
-[[BPD]]:
-- borderline personality disorder
+[[Breaking the Cycle of Overthinking]]:
 
 [[Britain]]:
 - England
 - UK
 - United Kingdom
 
-[[budget cuts]]:
-
-[[business]]:
+[[CIA]]:
+- Central Intelligence Agency
 
 [[Calvin Coolidge]]:
 - Coolidge
 
 [[Capitalism]]:
 
-[[childhood trauma]]:
+[[Capture your fleeting thoughts]]:
+
+[[Children in traumatic households expect more love than their parents can give]]:
 
 [[China]]:
+
+[[Choosing a note writing system]]:
 
 [[Christianity]]:
 - christian
 - catholicism
 
-[[CIA]]:
-- Central Intelligence Agency
+[[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]:
 
 [[Civil Rights]]:
 
 [[Civil War]]:
 
-[[Computer]]:
+[[Collecting Thought with a Second Brain]]:
 
-[[confidence]]:
+[[Communism]]:
+
+[[Complex emotions are intellectual understandings of primal urges]]:
+
+[[Computer]]:
 
 [[Congress]]:
 
-[[conscious]]:
-- consciousness
-
-[[consent]]:
-
 [[Conservatism]]:
 - American Conservatism
+
+[[Constantly working on yourself is a form a self-hatred]]:
 
 [[Consumer Culture]]:
 
 [[Counter-culture]]:
 - counter culture
 
-[[creationism]]:
+[[Creating Thought with a Second Brain]]:
 
 [[Cuba]]:
 - Cuban
@@ -157,29 +203,29 @@
 - D Day
 - DDay
 
-[[data querrying]]:
+[[Dataview]]:
 
 [[Debt]]:
 
-[[Deconstruction (Christianity)]]:
+[[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before]]:
 
-[[defense-mechanisms]]:
+[[Deconstructing your faith is like climbing through a jungle canopy]]:
+
+[[Deconstruction (Christianity)]]:
 
 [[Democrat]]:
 
 [[Democratic]]:
 
-[[depression]]:
+[[Depersonalization]]:
 
 [[Derealization]]:
 
-[[desire]]:
+[[Destiny Interviews Dr. K]]:
 
-[[disassociation]]:
+[[Did the Atomic Bombs end WW2]]:
 
-[[disease]]:
-
-[[dissociation]]:
+[[Difference between reincarnation in Hinduism and Bhudism]]:
 
 [[DnD]]:
 
@@ -187,19 +233,25 @@
 
 [[DrK]]:
 
+[[DrK Interviews]]:
+
+[[DrK and DrMike conversation]]:
+
 [[DrMike]]:
 
-[[early childhood]]:
+[[Dual]]:
 
-[[eastern philosophy]]:
-- eastern mysticism
+[[Dual Nostril Breathing Meditation]]:
+
+[[EVERGREENS]]:
+
+[[EVERSEEDS]]:
+
+[[EVERSPROUTS]]:
+
+[[Early childhood trauma causes us to make wide assumptions about the world]]:
 
 [[Economic Competition]]:
-
-[[economy]]:
-- economics
-
-[[education]]:
 
 [[Eisenhower]]:
 
@@ -207,18 +259,9 @@
 
 [[Emmitt Till]]:
 
-[[emotional invalidation]]:
+[[Emotional Deregulation]]:
 
 [[Emotional Quotent]]:
-
-[[emotional validation]]:
-
-[[enlightenment]]:
-- Self-Realization
-- God-Realization
-- nirvikalpa
-- samadhi
-- Moksha
 
 [[Europe]]:
 
@@ -227,53 +270,55 @@
 - fundamentalist
 - fundamentalism
 
-[[evergreen notes]]:
+[[Existential Dread]]:
 
-[[evolution]]:
-
-[[faith]]:
+[[Explaining emotion can just be a way of escaping the situation]]:
 
 [[FDR]]:
 - Franklin Delano Roosevelt
 - Roosevelt
 
-[[fear of consequences]]:
+[[Faith can be a useful tool for grounding yourself]]:
+
+[[Fear cannot be a deterant for deconstructing your faith]]:
+
+[[Fear of hell is baked into Christianity]]:
+
+[[Flamingo Pose Meditation]]:
+
+[[Fomulate questions]]:
 
 [[Foreign Policy]]:
 
 [[France]]:
 - French
 
-[[free-will]]:
-- free will
+[[GPT]]:
 
 [[Gay Rights]]:
 - gay liberation
-
-[[gender dysphoria]]:
 
 [[Gender Euphoria]]:
 
 [[Germany]]:
 - Germans
 
-[[government]]:
-- govt
-
-[[GPT]]:
-
-[[grassroot support]]:
-
 [[Great Depression]]:
 
-[[guilt]]:
+[[HW Bush]]:
 
 [[Happiness]]:
+
+[[Happiness is enlightenment and sadness is delusion]]:
+
+[[Healing from Festered Emotions]]:
 
 [[Hierachy of Needs]]:
 
 [[Hinduism]]:
 - Hindu
+
+[[History of Human Sex]]:
 
 [[Hitler]]:
 
@@ -284,19 +329,470 @@
 
 [[House ownership]]:
 
+[[How ADHD effects concentration]]:
+
+[[How Neuroscience impacts our daily lives]]:
+
+[[How We're Shaped Mentally]]:
+
+[[How to represent a todo list]]:
+
+[[How to title your notes]]:
+
+[[How to write atomically]]:
+
+[[Human's have an inability to admit that they are wrong]]:
+
+[[Human's will find explanations for inexplainable things]]:
+
+[[I have a stored up emotion of hating myself]]:
+
+[[I relate to]]:
+
+[[I thought negative emotions were natural and that positive emotions weren't real]]:
+
+[[INDEX]]:
+
+[[Identity is your understanding of yourself and your interaction with the world]]:
+
+[[In order to for my parents to love me, they need to admit they might be wrong]]:
+
+[[Income Inequality Increases Unhappiness]]:
+
+[[Indigenous]]:
+
+[[Iran]]:
+
+[[Iraq]]:
+
+[[Is your self-talk bullying you or bodyguarding you]]:
+
+[[Israel]]:
+
+[[Italy]]:
+
+[[JFK]]:
+- John F Kennedy
+- John Kennedy
+
+[[Japan]]:
+- Japanese
+
+[[Javascript]]:
+
+[[Jesus' teachings are anti-thetical to the modern christian church]]:
+
+[[Jimmy Carter]]:
+
+[[John Lewis]]:
+
+[[Journal]]:
+
+[[Karma and Reincarnation in Hinduism]]:
+
+[[Knowledge of the world is painful]]:
+
+[[LAST-WEEK]]:
+
+[[LBJ]]:
+- Lyndon B Johnson
+- Lyndon Johnson
+
+[[Latine]]:
+- latino
+- latina
+- latinx
+
+[[Learning systems can be a gateway to creating thought]]:
+
+[[Life after a cult]]:
+
+[[Loving a a non-believer requires loving the fact that they are going to hell]]:
+
+[[MLK]]:
+- Martin Luther King
+
+[[Machine Learning]]:
+
+[[Make your inbox into an entry point]]:
+
+[[Malcolm X]]:
+
+[[Marxism]]:
+
+[[Marxist-Leninists]]:
+
+[[Mermaid (software)]]:
+
+[[Mexico]]:
+
+[[Monster of the Week]]:
+- MOTW
+
+[[My Deconstruction journey]]:
+
+[[My Second Brain]]:
+
+[[My relationship with my parents]]:
+
+[[My self-image is purely based on other's perceptions of me]]:
+
+[[My worldview is not about conversion it is about acceptance]]:
+
+[[NLP]]:
+- Natural Language Processing
+
+[[Native American]]:
+- Indigenous Americans
+- American Indians
+
+[[Nazi]]:
+
+[[Neuroscience]]:
+- neurological
+
+[[New Deal]]:
+
+[[Nixon]]:
+- Richard Nixon
+
+[[Non-Binary]]:
+
+[[Non-faith issues have been co-opted to keep people in the christian church]]:
+
+[[North Africa]]:
+
+[[Note structures should be loosely defined]]:
+
+[[Nuclear Fear]]:
+
+[[OCD]]:
+- obsessive compulsive disorder
+- Obsessive Compulsive Disorder
+
+[[Obama]]:
+
+[[Obsidian (software)]]:
+
+[[Our brains are built around survival]]:
+
+[[PTSD]]:
+
+[[Palestine]]:
+
+[[Parents need to model the ability to deal with emotion to their children]]:
+
+[[Patriot Act]]:
+
+[[Pentagon]]:
+
+[[People have been conditioned to believe the bible has to be infallible]]:
+
+[[Progressives]]:
+
+[[Protests]]:
+- protesting
+
+[[QUICKNOTE]]:
+
+[[Queer]]:
+- gay
+- lesbian
+- homosexual
+- bisexual
+
+[[RELATED-TOPICS]]:
+
+[[RFK]]:
+
+[[Reagan]]:
+- Ronald Reagan
+
+[[Reconstruction]]:
+
+[[Red Summer of 1919]]:
+
+[[Reincarnation]]:
+- samsara
+- punabbhava
+
+[[Rejection Sensitivity]]:
+
+[[Repressed identity creates a mistrust of self-love and self-esteem]]:
+
+[[Republican]]:
+
+[[Revolt]]:
+
+[[Rise of Conservatism]]:
+
+[[Roam Research]]:
+
+[[Rosa Parks]]:
+
+[[Russia]]:
+- Russians
+- Soviets
+- Soviet Union
+- USSR
+
+[[SEARCH]]:
+
+[[SQL]]:
+
+[[Sadness is enlightenment and happiness is delusion]]:
+
+[[Samskara]]:
+- samskara's
+- samskaras
+- sanskara
+- sanskaras
+
+[[Searching for THE answer is dangerous]]:
+
+[[Second Red Scare Discussion]]:
+
+[[Segregation]]:
+
+[[Self-hatred is born out of dissonance between self-image and presentation]]:
+
+[[Stock Market]]:
+
+[[Stupid rules are meant to be broken]]:
+
+[[Suburbia]]:
+
+[[Sympathy does not dissallow judgment]]:
+
+[[TODO]]:
+
+[[TTRPG]]:
+
+[[Tags should be general]]:
+
+[[Templater]]:
+
+[[The Cold War]]:
+
+[[The Left]]:
+- New Left
+
+[[The New Deal]]:
+
+[[The Vanguard]]:
+
+[[The bible is god breathed]]:
+
+[[The biblical christian God is evil and does not deserved to be worshipped]]:
+
+[[The brain is powerful enough to create supernatural experiences]]:
+
+[[The church will fail if christians keep aligning themselves with hate instead of love]]:
+
+[[The danger of religious beliefs in early childhood]]:
+
+[[The many transgressions of the christian church]]:
+
+[[The materialistic view of religions examines why humans invented and clung to religion]]:
+
+[[The nature of happiness is not doing what you love its detachment from the decisions of the life]]:
+
+[[The three main questions of life]]:
+
+[[There aren't any downsides to working through trauma]]:
+
+[[Tips for concentration]]:
+
+[[To be happy you need to not be sad]]:
+
+[[To my parents]]:
+
+[[Totalitarianism]]:
+
+[[Truman]]:
+
+[[Tyranny]]:
+
+[[UBI]]:
+
+[[US Policy]]:
+
+[[Unemployment]]:
+
+[[Veteran]]:
+
+[[Vietnam]]:
+- Vietnamese
+
+[[W Bush]]:
+
+[[WW2]]:
+- World War 2
+- World War Two
+
+[[War]]:
+
+[[War crimes]]:
+
+[[War on Drugs]]:
+
+[[War on Terror]]:
+
+[[Wealth Inequality]]:
+
+[[Webs of thought are densely linked]]:
+
+[[What is Ego]]:
+
+[[What is the difference between a evergreen note and a topic note]]:
+
+[[Why note storage is important]]:
+
+[[Working through trauma can involve of a lot of letting go]]:
+
+[[World War 1]]:
+- WW1
+- World War One
+
+[[Write your notes like you're planting an evergreen forest]]:
+
+[[Yang's Political Failure]]:
+
+[[Yang's Political Success]]:
+
+[[You can be enlightened and still grieve]]:
+
+[[You can be taught to invalidate your own emotions]]:
+
+[[You can leave the church and still believe in the christian god]]:
+
+[[You can't blame people for failing to rise above their circumstances]]:
+
+[[You're never sure if you're trans]]:
+
+[[Your anxiety is telling you everything that could go wrong not what will go wrong]]:
+
+[[Your insecurity is just more avenues for your anxiety to take advantage of]]:
+
+[[Zettlekassen]]:
+
+[[Zionism]]:
+
+[[abortion]]:
+
+[[acting]]:
+
+[[anti-liberalism]]:
+
+[[anxiety]]:
+
+[[atheism]]:
+
+[[belief systems]]:
+
+[[body dysmorphia]]:
+
+[[budget cuts]]:
+
+[[business]]:
+
+[[childhood trauma]]:
+
+[[confidence]]:
+
+[[conscious]]:
+- consciousness
+
+[[consent]]:
+
+[[content note]]:
+
+[[creationism]]:
+
+[[data querrying]]:
+
+[[defense-mechanisms]]:
+
+[[depression]]:
+
+[[desire]]:
+
+[[disassociation]]:
+
+[[disease]]:
+
+[[dissociation]]:
+
+[[do math]]:
+
+[[early childhood]]:
+
+[[eastern philosophy]]:
+- eastern mysticism
+
+[[economy]]:
+- economics
+
+[[education]]:
+
+[[ego]]:
+
+[[emotional invalidation]]:
+
+[[emotional validation]]:
+
+[[empathy]]:
+
+[[empathy isn't understanding how you would make the decision it's understanding why they made the decision]]:
+
+[[enlightenment]]:
+- Self-Realization
+- God-Realization
+- nirvikalpa
+- samadhi
+- Moksha
+
+[[enlightenment comes from detachment]]:
+
+[[evergreen notes]]:
+
+[[evolution]]:
+
+[[faith]]:
+
+[[fear of consequences]]:
+
+[[find related concepts]]:
+
+[[free-will]]:
+- free will
+
+[[gender dysphoria]]:
+
+[[gender identity]]:
+
+[[government]]:
+- govt
+
+[[grassroot support]]:
+
+[[guilt]]:
+
+[[how I use Obsidian tags]]:
+
 [[human advancement]]:
 
 [[human experience]]:
 
 [[human survival]]:
 
-[[HW Bush]]:
+[[identity]]:
 
 [[ignorance]]:
 
 [[improv]]:
 
-[[Indigenous]]:
+[[index note]]:
 
 [[individualism]]:
 
@@ -311,50 +807,12 @@
 [[inter-personal communication]]:
 - inter-personal relationships
 
-[[Iran]]:
-
-[[Iraq]]:
-
-[[Israel]]:
-
-[[Italy]]:
-
-[[Japan]]:
-- Japanese
-
-[[Javascript]]:
-
-[[JFK]]:
-- John F Kennedy
-- John Kennedy
-
-[[Jimmy Carter]]:
-
-[[John Lewis]]:
-
 [[karma]]:
 - kharma
 
-[[Latine]]:
-- latino
-- latina
-- latinx
-
-[[LBJ]]:
-- Lyndon B Johnson
-- Lyndon Johnson
-
 [[love]]:
 
-[[Machine Learning]]:
-
-[[Malcolm X]]:
-
 [[markets]]:
-
-[[Marxism]]:
-
-[[Marxist-Leninists]]:
 
 [[media]]:
 
@@ -362,14 +820,11 @@
 
 [[mental disorders]]:
 
-[[Mexico]]:
+[[mental health]]:
 
 [[middle class]]:
 
 [[mindfullness]]:
-
-[[MLK]]:
-- Martin Luther King
 
 [[model minority myth]]:
 
@@ -377,55 +832,36 @@
 
 [[monopolies]]:
 
+[[my TO(DO) and EVER(GREEN) structure]]:
+
 [[my emotions]]:
 
 [[my gender]]:
 
 [[my parents]]:
 
-[[My Second Brain]]:
-
-[[Native American]]:
-- Indigenous Americans
-- American Indians
-
-[[Nazi]]:
+[[natural selection]]:
 
 [[neurodivergency]]:
 - neurodivergent
 
-[[Neuroscience]]:
-- neurological
-
-[[New Deal]]:
-
-[[Nixon]]:
-- Richard Nixon
-
-[[NLP]]:
-- Natural Language Processing
-
-[[Non-Binary]]:
-
-[[North Africa]]:
+[[note writing]]:
 
 [[nuclear family]]:
 
-[[Obama]]:
-
-[[OCD]]:
-- obsessive compulsive disorder
-- Obsessive Compulsive Disorder
-
-[[Palestine]]:
+[[organizational notes]]:
 
 [[panic attacks]]:
 
-[[Patriot Act]]:
+[[parents]]:
 
-[[Pentagon]]:
+[[patient]]:
 
 [[perception]]:
+
+[[permanent note]]:
+
+[[personal knowledge management]]:
 
 [[pessimism]]:
 
@@ -437,29 +873,13 @@
 
 [[poltical strategy]]:
 
-[[poverty 1]]:
-
 [[poverty]]:
 
-[[Progressives]]:
+[[poverty 1]]:
 
 [[propaganda]]:
 
-[[Protests]]:
-- protesting
-
-[[PTSD]]:
-
-[[Queer]]:
-- gay
-- lesbian
-- homosexual
-- bisexual
-
 [[reactionist]]:
-
-[[Reagan]]:
-- Ronald Reagan
 
 [[realism]]:
 
@@ -467,9 +887,7 @@
 
 [[reform]]:
 
-[[Reincarnation]]:
-- samsara
-- punabbhava
+[[related topics]]:
 
 [[religion]]:
 
@@ -477,25 +895,11 @@
 
 [[religious trauma]]:
 
-[[Republican]]:
-
-[[Revolt]]:
-
-[[RFK]]:
-
-[[Roam Research]]:
-
 [[role-playing]]:
 
-[[Rosa Parks]]:
+[[second brain]]:
 
-[[Russia]]:
-- Russians
-- Soviets
-- Soviet Union
-- USSR
-
-[[Segregation]]:
+[[self]]:
 
 [[self-actualization]]:
 
@@ -511,9 +915,9 @@
 - self-worth
 - self-esteem
 
-[[self]]:
-
 [[social anxiety]]:
+
+[[social discomfort]]:
 
 [[social fitness]]:
 
@@ -529,63 +933,27 @@
 
 [[spirituality]]:
 
-[[SQL]]:
-
-[[Stock Market]]:
-
 [[subconscious]]:
 - subconsciously
 
-[[Suburbia]]:
+[[suffering]]:
 
 [[sympathy]]:
 
-[[The Cold War]]:
+[[tags as a data structure]]:
 
-[[The Left]]:
-- New Left
-
-[[The New Deal]]:
-
-[[The Vanguard]]:
+[[the politicization of the christian church]]:
 
 [[theology]]:
 
-[[Totalitarianism]]:
+[[topic note]]:
 
 [[transgender]]:
 - trans
 
 [[trauma]]:
 
-[[Truman]]:
-
-[[TTRPG]]:
-
-[[Tyranny]]:
-
-[[UBI]]:
-
 [[unconditional love]]:
-
-[[Unemployment]]:
-
-[[US Policy]]:
-
-[[Veteran]]:
-
-[[Vietnam]]:
-- Vietnamese
-
-[[W Bush]]:
-
-[[War crimes]]:
-
-[[War on Drugs]]:
-
-[[War on Terror]]:
-
-[[War]]:
 
 [[web of thought]]:
 
@@ -593,19 +961,15 @@
 
 [[white supremacy]]:
 
-[[World War 1]]:
-- WW1
-- World War One
-
 [[worldview]]:
 
-[[WW2]]:
-- World War 2
-- World War Two
+[[write what you think]]:
 
 [[yoga]]:
 
-[[Zionism]]:
+[[your anxiety knows your insecurities better than you do]]:
+
+[[zettle]]:
 
 aliases:
 - 

@@ -8,7 +8,7 @@ note-type:
 
 ###### [[Anxiety should be a tool at your disposal not an impedance to your life]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
-Being paralyzed by your anxiety is not the desired outcome
+Being paralyzed by your [[anxiety]] is not the desired outcome
 
 ---
 

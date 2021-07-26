@@ -23,7 +23,7 @@ related-topics: [[anxiety]]
 - Causes
 	- [[Your insecurity is just more avenues for your anxiety to take advantage of]]
 		- [[your anxiety knows your insecurities better than you do]]
-	- [[childhood trauma]] can create a person predisposed to social anxiety
+	- [[childhood trauma]] can create a person predisposed to social [[anxiety]]
 		- [[There aren't any downsides to working through trauma]]
 - Comorbid
 	- General [[anxiety]]

@@ -13,7 +13,7 @@ aliases:
 ---
  
 ##### [[enlightenment]] `=length(this.file.inlinks) + length(this.file.outlinks)`
-enlightenment, liberation, Self-Realization, God-Realization, nirvikalpa samadhi and finally Moksha
+enlightenment, liberation, [[Self]]-Realization, God-Realization, nirvikalpa samadhi and finally Moksha
 
 **Status**:: #EVER/SEED
 

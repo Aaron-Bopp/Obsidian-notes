@@ -11,14 +11,14 @@ author: Jocelyn Badgley
 > DNA is more what you'd call guidelines, than actual rules.
 
 ---
-**The Gender Dysphoria Bible is a Living Document**
+**The [[Gender Dysphoria]] Bible is a Living Document**
 
-The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of Gender Dysphoria. In its current iteration it is severely lacking in AFAB narratives, non-binary, agender & genderfluid specific dysphoria, and Third Gender narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
+The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third Gender narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
 
 [I'm going to regret paying the co-pay for this test eventually because it was pretty pricey… but I had my karyotype done. Just got the results.
 ](https://twitter.com/TransEthics/status/1223942625708761088)
 
-I –a trans woman– have XX chromosomes.
+I –a [[transgender|trans]] woman– have XX chromosomes.
 
 the GC crowd can g\[REDACTED\]k themselves
 
@@ -44,7 +44,7 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
     
 -   [XXYY Syndrome](https://en.wikipedia.org/wiki/XXYY_syndrome) results in male children (due to two SRY genes) which often experience hypogonadism, needing testosterone supplements, but otherwise seeming like a typical male
     
--   [Mosaicism](https://en.wikipedia.org/wiki/Mosaic_(genetics)) results when some cells in the body have one set of chromosomes and other cells have another due to a mutation of the genome during gestation. This may be XX/XY (resulting in a dual set of genitalia), X/XY (a milder form of Swyer or Turner syndromes) or XX/XXY (a milder form of Klinefelter syndrome).
+-   [Mosaicism](https://en.wikipedia.org/wiki/Mosaic_(genetics)) results when some cells in the body have one set of chromosomes and other cells have another due to a mutation of the genome during gestation. This may be XX/XY (resulting in a [[dual]] set of genitalia), X/XY (a milder form of Swyer or Turner syndromes) or XX/XXY (a milder form of Klinefelter syndrome).
     
 -   [Chimerism](https://en.wikipedia.org/wiki/Chimera_(genetics)) occurs when two fertilized embryos merge together into one zygote, causing half of the child to contain one set of DNA and the other half to contain another. This can result in an otherwise completely typical human being of either male or female phenotype, even capable of producing offspring, but which comes back on a kareotype test as not matching their phenotype based on where the sample was taken on their body. In extremely rare cases this can result in two full sets of reproductive organs.
     
@@ -80,7 +80,7 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 [It means you may be genetically male or female, chromosomally male or female, hormonally male/female/non-binary, with cells that may or may not hear the male/female/non-binary call, and all this leading to a body that can be male/non-binary/female.
 ](https://twitter.com/RebeccaRHelm/status/1207838570276372480)
 
-[Biological sex is complicated. Before you discriminate against someone on the basis of “biological sex” & identity, ask yourself: have you seen YOUR chromosomes? Do you know the genes of the people you love? The hormones of the people you work with? The state of their cells?
+[Biological sex is complicated. Before you discriminate against someone on the basis of “biological sex” & [[identity]], ask yourself: have you seen YOUR chromosomes? Do you know the genes of the people you [[love]]? The hormones of the people you work with? The state of their cells?
 ](https://twitter.com/RebeccaRHelm/status/1207839986801922048)
 
 [Of course you could try appealing to the numbers. “Most people are either male or female” you say. Except that as a biologist professor I will tell you...

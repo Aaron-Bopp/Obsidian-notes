@@ -12,7 +12,7 @@ parent: [[second brain]]
  
 ##### [[My Second Brain]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
-Since March 2021 I have become very interested in [[personal knowledge management]] and the concept of a [[web of thought]] so intricate that it creates a [[second brain]]. This is my structure and philosophy of how I will construct [[My Second Brain]]
+Since March 2021 I have become very interested in [[personal knowledge management]] and the concept of a [[web of thought]] so intricate that it creates a [[second brain]]. This is my structure and [[philosophy]] of how I will construct [[My Second Brain]]
 
 **Status**:: #EVER/GREEN 
 **Related-Topics**:: [[second brain]]
@@ -21,7 +21,7 @@ Since March 2021 I have become very interested in [[personal knowledge managemen
 - Driving principals
 	- [[Write your notes like you're planting an evergreen forest]]
 	- [[write what you think]]
-- General Philosophy
+- General [[Philosophy]]
 	- What is a [[second brain]]?
 		- [[Why note storage is important]]
 	- How to use a [[web of thought]]
@@ -35,12 +35,12 @@ Since March 2021 I have become very interested in [[personal knowledge managemen
 	- What is a [[permanent note]]?
 	- What is a [[topic note]]?
 	- [[organizational notes]]
-		- A Todo list
+		- A [[Todo]] list
 			- [[How to represent a todo list]]
 		- [[index note]]
 	- [[What is the difference between a evergreen note and a topic note]]
 	- [[Note structures should be loosely defined]]
-- Interacting with your second brain
+- Interacting with your [[second brain]]
 	- [[Make your inbox into an entry point]]
 	- [[my TO(DO) and EVER(GREEN) structure]]
 	- Curation

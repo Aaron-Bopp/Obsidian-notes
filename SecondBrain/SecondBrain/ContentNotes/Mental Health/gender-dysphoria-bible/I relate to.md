@@ -12,18 +12,18 @@ note-type:
     - Sometimes existential dysphoria can manifest existentially, hitting you with all the grief of the youth lost.
 - From [[11 Managed Dysphoria Gender in Disguise]]
     - Helping cis partners to shop in order to live vicariously through their presentation.
-    - many trans people grow up learning to hide their natural personalities out of sheer necessity.
+    - many [[transgender|trans]] people grow up learning to hide their natural personalities out of sheer necessity.
     - Buying in to ultra-conservative attitudes towards gender and sexuality.
     - Intensely investing large amounts of time into hobbies.
     - Chain binging movies, TV shows or books.
-    - Spending all idle time playing video games or on social media.
+    - Spending all idle time playing video games or on social [[media]].
 - From [[12 Impostor Syndrome, but make it Trans]]
-    - AMAB Enbies are often either grouped in with gay cis men or treated like trans women.
+    - AMAB Enbies are often either grouped in with [[Queer|gay]] cis men or treated like [[transgender|trans]] women.
 - From [[13 Diagnosing Gender Dysphoria]]
-    - **A strong desire to be rid of one�s primary and/or secondary sex characteristics**
-    - **A strong desire for the primary and/or secondary sex characteristics of another gender**
-    - **A strong desire to be of another gender**
-    - **A strong desire to be treated as another gender**
+    - **A strong [[desire]] to be rid of one�s primary and/or secondary sex characteristics**
+    - **A strong [[desire]] for the primary and/or secondary sex characteristics of another gender**
+    - **A strong [[desire]] to be of another gender**
+    - **A strong [[desire]] to be treated as another gender**
 - From [[2 A Brief History of Gender Dysphoria]]
     - This incongruence is so deep inside the brain�s subsystems that there is no obvious message of what the problem is.
 - From [[4 Physical Dysphoria]]
@@ -31,8 +31,8 @@ note-type:
     - It�s okay if you don�t hate anything about your body, and just wish you looked more feminine or masculine.
 - From [[5 Biochemical Dysphoria]]
     - A sense of detachment or estrangement from your own thoughts, feelings, or body: �I know I have feelings but I don�t feel them�
-    - Feeling as if you have an �unreal� or absent self: �I have no self�
-    - Being absorbed in yourself and experiencing a compulsive self-scrutiny or extreme rumination
+    - Feeling as if you have an �unreal� or absent [[self]]: �I have no [[self]]�
+    - Being absorbed in yourself and experiencing a compulsive [[self]]-scrutiny or extreme rumination
     - Having an ongoing and coherent dialog with yourself
     - You may put little care into your physical appearance, reaching for only the basic utilitarian needs in clothing and personal hygiene.
     - You may be unconcerned with the state of your body, perhaps not even fearing death, because you have so little attachment to your life.
@@ -41,11 +41,11 @@ note-type:
     - You find it hard to prioritize your own feelings. You're aware of emotions you \*should\* be feeling, but they're distant and fake-seeming
     - You struggle to imagine a future for yourself where you are happy or fulfilled.
     - You only take steps to better your life when external forces \*make\* you.
-    - You'd rather withdraw and self-minimize and focus on escapist hobbies
+    - You'd rather withdraw and [[self]]-minimize and focus on escapist hobbies
     - Your surroundings seem alien or unfamiliar, even if you�ve always been there, like someone has swapped out your house for a stage replica.
-    - Distortions in perception of time, such as recent events feeling like distant past.
+    - Distortions in [[perception]] of time, such as recent events feeling like distant past.
     - DPDR sometimes comes with an emotional stunting. You are able to laugh and find humor, but rarely ever genuine joy. Moments of sadness or grief cause you to just go numb, dissociated by the event that caused it.
-    - This can also go in the opposite direction, where the person is under so much anxiety that their emotional response is extremely disproportionate to the catalyst, resulting in severe crying or violent outbursts from seemingly small events.
+    - This can also go in the opposite direction, where the person is under so much [[anxiety]] that their emotional response is extremely disproportionate to the catalyst, resulting in severe crying or violent outbursts from seemingly small events.
 - From [[6 Social Dysphoria]]
     - When you interact with very masculine men, you're nervous. You don't really know how to carry on a conversation with them, or want to.
     - You're awkward at social touch.
@@ -54,13 +54,13 @@ note-type:
     - They may feel themselves drawn more to friendships with women, but become frustrated at the social and heterosexual dynamics that come into play between men and women, preventing them from forming platonic relationships.
     - They may find themselves deeply hurt when women shy away from them on principle.
 - From [[7 Societal Dysphoria]]
-    - For example, many trans women have stories about feeling the need to cover up their chest pre-transition out of an intrinsic sense of modesty.
+    - For example, many [[transgender|trans]] women have stories about feeling the need to cover up their chest pre-transition out of an intrinsic sense of modesty.
     - AMABs may find themselves wishing _they_ were the one being pampered
 - From [[9 Presentational Dysphoria]]
     - a wish to be able to present as people of that gender do.
-    - When you get ready to go, you just roll out of bed and throw on whatever. You don't really do any self-grooming, or care about what's on your body. You're a little proud of your lack of vanity, your deeper, non-appearance-level existence.
+    - When you get ready to go, you just roll out of bed and throw on whatever. You don't really do any [[self]]-grooming, or care about what's on your body. You're a little proud of your lack of vanity, your deeper, non-appearance-level existence.
     - Your clothes are chosen almost entirely for comfort.
-    - Feeling envious of other girls for being pretty is a thing that many many women feel. Dysphoria is a real headfuck of a layer on top of that feeling, yet I just wanna say that if you�re a trans woman feeling envious of another trans
+    - Feeling envious of other girls for being pretty is a thing that many many women feel. Dysphoria is a real headfuck of a layer on top of that feeling, yet I just wanna say that if you�re a [[transgender|trans]] woman feeling envious of another [[transgender|trans]]
 
 # [[No]]
 
@@ -77,7 +77,7 @@ note-type:
     - Growing and meticulously grooming facial hair (the so-called �denial beard�).
     - Presenting extremely masculine or hyper feminine.
     - Avoiding any conversation about fashion for any gender. Dissociating whenever fashion conversations or activities occur.
-    - Expressing Homophobia and Transphobia in self defense to ward off suspicion.
+    - Expressing [[Homophobia]] and Transphobia in [[self]] defense to ward off suspicion.
     - Aggressively passive engagement in anything connected to one�s true gender.
     - Long hours spent at work.
     - Obsessively cleaning one�s living space.
@@ -104,8 +104,8 @@ note-type:
     - When I read cishet experiences of their sexuality, I feel nothing but alienation.
 - From [[8 Sexual Dysphoria]]
     - Deviations from these roles often result in shame, both from partners and from peers.
-    - Trans people who enter into perceptually heterosexual relationships pre-transition sometimes find themselves losing interest in sexual intercourse, as penetrative acts do not produce the fulfillment that they would expect.
-    - Trans children often internalize their view of their peers based on their true gender, and one does not objectify their equals
+    - [[transgender|Trans]] people who enter into perceptually heterosexual relationships pre-transition sometimes find themselves losing interest in sexual intercourse, as penetrative acts do not produce the fulfillment that they would expect.
+    - [[transgender|Trans]] children often internalize their view of their peers based on their true gender, and one does not objectify their equals
     - Even around the most beautiful women, I would avoid even looking at them,
 
 # [[Sometimes]]
@@ -113,7 +113,7 @@ note-type:
 - From [[11 Managed Dysphoria Gender in Disguise]]
     - Shaving of body hair, or a refusal to shave hair you�re expected to.
     - Avoiding social gatherings whenever possible, seeking isolation.
-    - Many trans people speak about having a phase of life where they attempted to �buy-in� on their assigned gender, performing masculinity or femininity to extremes in order to try to �fix� themselves
+    - Many [[transgender|trans]] people speak about having a phase of life where they attempted to �buy-in� on their assigned gender, performing masculinity or femininity to extremes in order to try to �fix� themselves
 - From [[13 Diagnosing Gender Dysphoria]]
     - **A strong conviction that one has the typical feelings and reactions of another gender**
 - From [[5 Biochemical Dysphoria]]
@@ -128,9 +128,9 @@ note-type:
 - From [[6 Social Dysphoria]]
     - Changing in a gym locker room is unthinkable.
     - Even when your commentary is solicited, everything you could say feels unwanted and inappropriate
-    - For example, an AMAB trans person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don�t come naturally to them, and trying to emulate their male friends feels awkward.
+    - For example, an AMAB [[transgender|trans]] person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don�t come naturally to them, and trying to emulate their male friends feels awkward.
 - From [[8 Sexual Dysphoria]]
     - as someone with a strong fascination with women�s apparel, particularly lingerie.
     - But on top of all of this, I was _terrified_ to be seen expressing legitimate sexual interest in other women.
 - From [[9 Presentational Dysphoria]]
-    - an interest in feminine presentation to be misinterpreted as sexual desire.
+    - an interest in feminine presentation to be misinterpreted as sexual [[desire]].

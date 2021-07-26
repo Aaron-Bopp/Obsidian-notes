@@ -9,7 +9,7 @@ aliases:
 ---
  
 ##### [[karma]] `=length(this.file.inlinks) + length(this.file.outlinks)`
-consciousness
+[[conscious|consciousness]]
 
 **Status**:: #EVER/SEED
 

@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "842cd1a95a7860e3",
+        "id": "666e683bd4c260be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/INDEX.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f4aeea6003820095",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SecondBrain/TopicNotes/second brain.md",
-            "mode": "source"
+            "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
+            "mode": "preview"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "segre",
+                "query": "tag:#EVER/GREEN/GROWING",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/INDEX.md",
+                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -82,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/INDEX.md",
+                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/INDEX.md"
+                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md"
               }
             }
           },
@@ -117,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,10 +126,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/INDEX.md",
+                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "-file:INDEX",
+                  "search": "-file:INDEX -file:aliases",
                   "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -225,39 +213,30 @@
                   "repelStrength": 18.1176470588235,
                   "linkStrength": 0.752941176470588,
                   "linkDistance": 30,
-                  "scale": 0.4242087373840747,
+                  "scale": 0.2604127694684177,
                   "close": true
                 }
               }
             }
-          },
-          {
-            "id": "0dcf928768542278",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 1168,
     "collapsed": true
   },
-  "active": "842cd1a95a7860e3",
+  "active": "666e683bd4c260be",
   "lastOpenFiles": [
-    "SecondBrain/INDEX.md",
-    "SecondBrain/EvergreenNotes/Write your notes like you're planting an evergreen forest.md",
-    "SecondBrain/TopicNotes/My Second Brain.md",
-    "SecondBrain/TopicNotes/second brain.md",
-    "SecondBrain/TopicNotes/personal knowledge management.md",
-    "Untitled.md",
     "SecondBrain/EvergreenNotes/Monster of the Week.md",
-    "SecondBrain/EvergreenNotes/Non-faith issues have been co-opted to keep people in the christian church.md",
-    "Unemployment 1.md",
-    "love.md"
+    "SecondBrain/EvergreenNotes/Dataview.md",
+    "SecondBrain/INDEX.md",
+    "SecondBrain/TopicNotes/Palestine.md",
+    "SecondBrain/aliases.md",
+    "SecondBrain/TopicNotes/second brain.md",
+    "second brain.md",
+    "SecondBrain/TopicNotes/personal knowledge management.md",
+    "SecondBrain/EvergreenNotes/topic note.md",
+    "Attachments/dark hair long braid strong eyeborws alert eyes.png"
   ]
 }

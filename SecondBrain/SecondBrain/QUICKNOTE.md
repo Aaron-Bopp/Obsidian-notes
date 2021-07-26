@@ -14,7 +14,7 @@ https://docs.github.com/en/github/copilot/research-recitation#github-copilot-par
 [[EvergreenNotes/2021-06-14.md]]: #TO/EXPLORE/READ That's not what I meant Deborah tannon #TO/EXPLORE/READ Erickson child development #TO/EXPLORE/READ Thanks for the feedback Sheila Heen
 
 - [[7 types of toxic family systems.md]]: #TO/DO/CONCEPTUALIZE [10:52](https://www.youtube.com/watch?v=upAdaOmiRX8#t=652.6708148474121)
-	- Coming from a home that is lacking love will make it hard to take in kindness or understand that they're lovable because that would cause all of the grief of not being loved in childhood to come up
+	- Coming from a home that is lacking [[love]] will make it hard to take in kindness or understand that they're lovable because that would cause all of the grief of not being loved in childhood to come up
 
 [[2022-06-16]] 10:30
 [[your anxiety knows your insecurities better than you do.md]]: #TO/EXPLORE/RESEARCH 

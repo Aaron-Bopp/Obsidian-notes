@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0a5f4308b65159fd",
+        "id": "08e4bf8d78d66399",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Wildemount/Glossary/Betrayer God.md",
-            "mode": "preview"
+            "file": "D&D/MOTW/Classes/motw.md",
+            "mode": "source"
           }
         }
       }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/Glossary/Betrayer God.md",
+                "file": "D&D/MOTW/Classes/motw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Wildemount/Glossary/Betrayer God.md"
+                "file": "D&D/MOTW/Classes/motw.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/Glossary/Betrayer God.md",
+                "file": "D&D/MOTW/Classes/motw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/Glossary/Betrayer God.md",
+                "file": "D&D/MOTW/Classes/motw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,17 +208,17 @@
     "width": 962,
     "collapsed": true
   },
-  "active": "0a5f4308b65159fd",
+  "active": "08e4bf8d78d66399",
   "lastOpenFiles": [
-    "D&D/Wildemount/Glossary/Betrayer God.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Xhorhas/Rosohna.md",
-    "D&D/Wildemount/Factions and Societies/People/Aurora Watch.md",
-    "D&D/Wildemount/Glossary/Den.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Xhorhas/Asarius.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Xhorhas/Igrathad.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Xhorhas/Lotusden Greenwood.md",
-    "D&D/Wildemount/Wildemount Gazetteer/Eastern Wynandir.md",
-    "D&D/Wildemount/Wildemount Gazetteer.md",
-    "D&D/Wildemount/How to run a campaign in Wildemount.md"
+    "D&D/MOTW/Classes/motw.md",
+    "D&D/MOTW/Classes/The Chosen.md",
+    "D&D/MOTW/Classes/The Mundane.md",
+    "D&D/MOTW/Classes/The SpeLl-Slinger.md",
+    "D&D/MOTW/Classes/The Wronged.md",
+    "D&D/MOTW/Classes/The SpOoky.md",
+    "D&D/MOTW/Classes/The Flake.md",
+    "D&D/MOTW/Classes/The DiVIne.md",
+    "D&D/MOTW/Classes/The Crooked.md",
+    "D&D/MOTW/motw.md"
   ]
 }

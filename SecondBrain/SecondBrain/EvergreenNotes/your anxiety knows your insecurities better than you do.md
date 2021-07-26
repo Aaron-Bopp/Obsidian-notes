@@ -14,7 +14,7 @@ As you are trying to deal with your [[anxiety]] you may start removing many perc
 
 For example, people who are mentally handicapped often have very deep [[anxiety]] because they do not have the ability to understand situations and thus aren't able to find the source of the situation and [[anxiety]]. #TO/EXPLORE/RESEARCH Mental handicaps affect on [[anxiety]]. 
 
-You can also experience large amounts of [[anxiety]] if your identity is severely repressed. ([[Identity is your understanding of yourself and your interaction with the world]]) If you do not have an accurate identity, then you will be feeling things without understanding them. This will generate a large amount of anxiety because you do not understand the sources of the feelings well enough to predict when and understand why they happen. This can happen with a lot with people who have not discovered they are [[transgender]] or even with people who are not allowed to interact with the world how they want to.
+You can also experience large amounts of [[anxiety]] if your [[identity]] is severely repressed. ([[Identity is your understanding of yourself and your interaction with the world]]) If you do not have an accurate [[identity]], then you will be feeling things without understanding them. This will generate a large amount of [[anxiety]] because you do not understand the sources of the feelings well enough to predict when and understand why they happen. This can happen with a lot with people who have not discovered they are [[transgender]] or even with people who are not allowed to interact with the world how they want to.
 
 
 ---

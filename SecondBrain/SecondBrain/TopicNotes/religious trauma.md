@@ -11,7 +11,7 @@ parent: [[trauma]]
  
 ###### [[religious trauma]]
 
-ADHD
+[[ADHD]]
 
 **Status**:: #EVER/SEED
 

@@ -12,7 +12,7 @@ author: Jocelyn Badgley
 
 ---
 ## What to expect from Feminizing HRT 
-This is a compilation of reported medical transition changes collected from testimonials of AMAB trans people taking estrogen based hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
+This is a compilation of reported medical transition changes collected from testimonials of AMAB [[transgender|trans]] people taking estrogen based hormone therapy. This information is gathered from social [[media]] and chat rooms. Yes, that means this is all anecdotal, but historically, most of [[transgender]] medical study is anecdotal because no one wants to fund [[transgender]] medical research.
 
 **Note that this is a list of _possible_ changes. There is no guarantee that every person on feminizing HRT will experience all of these. Your age, genetics, medical history, degree of masculinization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness – every body is different – and some things can take years to appear.**
 
@@ -81,7 +81,7 @@ With this thickening, curliness may become more pronounced, and a change in hair
 ### [Anterior Pelvic Tilt](http://en.wikipedia.org/wiki/Pelvic_tilt) 
 As musculature atrophies, ligament flexibility increases, and weight shifts lower on the body, the orientation of the pelvic bone in relation to the spine and femurs rotates forward. Not by much, only about 10-20 degrees, but enough to cause a change in the alignment of the spine and hips, increasing arch of the back and causing the buttocks to jut out more. The added arch to the back can cause a relative drop in total height, between 1 and 2 inches (2-5cm) depending on pelvic shape.
 
-Note, this is NOT the same as the [hip rotation](https://youtu.be/OROoZzoVwfk?t=12) that occurs in AFAB puberty and during pregnancy. That is the result of migration of bone cells, altering the shape of the pelvic bone itself. **However**, hip rotation _can_ occur if the person is young enough to still be within initial puberty, where the body is producing elevated human growth hormone. There have also been examples of hip rotation happening over long periods of time in trans elders. In 2017 an 80 year old trans woman reported on reddit that over the course of her 30 years on HRT, her doctor observed changes in her pelvis consistent with female hip rotation.
+Note, this is NOT the same as the [hip rotation](https://youtu.be/OROoZzoVwfk?t=12) that occurs in AFAB puberty and during pregnancy. That is the result of migration of bone cells, altering the shape of the pelvic bone itself. **However**, hip rotation _can_ occur if the person is young enough to still be within initial puberty, where the body is producing elevated human growth hormone. There have also been examples of hip rotation happening over long periods of time in [[transgender|trans]] elders. In 2017 an 80 year old [[transgender|trans]] woman reported on reddit that over the course of her 30 years on HRT, her doctor observed changes in her pelvis consistent with female hip rotation.
 
 ### Reduced Tolerance of Caffeine, Alcohol, and/or Psychotropics 
 Less body mass means less blood to dilute chemicals into. Losing testosterone also means a slower metabolic rate, decreasing the speed at which toxins are reduced from the blood stream. Some anti-androgens also put strain on the liver, further reducing how quickly chemicals are processed.
@@ -90,7 +90,7 @@ Less body mass means less blood to dilute chemicals into. Losing testosterone al
 As covered in the Biochemical Dysphoria section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of [[Depersonalization]] and [[Derealization]] (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don’t also have other mental processing difficulties such as [[ADHD]]).
 
 ##### ADHD 
-If you have ADHD, there may be some changes in your symptoms. Androgens amplify [dopamine](https://en.wikipedia.org/wiki/Dopamine) receptor function, so reducing testosterone can reduce the activation potential for dopamine in the brain. Dopamine is a key neurotransmitter in the behavior of [working memory](https://en.wikipedia.org/wiki/Working_memory), the short-term memory of the brain. Less working memory means you become more prone to distractions and have more difficulty maintaining [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
+If you have [[ADHD]], there may be some changes in your symptoms. Androgens amplify [dopamine](https://en.wikipedia.org/wiki/Dopamine) receptor function, so reducing testosterone can reduce the activation potential for dopamine in the brain. Dopamine is a key neurotransmitter in the behavior of [working memory](https://en.wikipedia.org/wiki/Working_memory), the short-term memory of the brain. Less working memory means you become more prone to distractions and have more difficulty maintaining [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
 
 The good news is that estradiol prompts the brain to produce MORE dopamine.
 
@@ -99,9 +99,9 @@ The good news is that estradiol prompts the brain to produce MORE dopamine.
 There is a known problem with Spironolactone hampering working memory due to it’s affects on mineralcorticoids. This can significantly worsen [[ADHD]] issues and make it much harder to maintain focus or be aware of your surroundings. I was involved in a car accident in 2017 that I blame on spiro fog.
 
 ##### Emotional Expansion 
-The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and expression. The stoicism and dissociation lifts and emotions land with much greater intensity. Highs are higher and lows are lower. Those who may have been unable to cry, before transition, gain it back, both for sadness and for joy.
+The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and expression. The stoicism and [[dissociation]] lifts and emotions land with much greater intensity. Highs are higher and lows are lower. Those who may have been unable to cry, before transition, gain it back, both for sadness and for joy.
 
-Unfortunately this also means that if you had trauma from events earlier in life (and who doesn’t), you may start to experience PTSD episodes. This is why it is good (and in some places, required) to have a therapist.
+Unfortunately this also means that if you had [[trauma]] from events earlier in life (and who doesn’t), you may start to experience [[PTSD]] episodes. This is why it is good (and in some places, required) to have a therapist.
 
 ##### Mood Swings 
 As estrogen levels fluctuate between doses you may experience noticeable and sometimes dramatic shifts in your mood. Unexplained crying happens; PMS rage happens; be ready for it.
@@ -114,36 +114,36 @@ However, progesterone increases mitochondrial function within the body, boosting
 That said, you may find yourself unable to eat _as much_ food as you could before. Many report that they become full/satisfied sooner than before.
 
 ##### Sleep 
-Many people report having better sleep patterns after starting HRT. This is likely a factor of the alleviation of DPDR, as it seems to occur in both AMAB and AFAB trans people. That said, initiating progesterone can _significantly_ improve sleep, allowing for deeper sleep and more dreaming.
+Many people report having better sleep patterns after starting HRT. This is likely a factor of the alleviation of DPDR, as it seems to occur in both AMAB and AFAB [[transgender|trans]] people. That said, initiating progesterone can _significantly_ improve sleep, allowing for deeper sleep and more dreaming.
 
 ##### Extroversion 
-It’s extremely common for trans people of all types to find themselves much more sociable post-transition. This may not actually be a factor of hormone therapy, however, an simply be a result of no longer having to suppress large portions of their personality.
+It’s extremely common for [[transgender|trans]] people of all types to find themselves much more sociable post-transition. This may not actually be a factor of hormone therapy, however, an simply be a result of no longer having to suppress large portions of their personality.
 
 ### Sensory Enhancements 
-Transgender HRT has [been shown several times](https://academic.oup.com/cercor/article/28/5/1582/3064956) to cause changes in the distribution of gray matter and white matter within the brain for trans people on both forms of HRT. New structures and neuro-pathways are formed as a result of the shift in hormone profiles, and this results in changes of sensory perception. These are some of the changes that have been observed and reported, but it is is not clear if this is a function of the hormones themselves, or a factor of the brain receiving the hormones it is wired for.
+[[Transgender]] HRT has [been shown several times](https://academic.oup.com/cercor/article/28/5/1582/3064956) to cause changes in the distribution of gray matter and white matter within the brain for [[transgender|trans]] people on both forms of HRT. New structures and neuro-pathways are formed as a result of the shift in hormone profiles, and this results in changes of sensory [[perception]]. These are some of the changes that have been observed and reported, but it is is not clear if this is a function of the hormones themselves, or a factor of the brain receiving the hormones it is wired for.
 
 -   **Improved sense of smell**, especially of other bodies. Human sweat becomes very discernible, even overpowering at times.
--   **Improved color perception**. Colors may become bolder, richer.
--   **Improved spatial awareness**. Many trans people experience poor proprioception and a tendency towards clumsiness that goes away after starting HRT.
--   **Changes in perception of taste**. Certain foods become more or less palatable; Cilantro, for example, may become more or less soapy. Increased tolerance of capsaicin (spicy peppers). Chocolate and wine become more flavorful.
+-   **Improved color [[perception]]**. Colors may become bolder, richer.
+-   **Improved spatial awareness**. Many [[transgender|trans]] people experience poor proprioception and a tendency towards clumsiness that goes away after starting HRT.
+-   **Changes in [[perception]] of taste**. Certain foods become more or less palatable; Cilantro, for example, may become more or less soapy. Increased tolerance of capsaicin (spicy peppers). Chocolate and wine become more flavorful.
 
 Users of Spironolactone often develop strong cravings for foods high in salt, such as pickles, olives, or potato products. This is because Spiro is a potassium sparing diuretic which causes you to pee out all your sodium. The brain creates cravings to encourage you to replace that sodium.
 
 ### Spatial Shift, Reduced Confidence 
 There is a very frequently reported experience of feeling smaller within the world, even when wearing heels. People taller than you seem to tower over you, and spaces feel larger.
 
-People have also reported a tendency to be less prone to start arguments, an a desire to avoid confrontation rather than create it. Testosterone has been shown to increase a persons sense of confidence, and removing it has the opposite affect.
+People have also reported a tendency to be less prone to start arguments, an a [[desire]] to avoid confrontation rather than create it. Testosterone has been shown to increase a persons sense of [[confidence]], and removing it has the opposite affect.
 
 ### Genital Changes 
  [![](https://genderdysphoria.fyi/gdb/homology-bdbcc8c91a.jpeg)](https://www.vielma.at/) 
 
-All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you remove androgens and add estrogens, these tissues start acting like they are in the shape of a vulva, even though they aren’t.
+All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you remove androgens and add estrogens, these tissues start [[acting]] like they are in the shape of a vulva, even though they aren’t.
 
 ##### Increased Sensitivity 
 The skin on the glans and shaft becomes much thinner and fragile, more prone to tearing and irritation, while also becoming _significantly_ more sensitive to touch. The entire organ also becomes much more sensitive to pressure, and vibration becomes a better form of stimulation over stroking, which may become painful.
 
 #### Moisture and Feminine Odor 
-The skin along the shaft begins to secret the same fluids as the vaginal canal, particularly during arousal (yes, trans girls get wet). These fluids encourage the development of the same microbiome that develops within the vaginal canal. The combination of these factors means that odor (and taste) of the penis changes to align more to that of a vulva.
+The skin along the shaft begins to secret the same fluids as the vaginal canal, particularly during arousal (yes, [[transgender|trans]] girls get wet). These fluids encourage the development of the same microbiome that develops within the vaginal canal. The combination of these factors means that odor (and taste) of the penis changes to align more to that of a vulva.
 
 ##### Color and Texture Changes 
 The scrotum is an analog of the outer and inner labia, and softens to take on a softer, more velvety texture, extending down into the perineum. The skin along the perineal raphe (the vertical line where the vulva opening had been before the scrotum formed) will also darken. Some people experience a kind of striping pattern along the scrotum.
@@ -175,7 +175,7 @@ The entire body becomes more responsive to touch, and with that unlocks stronger
 Orgasm changes significantly, both in the way it builds and how it is experienced (see link above), but additionally, if one is lucky, they will gain the ability to become multi-orgasmic with no refractory period. The cost of this is that orgasm may become harder to achieve, and one has to re-learn how to reach it. It also becomes easier to reach with a partner, which may have been the opposite before.
 
 ##### Attraction 
-It is [not at all unheard of](https://www.them.us/story/sexual-attraction-after-transition) for a transgender person to experience a change in their sexual orientation with transition. This is almost always the result of the removal of self-imposed mental barriers, but hormone therapy often plays a role _in_ that removal. In most cases this simply involves an expansion of ones attraction, from monosexual to bi/pansexual, but some people also discover that their attraction was largely rooted in self-interest and that their true attraction is reversed.
+It is [not at all unheard of](https://www.them.us/story/sexual-attraction-after-transition) for a [[transgender]] person to experience a change in their sexual orientation with transition. This is almost always the result of the removal of [[self]]-imposed mental barriers, but hormone therapy often plays a role _in_ that removal. In most cases this simply involves an expansion of ones attraction, from monosexual to bi/pansexual, but some people also discover that their attraction was largely rooted in [[self]]-interest and that their true attraction is reversed.
 
 ### Cyclical Period-like Symptoms 
 Obviously, we do not mean blood flow, that would be ludicrous. Symptoms vary greatly (just as they do in cisgender women) and typically last for 2-4 days, repeating every 26-32 days (though some report experiencing it bi-weekly). This happens independent of medication dosing schedules. The use of a period tracker app like Clue can reveal the pattern.
@@ -185,7 +185,7 @@ Obviously, we do not mean blood flow, that would be ludicrous. Symptoms vary gre
 -   Gas, diarrhea and other intestinal issues.
 -   Emotional instability, mood swings and irrational thoughts
     -   Heightened [[depression]] and dysmorphia
-    -   [[Depersonalization]] or dissociation.
+    -   [[Depersonalization]] or [[dissociation]].
     -   Increased dysphoria
     -   Irritability (PMS)
 -   Muscle and joint aches and pains

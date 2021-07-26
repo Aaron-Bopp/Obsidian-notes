@@ -6,10 +6,10 @@ note-type:
 - topic-note
 
 ---
-- America's changing population
-    - Ethnic makeup of America is majorly shifting
+- [[America]]'s changing population
+    - Ethnic makeup of [[America]] is majorly shifting
         - majority minority by 2050
-    - Large movements from rural to cities affecting government makeups
+    - Large movements from rural to cities affecting [[government]] makeups
 
 
 ---

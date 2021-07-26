@@ -8,7 +8,7 @@ note-type:
 
 ###### [[To be happy you need to not be sad]] `=length([[To be happy you need to not be sad]].file.inlinks) + length([[To be happy you need to not be sad]].file.outlinks)`
 
-Major sources of sadness such as [[socio-economic]] conditions, [[trauma]] ([[societal trauma]], [[childhood trauma]]) or other major sources of [[depression]], [[gender dysphoria]], [[dissociation]], or other [[mental disorders]] will stop the ability to be happy just by the shear weight of their sadness. Some forms of [[neurodivergency]] ([[ADHD]], [[Autism]]) can also cause chemical imbalances that prevent full or consistent happiness.
+Major sources of sadness such as [[socio-economic]] conditions, [[trauma]] ([[societal trauma]], [[childhood trauma]]) or other major sources of [[depression]], [[gender dysphoria]], [[dissociation]], or other [[mental disorders]] will stop the ability to be happy just by the shear weight of their sadness. Some forms of [[neurodivergency]] ([[ADHD]], [[Autism]]) can also cause chemical imbalances that prevent full or consistent [[happiness]].
 
 ---
 

@@ -45,7 +45,7 @@ All sexually dimorphic features which develop during and after puberty as a resu
 
 #### For Your Information
 
-The genitals of a transgender person on hormone therapy do not behave remotely like their cisgender counterparts.
+The genitals of a [[transgender]] person on hormone therapy do not behave remotely like their cisgender counterparts.
 
 -   The Estrogenic Penis softens, erections become less pronounced, the skin thins and begins to perspire like a vaginal wall. The scrotum softens and changes color, with the perineal raphe becoming more distinct. Due to the cessation of random erections, the erectile tissue will atrophy if not regularly put to use, causing the entire penis to shrink over time. Vibration becomes more effective for arousal.
     
@@ -60,7 +60,7 @@ Physical dysphoria manifests in several different ways. Sometimes this is felt i
 
 It can be felt as a sort of _reverse_ phantom effect, where the person is persistently aware of something that should _not_ be there. The brain is receiving sensory input that it does not expect, such as the weight of breasts, or the presence of testicles or a uterus, and this input takes priority because it isn’t expected.
 
-It may be felt as horror or revulsion when looking at or touching the external genitals, triggering emotional outbursts or a strong desire to remove the offending organ. AFAB (assigned female at birth) trans people may experience feelings of wrongness during menstruation, or a sense of alien disconnect from their hormone cycle.
+It may be felt as horror or revulsion when looking at or touching the external genitals, triggering emotional outbursts or a strong [[desire]] to remove the offending organ. AFAB (assigned female at birth) [[transgender|trans]] people may experience feelings of wrongness during menstruation, or a sense of alien disconnect from their hormone cycle.
 
 When my friends back in high school would discuss who their ideal woman was, they were all describing physical traits of a person they’d want to date... as I explained who I wanted to be.
 
@@ -72,7 +72,7 @@ Undesired physical features may prompt a person to experience envy of people who
 
 [[Yes]] ==Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. ==For most of my life I believed that the reason I hate my body was because I was fat. It wasn’t until I started transition that I realized I don’t hate my fat at all, I hated having _male_ fat. The feminine curves that HRT gave me make me feel so much more in tune with my body.
 
-The dysphoria one feels about their body can and will change over time, for better and worse. For example, many trans women enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminization surgery, but then 2 years in to transition, realize they’re actually okay with how they look.
+The dysphoria one feels about their body can and will change over time, for better and worse. For example, many [[transgender|trans]] women enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminization surgery, but then 2 years in to transition, realize they’re actually okay with how they look.
 
 It’s okay for you to realize you need more or less than when you started.
 
@@ -82,12 +82,12 @@ It’s okay if you only hate some aspects of your body, and don’t wish to chan
 
 It’s okay if you don’t need medical transition _at all_. Body feelings are not the be-all-end-all of transition.
 
-**Total body physical dysphoria is not a requirement to be transgender. AFABs do not have to hate their chest, AMABs do not have to hate their penis. Every trans person’s experience is different. All are valid.**
+**Total body physical dysphoria is not a requirement to be [[transgender]]. AFABs do not have to hate their chest, AMABs do not have to hate their penis. Every [[transgender|trans]] person’s experience is different. All are valid.**
 
 ### Internalized Body Image Issues 
-The world is full of subconscious messages about how men and women’s bodies should be shaped. We are bombarded with advertising and media creating a normalized view of what is and is not beautiful. Don’t be too fat, don’t be too skinny, don’t be too tall, don’t be too short, don’t have too broad of a chin, don’t have too large of a nose, wear makeup but don’t wear too much makeup, don’t leave the house without a bra, but don’t let the bra show. On and on and on, the constant barrage of expectations of gendered appearance.
+The world is full of [[subconscious]] messages about how men and women’s bodies should be shaped. We are bombarded with advertising and [[media]] creating a normalized view of what is and is not beautiful. Don’t be too fat, don’t be too skinny, don’t be too tall, don’t be too short, don’t have too broad of a chin, don’t have too large of a nose, wear makeup but don’t wear too much makeup, don’t leave the house without a bra, but don’t let the bra show. On and on and on, the constant barrage of expectations of gendered appearance.
 
-Everyone absorbs these messages, and trans people internalize the factors which matter to the gender they align with. Trans girls grow up mapping feminine standards onto themselves, trans boys map masculine standards on to themselves, and enbies often internalize shame around androgyny. This is _on top_ of the shame they are loaded with for not living up to their assigned gender’s standards.
+Everyone absorbs these messages, and [[transgender|trans]] people internalize the factors which matter to the gender they align with. [[transgender|Trans]] girls grow up mapping feminine standards onto themselves, [[transgender|trans]] boys map masculine standards on to themselves, and enbies often internalize shame around androgyny. This is _on top_ of the shame they are loaded with for not living up to their assigned gender’s standards.
 
 What is the end result of this? Kathryn said it best:
 
@@ -95,7 +95,7 @@ What is the end result of this? Kathryn said it best:
 
 > ==If you're under the assumption that you're a cis guy but have always dreamed of being a girl, and the only reason you haven't transitioned is because you're afraid you'll be an "ugly" girl:==
 >
-> ==That's dysphoria. You're literally a trans girl already, hon.==
+> ==That's dysphoria. You're literally a [[transgender|trans]] girl already, hon.==
 
 [@TransSalamander](https://twitter.com/TransSalamander/status/947523244948680705) 
 

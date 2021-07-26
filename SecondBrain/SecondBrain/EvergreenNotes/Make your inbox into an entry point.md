@@ -14,7 +14,7 @@ In a typical inbox you may have things you haven't read, have skimmed, have read
 
 Your entry points you may have things you've read, things you've read and notated, things you want to write more on, etc. You can see that these things are closely linked, and with a simple structure they can easily be combined into a coherent system. Using a level of priority and consistent structure you can combine these structure into your process of developing knowledge. 
 
-This philosophy is represented in [[my TO(DO) and EVER(GREEN) structure]]
+This [[philosophy]] is represented in [[my TO(DO) and EVER(GREEN) structure]]
 asdfasdf
 ###### <hr class="footnote"/>
 **Status**:: #EVER/GREEN/PRUNE   

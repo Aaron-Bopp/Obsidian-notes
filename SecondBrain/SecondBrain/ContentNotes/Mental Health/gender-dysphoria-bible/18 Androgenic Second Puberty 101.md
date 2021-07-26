@@ -12,7 +12,7 @@ author: Jocelyn Badgley
 
 ---
 ## What to expect from Masculinizing HRT 
-This is a compilation of reported medical transition changes collected from testimonials of AFAB trans people taking testosterone hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
+This is a compilation of reported medical transition changes collected from testimonials of AFAB [[transgender|trans]] people taking testosterone hormone therapy. This information is gathered from social [[media]] and chat rooms. Yes, that means this is all anecdotal, but historically, most of [[transgender]] medical study is anecdotal because no one wants to fund [[transgender]] medical research.
 
 **Note that this is a list of _possible_ changes. There is no guarantee that every person on masculinizing HRT will experience all of these. Your age, genetics, medical history, degree of feminization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness – every body is different – and some things can take years to appear.**
 
@@ -75,7 +75,7 @@ This is and extremely subtle and slow moving process that takes years, and it is
 More mass means more blood to dilute chemicals into. Increasing testosterone also means a higher metabolic rate, increasing the speed at which toxins are removed from the blood stream.
 
 ### Mental Changes 
-As covered in the Biochemical Dysphoria section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of [[Depersonalization]] and [[Derealization]] (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don’t also have other mental processing difficulties such as ADHD).
+As covered in the Biochemical Dysphoria section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of [[Depersonalization]] and [[Derealization]] (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don’t also have other mental processing difficulties such as [[ADHD]]).
 
 ##### ADHD 
 If you have [[ADHD]], there may be some changes in your symptoms. Androgens amplify [dopamine](https://en.wikipedia.org/wiki/Dopamine) receptor function, so increasing testosterone can improve the activation potential for dopamine in the brain. Dopamine is a key neurotransmitter in the behavior of [working memory](https://en.wikipedia.org/wiki/Working_memory), the short-term memory of the brain. More working memory means you may become less prone to distractions and have an easier time maintaining [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
@@ -83,7 +83,7 @@ If you have [[ADHD]], there may be some changes in your symptoms. Androgens ampl
 _However_, estradiol encourages the production of dopamine, so as estrogen levels fall there will be less dopamine for the brain to work with. Your symptoms worsen, not improve.
 
 ##### Emotional Expansion 
-The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and emotional regulation. Emotions become somewhat more controllable and suppressible, less likely to overwhelm on the spot. _Please note: suppressing emotions is a very quick way to develop trauma._
+The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and emotional regulation. Emotions become somewhat more controllable and suppressible, less likely to overwhelm on the spot. _Please note: suppressing emotions is a very quick way to develop [[trauma]]._
 
 However, the ability to express them may become reduced. Some people lose the ability to cry after starting on testosterone, but this is _not_ a universal experience and may be tied into how strong your T dose is. The reasons behind this aren’t well known, although some studies have found that androgens alter function in parts of the brain connected to emotional processing. If you do lose the ability to cry, it may return in time as your brain become more acclimated and you come out of second puberty.
 
@@ -105,15 +105,15 @@ You are going to be hungry. Testosterone cranks the body’s metabolism up signi
 Some people report problems with insomnia and having fewer memorable dreams. This is far from a universal, however.
 
 ##### Confidence 
-Testosterone is known to induce a strong sense of self-confidence in people. Problems seem less significant, self-esteem is stronger, fewer anxieties. Many people report a tendency to be more prone spark arguments, and more willing to speak out in the face of conflict and self advocate. This does _not_ mean more hostile or argumentative, simply that ones tolerance for bullshit is lower.
+Testosterone is known to induce a strong sense of [[self]]-[[confidence]] in people. Problems seem less significant, [[self-love|self-esteem]] is stronger, fewer anxieties. Many people report a tendency to be more prone spark arguments, and more willing to speak out in the face of conflict and [[self]] advocate. This does _not_ mean more hostile or argumentative, simply that ones tolerance for bullshit is lower.
 
 ##### Extroversion 
-It’s extremely common for trans people of all types to find themselves much more sociable post-transition. This may simply be a result of no longer having to suppress large portions of their personality, but the aforementioned confidence also plays a role.
+It’s extremely common for [[transgender|trans]] people of all types to find themselves much more sociable post-transition. This may simply be a result of no longer having to suppress large portions of their personality, but the aforementioned [[confidence]] also plays a role.
 
 ### Genital Changes 
  [![](https://genderdysphoria.fyi/gdb/homology-bdbcc8c91a.jpeg)](https://www.vielma.at/) 
 
-All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you add androgens, these tissues start acting like they are in the shape of a penis and scrotum, even when they aren’t.
+All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you add androgens, these tissues start [[acting]] like they are in the shape of a penis and scrotum, even when they aren’t.
 
 ##### Bottom Growth 
 DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in Testosterone, this will cause the Skene’s Gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common.
@@ -121,7 +121,7 @@ DHT (mentioned above) plays a critical role in the development of the erectile t
 [[@salenby](https://twitter.com/salenby) [@FoxxyGlamKitty](https://twitter.com/FoxxyGlamKitty) I've been on T for literally a week and a half, and all I will say is that bottom growth and increased libido starts waaaayyyy quicker than you might think.
 ](https://twitter.com/zeghostboy/status/1374094470753423360)
 
-The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. Self lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding.
+The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. [[Self]] lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding.
 
 ##### Increased Emissions During Climax 
 With the swelling of the prostate comes more prostate fluid. If you weren’t a squirter before, you may become one now.
@@ -130,7 +130,7 @@ With the swelling of the prostate comes more prostate fluid. If you weren’t a 
 Erogenous stimulation may become more focused on the head of the clitoris and in stroking of the shaft.
 
 ##### Atrophy 
-Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse. Vaginal atrophy can be avoided through the use of the same vaginal dilators that AMAB trans people use following vaginoplasty.
+Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse. Vaginal atrophy can be avoided through the use of the same vaginal dilators that AMAB [[transgender|trans]] people use following vaginoplasty.
 
 ##### Increased Sex Drive 
 [[@salenby](https://twitter.com/salenby) [@chaoticgaythey](https://twitter.com/chaoticgaythey) The jokes about teenage boys always being horny, well, it's a thing. Not uncontrollably, get yourself in trouble horny, but I'd have sex multi times a day...

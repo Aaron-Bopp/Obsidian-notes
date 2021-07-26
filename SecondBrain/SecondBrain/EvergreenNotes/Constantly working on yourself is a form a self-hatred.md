@@ -10,7 +10,7 @@ note-type:
 
 You can't hate every mistake you make. You have to accept that you made them and sometimes that's okay. 
 
-If you can never be content that you are good enough, you are just looking for another part of your self to hate. This is fundamentally different from just loving yourself
+If you can never be content that you are good enough, you are just looking for another part of your [[self]] to hate. This is fundamentally different from just loving yourself
 
 ---
 

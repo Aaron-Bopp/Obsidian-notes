@@ -9,7 +9,7 @@ searchTerm:: EVER/SEED/UNPLANTED
  [Search](https://github.com/torantine/obsidian-snippets#across-vault-word-count)
 <%*
 
-// thanks to Christian for the MetaEdit Plugin and help with containers
+// thanks to [[Christianity|Christian]] for the MetaEdit Plugin and help with containers
 // https://github.com/chhoumann/MetaEdit
 
 dv.paragraph("If you have MetaEdit enabled, you can use the dropdown menus below to choose a search type and a term.<br><br>")
@@ -24,7 +24,7 @@ if(metaeditEnabled === true) {
 	let searchTerm = dv.pages().where(f => f.file.path == dv.current().file.path).searchTerm;
 	function formatDate(date){
 
-	//https://stackoverflow.com/questions/23593052/format-javascript-date-as-yyyy-mm-dd#:~:text=The%20simplest%20way%20to%20convert,getTimezoneOffset()%20*%2060000%20))%20.
+	//https://stackoverflow.com/questions/23593052/format-[[javascript]]-date-as-yyyy-mm-dd#:~:text=The%20simplest%20way%20to%20convert,getTimezoneOffset()%20*%2060000%20))%20.
 
 		var d = new Date(date),
 			month = '' + (d.getMonth() + 1),
@@ -88,7 +88,7 @@ if(metaeditEnabled === true) {
 
 		// https://stackoverflow.com/questions/9895082/javascript-populate-drop-down-list-with-array
 
-		tags.forEach((tag, index) => {
+		tags.forEach((tag, [[index]]) => {
 			var opt = tag;
 			var el = dropdown.createEl('option');
 			opt != "#" ? el.textContent = opt : el.textContent = "All Pages";

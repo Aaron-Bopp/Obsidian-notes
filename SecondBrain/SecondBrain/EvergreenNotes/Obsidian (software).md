@@ -17,7 +17,7 @@ It also has a variety of plugins that help the workflow
 - [[Templater]]
 	- Allows for advanced code execution and pre-built templates in [[Obsidian (software)]]
 - [[Dataview]]
-	- SQL queries for all your notes in [[Obsidian (software)]]
+	- [[SQL]] queries for all your notes in [[Obsidian (software)]]
 - [Outliner](https://github.com/vslinko/obsidian-outliner)
 	- Inspired by [[Roam Research]]'s focus on outlining
 - [Andy's Sliding Panes](https://github.com/deathau/sliding-panes-obsidian)

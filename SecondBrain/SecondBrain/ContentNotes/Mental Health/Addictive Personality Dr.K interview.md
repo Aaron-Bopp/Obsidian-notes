@@ -36,7 +36,7 @@ creation date: 2021-06-07
 modification date: Monday 7th June 2021 21:46:29
 note-type: 
 - content-note
-creator: DrK
+creator: [[DrK]]
 content-type:
 - youtube
 - video

@@ -12,7 +12,7 @@ note-type:
 This structure is how I [[Make your inbox into an entry point]] and is deeply entwined with [[how I use Obsidian tags]] as a part of [[My Second Brain]]
 
 - TO tags should be used for specific items, not general tasks	
-- TO tags are note a daily todo, they are a way to specify a task inline the to be done in the future. These tags should be temporary, but they are not scheduled		
+- TO tags are note a daily [[todo]], they are a way to specify a task inline the to be done in the future. These tags should be temporary, but they are not scheduled		
 - #TO  see all the things you want to do in you [[Obsidian (software)]]
 	- #TO/DO things that you have to actively take part in,
 		- #TO/DO/WRITE write a specific item, not used for need to write or expand an evergreen note
@@ -29,7 +29,7 @@ This structure is how I [[Make your inbox into an entry point]] and is deeply en
 		- #TO/PONDER/SOCIETY
 
 - This structure is both a reference for what kind of note it is, but also an entry point to work on [[evergreen notes]]s
-- #EVER see all the evergreen notes in the [[Obsidian (software)]]
+- #EVER see all the [[evergreen notes]] in the [[Obsidian (software)]]
 	- #EVER/SEED a concept
 		- #EVER/SEED/UNPLANTED a concept that has no links into the [[web of thought]]
 		- #EVER/SEED/WATER a concept that I would like to add more to
