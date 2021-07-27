@@ -25,7 +25,7 @@ Rules . . . . . . . . . . 15
 
 [[Five Ways A Patron Improves Your Campaign]] 56
 
-A Matter of Timing: Pacing for Convention Games . . 61 
+[[A Matter of Timing Pacing for Convention Games]] . . 61 
 
 [[Going Gothic]] . . . . . . . . . . 68
 
@@ -37,11 +37,11 @@ A Matter of Timing: Pacing for Convention Games . . 61
 
 [[Stranger Kids]] . . . . . . . . . . 85
 
-The Structure Of An Onthe-fly Game . . . . . . . 88
+[[The Structure Of An On-the-fly Game]] . . . . . . . 88
 
 ## Mysteries . . . . . . . 97
 
-802,701 A.D. . . . . . . . . . . 98
+[[802701 AD]] . . . . . . . . . . 98
 
 [[Arachne Genesis]] . . . . . . . .105
 
@@ -67,7 +67,7 @@ The Structure Of An Onthe-fly Game . . . . . . . 88
 
 [[Going to Pieces]] . . . . . . . . .171
 
-Harvest Maze . . . . . . . . . .180
+[[Harvest Maze]] . . . . . . . . . .180
 
 [[Haunting at the Old Grand]] . .186
 
@@ -75,9 +75,11 @@ Harvest Maze . . . . . . . . . .180
 
 [[Hollow Lake]] . . . . . . . . . . .196
 
-Mini Movie
+[[Mini Movie Monster Mayhem]]. . . . .201 
 
-Monster Mayhem. . . . .201 [[The Mole King's Brides]] . . . .211 Necromancer's Gambit . . . .217
+[[The Mole King's Brides]] . . . .211 
+
+[[Necromancers Gambit]] . . . .217
 
 [[Orbital Funk Princess]] . . . . .223
 
@@ -87,10 +89,12 @@ Monster Mayhem. . . . .201 [[The Mole King's Brides]] . . . .211 Necromancer's G
 
 [[Razorback]] . . . . . . . . . . . .239
 
-Red Queen's Gambit . . . . . .243
+[[Red Queens Gambit]] . . . . . .243
 
 [[Special Snowflake]] . . . . . . .249
 
 [[The Torch Comes To Town]] . .256
 
-[[Witching Hour]] . . . . . . . . .262 [[World Egg]] . . . . . . . . . . . .268
+[[Witching Hour]] . . . . . . . . .262 
+
+[[World Egg]] . . . . . . . . . . . .268

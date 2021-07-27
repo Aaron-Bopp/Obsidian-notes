@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/MOTW/Book/Table of Contents.md",
+            "file": "D&D/MOTW/Book/The Gumshoe.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/MOTW/Book/Table of Contents.md",
+                "file": "D&D/MOTW/Book/The Gumshoe.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/MOTW/Book/Table of Contents.md"
+                "file": "D&D/MOTW/Book/The Gumshoe.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/MOTW/Book/Table of Contents.md",
+                "file": "D&D/MOTW/Book/The Gumshoe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,13 +116,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 608,
-    "collapsed": true
+    "width": 608
   },
   "right": {
     "id": "e4957aafc9974964",
@@ -146,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/MOTW/Book/Table of Contents.md",
+                "file": "D&D/MOTW/Book/The Gumshoe.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,15 +220,15 @@
   },
   "active": "0d20e85c8de2f9bd",
   "lastOpenFiles": [
-    "D&D/MOTW/Book/Table of Contents.md",
+    "D&D/MOTW/Book/The Gumshoe.md",
     "D&D/MOTW/Book/tomestrict.md",
+    "D&D/MOTW/Book/Table of Contents.md",
+    "D&D/MOTW/Book/Harvest Maze.md",
+    "D&D/MOTW/Book/Going to Pieces.md",
     "D&D/MOTW/Book/Alternative Weird Basic Moves.md",
     "D&D/MOTW/Book/Phenomena Mysteries.md",
     "D&D/MOTW/Book/Special Moves.md",
     "D&D/MOTW/Book/More Flexible Investigations.md",
-    "D&D/MOTW/Book/New Hunters.md",
-    "D&D/MOTW/Book/The Gumshoe.md",
-    "D&D/MOTW/Book/The Hex.md",
-    "D&D/MOTW/Book/The Pararomantic.md"
+    "D&D/MOTW/Book/New Hunters.md"
   ]
 }
