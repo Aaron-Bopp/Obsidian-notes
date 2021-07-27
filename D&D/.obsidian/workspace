@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fff2d107d19202e1",
+        "id": "52c02a7776421901",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "D&D/MOTW/Book/Monster_of_the_Week_-_Tome_of_Mysteries.pdf"
+          }
+        }
+      },
+      {
+        "id": "0d20e85c8de2f9bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/MOTW/Classes/Untitled.md",
+            "file": "D&D/MOTW/Book/Table of Contents.md",
             "mode": "source"
           }
         }
@@ -54,7 +64,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/MOTW/Classes/Untitled.md",
+                "file": "D&D/MOTW/Book/Table of Contents.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/MOTW/Classes/Untitled.md"
+                "file": "D&D/MOTW/Book/Table of Contents.md"
               }
             }
           },
@@ -90,20 +100,12 @@
             }
           },
           {
-            "id": "87570aa2b087f941",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-matrix",
-              "state": {}
-            }
-          },
-          {
             "id": "88f1d9024a92d275",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/MOTW/Classes/Untitled.md",
+                "file": "D&D/MOTW/Book/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,11 +116,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 358
+    "width": 608,
+    "collapsed": true
   },
   "right": {
     "id": "e4957aafc9974964",
@@ -142,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/MOTW/Classes/Untitled.md",
+                "file": "D&D/MOTW/Book/Table of Contents.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,6 +203,14 @@
                 }
               }
             }
+          },
+          {
+            "id": "9e70db25fdf72df3",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -208,17 +220,17 @@
     "width": 962,
     "collapsed": true
   },
-  "active": "fff2d107d19202e1",
+  "active": "0d20e85c8de2f9bd",
   "lastOpenFiles": [
-    "D&D/MOTW/Classes/Untitled.md",
-    "D&D/MOTW/Classes/motw.md",
-    "D&D/MOTW/Classes/The Chosen.md",
-    "D&D/MOTW/Classes/The Mundane.md",
-    "D&D/MOTW/Classes/The SpeLl-Slinger.md",
-    "D&D/MOTW/Classes/The Wronged.md",
-    "D&D/MOTW/Classes/The SpOoky.md",
-    "D&D/MOTW/Classes/The Flake.md",
-    "D&D/MOTW/Classes/The DiVIne.md",
-    "D&D/MOTW/Classes/The Crooked.md"
+    "D&D/MOTW/Book/Table of Contents.md",
+    "D&D/MOTW/Book/tomestrict.md",
+    "D&D/MOTW/Book/Alternative Weird Basic Moves.md",
+    "D&D/MOTW/Book/Phenomena Mysteries.md",
+    "D&D/MOTW/Book/Special Moves.md",
+    "D&D/MOTW/Book/More Flexible Investigations.md",
+    "D&D/MOTW/Book/New Hunters.md",
+    "D&D/MOTW/Book/The Gumshoe.md",
+    "D&D/MOTW/Book/The Hex.md",
+    "D&D/MOTW/Book/The Pararomantic.md"
   ]
 }

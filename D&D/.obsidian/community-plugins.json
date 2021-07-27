@@ -10,5 +10,7 @@
   "obsidian-style-settings",
   "tag-wrangler",
   "quickadd",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-regex-pipeline",
+  "better-fn"
 ]
