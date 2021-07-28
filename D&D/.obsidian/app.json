@@ -39,5 +39,11 @@
   ],
   "readableLineLength": false,
   "fileSortOrder": "alphabetical",
-  "newFileFolderPath": "0"
+  "newFileFolderPath": "0",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -123,7 +123,7 @@ Decide if the first encounter will help or hinder the hunters. Then pick one of 
 **Where?**
 
 <table><colgroup><col style="width: 53%" /><col style="width: 46%" /></colgroup><thead><tr class="header"><th><p>b an old town b a small village b a ship b an island b a new town b abandoned b big city b prison</p><p>b museum</p><p>b ‘haunted’ house b remote park</p></th><th><p>b abandoned asylum b old woods b lonely highway b farm</p><p>b sorority b fraternity b lab b cave</p><p>b lake</p><p>b military base b old hotel</p></th></tr></thead><tbody></tbody></table>
-
+e
 **(Optionally) Who?**
 
 b missing b rich folk b hitchhikers b farmers b trampers b students

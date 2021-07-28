@@ -422,7 +422,7 @@ The hunter types are:
 - **The Divine**: an agent of a higher power, with a mission to fulfill. The Divine is very tough and has been granted holy powers. E.g. Castiel from *Supernatural*; Michael Carpenter from *The Dresden Files*. See [here](#0000113203).
 - **The Expert**: the hunter who knows all about monsters and magic. The Expert knows a lot of hidden secrets and how to find out more, and also has a well-supplied base to work from. E.g. Bobby Singer from *Supernatural*; Rupert Giles from *Buffy the Vampire Slayer*. See [here](#0000130787).
 - **The Flake**: a conspiracy theorist. The Flake is great at finding things out and seeing how the events of separate mysteries are connected. E.g. Agent Mulder or the Lone Gunmen from *The* *X-Files*. See [here](#0000150627).
-- **The Initiate**: a member of an ancient monster-slaying Sect, trained to fight and use magic. [[The Initiate]] is good with magic, and their Sect provides help (and sometimes problems). E.g. The Wardens from *The Dresden Files*; Annelise from the *Twenty Palaces* series. See [here](#0000167603).
+- **The Initiate**: a member of an ancient monster-slaying Sect, trained to fight and use magic[[The Initiate]]]] is good with magic, and their Sect provides help (and sometimes problems). E.g. The Wardens from *The Dresden Files*; Annelise from the *Twenty Palaces* series. See [here](#0000167603).
 - **The Monstrous**: a monster fighting for the good guys. [[The Monstrous]] is very weird, and can have a variety of different powers based on what monster breed they are. E.g. Angel from *Buffy the Vampire Slayer* and *Angel*; Bill Compton from *True Blood* ([here](#0000189800)).
 - **The Mundane**: just a normal regular person, especially good at dealing with regular people you meet and have to save, and at getting captured by monsters (which can be more useful than you might expect). E.g. Xander or Cordelia from *Buffy the Vampire Slayer*. See [here](#0000213865).
 - **The Professional**: you work for an agency that hunts monsters. The Professional is good in a fight, and a good team player. E.g. Riley and the Initiative from *Buffy the Vampire Slayer*; Olivia Dunham from *Fringe*. See [here](#0000231064).
@@ -470,7 +470,7 @@ If nobody has any ideas, you can either work it out later on (after you have all
 
 Don’t set your concept in stone yet. You’ll want to revise it as you make up your hunters, based on the choices you make along the way.
 
-Team Customisation
+Team Customization
 
 Sometimes your team concept will require additional stuff on top of the normal character creation options. This is stuff that enables the game to run smoothly. If you find yourselves saying, “It doesn’t make sense that we don’t have this,” and everyone agrees, then it’s a good candidate for customisation.
 
@@ -504,9 +504,9 @@ The Order
 
 You are all members of an ancient order of monster slayers.
 
-You’ll need an Initiate. Everyone else makes up the team [[the Initiate]] commands: the Spooky, Expert, Mundane, Flake, Crooked, or Chosen all work well here.
+You’ll need an Initiate. Everyone else makes up the tea[[The Initiate]]]] commands: the Spooky, Expert, Mundane, Flake, Crooked, or Chosen all work well here.
 
-Everyone is a member of the Order, but initially only [[the Initiate]] will have to deal with your superiors. As a customisation, anyone can take [[the Initiate]] move for **when you are in good standing with the Sect** as a leveling up option ([here](#0000171217)). Anyone may also substitute one of [[the Initiate]]’s old-fashioned weapons ([here](#0000179244)) for a regular weapon choice.
+Everyone is a member of the Order, but initially onl[[The Initiate]]]] will have to deal with your superiors. As a customisation, anyone can tak[[The Initiate]]]] move for **when you are in good standing with the Sect** as a leveling up option ([here](#0000171217)). Anyone may also substitute one o[[The Initiate]]]]’s old-fashioned weapons ([here](#0000179244)) for a regular weapon choice.
 
 Road-tripping Hunter Family
 
@@ -1321,180 +1321,7 @@ After you have leveled up *five* times, you qualify for advanced improvements in
 - Mark another two of the basic moves as advanced.
 - Retire this hunter to safety.
 
-
-
-[[The Initiate]]
-
-*Since the dawn of history, we have been the bulwark against Darkness. We know the Evils of the world, and we stand against them so that the mass of humanity need not fear. We are the Flame that cleanses the Shadows.*
-
-To make your Initiate, first pick a name. Then follow the instructions below to decide your look, ratings, moves, Sect, and gear. Finally, introduce yourself and pick history.
-
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.010.jpeg)
-
-**LOOK, PICK ONE FROM EACH LIST:**
-
-- Man, woman, masked, concealed.
-- Hardened body, tattooed body, agile body, strong body, thin body, angular body, hunched body.
-- Archaic clothes, unfashionable clothes, ceremonial clothes, mismatched clothes, formal clothes.
-
-**RATINGS, PICK ONE LINE:**
-
-- Charm-1, Cool+1, Sharp=0, Tough+1, Weird+2
-- Charm=0, Cool+1, Sharp+1, Tough-1, Weird+2
-- Charm-1, Cool=0, Sharp-1, Tough+2, Weird+2
-- Charm+1, Cool-1, Sharp+1, Tough=0, Weird+2
-- Charm=0, Cool=0, Sharp=0, Tough+1, Weird+2
-
-**MOVES**
-
-*You get all of the basic moves, plus four Initiate moves. You get this one:*
-
-- When you **are in good standing with your Sect**, **at the beginning of each mystery**, roll +Charm. On a 10+ they provide some useful info or help in the field. On a 7-9 you get a mission associated with the mystery, and if you do it you’ll get some info or help too. On a miss, they ask you to do something bad. If you fail a mission or refuse an order, you’ll be in trouble with the Sect until you atone.
-
-*Then pick three of these:*
-
-- **Ancient Fighting Arts**: When using an old-fashioned hand weapon, you inflict +1 harm and get +1 whenever you roll **protect someone**.
-- **Mystic**: Every time you successfully **use magic**, take +1 forward.
-- **Fortunes**: The Sect has ancient prophecies or divination techniques to predict the future. Once per mystery, you may use them. If **you look at what the future holds**, roll +Weird. On a 10+ hold 3, and on a 7-9 hold 1. On a miss, you get bad information and the Keeper decides how that affects you. Spend your hold to: 
-  - have a useful object ready.
-  - be somewhere you are needed, just in time.
-  - take +1 forward, or give +1 forward to another hunter.
-  - retroactively warn someone about an attack, so that it doesn’t happen.
-- **Sacred Oath:** You may bind yourself to a single goal, forsaking something during your quest (e.g. speech, all sustenance but bread and water, alcohol, lying, sex, etc). Get the Keeper’s agreement on this—it should match the goal in importance and difficulty. While you keep your oath and work towards your goal, mark experience at the end of every session and get +1 on any rolls that directly help achieve the goal. If you break the oath, take -1 ongoing until you have atoned.
-- **Mentor**: You have a mentor in the Sect: name them. When you **contact your mentor for info**, roll +Sharp. On a 10+, you get an answer to your question, no problem. On a 7-9 you choose: they’re either busy and can’t help, or they answer the question but you owe a favour. On a miss, your question causes trouble.
-- **Apprentice**: You have an apprentice: name them. Your job is to teach them the Sect’s ways. They count as an **ally**: **subordinate** (motivation: to follow your instructions to the letter).
-- **Helping Hand**: When you successfully **help out** another hunter, they get +2 instead of the usual +1.
-- **That Old Black Magic**: When you **use magic**, you can ask a question from the **investigate a mystery** move as your effect.
-
-**SECT**
-
-You are part of an ancient, secret order that slays monsters. Where are they from? How old are they? Are they religious? Why do they stay secret? How do they recruit?
-
-You also need to pick the Sect’s traditions (these will be used by the Keeper to determine the Sect’s methods and actions):
-
-**Good Traditions** (pick two):
-
-- Knowledgable
-- Ancient lore
-- Magical lore
-- Fighting arts
-- Modernised
-- Chapters everywhere
-- Secular power
-- Flexible tactics
-- Open hierarchy
-- Integrated in society
-- Rich
-- Nifty gadgets
-- Magical items
-
-**Bad Traditions** (pick one):
-
-- Dubious motives
-- Tradition-bound
-- Short-sighted
-- Paranoid and secretive
-- Closed hierarchy
-- Factionalised
-- Strict laws
-- Mystical oaths
-- Total obedience
-- Tyrannical leaders
-- Obsolete gear
-- Poor
-
-**GEAR**
-
-If the Sect has **fighting arts** or **obsolete gear**, then pick three old-fashioned weapons. If the Sect has **modernised** or **nifty gadgets**, you may pick two modern weapons. Otherwise, pick two old-fashioned weapons and one modern weapon.
-
-You also get old-fashioned armour (1-armour heavy).
-
-Old-fashioned weapons (pick either two or three, as above):
-
-- Sword (2-harm hand messy)
-- Axe (2-harm hand messy)
-- Big sword (3-harm hand messy heavy)
-- Big axe (3-harm hand messy slow heavy)
-- Silver knife (1-harm hand silver)
-- Fighting sticks (1-harm hand quick)
-- Spear (2-harm hand/close)
-- Mace (2-harm hand messy)
-- Crossbow (2-harm close slow)
-
-Modern weapons (pick either one or two, as above):
-
-- .38 revolver (2-harm close reload loud)
-- 9mm (2-harm close loud)
-- Sniper rifle (3-harm far)
-- Magnum (3-harm close reload loud)
-- Shotgun (3-harm close messy)
-
-**INTRODUCTIONS**
-
-When you get here, wait for everyone to catch up so you can do your introductions together.
-
-Go around the group. On your turn, introduce your Initiate by name and look, and tell the group what they know about you.
-
-**HISTORY**
-
-Go around the group again. On your turn, pick one for each of the other hunters:
-
-- They are a lay member of your Sect.
-- You fought together when the tide of monsters seemed unstoppable. Ask them how it went.
-- Friends, but they first met you under your cover identity, and learned about the Sect later. Ask how they feel about that.
-- They are your close relative, or partner/spouse. Decide between you exactly what the relationship is.
-- Fellow ancient weapons/martial arts club members.
-- They’re described in the prophecies, but the role they will play isn’t stated.
-- An ex-member of the Sect, but still friends. Ask them why they left or got thrown out
-- You met researching mystical weirdness, and you’ve been occult comrades ever since.
-
-**LUCK**
-
-You can mark off a Luck box to *either* change a roll you just made to a 12, as if you had rolled that; *or* change a wound you have just taken to count as 0-harm, no matter how bad it was. If all your Luck boxes get filled, you’ve run out of good luck.
-
-Okay bbbbbbb Doomed
-
-**HARM**
-
-When you suffer harm, mark off the number of boxes equal to harm suffered. When you reach four harm, tick “Unstable.”
-
-Okay bbb|bbbb Dying
-
-Unstable: b *(Unstable injuries will worsen as time passes)*
-
-**LEVELING UP**
-
-*Experience*: bbbbb
-
-Whenever you roll and get a total of 6 or less, or when a move tells you to, mark an experience box.
-
-When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
-
-**IMPROVEMENTS**
-
-- Get +1 Weird, max +3
-- Get +1 Cool, max +2
-- Get +1 Sharp, max +2
-- Get +1 Tough, max +2
-- Take another Initiate move
-- Take another Initiate move
-- Get command of your chapter of the Sect
-- Get a Sect team under your command
-- Take a move from another playbook
-- Take a move from another playbook
-
-After you have leveled up *five* times, you qualify for advanced improvements in addition to these. They’re below.
-
-**ADVANCED IMPROVEMENTS**
-
-- Get +1 to any rating, max +3.
-- Change this hunter to a new type.
-- Create a second hunter to play as well as this one.
-- Mark two of the basic moves as advanced.
-- Mark another two of the basic moves as advanced.
-- Retire this hunter to safety.
-- Become the leader, or effective leader, of the whole Sect.
-
+[[The Initiate]]]]
 
 
 [[The Monstrous]]
@@ -3094,9 +2921,7 @@ Don’t bother taking this improvement if you don’t have a haven!
 
 Like it says, you get a big pile of cash to spend. It’s a lot, but not unlimited.
 
-**INITIATE: GAIN COMMAND OF YOUR CHAPTER OF THE SECT**
-
-[[The Initiate]] can take this. It means they get promoted to be head of their local chapter. This gives [[the Initiate]] access to all the Sect’s local facilities and command of the chapter’s members.
+**INITIATE: GAIN COMMAND OF YOUR CHAPTER OF THE SECT**[[The Initiate]]]] can take this. It means they get promoted to be head of their local chapter. This give[[The Initiate]]]] access to all the Sect’s local facilities and command of the chapter’s members.
 
 It doesn’t mean you can constantly bring people along to help you on your mysteries—you need to take a team under your command for that.
 
@@ -3207,7 +3032,7 @@ These are only available to the hunters of the type listed. They become availabl
 
 - Change your mission. When you choose this, you accept that your initial mission has failed, that it is impossible, or that things have changed too much to continue. Whatever the reason, decide with the Keeper what your new mission is. If none of the original choices are right for you, make up something new.
 
-**FOR [[THE INITIATE]]**
+**FO[[The Initiate]]]]**
 
 - Become the leader, or effective leader, of the whole Sect. 
 
@@ -5356,7 +5181,7 @@ The sort of things that might have come up include:
 - Hunters’ history choices that indicated a pattern of events or a significant incident.
 - Events during the mystery that hinted at bigger troubles happening somewhere else.
 - Unfinished business from the mystery.
-- Hunter choices that have a wide reach, such as the Chosen’s fate, the Professional’s Agency, and [[the Initiate]]’s Sect.
+- Hunter choices that have a wide reach, such as the Chosen’s fate, the Professional’s Agency, an[[The Initiate]]]]’s Sect.
 - Anything that came up in play that suggested something more is going on, or that a secret is waiting to be uncovered. Examples include the results of the Expert’s dark past move, or someone saying something interesting about their past (e.g. Keeper: “Have you ever dealt with a snake demon before?” Hunter: “Oh, sure, we got a lot of them back on the farm.”)
 
 If something like that came up, make a note.
@@ -5420,7 +5245,7 @@ You may get some ideas for arcs right at the beginning of a new game when the hu
 
 - The Chosen’s fate. Use the details that you work out with the player about what is in store for the Chosen.
 - The Divine’s mission may require an arc, depending on the details you worked out with the player.
-- [[The Initiate]]’s Sect and Professional’s Agency both deserve an arc. Use the choices the player made to decide what the organisation’s motivations are, and how these will affect the hunters. The organisation may mean well, but still cause trouble by accident. On the other hand, some organisations might have a sinister purpose for hunting monsters.
+[[The Initiate]]]]’s Sect and Professional’s Agency both deserve an arc. Use the choices the player made to decide what the organisation’s motivations are, and how these will affect the hunters. The organisation may mean well, but still cause trouble by accident. On the other hand, some organisations might have a sinister purpose for hunting monsters.
 - The Wronged’s loss: every Wronged should have an arc involving the creature(s) that caused their loss.
 - Any player might make a decision during hunter creation that gives you an idea for an arc.
 
@@ -6642,7 +6467,7 @@ Use mystery letters to share background information the hunters should know. The
 
 The hunters should start with fewer Luck points: give them 1-3 (depending on how tough you want the mystery to be). You may allow them to have a free level-up after creating their hunter, to make up for having fewer Luck points to save them.
 
-It’s useful to pick a team concept for the game, and just tell everyone who the team are and how they operate. You may need to make certain playbooks mandatory, suggest others that fit in, and leave out others completely. For example, if your team concept is centered on the Professional, having an Initiate might not work so well. Don’t offer [[the Initiate]] playbook as an option.
+It’s useful to pick a team concept for the game, and just tell everyone who the team are and how they operate. You may need to make certain playbooks mandatory, suggest others that fit in, and leave out others completely. For example, if your team concept is centered on the Professional, having an Initiate might not work so well. Don’t offe[[The Initiate]]]] playbook as an option.
 
 I strongly advise that you let everyone make up their own hunter (even if you restrict the types available). Making all the choices during hunter creation—about their abilities, history and so on—gives the players a stake in the way the game is going to play.
 
@@ -6664,7 +6489,7 @@ Without the expectation that the game will continue, you should also feel free t
 
 Also, think about the scale of events. In a one-shot, the stakes of the mystery can be huge: zombie epidemics, the legions of Hell being unleashed on earth, hideous gods from beyond the stars—any huge threat is fair game.
 
-If your team includes hunters with central story elements (the Chosen and her fate, the Wronged’s nemesis, the Professional and her Agency, [[the Initiate]] and his Sect, etc) then tie those into the mystery as well. Think about these central elements when you decide which hunter books to bring to the table, and then you can leave the right-shaped holes in your mystery (e.g. you could leave yourself space to adjust the threats to match the Chosen’s fate). You should have time to do this as the other players make up their hunters: as they go, find out what they picked for their hunters, and you can quickly adjust your notes to fit, or suggest to the players things that work with what you have planned.
+If your team includes hunters with central story elements (the Chosen and her fate, the Wronged’s nemesis, the Professional and her Agency[[The Initiate]]]] and his Sect, etc) then tie those into the mystery as well. Think about these central elements when you decide which hunter books to bring to the table, and then you can leave the right-shaped holes in your mystery (e.g. you could leave yourself space to adjust the threats to match the Chosen’s fate). You should have time to do this as the other players make up their hunters: as they go, find out what they picked for their hunters, and you can quickly adjust your notes to fit, or suggest to the players things that work with what you have planned.
 
 One-Shot Mystery Play
 
@@ -6864,7 +6689,7 @@ Moves
 
 Each hunter type gets three moves as well. For many, one or two of these moves are mandatory.
 
-Some of the moves don’t count as one against their count: that’s for moves that aren’t purely an advantage, but that have both a good and bad side. [[The Initiate]]’s move when **in good standing with the Sect** is one of those: the move’s good and bad sides balance out, so [[the Initiate]] gets another three choices of purely useful moves.
+Some of the moves don’t count as one against their count: that’s for moves that aren’t purely an advantage, but that have both a good and bad side[[The Initiate]]]]’s move when **in good standing with the Sect** is one of those: the move’s good and bad sides balance out, s[[The Initiate]]]] gets another three choices of purely useful moves.
 
 Some playbooks have moves that are purely bad (the Monstrous’ curse and the Spooky’s dark side, for example). When a playbook has a purely bad move, give them an extra useful move to make up for it.
 

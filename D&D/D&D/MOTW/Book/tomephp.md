@@ -600,7 +600,7 @@ We formed a constructive online community on Google Plus (‘The
 >
 > *By Michael Sands*
 >
-> [[Phenomena mysteries]] give hunters the chance to investigate an increasingly dangerous source of weirdness rather than a monster.
+> [[Phenomena Mysteries]] give hunters the chance to investigate an increasingly dangerous source of weirdness rather than a monster.
 >
 > To create a mystery centered on a phenomenon, the Keeper will need the following details:
 
@@ -1835,7 +1835,7 @@ Another trick is to make sure the player has a number of helpful
 
 This is where having the player work for some sort of organisation
 
-> (like the Professional’s Agency or [[the Initiate]]’s Sect) really becomes useful. The organisation can quickly help by giving the player credentials or resources but can also demand the player’s allegiance in all sorts of unsettling ways. That report on toxins in the murdered victim’s bloodstream might be on its way but it’s also paired with a ‘request’ to help dispose of both a dead body and the klutz who mismanaged the hit. Office politics can just be a killer…
+> (like the Professional’s Agency or [[The Initiate]]’s Sect) really becomes useful. The organisation can quickly help by giving the player credentials or resources but can also demand the player’s allegiance in all sorts of unsettling ways. That report on toxins in the murdered victim’s bloodstream might be on its way but it’s also paired with a ‘request’ to help dispose of both a dead body and the klutz who mismanaged the hit. Office politics can just be a killer…
 >
 > If the character is going to work for an organisation, then it is in that organisation’s best interests to outfit their agent with all the sorcerous tattoos, charms, and whatnot to help shore that hunter up where they are weak. For solo hunters, high-quality gear and a generous amount of magical help should be in order. A magical tattoo that adds 1- or 2-armour is a good example.
 >

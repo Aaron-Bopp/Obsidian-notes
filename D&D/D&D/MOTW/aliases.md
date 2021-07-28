@@ -64,7 +64,7 @@
 
 [[Monster Hunting At Work]]:
 
-[[Monster_of_the_Week_-_Michael_Sands]]:
+[[Monster_of_the_Week]]:
 
 [[More Flexible Investigations]]:
 

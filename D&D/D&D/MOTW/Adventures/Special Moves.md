@@ -38,8 +38,6 @@ Some of the hunter playbooks get a special move when they spend Luck. This optio
 
 **Searcher Special**: When you spend a point of Luck, your first encounter comes up in play. It could be a flashback, new occurrence, or related event.
 
-<img src="./TomeIMGs/media/image34.png" style="width:5.99667in;height:3.92667in" />
-
 **Snoop Special**: When you spend a Luck, you’re going to suffer some technical difficulties. Breakdowns, communication problems, weird noises in the recordings. Anything goes.
 
 **Spell-Slinger Special**: When you spend a Luck, the official council of wizards is going to poke their nose into your business. There is always some rule, tradition, or law you have bent or broken.
