@@ -32,7 +32,7 @@ bib:
     - Dreams and nightmares
 [[Dual Nostril Breathing Meditation]]
 - Everytime you bring your mind back from wandering its a mental pushup
-    - [[ADHD]] is your mind ==wandering without any purpose==
+    - [[ADHD]] is your mind ==wandering without any purpose== ([[ADHD is primarily an executive function disorder]])
 - #Ref/DrK "We are going to pyschologically traumatize our kids no matter how much we [[love]] them" [YT](https://youtu.be/sXGhT4pJcj8?t=2602)
 
 ---

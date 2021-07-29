@@ -52,7 +52,7 @@ Concepts:
 
 -   Review the supergroups of protists. You will probably have a matching question very similar to the one given in the lecture, matching the supergroups with their synapomorphy (shared, derived character).
 
--   Which organisms cause red tides? Which cause trichomaniasis? Freshwater ick? Other diseases covered in the lecture? I'll probably make this a matching question between the organism (scientific name) and the disease.
+-   Which organisms cause red tides? Which cause trichomaniasis? Freshwater ick? Other diseases covered in the lecture? I'll probably make this a matching question between the organism (scientific name) and the [[disease]].
 
 -   Review pseudopodia and how they differ in the different choanoflagellates.
 

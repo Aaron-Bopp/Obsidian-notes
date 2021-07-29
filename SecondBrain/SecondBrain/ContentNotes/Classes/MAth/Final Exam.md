@@ -72,7 +72,7 @@ B)  It is not plausible that the "big bang" games occur 2/3 of the times.
 
 > A\) Ha: µ \< 10 B) Ha: µ \> 10 C) Ha: µ = 10 D) Ha: µ = 10
 
-10. A city ballot includes a local initiative that would legalize gambling. The issue is hotly contested, and two groups decide to conduct polls to predict the outcome. The local newspaper finds 53% of 1200 randomly selected voters plan to vote "yes", while a college Statistics class finds 54% of 450 randomly selected voters in support. Both groups will create 95% confidence intervals. Which of the two confidence intervals will have a larger margin of error?
+10. A city ballot includes a local initiative that would legalize gambling. The issue is hotly contested, and two groups decide to conduct polls to predict the outcome. The local newspaper finds 53% of 1200 randomly selected voters plan to vote "yes", while a college Statistics class finds 54% of 450 randomly selected voters in support. Both groups will create 95% [[confidence]] intervals. Which of the two [[confidence]] intervals will have a larger margin of error?
 
 ```{=html}
 <!-- -->
@@ -81,12 +81,12 @@ A.  The local newspaper
 
 B.  The Statistics class.
 
-C.  Since the confidence level is the same, the margin of error has to be the same
+C.  Since the [[confidence]] level is the same, the margin of error has to be the same
 
 ```{=html}
 <!-- -->
 ```
-11. We have calculated a 95% confidence interval and would prefer for our next confidence interval to have a smaller margin of error. In order to do this, we should
+11. We have calculated a 95% [[confidence]] interval and would prefer for our next [[confidence]] interval to have a smaller margin of error. In order to do this, we should
 
 ```{=html}
 <!-- -->
@@ -158,18 +158,18 @@ g.  State your conclusion in context.
 
 Regular exercise on the machine will on average meaningfully reduce the exercisers resting heart rate
 
-h.  What is the 95% confidence interval (estimate the mean change)?
+h.  What is the 95% [[confidence]] interval (estimate the mean change)?
 
 > (80.269, 90.131)
 
-14. What does a 95% confidence interval mean?
+14. What does a 95% [[confidence]] interval mean?
 
 ```{=html}
 <!-- -->
 ```
 A)  There is 95% chance that the sample is correct.
 
-B)  We're 95% confident that the true mean age of American men's first marriage in the confidence interval
+B)  We're 95% confident that the true mean age of American men's first marriage in the [[confidence]] interval
 
 ```{=html}
 <!-- -->

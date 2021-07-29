@@ -8,13 +8,13 @@
 
 **Overview of Assignment**
 
-In this assignment you will write SQL statements, each of which will process multiple tables. All the information you need to write these SQL statements can be found in Chapters 6 and 7 of your textbook.
+In this assignment you will write [[SQL]] statements, each of which will process multiple tables. All the information you need to write these [[SQL]] statements can be found in Chapters 6 and 7 of your textbook.
 
-As with SQL Assignment 02, you will use the Clearwater database for this assignment. Your solution must work for arbitrary data, not just the data provided with this assignment.
+As with [[SQL]] Assignment 02, you will use the Clearwater database for this assignment. Your solution must work for arbitrary data, not just the data provided with this assignment.
 
-Follow the same instructions for formatting your solution file as in SQL Assignment 01. Be certain to include the two lines below at the top of your SQL assignment file.
+Follow the same instructions for formatting your solution file as in [[SQL]] Assignment 01. Be certain to include the two lines below at the top of your [[SQL]] assignment file.
 
-**\-- SQL Assignment 03**
+**\-- [[SQL]] Assignment 03**
 
 **\-- Your first and last name**
 
@@ -22,9 +22,9 @@ You must include a comment (problem number) before each solution. Ex:
 
 \-- #1
 
-The text file must be named using your last name followed by your first initial followed by 03, with txt extension: SmithJ03.txt for example. As with SQL Assignment 02, your solution file must run as a script using the source command in MySQL. Your SQL assignment file should be placed in the Canvas drop box for SQL Assignment 02.
+The text file must be named using your last name followed by your first initial followed by 03, with txt extension: SmithJ03.txt for example. As with [[SQL]] Assignment 02, your solution file must run as a script using the source command in MySQL. Your [[SQL]] assignment file should be placed in the Canvas drop box for [[SQL]] Assignment 02.
 
-Write a single SQL statement to produce each of the following.
+Write a single [[SQL]] statement to produce each of the following.
 
 Do not use subqueries for problems 1 through 6.
 
@@ -42,7 +42,7 @@ Do not use subqueries for problems 1 through 6.
 
 6)  Display the customer last name, the order id, the order date, and the source description for all the customer orders placed after May, 2003.
 
-> ***[Note: Write a single SQL statement to produce each of the following. Use non-correlated or correlated subqueries for your solutions to problems 7 through 11.]{.ul}***
+> ***[Note: Write a single [[SQL]] statement to produce each of the following. Use non-correlated or correlated subqueries for your solutions to problems 7 through 11.]{.ul}***
 
 7)  List the inventory id, item size, color and price of all the items in inventory table where the price is equal to the highest item price.
 
@@ -52,7 +52,7 @@ Do not use subqueries for problems 1 through 6.
 
 10) List the inventory id, item id, color, and quantity on hand of the inventory record with the smallest quantity on hand. If two records have the same smallest quantity on hand, list both.
 
-11) Write a single SQL statement that produces the output of the two previous problems as a single result set.  Each line of output should have an additional column labeled "comments" with the value "largest" or "smallest," depending on whether the record represents the largest or the smallest quantity on hand.
+11) Write a single [[SQL]] statement that produces the output of the two previous problems as a single result set.  Each line of output should have an additional column labeled "comments" with the value "largest" or "smallest," depending on whether the record represents the largest or the smallest quantity on hand.
 
 **Bonus (5 pts total):**
 

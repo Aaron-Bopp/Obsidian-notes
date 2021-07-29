@@ -22,7 +22,7 @@ c\) Foreign real national income increases
 
 d\) Price level increases
 
-6\. When the economy's price level increases, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ will \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+6\. When the [[economy]]'s price level increases, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ will \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 a.  quantity demanded of real GDP; increase
 
@@ -32,7 +32,7 @@ c.  aggregate demand; increase
 
 d.  aggregate demand; decrease
 
-7\. A shift to the left of the entire AD curve is called
+7\. A shift to [[the left]] of the entire AD curve is called
 
 a.  an increase in aggregate demand.
 

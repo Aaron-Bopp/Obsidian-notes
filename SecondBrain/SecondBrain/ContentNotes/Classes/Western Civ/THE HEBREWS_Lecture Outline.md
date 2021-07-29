@@ -2,7 +2,7 @@
 
     a.  How were the Hebrews organized politically? Socially?
 
-    b.  What made the Hebrews' religion distinct from other ancient religious beliefs?
+    b.  What made the Hebrews' [[religion]] distinct from other ancient religious beliefs?
 
 2.  The Sources
 
@@ -32,7 +32,7 @@
 
             1.  Tribes of Judah (South)
 
-            2.  Tribes of Israel (North)
+            2.  Tribes of [[Israel]] (North)
 
         ii. Judges - ruled
 
@@ -72,17 +72,17 @@
 
     b.  Division
 
-        i.  Northern Kingdom = Israel (Capital: Samaria)
+        i.  Northern Kingdom = [[Israel]] (Capital: Samaria)
 
         ii. Southern Kingdom = Judah (capital: Jerusalem)
 
     c.  Conquest and Captivity
 
-        i.  Israel & the Assyrians (721 BCE)
+        i.  [[Israel]] & the Assyrians (721 BCE)
 
         ii. Judah & the Babylonians (689 BCE)
 
-6.  Religion in Ancient Israel
+6.  [[Religion]] in Ancient [[Israel]]
 
     a.  Henotheism vs. Monotheism henotheistic before capitivity mono after
 
@@ -106,7 +106,7 @@
 
     a.  Burial -- inhumation
 
-    b.  Olam Ha-Ba = Hebrew spiritual afterlife -- everyone can achieve this no matter religion
+    b.  Olam Ha-Ba = Hebrew spiritual afterlife -- everyone can achieve this no matter [[religion]]
 
         i.  "The World to Come", A higher state of being -- garden of eden (not genesis)
 
@@ -120,7 +120,7 @@
 
         ii. Gehinnom (She'ol) = a hellish place? Purgatory? Unclear this all came after captivity
 
-8.  Law & Justice: Israel
+8.  Law & Justice: [[Israel]]
 
     a.  Ethically Right Conduct
 
@@ -142,7 +142,7 @@
 
         iii. Protection of the oppressed
 
-        iv. Respect for parents
+        iv. Respect for [[parents]]
 
 9.  The Family & Marriage
 

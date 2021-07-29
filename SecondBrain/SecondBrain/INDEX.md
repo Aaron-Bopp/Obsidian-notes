@@ -26,6 +26,10 @@ This is a constantly updated index of entry points and topics for my personal fl
 	- [[EVERGREENS]]
 	- [[EVERSPROUTS]]
 	- [[EVERSEEDS]]
+- Notes not in outline
+	- [[TOPICNOTES]]
+	- [[EVERGREENNOTES]]
+	- [[CONTENTNOTES]]
 - ![[Dataview#Get number notes with every note-type]]
 
 # Topic Outlines
@@ -40,86 +44,4 @@ This is a constantly updated index of entry points and topics for my personal fl
  ##
  [[Obsidian (software)]]
  
- # Notes not in this outline
- #### Notes not yet in outline
-```dataviewjs
-const thisFile = dv.pages().where(f => f.file.path == dv.current().file.path)[0]
-function formatDate(date){
-	var d = new Date(date),
-		month = '' + (d.getMonth() + 1),
-		day = '' + d.getDate(),
-		year = d.getFullYear();
-
-	if (month.length < 2) 
-		month = '0' + month;
-	if (day.length < 2) 
-		day = '0' + day;
-
-	return [year, month, day].join('-');
-}
-
-function wrap(name) {
-	return '"SecondBrain/' + name + '"'
-}
-function getIO(file) {
-	return `${file.inlinks.length}/${file.outlinks.length}`
-}
-const statusDict = {
-	"GREEN":0,
-	"SPROUT":1,
-	"SEED":2
-}
-const statusLevel = (status) => {
-	try {
-		const [_, growth, state] = status.split("/")
-		return statusDict[growth]
-	} catch {
-		return ""
-	}
-}
-//includes first called file as last element
-function getEmbeds(name){
-	const file = dv.pages().where(f => f.file.name === name)[0]
-	let embeds = file.embedded
-	console.log(embeds)
-	if (embeds == undefined) {
-		return [file]
-	}
-	// prevent infinite loops if currentNote is included in embeds
-	embeds = embeds.filter(l => l !== null && name !== l.path )
-	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat()
-}
-const allEmbeds = getEmbeds(thisFile.file.name)
-const allOutlinks = allEmbeds.map(f => f.file.outlinks).flat()
-const allPaths = allOutlinks.map(l => l.path)
-function notLinkedPages(folder) {
-	return dv.pages(wrap(folder))
-			.where(p => {
-				return !allPaths.contains(p.file.path) && 
-				p.file.path.contains(folder) 
-			})
-			.sort(p => p.file.inlinks.length + p.file.outlinks.length, 'desc')
-}
-function contentNotesTable(folder) {
-	let pages = notLinkedPages(folder)
-	if (pages.length > 0) {
-		dv.table([folder, "I/O", "Edited", "Created"], 
-			pages
-			.map(p => [p.file.link, getIO(p.file), p.file.mtime, formatDate(p["creation date"])]))
-	}
-}
-function statusTable(folder) {
-	let pages = notLinkedPages(folder)
-	if (pages.length > 0) {
-		dv.table([folder, "I/O", "Status", "Edited", "Created"], 
-			pages
-			.sort(p => statusLevel(p.status))
-			.map(p => [p.file.link, getIO(p.file), p.status, p.file.mtime, formatDate(p["creation date"])]))
-	}
-}
-statusTable("TopicNotes")
-statusTable("EvergreenNotes")
-contentNotesTable("ContentNotes")
-```
-
-
+ 

@@ -46,9 +46,9 @@ Here are the functional dependencies for this relation:
 
 **Topping ToppingType**
 
-The functional dependency **Topping ToppingType** does not violate the definition of 2NF or 3NF, because **Topping** is a component of the candidate key **(OrderID, Topping)**, so it is not a non-key attribute. However, it does violate the definition of BCNF, because the left side of the functional dependency **Topping ToppingType** is not a candidate key.
+The functional dependency **Topping ToppingType** does not violate the definition of 2NF or 3NF, because **Topping** is a component of the candidate key **(OrderID, Topping)**, so it is not a non-key attribute. However, it does violate the definition of BCNF, because [[the left]] side of the functional dependency **Topping ToppingType** is not a candidate key.
 
-In BCNF, only candidate keys can appear on the left side of a functional dependency.
+In BCNF, only candidate keys can appear on [[the left]] side of a functional dependency.
 
 To fix this problem, we split the original table into two tables, in much the same way that we would for non-key attributes.
 

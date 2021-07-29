@@ -1,4 +1,4 @@
-**CSIS 44-345 Computer Organization Spring 2020**
+**CSIS 44-345 [[Computer]] Organization Spring 2020**
 
 **Hw #4: 25 points (updates)**
 
@@ -86,7 +86,7 @@ Given the following memory dump, What is the message stored in the variable mess
 
 **Ex#2**
 
-A.  Given the following machine code image in hex, translate each line of the machine language code into the appropriate ARM Assembly instruction. (Refer to your lecture notes 4.3 Representing instruction in a computer). Add your assembly code to the following template and test it.
+A.  Given the following machine code image in hex, translate each line of the machine language code into the appropriate ARM Assembly instruction. (Refer to your lecture notes 4.3 Representing instruction in a [[computer]]). Add your assembly code to the following template and test it.
 
 Opcodes:
 

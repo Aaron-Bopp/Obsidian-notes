@@ -10,7 +10,7 @@
 
     c.  Conservative Values
 
-        i.  Conservatism -- committed to traditional values and ideas with opposition to change or innovation, hated democracy
+        i.  [[Conservatism]] -- committed to traditional values and ideas with opposition to change or innovation, hated democracy
 
         ii. Restricted Citizenship
 
@@ -18,11 +18,11 @@
 
     d.  "Mixed Constitution"
 
-        i.  Monarchical Elements +Democratic Elements + Oligarchic Elements
+        i.  Monarchical Elements +[[Democratic]] Elements + Oligarchic Elements
 
 2.  **The Spartan Mixed Constitution**
 
-    a.  Dual Hereditary Monarchy (Limited Powers)
+    a.  [[Dual]] Hereditary Monarchy (Limited Powers)
 
         i.  The two kings where checks on each other but only one commanded the army at a time
 
@@ -46,7 +46,7 @@
 
 3.  **Spartan Foreign Affairs**
 
-    a.  Conservative Foreign Policy
+    a.  Conservative [[Foreign Policy]]
 
         i.  Isolation
 
@@ -58,7 +58,7 @@
 
     c.  Mutual Defense Pact
 
-    d.  Sparta as Primary Ally and leader of war against persia
+    d.  Sparta as Primary Ally and leader of [[war]] against persia
 
     e.  No Tribute all built on trust
 
@@ -82,6 +82,6 @@
 
         ii. Kept in line by military lifestyle of spartans
 
-    d.  *Agoge =* Military Education System
+    d.  *Agoge =* Military [[Education]] System
 
         i.  Took children at birth and trained them into warriors

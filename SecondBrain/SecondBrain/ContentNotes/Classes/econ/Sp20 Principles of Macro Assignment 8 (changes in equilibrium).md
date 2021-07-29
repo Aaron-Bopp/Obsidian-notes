@@ -1,8 +1,8 @@
-Principles of Macro Spring 2020 Name: Aaron Bopp
+Principles of Macro Spring 2020 Name: Aaron [[Bopp]]
 
 Assignment #8
 
-1\. The table below gives changes that occur in the **[market for coffee]{.ul}**. Fill in the table below indicating whether the given change shifts the demand curve or supply curve and if that curve will shift to the right or to the left.
+1\. The table below gives changes that occur in the **[market for coffee]{.ul}**. Fill in the table below indicating whether the given change shifts the demand curve or supply curve and if that curve will shift to the right or to [[the left]].
 
   ------------------------------------------------------------------------------------------------------------------------
                                                                               **Demand or Supply?**   **Right or Left?**
@@ -11,7 +11,7 @@ Assignment #8
 
   As the population grows older, there are more buyers in the coffee market   demand                  right
 
-  The government increases taxes that coffee producers must pay               supply                  left
+  The [[government]] increases taxes that coffee producers must pay               supply                  left
 
   The price of tea (a substitute for coffee) decreases                        demand                  left
 

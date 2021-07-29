@@ -20,7 +20,7 @@
 
         -   Coined the term debugging (removed a moth from the relays)
 
-        -   Grace Hopper created COLBOL and Fortran on this computer
+        -   Grace Hopper created COLBOL and Fortran on this [[computer]]
 
 -   Electronic computers -- ENIAC, IBM
 
@@ -36,9 +36,9 @@
 
     -   Apple II led the race followed by IBM
 
-    -   Because IBM had name recognition it was accepted by business.
+    -   Because IBM had name recognition it was accepted by [[business]].
 
-    -   Macintosh was the first GUI based computer
+    -   Macintosh was the first GUI based [[computer]]
 
 # Big Ideas of Comp Sci (Quiz 9/7/18)
 
@@ -52,7 +52,7 @@
 
     -   **Algorithms** (precise, systematic, step-by-step instructions for solving a problem) (flow charts are visual algorithms)
 
-    -   **Programming** (the art of translating an algorithm in a computer language)
+    -   **Programming** (the art of translating an algorithm in a [[computer]] language)
 
     -   **Internet** (Individual networks connecting through a unified language) allows us to communicate
 
@@ -118,7 +118,7 @@
 
     -   program -- take an algorithm and translate it
 
-    -   programming language -- language that we can read that allows us to interact with the computer
+    -   programming language -- language that we can read that allows us to interact with the [[computer]]
 
 -   Our goal -- a fuller understanding of the magic that underlies computers, how they manage to cram everything in
 

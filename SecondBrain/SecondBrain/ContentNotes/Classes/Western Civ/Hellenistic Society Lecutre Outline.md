@@ -38,7 +38,7 @@
 
     -   Cities
 
-    -   Government: Despotism
+    -   [[Government]]: Despotism
 
     -   Semi-Divine Rulers
 
@@ -64,10 +64,10 @@
 
     -   The Plight of Small Farmers
 
-    -   Skilled Artisans and Poverty
+    -   Skilled Artisans and [[Poverty]]
 
     -   Merchants
 
-    -   Civil War
+    -   [[Civil War]]
 
 -   **In Conclusion: Hellenistic Society**

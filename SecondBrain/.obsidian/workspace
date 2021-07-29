@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "666e683bd4c260be",
+        "id": "0b2e82e33982cd6d",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471
+    "width": 379
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -218,17 +218,17 @@
     "width": 1168,
     "collapsed": true
   },
-  "active": "666e683bd4c260be",
+  "active": "0b2e82e33982cd6d",
   "lastOpenFiles": [
-    "SecondBrain/ContentNotes/An Introduction to Bhuddism.md",
-    "SecondBrain/ContentNotes/History/1920's General Notes.md",
-    "SecondBrain/ContentNotes/Classes/Analogies_of_Religious_Violence_in_Minec.md",
-    "SecondBrain/ContentNotes/Classes/MAth/Homework 3.md",
-    "SecondBrain/ContentNotes/Classes/MAth/Homework 7.md",
-    "SecondBrain/ContentNotes/Classes/MAth/Final Exam.md",
-    "SecondBrain/ContentNotes/Classes/MAth/Calc1WellWrit1-3.md",
-    "SecondBrain/ContentNotes/Classes/MAth/Calc1WellWrit1- AaronBopp.md",
-    "SecondBrain/ContentNotes/Classes/Lit/Totsi Essay.md",
-    "SecondBrain/ContentNotes/Classes/Lit/Saudi Arabia Essay.md"
+    "Untitled.md",
+    "SecondBrain/TopicNotes/transgender.md",
+    "Bobby Milton.md",
+    "SecondBrain/TODO.md",
+    "executive function.md",
+    "ADHD is primarily an executive function disorder.md",
+    "SecondBrain/ContentNotes/Mental Health/Healing from Festered Emotions.md",
+    "SecondBrain/EvergreenNotes/Journal.md",
+    "masking.md",
+    "SecondBrain/EvergreenNotes/The injustice of endurance.md"
   ]
 }

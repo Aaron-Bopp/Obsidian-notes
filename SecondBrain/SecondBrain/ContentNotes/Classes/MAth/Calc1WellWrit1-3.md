@@ -4,7 +4,7 @@ Section 1.3 Well-Written
 
 Assigned September 4, 2018, due September 7, 2018
 
-Name: Aaron Bopp
+Name: Aaron [[Bopp]]
 
 This problem has 2 parts which may feel like very different problems, but are not.
 

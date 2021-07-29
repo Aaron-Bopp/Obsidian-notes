@@ -41,7 +41,7 @@ h.  What is your conclusion?
 
 Ho is incorrect and we accept Ha
 
-i.  Estimate where the true mean of this maze is. (Use 95% confidence interval)
+i.  Estimate where the true mean of this maze is. (Use 95% [[confidence]] interval)
 
 44.5 to 54.78
 

@@ -8,21 +8,21 @@
 
 2\. For each of the following examples find: (1) which spending components of U.S. GDP are affected and by how much and (2) how much U.S. GDP increases.
 
-> a\) A U.S. consumer purchases a shirt for \$25 that was produced in Vietnam.
+> a\) A U.S. consumer purchases a shirt for \$25 that was produced in [[Vietnam]].
 >
 > b\) A grocery store in Nebraska purchases a new cash register for \$900 that was made in Texas.
 >
-> c\) The Missouri state government pays a teacher a salary of \$42,000.
+> c\) The Missouri state [[government]] pays a teacher a salary of \$42,000.
 >
 > d\) A consumer in Maryville buys a new car for \$35,000 that was produced in Michigan.
 >
-> e\) The Maryville city government purchases new computer for \$1,000 that was made in China.
+> e\) The Maryville city [[government]] purchases new [[computer]] for \$1,000 that was made in [[China]].
 
 3\. Suppose consumption spending is \$3.708 trillion, spending on nondurable goods is \$1.215 trillion, and spending on services is \$2.041 trillion. What does spending on durable goods equal?
 
 **Answers:**
 
-1\. consumption, investment, government, and net exports
+1\. consumption, investment, [[government]], and net exports
 
 GDP = C + I + G +NX
 
@@ -34,7 +34,7 @@ GDP = C + I + G +NX
 >
 > \(2\) U.S. GDP: +\$900
 >
-> c\) (1) Government (G): +\$42,000
+> c\) (1) [[Government]] (G): +\$42,000
 >
 > \(2\) U.S. GDP: +\$42,000
 >
@@ -42,7 +42,7 @@ GDP = C + I + G +NX
 >
 > \(2\) U.S. GDP: +\$35,000
 >
-> e\) (1) Government (G): +\$1,000; Net exports (NX): -\$1,000
+> e\) (1) [[Government]] (G): +\$1,000; Net exports (NX): -\$1,000
 >
 > \(2\) U.S. GDP: unchanged
 
@@ -72,7 +72,7 @@ Spending on durable goods = \$0.452 trillion
 | 2019                           | \$1.50      | 55          | \$2.75      | 110         |
 +--------------------------------+-------------+-------------+-------------+-------------+
 
-1\. A small economy produces bananas and coffee. Refer to the table above to calculate the following. The base year is 2017.
+1\. A small [[economy]] produces bananas and coffee. Refer to the table above to calculate the following. The base year is 2017.
 
 > a\) Nominal GDP for each year
 >
@@ -94,7 +94,7 @@ Spending on durable goods = \$0.452 trillion
   2016        \$3       25                  \$5       55                  \$3       75
   -----------------------------------------------------------------------------------------------------
 
-2\. A small economy produces 3 goods---bread, cheese, and apples. Refer to the table above to calculate the following. The base year is 2015.
+2\. A small [[economy]] produces 3 goods---bread, cheese, and apples. Refer to the table above to calculate the following. The base year is 2015.
 
 > a\) Nominal GDP for each year
 >
@@ -166,7 +166,7 @@ c\) Foreign real national income increases
 
 d\) Price level increases
 
-6\. When the economy's price level increases, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ will \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+6\. When the [[economy]]'s price level increases, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ will \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 a.  quantity demanded of real GDP; increase
 
@@ -176,7 +176,7 @@ c.  aggregate demand; increase
 
 d.  aggregate demand; decrease
 
-7\. A shift to the left of the entire AD curve is called
+7\. A shift to [[the left]] of the entire AD curve is called
 
 a.  an increase in aggregate demand.
 
@@ -222,13 +222,13 @@ b\) Price level decreases
 
 c\) Labor productivity increases
 
-2\. Suppose there is a decrease in input prices. What effect will this have on the short-run equilibrium price level, real GDP, and the unemployment rate?
+2\. Suppose there is a decrease in input prices. What effect will this have on the short-run equilibrium price level, real GDP, and the [[unemployment]] rate?
 
-3\. Suppose the economy suffers an adverse supply shock. What effect will this have on the short-run equilibrium price level, real GDP, and the unemployment rate?
+3\. Suppose the [[economy]] suffers an adverse supply shock. What effect will this have on the short-run equilibrium price level, real GDP, and the [[unemployment]] rate?
 
-4\. Suppose the economy's consumption spending decreases. What effect will this have on the short-run equilibrium price level, real GDP, and the unemployment rate?
+4\. Suppose the [[economy]]'s consumption spending decreases. What effect will this have on the short-run equilibrium price level, real GDP, and the [[unemployment]] rate?
 
-5\. Suppose interest rates in the economy decrease. What effect will this have on the short-run equilibrium price level, real GDP, and the unemployment rate?
+5\. Suppose interest rates in the [[economy]] decrease. What effect will this have on the short-run equilibrium price level, real GDP, and the [[unemployment]] rate?
 
 **Answers:**
 
@@ -238,18 +238,18 @@ b\) Movement downward and left along SRAS curve (SRAS does not shift)
 
 c\) SRAS shifts rightward
 
-2\. SRAS curve shifts to the right, causing equilibrium price level to decrease and equilibrium Real GDP to increase; unemployment rate will decrease
+2\. SRAS curve shifts to the right, causing equilibrium price level to decrease and equilibrium Real GDP to increase; [[unemployment]] rate will decrease
 
 ![](media/image1.png){width="3.0104166666666665in" height="1.6893908573928258in"}
 
-3\. SRAS curve shifts to the left, causing equilibrium price level to increase and equilibrium Real GDP to decrease; unemployment rate will increase
+3\. SRAS curve shifts to [[the left]], causing equilibrium price level to increase and equilibrium Real GDP to decrease; [[unemployment]] rate will increase
 
 ![](media/image2.png){width="3.34375in" height="1.9541393263342082in"}
 
-4\. AD curve shifts to the left, causing both equilibrium price level and real GDP to decrease; unemployment rate will increase
+4\. AD curve shifts to [[the left]], causing both equilibrium price level and real GDP to decrease; [[unemployment]] rate will increase
 
 ![](media/image3.png){width="3.34375in" height="1.8780971128608923in"}
 
-5\. AD curve shifts to the right, causing both equilibrium price level and real GDP to increase; unemployment rate will decrease
+5\. AD curve shifts to the right, causing both equilibrium price level and real GDP to increase; [[unemployment]] rate will decrease
 
 ![](media/image4.png){width="2.9470253718285213in" height="1.75in"}

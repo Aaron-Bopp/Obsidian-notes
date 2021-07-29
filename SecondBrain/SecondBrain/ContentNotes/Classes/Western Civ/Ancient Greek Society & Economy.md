@@ -1,20 +1,20 @@
-**ANCIENT GREEK SOCIETY & ECONOMY IN THE CLASSICAL AGE**
+**ANCIENT GREEK SOCIETY & [[ECONOMY]] IN THE CLASSICAL AGE**
 
 1.  ***Key Question***
 
     a.  In what ways was ancient Greek culture similar to the Near Eastern societies of the Mesopotamians and Egyptians? In what ways was it different?
 
-2.  **The Greek Economy in the Classical Age**
+2.  **The Greek [[Economy]] in the Classical Age**
 
-    a.  Free-Enterprise system -- as opposed to religious and government domination of the economy
+    a.  Free-Enterprise system -- as opposed to religious and [[government]] domination of the [[economy]]
 
-        i.  Government Officials & Law
+        i.  [[Government]] Officials & Law
 
         ii. Private property and enterprise
 
     b.  Agora = marketplace
 
-        i.  Government maintained this and negotiated favorable deals with traders
+        i.  [[Government]] maintained this and negotiated favorable deals with traders
 
     c.  Taxes
 
@@ -36,7 +36,7 @@
 
     e.  Imports
 
-        i.  Cattle, Iron, Slaves -- kept the economy running
+        i.  Cattle, Iron, Slaves -- kept the [[economy]] running
 
 3.  **The Social Hierarchy**
 
@@ -62,7 +62,7 @@
 
         i.  Service to the State: provide citizens or makers of citizens
 
-        ii. Self-sustaining
+        ii. [[Self]]-sustaining
 
     b.  Patriarchy
 
@@ -76,7 +76,7 @@
 
     a.  Pederasty -- when males courted youths nominally as proteges and realistically as sexual conquests
 
-        i.  Basis in Education -- gay sex is educational?
+        i.  Basis in [[Education]] -- [[Queer|gay]] sex is educational?
 
     b.  Both Men & Women
 
@@ -96,7 +96,7 @@
 
     c.  Sexual Promiscuity (adultery)-- could lead to exile
 
-    d.  Self-Control & Moderation -- polis held above all else
+    d.  [[Self]]-Control & Moderation -- polis held above all else
 
 7.  **Greek [Women]{.ul} in the Classical Age**
 

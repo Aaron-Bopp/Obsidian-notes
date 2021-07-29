@@ -24,7 +24,7 @@
 
     -   Mythological Origins?
 
-        -   Aeneas & the Trojan War
+        -   Aeneas & the Trojan [[War]]
 
         -   Romulus & Remus
 
@@ -32,9 +32,9 @@
 
     -   Archaeological Evidence?
 
--   **Early Italy**
+-   **Early [[Italy]]**
 
-    -   Tribal Italy
+    -   Tribal [[Italy]]
 
     -   The Latins
 

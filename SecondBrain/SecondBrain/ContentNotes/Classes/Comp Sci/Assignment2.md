@@ -1,6 +1,6 @@
 **Jarren Jackson**
 
-**Aaron Bopp**
+**Aaron [[Bopp]]**
 
 **Assignment 2**
 

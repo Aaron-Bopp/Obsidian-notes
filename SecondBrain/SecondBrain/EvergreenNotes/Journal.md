@@ -3,6 +3,8 @@ creation date: 2021-06-11
 modification date: Friday 11th June 2021 21:17:53
 note-type:
 - personal-note
+aliases:
+-
 ---
 
 
@@ -27,11 +29,11 @@ Just endure a few more years, you can retire soon.
 
 Just endure a few more decades, your life will be over soon.
 
-The injustice of endurance
+[[The injustice of endurance]]
 ### 2021-05-14 12:34 am
 I'm so confused. My brain just feels in a fog. I feel like the fog is emotion. I feel the fog is emotion I don't understand? Or maybe the fog isn't emotion, maybe the fog is my brain trying to find it's way through emotion. I can't think straight. I can't discover the source of this feeling. Why am I happy? Why do I feel like I could talk to people now? What is it about the last five days that has allowed me to feel this way and how do I replicate it? It feels good I think. I feels like I'm making progress, or is this just what my body needs. Is it the isolation and rest that is making me feel again, or is it the exploration of [[my gender]]? Or is it the reflection on my past when I was happy. Or is it the validation of my friends saying they [[love]] me. 
 
-What is my path to [[happiness]]? 
+[[What is my path to happiness]]? 
 
 Is what I'm feeling everybody else regular state or is it their hightened state? Because if its their hightened state, that would mean my normal state is normal, and that my feelings of brokeness are made up.
 
@@ -69,7 +71,7 @@ is it okay to want [[emotional validation]]? Do I want validation from people I 
 
 #TO/PONDER/ME   [[Emotional validation]] has been on my mind a lot recently. It feels like a lot of my worse behaviors are built around [[emotional validation]]. I cut myself off and refuse to reach out for help because I afraid that [[my emotions]] won't be validated. Of course this is a never ending circle 
 
-#TO/PONDER/ME Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
+#TO/PONDERED/ME (it's [[masking]], lol 7/29/21) Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
 
 # 2020
 ## April

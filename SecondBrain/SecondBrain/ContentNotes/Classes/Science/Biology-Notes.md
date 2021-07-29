@@ -12,7 +12,7 @@
 
 -   Reproduction
 
--   Evolution
+-   [[Evolution]]
 
 -   
 
@@ -50,7 +50,7 @@
 
 -   Complete fats are made up of saturated and unsaturated
 
--   Trans fats are unsaturated fats where the H where lost on both sides. (Cis is normal saturated fat)
+-   [[transgender|Trans]] fats are unsaturated fats where the H where lost on both sides. (Cis is normal saturated fat)
 
 -   Phospholipids (the amphipathic lipid) -- forms the cell membrane
 
@@ -420,7 +420,7 @@ Unit 2
 
     -   Aneuploidy -- extra chromosome -- nondisjunction
 
--   Mutations = Evolution
+-   Mutations = [[Evolution]]
 
 -   Mitosis -- growth, repair, reproduction of asexual organism
 
@@ -534,15 +534,15 @@ Unit 3
 
 -   Aristotle -- species have immutable essences, fit with the idea that god created everything
 
--   Lamarck -- acquired characteristics -- desire and work caused adaptation
+-   Lamarck -- acquired characteristics -- [[desire]] and work caused adaptation
 
 -   Darwin --
 
-    -   Natural selection -- over time desirable traits in a population increases
+    -   [[Natural selection]] -- over time desirable traits in a population increases
 
-    -   "Descent with modification" -- evolution via natural selection, new species formed as populations change
+    -   "Descent with modification" -- [[evolution]] via [[natural selection]], new species formed as populations change
 
--   Natural Selection observations
+-   [[Natural Selection]] observations
 
     -   Over-production - produce more than can survive
 
@@ -556,9 +556,9 @@ Unit 3
 
 -   Alfred Russel Wallace -- proposed same ideas as Darwin
 
--   Evidence of Evolution
+-   Evidence of [[Evolution]]
 
-    -   Evolution of antibiotic, pesticide resistance
+    -   [[Evolution]] of antibiotic, pesticide resistance
 
         -   More bacteria resistant to penicillin etc
 
@@ -646,15 +646,15 @@ Unit 3
 
         -   Mutations -- changes in DNA, only significant across entire genome and population
 
-        -   Natural selection
+        -   [[Natural selection]]
 
             -   Fitness -- how many offspring you produce
 
             -   Adaptation -- a variation of a trait that increases your fitness
 
-    -   Macroevolution -- biological evolution (new species, evolutionary trends, adaptive radiation, mass extinction)
+    -   Macroevolution -- biological [[evolution]] (new species, evolutionary trends, adaptive radiation, mass extinction)
 
-    -   Three models of natural selection
+    -   Three models of [[natural selection]]
 
         -   Directional selection -- selects in favor of extreme phenotype due to shift in environment
 

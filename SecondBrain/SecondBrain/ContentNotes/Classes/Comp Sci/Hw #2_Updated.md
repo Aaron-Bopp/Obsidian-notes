@@ -1,4 +1,4 @@
-**CSIS 44-345 Computer Organization Spring 2020**
+**CSIS 44-345 [[Computer]] Organization Spring 2020**
 
 **Hw#2 Due Date: Feb. 3, Class time (Hard Copy) 25 points**
 

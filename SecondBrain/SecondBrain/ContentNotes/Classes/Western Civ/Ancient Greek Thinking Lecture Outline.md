@@ -1,12 +1,12 @@
 -   **Key Questions**
 
-    -   Why did philosophy emerge?
+    -   Why did [[philosophy]] emerge?
 
     -   Why were the Sophists considered to be dangerous?
 
     -   How did Plato and Aristotle transform the Greek understanding of the world?
 
--   Early Greek Philosophy: The Pre-Socratics
+-   Early Greek [[Philosophy]]: The Pre-Socratics
 
     -   The Ionian Intellectual Revolution
 
@@ -38,11 +38,11 @@
 
     -   Protagoras' "Man is the measure of all things" -- rules of the cities were not based off the gods they were based on powerful men. Laws may need to changed.
 
-    -   Dangerous Implications -- law did not need to be obeyed, strong do what they have to to keep there power, weak can do nothing. These weakened community bonds in times of war
+    -   Dangerous Implications -- law did not need to be obeyed, strong do what they have to to keep there power, weak can do nothing. These weakened community bonds in times of [[war]]
 
 -   **Socrates (c. 470-399 BCE)**
 
-    -   Mythological Traditions Invalid -- education needs to be used
+    -   Mythological Traditions Invalid -- [[education]] needs to be used
 
     -   Universal Values -- not relative, truth needs to be found through reasoning
 
@@ -52,11 +52,11 @@
 
 -   **Plato (429-347 BCE)**
 
-    -   A Comprehensive System of Philosophy -- nature and social world
+    -   A Comprehensive System of [[Philosophy]] -- nature and social world
 
     -   Not about the Individual, About the Community
 
-        -   Allegory of the Cave -- bring the ignorant from ignorance to enlightenment
+        -   Allegory of the Cave -- bring the ignorant from [[ignorance]] to [[enlightenment]]
 
     -   The Theory of Ideas (aka Theory of Forms) -- unchanging standards of beauty and truth
 
@@ -66,7 +66,7 @@
 
 -   Aristotle (385-323 BCE) -- critical of platos theory of forms
 
-    -   Sense Perception -
+    -   Sense [[Perception]] -
 
         -   Empiricism - scientific theorizing is answerable to what can be observed
 

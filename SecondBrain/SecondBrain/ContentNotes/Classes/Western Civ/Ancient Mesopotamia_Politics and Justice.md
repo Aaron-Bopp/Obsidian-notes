@@ -52,11 +52,11 @@
 
         iii. Law and order (justice) -- political motivations get respect of citizens/keep them in line
 
-        iv. Economy -- lugal oversaw all trade
+        iv. [[Economy]] -- lugal oversaw all trade
 
             1.  Maintenance of resources
 
-5)  **The Mesopotamian Economy**
+5)  **The Mesopotamian [[Economy]]**
 
     a.  Lack of metal, timber, stone
 
@@ -74,7 +74,7 @@
 
     a.  Afro-Asiatic -- north africe, Egypt middle east
 
-    b.  Indo-European -- Americas, europe
+    b.  Indo-European -- Americas, [[europe]]
 
 7)  **Spoken Language & Written Script in Mesopotamia**
 
@@ -150,6 +150,6 @@
 >
 > 205\. If the slave of a freed man strike the body of a freed man, his ear shall be cut off.
 
-11) ***In Conclusion:* Ancient Mesopotamia: Politics & Justice**
+11) ***In Conclusion:* Ancient Mesopotamia: [[Politics]] & Justice**
 
-    a.  Mesopotamia consisted of waring city-states. Bartering and trade from the east made up economy. Early forms of writing and ways of writing introduced the kind of history recorded. Kings ruled and wrote laws to govern in a unequal, but accepted way.
+    a.  Mesopotamia consisted of waring city-states. Bartering and trade from the east made up [[economy]]. Early forms of writing and ways of writing introduced the kind of history recorded. Kings ruled and wrote laws to govern in a unequal, but accepted way.

@@ -2,11 +2,11 @@
 
 **[Assignment-10: NoSQL - MongoDB]{.ul}**
 
-All Northwest students (graduate and undergraduate) regardless of whether they are full-time or part-time and live on or off campus, are provided with a wireless-ready laptop computer. Northwest laptop models may vary between students depending on availability and enrollment status.  Online professional program students have a different fee structure and are ineligible to participate in the Northwest laptop program.
+All Northwest students (graduate and undergraduate) regardless of whether they are full-time or part-time and live on or off campus, are provided with a wireless-ready laptop [[computer]]. Northwest laptop models may vary between students depending on availability and enrollment status.  Online professional program students have a different fee structure and are ineligible to participate in the Northwest laptop program.
 
 ![](media/image1.jpg){width="3.9484372265966754in" height="2.625in"}
 
-Let's assume that the data of all the issued laptops is maintained in a No-SQL database. The data in the DB is as follows,
+Let's assume that the data of all the issued laptops is maintained in a No-[[SQL]] database. The data in the DB is as follows,
 
   -----------------------------------------------------------------------------------------------------------------------
   **Student_id**   **Student_Name**   **Laptop_Brand**   **Laptop_Model**   **Issued_Date**   **Laptop_Price (in USD)**

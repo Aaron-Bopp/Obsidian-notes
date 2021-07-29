@@ -12,9 +12,9 @@
 
 -   Confederate system -- gives more power to states
 
--   Federal -- gives more power to national government
+-   Federal -- gives more power to national [[government]]
 
--   Negative right -- something that you don't have a right to do, (how to do we allow liberty, don't allow the govt to infringe upon it) govt cannot do things(constitution is full of these),
+-   Negative right -- something that you don't have a right to do, (how to do we allow liberty, don't allow the [[government|govt]] to infringe upon it) [[government|govt]] cannot do things(constitution is full of these),
 
 -   The right to bear arms is an individual right
 

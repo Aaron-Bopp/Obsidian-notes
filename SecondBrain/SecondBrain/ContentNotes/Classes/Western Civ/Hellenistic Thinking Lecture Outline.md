@@ -8,7 +8,7 @@
 
     -   Epicurus (341-270 BCE)
 
-    -   Citizenship not a prerequisite for Happiness
+    -   Citizenship not a prerequisite for [[Happiness]]
 
     -   Fear of the Gods
 
@@ -30,7 +30,7 @@
 
 -   **Skepticism**
 
-    -   Beliefs can't lead to happiness
+    -   Beliefs can't lead to [[happiness]]
 
     -   Human Reason Flawed
 
@@ -46,7 +46,7 @@
 
     -   What hinders a free life?
 
-    -   Self-Sufficiency and Spiritual Security
+    -   [[Self]]-Sufficiency and Spiritual Security
 
 -   **Astronomy**
 

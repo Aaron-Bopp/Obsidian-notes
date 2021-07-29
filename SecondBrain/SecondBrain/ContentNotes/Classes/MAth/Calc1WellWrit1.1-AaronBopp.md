@@ -4,7 +4,7 @@ Section 1.1 Well-Written
 
 Assigned August 29, 2018, due September 7, 2018
 
-Name: Aaron Bopp
+Name: Aaron [[Bopp]]
 
 An airplane takes off from an airport and lands an hour later at another airport 400 miles away. If t represents the time in minutes since the plane has left the terminal building, let x(t) be the horizontal distance traveled (in miles) and y(t) be the altitude of the plane (in feet). You are to make four graph sketches as described below. In addition to the graphs, explain, for each graph, the story (meaning) behind the points (as curves) sketched. Also, two pairs of graphs are related meaning if you know one, you can figure out the other. Which graphs are related, and how are they related?
 

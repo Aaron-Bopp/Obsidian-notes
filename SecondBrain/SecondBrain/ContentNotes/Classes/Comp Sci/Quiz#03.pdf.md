@@ -16,7 +16,7 @@ Soft. Eng. Principles Fall 2020
 >
 > The objectives of the MSL project are specified as follows:
 
--   Provide a software infrastructure to design this project, including
+-   Provide a software [[infrastructure]] to design this project, including
 
     -   Registration of new players and keep track of their profiles and contact information.
 
@@ -28,7 +28,7 @@ Soft. Eng. Principles Fall 2020
 
     -   Keep track of the team/individual scores.
 
-    -   Provide an infrastructure for advertisers.
+    -   Provide an [[infrastructure]] for advertisers.
 
     -   Keep track of tournament statistics.
 
@@ -56,7 +56,7 @@ Soft. Eng. Principles Fall 2020
 >
 > There are more architectural styles than we covered in the lectures. However, the ones covered in class are the predominants. For each system described below, which architectural style, if there exists one/ones, is (are) the most appropriate for the given system. If any of the following problems do not match any architectural styles (or a combination) we covered in class, then state it in your answer with a very brief explanation.
 
-1.  A system of automated banking machines, acting as distributed ATM.
+1.  A system of automated banking machines, [[acting]] as distributed ATM.
 
     a.  Pipeline
 
@@ -72,7 +72,7 @@ Soft. Eng. Principles Fall 2020
 
     a.  Client-server
 
-5.  A system that divide the system into individual reusable and self-sufficient object, each containing the data and the behavior relevant to the object.
+5.  A system that divide the system into individual reusable and [[self]]-sufficient object, each containing the data and the behavior relevant to the object.
 
     a.  layered
 
@@ -88,10 +88,10 @@ Soft. Eng. Principles Fall 2020
 
     a.  pipeline
 
-9.  A real-time application that shows the health of a patient
+9.  A real-time application that shows the health of a [[patient]]
 
     a.  Peer-toper
 
-10. An Application for reordering computer parts from hundreds of stores.
+10. An Application for reordering [[computer]] parts from hundreds of stores.
 
     a.  Batch-sequential

@@ -115,4 +115,4 @@ n.  LDR R0, \[R1\], \# 4 post-indexing
 ```
 8.  The above are the main concepts that cover exam#2. However, other related questions to the course might be asked.
 
-9.  There will be NO questions on C, but they will be in the Final Exam.
+9.  There will be NO questions on C, but they will be in the [[Final Exam]].

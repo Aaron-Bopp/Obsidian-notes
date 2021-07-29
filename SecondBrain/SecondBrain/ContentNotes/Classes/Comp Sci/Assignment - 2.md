@@ -8,7 +8,7 @@ Hw#2: (25 pts) Due Monday Sept. 28 - 5:00 PM
 
 Ex#1: 8 points **Get familiar with JFLAP**
 
-> JFLAP (Java Formal Languages and Automata Package) is an educational software graphical tool written in Java that can be used with several topics computer science, in particular in formal languages and automata. students can create/manipulate DFA, NFA, regular expressions, and grammars, etc. The comprehensive JFLAP user manual is at **http://www.jflap.org/tutorial/**
+> JFLAP (Java Formal Languages and Automata Package) is an educational software graphical tool written in Java that can be used with several topics [[computer]] science, in particular in formal languages and automata. students can create/manipulate DFA, NFA, regular expressions, and grammars, etc. The comprehensive JFLAP user manual is at **http://www.jflap.org/tutorial/**
 >
 > Download and install JFLP software. It is best to run JFLAP locally on Windows. You need Java SDK to open JFLAP on Windows.
 >

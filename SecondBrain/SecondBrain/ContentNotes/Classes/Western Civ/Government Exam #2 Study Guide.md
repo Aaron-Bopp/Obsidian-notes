@@ -1,12 +1,12 @@
 **GOVERNMENT EXAM #2 OUTLINE**
 
-1.  Civil Liberties. Civil Rights. What's the difference?
+1.  Civil Liberties. [[Civil Rights]]. What's the difference?
 
-    a.  The Incorporation Doctrine: using the 14^th^ amendment to "incorporate" civil liberties from the Bill of Rights into all levels of government, from the local up to the federal.
+    a.  The Incorporation Doctrine: using the 14^th^ amendment to "incorporate" civil liberties from the Bill of Rights into all levels of [[government]], from the local up to the federal.
 
-        i.  States like alabama were claiming that the constitution only applied in federal areas (after the civil war)
+        i.  States like alabama were claiming that the constitution only applied in federal areas (after the [[civil war]])
 
-    b.  Civil liberties are the end, civil rights are the means to the end. We should have certain civil liberties, civil rights protects them
+    b.  Civil liberties are the end, [[civil rights]] are the means to the end. We should have certain civil liberties, [[civil rights]] protects them
 
 2.  What is "the press"?
 
@@ -14,7 +14,7 @@
 
         i.  Reporters report the news, pundits discuss the news, both are biased but pundits are meant to give a biased opinion on unbiased facts
 
-    b.  The Daily Stormer, MSNBC, FoxNews, etc.... "Enemy of the people," and therefore deserving of being shut down by the government?
+    b.  The Daily Stormer, MSNBC, FoxNews, etc.... "Enemy of the people," and therefore deserving of being shut down by the [[government]]?
 
         i.  Violates free speech and freedom of the press
 
@@ -26,7 +26,7 @@
 
     b.  Why can a person generally NOT be punished for having a swastika tattoo? (Albeit Hesse could be fired from his job for having one on his forehead \-- but maybe not if it is under his shirt)
 
-        i.  Could be covered under freedom of religion (hindu), individual institutions would have to have specific statutes to allow them to fire you over it. Intent matters and can make things messy
+        i.  Could be covered under freedom of [[religion]] (hindu), individual institutions would have to have specific statutes to allow them to fire you over it. Intent matters and can make things messy
 
     c.  Why can a person actively burn a U.S. flag? The POLITICAL reasons for the first amendment; see *Texas v. Johnson \-- see [[https://www.oyez.org/cases/1988/88-155]{.ul}](https://www.oyez.org/cases/1988/88-155)*
 
@@ -36,15 +36,15 @@
 
         i.  Are you allowed to express political opinions on the job? Yes -- but the 1^st^ amendment doesn't protect you from consequences. In most states, employers (like NFL team owners) are allowed to fire an employee for any reason short of a "Title VII reason" and the "protected class status" therein...
 
-            1.  Title VII of the Civil Rights Act of 1964 is a federal law that prohibits employers from discriminating against employees on the basis of sex, race, color, national origin, and religion.
+            1.  Title VII of the [[Civil Rights]] Act of 1964 is a federal law that prohibits employers from discriminating against employees on the basis of sex, race, color, national origin, and [[religion]].
 
         ii. Retired Army Green Beret Nate Boyer is the man who first convinced Colin Kaepernick to kneel during the national anthem.
 
             1.  [[https://www.armytimes.com/opinion/2016/08/30/an-open-letter-to-colin-kaepernick-from-a-green-beret-turned-long-snapper/]{.ul}](https://www.armytimes.com/opinion/2016/08/30/an-open-letter-to-colin-kaepernick-from-a-green-beret-turned-long-snapper/)
 
-            2.  [[http://www.espn.com/nfl/story/\_/id/21003968/nfl-2017-ex-green-beret-nate-boyer-writes-open-letter-president-donald-trump-colin-kaepernick-nfl-united-states-america]{.ul}](http://www.espn.com/nfl/story/_/id/21003968/nfl-2017-ex-green-beret-nate-boyer-writes-open-letter-president-donald-trump-colin-kaepernick-nfl-united-states-america)
+            2.  [[http://www.espn.com/nfl/story/\_/id/21003968/nfl-2017-ex-green-beret-nate-boyer-writes-open-letter-president-donald-trump-colin-kaepernick-nfl-united-states-america]{.ul}](http://www.espn.com/nfl/story/_/id/21003968/nfl-2017-ex-green-beret-nate-boyer-writes-open-letter-president-donald-trump-colin-kaepernick-nfl-united-states-[[america]])
 
-            3.  [[https://www.npr.org/2018/09/09/646115651/the-veteran-and-nfl-player-who-advised-kaepernick-to-take-a-knee]{.ul}](https://www.npr.org/2018/09/09/646115651/the-veteran-and-nfl-player-who-advised-kaepernick-to-take-a-knee)
+            3.  [[https://www.npr.org/2018/09/09/646115651/the-[[veteran]]-and-nfl-player-who-advised-kaepernick-to-take-a-knee]{.ul}](https://www.npr.org/2018/09/09/646115651/the-[[veteran]]-and-nfl-player-who-advised-kaepernick-to-take-a-knee)
 
         iii. Colin Kaepernick's view:
 
@@ -76,7 +76,7 @@
 
     a.  Recent events in Creston, Iowa \-- when can high school athletes be kicked off of the team?
 
-        i.  What was the intent? Participants claim ignorance
+        i.  What was the intent? Participants claim [[ignorance]]
 
             1.  Was an individual harrassed? Or was it just generally racist
 
@@ -110,25 +110,25 @@
 
         ii. What did the Mueller Report conclude regarding...
 
-            1.  Whether the Russian government meddled in the 2016 election
+            1.  Whether the Russian [[government]] meddled in the 2016 election
 
-            2.  Whether the Trump campaign conspired with the Russians
+            2.  Whether the Trump campaign conspired with the [[Russia|Russians]]
 
             3.  Whether President Trump obstructed the Mueller investigation
 
-                a.  Why did Robert Mueller use the phrase "If we had confidence the President did not commit a crime, we would have said so..." How does this phrase relate to Department of Justice policy about the DoJ NOT being able to accuse a sitting president of a federal crime? If a sitting president cannot be charged with a federal crime, what recourse is there under "checks and balances"?
+                a.  Why did Robert Mueller use the phrase "If we had [[confidence]] the President did not commit a crime, we would have said so..." How does this phrase relate to Department of Justice policy about the DoJ NOT being able to accuse a sitting president of a federal crime? If a sitting president cannot be charged with a federal crime, what recourse is there under "checks and balances"?
 
-        iii. Russia's online realities in U.S. elections
+        iii. [[Russia]]'s online realities in U.S. elections
 
              1.  Misinformation and Disinformation
 
-> Dictionary.com defines **misinformation** as "false information that is spread, regardless of whether there is intent to mislead." And it describes **disinformation** as "deliberately misleading or biased information; manipulated narrative or facts; propaganda."
+> Dictionary.com defines **misinformation** as "false information that is spread, regardless of whether there is intent to mislead." And it describes **disinformation** as "deliberately misleading or biased information; manipulated narrative or facts; [[propaganda]]."
 
 ![](media/image1.png){width="6.171875546806649in" height="3.71875in"}
 
 2.  Bots \-- what are they? How are they used to spread (mis)(dis)information?
 
-3.  Fake accounts \-- why did the Russians use them?
+3.  Fake accounts \-- why did the [[Russia|Russians]] use them?
 
 4.  President Trump ordering a cyberattack on a Russian Troll Farm \-- while claiming on Twitter the Mueller investigation was a "Russia hoax"\... [[https://www.nbcnews.com/politics/national-security/trump-approved-operation-disabled-russian-troll-farm-during-2018-midterms-n976381]{.ul}](https://www.nbcnews.com/politics/national-security/trump-approved-operation-disabled-russian-troll-farm-during-2018-midterms-n976381) Are these things true?
 
@@ -147,7 +147,7 @@ iv. ![](media/image2.png){width="5.765625546806649in" height="2.6145833333333335
 
 **[DUE PROCESS & PROCEDURAL RIGHTS]{.ul}**
 
-DUE PROCESS: Making it hard for the government to do the wrong thing - [not]{.ul} making it easy for the government to do the right thing.
+DUE PROCESS: Making it hard for the [[government]] to do the wrong thing - [not]{.ul} making it easy for the [[government]] to do the right thing.
 
 A. A hypothetical: Which country would you like to live in?
 
@@ -163,13 +163,13 @@ B. Key terms/concepts
 
 \-- What country locks up more people than any other?
 
-America
+[[America]]
 
-\-- How many people does America lock up?
+\-- How many people does [[America]] lock up?
 
 \-- What are the fiscal and social costs of locking up so many?
 
-\-- Why does America have so many people locked up?
+\-- Why does [[America]] have so many people locked up?
 
 \-- What should the role of the criminal justice system be: retribution or rehabilitation?
 
@@ -179,41 +179,41 @@ America
 
 \-- How do you measure "effective policing"? Baltimore and Ferguson case studies.
 
-\-- "The System": heavily policing poor areas and the arrest of poor people... bail realities (see reading); under-resourced public defenders; prosecutors' and plea bargains; inmates being billed for room and board while behind bars means emerging from prison with debt; parole officers requiring payment for prison-related debt\...
+\-- "The System": heavily policing poor areas and the arrest of poor people... bail realities (see reading); under-resourced public defenders; prosecutors' and plea bargains; inmates being billed for room and board while behind bars means emerging from prison with [[debt]]; parole officers requiring payment for prison-related debt\...
 
-D. Police Militarization \-- How does this affect civil-police relations. How does this affect the delivery of search warrants?
+D. Police Militarization \-- How does this affect civil-police relations. How does this affect the delivery of [[search]] warrants?
 
-1.  What does Ferguson teach us about select community-police relations, police practices and racial issues in America?
+1.  What does Ferguson teach us about select community-police relations, police practices and racial issues in [[America]]?
 
     a.  Death of Michael Brown broke the camels back. The police force had been citing and looking for crime racially in order to make more money
 
 2.  Police dressing like military changes the nature of interactions with police.
 
-3.  Federal government is subsidizing local police with military grade equipment
+3.  Federal [[government]] is subsidizing local police with military grade equipment
 
 4.  Swat is being deployed more and more even though we are becoming less violent
 
-E. Life vs Liberty -- Abortion
+E. Life vs Liberty -- [[Abortion]]
 
-1\. Griswold vs Connecticut set the precedent that the government could not violate couples privacy and prevent them fromm using birth control
+1\. Griswold vs Connecticut set the precedent that the [[government]] could not violate couples privacy and prevent them fromm using birth control
 
-2\. Roe v Wade -- held the precedent of above, cannot make abortion illegal
+2\. Roe v Wade -- held the precedent of above, cannot make [[abortion]] illegal
 
-a\. 1^st^ trimester govts cannot forbid abortion
+a\. 1^st^ trimester govts cannot forbid [[abortion]]
 
 b\. 2^nd^ trimester -- states can regulate abortions
 
 c\. 3^rd^ trimester -- states can forbid abortions, unless the mothers health is threatened
 
-3\. Lots of regulation for abortion today -- waiting periods, consent from parents/husband
+3\. Lots of regulation for [[abortion]] today -- waiting periods, [[consent]] from parents/husband
 
-a\. trap laws try to prevent abortions while not actually stopping an abortion directly
+a\. trap laws try to prevent abortions while not actually stopping an [[abortion]] directly
 
 **++++++++++++++++++++**
 
 Voting and...
 
-1.  How [federal]{.ul} elections are a "team effort" between the federal government and state governments
+1.  How [federal]{.ul} elections are a "team effort" between the federal [[government]] and state governments
 
 2.  Jim Crow Laws
 
@@ -229,7 +229,7 @@ Voting and...
 
 > ![](media/image6.png){width="3.0833333333333335in" height="1.8125in"}
 
-3.  Voting reform laws \-- Why pass them? Who benefits (or not) from having them? Why did these reform laws proliferate after the Supreme Court in 2012 struck down Sec. 5 of the Voting Rights Act? (When Section 5 was struck down, the states noted in blue on the map, above, no longer had to get Department of Justice permission for changes to election rules).
+3.  Voting [[reform]] laws \-- Why pass them? Who benefits (or not) from having them? Why did these [[reform]] laws proliferate after the Supreme Court in 2012 struck down Sec. 5 of the Voting Rights Act? (When Section 5 was struck down, the states noted in blue on the map, above, no longer had to get Department of Justice permission for changes to election rules).
 
 Gerrymandering 101 \-- the basics
 
@@ -277,11 +277,11 @@ ii. *Obergefell v. Hodges* \-- see [[https://www.oyez.org/cases/2014/14-556]{.ul
 >
 > iii\. Do churches have to recognize same-sex marriages? Why or why not?
 >
-> Iv. Do government employees have to issue marriage licenses to same-sex couples, even if said employees' religious beliefs say they should not? (Kim Davis example)
+> Iv. Do [[government]] employees have to issue marriage licenses to same-sex couples, even if said employees' religious beliefs say they should not? (Kim Davis example)
 
-B. LGBTQ+ Claims for civil rights and ...
+B. LGBTQ+ Claims for [[civil rights]] and ...
 
-1\. Indiana's 2015 "Religious Freedom Restoration Act"
+1\. Indiana's 2015 "[[Religious Freedom]] Restoration Act"
 
 2\. Utah's 2015 S.B. 296
 
@@ -295,19 +295,19 @@ C. LGBTQ+ issues in the Trump Presidency
 
 2.  [[http://www.logcabin.org/issues/equality-map/]{.ul}](http://www.logcabin.org/issues/equality-map/) Must public schools accommodate students' bathroom preferences based on sex or gender?
 
-    a.  How the Obama administration used Title IX of the Education Amendment Act of 1972 in the "toilet wars"
+    a.  How the [[Obama]] administration used Title IX of the [[Education]] Amendment Act of 1972 in the "toilet wars"
 
 ![](media/image12.png){width="4.682292213473316in" height="0.5520833333333334in"}
 
 3\. Don't Ask, Don't Tell (1996-2013)
 
-4\. President Trans-related military policy \-- see [[http://www.foxnews.com/politics/2017/08/25/trump-issues-guidance-on-transgender-military-ban.html]{.ul}](http://www.foxnews.com/politics/2017/08/25/trump-issues-guidance-on-transgender-military-ban.html) and [[http://www.npr.org/sections/thetwo-way/2017/08/28/546731931/2-lawsuits-challenge-trumps-ban-on-transgender-military-service]{.ul}](http://www.npr.org/sections/thetwo-way/2017/08/28/546731931/2-lawsuits-challenge-trumps-ban-on-transgender-military-service)
+4\. President [[transgender|Trans]]-related military policy \-- see [[http://www.foxnews.com/politics/2017/08/25/trump-issues-guidance-on-transgender-military-ban.html]{.ul}](http://www.foxnews.com/politics/2017/08/25/trump-issues-guidance-on-transgender-military-ban.html) and [[http://www.npr.org/sections/thetwo-way/2017/08/28/546731931/2-lawsuits-challenge-trumps-ban-on-[[transgender]]-military-service]{.ul}](http://www.npr.org/sections/thetwo-way/2017/08/28/546731931/2-lawsuits-challenge-trumps-ban-on-[[transgender]]-military-service)
 
 ![](media/image13.png){width="4.567708880139983in" height="2.955576334208224in"}
 
 ![](media/image14.png){width="2.9895833333333335in" height="2.5781255468066493in"}
 
-3.  Can a Colorado baker refuse to make a gay wedding cake?
+3.  Can a Colorado baker refuse to make a [[Queer|gay]] wedding cake?
 
     a.  *Masterpiece Cakeshop v Colorado Civil Rights Commission \-- see [[https://www.oyez.org/cases/2017/16-111]{.ul}](https://www.oyez.org/cases/2017/16-111)*
 
@@ -315,9 +315,9 @@ C. LGBTQ+ issues in the Trump Presidency
 
 4.  TITLE IX DISCUSSION
 
-    a.  As discussed in class, which federal civil rights law is Title IX associated with?
+    a.  As discussed in class, which federal [[civil rights]] law is Title IX associated with?
 
-    b.  What "due process" did the Obama administration favor for universities to use when investigating sexual assault claims? Who is given the most benefit of the doubt: the accuser or the accused?
+    b.  What "due process" did the [[Obama]] administration favor for universities to use when investigating sexual assault claims? Who is given the most benefit of the doubt: the accuser or the accused?
 
     c.  What "due process" does the Trump administration favor for universities to use when investigating sexual assault claims? Who is given the most benefit of the doubt: the accuser or the accused?
 
@@ -327,15 +327,15 @@ C. LGBTQ+ issues in the Trump Presidency
 
 **[Education]{.ul}**
 
-A.  Terms: Primary education; secondary education; post-secondary / higher education
+A.  Terms: Primary [[education]]; secondary [[education]]; post-secondary / higher [[education]]
 
-B.  How much tax money is spent on public education annually, on a per pupil basis?
+B.  How much tax money is spent on public [[education]] annually, on a per pupil basis?
 
 C.  Explain how the U.S. public school district system works (closed enrollment; open enrollment) \-- and why there are funding disparities, which possibly lead to disparities in educational outcomes
 
-D.  *De jure* & *de facto* segregation trends in public education \-- from *Brown v. Topeka Board of Education*, 1954 to today's socio-economic and ethnic realities
+D.  *De jure* & *de facto* [[segregation]] trends in public [[education]] \-- from *Brown v. Topeka Board of [[Education]]*, 1954 to today's [[socio-economic]] and ethnic realities
 
-E.  How does the United States compare to Korea (or Luxembourg)?
+E.  How does [[America|the United States]] compare to Korea (or Luxembourg)?
 
     1.  Per pupil spending
 
@@ -347,17 +347,17 @@ E.  How does the United States compare to Korea (or Luxembourg)?
 
     5.  Hesse's hypothetical: don't tax people any more or less but spend money *differently* (no extra-curricular activities; rather, spend that money on teacher salaries, raising them to Luxembourg levels of compensation)
 
-F.  Public education reforms
+F.  Public [[education]] reforms
 
-    1.  America's high school graduates look like other countries' high school dropouts... Why? But America's college graduates fare well against other countries' college graduates... Why?
+    1.  [[America]]'s high school graduates look like other countries' high school dropouts... Why? But [[America]]'s college graduates fare well against other countries' college graduates... Why?
 
     2.  Vouchers & School Choice
 
-G.  Student loan trends \-- why are more students going into debt? Why is there ever more cumulative, absolute amount of student debt?
+G.  Student loan trends \-- why are more students going into [[debt]]? Why is there ever more cumulative, absolute amount of student [[debt]]?
 
 **[Social Mobility]{.ul}**
 
-I.  Social Mobility in light of education, marriage and children...
+I.  Social Mobility in light of [[education]], marriage and children...
 
     A.  Divorce trends / Marriage Trends
 
@@ -371,7 +371,7 @@ II. What is a "hereditary meritocracy"?
 
 III. The Opportunity Atlas & Census Quick Facts
 
-> Income. Education. Density of jobs. Marriage (or not). Teen pregnancy. Poverty Level\...
+> Income. [[Education]]. Density of jobs. Marriage (or not). Teen pregnancy. [[Poverty]] Level\...
 >
 > Today we will dig into data, to see how it aligns (or not) with the required reading. For your reference, here are the websites we will use:
 >
@@ -385,4 +385,4 @@ III. The Opportunity Atlas & Census Quick Facts
 >
 > U.S. Census Bureau QuickFacts: United States
 >
-> QuickFacts provides statistics for all states and counties, and for cities and towns with \.... Click the Quick Info icon to the left of each row in TABLE view to learn \...
+> QuickFacts provides statistics for all states and counties, and for cities and towns with \.... Click the Quick Info icon to [[the left]] of each row in TABLE view to learn \...

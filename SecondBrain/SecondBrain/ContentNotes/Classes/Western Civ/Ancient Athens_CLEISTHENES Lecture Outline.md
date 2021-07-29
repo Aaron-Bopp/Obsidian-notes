@@ -1,8 +1,8 @@
 -   **Key Questions**
 
-    -   What issues led to the need for further governmental reform in Athens?
+    -   What issues led to the need for further governmental [[reform]] in Athens?
 
-    -   To what extent were Cleisthenes' reforms democratic?
+    -   To what extent were Cleisthenes' reforms [[democratic]]?
 
 -   **Cleisthenes' Reforms**
 
@@ -28,7 +28,7 @@
 
     -   Women, Slaves, Metics
 
--   **Ancient Democracy's Evolution**
+-   **Ancient Democracy's [[Evolution]]**
 
 +---------------------------------+--------------------------------+------------------------------+-------------------------------+
 |                                 | **Aristocratic Oligarchy**     | **Solon's Constitution**     | **Cleisthenes' Constitution** |

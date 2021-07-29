@@ -1,6 +1,6 @@
 Northwest Missouri State University
 
-School of Computer Science and Information Systems
+School of [[Computer]] Science and Information Systems
 
 > Software Engineering Principles CSIS 44561 Take-Home Exam (Fall 2020 Section 01 & Section 02)
 
@@ -69,7 +69,7 @@ b.  A classroom contains four windows. (4 pts)
 
 c.  An input/output device could be a Xerox copier or keyboard. (5 pts)
 
-d.  A stock market transaction could be a purchase or a sale. (5 pts)
+d.  A [[stock market]] transaction could be a purchase or a sale. (5 pts)
 
 e.  A client has one or more bank account(s). A client can be a corporate customer
 

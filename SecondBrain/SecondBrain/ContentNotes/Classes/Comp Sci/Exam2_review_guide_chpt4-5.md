@@ -140,7 +140,7 @@ Chapter 4
 
     -   Fields in datagram -
 
--   Dual stack
+-   [[Dual]] stack
 
 -   Tunneling -- ip v6 LANs connected to other ipv6 LANs through ipv4 tunnels
 
@@ -272,7 +272,7 @@ Chapter 5
 
     -   Switch table -- mac address and interface
 
-    -   Self-learning -- learns where hosts are
+    -   [[Self]]-learning -- learns where hosts are
 
     -   Plug and play device
 

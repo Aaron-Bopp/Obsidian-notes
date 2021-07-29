@@ -1,4 +1,4 @@
-Homework 10
+[[Homework 10]]
 
 Download the data set Cat Jumping.
 

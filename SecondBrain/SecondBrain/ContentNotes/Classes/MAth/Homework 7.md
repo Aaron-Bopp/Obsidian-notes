@@ -38,7 +38,7 @@ h.  What is your conclusion? DO you agree with H or not? Justify.
 
 H­(a) is most likely correct because it is very unlikely to get .75 if .5 is the normal proportion. The gesturing did have an effect
 
-II. Researchers found that in a sample of 2101 Vietnam veterans, 777 had been divorced at least once (Gimbel and Booth, 1994). U. S. Census figures indicate that among all American men aged 30-44 when the study was conducted in 1985, 27% had been divorced at least once. You would like to conduct a hypothesis test to assess whether or not the sample data from the study provide strong evidence that the divorce rate among all Vietnam veterans is greater than 27%.
+II. Researchers found that in a sample of 2101 [[Vietnam]] veterans, 777 had been divorced at least once (Gimbel and Booth, 1994). U. S. Census figures indicate that among all American men aged 30-44 when the study was conducted in 1985, 27% had been divorced at least once. You would like to conduct a hypothesis test to assess whether or not the sample data from the study provide strong evidence that the divorce rate among all [[Vietnam]] veterans is greater than 27%.
 
 ```{=html}
 <!-- -->
@@ -57,14 +57,14 @@ c.  What is the standard deviation of the sampling distribution?
 
 d.  Set up the null and alternative hypothesis.
 
-> H0: P = .27 The divorce rate of Vietnam veterans matches the one of all Americans and is 27%
+> H0: P = .27 The divorce rate of [[Vietnam]] veterans matches the one of all [[America|Americans]] and is 27%
 
-Ha: P \> .27 The divorce rate of Vietnam veterans is higher than 27%
+Ha: P \> .27 The divorce rate of [[Vietnam]] veterans is higher than 27%
 
 e.  Conclusion: Based on your sample, do you agree with null hypothesis or with the alternative hypothesis? Justify.
 
-> The sample P\^ is 10 SD's higher from the P. This proves the Ha must be correct. The Vietnam veterans divorce rate is much higher than divorce rate of all Americans
+> The sample P\^ is 10 SD's higher from the P. This proves the Ha must be correct. The [[Vietnam]] veterans divorce rate is much higher than divorce rate of all [[America|Americans]]
 
-f.  Based on your sample, where do you think the TRUE divorce rate among Vietnam veterans is? (Give a 95% confidence interval)
+f.  Based on your sample, where do you think the TRUE divorce rate among [[Vietnam]] veterans is? (Give a 95% [[confidence]] interval)
 
 .35043 to .38917 or 35% to 38%

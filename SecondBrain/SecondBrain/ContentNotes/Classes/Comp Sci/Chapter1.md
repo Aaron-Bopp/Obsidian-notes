@@ -14,7 +14,7 @@
 >
 > A PHYSICIAN may admit one or more PATIENTS.
 >
-> A PATIENT is admitted by only one PHYSICIAN.
+> A [[PATIENT]] is admitted by only one PHYSICIAN.
 >
 > A HOSPITAL has one or more WARDs. Each WARD is located in exactly one HOSPITAL.
 >
@@ -22,6 +22,6 @@
 >
 > WARDs.
 >
-> A CHARGE is incurred my one or more PATIENT, and a PATIENT can incure more than one CHARGE.
+> A CHARGE is incurred my one or more [[PATIENT]], and a [[PATIENT]] can incure more than one CHARGE.
 
 \*From, Hoffer, Ramesh, Topi, Modern Database Management, 12^th^ edition, 2016, Pearson Prentice Hall

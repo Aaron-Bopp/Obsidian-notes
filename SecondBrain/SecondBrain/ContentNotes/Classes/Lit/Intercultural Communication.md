@@ -16,7 +16,7 @@
 
 -   Hegemony -- the fear of the influence/erasure on culture can have on another
 
--   redemptive analogy -- Missionaries look for something in a culture that can relate to the story of Christianity
+-   redemptive analogy -- Missionaries look for something in a culture that can relate to the story of [[Christianity]]
 
 -   contact zone -- a space where people geographically ad historically separated establish relations based on conflict
 

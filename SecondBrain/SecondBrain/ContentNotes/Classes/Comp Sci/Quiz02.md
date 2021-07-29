@@ -53,11 +53,11 @@ Given the following scenario:
 
     -   Open session
 
-    -   Register patient
+    -   Register [[patient]]
 
-    -   Schedule patient for appointment
+    -   Schedule [[patient]] for appointment
 
-    -   Admit patient to hospital
+    -   Admit [[patient]] to hospital
 
     -   Assign rooms (Private or General rooms)
 
@@ -71,7 +71,7 @@ Given the following scenario:
 
     -   Update hospital database
 
-    -   Check the schedule patient appointment
+    -   Check the schedule [[patient]] appointment
 
     -   Check admission of patients to hospital
 

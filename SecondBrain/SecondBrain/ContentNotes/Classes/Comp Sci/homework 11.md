@@ -1,6 +1,6 @@
 **Week 11 Homework**
 
-R1: infrastructure mode just means that hosts are connected to access points. Otherwise theyre in adhoc mode where the hosts have to act as routers and other services
+R1: [[infrastructure]] mode just means that hosts are connected to access points. Otherwise theyre in adhoc mode where the hosts have to act as routers and other services
 
 R4: slowing down speeds and increasing power
 

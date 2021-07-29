@@ -1,8 +1,8 @@
 -   **Key Questions**
 
-    -   What caused the Peloponnesian War?
+    -   What caused the Peloponnesian [[War]]?
 
-    -   What were the consequences of the Peloponnesian War?
+    -   What were the consequences of the Peloponnesian [[War]]?
 
 -   **The Athenian Empire**
 
@@ -24,7 +24,7 @@
 
 -   **The 2^nd^ Parthenon**
 
--   **The Great Peloponnesian War**
+-   **The Great Peloponnesian [[War]]**
 
     -   Athenian Imperial Expansion
 
@@ -32,9 +32,9 @@
 
         -   Conflict with Peloponnesian League Members (esp. Corinth)
 
-    -   Sparta Declares War (431) -- sparta had best army
+    -   Sparta Declares [[War]] (431) -- sparta had best army
 
-    -   Peloponnesian War: 431 -- 404 BCE
+    -   Peloponnesian [[War]]: 431 -- 404 BCE
 
         -   Two Phases
 
@@ -42,7 +42,7 @@
 
             -   Decelean Phase (415-404) -- sparta took over decelia and staged attacks on athens
 
-    -   **The War Rages on...**
+    -   **The [[War]] Rages on...**
 
         -   The Sicilian Theater: Segesta vs. Selinus
 
@@ -78,6 +78,6 @@
 
     -   Restoration of the Democracy (403 BCE)
 
--   **The War's Aftermath**
+-   **The [[War]]'s Aftermath**
 
 -   **In Conclusion: The Failure of Democracy**

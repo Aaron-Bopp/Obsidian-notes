@@ -1,6 +1,6 @@
 -   **Key Questions**
 
-    -   In what ways did tragedy and comedy comment on Athenian life and politics?
+    -   In what ways did tragedy and comedy comment on Athenian life and [[politics]]?
 
     -   How did tragedy allow Greeks to explore the tensions in society?
 
@@ -16,7 +16,7 @@
 
         -   Epic Poetry? Lyrical performance
 
-        -   Worship of Dionysus? Associated with masks, Dionysus is god of acting
+        -   Worship of Dionysus? Associated with masks, Dionysus is god of [[acting]]
 
 -   ***The Performance***
 

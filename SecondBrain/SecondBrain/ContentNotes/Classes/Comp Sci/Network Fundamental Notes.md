@@ -30,7 +30,7 @@
 
     -   TCP, IP, HTTP, 802.11
 
--   Infrastructure Provides services to apps
+-   [[Infrastructure]] Provides services to apps
 
     -   Web, VoIP, email, games, e-commerce, social nets
 
@@ -90,13 +90,13 @@
 
     -   depends on congestions level of router
 
--   d-trans:transmission delay
+-   d-[[transgender|trans]]:transmission delay
 
     -   L: packet length (bits)
 
     -   R link bandwidth (BPS)
 
-    -   D-trans = L/R
+    -   D-[[transgender|trans]] = L/R
 
 -   D-prop propagation delay
 

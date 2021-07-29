@@ -1,4 +1,4 @@
-Aaron Bopp
+Aaron [[Bopp]]
 
 Intro to Lit Fall 2020
 

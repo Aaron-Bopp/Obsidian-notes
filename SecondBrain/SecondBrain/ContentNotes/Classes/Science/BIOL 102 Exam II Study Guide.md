@@ -42,7 +42,7 @@ Elongation
 
 Primer - (starting point for polymerase)
 
-Vector -- doesn't directly cause disease but does spread it
+Vector -- doesn't directly cause [[disease]] but does spread it
 
 Plasmid -- starting point of DNA
 
@@ -176,7 +176,7 @@ Concepts:
 
     -   interphase
 
--   Know and love the four stages of mitosis, be able to name them in order (use a mnemonic to help you), know generally what happens in each stage, and be able to draw and name them. Don't just copy from your book/internet but truly understand what happens at each stage. You need to draw the nuclear envelope, DNA, chromosomes, centromeres, and spindle fibers at each stage if they are present.
+-   Know and [[love]] the four stages of mitosis, be able to name them in order (use a mnemonic to help you), know generally what happens in each stage, and be able to draw and name them. Don't just copy from your book/internet but truly understand what happens at each stage. You need to draw the nuclear envelope, DNA, chromosomes, centromeres, and spindle fibers at each stage if they are present.
 
 -   Which types of cells form a cleavage furrow vs. a cell plate?
 

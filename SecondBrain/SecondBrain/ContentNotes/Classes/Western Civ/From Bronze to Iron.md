@@ -26,7 +26,7 @@
 
     d.  Writing and Diplomacy as Power more powerful than armys. Formed old Babylonian empire
 
-    e.  Religion and Marduk -- polytheism, but marduk is most important
+    e.  [[Religion]] and Marduk -- polytheism, but marduk is most important
 
     f.  The Code of Hammurabi -- new standard of kingship, could not pass onto son
 
@@ -46,7 +46,7 @@
 
     a.  Emergence ca. 2000 BCE -- Minoans are not Greek, myceans are.
 
-    b.  Palace Cultures -- palace is center for politics, economics and religion
+    b.  Palace Cultures -- palace is center for [[politics]], [[economy|economics]] and [[religion]]
 
         i.  Hereditary monarchies -- mycean farm more patriarchal
 
@@ -82,7 +82,7 @@
 
             1.  Volcanic Eruption theora island (Santorini), beginning of decline for minoan culture
 
-            2.  Trojan War -- mycenean greeks invaded troy
+            2.  Trojan [[War]] -- mycenean greeks invaded troy
 
 6.  Iron Age Peoples
 

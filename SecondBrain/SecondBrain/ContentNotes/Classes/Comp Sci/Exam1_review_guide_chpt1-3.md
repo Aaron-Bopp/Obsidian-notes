@@ -2,7 +2,7 @@
 
 -   Internet vs World Wide Web
 
-    -   Internet is a network of networks, web is a service on top of that infrastructure
+    -   Internet is a network of networks, web is a service on top of that [[infrastructure]]
 
 -   Host/end system
 
@@ -36,7 +36,7 @@
 
     -   Application that is executed on multiple computers within a network
 
--   API
+-   [[API]]
 
     -   Application program interface -- set of routines protocols and tools for building software
 
@@ -52,7 +52,7 @@
 
 -   Wifi (802.11 technology)
 
--   Physical media (twisted-pair wire, coax, fiber optics, radio channels
+-   Physical [[media]] (twisted-pair wire, coax, fiber optics, radio channels
 
 -   Store and forward transmission
 
@@ -122,11 +122,11 @@
 
     -   Botnet -- a bunch of computers being controlled by one
 
-    -   Virus -- self replicating infection by receiving/executing object
+    -   Virus -- [[self]] replicating infection by receiving/executing object
 
-    -   Worm -- self-replicating infection by passively receiving object that get itself executed
+    -   Worm -- [[self]]-replicating infection by passively receiving object that get itself executed
 
--   DoS -- denial of service that targets computer or resource from one computer
+-   DoS -- denial of service that targets [[computer]] or resource from one [[computer]]
 
 -   DDoS -- a group of computers attacking one resource
 
@@ -154,7 +154,7 @@
 
         -   Every peer acts as client and server, scales with amount of peers. Management is complex as IPs are changing and peers and intermittently connected
 
--   Self-scalability
+-   [[Self]]-scalability
 
     -   New peers bring new service capacity and new demands
 
@@ -164,7 +164,7 @@
 
 -   SOCKET -- in between application and transport layer. Sends and receives messages
 
--   API (again!)
+-   [[API]] (again!)
 
 -   IP Address -- 32-bit unique address
 

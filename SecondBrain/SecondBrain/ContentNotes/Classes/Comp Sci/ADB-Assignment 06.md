@@ -17,7 +17,7 @@
   LIBRARY                 \-                      B
   -----------------------------------------------------------------------
 
-> For each of the following SQL transactions, identify the type of operation the distributed database must support (remote request, remote transaction, distributed transaction, distributed requests) and explain why you chose that type of operation.
+> For each of the following [[SQL]] transactions, identify the type of operation the distributed database must support (remote request, remote transaction, distributed transaction, distributed requests) and explain why you chose that type of operation.
 
 a.  BEGIN;
 
@@ -120,7 +120,7 @@ b.  Fragment each of your fragments from part a by publisher. Name each of the n
 >
 > SHIPMENT (SUPPLIER_NUMBER, PART_NUMBER) 2,500,000 records stored in Detroit
 
-A query is made (in SQL) to list the supplier numbers for Cleveland suppliers of red parts:
+A query is made (in [[SQL]]) to list the supplier numbers for Cleveland suppliers of red parts:
 
 SELECT SUPPLIER.SUPPLIER_NUMBER
 
@@ -138,6 +138,6 @@ AND PART.COLOR = 'RED';
 
 Determine the time to process this remote query assuming the following strategy:
 
-**Move SUPPLIER relation to Chicago; then move SHIPMENT relation to Chicago; process whole query at Chicago computer.**
+**Move SUPPLIER relation to Chicago; then move SHIPMENT relation to Chicago; process whole query at Chicago [[computer]].**
 
 Answer should be expressed in hours, with one decimal place.

@@ -32,7 +32,7 @@ Answer the following questions (Answers should be short and precise, preferably 
 
 **A 2nf relation with no transitive dependencies**
 
-Consider a college that offers Computer Science degree. New students are enrolled in the degree and have begun their first semester. They are offered a pool of courses among which they should pick some courses. Every student is provided with a registrationID. Every student registers at least one course. The college has maintained a single spreadsheet to store all details so far. As the result, it has become very difficult for the administration to keep track of the information being accumulated.
+Consider a college that offers [[Computer]] Science degree. New students are enrolled in the degree and have begun their first semester. They are offered a pool of courses among which they should pick some courses. Every student is provided with a registrationID. Every student registers at least one course. The college has maintained a single spreadsheet to store all details so far. As the result, it has become very difficult for the administration to keep track of the information being accumulated.
 
 ![](media/image1.jpeg){width="4.642712160979878in" height="3.033333333333333in"}
 

@@ -2,11 +2,11 @@
 
     -   Why did Athens emerge as a political power after the Persian Wars?
 
--   **The 1^st^ Persian War, 490 BCE**
+-   **The 1^st^ Persian [[War]], 490 BCE**
 
     -   Persian Origins
 
-        -   Ionian Revolt (499 BCE) -- Athens lead a coalition of Greek fighters to win without the spartans
+        -   Ionian [[Revolt]] (499 BCE) -- Athens lead a coalition of Greek fighters to win without the spartans
 
     -   King Darius I
 
@@ -16,7 +16,7 @@
 
         -   Where were the Spartans? -- celebrating a religious festival
 
--   **The 2^nd^ Persian War, 480-479 BCE**
+-   **The 2^nd^ Persian [[War]], 480-479 BCE**
 
     -   King Xerxes of Persia, r. 486-465 BCE -- launched full scale invasioin of greece
 

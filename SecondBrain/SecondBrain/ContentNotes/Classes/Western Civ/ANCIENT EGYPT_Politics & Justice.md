@@ -4,7 +4,7 @@
 
     ii. How much control or power did the pharaoh really have?
 
-    iii. How did religion play a role in government and law in ancient Egypt?
+    iii. How did [[religion]] play a role in [[government]] and law in ancient Egypt?
 
 2.  **Telling Egypt's Story**
 
@@ -42,7 +42,7 @@
 
     ii. Duties & Responsibilities
 
-        1.  Religion
+        1.  [[Religion]]
 
             a.  God-King (Horus) -- king is physical embodiment of horus
 
@@ -52,7 +52,7 @@
 
             a.  *Ma'at* ("truth", "order," "balance")
 
-            b.  Famine or war were perceived as failure of king to uphold maat
+            b.  Famine or [[war]] were perceived as failure of king to uphold maat
 
         3.  Bureaucratic Oversight -- more complicated than mesopotamia
 
@@ -62,19 +62,19 @@
 
         4.  Defender of the Realm -- kings responsible for protection
 
-4.  **The Ancient Egyptian Economy**
+4.  **The Ancient Egyptian [[Economy]]**
 
-    i.  Ancient Command Economy
+    i.  Ancient Command [[Economy]]
 
         1.  Bureaucracy-controlled -- answered to pharaoh. Organized farming not ordered
 
     ii. Storage and Redistribution -- if there was a short fall in once center other centers would provide
 
-    iii. Farming & Fishing -- most of egypts economy, primitive. Hunting leisure
+    iii. Farming & Fishing -- most of egypts [[economy]], primitive. Hunting leisure
 
     iv. Manufacturing -- processing left to women. Small factories financed by the rich, mainly male occupation
 
-    v.  Trade -- wholesale merchants acting for pharaoh or priests
+    v.  Trade -- wholesale merchants [[acting]] for pharaoh or priests
 
 5.  **Threats to Royal Power**
 
@@ -96,7 +96,7 @@
 
     vii. Akhetaten (Tel Amarna)
 
-    viii. Reaction of the People -- continued to follow pharaoh outwardly, but kept old religion secretly. Akehtaten son King Tut introduced old relgion
+    viii. Reaction of the People -- continued to follow pharaoh outwardly, but kept old [[religion]] secretly. Akehtaten son King Tut introduced old relgion
 
 6.  **Spoken Language, Written Script**
 
@@ -106,7 +106,7 @@
 
         2.  Three Vowel System
 
-    ii. Pictographic Script: Hieroglyphics -- scared writing, in temples and government documents
+    ii. Pictographic Script: Hieroglyphics -- scared writing, in temples and [[government]] documents
 
     iii. Hieratic Script -- clay and papyrus
 

@@ -64,7 +64,7 @@ Plato's Theory of Forms
 
 Aristotle
 
-Aristotle's View on Politics
+Aristotle's View on [[Politics]]
 
 Decline of Greek city-states in 4^th^ Cent.
 
@@ -94,7 +94,7 @@ Hellenistic women
 
 Hellenistic Literature
 
-Hellenistic Philosophy & Science
+Hellenistic [[Philosophy]] & Science
 
 Hellenistic World & the Jews
 
@@ -132,7 +132,7 @@ The Maccabees
 
     a.  Tolerance of different religions/ Shadrak meeshak and abednego
 
-4.  What historical influences made Jewish culture and religion different from other civilizations that existed in the same period and region?
+4.  What historical influences made Jewish culture and [[religion]] different from other civilizations that existed in the same period and region?
 
 5.  How did Sparta exemplify Greek culture, and how was it unique?
 
@@ -144,4 +144,4 @@ The Maccabees
 
 9.  What was the most important cultural development of the Hellenistic period? Provide evidence to support your answer.
 
-10. Describe the influence of Greeklture on Jewish religion and culture during the Hellenistic period.
+10. Describe the influence of Greeklture on Jewish [[religion]] and culture during the Hellenistic period.

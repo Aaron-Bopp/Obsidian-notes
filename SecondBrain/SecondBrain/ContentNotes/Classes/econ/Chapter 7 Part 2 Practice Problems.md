@@ -18,7 +18,7 @@
 | 2019                           | \$1.50      | 55          | \$2.75      | 110         |
 +--------------------------------+-------------+-------------+-------------+-------------+
 
-1\. A small economy produces bananas and coffee. Refer to the table above to calculate the following. The base year is 2017.
+1\. A small [[economy]] produces bananas and coffee. Refer to the table above to calculate the following. The base year is 2017.
 
 > a\) Nominal GDP for each year
 >
@@ -40,7 +40,7 @@
   2016        \$3       25                  \$5       55                  \$3       75
   -----------------------------------------------------------------------------------------------------
 
-2\. A small economy produces 3 goods---bread, cheese, and apples. Refer to the table above to calculate the following. The base year is 2015.
+2\. A small [[economy]] produces 3 goods---bread, cheese, and apples. Refer to the table above to calculate the following. The base year is 2015.
 
 > a\) Nominal GDP for each year
 >

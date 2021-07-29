@@ -1,4 +1,4 @@
-Principles of Macro Spring 2020 Name Aaron Bopp
+Principles of Macro Spring 2020 Name Aaron [[Bopp]]
 
 Assignment #5
 

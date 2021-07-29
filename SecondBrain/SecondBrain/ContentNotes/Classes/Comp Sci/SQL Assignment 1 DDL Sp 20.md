@@ -6,11 +6,11 @@
 
 **Overview of Assignment**
 
-In this assignment you will write an SQL script that will create a database with five tables. In addition, you will use insert statements to add some initial records to the tables. For reference, use database scripts from the course site, Chapters 6 and 7 of your textbook, MySQL help menu, powerpoints from class, and online documentation. Note: some of the syntax in the slides may not work in MySQL, so double check the documentation as you go.
+In this assignment you will write an [[SQL]] script that will create a database with five tables. In addition, you will use insert statements to add some initial records to the tables. For reference, use database scripts from the course site, Chapters 6 and 7 of your textbook, MySQL help menu, powerpoints from class, and online documentation. Note: some of the syntax in the slides may not work in MySQL, so double check the documentation as you go.
 
-Follow the same instructions for formatting your solution file as in previous assignments. Be certain to include the following two lines at the top of your SQL assignment file.
+Follow the same instructions for formatting your solution file as in previous assignments. Be certain to include the following two lines at the top of your [[SQL]] assignment file.
 
-**\-- SQL Assignment 01**
+**\-- [[SQL]] Assignment 01**
 
 **\-- Your first and last name**
 
@@ -20,7 +20,7 @@ You should test your script periodically by running the source command.
 
 **Instructions**
 
-You have been chosen to create a database for the NFL (National Football League). You will be constructing five tables and loading a small amount of records into each of them. Your SQL statements will involve DDL (Data Definition Language) syntax, including data types, domain constraints, primary and foreign key designations, among others. Here are the relations you will use as input to build your tables:
+You have been chosen to create a database for the NFL (National Football League). You will be constructing five tables and loading a small amount of records into each of them. Your [[SQL]] statements will involve DDL (Data Definition Language) syntax, including data types, domain constraints, primary and foreign key designations, among others. Here are the relations you will use as input to build your tables:
 
 TEAM(**[teamID]{.ul}**, name, city, state)
 

@@ -6,7 +6,7 @@
 
     iii. In what ways was Egyptian life "easier" than Mesopotamian?
 
-2.  ***Egyptian Religion***
+2.  ***Egyptian [[Religion]]***
 
     i.  Polytheism
 
@@ -16,7 +16,7 @@
 
     iv. A Celestial Family
 
-        1.  Parents, children, brothers, sisters
+        1.  [[Parents]], children, brothers, sisters
 
     v.  Gods/goddesses are Benevolent
 
@@ -55,7 +55,7 @@ iii. Slavery
 
      1.  Chattel slaves
 
-     2.  Debt slaves
+     2.  [[Debt]] slaves
 
      3.  Conscripted Workers (Forced Labor)
 

@@ -72,7 +72,7 @@ Learn the operations that a user can perform if user is granted the above permis
 
 ![](media/image6.png){width="3.4791666666666665in" height="0.375in"}
 
--   You can enter SQL statements directly in SQL\*Plus. Be sure to start each phrase of the SQL statement on a new line, as shown here, and terminate each statement with a semicolon.
+-   You can enter [[SQL]] statements directly in SQL\*Plus. Be sure to start each phrase of the [[SQL]] statement on a new line, as shown here, and terminate each statement with a semicolon.
 
 Example -- type this statement to see all the tables for this user account:
 
@@ -92,7 +92,7 @@ After the table is created, you can view tablename in user_tables.
 
 ## Using SQL Developer:
 
-You can also run scripts and execute SQL statements directly in SQL Developer.
+You can also run scripts and execute [[SQL]] statements directly in [[SQL]] Developer.
 
 -   Now, create a connection for the user to the pluggable database created earlier. Add a new connection, enter the following and click test.
 
@@ -106,19 +106,19 @@ If **Status** (in the lower left-hand corner) is listed as **Success**, click on
 
 ![](media/image9.png){width="6.5in" height="2.451388888888889in"}
 
--   You can view the tables that are created by the user by expanding the connection that we have created in the connection window on the left side.
+-   You can view the tables that are created by the user by expanding the connection that we have created in the connection window on [[the left]] side.
 
 ![](media/image10.png){width="2.90625in" height="2.6041666666666665in"}
 
 ## Using Scripts:
 
-A script is a collection of one or more SQL statements that you want to execute together.
+A script is a collection of one or more [[SQL]] statements that you want to execute together.
 
 Open Notepad and enter the below statement in it and save the file with .sql extension.
 
 ![](media/image11.png){width="5.364583333333333in" height="3.6145833333333335in"}
 
-After establishing a connection, click on File and select Open to open a sql script file.
+After establishing a connection, click on File and select Open to open a [[sql]] script file.
 
 ![](media/image12.png){width="5.635416666666667in" height="2.4270833333333335in"}
 

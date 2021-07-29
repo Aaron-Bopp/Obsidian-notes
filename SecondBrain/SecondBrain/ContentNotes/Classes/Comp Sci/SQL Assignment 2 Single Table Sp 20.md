@@ -8,9 +8,9 @@
 >
 > **[Overview of Assignment:]{.ul}**
 >
-> In this assignment you will write SQL statements, each of which will process a single table. All the information you need to write these SQL statements can be found in Chapter 6 of your textbook.
+> In this assignment you will write [[SQL]] statements, each of which will process a single table. All the information you need to write these [[SQL]] statements can be found in Chapter 6 of your textbook.
 
-You will use MySQL to test your statements. Not only will you get practice using SQL, but you will also get some experience with MySQL! The easiest way to do this assignment will be to create a text file, using your choice of text editors, and write your SQL statement in the text file. You can then execute the statements in the text file by using the **source** command at the **mysql** prompt. Details of exactly how to do this are included in this document.
+You will use MySQL to test your statements. Not only will you get practice using [[SQL]], but you will also get some experience with MySQL! The easiest way to do this assignment will be to create a text file, using your choice of text editors, and write your [[SQL]] statement in the text file. You can then execute the statements in the text file by using the **source** command at the **mysql** prompt. Details of exactly how to do this are included in this document.
 
 **Loading the database:­­­­**
 
@@ -20,9 +20,9 @@ You will use MySQL to test your statements. Not only will you get practice using
 
 -   At the **mysql>** prompt enter **use clearwater**
 
--   Execute SQL statements at the **mysql>** prompt.
+-   Execute [[SQL]] statements at the **mysql>** prompt.
 
--   Create a text file containing your SQL statements and run it using the **source** command.
+-   Create a text file containing your [[SQL]] statements and run it using the **source** command.
 
 -   Keep in mind that for grading purposes you must create a text file that will produce the correct output when run with the source command. See instructions below.
 
@@ -32,7 +32,7 @@ You will turn in a single text file for grading. The text file should contain th
 
 **\-- *your first and last name***
 
-**\-- SQL Assignment 02**
+**\-- [[SQL]] Assignment 02**
 
 **\-- #1**
 
@@ -60,7 +60,7 @@ Assignments must be uploaded to the appropriate dropbox on the course website by
 
 Note that your solution to each of these problems must work for arbitrary data, not just the data currently in the clearwater tables. To see the data that is loaded using **clearwater.sql**, download **clearwatertables.doc** from the course website.
 
-Write a single SQL statement to produce each of the following.
+Write a single [[SQL]] statement to produce each of the following.
 
 1)  Display the first name, last name and city for all customers.
 

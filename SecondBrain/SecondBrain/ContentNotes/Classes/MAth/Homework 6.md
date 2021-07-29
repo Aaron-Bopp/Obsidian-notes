@@ -29,7 +29,7 @@ e.  Do you think the proportion you got from your sample is plausible, if the ce
 >
 > It is more than 3SD's away so there is only .15% chance it will happen. Very unlikely
 
-f.  Based on your sample statistic, give a plausible range where do you think the TRUE proportion of "big bang" games is? (Hint: use 95% confidence interval)
+f.  Based on your sample statistic, give a plausible range where do you think the TRUE proportion of "big bang" games is? (Hint: use 95% [[confidence]] interval)
 
 > 39.72% to 59.08%
 
@@ -58,6 +58,6 @@ d.  Is it plausible to get a sample average of 24.2 years, when the population a
 
 > 23.2 is 1.2 SD's away from 24.2 so it is plausible that it would be in that range
 
-e.  Based on your sample, where do you think the TRUE average of first marriage is? (Give a 95% confidence interval)
+e.  Based on your sample, where do you think the TRUE average of first marriage is? (Give a 95% [[confidence]] interval)
 
 > 22.54 to 25.86

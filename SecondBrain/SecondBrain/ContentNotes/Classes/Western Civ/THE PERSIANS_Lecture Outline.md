@@ -10,7 +10,7 @@
 
     a.  The Elamites
 
-    b.  The Aryan Tribes became iran aryan = free man
+    b.  The Aryan Tribes became [[iran]] aryan = free man
 
     c.  The Medes Unify (c. late 8^th^ century BCE) -- unified un diocese
 
@@ -60,7 +60,7 @@
 
     f.  Expansion
 
-        i.  The First Persian War (490 BCE)
+        i.  The First Persian [[War]] (490 BCE)
 
 5.  **Persian Communication**
 
@@ -92,7 +92,7 @@
 
 8.  **Persian Men and Women**
 
-9.  **Persian Religion: Zoroastrianism**
+9.  **Persian [[Religion]]: Zoroastrianism**
 
     a.  Zarathustra (aka Zoroaster)
 
@@ -102,7 +102,7 @@
 
         ii. Ahriman (the Deceiver)
 
-        iii. Human Free Will
+        iii. Human [[free-will|Free Will]]
 
     c.  The Magi (priests)
 
@@ -112,7 +112,7 @@
 
         ii. Worship practices
 
-    e.  A personal religion (not tribes or states)
+    e.  A personal [[religion]] (not tribes or states)
 
 10. **The Persian Afterlife**
 

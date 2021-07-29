@@ -1,4 +1,4 @@
-Principles of Macroeconomics Name: Aaron Bopp
+Principles of Macroeconomics Name: Aaron [[Bopp]]
 
 Online Assignment #3
 
@@ -9,9 +9,9 @@ Online Assignment #3
 +------------------------------------------------------+-----------------------------+
 |                                                      | **Shift AD right or left?** |
 +======================================================+=============================+
-| a)  State government spending decreases.             | **AD left**                 |
+| a)  State [[government]] spending decreases.             | **AD left**                 |
 +------------------------------------------------------+-----------------------------+
-| b)  Business taxes are increased.                    | **AD left**                 |
+| b)  [[Business]] taxes are increased.                    | **AD left**                 |
 +------------------------------------------------------+-----------------------------+
 | c)  Foreign real national income falls.              | **AD left**                 |
 +------------------------------------------------------+-----------------------------+
@@ -19,7 +19,7 @@ Online Assignment #3
 +------------------------------------------------------+-----------------------------+
 | e)  Interest rates fall.                             | **AD right**                |
 +------------------------------------------------------+-----------------------------+
-| f)  Federal government spending increases.           | **AD right**                |
+| f)  Federal [[government]] spending increases.           | **AD right**                |
 +------------------------------------------------------+-----------------------------+
 | g)  Consumer wealth decreases.                       | **AD left**                 |
 +------------------------------------------------------+-----------------------------+
@@ -36,7 +36,7 @@ Online Assignment #3
 
 **Highlight the correct answer for each of the following multiple-choice questions (2 points each):**
 
-2\. An increase in the economy's price level will cause
+2\. An increase in the [[economy]]'s price level will cause
 
 a.  an increase in aggregate demand.
 
@@ -56,7 +56,7 @@ c.  an increase in quantity demanded of real GDP.
 
 d.  a decrease in quantity demanded of real GDP.
 
-4\. An increase in government spending (G) will cause
+4\. An increase in [[government]] spending (G) will cause
 
 a.  an increase in aggregate demand.
 
@@ -76,7 +76,7 @@ c.  an increase in quantity demanded of real GDP.
 
 d.  a decrease in quantity demanded of real GDP.
 
-6\. An decrease in the economy's price level will cause
+6\. An decrease in the [[economy]]'s price level will cause
 
 a.  an increase in aggregate demand.
 
