@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/MOTW/Classes/The Initiate.md",
+            "file": "D&D/Camp Holy Rock/Camp Holy Rock.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "dccdee233af7b7b9"
+      },
+      {
+        "id": "e8345744cb9d2fce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "D&D/Camp Holy Rock/Camp Holy Rock.md",
+            "mode": "preview"
+          }
+        },
+        "group": "dccdee233af7b7b9"
       },
       {
         "id": "1f4aac140ead74ff",
@@ -65,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/MOTW/Classes/The Initiate.md",
+                "file": "D&D/Camp Holy Rock/Camp Holy Rock.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -77,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/MOTW/Classes/The Initiate.md"
+                "file": "D&D/Camp Holy Rock/Camp Holy Rock.md"
               }
             }
           },
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/MOTW/Classes/The Initiate.md",
+                "file": "D&D/Camp Holy Rock/Camp Holy Rock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/MOTW/Classes/The Initiate.md",
+                "file": "D&D/Camp Holy Rock/Camp Holy Rock.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,15 +234,15 @@
   },
   "active": "52c02a7776421901",
   "lastOpenFiles": [
+    "D&D/Camp Holy Rock/Camp Holy Rock.md",
+    "D&D/MOTW/Alternative Weird Basic Moves.md",
+    "D&D/MOTW/Phenomena Mysteries.md",
+    "D&D/Misc/Pathfinder character.md",
     "D&D/MOTW/Classes/The Initiate.md",
     "D&D/MOTW/Classes/The Gumshoe.md",
     "D&D/MOTW/Classes/The Hex.md",
     "D&D/MOTW/Classes/The Initiate 1.md",
     "D&D/MOTW/Book/Monster_of_the_Week.md",
-    "D&D/MOTW/Book/The Initiate.md",
-    "D&D/MOTW/Alternative Weird Basic Moves.md",
-    "D&D/MOTW/Table of Contents.md",
-    "D&D/MOTW/The Structure Of An On-the-fly Game.md",
-    "D&D/MOTW/Adventures/Special Moves.md"
+    "D&D/MOTW/Book/The Initiate.md"
   ]
 }

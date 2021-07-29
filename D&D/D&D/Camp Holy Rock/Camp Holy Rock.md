@@ -80,3 +80,16 @@ Every week [[Albert Murphy]] brings in a new set of campers for the counselors t
 Players get to know each other. Reveal some of their powers.
 ## Monster
 ![[001 Tommy, the Collective]]
+- Sara - dad roger doesn't know she's a lesbian
+	- 
+- Rick Adler - 26 
+	- outdoorsy
+	- camp shirt
+	- very outdoorsy
+	- 
+- Angelo Grillo 
+	- frankie
+	- gambinie 
+	- oregano
+
+- Theodore Moreston

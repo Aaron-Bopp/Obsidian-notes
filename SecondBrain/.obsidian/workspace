@@ -7,11 +7,8 @@
         "id": "666e683bd4c260be",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -54,7 +51,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -71,7 +67,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -228,15 +220,15 @@
   },
   "active": "666e683bd4c260be",
   "lastOpenFiles": [
-    "SecondBrain/EvergreenNotes/Monster of the Week.md",
-    "SecondBrain/EvergreenNotes/Dataview.md",
-    "SecondBrain/INDEX.md",
-    "SecondBrain/TopicNotes/Palestine.md",
-    "SecondBrain/aliases.md",
-    "SecondBrain/TopicNotes/second brain.md",
-    "second brain.md",
-    "SecondBrain/TopicNotes/personal knowledge management.md",
-    "SecondBrain/EvergreenNotes/topic note.md",
-    "Attachments/dark hair long braid strong eyeborws alert eyes.png"
+    "SecondBrain/ContentNotes/An Introduction to Bhuddism.md",
+    "SecondBrain/ContentNotes/History/1920's General Notes.md",
+    "SecondBrain/ContentNotes/Classes/Analogies_of_Religious_Violence_in_Minec.md",
+    "SecondBrain/ContentNotes/Classes/MAth/Homework 3.md",
+    "SecondBrain/ContentNotes/Classes/MAth/Homework 7.md",
+    "SecondBrain/ContentNotes/Classes/MAth/Final Exam.md",
+    "SecondBrain/ContentNotes/Classes/MAth/Calc1WellWrit1-3.md",
+    "SecondBrain/ContentNotes/Classes/MAth/Calc1WellWrit1- AaronBopp.md",
+    "SecondBrain/ContentNotes/Classes/Lit/Totsi Essay.md",
+    "SecondBrain/ContentNotes/Classes/Lit/Saudi Arabia Essay.md"
   ]
 }
