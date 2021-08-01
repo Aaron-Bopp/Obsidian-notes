@@ -26,8 +26,6 @@
 
 [[1918]]:
 
-[[1920's America]]:
-
 [[1920's General Notes]]:
 
 [[1920s]]:
@@ -82,6 +80,8 @@
 
 [[9 Presentational Dysphoria]]:
 
+[[A inwardly judgementful and outwardly accepting home creates trust issues]]:
+
 [[A secure identity is the best defense against social anxiety]]:
 
 [[ADB Assignment-10]]:
@@ -91,6 +91,8 @@
 [[ADB-Assignment03]]:
 
 [[ADHD]]:
+
+[[ADHD is primarily an executive function disorder]]:
 
 [[AI]]:
 
@@ -128,9 +130,13 @@
 
 [[An Introduction to Bhuddism]]:
 
+[[An unfulfilled need for validation results in a fear of rejection]]:
+
 [[Analogies_of_Religious_Violence_in_Minec]]:
 
 [[Ancient Athens_CLEISTHENES Lecture Outline]]:
+
+[[Ancient Cave Art Full of Teenage Graffiti]]:
 
 [[Ancient Greek Society & Economy]]:
 
@@ -148,6 +154,8 @@
 - Andy's notes
 
 [[Answer open questions]]:
+
+[[Anti-government stances lead to economic crashes]]:
 
 [[Anti-war]]:
 - anti war
@@ -184,6 +192,8 @@
 [[Baby Boomers]]:
 
 [[Base Conversion Assignment]]:
+
+[[Bernie Sanders]]:
 
 [[Bhuddism]]:
 
@@ -295,7 +305,7 @@
 
 [[Constantly working on yourself is a form a self-hatred]]:
 
-[[Consumer Culture]]:
+[[Consumerism]]:
 
 [[Counter-culture]]:
 - counter culture
@@ -401,6 +411,8 @@
 [[Exam2_review_guide_chpt4-5]]:
 
 [[Exam3_review_guide_chpt6_8]]:
+
+[[Excerpts from the 2016 Republican Party Platform]]:
 
 [[Existential Dread]]:
 
@@ -647,6 +659,8 @@
 
 [[My self-image is purely based on other's perceptions of me]]:
 
+[[My unfulfilled need for parental validation became a fear of rejection and disregarment of affection]]:
+
 [[My worldview is not about conversion it is about acceptance]]:
 
 [[NLP]]:
@@ -750,6 +764,8 @@
 [[Reagan]]:
 - Ronald Reagan
 
+[[Reagans Impact and Legacy]]:
+
 [[Reconstruction]]:
 
 [[Red Summer of 1919]]:
@@ -764,15 +780,23 @@
 
 [[Republican]]:
 
+[[Republican voters do not hold their leaders accountable]]:
+
+[[Republicans have become a true opposition party]]:
+
 [[Research Paper Annotated Bibliography]]:
 
 [[Research Paper Thoughts]]:
 
-[[Revolt]]:
-
-[[Rise of Conservatism]]:
+[[Revolution]]:
 
 [[Roam Research]]:
+
+[[Ronald Reagan Evil Empire Speech]]:
+
+[[Ronald Reagan invented modern conservatism]]:
+
+[[Ronald Reagans Inaugural Address 1981]]:
 
 [[Rosa Parks]]:
 
@@ -816,7 +840,7 @@
 
 [[Segregation]]:
 
-[[Self-hatred is born out of dissonance between self-image and presentation]]:
+[[Self-hatred is born out of dissonance between self-image and self-perception]]:
 
 [[Sequence_diagrams]]:
 
@@ -841,6 +865,8 @@
 [[THE PERSIANS_Lecture Outline]]:
 
 [[TODO]]:
+
+[[TOPICNOTES]]:
 
 [[TTRPG]]:
 
@@ -874,6 +900,10 @@
 [[The church will fail if christians keep aligning themselves with hate instead of love]]:
 
 [[The danger of religious beliefs in early childhood]]:
+
+[[The ethnic makeup is a significant driver of change]]:
+
+[[The injustice of endurance]]:
 
 [[The many transgressions of the christian church]]:
 
@@ -926,15 +956,23 @@
 
 [[Wealth Inequality]]:
 
+[[Wealth Inequality creates a need for change]]:
+
 [[Webs of thought are densely linked]]:
 
 [[Week 04 Homework]]:
 
+[[Western Civ Textbook]]:
+
 [[What is Ego]]:
+
+[[What is my path to happiness]]:
 
 [[What is the difference between a evergreen note and a topic note]]:
 
 [[Why note storage is important]]:
+
+[[Why the Phrase Late Capitalism Is Suddenly Everywhere]]:
 
 [[Working through trauma can involve of a lot of letting go]]:
 
@@ -959,6 +997,8 @@
 [[You're never sure if you're trans]]:
 
 [[Your anxiety is telling you everything that could go wrong not what will go wrong]]:
+
+[[Your anxiety knows your insecurities better than you do]]:
 
 [[Your insecurity is just more avenues for your anxiety to take advantage of]]:
 
@@ -1007,7 +1047,7 @@
 
 [[desire]]:
 
-[[disassociation]]:
+[[dissociation]]:
 
 [[disease]]:
 
@@ -1035,6 +1075,8 @@
 
 [[empathy isn't understanding how you would make the decision it's understanding why they made the decision]]:
 
+[[endurance]]:
+
 [[enlightenment]]:
 - Self-Realization
 - God-Realization
@@ -1047,6 +1089,8 @@
 [[evergreen notes]]:
 
 [[evolution]]:
+
+[[executive function]]:
 
 [[faith]]:
 
@@ -1102,6 +1146,8 @@
 
 [[infrastructure]]:
 
+[[injustice]]:
+
 [[insecurity]]:
 
 [[inter-generational trauma]]:
@@ -1112,9 +1158,15 @@
 [[karma]]:
 - kharma
 
+[[liberation]]:
+
 [[love]]:
 
 [[markets]]:
+
+[[masking]]:
+
+[[materialism]]:
 
 [[media]]:
 
@@ -1175,7 +1227,7 @@
 
 [[politics]]:
 
-[[poltical strategy]]:
+[[political strategy]]:
 
 [[poverty]]:
 
@@ -1227,6 +1279,8 @@
 
 [[social interaction]]:
 
+[[social justice]]:
+
 [[social progress]]:
 
 [[socialization]]:
@@ -1235,12 +1289,16 @@
 
 [[socio-economic]]:
 
+[[soul]]:
+
 [[spirituality]]:
 
 [[subconscious]]:
 - subconsciously
 
 [[suffering]]:
+
+[[supply-side economics]]:
 
 [[sympathy]]:
 
@@ -1272,8 +1330,6 @@
 [[write what you think]]:
 
 [[yoga]]:
-
-[[your anxiety knows your insecurities better than you do]]:
 
 [[zettle]]:
 

@@ -139,7 +139,7 @@ bib:
                 - [[Malcolm X]]
                     - Said race was number one problem in US.
                     - assassinated in 1965
-                    - aspired for liberation not integration
+                    - aspired for [[liberation]] not integration
                 - Stokley Carmichael
                     - Invented term [[Black Power]]
                     - not riots, rebellions
@@ -205,7 +205,7 @@ bib:
             - Red Power
                 - National Indian Youth Council 
                 - American Indian Movement
-                - Advocated for [[Indigenous]] liberation
+                - Advocated for [[Indigenous]] [[liberation]]
                 - Reclaim Alcatraz Island for price that was payed for Manhattan it and help not [[indigenous]] people learn of their culture
                     - Got discussion with President [[Nixon]]
                     - Advocated for many different thigns
@@ -223,7 +223,7 @@ bib:
         - New Feminism
             - 1963 Feminine Mystique
                 - had large effect on physique of women
-            - 1966 Women's liberation moevement
+            - 1966 Women's [[liberation]] moevement
                 - Goal to gain equal rights for women
                 - Impact of 
                     - Birth Control
@@ -286,7 +286,7 @@ bib:
         - November 5th [[Nixon]] elected
         - November 14th National turn in your draft card 
         - December Apollo missions success
-    - Youth [[Revolt]] in 1970sth
+    - Youth [[Revolution]] in 1970sth
     - Veterans return from the [[war]] in 1970s
 - [[1970's General Notes]]
 

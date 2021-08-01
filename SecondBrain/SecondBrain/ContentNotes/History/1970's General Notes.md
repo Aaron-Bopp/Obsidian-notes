@@ -11,7 +11,7 @@ bib:
 ---
 
 - [[1960's General Notes]]
-- Youth [[Revolt]]
+- Youth [[Revolution]]
      - [[Anti-war|Anti War]] - non-college students could be drafted, college students could nto
           - Broad wave of dissatisfaction among young [[middle class]] white [[America|Americans]]
           - [[Counter-culture]]

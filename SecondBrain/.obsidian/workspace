@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0b2e82e33982cd6d",
+        "id": "8e7067836d93c426",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/TopicNotes/anti-science.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -51,6 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SecondBrain/TopicNotes/anti-science.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -67,6 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SecondBrain/TopicNotes/anti-science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -88,11 +93,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SecondBrain/TopicNotes/anti-science.md"
+              }
             }
           },
           {
-            "id": "6727d84387626d1e",
+            "id": "340140ab0d5e95ed",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-matrix",
@@ -119,6 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "SecondBrain/TopicNotes/anti-science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -205,10 +213,18 @@
                   "repelStrength": 18.1176470588235,
                   "linkStrength": 0.752941176470588,
                   "linkDistance": 30,
-                  "scale": 0.2604127694684177,
+                  "scale": 0.16272647862920134,
                   "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "673b03d08890f4aa",
+            "type": "leaf",
+            "state": {
+              "type": "chat",
+              "state": {}
             }
           }
         ]
@@ -218,17 +234,17 @@
     "width": 1168,
     "collapsed": true
   },
-  "active": "0b2e82e33982cd6d",
+  "active": "8e7067836d93c426",
   "lastOpenFiles": [
-    "Untitled.md",
-    "SecondBrain/TopicNotes/transgender.md",
-    "Bobby Milton.md",
-    "SecondBrain/TODO.md",
-    "executive function.md",
-    "ADHD is primarily an executive function disorder.md",
-    "SecondBrain/ContentNotes/Mental Health/Healing from Festered Emotions.md",
-    "SecondBrain/EvergreenNotes/Journal.md",
-    "masking.md",
-    "SecondBrain/EvergreenNotes/The injustice of endurance.md"
+    "SecondBrain/TopicNotes/anti-science.md",
+    "anti-vax.md",
+    "anti-science.md",
+    "SecondBrain/EvergreenNotes/Creationism built an anti-science culture.md",
+    "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md",
+    "SecondBrain/EvergreenNotes/The anti-vax movement is based off a white lie.md",
+    "SecondBrain/EvergreenNotes/Rise of Conspiracy Culture.md",
+    "SecondBrain/EvergreenNotes/Rise of Conservatism.md",
+    "SecondBrain/INDEX.md",
+    "Untitled.md"
   ]
 }

@@ -16,7 +16,7 @@ During [[early childhood]], it is incredibly important that the [[parents]] mode
 
 **Status**:: #EVER/SPROUT/WATER 
 
-**Related-Topics**:: 
+**Related-Topics**:: [[emotional invalidation]]
 	
 **Sub-Topics**::
 	

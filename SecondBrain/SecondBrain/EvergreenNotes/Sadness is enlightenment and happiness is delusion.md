@@ -24,5 +24,5 @@ Once someone has reached this state of "[[enlightenment]]," they will not only f
 **Related-Topics**:: [[mental health]], [[self]], [[self-love]], [[Bhuddism]], [[depression]]
 	
 **Sub-Topics**:: [[To be happy you need to not be sad]], [[Happiness]], [[The nature of happiness is not doing what you love its detachment from the decisions of the life]]
-	**Last Edited**:: *`=this.file.mtime`*
+**Last Edited**:: *`=this.file.mtime`*
 **References**:: [[DrK and DrMike conversation]]

@@ -56,7 +56,7 @@ bib:
         - Mondale chose woman for VP
         - [[Reagan]] won off of economic recovery that had nothing to do with him
     - Second term
-        - Half-hearted revolution
+        - Half-hearted [[revolution]]
             - [[government]] grew, not shrink
             - welfare programs were not cut
             - Budget was never balanced and [[government]] spending tripled
@@ -76,7 +76,7 @@ bib:
                 - brought hope to the people 
                 - allowed for private [[business]]
 - Economic Changes
-    - [[Computer]] Revolution
+    - [[Computer]] [[Revolution]]
     - [[America|Americans]] were spending a lot on a lot after stagflation
     - [[Debt]] and [[Stock Market]] Plunge
         - Black monday

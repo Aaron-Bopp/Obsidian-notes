@@ -7,6 +7,10 @@ note-type:
 
 ---
 
+Get-ChildItem . -Filter *.docx |
+Foreach-Object {
+    pandoc --from docx --to markdown --wrap=none $_ -o $_.Name.Replace('.docx', '.md')
+}
 
 https://docs.github.com/en/github/copilot/research-recitation#github-copilot-parrot-or-crow #TO/EXPLORE/READ 
 
@@ -17,24 +21,14 @@ https://docs.github.com/en/github/copilot/research-recitation#github-copilot-par
 	- Coming from a home that is lacking [[love]] will make it hard to take in kindness or understand that they're lovable because that would cause all of the grief of not being loved in childhood to come up
 
 [[2022-06-16]] 10:30
-[[your anxiety knows your insecurities better than you do.md]]: #TO/EXPLORE/RESEARCH 
+[[Your anxiety knows your insecurities better than you do]]: #TO/EXPLORE/RESEARCH 
 - Hierarchy of needs 	
 	- If you are in a bad situation you can't advance past that state but you don't lose those higher needs 
 - arbitrage
 
 #FunFact Cave art (drawn between 10k-35k years ago) was done by men and women of all ages but it was dominated by teenage males [#Ref](https://www.livescience.com/7028-ancient-cave-art-full-teenage-graffiti.html)
 
-[[2021-05-31]] 09:43
-[[ContentNotes/1920's America.md]]: #TO/DO/PROGRAM [Python script for automatically linking with aliases](https://github.com/perkinsben/obs_tools/tree/master/forward_linker)
-
-
-
-
-[[2021-05-29]] 05:50 [[QUICKNOTE.md]]: #TO/DO/PROGRAM [git version control](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5)
-
 [[2021-05-29]] 05:48 [[ADHD]]: #EVER/SEED/UNPLANTED [ example second brain](https://notes.nicolevanderhoeven.com/Video/Roam+Tour+1+-+Professor+Joel+Chan+-+Zettelkasten+and+Evergreen+Notes+for+Generative+Thought)
-
-[[2021-05-29]] 05:28 #TO/EXPLORE/READ   https://www.theatlantic.com/business/archive/2017/05/late-capitalism/524943/
 
 [[2021-05-29]] 05:28 #TO/EXPLORE/RESEARCH [dataview and dnd](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673/30) [sample campaign notes](https://github.com/ebullient/campaign-notes/tree/main) [obsidian timelines](https://github.com/Darakah/obsidian-timelines)
 

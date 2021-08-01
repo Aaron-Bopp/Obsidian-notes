@@ -6,7 +6,6 @@ note-type:
 aliases:
 - 
 embedded:
-- 
 ---
  
 ##### [[meditation]] `=length(this.file.inlinks) + length(this.file.outlinks)`

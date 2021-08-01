@@ -1,22 +1,20 @@
 ---
 creation date: 2021-06-15
-modification date: Tuesday 15th June 2021 20:57:48
 note-type: 
 - evergreen-note
 
 ---
 
 ##### [[Anxiety isn't irrational it's just overcompensation]] `=length(this.file.inlinks) + length(this.file.outlinks)`
-People who say [[anxiety]] is irrational are just unaware of their surroundings
 
-It is mainly a [[Neuroscience|neurological]] fact but can also be affected by [[trauma]].
+People who say [[anxiety]] is irrational are just unaware of their surroundings. Or they will answer to their fears but not understand where they come from, [[We value our biggest insecurities because they protect us from the biggest threats]]
 
----
+It is mainly a [[Neuroscience|neurological]] fact but can also be affected by [[trauma]] i.e. [[Rejection Sensitivity]]
+
+### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related-Topics**:: 
+**Related-Topics**:: [[anxiety]], [[mental health]]
 	
-**Sub-Topics**::
-	
-**References**
+**Last Edited**:: *`=this.file.mtime`*

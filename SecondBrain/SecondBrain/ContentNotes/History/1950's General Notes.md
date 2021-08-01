@@ -22,7 +22,7 @@ bib:
             - Life too easy -> less reliance on [[religion]]
             - 1964 under god and in god we trust added 
             - Communists didn't allow [[religion]]
-        - [[Consumer Culture]] and [[Capitalism]]
+        - [[Consumerism]] and [[Capitalism]]
             - Obsession with collecting things
             - Young people spent 22 billion a year on consumer goods
             - [[Media]]

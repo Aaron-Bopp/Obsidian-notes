@@ -24,7 +24,7 @@ If your understanding of the world is impaired that means that your [[identity]]
 
 **Status**:: #EVER/SPROUT/WATER   
 
-**Related-Topics**:: [[your anxiety knows your insecurities better than you do]], [[self-actualization]], [[self]], [[self-care]]
+**Related-Topics**:: [[Your anxiety knows your insecurities better than you do]], [[self-actualization]], [[self]], [[self-care]]
 	
 **Sub-Topics**::
 	

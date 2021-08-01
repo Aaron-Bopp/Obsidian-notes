@@ -1,12 +1,19 @@
 [
   "templater-obsidian",
   "note-refactor-obsidian",
-  "obsidian-metatable",
   "metaedit",
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
   "breadcrumbs",
   "sliding-panes-obsidian",
   "obsidian-style-settings",
-  "tag-wrangler"
+  "tag-wrangler",
+  "quickadd",
+  "better-fn",
+  "table-editor-obsidian",
+  "better-word-count",
+  "dual-obsidian",
+  "obsidian-hider",
+  "media-extended",
+  "obsidian-outliner"
 ]

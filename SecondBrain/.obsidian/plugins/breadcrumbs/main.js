@@ -6328,7 +6328,7 @@ function getFields(fileFrontmatter, field, settings) {
         const flattenedItems = [fieldItems].flat(5);
         const links = (_e = flattenedItems.map((link) => {
             var _a, _b, _c;
-            debug(settings, link);
+            superDebug(settings, link);
             return (_c = (_b = (_a = link === null || link === void 0 ? void 0 : link.path) === null || _a === void 0 ? void 0 : _a.split("/").last()) !== null && _b !== void 0 ? _b : link === null || link === void 0 ? void 0 : link.split("/").last()) !== null && _c !== void 0 ? _c : "";
         })) !== null && _e !== void 0 ? _e : [];
         return links;
@@ -6389,6 +6389,8 @@ function superDebug(settings, log) {
         console.log(log);
     }
 }
+// This function takes the real & implied graphs for a given relation, and returns a new graphs with both.
+// It makes implied relations real
 function closeImpliedLinks(real, implied) {
     const closedG = graphlib.json.read(graphlib.json.write(real));
     implied.edges().forEach((impliedEdge) => {
@@ -25604,6 +25606,37 @@ class MatrixView extends obsidian.ItemView {
         super.onload();
         await this.plugin.saveSettings();
         this.matrixQ = this.plugin.settings.defaultView;
+        this.plugin.addCommand({
+            id: "local-index",
+            name: "Copy a Local Index to the clipboard",
+            callback: async () => {
+                const settings = this.plugin.settings;
+                const currFile = this.app.workspace.getActiveFile().basename;
+                const allPaths = this.dfsAllPaths(closeImpliedLinks(this.plugin.currGraphs.gChildren, this.plugin.currGraphs.gParents), currFile);
+                const index = this.createIndex(currFile + "\n", allPaths, currFile, settings);
+                debug(settings, { index });
+                await navigator.clipboard.writeText(index).then(() => new obsidian.Notice("Index copied to clipboard"), () => new obsidian.Notice("Could not copy index to clipboard"));
+            },
+        });
+        this.plugin.addCommand({
+            id: "global-index",
+            name: "Copy a Global Index to the clipboard",
+            callback: async () => {
+                const { gParents, gChildren } = this.plugin.currGraphs;
+                const terminals = gParents.sinks();
+                console.log({ terminals });
+                const settings = this.plugin.settings;
+                this.app.workspace.getActiveFile().basename;
+                let globalIndex = "";
+                terminals.forEach((terminal) => {
+                    globalIndex += terminal + "\n";
+                    const allPaths = this.dfsAllPaths(closeImpliedLinks(gChildren, gParents), terminal);
+                    globalIndex = this.createIndex(globalIndex, allPaths, terminal, settings);
+                });
+                debug(settings, { globalIndex });
+                await navigator.clipboard.writeText(globalIndex).then(() => new obsidian.Notice("Index copied to clipboard"), () => new obsidian.Notice("Could not copy index to clipboard"));
+            },
+        });
     }
     getViewType() {
         return VIEW_TYPE_BREADCRUMBS_MATRIX;
@@ -25683,11 +25716,12 @@ class MatrixView extends obsidian.ItemView {
         }
         return pathsArr;
     }
-    createIndex(allPaths, currFile, settings) {
+    createIndex(
+    // Gotta give it a starting index. This allows it to work for the global index feat
+    index, allPaths, currFile, settings) {
         const copy = lodash.cloneDeep(allPaths);
         const reversed = copy.map((path) => path.reverse());
         reversed.forEach((path) => path.shift());
-        let txt = currFile + "\n";
         const indent = "  ";
         const visited = {};
         reversed.forEach((path) => {
@@ -25699,11 +25733,11 @@ class MatrixView extends obsidian.ItemView {
                     continue;
                 }
                 else {
-                    txt += `${indent.repeat(depth)}- `;
-                    txt += settings.wikilinkIndex ? "[[" : "";
-                    txt += currNode;
-                    txt += settings.wikilinkIndex ? "]]" : "";
-                    txt += "\n";
+                    index += `${indent.repeat(depth)}- `;
+                    index += settings.wikilinkIndex ? "[[" : "";
+                    index += currNode;
+                    index += settings.wikilinkIndex ? "]]" : "";
+                    index += "\n";
                     if (!visited.hasOwnProperty(currNode)) {
                         visited[currNode] = [];
                     }
@@ -25711,7 +25745,7 @@ class MatrixView extends obsidian.ItemView {
                 }
             }
         });
-        return txt;
+        return index;
     }
     async draw() {
         var _a;
@@ -25727,15 +25761,6 @@ class MatrixView extends obsidian.ItemView {
             this.matrixQ = !this.matrixQ;
             viewToggleButton.innerText = this.matrixQ ? "List" : "Matrix";
             await this.draw();
-        });
-        const createIndexButton = this.contentEl.createEl("button", {
-            text: "Create Index ⚠️",
-        });
-        createIndexButton.addEventListener("click", async () => {
-            const allPaths = this.dfsAllPaths(closeImpliedLinks(gChildren, gParents), currFile.basename);
-            const index = this.createIndex(allPaths, currFile.basename, settings);
-            debug(settings, { index });
-            await navigator.clipboard.writeText(index).then(() => new obsidian.Notice("Index copied to clipboard"), () => new obsidian.Notice("Could not copy index to clipboard"));
         });
         const [parentFieldName, siblingFieldName, childFieldName] = [
             settings.showNameOrType ? settings.parentFieldName : "Parent",

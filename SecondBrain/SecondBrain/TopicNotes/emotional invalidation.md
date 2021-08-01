@@ -13,7 +13,7 @@ embedded:
 
 
 **Status**:: #EVER/SEED 
-**Related-Topics**::  
+**Related-Topics**::  [[trauma]]
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[emotional invalidation]] `=length(this.file.inlinks)` 
 - 

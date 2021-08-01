@@ -5,7 +5,7 @@ note-type:
 - evergreen-note
 - topic-note
 aliases:
-- 
+- anxious
 embedded:
 - [[social anxiety]]
 - [[social discomfort]]
@@ -21,7 +21,7 @@ embedded:
 - [[Your anxiety is telling you everything that could go wrong not what will go wrong]]
 - [[Anxiety isn't irrational it's just overcompensation]]
 	- [[Anxiety should be a tool at your disposal not an impedance to your life]]
-	- [[your anxiety knows your insecurities better than you do]]
+	- [[Your anxiety knows your insecurities better than you do]]
 - How [[anxiety]] manifests
 	- ![[social anxiety#this file link length this file inlinks]]
 	- ![[social discomfort#this file link length this file inlinks]]

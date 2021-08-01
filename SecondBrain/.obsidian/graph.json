@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "-path:templates -file:related-topics -file:aliases",
+  "search": "(-path:ContentNotes OR path:EvergreenNotes -path:TopicNotes) -path:templates -file:aliases",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -63,10 +63,10 @@
   "nodeSizeMultiplier": 1.43511235955056,
   "lineSizeMultiplier": 0.333988764044944,
   "collapse-forces": false,
-  "centerStrength": 0.347058823529412,
+  "centerStrength": 0.388235294117647,
   "repelStrength": 14.078431372549,
-  "linkStrength": 0.617647058823529,
-  "linkDistance": 30,
-  "scale": 0.05671927080684303,
+  "linkStrength": 0.757928118393235,
+  "linkDistance": 343,
+  "scale": 0.3250329425574608,
   "close": true
 }

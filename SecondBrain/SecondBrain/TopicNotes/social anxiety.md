@@ -22,7 +22,7 @@ related-topics: [[anxiety]]
 		- [[My self-image is purely based on other's perceptions of me]]
 - Causes
 	- [[Your insecurity is just more avenues for your anxiety to take advantage of]]
-		- [[your anxiety knows your insecurities better than you do]]
+		- [[Your anxiety knows your insecurities better than you do]]
 	- [[childhood trauma]] can create a person predisposed to social [[anxiety]]
 		- [[There aren't any downsides to working through trauma]]
 - Comorbid

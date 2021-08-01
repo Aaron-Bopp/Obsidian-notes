@@ -7,13 +7,11 @@ aliases:
 
 <% tp.file.include("[[TITLE-ALLLINKS]]") %>
 
-
+<% tp.system.clipboard() %>
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: <% tp.system.clipboard() %>
+**Related Topics**:: 
 	
 <% tp.file.include("[[MODIFIED FIELD]]") %>
-	
-### <hr class="references"/>

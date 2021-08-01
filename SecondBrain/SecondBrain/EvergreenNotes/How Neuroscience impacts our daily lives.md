@@ -23,5 +23,5 @@ When the human body is put under stress it will produce various chemicals in ord
 	
 **References**
 
-[1]: https://www.youtube.com/watch?v=UUC8qF5iDag [[Existential Dread]]
-[2]: https://www.youtube.com/watch?v=UUC8qF5iDag [[Existential Dread]]
+[^1]: https://www.youtube.com/watch?v=UUC8qF5iDag [[Existential Dread]]
+[^2]: https://www.youtube.com/watch?v=UUC8qF5iDag [[Existential Dread]]

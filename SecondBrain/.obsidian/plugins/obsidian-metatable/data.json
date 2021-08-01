@@ -1,1 +1,18 @@
-{"expansionMode":"all-collapsed","ignoreNulls":false,"nullValue":"","skipKey":"metatable","ignoredKeys":["metatable","frontmatter"],"filterKeys":["metatable","frontmatter"],"filterMode":"ignore","autolinks":false,"vault":null,"searchFn":null}
+{
+  "expansionMode": "expanded",
+  "ignoreNulls": false,
+  "nullValue": "",
+  "skipKey": "metatable",
+  "ignoredKeys": [
+    "metatable",
+    "frontmatter"
+  ],
+  "filterKeys": [
+    "metatable",
+    "frontmatter"
+  ],
+  "filterMode": "ignore",
+  "autolinks": false,
+  "vault": null,
+  "searchFn": null
+}

@@ -4,7 +4,7 @@ note-type:
 - evergreen-note
 - topic-note
 aliases:
-- 
+- marxist
 embedded:
 - 
 ---

@@ -16,7 +16,7 @@ Yang's success in the 2020 primary was and always will be of note. As a relative
 
 **Status**:: #EVER/SPROUT/CULTIVATE  
 
-**Related-Topics**:: [[politics]], [[poltical strategy]]
+**Related-Topics**:: [[politics]], [[political strategy]]
 	
 **Sub-Topics**::
 	

@@ -10,9 +10,9 @@ embedded:
  
 <% tp.file.include("[[TITLE-ALLLINKS]]") %>
 
-
+ <% tp.system.clipboard() %>
 **Status**:: #EVER/SEED 
-**Related-Topics**:: <% tp.system.clipboard() %>
+**Related-Topics**::
 <% tp.file.include("[[MODIFIED FIELD]]") %>
 <% tp.file.include("[[TITLE-TOPIC]]") %>
 - 
@@ -21,4 +21,3 @@ embedded:
 
 <% tp.file.include("[[DVJS-TOPICNOTLINKED]]") %>
 
-### <hr class="references"/>

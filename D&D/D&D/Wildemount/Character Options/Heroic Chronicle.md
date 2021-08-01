@@ -118,18 +118,18 @@ Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/source
 | 31–00 | [[Uthodurn]]         | City    |
 ##### [[Eastern Wynandir]] Settlements
 
-| d100  | Settlement Name       | Type             |
-| ----- | --------------------- | ---------------- |
-| 01–20 | [[Asarius]]               | City             |
-| 21    | [[Bazzoxan]]              | Town             |
-| 22    | [[Charis]]                | Village          |
-| 23–30 | IgrathadIgrathad              | Seven villages   |
-| 31–36 | [[Jigow]]                 | City             |
-| 37    | [[New Haxon]]             | Military outpost |
-| 38–89 | [[Rosohna]] | City             |
-| 90–93 | [[Rotthold]]              | City             |
-| 94–96 | [[Urzin]]                 | Town             |
-| 97–00 | [[Xarzith Kitril]]        | City             |
+| d100  | Settlement Name    | Type             |
+| ----- | ------------------ | ---------------- |
+| 01–20 | [[Asarius]]        | City             |
+| 21    | [[Bazzoxan]]       | Town             |
+| 22    | [[Charis]]         | Village          |
+| 23–30 | Igrathad           | Seven villages   |
+| 31–36 | [[Jigow]]          | City             |
+| 37    | [[New Haxon]]      | Military outpost |
+| 38–89 | [[Rosohna]]        | City             |
+| 90–93 | [[Rotthold]]       | City             |
+| 94–96 | [[Urzin]]          | Town             |
+| 97–00 | [[Xarzith Kitril]] | City             |
 #### Race
 
 You can determine your character’s race by consulting the section for your home settlement in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "chapter 3"). Each settlement’s description includes a percentile breakdown of its racial demographics. You can roll a d100 to determine your character’s race, or simply choose whichever race you wish to play. If your roll indicates “other [[races]],” you can choose any race that isn’t already represented in the settlement’s demographics.

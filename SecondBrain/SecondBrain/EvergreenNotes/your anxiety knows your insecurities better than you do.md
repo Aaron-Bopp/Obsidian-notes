@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[your anxiety knows your insecurities better than you do]]
+###### [[Your anxiety knows your insecurities better than you do]]
 
 When you are feeling [[anxiety]] it can often be very difficult to understand where the [[anxiety]] is coming from. In some situations it can be obvious (skydiving, flying, having a child, buying a house) while at other times it may seem obvious but be very nuanced, and at others it can be almost impossible to discover the source of the [[anxiety]], because [[Your insecurity is just more avenues for your anxiety to take advantage of]].
 

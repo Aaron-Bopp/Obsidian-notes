@@ -7,9 +7,10 @@ note-type:
 
 ##### [[I have a stored up emotion of hating myself]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
-When human's feel a certain emotion, they have no choice but to deal with it. When they feel that emotion again they have a choice whether to deal with it the same way as before or a different way. In [[early childhood]] we do not have many ways to deal with emotion, and so when they come up our brain will make strong and powerful decisions to deal with these emotions. The first and most common of these reactions is of course to cry. This is instinctual, but as children develop they start to learn different methods of dealing with emotions. [[Parents need to model the ability to deal with emotion to their children]]. 
+When human's feel a certain emotion, they have no choice but to deal with it. When they feel that emotion again they have a choice whether to deal with it the same way as before or a different way. In [[early childhood]] we do not have many ways to deal with emotion, and so when they come up our brain will make strong and powerful decisions to deal with these emotions. {[[Early childhood trauma causes us to make wide assumptions about the world]]} The fundamental emotional reactions of crying, laughter, screaming, are all apart of how we deal with the world. This is instinctual, but as children develop they start to learn different methods of dealing with emotions. [[Parents need to model the ability to deal with emotion to their children]]. 
 
-Unfortunately, one way of dealing with emotion is avoidance, and it is an incredibly effective method. This is because avoidance can be almost immediate, and it is almost as instinctual as crying. However, emotions are not as easy to avoid as wild animals, and avoiding requires powerful techniques. These techniques are created by the [[subconscious]] or [[ego]] and they are enforced often without our knowledge or [[consent]]. If your [[subconscious]] has learned how to completely tune out emotions, it will start to use it at will. This can lead to a lot of emotions being met with immediate avoidance, and to the person.
+#TO/PONDER/ME 
+Unfortunately, one way of dealing with emotion is avoidance, and [[Avoidance IS the most-efficient way of dealing with emotion]]. 
 
 ### <hr class="footnote"/>
 **Status**:: #EVER/SPROUT/WATER   

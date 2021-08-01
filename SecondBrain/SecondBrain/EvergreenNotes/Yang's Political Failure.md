@@ -17,7 +17,7 @@ note-type:
 
 **Status**:: #EVER/SPROUT/CULTIVATE 
 
-**Related-Topics**:: [[poltical strategy]], [[politics]]
+**Related-Topics**:: [[political strategy]], [[politics]]
 	
 **Sub-Topics**::
 	

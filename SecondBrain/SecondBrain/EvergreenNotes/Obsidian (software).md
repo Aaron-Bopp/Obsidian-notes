@@ -24,6 +24,8 @@ It also has a variety of plugins that help the workflow
 	- Named after the prolific [[Andy Matuschak]]
 - [[Dual]]
 - [obsidian text expand](https://github.com/mrjackphil/obsidian-text-expand) 
+- [Position images](https://slrvb.github.io/Site/3_Nebula/ITS-Theme/ITST_Image-Positions/)
+- [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme)
 
 
 ---

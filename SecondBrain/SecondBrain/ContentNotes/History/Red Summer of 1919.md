@@ -26,7 +26,7 @@ Type: Discussion
         - The Harlem Renaissance and the creation of the NAACP
         - Veterans had a lot of trouble finding jobs because of the increased workforce (Part 3 1:30-2:00)
         - [[Cultural Fundamentalism]] promoted following "right pattern of thought" (Part 3 3:00-5:00)
-        - The [[Red scare]] - fear that [[America]] would fall to [[communism]] (Part 3) meant Labor unrest and mob violence to most [[America|Americans]]
+        - The [[Red scare]] - fear that [[America]] would fall to [[Communism]] (Part 3) meant Labor unrest and mob violence to most [[America|Americans]]
         - Palmer raids - arrested 3,000 leftists, held without bail, denied lawyers) [[guilt]] by association (Part 3 13:00-15:00)
         - KKK promotes "110% [[America|Americanism]]" the most extreme right-wing form of [[Cultural fundamentalism]]. Their beliefs in morality, temperance, motherhood, good [[education]], etc were all rooted in white male supremacy (Part 4, 1:00-4:00)
         - Leaders of the KKK were the most immoral, and this lead to the decline of the movement (Part 4, 6:30-7:30)
@@ -39,7 +39,7 @@ Type: Discussion
         - Bootlegging helped the rise of the mafia
     - Unions 816
     - NAACP 797
-    - Newspaper Headline accused [[civil rights]] activists of being guided by communists "REDS TRY TO STIR NEGROES TO [[REVOLT]]" (Textbook 776)
+    - Newspaper Headline accused [[civil rights]] activists of being guided by communists "REDS TRY TO STIR NEGROES TO [[Revolution]]" (Textbook 776)
     - White workers resented black workers who were hired as strike breakers. (Textbook 776)
 
 [Red Summer | National WWI Museum and Memorial](https://www.theworldwar.org/learn/wwi/red-summer)
@@ -145,7 +145,7 @@ Type: Discussion
 
 - An analysis of more than 7,750 demonstrations in 2,400 locations across the country found that 93% happened with no violence, according to [[America|the US]] Crisis Monitor, a joint effort by Princeton University and the Armed Conflict Location & Event Data Project.
 
-[Comparison between Capitol siege, BLM [[protests]] is denounced](https://apnews.com/article/donald-trump-capitol-siege-race-and-ethnicity-violence-racial-injustice-afd7dc2165f355a3e6dc4e9418019eb5)
+[Comparison between Capitol siege, BLM [[protests]] is denounced](https://apnews.com/article/donald-trump-capitol-siege-race-and-ethnicity-violence-racial-[[injustice]]-afd7dc2165f355a3e6dc4e9418019eb5)
 
 
 
