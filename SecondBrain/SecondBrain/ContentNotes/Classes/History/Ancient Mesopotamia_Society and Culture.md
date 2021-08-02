@@ -52,9 +52,9 @@
 
     a.  Inequality was Natural --
 
-    b.  Modern Racism?
+    b.  Modern [[Racism]]?
 
-        i.  Confederate States of [[America]], - scientific racism, races are biologically superior/inferior
+        i.  Confederate States of [[America]], - scientific [[racism]], races are biologically superior/inferior
 
     c.  Types of Slaves environmental not skin color
 
@@ -72,7 +72,7 @@
 
     c.  Polygamy & Polygyny
 
-        i.  "many wives" & " many women"
+        i.  "many wives" & " many [[women]]"
 
         ii. Concubines
 
@@ -82,8 +82,8 @@
 
         i.  "You wrote to me saying, 'You'll need to safeguard the bracelets and rings which are there so they'll be available \[to buy\] food.' In fact, you sent \[the man\] Ilum-bani a half pound of gold! Which are the bracelets you left me? When you left, you didn't leave me an ounce of silver, you picked the house clean and took away everything! After you left, there was a sever famine in the city. Not so much as a quart of grain did you leave me, I always had to buy grain for our food. Besides that, I paid the assessment for the divine icon; in fact, I paid for my part in full. Besides that, I paid over to the town hall the grain owed \[the man\] Atata. What is the extravagance you keep writing me about? There is nothing for us to eat---we're the ones being extravagant? I picked up whatever I hand to hand and sent it to you---today I'm living in an empty house. It's high time you sent me the money realized on my weavings, in silver, from what you have to hand, so I can buy ten quarts of grain!" ("An Assyrian Woman Writes to her Husband, ca. 1800 BCE," [[transgender|trans]]. B.R. Foster, in D. Kagan, *The Western Heritage*, 17).
 
-    f.  Women in the Workforce -- taverns, money lenders, temples, orghanages
+    f.  [[Women]] in the Workforce -- taverns, money lenders, temples, orghanages
 
 7.  **In Conclusion**
 
-    a.  **Pessismistic [[worldview]] due gods punishment. Priets controlled many aspects of society. Inequality was common and natural. Men and women equal in the home but not outside of it.**
+    a.  **Pessismistic [[worldview]] due gods punishment. Priets controlled many aspects of society. Inequality was common and natural. Men and [[women]] equal in the home but not outside of it.**

@@ -40,7 +40,7 @@ bib:
                 - All of this was to make people think they can do something and let them keep agency of their lives. If people lived in fear they wouldn't be able to live the American dream
 - [[Civil Rights]] Movement
     - [[Segregation]] still a problem years after race focused ammendments
-    - Moving to cities (1920s)and [[WW2]] veterans really helped to bring black people out of the south
+    - Moving to cities (1920s)and [[WW2]] veterans really helped to bring [[black people]] out of the south
     - [[Civil Rights]] Movement on hold during [[WW2]]
         - [Asa Philip Randolph](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj59Z66sIHwAhWLHM0KHRPGAJsQFjAAegQIBhAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FA._Philip_Randolph&usg=AOvVaw2DD1QbeJIrw3d-dg2xZTa9) called for a march on Washington in 1940 but [[FDR|Roosevelt]] asked to wait and said it was not the time
     - [[Truman]] supported [[Civil Rights]] movement and saw it was the governments job to set an example
@@ -71,7 +71,7 @@ bib:
             - Coordinated [[protests]] were based off of Montgomery happened all across the country
         - [[Civil Rights]] Acts of 1957 and 1960
             - [[Eisenhower]] did not do anything to pass CRA of 1957 but Senate Majority Leader [[LBJ]] did
-            - CRA 1957 created National [[Civil Rights]] Division focused on legal challenges to getting black people the right to vote
+            - CRA 1957 created National [[Civil Rights]] Division focused on legal challenges to getting [[black people]] the right to vote
             - CRA 1960 - allowed [[government|govt]] to come in and register people people to vote where a pattern of racial discrimination 
             - This legislation was not executed quickly or without resistance
                 - [[Eisenhower]] did finally come in and enforce school desegregation

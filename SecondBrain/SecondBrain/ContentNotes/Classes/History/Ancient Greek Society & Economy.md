@@ -52,7 +52,7 @@
 
     f.  Metics (resident aliens)
 
-    g.  Women (non-citizens)
+    g.  [[Women]] (non-citizens)
 
     h.  Slaves (non-citizens)
 
@@ -78,7 +78,7 @@
 
         i.  Basis in [[Education]] -- [[Queer|gay]] sex is educational?
 
-    b.  Both Men & Women
+    b.  Both Men & [[Women]]
 
     c.  Companionship, Sexual Pleasure, Spiritual Well-Being - The relationship between adults and teens was very close
 
@@ -100,13 +100,13 @@
 
 7.  **Greek [Women]{.ul} in the Classical Age**
 
-    a.  Women's Roles
+    a.  [[Women]]'s Roles
 
         i.  To Manage the Household (*oikos*)
 
         ii. To Provide an Heir and future citizens
 
-    b.  Women in Public?
+    b.  [[Women]] in Public?
 
         i.  Womens names not to be mentioned in public
 
@@ -120,7 +120,7 @@
 
     d.  Priestesses -- virgins or beyond menopause
 
-        i.  Ex: The Pythia of Apollo -- four women were chosen to serve Athena every year
+        i.  Ex: The Pythia of Apollo -- four [[women]] were chosen to serve Athena every year
 
 8.  **In Conclusion**
 

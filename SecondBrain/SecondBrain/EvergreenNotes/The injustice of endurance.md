@@ -8,7 +8,9 @@ aliases:
 
 ##### [[The injustice of endurance]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
-In a world where there is enough resources to provide for everyone, it is unjust to to forced to endure scarcity just so that some people can be rich. 
+In a world where there are enough resources to provide for everyone, it is unjust to be forced to endure scarcity just so that some people can be rich. 
+
+You should never be forced to endure. Endurance is a choice you make to push through, not something that can be forced upon you.
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER  

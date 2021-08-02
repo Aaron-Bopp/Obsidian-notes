@@ -10,4 +10,4 @@ R12: no
 
 R13: they don't differ
 
-R14: 2 internal subnet and the internet
+R14: 2 internal subnet and the [[internet]]

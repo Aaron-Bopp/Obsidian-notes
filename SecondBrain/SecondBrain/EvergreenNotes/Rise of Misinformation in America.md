@@ -10,7 +10,7 @@ embedded:
 ---
  
 ##### [[Rise of Misinformation in America]] `=length(this.file.inlinks) + length(this.file.outlinks)`
-Over the last forty years, misinformation has become so potent in America, that anti-science culture has become the norm among republicans. This is closely linked to the [[Rise of Conservatism]] and the [[Rise of Conspiracy Culture]]. 
+Over the last forty years, misinformation has become so potent in [[America]], that [[anti-science]] culture has become the norm among republicans. This is closely linked to the [[Rise of Modern Conservatism]] and the [[Rise of Conspiracy Culture]]. 
 
 **Status**:: #EVER/SEED 
 **Related-Topics**::

@@ -77,7 +77,7 @@ bib:
                 - Economic Opportunity Act of 1964
             - Passed [[Civil Rights]] Act of 1964
             - Voting Rights Act of 1965
-                - Murder of young black people allowed opportunity for change
+                - Murder of young [[black people]] allowed opportunity for change
                 - Selma 
                     - bloody sunday - marching to protest access to vote
                         - [[John Lewis]]
@@ -222,9 +222,9 @@ bib:
                 - striking images got national attention
         - New Feminism
             - 1963 Feminine Mystique
-                - had large effect on physique of women
-            - 1966 Women's [[liberation]] moevement
-                - Goal to gain equal rights for women
+                - had large effect on physique of [[women]]
+            - 1966 [[Women]]'s [[liberation]] moevement
+                - Goal to gain equal rights for [[women]]
                 - Impact of 
                     - Birth Control
                     - Roe v wade

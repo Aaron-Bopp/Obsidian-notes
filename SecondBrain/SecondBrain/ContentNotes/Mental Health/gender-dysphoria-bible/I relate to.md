@@ -18,7 +18,7 @@ note-type:
     - Chain binging movies, TV shows or books.
     - Spending all idle time playing video games or on social [[media]].
 - From [[12 Impostor Syndrome, but make it Trans]]
-    - AMAB Enbies are often either grouped in with [[Queer|gay]] cis men or treated like [[transgender|trans]] women.
+    - AMAB Enbies are often either grouped in with [[Queer|gay]] cis men or treated like [[transgender|trans]] [[women]].
 - From [[13 Diagnosing Gender Dysphoria]]
     - **A strong [[desire]] to be rid of one�s primary and/or secondary sex characteristics**
     - **A strong [[desire]] for the primary and/or secondary sex characteristics of another gender**
@@ -51,16 +51,16 @@ note-type:
     - You're awkward at social touch.
     - You struggle even to voice innocent physical compliments to others, like "Looking good!" You are hyper-aware that virtually anything could sound like unwanted sexual attention, coming from you. You feel like your attention is uniquely, universally unwelcome.
     - When an AFAB friend expresses disapproval, you're devastated. You scramble to get their approval back. You're worried you're coming across as a simpering "nice guy," all of whom you despise. You just value your AFAB friends' opinions more highly, for reasons you can't explain.
-    - They may feel themselves drawn more to friendships with women, but become frustrated at the social and heterosexual dynamics that come into play between men and women, preventing them from forming platonic relationships.
-    - They may find themselves deeply hurt when women shy away from them on principle.
+    - They may feel themselves drawn more to friendships with [[women]], but become frustrated at the social and heterosexual dynamics that come into play between men and [[women]], preventing them from forming platonic relationships.
+    - They may find themselves deeply hurt when [[women]] shy away from them on principle.
 - From [[7 Societal Dysphoria]]
-    - For example, many [[transgender|trans]] women have stories about feeling the need to cover up their chest pre-transition out of an intrinsic sense of modesty.
+    - For example, many [[transgender|trans]] [[women]] have stories about feeling the need to cover up their chest pre-transition out of an intrinsic sense of modesty.
     - AMABs may find themselves wishing _they_ were the one being pampered
 - From [[9 Presentational Dysphoria]]
     - a wish to be able to present as people of that gender do.
     - When you get ready to go, you just roll out of bed and throw on whatever. You don't really do any [[self]]-grooming, or care about what's on your body. You're a little proud of your lack of vanity, your deeper, non-appearance-level existence.
     - Your clothes are chosen almost entirely for comfort.
-    - Feeling envious of other girls for being pretty is a thing that many many women feel. Dysphoria is a real headfuck of a layer on top of that feeling, yet I just wanna say that if you�re a [[transgender|trans]] woman feeling envious of another [[transgender|trans]]
+    - Feeling envious of other girls for being pretty is a thing that many many [[women]] feel. Dysphoria is a real headfuck of a layer on top of that feeling, yet I just wanna say that if you�re a [[transgender|trans]] woman feeling envious of another [[transgender|trans]]
 
 # [[No]]
 
@@ -68,12 +68,12 @@ note-type:
     - Some children identify it at as soon as they are able to grasp the concept of the differences between the sexes, others don�t start to feel anything until the onset of puberty
 - From [[11 Managed Dysphoria Gender in Disguise]]
     - When a video game gives you the option of choosing your gender, you tend to choose differently than your assigned gender.
-    - A preference for literature and film with characters of your true gender, or with characters who break gender norms (Mulan, Little Women).
+    - A preference for literature and film with characters of your true gender, or with characters who break gender norms (Mulan, Little [[Women]]).
     - Pornographic outlets which satisfy strong desires or feel more relatable, such as a draw towards gay/lesbian porn, bridal kink, or transformation sequences.
     - Crossdressing or performing drag.
     - Finding excuses to cut hair short, or to grow it out.
     - Wearing loose and baggy clothing that hides the shape of your body.
-    - Becoming intimately educated about some gender-associated topic, such as men�s or women�s clothing design.
+    - Becoming intimately educated about some gender-associated topic, such as men�s or [[women]]�s clothing design.
     - Growing and meticulously grooming facial hair (the so-called �denial beard�).
     - Presenting extremely masculine or hyper feminine.
     - Avoiding any conversation about fashion for any gender. Dissociating whenever fashion conversations or activities occur.
@@ -106,7 +106,7 @@ note-type:
     - Deviations from these roles often result in shame, both from partners and from peers.
     - [[transgender|Trans]] people who enter into perceptually heterosexual relationships pre-transition sometimes find themselves losing interest in sexual intercourse, as penetrative acts do not produce the fulfillment that they would expect.
     - [[transgender|Trans]] children often internalize their view of their peers based on their true gender, and one does not objectify their equals
-    - Even around the most beautiful women, I would avoid even looking at them,
+    - Even around the most beautiful [[women]], I would avoid even looking at them,
 
 # [[Sometimes]]
 
@@ -130,7 +130,7 @@ note-type:
     - Even when your commentary is solicited, everything you could say feels unwanted and inappropriate
     - For example, an AMAB [[transgender|trans]] person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don�t come naturally to them, and trying to emulate their male friends feels awkward.
 - From [[8 Sexual Dysphoria]]
-    - as someone with a strong fascination with women�s apparel, particularly lingerie.
-    - But on top of all of this, I was _terrified_ to be seen expressing legitimate sexual interest in other women.
+    - as someone with a strong fascination with [[women]]�s apparel, particularly lingerie.
+    - But on top of all of this, I was _terrified_ to be seen expressing legitimate sexual interest in other [[women]].
 - From [[9 Presentational Dysphoria]]
     - an interest in feminine presentation to be misinterpreted as sexual [[desire]].

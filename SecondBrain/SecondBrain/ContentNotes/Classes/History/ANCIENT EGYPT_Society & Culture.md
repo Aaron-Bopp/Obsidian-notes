@@ -62,7 +62,7 @@ iii. Slavery
      ```{=html}
      <!-- -->
      ```
-     1.  ***The Family: Marriage & Women***
+     1.  ***The Family: Marriage & [[Women]]***
 
          i.  Patriarchal, Patrilineal
 

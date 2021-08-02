@@ -10,7 +10,7 @@ Sometimes accepting responsibility for something means accepting the responsibil
 Accepting responsibility is about moving forward for yourself and for the people affected by the event.
 Accepting responsibility for these kind of things is not taught at a young age in [[America]] because that goes against [[individualism]].
 
-In Germany they accept responsibility for Holocaust, despite no living person having taken part in it. They teach it in schools and are very serious about taking responsibility for it. This is not because they support or caused the actions of the Holocaust it's because they realize their part in it, their part in fixing it. American's need to have the same stance on slavery.
+In [[Germany]] they accept responsibility for Holocaust, despite no living person having taken part in it. They teach it in schools and are very serious about taking responsibility for it. This is not because they support or caused the actions of the Holocaust it's because they realize their part in it, their part in fixing it. American's need to have the same stance on slavery.
 
 
 ### <hr class="footnote"/>

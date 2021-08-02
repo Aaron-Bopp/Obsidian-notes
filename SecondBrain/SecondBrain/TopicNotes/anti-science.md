@@ -6,13 +6,13 @@ note-type:
 aliases:
 - science denier
 - anti-science
+- anti science
 embedded:
 - 
 ---
  
 ##### [[anti-science]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
- - anti-vax
 
 **Status**:: #EVER/SEED 
 **Related-Topics**::

@@ -136,7 +136,7 @@ Vaginal and uterine atrophy often happens within the first five years, and a hys
 [[@salenby](https://twitter.com/salenby) [@chaoticgaythey](https://twitter.com/chaoticgaythey) The jokes about teenage boys always being horny, well, it's a thing. Not uncontrollably, get yourself in trouble horny, but I'd have sex multi times a day...
 ](https://twitter.com/AFortune69/status/1374040823382347778)
 
-Also, I find I 'notice' women more now, I still mostly prefer men but the ratio has adjusted a bit more towards center.
+Also, I find I 'notice' [[women]] more now, I still mostly prefer men but the ratio has adjusted a bit more towards center.
 
 Libido will almost certainly go through the roof for the first year or two, the strongest immediately following dosing. May find yourself more assertive during sex and more prone to being dominant and/or a top.
 

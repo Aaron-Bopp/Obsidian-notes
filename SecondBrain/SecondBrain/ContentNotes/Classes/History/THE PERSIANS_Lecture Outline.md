@@ -84,13 +84,13 @@
 
     e.  Law: Inquisitorial System
 
-    f.  Legal Standing: Women, Slaves
+    f.  Legal Standing: [[Women]], Slaves
 
     g.  Settling Claims: Compensation and Penalty
 
 7.  **The Persian Social Order**
 
-8.  **Persian Men and Women**
+8.  **Persian Men and [[Women]]**
 
 9.  **Persian [[Religion]]: Zoroastrianism**
 

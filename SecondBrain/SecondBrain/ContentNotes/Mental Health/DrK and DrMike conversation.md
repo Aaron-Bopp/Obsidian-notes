@@ -20,7 +20,7 @@ bib:
 	- After every conversation [[DrMike]] is reexamining and reevaluating it to see how he could to do better
 		- When he speaks he is re-examining and fact checking himself
 		-  #TO/DONE/CONCEPTUALIZED([[Constantly working on yourself is a form a self-hatred]]) the inner monologue and how constantly reevaluating yourself effects your [[self-love]]
-	- Strong values of fairness, justness
+	- Strong values of [[fairness]], justness
 	- Fell in [[love]] with medicine because it involves constant learning
 	- Views his skills lie in constantly being introspective
 - You can't ever stop growing or you'll fall off

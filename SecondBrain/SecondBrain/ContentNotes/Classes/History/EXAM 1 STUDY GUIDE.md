@@ -46,7 +46,7 @@ Athenian Empire
 
 Peloponnesian Wars
 
-Athenian Women
+Athenian [[Women]]
 
 Athenian Metics & Slaves
 
@@ -90,7 +90,7 @@ Hellenistic Cosmopolitanism
 
 Hellenistic slavery
 
-Hellenistic women
+Hellenistic [[women]]
 
 Hellenistic Literature
 
@@ -120,7 +120,7 @@ The Maccabees
 
              1.  Landowners, landless free citizens, slaves
 
-                 a.  These groups do not include women
+                 a.  These groups do not include [[women]]
 
         iv. Unequal application -- status determines severity of punishment
 

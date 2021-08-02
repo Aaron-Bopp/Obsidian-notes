@@ -1,3 +1,5 @@
+[[]]:
+
 [[0 That's Gender Dysphoria, FYI]]:
 
 [[1 Free Speech and The Flag]]:
@@ -105,6 +107,8 @@
 [[API]]:
 
 [[Aaron Bopp - Short Written Response The Littoral Zone]]:
+
+[[Abortion and immigration are key to white supremacy]]:
 
 [[Accepting responsibility is not only about your actions]]:
 
@@ -312,6 +316,8 @@
 
 [[Creating Thought with a Second Brain]]:
 
+[[Creationism built an anti-science culture]]:
+
 [[Cuba]]:
 - Cuban
 
@@ -433,6 +439,10 @@
 [[Final business rules]]:
 
 [[Final normalized relations]]:
+
+[[First Amendment rights impacts groups not individuals]]:
+
+[[First Amendment to the U.S. Constitution]]:
 
 [[Flamingo Pose Meditation]]:
 
@@ -627,6 +637,8 @@
 
 [[Loving a a non-believer requires loving the fact that they are going to hell]]:
 
+[[MAGA is built of nostalgia not facts]]:
+
 [[MLK]]:
 - Martin Luther King
 
@@ -639,6 +651,8 @@
 [[Marxism]]:
 
 [[Marxist-Leninists]]:
+
+[[Mass media promotes the spread of innacurate information]]:
 
 [[Mermaid (software)]]:
 
@@ -737,6 +751,8 @@
 [[Protests]]:
 - protesting
 
+[[Q justifies conservatives discontent]]:
+
 [[QUICKNOTE]]:
 
 [[QUIZ#3_Solution (1)]]:
@@ -789,6 +805,12 @@
 [[Research Paper Thoughts]]:
 
 [[Revolution]]:
+
+[[Rise of Modern Conservatism]]:
+
+[[Rise of Conspiracy Culture]]:
+
+[[Rise of Misinformation in America]]:
 
 [[Roam Research]]:
 
@@ -844,6 +866,8 @@
 
 [[Sequence_diagrams]]:
 
+[[Single issue voters are anti-democratic]]:
+
 [[Software Engineering Research Paper]]:
 
 [[Sp20 Principles of Macro Assignment 11 (Unemp)]]:
@@ -857,6 +881,8 @@
 [[Stupid rules are meant to be broken]]:
 
 [[Suburbia]]:
+
+[[Suicide]]:
 
 [[Sympathy does not dissallow judgment]]:
 
@@ -891,6 +917,8 @@
 
 [[The Vanguard]]:
 
+[[The anti-vax movement is based off a white lie]]:
+
 [[The bible is god breathed]]:
 
 [[The biblical christian God is evil and does not deserved to be worshipped]]:
@@ -905,6 +933,8 @@
 
 [[The injustice of endurance]]:
 
+[[The internet allows niche topics to flourish]]:
+
 [[The many transgressions of the christian church]]:
 
 [[The materialistic view of religions examines why humans invented and clung to religion]]:
@@ -914,6 +944,8 @@
 [[The three main questions of life]]:
 
 [[There aren't any downsides to working through trauma]]:
+
+[[Tiktok]]:
 
 [[Tips for concentration]]:
 
@@ -953,6 +985,8 @@
 [[War on Drugs]]:
 
 [[War on Terror]]:
+
+[[We value our biggest insecurities because they protect us from the biggest threats]]:
 
 [[Wealth Inequality]]:
 
@@ -1012,11 +1046,17 @@
 
 [[anti-liberalism]]:
 
+[[anti-science]]:
+
+[[anti-vax]]:
+
 [[anxiety]]:
 
 [[atheism]]:
 
 [[belief systems]]:
+
+[[black people]]:
 
 [[body dysmorphia]]:
 
@@ -1047,7 +1087,7 @@
 
 [[desire]]:
 
-[[dissociation]]:
+[[disassociation]]:
 
 [[disease]]:
 
@@ -1091,6 +1131,8 @@
 [[evolution]]:
 
 [[executive function]]:
+
+[[fairness]]:
 
 [[faith]]:
 
@@ -1155,6 +1197,8 @@
 [[inter-personal communication]]:
 - inter-personal relationships
 
+[[internet]]:
+
 [[karma]]:
 - kharma
 
@@ -1165,6 +1209,8 @@
 [[markets]]:
 
 [[masking]]:
+
+[[mass media]]:
 
 [[materialism]]:
 
@@ -1225,15 +1271,17 @@
 
 [[police inefficiency]]:
 
-[[politics]]:
-
 [[political strategy]]:
+
+[[politics]]:
 
 [[poverty]]:
 
 [[poverty 1]]:
 
 [[propaganda]]:
+
+[[racism]]:
 
 [[reactionist]]:
 
@@ -1265,11 +1313,17 @@
 
 [[self-hate]]:
 
+[[self-image]]:
+
 [[self-improvement]]:
 
 [[self-love]]:
 - self-worth
 - self-esteem
+
+[[self-perception]]:
+
+[[selfless]]:
 
 [[social anxiety]]:
 
@@ -1324,6 +1378,8 @@
 [[white guilt]]:
 
 [[white supremacy]]:
+
+[[women]]:
 
 [[worldview]]:
 

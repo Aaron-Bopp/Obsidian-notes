@@ -36,7 +36,7 @@ All social [[gender dysphoria]] orbits around one central concept: What Gender d
 
 ==While still in the dark, the only awareness is that something seems off about the way you interact with your interactions with other people.== People of your assigned gender seem to interact with each other in ways that do not feel natural to you. [[No]] ==Their behaviors and mannerisms feel strange and surprising, where interactions with individuals of your true gender feel easier.== You relate to people closer to your own truth.
 
-[[Sometimes]] ==For example, an AMAB [[transgender|trans]] person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don’t come naturally to them, and trying to emulate their male friends feels awkward.== [[Yes]] ==They may feel themselves drawn more to friendships with women, but become frustrated at the social and heterosexual dynamics that come into play between men and women, preventing them from forming platonic relationships.== This is if women are willing to form friendships at all. [[Yes]] ==They may find themselves deeply hurt when women shy away from them on principle.==
+[[Sometimes]] ==For example, an AMAB [[transgender|trans]] person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don’t come naturally to them, and trying to emulate their male friends feels awkward.== [[Yes]] ==They may feel themselves drawn more to friendships with [[women]], but become frustrated at the social and heterosexual dynamics that come into play between men and [[women]], preventing them from forming platonic relationships.== This is if [[women]] are willing to form friendships at all. [[Yes]] ==They may find themselves deeply hurt when [[women]] shy away from them on principle.==
 
 This feeling of wrongness intensifies as the person becomes more and more aware of their own incongruence, and upon realizing who they really are it takes on a new shape. For binary [[transgender|trans]] people this often may be about the intense need to be seen as your true gender, be it male or female. Some [[non-binary]] people experience this more as euphoria at being seen as neither male or female and thus only being referred to in ungendered ways, or from being read as different genders by different people in the same setting. Some experience intense euphoria when people are incapable of reading their gender and become confused.
 
@@ -53,7 +53,7 @@ It may also manifest as joy or embarrassment at being labeled as your true gende
 -   An AMAB person being labeled a girl, intending insult, but it causing them to blush rather than get angry.
 -   An AFAB person being called Sir, and feeling better for it.
 
-[The irony in “[[transgender|trans]] women mimic gender stereotypes” is the only time I DID mimic stereotypes was when I was forced to interact with men. And I did so out of a sense of survival and a longing to try and fit in.
+[The irony in “[[transgender|trans]] [[women]] mimic gender stereotypes” is the only time I DID mimic stereotypes was when I was forced to interact with men. And I did so out of a sense of survival and a longing to try and fit in.
 ](https://twitter.com/Emmy_Zje/status/1219968711681040384)
 
 I didn’t transition into stereotypes…I transitioned out of them.

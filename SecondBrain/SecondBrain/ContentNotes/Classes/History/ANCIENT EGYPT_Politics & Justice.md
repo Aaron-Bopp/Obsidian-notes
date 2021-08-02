@@ -72,7 +72,7 @@
 
     iii. Farming & Fishing -- most of egypts [[economy]], primitive. Hunting leisure
 
-    iv. Manufacturing -- processing left to women. Small factories financed by the rich, mainly male occupation
+    iv. Manufacturing -- processing left to [[women]]. Small factories financed by the rich, mainly male occupation
 
     v.  Trade -- wholesale merchants [[acting]] for pharaoh or priests
 

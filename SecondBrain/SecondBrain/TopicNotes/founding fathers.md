@@ -9,13 +9,14 @@ embedded:
 - 
 ---
  
-##### [[Rise of Conservatism]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+##### [[founding fathers]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
- https://github.com/SlRvb/Obsidian--ITS-Theme
+
+
 **Status**:: #EVER/SEED 
 **Related-Topics**::
 **Last Edited**:: *`=this.file.mtime`*
-##### [[Rise of Conservatism]] `=length(this.file.inlinks)` 
+##### [[founding fathers]] `=length(this.file.inlinks)` 
 - 
 
 ### <hr class="dataviews"/>

@@ -39,9 +39,9 @@ Most cave art from 10,000 to 35,000 years ago was done by hand, quite literally.
 
 RECOMMENDED VIDEOS FOR YOU...
 
-Men and women have different hand proportions—men have thicker thumbs and palms—so by analyzing the dimensions of the hands in European cave art, and comparing them to 1,000 photocopies of modern hands of men and women of different ages, Guthrie determined just who painted what.
+Men and [[women]] have different hand proportions—men have thicker thumbs and palms—so by analyzing the dimensions of the hands in European cave art, and comparing them to 1,000 photocopies of modern hands of men and [[women]] of different ages, Guthrie determined just who painted what.
 
-Men and women and boys and girls of all ages left their marks but, statistically, teenage males dominated, contrary to popular belief.
+Men and [[women]] and boys and girls of all ages left their marks but, statistically, teenage males dominated, contrary to popular belief.
 
 Most of the paintings are of large game, such as bison, horse, ibex, and red deer. Cave bears and lions, which would have inspired fear, were also depicted.
 
@@ -51,15 +51,15 @@ Many of the hunting scenes, although sloppily done compared to the fine, finishe
 
 And as with modern teenagers, the ancients had more on their minds than just cars and sports.
 
-"In the graffiti, there is a lot of below-the-belt-art," Guthrie said. "The people in the art are predominantly women, and not a single one has any clothes on."
+"In the graffiti, there is a lot of below-the-belt-art," Guthrie said. "The people in the art are predominantly [[women]], and not a single one has any clothes on."
 
-But these weren't just any women, they were Pleistocene Pamela Andersons adorned with ludicrously huge breasts and hips. The walls were also decorated with graphic depictions of genitalia.
+But these weren't just any [[women]], they were Pleistocene Pamela Andersons adorned with ludicrously huge breasts and hips. The walls were also decorated with graphic depictions of genitalia.
 
 "These were not the type of paintings that make it into the coffee table art books," Guthrie said.
 
 While female artists accounted for less than 20 percent of the cave art, they were being creative in other ways, researchers say.
 
-"What we find in the fossil record doesn't always represent what was going on," Guthrie said. "Prior to the pottery age, women in all societies are working in things that don't preserve very well, such as skins and braiding fiber."
+"What we find in the fossil record doesn't always represent what was going on," Guthrie said. "Prior to the pottery age, [[women]] in all societies are working in things that don't preserve very well, such as skins and braiding fiber."
 
 Guthrie presents his findings and more than 3,000 images in his new book, "The Nature of Paleolithic Art" (University of Chicago Press, 2006).
 
@@ -87,7 +87,7 @@ Most cave art from 10,000 to 35,000 years ago was done by hand, quite literally.
 
 RECOMMENDED VIDEOS FOR YOU...
 
-[^1]: Men and women have different hand proportions—men have thicker thumbs and palms—so by analyzing the dimensions of the hands in European cave art, and comparing them to 1,000 photocopies of modern hands of men and women of different ages, Guthrie determined just who painted what. Men and women and boys and girls of all ages left their marks but, statistically, teenage males dominated, contrary to popular belief.
+[^1]: Men and [[women]] have different hand proportions—men have thicker thumbs and palms—so by analyzing the dimensions of the hands in European cave art, and comparing them to 1,000 photocopies of modern hands of men and [[women]] of different ages, Guthrie determined just who painted what. Men and [[women]] and boys and girls of all ages left their marks but, statistically, teenage males dominated, contrary to popular belief.
 
 [^2]: Most of the paintings are of large game, such as bison, horse, ibex, and red deer. Cave bears and lions, which would have inspired fear, were also depicted. Many of the hunting scenes, although sloppily done compared to the fine, finished work of an adult artist back then, are full of graphic detail.
 
@@ -95,13 +95,13 @@ RECOMMENDED VIDEOS FOR YOU...
 
 And as with modern teenagers, the ancients had more on their minds than just cars and sports.
 
-"In the graffiti, there is a lot of below-the-belt-art," Guthrie said. "The people in the art are predominantly women, and not a single one has any clothes on."
+"In the graffiti, there is a lot of below-the-belt-art," Guthrie said. "The people in the art are predominantly [[women]], and not a single one has any clothes on."
 
-But these weren't just any women, they were Pleistocene Pamela Andersons adorned with ludicrously huge breasts and hips. The walls were also decorated with graphic depictions of genitalia.
+But these weren't just any [[women]], they were Pleistocene Pamela Andersons adorned with ludicrously huge breasts and hips. The walls were also decorated with graphic depictions of genitalia.
 
 "These were not the type of paintings that make it into the coffee table art books," Guthrie said.
 
-[^3]: While female artists accounted for less than 20 percent of the cave art, they were being creative in other ways, researchers say. "What we find in the fossil record doesn't always represent what was going on," Guthrie said. "Prior to the pottery age, women in all societies are working in things that don't preserve very well, such as skins and braiding fiber."
+[^3]: While female artists accounted for less than 20 percent of the cave art, they were being creative in other ways, researchers say. "What we find in the fossil record doesn't always represent what was going on," Guthrie said. "Prior to the pottery age, [[women]] in all societies are working in things that don't preserve very well, such as skins and braiding fiber."
 
 Guthrie presents his findings and more than 3,000 images in his new book, "The Nature of Paleolithic Art" (University of Chicago Press, 2006).
 

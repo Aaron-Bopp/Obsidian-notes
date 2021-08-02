@@ -26,7 +26,7 @@
 
 -   Exclusion
 
-    -   Women, Slaves, Metics
+    -   [[Women]], Slaves, Metics
 
 -   **Ancient Democracy's [[Evolution]]**
 

@@ -15,7 +15,7 @@ date updated: '2021-05-31T16:50:32-05:00'
 	- 2. invade [[Japan]]
 		- Estimated American casualties for invasion was millions
 			- Casualties on Okinawa were 35 percent
-		- [[Truman]] wrote, “My object is to save as many American lives as possible but I also have a human feeling for the women and children of [[Japan]].”
+		- [[Truman]] wrote, “My object is to save as many American lives as possible but I also have a human feeling for the [[women]] and children of [[Japan]].”
 			- Despite this he felt that civilian death was the only path to surrender
 	- 3. demonstrate the bomb on an unpopulated island
 		- Concerns

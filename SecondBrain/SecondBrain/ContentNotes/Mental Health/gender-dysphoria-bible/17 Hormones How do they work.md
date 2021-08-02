@@ -62,7 +62,7 @@ Estradiol is the Feminizing hormone, as it is the primary signaling hormone for 
 
 Estrone’s role in the body has been something of a puzzle in medical research, as it has significantly lower binding affinity compared to estradiol (0.6%) and very low transactivational ability (4%). The hormone doesn’t appear to _do_ anything, it just sits in the blood stream. However it has a unique ability to convert to and from Estradiol via an enzyme group called [17β-HSD](https://en.wikipedia.org/wiki/17%CE%B2-Hydroxysteroid_dehydrogenase), making it ideally suited to function like an estrogen battery within the body.
 
-New research is starting to suggest that the body may regulate total estradiol levels by releasing HSD17B1 to turn estradiol into estrone, and releasing HSD17B2 to convert it back, however this is very early study. Both enzymes are produced in breast tissue, and may play a role in the presence of cyclical period-like symptoms in estrogenic individuals who do not have ovaries, such as [[transgender|trans]] women.
+New research is starting to suggest that the body may regulate total estradiol levels by releasing HSD17B1 to turn estradiol into estrone, and releasing HSD17B2 to convert it back, however this is very early study. Both enzymes are produced in breast tissue, and may play a role in the presence of cyclical period-like symptoms in estrogenic individuals who do not have ovaries, such as [[transgender|trans]] [[women]].
 
 #### For Your Information
 

@@ -9,13 +9,14 @@ embedded:
 - 
 ---
  
-##### [[self-perception]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+##### [[Tiktok]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
- [[Self-perception]] is the way that you view yourself externally and it may be instep or out of step with the way your view yourself internally, or your [[self-image]]. This [[perception]] may be based in reality but it is often influenced by societal pressures, [[inter-personal communication]], [[gender dysphoria]], or [[body dysmorphia]]
+ 
+
 **Status**:: #EVER/SEED 
-**Related-Topics**:: [[self]]
+**Related-Topics**::
 **Last Edited**:: *`=this.file.mtime`*
-##### [[self-perception]] `=length(this.file.inlinks)` 
+##### [[Tiktok]] `=length(this.file.inlinks)` 
 - 
 
 ### <hr class="dataviews"/>

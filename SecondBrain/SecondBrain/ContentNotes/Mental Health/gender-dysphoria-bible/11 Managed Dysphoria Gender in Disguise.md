@@ -19,7 +19,7 @@ Growing up in the closet, even when you don’t know you’re in the closet, bec
 
 -   [[No]] ==When a video game gives you the option of choosing your gender, you tend to choose differently than your assigned gender.== This may be accompanied with excuses to defend that choice. “It defaulted to male and I didn’t care.” “I don’t want to stare at a guy’s butt for hours.”
     
--   [[No]] ==A preference for literature and film with characters of your true gender, or with characters who break gender norms (Mulan, Little Women).==
+-   [[No]] ==A preference for literature and film with characters of your true gender, or with characters who break gender norms (Mulan, Little [[Women]]).==
     
 -   [[No]] ==Pornographic outlets which satisfy strong desires or feel more relatable, such as a draw towards gay/lesbian porn, bridal kink, or transformation sequences.==
     
@@ -33,7 +33,7 @@ Growing up in the closet, even when you don’t know you’re in the closet, bec
     
 -   [[Sometimes]] ==Avoiding social gatherings whenever possible, seeking isolation.==
     
--   [[No]] ==Becoming intimately educated about some gender-associated topic, such as men’s or women’s clothing design.==
+-   [[No]] ==Becoming intimately educated about some gender-associated topic, such as men’s or [[women]]’s clothing design.==
     
 -   Obsessively working out (AFABs).
     

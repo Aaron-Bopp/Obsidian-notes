@@ -38,7 +38,7 @@ June 21, 2011 — As high earners earn more, and lower or modest-income people e
 
   The researchers also discerned that declining incomes do not necessarily, in and of themselves, translate into less [[happiness]]; what seems to cause unhappiness is the growing disparity, the feeling that the rich are getting richer while everyone else is treading water or backsliding.
 
-  "It really comes down to a sense of fairness or unfairness," Oishi said. "When people see company CEOs giving themselves big pay raises, and ballplayers and actors making millions, they sense that society is unfair. People are less happy when they believe that things are not fair, that other people cannot be trusted."
+  "It really comes down to a sense of [[fairness]] or unfairness," Oishi said. "When people see company CEOs giving themselves big pay raises, and ballplayers and actors making millions, they sense that society is unfair. People are less happy when they believe that things are not fair, that other people cannot be trusted."
 
   Overall, however, [[America|Americans]] are relatively happy, Oishi said. Compared to people in other developed nations – [[Germany]], [[France]], [[Japan]] and Korea, [[America|Americans]] are happier with a more positive outlook.
 
@@ -60,7 +60,7 @@ June 21, 2011 — As high earners earn more, and lower or modest-income people e
 
   The researchers also discerned that declining incomes do not necessarily, in and of themselves, translate into less [[happiness]]; what seems to cause unhappiness is the growing disparity, the feeling that the rich are getting richer while everyone else is treading water or backsliding.
 
-  "It really comes down to a sense of fairness or unfairness," Oishi said. "When people see company CEOs giving themselves big pay raises, and ballplayers and actors making millions, they sense that society is unfair. People are less happy when they believe that things are not fair, that other people cannot be trusted."
+  "It really comes down to a sense of [[fairness]] or unfairness," Oishi said. "When people see company CEOs giving themselves big pay raises, and ballplayers and actors making millions, they sense that society is unfair. People are less happy when they believe that things are not fair, that other people cannot be trusted."
 
   Overall, however, [[America|Americans]] are relatively happy, Oishi said. Compared to people in other developed nations – [[Germany]], [[France]], [[Japan]] and Korea, [[America|Americans]] are happier with a more positive outlook.
 

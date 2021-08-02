@@ -15,7 +15,7 @@ bib:
     - Lost in primary of 1976
     - Won in 1980 by 9 mil votes
         - was positive while Carter was brow-beaten
-    - Rise of new Right [[Rise of Conservatism]]
+    - Rise of new Right [[Rise of Modern Conservatism]]
         - Religious right/conservatism
             - wanted [[creationism]] and prayer in school
         - [[anti-liberalism]]

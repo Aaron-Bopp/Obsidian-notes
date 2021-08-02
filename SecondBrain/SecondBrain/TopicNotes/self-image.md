@@ -11,7 +11,7 @@ embedded:
  
 ##### [[self-image]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
-Self-image is way that you view yourself internally. It includes things like how you look, what you want to be. It may be instep or out of step with how you view yourself externally, or your [[self-perception]]. Self-image can be influenced by things like [[trauma]], [[gender dysphoria]], and [[body dysmorphia]].
+[[Self]]-image is way that you view yourself internally. It includes things like how you look, what you want to be. It may be instep or out of step with how you view yourself externally, or your [[self-perception]]. [[Self]]-image can be influenced by things like [[trauma]], [[gender dysphoria]], and [[body dysmorphia]].
 
 **Status**:: #EVER/SEED 
 **Related-Topics**:: [[self]]

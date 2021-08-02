@@ -42,7 +42,7 @@
 
     a.  Philistines (1050 BCE) -- harassed israelites
 
-        i.  King Saul -- imitated cannanites, commit suicide
+        i.  King Saul -- imitated cannanites, commit [[suicide]]
 
     b.  King David (c. 1000 BCE) -- reduced philistine influence
 
@@ -158,4 +158,4 @@
 
         i.  Concubines
 
-    f.  Status of Women
+    f.  Status of [[Women]]

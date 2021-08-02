@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "(-path:ContentNotes OR path:EvergreenNotes -path:TopicNotes) -path:templates -file:aliases",
+  "search": "(-path:ContentNotes OR path:EvergreenNotes OR path:TopicNotes) -path:templates -file:aliases",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -67,6 +67,6 @@
   "repelStrength": 14.078431372549,
   "linkStrength": 0.757928118393235,
   "linkDistance": 343,
-  "scale": 0.3250329425574608,
-  "close": true
+  "scale": 0.1043000074080587,
+  "close": false
 }

@@ -1,8 +1,8 @@
 **Chapter 1**
 
--   Internet vs World Wide Web
+-   [[Internet]] vs World Wide Web
 
-    -   Internet is a network of networks, web is a service on top of that [[infrastructure]]
+    -   [[Internet]] is a network of networks, web is a service on top of that [[infrastructure]]
 
 -   Host/end system
 
@@ -22,7 +22,7 @@
 
 -   ISP
 
-    -   Internet service provider
+    -   [[Internet]] service provider
 
 -   TCP
 
@@ -30,7 +30,7 @@
 
 -   IP
 
-    -   Internet protocol
+    -   [[Internet]] protocol
 
 -   Distributed application
 
@@ -80,7 +80,7 @@
 
     -   Circuit switching
 
--   Internet exchange point
+-   [[Internet]] exchange point
 
     -   Tie ISPs together (300 in total)
 
@@ -332,7 +332,7 @@
 
     -   Congestion avoidance using additiv increase/multiplicative decrease (diagrams page 276, 277)
 
--   TCP fairness
+-   TCP [[fairness]]
 
     -   How it is handled
 

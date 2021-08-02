@@ -73,7 +73,7 @@ to find the following:
   ------------------------------------------------------------------------------------
   Occupation                                               Software developer
   -------------------------------------------------------- ---------------------------
-  \% of total employed that is women                       18.7%
+  \% of total employed that is [[women]]                       18.7%
 
   \% of total employed that is white                       54.0%
 

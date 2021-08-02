@@ -42,7 +42,7 @@ bib:
                 - Unconditional surrender form [[Germany]]
                 - Set post-[[war]] agenda for [[Germany]]
                 - [[Russia|USSR]] agreed to enter [[war]] against [[Japan]] 90 days after german defeat
-            - [[FDR]]death and [[Hitler]] suicide lead to a quicker end to the [[war]] in May 1945
+            - [[FDR]]death and [[Hitler]] [[suicide]] lead to a quicker end to the [[war]] in May 1945
                 - This is when concentration camps were discovered
                 - [[Eisenhower]] invited many people to see these atrocities and document them
         - Pacific Theater

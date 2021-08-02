@@ -25,8 +25,8 @@ bib:
     - Johnson vetoed Freedmen's Bureau Renewal and [[Civil Rights]] Act but it was overturned by [[Congress]]
     - Radical [[republican]]'s controlled 2/3rds of [[Congress]] and tried to remove power of President
     - [[Congress]] passed 11 articles of impeachment but were one vote short of convicting
-- 15th ammendment gave voting rights to former slaves but not women
-    - southern states started using Jim Crow laws to stop black people from voting
+- 15th ammendment gave voting rights to former slaves but not [[women]]
+    - southern states started using Jim Crow laws to stop [[black people]] from voting
 
 
 ---

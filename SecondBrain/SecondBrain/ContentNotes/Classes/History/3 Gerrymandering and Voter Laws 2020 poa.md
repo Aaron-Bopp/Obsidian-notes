@@ -163,7 +163,7 @@ But Levitt said he isn\'t sure you\'d see the same impacts in a place like Texas
 
 ## [It could reduce confusion ]{.ul}
 
-**Paula Brantner**, a senior advisor at Workplace Fairness, says state laws that govern voting rights vary so widely, most people don\'t even know what protections they have on Election Day. She said the Workplace Fairness website, which serves as a clearinghouse of information about workers\' rights, gets between 2.5 to 4 million visitors a year, and the biggest spike in visitors is on Election Day.
+**Paula Brantner**, a senior advisor at Workplace [[Fairness]], says state laws that govern voting rights vary so widely, most people don\'t even know what protections they have on Election Day. She said the Workplace [[Fairness]] website, which serves as a clearinghouse of information about workers\' rights, gets between 2.5 to 4 million visitors a year, and the biggest spike in visitors is on Election Day.
 
 \"People are scrambling to find out this information \... and unfortunately sometimes you have to notify your employer in advance, and you\'ve lost your window of opportunity to do that,\" she said.
 
@@ -214,13 +214,13 @@ October 8, 20192:50 PM ET
 
 The Russian government\'s interference in the 2016 U.S. elections singled out African [[America|Americans]], a [new Senate committee report](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf) concludes.
 
-Using Facebook pages, Instagram content and Twitter posts, Russian information operatives working for the Internet Research Agency had an \"overwhelming operational emphasis on race \... no single group of [[America|Americans]] was targeted \... more than African [[America|Americans]].\"
+Using Facebook pages, Instagram content and Twitter posts, Russian information operatives working for the [[Internet]] Research Agency had an \"overwhelming operational emphasis on race \... no single group of [[America|Americans]] was targeted \... more than African [[America|Americans]].\"
 
 That was evident throughout the IRA\'s Facebook content, the report said, citing the fact that over 66 percent of that content contained a term related to race.
 
 And using ads with location targeting \"principally aimed at African-[[America|Americans]] in key metropolitan areas,\" the Russian information operations focused on pages like Blacktivist, which garnered 11.2 million engagements with Facebook users.
 
-The report, written by the [[Republican]]-led Senate Intelligence Committee, also said the Internet Research Agency, which worked \"at the direction of the Kremlin,\" increased its activity after Election Day in 2016.
+The report, written by the [[Republican]]-led Senate Intelligence Committee, also said the [[Internet]] Research Agency, which worked \"at the direction of the Kremlin,\" increased its activity after Election Day in 2016.
 
 Following the 2016 election, \"Instagram activity increased 238 percent, Facebook increased 59 percent, Twitter increased 52 percent, and YouTube citations went up by 84 percent,\" the report found.
 
@@ -228,7 +228,7 @@ The committee\'s work also affirmed the conclusions of earlier investigations on
 
 \"The Committee found that IRA social [[media]] activity was overtly and almost invariably supportive of then-candidate Trump,\" the report reads. \"The Committee found that the Russian [[government]] tasked and supported the IRA\' s interference in the 2016 U.S. election.\"
 
-The Senate committee found that the Internet Research Agency sought to harm [[Democrat]] Hillary Clinton and support Donald Trump \"at the direction of the Kremlin.\"
+The Senate committee found that the [[Internet]] Research Agency sought to harm [[Democrat]] Hillary Clinton and support Donald Trump \"at the direction of the Kremlin.\"
 
 And the study also concluded that the IRA sought to focus on socially divisive issues like race to pit [[America|Americans]] against one another.
 

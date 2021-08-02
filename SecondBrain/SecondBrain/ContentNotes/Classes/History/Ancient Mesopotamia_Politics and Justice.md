@@ -116,7 +116,7 @@
 
              1.  Landowners, landless free citizens, slaves
 
-                 a.  These groups do not include women
+                 a.  These groups do not include [[women]]
 
         iv. Unequal application -- status determines severity of punishment
 

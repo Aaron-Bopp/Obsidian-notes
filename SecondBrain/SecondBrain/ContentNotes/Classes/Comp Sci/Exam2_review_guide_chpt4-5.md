@@ -46,7 +46,7 @@ Chapter 4
 
     -   When looking for destination entry use longest prefix that matches
 
--   Which type of network is the Internet? - datagram
+-   Which type of network is the [[Internet]]? - datagram
 
 -   Parts of a router
 
@@ -80,7 +80,7 @@ Chapter 4
 
 -   Packet scheduler
 
--   The Internet Protocol
+-   The [[Internet]] Protocol
 
     -   Forwarding
 
@@ -128,7 +128,7 @@ Chapter 4
 
     -   How does the NAT translation table work -- translate LAN addr to new NAT specific WAN address and stores conversion in table
 
--   ICMP -- internet control message protocol, icmp messages carried in ip datagrams
+-   ICMP -- [[internet]] control message protocol, icmp messages carried in ip datagrams
 
     -   What is it used for -- communicates network level information, rerrors,
 

@@ -14,13 +14,13 @@
 
 -   Packet switches forward packets (chunks of data)
 
--   Internet: network of networks
+-   [[Internet]]: network of networks
 
     -   Interconnected ISPs
 
--   Core of the internet: touch other routers
+-   Core of the [[internet]]: touch other routers
 
--   Edge of the internet: touch user devices
+-   Edge of the [[internet]]: touch user devices
 
 ## What's a protocol
 
@@ -36,7 +36,7 @@
 
     -   Provides programming interface to apps
 
-        -   Hooks allow sending and receiving applications to connect to Internet
+        -   Hooks allow sending and receiving applications to connect to [[Internet]]
 
         -   Provides service options (some need to be faster/more accurate than others)
 
@@ -106,7 +106,7 @@
 
     -   Dprop = d/s
 
--   Internet Protocol Stack
+-   [[Internet]] Protocol Stack
 
     -   Application: support network apps (FTP, HTTP)
 
@@ -120,7 +120,7 @@
 
 ## TCP and UDP
 
--   Internet transport protocol services
+-   [[Internet]] transport protocol services
 
     -   TCP
 

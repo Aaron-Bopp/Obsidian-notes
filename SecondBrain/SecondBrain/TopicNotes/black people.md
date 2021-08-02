@@ -4,18 +4,18 @@ note-type:
 - evergreen-note
 - topic-note
 aliases:
-- 
+- african american
 embedded:
 - 
 ---
  
-##### [[self-perception]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+##### [[black people]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
- [[Self-perception]] is the way that you view yourself externally and it may be instep or out of step with the way your view yourself internally, or your [[self-image]]. This [[perception]] may be based in reality but it is often influenced by societal pressures, [[inter-personal communication]], [[gender dysphoria]], or [[body dysmorphia]]
+ Unlike first amendment rights, 
 **Status**:: #EVER/SEED 
-**Related-Topics**:: [[self]]
+**Related-Topics**::
 **Last Edited**:: *`=this.file.mtime`*
-##### [[self-perception]] `=length(this.file.inlinks)` 
+##### [[black people]] `=length(this.file.inlinks)` 
 - 
 
 ### <hr class="dataviews"/>

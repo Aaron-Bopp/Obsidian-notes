@@ -66,7 +66,7 @@
 
     -   Euripides (c. 485-406)
 
-        -   *Medea* -- topic subjection of women
+        -   *Medea* -- topic subjection of [[women]]
 
         -   *The Bacchae*
 
@@ -74,7 +74,7 @@
 
     -   Separate Competition
 
-    -   Women
+    -   [[Women]]
 
     -   All Male Cast
 

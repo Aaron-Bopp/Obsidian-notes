@@ -1,6 +1,6 @@
 Chapter 6 Review Questions:
 
-R14: it connects radio networks to the internet
+R14: it connects radio networks to the [[internet]]
 
 R15: it controls the cell towers and it combines circuit switching and mobile station switching
 

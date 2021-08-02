@@ -17,7 +17,7 @@ This is a compilation of reported medical transition changes collected from test
 **Note that this is a list of _possible_ changes. There is no guarantee that every person on feminizing HRT will experience all of these. Your age, genetics, medical history, degree of masculinization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness – every body is different – and some things can take years to appear.**
 
 ### Breast Growth 
-Despite public perceptions, the majority of transfems do not pursue breast augmentation, as it often isn’t necessary (and for many, is not within reach). Every human is born with breast tissue, it simply remains inactive without estrogen to make it grow. Development typically takes 2-5 years, but can continue for more than ten years, just as it does for cisgender women.
+Despite public perceptions, the majority of transfems do not pursue breast augmentation, as it often isn’t necessary (and for many, is not within reach). Every human is born with breast tissue, it simply remains inactive without estrogen to make it grow. Development typically takes 2-5 years, but can continue for more than ten years, just as it does for cisgender [[women]].
 
 Expect aches and pains in the chest, along with lots of tenderness, in the area surrounding and behind the areola. Avoid bumping into anything, as it _will_ hurt. Nipples and areolas will become much more sensitive while also becoming larger and darker. You’ll want to invest in some sports bras.
 
@@ -46,7 +46,7 @@ Fingernails are made of keratin, and many keratin genes are activated by androge
 Do not expect a total cessation of body hair, once the follicles are made terminal by DHT they remain that way. However, much like fingernails, hair thickness is an expression of keratin genes activated by androgens. Removing testosterone causes the body hairs to become thinner and lighter. Genetics plays a major role in this, however.
 
 ### Changes in Body Temperature Placement 
-Androgens encourage extra blood flow to extremities, making them warmer. Because of this, women tend to have warmer core temperatures but lower oral and surface level temperatures. You may see your basal body temperature drop to around 97.6.
+Androgens encourage extra blood flow to extremities, making them warmer. Because of this, [[women]] tend to have warmer core temperatures but lower oral and surface level temperatures. You may see your basal body temperature drop to around 97.6.
 
 This unfortunately results in a reduced tolerance to cold, so expect to need to layer clothing more frequently, especially since many buildings [set their thermostats for male comfort levels](https://www.popsci.com/study-finds-gender-bias-office-air-conditioning/).
 
@@ -178,7 +178,7 @@ Orgasm changes significantly, both in the way it builds and how it is experience
 It is [not at all unheard of](https://www.them.us/story/sexual-attraction-after-transition) for a [[transgender]] person to experience a change in their sexual orientation with transition. This is almost always the result of the removal of [[self]]-imposed mental barriers, but hormone therapy often plays a role _in_ that removal. In most cases this simply involves an expansion of ones attraction, from monosexual to bi/pansexual, but some people also discover that their attraction was largely rooted in [[self]]-interest and that their true attraction is reversed.
 
 ### Cyclical Period-like Symptoms 
-Obviously, we do not mean blood flow, that would be ludicrous. Symptoms vary greatly (just as they do in cisgender women) and typically last for 2-4 days, repeating every 26-32 days (though some report experiencing it bi-weekly). This happens independent of medication dosing schedules. The use of a period tracker app like Clue can reveal the pattern.
+Obviously, we do not mean blood flow, that would be ludicrous. Symptoms vary greatly (just as they do in cisgender [[women]]) and typically last for 2-4 days, repeating every 26-32 days (though some report experiencing it bi-weekly). This happens independent of medication dosing schedules. The use of a period tracker app like Clue can reveal the pattern.
 
 -   Cramping in the intestine and abdominal muscles, ranging from a slight flutter in the gut to strong painful spasms.
 -   Bloating and water retention
@@ -196,7 +196,7 @@ Obviously, we do not mean blood flow, that would be ludicrous. Symptoms vary gre
 -   Spontaneous shifts in libido
 -   Changes in genital odor
 
-No, there have not yet been studies on this yet, but it is reported by far, **far** too many individuals to be an anomaly (including by yours truly), and has been confirmed by multiple people’s own doctors. There is also precedent of this happening with cisgender women who have had hysterectomies (I personally know two cisgender women who have cycles but do not menstruate, without any medical intervention).
+No, there have not yet been studies on this yet, but it is reported by far, **far** too many individuals to be an anomaly (including by yours truly), and has been confirmed by multiple people’s own doctors. There is also precedent of this happening with cisgender [[women]] who have had hysterectomies (I personally know two cisgender [[women]] who have cycles but do not menstruate, without any medical intervention).
 
 Running on estrogen and progesterone activates a gene sequence which instructs the hypothalamus to attempt to cycle ovary and uterine behavior just as it does in female assigned individuals, regardless of the absence of ovaries or a uterus. This cycle affects numerous organs and subsystems in the body, causing the release of a variety of different hormones and enzymes that can affect function and even behavior.
 

@@ -62,7 +62,7 @@
 
         iv. Michigan State research
 
-            1.  Black people murder rates are much higher than any other race
+            1.  [[Black people]] murder rates are much higher than any other race
 
             2.  This is because of many different reasons
 

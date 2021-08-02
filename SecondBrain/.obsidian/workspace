@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8e7067836d93c426",
+        "id": "7b907424ad649d8a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/anti-science.md",
+            "file": "SecondBrain/TopicNotes/Cultural Fundamentalism.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/anti-science.md",
+                "file": "SecondBrain/TopicNotes/Cultural Fundamentalism.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/anti-science.md",
+                "file": "SecondBrain/TopicNotes/Cultural Fundamentalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/TopicNotes/anti-science.md"
+                "file": "SecondBrain/TopicNotes/Cultural Fundamentalism.md"
               }
             }
           },
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/anti-science.md",
+                "file": "SecondBrain/TopicNotes/Cultural Fundamentalism.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -234,17 +235,17 @@
     "width": 1168,
     "collapsed": true
   },
-  "active": "8e7067836d93c426",
+  "active": "7b907424ad649d8a",
   "lastOpenFiles": [
-    "SecondBrain/TopicNotes/anti-science.md",
-    "anti-vax.md",
-    "anti-science.md",
-    "SecondBrain/EvergreenNotes/Creationism built an anti-science culture.md",
-    "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md",
-    "SecondBrain/EvergreenNotes/The anti-vax movement is based off a white lie.md",
-    "SecondBrain/EvergreenNotes/Rise of Conspiracy Culture.md",
-    "SecondBrain/EvergreenNotes/Rise of Conservatism.md",
-    "SecondBrain/INDEX.md",
-    "Untitled.md"
+    "SecondBrain/TopicNotes/Cultural Fundamentalism.md",
+    "SecondBrain/TopicNotes/white supremacy.md",
+    "McCarthyism is an attack on totalitarianism not communism.md",
+    "SecondBrain/TopicNotes/Rise of Conservatism.md",
+    "SecondBrain/ContentNotes/McCarthyism sources.md",
+    "SecondBrain/ContentNotes/Second Red Scare Discussion.md",
+    "Untitled.md",
+    "SecondBrain/TopicNotes/women.md",
+    "SecondBrain/EvergreenNotes/The injustice of endurance.md",
+    "SecondBrain/TopicNotes/business.md"
   ]
 }

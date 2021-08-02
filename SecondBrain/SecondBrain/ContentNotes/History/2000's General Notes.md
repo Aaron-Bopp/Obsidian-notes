@@ -77,7 +77,7 @@ bib:
         - health care [[reform]]
             - [[Obama]] insisted on budget neutral [[reform]]
         - legislation
-            - equal pay for women
+            - equal pay for [[women]]
             - dodd-frank act - addressed issues that caused 2008
     - Election of 2010
         - [[Republican]]s retook both houses
