@@ -17,7 +17,8 @@ testing
 **Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[self-actualization]] `=length(this.file.inlinks)` 
-- 
+- [[Faith can be a useful tool for grounding yourself]]
+- [[selfless]]
 
 ### <hr class="dataviews"/>
 

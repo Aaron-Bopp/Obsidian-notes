@@ -27,7 +27,7 @@ note-type:
 - [[mental disorders]]
 	- ![[anxiety#this file link length this file inlinks]]
 	- ![[ADHD#ADHD length ADHD file inlinks]]
-	- ![[trauma#trauma length trauma file inlinks]]
+	- ![[trauma#trauma length this file inlinks]]
 - ![[self-improvement#self-improvement length this file inlinks]]
 - Techniques to improve mental health
 	- [[Tips for concentration]]
@@ -66,8 +66,14 @@ const statusDict = {
 	"SEED":2
 }
 const statusLevel = (status) => {
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
+	}
+	return 0
 }
 //includes first called file as last element
 function getEmbeds(name){
@@ -95,7 +101,7 @@ function notLinkedPages(folder) {
 function contentNotesTable(folder) {
 	let pages = notLinkedPages(folder)
 	if (pages.length > 0) {
-		dv.table([folder, "i/o", "edited", "created"], 
+		dv.table([folder, "I/O", "Edited", "Created"], 
 			pages
 			.map(p => [p.file.link, getIO(p.file), p.file.mtime, formatDate(p["creation date"])]))
 	}

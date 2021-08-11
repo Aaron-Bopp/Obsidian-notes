@@ -18,7 +18,7 @@ embedded:
 - [[How Neuroscience impacts our daily lives]]
 	- [[Complex emotions are intellectual understandings of primal urges]]
 	- [[neurodivergency]]
-- ![[social fitness#this file link length this file inlinks]]
+- ![[socialization#this file link length this file inlinks]]
 - [[The brain is powerful enough to create supernatural experiences]]
 
 ### <hr class="dataviews"/>

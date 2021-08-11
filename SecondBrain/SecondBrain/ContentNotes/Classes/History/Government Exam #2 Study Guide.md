@@ -181,7 +181,7 @@ B. Key terms/concepts
 
 \-- "The System": heavily policing poor areas and the arrest of poor people... bail realities (see reading); under-resourced public defenders; prosecutors' and plea bargains; inmates being billed for room and board while behind bars means emerging from prison with [[debt]]; parole officers requiring payment for prison-related debt\...
 
-D. Police Militarization \-- How does this affect civil-police relations. How does this affect the delivery of [[search]] warrants?
+D. Police Militarization \-- How does this affect civil-police relations. How does this affect the delivery of [[SEARCH]] warrants?
 
 1.  What does Ferguson teach us about select community-police relations, police practices and racial issues in [[America]]?
 

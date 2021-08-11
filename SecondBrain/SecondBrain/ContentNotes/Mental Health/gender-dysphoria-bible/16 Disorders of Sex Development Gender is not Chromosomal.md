@@ -80,7 +80,7 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 [It means you may be genetically male or female, chromosomally male or female, hormonally male/female/non-binary, with cells that may or may not hear the male/female/non-binary call, and all this leading to a body that can be male/non-binary/female.
 ](https://twitter.com/RebeccaRHelm/status/1207838570276372480)
 
-[Biological sex is complicated. Before you discriminate against someone on the basis of “biological sex” & [[identity]], ask yourself: have you seen YOUR chromosomes? Do you know the genes of the people you [[love]]? The hormones of the people you work with? The state of their cells?
+[Biological sex is complicated. Before you discriminate against someone on the basis of “biological sex” & [[self]], ask yourself: have you seen YOUR chromosomes? Do you know the genes of the people you [[love]]? The hormones of the people you work with? The state of their cells?
 ](https://twitter.com/RebeccaRHelm/status/1207839986801922048)
 
 [Of course you could try appealing to the numbers. “Most people are either male or female” you say. Except that as a biologist professor I will tell you...

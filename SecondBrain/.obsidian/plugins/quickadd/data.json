@@ -68,33 +68,6 @@
       "appendLink": false,
       "incrementFileName": false,
       "openFile": true
-    },
-    {
-      "id": "23b31891-e01b-4d3d-9189-ac3120e09af4",
-      "name": "add footnote",
-      "type": "Capture",
-      "command": false,
-      "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": true,
-      "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": true,
-        "format": "[^{{VALUE}}]:"
-      },
-      "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "prepend": false,
-      "task": false
     }
   ],
   "macros": []

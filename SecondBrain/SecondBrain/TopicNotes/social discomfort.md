@@ -13,7 +13,7 @@ parent: [[anxiety]]
 
 **Last Edited**:: *`=this.file.mtime`*
 ##### `=this.file.link` `=length(this.file.inlinks)` 
-- [[social interaction]]
+- [[socialization]]
 	- [[social anxiety]]
 	- [[self-hate]]
 		- [[Your insecurity is just more avenues for your anxiety to take advantage of]]

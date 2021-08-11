@@ -16,6 +16,6 @@ With a small fear, we are often annoyed at it but for a large one, while we may 
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: [[mental health]], [[self-love]], [[ego]]
+**Related Topics**:: [[mental health]], [[self-love]], [[subconscious]]
 	
 **Last Edited**:: *`=this.file.mtime`*

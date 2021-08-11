@@ -9,13 +9,13 @@ embedded:
 - 
 ---
  
-##### [[ego]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+##### [[ego]] `=l[[subconscious]]his.file.inlinks) + length(this.file.outlinks)`
 
  Because
 **Status**:: #EVER/SEED 
 **Related-Topics**::
 **Last Edited**:: *`=this.file.mtime`*
-##### [[ego]] `=length(this.file.inlinks)` 
+##### [[ego]] `=length([[subconscious]]le.inlinks)` 
 - 
 
 ### <hr class="dataviews"/>

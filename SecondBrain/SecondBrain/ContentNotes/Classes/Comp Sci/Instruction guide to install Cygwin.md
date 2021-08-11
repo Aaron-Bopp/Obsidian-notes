@@ -1,6 +1,6 @@
 Instruction guide to install Cygwin
 
-1.  Open google and [[search]] for "Cygwin" in the [[search]] bar.
+1.  Open google and [[SEARCH]] for "Cygwin" in the [[SEARCH]] bar.
 
 > ![](media/image1.png){width="4.5739129483814525in" height="2.9243055555555557in"}
 
@@ -12,11 +12,11 @@ Instruction guide to install Cygwin
 
 ![](media/image5.png){width="4.75625in" height="2.991304680664917in"}
 
-4.  To select the packages. Click on full and in the [[search]] bar type "gcc" and download the gcc core package.
+4.  To select the packages. Click on full and in the [[SEARCH]] bar type "gcc" and download the gcc core package.
 
 ![](media/image11.png){width="6.5in" height="3.2284722222222224in"}
 
-5.  To install nano editor in the [[search]] bar type "nano" and install the latest version of the nano editor.
+5.  To install nano editor in the [[SEARCH]] bar type "nano" and install the latest version of the nano editor.
 
 ![](media/image13.png){width="6.5in" height="1.6597222222222223in"}
 

@@ -18,7 +18,7 @@ Blaming people for failing to rise above their situation is not only unfair, it 
 
 **Status**:: #EVER/SPROUT/WATER  
 
-**Related Topics**:: [[self-actualization]], [[social fitness]], [[social progress]], [[inter-personal communication]], [[empathy]]
+**Related Topics**:: [[self-actualization]], [[socialization]], [[social progress]], [[inter-personal communication]], [[empathy]]
 	
 **Last Edited**:: *`=[[You can't blame people for failing to rise above their circumstances]].file.mtime`*
 	

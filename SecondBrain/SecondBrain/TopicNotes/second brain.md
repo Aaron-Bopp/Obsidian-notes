@@ -71,8 +71,14 @@ const statusDict = {
 	"SEED":2
 }
 const statusLevel = (status) => {
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
+	}
+	return 0
 }
 //includes first called file as last element
 function getEmbeds(name){

@@ -16,7 +16,7 @@ It's a lot easier to understand why somebody did something rather than twist and
 
 **Status**:: #EVER/SEED/WATER 
 
-**Related Topics**:: [[social fitness]], [[inter-personal communication]]
+**Related Topics**:: [[socialization]], [[inter-personal communication]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

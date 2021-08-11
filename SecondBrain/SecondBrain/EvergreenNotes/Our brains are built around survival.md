@@ -8,7 +8,7 @@ note-type:
 
 ###### [[Our brains are built around survival]] `=length([[Our brains are built around survival]].file.inlinks) + length([[Our brains are built around survival]].file.outlinks)`
 
-This is a biological fact, reinforced by [[social fitness]]
+This is a biological fact, reinforced by [[socialization]]
 
 [[Human's have an inability to admit that they are wrong]] is a part of this survival
 

@@ -6,6 +6,7 @@ note-type:
 - topic-note
 aliases:
 - consciousness
+- consciously
 ---
  
 ##### [[conscious]] `=length(this.file.inlinks) + length(this.file.outlinks)`

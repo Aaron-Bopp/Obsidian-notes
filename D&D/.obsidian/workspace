@@ -4,12 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "c418e5197a7e5867",
+        "id": "f0dd01c3724e4130",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "D&D/Misc/Player's Guide.pdf"
+          }
         }
+      },
+      {
+        "id": "323aaef29c8577a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "D&D/Misc/Adelade.md",
+            "mode": "source"
+          }
+        },
+        "group": "e1786a24095e28e5"
+      },
+      {
+        "id": "7362d2c8ff5ea77c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "D&D/Misc/Adelade.md",
+            "mode": "preview"
+          }
+        },
+        "group": "e1786a24095e28e5"
       }
     ],
     "direction": "vertical"
@@ -51,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Wildemount/Pantheon of Exandria/Bane.md",
+                "file": "D&D/Misc/Adelade.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -63,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Wildemount/Pantheon of Exandria/Bane.md"
+                "file": "D&D/Misc/Adelade.md"
               }
             }
           },
@@ -92,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Wildemount/Pantheon of Exandria/Bane.md",
+                "file": "D&D/Misc/Adelade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Wildemount/Pantheon of Exandria/Bane.md",
+                "file": "D&D/Misc/Adelade.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,17 +232,17 @@
     "width": 962,
     "collapsed": true
   },
-  "active": "c418e5197a7e5867",
+  "active": "7362d2c8ff5ea77c",
   "lastOpenFiles": [
+    "D&D/Misc/Adelade.md",
+    "Sandpoint.md",
+    "D&D/Player's Guide.pdf",
+    "Oliver Schreiber, Retainer to the Crown.md",
+    "Attachments/Priestess_of_Calistria.jpg",
     "D&D/Wildemount/Pantheon of Exandria/Bane.md",
     "D&D/Wildemount/Pantheon of Exandria/Kord.md",
     "D&D/Wildemount/Pantheon of Exandria/Melora.md",
     "D&D/Wildemount/Pantheon of Exandria/Naviask.md",
-    "D&D/Wildemount/Pantheon of Exandria/Uk’otoa.md",
-    "D&D/Wildemount/Pantheon of Exandria/The Hag Mother.md",
-    "D&D/Wildemount/Pantheon of Exandria/The Traveler.md",
-    "D&D/Wildemount/Pantheon of Exandria.md",
-    "D&D/Wildemount/INDEX.md",
-    "D&D/Wildemount/Character Options/Heroic Chronicle.md"
+    "D&D/Wildemount/Pantheon of Exandria/Uk’otoa.md"
   ]
 }

@@ -12,8 +12,8 @@ source: https://www.youtube.com/watch?v=FjrjZh1Nris
 bib:
 ---
 
-- [[ego]] is the part of the you that is aware of yourself and is purely in the present
-- [[identity]] takes into account the past and the future
+- [[subconscious]] is the part of the you that is aware of yourself and is purely in the present
+- [[self]] takes into account the past and the future
 
 ---
 
@@ -45,8 +45,8 @@ source: https://www.youtube.com/watch?v=FjrjZh1Nris
 bib:
 ---
 
-- [[ego]] is the part of the you that is aware of yourself and is purely in the present
-- [[identity]] takes into account the past and the future
+- [[subconscious]] is the part of the you that is aware of yourself and is purely in the present
+- [[self]] takes into account the past and the future
 
 ---
 

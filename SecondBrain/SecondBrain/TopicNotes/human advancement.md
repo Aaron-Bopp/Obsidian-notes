@@ -7,14 +7,17 @@ aliases:
 - 
 ---
  
-##### `=this.file.link` `=length(this.file.inlinks) + length(this.file.outlinks)`
+##### [[human advancement]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 - 
 
 **Status**:: #EVER/SEED
 
 **Last Edited**:: *`=this.file.mtime`*
-##### `=this.file.link` `=length(this.file.inlinks)` 
-- 
+##### [[human advancement]] `=length(this.file.inlinks) - 2` 
+- [[Our brains are built around survival]]
+	- How the [[subconscious]] affects our survival
+		- [[Human's have an inability to admit that they are wrong]]
+		- [[Human's will find explanations for inexplainable things]]
 
 ### <hr class="dataviews"/>
 

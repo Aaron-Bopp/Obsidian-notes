@@ -108,7 +108,7 @@ bib:
             - Came right after US had been promised [[war]] was ending soon
             - Fueled [[anti-war]] sentiment
         - My Lai Massacre
-            - Infamous [[search]] and destroy mission
+            - Infamous [[SEARCH]] and destroy mission
             - American soldiers massacred [[Vietnam]] civilians
                 - Guerilla Warfare made some American soldiers indifferent to [[Vietnam|Vietnamese]] [[suffering]]
             - [[Pentagon]] investigation ordered

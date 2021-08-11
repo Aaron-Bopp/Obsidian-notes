@@ -321,7 +321,7 @@
 [[Cuba]]:
 - Cuban
 
-[[Cultural Fundamentalism]]:
+[[white supremacy]]:
 
 [[Czechoslovakia]]:
 
@@ -637,7 +637,7 @@
 
 [[Loving a a non-believer requires loving the fact that they are going to hell]]:
 
-[[MAGA is built of nostalgia not facts]]:
+[[MAGA is built off nostalgia not facts]]:
 
 [[MLK]]:
 - Martin Luther King
@@ -1105,7 +1105,7 @@
 
 [[education]]:
 
-[[ego]]:
+[[subconscious]]:
 
 [[emotional invalidation]]:
 
@@ -1174,7 +1174,7 @@
 
 [[human survival]]:
 
-[[identity]]:
+[[self]]:
 
 [[ignorance]]:
 
@@ -1329,9 +1329,9 @@
 
 [[social discomfort]]:
 
-[[social fitness]]:
+[[socialization]]:
 
-[[social interaction]]:
+[[socialization]]:
 
 [[social justice]]:
 

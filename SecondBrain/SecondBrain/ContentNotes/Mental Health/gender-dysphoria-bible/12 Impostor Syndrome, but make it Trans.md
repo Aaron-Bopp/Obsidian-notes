@@ -36,7 +36,7 @@ On top of this, the constant messaging from transphobic [[media]] that [[transge
 
 Furthermore, due to a history of transphobic abuse, many [[transgender|trans]] people suffer from damaged [[self]]-esteems, and often already have difficulty with [[self]] doubts. [[gender dysphoria]] also causes [[depression]], which further contributes to and reinforces those doubts. This all leads into a massive cluster of [[self]] invalidation that can lead someone to struggle over and over again to accept their own [[gender identity]].
 
-==But here’s the thing… only [[transgender|trans]] people are worried about if they are actually [[transgender]]!== A cisgender person does not have this obsession with their [[identity]], they think about it, they process it, they move on. If you keep returning to these thoughts over and over again, this is your brain telling you that you took a wrong turn.
+==But here’s the thing… only [[transgender|trans]] people are worried about if they are actually [[transgender]]!== A cisgender person does not have this obsession with their [[self]], they think about it, they process it, they move on. If you keep returning to these thoughts over and over again, this is your brain telling you that you took a wrong turn.
 
 The world is _full_ of influences put in place to fill us with doubt and keep us from breaking outside of the established social order. These are some of the systems and ideologies that seek to invalidate [[transgender|trans]] people and keep us from [[self]]-actualizing.
 
@@ -90,10 +90,10 @@ If you feel like you are not a binary woman, than you are not a binary woman. Ci
 ### Toxic Masculinity 
 Male-assigned kids grow up positively drenched in messaging of what it is to “be a man”. There are so few examples of positive masculinity in popular [[media]], and AMAB Masculine Enbies are also so commonly erased in [[transgender|trans]] representation that being a genderqueer male can feel very lonely. [[Yes]] ==AMAB Enbies are often either grouped in with [[Queer|gay]] cis men or treated like [[transgender|trans]] [[women]].==
 
-You can just be genderqueer! Your [[identity]] is valid!
+You can just be genderqueer! Your [[self]] is valid!
 
 ### Transmedicalism 
-This one hits _everybody_. Transmedicalism (aka Truetrans) is a [[transgender]] ideology derived from the Harry Benjamin scale (ranks 5 and 6). It seeks to reinforce the pre-WPATH rules, requiring intense physical dysphoria, demanding medical transition, and often invalidating all [[non-binary]] identities. At its core, transmedicalism is a supremacist concept, elevating binary [[transgender|trans]] people above the needs of any other [[gender identity]], and a push back against the expansion of the [[transgender]] [[identity]]. They wish for more gatekeeping than we have today, rail against enbies using the [[transgender]] label, and would prefer to see fewer people receive treatment for their [[gender dysphoria]].
+This one hits _everybody_. Transmedicalism (aka Truetrans) is a [[transgender]] ideology derived from the Harry Benjamin scale (ranks 5 and 6). It seeks to reinforce the pre-WPATH rules, requiring intense physical dysphoria, demanding medical transition, and often invalidating all [[non-binary]] identities. At its core, transmedicalism is a supremacist concept, elevating binary [[transgender|trans]] people above the needs of any other [[gender identity]], and a push back against the expansion of the [[transgender]] [[self]]. They wish for more gatekeeping than we have today, rail against enbies using the [[transgender]] label, and would prefer to see fewer people receive treatment for their [[gender dysphoria]].
 
 To put it succinctly, many transmedicalists hate that the newer generation “has it so easy,” despite the fact that many of their ranks are part of that generation. This ideology started among disgruntled [[transgender|trans]] elders, but has since spread to other binary individuals, particularly among young [[transgender|trans]] men.
 

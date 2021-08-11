@@ -23,6 +23,6 @@ Monster of the Week is a [[TTRPG]] that aims to create condensed and succinct ad
 
 **Related-Topics**:: [[DnD]], [[TTRPG]], [[role-playing]] 
 	
-**Sub-Topics**::  [[improv]], [[acting]], [[social interaction]], [[inter-personal communication]]
+**Sub-Topics**::  [[improv]], [[acting]], [[socialization]], [[inter-personal communication]]
 
 **References**::

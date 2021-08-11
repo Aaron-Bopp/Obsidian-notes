@@ -14,7 +14,7 @@ note-type:
 
 **Status**:: #EVER/SEED 
 
-**Related-Topics**:: [[human advancement]], [[Neuroscience]], [[social fitness]], [[self-care|self-validation]], [[self-care|self-soothing]]
+**Related-Topics**:: [[human advancement]], [[Neuroscience]], [[socialization]], [[self-care|self-validation]], [[self-care|self-soothing]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

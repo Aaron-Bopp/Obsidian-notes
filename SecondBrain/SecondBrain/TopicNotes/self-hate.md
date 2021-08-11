@@ -16,7 +16,9 @@ embedded:
 **Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[self-hate]] `=length(this.file.inlinks)` 
-- 
+- [[Self-hatred is born out of dissonance between self-image and self-perception]]
+- [[I have a stored up emotion of hating myself]]
+- [[Constantly working on yourself is a form a self-hatred]]
 
 ### <hr class="dataviews"/>
 

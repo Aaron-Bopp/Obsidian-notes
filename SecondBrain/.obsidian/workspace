@@ -4,12 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "7b907424ad649d8a",
+        "id": "79cb594a64c172e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/Cultural Fundamentalism.md",
+            "file": "SecondBrain/TopicNotes/socialization.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e3fe200a8a40f3ad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Anger fuels change.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7a6c103ebbdc5aa4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/EvergreenNotes/The nature of happiness is not doing what you love its detachment from the decisions of the life.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "be03f1862fbbbf07",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/EvergreenNotes/Bhuddism is the study of happiness through detachment.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "57b9249934155129",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/EvergreenNotes/Gender Dysphoria is based in a intrinisc wrongness of self.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "31782a46dfcec96a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/EvergreenNotes/I thought negative emotions were natural and that positive emotions weren't real.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a0e107d1e3fc67af",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
             "mode": "source"
           }
         }
@@ -39,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER/GREEN/GROWING",
+                "query": "tag:#EVER/SEED",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/Cultural Fundamentalism.md",
+                "file": "SecondBrain/TopicNotes/socialization.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -71,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/Cultural Fundamentalism.md",
+                "file": "SecondBrain/TopicNotes/socialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,16 +160,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/TopicNotes/Cultural Fundamentalism.md"
+                "file": "SecondBrain/TopicNotes/socialization.md"
               }
-            }
-          },
-          {
-            "id": "340140ab0d5e95ed",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-matrix",
-              "state": {}
             }
           }
         ],
@@ -127,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/Cultural Fundamentalism.md",
+                "file": "SecondBrain/TopicNotes/socialization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -224,7 +282,23 @@
             "id": "673b03d08890f4aa",
             "type": "leaf",
             "state": {
-              "type": "chat",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "486816fac6580f7c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c01c45086b3ecb2",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
               "state": {}
             }
           }
@@ -235,17 +309,17 @@
     "width": 1168,
     "collapsed": true
   },
-  "active": "7b907424ad649d8a",
+  "active": "79cb594a64c172e5",
   "lastOpenFiles": [
-    "SecondBrain/TopicNotes/Cultural Fundamentalism.md",
-    "SecondBrain/TopicNotes/white supremacy.md",
-    "McCarthyism is an attack on totalitarianism not communism.md",
-    "SecondBrain/TopicNotes/Rise of Conservatism.md",
-    "SecondBrain/ContentNotes/McCarthyism sources.md",
-    "SecondBrain/ContentNotes/Second Red Scare Discussion.md",
-    "Untitled.md",
-    "SecondBrain/TopicNotes/women.md",
-    "SecondBrain/EvergreenNotes/The injustice of endurance.md",
-    "SecondBrain/TopicNotes/business.md"
+    "SecondBrain/TopicNotes/socialization.md",
+    "SecondBrain/EvergreenNotes/Journal.md",
+    "SecondBrain/EvergreenNotes/Your insecurity is just more avenues for your anxiety to take advantage of.md",
+    "Optimism isn't ignorance, it's hope.md",
+    "SecondBrain/TopicNotes/social interaction.md",
+    "SecondBrain/TopicNotes/human advancement.md",
+    "SecondBrain/TopicNotes/social fitness.md",
+    "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
+    "Realism must acknowledge optimism's existence.md",
+    "Optimism isn't realism, it's hope.md"
   ]
 }

@@ -14,7 +14,7 @@ note-type:
 
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: [[social anxiety]], [[identity]]
+**Related-Topics**:: [[social anxiety]], [[self]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

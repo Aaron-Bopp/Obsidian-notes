@@ -17,7 +17,8 @@ embedded:
 **Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[self-love]] `=length(this.file.inlinks)` 
-- 
+- [[Repressed identity creates a mistrust of self-love and self-esteem]]
+
 
 ### <hr class="dataviews"/>
 

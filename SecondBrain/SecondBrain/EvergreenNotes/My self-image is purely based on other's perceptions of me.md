@@ -1,14 +1,13 @@
 ---
 creation date: 2021-06-11
-modification date: Friday 11th June 2021 21:17:53
 note-type:
 - personal-note
 - evergreen-note
 ---
 
-###### [[My self-image is purely based on other's perceptions of me]] `=length([[My self-image is purely based on other's perceptions of me]].file.inlinks) + length([[My self-image is purely based on other's perceptions of me]].file.outlinks)`
+##### [[My self-image is purely based on other's perceptions of me]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
-This is a bit part of [[My relationship with my parents]] 
+This is a bit part of [[My relationship with my parents]]. From an early age, [[A mismatch between your self-image and the way others percieve you destroys self-image]] caused me to not trust my own experience of the world because as a [[transgender|trans]] person, my [[self-image]] or my gender was wholly different than the gender that was expected of me.
 
 This really impacted my [[social anxiety]] because [[Your anxiety knows your insecurities better than you do]].
 

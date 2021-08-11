@@ -14,10 +14,10 @@ bib:
 
 ### [Healing from Festered Emotions](https://www.youtube.com/watch?v=sXGhT4pJcj8)
 
-- There is the emotional mind, the intellectual mind and the [[ego]]
-    - if you don't know who you are where does your sense of [[identity]] come from --> others
-    - one function of [[ego]] is to compare
-    - #Ref/DrK "[[ego]] is when the sense of [[self]] comes from the outside"
+- There is the emotional mind, the intellectual mind and the [[subconscious]]
+    - if you don't know who you are where does your sense of [[self]] come from --> others
+    - one function of [[subconscious]] is to compare
+    - #Ref/DrK "[[subconscious]] is when the sense of [[self]] comes from the outside"
 - #TO/PONDER/ME  Is my vacuum of [[self]] filled with my intelligence?
 - #Def Alexithymia - someone who is colorblind to emotion
     - Men are socially developed to suppress emotions except for anger

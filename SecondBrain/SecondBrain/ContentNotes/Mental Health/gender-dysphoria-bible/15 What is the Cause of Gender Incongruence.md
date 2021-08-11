@@ -17,7 +17,7 @@ The contents of this site will change over time as new additions and revisions a
 
 To put it bluntly: We don’t know, not firmly. Science and modern psychology has proven that it is **not** caused by nurture; no one _becomes_ [[transgender]], [[gender identity]] is congenital, solidifying before we even exit the womb. It also appears to sometimes be hereditary; [[transgender]] [[parents]] have a higher likelihood of having [[transgender]] children, and many times they realize this in reverse. The child comes out to the parent, and that helps the parent realize they can come out as well.
 
-Here is the science that is believed to influence [[gender identity]]. This does not mean that it _defines_ [[gender identity]], nor does it fully encapsulate one’s gender, as so many aspects of gender are cultural and social. None of this is prescriptive of a person’s [[identity]], none of it is cast in stone.
+Here is the science that is believed to influence [[gender identity]]. This does not mean that it _defines_ [[gender identity]], nor does it fully encapsulate one’s gender, as so many aspects of gender are cultural and social. None of this is prescriptive of a person’s [[self]], none of it is cast in stone.
 
 If you’ve seen Jurassic Park then you may remember this scene:
 

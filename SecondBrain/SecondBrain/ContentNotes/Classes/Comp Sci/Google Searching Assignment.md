@@ -1,6 +1,6 @@
 **Foundations of Computing**
 
-**Google [[Search]] Assignment**
+**Google [[SEARCH]] Assignment**
 
 1.  What the current rainfall (precipitation) in San Francisco, California? Is this above or below the normal rainfall?
 
@@ -14,7 +14,7 @@
 
     b.  May 6, 1953 in Edinburgh, [[Britain|United Kingdom]]
 
-3.  Experiment with a voice Google [[search]] (Use the microphone icon on a Google [[search]] page). Describe what you searched for and what your experience was like.
+3.  Experiment with a voice Google [[SEARCH]] (Use the microphone icon on a Google [[SEARCH]] page). Describe what you searched for and what your experience was like.
 
     a.  I searched for the weather today and it brought up a nice little widget that had all the information I needed
 
@@ -22,7 +22,7 @@
 
     a.  rheumatoid arthritis
 
-5.  Conduct a Google [[search]] using the Google feature "define [imprecate](https://www.merriam-webster.com/word-of-the-day/imprecate-2017-02-02)". Describe what happened when you used the term "define" in front of the term? What does imprecate mean?
+5.  Conduct a Google [[SEARCH]] using the Google feature "define [imprecate](https://www.merriam-webster.com/word-of-the-day/imprecate-2017-02-02)". Describe what happened when you used the term "define" in front of the term? What does imprecate mean?
 
     a.  it gives a nice box with the definition: utter (a curse) or invoke (evil) against someone or something
 
@@ -41,7 +41,7 @@
 
     a.  3.84 pound sterling
 
-8.  [[Search]] for the incomplete quote. "Don't count the \*, make the \* count"? What is the quote and who said it?
+8.  [[SEARCH]] for the incomplete quote. "Don't count the \*, make the \* count"? What is the quote and who said it?
 
     a.  \'*Don\'t count the days, make the days count*.\'
 

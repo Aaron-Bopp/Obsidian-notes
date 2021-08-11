@@ -22,21 +22,21 @@ https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8
 	- Uhumgar arises as as defense mechanism
 	- takes negative emotion and tries to get rid of it
 - [04:12](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8#t=252.43009295040895)
-	- [[ego]] builds up your [[identity]]
-	- Uhumgar == [[ego]]
+	- [[subconscious]] builds up your [[self]]
+	- Uhumgar == [[subconscious]]
 - [04:47](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8#t=287.86191701244815)
-	- The mask we where in certain situations is a manifestation of [[ego]].
-		- [[Ego]] can impact authenticity, if being authentic works against the go it gets suppressed
+	- The mask we where in certain situations is a manifestation of [[subconscious]].
+		- [[subconscious]] can impact authenticity, if being authentic works against the go it gets suppressed
 - If you put on a mask you are trying to get approval in the future
 	- anything you do in the present is a preparing for the future
 - [09:08](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8#t=548.8713731983643)
-	- Is your job your [[identity]]?
-		- if you build your [[self-love]] around your job then it is part of your [[identity]]
+	- Is your job your [[self]]?
+		- if you build your [[self-love]] around your job then it is part of your [[self]]
 - [12:30](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8#t=750.1068872479553)
-	- Developed [[identity]] and sexual reproduction are linked
+	- Developed [[self]] and sexual reproduction are linked
 - [15:21](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8#t=921.2163206871949)
 	- [[Rejection Sensitivity]] 
-		- cognitive bias sense of [[identity]]
+		- cognitive bias sense of [[self]]
 			- must prove things that they believe about themselves to be true
 		- when someone presents you with positive data we reject it and negative data we accept it
 			- [[I thought negative emotions were natural and that positive emotions weren't real]]
