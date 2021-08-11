@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/socialization.md",
+            "file": "Contrapoints-Envy.md",
             "mode": "source"
           }
         }
@@ -79,6 +79,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "2a5e8f409a7f056c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Realism must acknowledge optimism's existence.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -120,9 +131,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/socialization.md",
-                "collapseAll": false,
-                "extraContext": true,
+                "file": "Contrapoints-Envy.md",
+                "collapseAll": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -137,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/socialization.md",
+                "file": "Contrapoints-Envy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/TopicNotes/socialization.md"
+                "file": "Contrapoints-Envy.md"
               }
             }
           }
@@ -185,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/socialization.md",
+                "file": "Contrapoints-Envy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -311,15 +322,15 @@
   },
   "active": "79cb594a64c172e5",
   "lastOpenFiles": [
+    "Contrapoints-Envy.md",
+    "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
+    "Realism must acknowledge optimism's existence.md",
+    "Untitled.md",
     "SecondBrain/TopicNotes/socialization.md",
     "SecondBrain/EvergreenNotes/Journal.md",
     "SecondBrain/EvergreenNotes/Your insecurity is just more avenues for your anxiety to take advantage of.md",
     "Optimism isn't ignorance, it's hope.md",
     "SecondBrain/TopicNotes/social interaction.md",
-    "SecondBrain/TopicNotes/human advancement.md",
-    "SecondBrain/TopicNotes/social fitness.md",
-    "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
-    "Realism must acknowledge optimism's existence.md",
-    "Optimism isn't realism, it's hope.md"
+    "SecondBrain/TopicNotes/human advancement.md"
   ]
 }

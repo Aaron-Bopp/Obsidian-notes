@@ -1,149 +1,72 @@
 {
   "collapse-filter": false,
-  "search": "path:D&D/Wildemount -file:aliases.md",
-  "showTags": true,
+  "search": "(-path:ContentNotes OR path:EvergreenNotes OR path:TopicNotes) -path:templates -file:aliases",
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"D&D/Wildemount/Stat Blocks\"",
+      "query": "organizational-note",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16772608
       }
     },
     {
-      "query": "path:\"D&D/Wildemount/Pantheon of Exandria\"",
+      "query": "topic-note",
       "color": {
         "a": 1,
-        "rgb": 16098048
+        "rgb": 6109956
       }
     },
     {
-      "query": "path:\"D&D/Wildemount/History of Wildemount\"",
+      "query": "personal-note",
       "color": {
         "a": 1,
-        "rgb": 10702884
+        "rgb": 14707926
       }
     },
     {
-      "query": "path:\"D&D/Wildemount/Magic Items\"",
+      "query": "tag:#EVER/GREEN",
       "color": {
         "a": 1,
-        "rgb": 3601135
+        "rgb": 31236
       }
     },
     {
-      "query": "path:\"D&D/Wildemount/Character Options/Races\"",
+      "query": "tag:#EVER/SPROUT",
       "color": {
         "a": 1,
-        "rgb": 15662848
+        "rgb": 3382065
       }
     },
     {
-      "query": "path:\"D&D/Wildemount/Character Options/Dunamancy Spells\"",
+      "query": "tag:#EVER/SEED",
       "color": {
         "a": 1,
-        "rgb": 3725311
+        "rgb": 8254725
       }
     },
     {
-      "query": "path:\"D&D/Wildemount/Character Options\"",
+      "query": "path:ContentNotes/",
       "color": {
         "a": 1,
-        "rgb": 16730895
-      }
-    },
-    {
-      "query": "path:\"D&D/Wildemount/Adventures in Wildemount\"",
-      "color": {
-        "a": 1,
-        "rgb": 609772
-      }
-    },
-    {
-      "query": "path:\"D&D/Wildemount/Wildemount Gazetteer/Blightshore\"",
-      "color": {
-        "a": 1,
-        "rgb": 2373892
-      }
-    },
-    {
-      "query": "path:\"D&D/Wildemount/Wildemount Gazetteer/Distant Lands of Exandria\"",
-      "color": {
-        "a": 1,
-        "rgb": 9626901
-      }
-    },
-    {
-      "query": "path:\"D&D/Wildemount/Wildemount Gazetteer/Eiselcross\"",
-      "color": {
-        "a": 1,
-        "rgb": 1211743
-      }
-    },
-    {
-      "query": "path:\"D&D/Wildemount/Wildemount Gazetteer/Greying Wildlands\"",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"D&D/Wildemount/Wildemount Gazetteer/Marrow Valley\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"D&D/Wildemount/Wildemount Gazetteer/Menagerie Coast\"",
-      "color": {
-        "a": 1,
-        "rgb": 2414235
-      }
-    },
-    {
-      "query": "path:\"D&D/Wildemount/Wildemount Gazetteer/Wastes of Xhorhas\"",
-      "color": {
-        "a": 1,
-        "rgb": 4417295
-      }
-    },
-    {
-      "query": "path:\"D&D/Wildemount/Wildemount Gazetteer/Zemni Fields\"",
-      "color": {
-        "a": 1,
-        "rgb": 2981143
-      }
-    },
-    {
-      "query": "path:\"D&D/Wildemount/Wildemount Gazetteer\"",
-      "color": {
-        "a": 1,
-        "rgb": 65322
-      }
-    },
-    {
-      "query": "path:\"D&D/Wildemount/Factions and Societies\"",
-      "color": {
-        "a": 1,
-        "rgb": 15402437
+        "rgb": 5400319
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.2,
-  "nodeSizeMultiplier": 0.820588235294118,
-  "lineSizeMultiplier": 0.388235294117647,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.43511235955056,
+  "lineSizeMultiplier": 0.581712473572939,
   "collapse-forces": false,
-  "centerStrength": 0.523529411764706,
+  "centerStrength": 0.37737843551797,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.07196657590494544,
-  "close": true
+  "linkDistance": 343,
+  "scale": 0.054592916698480286,
+  "close": false
 }

@@ -1,16 +1,16 @@
 {
-  "parentFieldName": "related-topics, parent, location",
-  "siblingFieldName": "sub-topics, sibling",
+  "parentFieldName": "related-topics, parent",
+  "siblingFieldName": "sub-topics",
   "childFieldName": "child",
   "indexNote": [
     "INDEX"
   ],
   "refreshIntervalTime": 0,
   "defaultView": true,
-  "showNameOrType": false,
+  "showNameOrType": true,
   "showRelationType": true,
   "showTrail": true,
-  "trailOrTable": 1,
+  "trailOrTable": 3,
   "gridHeatmap": false,
   "heatmapColour": "#EEEEEE",
   "showAll": true,
@@ -19,5 +19,12 @@
   "respectReadableLineLength": true,
   "wikilinkIndex": true,
   "debugMode": false,
-  "superDebugMode": false
+  "superDebugMode": false,
+  "gridDots": false,
+  "dotsColour": "#000000",
+  "visGraph": "Force Directed Graph",
+  "visRelation": "Parent",
+  "visClosed": "Real",
+  "visAll": "All",
+  "aliasesInIndex": false
 }

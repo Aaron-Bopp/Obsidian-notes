@@ -21,4 +21,3 @@ embedded:
 
 <% tp.file.include("[[DVJS-TOPICNOTLINKED]]") %>
 
-### <hr class="references"/>

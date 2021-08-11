@@ -17,6 +17,7 @@
   "noPathMessage": "This note has no real or implied parents",
   "trailSeperator": "→",
   "respectReadableLineLength": true,
+  "wikilinkIndex": true,
   "debugMode": false,
   "superDebugMode": false,
   "gridDots": false,
@@ -25,6 +26,5 @@
   "visRelation": "Parent",
   "visClosed": "Real",
   "visAll": "All",
-  "wikilinkIndex": true,
   "aliasesInIndex": false
 }

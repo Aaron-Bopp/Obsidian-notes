@@ -1,3 +1,26 @@
+---
+creation date: 2021-08-09
+note-type: 
+- evergreen-note
+- topic-note
+aliases:
+- 
+embedded:
+- 
+---
+ 
+##### [[purpose]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+
+
+
+**Status**:: #EVER/SEED 
+**Related-Topics**::
+**Last Edited**:: *`=this.file.mtime`*
+##### [[purpose]] `=length(this.file.inlinks)` 
+- 
+
+### <hr class="dataviews"/>
+
 #### Notes not yet in outline
 ```dataviewjs
 const thisFile = dv.pages().where(f => f.file.path == dv.current().file.path)[0]
@@ -80,3 +103,5 @@ statusTable("TopicNotes")
 statusTable("EvergreenNotes")
 contentNotesTable("ContentNotes")
 ```
+
+

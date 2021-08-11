@@ -9,5 +9,11 @@
   "Yin and Yang@@d-accent": "#E29ACE",
   "Yin and Yang@@base-h": 214,
   "Yin and Yang@@base-s": 47,
-  "Yin and Yang@@persistent-sb": true
+  "Yin and Yang@@persistent-sb": true,
+  "ITS@@dv": true,
+  "ITS@@slp": true,
+  "ITS@@v-non": true,
+  "ITS@@title-wrap": true,
+  "ITS@@writing": false,
+  "ITS@@h-rh": false
 }
