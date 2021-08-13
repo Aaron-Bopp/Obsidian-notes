@@ -20,7 +20,7 @@ The transition from life to becoming a Hollow One affects different people to di
 
 The Dungeon Master has the option to allow a character created in a [[Wildemount]] campaign to be a Hollow One. Alternatively, a character who perishes in the course of a campaign might return as a Hollow One, created by the mysterious forces that scar the land.
 
-As a Hollow One, the void left behind by your departed soul is filled with the strange magic of [[Blightshore]]. Becoming a Hollow One is a supernatural gift (see “[Supernatural Gifts](https://www.dndbeyond.com/sources/dmg/other-rewards#SupernaturalGifts "Supernatural Gifts")” in chapter 7 of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")) that bestows upon you the following traits.
+As a Hollow One, the void left behind by your departed soul is filled with the strange magic of [[Blightshore]]. Becoming a Hollow One is a supernatural gift (see “[Supernatural Gifts](https://www.dndbeyond.com/sources/dmg/other-rewards#SupernaturalGifts "Supernatural Gifts")” in [[chapter 7]] of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")) that bestows upon you the following traits.
 
 **Ageless**:: You don’t age, and effects that would cause you to age don’t work on you.
 

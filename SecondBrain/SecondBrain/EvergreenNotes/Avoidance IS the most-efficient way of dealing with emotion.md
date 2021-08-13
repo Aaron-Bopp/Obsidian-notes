@@ -1,5 +1,6 @@
 ---
 creation date: 2021-06-24
+modification date: Thursday 24th June 2021 14:29:34
 note-type: 
 - evergreen-note
 
@@ -15,7 +16,7 @@ note-type:
 
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: [[mental health]], [[trauma]], [[early childhood]]
+**Related-Topics**:: [[trauma]], [[mental health]], [[self-actualization]], [[early childhood]]
 
 **Last Edited**:: *`=this.file.mtime`*
 	

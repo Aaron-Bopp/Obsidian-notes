@@ -7,12 +7,7 @@ note-type:
 
 ---
 
-###### [[identity]]
-
-
-
----
-# Outline
+###### [[identit[[self]] Outline
 - [[gender identity]]
 
 ---
@@ -28,14 +23,14 @@ note-type:
 # Dataviews 
 ## Evergreen Notes related to [[identity]]
 ```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
+TAB[[self]]ile.mday AS "Edited", file.cday AS "Created"
 FROM -"tharoline" and -"Templates" and [[identity]] and -"ContentNotes"
 WHERE file.name != "QUICKNOTE" and file.name != "identity"
 SORT Status
 ```
 ## Content Notes related to [[identity]]
 ```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
+TABLE type[[self]]AS "Edited", file.cday AS "Created"
 FROM -"tharoline" and -"Templates" and [[identity]] and "ContentNotes"
 WHERE file.name != "QUICKNOTE" and file.name != "identity"
 SORT Status

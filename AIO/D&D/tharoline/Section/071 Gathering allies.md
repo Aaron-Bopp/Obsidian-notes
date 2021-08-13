@@ -1,4 +1,4 @@
-- upgrades to airship
+- upgrades to airship
 	- three stories tall
 	- four sails as well as the balloons
 	- reinforcements

@@ -1,32 +1,27 @@
 ---
-creation date: 2021-07-03
+creation date: 2021-07-21
 note-type: 
 - evergreen-note
 - topic-note
+- personal-note
 aliases:
+- 
+embedded:
 - 
 ---
  
 ##### [[my emotions]] `=length(this.file.inlinks) + length(this.file.outlinks)`
-[[My relationship with my parents]]
 
 
-**Status**:: #EVER/SEED
 
-**Parent-Topics**:: [[INDEX]], [[mental health]]
-
+**Status**:: #EVER/SEED 
+**Related-Topics**::
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[my emotions]] `=length(this.file.inlinks)` 
-- [[My self-image is purely based on other's perceptions of me]]
+- 
 
 ### <hr class="dataviews"/>
-#### Personal notes
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"
-WHERE contains(note-type, "personal-note")
-SORT Status
-```
+
 #### Notes not yet in outline
 ```dataviewjs
 const thisFile = dv.pages().where(f => f.file.path == dv.current().file.path)[0]
@@ -56,11 +51,14 @@ const statusDict = {
 	"SEED":2
 }
 const statusLevel = (status) => {
-	if (status === undefined) {
-		return undefined
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
 	}
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
+	return 0
 }
 //includes first called file as last element
 function getEmbeds(name){
@@ -71,7 +69,7 @@ function getEmbeds(name){
 		return [file]
 	}
 	// prevent infinite loops if currentNote is included in embeds
-	embeds = embeds.filter(l => name !== l.path)
+	embeds = embeds.filter(l => l !== null && name !== l.path )
 	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat()
 }
 const allEmbeds = getEmbeds(thisFile.file.name)
@@ -106,3 +104,5 @@ statusTable("TopicNotes")
 statusTable("EvergreenNotes")
 contentNotesTable("ContentNotes")
 ```
+
+

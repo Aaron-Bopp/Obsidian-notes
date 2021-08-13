@@ -6,15 +6,16 @@ note-type:
 
 ---
 
-###### [[The nature of happiness is not doing what you love its detachment from the decisions of the life]] `=length([[The nature of happiness is not doing what you love its detachment from the decisions of the life]].file.inlinks) + length([[The nature of happiness is not doing what you love its detachment from the decisions of the life]].file.outlinks)`
+##### [[The nature of happiness is not doing what you love its detachment from the decisions of the life]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
+[[Bhuddism is the study of happiness through detachment]] #TO/EXPLORE/RESEARCH 
 
----
+### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
 
-**Related-Topics**:: [[Bhuddism is the study of happiness through detachment]], [[Bhuddism]]
+**Related-Topics**::  [[Bhuddism]], [[love]], [[self-love]], 
 	
-**Sub-Topics**:: [[love]], [[self-love]]
-	
+**Last Edited**:: *`=this.file.mtime`*
+
 **References**:: [[DrK and DrMike conversation]]

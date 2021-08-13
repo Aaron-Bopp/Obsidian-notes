@@ -10,6 +10,8 @@ embedded:
 - [[mental health]]
 - [[Neuroscience]]
 - [[Christianity]]
+- [[gender]]
+- [[self]]
 ---
 
 This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[personal knowledge management]] system.
@@ -34,14 +36,98 @@ This is a constantly updated index of entry points and topics for my personal fl
 
 # Topic Outlines
 ## <hr class="embedded"/>
- ![[personal knowledge management#personal knowledge management length personal knowledge management file inlinks]]
- ## <hr class="embedded"/>
+ ![[personal knowledge management#personal knowledge management length this file inlinks]]
+## <hr class="embedded"/>
  ![[mental health#mental health length mental health file inlinks]]
- ## <hr class="embedded"/>
+## <hr class="embedded"/>
+![[gender#gender length this file inlinks]]
+## <hr class="embedded"/>
  ![[Neuroscience#this file link length this file inlinks]]
- ## <hr class="embedded"/>
+## <hr class="embedded"/>
  ![[Christianity#this file link length this file inlinks]]
- ##
- [[Obsidian (software)]]
- 
+## <hr class="embedded"/>
+![[self#self length this file inlinks]]
+
+ #### Notes not yet in outline
+```dataviewjs
+const thisFile = dv.pages().where(f => f.file.path == dv.current().file.path)[0]
+function formatDate(date){
+	var d = new Date(date),
+		month = '' + (d.getMonth() + 1),
+		day = '' + d.getDate(),
+		year = d.getFullYear();
+
+	if (month.length < 2) 
+		month = '0' + month;
+	if (day.length < 2) 
+		day = '0' + day;
+
+	return [year, month, day].join('-');
+}
+
+function wrap(name) {
+	return '[[' + name + ']]'
+}
+function getIO(file) {
+	return `${file.inlinks.length}/${file.outlinks.length}`
+}
+const statusDict = {
+	"GREEN":0,
+	"SPROUT":1,
+	"SEED":2
+}
+const statusLevel = (status) => {
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
+	}
+	return 0
+}
+//includes first called file as last element
+function getEmbeds(name){
+	const file = dv.pages().where(f => f.file.name === name)[0]
+	let embeds = file.embedded
+	console.log(embeds)
+	if (embeds == undefined) {
+		return [file]
+	}
+	// prevent infinite loops if currentNote is included in embeds
+	embeds = embeds.filter(l => l !== null && name !== l.path )
+	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat()
+}
+const allEmbeds = getEmbeds(thisFile.file.name)
+const allOutlinks = allEmbeds.map(f => f.file.outlinks).flat()
+const allPaths = allOutlinks.map(l => l.path)
+function notLinkedPages(folder) {
+	return dv.pages()
+			.where(p => {
+				return !allPaths.contains(p.file.path) && 
+				p.file.path.contains(folder) 
+			})
+			.sort(p => p.file.inlinks.length + p.file.outlinks.length, 'desc')
+}
+function contentNotesTable(folder) {
+	let pages = notLinkedPages(folder)
+	if (pages.length > 0) {
+		dv.table([folder, "I/O", "Edited", "Created"], 
+			pages
+			.map(p => [p.file.link, getIO(p.file), p.file.mtime, formatDate(p["creation date"])]))
+	}
+}
+function statusTable(folder) {
+	let pages = notLinkedPages(folder)
+	if (pages.length > 0) {
+		dv.table([folder, "I/O", "Status", "Edited", "Created"], 
+			pages
+			.sort(p => statusLevel(p.status))
+			.map(p => [p.file.link, getIO(p.file), p.status, p.file.mtime, formatDate(p["creation date"])]))
+	}
+}
+statusTable("TopicNotes")
+statusTable("EvergreenNotes")
+```
+
  

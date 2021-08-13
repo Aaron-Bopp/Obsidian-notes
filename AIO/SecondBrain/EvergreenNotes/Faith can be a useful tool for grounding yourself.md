@@ -8,7 +8,7 @@ note-type:
 
 ###### [[Faith can be a useful tool for grounding yourself]]
 
-I think that religion can be a healthy way to avoid the uncertainty of not knowing the answer to [[The three main questions of life]] and can lead to a happy and fruitful life.
+I think that [[religion]] can be a healthy way to avoid the uncertainty of not knowing the answer to [[The three main questions of life]] and can lead to a happy and fruitful life.
 
 ---
 

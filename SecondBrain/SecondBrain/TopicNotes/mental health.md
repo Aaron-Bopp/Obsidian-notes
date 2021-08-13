@@ -7,7 +7,6 @@ embedded:
 - [[trauma]]
 - [[my emotions]]
 - [[yoga]]
-- [[self-improvement]]
 note-type: 
 - evergreen-note
 - topic-note
@@ -22,13 +21,10 @@ note-type:
 **Last Edited**:: *`=[[mental health]].file.mtime`*
 ##### [[mental health]] `=length([[mental health]].file.inlinks)` 
 
-^79d947
-
+- ![[anxiety#this file link length this file inlinks]]
+- ![[ADHD#ADHD length ADHD file inlinks]]
+- ![[trauma#trauma length this file inlinks]]
 - [[mental disorders]]
-	- ![[anxiety#this file link length this file inlinks]]
-	- ![[ADHD#ADHD length ADHD file inlinks]]
-	- ![[trauma#trauma length this file inlinks]]
-- ![[self-improvement#self-improvement length this file inlinks]]
 - Techniques to improve mental health
 	- [[Tips for concentration]]
 	- [[mindfullness]]

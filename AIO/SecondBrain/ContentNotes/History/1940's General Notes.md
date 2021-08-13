@@ -96,17 +96,17 @@ bib:
             - forbidding criticism
             - Oppressive polices with threat of violence
             - cult of personality
-        - Rise of Germany
-            - promised new germany after WW1
-            - Hitler was seen a figure strong enough to protect them against [[Communism]]
-            - Once Hitler was appointed Chancelor he replaced non-nazis and jews at all levels of government
-            - Framed the Nazi cause as a conflict between the aRyans and jews
+        - Rise of [[Germany]]
+            - promised new [[germany]] after [[World War 1|WW1]]
+            - [[Hitler]] was seen a figure strong enough to protect them against [[Communism]]
+            - Once [[Hitler]] was appointed Chancelor he replaced non-nazis and jews at all levels of [[government]]
+            - Framed the [[Nazi]] cause as a conflict between the aRyans and jews
         - [[Italy]]
-            - Musolini became harcore nationalist after Italy
+            - Musolini became harcore nationalist after [[Italy]]
             - also preyed on fear of [[Communism]]
-            - Mussolini and his fascist mob took control of the government by force
+            - Mussolini and his fascist mob took control of the [[government]] by force
                 - Built on loyalty to the state
-        - Japan
+        - [[Japan]]
             - Ruled by emperor but military had full control of state
             - Industrial power but needed natural resources, colonialism was the answer
             - Believed other Asian nationalities were inferior

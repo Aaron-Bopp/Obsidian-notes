@@ -36,8 +36,6 @@ embedded:
 	- [[childhood trauma]]
 		- [[Early childhood trauma causes us to make wide assumptions about the world]]
 	- [[neurodivergency]]
-	- [[Neuroscience]]
-		- [[How Neuroscience impacts our daily lives]]
 
 ### <hr class="dataviews"/>
 #### Notes not yet in outline

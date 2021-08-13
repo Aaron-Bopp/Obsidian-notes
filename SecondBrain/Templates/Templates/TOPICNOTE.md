@@ -1,4 +1,4 @@
-<% tp.file.include("[[META]]") %>
+<%* if (tp.file.folder !== "SecondBrain/TopicNotes"){tp.file.move("SecondBrain/TopicNotes/" + tp.file.title)}%><% tp.file.include("[[META]]") %>
 note-type: 
 - evergreen-note
 - topic-note
@@ -9,10 +9,10 @@ embedded:
 ---
  
 <% tp.file.include("[[TITLE-ALLLINKS]]") %>
-
+<% tp.file.cursor() %><% tp.system.clipboard() %>
 
 **Status**:: #EVER/SEED 
-**Related-Topics**:: <% tp.system.clipboard() %>
+**Related-Topics**:: 
 <% tp.file.include("[[MODIFIED FIELD]]") %>
 <% tp.file.include("[[TITLE-TOPIC]]") %>
 - 

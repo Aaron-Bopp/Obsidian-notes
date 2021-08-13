@@ -1,7 +1,6 @@
 'use strict';
 
 var obsidian = require('obsidian');
-require('constants');
 require('assert');
 
 function _interopNamespace(e) {
@@ -78,130 +77,52 @@ function get_slot_changes(definition, $$scope, dirty, fn) {
     }
     return $$scope.dirty;
 }
-function update_slot(slot, slot_definition, ctx, $$scope, dirty, get_slot_changes_fn, get_slot_context_fn) {
-    const slot_changes = get_slot_changes(slot_definition, $$scope, dirty, get_slot_changes_fn);
+function update_slot_base(slot, slot_definition, ctx, $$scope, slot_changes, get_slot_context_fn) {
     if (slot_changes) {
         const slot_context = get_slot_context(slot_definition, ctx, $$scope, get_slot_context_fn);
         slot.p(slot_context, slot_changes);
     }
 }
+function get_all_dirty_from_scope($$scope) {
+    if ($$scope.ctx.length > 32) {
+        const dirty = [];
+        const length = $$scope.ctx.length / 32;
+        for (let i = 0; i < length; i++) {
+            dirty[i] = -1;
+        }
+        return dirty;
+    }
+    return -1;
+}
 function action_destroyer(action_result) {
     return action_result && is_function(action_result.destroy) ? action_result.destroy : noop;
 }
-
-// Track which nodes are claimed during hydration. Unclaimed nodes can then be removed from the DOM
-// at the end of hydration without touching the remaining nodes.
-let is_hydrating = false;
-function start_hydrating() {
-    is_hydrating = true;
-}
-function end_hydrating() {
-    is_hydrating = false;
-}
-function upper_bound(low, high, key, value) {
-    // Return first index of value larger than input value in the range [low, high)
-    while (low < high) {
-        const mid = low + ((high - low) >> 1);
-        if (key(mid) <= value) {
-            low = mid + 1;
-        }
-        else {
-            high = mid;
-        }
-    }
-    return low;
-}
-function init_hydrate(target) {
-    if (target.hydrate_init)
-        return;
-    target.hydrate_init = true;
-    // We know that all children have claim_order values since the unclaimed have been detached
-    const children = target.childNodes;
-    /*
-    * Reorder claimed children optimally.
-    * We can reorder claimed children optimally by finding the longest subsequence of
-    * nodes that are already claimed in order and only moving the rest. The longest
-    * subsequence subsequence of nodes that are claimed in order can be found by
-    * computing the longest increasing subsequence of .claim_order values.
-    *
-    * This algorithm is optimal in generating the least amount of reorder operations
-    * possible.
-    *
-    * Proof:
-    * We know that, given a set of reordering operations, the nodes that do not move
-    * always form an increasing subsequence, since they do not move among each other
-    * meaning that they must be already ordered among each other. Thus, the maximal
-    * set of nodes that do not move form a longest increasing subsequence.
-    */
-    // Compute longest increasing subsequence
-    // m: subsequence length j => index k of smallest value that ends an increasing subsequence of length j
-    const m = new Int32Array(children.length + 1);
-    // Predecessor indices + 1
-    const p = new Int32Array(children.length);
-    m[0] = -1;
-    let longest = 0;
-    for (let i = 0; i < children.length; i++) {
-        const current = children[i].claim_order;
-        // Find the largest subsequence length such that it ends in a value less than our current value
-        // upper_bound returns first greater value, so we subtract one
-        const seqLen = upper_bound(1, longest + 1, idx => children[m[idx]].claim_order, current) - 1;
-        p[i] = m[seqLen] + 1;
-        const newLen = seqLen + 1;
-        // We can guarantee that current is the smallest value. Otherwise, we would have generated a longer sequence.
-        m[newLen] = i;
-        longest = Math.max(newLen, longest);
-    }
-    // The longest increasing subsequence of nodes (initially reversed)
-    const lis = [];
-    // The rest of the nodes, nodes that will be moved
-    const toMove = [];
-    let last = children.length - 1;
-    for (let cur = m[longest] + 1; cur != 0; cur = p[cur - 1]) {
-        lis.push(children[cur - 1]);
-        for (; last >= cur; last--) {
-            toMove.push(children[last]);
-        }
-        last--;
-    }
-    for (; last >= 0; last--) {
-        toMove.push(children[last]);
-    }
-    lis.reverse();
-    // We sort the nodes being moved to guarantee that their insertion order matches the claim order
-    toMove.sort((a, b) => a.claim_order - b.claim_order);
-    // Finally, we move the nodes
-    for (let i = 0, j = 0; i < toMove.length; i++) {
-        while (j < lis.length && toMove[i].claim_order >= lis[j].claim_order) {
-            j++;
-        }
-        const anchor = j < lis.length ? lis[j] : null;
-        target.insertBefore(toMove[i], anchor);
-    }
-}
 function append(target, node) {
-    if (is_hydrating) {
-        init_hydrate(target);
-        if ((target.actual_end_child === undefined) || ((target.actual_end_child !== null) && (target.actual_end_child.parentElement !== target))) {
-            target.actual_end_child = target.firstChild;
-        }
-        if (node !== target.actual_end_child) {
-            target.insertBefore(node, target.actual_end_child);
-        }
-        else {
-            target.actual_end_child = node.nextSibling;
-        }
+    target.appendChild(node);
+}
+function append_styles(target, style_sheet_id, styles) {
+    const append_styles_to = get_root_for_style(target);
+    if (!append_styles_to.getElementById(style_sheet_id)) {
+        const style = element('style');
+        style.id = style_sheet_id;
+        style.textContent = styles;
+        append_stylesheet(append_styles_to, style);
     }
-    else if (node.parentNode !== target) {
-        target.appendChild(node);
+}
+function get_root_for_style(node) {
+    if (!node)
+        return document;
+    const root = node.getRootNode ? node.getRootNode() : node.ownerDocument;
+    if (root.host) {
+        return root;
     }
+    return document;
+}
+function append_stylesheet(node, style) {
+    append(node.head || node, style);
 }
 function insert(target, node, anchor) {
-    if (is_hydrating && !anchor) {
-        append(target, node);
-    }
-    else if (node.parentNode !== target || (anchor && node.nextSibling !== anchor)) {
-        target.insertBefore(node, anchor || null);
-    }
+    target.insertBefore(node, anchor || null);
 }
 function detach(node) {
     node.parentNode.removeChild(node);
@@ -275,9 +196,9 @@ function select_value(select) {
 function toggle_class(element, name, toggle) {
     element.classList[toggle ? 'add' : 'remove'](name);
 }
-function custom_event(type, detail) {
+function custom_event(type, detail, bubbles = false) {
     const e = document.createEvent('CustomEvent');
-    e.initCustomEvent(type, false, false, detail);
+    e.initCustomEvent(type, bubbles, false, detail);
     return e;
 }
 
@@ -585,7 +506,7 @@ function make_dirty(component, i) {
     }
     component.$$.dirty[(i / 31) | 0] |= (1 << (i % 31));
 }
-function init(component, options, instance, create_fragment, not_equal, props, dirty = [-1]) {
+function init(component, options, instance, create_fragment, not_equal, props, append_styles, dirty = [-1]) {
     const parent_component = current_component;
     set_current_component(component);
     const $$ = component.$$ = {
@@ -606,8 +527,10 @@ function init(component, options, instance, create_fragment, not_equal, props, d
         // everything else
         callbacks: blank_object(),
         dirty,
-        skip_bound: false
+        skip_bound: false,
+        root: options.target || parent_component.$$.root
     };
+    append_styles && append_styles($$.root);
     let ready = false;
     $$.ctx = instance
         ? instance(component, options.props || {}, (i, ret, ...rest) => {
@@ -628,7 +551,6 @@ function init(component, options, instance, create_fragment, not_equal, props, d
     $$.fragment = create_fragment ? create_fragment($$.ctx) : false;
     if (options.target) {
         if (options.hydrate) {
-            start_hydrating();
             const nodes = children(options.target);
             // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
             $$.fragment && $$.fragment.l(nodes);
@@ -641,7 +563,6 @@ function init(component, options, instance, create_fragment, not_equal, props, d
         if (options.intro)
             transition_in(component.$$.fragment);
         mount_component(component, options.target, options.anchor, options.customElement);
-        end_hydrating();
         flush();
     }
     set_current_component(parent_component);
@@ -710,9 +631,9 @@ var faTrash = {
   icon: [448, 512, [], "f1f8", "M432 32H312l-9.4-18.7A24 24 0 0 0 281.1 0H166.8a23.72 23.72 0 0 0-21.4 13.3L136 32H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16zM53.2 467a48 48 0 0 0 47.9 45h245.8a48 48 0 0 0 47.9-45L416 128H32z"]
 };
 
-/* node_modules/svelte-awesome/components/svg/Path.svelte generated by Svelte v3.38.3 */
+/* node_modules/svelte-awesome/components/svg/Path.svelte generated by Svelte v3.42.1 */
 
-function create_fragment$g(ctx) {
+function create_fragment$h(ctx) {
 	let path;
 	let path_key_value;
 
@@ -751,13 +672,13 @@ function create_fragment$g(ctx) {
 	};
 }
 
-function instance$g($$self, $$props, $$invalidate) {
-	let { id = "" } = $$props;
+function instance$h($$self, $$props, $$invalidate) {
+	let { id = '' } = $$props;
 	let { data = {} } = $$props;
 
 	$$self.$$set = $$props => {
-		if ("id" in $$props) $$invalidate(0, id = $$props.id);
-		if ("data" in $$props) $$invalidate(1, data = $$props.data);
+		if ('id' in $$props) $$invalidate(0, id = $$props.id);
+		if ('data' in $$props) $$invalidate(1, data = $$props.data);
 	};
 
 	return [id, data];
@@ -766,13 +687,13 @@ function instance$g($$self, $$props, $$invalidate) {
 class Path extends SvelteComponent {
 	constructor(options) {
 		super();
-		init(this, options, instance$g, create_fragment$g, safe_not_equal, { id: 0, data: 1 });
+		init(this, options, instance$h, create_fragment$h, safe_not_equal, { id: 0, data: 1 });
 	}
 }
 
-/* node_modules/svelte-awesome/components/svg/Polygon.svelte generated by Svelte v3.38.3 */
+/* node_modules/svelte-awesome/components/svg/Polygon.svelte generated by Svelte v3.42.1 */
 
-function create_fragment$f(ctx) {
+function create_fragment$g(ctx) {
 	let polygon;
 	let polygon_key_value;
 
@@ -811,13 +732,13 @@ function create_fragment$f(ctx) {
 	};
 }
 
-function instance$f($$self, $$props, $$invalidate) {
-	let { id = "" } = $$props;
+function instance$g($$self, $$props, $$invalidate) {
+	let { id = '' } = $$props;
 	let { data = {} } = $$props;
 
 	$$self.$$set = $$props => {
-		if ("id" in $$props) $$invalidate(0, id = $$props.id);
-		if ("data" in $$props) $$invalidate(1, data = $$props.data);
+		if ('id' in $$props) $$invalidate(0, id = $$props.id);
+		if ('data' in $$props) $$invalidate(1, data = $$props.data);
 	};
 
 	return [id, data];
@@ -826,13 +747,13 @@ function instance$f($$self, $$props, $$invalidate) {
 class Polygon extends SvelteComponent {
 	constructor(options) {
 		super();
-		init(this, options, instance$f, create_fragment$f, safe_not_equal, { id: 0, data: 1 });
+		init(this, options, instance$g, create_fragment$g, safe_not_equal, { id: 0, data: 1 });
 	}
 }
 
-/* node_modules/svelte-awesome/components/svg/Raw.svelte generated by Svelte v3.38.3 */
+/* node_modules/svelte-awesome/components/svg/Raw.svelte generated by Svelte v3.42.1 */
 
-function create_fragment$e(ctx) {
+function create_fragment$f(ctx) {
 	let g;
 
 	return {
@@ -853,8 +774,8 @@ function create_fragment$e(ctx) {
 	};
 }
 
-function instance$e($$self, $$props, $$invalidate) {
-	let cursor = 870711;
+function instance$f($$self, $$props, $$invalidate) {
+	let cursor = 0xd4937;
 
 	function getId() {
 		cursor += 1;
@@ -892,7 +813,7 @@ function instance$e($$self, $$props, $$invalidate) {
 	}
 
 	$$self.$$set = $$props => {
-		if ("data" in $$props) $$invalidate(1, data = $$props.data);
+		if ('data' in $$props) $$invalidate(1, data = $$props.data);
 	};
 
 	$$self.$$.update = () => {
@@ -907,20 +828,17 @@ function instance$e($$self, $$props, $$invalidate) {
 class Raw extends SvelteComponent {
 	constructor(options) {
 		super();
-		init(this, options, instance$e, create_fragment$e, safe_not_equal, { data: 1 });
+		init(this, options, instance$f, create_fragment$f, safe_not_equal, { data: 1 });
 	}
 }
 
-/* node_modules/svelte-awesome/components/svg/Svg.svelte generated by Svelte v3.38.3 */
+/* node_modules/svelte-awesome/components/svg/Svg.svelte generated by Svelte v3.42.1 */
 
-function add_css$a() {
-	var style = element("style");
-	style.id = "svelte-1dof0an-style";
-	style.textContent = ".fa-icon.svelte-1dof0an{display:inline-block;fill:currentColor}.fa-flip-horizontal.svelte-1dof0an{transform:scale(-1, 1)}.fa-flip-vertical.svelte-1dof0an{transform:scale(1, -1)}.fa-spin.svelte-1dof0an{animation:svelte-1dof0an-fa-spin 1s 0s infinite linear}.fa-inverse.svelte-1dof0an{color:#fff}.fa-pulse.svelte-1dof0an{animation:svelte-1dof0an-fa-spin 1s infinite steps(8)}@keyframes svelte-1dof0an-fa-spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}";
-	append(document.head, style);
+function add_css$a(target) {
+	append_styles(target, "svelte-1dof0an", ".fa-icon.svelte-1dof0an{display:inline-block;fill:currentColor}.fa-flip-horizontal.svelte-1dof0an{transform:scale(-1, 1)}.fa-flip-vertical.svelte-1dof0an{transform:scale(1, -1)}.fa-spin.svelte-1dof0an{animation:svelte-1dof0an-fa-spin 1s 0s infinite linear}.fa-inverse.svelte-1dof0an{color:#fff}.fa-pulse.svelte-1dof0an{animation:svelte-1dof0an-fa-spin 1s infinite steps(8)}@keyframes svelte-1dof0an-fa-spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}");
 }
 
-function create_fragment$d(ctx) {
+function create_fragment$e(ctx) {
 	let svg;
 	let svg_class_value;
 	let svg_role_value;
@@ -939,14 +857,14 @@ function create_fragment$d(ctx) {
 			attr(svg, "width", /*width*/ ctx[1]);
 			attr(svg, "height", /*height*/ ctx[2]);
 			attr(svg, "aria-label", /*label*/ ctx[11]);
-			attr(svg, "role", svg_role_value = /*label*/ ctx[11] ? "img" : "presentation");
+			attr(svg, "role", svg_role_value = /*label*/ ctx[11] ? 'img' : 'presentation');
 			attr(svg, "viewBox", /*box*/ ctx[3]);
 			attr(svg, "style", /*style*/ ctx[10]);
 			toggle_class(svg, "fa-spin", /*spin*/ ctx[4]);
 			toggle_class(svg, "fa-pulse", /*pulse*/ ctx[6]);
 			toggle_class(svg, "fa-inverse", /*inverse*/ ctx[5]);
-			toggle_class(svg, "fa-flip-horizontal", /*flip*/ ctx[7] === "horizontal");
-			toggle_class(svg, "fa-flip-vertical", /*flip*/ ctx[7] === "vertical");
+			toggle_class(svg, "fa-flip-horizontal", /*flip*/ ctx[7] === 'horizontal');
+			toggle_class(svg, "fa-flip-vertical", /*flip*/ ctx[7] === 'vertical');
 		},
 		m(target, anchor) {
 			insert(target, svg, anchor);
@@ -960,7 +878,16 @@ function create_fragment$d(ctx) {
 		p(ctx, [dirty]) {
 			if (default_slot) {
 				if (default_slot.p && (!current || dirty & /*$$scope*/ 4096)) {
-					update_slot(default_slot, default_slot_template, ctx, /*$$scope*/ ctx[12], !current ? -1 : dirty, null, null);
+					update_slot_base(
+						default_slot,
+						default_slot_template,
+						ctx,
+						/*$$scope*/ ctx[12],
+						!current
+						? get_all_dirty_from_scope(/*$$scope*/ ctx[12])
+						: get_slot_changes(default_slot_template, /*$$scope*/ ctx[12], dirty, null),
+						null
+					);
 				}
 			}
 
@@ -988,7 +915,7 @@ function create_fragment$d(ctx) {
 				attr(svg, "aria-label", /*label*/ ctx[11]);
 			}
 
-			if (!current || dirty & /*label*/ 2048 && svg_role_value !== (svg_role_value = /*label*/ ctx[11] ? "img" : "presentation")) {
+			if (!current || dirty & /*label*/ 2048 && svg_role_value !== (svg_role_value = /*label*/ ctx[11] ? 'img' : 'presentation')) {
 				attr(svg, "role", svg_role_value);
 			}
 
@@ -1013,11 +940,11 @@ function create_fragment$d(ctx) {
 			}
 
 			if (dirty & /*className, flip*/ 129) {
-				toggle_class(svg, "fa-flip-horizontal", /*flip*/ ctx[7] === "horizontal");
+				toggle_class(svg, "fa-flip-horizontal", /*flip*/ ctx[7] === 'horizontal');
 			}
 
 			if (dirty & /*className, flip*/ 129) {
-				toggle_class(svg, "fa-flip-vertical", /*flip*/ ctx[7] === "vertical");
+				toggle_class(svg, "fa-flip-vertical", /*flip*/ ctx[7] === 'vertical');
 			}
 		},
 		i(local) {
@@ -1036,7 +963,7 @@ function create_fragment$d(ctx) {
 	};
 }
 
-function instance$d($$self, $$props, $$invalidate) {
+function instance$e($$self, $$props, $$invalidate) {
 	let { $$slots: slots = {}, $$scope } = $$props;
 	let { class: className } = $$props;
 	let { width } = $$props;
@@ -1052,19 +979,19 @@ function instance$d($$self, $$props, $$invalidate) {
 	let { label = undefined } = $$props;
 
 	$$self.$$set = $$props => {
-		if ("class" in $$props) $$invalidate(0, className = $$props.class);
-		if ("width" in $$props) $$invalidate(1, width = $$props.width);
-		if ("height" in $$props) $$invalidate(2, height = $$props.height);
-		if ("box" in $$props) $$invalidate(3, box = $$props.box);
-		if ("spin" in $$props) $$invalidate(4, spin = $$props.spin);
-		if ("inverse" in $$props) $$invalidate(5, inverse = $$props.inverse);
-		if ("pulse" in $$props) $$invalidate(6, pulse = $$props.pulse);
-		if ("flip" in $$props) $$invalidate(7, flip = $$props.flip);
-		if ("x" in $$props) $$invalidate(8, x = $$props.x);
-		if ("y" in $$props) $$invalidate(9, y = $$props.y);
-		if ("style" in $$props) $$invalidate(10, style = $$props.style);
-		if ("label" in $$props) $$invalidate(11, label = $$props.label);
-		if ("$$scope" in $$props) $$invalidate(12, $$scope = $$props.$$scope);
+		if ('class' in $$props) $$invalidate(0, className = $$props.class);
+		if ('width' in $$props) $$invalidate(1, width = $$props.width);
+		if ('height' in $$props) $$invalidate(2, height = $$props.height);
+		if ('box' in $$props) $$invalidate(3, box = $$props.box);
+		if ('spin' in $$props) $$invalidate(4, spin = $$props.spin);
+		if ('inverse' in $$props) $$invalidate(5, inverse = $$props.inverse);
+		if ('pulse' in $$props) $$invalidate(6, pulse = $$props.pulse);
+		if ('flip' in $$props) $$invalidate(7, flip = $$props.flip);
+		if ('x' in $$props) $$invalidate(8, x = $$props.x);
+		if ('y' in $$props) $$invalidate(9, y = $$props.y);
+		if ('style' in $$props) $$invalidate(10, style = $$props.style);
+		if ('label' in $$props) $$invalidate(11, label = $$props.label);
+		if ('$$scope' in $$props) $$invalidate(12, $$scope = $$props.$$scope);
 	};
 
 	return [
@@ -1088,26 +1015,33 @@ function instance$d($$self, $$props, $$invalidate) {
 class Svg extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-1dof0an-style")) add_css$a();
 
-		init(this, options, instance$d, create_fragment$d, safe_not_equal, {
-			class: 0,
-			width: 1,
-			height: 2,
-			box: 3,
-			spin: 4,
-			inverse: 5,
-			pulse: 6,
-			flip: 7,
-			x: 8,
-			y: 9,
-			style: 10,
-			label: 11
-		});
+		init(
+			this,
+			options,
+			instance$e,
+			create_fragment$e,
+			safe_not_equal,
+			{
+				class: 0,
+				width: 1,
+				height: 2,
+				box: 3,
+				spin: 4,
+				inverse: 5,
+				pulse: 6,
+				flip: 7,
+				x: 8,
+				y: 9,
+				style: 10,
+				label: 11
+			},
+			add_css$a
+		);
 	}
 }
 
-/* node_modules/svelte-awesome/components/Icon.svelte generated by Svelte v3.38.3 */
+/* node_modules/svelte-awesome/components/Icon.svelte generated by Svelte v3.42.1 */
 
 function get_each_context$3(ctx, list, i) {
 	const child_ctx = ctx.slice();
@@ -1131,7 +1065,7 @@ function create_if_block$4(ctx) {
 	let current;
 	let if_block0 = /*self*/ ctx[0].paths && create_if_block_3(ctx);
 	let if_block1 = /*self*/ ctx[0].polygons && create_if_block_2(ctx);
-	let if_block2 = /*self*/ ctx[0].raw && create_if_block_1$1(ctx);
+	let if_block2 = /*self*/ ctx[0].raw && create_if_block_1$2(ctx);
 
 	return {
 		c() {
@@ -1206,7 +1140,7 @@ function create_if_block$4(ctx) {
 						transition_in(if_block2, 1);
 					}
 				} else {
-					if_block2 = create_if_block_1$1(ctx);
+					if_block2 = create_if_block_1$2(ctx);
 					if_block2.c();
 					transition_in(if_block2, 1);
 					if_block2.m(if_block2_anchor.parentNode, if_block2_anchor);
@@ -1494,7 +1428,7 @@ function create_each_block$3(ctx) {
 }
 
 // (15:6) {#if self.raw}
-function create_if_block_1$1(ctx) {
+function create_if_block_1$2(ctx) {
 	let raw;
 	let updating_data;
 	let current;
@@ -1510,7 +1444,7 @@ function create_if_block_1$1(ctx) {
 	}
 
 	raw = new Raw({ props: raw_props });
-	binding_callbacks.push(() => bind(raw, "data", raw_data_binding));
+	binding_callbacks.push(() => bind(raw, 'data', raw_data_binding));
 
 	return {
 		c() {
@@ -1623,7 +1557,16 @@ function create_default_slot(ctx) {
 		p(ctx, dirty) {
 			if (default_slot) {
 				if (default_slot.p && (!current || dirty & /*$$scope*/ 65536)) {
-					update_slot(default_slot, default_slot_template, ctx, /*$$scope*/ ctx[16], !current ? -1 : dirty, null, null);
+					update_slot_base(
+						default_slot,
+						default_slot_template,
+						ctx,
+						/*$$scope*/ ctx[16],
+						!current
+						? get_all_dirty_from_scope(/*$$scope*/ ctx[16])
+						: get_slot_changes(default_slot_template, /*$$scope*/ ctx[16], dirty, null),
+						null
+					);
 				}
 			} else {
 				if (default_slot_or_fallback && default_slot_or_fallback.p && (!current || dirty & /*self*/ 1)) {
@@ -1646,7 +1589,7 @@ function create_default_slot(ctx) {
 	};
 }
 
-function create_fragment$c(ctx) {
+function create_fragment$d(ctx) {
 	let svg;
 	let current;
 
@@ -1711,7 +1654,7 @@ function create_fragment$c(ctx) {
 let outerScale = 1;
 
 function normaliseData(data) {
-	if ("iconName" in data && "icon" in data) {
+	if ('iconName' in data && 'icon' in data) {
 		let normalisedData = {};
 		let faIcon = data.icon;
 		let name = data.iconName;
@@ -1726,7 +1669,7 @@ function normaliseData(data) {
 	return data;
 }
 
-function instance$c($$self, $$props, $$invalidate) {
+function instance$d($$self, $$props, $$invalidate) {
 	let { $$slots: slots = {}, $$scope } = $$props;
 	let { class: className = "" } = $$props;
 	let { data } = $$props;
@@ -1744,7 +1687,7 @@ function instance$c($$self, $$props, $$invalidate) {
 	let box;
 
 	function init() {
-		if (typeof data === "undefined") {
+		if (typeof data === 'undefined') {
 			return;
 		}
 
@@ -1774,13 +1717,13 @@ function instance$c($$self, $$props, $$invalidate) {
 	function normalisedScale() {
 		let numScale = 1;
 
-		if (typeof scale !== "undefined") {
+		if (typeof scale !== 'undefined') {
 			numScale = Number(scale);
 		}
 
 		if (isNaN(numScale) || numScale <= 0) {
 			// eslint-disable-line no-restricted-globals
-			console.warn("Invalid prop: prop \"scale\" should be a number over 0."); // eslint-disable-line no-console
+			console.warn('Invalid prop: prop "scale" should be a number over 0.'); // eslint-disable-line no-console
 
 			return outerScale;
 		}
@@ -1839,8 +1782,8 @@ function instance$c($$self, $$props, $$invalidate) {
 			return combined;
 		}
 
-		if (combined !== "" && !combined.endsWith(";")) {
-			combined += "; ";
+		if (combined !== "" && !combined.endsWith(';')) {
+			combined += '; ';
 		}
 
 		return `${combined}font-size: ${size}em`;
@@ -1852,17 +1795,17 @@ function instance$c($$self, $$props, $$invalidate) {
 	}
 
 	$$self.$$set = $$props => {
-		if ("class" in $$props) $$invalidate(1, className = $$props.class);
-		if ("data" in $$props) $$invalidate(11, data = $$props.data);
-		if ("scale" in $$props) $$invalidate(12, scale = $$props.scale);
-		if ("spin" in $$props) $$invalidate(2, spin = $$props.spin);
-		if ("inverse" in $$props) $$invalidate(3, inverse = $$props.inverse);
-		if ("pulse" in $$props) $$invalidate(4, pulse = $$props.pulse);
-		if ("flip" in $$props) $$invalidate(5, flip = $$props.flip);
-		if ("label" in $$props) $$invalidate(6, label = $$props.label);
-		if ("self" in $$props) $$invalidate(0, self = $$props.self);
-		if ("style" in $$props) $$invalidate(13, style = $$props.style);
-		if ("$$scope" in $$props) $$invalidate(16, $$scope = $$props.$$scope);
+		if ('class' in $$props) $$invalidate(1, className = $$props.class);
+		if ('data' in $$props) $$invalidate(11, data = $$props.data);
+		if ('scale' in $$props) $$invalidate(12, scale = $$props.scale);
+		if ('spin' in $$props) $$invalidate(2, spin = $$props.spin);
+		if ('inverse' in $$props) $$invalidate(3, inverse = $$props.inverse);
+		if ('pulse' in $$props) $$invalidate(4, pulse = $$props.pulse);
+		if ('flip' in $$props) $$invalidate(5, flip = $$props.flip);
+		if ('label' in $$props) $$invalidate(6, label = $$props.label);
+		if ('self' in $$props) $$invalidate(0, self = $$props.self);
+		if ('style' in $$props) $$invalidate(13, style = $$props.style);
+		if ('$$scope' in $$props) $$invalidate(16, $$scope = $$props.$$scope);
 	};
 
 	$$self.$$.update = () => {
@@ -1902,7 +1845,7 @@ class Icon extends SvelteComponent {
 	constructor(options) {
 		super();
 
-		init(this, options, instance$c, create_fragment$c, safe_not_equal, {
+		init(this, options, instance$d, create_fragment$d, safe_not_equal, {
 			class: 1,
 			data: 11,
 			scale: 12,
@@ -1917,13 +1860,10 @@ class Icon extends SvelteComponent {
 	}
 }
 
-/* src/gui/choiceList/ChoiceItemRightButtons.svelte generated by Svelte v3.38.3 */
+/* src/gui/choiceList/ChoiceItemRightButtons.svelte generated by Svelte v3.42.1 */
 
-function add_css$9() {
-	var style = element("style");
-	style.id = "svelte-a47k80-style";
-	style.textContent = ".rightButtonsContainer.svelte-a47k80{display:flex;align-items:center;gap:8px}.clickable.svelte-a47k80:hover{cursor:pointer}.alignIconInDivInMiddle.svelte-a47k80{display:flex;align-items:center}";
-	append(document.head, style);
+function add_css$9(target) {
+	append_styles(target, "svelte-a47k80", ".rightButtonsContainer.svelte-a47k80{display:flex;align-items:center;gap:8px}.clickable.svelte-a47k80:hover{cursor:pointer}.alignIconInDivInMiddle.svelte-a47k80{display:flex;align-items:center}");
 }
 
 // (24:4) {#if showConfigureButton}
@@ -1976,7 +1916,7 @@ function create_if_block$3(ctx) {
 	};
 }
 
-function create_fragment$b(ctx) {
+function create_fragment$c(ctx) {
 	let div3;
 	let div0;
 	let icon0;
@@ -2026,8 +1966,8 @@ function create_fragment$b(ctx) {
 			attr(div2, "aria-label", "Drag-handle");
 
 			attr(div2, "style", div2_style_value = "" + ((/*dragDisabled*/ ctx[0]
-			? "cursor: grab"
-			: "cursor: grabbing") + ";"));
+			? 'cursor: grab'
+			: 'cursor: grabbing') + ";"));
 
 			attr(div2, "class", "alignIconInDivInMiddle svelte-a47k80");
 			attr(div3, "class", "rightButtonsContainer svelte-a47k80");
@@ -2100,8 +2040,8 @@ function create_fragment$b(ctx) {
 			}
 
 			if (!current || dirty & /*dragDisabled*/ 1 && div2_style_value !== (div2_style_value = "" + ((/*dragDisabled*/ ctx[0]
-			? "cursor: grab"
-			: "cursor: grabbing") + ";"))) {
+			? 'cursor: grab'
+			: 'cursor: grabbing') + ";"))) {
 				attr(div2, "style", div2_style_value);
 			}
 		},
@@ -2132,7 +2072,7 @@ function create_fragment$b(ctx) {
 	};
 }
 
-function instance$b($$self, $$props, $$invalidate) {
+function instance$c($$self, $$props, $$invalidate) {
 	let { dragDisabled } = $$props;
 	let { showConfigureButton = true } = $$props;
 	let { commandEnabled = false } = $$props;
@@ -2140,15 +2080,15 @@ function instance$b($$self, $$props, $$invalidate) {
 	const dispatcher = createEventDispatcher();
 
 	function emitDeleteChoice() {
-		dispatcher("deleteChoice");
+		dispatcher('deleteChoice');
 	}
 
 	function emitConfigureChoice() {
-		dispatcher("configureChoice");
+		dispatcher('configureChoice');
 	}
 
 	function emitToggleCommand() {
-		dispatcher("toggleCommand");
+		dispatcher('toggleCommand');
 	}
 
 	function mousedown_handler(event) {
@@ -2160,10 +2100,10 @@ function instance$b($$self, $$props, $$invalidate) {
 	}
 
 	$$self.$$set = $$props => {
-		if ("dragDisabled" in $$props) $$invalidate(0, dragDisabled = $$props.dragDisabled);
-		if ("showConfigureButton" in $$props) $$invalidate(1, showConfigureButton = $$props.showConfigureButton);
-		if ("commandEnabled" in $$props) $$invalidate(2, commandEnabled = $$props.commandEnabled);
-		if ("choiceName" in $$props) $$invalidate(3, choiceName = $$props.choiceName);
+		if ('dragDisabled' in $$props) $$invalidate(0, dragDisabled = $$props.dragDisabled);
+		if ('showConfigureButton' in $$props) $$invalidate(1, showConfigureButton = $$props.showConfigureButton);
+		if ('commandEnabled' in $$props) $$invalidate(2, commandEnabled = $$props.commandEnabled);
+		if ('choiceName' in $$props) $$invalidate(3, choiceName = $$props.choiceName);
 	};
 
 	return [
@@ -2182,27 +2122,31 @@ function instance$b($$self, $$props, $$invalidate) {
 class ChoiceItemRightButtons extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-a47k80-style")) add_css$9();
 
-		init(this, options, instance$b, create_fragment$b, safe_not_equal, {
-			dragDisabled: 0,
-			showConfigureButton: 1,
-			commandEnabled: 2,
-			choiceName: 3
-		});
+		init(
+			this,
+			options,
+			instance$c,
+			create_fragment$c,
+			safe_not_equal,
+			{
+				dragDisabled: 0,
+				showConfigureButton: 1,
+				commandEnabled: 2,
+				choiceName: 3
+			},
+			add_css$9
+		);
 	}
 }
 
-/* src/gui/choiceList/ChoiceListItem.svelte generated by Svelte v3.38.3 */
+/* src/gui/choiceList/ChoiceListItem.svelte generated by Svelte v3.42.1 */
 
-function add_css$8() {
-	var style = element("style");
-	style.id = "svelte-1vcfikc-style";
-	style.textContent = ".choiceListItem.svelte-1vcfikc{display:flex;font-size:16px;align-items:center;margin:12px 0 0 0;transition:1000ms ease-in-out}.choiceListItemName.svelte-1vcfikc{flex:1 0 0}";
-	append(document.head, style);
+function add_css$8(target) {
+	append_styles(target, "svelte-1vcfikc", ".choiceListItem.svelte-1vcfikc{display:flex;font-size:16px;align-items:center;margin:12px 0 0 0;transition:1000ms ease-in-out}.choiceListItemName.svelte-1vcfikc{flex:1 0 0}");
 }
 
-function create_fragment$a(ctx) {
+function create_fragment$b(ctx) {
 	let div;
 	let span;
 	let t0_value = /*choice*/ ctx[0].name + "";
@@ -2250,10 +2194,10 @@ function create_fragment$a(ctx) {
 	}
 
 	rightbuttons = new ChoiceItemRightButtons({ props: rightbuttons_props });
-	binding_callbacks.push(() => bind(rightbuttons, "choiceName", rightbuttons_choiceName_binding));
-	binding_callbacks.push(() => bind(rightbuttons, "commandEnabled", rightbuttons_commandEnabled_binding));
-	binding_callbacks.push(() => bind(rightbuttons, "showConfigureButton", rightbuttons_showConfigureButton_binding));
-	binding_callbacks.push(() => bind(rightbuttons, "dragDisabled", rightbuttons_dragDisabled_binding));
+	binding_callbacks.push(() => bind(rightbuttons, 'choiceName', rightbuttons_choiceName_binding));
+	binding_callbacks.push(() => bind(rightbuttons, 'commandEnabled', rightbuttons_commandEnabled_binding));
+	binding_callbacks.push(() => bind(rightbuttons, 'showConfigureButton', rightbuttons_showConfigureButton_binding));
+	binding_callbacks.push(() => bind(rightbuttons, 'dragDisabled', rightbuttons_dragDisabled_binding));
 	rightbuttons.$on("mousedown", /*mousedown_handler*/ ctx[10]);
 	rightbuttons.$on("touchstart", /*touchstart_handler*/ ctx[11]);
 	rightbuttons.$on("deleteChoice", /*deleteChoice*/ ctx[3]);
@@ -2324,22 +2268,22 @@ function create_fragment$a(ctx) {
 	};
 }
 
-function instance$a($$self, $$props, $$invalidate) {
+function instance$b($$self, $$props, $$invalidate) {
 	let { choice } = $$props;
 	let { dragDisabled } = $$props;
 	let showConfigureButton = true;
 	const dispatcher = createEventDispatcher();
 
 	function deleteChoice() {
-		dispatcher("deleteChoice", { choice });
+		dispatcher('deleteChoice', { choice });
 	}
 
 	function configureChoice() {
-		dispatcher("configureChoice", { choice });
+		dispatcher('configureChoice', { choice });
 	}
 
 	function toggleCommandForChoice() {
-		dispatcher("toggleCommand", { choice });
+		dispatcher('toggleCommand', { choice });
 	}
 
 	function rightbuttons_choiceName_binding(value) {
@@ -2375,8 +2319,8 @@ function instance$a($$self, $$props, $$invalidate) {
 	}
 
 	$$self.$$set = $$props => {
-		if ("choice" in $$props) $$invalidate(0, choice = $$props.choice);
-		if ("dragDisabled" in $$props) $$invalidate(1, dragDisabled = $$props.dragDisabled);
+		if ('choice' in $$props) $$invalidate(0, choice = $$props.choice);
+		if ('dragDisabled' in $$props) $$invalidate(1, dragDisabled = $$props.dragDisabled);
 	};
 
 	return [
@@ -2398,25 +2342,21 @@ function instance$a($$self, $$props, $$invalidate) {
 class ChoiceListItem extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-1vcfikc-style")) add_css$8();
-		init(this, options, instance$a, create_fragment$a, safe_not_equal, { choice: 0, dragDisabled: 1 });
+		init(this, options, instance$b, create_fragment$b, safe_not_equal, { choice: 0, dragDisabled: 1 }, add_css$8);
 	}
 }
 
-/* src/gui/choiceList/MultiChoiceListItem.svelte generated by Svelte v3.38.3 */
+/* src/gui/choiceList/MultiChoiceListItem.svelte generated by Svelte v3.42.1 */
 
-function add_css$7() {
-	var style = element("style");
-	style.id = "svelte-na99np-style";
-	style.textContent = ".multiChoiceListItem.svelte-na99np{display:flex;font-size:16px;align-items:center;margin:12px 0 0 0}.clickable.svelte-na99np:hover{cursor:pointer}.multiChoiceListItemName.svelte-na99np{flex:1 0 0;margin-left:5px}.nestedChoiceList.svelte-na99np{padding-left:25px}";
-	append(document.head, style);
+function add_css$7(target) {
+	append_styles(target, "svelte-na99np", ".multiChoiceListItem.svelte-na99np{display:flex;font-size:16px;align-items:center;margin:12px 0 0 0}.clickable.svelte-na99np:hover{cursor:pointer}.multiChoiceListItemName.svelte-na99np{flex:1 0 0;margin-left:5px}.nestedChoiceList.svelte-na99np{padding-left:25px}");
 }
 
 // (43:4) {#if !collapseId || (collapseId && choice.id !== collapseId)}
 function create_if_block$2(ctx) {
 	let if_block_anchor;
 	let current;
-	let if_block = !/*choice*/ ctx[0].collapsed && create_if_block_1(ctx);
+	let if_block = !/*choice*/ ctx[0].collapsed && create_if_block_1$1(ctx);
 
 	return {
 		c() {
@@ -2437,7 +2377,7 @@ function create_if_block$2(ctx) {
 						transition_in(if_block, 1);
 					}
 				} else {
-					if_block = create_if_block_1(ctx);
+					if_block = create_if_block_1$1(ctx);
 					if_block.c();
 					transition_in(if_block, 1);
 					if_block.m(if_block_anchor.parentNode, if_block_anchor);
@@ -2469,7 +2409,7 @@ function create_if_block$2(ctx) {
 }
 
 // (44:8) {#if !choice.collapsed}
-function create_if_block_1(ctx) {
+function create_if_block_1$1(ctx) {
 	let div;
 	let choicelist;
 	let updating_multiChoice;
@@ -2495,8 +2435,8 @@ function create_if_block_1(ctx) {
 	}
 
 	choicelist = new ChoiceList({ props: choicelist_props });
-	binding_callbacks.push(() => bind(choicelist, "multiChoice", choicelist_multiChoice_binding));
-	binding_callbacks.push(() => bind(choicelist, "choices", choicelist_choices_binding));
+	binding_callbacks.push(() => bind(choicelist, 'multiChoice', choicelist_multiChoice_binding));
+	binding_callbacks.push(() => bind(choicelist, 'choices', choicelist_choices_binding));
 	choicelist.$on("deleteChoice", /*deleteChoice_handler*/ ctx[16]);
 	choicelist.$on("configureChoice", /*configureChoice_handler*/ ctx[17]);
 	choicelist.$on("toggleCommand", /*toggleCommand_handler*/ ctx[18]);
@@ -2545,7 +2485,7 @@ function create_if_block_1(ctx) {
 	};
 }
 
-function create_fragment$9(ctx) {
+function create_fragment$a(ctx) {
 	let div2;
 	let div1;
 	let div0;
@@ -2607,10 +2547,10 @@ function create_fragment$9(ctx) {
 	}
 
 	rightbuttons = new ChoiceItemRightButtons({ props: rightbuttons_props });
-	binding_callbacks.push(() => bind(rightbuttons, "showConfigureButton", rightbuttons_showConfigureButton_binding));
-	binding_callbacks.push(() => bind(rightbuttons, "dragDisabled", rightbuttons_dragDisabled_binding));
-	binding_callbacks.push(() => bind(rightbuttons, "choiceName", rightbuttons_choiceName_binding));
-	binding_callbacks.push(() => bind(rightbuttons, "commandEnabled", rightbuttons_commandEnabled_binding));
+	binding_callbacks.push(() => bind(rightbuttons, 'showConfigureButton', rightbuttons_showConfigureButton_binding));
+	binding_callbacks.push(() => bind(rightbuttons, 'dragDisabled', rightbuttons_dragDisabled_binding));
+	binding_callbacks.push(() => bind(rightbuttons, 'choiceName', rightbuttons_choiceName_binding));
+	binding_callbacks.push(() => bind(rightbuttons, 'commandEnabled', rightbuttons_commandEnabled_binding));
 	rightbuttons.$on("mousedown", /*mousedown_handler*/ ctx[12]);
 	rightbuttons.$on("touchstart", /*touchstart_handler*/ ctx[13]);
 	rightbuttons.$on("deleteChoice", /*deleteChoice*/ ctx[4]);
@@ -2733,7 +2673,7 @@ function create_fragment$9(ctx) {
 	};
 }
 
-function instance$9($$self, $$props, $$invalidate) {
+function instance$a($$self, $$props, $$invalidate) {
 	let { choice } = $$props;
 	let { collapseId } = $$props;
 	let { dragDisabled } = $$props;
@@ -2741,15 +2681,15 @@ function instance$9($$self, $$props, $$invalidate) {
 	const dispatcher = createEventDispatcher();
 
 	function deleteChoice(e) {
-		dispatcher("deleteChoice", { choice });
+		dispatcher('deleteChoice', { choice });
 	}
 
 	function configureChoice() {
-		dispatcher("configureChoice", { choice });
+		dispatcher('configureChoice', { choice });
 	}
 
 	function toggleCommandForChoice() {
-		dispatcher("toggleCommand", { choice });
+		dispatcher('toggleCommand', { choice });
 	}
 
 	const click_handler = () => $$invalidate(0, choice.collapsed = !choice.collapsed, choice);
@@ -2811,9 +2751,9 @@ function instance$9($$self, $$props, $$invalidate) {
 	}
 
 	$$self.$$set = $$props => {
-		if ("choice" in $$props) $$invalidate(0, choice = $$props.choice);
-		if ("collapseId" in $$props) $$invalidate(2, collapseId = $$props.collapseId);
-		if ("dragDisabled" in $$props) $$invalidate(1, dragDisabled = $$props.dragDisabled);
+		if ('choice' in $$props) $$invalidate(0, choice = $$props.choice);
+		if ('collapseId' in $$props) $$invalidate(2, collapseId = $$props.collapseId);
+		if ('dragDisabled' in $$props) $$invalidate(1, dragDisabled = $$props.dragDisabled);
 	};
 
 	return [
@@ -2842,13 +2782,20 @@ function instance$9($$self, $$props, $$invalidate) {
 class MultiChoiceListItem extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-na99np-style")) add_css$7();
 
-		init(this, options, instance$9, create_fragment$9, safe_not_equal, {
-			choice: 0,
-			collapseId: 2,
-			dragDisabled: 1
-		});
+		init(
+			this,
+			options,
+			instance$a,
+			create_fragment$a,
+			safe_not_equal,
+			{
+				choice: 0,
+				collapseId: 2,
+				dragDisabled: 1
+			},
+			add_css$7
+		);
 	}
 }
 
@@ -3608,7 +3555,7 @@ function makeScroller() {
  * @param {Object} object
  * @return {string}
  */
-function toString(object) {
+function toString$1(object) {
   return JSON.stringify(object, null, 2);
 }
 /**
@@ -5208,21 +5155,18 @@ function validateOptions(options) {
   });
 
   if (itemWithMissingId) {
-    throw new Error("missing '".concat(ITEM_ID_KEY, "' property for item ").concat(toString(itemWithMissingId)));
+    throw new Error("missing '".concat(ITEM_ID_KEY, "' property for item ").concat(toString$1(itemWithMissingId)));
   }
 
   if (dropTargetClasses && !Array.isArray(dropTargetClasses)) {
-    throw new Error("dropTargetClasses should be an array but instead it is a ".concat(_typeof(dropTargetClasses), ", ").concat(toString(dropTargetClasses)));
+    throw new Error("dropTargetClasses should be an array but instead it is a ".concat(_typeof(dropTargetClasses), ", ").concat(toString$1(dropTargetClasses)));
   }
 }
 
-/* src/gui/choiceList/ChoiceList.svelte generated by Svelte v3.38.3 */
+/* src/gui/choiceList/ChoiceList.svelte generated by Svelte v3.42.1 */
 
-function add_css$6() {
-	var style = element("style");
-	style.id = "svelte-jb273g-style";
-	style.textContent = ".choiceList.svelte-jb273g{width:auto;border:0 solid black;overflow-y:auto;height:auto}";
-	append(document.head, style);
+function add_css$6(target) {
+	append_styles(target, "svelte-jb273g", ".choiceList.svelte-jb273g{width:auto;border:0 solid black;overflow-y:auto;height:auto}");
 }
 
 function get_each_context$2(ctx, list, i) {
@@ -5268,9 +5212,9 @@ function create_else_block$1(ctx) {
 	}
 
 	multichoicelistitem = new MultiChoiceListItem({ props: multichoicelistitem_props });
-	binding_callbacks.push(() => bind(multichoicelistitem, "dragDisabled", multichoicelistitem_dragDisabled_binding));
-	binding_callbacks.push(() => bind(multichoicelistitem, "collapseId", multichoicelistitem_collapseId_binding));
-	binding_callbacks.push(() => bind(multichoicelistitem, "choice", multichoicelistitem_choice_binding));
+	binding_callbacks.push(() => bind(multichoicelistitem, 'dragDisabled', multichoicelistitem_dragDisabled_binding));
+	binding_callbacks.push(() => bind(multichoicelistitem, 'collapseId', multichoicelistitem_collapseId_binding));
+	binding_callbacks.push(() => bind(multichoicelistitem, 'choice', multichoicelistitem_choice_binding));
 	multichoicelistitem.$on("mousedown", /*startDrag*/ ctx[6]);
 	multichoicelistitem.$on("touchstart", /*startDrag*/ ctx[6]);
 	multichoicelistitem.$on("deleteChoice", /*deleteChoice_handler_1*/ ctx[16]);
@@ -5350,8 +5294,8 @@ function create_if_block$1(ctx) {
 	}
 
 	choicelistitem = new ChoiceListItem({ props: choicelistitem_props });
-	binding_callbacks.push(() => bind(choicelistitem, "dragDisabled", choicelistitem_dragDisabled_binding));
-	binding_callbacks.push(() => bind(choicelistitem, "choice", choicelistitem_choice_binding));
+	binding_callbacks.push(() => bind(choicelistitem, 'dragDisabled', choicelistitem_dragDisabled_binding));
+	binding_callbacks.push(() => bind(choicelistitem, 'choice', choicelistitem_choice_binding));
 	choicelistitem.$on("mousedown", /*startDrag*/ ctx[6]);
 	choicelistitem.$on("touchstart", /*startDrag*/ ctx[6]);
 	choicelistitem.$on("deleteChoice", /*deleteChoice_handler*/ ctx[10]);
@@ -5477,7 +5421,7 @@ function create_each_block$2(key_1, ctx) {
 	};
 }
 
-function create_fragment$8(ctx) {
+function create_fragment$9(ctx) {
 	let div;
 	let each_blocks = [];
 	let each_1_lookup = new Map();
@@ -5506,8 +5450,8 @@ function create_fragment$8(ctx) {
 			attr(div, "class", "choiceList svelte-jb273g");
 
 			attr(div, "style", div_style_value = /*choices*/ ctx[0].length === 0
-			? "padding-bottom: 0.5rem"
-			: "");
+			? 'padding-bottom: 0.5rem'
+			: '');
 		},
 		m(target, anchor) {
 			insert(target, div, anchor);
@@ -5541,8 +5485,8 @@ function create_fragment$8(ctx) {
 			}
 
 			if (!current || dirty & /*choices*/ 1 && div_style_value !== (div_style_value = /*choices*/ ctx[0].length === 0
-			? "padding-bottom: 0.5rem"
-			: "")) {
+			? 'padding-bottom: 0.5rem'
+			: '')) {
 				attr(div, "style", div_style_value);
 			}
 
@@ -5581,14 +5525,14 @@ function create_fragment$8(ctx) {
 	};
 }
 
-function instance$8($$self, $$props, $$invalidate) {
+function instance$9($$self, $$props, $$invalidate) {
 	let { choices = [] } = $$props;
 	let collapseId;
 	let dragDisabled = true;
 	const dispatcher = createEventDispatcher();
 
 	function emitChoicesReordered() {
-		dispatcher("reorderChoices", { choices });
+		dispatcher('reorderChoices', { choices });
 	}
 
 	function handleConsider(e) {
@@ -5666,7 +5610,7 @@ function instance$8($$self, $$props, $$invalidate) {
 	}
 
 	$$self.$$set = $$props => {
-		if ("choices" in $$props) $$invalidate(0, choices = $$props.choices);
+		if ('choices' in $$props) $$invalidate(0, choices = $$props.choices);
 	};
 
 	return [
@@ -5695,21 +5639,17 @@ function instance$8($$self, $$props, $$invalidate) {
 class ChoiceList extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-jb273g-style")) add_css$6();
-		init(this, options, instance$8, create_fragment$8, safe_not_equal, { choices: 0 });
+		init(this, options, instance$9, create_fragment$9, safe_not_equal, { choices: 0 }, add_css$6);
 	}
 }
 
-/* src/gui/choiceList/AddChoiceBox.svelte generated by Svelte v3.38.3 */
+/* src/gui/choiceList/AddChoiceBox.svelte generated by Svelte v3.42.1 */
 
-function add_css$5() {
-	var style = element("style");
-	style.id = "svelte-1rldgl5-style";
-	style.textContent = ".addChoiceBox.svelte-1rldgl5{margin-top:1em;display:flex;align-items:center;gap:10px;justify-content:center}#addChoiceTypeSelector.svelte-1rldgl5{font-size:16px;padding:3px;border-radius:3px}";
-	append(document.head, style);
+function add_css$5(target) {
+	append_styles(target, "svelte-1newuee", ".addChoiceBox.svelte-1newuee{margin-top:1em;display:flex;flex-direction:row;align-items:center;gap:10px;justify-content:center}@media(max-width: 800px){.addChoiceBox.svelte-1newuee{flex-direction:column}}#addChoiceTypeSelector.svelte-1newuee{font-size:16px;padding:3px;border-radius:3px}");
 }
 
-function create_fragment$7(ctx) {
+function create_fragment$8(ctx) {
 	let div;
 	let input;
 	let t0;
@@ -5759,10 +5699,10 @@ function create_fragment$7(ctx) {
 			option3.__value = ChoiceType.Multi;
 			option3.value = option3.__value;
 			attr(select, "id", "addChoiceTypeSelector");
-			attr(select, "class", "svelte-1rldgl5");
+			attr(select, "class", "svelte-1newuee");
 			if (/*type*/ ctx[1] === void 0) add_render_callback(() => /*select_change_handler*/ ctx[4].call(select));
 			attr(button, "class", "mod-cta");
-			attr(div, "class", "addChoiceBox svelte-1rldgl5");
+			attr(div, "class", "addChoiceBox svelte-1newuee");
 		},
 		m(target, anchor) {
 			insert(target, div, anchor);
@@ -5811,7 +5751,7 @@ function create_fragment$7(ctx) {
 	};
 }
 
-function instance$7($$self, $$props, $$invalidate) {
+function instance$8($$self, $$props, $$invalidate) {
 	let name;
 	let type;
 	const dispatch = createEventDispatcher();
@@ -5822,7 +5762,7 @@ function instance$7($$self, $$props, $$invalidate) {
 			return;
 		}
 
-		dispatch("addChoice", { name, type });
+		dispatch('addChoice', { name, type });
 		$$invalidate(0, name = "");
 	}
 
@@ -5842,8 +5782,7 @@ function instance$7($$self, $$props, $$invalidate) {
 class AddChoiceBox extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-1rldgl5-style")) add_css$5();
-		init(this, options, instance$7, create_fragment$7, safe_not_equal, {});
+		init(this, options, instance$8, create_fragment$8, safe_not_equal, {}, add_css$5);
 	}
 }
 
@@ -5941,7 +5880,7 @@ class TemplateChoice extends Choice {
         super(name, ChoiceType.Template);
         this.templatePath = "";
         this.fileNameFormat = { enabled: false, format: "" };
-        this.folder = { enabled: false, folders: [], chooseWhenCreatingNote: false };
+        this.folder = { enabled: false, folders: [], chooseWhenCreatingNote: false, createInSameFolderAsActiveFile: false };
         this.openFileInNewTab = { enabled: false, direction: NewTabDirection.vertical };
         this.appendLink = false;
         this.incrementFileName = false;
@@ -5967,7 +5906,7 @@ class CaptureChoice extends Choice {
         this.captureToActiveFile = false;
         this.createFileIfItDoesntExist = { enabled: false, createWithTemplate: false, template: "" };
         this.format = { enabled: false, format: "" };
-        this.insertAfter = { enabled: false, after: "", insertAtEnd: false };
+        this.insertAfter = { enabled: false, after: "", insertAtEnd: false, createIfNotFound: false, createIfNotFoundLocation: "top" };
         this.prepend = false;
         this.task = false;
     }
@@ -5991,16 +5930,13 @@ class MultiChoice extends Choice {
     }
 }
 
-/* src/gui/GenericYesNoPrompt/GenericYesNoPromptContent.svelte generated by Svelte v3.38.3 */
+/* src/gui/GenericYesNoPrompt/GenericYesNoPromptContent.svelte generated by Svelte v3.42.1 */
 
-function add_css$4() {
-	var style = element("style");
-	style.id = "svelte-1qg9c18-style";
-	style.textContent = ".yesNoPromptButtonContainer.svelte-1qg9c18{display:flex;align-items:center;justify-content:space-around;margin-top:2rem}p.svelte-1qg9c18{text-align:center}button.svelte-1qg9c18{font-size:18px}";
-	append(document.head, style);
+function add_css$4(target) {
+	append_styles(target, "svelte-1qg9c18", ".yesNoPromptButtonContainer.svelte-1qg9c18{display:flex;align-items:center;justify-content:space-around;margin-top:2rem}p.svelte-1qg9c18{text-align:center}button.svelte-1qg9c18{font-size:18px}");
 }
 
-function create_fragment$6(ctx) {
+function create_fragment$7(ctx) {
 	let div1;
 	let h1;
 	let t0;
@@ -6073,7 +6009,7 @@ function create_fragment$6(ctx) {
 	};
 }
 
-function instance$6($$self, $$props, $$invalidate) {
+function instance$7($$self, $$props, $$invalidate) {
 	let { header = "" } = $$props;
 	let { value = "" } = $$props;
 	let { text = "" } = $$props;
@@ -6087,10 +6023,10 @@ function instance$6($$self, $$props, $$invalidate) {
 	const click_handler_1 = () => submit(true);
 
 	$$self.$$set = $$props => {
-		if ("header" in $$props) $$invalidate(0, header = $$props.header);
-		if ("value" in $$props) $$invalidate(3, value = $$props.value);
-		if ("text" in $$props) $$invalidate(1, text = $$props.text);
-		if ("onSubmit" in $$props) $$invalidate(4, onSubmit = $$props.onSubmit);
+		if ('header' in $$props) $$invalidate(0, header = $$props.header);
+		if ('value' in $$props) $$invalidate(3, value = $$props.value);
+		if ('text' in $$props) $$invalidate(1, text = $$props.text);
+		if ('onSubmit' in $$props) $$invalidate(4, onSubmit = $$props.onSubmit);
 	};
 
 	return [header, text, submit, value, onSubmit, click_handler, click_handler_1];
@@ -6099,14 +6035,21 @@ function instance$6($$self, $$props, $$invalidate) {
 class GenericYesNoPromptContent extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-1qg9c18-style")) add_css$4();
 
-		init(this, options, instance$6, create_fragment$6, safe_not_equal, {
-			header: 0,
-			value: 3,
-			text: 1,
-			onSubmit: 4
-		});
+		init(
+			this,
+			options,
+			instance$7,
+			create_fragment$7,
+			safe_not_equal,
+			{
+				header: 0,
+				value: 3,
+				text: 1,
+				onSubmit: 4
+			},
+			add_css$4
+		);
 	}
 }
 
@@ -6303,17 +6246,31 @@ function getBasePlacement(placement) {
   return placement.split('-')[0];
 }
 
-function getBoundingClientRect(element) {
+var round$1 = Math.round;
+function getBoundingClientRect(element, includeScale) {
+  if (includeScale === void 0) {
+    includeScale = false;
+  }
+
   var rect = element.getBoundingClientRect();
+  var scaleX = 1;
+  var scaleY = 1;
+
+  if (isHTMLElement(element) && includeScale) {
+    // Fallback to 1 in case both values are `0`
+    scaleX = rect.width / element.offsetWidth || 1;
+    scaleY = rect.height / element.offsetHeight || 1;
+  }
+
   return {
-    width: rect.width,
-    height: rect.height,
-    top: rect.top,
-    right: rect.right,
-    bottom: rect.bottom,
-    left: rect.left,
-    x: rect.left,
-    y: rect.top
+    width: round$1(rect.width / scaleX),
+    height: round$1(rect.height / scaleY),
+    top: round$1(rect.top / scaleY),
+    right: round$1(rect.right / scaleX),
+    bottom: round$1(rect.bottom / scaleY),
+    left: round$1(rect.left / scaleX),
+    x: round$1(rect.left / scaleX),
+    y: round$1(rect.top / scaleY)
   };
 }
 
@@ -7564,16 +7521,24 @@ function getNodeScroll(node) {
   }
 }
 
+function isElementScaled(element) {
+  var rect = element.getBoundingClientRect();
+  var scaleX = rect.width / element.offsetWidth || 1;
+  var scaleY = rect.height / element.offsetHeight || 1;
+  return scaleX !== 1 || scaleY !== 1;
+} // Returns the composite rect of an element relative to its offsetParent.
 // Composite means it takes into account transforms as well as layout.
+
 
 function getCompositeRect(elementOrVirtualElement, offsetParent, isFixed) {
   if (isFixed === void 0) {
     isFixed = false;
   }
 
-  var documentElement = getDocumentElement(offsetParent);
-  var rect = getBoundingClientRect(elementOrVirtualElement);
   var isOffsetParentAnElement = isHTMLElement(offsetParent);
+  var offsetParentIsScaled = isHTMLElement(offsetParent) && isElementScaled(offsetParent);
+  var documentElement = getDocumentElement(offsetParent);
+  var rect = getBoundingClientRect(elementOrVirtualElement, offsetParentIsScaled);
   var scroll = {
     scrollLeft: 0,
     scrollTop: 0
@@ -7590,7 +7555,7 @@ function getCompositeRect(elementOrVirtualElement, offsetParent, isFixed) {
     }
 
     if (isHTMLElement(offsetParent)) {
-      offsets = getBoundingClientRect(offsetParent);
+      offsets = getBoundingClientRect(offsetParent, true);
       offsets.x += offsetParent.clientLeft;
       offsets.y += offsetParent.clientTop;
     } else if (documentElement) {
@@ -7665,7 +7630,7 @@ function debounce(fn) {
   };
 }
 
-function format(str) {
+function format$1(str) {
   for (var _len = arguments.length, args = new Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
     args[_key - 1] = arguments[_key];
   }
@@ -7684,47 +7649,47 @@ function validateModifiers(modifiers) {
       switch (key) {
         case 'name':
           if (typeof modifier.name !== 'string') {
-            console.error(format(INVALID_MODIFIER_ERROR, String(modifier.name), '"name"', '"string"', "\"" + String(modifier.name) + "\""));
+            console.error(format$1(INVALID_MODIFIER_ERROR, String(modifier.name), '"name"', '"string"', "\"" + String(modifier.name) + "\""));
           }
 
           break;
 
         case 'enabled':
           if (typeof modifier.enabled !== 'boolean') {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"enabled"', '"boolean"', "\"" + String(modifier.enabled) + "\""));
+            console.error(format$1(INVALID_MODIFIER_ERROR, modifier.name, '"enabled"', '"boolean"', "\"" + String(modifier.enabled) + "\""));
           }
 
         case 'phase':
           if (modifierPhases.indexOf(modifier.phase) < 0) {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"phase"', "either " + modifierPhases.join(', '), "\"" + String(modifier.phase) + "\""));
+            console.error(format$1(INVALID_MODIFIER_ERROR, modifier.name, '"phase"', "either " + modifierPhases.join(', '), "\"" + String(modifier.phase) + "\""));
           }
 
           break;
 
         case 'fn':
           if (typeof modifier.fn !== 'function') {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"fn"', '"function"', "\"" + String(modifier.fn) + "\""));
+            console.error(format$1(INVALID_MODIFIER_ERROR, modifier.name, '"fn"', '"function"', "\"" + String(modifier.fn) + "\""));
           }
 
           break;
 
         case 'effect':
           if (typeof modifier.effect !== 'function') {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"effect"', '"function"', "\"" + String(modifier.fn) + "\""));
+            console.error(format$1(INVALID_MODIFIER_ERROR, modifier.name, '"effect"', '"function"', "\"" + String(modifier.fn) + "\""));
           }
 
           break;
 
         case 'requires':
           if (!Array.isArray(modifier.requires)) {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"requires"', '"array"', "\"" + String(modifier.requires) + "\""));
+            console.error(format$1(INVALID_MODIFIER_ERROR, modifier.name, '"requires"', '"array"', "\"" + String(modifier.requires) + "\""));
           }
 
           break;
 
         case 'requiresIfExists':
           if (!Array.isArray(modifier.requiresIfExists)) {
-            console.error(format(INVALID_MODIFIER_ERROR, modifier.name, '"requiresIfExists"', '"array"', "\"" + String(modifier.requiresIfExists) + "\""));
+            console.error(format$1(INVALID_MODIFIER_ERROR, modifier.name, '"requiresIfExists"', '"array"', "\"" + String(modifier.requiresIfExists) + "\""));
           }
 
           break;
@@ -7743,7 +7708,7 @@ function validateModifiers(modifiers) {
         if (modifiers.find(function (mod) {
           return mod.name === requirement;
         }) == null) {
-          console.error(format(MISSING_DEPENDENCY_ERROR, String(modifier.name), requirement, requirement));
+          console.error(format$1(MISSING_DEPENDENCY_ERROR, String(modifier.name), requirement, requirement));
         }
       });
     });
@@ -8203,6 +8168,9 @@ const FILE_NAME_FORMAT_SYNTAX = [
 ];
 const FILE_NUMBER_REGEX = new RegExp(/([0-9]*)\.md$/);
 const NUMBER_REGEX = new RegExp(/^-?[0-9]*$/);
+const CREATE_IF_NOT_FOUND_TOP = "top";
+const CREATE_IF_NOT_FOUND_BOTTOM = "bottom";
+// == Format Syntax == //
 const DATE_REGEX = new RegExp(/{{DATE(\+-?[0-9]+)?}}/);
 const DATE_REGEX_FORMATTED = new RegExp(/{{DATE:([^}\n\r+]*)(\+-?[0-9]+)?}}/);
 const NAME_VALUE_REGEX = new RegExp(/{{NAME}}|{{VALUE}}/);
@@ -8214,6 +8182,8 @@ const JAVASCRIPT_FILE_EXTENSION_REGEX = new RegExp(/\.js$/);
 const MACRO_REGEX = new RegExp(/{{MACRO:([^\n\r}]*)}}/);
 const TEMPLATE_REGEX = new RegExp(/{{TEMPLATE:([^\n\r}]*.md)}}/);
 const LINEBREAK_REGEX = new RegExp(/\\n/);
+const INLINE_JAVASCRIPT_REGEX = new RegExp(/`{3,}js quickadd([\s\S]*?)`{3,}/);
+// This is not an accurate wikilink regex - but works for its intended purpose.
 const FILE_LINK_REGEX = new RegExp(/\[\[([^\]]*)$/);
 const TAG_REGEX = new RegExp(/#([^ ]*)$/);
 // == Format Syntax Suggestion == //
@@ -8232,6 +8202,1789 @@ const fileExistsAppendToTop = "Append to the top of the file";
 const fileExistsOverwriteFile = "Overwrite the file";
 const fileExistsDoNothing = "Nothing";
 const fileExistsChoices = [fileExistsAppendToBottom, fileExistsAppendToTop, fileExistsOverwriteFile, fileExistsDoNothing];
+// == MISC == //
+const WIKI_LINK_REGEX = new RegExp(/\[\[([^\]]*)\]\]/);
+
+/**
+ * Fuse.js v6.4.6 - Lightweight fuzzy-search (http://fusejs.io)
+ *
+ * Copyright (c) 2021 Kiro Risk (http://kiro.me)
+ * All Rights Reserved. Apache Software License 2.0
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ */
+
+function isArray(value) {
+  return !Array.isArray
+    ? getTag(value) === '[object Array]'
+    : Array.isArray(value)
+}
+
+// Adapted from: https://github.com/lodash/lodash/blob/master/.internal/baseToString.js
+const INFINITY = 1 / 0;
+function baseToString(value) {
+  // Exit early for strings to avoid a performance hit in some environments.
+  if (typeof value == 'string') {
+    return value
+  }
+  let result = value + '';
+  return result == '0' && 1 / value == -INFINITY ? '-0' : result
+}
+
+function toString(value) {
+  return value == null ? '' : baseToString(value)
+}
+
+function isString(value) {
+  return typeof value === 'string'
+}
+
+function isNumber(value) {
+  return typeof value === 'number'
+}
+
+// Adapted from: https://github.com/lodash/lodash/blob/master/isBoolean.js
+function isBoolean(value) {
+  return (
+    value === true ||
+    value === false ||
+    (isObjectLike(value) && getTag(value) == '[object Boolean]')
+  )
+}
+
+function isObject(value) {
+  return typeof value === 'object'
+}
+
+// Checks if `value` is object-like.
+function isObjectLike(value) {
+  return isObject(value) && value !== null
+}
+
+function isDefined(value) {
+  return value !== undefined && value !== null
+}
+
+function isBlank(value) {
+  return !value.trim().length
+}
+
+// Gets the `toStringTag` of `value`.
+// Adapted from: https://github.com/lodash/lodash/blob/master/.internal/getTag.js
+function getTag(value) {
+  return value == null
+    ? value === undefined
+      ? '[object Undefined]'
+      : '[object Null]'
+    : Object.prototype.toString.call(value)
+}
+
+const EXTENDED_SEARCH_UNAVAILABLE = 'Extended search is not available';
+
+const INCORRECT_INDEX_TYPE = "Incorrect 'index' type";
+
+const LOGICAL_SEARCH_INVALID_QUERY_FOR_KEY = (key) =>
+  `Invalid value for key ${key}`;
+
+const PATTERN_LENGTH_TOO_LARGE = (max) =>
+  `Pattern length exceeds max of ${max}.`;
+
+const MISSING_KEY_PROPERTY = (name) => `Missing ${name} property in key`;
+
+const INVALID_KEY_WEIGHT_VALUE = (key) =>
+  `Property 'weight' in key '${key}' must be a positive integer`;
+
+const hasOwn = Object.prototype.hasOwnProperty;
+
+class KeyStore {
+  constructor(keys) {
+    this._keys = [];
+    this._keyMap = {};
+
+    let totalWeight = 0;
+
+    keys.forEach((key) => {
+      let obj = createKey(key);
+
+      totalWeight += obj.weight;
+
+      this._keys.push(obj);
+      this._keyMap[obj.id] = obj;
+
+      totalWeight += obj.weight;
+    });
+
+    // Normalize weights so that their sum is equal to 1
+    this._keys.forEach((key) => {
+      key.weight /= totalWeight;
+    });
+  }
+  get(keyId) {
+    return this._keyMap[keyId]
+  }
+  keys() {
+    return this._keys
+  }
+  toJSON() {
+    return JSON.stringify(this._keys)
+  }
+}
+
+function createKey(key) {
+  let path = null;
+  let id = null;
+  let src = null;
+  let weight = 1;
+
+  if (isString(key) || isArray(key)) {
+    src = key;
+    path = createKeyPath(key);
+    id = createKeyId(key);
+  } else {
+    if (!hasOwn.call(key, 'name')) {
+      throw new Error(MISSING_KEY_PROPERTY('name'))
+    }
+
+    const name = key.name;
+    src = name;
+
+    if (hasOwn.call(key, 'weight')) {
+      weight = key.weight;
+
+      if (weight <= 0) {
+        throw new Error(INVALID_KEY_WEIGHT_VALUE(name))
+      }
+    }
+
+    path = createKeyPath(name);
+    id = createKeyId(name);
+  }
+
+  return { path, id, weight, src }
+}
+
+function createKeyPath(key) {
+  return isArray(key) ? key : key.split('.')
+}
+
+function createKeyId(key) {
+  return isArray(key) ? key.join('.') : key
+}
+
+function get(obj, path) {
+  let list = [];
+  let arr = false;
+
+  const deepGet = (obj, path, index) => {
+    if (!isDefined(obj)) {
+      return
+    }
+    if (!path[index]) {
+      // If there's no path left, we've arrived at the object we care about.
+      list.push(obj);
+    } else {
+      let key = path[index];
+
+      const value = obj[key];
+
+      if (!isDefined(value)) {
+        return
+      }
+
+      // If we're at the last value in the path, and if it's a string/number/bool,
+      // add it to the list
+      if (
+        index === path.length - 1 &&
+        (isString(value) || isNumber(value) || isBoolean(value))
+      ) {
+        list.push(toString(value));
+      } else if (isArray(value)) {
+        arr = true;
+        // Search each item in the array.
+        for (let i = 0, len = value.length; i < len; i += 1) {
+          deepGet(value[i], path, index + 1);
+        }
+      } else if (path.length) {
+        // An object. Recurse further.
+        deepGet(value, path, index + 1);
+      }
+    }
+  };
+
+  // Backwards compatibility (since path used to be a string)
+  deepGet(obj, isString(path) ? path.split('.') : path, 0);
+
+  return arr ? list : list[0]
+}
+
+const MatchOptions = {
+  // Whether the matches should be included in the result set. When `true`, each record in the result
+  // set will include the indices of the matched characters.
+  // These can consequently be used for highlighting purposes.
+  includeMatches: false,
+  // When `true`, the matching function will continue to the end of a search pattern even if
+  // a perfect match has already been located in the string.
+  findAllMatches: false,
+  // Minimum number of characters that must be matched before a result is considered a match
+  minMatchCharLength: 1
+};
+
+const BasicOptions = {
+  // When `true`, the algorithm continues searching to the end of the input even if a perfect
+  // match is found before the end of the same input.
+  isCaseSensitive: false,
+  // When true, the matching function will continue to the end of a search pattern even if
+  includeScore: false,
+  // List of properties that will be searched. This also supports nested properties.
+  keys: [],
+  // Whether to sort the result list, by score
+  shouldSort: true,
+  // Default sort function: sort by ascending score, ascending index
+  sortFn: (a, b) =>
+    a.score === b.score ? (a.idx < b.idx ? -1 : 1) : a.score < b.score ? -1 : 1
+};
+
+const FuzzyOptions = {
+  // Approximately where in the text is the pattern expected to be found?
+  location: 0,
+  // At what point does the match algorithm give up. A threshold of '0.0' requires a perfect match
+  // (of both letters and location), a threshold of '1.0' would match anything.
+  threshold: 0.6,
+  // Determines how close the match must be to the fuzzy location (specified above).
+  // An exact letter match which is 'distance' characters away from the fuzzy location
+  // would score as a complete mismatch. A distance of '0' requires the match be at
+  // the exact location specified, a threshold of '1000' would require a perfect match
+  // to be within 800 characters of the fuzzy location to be found using a 0.8 threshold.
+  distance: 100
+};
+
+const AdvancedOptions = {
+  // When `true`, it enables the use of unix-like search commands
+  useExtendedSearch: false,
+  // The get function to use when fetching an object's properties.
+  // The default will search nested paths *ie foo.bar.baz*
+  getFn: get,
+  // When `true`, search will ignore `location` and `distance`, so it won't matter
+  // where in the string the pattern appears.
+  // More info: https://fusejs.io/concepts/scoring-theory.html#fuzziness-score
+  ignoreLocation: false,
+  // When `true`, the calculation for the relevance score (used for sorting) will
+  // ignore the field-length norm.
+  // More info: https://fusejs.io/concepts/scoring-theory.html#field-length-norm
+  ignoreFieldNorm: false
+};
+
+var Config = {
+  ...BasicOptions,
+  ...MatchOptions,
+  ...FuzzyOptions,
+  ...AdvancedOptions
+};
+
+const SPACE = /[^ ]+/g;
+
+// Field-length norm: the shorter the field, the higher the weight.
+// Set to 3 decimals to reduce index size.
+function norm(mantissa = 3) {
+  const cache = new Map();
+  const m = Math.pow(10, mantissa);
+
+  return {
+    get(value) {
+      const numTokens = value.match(SPACE).length;
+
+      if (cache.has(numTokens)) {
+        return cache.get(numTokens)
+      }
+
+      const norm = 1 / Math.sqrt(numTokens);
+
+      // In place of `toFixed(mantissa)`, for faster computation
+      const n = parseFloat(Math.round(norm * m) / m);
+
+      cache.set(numTokens, n);
+
+      return n
+    },
+    clear() {
+      cache.clear();
+    }
+  }
+}
+
+class FuseIndex {
+  constructor({ getFn = Config.getFn } = {}) {
+    this.norm = norm(3);
+    this.getFn = getFn;
+    this.isCreated = false;
+
+    this.setIndexRecords();
+  }
+  setSources(docs = []) {
+    this.docs = docs;
+  }
+  setIndexRecords(records = []) {
+    this.records = records;
+  }
+  setKeys(keys = []) {
+    this.keys = keys;
+    this._keysMap = {};
+    keys.forEach((key, idx) => {
+      this._keysMap[key.id] = idx;
+    });
+  }
+  create() {
+    if (this.isCreated || !this.docs.length) {
+      return
+    }
+
+    this.isCreated = true;
+
+    // List is Array<String>
+    if (isString(this.docs[0])) {
+      this.docs.forEach((doc, docIndex) => {
+        this._addString(doc, docIndex);
+      });
+    } else {
+      // List is Array<Object>
+      this.docs.forEach((doc, docIndex) => {
+        this._addObject(doc, docIndex);
+      });
+    }
+
+    this.norm.clear();
+  }
+  // Adds a doc to the end of the index
+  add(doc) {
+    const idx = this.size();
+
+    if (isString(doc)) {
+      this._addString(doc, idx);
+    } else {
+      this._addObject(doc, idx);
+    }
+  }
+  // Removes the doc at the specified index of the index
+  removeAt(idx) {
+    this.records.splice(idx, 1);
+
+    // Change ref index of every subsquent doc
+    for (let i = idx, len = this.size(); i < len; i += 1) {
+      this.records[i].i -= 1;
+    }
+  }
+  getValueForItemAtKeyId(item, keyId) {
+    return item[this._keysMap[keyId]]
+  }
+  size() {
+    return this.records.length
+  }
+  _addString(doc, docIndex) {
+    if (!isDefined(doc) || isBlank(doc)) {
+      return
+    }
+
+    let record = {
+      v: doc,
+      i: docIndex,
+      n: this.norm.get(doc)
+    };
+
+    this.records.push(record);
+  }
+  _addObject(doc, docIndex) {
+    let record = { i: docIndex, $: {} };
+
+    // Iterate over every key (i.e, path), and fetch the value at that key
+    this.keys.forEach((key, keyIndex) => {
+      // console.log(key)
+      let value = this.getFn(doc, key.path);
+
+      if (!isDefined(value)) {
+        return
+      }
+
+      if (isArray(value)) {
+        let subRecords = [];
+        const stack = [{ nestedArrIndex: -1, value }];
+
+        while (stack.length) {
+          const { nestedArrIndex, value } = stack.pop();
+
+          if (!isDefined(value)) {
+            continue
+          }
+
+          if (isString(value) && !isBlank(value)) {
+            let subRecord = {
+              v: value,
+              i: nestedArrIndex,
+              n: this.norm.get(value)
+            };
+
+            subRecords.push(subRecord);
+          } else if (isArray(value)) {
+            value.forEach((item, k) => {
+              stack.push({
+                nestedArrIndex: k,
+                value: item
+              });
+            });
+          }
+        }
+        record.$[keyIndex] = subRecords;
+      } else if (!isBlank(value)) {
+        let subRecord = {
+          v: value,
+          n: this.norm.get(value)
+        };
+
+        record.$[keyIndex] = subRecord;
+      }
+    });
+
+    this.records.push(record);
+  }
+  toJSON() {
+    return {
+      keys: this.keys,
+      records: this.records
+    }
+  }
+}
+
+function createIndex(keys, docs, { getFn = Config.getFn } = {}) {
+  const myIndex = new FuseIndex({ getFn });
+  myIndex.setKeys(keys.map(createKey));
+  myIndex.setSources(docs);
+  myIndex.create();
+  return myIndex
+}
+
+function parseIndex(data, { getFn = Config.getFn } = {}) {
+  const { keys, records } = data;
+  const myIndex = new FuseIndex({ getFn });
+  myIndex.setKeys(keys);
+  myIndex.setIndexRecords(records);
+  return myIndex
+}
+
+function computeScore(
+  pattern,
+  {
+    errors = 0,
+    currentLocation = 0,
+    expectedLocation = 0,
+    distance = Config.distance,
+    ignoreLocation = Config.ignoreLocation
+  } = {}
+) {
+  const accuracy = errors / pattern.length;
+
+  if (ignoreLocation) {
+    return accuracy
+  }
+
+  const proximity = Math.abs(expectedLocation - currentLocation);
+
+  if (!distance) {
+    // Dodge divide by zero error.
+    return proximity ? 1.0 : accuracy
+  }
+
+  return accuracy + proximity / distance
+}
+
+function convertMaskToIndices(
+  matchmask = [],
+  minMatchCharLength = Config.minMatchCharLength
+) {
+  let indices = [];
+  let start = -1;
+  let end = -1;
+  let i = 0;
+
+  for (let len = matchmask.length; i < len; i += 1) {
+    let match = matchmask[i];
+    if (match && start === -1) {
+      start = i;
+    } else if (!match && start !== -1) {
+      end = i - 1;
+      if (end - start + 1 >= minMatchCharLength) {
+        indices.push([start, end]);
+      }
+      start = -1;
+    }
+  }
+
+  // (i-1 - start) + 1 => i - start
+  if (matchmask[i - 1] && i - start >= minMatchCharLength) {
+    indices.push([start, i - 1]);
+  }
+
+  return indices
+}
+
+// Machine word size
+const MAX_BITS = 32;
+
+function search(
+  text,
+  pattern,
+  patternAlphabet,
+  {
+    location = Config.location,
+    distance = Config.distance,
+    threshold = Config.threshold,
+    findAllMatches = Config.findAllMatches,
+    minMatchCharLength = Config.minMatchCharLength,
+    includeMatches = Config.includeMatches,
+    ignoreLocation = Config.ignoreLocation
+  } = {}
+) {
+  if (pattern.length > MAX_BITS) {
+    throw new Error(PATTERN_LENGTH_TOO_LARGE(MAX_BITS))
+  }
+
+  const patternLen = pattern.length;
+  // Set starting location at beginning text and initialize the alphabet.
+  const textLen = text.length;
+  // Handle the case when location > text.length
+  const expectedLocation = Math.max(0, Math.min(location, textLen));
+  // Highest score beyond which we give up.
+  let currentThreshold = threshold;
+  // Is there a nearby exact match? (speedup)
+  let bestLocation = expectedLocation;
+
+  // Performance: only computer matches when the minMatchCharLength > 1
+  // OR if `includeMatches` is true.
+  const computeMatches = minMatchCharLength > 1 || includeMatches;
+  // A mask of the matches, used for building the indices
+  const matchMask = computeMatches ? Array(textLen) : [];
+
+  let index;
+
+  // Get all exact matches, here for speed up
+  while ((index = text.indexOf(pattern, bestLocation)) > -1) {
+    let score = computeScore(pattern, {
+      currentLocation: index,
+      expectedLocation,
+      distance,
+      ignoreLocation
+    });
+
+    currentThreshold = Math.min(score, currentThreshold);
+    bestLocation = index + patternLen;
+
+    if (computeMatches) {
+      let i = 0;
+      while (i < patternLen) {
+        matchMask[index + i] = 1;
+        i += 1;
+      }
+    }
+  }
+
+  // Reset the best location
+  bestLocation = -1;
+
+  let lastBitArr = [];
+  let finalScore = 1;
+  let binMax = patternLen + textLen;
+
+  const mask = 1 << (patternLen - 1);
+
+  for (let i = 0; i < patternLen; i += 1) {
+    // Scan for the best match; each iteration allows for one more error.
+    // Run a binary search to determine how far from the match location we can stray
+    // at this error level.
+    let binMin = 0;
+    let binMid = binMax;
+
+    while (binMin < binMid) {
+      const score = computeScore(pattern, {
+        errors: i,
+        currentLocation: expectedLocation + binMid,
+        expectedLocation,
+        distance,
+        ignoreLocation
+      });
+
+      if (score <= currentThreshold) {
+        binMin = binMid;
+      } else {
+        binMax = binMid;
+      }
+
+      binMid = Math.floor((binMax - binMin) / 2 + binMin);
+    }
+
+    // Use the result from this iteration as the maximum for the next.
+    binMax = binMid;
+
+    let start = Math.max(1, expectedLocation - binMid + 1);
+    let finish = findAllMatches
+      ? textLen
+      : Math.min(expectedLocation + binMid, textLen) + patternLen;
+
+    // Initialize the bit array
+    let bitArr = Array(finish + 2);
+
+    bitArr[finish + 1] = (1 << i) - 1;
+
+    for (let j = finish; j >= start; j -= 1) {
+      let currentLocation = j - 1;
+      let charMatch = patternAlphabet[text.charAt(currentLocation)];
+
+      if (computeMatches) {
+        // Speed up: quick bool to int conversion (i.e, `charMatch ? 1 : 0`)
+        matchMask[currentLocation] = +!!charMatch;
+      }
+
+      // First pass: exact match
+      bitArr[j] = ((bitArr[j + 1] << 1) | 1) & charMatch;
+
+      // Subsequent passes: fuzzy match
+      if (i) {
+        bitArr[j] |=
+          ((lastBitArr[j + 1] | lastBitArr[j]) << 1) | 1 | lastBitArr[j + 1];
+      }
+
+      if (bitArr[j] & mask) {
+        finalScore = computeScore(pattern, {
+          errors: i,
+          currentLocation,
+          expectedLocation,
+          distance,
+          ignoreLocation
+        });
+
+        // This match will almost certainly be better than any existing match.
+        // But check anyway.
+        if (finalScore <= currentThreshold) {
+          // Indeed it is
+          currentThreshold = finalScore;
+          bestLocation = currentLocation;
+
+          // Already passed `loc`, downhill from here on in.
+          if (bestLocation <= expectedLocation) {
+            break
+          }
+
+          // When passing `bestLocation`, don't exceed our current distance from `expectedLocation`.
+          start = Math.max(1, 2 * expectedLocation - bestLocation);
+        }
+      }
+    }
+
+    // No hope for a (better) match at greater error levels.
+    const score = computeScore(pattern, {
+      errors: i + 1,
+      currentLocation: expectedLocation,
+      expectedLocation,
+      distance,
+      ignoreLocation
+    });
+
+    if (score > currentThreshold) {
+      break
+    }
+
+    lastBitArr = bitArr;
+  }
+
+  const result = {
+    isMatch: bestLocation >= 0,
+    // Count exact matches (those with a score of 0) to be "almost" exact
+    score: Math.max(0.001, finalScore)
+  };
+
+  if (computeMatches) {
+    const indices = convertMaskToIndices(matchMask, minMatchCharLength);
+    if (!indices.length) {
+      result.isMatch = false;
+    } else if (includeMatches) {
+      result.indices = indices;
+    }
+  }
+
+  return result
+}
+
+function createPatternAlphabet(pattern) {
+  let mask = {};
+
+  for (let i = 0, len = pattern.length; i < len; i += 1) {
+    const char = pattern.charAt(i);
+    mask[char] = (mask[char] || 0) | (1 << (len - i - 1));
+  }
+
+  return mask
+}
+
+class BitapSearch {
+  constructor(
+    pattern,
+    {
+      location = Config.location,
+      threshold = Config.threshold,
+      distance = Config.distance,
+      includeMatches = Config.includeMatches,
+      findAllMatches = Config.findAllMatches,
+      minMatchCharLength = Config.minMatchCharLength,
+      isCaseSensitive = Config.isCaseSensitive,
+      ignoreLocation = Config.ignoreLocation
+    } = {}
+  ) {
+    this.options = {
+      location,
+      threshold,
+      distance,
+      includeMatches,
+      findAllMatches,
+      minMatchCharLength,
+      isCaseSensitive,
+      ignoreLocation
+    };
+
+    this.pattern = isCaseSensitive ? pattern : pattern.toLowerCase();
+
+    this.chunks = [];
+
+    if (!this.pattern.length) {
+      return
+    }
+
+    const addChunk = (pattern, startIndex) => {
+      this.chunks.push({
+        pattern,
+        alphabet: createPatternAlphabet(pattern),
+        startIndex
+      });
+    };
+
+    const len = this.pattern.length;
+
+    if (len > MAX_BITS) {
+      let i = 0;
+      const remainder = len % MAX_BITS;
+      const end = len - remainder;
+
+      while (i < end) {
+        addChunk(this.pattern.substr(i, MAX_BITS), i);
+        i += MAX_BITS;
+      }
+
+      if (remainder) {
+        const startIndex = len - MAX_BITS;
+        addChunk(this.pattern.substr(startIndex), startIndex);
+      }
+    } else {
+      addChunk(this.pattern, 0);
+    }
+  }
+
+  searchIn(text) {
+    const { isCaseSensitive, includeMatches } = this.options;
+
+    if (!isCaseSensitive) {
+      text = text.toLowerCase();
+    }
+
+    // Exact match
+    if (this.pattern === text) {
+      let result = {
+        isMatch: true,
+        score: 0
+      };
+
+      if (includeMatches) {
+        result.indices = [[0, text.length - 1]];
+      }
+
+      return result
+    }
+
+    // Otherwise, use Bitap algorithm
+    const {
+      location,
+      distance,
+      threshold,
+      findAllMatches,
+      minMatchCharLength,
+      ignoreLocation
+    } = this.options;
+
+    let allIndices = [];
+    let totalScore = 0;
+    let hasMatches = false;
+
+    this.chunks.forEach(({ pattern, alphabet, startIndex }) => {
+      const { isMatch, score, indices } = search(text, pattern, alphabet, {
+        location: location + startIndex,
+        distance,
+        threshold,
+        findAllMatches,
+        minMatchCharLength,
+        includeMatches,
+        ignoreLocation
+      });
+
+      if (isMatch) {
+        hasMatches = true;
+      }
+
+      totalScore += score;
+
+      if (isMatch && indices) {
+        allIndices = [...allIndices, ...indices];
+      }
+    });
+
+    let result = {
+      isMatch: hasMatches,
+      score: hasMatches ? totalScore / this.chunks.length : 1
+    };
+
+    if (hasMatches && includeMatches) {
+      result.indices = allIndices;
+    }
+
+    return result
+  }
+}
+
+class BaseMatch {
+  constructor(pattern) {
+    this.pattern = pattern;
+  }
+  static isMultiMatch(pattern) {
+    return getMatch(pattern, this.multiRegex)
+  }
+  static isSingleMatch(pattern) {
+    return getMatch(pattern, this.singleRegex)
+  }
+  search(/*text*/) {}
+}
+
+function getMatch(pattern, exp) {
+  const matches = pattern.match(exp);
+  return matches ? matches[1] : null
+}
+
+// Token: 'file
+
+class ExactMatch extends BaseMatch {
+  constructor(pattern) {
+    super(pattern);
+  }
+  static get type() {
+    return 'exact'
+  }
+  static get multiRegex() {
+    return /^="(.*)"$/
+  }
+  static get singleRegex() {
+    return /^=(.*)$/
+  }
+  search(text) {
+    const isMatch = text === this.pattern;
+
+    return {
+      isMatch,
+      score: isMatch ? 0 : 1,
+      indices: [0, this.pattern.length - 1]
+    }
+  }
+}
+
+// Token: !fire
+
+class InverseExactMatch extends BaseMatch {
+  constructor(pattern) {
+    super(pattern);
+  }
+  static get type() {
+    return 'inverse-exact'
+  }
+  static get multiRegex() {
+    return /^!"(.*)"$/
+  }
+  static get singleRegex() {
+    return /^!(.*)$/
+  }
+  search(text) {
+    const index = text.indexOf(this.pattern);
+    const isMatch = index === -1;
+
+    return {
+      isMatch,
+      score: isMatch ? 0 : 1,
+      indices: [0, text.length - 1]
+    }
+  }
+}
+
+// Token: ^file
+
+class PrefixExactMatch extends BaseMatch {
+  constructor(pattern) {
+    super(pattern);
+  }
+  static get type() {
+    return 'prefix-exact'
+  }
+  static get multiRegex() {
+    return /^\^"(.*)"$/
+  }
+  static get singleRegex() {
+    return /^\^(.*)$/
+  }
+  search(text) {
+    const isMatch = text.startsWith(this.pattern);
+
+    return {
+      isMatch,
+      score: isMatch ? 0 : 1,
+      indices: [0, this.pattern.length - 1]
+    }
+  }
+}
+
+// Token: !^fire
+
+class InversePrefixExactMatch extends BaseMatch {
+  constructor(pattern) {
+    super(pattern);
+  }
+  static get type() {
+    return 'inverse-prefix-exact'
+  }
+  static get multiRegex() {
+    return /^!\^"(.*)"$/
+  }
+  static get singleRegex() {
+    return /^!\^(.*)$/
+  }
+  search(text) {
+    const isMatch = !text.startsWith(this.pattern);
+
+    return {
+      isMatch,
+      score: isMatch ? 0 : 1,
+      indices: [0, text.length - 1]
+    }
+  }
+}
+
+// Token: .file$
+
+class SuffixExactMatch extends BaseMatch {
+  constructor(pattern) {
+    super(pattern);
+  }
+  static get type() {
+    return 'suffix-exact'
+  }
+  static get multiRegex() {
+    return /^"(.*)"\$$/
+  }
+  static get singleRegex() {
+    return /^(.*)\$$/
+  }
+  search(text) {
+    const isMatch = text.endsWith(this.pattern);
+
+    return {
+      isMatch,
+      score: isMatch ? 0 : 1,
+      indices: [text.length - this.pattern.length, text.length - 1]
+    }
+  }
+}
+
+// Token: !.file$
+
+class InverseSuffixExactMatch extends BaseMatch {
+  constructor(pattern) {
+    super(pattern);
+  }
+  static get type() {
+    return 'inverse-suffix-exact'
+  }
+  static get multiRegex() {
+    return /^!"(.*)"\$$/
+  }
+  static get singleRegex() {
+    return /^!(.*)\$$/
+  }
+  search(text) {
+    const isMatch = !text.endsWith(this.pattern);
+    return {
+      isMatch,
+      score: isMatch ? 0 : 1,
+      indices: [0, text.length - 1]
+    }
+  }
+}
+
+class FuzzyMatch extends BaseMatch {
+  constructor(
+    pattern,
+    {
+      location = Config.location,
+      threshold = Config.threshold,
+      distance = Config.distance,
+      includeMatches = Config.includeMatches,
+      findAllMatches = Config.findAllMatches,
+      minMatchCharLength = Config.minMatchCharLength,
+      isCaseSensitive = Config.isCaseSensitive,
+      ignoreLocation = Config.ignoreLocation
+    } = {}
+  ) {
+    super(pattern);
+    this._bitapSearch = new BitapSearch(pattern, {
+      location,
+      threshold,
+      distance,
+      includeMatches,
+      findAllMatches,
+      minMatchCharLength,
+      isCaseSensitive,
+      ignoreLocation
+    });
+  }
+  static get type() {
+    return 'fuzzy'
+  }
+  static get multiRegex() {
+    return /^"(.*)"$/
+  }
+  static get singleRegex() {
+    return /^(.*)$/
+  }
+  search(text) {
+    return this._bitapSearch.searchIn(text)
+  }
+}
+
+// Token: 'file
+
+class IncludeMatch extends BaseMatch {
+  constructor(pattern) {
+    super(pattern);
+  }
+  static get type() {
+    return 'include'
+  }
+  static get multiRegex() {
+    return /^'"(.*)"$/
+  }
+  static get singleRegex() {
+    return /^'(.*)$/
+  }
+  search(text) {
+    let location = 0;
+    let index;
+
+    const indices = [];
+    const patternLen = this.pattern.length;
+
+    // Get all exact matches
+    while ((index = text.indexOf(this.pattern, location)) > -1) {
+      location = index + patternLen;
+      indices.push([index, location - 1]);
+    }
+
+    const isMatch = !!indices.length;
+
+    return {
+      isMatch,
+      score: isMatch ? 0 : 1,
+      indices
+    }
+  }
+}
+
+// ❗Order is important. DO NOT CHANGE.
+const searchers = [
+  ExactMatch,
+  IncludeMatch,
+  PrefixExactMatch,
+  InversePrefixExactMatch,
+  InverseSuffixExactMatch,
+  SuffixExactMatch,
+  InverseExactMatch,
+  FuzzyMatch
+];
+
+const searchersLen = searchers.length;
+
+// Regex to split by spaces, but keep anything in quotes together
+const SPACE_RE = / +(?=([^\"]*\"[^\"]*\")*[^\"]*$)/;
+const OR_TOKEN = '|';
+
+// Return a 2D array representation of the query, for simpler parsing.
+// Example:
+// "^core go$ | rb$ | py$ xy$" => [["^core", "go$"], ["rb$"], ["py$", "xy$"]]
+function parseQuery(pattern, options = {}) {
+  return pattern.split(OR_TOKEN).map((item) => {
+    let query = item
+      .trim()
+      .split(SPACE_RE)
+      .filter((item) => item && !!item.trim());
+
+    let results = [];
+    for (let i = 0, len = query.length; i < len; i += 1) {
+      const queryItem = query[i];
+
+      // 1. Handle multiple query match (i.e, once that are quoted, like `"hello world"`)
+      let found = false;
+      let idx = -1;
+      while (!found && ++idx < searchersLen) {
+        const searcher = searchers[idx];
+        let token = searcher.isMultiMatch(queryItem);
+        if (token) {
+          results.push(new searcher(token, options));
+          found = true;
+        }
+      }
+
+      if (found) {
+        continue
+      }
+
+      // 2. Handle single query matches (i.e, once that are *not* quoted)
+      idx = -1;
+      while (++idx < searchersLen) {
+        const searcher = searchers[idx];
+        let token = searcher.isSingleMatch(queryItem);
+        if (token) {
+          results.push(new searcher(token, options));
+          break
+        }
+      }
+    }
+
+    return results
+  })
+}
+
+// These extended matchers can return an array of matches, as opposed
+// to a singl match
+const MultiMatchSet = new Set([FuzzyMatch.type, IncludeMatch.type]);
+
+/**
+ * Command-like searching
+ * ======================
+ *
+ * Given multiple search terms delimited by spaces.e.g. `^jscript .python$ ruby !java`,
+ * search in a given text.
+ *
+ * Search syntax:
+ *
+ * | Token       | Match type                 | Description                            |
+ * | ----------- | -------------------------- | -------------------------------------- |
+ * | `jscript`   | fuzzy-match                | Items that fuzzy match `jscript`       |
+ * | `=scheme`   | exact-match                | Items that are `scheme`                |
+ * | `'python`   | include-match              | Items that include `python`            |
+ * | `!ruby`     | inverse-exact-match        | Items that do not include `ruby`       |
+ * | `^java`     | prefix-exact-match         | Items that start with `java`           |
+ * | `!^earlang` | inverse-prefix-exact-match | Items that do not start with `earlang` |
+ * | `.js$`      | suffix-exact-match         | Items that end with `.js`              |
+ * | `!.go$`     | inverse-suffix-exact-match | Items that do not end with `.go`       |
+ *
+ * A single pipe character acts as an OR operator. For example, the following
+ * query matches entries that start with `core` and end with either`go`, `rb`,
+ * or`py`.
+ *
+ * ```
+ * ^core go$ | rb$ | py$
+ * ```
+ */
+class ExtendedSearch {
+  constructor(
+    pattern,
+    {
+      isCaseSensitive = Config.isCaseSensitive,
+      includeMatches = Config.includeMatches,
+      minMatchCharLength = Config.minMatchCharLength,
+      ignoreLocation = Config.ignoreLocation,
+      findAllMatches = Config.findAllMatches,
+      location = Config.location,
+      threshold = Config.threshold,
+      distance = Config.distance
+    } = {}
+  ) {
+    this.query = null;
+    this.options = {
+      isCaseSensitive,
+      includeMatches,
+      minMatchCharLength,
+      findAllMatches,
+      ignoreLocation,
+      location,
+      threshold,
+      distance
+    };
+
+    this.pattern = isCaseSensitive ? pattern : pattern.toLowerCase();
+    this.query = parseQuery(this.pattern, this.options);
+  }
+
+  static condition(_, options) {
+    return options.useExtendedSearch
+  }
+
+  searchIn(text) {
+    const query = this.query;
+
+    if (!query) {
+      return {
+        isMatch: false,
+        score: 1
+      }
+    }
+
+    const { includeMatches, isCaseSensitive } = this.options;
+
+    text = isCaseSensitive ? text : text.toLowerCase();
+
+    let numMatches = 0;
+    let allIndices = [];
+    let totalScore = 0;
+
+    // ORs
+    for (let i = 0, qLen = query.length; i < qLen; i += 1) {
+      const searchers = query[i];
+
+      // Reset indices
+      allIndices.length = 0;
+      numMatches = 0;
+
+      // ANDs
+      for (let j = 0, pLen = searchers.length; j < pLen; j += 1) {
+        const searcher = searchers[j];
+        const { isMatch, indices, score } = searcher.search(text);
+
+        if (isMatch) {
+          numMatches += 1;
+          totalScore += score;
+          if (includeMatches) {
+            const type = searcher.constructor.type;
+            if (MultiMatchSet.has(type)) {
+              allIndices = [...allIndices, ...indices];
+            } else {
+              allIndices.push(indices);
+            }
+          }
+        } else {
+          totalScore = 0;
+          numMatches = 0;
+          allIndices.length = 0;
+          break
+        }
+      }
+
+      // OR condition, so if TRUE, return
+      if (numMatches) {
+        let result = {
+          isMatch: true,
+          score: totalScore / numMatches
+        };
+
+        if (includeMatches) {
+          result.indices = allIndices;
+        }
+
+        return result
+      }
+    }
+
+    // Nothing was matched
+    return {
+      isMatch: false,
+      score: 1
+    }
+  }
+}
+
+const registeredSearchers = [];
+
+function register(...args) {
+  registeredSearchers.push(...args);
+}
+
+function createSearcher(pattern, options) {
+  for (let i = 0, len = registeredSearchers.length; i < len; i += 1) {
+    let searcherClass = registeredSearchers[i];
+    if (searcherClass.condition(pattern, options)) {
+      return new searcherClass(pattern, options)
+    }
+  }
+
+  return new BitapSearch(pattern, options)
+}
+
+const LogicalOperator = {
+  AND: '$and',
+  OR: '$or'
+};
+
+const KeyType = {
+  PATH: '$path',
+  PATTERN: '$val'
+};
+
+const isExpression = (query) =>
+  !!(query[LogicalOperator.AND] || query[LogicalOperator.OR]);
+
+const isPath = (query) => !!query[KeyType.PATH];
+
+const isLeaf = (query) =>
+  !isArray(query) && isObject(query) && !isExpression(query);
+
+const convertToExplicit = (query) => ({
+  [LogicalOperator.AND]: Object.keys(query).map((key) => ({
+    [key]: query[key]
+  }))
+});
+
+// When `auto` is `true`, the parse function will infer and initialize and add
+// the appropriate `Searcher` instance
+function parse(query, options, { auto = true } = {}) {
+  const next = (query) => {
+    let keys = Object.keys(query);
+
+    const isQueryPath = isPath(query);
+
+    if (!isQueryPath && keys.length > 1 && !isExpression(query)) {
+      return next(convertToExplicit(query))
+    }
+
+    if (isLeaf(query)) {
+      const key = isQueryPath ? query[KeyType.PATH] : keys[0];
+
+      const pattern = isQueryPath ? query[KeyType.PATTERN] : query[key];
+
+      if (!isString(pattern)) {
+        throw new Error(LOGICAL_SEARCH_INVALID_QUERY_FOR_KEY(key))
+      }
+
+      const obj = {
+        keyId: createKeyId(key),
+        pattern
+      };
+
+      if (auto) {
+        obj.searcher = createSearcher(pattern, options);
+      }
+
+      return obj
+    }
+
+    let node = {
+      children: [],
+      operator: keys[0]
+    };
+
+    keys.forEach((key) => {
+      const value = query[key];
+
+      if (isArray(value)) {
+        value.forEach((item) => {
+          node.children.push(next(item));
+        });
+      }
+    });
+
+    return node
+  };
+
+  if (!isExpression(query)) {
+    query = convertToExplicit(query);
+  }
+
+  return next(query)
+}
+
+// Practical scoring function
+function computeScore$1(
+  results,
+  { ignoreFieldNorm = Config.ignoreFieldNorm }
+) {
+  results.forEach((result) => {
+    let totalScore = 1;
+
+    result.matches.forEach(({ key, norm, score }) => {
+      const weight = key ? key.weight : null;
+
+      totalScore *= Math.pow(
+        score === 0 && weight ? Number.EPSILON : score,
+        (weight || 1) * (ignoreFieldNorm ? 1 : norm)
+      );
+    });
+
+    result.score = totalScore;
+  });
+}
+
+function transformMatches(result, data) {
+  const matches = result.matches;
+  data.matches = [];
+
+  if (!isDefined(matches)) {
+    return
+  }
+
+  matches.forEach((match) => {
+    if (!isDefined(match.indices) || !match.indices.length) {
+      return
+    }
+
+    const { indices, value } = match;
+
+    let obj = {
+      indices,
+      value
+    };
+
+    if (match.key) {
+      obj.key = match.key.src;
+    }
+
+    if (match.idx > -1) {
+      obj.refIndex = match.idx;
+    }
+
+    data.matches.push(obj);
+  });
+}
+
+function transformScore(result, data) {
+  data.score = result.score;
+}
+
+function format(
+  results,
+  docs,
+  {
+    includeMatches = Config.includeMatches,
+    includeScore = Config.includeScore
+  } = {}
+) {
+  const transformers = [];
+
+  if (includeMatches) transformers.push(transformMatches);
+  if (includeScore) transformers.push(transformScore);
+
+  return results.map((result) => {
+    const { idx } = result;
+
+    const data = {
+      item: docs[idx],
+      refIndex: idx
+    };
+
+    if (transformers.length) {
+      transformers.forEach((transformer) => {
+        transformer(result, data);
+      });
+    }
+
+    return data
+  })
+}
+
+class Fuse {
+  constructor(docs, options = {}, index) {
+    this.options = { ...Config, ...options };
+
+    if (
+      this.options.useExtendedSearch &&
+      !true
+    ) {
+      throw new Error(EXTENDED_SEARCH_UNAVAILABLE)
+    }
+
+    this._keyStore = new KeyStore(this.options.keys);
+
+    this.setCollection(docs, index);
+  }
+
+  setCollection(docs, index) {
+    this._docs = docs;
+
+    if (index && !(index instanceof FuseIndex)) {
+      throw new Error(INCORRECT_INDEX_TYPE)
+    }
+
+    this._myIndex =
+      index ||
+      createIndex(this.options.keys, this._docs, {
+        getFn: this.options.getFn
+      });
+  }
+
+  add(doc) {
+    if (!isDefined(doc)) {
+      return
+    }
+
+    this._docs.push(doc);
+    this._myIndex.add(doc);
+  }
+
+  remove(predicate = (/* doc, idx */) => false) {
+    const results = [];
+
+    for (let i = 0, len = this._docs.length; i < len; i += 1) {
+      const doc = this._docs[i];
+      if (predicate(doc, i)) {
+        this.removeAt(i);
+        i -= 1;
+        len -= 1;
+
+        results.push(doc);
+      }
+    }
+
+    return results
+  }
+
+  removeAt(idx) {
+    this._docs.splice(idx, 1);
+    this._myIndex.removeAt(idx);
+  }
+
+  getIndex() {
+    return this._myIndex
+  }
+
+  search(query, { limit = -1 } = {}) {
+    const {
+      includeMatches,
+      includeScore,
+      shouldSort,
+      sortFn,
+      ignoreFieldNorm
+    } = this.options;
+
+    let results = isString(query)
+      ? isString(this._docs[0])
+        ? this._searchStringList(query)
+        : this._searchObjectList(query)
+      : this._searchLogical(query);
+
+    computeScore$1(results, { ignoreFieldNorm });
+
+    if (shouldSort) {
+      results.sort(sortFn);
+    }
+
+    if (isNumber(limit) && limit > -1) {
+      results = results.slice(0, limit);
+    }
+
+    return format(results, this._docs, {
+      includeMatches,
+      includeScore
+    })
+  }
+
+  _searchStringList(query) {
+    const searcher = createSearcher(query, this.options);
+    const { records } = this._myIndex;
+    const results = [];
+
+    // Iterate over every string in the index
+    records.forEach(({ v: text, i: idx, n: norm }) => {
+      if (!isDefined(text)) {
+        return
+      }
+
+      const { isMatch, score, indices } = searcher.searchIn(text);
+
+      if (isMatch) {
+        results.push({
+          item: text,
+          idx,
+          matches: [{ score, value: text, norm, indices }]
+        });
+      }
+    });
+
+    return results
+  }
+
+  _searchLogical(query) {
+
+    const expression = parse(query, this.options);
+
+    const evaluate = (node, item, idx) => {
+      if (!node.children) {
+        const { keyId, searcher } = node;
+
+        const matches = this._findMatches({
+          key: this._keyStore.get(keyId),
+          value: this._myIndex.getValueForItemAtKeyId(item, keyId),
+          searcher
+        });
+
+        if (matches && matches.length) {
+          return [
+            {
+              idx,
+              item,
+              matches
+            }
+          ]
+        }
+
+        return []
+      }
+
+      /*eslint indent: [2, 2, {"SwitchCase": 1}]*/
+      switch (node.operator) {
+        case LogicalOperator.AND: {
+          const res = [];
+          for (let i = 0, len = node.children.length; i < len; i += 1) {
+            const child = node.children[i];
+            const result = evaluate(child, item, idx);
+            if (result.length) {
+              res.push(...result);
+            } else {
+              return []
+            }
+          }
+          return res
+        }
+        case LogicalOperator.OR: {
+          const res = [];
+          for (let i = 0, len = node.children.length; i < len; i += 1) {
+            const child = node.children[i];
+            const result = evaluate(child, item, idx);
+            if (result.length) {
+              res.push(...result);
+              break
+            }
+          }
+          return res
+        }
+      }
+    };
+
+    const records = this._myIndex.records;
+    const resultMap = {};
+    const results = [];
+
+    records.forEach(({ $: item, i: idx }) => {
+      if (isDefined(item)) {
+        let expResults = evaluate(expression, item, idx);
+
+        if (expResults.length) {
+          // Dedupe when adding
+          if (!resultMap[idx]) {
+            resultMap[idx] = { idx, item, matches: [] };
+            results.push(resultMap[idx]);
+          }
+          expResults.forEach(({ matches }) => {
+            resultMap[idx].matches.push(...matches);
+          });
+        }
+      }
+    });
+
+    return results
+  }
+
+  _searchObjectList(query) {
+    const searcher = createSearcher(query, this.options);
+    const { keys, records } = this._myIndex;
+    const results = [];
+
+    // List is Array<Object>
+    records.forEach(({ $: item, i: idx }) => {
+      if (!isDefined(item)) {
+        return
+      }
+
+      let matches = [];
+
+      // Iterate over every key (i.e, path), and fetch the value at that key
+      keys.forEach((key, keyIndex) => {
+        matches.push(
+          ...this._findMatches({
+            key,
+            value: item[keyIndex],
+            searcher
+          })
+        );
+      });
+
+      if (matches.length) {
+        results.push({
+          idx,
+          item,
+          matches
+        });
+      }
+    });
+
+    return results
+  }
+  _findMatches({ key, value, searcher }) {
+    if (!isDefined(value)) {
+      return []
+    }
+
+    let matches = [];
+
+    if (isArray(value)) {
+      value.forEach(({ v: text, i: idx, n: norm }) => {
+        if (!isDefined(text)) {
+          return
+        }
+
+        const { isMatch, score, indices } = searcher.searchIn(text);
+
+        if (isMatch) {
+          matches.push({
+            score,
+            key,
+            value: text,
+            idx,
+            norm,
+            indices
+          });
+        }
+      });
+    } else {
+      const { v: text, n: norm } = value;
+
+      const { isMatch, score, indices } = searcher.searchIn(text);
+
+      if (isMatch) {
+        matches.push({ score, key, value: text, norm, indices });
+      }
+    }
+
+    return matches
+  }
+}
+
+Fuse.version = '6.4.6';
+Fuse.createIndex = createIndex;
+Fuse.parseIndex = parseIndex;
+Fuse.config = Config;
+
+{
+  Fuse.parseQuery = parse;
+}
+
+{
+  register(ExtendedSearch);
+}
 
 var TagOrFile;
 (function (TagOrFile) {
@@ -8270,7 +10023,8 @@ class SilentFileAndTagSuggester extends TextInputSuggest {
                 .map(file => file.path);
             suggestions.push(...this.unresolvedLinkNames.filter(name => name.toLowerCase().contains(fileNameInput.toLowerCase())));
         }
-        return suggestions.slice(0, 50);
+        const fuse = new Fuse(suggestions, { findAllMatches: true, threshold: 0.8 });
+        return fuse.search(this.lastInput).map(value => value.item);
     }
     renderSuggestion(item, el) {
         if (item)
@@ -8328,9 +10082,9 @@ class SilentFileAndTagSuggester extends TextInputSuggest {
     }
 }
 
-/* src/gui/GenericInputPrompt/GenericInputPromptContent.svelte generated by Svelte v3.38.3 */
+/* src/gui/GenericInputPrompt/GenericInputPromptContent.svelte generated by Svelte v3.42.1 */
 
-function create_fragment$5(ctx) {
+function create_fragment$6(ctx) {
 	let div;
 	let h1;
 	let t0;
@@ -8393,7 +10147,7 @@ function create_fragment$5(ctx) {
 	};
 }
 
-function instance$5($$self, $$props, $$invalidate) {
+function instance$6($$self, $$props, $$invalidate) {
 	let { header = "" } = $$props;
 	let { placeholder = "" } = $$props;
 	let { value = "" } = $$props;
@@ -8413,7 +10167,7 @@ function instance$5($$self, $$props, $$invalidate) {
 	}
 
 	function input_binding($$value) {
-		binding_callbacks[$$value ? "unshift" : "push"](() => {
+		binding_callbacks[$$value ? 'unshift' : 'push'](() => {
 			inputEl = $$value;
 			$$invalidate(3, inputEl);
 		});
@@ -8425,11 +10179,11 @@ function instance$5($$self, $$props, $$invalidate) {
 	}
 
 	$$self.$$set = $$props => {
-		if ("header" in $$props) $$invalidate(1, header = $$props.header);
-		if ("placeholder" in $$props) $$invalidate(2, placeholder = $$props.placeholder);
-		if ("value" in $$props) $$invalidate(0, value = $$props.value);
-		if ("onSubmit" in $$props) $$invalidate(5, onSubmit = $$props.onSubmit);
-		if ("app" in $$props) $$invalidate(6, app = $$props.app);
+		if ('header' in $$props) $$invalidate(1, header = $$props.header);
+		if ('placeholder' in $$props) $$invalidate(2, placeholder = $$props.placeholder);
+		if ('value' in $$props) $$invalidate(0, value = $$props.value);
+		if ('onSubmit' in $$props) $$invalidate(5, onSubmit = $$props.onSubmit);
+		if ('app' in $$props) $$invalidate(6, app = $$props.app);
 	};
 
 	return [
@@ -8449,7 +10203,7 @@ class GenericInputPromptContent extends SvelteComponent {
 	constructor(options) {
 		super();
 
-		init(this, options, instance$5, create_fragment$5, safe_not_equal, {
+		init(this, options, instance$6, create_fragment$6, safe_not_equal, {
 			header: 1,
 			placeholder: 2,
 			value: 0,
@@ -8665,7 +10419,7 @@ function deleteObsidianCommand(app, commandId) {
         delete app.commands.editorCommands[commandId];
     }
 }
-function getAllFolders(app) {
+function getAllFolderPathsInVault(app) {
     return app.vault.getAllLoadedFiles()
         .filter(f => f instanceof obsidian.TFolder)
         .map(folder => folder.path);
@@ -8690,6 +10444,20 @@ function getLinesInString(input) {
     }
     lines.push(tempString);
     return lines;
+}
+// https://stackoverflow.com/questions/3115150/how-to-escape-regular-expression-special-characters-using-javascript
+function escapeRegExp(text) {
+    return text.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
+}
+async function openFile(app, file, direction) {
+    if (!direction) {
+        await app.workspace.activeLeaf.openFile(file);
+    }
+    else {
+        await app.workspace
+            .splitActiveLeaf(direction)
+            .openFile(file);
+    }
 }
 
 var FormatSyntaxToken;
@@ -8794,13 +10562,10 @@ class FormatSyntaxSuggester extends TextInputSuggest {
     }
 }
 
-/* src/gui/ChoiceBuilder/FolderList.svelte generated by Svelte v3.38.3 */
+/* src/gui/ChoiceBuilder/FolderList.svelte generated by Svelte v3.42.1 */
 
-function add_css$3() {
-	var style = element("style");
-	style.id = "svelte-tuapcq-style";
-	style.textContent = ".quickAddCommandListItem.svelte-tuapcq{display:flex;align-items:center;justify-content:space-between}@media(min-width: 768px){.quickAddFolderListGrid.svelte-tuapcq{display:grid;grid-template-columns:repeat(2, 1fr);column-gap:20px}}.quickAddCommandList.svelte-tuapcq{max-width:50%;margin:12px auto}.clickable.svelte-tuapcq{cursor:pointer}";
-	append(document.head, style);
+function add_css$3(target) {
+	append_styles(target, "svelte-tuapcq", ".quickAddCommandListItem.svelte-tuapcq{display:flex;align-items:center;justify-content:space-between}@media(min-width: 768px){.quickAddFolderListGrid.svelte-tuapcq{display:grid;grid-template-columns:repeat(2, 1fr);column-gap:20px}}.quickAddCommandList.svelte-tuapcq{max-width:50%;margin:12px auto}.clickable.svelte-tuapcq{cursor:pointer}");
 }
 
 function get_each_context$1(ctx, list, i) {
@@ -8878,7 +10643,7 @@ function create_each_block$1(ctx) {
 	};
 }
 
-function create_fragment$4(ctx) {
+function create_fragment$5(ctx) {
 	let div;
 	let current;
 	let each_value = /*folders*/ ctx[0];
@@ -8964,7 +10729,7 @@ function create_fragment$4(ctx) {
 	};
 }
 
-function instance$4($$self, $$props, $$invalidate) {
+function instance$5($$self, $$props, $$invalidate) {
 	let { folders } = $$props;
 	let { deleteFolder } = $$props;
 
@@ -8975,8 +10740,8 @@ function instance$4($$self, $$props, $$invalidate) {
 	const click_handler = folder => deleteFolder(folder);
 
 	$$self.$$set = $$props => {
-		if ("folders" in $$props) $$invalidate(0, folders = $$props.folders);
-		if ("deleteFolder" in $$props) $$invalidate(1, deleteFolder = $$props.deleteFolder);
+		if ('folders' in $$props) $$invalidate(0, folders = $$props.folders);
+		if ('deleteFolder' in $$props) $$invalidate(1, deleteFolder = $$props.deleteFolder);
 	};
 
 	return [folders, deleteFolder, updateFolders, click_handler];
@@ -8985,13 +10750,20 @@ function instance$4($$self, $$props, $$invalidate) {
 class FolderList extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-tuapcq-style")) add_css$3();
 
-		init(this, options, instance$4, create_fragment$4, safe_not_equal, {
-			folders: 0,
-			deleteFolder: 1,
-			updateFolders: 2
-		});
+		init(
+			this,
+			options,
+			instance$5,
+			create_fragment$5,
+			safe_not_equal,
+			{
+				folders: 0,
+				deleteFolder: 1,
+				updateFolders: 2
+			},
+			add_css$3
+		);
 	}
 
 	get updateFolders() {
@@ -9247,7 +11019,7 @@ class TemplateChoiceBuilder extends ChoiceBuilder {
         new FormatSyntaxSuggester(this.app, textField.inputEl, this.plugin, true);
     }
     addFolderSetting() {
-        var _a, _b;
+        var _a, _b, _c, _d;
         const folderSetting = new obsidian.Setting(this.contentEl);
         folderSetting.setName("Create in folder")
             .setDesc("Create the file in the specified folder. If multiple folders are specified, you will be prompted for which folder to create the file in.")
@@ -9259,57 +11031,76 @@ class TemplateChoiceBuilder extends ChoiceBuilder {
             });
         });
         if (this.choice.folder.enabled) {
-            const chooseFolderWhenCreatingNoteContainer = this.contentEl.createDiv('chooseFolderWhenCreatingNoteContainer');
-            chooseFolderWhenCreatingNoteContainer.createEl('span', { text: "Choose folder when creating a new note" });
-            const chooseFolderWhenCreatingNote = new obsidian.ToggleComponent(chooseFolderWhenCreatingNoteContainer);
-            chooseFolderWhenCreatingNote.setValue((_a = this.choice.folder) === null || _a === void 0 ? void 0 : _a.chooseWhenCreatingNote)
-                .onChange(value => {
-                this.choice.folder.chooseWhenCreatingNote = value;
-                this.reload();
-            });
-            if (!((_b = this.choice.folder) === null || _b === void 0 ? void 0 : _b.chooseWhenCreatingNote)) {
-                const folderSelectionContainer = this.contentEl.createDiv('folderSelectionContainer');
-                const folderList = folderSelectionContainer.createDiv('folderList');
-                const folderListEl = new FolderList({
-                    target: folderList,
-                    props: {
-                        folders: this.choice.folder.folders,
-                        deleteFolder: (folder) => {
-                            this.choice.folder.folders = this.choice.folder.folders.filter(f => f !== folder);
-                            folderListEl.updateFolders(this.choice.folder.folders);
-                            suggester.updateCurrentItems(this.choice.folder.folders);
-                        }
-                    }
+            if (!((_a = this.choice.folder) === null || _a === void 0 ? void 0 : _a.createInSameFolderAsActiveFile)) {
+                const chooseFolderWhenCreatingNoteContainer = this.contentEl.createDiv('chooseFolderWhenCreatingNoteContainer');
+                chooseFolderWhenCreatingNoteContainer.createEl('span', { text: "Choose folder when creating a new note" });
+                const chooseFolderWhenCreatingNote = new obsidian.ToggleComponent(chooseFolderWhenCreatingNoteContainer);
+                chooseFolderWhenCreatingNote.setValue((_b = this.choice.folder) === null || _b === void 0 ? void 0 : _b.chooseWhenCreatingNote)
+                    .onChange(value => {
+                    this.choice.folder.chooseWhenCreatingNote = value;
+                    this.reload();
                 });
-                this.svelteElements.push(folderListEl);
-                const inputContainer = folderSelectionContainer.createDiv('folderInputContainer');
-                const folderInput = new obsidian.TextComponent(inputContainer);
-                folderInput.inputEl.style.width = "100%";
-                folderInput.setPlaceholder("Folder path");
-                const allFolders = getAllFolders(this.app);
-                const suggester = new ExclusiveSuggester(this.app, folderInput.inputEl, allFolders, this.choice.folder.folders);
-                const addFolder = () => {
-                    const input = folderInput.inputEl.value.trim();
-                    if (this.choice.folder.folders.some(folder => folder === input)) {
-                        log.logWarning("cannot add same folder twice.");
-                        return;
-                    }
-                    this.choice.folder.folders.push(input);
-                    folderListEl.updateFolders(this.choice.folder.folders);
-                    folderInput.inputEl.value = "";
-                    suggester.updateCurrentItems(this.choice.folder.folders);
-                };
-                folderInput.inputEl.addEventListener('keypress', (e) => {
-                    if (e.key === 'Enter') {
-                        addFolder();
-                    }
-                });
-                const addButton = new obsidian.ButtonComponent(inputContainer);
-                addButton.setCta().setButtonText("Add").onClick(evt => {
-                    addFolder();
+                if (!((_c = this.choice.folder) === null || _c === void 0 ? void 0 : _c.chooseWhenCreatingNote)) {
+                    this.addFolderSelector();
+                }
+            }
+            if (!((_d = this.choice.folder) === null || _d === void 0 ? void 0 : _d.chooseWhenCreatingNote)) {
+                const createInSameFolderAsActiveFileSetting = new obsidian.Setting(this.contentEl);
+                createInSameFolderAsActiveFileSetting.setName("Create in same folder as active file")
+                    .setDesc("Creates the file in the same folder as the currently active file. Will not create the file if there is no active file.")
+                    .addToggle(toggle => {
+                    var _a;
+                    return toggle
+                        .setValue((_a = this.choice.folder) === null || _a === void 0 ? void 0 : _a.createInSameFolderAsActiveFile)
+                        .onChange(value => {
+                        this.choice.folder.createInSameFolderAsActiveFile = value;
+                        this.reload();
+                    });
                 });
             }
         }
+    }
+    addFolderSelector() {
+        const folderSelectionContainer = this.contentEl.createDiv('folderSelectionContainer');
+        const folderList = folderSelectionContainer.createDiv('folderList');
+        const folderListEl = new FolderList({
+            target: folderList,
+            props: {
+                folders: this.choice.folder.folders,
+                deleteFolder: (folder) => {
+                    this.choice.folder.folders = this.choice.folder.folders.filter(f => f !== folder);
+                    folderListEl.updateFolders(this.choice.folder.folders);
+                    suggester.updateCurrentItems(this.choice.folder.folders);
+                }
+            }
+        });
+        this.svelteElements.push(folderListEl);
+        const inputContainer = folderSelectionContainer.createDiv('folderInputContainer');
+        const folderInput = new obsidian.TextComponent(inputContainer);
+        folderInput.inputEl.style.width = "100%";
+        folderInput.setPlaceholder("Folder path");
+        const allFolders = getAllFolderPathsInVault(this.app);
+        const suggester = new ExclusiveSuggester(this.app, folderInput.inputEl, allFolders, this.choice.folder.folders);
+        const addFolder = () => {
+            const input = folderInput.inputEl.value.trim();
+            if (this.choice.folder.folders.some(folder => folder === input)) {
+                log.logWarning("cannot add same folder twice.");
+                return;
+            }
+            this.choice.folder.folders.push(input);
+            folderListEl.updateFolders(this.choice.folder.folders);
+            folderInput.inputEl.value = "";
+            suggester.updateCurrentItems(this.choice.folder.folders);
+        };
+        folderInput.inputEl.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                addFolder();
+            }
+        });
+        const addButton = new obsidian.ButtonComponent(inputContainer);
+        addButton.setCta().setButtonText("Add").onClick(evt => {
+            addFolder();
+        });
     }
     addAppendLinkSetting() {
         const appendLinkSetting = new obsidian.Setting(this.contentEl);
@@ -9444,13 +11235,18 @@ var CommandType;
     CommandType["UserScript"] = "UserScript";
     CommandType["Choice"] = "Choice";
     CommandType["Wait"] = "Wait";
+    CommandType["NestedChoice"] = "NestedChoice";
+    CommandType["EditorCommand"] = "EditorCommand";
 })(CommandType || (CommandType = {}));
 
 class GenericCheckboxPrompt extends obsidian.Modal {
-    constructor(app, items, selectedItems) {
+    constructor(app, items, selectedItems = []) {
         super(app);
         this.items = items;
-        this.selectedItems = selectedItems ? selectedItems : [];
+        this.selectedItems = selectedItems;
+        // This clones the item so that we don't get any unexpected modifications of the
+        // arguments
+        this._selectedItems = [...selectedItems];
         this.promise = new Promise((resolve, reject) => { (this.resolvePromise = resolve); (this.rejectPromise = reject); });
         this.display();
         this.open();
@@ -9478,19 +11274,24 @@ class GenericCheckboxPrompt extends obsidian.Modal {
         const checkboxRow = container.createDiv('checkboxRow');
         checkboxRow.createEl('span', { text: item });
         const checkbox = new obsidian.ToggleComponent(checkboxRow);
-        checkbox.setTooltip(`Toggle ${item}`).onChange(value => {
+        checkbox
+            .setTooltip(`Toggle ${item}`)
+            .setValue(this._selectedItems.contains(item))
+            .onChange(value => {
             if (value)
-                this.selectedItems.push(item);
-            else
-                this.selectedItems.remove(item);
-        }).setValue(this.selectedItems.contains(item));
+                this._selectedItems.push(item);
+            else {
+                const index = this._selectedItems.findIndex(value => item === value);
+                this._selectedItems.splice(index, 1);
+            }
+        });
     }
     addSubmitButton() {
         const submitButtonContainer = this.contentEl.createDiv('submitButtonContainer');
         const submitButton = new obsidian.ButtonComponent(submitButtonContainer);
         submitButton.setButtonText("Submit").setCta().onClick(evt => {
             this.resolved = true;
-            this.resolvePromise(this.selectedItems);
+            this.resolvePromise(this._selectedItems);
             this.close();
         });
     }
@@ -9503,11 +11304,17 @@ class QuickAddApi {
             yesNoPrompt: (header, text) => { return this.yesNoPrompt(app, header, text); },
             suggester: (displayItems, actualItems) => { return this.suggester(app, displayItems, actualItems); },
             checkboxPrompt: (items, selectedItems) => { return this.checkboxPrompt(app, items, selectedItems); },
-            executeChoice: async (choiceName) => {
+            executeChoice: async (choiceName, variables) => {
                 const choice = plugin.getChoiceByName(choiceName);
                 if (!choice)
                     log.logError(`choice named '${choiceName}' not found`);
+                if (variables) {
+                    Object.keys(variables).forEach(key => {
+                        choiceExecutor.variables.set(key, variables[key]);
+                    });
+                }
                 await choiceExecutor.execute(choice);
+                choiceExecutor.variables.clear();
             },
             utility: {
                 getClipboard: async () => { return await navigator.clipboard.readText(); },
@@ -9559,6 +11366,114 @@ class QuickAddApi {
 class QuickAddChoiceEngine extends QuickAddEngine {
 }
 
+var EditorCommandType;
+(function (EditorCommandType) {
+    EditorCommandType["Cut"] = "Cut";
+    EditorCommandType["Copy"] = "Copy";
+    EditorCommandType["Paste"] = "Paste";
+    EditorCommandType["SelectActiveLine"] = "Select active line";
+    EditorCommandType["SelectLinkOnActiveLine"] = "Select link on active line";
+})(EditorCommandType || (EditorCommandType = {}));
+
+class Command {
+    constructor(name, type) {
+        this.name = name;
+        this.type = type;
+        this.id = v4();
+    }
+}
+
+class EditorCommand extends Command {
+    constructor(type) {
+        super(type, CommandType.EditorCommand);
+        this.editorCommandType = type;
+    }
+    static getSelectedText(app) {
+        return this.getActiveMarkdownView(app).editor.getSelection();
+    }
+    static getActiveMarkdownView(app) {
+        const activeView = app.workspace.getActiveViewOfType(obsidian.MarkdownView);
+        if (!activeView) {
+            log.logError("no active markdown view.");
+            return;
+        }
+        return activeView;
+    }
+}
+
+class CutCommand extends EditorCommand {
+    constructor() {
+        super(EditorCommandType.Cut);
+    }
+    static async run(app) {
+        const selectedText = EditorCommand.getSelectedText(app);
+        const activeView = EditorCommand.getActiveMarkdownView(app);
+        if (!selectedText) {
+            log.logError("nothing selected.");
+            return;
+        }
+        await navigator.clipboard.writeText(selectedText);
+        activeView.editor.replaceSelection("");
+    }
+}
+
+class CopyCommand extends EditorCommand {
+    constructor() {
+        super(EditorCommandType.Copy);
+    }
+    static async run(app) {
+        const selectedText = EditorCommand.getSelectedText(app);
+        await navigator.clipboard.writeText(selectedText);
+    }
+}
+
+class PasteCommand extends EditorCommand {
+    constructor() {
+        super(EditorCommandType.Paste);
+    }
+    static async run(app) {
+        const clipboard = await navigator.clipboard.readText();
+        const activeView = EditorCommand.getActiveMarkdownView(app);
+        if (!activeView) {
+            log.logError("no active markdown view.");
+            return;
+        }
+        activeView.editor.replaceSelection(clipboard);
+    }
+}
+
+class SelectActiveLineCommand extends EditorCommand {
+    constructor() {
+        super(EditorCommandType.SelectActiveLine);
+    }
+    static run(app) {
+        const activeView = EditorCommand.getActiveMarkdownView(app);
+        const { line: lineNumber } = activeView.editor.getCursor();
+        const line = activeView.editor.getLine(lineNumber);
+        const lineLength = line.length;
+        activeView.editor.setSelection({ line: lineNumber, ch: 0 }, { line: lineNumber, ch: lineLength });
+    }
+}
+
+class SelectLinkOnActiveLineCommand extends EditorCommand {
+    constructor() {
+        super(EditorCommandType.SelectLinkOnActiveLine);
+    }
+    static async run(app) {
+        const activeView = EditorCommand.getActiveMarkdownView(app);
+        const { line: lineNumber } = activeView.editor.getCursor();
+        const line = activeView.editor.getLine(lineNumber);
+        const match = WIKI_LINK_REGEX.exec(line);
+        if (!match) {
+            log.logError(`no internal link found on line ${lineNumber}.`);
+            return;
+        }
+        const matchStart = match.index;
+        const matchEnd = match[0].length + matchStart;
+        activeView.editor.setSelection({ line: lineNumber, ch: matchStart }, { line: lineNumber, ch: matchEnd });
+    }
+}
+
 class MacroChoiceEngine extends QuickAddChoiceEngine {
     constructor(app, plugin, choice, macros, choiceExecutor, variables) {
         super(app);
@@ -9592,6 +11507,15 @@ class MacroChoiceEngine extends QuickAddChoiceEngine {
                 const waitCommand = command;
                 await waitFor(waitCommand.time);
             }
+            if ((command === null || command === void 0 ? void 0 : command.type) === CommandType.NestedChoice) {
+                await this.executeNestedChoice(command);
+            }
+            if ((command === null || command === void 0 ? void 0 : command.type) === CommandType.EditorCommand) {
+                await this.executeEditorCommand(command);
+            }
+            Object.keys(this.params.variables).forEach(key => {
+                this.choiceExecutor.variables.set(key, this.params.variables[key]);
+            });
         }
     }
     // Slightly modified from Templater's user script engine:
@@ -9675,6 +11599,33 @@ class MacroChoiceEngine extends QuickAddChoiceEngine {
         }
         await this.choiceExecutor.execute(targetChoice);
     }
+    async executeNestedChoice(command) {
+        const choice = command.choice;
+        if (!choice) {
+            log.logError(`choice in ${command.name} is invalid`);
+            return;
+        }
+        await this.choiceExecutor.execute(choice);
+    }
+    async executeEditorCommand(command) {
+        switch (command.editorCommandType) {
+            case EditorCommandType.Cut:
+                await CutCommand.run(this.app);
+                break;
+            case EditorCommandType.Copy:
+                await CopyCommand.run(this.app);
+                break;
+            case EditorCommandType.Paste:
+                await PasteCommand.run(this.app);
+                break;
+            case EditorCommandType.SelectActiveLine:
+                await SelectActiveLineCommand.run(this.app);
+                break;
+            case EditorCommandType.SelectLinkOnActiveLine:
+                await SelectLinkOnActiveLineCommand.run(this.app);
+                break;
+        }
+    }
 }
 
 class SingleMacroEngine extends MacroChoiceEngine {
@@ -9705,16 +11656,28 @@ class SingleMacroEngine extends MacroChoiceEngine {
     }
 }
 
+class SingleInlineScriptEngine extends MacroChoiceEngine {
+    constructor(app, plugin, choiceExecutor, variables) {
+        super(app, plugin, null, null, choiceExecutor, variables);
+    }
+    async runAndGetOutput(code) {
+        const AsyncFunction = Object.getPrototypeOf(async function () { }).constructor;
+        const userCode = new AsyncFunction(code);
+        return await userCode.bind(this.params, this).call();
+    }
+}
+
 class CompleteFormatter extends Formatter {
     constructor(app, plugin, choiceExecutor) {
         super();
         this.app = app;
         this.plugin = plugin;
         this.choiceExecutor = choiceExecutor;
-        this.variables = choiceExecutor.variables;
+        this.variables = choiceExecutor === null || choiceExecutor === void 0 ? void 0 : choiceExecutor.variables;
     }
     async format(input) {
         let output = input;
+        output = await this.replaceInlineJavascriptInString(output);
         output = await this.replaceMacrosInString(output);
         output = await this.replaceTemplateInString(output);
         output = this.replaceDateInString(output);
@@ -9777,6 +11740,25 @@ class CompleteFormatter extends Formatter {
         if (!activeView)
             return;
         return activeView.editor.getSelection();
+    }
+    async replaceInlineJavascriptInString(input) {
+        var _a;
+        let output = input;
+        while (INLINE_JAVASCRIPT_REGEX.test(output)) {
+            const match = INLINE_JAVASCRIPT_REGEX.exec(output);
+            const code = (_a = match[1]) === null || _a === void 0 ? void 0 : _a.trim();
+            if (code) {
+                const executor = new SingleInlineScriptEngine(this.app, this.plugin, this.choiceExecutor, this.variables);
+                const outVal = await executor.runAndGetOutput(code);
+                for (let key in executor.params.variables) {
+                    this.variables.set(key, executor.params.variables[key]);
+                }
+                output = typeof outVal === "string" ?
+                    output.replace(INLINE_JAVASCRIPT_REGEX, outVal) :
+                    output.replace(INLINE_JAVASCRIPT_REGEX, "");
+            }
+        }
+        return output;
     }
 }
 
@@ -9869,7 +11851,10 @@ class TemplateEngine extends QuickAddEngine {
         }
     }
     async getTemplateContent(templatePath) {
-        const templateFile = this.app.vault.getAbstractFileByPath(templatePath);
+        let correctTemplatePath = templatePath;
+        if (!MARKDOWN_FILE_EXTENSION_REGEX.test(templatePath))
+            correctTemplatePath += ".md";
+        const templateFile = this.app.vault.getAbstractFileByPath(correctTemplatePath);
         if (!(templateFile instanceof obsidian.TFile))
             return;
         return await this.app.vault.cachedRead(templateFile);
@@ -9884,7 +11869,7 @@ class SingleTemplateEngine extends TemplateEngine {
     async run() {
         let templateContent = await this.getTemplateContent(this.templatePath);
         if (!templateContent) {
-            throw new Error(`Template ${this.templatePath} not found.`);
+            log.logError(`Template ${this.templatePath} not found.`);
         }
         templateContent = await this.formatter.formatFileContent(templateContent);
         return templateContent;
@@ -9966,6 +11951,9 @@ class CaptureChoiceBuilder extends ChoiceBuilder {
         if (!this.choice.captureToActiveFile) {
             this.addAppendLinkSetting();
             this.addInsertAfterSetting();
+            this.addOpenFileSetting();
+            if (this.choice.openFile)
+                this.addOpenFileInNewTabSetting();
         }
         this.addFormatSetting();
     }
@@ -10070,6 +12058,28 @@ class CaptureChoiceBuilder extends ChoiceBuilder {
                     .setValue((_a = this.choice.insertAfter) === null || _a === void 0 ? void 0 : _a.insertAtEnd)
                     .onChange(value => this.choice.insertAfter.insertAtEnd = value);
             });
+            const createLineIfNotFound = new obsidian.Setting(this.contentEl);
+            createLineIfNotFound.setName("Create line if not found")
+                .setDesc("Creates the 'insert after' line if it is not found.")
+                .addToggle(toggle => {
+                var _a, _b;
+                if (!((_a = this.choice.insertAfter) === null || _a === void 0 ? void 0 : _a.createIfNotFound))
+                    this.choice.insertAfter.createIfNotFound = false; // Set to default
+                toggle
+                    .setValue((_b = this.choice.insertAfter) === null || _b === void 0 ? void 0 : _b.createIfNotFound)
+                    .onChange(value => this.choice.insertAfter.createIfNotFound = value)
+                    .toggleEl.style.marginRight = "1em";
+            })
+                .addDropdown(dropdown => {
+                var _a, _b;
+                if (!((_a = this.choice.insertAfter) === null || _a === void 0 ? void 0 : _a.createIfNotFoundLocation))
+                    this.choice.insertAfter.createIfNotFoundLocation = CREATE_IF_NOT_FOUND_TOP; // Set to default
+                dropdown
+                    .addOption(CREATE_IF_NOT_FOUND_TOP, "Top")
+                    .addOption(CREATE_IF_NOT_FOUND_BOTTOM, "Bottom")
+                    .setValue((_b = this.choice.insertAfter) === null || _b === void 0 ? void 0 : _b.createIfNotFoundLocation)
+                    .onChange(value => this.choice.insertAfter.createIfNotFoundLocation = value);
+            });
         }
     }
     addFormatSetting() {
@@ -10143,6 +12153,39 @@ class CaptureChoiceBuilder extends ChoiceBuilder {
             this.choice.createFileIfItDoesntExist.template = value;
         });
     }
+    addOpenFileSetting() {
+        const noOpenSetting = new obsidian.Setting(this.contentEl);
+        noOpenSetting.setName("Open")
+            .setDesc("Open the file that is captured to.")
+            .addToggle(toggle => {
+            toggle.setValue(this.choice.openFile);
+            toggle.onChange(value => {
+                this.choice.openFile = value;
+                this.reload();
+            });
+        });
+    }
+    addOpenFileInNewTabSetting() {
+        const newTabSetting = new obsidian.Setting(this.contentEl);
+        newTabSetting.setName("New Tab")
+            .setDesc("Open the file that is captured to in a new tab.")
+            .addToggle(toggle => {
+            var _a, _b;
+            toggle.setValue((_b = (_a = this.choice) === null || _a === void 0 ? void 0 : _a.openFileInNewTab) === null || _b === void 0 ? void 0 : _b.enabled);
+            toggle.onChange(value => this.choice.openFileInNewTab.enabled = value);
+        })
+            .addDropdown(dropdown => {
+            var _a, _b, _c;
+            if (!((_a = this.choice) === null || _a === void 0 ? void 0 : _a.openFileInNewTab)) {
+                this.choice.openFileInNewTab = { enabled: false, direction: NewTabDirection.vertical };
+            }
+            dropdown.selectEl.style.marginLeft = "10px";
+            dropdown.addOption(NewTabDirection.vertical, "Vertical");
+            dropdown.addOption(NewTabDirection.horizontal, "Horizontal");
+            dropdown.setValue((_c = (_b = this.choice) === null || _b === void 0 ? void 0 : _b.openFileInNewTab) === null || _c === void 0 ? void 0 : _c.direction);
+            dropdown.onChange(value => this.choice.openFileInNewTab.direction = value);
+        });
+    }
 }
 
 class MacroChoiceBuilder extends ChoiceBuilder {
@@ -10186,14 +12229,6 @@ class MacroChoiceBuilder extends ChoiceBuilder {
     }
 }
 
-class Command {
-    constructor(name, type) {
-        this.name = name;
-        this.type = type;
-        this.id = v4();
-    }
-}
-
 class UserScript extends Command {
     constructor(name, path) {
         super(name, CommandType.UserScript);
@@ -10208,9 +12243,9 @@ class ObsidianCommand extends Command {
     }
 }
 
-/* src/gui/MacroGUIs/Components/StandardCommand.svelte generated by Svelte v3.38.3 */
+/* src/gui/MacroGUIs/Components/StandardCommand.svelte generated by Svelte v3.42.1 */
 
-function create_fragment$3(ctx) {
+function create_fragment$4(ctx) {
 	let div1;
 	let li;
 	let t0_value = /*command*/ ctx[0].name + "";
@@ -10246,8 +12281,8 @@ function create_fragment$3(ctx) {
 			attr(span1, "aria-label", "Drag-handle");
 
 			attr(span1, "style", span1_style_value = "" + ((/*dragDisabled*/ ctx[2]
-			? "cursor: grab"
-			: "cursor: grabbing") + ";"));
+			? 'cursor: grab'
+			: 'cursor: grabbing') + ";"));
 
 			attr(span1, "tabindex", span1_tabindex_value = /*dragDisabled*/ ctx[2] ? 0 : -1);
 			attr(div1, "class", "quickAddCommandListItem");
@@ -10284,8 +12319,8 @@ function create_fragment$3(ctx) {
 			if ((!current || dirty & /*command*/ 1) && t0_value !== (t0_value = /*command*/ ctx[0].name + "")) set_data(t0, t0_value);
 
 			if (!current || dirty & /*dragDisabled*/ 4 && span1_style_value !== (span1_style_value = "" + ((/*dragDisabled*/ ctx[2]
-			? "cursor: grab"
-			: "cursor: grabbing") + ";"))) {
+			? 'cursor: grab'
+			: 'cursor: grabbing') + ";"))) {
 				attr(span1, "style", span1_style_value);
 			}
 
@@ -10314,22 +12349,22 @@ function create_fragment$3(ctx) {
 	};
 }
 
-function instance$3($$self, $$props, $$invalidate) {
+function instance$4($$self, $$props, $$invalidate) {
 	let { command } = $$props;
 	let { startDrag } = $$props;
 	let { dragDisabled } = $$props;
 	const dispatch = createEventDispatcher();
 
 	function deleteCommand(commandId) {
-		dispatch("deleteCommand", commandId);
+		dispatch('deleteCommand', commandId);
 	}
 
 	const click_handler = () => deleteCommand(command.id);
 
 	$$self.$$set = $$props => {
-		if ("command" in $$props) $$invalidate(0, command = $$props.command);
-		if ("startDrag" in $$props) $$invalidate(1, startDrag = $$props.startDrag);
-		if ("dragDisabled" in $$props) $$invalidate(2, dragDisabled = $$props.dragDisabled);
+		if ('command' in $$props) $$invalidate(0, command = $$props.command);
+		if ('startDrag' in $$props) $$invalidate(1, startDrag = $$props.startDrag);
+		if ('dragDisabled' in $$props) $$invalidate(2, dragDisabled = $$props.dragDisabled);
 	};
 
 	return [command, startDrag, dragDisabled, deleteCommand, click_handler];
@@ -10339,7 +12374,7 @@ class StandardCommand extends SvelteComponent {
 	constructor(options) {
 		super();
 
-		init(this, options, instance$3, create_fragment$3, safe_not_equal, {
+		init(this, options, instance$4, create_fragment$4, safe_not_equal, {
 			command: 0,
 			startDrag: 1,
 			dragDisabled: 2
@@ -10347,16 +12382,13 @@ class StandardCommand extends SvelteComponent {
 	}
 }
 
-/* src/gui/MacroGUIs/Components/WaitCommand.svelte generated by Svelte v3.38.3 */
+/* src/gui/MacroGUIs/Components/WaitCommand.svelte generated by Svelte v3.42.1 */
 
-function add_css$2() {
-	var style = element("style");
-	style.id = "svelte-1196d9p-style";
-	style.textContent = ".dotInput.svelte-1196d9p{border:none;display:inline;font-family:inherit;font-size:inherit;padding:0;width:0;text-decoration:underline dotted;background-color:transparent}.dotInput.svelte-1196d9p:hover{background-color:transparent}";
-	append(document.head, style);
+function add_css$2(target) {
+	append_styles(target, "svelte-1196d9p", ".dotInput.svelte-1196d9p{border:none;display:inline;font-family:inherit;font-size:inherit;padding:0;width:0;text-decoration:underline dotted;background-color:transparent}.dotInput.svelte-1196d9p:hover{background-color:transparent}");
 }
 
-function create_fragment$2(ctx) {
+function create_fragment$3(ctx) {
 	let div1;
 	let li;
 	let t0_value = /*command*/ ctx[0].name + "";
@@ -10401,8 +12433,8 @@ function create_fragment$2(ctx) {
 			attr(span1, "aria-label", "Drag-handle");
 
 			attr(span1, "style", span1_style_value = "" + ((/*dragDisabled*/ ctx[2]
-			? "cursor: grab"
-			: "cursor: grabbing") + ";"));
+			? 'cursor: grab'
+			: 'cursor: grabbing') + ";"));
 
 			attr(span1, "tabindex", span1_tabindex_value = /*dragDisabled*/ ctx[2] ? 0 : -1);
 			attr(div1, "class", "quickAddCommandListItem");
@@ -10450,8 +12482,8 @@ function create_fragment$2(ctx) {
 			}
 
 			if (!current || dirty & /*dragDisabled*/ 4 && span1_style_value !== (span1_style_value = "" + ((/*dragDisabled*/ ctx[2]
-			? "cursor: grab"
-			: "cursor: grabbing") + ";"))) {
+			? 'cursor: grab'
+			: 'cursor: grabbing') + ";"))) {
 				attr(span1, "style", span1_style_value);
 			}
 
@@ -10481,7 +12513,7 @@ function create_fragment$2(ctx) {
 	};
 }
 
-function instance$2($$self, $$props, $$invalidate) {
+function instance$3($$self, $$props, $$invalidate) {
 	let { command } = $$props;
 	let { startDrag } = $$props;
 	let { dragDisabled } = $$props;
@@ -10489,18 +12521,18 @@ function instance$2($$self, $$props, $$invalidate) {
 	let inputEl;
 
 	function deleteCommand(commandId) {
-		dispatch("deleteCommand", commandId);
+		dispatch('deleteCommand', commandId);
 	}
 
 	function resizeInput() {
 		const length = inputEl.value.length;
-		$$invalidate(3, inputEl.style.width = (length === 0 ? 2 : length) + "ch", inputEl);
+		$$invalidate(3, inputEl.style.width = (length === 0 ? 2 : length) + 'ch', inputEl);
 	}
 
 	onMount(resizeInput);
 
 	function input_binding($$value) {
-		binding_callbacks[$$value ? "unshift" : "push"](() => {
+		binding_callbacks[$$value ? 'unshift' : 'push'](() => {
 			inputEl = $$value;
 			$$invalidate(3, inputEl);
 		});
@@ -10514,9 +12546,9 @@ function instance$2($$self, $$props, $$invalidate) {
 	const click_handler = () => deleteCommand(command.id);
 
 	$$self.$$set = $$props => {
-		if ("command" in $$props) $$invalidate(0, command = $$props.command);
-		if ("startDrag" in $$props) $$invalidate(1, startDrag = $$props.startDrag);
-		if ("dragDisabled" in $$props) $$invalidate(2, dragDisabled = $$props.dragDisabled);
+		if ('command' in $$props) $$invalidate(0, command = $$props.command);
+		if ('startDrag' in $$props) $$invalidate(1, startDrag = $$props.startDrag);
+		if ('dragDisabled' in $$props) $$invalidate(2, dragDisabled = $$props.dragDisabled);
 	};
 
 	return [
@@ -10535,7 +12567,181 @@ function instance$2($$self, $$props, $$invalidate) {
 class WaitCommand$1 extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-1196d9p-style")) add_css$2();
+
+		init(
+			this,
+			options,
+			instance$3,
+			create_fragment$3,
+			safe_not_equal,
+			{
+				command: 0,
+				startDrag: 1,
+				dragDisabled: 2
+			},
+			add_css$2
+		);
+	}
+}
+
+/* src/gui/MacroGUIs/Components/NestedChoiceCommand.svelte generated by Svelte v3.42.1 */
+
+function create_fragment$2(ctx) {
+	let div1;
+	let li;
+	let t0_value = /*command*/ ctx[0].name + "";
+	let t0;
+	let t1;
+	let div0;
+	let span0;
+	let icon0;
+	let t2;
+	let span1;
+	let icon1;
+	let t3;
+	let span2;
+	let icon2;
+	let span2_style_value;
+	let span2_tabindex_value;
+	let current;
+	let mounted;
+	let dispose;
+	icon0 = new Icon({ props: { data: faCog } });
+	icon1 = new Icon({ props: { data: faTrash } });
+	icon2 = new Icon({ props: { data: faBars } });
+
+	return {
+		c() {
+			div1 = element("div");
+			li = element("li");
+			t0 = text(t0_value);
+			t1 = space();
+			div0 = element("div");
+			span0 = element("span");
+			create_component(icon0.$$.fragment);
+			t2 = space();
+			span1 = element("span");
+			create_component(icon1.$$.fragment);
+			t3 = space();
+			span2 = element("span");
+			create_component(icon2.$$.fragment);
+			attr(span0, "class", "clickable");
+			attr(span1, "class", "clickable");
+			attr(span2, "aria-label", "Drag-handle");
+
+			attr(span2, "style", span2_style_value = "" + ((/*dragDisabled*/ ctx[2]
+			? 'cursor: grab'
+			: 'cursor: grabbing') + ";"));
+
+			attr(span2, "tabindex", span2_tabindex_value = /*dragDisabled*/ ctx[2] ? 0 : -1);
+			attr(div1, "class", "quickAddCommandListItem");
+		},
+		m(target, anchor) {
+			insert(target, div1, anchor);
+			append(div1, li);
+			append(li, t0);
+			append(div1, t1);
+			append(div1, div0);
+			append(div0, span0);
+			mount_component(icon0, span0, null);
+			append(div0, t2);
+			append(div0, span1);
+			mount_component(icon1, span1, null);
+			append(div0, t3);
+			append(div0, span2);
+			mount_component(icon2, span2, null);
+			current = true;
+
+			if (!mounted) {
+				dispose = [
+					listen(span0, "click", /*click_handler*/ ctx[5]),
+					listen(span1, "click", /*click_handler_1*/ ctx[6]),
+					listen(span2, "mousedown", function () {
+						if (is_function(/*startDrag*/ ctx[1])) /*startDrag*/ ctx[1].apply(this, arguments);
+					}),
+					listen(span2, "touchstart", function () {
+						if (is_function(/*startDrag*/ ctx[1])) /*startDrag*/ ctx[1].apply(this, arguments);
+					})
+				];
+
+				mounted = true;
+			}
+		},
+		p(new_ctx, [dirty]) {
+			ctx = new_ctx;
+			if ((!current || dirty & /*command*/ 1) && t0_value !== (t0_value = /*command*/ ctx[0].name + "")) set_data(t0, t0_value);
+
+			if (!current || dirty & /*dragDisabled*/ 4 && span2_style_value !== (span2_style_value = "" + ((/*dragDisabled*/ ctx[2]
+			? 'cursor: grab'
+			: 'cursor: grabbing') + ";"))) {
+				attr(span2, "style", span2_style_value);
+			}
+
+			if (!current || dirty & /*dragDisabled*/ 4 && span2_tabindex_value !== (span2_tabindex_value = /*dragDisabled*/ ctx[2] ? 0 : -1)) {
+				attr(span2, "tabindex", span2_tabindex_value);
+			}
+		},
+		i(local) {
+			if (current) return;
+			transition_in(icon0.$$.fragment, local);
+			transition_in(icon1.$$.fragment, local);
+			transition_in(icon2.$$.fragment, local);
+			current = true;
+		},
+		o(local) {
+			transition_out(icon0.$$.fragment, local);
+			transition_out(icon1.$$.fragment, local);
+			transition_out(icon2.$$.fragment, local);
+			current = false;
+		},
+		d(detaching) {
+			if (detaching) detach(div1);
+			destroy_component(icon0);
+			destroy_component(icon1);
+			destroy_component(icon2);
+			mounted = false;
+			run_all(dispose);
+		}
+	};
+}
+
+function instance$2($$self, $$props, $$invalidate) {
+	let { command } = $$props;
+	let { startDrag } = $$props;
+	let { dragDisabled } = $$props;
+	const dispatch = createEventDispatcher();
+
+	function deleteCommand() {
+		dispatch('deleteCommand', command.id);
+	}
+
+	function configureChoice() {
+		dispatch('configureChoice', command);
+	}
+
+	const click_handler = () => configureChoice();
+	const click_handler_1 = () => deleteCommand();
+
+	$$self.$$set = $$props => {
+		if ('command' in $$props) $$invalidate(0, command = $$props.command);
+		if ('startDrag' in $$props) $$invalidate(1, startDrag = $$props.startDrag);
+		if ('dragDisabled' in $$props) $$invalidate(2, dragDisabled = $$props.dragDisabled);
+	};
+
+	return [
+		command,
+		startDrag,
+		dragDisabled,
+		deleteCommand,
+		configureChoice,
+		click_handler,
+		click_handler_1
+	];
+}
+
+class NestedChoiceCommand$1 extends SvelteComponent {
+	constructor(options) {
+		super();
 
 		init(this, options, instance$2, create_fragment$2, safe_not_equal, {
 			command: 0,
@@ -10545,24 +12751,21 @@ class WaitCommand$1 extends SvelteComponent {
 	}
 }
 
-/* src/gui/MacroGUIs/CommandList.svelte generated by Svelte v3.38.3 */
+/* src/gui/MacroGUIs/CommandList.svelte generated by Svelte v3.42.1 */
 
-function add_css$1() {
-	var style = element("style");
-	style.id = "svelte-1ukgrgp-style";
-	style.textContent = ".quickAddCommandList.svelte-1ukgrgp{display:grid;grid-template-columns:auto;width:auto;border:0 solid black;overflow-y:auto;height:auto;margin-bottom:8px;padding:20px}";
-	append(document.head, style);
+function add_css$1(target) {
+	append_styles(target, "svelte-1ukgrgp", ".quickAddCommandList.svelte-1ukgrgp{display:grid;grid-template-columns:auto;width:auto;border:0 solid black;overflow-y:auto;height:auto;margin-bottom:8px;padding:20px}");
 }
 
 function get_each_context(ctx, list, i) {
 	const child_ctx = ctx.slice();
-	child_ctx[19] = list[i];
-	child_ctx[20] = list;
-	child_ctx[21] = i;
+	child_ctx[29] = list[i];
+	child_ctx[30] = list;
+	child_ctx[31] = i;
 	return child_ctx;
 }
 
-// (45:8) {:else}
+// (93:8) {:else}
 function create_else_block(ctx) {
 	let standardcommand;
 	let updating_command;
@@ -10571,21 +12774,21 @@ function create_else_block(ctx) {
 	let current;
 
 	function standardcommand_command_binding(value) {
-		/*standardcommand_command_binding*/ ctx[15](value, /*command*/ ctx[19], /*each_value*/ ctx[20], /*command_index*/ ctx[21]);
+		/*standardcommand_command_binding*/ ctx[22](value, /*command*/ ctx[29], /*each_value*/ ctx[30], /*command_index*/ ctx[31]);
 	}
 
 	function standardcommand_dragDisabled_binding(value) {
-		/*standardcommand_dragDisabled_binding*/ ctx[16](value);
+		/*standardcommand_dragDisabled_binding*/ ctx[23](value);
 	}
 
 	function standardcommand_startDrag_binding(value) {
-		/*standardcommand_startDrag_binding*/ ctx[17](value);
+		/*standardcommand_startDrag_binding*/ ctx[24](value);
 	}
 
 	let standardcommand_props = {};
 
-	if (/*command*/ ctx[19] !== void 0) {
-		standardcommand_props.command = /*command*/ ctx[19];
+	if (/*command*/ ctx[29] !== void 0) {
+		standardcommand_props.command = /*command*/ ctx[29];
 	}
 
 	if (/*dragDisabled*/ ctx[3] !== void 0) {
@@ -10597,11 +12800,11 @@ function create_else_block(ctx) {
 	}
 
 	standardcommand = new StandardCommand({ props: standardcommand_props });
-	binding_callbacks.push(() => bind(standardcommand, "command", standardcommand_command_binding));
-	binding_callbacks.push(() => bind(standardcommand, "dragDisabled", standardcommand_dragDisabled_binding));
-	binding_callbacks.push(() => bind(standardcommand, "startDrag", standardcommand_startDrag_binding));
-	standardcommand.$on("deleteCommand", /*deleteCommand_handler_1*/ ctx[18]);
-	standardcommand.$on("updateCommand", /*updateCommand*/ ctx[7]);
+	binding_callbacks.push(() => bind(standardcommand, 'command', standardcommand_command_binding));
+	binding_callbacks.push(() => bind(standardcommand, 'dragDisabled', standardcommand_dragDisabled_binding));
+	binding_callbacks.push(() => bind(standardcommand, 'startDrag', standardcommand_startDrag_binding));
+	standardcommand.$on("deleteCommand", /*deleteCommand_handler_2*/ ctx[25]);
+	standardcommand.$on("updateCommand", /*updateCommandFromEvent*/ ctx[7]);
 
 	return {
 		c() {
@@ -10615,19 +12818,19 @@ function create_else_block(ctx) {
 			ctx = new_ctx;
 			const standardcommand_changes = {};
 
-			if (!updating_command && dirty & /*commands, SHADOW_PLACEHOLDER_ITEM_ID*/ 5) {
+			if (!updating_command && dirty[0] & /*commands, SHADOW_PLACEHOLDER_ITEM_ID*/ 5) {
 				updating_command = true;
-				standardcommand_changes.command = /*command*/ ctx[19];
+				standardcommand_changes.command = /*command*/ ctx[29];
 				add_flush_callback(() => updating_command = false);
 			}
 
-			if (!updating_dragDisabled && dirty & /*dragDisabled*/ 8) {
+			if (!updating_dragDisabled && dirty[0] & /*dragDisabled*/ 8) {
 				updating_dragDisabled = true;
 				standardcommand_changes.dragDisabled = /*dragDisabled*/ ctx[3];
 				add_flush_callback(() => updating_dragDisabled = false);
 			}
 
-			if (!updating_startDrag && dirty & /*startDrag*/ 16) {
+			if (!updating_startDrag && dirty[0] & /*startDrag*/ 16) {
 				updating_startDrag = true;
 				standardcommand_changes.startDrag = /*startDrag*/ ctx[4];
 				add_flush_callback(() => updating_startDrag = false);
@@ -10650,7 +12853,96 @@ function create_else_block(ctx) {
 	};
 }
 
-// (43:8) {#if command.type === CommandType.Wait}
+// (91:60) 
+function create_if_block_1(ctx) {
+	let nestedchoicecommand;
+	let updating_command;
+	let updating_dragDisabled;
+	let updating_startDrag;
+	let current;
+
+	function nestedchoicecommand_command_binding(value) {
+		/*nestedchoicecommand_command_binding*/ ctx[18](value, /*command*/ ctx[29], /*each_value*/ ctx[30], /*command_index*/ ctx[31]);
+	}
+
+	function nestedchoicecommand_dragDisabled_binding(value) {
+		/*nestedchoicecommand_dragDisabled_binding*/ ctx[19](value);
+	}
+
+	function nestedchoicecommand_startDrag_binding(value) {
+		/*nestedchoicecommand_startDrag_binding*/ ctx[20](value);
+	}
+
+	let nestedchoicecommand_props = {};
+
+	if (/*command*/ ctx[29] !== void 0) {
+		nestedchoicecommand_props.command = /*command*/ ctx[29];
+	}
+
+	if (/*dragDisabled*/ ctx[3] !== void 0) {
+		nestedchoicecommand_props.dragDisabled = /*dragDisabled*/ ctx[3];
+	}
+
+	if (/*startDrag*/ ctx[4] !== void 0) {
+		nestedchoicecommand_props.startDrag = /*startDrag*/ ctx[4];
+	}
+
+	nestedchoicecommand = new NestedChoiceCommand$1({ props: nestedchoicecommand_props });
+	binding_callbacks.push(() => bind(nestedchoicecommand, 'command', nestedchoicecommand_command_binding));
+	binding_callbacks.push(() => bind(nestedchoicecommand, 'dragDisabled', nestedchoicecommand_dragDisabled_binding));
+	binding_callbacks.push(() => bind(nestedchoicecommand, 'startDrag', nestedchoicecommand_startDrag_binding));
+	nestedchoicecommand.$on("deleteCommand", /*deleteCommand_handler_1*/ ctx[21]);
+	nestedchoicecommand.$on("updateCommand", /*updateCommandFromEvent*/ ctx[7]);
+	nestedchoicecommand.$on("configureChoice", /*configureChoice*/ ctx[8]);
+
+	return {
+		c() {
+			create_component(nestedchoicecommand.$$.fragment);
+		},
+		m(target, anchor) {
+			mount_component(nestedchoicecommand, target, anchor);
+			current = true;
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+			const nestedchoicecommand_changes = {};
+
+			if (!updating_command && dirty[0] & /*commands, SHADOW_PLACEHOLDER_ITEM_ID*/ 5) {
+				updating_command = true;
+				nestedchoicecommand_changes.command = /*command*/ ctx[29];
+				add_flush_callback(() => updating_command = false);
+			}
+
+			if (!updating_dragDisabled && dirty[0] & /*dragDisabled*/ 8) {
+				updating_dragDisabled = true;
+				nestedchoicecommand_changes.dragDisabled = /*dragDisabled*/ ctx[3];
+				add_flush_callback(() => updating_dragDisabled = false);
+			}
+
+			if (!updating_startDrag && dirty[0] & /*startDrag*/ 16) {
+				updating_startDrag = true;
+				nestedchoicecommand_changes.startDrag = /*startDrag*/ ctx[4];
+				add_flush_callback(() => updating_startDrag = false);
+			}
+
+			nestedchoicecommand.$set(nestedchoicecommand_changes);
+		},
+		i(local) {
+			if (current) return;
+			transition_in(nestedchoicecommand.$$.fragment, local);
+			current = true;
+		},
+		o(local) {
+			transition_out(nestedchoicecommand.$$.fragment, local);
+			current = false;
+		},
+		d(detaching) {
+			destroy_component(nestedchoicecommand, detaching);
+		}
+	};
+}
+
+// (89:8) {#if command.type === CommandType.Wait}
 function create_if_block(ctx) {
 	let waitcommand;
 	let updating_command;
@@ -10659,21 +12951,21 @@ function create_if_block(ctx) {
 	let current;
 
 	function waitcommand_command_binding(value) {
-		/*waitcommand_command_binding*/ ctx[11](value, /*command*/ ctx[19], /*each_value*/ ctx[20], /*command_index*/ ctx[21]);
+		/*waitcommand_command_binding*/ ctx[14](value, /*command*/ ctx[29], /*each_value*/ ctx[30], /*command_index*/ ctx[31]);
 	}
 
 	function waitcommand_dragDisabled_binding(value) {
-		/*waitcommand_dragDisabled_binding*/ ctx[12](value);
+		/*waitcommand_dragDisabled_binding*/ ctx[15](value);
 	}
 
 	function waitcommand_startDrag_binding(value) {
-		/*waitcommand_startDrag_binding*/ ctx[13](value);
+		/*waitcommand_startDrag_binding*/ ctx[16](value);
 	}
 
 	let waitcommand_props = {};
 
-	if (/*command*/ ctx[19] !== void 0) {
-		waitcommand_props.command = /*command*/ ctx[19];
+	if (/*command*/ ctx[29] !== void 0) {
+		waitcommand_props.command = /*command*/ ctx[29];
 	}
 
 	if (/*dragDisabled*/ ctx[3] !== void 0) {
@@ -10685,11 +12977,11 @@ function create_if_block(ctx) {
 	}
 
 	waitcommand = new WaitCommand$1({ props: waitcommand_props });
-	binding_callbacks.push(() => bind(waitcommand, "command", waitcommand_command_binding));
-	binding_callbacks.push(() => bind(waitcommand, "dragDisabled", waitcommand_dragDisabled_binding));
-	binding_callbacks.push(() => bind(waitcommand, "startDrag", waitcommand_startDrag_binding));
-	waitcommand.$on("deleteCommand", /*deleteCommand_handler*/ ctx[14]);
-	waitcommand.$on("updateCommand", /*updateCommand*/ ctx[7]);
+	binding_callbacks.push(() => bind(waitcommand, 'command', waitcommand_command_binding));
+	binding_callbacks.push(() => bind(waitcommand, 'dragDisabled', waitcommand_dragDisabled_binding));
+	binding_callbacks.push(() => bind(waitcommand, 'startDrag', waitcommand_startDrag_binding));
+	waitcommand.$on("deleteCommand", /*deleteCommand_handler*/ ctx[17]);
+	waitcommand.$on("updateCommand", /*updateCommandFromEvent*/ ctx[7]);
 
 	return {
 		c() {
@@ -10703,19 +12995,19 @@ function create_if_block(ctx) {
 			ctx = new_ctx;
 			const waitcommand_changes = {};
 
-			if (!updating_command && dirty & /*commands, SHADOW_PLACEHOLDER_ITEM_ID*/ 5) {
+			if (!updating_command && dirty[0] & /*commands, SHADOW_PLACEHOLDER_ITEM_ID*/ 5) {
 				updating_command = true;
-				waitcommand_changes.command = /*command*/ ctx[19];
+				waitcommand_changes.command = /*command*/ ctx[29];
 				add_flush_callback(() => updating_command = false);
 			}
 
-			if (!updating_dragDisabled && dirty & /*dragDisabled*/ 8) {
+			if (!updating_dragDisabled && dirty[0] & /*dragDisabled*/ 8) {
 				updating_dragDisabled = true;
 				waitcommand_changes.dragDisabled = /*dragDisabled*/ ctx[3];
 				add_flush_callback(() => updating_dragDisabled = false);
 			}
 
-			if (!updating_startDrag && dirty & /*startDrag*/ 16) {
+			if (!updating_startDrag && dirty[0] & /*startDrag*/ 16) {
 				updating_startDrag = true;
 				waitcommand_changes.startDrag = /*startDrag*/ ctx[4];
 				add_flush_callback(() => updating_startDrag = false);
@@ -10738,19 +13030,20 @@ function create_if_block(ctx) {
 	};
 }
 
-// (42:4) {#each commands.filter(c => c.id !== SHADOW_PLACEHOLDER_ITEM_ID) as command(command.id)}
+// (88:4) {#each commands.filter(c => c.id !== SHADOW_PLACEHOLDER_ITEM_ID) as command(command.id)}
 function create_each_block(key_1, ctx) {
 	let first;
 	let current_block_type_index;
 	let if_block;
 	let if_block_anchor;
 	let current;
-	const if_block_creators = [create_if_block, create_else_block];
+	const if_block_creators = [create_if_block, create_if_block_1, create_else_block];
 	const if_blocks = [];
 
 	function select_block_type(ctx, dirty) {
-		if (/*command*/ ctx[19].type === CommandType.Wait) return 0;
-		return 1;
+		if (/*command*/ ctx[29].type === CommandType.Wait) return 0;
+		if (/*command*/ ctx[29].type === CommandType.NestedChoice) return 1;
+		return 2;
 	}
 
 	current_block_type_index = select_block_type(ctx);
@@ -10824,8 +13117,8 @@ function create_fragment$1(ctx) {
 	let current;
 	let mounted;
 	let dispose;
-	let each_value = /*commands*/ ctx[0].filter(/*func*/ ctx[10]);
-	const get_key = ctx => /*command*/ ctx[19].id;
+	let each_value = /*commands*/ ctx[0].filter(/*func*/ ctx[13]);
+	const get_key = ctx => /*command*/ ctx[29].id;
 
 	for (let i = 0; i < each_value.length; i += 1) {
 		let child_ctx = get_each_context(ctx, each_value, i);
@@ -10867,15 +13160,15 @@ function create_fragment$1(ctx) {
 				mounted = true;
 			}
 		},
-		p(ctx, [dirty]) {
-			if (dirty & /*commands, SHADOW_PLACEHOLDER_ITEM_ID, dragDisabled, startDrag, deleteCommand, updateCommand, CommandType*/ 159) {
-				each_value = /*commands*/ ctx[0].filter(/*func*/ ctx[10]);
+		p(ctx, dirty) {
+			if (dirty[0] & /*commands, SHADOW_PLACEHOLDER_ITEM_ID, dragDisabled, startDrag, deleteCommand, updateCommandFromEvent, configureChoice*/ 415) {
+				each_value = /*commands*/ ctx[0].filter(/*func*/ ctx[13]);
 				group_outros();
 				each_blocks = update_keyed_each(each_blocks, dirty, get_key, 1, ctx, each_value, each_1_lookup, ol, outro_and_destroy_block, create_each_block, null, get_each_context);
 				check_outros();
 			}
 
-			if (dndzone_action && is_function(dndzone_action.update) && dirty & /*commands, dragDisabled*/ 9) dndzone_action.update.call(null, {
+			if (dndzone_action && is_function(dndzone_action.update) && dirty[0] & /*commands, dragDisabled*/ 9) dndzone_action.update.call(null, {
 				items: /*commands*/ ctx[0],
 				dragDisabled: /*dragDisabled*/ ctx[3],
 				dropTargetStyle: {},
@@ -10912,10 +13205,51 @@ function create_fragment$1(ctx) {
 }
 
 function instance$1($$self, $$props, $$invalidate) {
+	var __awaiter = this && this.__awaiter || function (thisArg, _arguments, P, generator) {
+		function adopt(value) {
+			return value instanceof P
+			? value
+			: new P(function (resolve) {
+						resolve(value);
+					});
+		}
+
+		return new (P || (P = Promise))(function (resolve, reject) {
+				function fulfilled(value) {
+					try {
+						step(generator.next(value));
+					} catch(e) {
+						reject(e);
+					}
+				}
+
+				function rejected(value) {
+					try {
+						step(generator["throw"](value));
+					} catch(e) {
+						reject(e);
+					}
+				}
+
+				function step(result) {
+					result.done
+					? resolve(result.value)
+					: adopt(result.value).then(fulfilled, rejected);
+				}
+
+				step((generator = generator.apply(thisArg, _arguments || [])).next());
+			});
+	};
+
+	
+	
+	
 	
 	let { commands } = $$props;
 	let { deleteCommand } = $$props;
 	let { saveCommands } = $$props;
+	let { app } = $$props;
+	let { plugin } = $$props;
 	let dragDisabled = true;
 
 	const updateCommandList = newCommands => {
@@ -10943,11 +13277,37 @@ function instance$1($$self, $$props, $$invalidate) {
 		$$invalidate(3, dragDisabled = false);
 	};
 
-	function updateCommand(e) {
+	function updateCommandFromEvent(e) {
 		const command = e.detail;
+		updateCommand(command);
+	}
+
+	function updateCommand(command) {
 		const index = commands.findIndex(c => c.id === command.id);
 		$$invalidate(0, commands[index] = command, commands);
 		saveCommands(commands);
+	}
+
+	function configureChoice(e) {
+		return __awaiter(this, void 0, void 0, function* () {
+			const command = e.detail;
+			const newChoice = yield getChoiceBuilder(command.choice).waitForClose;
+			if (!newChoice) return;
+			command.choice = newChoice;
+			command.name = newChoice.name;
+			updateCommand(command);
+		});
+	}
+
+	function getChoiceBuilder(choice) {
+		switch (choice.type) {
+			case ChoiceType.Template:
+				return new TemplateChoiceBuilder(app, choice, plugin);
+			case ChoiceType.Capture:
+				return new CaptureChoiceBuilder(app, choice, plugin);
+			case ChoiceType.Macro:
+			case ChoiceType.Multi:
+		}
 	}
 
 	const func = c => c.id !== SHADOW_PLACEHOLDER_ITEM_ID;
@@ -10967,7 +13327,24 @@ function instance$1($$self, $$props, $$invalidate) {
 		$$invalidate(4, startDrag);
 	}
 
-	const deleteCommand_handler = e => deleteCommand(e.detail);
+	const deleteCommand_handler = async e => await deleteCommand(e.detail);
+
+	function nestedchoicecommand_command_binding(value, command, each_value, command_index) {
+		each_value[command_index] = value;
+		$$invalidate(0, commands);
+	}
+
+	function nestedchoicecommand_dragDisabled_binding(value) {
+		dragDisabled = value;
+		$$invalidate(3, dragDisabled);
+	}
+
+	function nestedchoicecommand_startDrag_binding(value) {
+		startDrag = value;
+		$$invalidate(4, startDrag);
+	}
+
+	const deleteCommand_handler_1 = async e => await deleteCommand(e.detail);
 
 	function standardcommand_command_binding(value, command, each_value, command_index) {
 		each_value[command_index] = value;
@@ -10984,12 +13361,14 @@ function instance$1($$self, $$props, $$invalidate) {
 		$$invalidate(4, startDrag);
 	}
 
-	const deleteCommand_handler_1 = e => deleteCommand(e.detail);
+	const deleteCommand_handler_2 = async e => await deleteCommand(e.detail);
 
 	$$self.$$set = $$props => {
-		if ("commands" in $$props) $$invalidate(0, commands = $$props.commands);
-		if ("deleteCommand" in $$props) $$invalidate(1, deleteCommand = $$props.deleteCommand);
-		if ("saveCommands" in $$props) $$invalidate(8, saveCommands = $$props.saveCommands);
+		if ('commands' in $$props) $$invalidate(0, commands = $$props.commands);
+		if ('deleteCommand' in $$props) $$invalidate(1, deleteCommand = $$props.deleteCommand);
+		if ('saveCommands' in $$props) $$invalidate(9, saveCommands = $$props.saveCommands);
+		if ('app' in $$props) $$invalidate(10, app = $$props.app);
+		if ('plugin' in $$props) $$invalidate(11, plugin = $$props.plugin);
 	};
 
 	return [
@@ -11000,36 +13379,53 @@ function instance$1($$self, $$props, $$invalidate) {
 		startDrag,
 		handleConsider,
 		handleSort,
-		updateCommand,
+		updateCommandFromEvent,
+		configureChoice,
 		saveCommands,
+		app,
+		plugin,
 		updateCommandList,
 		func,
 		waitcommand_command_binding,
 		waitcommand_dragDisabled_binding,
 		waitcommand_startDrag_binding,
 		deleteCommand_handler,
+		nestedchoicecommand_command_binding,
+		nestedchoicecommand_dragDisabled_binding,
+		nestedchoicecommand_startDrag_binding,
+		deleteCommand_handler_1,
 		standardcommand_command_binding,
 		standardcommand_dragDisabled_binding,
 		standardcommand_startDrag_binding,
-		deleteCommand_handler_1
+		deleteCommand_handler_2
 	];
 }
 
 class CommandList extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-1ukgrgp-style")) add_css$1();
 
-		init(this, options, instance$1, create_fragment$1, safe_not_equal, {
-			commands: 0,
-			deleteCommand: 1,
-			saveCommands: 8,
-			updateCommandList: 9
-		});
+		init(
+			this,
+			options,
+			instance$1,
+			create_fragment$1,
+			safe_not_equal,
+			{
+				commands: 0,
+				deleteCommand: 1,
+				saveCommands: 9,
+				app: 10,
+				plugin: 11,
+				updateCommandList: 12
+			},
+			add_css$1,
+			[-1, -1]
+		);
 	}
 
 	get updateCommandList() {
-		return this.$$.ctx[9];
+		return this.$$.ctx[12];
 	}
 }
 
@@ -11047,8 +13443,15 @@ class WaitCommand extends Command {
     }
 }
 
+class NestedChoiceCommand extends Command {
+    constructor(choice) {
+        super(choice.name, CommandType.NestedChoice);
+        this.choice = choice;
+    }
+}
+
 class MacroBuilder extends obsidian.Modal {
-    constructor(app, macro, choices) {
+    constructor(app, plugin, macro, choices) {
         super(app);
         this.commands = [];
         this.javascriptFiles = [];
@@ -11056,6 +13459,7 @@ class MacroBuilder extends obsidian.Modal {
         this.macro = macro;
         this.svelteElements = [];
         this.choices = choices;
+        this.plugin = plugin;
         this.waitForClose = new Promise(resolve => (this.resolvePromise = resolve));
         this.getObsidianCommands();
         this.getJavascriptFiles();
@@ -11074,8 +13478,9 @@ class MacroBuilder extends obsidian.Modal {
         this.contentEl.empty();
         this.addCenteredHeader(this.macro.name);
         this.addCommandList();
-        this.addAddWaitCommandButton();
+        this.addCommandBar();
         this.addAddObsidianCommandSetting();
+        this.addAddEditorCommandsSetting();
         this.addAddUserScriptSetting();
         this.addAddChoiceSetting();
     }
@@ -11119,6 +13524,46 @@ class MacroBuilder extends obsidian.Modal {
         })
             .addButton(button => button.setCta().setButtonText("Add").onClick(addObsidianCommandFromInput));
     }
+    addAddEditorCommandsSetting() {
+        let dropdownComponent;
+        const addEditorCommandFromDropdown = () => {
+            const type = dropdownComponent.getValue();
+            let command;
+            switch (type) {
+                case EditorCommandType.Copy:
+                    command = new CopyCommand();
+                    break;
+                case EditorCommandType.Cut:
+                    command = new CutCommand();
+                    break;
+                case EditorCommandType.Paste:
+                    command = new PasteCommand();
+                    break;
+                case EditorCommandType.SelectActiveLine:
+                    command = new SelectActiveLineCommand();
+                    break;
+                case EditorCommandType.SelectLinkOnActiveLine:
+                    command = new SelectLinkOnActiveLineCommand();
+                    break;
+                default:
+                    log.logError("invalid editor command type");
+            }
+            this.addCommandToMacro(command);
+        };
+        new obsidian.Setting(this.contentEl)
+            .setName("Editor commands")
+            .setDesc("Add editor command")
+            .addDropdown(dropdown => {
+            dropdownComponent = dropdown;
+            dropdown.selectEl.style.marginRight = "1em";
+            dropdown.addOption(EditorCommandType.Copy, EditorCommandType.Copy)
+                .addOption(EditorCommandType.Cut, EditorCommandType.Cut)
+                .addOption(EditorCommandType.Paste, EditorCommandType.Paste)
+                .addOption(EditorCommandType.SelectActiveLine, EditorCommandType.SelectActiveLine)
+                .addOption(EditorCommandType.SelectLinkOnActiveLine, EditorCommandType.SelectLinkOnActiveLine);
+        })
+            .addButton(button => button.setCta().setButtonText("Add").onClick(addEditorCommandFromDropdown));
+    }
     addAddUserScriptSetting() {
         let input;
         const addUserScriptFromInput = () => {
@@ -11161,7 +13606,7 @@ class MacroBuilder extends obsidian.Modal {
         };
         new obsidian.Setting(this.contentEl)
             .setName("Choices")
-            .setDesc("Add choice")
+            .setDesc("Add existing choice")
             .addText(textComponent => {
             input = textComponent;
             textComponent.inputEl.style.marginRight = "1em";
@@ -11194,8 +13639,14 @@ class MacroBuilder extends obsidian.Modal {
         this.commandListEl = new CommandList({
             target: commandList,
             props: {
+                app: this.app,
+                plugin: this.plugin,
                 commands: this.macro.commands,
-                deleteCommand: (commandId) => {
+                deleteCommand: async (commandId) => {
+                    const command = this.macro.commands.find(c => c.id === commandId);
+                    const promptAnswer = await GenericYesNoPrompt.Prompt(this.app, "Are you sure you wish to delete this command?", `If you click yes, you will delete '${command.name}'.`);
+                    if (!promptAnswer)
+                        return;
                     this.macro.commands = this.macro.commands.filter(c => c.id !== commandId);
                     this.commandListEl.updateCommandList(this.macro.commands);
                 },
@@ -11206,11 +13657,23 @@ class MacroBuilder extends obsidian.Modal {
         });
         this.svelteElements.push(this.commandListEl);
     }
-    addAddWaitCommandButton() {
+    addCommandBar() {
         const quickCommandContainer = this.contentEl.createDiv('quickCommandContainer');
+        this.newChoiceButton(quickCommandContainer, "Capture", CaptureChoice);
+        this.newChoiceButton(quickCommandContainer, "Template", TemplateChoice);
+        this.addAddWaitCommandButton(quickCommandContainer);
+    }
+    addAddWaitCommandButton(quickCommandContainer) {
         const button = new obsidian.ButtonComponent(quickCommandContainer);
         button.setIcon('clock').setTooltip("Add wait command").onClick(() => {
             this.addCommandToMacro(new WaitCommand(100));
+        });
+    }
+    newChoiceButton(container, typeName, type) {
+        const button = new obsidian.ButtonComponent(container);
+        button.setButtonText(typeName).setTooltip(`Add ${typeName} Choice`).onClick(() => {
+            const captureChoice = new type(`Untitled ${typeName} Choice`);
+            this.addCommandToMacro(new NestedChoiceCommand(captureChoice));
         });
     }
     addCommandToMacro(command) {
@@ -11229,11 +13692,12 @@ class QuickAddMacro {
 }
 
 class MacrosManager extends obsidian.Modal {
-    constructor(app, macros, choices) {
+    constructor(app, plugin, macros, choices) {
         super(app);
         this.app = app;
         this.macros = macros;
         this.choices = choices;
+        this.plugin = plugin;
         this.waitForClose = new Promise(((resolve, reject) => {
             this.rejectPromise = reject;
             this.resolvePromise = resolve;
@@ -11299,7 +13763,7 @@ class MacrosManager extends obsidian.Modal {
                     return reachableChoices;
                 };
                 const reachableChoices = getReachableChoices(this.choices);
-                const newMacro = await new MacroBuilder(this.app, macro, reachableChoices).waitForClose;
+                const newMacro = await new MacroBuilder(this.app, this.plugin, macro, reachableChoices).waitForClose;
                 if (newMacro) {
                     this.updateMacro(newMacro);
                     this.reload();
@@ -11355,13 +13819,10 @@ class MacrosManager extends obsidian.Modal {
     }
 }
 
-/* src/gui/choiceList/ChoiceView.svelte generated by Svelte v3.38.3 */
+/* src/gui/choiceList/ChoiceView.svelte generated by Svelte v3.42.1 */
 
-function add_css() {
-	var style = element("style");
-	style.id = "svelte-1hqzh4r-style";
-	style.textContent = ".choiceViewBottomBar.svelte-1hqzh4r{display:flex;align-items:center;justify-content:space-between;margin-top:1rem}";
-	append(document.head, style);
+function add_css(target) {
+	append_styles(target, "svelte-wcmtyt", ".choiceViewBottomBar.svelte-wcmtyt{display:flex;flex-direction:row;align-items:center;justify-content:space-between;margin-top:1rem}@media(max-width: 800px){.choiceViewBottomBar.svelte-wcmtyt{flex-direction:column}}");
 }
 
 function create_fragment(ctx) {
@@ -11388,7 +13849,7 @@ function create_fragment(ctx) {
 	}
 
 	choicelist = new ChoiceList({ props: choicelist_props });
-	binding_callbacks.push(() => bind(choicelist, "choices", choicelist_choices_binding));
+	binding_callbacks.push(() => bind(choicelist, 'choices', choicelist_choices_binding));
 	choicelist.$on("deleteChoice", /*deleteChoice*/ ctx[3]);
 	choicelist.$on("configureChoice", /*configureChoice*/ ctx[4]);
 	choicelist.$on("toggleCommand", /*toggleCommandForChoice*/ ctx[5]);
@@ -11407,7 +13868,7 @@ function create_fragment(ctx) {
 			t2 = space();
 			create_component(addchoicebox.$$.fragment);
 			attr(button, "class", "mod-cta");
-			attr(div0, "class", "choiceViewBottomBar svelte-1hqzh4r");
+			attr(div0, "class", "choiceViewBottomBar svelte-wcmtyt");
 		},
 		m(target, anchor) {
 			insert(target, div1, anchor);
@@ -11532,7 +13993,12 @@ function instance($$self, $$props, $$invalidate) {
 	function deleteChoice(e) {
 		return __awaiter(this, void 0, void 0, function* () {
 			const choice = e.detail.choice;
-			const userConfirmed = yield GenericYesNoPrompt.Prompt(app, `Confirm deletion of choice`, `Please confirm that you wish to delete '${choice.name}.'`);
+
+			const userConfirmed = yield GenericYesNoPrompt.Prompt(app, `Confirm deletion of choice`, `Please confirm that you wish to delete '${choice.name}'.
+            ${choice.type === ChoiceType.Multi
+			? "Deleting this choice will delete all (" + choice.choices.length + ") choices inside it!"
+			: ""}
+            `);
 
 			if (userConfirmed) {
 				$$invalidate(0, choices = choices.filter(value => deleteChoiceHelper(choice.id, value)));
@@ -11603,7 +14069,7 @@ function instance($$self, $$props, $$invalidate) {
 
 	function openMacroManager() {
 		return __awaiter(this, void 0, void 0, function* () {
-			const newMacros = yield new MacrosManager(app, macros, choices).waitForClose;
+			const newMacros = yield new MacrosManager(app, plugin, macros, choices).waitForClose;
 
 			if (newMacros) {
 				saveMacros(newMacros);
@@ -11620,12 +14086,12 @@ function instance($$self, $$props, $$invalidate) {
 	const reorderChoices_handler = e => saveChoices(e.detail.choices);
 
 	$$self.$$set = $$props => {
-		if ("choices" in $$props) $$invalidate(0, choices = $$props.choices);
-		if ("macros" in $$props) $$invalidate(7, macros = $$props.macros);
-		if ("saveChoices" in $$props) $$invalidate(1, saveChoices = $$props.saveChoices);
-		if ("saveMacros" in $$props) $$invalidate(8, saveMacros = $$props.saveMacros);
-		if ("app" in $$props) $$invalidate(9, app = $$props.app);
-		if ("plugin" in $$props) $$invalidate(10, plugin = $$props.plugin);
+		if ('choices' in $$props) $$invalidate(0, choices = $$props.choices);
+		if ('macros' in $$props) $$invalidate(7, macros = $$props.macros);
+		if ('saveChoices' in $$props) $$invalidate(1, saveChoices = $$props.saveChoices);
+		if ('saveMacros' in $$props) $$invalidate(8, saveMacros = $$props.saveMacros);
+		if ('app' in $$props) $$invalidate(9, app = $$props.app);
+		if ('plugin' in $$props) $$invalidate(10, plugin = $$props.plugin);
 	};
 
 	return [
@@ -11648,16 +14114,23 @@ function instance($$self, $$props, $$invalidate) {
 class ChoiceView extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-1hqzh4r-style")) add_css();
 
-		init(this, options, instance, create_fragment, safe_not_equal, {
-			choices: 0,
-			macros: 7,
-			saveChoices: 1,
-			saveMacros: 8,
-			app: 9,
-			plugin: 10
-		});
+		init(
+			this,
+			options,
+			instance,
+			create_fragment,
+			safe_not_equal,
+			{
+				choices: 0,
+				macros: 7,
+				saveChoices: 1,
+				saveMacros: 8,
+				app: 9,
+				plugin: 10
+			},
+			add_css
+		);
 	}
 }
 
@@ -11710,14 +14183,9 @@ class TemplateChoiceEngine extends TemplateEngine {
         this.choice = choice;
     }
     async run() {
-        var _a;
         let folderPath = "";
         if (this.choice.folder.enabled) {
-            let folders = this.choice.folder.folders;
-            if ((_a = this.choice.folder) === null || _a === void 0 ? void 0 : _a.chooseWhenCreatingNote) {
-                folders = await getAllFolders(this.app);
-            }
-            folderPath = await this.getOrCreateFolder(folders);
+            folderPath = await this.getFolderPath();
         }
         let filePath;
         if (this.choice.fileNameFormat.enabled) {
@@ -11765,14 +14233,27 @@ class TemplateChoiceEngine extends TemplateEngine {
         }
         if (this.choice.openFile) {
             if (!this.choice.openFileInNewTab.enabled) {
-                await this.app.workspace.activeLeaf.openFile(createdFile);
+                await openFile(this.app, createdFile);
             }
             else {
-                await this.app.workspace
-                    .splitActiveLeaf(this.choice.openFileInNewTab.direction)
-                    .openFile(createdFile);
+                await openFile(this.app, createdFile, this.choice.openFileInNewTab.direction);
             }
         }
+    }
+    async getFolderPath() {
+        var _a, _b;
+        let folders = [...this.choice.folder.folders];
+        if ((_a = this.choice.folder) === null || _a === void 0 ? void 0 : _a.chooseWhenCreatingNote) {
+            const allFoldersInVault = getAllFolderPathsInVault(this.app);
+            return await this.getOrCreateFolder(allFoldersInVault);
+        }
+        if ((_b = this.choice.folder) === null || _b === void 0 ? void 0 : _b.createInSameFolderAsActiveFile) {
+            const activeFile = this.app.workspace.getActiveFile();
+            if (!activeFile)
+                log.logError("No active file. Cannot create new file.");
+            return this.getOrCreateFolder([activeFile.parent.path]);
+        }
+        return await this.getOrCreateFolder(folders);
     }
 }
 
@@ -11801,60 +14282,86 @@ class CaptureChoiceFormatter extends CompleteFormatter {
         return await this.formatFileContent(input);
     }
     async formatFileContent(input) {
-        var _a;
         let formatted = await super.formatFileContent(input);
         formatted = this.replaceLinebreakInString(formatted);
         const formattedContentIsEmpty = formatted.trim() === "";
         if (formattedContentIsEmpty)
             return this.fileContent;
-        if (this.choice.prepend)
-            return `${this.fileContent}\n${formatted}`;
+        if (this.choice.prepend) {
+            const shouldInsertLinebreak = !this.choice.task;
+            return `${this.fileContent}${shouldInsertLinebreak ? "\n" : ""}${formatted}`;
+        }
         if (this.choice.insertAfter.enabled) {
-            const target = await this.format(this.choice.insertAfter.after);
-            const targetRegex = new RegExp(`\s*${target}\s*`);
-            let fileContentLines = getLinesInString(this.fileContent);
-            const targetPosition = fileContentLines.findIndex(line => targetRegex.test(line));
-            if (targetPosition === -1) {
-                log.logError("unable to find insert after line in file.");
-            }
-            if ((_a = this.choice.insertAfter) === null || _a === void 0 ? void 0 : _a.insertAtEnd) {
-                const nextHeaderPositionAfterTargetPosition = fileContentLines.slice(targetPosition + 1).findIndex(line => (/^#+ |---/).test(line));
-                const foundNextHeader = nextHeaderPositionAfterTargetPosition !== -1;
-                if (foundNextHeader) {
-                    let endOfSectionIndex;
-                    for (let i = nextHeaderPositionAfterTargetPosition + targetPosition; i > targetPosition; i--) {
-                        const lineIsNewline = (/^[\s\n ]*$/).test(fileContentLines[i]);
-                        if (!lineIsNewline) {
-                            endOfSectionIndex = i;
-                            break;
-                        }
-                    }
-                    if (!endOfSectionIndex)
-                        endOfSectionIndex = targetPosition;
-                    return this.insertTextAfterPositionInBody(formatted, this.fileContent, endOfSectionIndex);
-                }
-                else {
-                    return this.insertTextAfterPositionInBody(formatted, this.fileContent, fileContentLines.length - 1);
-                }
-            }
-            return this.insertTextAfterPositionInBody(formatted, this.fileContent, targetPosition);
+            return await this.insertAfterHandler(formatted);
         }
         const frontmatterEndPosition = this.file ? await this.getFrontmatterEndPosition(this.file) : null;
         if (!frontmatterEndPosition)
             return `${formatted}${this.fileContent}`;
         return this.insertTextAfterPositionInBody(formatted, this.fileContent, frontmatterEndPosition);
     }
+    async insertAfterHandler(formatted) {
+        var _a, _b;
+        const targetString = await this.format(this.choice.insertAfter.after);
+        const targetRegex = new RegExp(`\s*${escapeRegExp(targetString.replace('\\n', ''))}\s*`);
+        let fileContentLines = getLinesInString(this.fileContent);
+        const targetPosition = fileContentLines.findIndex(line => targetRegex.test(line));
+        const targetNotFound = targetPosition === -1;
+        if (targetNotFound) {
+            if ((_a = this.choice.insertAfter) === null || _a === void 0 ? void 0 : _a.createIfNotFound) {
+                return await this.createInsertAfterIfNotFound(formatted);
+            }
+            log.logError("unable to find insert after line in file.");
+        }
+        if ((_b = this.choice.insertAfter) === null || _b === void 0 ? void 0 : _b.insertAtEnd) {
+            const nextHeaderPositionAfterTargetPosition = fileContentLines
+                .slice(targetPosition + 1)
+                .findIndex(line => (/^#+ |---/).test(line));
+            const foundNextHeader = nextHeaderPositionAfterTargetPosition !== -1;
+            if (foundNextHeader) {
+                let endOfSectionIndex;
+                for (let i = nextHeaderPositionAfterTargetPosition + targetPosition; i > targetPosition; i--) {
+                    const lineIsNewline = (/^[\s\n ]*$/).test(fileContentLines[i]);
+                    if (!lineIsNewline) {
+                        endOfSectionIndex = i;
+                        break;
+                    }
+                }
+                if (!endOfSectionIndex)
+                    endOfSectionIndex = targetPosition;
+                return this.insertTextAfterPositionInBody(formatted, this.fileContent, endOfSectionIndex);
+            }
+            else {
+                return this.insertTextAfterPositionInBody(formatted, this.fileContent, fileContentLines.length - 1);
+            }
+        }
+        return this.insertTextAfterPositionInBody(formatted, this.fileContent, targetPosition);
+    }
+    async createInsertAfterIfNotFound(formatted) {
+        var _a, _b;
+        const insertAfterLine = this.replaceLinebreakInString(await this.format(this.choice.insertAfter.after));
+        const insertAfterLineAndFormatted = `${insertAfterLine}\n${formatted}`;
+        if (((_a = this.choice.insertAfter) === null || _a === void 0 ? void 0 : _a.createIfNotFoundLocation) === CREATE_IF_NOT_FOUND_TOP) {
+            const frontmatterEndPosition = this.file ? await this.getFrontmatterEndPosition(this.file) : -1;
+            return this.insertTextAfterPositionInBody(insertAfterLineAndFormatted, this.fileContent, frontmatterEndPosition);
+        }
+        if (((_b = this.choice.insertAfter) === null || _b === void 0 ? void 0 : _b.createIfNotFoundLocation) === CREATE_IF_NOT_FOUND_BOTTOM) {
+            return `${this.fileContent}\n${insertAfterLineAndFormatted}`;
+        }
+    }
     async getFrontmatterEndPosition(file) {
         const fileCache = await this.app.metadataCache.getFileCache(file);
         if (!fileCache || !fileCache.frontmatter) {
             log.logMessage("could not get frontmatter. Maybe there isn't any.");
-            return 0;
+            return -1;
         }
         if (fileCache.frontmatter.position)
             return fileCache.frontmatter.position.end.line;
-        return 0;
+        return -1;
     }
     insertTextAfterPositionInBody(text, body, pos) {
+        if (pos === -1) {
+            return `${text}\n${body}`;
+        }
         const splitContent = body.split("\n");
         const pre = splitContent.slice(0, pos + 1).join("\n");
         const post = splitContent.slice(pos + 1).join("\n");
@@ -11871,7 +14378,7 @@ class CaptureChoiceEngine extends QuickAddChoiceEngine {
         this.formatter = new CaptureChoiceFormatter(app, plugin, choiceExecutor);
     }
     async run() {
-        var _a, _b, _c;
+        var _a, _b, _c, _d, _e;
         try {
             if ((_a = this.choice) === null || _a === void 0 ? void 0 : _a.captureToActiveFile) {
                 await this.captureToActiveFile();
@@ -11899,7 +14406,7 @@ class CaptureChoiceEngine extends QuickAddChoiceEngine {
                     const singleTemplateEngine = new SingleTemplateEngine(this.app, this.plugin, this.choice.createFileIfItDoesntExist.template, this.choiceExecutor);
                     fileContent = await singleTemplateEngine.run();
                 }
-                const file = await this.createFileWithInput(filePath, fileContent);
+                file = await this.createFileWithInput(filePath, fileContent);
                 await replaceTemplaterTemplatesInCreatedFile(this.app, file);
                 const updatedFileContent = await this.app.vault.cachedRead(file);
                 const newFileContent = await this.formatter.formatContentWithFile(content, this.choice, updatedFileContent, file);
@@ -11911,6 +14418,14 @@ class CaptureChoiceEngine extends QuickAddChoiceEngine {
             }
             if (this.choice.appendLink)
                 appendToCurrentLine(this.app.fileManager.generateMarkdownLink(file, ''), this.app);
+            if ((_d = this.choice) === null || _d === void 0 ? void 0 : _d.openFile) {
+                if ((_e = this.choice) === null || _e === void 0 ? void 0 : _e.openFileInNewTab.enabled) {
+                    await openFile(this.app, file, this.choice.openFileInNewTab.direction);
+                }
+                else {
+                    await openFile(this.app, file);
+                }
+            }
         }
         catch (e) {
             log.logMessage(e);
@@ -11931,17 +14446,18 @@ class CaptureChoiceEngine extends QuickAddChoiceEngine {
         return this.formatFilePath("", formattedCaptureTo);
     }
     async captureToActiveFile() {
+        const activeFile = this.app.workspace.getActiveFile();
+        if (!activeFile) {
+            log.logError("Cannot capture to active file - no active file.");
+        }
         let content = await this.getCaptureContent();
+        content = await this.formatter.formatContent(content, this.choice);
         if (this.choice.format.enabled) {
-            content = await this.formatter.formatContent(content, this.choice);
+            content = await templaterParseTemplate(this.app, content, activeFile);
         }
         if (!content)
             return;
         if (this.choice.prepend) {
-            const activeFile = this.app.workspace.getActiveFile();
-            if (!activeFile) {
-                log.logError("Cannot capture to active file - no active file.");
-            }
             const fileContent = await this.app.vault.cachedRead(activeFile);
             const newFileContent = `${fileContent}${content}`;
             await this.app.vault.modify(activeFile, newFileContent);

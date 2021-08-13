@@ -54,7 +54,7 @@ The characters pass an [[Aeor|Aeorian]] building that crashed nearby. The buildi
 
 5
 
-An [Aeorian absorber](https://www.dndbeyond.com/monsters/aeorian-absorber) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#AeorianAbsorber "chapter 7")) ambushes the characters.
+An [Aeorian absorber](https://www.dndbeyond.com/monsters/aeorian-absorber) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#AeorianAbsorber "[[chapter 7]]")) ambushes the characters.
 
 6
 
@@ -94,7 +94,7 @@ Encounter
 
 1
 
-The characters find the buried top of an [[Aeor|Aeorian]] tower that crashed into the ice. Ice fills the lower levels of the tower, and 1d4 + 1 [Aeorian nullifiers](https://www.dndbeyond.com/monsters/aeorian-nullifier) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#AeorianNullifier "chapter 7")) are frozen in the ice.
+The characters find the buried top of an [[Aeor|Aeorian]] tower that crashed into the ice. Ice fills the lower levels of the tower, and 1d4 + 1 [Aeorian nullifiers](https://www.dndbeyond.com/monsters/aeorian-nullifier) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#AeorianNullifier "[[chapter 7]]")) are frozen in the ice.
 
 2
 
@@ -106,7 +106,7 @@ The characters find a humanoid skull frozen in the ice. If they free the skull, 
 
 4
 
-The characters encounter two [mages](https://www.dndbeyond.com/monsters/mage) from [[Balenpost]] planning to steal an [[Aeor|Aeorian]] item from a camp of 3d6 [frost giants](https://www.dndbeyond.com/monsters/frost-giant) and their tamed [frost worm](https://www.dndbeyond.com/monsters/frost-worm) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#FrostWorm "chapter 7")) The mages ask for the characters' help with the heist.
+The characters encounter two [mages](https://www.dndbeyond.com/monsters/mage) from [[Balenpost]] planning to steal an [[Aeor|Aeorian]] item from a camp of 3d6 [frost giants](https://www.dndbeyond.com/monsters/frost-giant) and their tamed [frost worm](https://www.dndbeyond.com/monsters/frost-worm) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#FrostWorm "[[chapter 7]]")) The mages ask for the characters' help with the heist.
 
 5
 
@@ -114,7 +114,7 @@ The characters encounter the [ghost](https://www.dndbeyond.com/monsters/ghost) o
 
 6
 
-The characters encounter 2d6 [frost giant zombies](https://www.dndbeyond.com/monsters/frost-giant-zombie) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#FrostGiantZombie "chapter 7")). These zombies did not come from the [[Fortress of the Dead Jarl]]. Their origin is up to you.
+The characters encounter 2d6 [frost giant zombies](https://www.dndbeyond.com/monsters/frost-giant-zombie) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#FrostGiantZombie "[[chapter 7]]")). These zombies did not come from the [[Fortress of the Dead Jarl]]. Their origin is up to you.
 
 7
 

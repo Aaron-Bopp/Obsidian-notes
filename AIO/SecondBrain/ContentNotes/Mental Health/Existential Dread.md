@@ -30,7 +30,7 @@ bib:
 		- #def [neuroticism](https://en.wikipedia.org/wiki/neuroticism) -> sometimes defined as a tendency for quick arousal when stimulated and slow relaxation from arousal, especially with regard to negative emotional arousal.
 			- Is a trait in many models within personality theory, but there is significant disagreement on its definition
 		- #Def [Conscientiousness](https://en.wikipedia.org/wiki/Conscientiousness) -> the personality trait of being careful, or diligent. 
-			- Conscientiousness implies a desire to do a task well, and to take obligations to others seriously. 
+			- Conscientiousness implies a [[desire]] to do a task well, and to take obligations to others seriously. 
 			- Conscientious people tend to be efficient and organized as opposed to easy-going and disorderly.
 - Difference between anxious thoughts vs a feeling of existential dread
 	- Your feelings can manifest as thoughts
@@ -51,7 +51,7 @@ bib:
 			- "just try it"
 			- "experience new things"
 - #Ref/DrK Competence comes from empathic mirroring
-	- #TO/DO/CONCEPTUALIZE Confidence problems come from when parents can't mirror the child's emotional needs
+	- #TO/DO/CONCEPTUALIZE [[Confidence]] problems come from when [[parents]] can't mirror the child's emotional needs
 		- #TO/EXPLORE/RESEARCH  [[Attachment Theory]]
 
 ---

@@ -76,7 +76,7 @@ AGP had been thoroughly dismissed by modern psychology by the late 2000s, but th
 
 Transfeminine individuals then internalize these messages, and come to the conclusion that they are not actually [[transgender]], just fetishists. It happened to me, it’s happened to nearly every millennial [[transgender|trans]] woman I know who figured themselves out as a teen.
 
-==You are not a fetishist, the feeling you get from thinking of yourself as a woman is [[gender euphoria]].==
+==You are not a fetishist, the feeling you get from thinking of yourself as a woman is [[Gender Euphoria]].==
 
 ### Patriarchal Oppression 
 A common source of invalidation for AFABs is the conflation of gender with the systemic oppression of [[women]], particularly among non-medically-transitioning [[non-binary]] people. The message of “oh you just don’t want to be a woman because of how [[women]] are treated” is far too often heard, and it can deeply infest your [[subconscious]] to the point of [[self]] doubt. But this doesn’t make much sense, because if you’re AFAB and not a woman, that makes you [[transgender]]. And on average, society treats [[transgender]] folks worse than [[women]]. So transitioning to escape systemic oppression is a dumb concept (and I personally have never met a [[transgender|trans]] person who has done this).

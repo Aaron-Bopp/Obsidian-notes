@@ -1,6 +1,6 @@
 An elder warlock from the goblinoid swamp village of [[Urzin]] has been kidnapped by soldiers of the [[Dwendalian Empire]]. Now the machinations of an evil imperial inquisitor might unleash an evil that could threaten the garrison at Fort Venture and the goblinoids of [[Urzin]] alike. “Unwelcome Spirits” is a [[Wildemount]] adventure that takes characters from 1st to 3rd level, and which introduces them to [[Wildemount]]’s desolate and foreboding [[Eastern Wynandir]] region.
 
-If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), you can talk with them about creating characters with ties to [[Urzin]] or nearby [[Xhorhas|Xhorhasian]] settlements. Alternatively, characters from elsewhere might be traveling to [[Urzin]], whether individually or as a group. Since this adventure ties directly to the [[Kryn Dynasty]]’s conflict with the [[Dwendalian Empire]], you can also ask each player to consider their character’s stance on the war and how the war might tie into their background.
+If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "[[chapter 4]]")), you can talk with them about creating characters with ties to [[Urzin]] or nearby [[Xhorhas|Xhorhasian]] settlements. Alternatively, characters from elsewhere might be traveling to [[Urzin]], whether individually or as a group. Since this adventure ties directly to the [[Kryn Dynasty]]’s conflict with the [[Dwendalian Empire]], you can also ask each player to consider their character’s stance on the war and how the war might tie into their background.
 
 ## Story Overview
 
@@ -16,7 +16,7 @@ At Buhfal’s behest, the characters must chart a course to the [[Brokenveil Blu
 
 ## Setup and Starting Points
 
-Before starting the adventure, work with your players as they talk about why their characters have come to [[Urzin]]. Details regarding this unique settlement and its politics can be found in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-wastes-of-[[xhorhas]]#Urzin "chapter 3"). The [horizonback tortoises](https://www.dndbeyond.com/monsters/horizonback-tortoise) that give the village its mobility are detailed in [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#HorizonbackTortoise "chapter 7"). Goblinoid or [[Orcs|orc]] characters might be residents of [[Urzin]], but characters of other [[races]] are probably visitors to this remote settlement—and are probably feeling very much out of their element.
+Before starting the adventure, work with your players as they talk about why their characters have come to [[Urzin]]. Details regarding this unique settlement and its politics can be found in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-wastes-of-[[xhorhas]]#Urzin "[[chapter 3]]"). The [horizonback tortoises](https://www.dndbeyond.com/monsters/horizonback-tortoise) that give the village its mobility are detailed in [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#HorizonbackTortoise "[[chapter 7]]"). Goblinoid or [[Orcs|orc]] characters might be residents of [[Urzin]], but characters of other [[races]] are probably visitors to this remote settlement—and are probably feeling very much out of their element.
 
 This is also a good time to figure out if the characters already know each other or if this adventure is the first time they’ve met. If none of the characters are goblinoids, they most likely already make up an adventuring party and have traveled to [[Urzin]] together.
 
@@ -46,7 +46,7 @@ Buhfal suggests that the characters begin by reconnoitering the imperial garriso
 
 ### Preparing for the Journey
 
-As they make preparations, the characters discover that the “premium weapons” Lord Buhfal promises are anything but. Each character receives their choice of any simple melee weapon from [chapter 5](https://www.dndbeyond.com/sources/phb/equipment#SimpleMeleeWeapons "chapter 5") of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"), but these are crude weapons of goblinoid design. With resources scarce in [[Urzin]], goblinoid-made weapons are often hastily crafted and cheap.
+As they make preparations, the characters discover that the “premium weapons” Lord Buhfal promises are anything but. Each character receives their choice of any simple melee weapon from [chapter 5](https://www.dndbeyond.com/sources/phb/equipment#SimpleMeleeWeapons "[[chapter 5]]") of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"), but these are crude weapons of goblinoid design. With resources scarce in [[Urzin]], goblinoid-made weapons are often hastily crafted and cheap.
 
 Characters looking for better gear can equip themselves (at normal prices) for the journey through [[Brokenveil Marsh]] by visiting one of [[Urzin]]’s merchants. Popular stops in the village include the following:
 
@@ -112,7 +112,7 @@ A [[Dwendalian Empire|Dwendalian]] [veteran](https://www.dndbeyond.com/monsters/
 
 7
 
-The characters discover the bones of a long-dead adventurer whose skeletal remains have been picked clean by swamp vermin and years of decay. If any character searches the bones, roll on the [Trinkets table](https://www.dndbeyond.com/sources/phb/equipment#Trinkets "Trinkets table") in chapter 5 of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") to determine the skeleton’s last worldly possession.
+The characters discover the bones of a long-dead adventurer whose skeletal remains have been picked clean by swamp vermin and years of decay. If any character searches the bones, roll on the [Trinkets table](https://www.dndbeyond.com/sources/phb/equipment#Trinkets "Trinkets table") in [[chapter 5]] of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") to determine the skeleton’s last worldly possession.
 
 8
 
@@ -251,7 +251,7 @@ When the characters encounter the [Mossback Steward](https://www.dndbeyond.com/m
 
 Any character who succeeds on a DC 14 Intelligence ([Nature](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Nature)) check or a DC 18 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check realizes that the hill is, in fact, the partially submerged moss-covered shell of a [[horizonback tortoise]]. A character who succeeds on a DC 18 Intelligence ([History](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#History)) check guesses that this must be the Mossback Steward, a creature of local mystery and renown.
 
-Long-term proximity to the eldritch phenomena of the marsh has granted the [Mossback Steward](https://www.dndbeyond.com/monsters/mossback-steward) a modest array of magical abilities. This unique creature is a [horizonback tortoise](https://www.dndbeyond.com/monsters/horizonback-tortoise) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#HorizonbackTortoise "chapter 7 ") for its stat block) with these changes:
+Long-term proximity to the eldritch phenomena of the marsh has granted the [Mossback Steward](https://www.dndbeyond.com/monsters/mossback-steward) a modest array of magical abilities. This unique creature is a [horizonback tortoise](https://www.dndbeyond.com/monsters/horizonback-tortoise) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#HorizonbackTortoise "[[chapter 7]] ") for its stat block) with these changes:
 
 -   The [Mossback Steward](https://www.dndbeyond.com/monsters/mossback-steward) has an Intelligence of 12 (+1) and a Wisdom of 17 (+3). It has the following skills: [Arcana](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Arcana) +5, [Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight) +7, [Nature](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Nature) +5, [Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception) +7, [Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion) +5.
 -   It understands Common and Primordial, and has telepathy out to a range of 120 feet.
@@ -326,7 +326,7 @@ When not on duty or training, the guards of Fort Venture spend most of their tim
 
 Eight [guards](https://www.dndbeyond.com/monsters/guard) are off duty when the characters arrive in this area, sleeping (an 80 percent chance) or resting but awake in their tents. Sleeping guards use their passive Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) scores to detect intruders or to hear the alarm being raised.
 
-The wooden footlockers within the tents are unlocked. Each contains the components of an explorer’s pack minus the bedroll currently laid out in the tent. Each footlocker also has a 15 percent chance of containing an object of personal or curious importance. Roll on the Trinkets table in [chapter 5](https://www.dndbeyond.com/sources/phb/equipment#Trinkets "chapter 5") of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") to determine such items.
+The wooden footlockers within the tents are unlocked. Each contains the components of an explorer’s pack minus the bedroll currently laid out in the tent. Each footlocker also has a 15 percent chance of containing an object of personal or curious importance. Roll on the Trinkets table in [chapter 5](https://www.dndbeyond.com/sources/phb/equipment#Trinkets "[[chapter 5]]") of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook") to determine such items.
 
 If [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) has already been possessed, no guards are present in the infantry tent yard. The eight off-duty guards took up arms, joined the fray against the possessed warlock, and are either found dead in the training yard ([area V4](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#V4TrainingYard "area V4")) or alive after fleeing to the main hall ([area V5](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#V5MainHall "area V5")).
 
@@ -386,7 +386,7 @@ If the guards in Fort Venture suffer massive casualties or become targets of a [
 
 ### V6. Chapel
 
-Since Parson Pellinost’s arrival, the chapel built for the use of Fort Venture’s soldiers has facilitated his fetish for torture and now houses a secret altar to the god of blood, death, and life: [[Vesh]] (described in [chapter 1](https://www.dndbeyond.com/sources/egtw/story-of-[[wildemount]]#VeshtheBloodySiren "chapter 1")).
+Since Parson Pellinost’s arrival, the chapel built for the use of Fort Venture’s soldiers has facilitated his fetish for torture and now houses a secret altar to the god of blood, death, and life: [[Vesh]] (described in [chapter 1](https://www.dndbeyond.com/sources/egtw/story-of-[[wildemount]]#VeshtheBloodySiren "[[chapter 1]]")).
 
 When the characters can see into this area, read:
 
@@ -406,7 +406,7 @@ Cantrips (at will): [light](https://www.dndbeyond.com/spells/light), [sacred fla
 
 3rd level (2 slots): [dispel magic](https://www.dndbeyond.com/spells/dispel-magic), [revivify](https://www.dndbeyond.com/spells/revivify)
 
-Pellinost has a [prosthetic limb](https://www.dndbeyond.com/magic-items/prosthetic-limb) (right hand), as described in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#ProstheticLimb "chapter 6"), as well as keys to the main hall, the chapel door, and the altar manacles.
+Pellinost has a [prosthetic limb](https://www.dndbeyond.com/magic-items/prosthetic-limb) (right hand), as described in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#ProstheticLimb "[[chapter 6]]"), as well as keys to the main hall, the chapel door, and the altar manacles.
 
 The door to the chapel is usually locked. Parson Pellinost and one of the guards on duty in the main hall carry keys to the door, which can also be unlocked with a successful DC 15 Dexterity check using thieves’ tools.
 
@@ -476,13 +476,13 @@ Two [[Dwendalian Empire|Dwendalian]] [guards](https://www.dndbeyond.com/monsters
 
 The solitary prisoner is a neutral evil [[Hollow Ones|hollow one]] [cultist](https://www.dndbeyond.com/monsters/cultist) of [[Ceratos]] named Alonne Frith, a [[Far Realm]] scholar from [[Rotthold]]. Frith was captured by a Fort Venture patrol during his journey through the [[Brokenveil Marsh]] seeking eldritch relics. His distinctly undead nature was quickly identified as a point of interest for [Parson Pellinost](https://www.dndbeyond.com/monsters/parson-pellinost), and Frith has since become a reluctant yet reliable subject for Pellinost’s experiments.
 
-Alonne Frith is toilworn and weary after several days of interrogation by Pellinost. He wears a bloodstained [hunter’s coat](https://www.dndbeyond.com/magic-items/hunters-coat) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#HuntersCoat "chapter 6")) whose magical properties have gone unnoticed by Pellinost and his cronies.
+Alonne Frith is toilworn and weary after several days of interrogation by Pellinost. He wears a bloodstained [hunter’s coat](https://www.dndbeyond.com/magic-items/hunters-coat) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#HuntersCoat "[[chapter 6]]")) whose magical properties have gone unnoticed by Pellinost and his cronies.
 
 If the alarm is sounded or the dogs in [area V10](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-unwelcome-spirits#V10Kennels "area V10") start barking, one of the guards heads to the kennel to release the dogs before investigating the disturbance, while the other guard holds their position at the jail.
 
 If the characters manage to free Alonne Frith, the cultist can be convinced to join the party and take up the characters’ mission with a successful DC 18 Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check.
 
-In addition to the playing card set and dice they use for entertainment, the two guards each have a coin purse containing 26 cp and 17 cp, respectively. In addition to the [[hunter’s coat]] Alonne Frith wears (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#HuntersCoat "chapter 6")), one guard also carries Frith’s weapon, a [black-bladed +1 scimitar](https://www.dndbeyond.com/magic-items/scimitar-1), but is unaware of its magical properties and doesn’t use the weapon in combat.
+In addition to the playing card set and dice they use for entertainment, the two guards each have a coin purse containing 26 cp and 17 cp, respectively. In addition to the [[hunter’s coat]] Alonne Frith wears (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#HuntersCoat "[[chapter 6]]")), one guard also carries Frith’s weapon, a [black-bladed +1 scimitar](https://www.dndbeyond.com/magic-items/scimitar-1), but is unaware of its magical properties and doesn’t use the weapon in combat.
 
 If [Bol’bara](https://www.dndbeyond.com/monsters/bolbara) has already been possessed, the two guards are dead and Alonne Frith huddles in his cage, the only living witness to Fort Venture’s demise. Frith can describe seeing a lone [[Goblinkin|goblin]] spellcaster taking on the garrison, and how her power forced many of the soldiers to turn against each other. He can still be asked to join the party, but the Charisma ([Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check to convince him is made with disadvantage.
 

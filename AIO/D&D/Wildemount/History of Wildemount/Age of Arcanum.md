@@ -1,0 +1,27 @@
+## Age of Arcanum
+**Tag**:: #Exandria/History
+**Location**:: [[History of Wildemount]]
+The previous age before [[the Calamity]] and the [[Divergence]], a period known for its widespread use of magic and dangerous conflicts between prosperous mortal nations and the gods.
+### Age of Arcanum
+
+Over time, some of the people of [[Exandria]] grew arrogant. Seeing their arcane gifts as proof that the gods held no sway over their fate, a belief developed that, with enough understanding, they too could become as powerful as the gods. Many began to shun faith in favor of their own pursuits. Though this hurt and surprised the Creators, they understood the willfulness of their children and endured out of love and hope for redemption.
+
+Great kingdoms sprung up across [[Exandria]]. Castles were built in a day, accelerated by the arcanists’ newfound power. Erudite cities hovered and drifted through the skies, shifting under the direction of scholarly magi to wherever their interests took them. Even though magic could be used to complete the most difficult tasks with hitherto unknown speed, magic-users strove always to innovate. As mages practiced and perfected their powers of creation, they soon unlocked the secrets of life itself, giving birth to wondrous, dangerous new creatures and power. Powerful archmages such as [[Vecna]] the Whispered One and Halas Lutagran began to carve their paths into history during this era of unbridled magical experimentation.
+
+The advent of the arcane seemed to be the key to a bountiful age of plenty but also proved to threaten it, as prosperity soon gave way to greed. Petty squabbles erupted over resources and wealth among the elite, while the rumor of immortality through perfected arcanum began to drive the greatest mages wild with a lust for unending power. One mortal mage, her name either lost or struck from history, crafted now-forbidden rites to challenge the God of Death, felling him and taking his place among the pantheon, making her the first and only mortal to ascend to godhood. The archmage Vespin Chloras was inspired by this display. Driven by his hunger, he sought the guidance and power of the banished gods, rending open the gates of their prisons and releasing the betrayers into the mortal world.
+
+During their imprisonment, these gods of hatred and despair twisted their prison into their own image, spawning unthinkable horrors that lived only to transform peace into suffering, and righteousness into arrogance and greed. The Nine Hells and the Abyss began to push their way into Creation. The Betrayer Gods and their hateful children discovered a world unspoiled, save for the avarice of mortals. The urge to ruin was now replaced with the desire to dominate, and the Betrayer Gods began by turning on the mage who freed them, making Archmage Vespin their first thrall. This corrupted divinity sought out [[The Remnants]] of their offspring, scattered across the world, and created a mighty and terrible new kingdom on the plains of [[Xhorhas]], at the far end of the world from Vasselheim—[[Ghor Dranas]].
+
+In this land of evil, where the twisted power of the lower planes seeped into [[Exandria]], the lords of darkness tainted the minds of mortals, hungrily welcoming those who had lost their way, and offering great promises and boons to hearts easily swayed. These poisonous seeds found fertile ground in the hearts of mortals obsessed with the unlimited power of the arcane. With a legion of the damned behind them, the Betrayer Gods soon made their presence known to the world with an assault on Vasselheim itself.
+
+Though much of the city was reduced to rubble, Vasselheim weathered the initial assault, saved by the intervention of the Prime Deities themselves, who descended to trade blows with their former brethren. The battle between divinity and mortals, between heroes and demons, raged ceaselessly for twenty days and nights until the dark forces, their surprise attack thwarted, were finally forced to retreat.
+
+Evil was repulsed momentarily, but with the revelation of such a terrible foe, a dangerous arcane arms race began. Trust was shattered indefinitely: if mortals could fall under the sway of the Betrayer Gods, who was an ally? If ruin like this could be unleashed under the watchful eyes of the gods, how were they relevant? Not trusting any but themselves, the self-interested and singular [[humans]] reforged their instruments of celebration into instruments of incredible power—artifacts that could be wielded by worthy heroes. The [[dwarves]]’ fascination with rock and earth turned toward isolation as they burrowed deeper into the mountains, using their divine gifts to animate legions of autonomous golems to protect their ancestral halls. [[Elves]] used their understanding of creation’s beauty and intricacies to weave spells of unimaginable destructive force, the likes of which [[Exandria]] had never seen before.
+
+For the first time since the Primordials were destroyed, the focus of magic was warfare. The gods themselves agreed to join their children on the field of battle, descending from the heavens to take up arms once more for the war now referred to as [[the Calamity]].
+
+**Continue reading**:: [[The Calamity]]
+
+> ![](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/01-01.png)
+> 
+> [[The Calamity]]

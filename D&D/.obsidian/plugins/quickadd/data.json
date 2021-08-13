@@ -95,6 +95,33 @@
       },
       "prepend": false,
       "task": false
+    },
+    {
+      "id": "ce68766c-3e08-4c8c-9f64-76d64d67194b",
+      "name": "Add footnote",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "[^]: {{VALUE}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false
     }
   ],
   "macros": []

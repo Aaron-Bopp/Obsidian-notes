@@ -5,7 +5,7 @@ note-type:
 - evergreen-note
 - topic-note
 aliases:
-- eastern mysticism
+- 
 ---
  
 ###### [[eastern philosophy]]

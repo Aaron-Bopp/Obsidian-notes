@@ -16,7 +16,7 @@ Being able to explain the emotions you are publicly feeling will relieve the att
 ---
 **Status**:: #EVER/SPROUT  
 
-**Related-Topics**:: [[mental health]], [[self-actualization]], [[social interaction]], [[trauma]]
+**Related-Topics**:: [[mental health]], [[self-actualization]], [[socialization]], [[trauma]]
 	
 **Sub-Topics**:: [[self-love]], [[inter-personal communication]],
 	

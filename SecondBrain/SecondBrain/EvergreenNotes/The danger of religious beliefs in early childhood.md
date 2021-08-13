@@ -7,12 +7,12 @@ note-type:
 
 ###### [[The danger of religious beliefs in early childhood]]
 
-[[The brain is powerful enough to create supernatural experiences]]
+
 
 ---
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SEED/UNPLANTED 
 
-**Related-Topics**:: [[Christianity]], [[religious trauma]], [[Evangelicalism]]
+**Related-Topics**:: 
 	
 **Sub-Topics**::
 	

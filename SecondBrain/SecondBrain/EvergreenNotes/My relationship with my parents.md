@@ -13,7 +13,7 @@ My relationship with [[my parents]] is rocky at best. I think that I broke my da
 
 I think at a certain point you can't teach an old dog new tricks. It's kind of hard for me because I know [[In order to for my parents to love me, they need to admit they might be wrong]]
 
-I think when I was able to truly break free of the weight of my parent's opinions was when I really started practicing [[self-love|self-validation]] -> [[My unfulfilled need for parental validation became a fear of rejection and disregarment of affection]]
+ -> [[My unfulfilled need for parental validation became a fear of rejection and disregarment of affection]]
 
 ---
 
@@ -21,6 +21,6 @@ I think when I was able to truly break free of the weight of my parent's opinion
 
 **Parent**:: [[my parents]]
 
-**Related-Topics**:: [[self-love]], [[self-hate]], [[love]], [[unconditional love]], [[my emotions]]
+**Related-Topics**:: [[self-love]], [[self-validation]], [[self-hate]], [[love]], [[unconditional love]], [[my emotions]]
 
 **Last Edited**:: *`=this.file.mtime`*

@@ -26,7 +26,7 @@ from #Magic/Item/Weapon
 sort rarity
 ```
 
-These magic items are presented in alphabetical order. For the rules on magic items, see [chapter 7](https://www.dndbeyond.com/sources/dmg/treasure#MagicItems "chapter 7") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide").
+These magic items are presented in alphabetical order. For the rules on magic items, see [chapter 7](https://www.dndbeyond.com/sources/dmg/treasure#MagicItems "[[chapter 7]]") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide").
 
 - [[Acheron Blade]]
 - [[Amulet of the Drunkard]]

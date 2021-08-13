@@ -1,4 +1,4 @@
-<% tp.file.include("[[META]]") %>
+<% tp.file.include("[[META]]") %>
 note-type: 
 - evergreen-note
 - topic-note
@@ -21,4 +21,3 @@ embedded:
 
 <% tp.file.include("[[DVJS-TOPICNOTLINKED]]") %>
 
-### <hr class="references"/>

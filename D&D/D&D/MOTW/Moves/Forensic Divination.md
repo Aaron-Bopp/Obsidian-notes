@@ -1,1 +1,0 @@
- When successfully investigate a mystery I can ask "What magic was done here?" as a free extra question.

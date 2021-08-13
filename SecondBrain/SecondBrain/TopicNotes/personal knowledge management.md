@@ -1,22 +1,26 @@
 ---
-creation date: 2021-05-29
-modification date: Saturday 29th May 2021 23:35:42
+creation date: 2021-07-21
 note-type: 
 - evergreen-note
 - topic-note
-embedded: 
+aliases:
+- 
+embedded:
 - [[second brain]]
-parent: [[INDEX]]
 ---
-
+ 
 ##### [[personal knowledge management]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
-**Status**:: #EVER/SPROUT/WATER 
-**Related-Topics**:: [[Zettlekassen]], [[second brain]]
+
+
+**Status**:: #EVER/SEED 
+**Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
-##### [[personal knowledge management]] `=length([[personal knowledge management]].file.inlinks)`
-- ![[second brain#second brain length second brain file inlinks]] 
+##### [[personal knowledge management]] `=length(this.file.inlinks)` 
+- ![[second brain#second brain length second brain file inlinks]]
 - [[Zettlekassen]]
+
+### <hr class="dataviews"/>
 
 #### Notes not yet in outline
 ```dataviewjs
@@ -47,8 +51,14 @@ const statusDict = {
 	"SEED":2
 }
 const statusLevel = (status) => {
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
+	}
+	return 0
 }
 //includes first called file as last element
 function getEmbeds(name){

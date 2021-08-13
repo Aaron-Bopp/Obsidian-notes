@@ -16,7 +16,7 @@ A character’s story begins with determining the region where they were born, t
 
 #### Homeland
 
-The known lands of [[Wildemount]] are divided into four major geographic regions, each of which is described in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "chapter 3"). From west to east, these regions are the [[Menagerie Coast]], [[Western Wynandir]] (which is further divided into the [[Marrow Valley]] and the [[Zemni Fields]]), the [[Greying Wildlands]], and [[Eastern Wynandir]]. The northernmost reaches of the continent—the forgotten lands of [[Eiselcross]]—are not included in this section.
+The known lands of [[Wildemount]] are divided into four major geographic regions, each of which is described in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "[[chapter 3]]"). From west to east, these regions are the [[Menagerie Coast]], [[Western Wynandir]] (which is further divided into the [[Marrow Valley]] and the [[Zemni Fields]]), the [[Greying Wildlands]], and [[Eastern Wynandir]]. The northernmost reaches of the continent—the forgotten lands of [[Eiselcross]]—are not included in this section.
 
 Roll a d100 and consult the Homelands table to determine which region you were born in. If you were born in one region but grew up in another, roll twice on the table to determine your place of birth and the region you eventually settled in.
 
@@ -62,7 +62,7 @@ To the [[Kryn Dynasty|Kryn]], a person’s background is less important than the
 
 Once you’ve determined your nation and considered your social status within that realm, roll on the appropriate table in this section to determine which settlement you grew up in. If your character is a traveler—a child of soldiers, a nomad, a traveling performer, and so forth—you can roll for up to three settlements that you’ve visited often and have some connections in.
 
-Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "chapter 3"). If your home settlement doesn’t make sense for your social status, you can either roll for a different settlement or think about ways to make a contradiction work for your backstory. For example, if you have the Noble background but rolled a village as a home settlement, perhaps you were raised there to protect you from your family’s enemies.
+Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "[[chapter 3]]"). If your home settlement doesn’t make sense for your social status, you can either roll for a different settlement or think about ways to make a contradiction work for your backstory. For example, if you have the Noble background but rolled a village as a home settlement, perhaps you were raised there to protect you from your family’s enemies.
 
 | d100  | Settlement Name | Type |
 | ----- | --------------- | ---- |
@@ -123,7 +123,7 @@ Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/source
 | 01–20 | [[Asarius]]        | City             |
 | 21    | [[Bazzoxan]]       | Town             |
 | 22    | [[Charis]]         | Village          |
-| 23–30 | Igrathad           | Seven villages   |
+| 23–30 | [[Igrathad]]           | Seven villages   |
 | 31–36 | [[Jigow]]          | City             |
 | 37    | [[New Haxon]]      | Military outpost |
 | 38–89 | [[Rosohna]]        | City             |
@@ -132,7 +132,7 @@ Each home settlement is detailed in [chapter 3](https://www.dndbeyond.com/source
 | 97–00 | [[Xarzith Kitril]] | City             |
 #### Race
 
-You can determine your character’s race by consulting the section for your home settlement in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "chapter 3"). Each settlement’s description includes a percentile breakdown of its racial demographics. You can roll a d100 to determine your character’s race, or simply choose whichever race you wish to play. If your roll indicates “other [[races]],” you can choose any race that isn’t already represented in the settlement’s demographics.
+You can determine your character’s race by consulting the section for your home settlement in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer "[[chapter 3]]"). Each settlement’s description includes a percentile breakdown of its racial demographics. You can roll a d100 to determine your character’s race, or simply choose whichever race you wish to play. If your roll indicates “other [[races]],” you can choose any race that isn’t already represented in the settlement’s demographics.
 
 #### Family
 
@@ -220,7 +220,7 @@ If you roll a particularly powerful ally or rival on this table, their involveme
 | 81–90 | You helped this person out once when they were down on their luck, and now they go to you whenever they need help.                                                                                               |     |
 | 91–00 | This person wants to be your friend, but their help has always made your life harder.                                                                                                                            |     |
 
-**_Secret Identities._** Some of these allies and rivals might keep their true identity secret from your character. The DM can decide to make one or more of the rolls on the Ally and Rival Identities table to keep the secret intact. [[Stat blocks]] appear in either appendix B of the _[Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual")_ (MM) or [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary "chapter 7") of this book (EGW).
+**_Secret Identities._** Some of these allies and rivals might keep their true identity secret from your character. The DM can decide to make one or more of the rolls on the Ally and Rival Identities table to keep the secret intact. [[Stat blocks]] appear in either appendix B of the _[Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual")_ (MM) or [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary "[[chapter 7]]") of this book (EGW).
 
 ##### Ally and Rival Identities
 
@@ -238,7 +238,7 @@ If a fateful moment grants you a proficiency that you already had, choose any pr
 | 2   | You met a [[Dark Elves|dark elf]] dying in the wilderness. Around their neck was a silver talisman containing a cameo of their child and the name “Il’viranya.” It is an [amulet of proof against detection and location](https://www.dndbeyond.com/magic-items/amulet-of-proof-against-detection-and-location).                                                                                                                                                                                                                                                                                                                                     |
 | 3   | A mysterious stranger gave you a gift that saved your life while you were lost in the wilderness. Roll on the [Ally and Rival Identities table](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#AllyandRivalIdentitiesTable "Ally and Rival Identities table") to determine the identity of the stranger. Then roll on [Magic Item Table B](https://www.dndbeyond.com/sources/dmg/treasure#MagicItemTableB "Magic Item Table B") in the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide") to determine the item. If you roll a consumable item from the table, roll again. |
 | 4   | You were caught in a terrible storm but miraculously survived. Now your dreams contain visions sent by a mysterious god or demigod. You have proficiency in the [Arcana](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Arcana) or [Religion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Religion) skill (your choice).                                                                                                                                                                                                                                                 |
-| 5   | A famous warrior trained you with what has become your signature weapon. You have proficiency with a martial weapon of your choice, and you own one such weapon. It has special features as detailed in [chapter 7](https://www.dndbeyond.com/sources/dmg/treasure#TypesofTreasure "chapter 7") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide"). You also have the [Martial Adept](https://www.dndbeyond.com/feats/martial-adept "Martial Adept") feat from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook").                                       |
+| 5   | A famous warrior trained you with what has become your signature weapon. You have proficiency with a martial weapon of your choice, and you own one such weapon. It has special features as detailed in [chapter 7](https://www.dndbeyond.com/sources/dmg/treasure#TypesofTreasure "[[chapter 7]]") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide"). You also have the [Martial Adept](https://www.dndbeyond.com/feats/martial-adept "Martial Adept") feat from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook").                                       |
 | 6   | You were the sole survivor when a horde of rampaging monsters raided your village or your neighborhood. You have proficiency in the [Stealth](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Stealth) skill or proficiency with martial weapons (your choice).                                                                                                                                                                                                                                                                                                                                           |
 | 7   | A famous mage saw potential in you and tutored you in the arcane arts. You have a spellbook and the [Magic Initiate](https://www.dndbeyond.com/feats/magic-initiate "Magic Initiate") feat from the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook").                                                                                                                                                                                                                                                                                                                                                   |
 | 8   | While on a long journey, you were picked up by a traveling circus, spending a year with them before returning to your home. You have proficiency in the [Acrobatics](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Acrobatics) or [Performance](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Performance) skill (your choice) and proficiency with the disguise kit.                                                                                                                                                                                                     |
@@ -290,9 +290,9 @@ The luxurious cuisine of the [[Kryn Dynasty|Kryn]] court makes heavy use of mush
 | d8  | Food                                                                              |
 | --- | --------------------------------------------------------------------------------- |
 | 1   | Dumplings—a steamed potato bread that can be served with any meal                 |
-| 2   | Sauerbraten—a Zemnian peasant dish of pickled horse meat served with cabbage      |
+| 2   | Sauerbraten—a [[Dwendalian Empire|Zemnian]] peasant dish of pickled horse meat served with cabbage      |
 | 3   | Brawn, also known as head cheese—a meat jelly made from boiled calf’s head        |
-| 4   | Schweinshaxe—a Zemnian peasant dish of long-marinated roasted pork knuckle        |
+| 4   | Schweinshaxe—a [[Dwendalian Empire|Zemnian]] peasant dish of long-marinated roasted pork knuckle        |
 | 5   | Dampfnudel—a regal steamed roll served in sweet custard or with savory potatoes   |
 | 6   | Spanferkel—an expensive dish of suckling pig, roasted and served at royal parties |
 | 7   | Trost—a sweet, dark ale brewed in [[Trostenwald]]                                     |

@@ -6,8 +6,6 @@ note-type:
 - topic-note
 aliases:
 - christian
-- catholicism
-- 
 embedded:
 - [[Deconstruction (Christianity)]]
 ---

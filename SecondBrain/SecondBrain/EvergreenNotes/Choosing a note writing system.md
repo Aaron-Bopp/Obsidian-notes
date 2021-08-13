@@ -13,9 +13,9 @@ note-type:
 
 ---
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SEED/UNPLANTED 
 
-**Related-Topics**:: [[personal knowledge management]], [[evergreen notes]], [[Zettlekassen]]
+**Related-Topics**:: 
 	
 **Sub-Topics**::
 	

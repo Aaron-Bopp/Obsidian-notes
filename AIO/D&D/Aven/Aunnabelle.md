@@ -54,12 +54,22 @@
 ![[Pasted image 20210630124443.png]]
 ![[Pasted image 20210630124455.png]]
 ## Backstory
-[[Aunnabelle]] was born to a nomadic [[Changeling]] tribe that traveled the northern regions of [[Aven]] providing services and counseling to towns and cities a long the way. ![[Changeling#^03022a]]. [[Aunnabelle]] was always fascinated by face that normally lead social interactions with non-changelings, [[Ruz]]. 
+[[Aunnabelle]] was born to a nomadic [[Changeling]] tribe that traveled the northern regions of [[Aven]] providing services and counseling to towns and cities a long the way. ![[Changeling#^03022a]][[Aunnabelle]] was always fascinated by face that normally lead social interactions with non-changelings, [[Ruz]]. 
 
-Parents left her with a group of druids (mainly elves, gnomes, and a couple giants) when she was eight. [[Aunnabelle]] still doesn't know why they left her their but it doesn't bother her much. She really just avoids thinking about it much. Their parents came back once when she was twelve, but when they came it was a very odd experience. They didn't have much time to see her, and their conversations were really brief and introductory. They left after just a few hours.
+Parents left her with a group of druids (mainly elves, gnomes, and a couple giants) when she was eight. [[Aunnabelle]] still doesn't know why they left her their but it doesn't bother her much. She really just avoids thinking about it. Their parents came back once when she was twelve, but when they came it was a very odd experience. They didn't have much time to see her, and their conversations were really brief and introductory. They left after just a few hours.
 
-[[Aunnabelle]]'s druidic family has always been very very full of love but also strict in ways that didn't always make sense to [[Aunnabelle]]. Her experiences with them shaped her very strongly, but she is happy to be on her own. 
+Flaw:: [[Aunnabelle]] doesn't value longevity of relationships, she is very invested in them while they last, but is happy to drop them at anytime
 
-[[Aunnabelle]] has always had peculiar interests. While most druids are very much focused on grow and nurturing plants, [[Aunnabelle]] becomes most interested when plants are nearing death. As fields would near grow brown and wither [[Aunnabelle]] would sit in them for hours.  
+[[Aunnabelle]]'s druidic family has always been very very full of love but also strict in ways that didn't always make sense to [[Aunnabelle]]. The Matron of the tribe [[Isabella]] was a middle-aged [[Firbolgs | firbolg]] who had been leading the tribe for many years. [[Isabella]] maintained a strict and ordered structure on the tribe from chores, to sleeping arrangements, to schedules. While [[Isabella]] did all this in love, [[Aunnabelle]] always struggled to fit in. For a lot of her childhood she would take on a different face than she does now, and would go by her birth name Aunn instead of Aunnabelle. Once [[Aunnabelle]] reached 17 she requested permission to leave the tribe. Due to [[Aunnabelle]]'s near perfect record and apparent confidence and self-reliance, [[Isabella]] allowed for this. For the last four years [[Aunnabelle]] has been traveling [[Aven]] meeting new people, living off the land, and generally staying out of trouble, until now.  
 
-[[Ruz]] is the face of her [[Changeling tribe]] that usually talks with strangers at first glance
+Bond::  [[Aunnabelle]] grows trustful and loyal very quickly. 
+Personality Trait:: [[Aunnabelle]] doesn't question the arrangements of groups, rather trying to help others despite them.
+
+[[Aunnabelle]] has always had peculiar interests. While most druids are very much focused on grow and nurturing plants, [[Aunnabelle]] becomes most interested when plants are nearing death. As fields would near grow brown and wither [[Aunnabelle]] would sit in them for hours. 
+
+Ideal::  [[Aunnabelle]] does not see fear in death. She believes that death is a change just as any other in life, but simply that other people cannot see the result
+
+[[Ruz]] is the face of her [[Changeling tribe]] that usually talks with strangers at first glance. 
+[[Bin]] is the face for hard-work and unusually difficult or unenjoyable tasks
+[[Mas]] is the face for stressful, dangerous situations
+[[Sim]] is the face for talking to somebody you don't want to talk to (a stranger)

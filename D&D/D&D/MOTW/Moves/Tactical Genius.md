@@ -1,1 +1,0 @@
- When you read a bad situation, you may roll +Cool instead of +Sharp

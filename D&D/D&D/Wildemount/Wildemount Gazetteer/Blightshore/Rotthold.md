@@ -28,4 +28,4 @@ The moss-lit streets of Rotthold are ripe with adventure for characters with a t
 ![[The Cairn Hill Horror (Mid Level)]]
 **Adventures**:: [[The Krakenwhacker (High Level)]]
 ![[The Krakenwhacker (High Level)]]
-Chapter 5 of the [Dungeon Master's Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master's Guide") has rules and statistics for ships, as well as information about hiring a crew and making ship repairs.
+[[Chapter 5]] of the [Dungeon Master's Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master's Guide") has rules and statistics for ships, as well as information about hiring a crew and making ship repairs.

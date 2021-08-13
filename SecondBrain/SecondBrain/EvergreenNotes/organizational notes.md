@@ -6,7 +6,8 @@ note-type:
 
 ---
 
-##### [[organizational notes]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+###### [[organizational notes]] `=length([[What is a organizational note]].file.inlinks) + length([[What is a organizational note]].file.outlinks)`
+
 
 An organizational note is one that helps the user access other notes. This can take the form of a hierarchical outline, or as a temporary tag that can be used to comeback to points in other notes and should be temporary. 
 
@@ -29,6 +30,6 @@ WHERE contains(note-type, "organizational-note")
 
 **Related-Topics**:: [[Make your inbox into an entry point]], [[personal knowledge management]], [[My Second Brain]], [[Zettlekassen]]
 	
-**Last Edited**:: *`=this.file.mtime`*
+**Sub-Topics**::
 	
 **References**

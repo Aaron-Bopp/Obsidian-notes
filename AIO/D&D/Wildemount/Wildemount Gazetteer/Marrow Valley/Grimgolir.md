@@ -1,0 +1,45 @@
+## After [[the Calamity]]
+**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
+**Location**:: [[Marrow Valley]]
+The dwarven clan of Grimgol that once helped hold the center of the [[Ashkeeper Peaks]] was nearly wiped out during [[the Calamity]]. The surviving families and warriors burrowed deep beneath the surface of [[Exandria]] to wait out the chaos. Collapsing nearly every established tunnel used in the wars above, the clan found themselves cut off from the rest of [[Exandria]]. For centuries, the [[dwarves]] of Clan Grimgol endured the darkness alone, defending against the dregs of the Betrayer Gods’ forces and adapting themselves into a hardy and stalwart people.
+
+Half-remembered tales and myths of their forgotten history, mingled with worship of [[Moradin]], began to stir an eagerness to return to their ancestral home and build anew. With new purpose, they carved their way back toward the surface, only to find the mountains of their home reduced to dust and pebbles.
+
+Not easily dissuaded, the [[dwarves]] returned to the surface for the first time in generations, finding the once-ruined world now recovering with renewed life and color. The resilient clan made their way north along the [[Brokenveil Bluffs]] and found a massive mountain to house their new city. They built their stronghold into this monolith among the [[Dunrock Mountains]], and gave their new home the name of Grimgolir.
+
+**Continue reading**:: [[Rise of the Julous Dominion]]
+
+## Grimgolir
+
+**Population**:: 19,090 (81% [[dwarves]], 8% [[humans]], 6% [[halflings]], 5% other [[races]])
+
+**Government**:: Underbaron Brock Dummaroff rules the city with a council of [[Dwarves|dwarf]] lords and ladies. [[Bertrand Dwendal|The Crown]]-appointed [[starosta]] is effectively just another councilor.
+
+**Defense**:: A fair [[Crownsguard]] presence is overshadowed by the impressive force of elite [[Dwarves|dwarf]] soldiers known as Monoliths that protect the city. Private Monolith warriors are hired to protect merchant families. Most civilians are trained in basic combat.
+
+**Commerce**:: A majority of services can be found, as well as raw ore, materials, gems, and goods. Taverns and inns are plentiful.
+
+**Organizations**:: Local merchant guilds and conglomerates control the flow of business. Temples to [[Moradin]] and [[Bahamut]] are prominent, followed by the other [[Dwendalian Empire|Dwendalian]] gods. All answer to [[Bertrand Dwendal|the Crown]], but it holds less political influence here than in other cities.
+
+The dwarven stronghold of Grimgolir sits at the core of an immense network of tunnels carved throughout the southern [[Dunrock Mountains]], perfectly situated to watch over the eastern border with [[Xhorhas]]. Though the [[Dwendalian Empire]] and the Grimgol [[dwarves]] have clashed in the past, the [[Dwendalian Empire|empire]] now counts the disciplined armies of Grimgolir as one of its staunchest assets in the war against the [[Kryn Dynasty]]. The predominantly dwarven society of Grimgolir prizes fine metals, finer craftsmanship, and proven skill on the battlefield, and their culture drills these virtues into every young [[Dwarves|dwarf]], [[Humans|human]], and [[Halflings|halfling]] born in their city. Since days long past, the people of Grimgolir have waged eternal war on the monstrous denizens of the lightless caverns, in order to mine the precious mineral veins that suffuse the [[Dunrock Mountains]].
+
+All soldiers from Grimgolir have stories of their first patrol along the [[Brokenveil Bluffs]]. Every new recruit's first station is atop the dizzying cliffs, as an introduction to the hostile terrain of [[Xhorhas]] and to the monstrosities that wander out of the marsh below. The Grimgolir reputation for martial excellence soon reached the ears of the [[Dwendalian Empire|Dwendalian]] military, and [[Bertrand Dwendal|the Crown]] made overtures to the ruling elders of the Grimgol [[dwarves]], inviting them to peacefully become citizens of the [[Dwendalian Empire|empire]]. The negotiations were nearly spoiled by [[Bertrand Dwendal|the Crown]]'s simultaneous courtship of the [[orcs]] of [[Bladegarden]], but a concordance was eventually reached. The [[Dwendalian Empire|empire]] granted Grimgolir an extremely generous trade agreement and all the benefits of imperial citizenship, along with unprecedented autonomy for an imperial vassal state, in exchange for the ability to marshal the Grimgol warriors to fight for the [[Dwendalian Empire|empire]]. As part of the [[Dwendalian Empire|empire]]'s unified eastern front against [[Xhorhas]], Grimgolir has aided in the training of the soldiers of [[Bladegarden]], as well as the Rockguard and Ashguard Garrisons.
+
+Life under the mountain has never been easy. Every bountiful cavern is home to a deadly beast, and ancient tunnels once used by the armies of the Betrayer Gods now are haunted by lingering evils. This has shaped the core value of Grimgol society: to succeed is to struggle. Worth in oneself is measurable by what one has overcome. This has built a philosophy that breeds generation after generation of [[dwarves]] seeking ways to challenge themselves and prove their capability. Everyone born within the city learns the basics of armed and unarmed combat as a child — often making outsiders, merchants, and travelers somewhat uneasy with the knowledge that any native Grimgoliran could take them in a fight.
+
+Early combat training combined with a cultural reverence for wars of ages past creates immense pressure for native-born Grimgolirans to join the city-state's military: the Monoliths. This is especially true for the Grimgol [[dwarves]], for most can trace their family lineage back to a famous warrior or two. However, other Grimgolirans find their calling as storytellers and artisans. Those unable to make a living as a warrior or as an artisan often find themselves as laborers in the service of the Bleeding Stone Syndicate, a massive business enterprise that controls the entire pipeline of ore excavation to weapon manufacture. The Bleeding Stone maintains mining facilities beneath the [[Dunrock Mountains]], a network of railcart lines between the mines and Grimgolir, a cutting-edge blast furnace for ore smelting, and an army of smiths hammering ingots into blades, shields, and mail.
+
+The agreement between [[Bertrand Dwendal|the Crown]] and Grimgolir is the only treaty that has ever guaranteed a city-state autonomous rule while under the [[Dwendalian Empire|empire]]'s banner. While Grimgolir does indeed have an appointed [[starosta]], currently [[Starosta]] Ichabod Ashelon, the treaty between Grimgolir and the [[Dwendalian Empire|empire]] relegates the [[starosta]] to little more than an advisor of the ruling Underbaron of Grimgolir. As such, Underbaron Brock Dummaroff oversees the city and its goals with his own council and appointed officials. This arrangement has caused a few frustrations on both sides, and with the war against the [[Kryn Dynasty|Kryn]] now in full swing, these disagreements continue to grow larger and more frequent.
+
+Culturally, denizens of Grimgolir genuinely believe that crime is a waste and a dark mark on one's life's work. If someone struggles, others lift them up until they can walk on their own. As such, it is very rare for an individual raised in Grimgol society to turn to a life of crime unless absolutely necessary. There is some criminal activity within and around the city, but most of it is helmed by foreign, outside forces.
+
+From outside, Grimgolir is an impressive series of battlements and crenelations built into the side of the [[Dunrock Mountains]], with granite staircases and bridges adjoining them. Within the mountain, the city is divided into two massive, cavernous wards, one sitting at an angle above the other in a gradual grade.
+
+The interior cavern of the top ward, known as the Cage Ward, resembles a giant, angled ribcage. The Cage Ward contains numerous levels of structures that house civilians, businesses, and guard posts for Monoliths to watch over the area. Farther down the sloping tunnels lies the Heart Ward, a gargantuan, spherical cavern with dozens of elevated walkways crossing at multiple heights, connecting many of the hundreds of open tunnels. The Heart Ward is the hub of all mining and gathering operations throughout the mountain, surrounded by Monolith barracks embedded in the outer edges of the ward. Many barracks adjoin wide tunnels that breach the surface at the base of the mountain, with the exit point heavily guarded and shrouded in illusory stone to prevent discovery.
+
+With monsters aplenty and war at its doorstep, Grimgolir has no shortage of adventures.
+
+**Adventures**:: [[Mimics in the Mine (Low Level)]]
+![[Mimics in the Mine (Low Level)]]
+**Adventures**:: [[Rise of the Worms (Epic Level)]]
+![[Rise of the Worms (Epic Level)]]

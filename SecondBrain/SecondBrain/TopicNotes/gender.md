@@ -22,8 +22,13 @@ embedded:
 **Related-Topics**::
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[gender]] `=length(this.file.inlinks)` 
-- 
-
+- [[Every person has an experience of gender]]
+	- [[Gender is both an intrinsic experience and an necessary expression]]
+	- [[Any experience of gender is acceptable]]
+- [[Gender has a scientific basis]]
+	- [[Sex conists of phenotype genotype and gender]]
+- ![[gender dysphoria#gender dysphoria length this file inlinks]]
+- ![[Gender Euphoria#Gender Euphoria length this file inlinks]]
 ### <hr class="dataviews"/>
 
 #### Notes not yet in outline

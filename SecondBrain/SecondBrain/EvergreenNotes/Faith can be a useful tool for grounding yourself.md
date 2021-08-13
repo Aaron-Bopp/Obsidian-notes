@@ -14,7 +14,7 @@ I think that [[religion]] can be a healthy way to avoid the uncertainty of not k
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related-Topics**:: [[belief systems]], [[faith]], [[worldview]], [[Christianity]]
+**Related-Topics**:: [[belief systems]], [[faith]], [[worldview]]
 	
 **Sub-Topics**::
 	

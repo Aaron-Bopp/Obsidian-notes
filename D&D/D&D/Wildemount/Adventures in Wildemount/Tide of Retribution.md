@@ -1,6 +1,6 @@
 Trouble darkens the shores of the Vezdali Peninsula when an earthquake hits, sending part of the village of [[Palma Flora]] down into the sea. “Tide of Retribution” is an adventure that takes characters from 1st to 3rd level. It introduces them to the [[Menagerie Coast]]—a tropical region filled with monstrous abominations, mysterious curses, and ancient temples. This setting is ideal for nautical and jungle-exploring adventures.
 
-If your players use the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), talk to them about creating characters who grew up on the [[Menagerie Coast]] to give them a closer connection to this region. For characters not from the [[Menagerie Coast]], the players should think about why those characters were drawn from across the continent to an idyllic village by the sea.
+If your players use the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "[[chapter 4]]")), talk to them about creating characters who grew up on the [[Menagerie Coast]] to give them a closer connection to this region. For characters not from the [[Menagerie Coast]], the players should think about why those characters were drawn from across the continent to an idyllic village by the sea.
 
 ## Story Overview
 
@@ -20,7 +20,7 @@ Returning to the watery ruins of [[Palma Flora]], the characters face off agains
 
 ## Setup and Starting Points
 
-Before beginning the adventure, work with your players as they talk about why their characters are in [[Palma Flora]]. You can provide players with some details regarding the village as it’s described in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-menagerie-coast#PalmaFlora "chapter 3"). This can help the players get into character and help you establish why the party has come to this remote coastal village.
+Before beginning the adventure, work with your players as they talk about why their characters are in [[Palma Flora]]. You can provide players with some details regarding the village as it’s described in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-menagerie-coast#PalmaFlora "[[chapter 3]]"). This can help the players get into character and help you establish why the party has come to this remote coastal village.
 
 This is also a good time to figure out if the characters already know each other or if this adventure is the first time they’ve met.
 
@@ -66,7 +66,7 @@ If the characters travel to the west shore of the island, read:
 
 The [sahuagin](https://www.dndbeyond.com/monsters/sahuagin) broke off from its raiding party to do a bit of looting. It attacks any characters it sees.
 
-All the houses stand empty along this stretch of seashore. A character can try to scavenge valuables by spending 10 minutes searching a house and making a DC 13 Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) check. On a success, the character finds an art object worth 25 gp. You can roll on the 25 gp Art Objects table in [chapter 7](https://www.dndbeyond.com/sources/dmg/treasure#ArtObjects "chapter 7") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide") to determine what kind of valuable this is, or you can make one up.
+All the houses stand empty along this stretch of seashore. A character can try to scavenge valuables by spending 10 minutes searching a house and making a DC 13 Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) check. On a success, the character finds an art object worth 25 gp. You can roll on the 25 gp Art Objects table in [chapter 7](https://www.dndbeyond.com/sources/dmg/treasure#ArtObjects "[[chapter 7]]") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide") to determine what kind of valuable this is, or you can make one up.
 
 For every 10 minutes the characters spend looting houses, the island sinks and the water on all sides advances 5 feet inward.
 
@@ -172,7 +172,7 @@ If a character wears or displays the shark tooth necklace taken from the sahuagi
 
 When the characters meet with Captain Three Earrings in her quarters, read:
 
-[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a pirate. More accurately, she is a member of [[The Revelry]], a highly organized coalition of buccaneers headquartered on the dread isle of [[Darktow]], many leagues west (see [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-menagerie-coast#Darktow "chapter 3")). The [[tabaxi]] is interested in the adventurers she has brought on board, wanting to appraise their skill and enrich herself in the process. Ultimately, she intends to use them as tools in her hunt for sahuagin treasure and invites them to join her crew. First, however, she needs a plan.
+[Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) is a pirate. More accurately, she is a member of [[The Revelry]], a highly organized coalition of buccaneers headquartered on the dread isle of [[Darktow]], many leagues west (see [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-menagerie-coast#Darktow "[[chapter 3]]")). The [[tabaxi]] is interested in the adventurers she has brought on board, wanting to appraise their skill and enrich herself in the process. Ultimately, she intends to use them as tools in her hunt for sahuagin treasure and invites them to join her crew. First, however, she needs a plan.
 
 The captain of _Wavechaser_ is a cunning [[tabaxi]] [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain) with a climbing speed of 20 feet, the Feline Agility trait (see below), and [darkvision](https://www.dndbeyond.com/compendium/rules/basic-rules/monsters#Darkvision) out to a range of 60 feet. She can read, write, and speak Common and Sahuagin. As an action, she can make a melee weapon attack with her claws (+4 to hit), dealing 1d4 slashing damage on a hit.
 
@@ -186,7 +186,7 @@ The [[tabaxi]] captain knows exactly what happened in [[Palma Flora]], thanks to
 
 -   The earthquake dragged Flora Isle into the Sharkfeather Abyss, a nearby trench that is home to a clan of shark-herding humanoids known as sahuagin.
 -   The Sharkfeather sahuagin and the people of [[Palma Flora]] have been at odds for generations, since [[Palma Flora]] hosts an annual shark-hunting festival.
--   A young female sahuagin named Selachai recently took charge of the Sharkfeather clan and wields unusual powers. She carries a magic scepter that has been recognized as a _[rod of retribution](https://www.dndbeyond.com/magic-items/rod-of-retribution)_, which has become a conduit for unearthly levels of magical power. (The rod is a new magic item detailed in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#RodofRetribution "chapter 6").)
+-   A young female sahuagin named Selachai recently took charge of the Sharkfeather clan and wields unusual powers. She carries a magic scepter that has been recognized as a _[rod of retribution](https://www.dndbeyond.com/magic-items/rod-of-retribution)_, which has become a conduit for unearthly levels of magical power. (The rod is a new magic item detailed in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#RodofRetribution "[[chapter 6]]").)
 -   No one knows exactly how this young sahuagin managed to cause an earthquake powerful enough to drag Flora Isle under the waves, but that isn’t important. What is important is finding a way to delve beneath those waves and take the scepter from Selachai. Doing so would stop her from causing any more chaos, and the relic would doubtlessly sell for a pretty penny on the black market.
 -   [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) wants to sell the treasure and split it three ways—a third to her and the ship’s upkeep, a third to the crew, and a third to the adventurers. She offers them a total of 500 gp as their one-third share if they help her retrieve the rod.
 
@@ -194,9 +194,9 @@ If the characters tell [Three Earrings](https://www.dndbeyond.com/monsters/three
 
 ### Ports of Call
 
-For characters set on returning to Flora Isle and facing down the sahuagin threat, three viable ports are close by, any of which would take in the refugees and let the characters seek supplies for their mission. [Chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-menagerie-coast#MenagerieCoast "Chapter 3") has more information about all the following locations:
+For characters set on returning to Flora Isle and facing down the sahuagin threat, three viable ports are close by, any of which would take in the refugees and let the characters seek supplies for their mission. [Chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-menagerie-coast#MenagerieCoast "[[Chapter 3]]") has more information about all the following locations:
 
-**[[Bisaft Isle]].** This tiny island has a small port. A shaman living in the hills beyond the port might be able to provide the characters with a _charm of water breathing_ (see “[Charms](https://www.dndbeyond.com/sources/dmg/other-rewards#Charms "Charms")” in chapter 7 of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")). The charm allows the character to cast the [water breathing](https://www.dndbeyond.com/spells/water-breathing) spell, after which its magic fades.
+**[[Bisaft Isle]].** This tiny island has a small port. A shaman living in the hills beyond the port might be able to provide the characters with a _charm of water breathing_ (see “[Charms](https://www.dndbeyond.com/sources/dmg/other-rewards#Charms "Charms")” in [[chapter 7]] of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")). The charm allows the character to cast the [water breathing](https://www.dndbeyond.com/spells/water-breathing) spell, after which its magic fades.
 
 **[[Brokenbank]].** This village is the smallest settlement recognized by the [[Clovis Concord]] but is nonetheless filled with foreign ships. An apothecary here might be able to provide potions that would grant the ability to breathe underwater.
 
@@ -228,11 +228,11 @@ All the ports that the characters can visit in this section have the following g
 
 The port has a dedicated herbalist (use the **[druid](https://www.dndbeyond.com/monsters/druid)** stat block) selling remedies to passing travelers. The druid has four [potions of healing](https://www.dndbeyond.com/equipment/potion-of-healing) in stock, which sell for 50 gp each, and one [potion of animal friendship](https://www.dndbeyond.com/magic-items/potion-of-animal-friendship) that sells for 125 gp.
 
-The port has a general goods store, which sells items in the “[Adventuring Gear](https://www.dndbeyond.com/sources/phb/equipment#AdventuringGear "Adventuring Gear")” section in chapter 5 of the __[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")__ worth 50 gp or less. The store’s clerk (use the [commoner](https://www.dndbeyond.com/monsters/commoner) stat block) has four of each item in stock. Characters can also sell items to the general goods store for half their price in the __[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")__.
+The port has a general goods store, which sells items in the “[Adventuring Gear](https://www.dndbeyond.com/sources/phb/equipment#AdventuringGear "Adventuring Gear")” section in [[chapter 5]] of the __[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")__ worth 50 gp or less. The store’s clerk (use the [commoner](https://www.dndbeyond.com/monsters/commoner) stat block) has four of each item in stock. Characters can also sell items to the general goods store for half their price in the __[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")__.
 
 The port has a shop that sells magic scrolls. The scribe here (use the **[mage](https://www.dndbeyond.com/monsters/mage)** stat block) has four spell scrolls for sale at a cost of 50 gp each: one _[spell scroll](https://www.dndbeyond.com/magic-items/spell-scroll)_ of [magic missile](https://www.dndbeyond.com/spells/magic-missile), one of [shield](https://www.dndbeyond.com/spells/shield), one of [guiding bolt](https://www.dndbeyond.com/spells/guiding-bolt), and one of [thunderwave](https://www.dndbeyond.com/spells/thunderwave).
 
-The port has a smithy that sells any armor and weapons found in chapter 5 of the __[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")__ worth 200 gp or less. The smithy has two of each item in stock.
+The port has a smithy that sells any armor and weapons found in [[chapter 5]] of the __[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")__ worth 200 gp or less. The smithy has two of each item in stock.
 
 ### [[Bisaft Isle]]
 
@@ -240,7 +240,7 @@ In addition to the general features noted above, the port of [[Bisaft Isle]] has
 
 [[Bisaft Isle]] is warm and balmy, particularly in the early morning. The whole port smells of fresh rain. Its people are wary of [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings), but are kind to visitors and refugees.
 
-The scrollery is a mile from the harbor and is run by an old female [[Tortles|tortle]] shaman named Grimalda (use the [mage](https://www.dndbeyond.com/monsters/mage) stat block). She owes Three Earrings a favor and grants one party member a _charm of water breathing_ (see “[Charms](https://www.dndbeyond.com/sources/dmg/other-rewards#Charms "Charms")” in chapter 7 of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")). The charm allows the character to cast the [water breathing](https://www.dndbeyond.com/spells/water-breathing) spell, after which its magic fades.
+The scrollery is a mile from the harbor and is run by an old female [[Tortles|tortle]] shaman named Grimalda (use the [mage](https://www.dndbeyond.com/monsters/mage) stat block). She owes Three Earrings a favor and grants one party member a _charm of water breathing_ (see “[Charms](https://www.dndbeyond.com/sources/dmg/other-rewards#Charms "Charms")” in [[chapter 7]] of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")). The charm allows the character to cast the [water breathing](https://www.dndbeyond.com/spells/water-breathing) spell, after which its magic fades.
 
 ### [[Brokenbank]]
 
@@ -262,7 +262,7 @@ The local smithy has received several experimental breathing helmets from invent
 
 The smith is a middle-aged [[Humans|human]] [veteran](https://www.dndbeyond.com/monsters/veteran) named Hektor. He blanches when the note is read, but then offers up a number of diving helmets equal to the number of characters in the party. Each resembles a helm of steel and glass resembling a cage wrapped around a fishbowl. If asked about payment, the smith stammers out, “They’re yours! No questions asked. Thank you for your patronage.”
 
-These experimental helmets are [breathing bubbles](https://www.dndbeyond.com/magic-items/breathing-bubble), described in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#BreathingBubble "chapter 6").
+These experimental helmets are [breathing bubbles](https://www.dndbeyond.com/magic-items/breathing-bubble), described in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#BreathingBubble "[[chapter 6]]").
 
 ### Departing for [[Palma Flora]]
 
@@ -284,7 +284,7 @@ The intercepting ship, named _Moonbeam_, is a caravel flying the colors of the [
 
 _Moonbeam_ is on the hunt for [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) and is captained by Lieutenant Commander Voskiir Larth, a princely and flamboyant pale-skinned, male [[Half Elves|half-elf]] [bandit captain](https://www.dndbeyond.com/monsters/bandit-captain). _Wavechaser_’s druid crew member Dajarkal, a spy for the [[Clovis Concord]], has reported the ship’s movements by way of her animal messengers, and _Moonbeam_ has been sent to intercept the secret pirate vessel.
 
-It takes _Moonbeam_ 10 minutes to intercept _Wavechaser_, giving the characters and the crew time to wake up and don their armor (see “[Getting Into and Out of Armor](https://www.dndbeyond.com/sources/phb/equipment#GettingIntoandOutofArmor "Getting Into and Out of Armor")” in chapter 5 of the __[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")__). Combat begins when Voskiir and his boarding party of two [thugs](https://www.dndbeyond.com/monsters/thug), two [scouts](https://www.dndbeyond.com/monsters/scout), and four [bandits](https://www.dndbeyond.com/monsters/bandit) swing aboard the vessel. He shouts out, “In the name of the [[laws of the Clovis Concord]], surrender your vessel peacefully, or we shall take her!”
+It takes _Moonbeam_ 10 minutes to intercept _Wavechaser_, giving the characters and the crew time to wake up and don their armor (see “[Getting Into and Out of Armor](https://www.dndbeyond.com/sources/phb/equipment#GettingIntoandOutofArmor "Getting Into and Out of Armor")” in [[chapter 5]] of the __[Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook")__). Combat begins when Voskiir and his boarding party of two [thugs](https://www.dndbeyond.com/monsters/thug), two [scouts](https://www.dndbeyond.com/monsters/scout), and four [bandits](https://www.dndbeyond.com/monsters/bandit) swing aboard the vessel. He shouts out, “In the name of the [[laws of the Clovis Concord]], surrender your vessel peacefully, or we shall take her!”
 
 [Three Earrings](https://www.dndbeyond.com/monsters/three-earrings) keeps a low profile at the start of the fight, skulking in the shadows and hoping that the crew and the characters can convince Voskiir he’s grabbed up the wrong ship. However, the commander responds to the slightest provocation with overzealous force. If the characters or crew react with confusion or try to talk things out with him, he refuses to listen and attacks outright. Use the map of _Wavechaser_ to judge the positions of the characters, their allies, and their enemies in this combat.
 
@@ -332,7 +332,7 @@ The deep, turbulent water of the trench makes movement difficult for creatures n
 
 Once the characters arrive at the ruins, read:
 
-Two [sharkbody abominations](https://www.dndbeyond.com/monsters/sharkbody-abomination) (see the “[Sharkbody Abominations](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-tide-of-retribution#SharkbodyAbominations "Sharkbody Abominations")” sidebar earlier in this chapter) and five [sahuagin](https://www.dndbeyond.com/monsters/sahuagin) are gathered around Selachai, the [sahuagin warlock of Uk’otoa](https://www.dndbeyond.com/monsters/sahuagin-warlock-of-ukotoa) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#SahuaginWarlockofUkotoa "chapter 7")) who has channeled the power to destroy the hated surface dwellers. These creatures are all lending Selachai their prayers as she invokes [[Uk’otoa]]’s power, turning another drowned villager into a sharkbody abomination.
+Two [sharkbody abominations](https://www.dndbeyond.com/monsters/sharkbody-abomination) (see the “[Sharkbody Abominations](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-tide-of-retribution#SharkbodyAbominations "Sharkbody Abominations")” sidebar earlier in this chapter) and five [sahuagin](https://www.dndbeyond.com/monsters/sahuagin) are gathered around Selachai, the [sahuagin warlock of Uk’otoa](https://www.dndbeyond.com/monsters/sahuagin-warlock-of-ukotoa) (see [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#SahuaginWarlockofUkotoa "[[chapter 7]]")) who has channeled the power to destroy the hated surface dwellers. These creatures are all lending Selachai their prayers as she invokes [[Uk’otoa]]’s power, turning another drowned villager into a sharkbody abomination.
 
 As soon as combat begins, Selachai orders her sahuagin supplicants to protect her. However, none of them move to attack. Instead, they stand 20 feet back from her, still kneeling, intent on giving up their lives to protect her. Selachai orders the sharkbody abominations to put the characters out of commission.
 

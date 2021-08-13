@@ -11,15 +11,15 @@ author: Jocelyn Badgley
 > I don't regret the things I have done, I regret the things I didn't do when I had the chance.
 
 ---
-**The Gender Dysphoria Bible is a Living Document**
+**The [[Gender Dysphoria]] Bible is a Living Document**
 
-The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of Gender Dysphoria. In its current iteration it is severely lacking in AFAB narratives, non-binary, agender & genderfluid specific dysphoria, and Third Gender narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
+The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third Gender narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
 
-Growing up in the closet, even when you don’t know you’re in the closet, becomes an existence built on top of coping mechanisms intended to alleviate dysphoria. The following are ways a closeted trans person may find to alleviate the dysphoria they experience in their day to day lives:
+Growing up in the closet, even when you don’t know you’re in the closet, becomes an existence built on top of coping mechanisms intended to alleviate dysphoria. The following are ways a closeted [[transgender|trans]] person may find to alleviate the dysphoria they experience in their day to day lives:
 
 -   [[No]] ==When a video game gives you the option of choosing your gender, you tend to choose differently than your assigned gender.== This may be accompanied with excuses to defend that choice. “It defaulted to male and I didn’t care.” “I don’t want to stare at a guy’s butt for hours.”
     
--   [[No]] ==A preference for literature and film with characters of your true gender, or with characters who break gender norms (Mulan, Little Women).==
+-   [[No]] ==A preference for literature and film with characters of your true gender, or with characters who break gender norms (Mulan, Little [[Women]]).==
     
 -   [[No]] ==Pornographic outlets which satisfy strong desires or feel more relatable, such as a draw towards gay/lesbian porn, bridal kink, or transformation sequences.==
     
@@ -33,20 +33,20 @@ Growing up in the closet, even when you don’t know you’re in the closet, bec
     
 -   [[Sometimes]] ==Avoiding social gatherings whenever possible, seeking isolation.==
     
--   [[No]] ==Becoming intimately educated about some gender-associated topic, such as men’s or women’s clothing design.==
+-   [[No]] ==Becoming intimately educated about some gender-associated topic, such as men’s or [[women]]’s clothing design.==
     
 -   Obsessively working out (AFABs).
     
 -   [[Yes]] ==Helping cis partners to shop in order to live vicariously through their presentation.==
     
 
-[You're worried that you might be homophobic, even though you believe in gay rights, because "LGBT+ stuff" fills you with a deep discomfort. It all seems so flamboyant and overtly sexual. It makes you want to shrink down and disappear, before you die of secondhand embarrassment.
+[You're worried that you might be homophobic, even though you believe in [[gay rights]], because "LGBT+ stuff" fills you with a deep discomfort. It all seems so flamboyant and overtly sexual. It makes you want to shrink down and disappear, before you die of secondhand embarrassment.
 ](https://twitter.com/NightlingBug/status/1215746083487461379)
 
-[Later, when you meet real queer people, or your friends come out of the closet, you start to idolize them. But you're also jealous. They're \*free\* and \*real\* in a way that seems impossible for straight people, like you. They have huge, \*real person\* worries and desires and lives.
+[Later, when you meet real [[queer]] people, or your friends come out of the closet, you start to idolize them. But you're also jealous. They're \*free\* and \*real\* in a way that seems impossible for straight people, like you. They have huge, \*real person\* worries and desires and lives.
 ](https://twitter.com/NightlingBug/status/1215749725456125952)
 
-Because so much abuse is handed down onto gender non-conforming children, [[Yes]] ==many trans people grow up learning to hide their natural personalities out of sheer necessity.== [[Sometimes]] ==Many trans people speak about having a phase of life where they attempted to “buy-in” on their assigned gender, performing masculinity or femininity to extremes in order to try to “fix” themselves==. This leads to repression tendencies which may even superficially appear toxic, but are simply the results of trying to hide every scrap of their true selves.
+Because so much abuse is handed down onto gender non-conforming children, [[Yes]] ==many [[transgender|trans]] people grow up learning to hide their natural personalities out of sheer necessity.== [[Sometimes]] ==Many [[transgender|trans]] people speak about having a phase of life where they attempted to “buy-in” on their assigned gender, performing masculinity or femininity to extremes in order to try to “fix” themselves==. This leads to repression tendencies which may even superficially appear toxic, but are simply the results of trying to hide every scrap of their true selves.
 
 -   [[No]] ==Growing and meticulously grooming facial hair (the so-called “denial beard”).==
     
@@ -64,7 +64,7 @@ Because so much abuse is handed down onto gender non-conforming children, [[Yes]
     
 -   [[Yes]] ==Buying in to ultra-conservative attitudes towards gender and sexuality.==
     
--   [[No]] ==Expressing Homophobia and Transphobia in self defense to ward off suspicion.==
+-   [[No]] ==Expressing [[Homophobia]] and Transphobia in [[self]] defense to ward off suspicion.==
     
 -   [[No]] ==Aggressively passive engagement in anything connected to one’s true gender.==
     
@@ -77,7 +77,7 @@ Finally, another very common coping mechanism is to find means of escape or ment
     
 -   [[Yes]] ==Chain binging movies, TV shows or books.==
     
--   [[Yes]] ==Spending all idle time playing video games or on social media.==
+-   [[Yes]] ==Spending all idle time playing video games or on social [[media]].==
     
 -   [[No]] ==Obsessively cleaning one’s living space.==
     

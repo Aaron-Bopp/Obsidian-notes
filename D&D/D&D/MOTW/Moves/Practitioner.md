@@ -1,1 +1,0 @@
-Choose two effects available to you under use magic. Take +1 to use magic whenever you choose one of those effects.

@@ -157,7 +157,7 @@
 [[Andy Matuschak's Evergreen Notes]]:
 - Andy's notes
 
-[[Answer open questions]]:
+[[SecondBrain/EvergreenNotes/Answer open questions]]:
 
 [[Anti-government stances lead to economic crashes]]:
 
@@ -353,7 +353,7 @@
 
 [[Destiny Interviews Dr. K]]:
 
-[[Did the Atomic Bombs end WW2]]:
+[[SecondBrain/history/Did the Atomic Bombs end WW2]]:
 
 [[Difference between reincarnation in Hinduism and Bhudism]]:
 
@@ -448,7 +448,7 @@
 
 [[FoC-notes]]:
 
-[[Fomulate questions]]:
+[[SecondBrain/EvergreenNotes/Fomulate questions]]:
 
 [[Foreign Policy]]:
 
@@ -577,7 +577,7 @@
 
 [[In order to for my parents to love me, they need to admit they might be wrong]]:
 
-[[Income Inequality Increases Unhappiness]]:
+[[SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness]]:
 
 [[Indigenous]]:
 
@@ -1093,7 +1093,7 @@
 
 [[dissociation]]:
 
-[[do math]]:
+[[SecondBrain/EvergreenNotes/do math]]:
 
 [[early childhood]]:
 
@@ -1138,7 +1138,7 @@
 
 [[fear of consequences]]:
 
-[[find related concepts]]:
+[[SecondBrain/EvergreenNotes/find related concepts]]:
 
 [[free-will]]:
 - free will
@@ -1291,7 +1291,7 @@
 
 [[reform]]:
 
-[[related topics]]:
+[[SecondBrain/EvergreenNotes/related topics]]:
 
 [[religion]]:
 

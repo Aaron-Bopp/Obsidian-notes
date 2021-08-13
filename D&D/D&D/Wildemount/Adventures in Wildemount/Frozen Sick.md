@@ -1,12 +1,12 @@
 Something is killing people in [[Palebank Village]], and if the characters don’t stop it, they might be next. “Frozen Sick” is an adventure that takes characters from 1st to 3rd level and introduces them to the continent’s [[Biting North]] region—the bleak arctic realms of the [[Greying Wildlands]] and [[Eiselcross]].
 
-If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), work with them to decide how they made their way to [[Palebank Village]]. Are they citizens of [[Uthodurn]] now aiding in the surface expansion of their civilization? Have they come north to seek freedom from the wars of other lands? Any number of options can help tie characters to this frigid region and the mysteries it holds.
+If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "[[chapter 4]]")), work with them to decide how they made their way to [[Palebank Village]]. Are they citizens of [[Uthodurn]] now aiding in the surface expansion of their civilization? Have they come north to seek freedom from the wars of other lands? Any number of options can help tie characters to this frigid region and the mysteries it holds.
 
 ## Story Overview
 
 Urgon Wenth, a [[Dwarves|dwarf]] explorer, recently returned home to [[Palebank Village]] after exploring the icy wastes of [[Eiselcross]] for a year. The [[Dwarves|dwarf]] brought home several items plundered from ruins on [[Foren]], the largest of [[Eiselcross]]’s islands. Among these treasures were two beautiful blue glass vials, which Urgon sold to an [[Elves|elf]] collector named Verla Pelc. The vials were then stolen, given to a fence out of [[Shadycreek Run]], and sold again to an unsuspecting merchant.
 
-In truth, the vials’ beautiful blue color is the result of deadly blue spores that cling to the interior of the glass. Faint cracks in both the vials have exposed each person who handled them to [[frigid woe]], a deadly disease that can’t be cured by conventional means. The disease has already killed Urgon and Verla, turning them into ice statues. Details on [[frigid woe]] are found in the “[Eiselcross](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]] "[[Eiselcross]]")” section of chapter 3.
+In truth, the vials’ beautiful blue color is the result of deadly blue spores that cling to the interior of the glass. Faint cracks in both the vials have exposed each person who handled them to [[frigid woe]], a deadly disease that can’t be cured by conventional means. The disease has already killed Urgon and Verla, turning them into ice statues. Details on [[frigid woe]] are found in the “[Eiselcross](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]] "[[Eiselcross]]")” section of [[chapter 3]].
 
 ### Adventure Summary
 
@@ -16,7 +16,7 @@ Elro asks the characters to travel to [[Eiselcross]] to seek a cure for [[frigid
 
 ### Setup and Starting Points
 
-Work with the players to establish why their characters are in [[Palebank Village]]. You can provide information regarding the village and its surrounding lands, all of which are described in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-greying-wildlands#PalebankVillage "chapter 3").
+Work with the players to establish why their characters are in [[Palebank Village]]. You can provide information regarding the village and its surrounding lands, all of which are described in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-greying-wildlands#PalebankVillage "[[chapter 3]]").
 
 Before the adventure begins is also the time to figure out if the characters already know each other or if this adventure is the first time they’ve met.
 
@@ -206,7 +206,7 @@ If the characters convince [Hulil](https://www.dndbeyond.com/monsters/hulil-luta
 
 Hulil used one of the vials to trap the chest containing the other stolen items (see “Stone Chest” below). Needing quick cash for the trip, she sold the other vial to Irven Liel, a [[Humans|human]] merchant staying at the Jolly [[Dwarves|Dwarf]] inn in [[Palebank Village]] while traveling with his family to [[Uthodurn]].
 
-The stone chest’s outer lid is carved with the face of a [[dragon]]. A character who examines the chest and succeeds on a DC 12 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check finds pin-sized openings in the [[dragon]]’s mouth that contain a blue powder. The powder can be removed with a successful DC 15 Dexterity check using thieves’ tools. A character who fails this check must succeed on a DC 11 Constitution saving throw or contract [[frigid woe]] (see the “[Eiselcross](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]] "[[Eiselcross]]")” section of chapter 3).
+The stone chest’s outer lid is carved with the face of a [[dragon]]. A character who examines the chest and succeeds on a DC 12 Wisdom ([Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception)) check finds pin-sized openings in the [[dragon]]’s mouth that contain a blue powder. The powder can be removed with a successful DC 15 Dexterity check using thieves’ tools. A character who fails this check must succeed on a DC 11 Constitution saving throw or contract [[frigid woe]] (see the “[Eiselcross](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]] "[[Eiselcross]]")” section of [[chapter 3]]).
 
 A [detect magic](https://www.dndbeyond.com/spells/detect-magic) spell reveals that the chest radiates an aura of evocation magic. When a creature touches the chest without speaking a prayer to [[Tiamat]], a gust of wind escapes the [[dragon]]’s mouth. If the blue powder is still in the [[dragon]]’s mouth, it forms a cloud that fills a 15-foot cube in front of the chest. Each creature within the area must succeed on a DC 11 Constitution saving throw or contract [[frigid woe]].
 
@@ -246,7 +246,7 @@ When the characters are ready to leave for [[Eiselcross]], Elro Aldataur provide
 -   The characters will be taken to [[Syrinlya]], an Uthodurnian outpost on [[Foren]], [[Eiselcross]]’s largest island. Once there, they should talk to a [[Dwarves|dwarf]] named Orvo Mustave, who has gone on numerous expeditions into the wilds of [[Eiselcross]] with Urgon Wenth.
 -   Once the characters have found the cure, they should use whatever they need for themselves, then give the rest to an [[Elves|elf]] in [[Syrinlya]] who goes by the name “the Buyer.” They can tell the Buyer to teleport the cure to Elro in [[Palebank Village]].
 
-The [[islands of Eiselcross]] are covered in ice and snow, and are always well below freezing. Characters who don’t already have cold weather gear will want to purchase it, or they will be subject to extreme cold (see [chapter 5](https://www.dndbeyond.com/sources/dmg/adventure-environments#Weather "chapter 5") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")).
+The [[islands of Eiselcross]] are covered in ice and snow, and are always well below freezing. Characters who don’t already have cold weather gear will want to purchase it, or they will be subject to extreme cold (see [chapter 5](https://www.dndbeyond.com/sources/dmg/adventure-environments#Weather "[[chapter 5]]") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")).
 
 [](https://media.dndbeyond.com/compendium-images/egtw/yDOyqyOocErRgYJK/05-06.png)
 
@@ -262,7 +262,7 @@ It takes the _Remorhaz_ nine days to get to [[Syrinlya]]. This trip could be une
 
 When the ship reaches [[Syrinlya]], read:
 
-Morgo Delwur (a neutral good, female mountain [[Dwarves|dwarf]] [werebear](https://www.dndbeyond.com/monsters/werebear)) has lived in [[Syrinlya]] for years. She can show the characters around and answer any questions they have about the settlement, providing any of the details found in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#Syrinlya "chapter 3"). If the characters ask about Orvo Mustave or the Buyer, Morgo points out where both live. Though Morgo never adventured with Urgon Wenth and wasn’t a close friend, she is sad to hear of the [[Dwarves|dwarf]]’s passing.
+Morgo Delwur (a neutral good, female mountain [[Dwarves|dwarf]] [werebear](https://www.dndbeyond.com/monsters/werebear)) has lived in [[Syrinlya]] for years. She can show the characters around and answer any questions they have about the settlement, providing any of the details found in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#Syrinlya "[[chapter 3]]"). If the characters ask about Orvo Mustave or the Buyer, Morgo points out where both live. Though Morgo never adventured with Urgon Wenth and wasn’t a close friend, she is sad to hear of the [[Dwarves|dwarf]]’s passing.
 
 Morgo and the other explorers in [[Syrinlya]] know about [[frigid woe]] and the disease’s terrible effects. If the characters have any unanswered questions about the disease, the explorers share what they know.
 
@@ -280,7 +280,7 @@ Once the characters are settled, Morgo wishes them luck and leaves to prepare fo
 
 Morgo Delwur or any other resident of [[Syrinlya]] can point out the Buyer’s hut to the characters. It is [[Syrinlya]]’s largest yurt. When the characters enter, read:
 
-The Buyer (lawful neutral, nonbinary, high [[Elves|elf]] [mage](https://www.dndbeyond.com/monsters/mage)) is a mysterious [[Elves|elf]] who purchases [[Aeor|Aeorian]] relics in [[Syrinlya]] for the Uthodurnian government. See the “[Syrinlya](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#Syrinlya "[[Syrinlya]]")” section of chapter 3 for more information about the Buyer and their business. The green [faerie dragon](https://www.dndbeyond.com/monsters/faerie-[[dragon]]-older) is Dew, the [[Elves|elf]]’s familiar.
+The Buyer (lawful neutral, nonbinary, high [[Elves|elf]] [mage](https://www.dndbeyond.com/monsters/mage)) is a mysterious [[Elves|elf]] who purchases [[Aeor|Aeorian]] relics in [[Syrinlya]] for the Uthodurnian government. See the “[Syrinlya](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#Syrinlya "[[Syrinlya]]")” section of [[chapter 3]] for more information about the Buyer and their business. The green [faerie dragon](https://www.dndbeyond.com/monsters/faerie-[[dragon]]-older) is Dew, the [[Elves|elf]]’s familiar.
 
 The Buyer has been in [[Syrinlya]] since the day the outpost was founded. They can answer any questions the characters might have about the outpost’s history, the island of [[Foren]], or [[frigid woe]]. If the characters want to confirm that the Buyer is able to quickly send the cure for [[frigid woe]] to [[Palebank Village]], the [[Elves|elf]] tells them that the stone chest in the yurt has the magical capability to teleport objects on command.
 
@@ -334,7 +334,7 @@ Fast Pace
 
 18 miles
 
-As the characters travel, use the “[Encounters in Eiselcross](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#EncountersinEiselcross "[[Encounters in Eiselcross]]")” section in chapter 3 to generate random encounters. After traveling forty miles, the characters enter Thin Sheets. This region is known for its large patches of thin ice over deep, frigid water (see the rules for frigid water and thin ice in [chapter 5](https://www.dndbeyond.com/sources/dmg/adventure-environments#WildernessHazards "chapter 5") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")).
+As the characters travel, use the “[Encounters in Eiselcross](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#EncountersinEiselcross "[[Encounters in Eiselcross]]")” section in [[chapter 3]] to generate random encounters. After traveling forty miles, the characters enter Thin Sheets. This region is known for its large patches of thin ice over deep, frigid water (see the rules for frigid water and thin ice in [chapter 5](https://www.dndbeyond.com/sources/dmg/adventure-environments#WildernessHazards "[[chapter 5]]") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")).
 
 ### Finding Salsvault
 
@@ -553,11 +553,11 @@ A character with a passive Wisdom ([Perception](https://www.dndbeyond.com/compen
 
 The kelp counts as difficult terrain.
 
-The chest is packed with fine sand and contains twenty doses of [[frigid woe]] antidote (see “[Eiselcross](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#Eiselcross "[[Eiselcross]]")” in chapter 3) and an [ersatz eye](https://www.dndbeyond.com/magic-items/ersatz-eye) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#ErsatzEye "chapter 6")).
+The chest is packed with fine sand and contains twenty doses of [[frigid woe]] antidote (see “[Eiselcross](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#Eiselcross "[[Eiselcross]]")” in [[chapter 3]]) and an [ersatz eye](https://www.dndbeyond.com/magic-items/ersatz-eye) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#ErsatzEye "[[chapter 6]]")).
 
 ## Concluding the Adventure
 
-You can roll for random encounters on the way back to [[Syrinlya]] (see “[Encounters in Eiselcross](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#EncountersinEiselcross "Encounters in Eiselcros")” in chapter 3), or you can allow the characters an uneventful trip as reward for a job well done. When the characters arrive in [[Syrinlya]], they can arrange for the Buyer to teleport the antidote for [[frigid woe]] to [[Palebank Village]]. After doing so, the [[Elves|elf]] pays out the 200 gp reward on behalf of Elro Aldataur.
+You can roll for random encounters on the way back to [[Syrinlya]] (see “[Encounters in Eiselcross](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-[[eiselcross]]#EncountersinEiselcross "Encounters in Eiselcros")” in [[chapter 3]]), or you can allow the characters an uneventful trip as reward for a job well done. When the characters arrive in [[Syrinlya]], they can arrange for the Buyer to teleport the antidote for [[frigid woe]] to [[Palebank Village]]. After doing so, the [[Elves|elf]] pays out the 200 gp reward on behalf of Elro Aldataur.
 
 If the characters don’t successfully recover the [[frigid woe]] antidote in time to save Irven and his family, all four family members succumb to the disease. If the characters are successful, they have the thanks of Elro Aldataur, Irven and his family, the people of [[Palebank Village]], and the explorers of [[Syrinlya]].
 

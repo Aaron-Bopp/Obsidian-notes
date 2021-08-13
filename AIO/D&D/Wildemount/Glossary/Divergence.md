@@ -1,0 +1,1 @@
+Divergence is the term used to describe the moment that Prime Gods, after banishing the Betrayer Gods from [[Exandria]] following [[the Calamity]], left [[Exandria]] and manifested the [[Divine Gate]].

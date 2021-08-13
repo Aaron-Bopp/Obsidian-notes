@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Deconstructing your faith is like climbing through a jungle canopy]] `=length([[Deconstructing your faith is like climbing through a jungle canopy]].file.inlinks) + length([[Deconstructing your faith is like climbing through a jungle canopy]].file.outlinks)`
+##### [[Deconstructing your faith is like climbing through a jungle canopy]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 
 [[Deconstruction (Christianity)]] is very difficult especially after being raised in the church. Getting out of it is like hacking your way to the top of a jungle canopy. You are often carrying years of emotional baggage, your blade might be dulled by many years on the jungle floor, and you might have many people calling you to climb back down. The hardest part is that you can't let go of your baggage or stop listening and until you get to the top. Even when you have reached the top you can't even enjoy the fresh air because you have grown so used to the suffocating humidity of the jungle.

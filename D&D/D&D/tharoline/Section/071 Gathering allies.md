@@ -1,4 +1,4 @@
-- upgrades to airship
+- upgrades to airship
 	- three stories tall
 	- four sails as well as the balloons
 	- reinforcements
@@ -27,4 +27,4 @@
 - [[Hendrix]] and I's studies on the shadowfell
 	- to get in you need to be in a place of power at the solstice
 	- there are places all around [[Ezemor]] to get in there
-[[072 New Ally, bad liar]]
+	- 

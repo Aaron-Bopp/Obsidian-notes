@@ -1,12 +1,5 @@
 {
-  "backlink:open-backlinks": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "`"
-    }
-  ],
+  "backlink:open-backlinks": [],
   "editor:toggle-spellcheck": [
     {
       "modifiers": [
@@ -214,6 +207,31 @@
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "quickadd:runQuickAdd": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "backlink:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "outgoing-links:open-for-current": [],
+  "outgoing-links:open": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
     }
   ]
 }

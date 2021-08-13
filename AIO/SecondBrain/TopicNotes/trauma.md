@@ -11,11 +11,12 @@ embedded:
 - [[religious trauma]]
 ---
  
-###### [[trauma]]
+##### [[trauma]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 
 **Status**:: #EVER/SEED
-###### [[trauma]] `=length([[trauma]].file.inlinks)` 
+**Related-Topics**:: [[mental health]]
+##### [[trauma]] `=length(this.file.inlinks)` 
 - [[early childhood]]
 - ![[religious trauma#religious trauma length religious trauma file inlinks]]
 - Defense mechanisms

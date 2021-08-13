@@ -1,7 +1,7 @@
 ---
 creation date: 2021-06-29
 modification date: Tuesday 29th June 2021 23:55:28
-note-type: 
+note-type: evergreen-note,topic-note,ADSF
 - evergreen-note
 - topic-note
 aliases:
@@ -11,91 +11,30 @@ parent: [[trauma]]
  
 ###### [[religious trauma]]
 
-[[ADHD]]
+ADHD
 
 **Status**:: #EVER/SEED
 
-Related-Topics:: [[trauma]]
+Related-Topics:: `=this.file.outlinks`
 
 **Last Edited**:: *`=this.file.mtime`*
 ###### [[religious trauma]] `=length([[religious trauma]].file.inlinks)` 
 
-- Often results in [[Deconstruction (Christianity)]]
+- ![[Deconstruction (Christianity)#this file link length this file inlinks]]
 
-### <hr class="dataviews"/>
-#### Notes not yet in outline
-```dataviewjs
-const thisFile = dv.pages().where(f => f.file.path == dv.current().file.path)[0]
-function formatDate(date){
-	var d = new Date(date),
-		month = '' + (d.getMonth() + 1),
-		day = '' + d.getDate(),
-		year = d.getFullYear();
-
-	if (month.length < 2) 
-		month = '0' + month;
-	if (day.length < 2) 
-		day = '0' + day;
-
-	return [year, month, day].join('-');
-}
-
-function wrap(name) {
-	return '[[' + name + ']]'
-}
-function getIO(file) {
-	return `${file.inlinks.length}/${file.outlinks.length}`
-}
-const statusDict = {
-	"GREEN":0,
-	"SPROUT":1,
-	"SEED":2
-}
-const statusLevel = (status) => {
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
-}
-//includes first called file as last element
-function getEmbeds(name){
-	const file = dv.pages().where(f => f.file.name === name)[0]
-	let embeds = file.embedded
-	console.log(embeds)
-	if (embeds == undefined) {
-		return [file]
-	}
-	// prevent infinite loops if currentNote is included in embeds
-	embeds = embeds.filter(l => l !== null && name !== l.path )
-	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat()
-}
-const allEmbeds = getEmbeds(thisFile.file.name)
-const allOutlinks = allEmbeds.map(f => f.file.outlinks).flat()
-const allPaths = allOutlinks.map(l => l.path)
-function notLinkedPages(folder) {
-	return dv.pages(wrap(thisFile.file.name))
-			.where(p => {
-				return !allPaths.contains(p.file.path) && 
-				p.file.path.contains(folder) 
-			})
-			.sort(p => p.file.inlinks.length + p.file.outlinks.length, 'desc')
-}
-function contentNotesTable(folder) {
-	let pages = notLinkedPages(folder)
-	if (pages.length > 0) {
-		dv.table([folder, "I/O", "Edited", "Created"], 
-			pages
-			.map(p => [p.file.link, getIO(p.file), p.file.mtime, formatDate(p["creation date"])]))
-	}
-}
-function statusTable(folder) {
-	let pages = notLinkedPages(folder)
-	if (pages.length > 0) {
-		dv.table([folder, "I/O", "Status", "Edited", "Created"], 
-			pages
-			.sort(p => statusLevel(p.status))
-			.map(p => [p.file.link, getIO(p.file), p.status, p.file.mtime, formatDate(p["creation date"])]))
-	}
-}
-statusTable("TopicNotes")
-statusTable("EvergreenNotes")
-contentNotesTable("ContentNotes")
+## Evergreen Notes
+```dataview
+TABLE Status, file.mday AS "Edited", file.cday AS "Created"
+FROM "EvergreenNotes"  and [[religious trauma]]
+WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "religious trauma" and !contains([[religious trauma]].file.outlinks, link(file.name))
+SORT Status
 ```
+## Content Notes
+```dataview
+TABLE type, file.mday AS "Edited", file.cday AS "Created"
+FROM [[religious trauma]] and "ContentNotes"
+WHERE file.name != "QUICKNOTE" and file.name != "religious trauma" and !contains([[religious trauma]].file.outlinks, link(file.name))
+SORT Status
+```
+
+## References

@@ -1,1 +1,5 @@
-{"showFullPath":false,"linkStyle":"wikilink","listStyle":"num"}
+{
+  "showFullPath": false,
+  "linkStyle": "none",
+  "listStyle": "none"
+}

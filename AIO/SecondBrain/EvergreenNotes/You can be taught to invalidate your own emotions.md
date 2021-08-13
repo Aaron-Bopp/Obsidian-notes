@@ -8,7 +8,7 @@ note-type:
 
 ###### [[You can be taught to invalidate your own emotions]]
 
-During [[early childhood]], it is incredibly important that the parents model [[self soothing]], [[self care]], [[self-validation]], but if parents fail to teach these things sometimes the opposite can be taught
+During [[early childhood]], it is incredibly important that the [[parents]] model [[self soothing]], [[self care]], [[self-validation]], but if [[parents]] fail to teach these things sometimes the opposite can be taught
 
 [[Parents need to model the ability to deal with emotion to their children]] #TO/DO/CONCEPTUALIZE connection
 
@@ -16,7 +16,7 @@ During [[early childhood]], it is incredibly important that the parents model [[
 
 **Status**:: #EVER/SPROUT/WATER 
 
-**Related-Topics**:: 
+**Related-Topics**:: [[emotional invalidation]]
 	
 **Sub-Topics**::
 	

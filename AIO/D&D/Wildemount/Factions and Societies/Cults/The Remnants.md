@@ -1,0 +1,4 @@
+### The Remnants
+**Tag**:: #Exandria/Person
+**Location**:: [[Factions and Societies]]
+When [[Vecna]]’s physical form was destroyed during the [[Age of Arcanum]], his most devoted followers founded the Remnants, a collection of secretive sects dedicated to realizing [[Vecna]]’s plan to ascend to godhood, despite his death. The [[Cults in Wildemount|cult]] succeeded in aiding his resurrection and ascension, but they were scattered when the heroes of Vox Machina banished and sealed [[Vecna]] beyond the [[Divine Gate]]. The Remnants now seek new ways to restore their god to his promised position of absolute dominance over creation.

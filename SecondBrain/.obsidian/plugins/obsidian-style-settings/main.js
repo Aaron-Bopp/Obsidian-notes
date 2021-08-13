@@ -3451,24 +3451,39 @@ class CSSSettingsManager {
         });
     }
     initClasses() {
-        Object.keys(this.config).forEach(section => {
+        Object.keys(this.config).forEach((section) => {
             const config = this.config[section];
-            Object.keys(config).forEach(settingId => {
+            Object.keys(config).forEach((settingId) => {
                 const setting = config[settingId];
-                if (setting.type === 'class-toggle') {
-                    if (this.getSetting(section, settingId)) {
+                if (setting.type === "class-toggle") {
+                    const classToggle = setting;
+                    let value = this.getSetting(section, settingId);
+                    if (value === true || (value === undefined && classToggle.default === true)) {
                         document.body.classList.add(setting.id);
+                    }
+                }
+                else if (setting.type === "class-select") {
+                    const multiToggle = setting;
+                    let value = this.getSetting(section, settingId);
+                    if (value === undefined && !!multiToggle.default) {
+                        value = multiToggle.default;
+                    }
+                    else if (value === undefined) {
+                        value = "none";
+                    }
+                    if (value !== "none") {
+                        document.body.classList.add(value);
                     }
                 }
             });
         });
     }
     removeClasses() {
-        Object.keys(this.config).forEach(section => {
+        Object.keys(this.config).forEach((section) => {
             const config = this.config[section];
-            Object.keys(config).forEach(settingId => {
+            Object.keys(config).forEach((settingId) => {
                 const setting = config[settingId];
-                if (setting.type === 'class-toggle') {
+                if (setting.type === "class-toggle") {
                     if (this.getSetting(section, settingId)) {
                         document.body.classList.remove(setting.id);
                     }
@@ -3526,9 +3541,24 @@ class CSSSettingsManager {
     getSetting(sectionId, settingId) {
         return this.settings[`${sectionId}@@${settingId}`];
     }
+    getSettings(sectionId, ids) {
+        return ids.reduce((settings, id) => {
+            const fullId = `${sectionId}@@${id}`;
+            if (this.settings[fullId]) {
+                settings[fullId] = this.settings[fullId];
+            }
+            return settings;
+        }, {});
+    }
     setSetting(sectionId, settingId, value) {
         this.settings[`${sectionId}@@${settingId}`] = value;
         this.save();
+    }
+    setSettings(settings) {
+        Object.keys(settings).forEach((id) => {
+            this.settings[id] = settings[id];
+        });
+        return this.save();
     }
     clearSetting(sectionId, settingId) {
         delete this.settings[`${sectionId}@@${settingId}`];
@@ -3542,6 +3572,147 @@ class CSSSettingsManager {
             }
         });
         this.save();
+    }
+    export(section, config) {
+        new ExportModal(this.plugin.app, this.plugin, section, config).open();
+    }
+    import() {
+        new ImportModal(this.plugin.app, this.plugin).open();
+    }
+}
+class ExportModal extends obsidian.Modal {
+    constructor(app, plugin, section, config) {
+        super(app);
+        this.plugin = plugin;
+        this.config = config;
+        this.section = section;
+    }
+    onOpen() {
+        let { contentEl, modalEl } = this;
+        modalEl.addClass("modal-style-settings");
+        new obsidian.Setting(contentEl)
+            .setName(`Export settings for: ${this.section}`)
+            .then((setting) => {
+            const output = JSON.stringify(this.config, null, 2);
+            // Build a copy to clipboard link
+            setting.controlEl.createEl("a", {
+                cls: "style-settings-copy",
+                text: "Copy to clipboard",
+                href: "#",
+            }, (copyButton) => {
+                new obsidian.TextAreaComponent(contentEl)
+                    .setValue(output)
+                    .then((textarea) => {
+                    copyButton.addEventListener("click", (e) => {
+                        e.preventDefault();
+                        // Select the textarea contents and copy them to the clipboard
+                        textarea.inputEl.select();
+                        textarea.inputEl.setSelectionRange(0, 99999);
+                        document.execCommand("copy");
+                        copyButton.addClass("success");
+                        setTimeout(() => {
+                            // If the button is still in the dom, remove the success class
+                            if (copyButton.parentNode) {
+                                copyButton.removeClass("success");
+                            }
+                        }, 2000);
+                    });
+                });
+            });
+            // Build a download link
+            setting.controlEl.createEl("a", {
+                cls: "style-settings-download",
+                text: "Download",
+                attr: {
+                    download: "style-settings.json",
+                    href: `data:application/json;charset=utf-8,${encodeURIComponent(output)}`,
+                },
+            });
+        });
+    }
+    onClose() {
+        let { contentEl } = this;
+        contentEl.empty();
+    }
+}
+class ImportModal extends obsidian.Modal {
+    constructor(app, plugin) {
+        super(app);
+        this.plugin = plugin;
+    }
+    onOpen() {
+        let { contentEl, modalEl } = this;
+        modalEl.addClass("modal-style-settings");
+        new obsidian.Setting(contentEl)
+            .setName("Import style setting")
+            .setDesc("Import an entire or partial configuration. Warning: this may override existing settings");
+        new obsidian.Setting(contentEl).then((setting) => {
+            // Build an error message container
+            const errorSpan = createSpan({
+                cls: "style-settings-import-error",
+                text: "Error importing config",
+            });
+            setting.nameEl.appendChild(errorSpan);
+            // Attempt to parse the imported data and close if successful
+            const importAndClose = (str) => __awaiter(this, void 0, void 0, function* () {
+                if (str) {
+                    try {
+                        const importedSettings = JSON.parse(str);
+                        yield this.plugin.settingsManager.setSettings(importedSettings);
+                        this.plugin.settingsTab.display();
+                        this.close();
+                    }
+                    catch (e) {
+                        errorSpan.addClass("active");
+                        errorSpan.setText(`Error importing style settings: ${e}`);
+                    }
+                }
+                else {
+                    errorSpan.addClass("active");
+                    errorSpan.setText(`Error importing style settings: config is empty`);
+                }
+            });
+            // Build a file input
+            setting.controlEl.createEl("input", {
+                cls: "style-settings-import-input",
+                attr: {
+                    id: "style-settings-import-input",
+                    name: "style-settings-import-input",
+                    type: "file",
+                    accept: ".json",
+                },
+            }, (importInput) => {
+                // Set up a FileReader so we can parse the file contents
+                importInput.addEventListener("change", (e) => {
+                    const reader = new FileReader();
+                    reader.onload = (e) => __awaiter(this, void 0, void 0, function* () {
+                        yield importAndClose(e.target.result.toString().trim());
+                    });
+                    reader.readAsText(e.target.files[0]);
+                });
+            });
+            // Build a label we will style as a link
+            setting.controlEl.createEl("label", {
+                cls: "style-settings-import-label",
+                text: "Import from file",
+                attr: {
+                    for: "style-settings-import-input",
+                },
+            });
+            new obsidian.TextAreaComponent(contentEl)
+                .setPlaceholder("Paste config here...")
+                .then((ta) => {
+                new obsidian.ButtonComponent(contentEl)
+                    .setButtonText("Save")
+                    .onClick(() => __awaiter(this, void 0, void 0, function* () {
+                    yield importAndClose(ta.getValue().trim());
+                }));
+            });
+        });
+    }
+    onClose() {
+        let { contentEl } = this;
+        contentEl.empty();
     }
 }
 
@@ -3562,7 +3733,7 @@ function sanitizeText(str) {
     }
     return str.replace(/[;<>]/g, "");
 }
-function createDescription(description, def) {
+function createDescription(description, def, defLabel) {
     const fragment = createFragment();
     if (description) {
         fragment.appendChild(document.createTextNode(description));
@@ -3570,7 +3741,7 @@ function createDescription(description, def) {
     if (def) {
         const small = createEl("small");
         small.appendChild(createEl("strong", { text: "Default: " }));
-        small.appendChild(document.createTextNode(def));
+        small.appendChild(document.createTextNode(defLabel || def));
         const div = createEl("div");
         div.appendChild(small);
         fragment.appendChild(div);
@@ -3603,16 +3774,32 @@ function createHeading(opts) {
                     .onClick(opts.config.resetFn);
             });
         }
+        setting.addExtraButton((b) => {
+            b.setIcon("install")
+                .setTooltip("Export settings")
+                .then((b) => {
+                b.extraSettingsEl.onClickEvent((e) => {
+                    e.stopPropagation();
+                    const title = opts.sectionName === opts.config.title
+                        ? opts.config.title
+                        : `${opts.sectionName} > ${opts.config.title}`;
+                    opts.settingsManager.export(title, opts.settingsManager.getSettings(opts.sectionId, opts.children));
+                });
+            });
+        });
     });
 }
 function createClassToggle(opts) {
     const { sectionId, config, containerEl, settingsManager } = opts;
+    let toggleComponent;
     new obsidian.Setting(containerEl)
         .setName(config.title)
         .setDesc(config.description || "")
         .addToggle((toggle) => {
         const value = settingsManager.getSetting(sectionId, config.id);
-        toggle.setValue(value || false).onChange((value) => {
+        toggle
+            .setValue(value !== undefined ? !!value : !!config.default)
+            .onChange((value) => {
             settingsManager.setSetting(sectionId, config.id, value);
             if (value) {
                 document.body.classList.add(config.id);
@@ -3621,6 +3808,96 @@ function createClassToggle(opts) {
                 document.body.classList.remove(config.id);
             }
         });
+        toggleComponent = toggle;
+    })
+        .addExtraButton((b) => {
+        b.setIcon("reset");
+        b.onClick(() => {
+            const value = !!config.default;
+            toggleComponent.setValue(value);
+            if (value) {
+                document.body.classList.add(config.id);
+            }
+            else {
+                document.body.classList.remove(config.id);
+            }
+            settingsManager.clearSetting(sectionId, config.id);
+        });
+        b.setTooltip(resetTooltip);
+    })
+        .then((setting) => {
+        setting.settingEl.dataset.id = opts.config.id;
+    });
+}
+function createClassMultiToggle(opts) {
+    const { sectionId, config, containerEl, settingsManager } = opts;
+    let dropdownComponent;
+    if (typeof config.default !== "string") {
+        return console.error(`Error: ${config.title} missing default value`);
+    }
+    let prevValue = settingsManager.getSetting(sectionId, config.id);
+    if (prevValue === undefined && !!config.default) {
+        prevValue = config.default;
+    }
+    else if (prevValue === undefined) {
+        prevValue = "none";
+    }
+    const defaultOption = config.default
+        ? config.options.find((o) => {
+            if (typeof o === "string") {
+                return o === config.default;
+            }
+            return o.value === config.default;
+        })
+        : undefined;
+    let defaultLabel = undefined;
+    if (defaultOption && typeof defaultOption === "string") {
+        defaultLabel = defaultOption;
+    }
+    else if (defaultOption && typeof defaultOption === "object") {
+        defaultLabel = defaultOption.label;
+    }
+    new obsidian.Setting(containerEl)
+        .setName(config.title)
+        .setDesc(createDescription(config.description, config.default, defaultLabel))
+        .addDropdown((dropdown) => {
+        if (config.allowEmpty) {
+            dropdown.addOption("none", "");
+        }
+        config.options.forEach((o) => {
+            if (typeof o === "string") {
+                dropdown.addOption(o, o);
+            }
+            else {
+                dropdown.addOption(o.value, o.label);
+            }
+        });
+        dropdown.setValue(prevValue).onChange((value) => {
+            settingsManager.setSetting(sectionId, config.id, value);
+            if (value !== "none") {
+                document.body.classList.add(value);
+            }
+            if (prevValue) {
+                document.body.classList.remove(prevValue);
+            }
+            prevValue = value;
+        });
+        dropdownComponent = dropdown;
+    })
+        .addExtraButton((b) => {
+        b.setIcon("reset");
+        b.onClick(() => {
+            const value = config.default || "none";
+            dropdownComponent.setValue(config.default || "none");
+            if (value !== "none") {
+                document.body.classList.add(value);
+            }
+            if (prevValue) {
+                document.body.classList.remove(prevValue);
+            }
+            settingsManager.clearSetting(sectionId, config.id);
+        });
+        b.setTooltip(resetTooltip);
     })
         .then((setting) => {
         setting.settingEl.dataset.id = opts.config.id;
@@ -3728,12 +4005,34 @@ function createVariableSelect(opts) {
     if (typeof config.default !== "string") {
         return console.error(`Error: ${config.title} missing default value`);
     }
+    const defaultOption = config.default
+        ? config.options.find((o) => {
+            if (typeof o === "string") {
+                return o === config.default;
+            }
+            return o.value === config.default;
+        })
+        : undefined;
+    let defaultLabel = undefined;
+    if (defaultOption && typeof defaultOption === "string") {
+        defaultLabel = defaultOption;
+    }
+    else if (defaultOption && typeof defaultOption === "object") {
+        defaultLabel = defaultOption.label;
+    }
     new obsidian.Setting(containerEl)
         .setName(config.title)
-        .setDesc(createDescription(config.description, config.default))
+        .setDesc(createDescription(config.description, config.default, defaultLabel))
         .addDropdown((dropdown) => {
         const value = settingsManager.getSetting(sectionId, config.id);
-        config.options.forEach((o) => dropdown.addOption(o, o));
+        config.options.forEach((o) => {
+            if (typeof o === "string") {
+                dropdown.addOption(o, o);
+            }
+            else {
+                dropdown.addOption(o.value, o.label);
+            }
+        });
         dropdown
             .setValue(value !== undefined ? value : config.default)
             .onChange((value) => {
@@ -3816,6 +4115,10 @@ function createVariableColor(opts) {
             settingsManager.setSetting(sectionId, config.id, color.toHEXA().toString());
             instance.hide();
             instance.addSwatch(color.toHEXA().toString());
+        })
+            .on("show", () => {
+            const { result } = pickr.getRoot().interaction;
+            requestAnimationFrame(() => requestAnimationFrame(() => result.select()));
         })
             .on("cancel", onPickrCancel);
     })
@@ -3901,6 +4204,10 @@ function createVariableThemedColor(opts) {
                         ? valueLight
                         : config["default-light"],
                 }))
+                    .on("show", () => {
+                    const { result } = pickrLight.getRoot().interaction;
+                    requestAnimationFrame(() => requestAnimationFrame(() => result.select()));
+                })
                     .on("save", onSave(idLight))
                     .on("cancel", onPickrCancel);
                 new obsidian.ButtonComponent(themeWrapper.createDiv({ cls: "pickr-reset" }))
@@ -3922,6 +4229,10 @@ function createVariableThemedColor(opts) {
                         ? valueDark
                         : config["default-dark"],
                 }))
+                    .on("show", () => {
+                    const { result } = pickrDark.getRoot().interaction;
+                    requestAnimationFrame(() => requestAnimationFrame(() => result.select()));
+                })
                     .on("save", onSave(idDark))
                     .on("cancel", onPickrCancel);
                 new obsidian.ButtonComponent(themeWrapper.createDiv({ cls: "pickr-reset" }))
@@ -3940,34 +4251,58 @@ function createVariableThemedColor(opts) {
     };
 }
 function createSettings(opts) {
-    const { containerEl, sectionId, settings, settingsManager } = opts;
+    const { containerEl, sectionId, settings, settingsManager, sectionName } = opts;
     const containerStack = [containerEl];
+    const idStack = [sectionId];
     const cleanup = [];
+    const settingGroups = {
+        [sectionId]: [],
+    };
     let containerLevel = 0;
     function getTargetContainer(stack) {
         if (!stack.length)
             return containerEl;
         return stack[stack.length - 1];
     }
+    function pushId(id) {
+        idStack.forEach((containerId) => {
+            if (settingGroups[containerId]) {
+                settingGroups[containerId].push(id);
+            }
+            else {
+                settingGroups[containerId] = [id];
+            }
+        });
+    }
     settings.forEach((setting) => {
         switch (setting.type) {
             case "heading": {
                 const config = setting;
+                settingGroups[config.id] = [];
                 let targetContainer = getTargetContainer(containerStack);
                 if (config.level > containerLevel) {
                     // Nest one level
                     createHeading({
                         config,
                         containerEl: targetContainer,
+                        children: settingGroups[config.id],
+                        settingsManager,
+                        sectionName,
+                        sectionId,
                     });
                 }
                 else if (config.level === containerLevel) {
                     // Same level
                     containerStack.pop();
+                    idStack.pop();
                     targetContainer = getTargetContainer(containerStack);
                     createHeading({
                         config,
                         containerEl: targetContainer,
+                        children: settingGroups[config.id],
+                        settingsManager,
+                        sectionName,
+                        sectionId,
                     });
                 }
                 else {
@@ -3976,21 +4311,28 @@ function createSettings(opts) {
                         parseInt(containerStack[containerStack.length - 1].dataset.level) >=
                             config.level) {
                         containerStack.pop();
+                        idStack.pop();
                     }
                     targetContainer = getTargetContainer(containerStack);
                     createHeading({
                         config,
                         containerEl: targetContainer,
+                        children: settingGroups[config.id],
+                        settingsManager,
+                        sectionName,
+                        sectionId,
                     });
                 }
                 targetContainer.createDiv({ cls: "style-settings-container" }, (container) => {
                     container.dataset.level = config.level.toString();
                     containerStack.push(container);
+                    idStack.push(config.id);
                 });
                 containerLevel = config.level;
                 break;
             }
             case "class-toggle": {
+                pushId(setting.id);
                 createClassToggle({
                     sectionId,
                     config: setting,
@@ -3999,7 +4341,18 @@ function createSettings(opts) {
                 });
                 break;
             }
+            case "class-select": {
+                pushId(setting.id);
+                createClassMultiToggle({
+                    sectionId,
+                    config: setting,
+                    containerEl: getTargetContainer(containerStack),
+                    settingsManager,
+                });
+                break;
+            }
             case "variable-text": {
+                pushId(setting.id);
                 createVariableText({
                     sectionId,
                     config: setting,
@@ -4009,6 +4362,7 @@ function createSettings(opts) {
                 break;
             }
             case "variable-number": {
+                pushId(setting.id);
                 createVariableNumber({
                     sectionId,
                     config: setting,
@@ -4018,6 +4372,7 @@ function createSettings(opts) {
                 break;
             }
             case "variable-number-slider": {
+                pushId(setting.id);
                 createVariableNumberSlider({
                     sectionId,
                     config: setting,
@@ -4027,6 +4382,7 @@ function createSettings(opts) {
                 break;
             }
             case "variable-select": {
+                pushId(setting.id);
                 createVariableSelect({
                     sectionId,
                     config: setting,
@@ -4036,6 +4392,7 @@ function createSettings(opts) {
                 break;
             }
             case "variable-color": {
+                pushId(setting.id);
                 cleanup.push(createVariableColor({
                     sectionId,
                     config: setting,
@@ -4045,6 +4402,8 @@ function createSettings(opts) {
                 break;
             }
             case "variable-themed-color": {
+                // TODO: multiple ids?
+                pushId(setting.id);
                 cleanup.push(createVariableThemedColor({
                     sectionId,
                     config: setting,
@@ -8145,6 +8504,31 @@ class CSSSettingsTab extends obsidian.PluginSettingTab {
         if (settings.length === 0) {
             return this.displayEmpty();
         }
+        new obsidian.Setting(containerEl)
+            .then((setting) => {
+            // Build and import link to open the import modal
+            setting.controlEl.createEl("a", {
+                cls: "style-settings-import",
+                text: "Import",
+                href: "#",
+            }, (el) => {
+                el.addEventListener("click", (e) => {
+                    e.preventDefault();
+                    this.plugin.settingsManager.import();
+                });
+            });
+            // Build and export link to open the export modal
+            setting.controlEl.createEl("a", {
+                cls: "style-settings-export",
+                text: "Export",
+                href: "#",
+            }, (el) => {
+                el.addEventListener("click", (e) => {
+                    e.preventDefault();
+                    this.plugin.settingsManager.export("All settings", this.plugin.settingsManager.settings);
+                });
+            });
+        });
         const cleanupFns = [];
         settings.forEach((s) => {
             const options = [
@@ -8164,6 +8548,7 @@ class CSSSettingsTab extends obsidian.PluginSettingTab {
             const cleanup = createSettings({
                 containerEl,
                 sectionId: s.id,
+                sectionName: s.name,
                 settings: options,
                 settingsManager: plugin.settingsManager,
             });

@@ -10,6 +10,7 @@ embedded:
 ---
  
 ##### [[mindfullness]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+testing
 
 
 **Status**:: #EVER/SEED 

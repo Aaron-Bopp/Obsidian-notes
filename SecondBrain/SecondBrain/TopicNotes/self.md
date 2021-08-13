@@ -8,6 +8,7 @@ aliases:
 embedded:
 - [[self-improvement]]
 - [[self-image]]
+- [[self-perception]]
 ---
  
 ##### [[self]] `=length(this.file.inlinks) + length(this.file.outlinks)`
@@ -20,7 +21,7 @@ embedded:
 - [[Identity is your understanding of yourself and your interaction with the world]]
 - There are two modes of viewing yourself, [[self-perception]] and [[self-image]]
 	- ![[self-image#self-image length this file inlinks]]
-	- [[self-perception]]
+	- ![[self-perception#self-perception length this file inlinks]]
 - ![[self-improvement#self-improvement length this file inlinks]]
 - [[Is your self-talk bullying you or bodyguarding you]]
 

@@ -1,0 +1,7 @@
+### Cinderrest Sanctum
+**Tag**:: #Exandria/Locale/Wynandir/GreyingWildlands
+**Location**:: [[Greying Wildlands]]
+
+Hidden along the eastern slopes of [[Kravaraad]] is a cavern of onyx, where a pool of uncooling lava sits at the heart of the black stone grotto. Within this spacious chamber, black iron adornments and supports bear tales etched in runes. Carved reliefs depict dwarven interpretations of [[Melora]] granting stone and ore from below the ground to [[Moradin]] the [[Moradin|All-Hammer]], for him to craft into great halls and mighty guardians.
+
+This shrine has been watched over by the Dust family for generations, maintained by the offerings delivered by the reverent of [[Uthodurn]]. Those who make the pilgrimage to Cinderrest Sanctum are invited to pray to [[Melora]] and [[Moradin]], while perhaps gaining access to the Underforge, a great forge built over many decades as tribute to the partnership between the two deities. With their divine blessings, it is said that powerful artifacts with great destinies are crafted.

@@ -5,6 +5,11 @@ note-type:
 - evergreen-note
 - organizational-note
 - topic-note 
+embedded:
+- [[personal knowledge management]]
+- [[mental health]]
+- [[Neuroscience]]
+- [[Christianity]]
 ---
 
 This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[personal knowledge management]] system.
@@ -21,12 +26,22 @@ This is a constantly updated index of entry points and topics for my personal fl
 	- [[EVERGREENS]]
 	- [[EVERSPROUTS]]
 	- [[EVERSEEDS]]
+- Notes not in outline
+	- [[TOPICNOTES]]
+	- [[EVERGREENNOTES]]
+	- [[CONTENTNOTES]]
 - ![[Dataview#Get number notes with every note-type]]
 
 # Topic Outlines
-- ![[personal knowledge management#personal knowledge management length personal knowledge management file inlinks]] 
-- ![[mental health#mental health length mental health file inlinks]]
-- ![[Neuroscience#this file link length this file inlinks]]
-- ![[Christianity#this file link length this file inlinks]]
-- [[Obsidian (software)]]
-
+## <hr class="embedded"/>
+ ![[personal knowledge management#personal knowledge management length personal knowledge management file inlinks]]
+ ## <hr class="embedded"/>
+ ![[mental health#mental health length mental health file inlinks]]
+ ## <hr class="embedded"/>
+ ![[Neuroscience#this file link length this file inlinks]]
+ ## <hr class="embedded"/>
+ ![[Christianity#this file link length this file inlinks]]
+ ##
+ [[Obsidian (software)]]
+ 
+ 

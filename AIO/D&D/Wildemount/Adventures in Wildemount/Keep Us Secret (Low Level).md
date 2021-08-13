@@ -1,0 +1,6 @@
+#### Keep Us Secret (Low Level)
+**Tag**:: #Exandria/Adventure
+**Location**:: [[Vurmas]]
+**Level**:: Low Level
+
+ [[Kryn Dynasty|Kryn]] spies report that the _Bold Adventurer_, a scouting ship from the [[Dwendalian Empire]], is planning to visit the island of [[Gelier]], near [[Vurmas]]. Captain Hallwas Denalor and Norca Brighttusk don't want the _Bold Adventurer_'s crew to see [[Vurmas]] or reach [[Gelier]], ensuring that the [[Kryn Dynasty|Kryn]]'s operation in [[Eiselcross]] and the settlement of the wormkin remain secret. The pair offer the characters 500 gp to stop the _Bold Adventurer_'s approach. The _Bold Adventurer_ is a keelboat (see the Airborne and Waterborne Vehicles table in [chapter 5](https://www.dndbeyond.com/sources/dmg/adventure-environments#AirborneandWaterborneVehicles "chapter 5") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide")) that carries six [scouts](https://www.dndbeyond.com/monsters/scout). The captain of the Bold Adventurer, Sally Brizzberm, has a [sending stone](https://www.dndbeyond.com/magic-items/sending-stone) that she uses to communicate with the captain of a [[Dwendalian Empire|Dwendalian]] warship called the _Bright Queen’s Doom_. If her ship is attacked, Sally uses the stone to send a warning to the warship, which might threaten [[Vurmas]] in the future.

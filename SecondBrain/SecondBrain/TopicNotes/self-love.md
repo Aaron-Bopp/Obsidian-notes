@@ -1,24 +1,23 @@
 ---
-creation date: 2021-06-15
+creation date: 2021-07-21
 note-type: 
 - evergreen-note
 - topic-note
 aliases:
-- self-worth
-- self-esteem
+- 
 embedded:
 - 
 ---
  
 ##### [[self-love]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+---
 
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SEED 
 **Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[self-love]] `=length(this.file.inlinks)` 
-- [[Repressed identity creates a mistrust of self-love and self-esteem]]
-
+- 
 
 ### <hr class="dataviews"/>
 
@@ -51,8 +50,14 @@ const statusDict = {
 	"SEED":2
 }
 const statusLevel = (status) => {
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
+	}
+	return 0
 }
 //includes first called file as last element
 function getEmbeds(name){
@@ -98,3 +103,5 @@ statusTable("TopicNotes")
 statusTable("EvergreenNotes")
 contentNotesTable("ContentNotes")
 ```
+
+

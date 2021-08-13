@@ -1,0 +1,23 @@
+{
+  "token": "TJA3wfWPb3eWRM5UeHz9dQju11tWTEqHI5fzWFqUyqyQvQFEry",
+  "obsidianToken": "rdiuwojlcr",
+  "readwiseDir": "SecondBrain/ContentNotes",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "silentRun": false,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 1680642,
+  "currentSyncStatusID": 0,
+  "refreshBooks": true,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "SecondBrain/ContentNotes/Articles/How the System Works — The Enneagram Institute.md": "10381449",
+    "SecondBrain/ContentNotes/Articles/Type Five — The Enneagram Institute.md": "10382192",
+    "SecondBrain/ContentNotes/Articles/Type Eight — The Enneagram Institute.md": "10382273",
+    "SecondBrain/ContentNotes/Articles/Type Nine — The Enneagram Institute.md": "10382308",
+    "SecondBrain/ContentNotes/Articles/Enneagram Type 8w9 - The Diplomat.md": "10382365",
+    "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md": "10382371",
+    "SecondBrain/ContentNotes/Articles/Highlights From philosophy.ucsc.edu.md": "10384332"
+  }
+}

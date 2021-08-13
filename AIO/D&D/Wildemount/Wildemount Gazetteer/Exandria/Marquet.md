@@ -1,0 +1,11 @@
+### Marquet
+**Tag**:: #Exandria/Locale/Marquet
+**Location**:: [[Exandria]]
+
+Beyond the winds and waves to the far southwest of [[Wildemount]], across the Lucidian Ocean and the Ozmit Sea, one can find the chain of islands called the Hespet Archipelago, and, farther still, the shores of the continent of Marquet. The pebble beaches of the Bay of Gifts greet weary travelers, where the port city of Shammel offers gambling and extravagance to the traders who travel from afar.
+
+Beyond the port lie the rocky Aggrad Mountains, which spread for hundreds of miles, filled with deep chasms and endless caves housing predators lying in wait. The mountains eventually give way to the immense Marquesian Desert, whose scorching sands stretch from horizon to horizon. The overwhelming heat, deadly sandstorms, and ravenous denizens of the dunes threaten any caravan that attempts to cross these arid lands in search of any oasis of civilization.
+
+Near the center of this harsh desert, surrounded by a sprawling network of small villages, is the grand city of Ank'Harel, the center of culture, history, and power for Marquet. Ruled by the mysteriously undying J'mon Sa Ord, the streets of Ank'Harel are safe and rich with music and culture, a sharp contrast to the desolate lands that surround this metropolis. The Hands of Ord, the internal guard of the city, are guardians of the nearby villages and townships, but they can only reach so far. Farther south, the blistering sands give way to scrubland and marshes tangled with the rugged mountains that surround the smoking Suuthan Volcano and the dangerous clans that worship it.
+
+The deserts of Marquet echo a once lush landscape that housed a prominent civilization during the [[Age of Arcanum]], one that ended in terrible conflict between warring nations during the early years of [[the Calamity]]. The battles that raged here reduced the verdant lands to sand and ash, burying a multitude of secrets that factions across [[Exandria]] are willing to go to any lengths to claim.

@@ -6,6 +6,7 @@ note-type:
   topic-note
 embedded: 
 - [[My Second Brain]]
+parent: [[personal knowledge management]]
 ---
 ###### [[second brain]] 
 
@@ -32,7 +33,7 @@ A second brain is a term that refers to a system of written thought that allows 
 - Tools for constructing a Second Brain
 	- [[Obsidian (software)]]
 		- [[Dual]]
-	- Roam Research
+	- [[Roam Research]]
 	- Atom
 - Tips
 	- [[How to title your notes]]
@@ -69,8 +70,14 @@ const statusDict = {
 	"SEED":2
 }
 const statusLevel = (status) => {
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
+	}
+	return 0
 }
 //includes first called file as last element
 function getEmbeds(name){

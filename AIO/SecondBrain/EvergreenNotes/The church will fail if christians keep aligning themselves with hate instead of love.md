@@ -16,7 +16,7 @@ This is majorly due to [[the politicization of the christian church]]
 
 **Status**:: #EVER/SPROUT/WATER  
 
-**Related-Topics**:: [[poltical strategy]], [[Christianity]], 
+**Related-Topics**:: [[political strategy]], [[Christianity]], 
 	
 **Sub-Topics**::
 	
