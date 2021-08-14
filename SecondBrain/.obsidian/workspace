@@ -4,34 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "ffa39407da8a9c8d",
+        "id": "aa80f51d18455a3d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md",
+            "file": "SecondBrain/INDEX.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "9ae028d0f9eea89f",
+        "id": "122d9b4f33c25aa0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/OrganizationalNotes/TOPICNOTES.md",
+            "file": "Templates/Templates/META.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "d0bb355daece8218",
+        "id": "3c5721449587913e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/mental health.md",
+            "file": "SecondBrain/TopicNotes/Politics.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md",
+                "file": "Templates/Templates/META.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md",
+                "file": "Templates/Templates/META.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md"
+                "file": "Templates/Templates/META.md"
               }
             }
           },
@@ -128,8 +128,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md",
+                "file": "Templates/Templates/META.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -282,17 +281,17 @@
     "width": 1168,
     "collapsed": true
   },
-  "active": "ffa39407da8a9c8d",
+  "active": "122d9b4f33c25aa0",
   "lastOpenFiles": [
-    "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md",
-    "SecondBrain/EvergreenNotes/find related concepts.md",
-    "SecondBrain/TopicNotes/gender.md",
-    "SecondBrain/TopicNotes/Gender Euphoria.md",
-    "SecondBrain/TopicNotes/gender dysphoria.md",
-    "SecondBrain/INDEX.md",
-    "SecondBrain/EvergreenNotes/To be happy you need to not be sad.md",
+    "Templates/Templates/META.md",
     "Templates/Templates/TOPICNOTE.md",
-    "Templates/Templates/EGNOTE.md",
-    "Untitled.md"
+    "SecondBrain/TopicNotes/my parents.md",
+    "SecondBrain/TopicNotes/my emotions.md",
+    "SecondBrain/TopicNotes/business.md",
+    "SecondBrain/TopicNotes/fairness.md",
+    "SecondBrain/INDEX.md",
+    "SecondBrain/TopicNotes/mental health.md",
+    "SecondBrain/TopicNotes/neurodivergency.md",
+    "SecondBrain/OrganizationalNotes/TOPICNOTES.md"
   ]
 }

@@ -16,7 +16,7 @@ The modern church is focused on building a [[counter-culture]] movement that is 
 
 **Status**:: #EVER/SPROUT 
 
-**Related-Topics**:: [[politics]], [[Christianity]]
+**Related-Topics**:: [[Politics]], [[Christianity]]
 	
 **Last Edited**:: *`=[[the politicization of the christian church]].file.mtime`*
 

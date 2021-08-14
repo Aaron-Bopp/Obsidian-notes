@@ -538,11 +538,11 @@ Unit 3
 
 -   Darwin --
 
-    -   [[Natural selection]] -- over time desirable traits in a population increases
+    -   [[natural selection]] -- over time desirable traits in a population increases
 
     -   "Descent with modification" -- [[evolution]] via [[natural selection]], new species formed as populations change
 
--   [[Natural Selection]] observations
+-   [[natural selection]] observations
 
     -   Over-production - produce more than can survive
 
@@ -646,7 +646,7 @@ Unit 3
 
         -   Mutations -- changes in DNA, only significant across entire genome and population
 
-        -   [[Natural selection]]
+        -   [[natural selection]]
 
             -   Fitness -- how many offspring you produce
 

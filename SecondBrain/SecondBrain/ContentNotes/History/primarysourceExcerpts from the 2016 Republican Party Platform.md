@@ -12,7 +12,7 @@ bib:
 ---
 
 ###### [[Excerpts from the 2016 Republican Party Platform]]
-**Related-Topics**:: [[politics]]
+**Related-Topics**:: [[Politics]]
 
 **Last Edited**:: *`=this.file.mtime`*
 
@@ -145,7 +145,7 @@ The federal fiscal burden threatens the security, liberty, and independence of o
 
 ...To preserve Medicare and Medicaid, the financing of these important programs must be brought under control before they consume most of the federal budget, including national defense...
 
-We reject the old maxim that Social Security is the 'third rail' of American [[politics]], deadly for anyone who would change it... Of the many reforms being proposed, all options should be considered to preserve Social Security. As Republicans, we oppose tax increases and believe the power of [[markets]] to create wealth and to help secure the future of our Social Security system...
+We reject the old maxim that Social Security is the 'third rail' of American [[Politics]], deadly for anyone who would change it... Of the many reforms being proposed, all options should be considered to preserve Social Security. As Republicans, we oppose tax increases and believe the power of [[markets]] to create wealth and to help secure the future of our Social Security system...
 
 **Regulation: The Quiet [[Tyranny]]**
 

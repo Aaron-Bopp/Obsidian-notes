@@ -119,7 +119,7 @@ Type: Discussion
         1. The Black Belt population doubled during the [[war]] with no new housing.
         2. "The Black Belt of Chicago is probably the strongest effective unit of political power, good or bad, in [[America]]" (Page 2)
         3. A group of mixed nationalities races proclaimed that they were opposed to violence between white and black union members.
-    - The radical factors in any racial situation in an American city are housing, [[politics]] and [[war]] pyschology, and organization of labor (page 2
+    - The radical factors in any racial situation in an American city are housing, [[Politics]] and [[war]] pyschology, and organization of labor (page 2
 - Document 5
 
     [Birmingham Article]

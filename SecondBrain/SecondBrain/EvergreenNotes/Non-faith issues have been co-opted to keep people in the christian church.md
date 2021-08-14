@@ -13,7 +13,7 @@ note-type:
 
 Be in the world not of the world because if you are of the world you start believing worldly things like evolution and that people who don't believe the same thing as me aren't inherently inferior
 
-The main benefit from doing this comes down to [[politics]] and [[the politicization of the christian church]]
+The main benefit from doing this comes down to [[Politics]] and [[the politicization of the christian church]]
 
 To people who believe [[The bible is god breathed]], this propaganda can be very confusing, because it is often supported by scripture, but the beliefs are obviously against the teaching of Jesus Christ ([[Jesus' teachings are anti-thetical to the modern christian church]]). It is hard to understand why the bible would be so confusing if it is "[[The bible is god breathed | god breathed.]]"
 
@@ -21,7 +21,7 @@ To people who believe [[The bible is god breathed]], this propaganda can be very
 
 **Status**:: #EVER/SPROUT/WATER  
 
-**Related-Topics**:: [[Christianity]], [[poltical strategy]], [[Deconstruction (Christianity)]]
+**Related-Topics**:: [[Christianity]], [[political strategy]], [[Deconstruction (Christianity)]]
 	
 **Sub-Topics**:: [[faith]], [[belief systems]]
 	

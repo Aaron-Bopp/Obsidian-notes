@@ -16,7 +16,7 @@ aliases:
 
 **Status**:: #EVER/SEED
 
-**Related Topics**:: [[politics]], [[economy]]
+**Related Topics**:: [[Politics]], [[economy]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

@@ -13,7 +13,7 @@ The only significant change that I see is in the ethnic makeup of [[America]]. A
 
 **Status**:: #EVER/SEED
 
-**Related Topics**:: [[America]], [[politics]], [[racism]], [[political strategy]]
+**Related Topics**:: [[America]], [[Politics]], [[racism]], [[political strategy]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

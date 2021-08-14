@@ -17,6 +17,6 @@ McCarthy's attack on [[Communism]] is an integral foundation for [[Reagan]]'s pr
 
 **Status**:: #EVER/GREEN/PRUNE  
 
-**Related Topics**:: [[America]], [[politics]], [[Communism]], 
+**Related Topics**:: [[America]], [[Politics]], [[Communism]], 
 	
 **Last Edited**:: *`=this.file.mtime`*

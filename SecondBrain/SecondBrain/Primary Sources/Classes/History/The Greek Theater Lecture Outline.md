@@ -1,6 +1,6 @@
 -   **Key Questions**
 
-    -   In what ways did tragedy and comedy comment on Athenian life and [[politics]]?
+    -   In what ways did tragedy and comedy comment on Athenian life and [[Politics]]?
 
     -   How did tragedy allow Greeks to explore the tensions in society?
 

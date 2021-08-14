@@ -17,7 +17,7 @@ While Yang's presidential run can only be said to have had a net positive effect
 
 **Status**:: #EVER/SPROUT/CULTIVATE 
 
-**Related-Topics**:: [[political strategy]], [[politics]]
+**Related-Topics**:: [[political strategy]], [[Politics]]
 	
 **Sub-Topics**::
 	

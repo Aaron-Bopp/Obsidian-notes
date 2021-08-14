@@ -46,7 +46,7 @@
 
     a.  Emergence ca. 2000 BCE -- Minoans are not Greek, myceans are.
 
-    b.  Palace Cultures -- palace is center for [[politics]], [[economy|economics]] and [[religion]]
+    b.  Palace Cultures -- palace is center for [[Politics]], [[economy|economics]] and [[religion]]
 
         i.  Hereditary monarchies -- mycean farm more patriarchal
 

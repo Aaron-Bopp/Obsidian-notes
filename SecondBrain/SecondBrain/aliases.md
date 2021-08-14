@@ -1273,7 +1273,7 @@
 
 [[political strategy]]:
 
-[[politics]]:
+[[Politics]]:
 
 [[poverty]]:
 

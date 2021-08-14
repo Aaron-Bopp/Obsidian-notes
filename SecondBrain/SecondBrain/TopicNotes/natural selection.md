@@ -1,5 +1,5 @@
 ---
-creation date: 2021-07-30
+creation date: 2021-07-21
 note-type: 
 - evergreen-note
 - topic-note
@@ -9,13 +9,14 @@ embedded:
 - 
 ---
  
-##### [[supply-side economics]] `=length(this.file.inlinks) + length(this.file.outlinks)`
-This is the belief that reducing tax rates across the board will allow for more spending and investment and thus more job creation. While this is true for tax cuts on the lower class, who will spend any additional money in the [[economy]], it is not true for the tax cuts of the higher class which will hoard their wealth beyond reason.
+##### [[natural selection]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+		.where(p => p.file.outlinks.length <= 1)
+
 
 **Status**:: #EVER/SEED 
-**Related-Topics**:: [[economy]], [[Politics]], [[Reagan]]
+**Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
-##### [[supply-side economics]] `=length(this.file.inlinks)` 
+##### [[natural selection]] `=length(this.file.inlinks)` 
 - 
 
 ### <hr class="dataviews"/>
@@ -49,8 +50,14 @@ const statusDict = {
 	"SEED":2
 }
 const statusLevel = (status) => {
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
+	}
+	return 0
 }
 //includes first called file as last element
 function getEmbeds(name){
@@ -98,4 +105,3 @@ contentNotesTable("ContentNotes")
 ```
 
 
-### <hr class="references"/>

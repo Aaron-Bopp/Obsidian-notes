@@ -1,22 +1,39 @@
 ---
-creation date: 2021-07-30
+creation date: 2021-08-13
 note-type: 
 - evergreen-note
 - topic-note
 aliases:
 - 
 embedded:
-- 
+- [[Rise of Conspiracy Culture]]
+- [[Rise of Modern Conservatism]]
+- [[Rise of Misinformation in America]]
+- [[political strategy]]
 ---
  
-##### [[supply-side economics]] `=length(this.file.inlinks) + length(this.file.outlinks)`
-This is the belief that reducing tax rates across the board will allow for more spending and investment and thus more job creation. While this is true for tax cuts on the lower class, who will spend any additional money in the [[economy]], it is not true for the tax cuts of the higher class which will hoard their wealth beyond reason.
+##### [[Politics]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+
+
 
 **Status**:: #EVER/SEED 
-**Related-Topics**:: [[economy]], [[Politics]], [[Reagan]]
+**Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
-##### [[supply-side economics]] `=length(this.file.inlinks)` 
-- 
+##### [[Politics]] `=length(this.file.inlinks)` 
+- How did we get to where we are today?
+	- ![[Rise of Misinformation in America#Rise of Misinformation in America length this file inlinks]]
+	- ![[Rise of Conspiracy Culture#Rise of Conspiracy Culture length this file inlinks]]
+	- ![[Rise of Modern Conservatism#Rise of Modern Conservatism length this file inlinks]]
+- Where did we come from?
+	- [[First Amendment rights impacts groups not individuals]]
+	- [[Most rights were denied to Americans at its founding]]
+	- [[Nixon paved the way for Reagan]]
+- What is the goal?
+	- [[Communism]]
+- How do we get there?
+	- [[political strategy#political strategy length this file inlinks]]
+	- [[Anger fuels change]]
+	- [[Hope is always worth fighting for]]
 
 ### <hr class="dataviews"/>
 
@@ -49,8 +66,14 @@ const statusDict = {
 	"SEED":2
 }
 const statusLevel = (status) => {
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
+	}
+	return 0
 }
 //includes first called file as last element
 function getEmbeds(name){
@@ -98,4 +121,3 @@ contentNotesTable("ContentNotes")
 ```
 
 
-### <hr class="references"/>

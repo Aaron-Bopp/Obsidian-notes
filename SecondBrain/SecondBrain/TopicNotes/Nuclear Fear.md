@@ -1,5 +1,5 @@
 ---
-creation date: 2021-07-18
+creation date: 2021-07-21
 note-type: 
 - evergreen-note
 - topic-note
@@ -9,13 +9,13 @@ embedded:
 - 
 ---
  
-##### [[poltical strategy]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+##### [[Nuclear Fear]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 
 **Status**:: #EVER/SEED 
-**Related-Topics**::  
+**Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
-##### [[poltical strategy]] `=length(this.file.inlinks)` 
+##### [[Nuclear Fear]] `=length(this.file.inlinks)` 
 - 
 
 ### <hr class="dataviews"/>
@@ -49,8 +49,14 @@ const statusDict = {
 	"SEED":2
 }
 const statusLevel = (status) => {
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
+	}
+	return 0
 }
 //includes first called file as last element
 function getEmbeds(name){
@@ -98,4 +104,3 @@ contentNotesTable("ContentNotes")
 ```
 
 
-### <hr class="references"/>

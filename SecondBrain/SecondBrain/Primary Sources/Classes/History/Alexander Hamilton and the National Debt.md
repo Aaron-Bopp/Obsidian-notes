@@ -46,7 +46,7 @@ Book examining the ways that public [[debt]] affects the populace of a nation an
 
 Slemrod, Joel. \"Is This Tax [[Reform]], or Just Confusion?\" *The [[Journal]] of Economic Perspectives* 32, no. 4 (2018): 73-96. Accessed January 27, 2020. [www.jstor.org/stable/26513497](http://www.jstor.org/stable/26513497).
 
-[[Journal]] article examining the [[politics]] of the 2017 Tax Cuts and Jobs Act in relation to the history of tax [[reform]].
+[[Journal]] article examining the [[Politics]] of the 2017 Tax Cuts and Jobs Act in relation to the history of tax [[reform]].
 
 Yared, Pierre. \"Rising [[Government]] [[Debt]]: Causes and Solutions for a Decades-Old Trend.\" *The [[Journal]] of Economic Perspectives* 33, no. 2 (2019): 115-40. Accessed January 27, 2020. www.jstor.org/stable/26621242.
 

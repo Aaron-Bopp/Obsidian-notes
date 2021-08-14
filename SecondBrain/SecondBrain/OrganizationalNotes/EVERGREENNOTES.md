@@ -66,7 +66,7 @@ function notLinkedPages(folder) {
 
 let pages = dv.array(notLinkedPages('EvergreenNotes'))
 if (pages.length > 0) {
-	dv.table(['Topic Seeds', "I/O", "Status", "Edited", "Created"], 
+	dv.table(['', "I/O", "Status", "Edited", "Created"], 
 		pages
 		.sort(p => p.file.outlinks.length + p.file.inlinks.length, 'desc')
 		.map(p => [p.file.link, getIO(p.file), p.status, p.file.mtime, formatDate(p["creation date"])]))
