@@ -42,7 +42,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/self.md",
+            "file": "SecondBrain/ContentNotes/Articles/Race Talk Engaging Young People in Conversations About Race and Racism.md",
             "mode": "source"
           }
         }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/self.md",
+                "file": "SecondBrain/ContentNotes/Articles/Race Talk Engaging Young People in Conversations About Race and Racism.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/self.md",
+                "file": "SecondBrain/ContentNotes/Articles/Race Talk Engaging Young People in Conversations About Race and Racism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/TopicNotes/self.md"
+                "file": "SecondBrain/ContentNotes/Articles/Race Talk Engaging Young People in Conversations About Race and Racism.md"
               }
             }
           },
@@ -139,8 +139,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/self.md",
+                "file": "SecondBrain/ContentNotes/Articles/Race Talk Engaging Young People in Conversations About Race and Racism.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -295,6 +294,7 @@
   },
   "active": "c3cc1f60bde49ead",
   "lastOpenFiles": [
+    "SecondBrain/ContentNotes/Articles/Race Talk Engaging Young People in Conversations About Race and Racism.md",
     "SecondBrain/TopicNotes/self.md",
     "SecondBrain/TopicNotes/identity.md",
     "SecondBrain/TopicNotes/self-love.md",
@@ -303,7 +303,6 @@
     "SecondBrain/TopicNotes/self-actualization.md",
     "SecondBrain/TopicNotes/self-improvement.md",
     "SecondBrain/TopicNotes/self-image.md",
-    "SecondBrain/EvergreenNotes/Avoidance IS the most-efficient way of dealing with emotion.md",
-    "SecondBrain/TopicNotes/trauma.md"
+    "SecondBrain/EvergreenNotes/Avoidance IS the most-efficient way of dealing with emotion.md"
   ]
 }

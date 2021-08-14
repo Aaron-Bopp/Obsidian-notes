@@ -2,3 +2,7 @@
 *.bin
 
 
+SecondBrain/.obsidian/*
+SecondBrain/.obsidian/*/*/*
+*.json
+SecondBrain/.obsidian/workspace
