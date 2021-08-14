@@ -1,35 +1,23 @@
 ---
-creation date: 2021-08-08
+creation date: 2021-08-13
 note-type: 
 - evergreen-note
 - topic-note
 aliases:
 - 
 embedded:
-- [[gender dysphoria]]
-- [[Gender Euphoria]]
+- 
 ---
  
-##### [[gender]] `=length(this.file.inlinks) + length(this.file.outlinks)`
-
-> **Gender** - The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or [[gender identity]] (the personal sense of one's own gender).
-> [[1 What is Gender]]
-
-> Gender is part social construct, part learned behaviors, and part biological processes which form very early in a person’s life.
-> [[1 What is Gender]]
+##### [[Autism]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 
-**Status**:: #EVER/GREEN/GROWING  
-**Related-Topics**:: [[self]], [[mental health]], [[personality]]
+**Status**:: #EVER/SEED 
+**Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
-##### [[gender]] `=length(this.file.inlinks)` 
-- [[Every person has an experience of gender]]
-	- [[Gender is both an intrinsic experience and an necessary expression]]
-	- [[Any experience of gender is acceptable]]
-- [[Gender has a scientific basis]]
-	- [[Sex conists of phenotype genotype and gender]]
-- ![[gender dysphoria#gender dysphoria length this file inlinks]]
-- ![[Gender Euphoria#Gender Euphoria length this file inlinks]]
+##### [[Autism]] `=length(this.file.inlinks)` 
+- 
+
 ### <hr class="dataviews"/>
 
 #### Notes not yet in outline

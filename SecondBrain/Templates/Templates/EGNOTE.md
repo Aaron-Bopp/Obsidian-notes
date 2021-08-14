@@ -1,4 +1,4 @@
-<%* if (tp.file.folder !== "SecondBrain/EvergreenNotes"){tp.file.move("SecondBrain/EvergreenNotes/" + tp.file.title)}%><% tp.file.include("[[META]]") %>
+<% tp.file.include("[[META]]") %>
 note-type: 
 - evergreen-note
 aliases:

@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "991ea9ce2b114844",
+        "id": "ffa39407da8a9c8d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/self-actualization.md",
+            "file": "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "9ae028d0f9eea89f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/OrganizationalNotes/TOPICNOTES.md",
+            "mode": "source"
           }
         }
       },
@@ -50,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "you trauma",
+                "query": "\"autism 1\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/self-actualization.md",
+                "file": "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -82,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/self-actualization.md",
+                "file": "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/TopicNotes/self-actualization.md"
+                "file": "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md"
               }
             }
           },
@@ -117,7 +128,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/self-actualization.md",
+                "file": "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -270,17 +282,17 @@
     "width": 1168,
     "collapsed": true
   },
-  "active": "991ea9ce2b114844",
+  "active": "ffa39407da8a9c8d",
   "lastOpenFiles": [
-    "SecondBrain/TopicNotes/self-actualization.md",
-    "SecondBrain/TopicNotes/ego.md",
+    "SecondBrain/OrganizationalNotes/EVERGREENNOTES.md",
+    "SecondBrain/EvergreenNotes/find related concepts.md",
+    "SecondBrain/TopicNotes/gender.md",
+    "SecondBrain/TopicNotes/Gender Euphoria.md",
+    "SecondBrain/TopicNotes/gender dysphoria.md",
     "SecondBrain/INDEX.md",
-    "SecondBrain/TopicNotes/subconscious.md",
-    "SecondBrain/ContentNotes/Articles/Race Talk Engaging Young People in Conversations About Race and Racism.md",
-    "SecondBrain/TopicNotes/self.md",
-    "SecondBrain/TopicNotes/identity.md",
-    "SecondBrain/TopicNotes/self-love.md",
-    "SecondBrain/TopicNotes/mental health.md",
-    "SecondBrain/TopicNotes/self-improvement.md"
+    "SecondBrain/EvergreenNotes/To be happy you need to not be sad.md",
+    "Templates/Templates/TOPICNOTE.md",
+    "Templates/Templates/EGNOTE.md",
+    "Untitled.md"
   ]
 }
