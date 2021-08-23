@@ -4,7 +4,8 @@ note-type:
 - evergreen-note
 - topic-note
 aliases:
-- 
+- self-care
+- self-validation
 embedded:
 - 
 ---

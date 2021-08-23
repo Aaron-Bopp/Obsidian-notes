@@ -6187,7 +6187,6 @@ const TRAIL_ICON = "breadcrumbs-trail-icon";
 const TRAIL_ICON_SVG = '<path fill="currentColor" stroke="currentColor" d="M48.8,4c-6,0-13.5,0.5-19.7,3.3S17.9,15.9,17.9,25c0,5,2.6,9.7,6.1,13.9s8.1,8.3,12.6,12.3s9,7.8,12.2,11.5 c3.2,3.7,5.1,7.1,5.1,10.2c0,14.4-13.4,19.3-13.4,19.3c-0.7,0.2-1.2,0.8-1.3,1.5s0.1,1.4,0.7,1.9c0.6,0.5,1.3,0.6,2,0.3 c0,0,16.1-6.1,16.1-23c0-4.6-2.6-8.8-6.1-12.8c-3.5-4-8.1-7.9-12.6-11.8c-4.5-3.9-8.9-7.9-12.2-11.8c-3.2-3.9-5.2-7.7-5.2-11.4 c0-7.8,3.6-11.6,8.8-14S43,8,48.8,8c4.6,0,9.3,0,11,0c0.7,0,1.4-0.4,1.7-1c0.3-0.6,0.3-1.4,0-2s-1-1-1.7-1C58.3,4,53.4,4,48.8,4 L48.8,4z M78.1,4c-0.6,0-1.2,0.2-1.6,0.7l-8.9,9.9c-0.5,0.6-0.7,1.4-0.3,2.2c0.3,0.7,1,1.2,1.8,1.2h0.1l-2.8,2.6 c-0.6,0.6-0.8,1.4-0.5,2.2c0.3,0.8,1,1.3,1.9,1.3h1.3l-4.5,4.6c-0.6,0.6-0.7,1.4-0.4,2.2c0.3,0.7,1,1.2,1.8,1.2h10v4 c0,0.7,0.4,1.4,1,1.8c0.6,0.4,1.4,0.4,2,0c0.6-0.4,1-1,1-1.8v-4h10c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.1-1.6-0.4-2.2L86.9,24h1.3 c0.8,0,1.6-0.5,1.9-1.3c0.3-0.8,0.1-1.6-0.5-2.2l-2.8-2.6h0.1c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.2-1.6-0.3-2.2l-8.9-9.9 C79.1,4.3,78.6,4,78.1,4L78.1,4z M78,9l4.4,4.9h-0.7c-0.8,0-1.6,0.5-1.9,1.3c-0.3,0.8-0.1,1.6,0.5,2.2l2.8,2.6h-1.1 c-0.8,0-1.5,0.5-1.8,1.2c-0.3,0.7-0.1,1.6,0.4,2.2l4.5,4.6H70.8l4.5-4.6c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-1.1 l2.8-2.6c0.6-0.6,0.8-1.4,0.5-2.2c-0.3-0.8-1-1.3-1.9-1.3h-0.7L78,9z M52.4,12c-4.1,0-7.1,0.5-9.4,1.5c-2.3,1-3.8,2.5-4.5,4.3 c-0.7,1.8-0.5,3.6,0.1,5.2c0.6,1.5,1.5,2.9,2.5,3.9c5.4,5.4,18.1,12.6,29.6,21c5.8,4.2,11.2,8.6,15.1,13c3.9,4.4,6.2,8.7,6.2,12.4 c0,14.5-12.9,18.7-12.9,18.7c-0.7,0.2-1.2,0.8-1.4,1.5s0.1,1.5,0.7,1.9c0.6,0.5,1.3,0.6,2,0.3c0,0,15.6-5.6,15.6-22.5 c0-5.3-2.9-10.3-7.2-15.1C84.6,53.6,79,49,73.1,44.7c-11.8-8.6-24.8-16.3-29.2-20.6c-0.6-0.6-1.2-1.5-1.6-2.4 c-0.3-0.9-0.4-1.7-0.1-2.4c0.3-0.7,0.8-1.4,2.3-2c1.5-0.7,4.1-1.2,7.8-1.2c4.9,0,9.4,0.1,9.4,0.1c0.7,0,1.4-0.3,1.8-1 c0.4-0.6,0.4-1.4,0-2.1c-0.4-0.6-1.1-1-1.8-1C61.9,12.1,57.3,12,52.4,12L52.4,12z M24,46c-0.5,0-1.1,0.2-1.4,0.6L9.2,60.5 c-0.6,0.6-0.7,1.4-0.4,2.2c0.3,0.7,1,1.2,1.8,1.2h3l-6.5,6.8c-0.6,0.6-0.7,1.4-0.4,2.2s1,1.2,1.8,1.2H13l-8.5,8.6 C4,83.2,3.8,84,4.2,84.8C4.5,85.5,5.2,86,6,86h16v5.4c0,0.7,0.4,1.4,1,1.8c0.6,0.4,1.4,0.4,2,0c0.6-0.4,1-1,1-1.8V86h16 c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.1-1.6-0.4-2.2L35,74h4.4c0.8,0,1.5-0.5,1.8-1.2s0.2-1.6-0.4-2.2l-6.5-6.8h3 c0.8,0,1.5-0.5,1.8-1.2c0.3-0.7,0.2-1.6-0.4-2.2L25.4,46.6C25.1,46.2,24.5,46,24,46L24,46z M24,50.9l8.7,9h-3 c-0.8,0-1.5,0.5-1.8,1.2s-0.2,1.6,0.4,2.2l6.5,6.8h-4.5c-0.8,0-1.5,0.5-1.8,1.2c-0.3,0.7-0.1,1.6,0.4,2.2l8.5,8.6H10.8l8.5-8.6 c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-4.5l6.5-6.8c0.6-0.6,0.7-1.4,0.4-2.2c-0.3-0.7-1-1.2-1.8-1.2h-3L24,50.9z"/>';
 const splitLinksRegex = new RegExp(/\[\[(.+?)\]\]/g);
 const dropHeaderOrAlias = new RegExp(/\[\[([^#|]+)\]\]/);
-const DATAVIEW_INDEX_DELAY = 3000;
 const VISTYPES = [
     "Force Directed Graph",
     "Tidy Tree",
@@ -6261,8 +6260,20 @@ function superDebug(settings, log) {
         console.log(log);
     }
 }
+function debugGroupStart(settings, type, group) {
+    if (settings[type]) {
+        console.groupCollapsed(group);
+    }
+}
+function debugGroupEnd(settings, type) {
+    if (settings[type]) {
+        console.groupEnd();
+    }
+}
 function getDVMetadataCache(app, settings, files) {
+    debugGroupStart(settings, "debugMode", "getDVMetadataCache");
     debug(settings, "Using Dataview");
+    debugGroupStart(settings, "superDebugMode", "dvCaches");
     const fileFrontmatterArr = [];
     files.forEach((file) => {
         superDebug(settings, `GetDVMetadataCache: ${file.basename}`);
@@ -6270,11 +6281,15 @@ function getDVMetadataCache(app, settings, files) {
         superDebug(settings, { dvCache });
         fileFrontmatterArr.push(dvCache);
     });
+    debugGroupEnd(settings, "superDebugMode");
     debug(settings, { fileFrontmatterArr });
+    debugGroupEnd(settings, "debugMode");
     return fileFrontmatterArr;
 }
 function getObsMetadataCache(app, settings, files) {
+    debugGroupStart(settings, "debugMode", "getObsMetadataCache");
     debug(settings, "Using Obsidian");
+    debugGroupStart(settings, "superDebugMode", "obsCaches");
     const fileFrontmatterArr = [];
     files.forEach((file) => {
         var _a;
@@ -6288,22 +6303,28 @@ function getObsMetadataCache(app, settings, files) {
             fileFrontmatterArr.push({ file });
         }
     });
+    debugGroupEnd(settings, "superDebugMode");
     debug(settings, { fileFrontmatterArr });
+    debugGroupEnd(settings, "debugMode");
     return fileFrontmatterArr;
 }
 // TODO I think it'd be better to do this whole thing as an obj instead of JugglLink[]
 // => {[note: string]: {type: string, linksInLine: string[]}[]}
 async function getJugglLinks(app, settings) {
+    debugGroupStart(settings, "debugMode", "getJugglLinks");
+    debug(settings, "Using Juggl");
     const files = app.vault.getMarkdownFiles();
+    const { userHierarchies } = settings;
     // Add Juggl links
     const typedLinksArr = await Promise.all(files.map(async (file) => {
         var _a, _b;
         const jugglLink = { note: file.basename, links: [] };
         // Use Obs metadatacache to get the links in the current file
         const links = (_b = (_a = app.metadataCache.getFileCache(file)) === null || _a === void 0 ? void 0 : _a.links) !== null && _b !== void 0 ? _b : [];
+        // TODO Only get cachedRead if links.length
         const content = await app.vault.cachedRead(file);
         links.forEach((link) => {
-            var _a, _b, _c, _d, _e;
+            var _a, _b, _c, _d, _e, _f, _g;
             // Get the line no. of each link
             const lineNo = link.position.start.line;
             // And the corresponding line content
@@ -6311,9 +6332,21 @@ async function getJugglLinks(app, settings) {
             // Get an array of inner text of each link
             const linksInLine = (_c = (_b = (_a = line
                 .match(splitLinksRegex)) === null || _a === void 0 ? void 0 : _a.map((link) => link.slice(2, link.length - 2))) === null || _b === void 0 ? void 0 : _b.map((innerText) => innerText.split("|")[0])) !== null && _c !== void 0 ? _c : [];
-            const parsedLinks = parseTypedLink(link, line, "-");
+            const typedLinkPrefix = (_e = (_d = app.plugins.plugins.juggl) === null || _d === void 0 ? void 0 : _d.settings.typedLinkPrefix) !== null && _e !== void 0 ? _e : "-";
+            const parsedLinks = parseTypedLink(link, line, typedLinkPrefix);
+            const type = (_g = (_f = parsedLinks === null || parsedLinks === void 0 ? void 0 : parsedLinks.properties) === null || _f === void 0 ? void 0 : _f.type) !== null && _g !== void 0 ? _g : "";
+            let typeDir = "";
+            DIRECTIONS.forEach((dir) => {
+                userHierarchies.forEach((hier) => {
+                    if (hier[dir].includes(type)) {
+                        typeDir = dir;
+                        return;
+                    }
+                });
+            });
             jugglLink.links.push({
-                type: (_e = (_d = parsedLinks === null || parsedLinks === void 0 ? void 0 : parsedLinks.properties) === null || _d === void 0 ? void 0 : _d.type) !== null && _e !== void 0 ? _e : "",
+                dir: typeDir,
+                type,
                 linksInLine,
             });
         });
@@ -6322,67 +6355,86 @@ async function getJugglLinks(app, settings) {
     debug(settings, { typedLinksArr });
     const allFields = settings.userHierarchies
         .map((hier) => Object.values(hier))
-        .flat()
+        .flat(2)
         .filter((field) => field !== "");
     typedLinksArr.forEach((jugglLink) => {
-        if (jugglLink.links.length) {
-            // Filter out links whose type is not in allFields
-            // TODO This could probably be done better with filter?
-            const fieldTypesOnly = [];
-            jugglLink.links.forEach((link) => {
-                if (allFields.includes(link.type)) {
-                    fieldTypesOnly.push(link);
-                }
-            });
-            // I don't remember why I'm mutating the links instead of making a new obj
-            jugglLink.links = fieldTypesOnly;
-        }
+        // Filter out links whose type is not in allFields
+        const fieldTypesOnly = jugglLink.links.filter((link) => allFields.includes(link.type));
+        // // const fieldTypesOnly = [];
+        // jugglLink.links.forEach((link) => {
+        //   if (allFields.includes(link.type)) {
+        //     fieldTypesOnly.push(link);
+        //   }
+        // });
+        // I don't remember why I'm mutating the links instead of making a new obj
+        jugglLink.links = fieldTypesOnly;
     });
     // Filter out the juggl links with no links
-    const filteredLinks = typedLinksArr.filter((link) => !!link.links.length);
+    const filteredLinks = typedLinksArr.filter((jugglLink) => jugglLink.links.length);
     debug(settings, { filteredLinks });
+    debugGroupEnd(settings, "debugMode");
     return filteredLinks;
 }
 function getFieldValues(frontmatterCache, field, settings) {
     var _a;
     const values = [];
     try {
-        const rawValues = [
-            frontmatterCache === null || frontmatterCache === void 0 ? void 0 : frontmatterCache[field],
-        ].flat(5);
-        superDebug(settings, `${field} of: ${(_a = frontmatterCache === null || frontmatterCache === void 0 ? void 0 : frontmatterCache.file) === null || _a === void 0 ? void 0 : _a.path}`);
-        superDebug(settings, { rawValues });
-        rawValues.forEach((rawItem) => {
-            if (!rawItem)
-                return;
-            if (typeof rawItem === "string") {
-                const splits = rawItem.match(splitLinksRegex);
-                if (splits !== null) {
-                    const strs = splits
-                        .map((link) => link.match(dropHeaderOrAlias)[1])
-                        .map((str) => str.split("/").last());
-                }
-                else {
-                    values.push(rawItem.split("/").last());
-                }
+        const rawValuesPreFlat = frontmatterCache === null || frontmatterCache === void 0 ? void 0 : frontmatterCache[field];
+        if (typeof rawValuesPreFlat === "string") {
+            const splits = rawValuesPreFlat.match(splitLinksRegex);
+            if (splits !== null) {
+                const strs = splits.map((link) => link.match(dropHeaderOrAlias)[1].split("/").last());
+                values.push(...strs);
             }
-            else if (rawItem.path) {
-                values.push(rawItem.path.split("/").last());
-            }
-        });
+            // else {
+            //    Dont't add anything, it's not a link
+            // }
+        }
+        else {
+            const rawValues = [rawValuesPreFlat].flat(4);
+            superDebug(settings, `${field} of: ${(_a = frontmatterCache === null || frontmatterCache === void 0 ? void 0 : frontmatterCache.file) === null || _a === void 0 ? void 0 : _a.path}`);
+            superDebug(settings, rawValues);
+            rawValues.forEach((rawItem) => {
+                if (!rawItem)
+                    return;
+                if (typeof rawItem === "string" || typeof rawItem === "number") {
+                    // Obs cache converts link of form: [[\d+]] to number[][]
+                    const rawItemAsString = rawItem.toString();
+                    const splits = rawItemAsString.match(splitLinksRegex);
+                    if (splits !== null) {
+                        const strs = splits.map((link) => link.match(dropHeaderOrAlias)[1].split("/").last());
+                        values.push(...strs);
+                    }
+                    else {
+                        values.push(rawItemAsString.split("/").last());
+                    }
+                }
+                else if (rawItem.path) {
+                    values.push(rawItem.path.split("/").last());
+                }
+            });
+        }
         return values;
     }
     catch (error) {
+        console.log(error);
         return values;
     }
 }
 const splitAndTrim = (fields) => fields.split(",").map((str) => str.trim());
 async function getNeighbourObjArr(plugin, fileFrontmatterArr) {
-    const { userHierarchies } = plugin.settings;
-    if (plugin.app.plugins.plugins.juggl !== undefined) {
-        await getJugglLinks(plugin.app, plugin.settings);
+    const { settings } = plugin;
+    const { userHierarchies } = settings;
+    if (settings.debugMode || settings.superDebugMode) {
+        console.groupCollapsed("getNeighbourObjArr");
+    }
+    let jugglLinks = [];
+    if (plugin.app.plugins.plugins.juggl !== undefined ||
+        plugin.settings.parseJugglLinksWithoutJuggl) {
+        jugglLinks = await getJugglLinks(plugin.app, plugin.settings);
     }
     const neighbourObjArr = fileFrontmatterArr.map((fileFrontmatter) => {
+        const currFileName = fileFrontmatter.file.basename || fileFrontmatter.file.name;
         const hierFields = {
             current: fileFrontmatter.file,
             hierarchies: [],
@@ -6390,20 +6442,41 @@ async function getNeighbourObjArr(plugin, fileFrontmatterArr) {
         userHierarchies.forEach((hier, i) => {
             const fieldsArr = Object.values(hier);
             const newHier = { up: {}, same: {}, down: {} };
-            fieldsArr[0].forEach((upField) => {
-                newHier.up[upField] = getFieldValues(fileFrontmatter, upField, plugin.settings);
-            });
-            fieldsArr[1].forEach((sameField) => {
-                newHier.same[sameField] = getFieldValues(fileFrontmatter, sameField, plugin.settings);
-            });
-            fieldsArr[2].forEach((downField) => {
-                newHier.down[downField] = getFieldValues(fileFrontmatter, downField, plugin.settings);
-            });
+            // Add regular metadata links
+            if (settings.useAllMetadata) {
+                DIRECTIONS.forEach((dir, i) => {
+                    fieldsArr[i].forEach((field) => {
+                        newHier[dir][field] = getFieldValues(fileFrontmatter, field, settings);
+                    });
+                });
+            }
+            // Add Juggl Links
+            if (jugglLinks.length) {
+                const jugglLinksInFile = jugglLinks.filter((jugglLink) => {
+                    return jugglLink.note === currFileName;
+                })[0];
+                if (jugglLinksInFile) {
+                    jugglLinksInFile.links.forEach((line) => {
+                        var _a;
+                        if (hier[line.dir].includes(line.type)) {
+                            newHier[line.dir][line.type] = [
+                                ...new Set([
+                                    ...((_a = newHier[line.dir][line.type]) !== null && _a !== void 0 ? _a : []),
+                                    ...line.linksInLine,
+                                ]),
+                            ];
+                        }
+                    });
+                }
+            }
             hierFields.hierarchies.push(newHier);
         });
         return hierFields;
     });
-    debug(plugin.settings, { neighbourObjArr });
+    debug(settings, { neighbourObjArr });
+    if (settings.debugMode || settings.superDebugMode) {
+        console.groupEnd();
+    }
     return neighbourObjArr;
 }
 // This function takes the real & implied graphs for a given relation, and returns a new graphs with both.
@@ -6428,7 +6501,13 @@ function hoverPreview$2(event, matrixView) {
 }
 async function openOrSwitch(app, dest, currFile, event) {
     const { workspace } = app;
-    const destFile = app.metadataCache.getFirstLinkpathDest(dest, currFile.path);
+    let destFile = app.metadataCache.getFirstLinkpathDest(dest, currFile.path);
+    if (!destFile) {
+        const newFileFolder = app.fileManager.getNewFileParent(currFile.path).path;
+        const newFilePath = `${newFileFolder}${newFileFolder === "/" ? "" : "/"}${dest}.md`;
+        await app.vault.create(newFilePath, "");
+        destFile = app.metadataCache.getFirstLinkpathDest(newFilePath, currFile.path);
+    }
     const openLeaves = [];
     // For all open leaves, if the leave's basename is equal to the link destination, rather activate that leaf instead of opening it in two panes
     workspace.iterateAllLeaves((leaf) => {
@@ -6494,15 +6573,16 @@ async function copy(content) {
     await navigator.clipboard.writeText(content).then(() => new obsidian.Notice("Copied to clipboard"), () => new obsidian.Notice("Could not copy to clipboard"));
 }
 function mergeGs(...graphs) {
-    const copy = graphlib.json.read(graphlib.json.write(graphs[0]));
-    graphs.forEach((graph, i) => {
-        if (i > 0) {
-            graph.edges().forEach((edge) => {
-                copy.setEdge(edge);
-            });
-        }
+    const outG = new graphlib.Graph();
+    graphs.forEach((graph) => {
+        graph.edges().forEach((edge) => {
+            const nodeLabel = graph.node(edge.v);
+            outG.setNode(edge.v, nodeLabel);
+            const edgeLabel = graph.edge(edge);
+            outG.setEdge(edge, edgeLabel);
+        });
     });
-    return copy;
+    return outG;
 }
 function removeUnlinkedNodes(g) {
     const copy = graphlib.json.read(graphlib.json.write(g));
@@ -6511,28 +6591,32 @@ function removeUnlinkedNodes(g) {
     unlinkedNodes.forEach((node) => copy.removeNode(node));
     return copy;
 }
-function getAllXGs(plugin, dir) {
-    const { userHierarchies } = plugin.settings;
-    const fieldNamesInXDir = userHierarchies
-        .map((hier) => hier[dir])
-        .filter((field) => field.join() !== "")
-        .flat();
-    const { currGraphs } = plugin;
-    const allXGs = {};
-    currGraphs.forEach((hierarchyGs) => {
-        fieldNamesInXDir.forEach((field) => {
-            const graph = hierarchyGs[dir][field];
-            if (graph) {
-                allXGs[field] = graph;
-            }
-        });
-    });
-    return allXGs;
+function getAllGsInDir(userHierarchies, currGraphs, dir) {
+    const target = {};
+    const allGsInDir = Object.assign(target, ...currGraphs.map((hierGs) => hierGs[dir]));
+    // const fieldNamesInXDir = userHierarchies
+    //   .map((hier) => hier[dir])
+    //   .filter((field) => field.join() !== "")
+    //   .flat();
+    // const allXGs: { [rel: string]: Graph } = {};
+    // currGraphs.forEach((hierarchyGs) => {
+    //   fieldNamesInXDir.forEach((field) => {
+    //     const graph = hierarchyGs[dir][field];
+    //     if (graph) {
+    //       allXGs[field] = graph;
+    //     }
+    //   });
+    // });
+    // console.log({ allXGs, allGsInDir });
+    return allGsInDir;
 }
 function hierToStr(hier) {
     return `↑: ${hier.up.join(", ")}
 →: ${hier.same.join(", ")}
 ↓: ${hier.down.join(", ")}`;
+}
+function removeDuplicates(arr) {
+    return [...new Set(arr)];
 }
 
 /**
@@ -23734,466 +23818,6 @@ var lodash = createCommonjsModule(function (module, exports) {
 }.call(commonjsGlobal));
 });
 
-class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
-    constructor(app, plugin) {
-        super(app, plugin);
-        this.plugin = plugin;
-    }
-    display() {
-        const plugin = this.plugin;
-        const { containerEl } = this;
-        containerEl.empty();
-        containerEl.createEl("h2", { text: "Settings for Breadcrumbs plugin" });
-        function hierIndex(currHiers, values) {
-            return currHiers.findIndex((hier) => lodash.isEqual(hier.up, values[0]) &&
-                lodash.isEqual(hier.same, values[1]) &&
-                lodash.isEqual(hier.down, values[2]));
-        }
-        const addHierarchyRow = (values = { up: ["↑"], same: ["→"], down: ["↓"] }, existing = false) => {
-            const row = createDiv({ cls: "hierarchy-row" });
-            const hierarchyNames = row.createSpan({});
-            const upInput = hierarchyNames.createEl("input", {
-                value: values.up.join(", "),
-            });
-            const sameInput = hierarchyNames.createEl("input", {
-                value: values.same.join(", "),
-            });
-            const downInput = hierarchyNames.createEl("input", {
-                value: values.down.join(", "),
-            });
-            let cleanInputs = [upInput.value, sameInput.value, downInput.value].map(splitAndTrim);
-            [upInput, sameInput, downInput].forEach((input) => input.addEventListener("change", () => {
-                saveButton.toggleClass("hierarchy-unsaved", true);
-                saveButton.textContent = "Unsaved";
-            }));
-            row.createEl("button", { text: "X" }, (el) => {
-                el.addEventListener("click", async () => {
-                    row.remove();
-                    const removeIndex = hierIndex(plugin.settings.userHierarchies, [upInput.value, sameInput.value, downInput.value].map(splitAndTrim));
-                    if (removeIndex > -1) {
-                        plugin.settings.userHierarchies.splice(removeIndex, 1);
-                        await plugin.saveSettings();
-                    }
-                    new obsidian.Notice("Hierarchy Removed.");
-                });
-            });
-            const saveButton = row.createEl("button", {
-                text: existing ? "Saved" : "Unsaved",
-                cls: (existing ? "" : "hierarchy-unsaved ") + "save-hierarchy-button",
-            }, function (el) {
-                el.addEventListener("click", async () => {
-                    if (saveButton.hasClass("hierarchy-unsaved")) {
-                        const removeIndex = hierIndex(plugin.settings.userHierarchies, cleanInputs);
-                        console.log({ removeIndex });
-                        if (removeIndex > -1) {
-                            plugin.settings.userHierarchies.splice(removeIndex, 1);
-                            await plugin.saveSettings();
-                        }
-                    }
-                    cleanInputs = [upInput.value, sameInput.value, downInput.value].map(splitAndTrim);
-                    saveButton.toggleClass("hierarchy-unsaved", false);
-                    saveButton.textContent = "Saved";
-                    if (hierIndex(plugin.settings.userHierarchies, [upInput.value, sameInput.value, downInput.value].map(splitAndTrim)) > -1) {
-                        new obsidian.Notice("A hierarchy with these Up, Same, and Down values already exists.");
-                    }
-                    else {
-                        plugin.settings.userHierarchies.push({
-                            up: splitAndTrim(upInput.value),
-                            same: splitAndTrim(sameInput.value),
-                            down: splitAndTrim(downInput.value),
-                        });
-                        await plugin.saveSettings();
-                        new obsidian.Notice("Hierarchy saved.");
-                    }
-                });
-            });
-            return row;
-        };
-        const fieldDetails = containerEl.createEl("details", {
-            cls: "field-details",
-        });
-        fieldDetails.createEl("summary", { text: "Metadata Field Names" });
-        fieldDetails.createEl("p", {
-            text: "The field names you use to indicate parent, sibling, and child relationships. Just enter the unformatted field name. So if you use `**parent**:: [[Note]]`, just enter `parent`.",
-        });
-        fieldDetails.createEl("p", {
-            text: "You can enter multiple field names in a comma seperated list. For example: `parent, broader, upper`",
-        });
-        new obsidian.Setting(fieldDetails)
-            .setName("Add Hierarchy")
-            .setDesc("Add a new hierarchy.")
-            .addButton((button) => {
-            button
-                .setTooltip("Add Additional")
-                .setButtonText("+")
-                .onClick(async () => {
-                fieldDetails.append(addHierarchyRow());
-            });
-        });
-        console.log(splitAndTrim(""));
-        fieldDetails.createEl("button", { text: "Reset Hierarchies" }, async (el) => {
-            el.addEventListener("click", async () => {
-                const rows = fieldDetails.querySelectorAll(".hierarchy-row");
-                rows.forEach((row) => row.remove());
-                plugin.settings.userHierarchies = [];
-                await plugin.saveSettings();
-                new obsidian.Notice("Hierarchies reset.");
-            });
-        });
-        fieldDetails.createEl("button", { text: "Show Hierarchies" }, (el) => {
-            el.addEventListener("click", () => {
-                if (plugin.settings.userHierarchies.length) {
-                    new obsidian.Notice(plugin.settings.userHierarchies.map(hierToStr).join("\n\n"));
-                }
-                else {
-                    new obsidian.Notice("No hierarchies currently exist.");
-                }
-                console.log({ hierarchies: plugin.settings.userHierarchies });
-            });
-        });
-        plugin.settings.userHierarchies.forEach((userHier) => {
-            fieldDetails.append(addHierarchyRow(userHier, true));
-        });
-        // new Setting(fieldDetails)
-        //   .setName("Parent Metadata Field")
-        //   .setDesc("The key name you use as the parent field.")
-        //   .addText((text) =>
-        //     text
-        //       .setPlaceholder("Field name")
-        //       .setValue(plugin.settings.parentFieldName)
-        //       .onChange(async (value) => {
-        //         plugin.settings.parentFieldName = value;
-        //         await plugin.saveSettings();
-        //       })
-        //   );
-        // new Setting(fieldDetails)
-        //   .setName("Sibling Metadata Field")
-        //   .setDesc("The key name you use as the sibling field.")
-        //   .addText((text) =>
-        //     text
-        //       .setPlaceholder("Field name")
-        //       .setValue(plugin.settings.siblingFieldName)
-        //       .onChange(async (value) => {
-        //         plugin.settings.siblingFieldName = value;
-        //         await plugin.saveSettings();
-        //       })
-        //   );
-        // new Setting(fieldDetails)
-        //   .setName("Child Metadata Field")
-        //   .setDesc("The key name you use as the child field.")
-        //   .addText((text) =>
-        //     text
-        //       .setPlaceholder("Field name")
-        //       .setValue(plugin.settings.childFieldName)
-        //       .onChange(async (value) => {
-        //         plugin.settings.childFieldName = value;
-        //         await plugin.saveSettings();
-        //       })
-        //   );
-        const generalDetails = containerEl.createEl("details");
-        generalDetails.createEl("summary", { text: "General Options" });
-        new obsidian.Setting(generalDetails)
-            .setName("Refresh Interval")
-            .setDesc("Enter an integer number of seconds to wait before Breadcrumbs auto-refreshes its data. This would update the matrix view and the trail if either are affected. (Set to 0 to disable autorefreshing)")
-            .addText((text) => text
-            .setPlaceholder("Seconds")
-            .setValue(plugin.settings.refreshIntervalTime.toString())
-            .onChange(async (value) => {
-            clearInterval(plugin.refreshIntervalID);
-            const num = Number(value);
-            if (num > 0) {
-                plugin.settings.refreshIntervalTime = num;
-                await plugin.saveSettings();
-                plugin.refreshIntervalID = window.setInterval(async () => {
-                    plugin.currGraphs = await plugin.initGraphs();
-                    if (plugin.settings.showTrail) {
-                        await plugin.drawTrail();
-                    }
-                    if (plugin.getActiveMatrixView()) {
-                        await plugin.getActiveMatrixView().draw();
-                    }
-                }, num * 1000);
-                plugin.registerInterval(plugin.refreshIntervalID);
-            }
-            else if (num === 0) {
-                plugin.settings.refreshIntervalTime = num;
-                await plugin.saveSettings();
-                clearInterval(plugin.refreshIntervalID);
-            }
-            else {
-                new obsidian.Notice("The interval must be a non-negative number");
-            }
-        }));
-        const MLViewDetails = containerEl.createEl("details");
-        MLViewDetails.createEl("summary", { text: "Matrix/List View" });
-        new obsidian.Setting(MLViewDetails)
-            .setName("Show Matrix or List view by default")
-            .setDesc("When Obsidian first loads, which view should it show? On = Matrix, Off = List")
-            .addToggle((toggle) => toggle.setValue(plugin.settings.defaultView).onChange(async (value) => {
-            plugin.settings.defaultView = value;
-            await plugin.saveSettings();
-        }));
-        new obsidian.Setting(MLViewDetails)
-            .setName("Show all field names or just relation types")
-            .setDesc("This changes the headers in matrix/list view. You can have the headers be the list of metadata fields for each relation type (e.g. `parent, broader, upper`). Or you can have them just be the name of the relation type, i.e. 'Parent', 'Sibling', 'Child'. On = show the full list of names.")
-            .addToggle((toggle) => toggle
-            .setValue(plugin.settings.showNameOrType)
-            .onChange(async (value) => {
-            plugin.settings.showNameOrType = value;
-            await plugin.saveSettings();
-            await plugin.getActiveMatrixView().draw();
-        }));
-        new obsidian.Setting(MLViewDetails)
-            .setName("Show Relationship Type")
-            .setDesc("Show whether a link is real or implied. A real link is one you explicitly put in a note. E.g. parent:: [[Note]]. An implied link is the reverse of a real link. For example, if A is the real parent of B, then B must be the implied child of A.")
-            .addToggle((toggle) => toggle
-            .setValue(plugin.settings.showRelationType)
-            .onChange(async (value) => {
-            plugin.settings.showRelationType = value;
-            await plugin.saveSettings();
-            await plugin.getActiveMatrixView().draw();
-        }));
-        new obsidian.Setting(MLViewDetails)
-            .setName("Open View in Right or Left side")
-            .setDesc("When loading the matrix view, should it open on the left or right side leaf? On = Right, Off = Left.")
-            .addToggle((toggle) => toggle.setValue(plugin.settings.rlLeaf).onChange(async (value) => {
-            var _a;
-            plugin.settings.rlLeaf = value;
-            await plugin.saveSettings();
-            await ((_a = plugin.getActiveMatrixView()) === null || _a === void 0 ? void 0 : _a.onClose());
-            await plugin.initMatrixView(VIEW_TYPE_BREADCRUMBS_MATRIX);
-        }));
-        const trailDetails = containerEl.createEl("details");
-        trailDetails.createEl("summary", { text: "Trail/Grid" });
-        new obsidian.Setting(trailDetails)
-            .setName("Show Breadcrumbs")
-            .setDesc("Show a trail of notes leading from your index note down to the current note you are in (if a path exists)")
-            .addToggle((toggle) => toggle.setValue(plugin.settings.showTrail).onChange(async (value) => {
-            plugin.settings.showTrail = value;
-            await plugin.saveSettings();
-            await plugin.drawTrail();
-        }));
-        new obsidian.Setting(trailDetails)
-            .setName("Trail or Table or Both")
-            .setDesc("Wether to show the regular breadcrumb trails, the table view, neither, or both. 1 = Only Trail, 2 = Only Grid, 3 = Both")
-            .addText((text) => {
-            text
-                .setPlaceholder("Index Note")
-                .setValue(plugin.settings.trailOrTable.toString())
-                .onChange(async (value) => {
-                const num = parseInt(value);
-                if ([1, 2, 3].includes(num)) {
-                    plugin.settings.trailOrTable = num;
-                    await plugin.saveSettings();
-                    await plugin.drawTrail();
-                }
-                else {
-                    new obsidian.Notice("The value has to be 1, 2, or 3");
-                }
-            });
-        });
-        new obsidian.Setting(trailDetails)
-            .setName("Grid view dots")
-            .setDesc("If the grid view is visible, shows dots based on the file size of each cell.")
-            .addToggle((toggle) => toggle.setValue(plugin.settings.gridDots).onChange(async (value) => {
-            plugin.settings.gridDots = value;
-            await plugin.saveSettings();
-            await plugin.drawTrail();
-        }));
-        const dotsColour = trailDetails.createDiv();
-        dotsColour.createEl("h4", {
-            text: "Dots colour",
-        });
-        const dotsColourPicker = dotsColour.createEl("input", {
-            type: "color",
-        });
-        dotsColourPicker.value = plugin.settings.dotsColour;
-        dotsColourPicker.addEventListener("change", async () => {
-            plugin.settings.dotsColour = dotsColourPicker.value;
-            await plugin.saveSettings();
-        });
-        new obsidian.Setting(trailDetails)
-            .setName("Grid view heatmap")
-            .setDesc("If the grid view is visible, change the background colour of squares based on the number of children leaving that note.")
-            .addToggle((toggle) => toggle.setValue(plugin.settings.gridHeatmap).onChange(async (value) => {
-            plugin.settings.gridHeatmap = value;
-            await plugin.saveSettings();
-            await plugin.drawTrail();
-        }));
-        const heatmapColour = trailDetails.createDiv();
-        heatmapColour.createEl("h4", {
-            text: "Heat map colour",
-        });
-        const heatmapColourPicker = heatmapColour.createEl("input", {
-            type: "color",
-        });
-        heatmapColourPicker.value = plugin.settings.heatmapColour;
-        heatmapColourPicker.addEventListener("change", async () => {
-            plugin.settings.heatmapColour = heatmapColourPicker.value;
-            await plugin.saveSettings();
-        });
-        new obsidian.Setting(trailDetails)
-            .setName("Index/Home Note(s)")
-            .setDesc("The note that all of your other notes lead back to. The parent of all your parent notes. Just enter the name. So if your index note is `000 Home.md`, enter `000 Home`. You can also have multiple index notes (comma-separated list). The breadcrumb trail will show the shortest path back to any one of the index notes listed. You can now leave this field empty, meaning the trail will show a path going as far up the parent-tree as possible.")
-            .addText((text) => {
-            let finalValue;
-            text
-                .setPlaceholder("Index Note")
-                .setValue([plugin.settings.indexNote].flat().join(", "))
-                .onChange(async (value) => {
-                finalValue = splitAndTrim(value);
-            });
-            text.inputEl.onblur = async () => {
-                // TODO Refactor this to general purpose isInVault function
-                if (finalValue === [""]) {
-                    plugin.settings.indexNote = finalValue;
-                    await plugin.saveSettings();
-                }
-                else if (finalValue.every((index) => isInVault(this.app, index))) {
-                    plugin.settings.indexNote = finalValue;
-                    await plugin.saveSettings();
-                }
-                else {
-                    new obsidian.Notice(`Atleast one of the notes is not in your vault`);
-                }
-            };
-        });
-        new obsidian.Setting(trailDetails)
-            .setName("Default: All or Shortest")
-            .setDesc("If multiple paths are found going up the parent tree, should all of them be shown by default, or only the shortest? On = all, off = shortest")
-            .addToggle((toggle) => toggle.setValue(plugin.settings.showAll).onChange(async (value) => {
-            plugin.settings.showAll = value;
-            await plugin.saveSettings();
-            await plugin.drawTrail();
-        }));
-        new obsidian.Setting(trailDetails)
-            .setName("Breadcrumb trail seperator")
-            .setDesc("The character to show between crumbs in the breadcrumb trail. The default is '→'")
-            .addText((text) => text
-            .setPlaceholder("→")
-            .setValue(plugin.settings.trailSeperator)
-            .onChange(async (value) => {
-            plugin.settings.trailSeperator = value;
-            await plugin.saveSettings();
-            await plugin.drawTrail();
-        }));
-        new obsidian.Setting(trailDetails)
-            .setName("No path found message")
-            .setDesc("The text to display when no path to the index note was found, or when the current note has no parent (this happens if you haven't chosen an index note)")
-            .addText((text) => text
-            .setPlaceholder(`No path to index note was found`)
-            .setValue(plugin.settings.noPathMessage)
-            .onChange(async (value) => {
-            plugin.settings.noPathMessage = value;
-            await plugin.saveSettings();
-            await plugin.drawTrail();
-        }));
-        new obsidian.Setting(trailDetails)
-            .setName("Respect Readable Line Length")
-            .setDesc("Should the breadcrumbs trail adjust its width to the readable line length, or use as much space as possible? On = use readable line length.")
-            .addToggle((toggle) => toggle
-            .setValue(plugin.settings.respectReadableLineLength)
-            .onChange(async (value) => {
-            plugin.settings.respectReadableLineLength = value;
-            await plugin.saveSettings();
-            await plugin.drawTrail();
-        }));
-        const visModalDetails = containerEl.createEl("details");
-        visModalDetails.createEl("summary", { text: "Visualisation Modal" });
-        new obsidian.Setting(visModalDetails)
-            .setName("Default Visualisation Type")
-            .setDesc("Which visualisation to show by defualt")
-            .addDropdown((cb) => {
-            VISTYPES.forEach((option) => {
-                cb.addOption(option, option);
-            });
-            cb.setValue(plugin.settings.visGraph);
-            cb.onChange(async (value) => {
-                plugin.settings.visGraph = value;
-                await plugin.saveSettings();
-            });
-        });
-        new obsidian.Setting(visModalDetails)
-            .setName("Default Relation")
-            .setDesc("Which relation type to show first when opening the modal")
-            .addDropdown((cb) => {
-            RELATIONS.forEach((option) => {
-                cb.addOption(option, option);
-            });
-            cb.setValue(plugin.settings.visRelation);
-            cb.onChange(async (value) => {
-                plugin.settings.visRelation = value;
-                await plugin.saveSettings();
-            });
-        });
-        new obsidian.Setting(visModalDetails)
-            .setName("Default Real/Closed")
-            .setDesc("Show the real or closed graph by default")
-            .addDropdown((cb) => {
-            REAlCLOSED.forEach((option) => {
-                cb.addOption(option, option);
-            });
-            cb.setValue(plugin.settings.visClosed);
-            cb.onChange(async (value) => {
-                plugin.settings.visClosed = value;
-                await plugin.saveSettings();
-            });
-        });
-        new obsidian.Setting(visModalDetails)
-            .setName("Default Unlinked")
-            .setDesc("Show all nodes or only those which have links by default")
-            .addDropdown((cb) => {
-            ALLUNLINKED.forEach((option) => {
-                cb.addOption(option, option);
-            });
-            cb.setValue(plugin.settings.visAll);
-            cb.onChange(async (value) => {
-                plugin.settings.visAll = value;
-                await plugin.saveSettings();
-            });
-        });
-        const createIndexDetails = containerEl.createEl("details");
-        createIndexDetails.createEl("summary", { text: "Create Index" });
-        new obsidian.Setting(createIndexDetails)
-            .setName("Add wiklink brackets")
-            .setDesc("When creating an index, should it wrap the note name in wikilinks `[[]]` or not. On = yes, off = no.")
-            .addToggle((toggle) => toggle
-            .setValue(plugin.settings.wikilinkIndex)
-            .onChange(async (value) => {
-            plugin.settings.wikilinkIndex = value;
-            await plugin.saveSettings();
-        }));
-        new obsidian.Setting(createIndexDetails)
-            .setName("Show aliases of notes in index")
-            .setDesc("Show the aliases of each note in brackets. On = yes, off = no.")
-            .addToggle((toggle) => toggle
-            .setValue(plugin.settings.aliasesInIndex)
-            .onChange(async (value) => {
-            console.log(value);
-            plugin.settings.aliasesInIndex = value;
-            await plugin.saveSettings();
-        }));
-        const debugDetails = containerEl.createEl("details");
-        debugDetails.createEl("summary", { text: "Debugging" });
-        new obsidian.Setting(debugDetails)
-            .setName("Debug Mode")
-            .setDesc("Toggling this on will enable a few console logs to appear when use the matrix/list view, or the trail.")
-            .addToggle((toggle) => toggle.setValue(plugin.settings.debugMode).onChange(async (value) => {
-            plugin.settings.debugMode = value;
-            await plugin.saveSettings();
-        }));
-        new obsidian.Setting(debugDetails)
-            .setName("Super Debug Mode")
-            .setDesc("Toggling this on will enable ALOT of console logs")
-            .addToggle((toggle) => toggle
-            .setValue(plugin.settings.superDebugMode)
-            .onChange(async (value) => {
-            plugin.settings.superDebugMode = value;
-            await plugin.saveSettings();
-        }));
-    }
-}
-
 function noop() { }
 function run(fn) {
     return fn();
@@ -24474,6 +24098,632 @@ class SvelteComponent {
     }
 }
 
+/* src/Components/KoFi.svelte generated by Svelte v3.35.0 */
+
+function create_fragment$6(ctx) {
+	let script;
+	let script_src_value;
+	let t;
+	let div;
+	let mounted;
+	let dispose;
+
+	return {
+		c() {
+			script = element("script");
+			t = space();
+			div = element("div");
+			attr(script, "type", "text/javascript");
+			if (script.src !== (script_src_value = "https://ko-fi.com/widgets/widget_2.js")) attr(script, "src", script_src_value);
+		},
+		m(target, anchor) {
+			append(document.head, script);
+			insert(target, t, anchor);
+			insert(target, div, anchor);
+			/*div_binding*/ ctx[2](div);
+
+			if (!mounted) {
+				dispose = listen(script, "load", /*initializeKofi*/ ctx[1]);
+				mounted = true;
+			}
+		},
+		p: noop,
+		i: noop,
+		o: noop,
+		d(detaching) {
+			detach(script);
+			if (detaching) detach(t);
+			if (detaching) detach(div);
+			/*div_binding*/ ctx[2](null);
+			mounted = false;
+			dispose();
+		}
+	};
+}
+
+function instance$6($$self, $$props, $$invalidate) {
+	let button;
+
+	var initializeKofi = () => {
+		kofiwidget2.init("Support Breadcrumbs development!", "#29abe0", "G2G454TZF");
+		$$invalidate(0, button.innerHTML = kofiwidget2.getHTML(), button);
+	};
+
+	function div_binding($$value) {
+		binding_callbacks[$$value ? "unshift" : "push"](() => {
+			button = $$value;
+			$$invalidate(0, button);
+		});
+	}
+
+	return [button, initializeKofi, div_binding];
+}
+
+class KoFi extends SvelteComponent {
+	constructor(options) {
+		super();
+		init(this, options, instance$6, create_fragment$6, safe_not_equal, {});
+	}
+}
+
+class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
+    constructor(app, plugin) {
+        super(app, plugin);
+        this.plugin = plugin;
+    }
+    display() {
+        const plugin = this.plugin;
+        const { settings } = plugin;
+        const { containerEl } = this;
+        containerEl.empty();
+        containerEl.createEl("h2", { text: "Settings for Breadcrumbs plugin" });
+        function hierIndex(currHiers, values) {
+            return currHiers.findIndex((hier) => lodash.isEqual(hier.up, values[0]) &&
+                lodash.isEqual(hier.same, values[1]) &&
+                lodash.isEqual(hier.down, values[2]));
+        }
+        const addHierarchyRow = (values = { up: [""], same: [""], down: [""] }, existing = false) => {
+            const row = createSpan({ cls: "hierarchy-row" });
+            const hierarchyNames = row.createSpan({});
+            hierarchyNames.createEl("label", { attr: { for: "up" }, text: "↑" });
+            const upInput = hierarchyNames.createEl("input", {
+                attr: { id: "up", placeholder: "↑" },
+                value: values.up.join(", "),
+            });
+            hierarchyNames.createEl("label", { attr: { for: "same" }, text: "→" });
+            const sameInput = hierarchyNames.createEl("input", {
+                attr: { id: "same", placeholder: "→" },
+                value: values.same.join(", "),
+            });
+            hierarchyNames.createEl("label", { attr: { for: "down" }, text: "↓" });
+            const downInput = hierarchyNames.createEl("input", {
+                attr: { id: "down", placeholder: "↓" },
+                value: values.down.join(", "),
+            });
+            let cleanInputs = [upInput.value, sameInput.value, downInput.value].map(splitAndTrim);
+            [upInput, sameInput, downInput].forEach((input) => input.addEventListener("change", () => {
+                saveButton.toggleClass("hierarchy-unsaved", true);
+                saveButton.textContent = "Save";
+            }));
+            row.createEl("button", { text: "X" }, (el) => {
+                el.addEventListener("click", async () => {
+                    row.remove();
+                    const removeIndex = hierIndex(settings.userHierarchies, [upInput.value, sameInput.value, downInput.value].map(splitAndTrim));
+                    if (removeIndex > -1) {
+                        settings.userHierarchies.splice(removeIndex, 1);
+                        await plugin.saveSettings();
+                    }
+                    new obsidian.Notice("Hierarchy Removed.");
+                });
+            });
+            const saveButton = row.createEl("button", {
+                text: existing ? "Saved" : "Save",
+                cls: (existing ? "" : "hierarchy-unsaved ") + "save-hierarchy-button",
+            }, function (el) {
+                el.addEventListener("click", async () => {
+                    if (hierIndex(settings.userHierarchies, [upInput.value, sameInput.value, downInput.value].map(splitAndTrim)) > -1) {
+                        new obsidian.Notice("A hierarchy with these Up, Same, and Down values already exists.");
+                        return;
+                    }
+                    if (saveButton.hasClass("hierarchy-unsaved")) {
+                        const removeIndex = hierIndex(settings.userHierarchies, cleanInputs);
+                        if (removeIndex > -1) {
+                            settings.userHierarchies.splice(removeIndex, 1);
+                            await plugin.saveSettings();
+                        }
+                    }
+                    cleanInputs = [upInput.value, sameInput.value, downInput.value].map(splitAndTrim);
+                    saveButton.toggleClass("hierarchy-unsaved", false);
+                    saveButton.textContent = "Saved";
+                    if (hierIndex(settings.userHierarchies, cleanInputs) > -1) {
+                        new obsidian.Notice("A hierarchy with these Up, Same, and Down values already exists.");
+                    }
+                    else {
+                        settings.userHierarchies.push({
+                            up: splitAndTrim(upInput.value),
+                            same: splitAndTrim(sameInput.value),
+                            down: splitAndTrim(downInput.value),
+                        });
+                        await plugin.saveSettings();
+                        new obsidian.Notice("Hierarchy saved.");
+                    }
+                });
+            });
+            return row;
+        };
+        const fieldDetails = containerEl.createEl("details", {
+            cls: "field-details",
+        });
+        fieldDetails.createEl("summary", { text: "Hierarchies" });
+        fieldDetails.createEl("p", {
+            text: "Here you can set up different hierarchies you use in your vault. To add a new hierarchy, click the plus button. Then, fill in the field names of your hierachy into the 3 boxes that appear. The ↑ field is for parent relations, the → field is for siblings, and ↓ is for child relations.",
+        });
+        fieldDetails.createEl("p", {
+            text: "For each direction (up, same, down), you can enter multiple field names in a comma seperated list. For example: `parent, broader, upper`",
+        });
+        new obsidian.Setting(fieldDetails)
+            .setName("Add Hierarchy")
+            .setDesc("Add a new hierarchy.")
+            .addButton((button) => {
+            button
+                .setTooltip("Add Additional")
+                .setButtonText("+")
+                .onClick(async () => {
+                fieldDetails.append(addHierarchyRow());
+            });
+        });
+        fieldDetails.createEl("button", { text: "Reset Hierarchies" }, async (el) => {
+            el.addEventListener("click", async () => {
+                const rows = fieldDetails.querySelectorAll(".hierarchy-row");
+                rows.forEach((row) => row.remove());
+                settings.userHierarchies = [];
+                await plugin.saveSettings();
+                new obsidian.Notice("Hierarchies reset.");
+            });
+        });
+        fieldDetails.createEl("button", { text: "Show Hierarchies" }, (el) => {
+            el.addEventListener("click", () => {
+                if (settings.userHierarchies.length) {
+                    new obsidian.Notice(settings.userHierarchies.map(hierToStr).join("\n\n"));
+                }
+                else {
+                    new obsidian.Notice("No hierarchies currently exist.");
+                }
+                console.log({ hierarchies: settings.userHierarchies });
+            });
+        });
+        settings.userHierarchies.forEach((userHier) => {
+            fieldDetails.append(addHierarchyRow(userHier, true));
+        });
+        const hierarchyNoteDetails = containerEl.createEl("details");
+        hierarchyNoteDetails.createEl("summary", { text: "Hierarchy Notes" });
+        new obsidian.Setting(hierarchyNoteDetails)
+            .setName("Hierarchy Note(s)")
+            .setDesc("A list of notes used to create external Breadcrumb structures.")
+            .addText((text) => {
+            let finalValue;
+            text
+                .setPlaceholder("Hierarchy Note(s)")
+                .setValue([settings.hierarchyNotes].flat().join(", "))
+                .onChange(async (value) => {
+                finalValue = splitAndTrim(value);
+            });
+            text.inputEl.onblur = async () => {
+                if (finalValue[0] === "") {
+                    settings.hierarchyNotes = finalValue;
+                    await plugin.saveSettings();
+                }
+                else if (finalValue.every((note) => isInVault(this.app, note))) {
+                    settings.hierarchyNotes = finalValue;
+                    await plugin.saveSettings();
+                }
+                else {
+                    new obsidian.Notice("Atleast one of the notes is not in your vault");
+                }
+            };
+        });
+        new obsidian.Setting(hierarchyNoteDetails)
+            .setName("Hierarchy Note Up Field Name")
+            .setDesc("Using the breadcrumbs generated by the hierarchy note, which ↑ type should they count as? This has to be one of the ↑ types of one of your existing hierarchies. If you want it to be something else, you can make a new hierarchy just for it.")
+            .addText((text) => {
+            let finalValue = settings.hierarchyNoteUpFieldName;
+            text.setPlaceholder("").setValue(settings.hierarchyNoteUpFieldName);
+            text.inputEl.onblur = async () => {
+                finalValue = text.getValue();
+                if (finalValue === "") {
+                    settings.hierarchyNoteUpFieldName = finalValue;
+                    await plugin.saveSettings();
+                }
+                else {
+                    const downFieldNames = settings.userHierarchies
+                        .map((hier) => hier.up)
+                        .flat(3);
+                    debug(settings, { downFieldNames, finalValue });
+                    if (downFieldNames.includes(finalValue)) {
+                        settings.hierarchyNoteUpFieldName = finalValue;
+                        await plugin.saveSettings();
+                    }
+                    else {
+                        new obsidian.Notice("The field name must be one of the exisitng ↓ fields in your hierarchies.");
+                    }
+                }
+            };
+        });
+        new obsidian.Setting(hierarchyNoteDetails)
+            .setName("Hierarchy Note Down Field Name")
+            .setDesc("Using the breadcrumbs generated by the hierarchy note, which ↓ type should they count as? This has to be one of the ↓ types of one of your existing hierarchies. If you want it to be something else, you can make a new hierarchy just for it.")
+            .addText((text) => {
+            let finalValue = settings.hierarchyNoteDownFieldName;
+            text.setPlaceholder("").setValue(settings.hierarchyNoteDownFieldName);
+            text.inputEl.onblur = async () => {
+                finalValue = text.getValue();
+                if (finalValue === "") {
+                    settings.hierarchyNoteDownFieldName = finalValue;
+                    await plugin.saveSettings();
+                }
+                else {
+                    const downFieldNames = settings.userHierarchies
+                        .map((hier) => hier.down)
+                        .flat(3);
+                    debug(settings, { downFieldNames, finalValue });
+                    if (downFieldNames.includes(finalValue)) {
+                        settings.hierarchyNoteDownFieldName = finalValue;
+                        await plugin.saveSettings();
+                    }
+                    else {
+                        new obsidian.Notice("The field name must be one of the exisitng ↓ fields in your hierarchies.");
+                    }
+                }
+            };
+        });
+        const generalDetails = containerEl.createEl("details");
+        generalDetails.createEl("summary", { text: "General Options" });
+        new obsidian.Setting(generalDetails)
+            .setName("Refresh Index on Note Change")
+            .setDesc("Refresh the Breadcrumbs index data everytime you change notes. This is how Breadcrumbs used to work, making it responsive to changes immediately after changing notes. However, this can be very slow on large vaults, so it is off by default.")
+            .addToggle((toggle) => toggle
+            .setValue(settings.refreshIndexOnActiveLeafChange)
+            .onChange(async (value) => {
+            settings.refreshIndexOnActiveLeafChange = value;
+            await plugin.saveSettings();
+        }));
+        new obsidian.Setting(generalDetails)
+            .setName("Use yaml or inline fields for hierarchy data")
+            .setDesc("If enabled, Breadcrumbs will make it's hierarchy using yaml fields, and inline fields (if you have Dataview enabled). If this is disabled, it will only use Juggl links for it's metadata (See below).")
+            .addToggle((toggle) => toggle.setValue(settings.useAllMetadata).onChange(async (value) => {
+            settings.useAllMetadata = value;
+            await plugin.saveSettings();
+            await plugin.refreshIndex();
+        }));
+        new obsidian.Setting(generalDetails)
+            .setName("Use Juggl link syntax without having Juggl installed.")
+            .setDesc("Should Breadcrumbs look for [Juggl links](https://juggl.io/Link+Types) even if you don't have Juggl installed? If you do have Juggl installed, it will always look for Juggl links.")
+            .addToggle((toggle) => toggle
+            .setValue(settings.parseJugglLinksWithoutJuggl)
+            .onChange(async (value) => {
+            settings.parseJugglLinksWithoutJuggl = value;
+            await plugin.saveSettings();
+        }));
+        if (this.app.plugins.plugins.dataview !== undefined) {
+            new obsidian.Setting(generalDetails)
+                .setName("Dataview Wait Time")
+                .setDesc('Enter an integer number of seconds to wait for the Dataview Index to load. The larger your vault, the longer it will take. If you see an error in the console saying "Cannot destructure currGraphs of undefined", try making this time longer. If you don\'t get that error, you can make this time shorter to make the Breadcrumbs load faster. The default is 5 seconds.')
+                .addText((text) => text
+                .setPlaceholder("Seconds")
+                .setValue((settings.dvWaitTime / 1000).toString())
+                .onChange(async (value) => {
+                const num = Number(value);
+                if (num > 0) {
+                    settings.dvWaitTime = num * 1000;
+                    await plugin.saveSettings();
+                }
+                else {
+                    new obsidian.Notice("The interval must be a non-negative number");
+                }
+            }));
+        }
+        new obsidian.Setting(generalDetails)
+            .setName("Refresh Interval")
+            .setDesc("Enter an integer number of seconds to wait before Breadcrumbs auto-refreshes its data. This would update the matrix view and the trail if either are affected. (Set to 0 to disable autorefreshing)")
+            .addText((text) => text
+            .setPlaceholder("Seconds")
+            .setValue(settings.refreshIntervalTime.toString())
+            .onChange(async (value) => {
+            clearInterval(plugin.refreshIntervalID);
+            const num = Number(value);
+            if (num > 0) {
+                settings.refreshIntervalTime = num;
+                await plugin.saveSettings();
+                plugin.refreshIntervalID = window.setInterval(async () => {
+                    plugin.currGraphs = await plugin.initGraphs();
+                    if (settings.showTrail) {
+                        await plugin.drawTrail();
+                    }
+                    if (plugin.getActiveMatrixView()) {
+                        await plugin.getActiveMatrixView().draw();
+                    }
+                }, num * 1000);
+                plugin.registerInterval(plugin.refreshIntervalID);
+            }
+            else if (num === 0) {
+                settings.refreshIntervalTime = num;
+                await plugin.saveSettings();
+                clearInterval(plugin.refreshIntervalID);
+            }
+            else {
+                new obsidian.Notice("The interval must be a non-negative number");
+            }
+        }));
+        const MLViewDetails = containerEl.createEl("details");
+        MLViewDetails.createEl("summary", { text: "Matrix/List View" });
+        new obsidian.Setting(MLViewDetails)
+            .setName("Show Matrix or List view by default")
+            .setDesc("When Obsidian first loads, which view should it show? On = Matrix, Off = List")
+            .addToggle((toggle) => toggle.setValue(settings.defaultView).onChange(async (value) => {
+            settings.defaultView = value;
+            await plugin.saveSettings();
+        }));
+        // TODO I don't think this setting works anymore. I removed it's functionality when adding multiple hierarchies
+        new obsidian.Setting(MLViewDetails)
+            .setName("Show all field names or just relation types")
+            .setDesc("This changes the headers in matrix/list view. You can have the headers be the list of metadata fields for each relation type (e.g. `parent, broader, upper`). Or you can have them just be the name of the relation type, i.e. 'Parent', 'Sibling', 'Child'. On = show the full list of names.")
+            .addToggle((toggle) => toggle.setValue(settings.showNameOrType).onChange(async (value) => {
+            settings.showNameOrType = value;
+            await plugin.saveSettings();
+            await plugin.getActiveMatrixView().draw();
+        }));
+        new obsidian.Setting(MLViewDetails)
+            .setName("Show Relationship Type")
+            .setDesc("Show whether a link is real or implied. A real link is one you explicitly put in a note. E.g. parent:: [[Note]]. An implied link is the reverse of a real link. For example, if A is the real parent of B, then B must be the implied child of A.")
+            .addToggle((toggle) => toggle.setValue(settings.showRelationType).onChange(async (value) => {
+            settings.showRelationType = value;
+            await plugin.saveSettings();
+            await plugin.getActiveMatrixView().draw();
+        }));
+        new obsidian.Setting(MLViewDetails)
+            .setName("Filter Implied Siblings")
+            .setDesc("Implied siblings are: 1) notes with the same parent, or 2) notes that are real siblings. This setting only applies to type 1 implied siblings. If enabled, Breadcrumbs will filter type 1 implied siblings so that they not only share the same parent, but the parent relation has the exact same type. For example, the two real relations B --parent-> A, and A --parent-> A create an implied sibling between B and C (they have the same parent, A). The two real relations B --parent-> A, and A --up-> A create an implied sibling between B and C (they also have the same parent, A). But if this setting is turned on, the second implied sibling would not show, because the parent types are differnet (parent versus up).")
+            .addToggle((toggle) => toggle
+            .setValue(settings.filterImpliedSiblingsOfDifferentTypes)
+            .onChange(async (value) => {
+            settings.filterImpliedSiblingsOfDifferentTypes = value;
+            await plugin.saveSettings();
+            await plugin.getActiveMatrixView().draw();
+        }));
+        new obsidian.Setting(MLViewDetails)
+            .setName("Open View in Right or Left side")
+            .setDesc("When loading the matrix view, should it open on the left or right side leaf? On = Right, Off = Left.")
+            .addToggle((toggle) => toggle.setValue(settings.rlLeaf).onChange(async (value) => {
+            var _a;
+            settings.rlLeaf = value;
+            await plugin.saveSettings();
+            await ((_a = plugin.getActiveMatrixView()) === null || _a === void 0 ? void 0 : _a.onClose());
+            await plugin.initMatrixView(VIEW_TYPE_BREADCRUMBS_MATRIX);
+        }));
+        const trailDetails = containerEl.createEl("details");
+        trailDetails.createEl("summary", { text: "Trail/Grid" });
+        new obsidian.Setting(trailDetails)
+            .setName("Show Breadcrumbs")
+            .setDesc("Show a trail of notes leading from your index note down to the current note you are in (if a path exists)")
+            .addToggle((toggle) => toggle.setValue(settings.showTrail).onChange(async (value) => {
+            settings.showTrail = value;
+            await plugin.saveSettings();
+            await plugin.drawTrail();
+        }));
+        new obsidian.Setting(trailDetails)
+            .setName("Trail or Table or Both")
+            .setDesc("Wether to show the regular breadcrumb trails, the table view, neither, or both. 1 = Only Trail, 2 = Only Grid, 3 = Both")
+            .addText((text) => {
+            text
+                .setValue(settings.trailOrTable.toString())
+                .onChange(async (value) => {
+                const num = parseInt(value);
+                if ([1, 2, 3].includes(num)) {
+                    settings.trailOrTable = num;
+                    await plugin.saveSettings();
+                    await plugin.drawTrail();
+                }
+                else {
+                    new obsidian.Notice("The value has to be 1, 2, or 3");
+                }
+            });
+        });
+        new obsidian.Setting(trailDetails)
+            .setName("Grid view dots")
+            .setDesc("If the grid view is visible, shows dots based on the file size of each cell.")
+            .addToggle((toggle) => toggle.setValue(settings.gridDots).onChange(async (value) => {
+            settings.gridDots = value;
+            await plugin.saveSettings();
+            await plugin.drawTrail();
+        }));
+        const dotsColour = trailDetails.createDiv();
+        dotsColour.createEl("h4", {
+            text: "Dots colour",
+        });
+        const dotsColourPicker = dotsColour.createEl("input", {
+            type: "color",
+        });
+        dotsColourPicker.value = settings.dotsColour;
+        dotsColourPicker.addEventListener("change", async () => {
+            settings.dotsColour = dotsColourPicker.value;
+            await plugin.saveSettings();
+        });
+        new obsidian.Setting(trailDetails)
+            .setName("Grid view heatmap")
+            .setDesc("If the grid view is visible, change the background colour of squares based on the number of children leaving that note.")
+            .addToggle((toggle) => toggle.setValue(settings.gridHeatmap).onChange(async (value) => {
+            settings.gridHeatmap = value;
+            await plugin.saveSettings();
+            await plugin.drawTrail();
+        }));
+        const heatmapColour = trailDetails.createDiv();
+        heatmapColour.createEl("h4", {
+            text: "Heat map colour",
+        });
+        const heatmapColourPicker = heatmapColour.createEl("input", {
+            type: "color",
+        });
+        heatmapColourPicker.value = settings.heatmapColour;
+        heatmapColourPicker.addEventListener("change", async () => {
+            settings.heatmapColour = heatmapColourPicker.value;
+            await plugin.saveSettings();
+        });
+        new obsidian.Setting(trailDetails)
+            .setName("Index/Home Note(s)")
+            .setDesc("The note that all of your other notes lead back to. The parent of all your parent notes. Just enter the name. So if your index note is `000 Home.md`, enter `000 Home`. You can also have multiple index notes (comma-separated list). The breadcrumb trail will show the shortest path back to any one of the index notes listed. You can now leave this field empty, meaning the trail will show a path going as far up the parent-tree as possible.")
+            .addText((text) => {
+            let finalValue;
+            text
+                .setPlaceholder("Index Note")
+                .setValue([settings.indexNote].flat().join(", "))
+                .onChange(async (value) => {
+                finalValue = splitAndTrim(value);
+            });
+            text.inputEl.onblur = async () => {
+                // TODO Refactor this to general purpose isInVault function
+                if (finalValue[0] === "") {
+                    settings.indexNote = finalValue;
+                    await plugin.saveSettings();
+                }
+                else if (finalValue.every((index) => isInVault(this.app, index))) {
+                    settings.indexNote = finalValue;
+                    await plugin.saveSettings();
+                }
+                else {
+                    new obsidian.Notice(`Atleast one of the notes is not in your vault`);
+                }
+            };
+        });
+        new obsidian.Setting(trailDetails)
+            .setName("Default: All or Shortest")
+            .setDesc("If multiple paths are found going up the parent tree, should all of them be shown by default, or only the shortest? On = all, off = shortest")
+            .addToggle((toggle) => toggle.setValue(settings.showAll).onChange(async (value) => {
+            settings.showAll = value;
+            await plugin.saveSettings();
+            await plugin.drawTrail();
+        }));
+        new obsidian.Setting(trailDetails)
+            .setName("Breadcrumb trail seperator")
+            .setDesc("The character to show between crumbs in the breadcrumb trail. The default is '→'")
+            .addText((text) => text
+            .setPlaceholder("→")
+            .setValue(settings.trailSeperator)
+            .onChange(async (value) => {
+            settings.trailSeperator = value;
+            await plugin.saveSettings();
+            await plugin.drawTrail();
+        }));
+        new obsidian.Setting(trailDetails)
+            .setName("No path found message")
+            .setDesc("The text to display when no path to the index note was found, or when the current note has no parent (this happens if you haven't chosen an index note)")
+            .addText((text) => text
+            .setPlaceholder(`No path to index note was found`)
+            .setValue(settings.noPathMessage)
+            .onChange(async (value) => {
+            settings.noPathMessage = value;
+            await plugin.saveSettings();
+            await plugin.drawTrail();
+        }));
+        new obsidian.Setting(trailDetails)
+            .setName("Respect Readable Line Length")
+            .setDesc("Should the breadcrumbs trail adjust its width to the readable line length, or use as much space as possible? On = use readable line length.")
+            .addToggle((toggle) => toggle
+            .setValue(settings.respectReadableLineLength)
+            .onChange(async (value) => {
+            settings.respectReadableLineLength = value;
+            await plugin.saveSettings();
+            await plugin.drawTrail();
+        }));
+        const visModalDetails = containerEl.createEl("details");
+        visModalDetails.createEl("summary", { text: "Visualisation Modal" });
+        new obsidian.Setting(visModalDetails)
+            .setName("Default Visualisation Type")
+            .setDesc("Which visualisation to show by defualt")
+            .addDropdown((cb) => {
+            VISTYPES.forEach((option) => {
+                cb.addOption(option, option);
+            });
+            cb.setValue(settings.visGraph);
+            cb.onChange(async (value) => {
+                settings.visGraph = value;
+                await plugin.saveSettings();
+            });
+        });
+        new obsidian.Setting(visModalDetails)
+            .setName("Default Relation")
+            .setDesc("Which relation type to show first when opening the modal")
+            .addDropdown((cb) => {
+            RELATIONS.forEach((option) => {
+                cb.addOption(option, option);
+            });
+            cb.setValue(settings.visRelation);
+            cb.onChange(async (value) => {
+                settings.visRelation = value;
+                await plugin.saveSettings();
+            });
+        });
+        new obsidian.Setting(visModalDetails)
+            .setName("Default Real/Closed")
+            .setDesc("Show the real or closed graph by default")
+            .addDropdown((cb) => {
+            REAlCLOSED.forEach((option) => {
+                cb.addOption(option, option);
+            });
+            cb.setValue(settings.visClosed);
+            cb.onChange(async (value) => {
+                settings.visClosed = value;
+                await plugin.saveSettings();
+            });
+        });
+        new obsidian.Setting(visModalDetails)
+            .setName("Default Unlinked")
+            .setDesc("Show all nodes or only those which have links by default")
+            .addDropdown((cb) => {
+            ALLUNLINKED.forEach((option) => {
+                cb.addOption(option, option);
+            });
+            cb.setValue(settings.visAll);
+            cb.onChange(async (value) => {
+                settings.visAll = value;
+                await plugin.saveSettings();
+            });
+        });
+        const createIndexDetails = containerEl.createEl("details");
+        createIndexDetails.createEl("summary", { text: "Create Index" });
+        new obsidian.Setting(createIndexDetails)
+            .setName("Add wiklink brackets")
+            .setDesc("When creating an index, should it wrap the note name in wikilinks `[[]]` or not. On = yes, off = no.")
+            .addToggle((toggle) => toggle.setValue(settings.wikilinkIndex).onChange(async (value) => {
+            settings.wikilinkIndex = value;
+            await plugin.saveSettings();
+        }));
+        new obsidian.Setting(createIndexDetails)
+            .setName("Show aliases of notes in index")
+            .setDesc("Show the aliases of each note in brackets. On = yes, off = no.")
+            .addToggle((toggle) => toggle.setValue(settings.aliasesInIndex).onChange(async (value) => {
+            settings.aliasesInIndex = value;
+            await plugin.saveSettings();
+        }));
+        const debugDetails = containerEl.createEl("details");
+        debugDetails.createEl("summary", { text: "Debugging" });
+        new obsidian.Setting(debugDetails)
+            .setName("Debug Mode")
+            .setDesc("Toggling this on will enable a few console logs to appear when use the matrix/list view, or the trail.")
+            .addToggle((toggle) => toggle.setValue(settings.debugMode).onChange(async (value) => {
+            settings.debugMode = value;
+            await plugin.saveSettings();
+        }));
+        new obsidian.Setting(debugDetails)
+            .setName("Super Debug Mode")
+            .setDesc("Toggling this on will enable ALOT of console logs")
+            .addToggle((toggle) => toggle.setValue(settings.superDebugMode).onChange(async (value) => {
+            settings.superDebugMode = value;
+            await plugin.saveSettings();
+        }));
+        new KoFi({ target: this.containerEl });
+    }
+}
+
 /* src/Components/Lists.svelte generated by Svelte v3.35.0 */
 
 function add_css$4() {
@@ -24501,7 +24751,7 @@ function get_each_context_2$3(ctx, list, i) {
 	return child_ctx;
 }
 
-function get_each_context_3$1(ctx, list, i) {
+function get_each_context_3$2(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[18] = list[i];
 	return child_ctx;
@@ -24541,7 +24791,7 @@ function create_if_block$3(ctx) {
 			if (if_block1) if_block1.m(details, null);
 		},
 		p(ctx, dirty) {
-			if (dirty & /*sortedSquaresArr*/ 1 && t0_value !== (t0_value = /*square*/ ctx[12].fieldName + "")) set_data(t0, t0_value);
+			if (dirty & /*filteredSquaresArr*/ 1 && t0_value !== (t0_value = /*square*/ ctx[12].fieldName + "")) set_data(t0, t0_value);
 
 			if (/*square*/ ctx[12].realItems.length) {
 				if (if_block0) {
@@ -24586,7 +24836,7 @@ function create_if_block_3$1(ctx) {
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value_3.length; i += 1) {
-		each_blocks[i] = create_each_block_3$1(get_each_context_3$1(ctx, each_value_3, i));
+		each_blocks[i] = create_each_block_3$2(get_each_context_3$2(ctx, each_value_3, i));
 	}
 
 	return {
@@ -24622,17 +24872,17 @@ function create_if_block_3$1(ctx) {
 				if_block = null;
 			}
 
-			if (dirty & /*sortedSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 27) {
+			if (dirty & /*filteredSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 27) {
 				each_value_3 = /*square*/ ctx[12].realItems;
 				let i;
 
 				for (i = 0; i < each_value_3.length; i += 1) {
-					const child_ctx = get_each_context_3$1(ctx, each_value_3, i);
+					const child_ctx = get_each_context_3$2(ctx, each_value_3, i);
 
 					if (each_blocks[i]) {
 						each_blocks[i].p(child_ctx, dirty);
 					} else {
-						each_blocks[i] = create_each_block_3$1(child_ctx);
+						each_blocks[i] = create_each_block_3$2(child_ctx);
 						each_blocks[i].c();
 						each_blocks[i].m(ol, null);
 					}
@@ -24674,7 +24924,7 @@ function create_if_block_4$1(ctx) {
 }
 
 // (30:16) {#each square.realItems as realItem}
-function create_each_block_3$1(ctx) {
+function create_each_block_3$2(ctx) {
 	let li;
 	let div;
 	let t0_value = /*realItem*/ ctx[18].to.split("/").last() + "";
@@ -24713,9 +24963,9 @@ function create_each_block_3$1(ctx) {
 		},
 		p(new_ctx, dirty) {
 			ctx = new_ctx;
-			if (dirty & /*sortedSquaresArr*/ 1 && t0_value !== (t0_value = /*realItem*/ ctx[18].to.split("/").last() + "")) set_data(t0, t0_value);
+			if (dirty & /*filteredSquaresArr*/ 1 && t0_value !== (t0_value = /*realItem*/ ctx[18].to.split("/").last() + "")) set_data(t0, t0_value);
 
-			if (dirty & /*sortedSquaresArr*/ 1 && div_class_value !== (div_class_value = /*realItem*/ ctx[18].cls)) {
+			if (dirty & /*filteredSquaresArr*/ 1 && div_class_value !== (div_class_value = /*realItem*/ ctx[18].cls)) {
 				attr(div, "class", div_class_value);
 			}
 		},
@@ -24774,7 +25024,7 @@ function create_if_block_1$2(ctx) {
 				if_block = null;
 			}
 
-			if (dirty & /*sortedSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 27) {
+			if (dirty & /*filteredSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 27) {
 				each_value_2 = /*square*/ ctx[12].impliedItems;
 				let i;
 
@@ -24797,7 +25047,7 @@ function create_if_block_1$2(ctx) {
 				each_blocks.length = each_value_2.length;
 			}
 
-			if (dirty & /*sortedSquaresArr*/ 1 && ol_start_value !== (ol_start_value = /*square*/ ctx[12].realItems.length + 1)) {
+			if (dirty & /*filteredSquaresArr*/ 1 && ol_start_value !== (ol_start_value = /*square*/ ctx[12].realItems.length + 1)) {
 				attr(ol, "start", ol_start_value);
 			}
 		},
@@ -24867,9 +25117,9 @@ function create_each_block_2$3(ctx) {
 		},
 		p(new_ctx, dirty) {
 			ctx = new_ctx;
-			if (dirty & /*sortedSquaresArr*/ 1 && t_value !== (t_value = /*impliedItem*/ ctx[15].to.split("/").last() + "")) set_data(t, t_value);
+			if (dirty & /*filteredSquaresArr*/ 1 && t_value !== (t_value = /*impliedItem*/ ctx[15].to.split("/").last() + "")) set_data(t, t_value);
 
-			if (dirty & /*sortedSquaresArr*/ 1 && div_class_value !== (div_class_value = /*impliedItem*/ ctx[15].cls)) {
+			if (dirty & /*filteredSquaresArr*/ 1 && div_class_value !== (div_class_value = /*impliedItem*/ ctx[15].cls)) {
 				attr(div, "class", div_class_value);
 			}
 		},
@@ -24916,7 +25166,7 @@ function create_each_block_1$5(ctx) {
 	};
 }
 
-// (14:2) {#each sortedSquaresArr as squares}
+// (14:2) {#each filteredSquaresArr as squares}
 function create_each_block$5(ctx) {
 	let details;
 	let summary;
@@ -24959,9 +25209,9 @@ function create_each_block$5(ctx) {
 			append(details, t2);
 		},
 		p(ctx, dirty) {
-			if (dirty & /*sortedSquaresArr*/ 1 && t0_value !== (t0_value = /*squares*/ ctx[9].map(func).join(", ") + "")) set_data(t0, t0_value);
+			if (dirty & /*filteredSquaresArr*/ 1 && t0_value !== (t0_value = /*squares*/ ctx[9].map(func).join(", ") + "")) set_data(t0, t0_value);
 
-			if (dirty & /*sortedSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView, settings*/ 31) {
+			if (dirty & /*filteredSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView, settings*/ 31) {
 				each_value_1 = /*squares*/ ctx[9];
 				let i;
 
@@ -24993,7 +25243,7 @@ function create_each_block$5(ctx) {
 
 function create_fragment$5(ctx) {
 	let div;
-	let each_value = /*sortedSquaresArr*/ ctx[0];
+	let each_value = /*filteredSquaresArr*/ ctx[0];
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value.length; i += 1) {
@@ -25018,8 +25268,8 @@ function create_fragment$5(ctx) {
 			}
 		},
 		p(ctx, [dirty]) {
-			if (dirty & /*sortedSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView, settings*/ 31) {
-				each_value = /*sortedSquaresArr*/ ctx[0];
+			if (dirty & /*filteredSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView, settings*/ 31) {
+				each_value = /*filteredSquaresArr*/ ctx[0];
 				let i;
 
 				for (i = 0; i < each_value.length; i += 1) {
@@ -25057,7 +25307,7 @@ function instance$5($$self, $$props, $$invalidate) {
 	
 	
 	
-	let { sortedSquaresArr } = $$props;
+	let { filteredSquaresArr } = $$props;
 	let { currFile } = $$props;
 	let { settings } = $$props;
 	let { matrixView } = $$props;
@@ -25068,7 +25318,7 @@ function instance$5($$self, $$props, $$invalidate) {
 	const mouseover_handler_1 = e => hoverPreview$2(e, matrixView);
 
 	$$self.$$set = $$props => {
-		if ("sortedSquaresArr" in $$props) $$invalidate(0, sortedSquaresArr = $$props.sortedSquaresArr);
+		if ("filteredSquaresArr" in $$props) $$invalidate(0, filteredSquaresArr = $$props.filteredSquaresArr);
 		if ("currFile" in $$props) $$invalidate(1, currFile = $$props.currFile);
 		if ("settings" in $$props) $$invalidate(2, settings = $$props.settings);
 		if ("matrixView" in $$props) $$invalidate(3, matrixView = $$props.matrixView);
@@ -25076,7 +25326,7 @@ function instance$5($$self, $$props, $$invalidate) {
 	};
 
 	return [
-		sortedSquaresArr,
+		filteredSquaresArr,
 		currFile,
 		settings,
 		matrixView,
@@ -25094,7 +25344,7 @@ class Lists extends SvelteComponent {
 		if (!document.getElementById("svelte-fwoihq-style")) add_css$4();
 
 		init(this, options, instance$5, create_fragment$5, safe_not_equal, {
-			sortedSquaresArr: 0,
+			filteredSquaresArr: 0,
 			currFile: 1,
 			settings: 2,
 			matrixView: 3,
@@ -25130,7 +25380,7 @@ function get_each_context_2$2(ctx, list, i) {
 	return child_ctx;
 }
 
-function get_each_context_3(ctx, list, i) {
+function get_each_context_3$1(ctx, list, i) {
 	const child_ctx = ctx.slice();
 	child_ctx[18] = list[i];
 	return child_ctx;
@@ -25169,7 +25419,7 @@ function create_if_block$2(ctx) {
 			if (if_block1) if_block1.m(div, null);
 		},
 		p(ctx, dirty) {
-			if (dirty & /*sortedSquaresArr*/ 1 && t0_value !== (t0_value = /*square*/ ctx[12].fieldName + "")) set_data(t0, t0_value);
+			if (dirty & /*filteredSquaresArr*/ 1 && t0_value !== (t0_value = /*square*/ ctx[12].fieldName + "")) set_data(t0, t0_value);
 
 			if (/*square*/ ctx[12].realItems.length) {
 				if (if_block0) {
@@ -25214,7 +25464,7 @@ function create_if_block_3(ctx) {
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value_3.length; i += 1) {
-		each_blocks[i] = create_each_block_3(get_each_context_3(ctx, each_value_3, i));
+		each_blocks[i] = create_each_block_3$1(get_each_context_3$1(ctx, each_value_3, i));
 	}
 
 	return {
@@ -25250,17 +25500,17 @@ function create_if_block_3(ctx) {
 				if_block = null;
 			}
 
-			if (dirty & /*sortedSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 27) {
+			if (dirty & /*filteredSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 27) {
 				each_value_3 = /*square*/ ctx[12].realItems;
 				let i;
 
 				for (i = 0; i < each_value_3.length; i += 1) {
-					const child_ctx = get_each_context_3(ctx, each_value_3, i);
+					const child_ctx = get_each_context_3$1(ctx, each_value_3, i);
 
 					if (each_blocks[i]) {
 						each_blocks[i].p(child_ctx, dirty);
 					} else {
-						each_blocks[i] = create_each_block_3(child_ctx);
+						each_blocks[i] = create_each_block_3$1(child_ctx);
 						each_blocks[i].c();
 						each_blocks[i].m(ol, null);
 					}
@@ -25302,7 +25552,7 @@ function create_if_block_4(ctx) {
 }
 
 // (26:16) {#each square.realItems as realItem}
-function create_each_block_3(ctx) {
+function create_each_block_3$1(ctx) {
 	let li;
 	let div;
 	let t0_value = /*realItem*/ ctx[18].to.split("/").last() + "";
@@ -25341,9 +25591,9 @@ function create_each_block_3(ctx) {
 		},
 		p(new_ctx, dirty) {
 			ctx = new_ctx;
-			if (dirty & /*sortedSquaresArr*/ 1 && t0_value !== (t0_value = /*realItem*/ ctx[18].to.split("/").last() + "")) set_data(t0, t0_value);
+			if (dirty & /*filteredSquaresArr*/ 1 && t0_value !== (t0_value = /*realItem*/ ctx[18].to.split("/").last() + "")) set_data(t0, t0_value);
 
-			if (dirty & /*sortedSquaresArr*/ 1 && div_class_value !== (div_class_value = "" + (null_to_empty(/*realItem*/ ctx[18].cls) + " svelte-fq6v4k"))) {
+			if (dirty & /*filteredSquaresArr*/ 1 && div_class_value !== (div_class_value = "" + (null_to_empty(/*realItem*/ ctx[18].cls) + " svelte-fq6v4k"))) {
 				attr(div, "class", div_class_value);
 			}
 		},
@@ -25402,7 +25652,7 @@ function create_if_block_1$1(ctx) {
 				if_block = null;
 			}
 
-			if (dirty & /*sortedSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 27) {
+			if (dirty & /*filteredSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView*/ 27) {
 				each_value_2 = /*square*/ ctx[12].impliedItems;
 				let i;
 
@@ -25425,7 +25675,7 @@ function create_if_block_1$1(ctx) {
 				each_blocks.length = each_value_2.length;
 			}
 
-			if (dirty & /*sortedSquaresArr*/ 1 && ol_start_value !== (ol_start_value = /*square*/ ctx[12].realItems.length + 1)) {
+			if (dirty & /*filteredSquaresArr*/ 1 && ol_start_value !== (ol_start_value = /*square*/ ctx[12].realItems.length + 1)) {
 				attr(ol, "start", ol_start_value);
 			}
 		},
@@ -25495,9 +25745,9 @@ function create_each_block_2$2(ctx) {
 		},
 		p(new_ctx, dirty) {
 			ctx = new_ctx;
-			if (dirty & /*sortedSquaresArr*/ 1 && t_value !== (t_value = /*impliedItem*/ ctx[15].to.split("/").last() + "")) set_data(t, t_value);
+			if (dirty & /*filteredSquaresArr*/ 1 && t_value !== (t_value = /*impliedItem*/ ctx[15].to.split("/").last() + "")) set_data(t, t_value);
 
-			if (dirty & /*sortedSquaresArr*/ 1 && div_class_value !== (div_class_value = "" + (null_to_empty(/*impliedItem*/ ctx[15].cls) + " svelte-fq6v4k"))) {
+			if (dirty & /*filteredSquaresArr*/ 1 && div_class_value !== (div_class_value = "" + (null_to_empty(/*impliedItem*/ ctx[15].cls) + " svelte-fq6v4k"))) {
 				attr(div, "class", div_class_value);
 			}
 		},
@@ -25544,7 +25794,7 @@ function create_each_block_1$4(ctx) {
 	};
 }
 
-// (14:2) {#each sortedSquaresArr as squares}
+// (14:2) {#each filteredSquaresArr as squares}
 function create_each_block$4(ctx) {
 	let div;
 	let t;
@@ -25576,7 +25826,7 @@ function create_each_block$4(ctx) {
 			append(div, t);
 		},
 		p(ctx, dirty) {
-			if (dirty & /*sortedSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView, settings*/ 31) {
+			if (dirty & /*filteredSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView, settings*/ 31) {
 				each_value_1 = /*squares*/ ctx[9];
 				let i;
 
@@ -25608,7 +25858,7 @@ function create_each_block$4(ctx) {
 
 function create_fragment$4(ctx) {
 	let div;
-	let each_value = /*sortedSquaresArr*/ ctx[0];
+	let each_value = /*filteredSquaresArr*/ ctx[0];
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value.length; i += 1) {
@@ -25633,8 +25883,8 @@ function create_fragment$4(ctx) {
 			}
 		},
 		p(ctx, [dirty]) {
-			if (dirty & /*sortedSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView, settings*/ 31) {
-				each_value = /*sortedSquaresArr*/ ctx[0];
+			if (dirty & /*filteredSquaresArr, openOrSwitch, app, currFile, hoverPreview, matrixView, settings*/ 31) {
+				each_value = /*filteredSquaresArr*/ ctx[0];
 				let i;
 
 				for (i = 0; i < each_value.length; i += 1) {
@@ -25670,7 +25920,7 @@ function instance$4($$self, $$props, $$invalidate) {
 	
 	
 	
-	let { sortedSquaresArr } = $$props;
+	let { filteredSquaresArr } = $$props;
 	let { currFile } = $$props;
 	let { settings } = $$props;
 	let { matrixView } = $$props;
@@ -25681,7 +25931,7 @@ function instance$4($$self, $$props, $$invalidate) {
 	const mouseover_handler_1 = event => hoverPreview$2(event, matrixView);
 
 	$$self.$$set = $$props => {
-		if ("sortedSquaresArr" in $$props) $$invalidate(0, sortedSquaresArr = $$props.sortedSquaresArr);
+		if ("filteredSquaresArr" in $$props) $$invalidate(0, filteredSquaresArr = $$props.filteredSquaresArr);
 		if ("currFile" in $$props) $$invalidate(1, currFile = $$props.currFile);
 		if ("settings" in $$props) $$invalidate(2, settings = $$props.settings);
 		if ("matrixView" in $$props) $$invalidate(3, matrixView = $$props.matrixView);
@@ -25689,7 +25939,7 @@ function instance$4($$self, $$props, $$invalidate) {
 	};
 
 	return [
-		sortedSquaresArr,
+		filteredSquaresArr,
 		currFile,
 		settings,
 		matrixView,
@@ -25707,7 +25957,7 @@ class Matrix extends SvelteComponent {
 		if (!document.getElementById("svelte-fq6v4k-style")) add_css$3();
 
 		init(this, options, instance$4, create_fragment$4, safe_not_equal, {
-			sortedSquaresArr: 0,
+			filteredSquaresArr: 0,
 			currFile: 1,
 			settings: 2,
 			matrixView: 3,
@@ -25727,7 +25977,11 @@ class MatrixView extends obsidian.ItemView {
         await this.plugin.saveSettings();
         this.matrixQ = this.plugin.settings.defaultView;
         this.app.workspace.onLayoutReady(async () => {
-            setTimeout(async () => await this.draw(), DATAVIEW_INDEX_DELAY);
+            setTimeout(async () => await this.draw(), this.app.plugins.plugins.dataview
+                ? this.app.plugins.plugins.dataview.api
+                    ? 1
+                    : this.plugin.settings.dvWaitTime
+                : 3000);
         });
         this.plugin.addCommand({
             id: "local-index",
@@ -25735,13 +25989,7 @@ class MatrixView extends obsidian.ItemView {
             callback: async () => {
                 const settings = this.plugin.settings;
                 const currFile = this.app.workspace.getActiveFile().basename;
-                const allUps = getAllXGs(this.plugin, "up");
-                const allDowns = getAllXGs(this.plugin, "down");
-                console.log({ allUps, allDowns });
-                const upG = mergeGs(...Object.values(allUps));
-                const downG = mergeGs(...Object.values(allDowns));
-                console.log({ upG, downG });
-                const closedParents = closeImpliedLinks(upG, downG);
+                const closedParents = this.plugin.currGraphs.closedGs.down;
                 const allPaths = this.dfsAllPaths(closedParents, currFile);
                 const index = this.createIndex(currFile + "\n", allPaths, settings);
                 debug(settings, { index });
@@ -25752,14 +26000,9 @@ class MatrixView extends obsidian.ItemView {
             id: "global-index",
             name: "Copy a Global Index to the clipboard",
             callback: async () => {
-                const allUps = getAllXGs(this.plugin, "up");
-                const allDowns = getAllXGs(this.plugin, "down");
-                console.log({ allUps, allDowns });
-                const upG = mergeGs(...Object.values(allUps));
-                const downG = mergeGs(...Object.values(allDowns));
-                console.log({ upG, downG });
-                const closedParents = closeImpliedLinks(upG, downG);
-                const terminals = upG.sinks();
+                const { up } = this.plugin.currGraphs.mergedGs;
+                const closedParents = this.plugin.currGraphs.closedGs.down;
+                const terminals = up.sinks();
                 const settings = this.plugin.settings;
                 let globalIndex = "";
                 terminals.forEach((terminal) => {
@@ -25897,10 +26140,11 @@ class MatrixView extends obsidian.ItemView {
     }
     async draw() {
         this.contentEl.empty();
+        const settings = this.plugin.settings;
+        debugGroupStart(settings, "debugMode", "Draw Matrix/List View");
         const hierGs = this.plugin.currGraphs;
         const { userHierarchies } = this.plugin.settings;
         const currFile = this.app.workspace.getActiveFile();
-        const settings = this.plugin.settings;
         const viewToggleButton = this.contentEl.createEl("button", {
             text: this.matrixQ ? "List" : "Matrix",
         });
@@ -25909,51 +26153,70 @@ class MatrixView extends obsidian.ItemView {
             viewToggleButton.innerText = this.matrixQ ? "List" : "Matrix";
             await this.draw();
         });
-        const data = hierGs.map((hier) => {
+        const refreshIndexButton = this.contentEl.createEl("button", {
+            text: "Refresh Index",
+        });
+        refreshIndexButton.addEventListener("click", async () => {
+            await this.plugin.refreshIndex();
+        });
+        const data = hierGs.hierGs.map((hier) => {
             const hierData = {
                 up: undefined,
                 same: undefined,
                 down: undefined,
             };
             DIRECTIONS.forEach((dir) => {
+                // This is merging all graphs in Dir **In a particular hierarchy**, not accross all hierarchies like mergeGs(getAllGsInDir()) does
                 hierData[dir] = mergeGs(...Object.values(hier[dir]));
             });
             return hierData;
         });
+        debug(settings, { data });
         const hierSquares = userHierarchies.map((hier, i) => {
             var _a;
+            const [currUpG, currSameG, currDownG] = [
+                data[i].up,
+                data[i].same,
+                data[i].down,
+            ];
             let [rUp, rSame, rDown, iUp, iDown] = [
-                this.squareItems(data[i].up, currFile),
-                this.squareItems(data[i].same, currFile),
-                this.squareItems(data[i].down, currFile),
-                this.squareItems(data[i].down, currFile, false),
-                this.squareItems(data[i].up, currFile, false),
+                this.squareItems(currUpG, currFile),
+                this.squareItems(currSameG, currFile),
+                this.squareItems(currDownG, currFile),
+                this.squareItems(currDownG, currFile, false),
+                this.squareItems(currUpG, currFile, false),
             ];
             // SECTION Implied Siblings
             /// Notes with the same parents
-            const currParents = ((_a = data[i].up.successors(currFile.basename)) !== null && _a !== void 0 ? _a : []);
+            const currParents = ((_a = currUpG.successors(currFile.basename)) !== null && _a !== void 0 ? _a : []);
             let iSameArr = [];
-            if (currParents.length) {
-                currParents.forEach((parent) => {
-                    var _a;
-                    const impliedSiblings = ((_a = data[i].up.predecessors(parent)) !== null && _a !== void 0 ? _a : []);
-                    // The current note is always it's own implied sibling, so remove it from the list
-                    const indexCurrNote = impliedSiblings.indexOf(currFile.basename);
-                    impliedSiblings.splice(indexCurrNote, 1);
-                    // Create thie implied sibling SquareProps
-                    impliedSiblings.forEach((impliedSibling) => {
-                        iSameArr.push({
-                            to: impliedSibling,
-                            cls: "internal-link breadcrumbs-link breadcrumbs-implied" +
-                                (this.unresolvedQ(impliedSibling, currFile.path)
-                                    ? " is-unresolved"
-                                    : ""),
-                        });
+            currParents.forEach((parent) => {
+                var _a;
+                let impliedSiblings = ((_a = currUpG.predecessors(parent)) !== null && _a !== void 0 ? _a : []);
+                // The current note is always it's own implied sibling, so remove it from the list
+                const indexCurrNote = impliedSiblings.indexOf(currFile.basename);
+                impliedSiblings.splice(indexCurrNote, 1);
+                if (settings.filterImpliedSiblingsOfDifferentTypes) {
+                    impliedSiblings = impliedSiblings.filter((iSibling) => {
+                        const iSiblingType = currUpG.node(iSibling).fieldName;
+                        const currNodeType = currUpG.node(currFile.basename).fieldName;
+                        console.log({ iSiblingType, currNodeType });
+                        return iSiblingType === currNodeType;
+                    });
+                }
+                // Create the implied sibling SquareProps
+                impliedSiblings.forEach((impliedSibling) => {
+                    iSameArr.push({
+                        to: impliedSibling,
+                        cls: "internal-link breadcrumbs-link breadcrumbs-implied" +
+                            (this.unresolvedQ(impliedSibling, currFile.path)
+                                ? " is-unresolved"
+                                : ""),
                     });
                 });
-            }
+            });
             /// A real sibling implies the reverse sibling
-            iSameArr.push(...this.squareItems(data[i].same, currFile, false));
+            iSameArr.push(...this.squareItems(currSameG, currFile, false));
             // !SECTION
             iUp = this.removeDuplicateImplied(rUp, iUp);
             iSameArr = this.removeDuplicateImplied(rSame, iSameArr);
@@ -25969,31 +26232,33 @@ class MatrixView extends obsidian.ItemView {
             const upSquare = {
                 realItems: rUp,
                 impliedItems: iUp,
-                fieldName: hier.up.join(", "),
+                fieldName: hier.up[0] === ""
+                    ? `${hier.down.join(",")}<Parents>`
+                    : hier.up.join(", "),
             };
             const sameSquare = {
                 realItems: rSame,
                 impliedItems: iSameArr,
-                fieldName: hier.same.join(", "),
+                fieldName: hier.same[0] === ""
+                    ? `${hier.up.join(",")}<Siblings>`
+                    : hier.same.join(", "),
             };
             const downSquare = {
                 realItems: rDown,
                 impliedItems: iDown,
-                fieldName: hier.down.join(", "),
+                fieldName: hier.down[0] === ""
+                    ? `${hier.up.join(",")}<Children>`
+                    : hier.down.join(", "),
             };
             return [upSquare, sameSquare, downSquare];
         });
-        console.log({ hierSquares });
-        const filteredSquares = hierSquares.filter((squareArr) => squareArr.some((square) => square.realItems.length + square.impliedItems.length > 0));
-        console.log({ filteredSquares });
-        const sortedSquaresArr = filteredSquares.sort((a, b) => lodash.sum(b.map((square) => square.realItems.length + square.impliedItems.length)) -
-            lodash.sum(a.map((square) => square.realItems.length + square.impliedItems.length)));
-        console.log({ sortedSquaresArr });
+        debug(settings, { hierSquares });
+        const filteredSquaresArr = hierSquares.filter((squareArr) => squareArr.some((square) => square.realItems.length + square.impliedItems.length > 0));
         if (this.matrixQ) {
             this.view = new Matrix({
                 target: this.contentEl,
                 props: {
-                    sortedSquaresArr,
+                    filteredSquaresArr,
                     currFile,
                     settings: settings,
                     matrixView: this,
@@ -26005,7 +26270,7 @@ class MatrixView extends obsidian.ItemView {
             this.view = new Lists({
                 target: this.contentEl,
                 props: {
-                    sortedSquaresArr,
+                    filteredSquaresArr,
                     currFile,
                     settings: settings,
                     matrixView: this,
@@ -26013,6 +26278,7 @@ class MatrixView extends obsidian.ItemView {
                 },
             });
         }
+        debugGroupEnd(settings, "debugMode");
     }
 }
 
@@ -26020,49 +26286,73 @@ class MatrixView extends obsidian.ItemView {
 
 function add_css$2() {
 	var style = element("style");
-	style.id = "svelte-55998x-style";
-	style.textContent = "td.svelte-55998x:first-child{text-align:right}td.svelte-55998x,th.svelte-55998x{padding:3px;border:1px solid var(--text-accent);white-space:pre-line}";
+	style.id = "svelte-rb5mhu-style";
+	style.textContent = "table.svelte-rb5mhu{border-collapse:collapse}td.svelte-rb5mhu:first-child{text-align:right}td.svelte-rb5mhu,th.svelte-rb5mhu{padding:3px;border:1px solid var(--background-modifier-border);white-space:pre-line}";
 	append(document.head, style);
 }
 
 function get_each_context$3(ctx, list, i) {
 	const child_ctx = ctx.slice();
-	child_ctx[12] = list[i];
-	child_ctx[14] = i;
+	child_ctx[23] = list[i];
 	return child_ctx;
 }
 
 function get_each_context_1$3(ctx, list, i) {
 	const child_ctx = ctx.slice();
-	child_ctx[15] = list[i];
+	child_ctx[23] = list[i];
 	return child_ctx;
 }
 
 function get_each_context_2$1(ctx, list, i) {
 	const child_ctx = ctx.slice();
-	child_ctx[15] = list[i];
+	child_ctx[23] = list[i];
 	return child_ctx;
 }
 
-// (132:6) {#each ["up", "same", "down"] as dir}
-function create_each_block_2$1(ctx) {
+function get_each_context_3(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[30] = list[i];
+	child_ctx[32] = i;
+	return child_ctx;
+}
+
+function get_each_context_4(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[23] = list[i];
+	return child_ctx;
+}
+
+function get_each_context_5(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[23] = list[i];
+	return child_ctx;
+}
+
+function get_each_context_6(ctx, list, i) {
+	const child_ctx = ctx.slice();
+	child_ctx[23] = list[i];
+	return child_ctx;
+}
+
+// (94:6) {#each ["up", "same", "down"] as dir}
+function create_each_block_6(ctx) {
 	let td;
-	let t_value = /*data*/ ctx[1][/*i*/ ctx[14]][/*dir*/ ctx[15]].Merged.nodes.length + "";
+	let t_value = /*data*/ ctx[1][/*i*/ ctx[32]][/*dir*/ ctx[23]].Merged.nodes.length + "";
 	let t;
 	let td_aria_label_value;
 	let mounted;
 	let dispose;
 
 	function click_handler() {
-		return /*click_handler*/ ctx[4](/*i*/ ctx[14], /*dir*/ ctx[15]);
+		return /*click_handler*/ ctx[4](/*i*/ ctx[32], /*dir*/ ctx[23]);
 	}
 
 	return {
 		c() {
 			td = element("td");
 			t = text(t_value);
-			attr(td, "aria-label", td_aria_label_value = /*data*/ ctx[1][/*i*/ ctx[14]][/*dir*/ ctx[15]].Merged.nodesStr);
-			attr(td, "class", "svelte-55998x");
+			attr(td, "aria-label", td_aria_label_value = /*data*/ ctx[1][/*i*/ ctx[32]][/*dir*/ ctx[23]].Merged.nodesStr);
+			attr(td, "class", "svelte-rb5mhu");
 		},
 		m(target, anchor) {
 			insert(target, td, anchor);
@@ -26084,25 +26374,25 @@ function create_each_block_2$1(ctx) {
 	};
 }
 
-// (164:6) {#each ["up", "same", "down"] as dir}
-function create_each_block_1$3(ctx) {
+// (126:6) {#each ["up", "same", "down"] as dir}
+function create_each_block_5(ctx) {
 	let td;
-	let t_value = /*data*/ ctx[1][/*i*/ ctx[14]][/*dir*/ ctx[15]].Merged.edges.length + "";
+	let t_value = /*data*/ ctx[1][/*i*/ ctx[32]][/*dir*/ ctx[23]].Merged.edges.length + "";
 	let t;
 	let td_aria_label_value;
 	let mounted;
 	let dispose;
 
 	function click_handler_2() {
-		return /*click_handler_2*/ ctx[6](/*i*/ ctx[14], /*dir*/ ctx[15]);
+		return /*click_handler_2*/ ctx[6](/*i*/ ctx[32], /*dir*/ ctx[23]);
 	}
 
 	return {
 		c() {
 			td = element("td");
 			t = text(t_value);
-			attr(td, "aria-label", td_aria_label_value = /*data*/ ctx[1][/*i*/ ctx[14]][/*dir*/ ctx[15]].Merged.edgesStr);
-			attr(td, "class", "svelte-55998x");
+			attr(td, "aria-label", td_aria_label_value = /*data*/ ctx[1][/*i*/ ctx[32]][/*dir*/ ctx[23]].Merged.edgesStr);
+			attr(td, "class", "svelte-rb5mhu");
 		},
 		m(target, anchor) {
 			insert(target, td, anchor);
@@ -26124,11 +26414,51 @@ function create_each_block_1$3(ctx) {
 	};
 }
 
-// (126:2) {#each userHierarchies as hier, i}
-function create_each_block$3(ctx) {
+// (158:6) {#each ["up", "same", "down"] as dir}
+function create_each_block_4(ctx) {
+	let td;
+	let t_value = /*data*/ ctx[1][/*i*/ ctx[32]][/*dir*/ ctx[23]].Implied.edges.length + "";
+	let t;
+	let td_aria_label_value;
+	let mounted;
+	let dispose;
+
+	function click_handler_4() {
+		return /*click_handler_4*/ ctx[8](/*i*/ ctx[32], /*dir*/ ctx[23]);
+	}
+
+	return {
+		c() {
+			td = element("td");
+			t = text(t_value);
+			attr(td, "aria-label", td_aria_label_value = /*data*/ ctx[1][/*i*/ ctx[32]][/*dir*/ ctx[23]].Implied.edgesStr);
+			attr(td, "class", "svelte-rb5mhu");
+		},
+		m(target, anchor) {
+			insert(target, td, anchor);
+			append(td, t);
+
+			if (!mounted) {
+				dispose = listen(td, "click", click_handler_4);
+				mounted = true;
+			}
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+		},
+		d(detaching) {
+			if (detaching) detach(td);
+			mounted = false;
+			dispose();
+		}
+	};
+}
+
+// (88:2) {#each userHierarchies as hier, i}
+function create_each_block_3(ctx) {
 	let tr0;
 	let td0;
-	let t0_value = /*hierStrs*/ ctx[2][/*i*/ ctx[14]] + "";
+	let t0_value = /*hierStrs*/ ctx[2][/*i*/ ctx[32]] + "";
 	let t0;
 	let t1;
 	let td1;
@@ -26137,9 +26467,9 @@ function create_each_block$3(ctx) {
 	let td2;
 
 	let t5_value = [
-		.../*data*/ ctx[1][/*i*/ ctx[14]].up.Merged.nodes,
-		.../*data*/ ctx[1][/*i*/ ctx[14]].same.Merged.nodes,
-		.../*data*/ ctx[1][/*i*/ ctx[14]].down.Merged.nodes
+		.../*data*/ ctx[1][/*i*/ ctx[32]].up.Merged.nodes,
+		.../*data*/ ctx[1][/*i*/ ctx[32]].same.Merged.nodes,
+		.../*data*/ ctx[1][/*i*/ ctx[32]].down.Merged.nodes
 	].length + "";
 
 	let t5;
@@ -26152,36 +26482,61 @@ function create_each_block$3(ctx) {
 	let td4;
 
 	let t10_value = [
-		.../*data*/ ctx[1][/*i*/ ctx[14]].up.Merged.edges,
-		.../*data*/ ctx[1][/*i*/ ctx[14]].same.Merged.edges,
-		.../*data*/ ctx[1][/*i*/ ctx[14]].down.Merged.edges
+		.../*data*/ ctx[1][/*i*/ ctx[32]].up.Merged.edges,
+		.../*data*/ ctx[1][/*i*/ ctx[32]].same.Merged.edges,
+		.../*data*/ ctx[1][/*i*/ ctx[32]].down.Merged.edges
 	].length + "";
 
 	let t10;
 	let td4_aria_label_value;
 	let t11;
+	let tr2;
+	let td5;
+	let t13;
+	let t14;
+	let td6;
+
+	let t15_value = [
+		.../*data*/ ctx[1][/*i*/ ctx[32]].up.Implied.edges,
+		.../*data*/ ctx[1][/*i*/ ctx[32]].same.Implied.edges,
+		.../*data*/ ctx[1][/*i*/ ctx[32]].down.Implied.edges
+	].length + "";
+
+	let t15;
+	let td6_aria_label_value;
 	let mounted;
 	let dispose;
-	let each_value_2 = ["up", "same", "down"];
-	let each_blocks_1 = [];
+	let each_value_6 = ["up", "same", "down"];
+	let each_blocks_2 = [];
 
 	for (let i = 0; i < 3; i += 1) {
-		each_blocks_1[i] = create_each_block_2$1(get_each_context_2$1(ctx, each_value_2, i));
+		each_blocks_2[i] = create_each_block_6(get_each_context_6(ctx, each_value_6, i));
 	}
 
 	function click_handler_1() {
-		return /*click_handler_1*/ ctx[5](/*i*/ ctx[14]);
+		return /*click_handler_1*/ ctx[5](/*i*/ ctx[32]);
 	}
 
-	let each_value_1 = ["up", "same", "down"];
-	let each_blocks = [];
+	let each_value_5 = ["up", "same", "down"];
+	let each_blocks_1 = [];
 
 	for (let i = 0; i < 3; i += 1) {
-		each_blocks[i] = create_each_block_1$3(get_each_context_1$3(ctx, each_value_1, i));
+		each_blocks_1[i] = create_each_block_5(get_each_context_5(ctx, each_value_5, i));
 	}
 
 	function click_handler_3() {
-		return /*click_handler_3*/ ctx[7](/*i*/ ctx[14]);
+		return /*click_handler_3*/ ctx[7](/*i*/ ctx[32]);
+	}
+
+	let each_value_4 = ["up", "same", "down"];
+	let each_blocks = [];
+
+	for (let i = 0; i < 3; i += 1) {
+		each_blocks[i] = create_each_block_4(get_each_context_4(ctx, each_value_4, i));
+	}
+
+	function click_handler_5() {
+		return /*click_handler_5*/ ctx[9](/*i*/ ctx[32]);
 	}
 
 	return {
@@ -26191,11 +26546,11 @@ function create_each_block$3(ctx) {
 			t0 = text(t0_value);
 			t1 = space();
 			td1 = element("td");
-			td1.textContent = "Real Nodes";
+			td1.textContent = "Nodes";
 			t3 = space();
 
 			for (let i = 0; i < 3; i += 1) {
-				each_blocks_1[i].c();
+				each_blocks_2[i].c();
 			}
 
 			t4 = space();
@@ -26204,37 +26559,58 @@ function create_each_block$3(ctx) {
 			t6 = space();
 			tr1 = element("tr");
 			td3 = element("td");
-			td3.textContent = "Edges";
+			td3.textContent = "Real Edges";
 			t8 = space();
 
 			for (let i = 0; i < 3; i += 1) {
-				each_blocks[i].c();
+				each_blocks_1[i].c();
 			}
 
 			t9 = space();
 			td4 = element("td");
 			t10 = text(t10_value);
 			t11 = space();
-			attr(td0, "rowspan", "2");
-			attr(td0, "class", "svelte-55998x");
-			attr(td1, "class", "svelte-55998x");
+			tr2 = element("tr");
+			td5 = element("td");
+			td5.textContent = "Implied Edges";
+			t13 = space();
+
+			for (let i = 0; i < 3; i += 1) {
+				each_blocks[i].c();
+			}
+
+			t14 = space();
+			td6 = element("td");
+			t15 = text(t15_value);
+			attr(td0, "rowspan", "3");
+			attr(td0, "class", "svelte-rb5mhu");
+			attr(td1, "class", "svelte-rb5mhu");
 
 			attr(td2, "aria-label", td2_aria_label_value = [
-				/*data*/ ctx[1][/*i*/ ctx[14]].up.Merged.nodesStr,
-				/*data*/ ctx[1][/*i*/ ctx[14]].same.Merged.nodesStr,
-				/*data*/ ctx[1][/*i*/ ctx[14]].down.Merged.nodesStr
+				/*data*/ ctx[1][/*i*/ ctx[32]].up.Merged.nodesStr,
+				/*data*/ ctx[1][/*i*/ ctx[32]].same.Merged.nodesStr,
+				/*data*/ ctx[1][/*i*/ ctx[32]].down.Merged.nodesStr
 			].join("\n"));
 
-			attr(td2, "class", "svelte-55998x");
-			attr(td3, "class", "svelte-55998x");
+			attr(td2, "class", "svelte-rb5mhu");
+			attr(td3, "class", "svelte-rb5mhu");
 
 			attr(td4, "aria-label", td4_aria_label_value = [
-				/*data*/ ctx[1][/*i*/ ctx[14]].up.Merged.edgesStr,
-				/*data*/ ctx[1][/*i*/ ctx[14]].same.Merged.edgesStr,
-				/*data*/ ctx[1][/*i*/ ctx[14]].down.Merged.edgesStr
+				/*data*/ ctx[1][/*i*/ ctx[32]].up.Merged.edgesStr,
+				/*data*/ ctx[1][/*i*/ ctx[32]].same.Merged.edgesStr,
+				/*data*/ ctx[1][/*i*/ ctx[32]].down.Merged.edgesStr
 			].join("\n"));
 
-			attr(td4, "class", "svelte-55998x");
+			attr(td4, "class", "svelte-rb5mhu");
+			attr(td5, "class", "svelte-rb5mhu");
+
+			attr(td6, "aria-label", td6_aria_label_value = [
+				/*data*/ ctx[1][/*i*/ ctx[32]].up.Implied.edgesStr,
+				/*data*/ ctx[1][/*i*/ ctx[32]].same.Implied.edgesStr,
+				/*data*/ ctx[1][/*i*/ ctx[32]].down.Implied.edgesStr
+			].join("\n"));
+
+			attr(td6, "class", "svelte-rb5mhu");
 		},
 		m(target, anchor) {
 			insert(target, tr0, anchor);
@@ -26245,7 +26621,7 @@ function create_each_block$3(ctx) {
 			append(tr0, t3);
 
 			for (let i = 0; i < 3; i += 1) {
-				each_blocks_1[i].m(tr0, null);
+				each_blocks_2[i].m(tr0, null);
 			}
 
 			append(tr0, t4);
@@ -26257,18 +26633,30 @@ function create_each_block$3(ctx) {
 			append(tr1, t8);
 
 			for (let i = 0; i < 3; i += 1) {
-				each_blocks[i].m(tr1, null);
+				each_blocks_1[i].m(tr1, null);
 			}
 
 			append(tr1, t9);
 			append(tr1, td4);
 			append(td4, t10);
-			append(tr1, t11);
+			insert(target, t11, anchor);
+			insert(target, tr2, anchor);
+			append(tr2, td5);
+			append(tr2, t13);
+
+			for (let i = 0; i < 3; i += 1) {
+				each_blocks[i].m(tr2, null);
+			}
+
+			append(tr2, t14);
+			append(tr2, td6);
+			append(td6, t15);
 
 			if (!mounted) {
 				dispose = [
 					listen(td2, "click", click_handler_1),
-					listen(td4, "click", click_handler_3)
+					listen(td4, "click", click_handler_3),
+					listen(td6, "click", click_handler_5)
 				];
 
 				mounted = true;
@@ -26277,19 +26665,40 @@ function create_each_block$3(ctx) {
 		p(new_ctx, dirty) {
 			ctx = new_ctx;
 
-			if (dirty & /*data, copy*/ 2) {
-				each_value_2 = ["up", "same", "down"];
+			if (dirty[0] & /*data*/ 2) {
+				each_value_6 = ["up", "same", "down"];
 				let i;
 
 				for (i = 0; i < 3; i += 1) {
-					const child_ctx = get_each_context_2$1(ctx, each_value_2, i);
+					const child_ctx = get_each_context_6(ctx, each_value_6, i);
+
+					if (each_blocks_2[i]) {
+						each_blocks_2[i].p(child_ctx, dirty);
+					} else {
+						each_blocks_2[i] = create_each_block_6(child_ctx);
+						each_blocks_2[i].c();
+						each_blocks_2[i].m(tr0, t4);
+					}
+				}
+
+				for (; i < 3; i += 1) {
+					each_blocks_2[i].d(1);
+				}
+			}
+
+			if (dirty[0] & /*data*/ 2) {
+				each_value_5 = ["up", "same", "down"];
+				let i;
+
+				for (i = 0; i < 3; i += 1) {
+					const child_ctx = get_each_context_5(ctx, each_value_5, i);
 
 					if (each_blocks_1[i]) {
 						each_blocks_1[i].p(child_ctx, dirty);
 					} else {
-						each_blocks_1[i] = create_each_block_2$1(child_ctx);
+						each_blocks_1[i] = create_each_block_5(child_ctx);
 						each_blocks_1[i].c();
-						each_blocks_1[i].m(tr0, t4);
+						each_blocks_1[i].m(tr1, t9);
 					}
 				}
 
@@ -26298,19 +26707,19 @@ function create_each_block$3(ctx) {
 				}
 			}
 
-			if (dirty & /*data, copy*/ 2) {
-				each_value_1 = ["up", "same", "down"];
+			if (dirty[0] & /*data*/ 2) {
+				each_value_4 = ["up", "same", "down"];
 				let i;
 
 				for (i = 0; i < 3; i += 1) {
-					const child_ctx = get_each_context_1$3(ctx, each_value_1, i);
+					const child_ctx = get_each_context_4(ctx, each_value_4, i);
 
 					if (each_blocks[i]) {
 						each_blocks[i].p(child_ctx, dirty);
 					} else {
-						each_blocks[i] = create_each_block_1$3(child_ctx);
+						each_blocks[i] = create_each_block_4(child_ctx);
 						each_blocks[i].c();
-						each_blocks[i].m(tr1, t9);
+						each_blocks[i].m(tr2, t14);
 					}
 				}
 
@@ -26321,12 +26730,168 @@ function create_each_block$3(ctx) {
 		},
 		d(detaching) {
 			if (detaching) detach(tr0);
-			destroy_each(each_blocks_1, detaching);
+			destroy_each(each_blocks_2, detaching);
 			if (detaching) detach(t6);
 			if (detaching) detach(tr1);
+			destroy_each(each_blocks_1, detaching);
+			if (detaching) detach(t11);
+			if (detaching) detach(tr2);
 			destroy_each(each_blocks, detaching);
 			mounted = false;
 			run_all(dispose);
+		}
+	};
+}
+
+// (192:4) {#each ["up", "same", "down"] as dir}
+function create_each_block_2$1(ctx) {
+	let td;
+	let t0_value = lodash.sum(/*data*/ ctx[1].map(func)) + "";
+	let t0;
+	let t1;
+	let td_aria_label_value;
+	let mounted;
+	let dispose;
+
+	function func(...args) {
+		return /*func*/ ctx[10](/*dir*/ ctx[23], ...args);
+	}
+
+	function func_1(...args) {
+		return /*func_1*/ ctx[11](/*dir*/ ctx[23], ...args);
+	}
+
+	function click_handler_6() {
+		return /*click_handler_6*/ ctx[12](/*dir*/ ctx[23]);
+	}
+
+	return {
+		c() {
+			td = element("td");
+			t0 = text(t0_value);
+			t1 = space();
+			attr(td, "aria-label", td_aria_label_value = /*data*/ ctx[1].map(func_1).join("\n"));
+			attr(td, "class", "svelte-rb5mhu");
+		},
+		m(target, anchor) {
+			insert(target, td, anchor);
+			append(td, t0);
+			append(td, t1);
+
+			if (!mounted) {
+				dispose = listen(td, "click", click_handler_6);
+				mounted = true;
+			}
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+		},
+		d(detaching) {
+			if (detaching) detach(td);
+			mounted = false;
+			dispose();
+		}
+	};
+}
+
+// (231:4) {#each ["up", "same", "down"] as dir}
+function create_each_block_1$3(ctx) {
+	let td;
+	let t0_value = lodash.sum(/*data*/ ctx[1].map(func_2)) + "";
+	let t0;
+	let t1;
+	let td_aria_label_value;
+	let mounted;
+	let dispose;
+
+	function func_2(...args) {
+		return /*func_2*/ ctx[13](/*dir*/ ctx[23], ...args);
+	}
+
+	function func_3(...args) {
+		return /*func_3*/ ctx[14](/*dir*/ ctx[23], ...args);
+	}
+
+	function click_handler_7() {
+		return /*click_handler_7*/ ctx[15](/*dir*/ ctx[23]);
+	}
+
+	return {
+		c() {
+			td = element("td");
+			t0 = text(t0_value);
+			t1 = space();
+			attr(td, "aria-label", td_aria_label_value = /*data*/ ctx[1].map(func_3).join("\n"));
+			attr(td, "class", "svelte-rb5mhu");
+		},
+		m(target, anchor) {
+			insert(target, td, anchor);
+			append(td, t0);
+			append(td, t1);
+
+			if (!mounted) {
+				dispose = listen(td, "click", click_handler_7);
+				mounted = true;
+			}
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+		},
+		d(detaching) {
+			if (detaching) detach(td);
+			mounted = false;
+			dispose();
+		}
+	};
+}
+
+// (266:4) {#each ["up", "same", "down"] as dir}
+function create_each_block$3(ctx) {
+	let td;
+	let t0_value = lodash.sum(/*data*/ ctx[1].map(func_4)) + "";
+	let t0;
+	let t1;
+	let td_aria_label_value;
+	let mounted;
+	let dispose;
+
+	function func_4(...args) {
+		return /*func_4*/ ctx[16](/*dir*/ ctx[23], ...args);
+	}
+
+	function func_5(...args) {
+		return /*func_5*/ ctx[17](/*dir*/ ctx[23], ...args);
+	}
+
+	function click_handler_8() {
+		return /*click_handler_8*/ ctx[18](/*dir*/ ctx[23]);
+	}
+
+	return {
+		c() {
+			td = element("td");
+			t0 = text(t0_value);
+			t1 = space();
+			attr(td, "aria-label", td_aria_label_value = /*data*/ ctx[1].map(func_5).join("\n"));
+			attr(td, "class", "svelte-rb5mhu");
+		},
+		m(target, anchor) {
+			insert(target, td, anchor);
+			append(td, t0);
+			append(td, t1);
+
+			if (!mounted) {
+				dispose = listen(td, "click", click_handler_8);
+				mounted = true;
+			}
+		},
+		p(new_ctx, dirty) {
+			ctx = new_ctx;
+		},
+		d(detaching) {
+			if (detaching) detach(td);
+			mounted = false;
+			dispose();
 		}
 	};
 }
@@ -26337,10 +26902,45 @@ function create_fragment$3(ctx) {
 	let t3;
 	let tr1;
 	let t14;
-	let each_value = /*userHierarchies*/ ctx[0];
+	let t15;
+	let tr2;
+	let td6;
+	let t17;
+	let td7;
+	let t19;
+	let t20;
+	let tr3;
+	let td8;
+	let t22;
+	let t23;
+	let tr4;
+	let td9;
+	let t25;
+	let each_value_3 = /*userHierarchies*/ ctx[0];
+	let each_blocks_3 = [];
+
+	for (let i = 0; i < each_value_3.length; i += 1) {
+		each_blocks_3[i] = create_each_block_3(get_each_context_3(ctx, each_value_3, i));
+	}
+
+	let each_value_2 = ["up", "same", "down"];
+	let each_blocks_2 = [];
+
+	for (let i = 0; i < 3; i += 1) {
+		each_blocks_2[i] = create_each_block_2$1(get_each_context_2$1(ctx, each_value_2, i));
+	}
+
+	let each_value_1 = ["up", "same", "down"];
+	let each_blocks_1 = [];
+
+	for (let i = 0; i < 3; i += 1) {
+		each_blocks_1[i] = create_each_block_1$3(get_each_context_1$3(ctx, each_value_1, i));
+	}
+
+	let each_value = ["up", "same", "down"];
 	let each_blocks = [];
 
-	for (let i = 0; i < each_value.length; i += 1) {
+	for (let i = 0; i < 3; i += 1) {
 		each_blocks[i] = create_each_block$3(get_each_context$3(ctx, each_value, i));
 	}
 
@@ -26349,26 +26949,64 @@ function create_fragment$3(ctx) {
 			table = element("table");
 			thead = element("thead");
 
-			thead.innerHTML = `<tr><th scope="col" class="svelte-55998x">Hierarchy</th> 
-      <th scope="col" colspan="5" class="svelte-55998x">Count</th></tr>`;
+			thead.innerHTML = `<tr><th scope="col" class="svelte-rb5mhu">Hierarchy</th> 
+      <th scope="col" colspan="5" class="svelte-rb5mhu">Count</th></tr>`;
 
 			t3 = space();
 			tr1 = element("tr");
 
-			tr1.innerHTML = `<td class="svelte-55998x"></td> 
-    <td class="svelte-55998x">Measure</td> 
-    <td class="svelte-55998x">Up</td> 
-    <td class="svelte-55998x">Same</td> 
-    <td class="svelte-55998x">Down</td> 
-    <td class="svelte-55998x">Total</td>`;
+			tr1.innerHTML = `<td class="svelte-rb5mhu"></td> 
+    <td class="svelte-rb5mhu">Measure</td> 
+    <td class="svelte-rb5mhu">↑</td> 
+    <td class="svelte-rb5mhu">→</td> 
+    <td class="svelte-rb5mhu">↓</td> 
+    <td class="svelte-rb5mhu">Total</td>`;
 
 			t14 = space();
 
-			for (let i = 0; i < each_blocks.length; i += 1) {
+			for (let i = 0; i < each_blocks_3.length; i += 1) {
+				each_blocks_3[i].c();
+			}
+
+			t15 = space();
+			tr2 = element("tr");
+			td6 = element("td");
+			td6.textContent = "Totals";
+			t17 = space();
+			td7 = element("td");
+			td7.textContent = "Nodes";
+			t19 = space();
+
+			for (let i = 0; i < 3; i += 1) {
+				each_blocks_2[i].c();
+			}
+
+			t20 = space();
+			tr3 = element("tr");
+			td8 = element("td");
+			td8.textContent = "Real Edges";
+			t22 = space();
+
+			for (let i = 0; i < 3; i += 1) {
+				each_blocks_1[i].c();
+			}
+
+			t23 = space();
+			tr4 = element("tr");
+			td9 = element("td");
+			td9.textContent = "Implied Edges";
+			t25 = space();
+
+			for (let i = 0; i < 3; i += 1) {
 				each_blocks[i].c();
 			}
 
-			attr(table, "class", "svelte-55998x");
+			attr(td6, "rowspan", "3");
+			attr(td6, "class", "svelte-rb5mhu");
+			attr(td7, "class", "svelte-rb5mhu");
+			attr(td8, "class", "svelte-rb5mhu");
+			attr(td9, "class", "svelte-rb5mhu");
+			attr(table, "class", "svelte-rb5mhu");
 		},
 		m(target, anchor) {
 			insert(target, table, anchor);
@@ -26377,16 +27015,110 @@ function create_fragment$3(ctx) {
 			append(table, tr1);
 			append(table, t14);
 
-			for (let i = 0; i < each_blocks.length; i += 1) {
-				each_blocks[i].m(table, null);
+			for (let i = 0; i < each_blocks_3.length; i += 1) {
+				each_blocks_3[i].m(table, null);
+			}
+
+			append(table, t15);
+			append(table, tr2);
+			append(tr2, td6);
+			append(tr2, t17);
+			append(tr2, td7);
+			append(tr2, t19);
+
+			for (let i = 0; i < 3; i += 1) {
+				each_blocks_2[i].m(tr2, null);
+			}
+
+			append(table, t20);
+			append(table, tr3);
+			append(tr3, td8);
+			append(tr3, t22);
+
+			for (let i = 0; i < 3; i += 1) {
+				each_blocks_1[i].m(tr3, null);
+			}
+
+			append(table, t23);
+			append(table, tr4);
+			append(tr4, td9);
+			append(tr4, t25);
+
+			for (let i = 0; i < 3; i += 1) {
+				each_blocks[i].m(tr4, null);
 			}
 		},
-		p(ctx, [dirty]) {
-			if (dirty & /*data, copy, hierStrs*/ 6) {
-				each_value = /*userHierarchies*/ ctx[0];
+		p(ctx, dirty) {
+			if (dirty[0] & /*data, hierStrs*/ 6) {
+				each_value_3 = /*userHierarchies*/ ctx[0];
 				let i;
 
-				for (i = 0; i < each_value.length; i += 1) {
+				for (i = 0; i < each_value_3.length; i += 1) {
+					const child_ctx = get_each_context_3(ctx, each_value_3, i);
+
+					if (each_blocks_3[i]) {
+						each_blocks_3[i].p(child_ctx, dirty);
+					} else {
+						each_blocks_3[i] = create_each_block_3(child_ctx);
+						each_blocks_3[i].c();
+						each_blocks_3[i].m(table, t15);
+					}
+				}
+
+				for (; i < each_blocks_3.length; i += 1) {
+					each_blocks_3[i].d(1);
+				}
+
+				each_blocks_3.length = each_value_3.length;
+			}
+
+			if (dirty[0] & /*data*/ 2) {
+				each_value_2 = ["up", "same", "down"];
+				let i;
+
+				for (i = 0; i < 3; i += 1) {
+					const child_ctx = get_each_context_2$1(ctx, each_value_2, i);
+
+					if (each_blocks_2[i]) {
+						each_blocks_2[i].p(child_ctx, dirty);
+					} else {
+						each_blocks_2[i] = create_each_block_2$1(child_ctx);
+						each_blocks_2[i].c();
+						each_blocks_2[i].m(tr2, null);
+					}
+				}
+
+				for (; i < 3; i += 1) {
+					each_blocks_2[i].d(1);
+				}
+			}
+
+			if (dirty[0] & /*data*/ 2) {
+				each_value_1 = ["up", "same", "down"];
+				let i;
+
+				for (i = 0; i < 3; i += 1) {
+					const child_ctx = get_each_context_1$3(ctx, each_value_1, i);
+
+					if (each_blocks_1[i]) {
+						each_blocks_1[i].p(child_ctx, dirty);
+					} else {
+						each_blocks_1[i] = create_each_block_1$3(child_ctx);
+						each_blocks_1[i].c();
+						each_blocks_1[i].m(tr3, null);
+					}
+				}
+
+				for (; i < 3; i += 1) {
+					each_blocks_1[i].d(1);
+				}
+			}
+
+			if (dirty[0] & /*data*/ 2) {
+				each_value = ["up", "same", "down"];
+				let i;
+
+				for (i = 0; i < 3; i += 1) {
 					const child_ctx = get_each_context$3(ctx, each_value, i);
 
 					if (each_blocks[i]) {
@@ -26394,45 +27126,52 @@ function create_fragment$3(ctx) {
 					} else {
 						each_blocks[i] = create_each_block$3(child_ctx);
 						each_blocks[i].c();
-						each_blocks[i].m(table, null);
+						each_blocks[i].m(tr4, null);
 					}
 				}
 
-				for (; i < each_blocks.length; i += 1) {
+				for (; i < 3; i += 1) {
 					each_blocks[i].d(1);
 				}
-
-				each_blocks.length = each_value.length;
 			}
 		},
 		i: noop,
 		o: noop,
 		d(detaching) {
 			if (detaching) detach(table);
+			destroy_each(each_blocks_3, detaching);
+			destroy_each(each_blocks_2, detaching);
+			destroy_each(each_blocks_1, detaching);
 			destroy_each(each_blocks, detaching);
 		}
 	};
 }
 
-function fillInInfo(dir, gType, hierData) {
-	hierData[dir][gType].graph;
-	hierData[dir][gType].nodes = hierData[dir][gType].graph.nodes();
-	hierData[dir][gType].nodesStr = hierData[dir][gType].nodes.join("\n");
-	hierData[dir][gType].edges = hierData[dir][gType].graph.edges();
-	hierData[dir][gType].edgesStr = hierData[dir][gType].edges.map(e => `${e.v} → ${e.w}`).join("\n");
-}
-
 function instance$3($$self, $$props, $$invalidate) {
-	
 	
 	
 	let { plugin } = $$props;
 	const { settings } = plugin;
 	const { userHierarchies } = settings;
-	settings.trailSeperator;
+	const separator = settings.trailSeperator;
 	const hierGs = plugin.currGraphs;
 
-	const data = hierGs.map(hier => {
+	function fillInInfo(dir, gType, hierData, nodesToo = true) {
+		hierData[dir][gType].graph;
+
+		if (nodesToo) {
+			const nodes = hierData[dir][gType].graph.nodes();
+			hierData[dir][gType].nodes = nodes;
+			hierData[dir][gType].nodesStr = nodes.join("\n");
+		}
+
+		const edges = hierData[dir][gType].graph.edges();
+		hierData[dir][gType].edges = edges;
+		let edgeStrArr = edges.map(e => `${nodesToo ? e.v : e.w} ${nodesToo || dir !== "same" ? separator : "⟷"} ${nodesToo ? e.w : e.v}`);
+		hierData[dir][gType].edgesStr = edgeStrArr.join("\n");
+	}
+
+	const data = hierGs.hierGs.map(hier => {
 		const hierData = {
 			up: { Merged: {}, Closed: {}, Implied: {} },
 			same: { Merged: {}, Closed: {}, Implied: {} },
@@ -26442,28 +27181,34 @@ function instance$3($$self, $$props, $$invalidate) {
 		DIRECTIONS.forEach(dir => {
 			// Merged Graphs
 			/// Smoosh all fieldGs from one dir into a merged graph for that direction as a whole
-			hierData[dir].Merged.graph = mergeGs(...Object.values(hier[dir]));
+			const mergedInDir = mergeGs(...Object.values(hier[dir]));
 
+			hierData[dir].Merged.graph = mergedInDir;
 			fillInInfo(dir, "Merged", hierData);
 
 			// Closed graphs
 			if (dir !== "same") {
-				hierData[dir].Closed.graph = closeImpliedLinks(hierData[dir].Merged.graph, mergeGs(...Object.values(hier[dir === "up" ? "down" : "up"])));
+				hierData[dir].Closed.graph = closeImpliedLinks(mergedInDir, mergeGs(...Object.values(hier[dir === "up" ? "down" : "up"])));
 			} else {
-				hierData[dir].Closed.graph = closeImpliedLinks(hierData[dir].Merged.graph, hierData[dir].Merged.graph);
+				hierData[dir].Closed.graph = closeImpliedLinks(mergedInDir, mergedInDir);
 			}
 
 			fillInInfo(dir, "Closed", hierData);
+
+			if (dir !== "same") {
+				hierData[dir].Implied.graph = mergeGs(...Object.values(hier[dir === "up" ? "down" : "up"]));
+			} else {
+				hierData[dir].Implied.graph = closeImpliedLinks(mergedInDir, mergedInDir);
+			}
+
+			fillInInfo(dir, "Implied", hierData, false);
 		});
 
 		return hierData;
 	});
 
-	console.log({ data });
+	debug(settings, { data });
 	let hierStrs = userHierarchies.map(hierToStr);
-	console.log({ hierStrs });
-	const allUpGs = hierGs.map(hier => hier.up).map(fields => Object.values(fields));
-	console.log({ allUpGs });
 	const click_handler = async (i, dir) => await copy(data[i][dir].Merged.nodesStr);
 
 	const click_handler_1 = async i => await copy([
@@ -26480,6 +27225,24 @@ function instance$3($$self, $$props, $$invalidate) {
 		data[i].down.Merged.edgesStr
 	].join("\n"));
 
+	const click_handler_4 = async (i, dir) => await copy(data[i][dir].Implied.edgesStr);
+
+	const click_handler_5 = async i => await copy([
+		data[i].up.Implied.edgesStr,
+		data[i].same.Implied.edgesStr,
+		data[i].down.Implied.edgesStr
+	].join("\n"));
+
+	const func = (dir, datum) => datum[dir].Merged.nodes.length;
+	const func_1 = (dir, datum) => datum[dir].Merged.nodesStr;
+	const click_handler_6 = async dir => await copy(data.map(datum => datum[dir].Merged.nodesStr).join("\n"));
+	const func_2 = (dir, datum) => datum[dir].Merged.edges.length;
+	const func_3 = (dir, datum) => datum[dir].Merged.edgesStr;
+	const click_handler_7 = async dir => await copy(data.map(datum => datum[dir].Merged.edgesStr).join("\n"));
+	const func_4 = (dir, datum) => datum[dir].Implied.edges.length;
+	const func_5 = (dir, datum) => datum[dir].Implied.edgesStr;
+	const click_handler_8 = async dir => await copy(data.map(datum => datum[dir].Implied.edgesStr).join("\n"));
+
 	$$self.$$set = $$props => {
 		if ("plugin" in $$props) $$invalidate(3, plugin = $$props.plugin);
 	};
@@ -26492,15 +27255,26 @@ function instance$3($$self, $$props, $$invalidate) {
 		click_handler,
 		click_handler_1,
 		click_handler_2,
-		click_handler_3
+		click_handler_3,
+		click_handler_4,
+		click_handler_5,
+		func,
+		func_1,
+		click_handler_6,
+		func_2,
+		func_3,
+		click_handler_7,
+		func_4,
+		func_5,
+		click_handler_8
 	];
 }
 
 class Stats extends SvelteComponent {
 	constructor(options) {
 		super();
-		if (!document.getElementById("svelte-55998x-style")) add_css$2();
-		init(this, options, instance$3, create_fragment$3, safe_not_equal, { plugin: 3 });
+		if (!document.getElementById("svelte-rb5mhu-style")) add_css$2();
+		init(this, options, instance$3, create_fragment$3, safe_not_equal, { plugin: 3 }, [-1, -1]);
 	}
 }
 
@@ -26514,7 +27288,7 @@ class StatsView extends obsidian.ItemView {
         super.onload();
         await this.plugin.saveSettings();
         this.app.workspace.onLayoutReady(async () => {
-            setTimeout(async () => await this.draw(), DATAVIEW_INDEX_DELAY);
+            setTimeout(async () => await this.draw(), this.plugin.settings.dvWaitTime);
         });
     }
     getViewType() {
@@ -47321,12 +48095,44 @@ const edgeBundling = (graph, app, currFile, modal, width, height) => {
 };
 
 const forceDirectedG = (graph, app, currFile, modal, width, height) => {
+    modal.plugin;
+    let nodeToGetTo = currFile.basename;
+    console.log({ nodeToGetTo });
+    console.time("Find all paths");
+    let pathsFromNodeToGetTo = graphlib.alg.dijkstra(graph, nodeToGetTo);
+    console.timeEnd("Find all paths");
+    const defaultNodeColour = getComputedStyle(document.body).getPropertyValue("--text-accent");
+    let currNodeColour = defaultNodeColour;
+    const colourChangeInput = d3_node.select(".d3-graph")
+        .append("input")
+        .attr("type", "color");
+    colourChangeInput.on("change", function changeColor(el) {
+        currNodeColour = el.target.value;
+        node
+            .transition()
+            .duration(300)
+            .style("fill", (d) => {
+            if (d.index === currNodeIndex)
+                return;
+            return currNodeColour;
+        });
+    });
     const data = graphlibToD3(graph);
     const links = data.links.map((d) => Object.create(d));
+    const currNode = data.nodes.find((node) => node.name === currFile.basename);
+    let currNodeIndex;
+    if (!currNode) {
+        const id = data.nodes.length;
+        data.nodes.push({ id, name: currFile.basename });
+        currNodeIndex = id;
+    }
+    else {
+        currNodeIndex = currNode.id;
+    }
     const nodes = data.nodes.map((d) => Object.create(d));
     const simulation = d3_node.forceSimulation(nodes)
         .force("link", d3_node.forceLink(links).id((d) => d.id))
-        .force("charge", d3_node.forceManyBody())
+        .force("charge", d3_node.forceManyBody().strength(-8))
         .force("center", d3_node.forceCenter(width / 2, height / 2).strength(0.5));
     const drag = (simulation) => {
         function dragstarted(event, d) {
@@ -47390,16 +48196,21 @@ const forceDirectedG = (graph, app, currFile, modal, width, height) => {
         .attr("stroke-width", 10)
         .append("svg:path")
         .attr("d", "M0,-5L10,0L0,5");
-    const nodeColour = getComputedStyle(document.body).getPropertyValue("--text-accent");
+    const nameFromIndex = (d) => data.nodes.find((node) => node.id === d.index).name;
     const node = svg
         .append("g")
-        .attr("stroke", nodeColour)
-        .attr("stroke-width", 1.5)
         .selectAll("circle")
         .data(nodes)
         .join("circle")
         .attr("r", 5)
-        .attr("fill", nodeColour)
+        .attr("fill", (d) => {
+        if (nameFromIndex(d) === currFile.basename) {
+            return "#ffffff";
+        }
+        else {
+            return currNodeColour;
+        }
+    })
         .call(drag(simulation));
     node.attr("aria-label", (d) => d.name);
     const nodeClick = (event, dest) => {
@@ -47410,6 +48221,84 @@ const forceDirectedG = (graph, app, currFile, modal, width, height) => {
     node.on("click", (event, d) => {
         nodeClick(event, d.name);
     });
+    node.on("mousedown", (event, d) => {
+        if (event.button === 2) {
+            nodeToGetTo = d.name;
+            node.style("fill", (n) => {
+                if (n.name === nodeToGetTo) {
+                    return "#ff0000";
+                }
+                else
+                    return currNodeColour;
+            });
+            pathsFromNodeToGetTo = graphlib.alg.dijkstra(graph, nodeToGetTo);
+        }
+    });
+    function linked(a, b) {
+        if (a === b)
+            return true;
+        const linkedArr = links.find((link) => (link.source.index === a && link.target.index === b) ||
+            (link.target.index === a && link.source.index === b));
+        return !!linkedArr;
+    }
+    function walkDijkstraPaths(paths, startNode) {
+        if (startNode === nodeToGetTo || paths[startNode].distance === Infinity)
+            return [];
+        let step = startNode;
+        const path = [startNode];
+        let i = 0;
+        const MAX = 300;
+        while (paths[step].predecessor !== nodeToGetTo && i < MAX) {
+            i++;
+            step = paths[step].predecessor;
+            path.push(step);
+        }
+        if (i >= MAX)
+            return [];
+        path.push(nodeToGetTo);
+        return path;
+    }
+    node
+        .on("mouseover", (event, d) => {
+        node
+            .transition()
+            .duration(150)
+            .style("opacity", (o) => {
+            return linked(d.index, o.index) ? 1 : 0.2;
+        });
+        link
+            .transition()
+            .duration(150)
+            .style("opacity", function (o) {
+            return o.source.index === d.index || o.target.index === d.index
+                ? 1
+                : 0.2;
+        });
+        // Highlight path from hovered node to currNode
+        const hoveredNode = nameFromIndex(d);
+        const path = walkDijkstraPaths(pathsFromNodeToGetTo, hoveredNode);
+        if (path.length) {
+            link
+                .transition()
+                .duration(150)
+                .style("stroke", function (link) {
+                if (path.includes(nameFromIndex(link.source)) &&
+                    path.includes(nameFromIndex(link.target)))
+                    return currNodeColour;
+            })
+                .style("opacity", function (link) {
+                if (path.includes(nameFromIndex(link.source)) &&
+                    path.includes(nameFromIndex(link.target)))
+                    return 1;
+            });
+        }
+    })
+        .on("mouseout", unfocus);
+    function unfocus() {
+        // labelNode.attr("display", "block");
+        node.style("opacity", 1);
+        link.style("opacity", 1).style("stroke", "#868282");
+    }
     simulation.on("tick", () => {
         link
             .attr("x1", (d) => d.source.x)
@@ -47427,7 +48316,7 @@ const forceDirectedG = (graph, app, currFile, modal, width, height) => {
         [0, 0],
         [width, height],
     ])
-        .scaleExtent([0.5, 8])
+        .scaleExtent([0.5, 10])
         .on("zoom", zoomed));
 };
 
@@ -47929,22 +48818,22 @@ const treeMap = (graph, app, currFile, modal, width, height) => {
 
 function get_each_context$2(ctx, list, i) {
 	const child_ctx = ctx.slice();
-	child_ctx[22] = list[i];
-	child_ctx[23] = list;
-	child_ctx[24] = i;
+	child_ctx[19] = list[i];
+	child_ctx[20] = list;
+	child_ctx[21] = i;
 	return child_ctx;
 }
 
 function get_each_context_1$2(ctx, list, i) {
 	const child_ctx = ctx.slice();
-	child_ctx[25] = list[i];
+	child_ctx[22] = list[i];
 	return child_ctx;
 }
 
-// (165:8) {#each selector.options as op}
+// (158:8) {#each selector.options as op}
 function create_each_block_1$2(ctx) {
 	let option;
-	let t_value = /*op*/ ctx[25] + "";
+	let t_value = /*op*/ ctx[22] + "";
 	let t;
 	let option_value_value;
 
@@ -47952,7 +48841,7 @@ function create_each_block_1$2(ctx) {
 		c() {
 			option = element("option");
 			t = text(t_value);
-			option.__value = option_value_value = /*op*/ ctx[25];
+			option.__value = option_value_value = /*op*/ ctx[22];
 			option.value = option.__value;
 		},
 		m(target, anchor) {
@@ -47960,9 +48849,9 @@ function create_each_block_1$2(ctx) {
 			append(option, t);
 		},
 		p(ctx, dirty) {
-			if (dirty & /*selectors*/ 1 && t_value !== (t_value = /*op*/ ctx[25] + "")) set_data(t, t_value);
+			if (dirty & /*selectors*/ 1 && t_value !== (t_value = /*op*/ ctx[22] + "")) set_data(t, t_value);
 
-			if (dirty & /*selectors*/ 1 && option_value_value !== (option_value_value = /*op*/ ctx[25])) {
+			if (dirty & /*selectors*/ 1 && option_value_value !== (option_value_value = /*op*/ ctx[22])) {
 				option.__value = option_value_value;
 				option.value = option.__value;
 			}
@@ -47973,10 +48862,10 @@ function create_each_block_1$2(ctx) {
 	};
 }
 
-// (155:2) {#each selectors as selector}
+// (148:2) {#each selectors as selector}
 function create_each_block$2(ctx) {
 	let span;
-	let t0_value = /*selector*/ ctx[22].text + "";
+	let t0_value = /*selector*/ ctx[19].text + "";
 	let t0;
 	let t1;
 	let select;
@@ -47984,7 +48873,7 @@ function create_each_block$2(ctx) {
 	let t2;
 	let mounted;
 	let dispose;
-	let each_value_1 = /*selector*/ ctx[22].options;
+	let each_value_1 = /*selector*/ ctx[19].options;
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value_1.length; i += 1) {
@@ -47992,7 +48881,7 @@ function create_each_block$2(ctx) {
 	}
 
 	function change_handler(...args) {
-		return /*change_handler*/ ctx[3](/*selector*/ ctx[22], /*each_value*/ ctx[23], /*selector_index*/ ctx[24], ...args);
+		return /*change_handler*/ ctx[3](/*selector*/ ctx[19], /*each_value*/ ctx[20], /*selector_index*/ ctx[21], ...args);
 	}
 
 	return {
@@ -48018,7 +48907,7 @@ function create_each_block$2(ctx) {
 				each_blocks[i].m(select, null);
 			}
 
-			select_option(select, /*selector*/ ctx[22].val);
+			select_option(select, /*selector*/ ctx[19].val);
 			append(span, t2);
 
 			if (!mounted) {
@@ -48028,10 +48917,10 @@ function create_each_block$2(ctx) {
 		},
 		p(new_ctx, dirty) {
 			ctx = new_ctx;
-			if (dirty & /*selectors*/ 1 && t0_value !== (t0_value = /*selector*/ ctx[22].text + "")) set_data(t0, t0_value);
+			if (dirty & /*selectors*/ 1 && t0_value !== (t0_value = /*selector*/ ctx[19].text + "")) set_data(t0, t0_value);
 
 			if (dirty & /*selectors*/ 1) {
-				each_value_1 = /*selector*/ ctx[22].options;
+				each_value_1 = /*selector*/ ctx[19].options;
 				let i;
 
 				for (i = 0; i < each_value_1.length; i += 1) {
@@ -48053,8 +48942,8 @@ function create_each_block$2(ctx) {
 				each_blocks.length = each_value_1.length;
 			}
 
-			if (dirty & /*selectors*/ 1 && select_value_value !== (select_value_value = /*selector*/ ctx[22].val)) {
-				select_option(select, /*selector*/ ctx[22].val);
+			if (dirty & /*selectors*/ 1 && select_value_value !== (select_value_value = /*selector*/ ctx[19].val)) {
+				select_option(select, /*selector*/ ctx[19].val);
 			}
 		},
 		d(detaching) {
@@ -48168,26 +49057,19 @@ function instance$2($$self, $$props, $$invalidate) {
 	];
 
 	const [width, height] = [Math.round(window.innerWidth / 1.3), Math.round(window.innerHeight / 1.3)];
-	const allUps = getAllXGs(plugin, "up");
-	const allSames = getAllXGs(plugin, "same");
-	const allDowns = getAllXGs(plugin, "down");
-	console.log({ allUps, allDowns });
-	const upG = mergeGs(...Object.values(allUps));
-	const sameG = mergeGs(...Object.values(allSames));
-	const downG = mergeGs(...Object.values(allDowns));
-	console.log({ upG, downG });
+	const { up, same, down } = plugin.currGraphs.mergedGs;
 
 	const [closedParentNoSingle, closedSiblingNoSingle, closedChildNoSingle] = [
-		closeImpliedLinks(upG, downG),
-		closeImpliedLinks(sameG, sameG),
-		closeImpliedLinks(downG, upG)
+		closeImpliedLinks(up, down),
+		closeImpliedLinks(same, same),
+		closeImpliedLinks(down, up)
 	];
 
 	const graphs = {
 		Parent: {
 			Real: {
-				All: upG,
-				"No Unlinked": removeUnlinkedNodes(upG)
+				All: up,
+				"No Unlinked": removeUnlinkedNodes(up)
 			},
 			Closed: {
 				All: closedParentNoSingle,
@@ -48196,8 +49078,8 @@ function instance$2($$self, $$props, $$invalidate) {
 		},
 		Sibling: {
 			Real: {
-				All: sameG,
-				"No Unlinked": removeUnlinkedNodes(sameG)
+				All: same,
+				"No Unlinked": removeUnlinkedNodes(same)
 			},
 			Closed: {
 				All: closedSiblingNoSingle,
@@ -48206,8 +49088,8 @@ function instance$2($$self, $$props, $$invalidate) {
 		},
 		Child: {
 			Real: {
-				All: downG,
-				"No Unlinked": removeUnlinkedNodes(downG)
+				All: down,
+				"No Unlinked": removeUnlinkedNodes(down)
 			},
 			Closed: {
 				All: closedChildNoSingle,
@@ -48439,27 +49321,27 @@ function add_css$1() {
 
 function get_each_context$1(ctx, list, i) {
 	const child_ctx = ctx.slice();
-	child_ctx[23] = list[i];
-	child_ctx[25] = i;
+	child_ctx[21] = list[i];
+	child_ctx[23] = i;
 	return child_ctx;
 }
 
 function get_each_context_1$1(ctx, list, i) {
 	const child_ctx = ctx.slice();
-	child_ctx[26] = list[i];
+	child_ctx[24] = list[i];
 	return child_ctx;
 }
 
 function get_each_context_2(ctx, list, i) {
 	const child_ctx = ctx.slice();
-	child_ctx[25] = list[i];
+	child_ctx[23] = list[i];
 	return child_ctx;
 }
 
-// (92:8) {#if step.value && settings.gridDots}
+// (93:8) {#if step.value && settings.gridDots}
 function create_if_block$1(ctx) {
 	let div;
-	let each_value_2 = lodash.range(Math.floor(/*wordCounts*/ ctx[2][/*step*/ ctx[26].value] / 1000));
+	let each_value_2 = lodash.range(Math.floor(/*wordCounts*/ ctx[2][/*step*/ ctx[24].value] / 1000));
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value_2.length; i += 1) {
@@ -48485,7 +49367,7 @@ function create_if_block$1(ctx) {
 		},
 		p(ctx, dirty) {
 			if (dirty & /*settings, wordCounts*/ 20) {
-				each_value_2 = lodash.range(Math.floor(/*wordCounts*/ ctx[2][/*step*/ ctx[26].value] / 1000));
+				each_value_2 = lodash.range(Math.floor(/*wordCounts*/ ctx[2][/*step*/ ctx[24].value] / 1000));
 				let i;
 
 				for (i = 0; i < each_value_2.length; i += 1) {
@@ -48514,7 +49396,7 @@ function create_if_block$1(ctx) {
 	};
 }
 
-// (94:12) {#each range(Math.floor(wordCounts[step.value] / 1000)) as i}
+// (95:12) {#each range(Math.floor(wordCounts[step.value] / 1000)) as i}
 function create_each_block_2(ctx) {
 	let span;
 
@@ -48534,11 +49416,11 @@ function create_each_block_2(ctx) {
 	};
 }
 
-// (75:4) {#each allRuns[i] as step}
+// (76:4) {#each allRuns[i] as step}
 function create_each_block_1$1(ctx) {
 	let div1;
 	let div0;
-	let t0_value = /*step*/ ctx[26].value + "";
+	let t0_value = /*step*/ ctx[24].value + "";
 	let t0;
 	let t1;
 	let t2;
@@ -48546,10 +49428,10 @@ function create_each_block_1$1(ctx) {
 	let div1_style_value;
 	let mounted;
 	let dispose;
-	let if_block = /*step*/ ctx[26].value && /*settings*/ ctx[4].gridDots && create_if_block$1(ctx);
+	let if_block = /*step*/ ctx[24].value && /*settings*/ ctx[4].gridDots && create_if_block$1(ctx);
 
 	function click_handler(...args) {
-		return /*click_handler*/ ctx[11](/*step*/ ctx[26], ...args);
+		return /*click_handler*/ ctx[11](/*step*/ ctx[24], ...args);
 	}
 
 	return {
@@ -48561,12 +49443,12 @@ function create_each_block_1$1(ctx) {
 			if (if_block) if_block.c();
 			t2 = space();
 
-			attr(div1, "class", div1_class_value = "breadcrumbs-trail-grid-item \n            " + /*resolvedClass*/ ctx[7](/*step*/ ctx[26].value, /*currFile*/ ctx[5]) + " \n            " + (/*step*/ ctx[26].value === ""
+			attr(div1, "class", div1_class_value = "breadcrumbs-trail-grid-item \n            " + /*resolvedClass*/ ctx[7](/*step*/ ctx[24].value, /*currFile*/ ctx[5]) + " \n            " + (/*step*/ ctx[24].value === ""
 			? "breadcrumbs-filler"
 			: "") + " svelte-46v1v3");
 
-			attr(div1, "style", div1_style_value = "\n            grid-area: " + (/*step*/ ctx[26].first + 1) + " / " + (/*i*/ ctx[25] + 1) + " / \n                " + (/*step*/ ctx[26].last + 2) + " / " + (/*i*/ ctx[25] + 2) + ";\n            " + (/*settings*/ ctx[4].gridHeatmap
-			? `background-color: ${/*settings*/ ctx[4].heatmapColour}${Math.round(/*children*/ ctx[3][/*step*/ ctx[26].value] * 200 + 55).toString(16)}`
+			attr(div1, "style", div1_style_value = "\n            grid-area: " + (/*step*/ ctx[24].first + 1) + " / " + (/*i*/ ctx[23] + 1) + " / \n                " + (/*step*/ ctx[24].last + 2) + " / " + (/*i*/ ctx[23] + 2) + ";\n            " + (/*settings*/ ctx[4].gridHeatmap
+			? `background-color: ${/*settings*/ ctx[4].heatmapColour}${Math.round(/*children*/ ctx[3][/*step*/ ctx[24].value] * 200 + 55).toString(16)}`
 			: ""));
 		},
 		m(target, anchor) {
@@ -48588,10 +49470,10 @@ function create_each_block_1$1(ctx) {
 		},
 		p(new_ctx, dirty) {
 			ctx = new_ctx;
-			if (/*step*/ ctx[26].value && /*settings*/ ctx[4].gridDots) if_block.p(ctx, dirty);
+			if (/*step*/ ctx[24].value && /*settings*/ ctx[4].gridDots) if_block.p(ctx, dirty);
 
-			if (dirty & /*children*/ 8 && div1_style_value !== (div1_style_value = "\n            grid-area: " + (/*step*/ ctx[26].first + 1) + " / " + (/*i*/ ctx[25] + 1) + " / \n                " + (/*step*/ ctx[26].last + 2) + " / " + (/*i*/ ctx[25] + 2) + ";\n            " + (/*settings*/ ctx[4].gridHeatmap
-			? `background-color: ${/*settings*/ ctx[4].heatmapColour}${Math.round(/*children*/ ctx[3][/*step*/ ctx[26].value] * 200 + 55).toString(16)}`
+			if (dirty & /*children*/ 8 && div1_style_value !== (div1_style_value = "\n            grid-area: " + (/*step*/ ctx[24].first + 1) + " / " + (/*i*/ ctx[23] + 1) + " / \n                " + (/*step*/ ctx[24].last + 2) + " / " + (/*i*/ ctx[23] + 2) + ";\n            " + (/*settings*/ ctx[4].gridHeatmap
+			? `background-color: ${/*settings*/ ctx[4].heatmapColour}${Math.round(/*children*/ ctx[3][/*step*/ ctx[24].value] * 200 + 55).toString(16)}`
 			: ""))) {
 				attr(div1, "style", div1_style_value);
 			}
@@ -48605,10 +49487,10 @@ function create_each_block_1$1(ctx) {
 	};
 }
 
-// (74:2) {#each transposedTrails as col, i}
+// (75:2) {#each transposedTrails as col, i}
 function create_each_block$1(ctx) {
 	let each_1_anchor;
-	let each_value_1 = /*allRuns*/ ctx[9][/*i*/ ctx[25]];
+	let each_value_1 = /*allRuns*/ ctx[9][/*i*/ ctx[23]];
 	let each_blocks = [];
 
 	for (let i = 0; i < each_value_1.length; i += 1) {
@@ -48632,7 +49514,7 @@ function create_each_block$1(ctx) {
 		},
 		p(ctx, dirty) {
 			if (dirty & /*resolvedClass, allRuns, currFile, settings, Math, children, openOrSwitch, app, hoverPreview, activeLeafView, range, wordCounts*/ 766) {
-				each_value_1 = /*allRuns*/ ctx[9][/*i*/ ctx[25]];
+				each_value_1 = /*allRuns*/ ctx[9][/*i*/ ctx[23]];
 				let i;
 
 				for (i = 0; i < each_value_1.length; i += 1) {
@@ -48756,18 +49638,22 @@ function instance$1($$self, $$props, $$invalidate) {
 
 	const allCells = [...new Set(sortedTrails.reduce((a, b) => [...a, ...b]))];
 	const wordCounts = {};
-	allCells.forEach(cell => $$invalidate(2, wordCounts[cell] = app.metadataCache.getFirstLinkpathDest(cell, currFile.path).stat.size, wordCounts));
+
+	allCells.forEach(cell => {
+		try {
+			$$invalidate(2, wordCounts[cell] = app.metadataCache.getFirstLinkpathDest(cell, currFile.path).stat.size, wordCounts);
+		} catch(error) {
+			console.log(error);
+			console.log({ currFile });
+			$$invalidate(2, wordCounts[cell] = 0, wordCounts);
+		}
+	});
 
 	// const data: {[cell: string]: number} = {}
 	// allCells.forEach(cell => data[cell] = app.metadataCache.getFileCache(app.metadataCache.getFirstLinkpathDest(cell, currFile.path))?.links.length ?? 0);
-	const allUps = getAllXGs(plugin, "up");
+	const { up, down } = plugin.currGraphs.mergedGs;
 
-	const allDowns = getAllXGs(plugin, "down");
-	console.log({ allUps, allDowns });
-	const upG = mergeGs(...Object.values(allUps));
-	const downG = mergeGs(...Object.values(allDowns));
-	console.log({ upG, downG });
-	closeImpliedLinks(upG, downG);
+	const closedParents = closeImpliedLinks(up, down);
 	const children = {};
 
 	allCells.forEach(cell => {
@@ -48775,7 +49661,7 @@ function instance$1($$self, $$props, $$invalidate) {
 
 		return $$invalidate(
 			3,
-			children[cell] = ((_a = closeImpliedLinks(downG, upG).successors(cell)) !== null && _a !== void 0
+			children[cell] = ((_a = closedParents.successors(cell)) !== null && _a !== void 0
 			? _a
 			: []).length,
 			children
@@ -49276,14 +50162,19 @@ class TrailPath extends SvelteComponent {
 
 const DEFAULT_SETTINGS = {
     userHierarchies: [],
-    // parentFieldName: "parent",
-    // siblingFieldName: "sibling",
-    // childFieldName: "child",
     indexNote: [""],
+    hierarchyNotes: [""],
+    hierarchyNoteDownFieldName: "",
+    hierarchyNoteUpFieldName: "",
+    refreshIndexOnActiveLeafChange: false,
+    useAllMetadata: true,
+    parseJugglLinksWithoutJuggl: false,
+    dvWaitTime: 5000,
     refreshIntervalTime: 0,
     defaultView: true,
     showNameOrType: true,
     showRelationType: true,
+    filterImpliedSiblingsOfDifferentTypes: false,
     rlLeaf: true,
     showTrail: true,
     trailOrTable: 3,
@@ -49307,6 +50198,79 @@ const DEFAULT_SETTINGS = {
 class BreadcrumbsPlugin extends obsidian.Plugin {
     constructor() {
         super(...arguments);
+        this.hierarchyNoteAdjList = (str) => {
+            let noteContent = str;
+            const settings = this.settings;
+            const yamlRegex = new RegExp(/^---.*/);
+            const hasYaml = !!noteContent.match(yamlRegex);
+            if (hasYaml) {
+                noteContent = noteContent.split("---").slice(2).join("---");
+            }
+            const layers = noteContent.split("\n").filter((line) => line);
+            const depth = (line) => line.split(/[-\*\+]/)[0].length;
+            const depths = layers.map(depth);
+            const differences = [];
+            depths.forEach((dep, i) => {
+                if (i >= 1) {
+                    differences.push(dep - depths[i - 1]);
+                }
+            });
+            debug(settings, { differences });
+            const posFilteredDifferences = differences
+                .filter((diff) => diff !== 0)
+                .map(Math.abs);
+            const lcm = Math.min(...posFilteredDifferences);
+            if (!posFilteredDifferences.every((diff) => diff % lcm === 0)) {
+                new obsidian.Notice("Please make sure the indentation is consistent in your hierarchy note.");
+                return [];
+            }
+            const difference = lcm;
+            const hier = [];
+            const lineRegex = new RegExp(/\s*[-\*\+] \[\[(.*)\]\]/);
+            const pushNoteUp = (hier, currNote, currDepth) => {
+                const copy = [...hier];
+                const noteUp = copy.reverse().find((adjItem, i) => {
+                    return adjItem.depth === currDepth - difference;
+                });
+                debug(settings, { noteUp });
+                if (noteUp) {
+                    hier[hier.indexOf(noteUp)].children.push(currNote);
+                }
+            };
+            let lineNo = 0;
+            while (lineNo < layers.length) {
+                const currLine = layers[lineNo];
+                const currNote = currLine.match(lineRegex)[1];
+                const currDepth = depth(currLine);
+                hier[lineNo] = { note: currNote, depth: currDepth, children: [] };
+                if (lineNo !== layers.length - 1) {
+                    const nextLine = layers[lineNo + 1];
+                    const nextNote = nextLine.match(lineRegex)[1];
+                    const nextDepth = depth(nextLine);
+                    if (nextDepth > currDepth) {
+                        debug(settings, { currNote, nextNote });
+                        hier[lineNo].children.push(nextNote);
+                        pushNoteUp(hier, currNote, currDepth);
+                    }
+                    else if (currDepth === 0) ;
+                    else {
+                        pushNoteUp(hier, currNote, currDepth);
+                    }
+                }
+                else {
+                    const prevLine = layers[lineNo - 1];
+                    const prevDepth = depth(prevLine);
+                    if (prevDepth >= currDepth) {
+                        pushNoteUp(hier, currNote, currDepth);
+                    }
+                }
+                lineNo++;
+            }
+            hier.forEach((item) => {
+                item.children = removeDuplicates(item.children);
+            });
+            return hier;
+        };
         this.initMatrixView = async (type) => {
             let leaf = null;
             for (leaf of this.app.workspace.getLeavesOfType(type)) {
@@ -49344,23 +50308,16 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             });
         };
     }
-    async onload() {
-        console.log("loading breadcrumbs plugin");
-        await this.loadSettings();
-        this.visited = [];
-        this.registerView(VIEW_TYPE_BREADCRUMBS_STATS, (leaf) => new StatsView(leaf, this));
-        this.registerView(VIEW_TYPE_BREADCRUMBS_MATRIX, (leaf) => new MatrixView(leaf, this));
-        this.app.workspace.onLayoutReady(async () => {
-            setTimeout(async () => {
-                this.currGraphs = await this.initGraphs();
-                this.initStatsView(VIEW_TYPE_BREADCRUMBS_STATS);
-                this.initMatrixView(VIEW_TYPE_BREADCRUMBS_MATRIX);
-                if (this.settings.showTrail) {
-                    await this.drawTrail();
+    async refreshIndex() {
+        if (!this.activeLeafChangeEventRef) {
+            console.log("activeLeafChangeEventRef wasn't registered onLoad, registering now");
+            this.activeLeafChangeEventRef = this.app.workspace.on("active-leaf-change", async () => {
+                if (this.settings.refreshIndexOnActiveLeafChange) {
+                    // refreshIndex does everything in one
+                    await this.refreshIndex();
                 }
-                this.registerEvent(this.app.workspace.on("active-leaf-change", async () => {
-                    this.currGraphs = await this.initGraphs();
-                    debug(this.settings, this.currGraphs);
+                else {
+                    // If it is not called, active-leaf-change still needs to trigger a redraw
                     const activeView = this.getActiveMatrixView();
                     if (activeView) {
                         await activeView.draw();
@@ -49368,22 +50325,115 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                     if (this.settings.showTrail) {
                         await this.drawTrail();
                     }
-                }));
-                // ANCHOR autorefresh interval
-                if (this.settings.refreshIntervalTime > 0) {
-                    this.refreshIntervalID = window.setInterval(async () => {
-                        this.currGraphs = await this.initGraphs();
-                        if (this.settings.showTrail) {
-                            await this.drawTrail();
-                        }
-                        const activeView = this.getActiveMatrixView();
-                        if (activeView) {
-                            await activeView.draw();
-                        }
-                    }, this.settings.refreshIntervalTime * 1000);
-                    this.registerInterval(this.refreshIntervalID);
                 }
-            }, DATAVIEW_INDEX_DELAY);
+            });
+            this.registerEvent(this.activeLeafChangeEventRef);
+        }
+        this.currGraphs = await this.initGraphs();
+        const activeView = this.getActiveMatrixView();
+        if (activeView) {
+            await activeView.draw();
+        }
+        if (this.settings.showTrail) {
+            await this.drawTrail();
+        }
+        new obsidian.Notice("Index refreshed");
+    }
+    // this.app.metadataCache.on("dataview:api-ready", console.log("dv ready"));
+    async onload() {
+        console.log("loading breadcrumbs plugin");
+        await this.loadSettings();
+        this.activeLeafChangeEventRef = undefined;
+        this.visited = [];
+        this.registerView(VIEW_TYPE_BREADCRUMBS_STATS, (leaf) => new StatsView(leaf, this));
+        this.registerView(VIEW_TYPE_BREADCRUMBS_MATRIX, (leaf) => new MatrixView(leaf, this));
+        const initEverything = async () => {
+            this.currGraphs = await this.initGraphs();
+            this.initStatsView(VIEW_TYPE_BREADCRUMBS_STATS);
+            this.initMatrixView(VIEW_TYPE_BREADCRUMBS_MATRIX);
+            if (this.settings.showTrail) {
+                await this.drawTrail();
+            }
+            this.activeLeafChangeEventRef = this.app.workspace.on("active-leaf-change", async () => {
+                if (this.settings.refreshIndexOnActiveLeafChange) {
+                    // refreshIndex does everything in one
+                    await this.refreshIndex();
+                }
+                else {
+                    // If it is not called, active-leaf-change still needs to trigger a redraw
+                    const activeView = this.getActiveMatrixView();
+                    if (activeView) {
+                        await activeView.draw();
+                    }
+                    if (this.settings.showTrail) {
+                        await this.drawTrail();
+                    }
+                }
+            });
+            this.registerEvent(this.activeLeafChangeEventRef);
+            // ANCHOR autorefresh interval
+            if (this.settings.refreshIntervalTime > 0) {
+                this.refreshIntervalID = window.setInterval(async () => {
+                    this.currGraphs = await this.initGraphs();
+                    if (this.settings.showTrail) {
+                        await this.drawTrail();
+                    }
+                    const activeView = this.getActiveMatrixView();
+                    if (activeView) {
+                        await activeView.draw();
+                    }
+                }, this.settings.refreshIntervalTime * 1000);
+                this.registerInterval(this.refreshIntervalID);
+            }
+        };
+        // let waiting1 = 0;
+        // let waiting2 = 0;
+        // const waitForDv = async (thenRun: () => any) => {
+        //   if (this.app.plugins.plugins.dataview) {
+        //     console.log("dv yes");
+        //     if (this.app.plugins.plugins.dataview.api) {
+        //       console.log("api yes");
+        //       setTimeout(async () => await thenRun(), 5000);
+        //       this.app.metadataCache.on("dv:api-ready", () =>
+        //         console.log("custom dv ready")
+        //       );
+        //       this.app.metadataCache.trigger("dv:api-ready");
+        //     } else {
+        //       console.log({ waiting2 });
+        //       waiting2++;
+        //       if (waiting2 > 300) {
+        //         new Notice("Dataview has not loaded yet");
+        //         setTimeout(async () => await thenRun(), 5000);
+        //       } else {
+        //         setTimeout(() => waitForDv(thenRun), 30);
+        //       }
+        //     }
+        //   } else {
+        //     console.log({ waiting1 });
+        //     waiting1++;
+        //     if (waiting1 > 100) {
+        //       setTimeout(async () => await thenRun(), 5000);
+        //     } else {
+        //       setTimeout(() => waitForDv(thenRun), 30);
+        //     }
+        //   }
+        // };
+        // waitForDv();
+        // if (this.app.plugins.plugins.dataview?.api) {
+        //   initEverything();
+        // } else {
+        //   this.registerEvent(
+        //     this.app.metadataCache.on("dataview:api-ready", initEverything)
+        //   );
+        // }
+        this.app.workspace.onLayoutReady(async () => {
+            setTimeout(async () => {
+                await initEverything();
+            }, this.app.plugins.plugins.dataview
+                ? this.app.plugins.plugins.dataview.api
+                    ? 1
+                    : this.settings.dvWaitTime
+                : 3000);
         });
         obsidian.addIcon(TRAIL_ICON, TRAIL_ICON_SVG);
         this.addCommand({
@@ -49408,6 +50458,11 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                 this.initStatsView(VIEW_TYPE_BREADCRUMBS_STATS);
             },
         });
+        this.addCommand({
+            id: "Refresh-Breadcrumbs-Index",
+            name: "Refresh Breadcrumbs Index",
+            callback: async () => await this.refreshIndex(),
+        });
         this.addRibbonIcon("dice", "Breadcrumbs Visualisation", () => new VisModal(this.app, this).open());
         this.addSettingTab(new BreadcrumbsSettingTab(this.app, this));
     }
@@ -49431,19 +50486,41 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         });
     }
     async initGraphs() {
-        debug(this.settings, "initialising graphs");
+        var _a;
+        const settings = this.settings;
+        debugGroupStart(settings, "debugMode", "Initialise Graphs");
         const files = this.app.vault.getMarkdownFiles();
-        const dvQ = !!this.app.plugins.plugins.dataview;
-        let fileFrontmatterArr;
-        if (dvQ) {
-            fileFrontmatterArr = getDVMetadataCache(this.app, this.settings, files);
-        }
-        else {
-            fileFrontmatterArr = getObsMetadataCache(this.app, this.settings, files);
-        }
+        const dvQ = !!((_a = this.app.plugins.plugins.dataview) === null || _a === void 0 ? void 0 : _a.api);
+        const fileFrontmatterArr = dvQ
+            ? getDVMetadataCache(this.app, settings, files)
+            : getObsMetadataCache(this.app, settings, files);
         const relObjArr = await getNeighbourObjArr(this, fileFrontmatterArr);
-        const { userHierarchies } = this.settings;
-        const graphs = [];
+        debugGroupStart(settings, "debugMode", "Hierarchy Note Adjacency List");
+        let hierarchyNotesArr = [];
+        if (settings.hierarchyNotes[0] !== "") {
+            const currPath = this.app.workspace.getActiveFile().path;
+            const contentArr = [];
+            settings.hierarchyNotes.forEach(async (note) => {
+                const file = this.app.metadataCache.getFirstLinkpathDest(note, currPath);
+                if (file) {
+                    const content = await this.app.vault.cachedRead(file);
+                    contentArr.push(content);
+                }
+                else {
+                    new obsidian.Notice(`${note} is no long in your vault. The Hierarchy note should still work, but it is best to remove ${note} from your list of hierarchy notes in Breadcrumbs settings.`);
+                }
+            });
+            await Promise.all(contentArr);
+            hierarchyNotesArr = contentArr.map(this.hierarchyNoteAdjList).flat();
+            debug(settings, { hierarchyNotesArr });
+        }
+        debugGroupEnd(settings, "debugMode");
+        const { userHierarchies } = settings;
+        const graphs = {
+            hierGs: [],
+            mergedGs: { up: undefined, same: undefined, down: undefined },
+            closedGs: { up: undefined, same: undefined, down: undefined },
+        };
         userHierarchies.forEach((hier, i) => {
             const newGraphs = { up: {}, same: {}, down: {} };
             Object.keys(hier).forEach((dir) => {
@@ -49451,21 +50528,61 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                     newGraphs[dir][dirField] = new graphlib.Graph();
                 });
             });
-            graphs.push(newGraphs);
+            graphs.hierGs.push(newGraphs);
         });
-        console.log({ graphs });
         relObjArr.forEach((relObj) => {
             const currFileName = relObj.current.basename || relObj.current.name;
             relObj.hierarchies.forEach((hier, i) => {
-                Object.keys(hier).forEach((dir) => {
-                    const fieldsObj = hier[dir];
-                    Object.keys(fieldsObj).forEach((fieldName) => {
-                        this.populateGraph(graphs[i][dir][fieldName], currFileName, fieldsObj[fieldName], dir, fieldName);
+                DIRECTIONS.forEach((dir) => {
+                    Object.keys(hier[dir]).forEach((fieldName) => {
+                        const g = graphs.hierGs[i][dir][fieldName];
+                        const fieldValues = hier[dir][fieldName];
+                        this.populateGraph(g, currFileName, fieldValues, dir, fieldName);
                     });
                 });
             });
         });
-        debug(this.settings, "graphs inited");
+        if (hierarchyNotesArr.length) {
+            const { hierarchyNoteUpFieldName, hierarchyNoteDownFieldName } = settings;
+            if (hierarchyNoteUpFieldName !== "") {
+                const gUp = graphs.hierGs.find((hierG) => hierG.up[hierarchyNoteUpFieldName]).up[hierarchyNoteUpFieldName];
+                hierarchyNotesArr.forEach((adjListItem) => {
+                    adjListItem.children.forEach((child) => {
+                        gUp.setEdge(child, adjListItem.note, {
+                            dir: "up",
+                            fieldName: hierarchyNoteUpFieldName,
+                        });
+                    });
+                });
+            }
+            if (hierarchyNoteDownFieldName !== "") {
+                const gDown = graphs.hierGs.find((hierG) => hierG.down[hierarchyNoteDownFieldName]).down[hierarchyNoteDownFieldName];
+                hierarchyNotesArr.forEach((adjListItem) => {
+                    adjListItem.children.forEach((child) => {
+                        gDown.setEdge(adjListItem.note, child, {
+                            dir: "down",
+                            fieldName: hierarchyNoteDownFieldName,
+                        });
+                    });
+                });
+            }
+        }
+        DIRECTIONS.forEach((dir) => {
+            const allXGs = getAllGsInDir(userHierarchies, graphs.hierGs, dir);
+            const dirMerged = mergeGs(...Object.values(allXGs));
+            graphs.mergedGs[dir] = dirMerged;
+        });
+        DIRECTIONS.forEach((dir) => {
+            if (dir !== "same") {
+                graphs.closedGs[dir] = closeImpliedLinks(graphs.mergedGs[dir], graphs.mergedGs[dir === "up" ? "down" : "up"]);
+            }
+            else {
+                graphs.closedGs[dir] = closeImpliedLinks(graphs.mergedGs[dir], graphs.mergedGs[dir]);
+            }
+        });
+        debug(settings, "graphs inited");
+        debug(settings, { graphs });
+        debugGroupEnd(settings, "debugMode");
         return graphs;
     }
     // !SECTION OneSource
@@ -49529,8 +50646,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         }
         return pathsArr;
     }
-    getBreadcrumbs(g) {
-        const currFile = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView).file;
+    getBreadcrumbs(g, currFile) {
         if (currFile.extension !== "md") {
             return null;
         }
@@ -49544,36 +50660,37 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         let sortedTrails = allTrails
             .filter((trail) => trail.length > 0)
             .sort((a, b) => a.length - b.length);
-        debug(this.settings, sortedTrails);
+        debug(this.settings, { sortedTrails });
         return sortedTrails;
     }
     async drawTrail() {
         var _a, _b, _c;
-        if (!this.settings.showTrail) {
+        const settings = this.settings;
+        debugGroupStart(settings, "debugMode", "Draw Trail");
+        if (!settings.showTrail) {
+            debugGroupEnd(settings, "debugMode");
             return;
         }
         const activeMDView = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
         if (!activeMDView) {
+            debugGroupEnd(settings, "debugMode");
             return;
         }
         const currFile = activeMDView.file;
         const frontm = (_b = (_a = this.app.metadataCache.getFileCache(currFile)) === null || _a === void 0 ? void 0 : _a.frontmatter) !== null && _b !== void 0 ? _b : {};
         if (frontm["kanban-plugin"]) {
+            debugGroupEnd(settings, "debugMode");
             return;
         }
-        const settings = this.settings;
-        const allUps = getAllXGs(this, "up");
-        const allDowns = getAllXGs(this, "down");
-        const upG = mergeGs(...Object.values(allUps));
-        const downG = mergeGs(...Object.values(allDowns));
-        const closedParents = closeImpliedLinks(upG, downG);
-        const sortedTrails = this.getBreadcrumbs(closedParents);
+        const closedUp = this.currGraphs.closedGs.up;
+        const sortedTrails = this.getBreadcrumbs(closedUp, currFile);
         debug(settings, { sortedTrails });
         // Get the container div of the active note
         const previewView = activeMDView.contentEl.querySelector(".markdown-preview-view");
         // Make sure it's empty
         (_c = previewView.querySelector("div.breadcrumbs-trail")) === null || _c === void 0 ? void 0 : _c.remove();
         if (sortedTrails.length === 0 && settings.noPathMessage === "") {
+            debugGroupEnd(settings, "debugMode");
             return;
         }
         const trailDiv = createDiv({
@@ -49587,6 +50704,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
         trailDiv.empty();
         if (sortedTrails.length === 0) {
             trailDiv.innerText = settings.noPathMessage;
+            debugGroupEnd(settings, "debugMode");
             return;
         }
         if (settings.trailOrTable === 1) {

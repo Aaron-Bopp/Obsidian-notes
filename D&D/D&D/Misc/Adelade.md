@@ -74,7 +74,12 @@ Archetype:: [Charismatic](https://www.d20pfsrd.com/classes/core-classes/cleric/a
 - Adopted daughter of [[father tobin]] also died in the fire
 - [[Beth]] ![[Pasted image 20210810195520.png| portrait+small locr]]
 	- Found that [[Amicu]] has gone missing and found a message under her bed
-	- [[Longique]] hasn't been at the manor in days
+	- [[Lonjiku Kaijitsu]] hasn't been at the manor in days
 [[Suto]] ![[Pasted image 20210810221935.png| locr]]
 - Mother's grace follower of amashtu phrase for 
 - Hanna the healer ![[Pasted image 20210810225625.png| locr]]
+## Session 3
+- [[Gorbachally Vune]] [[gorby]] is the owner of the blacksmith
+- [[Aliver Podiker]] ![[Pasted image 20210817175513.png | profile locr ]]
+- Altar to [[lamashtu]] this is what [[Suto]] is trying to use to become more powerful
+	- 

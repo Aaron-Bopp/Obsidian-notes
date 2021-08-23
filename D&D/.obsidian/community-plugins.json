@@ -1,7 +1,6 @@
 [
   "templater-obsidian",
   "note-refactor-obsidian",
-  "obsidian-metatable",
   "metaedit",
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
@@ -19,5 +18,8 @@
   "hotkey-helper",
   "nldates-obsidian",
   "open-vscode",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "readwise-official",
+  "longform",
+  "pdf-to-markdown-plugin"
 ]

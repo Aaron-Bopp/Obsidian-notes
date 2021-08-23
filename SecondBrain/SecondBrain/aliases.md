@@ -1358,7 +1358,7 @@
 
 [[tags as a data structure]]:
 
-[[the politicization of the christian church]]:
+[[The Politicization of the Christian Church]]:
 
 [[theology]]:
 

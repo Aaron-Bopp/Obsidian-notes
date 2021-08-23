@@ -44,13 +44,16 @@ const statusLevel = (status) => {
 //includes first called file as last element
 function getEmbeds(name){
 	const file = dv.pages().where(f => f.file.name === name)[0]
+	if (file == undefined) {
+		return [null]
+	}
 	let embeds = file.embedded
 	if (embeds == undefined) {
 		return [file]
 	}
 	// prevent infinite loops if currentNote is included in embeds
 	embeds = embeds.filter(l => l !== null && name !== l.path )
-	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat()
+	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat().filter(el => el != null)
 }
 const allEmbeds = getEmbeds(thisFile.file.name)
 const allOutlinks = allEmbeds.map(f => f.file.outlinks).flat()

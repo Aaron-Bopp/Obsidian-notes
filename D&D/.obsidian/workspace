@@ -7,8 +7,11 @@
         "id": "5f4fcebff790e8a5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "D&D/Misc/Adelade.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -51,6 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/Misc/Adelade.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -61,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/Misc/Adelade.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/Misc/Adelade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +111,14 @@
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "4307b1d238ad9f0c",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
           }
@@ -136,6 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "D&D/Misc/Adelade.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,6 +235,8 @@
   },
   "active": "5f4fcebff790e8a5",
   "lastOpenFiles": [
+    "D&D/Misc/Adelade.md",
+    "D&D/Misc/Pathfinder character.md",
     "D&D/tharoline/Section/073 Approaching the island.md",
     "074.md",
     "D&D/Wildemount/Wastes of Xhorhas.md",
@@ -226,8 +244,6 @@
     "D&D/Wildemount/Chapter 2.md",
     "D&D/Wildemount/Chapter 1.md",
     "D&D/Wildemount/Chapter 5.md",
-    "D&D/Wildemount/Chapter 4.md",
-    "D&D/Wildemount/Chapter 3.md",
-    "Attachments/Priestess_of_Calistria.jpg"
+    "D&D/Wildemount/Chapter 4.md"
   ]
 }

@@ -1,7 +1,17 @@
 {
-  "parentFieldName": "related-topics, parent",
-  "siblingFieldName": "sub-topics",
-  "childFieldName": "child",
+  "userHierarchies": [
+    {
+      "up": [
+        "Related-Topics"
+      ],
+      "same": [
+        "→"
+      ],
+      "down": [
+        "embedded"
+      ]
+    }
+  ],
   "indexNote": [
     "INDEX"
   ],
@@ -16,7 +26,7 @@
   "dotsColour": "#000000",
   "gridHeatmap": false,
   "heatmapColour": "#EEEEEE",
-  "showAll": true,
+  "showAll": false,
   "noPathMessage": "This note has no real or implied parents",
   "trailSeperator": "→",
   "respectReadableLineLength": true,
@@ -25,7 +35,10 @@
   "visClosed": "Real",
   "visAll": "All",
   "wikilinkIndex": true,
-  "aliasesInIndex": false,
+  "aliasesInIndex": true,
   "debugMode": false,
-  "superDebugMode": false
+  "superDebugMode": false,
+  "parentFieldName": "related-topics, parent",
+  "siblingFieldName": "sub-topics",
+  "childFieldName": "child"
 }

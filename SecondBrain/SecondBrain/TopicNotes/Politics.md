@@ -16,7 +16,7 @@ embedded:
 
 
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/GREEN  
 **Related-Topics**:: 
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[Politics]] `=length(this.file.inlinks)` 
@@ -31,7 +31,7 @@ embedded:
 - What is the goal?
 	- [[Communism]]
 - How do we get there?
-	- [[political strategy#political strategy length this file inlinks]]
+	- ![[political strategy#political strategy length this file inlinks]]
 	- [[Anger fuels change]]
 	- [[Hope is always worth fighting for]]
 

@@ -1,6 +1,6 @@
 {
-  "expansionMode": "all-collapsed",
-  "ignoreNulls": false,
+  "expansionMode": "expanded",
+  "ignoreNulls": true,
   "nullValue": "",
   "skipKey": "metatable",
   "ignoredKeys": [
@@ -12,7 +12,7 @@
     "frontmatter"
   ],
   "filterMode": "ignore",
-  "autolinks": false,
+  "autolinks": true,
   "vault": null,
   "searchFn": null
 }

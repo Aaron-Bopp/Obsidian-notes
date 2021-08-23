@@ -44,7 +44,7 @@ Furthermore, no surgeon in [[America|the United States]] will perform a gender a
 **In adolescents**, puberty blockers may involve the above androgen blockers, or if it is covered by insurance, the use of an antigonadtropin (drug which blocks the hormones that cause the production of estrogen and androgen) such as leuprolide acetate (a shot delivered every few months) or histrelin acetate (an annual implant).
 
 ### Surgical Transition 
-[[Transgender]] surgeries are typically divided into three separate categories:
+[[transgender]] surgeries are typically divided into three separate categories:
 
 **Bottom Surgery** (modifications to genitals).
 

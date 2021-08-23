@@ -7,7 +7,8 @@ aliases:
 -
 ---
 
-
+### 2021-5-31
+You're never sure you're [[transgender|trans]]. I heard that in a [[tiktok]] today. I don't think you admit that you're [[transgender|trans]]. It's not a decision. You don't even really discover it. You just one day realize that you're a girl, and it makes total sense. That part is so obvious that it doesn't feel real. It feels like a dream that you can't achieve, and the process of achieving it is the difficult part
 ### 2021-05-29 6:52 pm
 I seem to have had less [[anxiety]] since I started caring about [[socialization|social interaction]] as much. The reason I was able to care less is because I'm finding more joy in other things I do and I think maybe liking myself a little bit more
 ### 2021-05-24

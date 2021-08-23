@@ -1,4 +1,4 @@
-<% tp.file.include("[[META]]") %>
+<% tp.file.include("[[META]]") %>
 note-type: 
 - evergreen-note
 - topic-note

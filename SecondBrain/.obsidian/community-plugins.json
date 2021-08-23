@@ -1,11 +1,9 @@
 [
   "templater-obsidian",
   "note-refactor-obsidian",
-  "obsidian-metatable",
   "metaedit",
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
-  "breadcrumbs",
   "sliding-panes-obsidian",
   "obsidian-style-settings",
   "tag-wrangler",
@@ -20,5 +18,8 @@
   "nldates-obsidian",
   "open-vscode",
   "obsidian-outliner",
-  "readwise-official"
+  "readwise-official",
+  "longform",
+  "pdf-to-markdown-plugin",
+  "obsidian-auto-link-title"
 ]

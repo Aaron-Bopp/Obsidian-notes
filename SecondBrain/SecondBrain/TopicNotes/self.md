@@ -14,7 +14,7 @@ embedded:
 ##### [[self]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/GREEN  
 **Related-Topics**::  
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[self]] `=length(this.file.inlinks)` 
@@ -24,6 +24,9 @@ embedded:
 	- ![[self-perception#self-perception length this file inlinks]]
 - ![[self-improvement#self-improvement length this file inlinks]]
 - [[Is your self-talk bullying you or bodyguarding you]]
+
+> test
+> keeps going
 
 
 ### <hr class="dataviews"/>

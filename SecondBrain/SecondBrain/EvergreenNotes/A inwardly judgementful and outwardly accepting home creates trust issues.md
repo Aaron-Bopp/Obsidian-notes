@@ -9,13 +9,12 @@ aliases:
 ##### [[A inwardly judgementful and outwardly accepting home creates trust issues]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
-
+**Related Topics**:: [[childhood trauma]], [[socialization]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	
-### <hr class="references"/>

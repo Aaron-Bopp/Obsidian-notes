@@ -8,22 +8,20 @@ aliases:
 - christian
 embedded:
 - [[Deconstruction (Christianity)]]
+- [[Evangelicalism]]
+- [[The Politicization of the Christian Church]]
 ---
 ##### `=this.file.link` `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/GREEN 
 **Parent-Topics**:: [[religion]]
 **Last Edited**:: *`=this.file.mtime`*
 ##### `=this.file.link` `=length(this.file.inlinks)` 
 - [[The biblical christian God is evil and does not deserved to be worshipped]]
-- [[the politicization of the christian church]]
-	- [[Evangelicalism]]
-		- [[The brain is powerful enough to create supernatural experiences]]
-	- [[Non-faith issues have been co-opted to keep people in the christian church]]
-	- [[People have been conditioned to believe the bible has to be infallible]]
-		- [[The bible is god breathed]]
+- ![[The Politicization of the Christian Church#The Politicization of the Christian Church length this file inlinks]]
+- ![[Evangelicalism#Evangelicalism length this file inlinks]]
 - [[The many transgressions of the christian church]]
 	- [[Fear of hell is baked into Christianity]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]

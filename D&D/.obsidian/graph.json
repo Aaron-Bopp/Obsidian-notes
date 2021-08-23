@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "path:D&D/Wildemount -file:aliases.md",
-  "showTags": true,
+  "search": "path:SecondBrain/CntentNotes OR path:SecondBrain/TopicNotes OR path:SecondBrain/EvergreenNotes",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -140,10 +140,10 @@
   "nodeSizeMultiplier": 0.820588235294118,
   "lineSizeMultiplier": 0.388235294117647,
   "collapse-forces": false,
-  "centerStrength": 0.523529411764706,
-  "repelStrength": 20,
+  "centerStrength": 0.49154334038055,
+  "repelStrength": 17.0190274841438,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.08171124395610398,
-  "close": true
+  "linkDistance": 500,
+  "scale": 0.5216394602508879,
+  "close": false
 }

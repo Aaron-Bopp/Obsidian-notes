@@ -10,7 +10,7 @@ note-type:
 
 I honestly think that the only way that the church can continue to exist is through throwing out the sanctity of the bible and cherry-picking it.  Church membership is down 40% in the past 30 years and its only gonna keep going down #TO/DO/REFERENCE 
 
-This is majorly due to [[the politicization of the christian church]]
+This is majorly due to [[The Politicization of the Christian Church]]
 
 ---
 

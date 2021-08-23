@@ -2,7 +2,7 @@
   "userHierarchies": [
     {
       "up": [
-        "↑"
+        "Related-Topics"
       ],
       "same": [
         "→"
@@ -15,18 +15,28 @@
   "indexNote": [
     "INDEX"
   ],
+  "hierarchyNotes": [
+    ""
+  ],
+  "hierarchyNoteDownFieldName": "",
+  "hierarchyNoteUpFieldName": "",
+  "refreshIndexOnActiveLeafChange": false,
+  "useAllMetadata": true,
+  "parseJugglLinksWithoutJuggl": false,
+  "dvWaitTime": 5000,
   "refreshIntervalTime": 0,
   "defaultView": true,
   "showNameOrType": true,
   "showRelationType": true,
+  "filterImpliedSiblingsOfDifferentTypes": false,
   "rlLeaf": true,
   "showTrail": true,
-  "trailOrTable": 3,
+  "trailOrTable": 1,
   "gridDots": false,
   "dotsColour": "#000000",
   "gridHeatmap": false,
   "heatmapColour": "#EEEEEE",
-  "showAll": true,
+  "showAll": false,
   "noPathMessage": "This note has no real or implied parents",
   "trailSeperator": "→",
   "respectReadableLineLength": true,
@@ -35,7 +45,7 @@
   "visClosed": "Real",
   "visAll": "All",
   "wikilinkIndex": true,
-  "aliasesInIndex": false,
+  "aliasesInIndex": true,
   "debugMode": false,
   "superDebugMode": false,
   "parentFieldName": "related-topics, parent",

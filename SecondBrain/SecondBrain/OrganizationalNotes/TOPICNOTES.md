@@ -48,7 +48,7 @@ const statusLevel = (status) => {
 //includes first called file as last element
 function getEmbeds(name){
 	const file = dv.pages().where(f => f.file.name === name)[0]
-	let embeds = file.embedded
+	let embeds = file && file.embedded
 	if (embeds == undefined) {
 		return [file]
 	}

@@ -24,7 +24,6 @@ This is a constantly updated index of entry points and topics for my personal fl
 	- [[my TO(DO) and EVER(GREEN) structure]]
 - [[SEARCH]]
 	- [[RELATED-TOPICS]]
-	- [[Dataview#Get notes created in the last week]]
 - Forest
 	- [[EVERGREENS]]
 	- [[EVERSPROUTS]]

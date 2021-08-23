@@ -6,8 +6,10 @@ note-type:
 aliases:
 - social fitness
 - social interaction
+- inter-personal relationships
+- personality
 embedded:
-- [[human advancement]]
+- 
 ---
  
 ##### [[socialization]] `=length(this.file.inlinks) + length(this.file.outlinks)`
@@ -19,7 +21,6 @@ Social fitness is a big part of [[human survival]] and [[human advancement]]
 
 **Last Edited**:: *`=this.file.mtime`*
 ##### `=this.file.link` `=length(this.file.inlinks)` 
-- ![[human advancement#human advancement length this file inlinks - 2]]
 - Mating process
 	- [[inter-personal communication]]
 		- [[social anxiety]]	

@@ -7,6 +7,7 @@ note-type:
 
 ---
 
+good resource for [[social justice]] https://www.radicalinprogress.org/ #TO/EXPLORE/READ 
 [Academic Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536)
 
 good gpt resources https://www.youtube.com/watch?v=_z86t7LerrQ

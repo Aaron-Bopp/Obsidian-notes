@@ -4,34 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aa80f51d18455a3d",
+        "id": "199a27b96064cbe9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/INDEX.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "122d9b4f33c25aa0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Templates/Templates/META.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3c5721449587913e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SecondBrain/TopicNotes/Politics.md",
+            "file": "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md",
             "mode": "source"
           }
         }
@@ -61,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"autism 1\"",
+                "query": "tag:#EVER",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Templates/META.md",
+                "file": "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Templates/META.md",
+                "file": "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,15 +94,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Templates/META.md"
+                "file": "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md"
               }
             }
           },
           {
-            "id": "c42b3d81c5c76e9e",
+            "id": "5b625a9ace26c46f",
             "type": "leaf",
             "state": {
-              "type": "breadcrumbs-matrix",
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
           }
@@ -148,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Templates/META.md",
+                "file": "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -264,34 +242,26 @@
               "type": "chat",
               "state": {}
             }
-          },
-          {
-            "id": "3ecdfc03d9052755",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-stats",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 1168,
     "collapsed": true
   },
-  "active": "122d9b4f33c25aa0",
+  "active": "199a27b96064cbe9",
   "lastOpenFiles": [
-    "Templates/Templates/META.md",
-    "Templates/Templates/TOPICNOTE.md",
-    "SecondBrain/TopicNotes/my parents.md",
-    "SecondBrain/TopicNotes/my emotions.md",
-    "SecondBrain/TopicNotes/business.md",
-    "SecondBrain/TopicNotes/fairness.md",
-    "SecondBrain/INDEX.md",
-    "SecondBrain/TopicNotes/mental health.md",
-    "SecondBrain/TopicNotes/neurodivergency.md",
-    "SecondBrain/OrganizationalNotes/TOPICNOTES.md"
+    "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md",
+    "SecondBrain/ContentNotes/Articles/Enneagram Type 8w9 - The Diplomat.md",
+    "SecondBrain/ContentNotes/Articles/How the System Works — The Enneagram Institute.md",
+    "SecondBrain/ContentNotes/Articles/Misidentifying 4 and 5 — The Enneagram Institute.md",
+    "SecondBrain/ContentNotes/Articles/Replacement prod.pdf.md",
+    "SecondBrain/ContentNotes/Articles/Type Five — The Enneagram Institute.md",
+    "SecondBrain/ContentNotes/Articles/Type Nine — The Enneagram Institute.md",
+    "SecondBrain/ContentNotes/Articles/Type Six — The Enneagram Institute.md",
+    "SecondBrain/ContentNotes/Articles/What We Do — Radical in Progress.md",
+    "SecondBrain/ContentNotes/Articles/Type Four.md"
   ]
 }
