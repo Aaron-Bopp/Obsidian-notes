@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md",
-            "mode": "source"
+            "file": "SecondBrain/ContentNotes/Articles/Replacement prod.pdf.md",
+            "mode": "preview"
           }
         }
       }
@@ -54,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md",
+                "file": "SecondBrain/ContentNotes/Articles/Replacement prod.pdf.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md",
+                "file": "SecondBrain/ContentNotes/Articles/Replacement prod.pdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md"
+                "file": "SecondBrain/ContentNotes/Articles/Replacement prod.pdf.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md",
+                "file": "SecondBrain/ContentNotes/Articles/Replacement prod.pdf.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -253,15 +253,15 @@
   },
   "active": "199a27b96064cbe9",
   "lastOpenFiles": [
-    "SecondBrain/ContentNotes/Articles/Enneagram 8w9 The Eight With a Nine-Wing  Psychologia.md",
-    "SecondBrain/ContentNotes/Articles/Enneagram Type 8w9 - The Diplomat.md",
-    "SecondBrain/ContentNotes/Articles/How the System Works — The Enneagram Institute.md",
-    "SecondBrain/ContentNotes/Articles/Misidentifying 4 and 5 — The Enneagram Institute.md",
     "SecondBrain/ContentNotes/Articles/Replacement prod.pdf.md",
+    "SecondBrain/ContentNotes/Articles/Summary, Part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
+    "SecondBrain/ContentNotes/Articles/Type Eight — The Enneagram Institute.md",
     "SecondBrain/ContentNotes/Articles/Type Five — The Enneagram Institute.md",
     "SecondBrain/ContentNotes/Articles/Type Nine — The Enneagram Institute.md",
-    "SecondBrain/ContentNotes/Articles/Type Six — The Enneagram Institute.md",
     "SecondBrain/ContentNotes/Articles/What We Do — Radical in Progress.md",
-    "SecondBrain/ContentNotes/Articles/Type Four.md"
+    "SecondBrain/ContentNotes/Articles/Type Six — The Enneagram Institute.md",
+    "SecondBrain/ContentNotes/Articles/Type Four.md",
+    "SecondBrain/ContentNotes/Articles/National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators.md",
+    "SecondBrain/ContentNotes/Articles/Summary, Part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md"
   ]
 }

@@ -14,7 +14,7 @@ source: https://enneagraminstitute.com/type-8
 
 ## Highlights
 
-> Eights are self-confident, strong, and assertive. Protective, resourceful, straight-talking, and decisive, but can also be ego-centric and domineering. Eights feel they must control their environment, especially people, sometimes becoming confrontational and intimidating. Eights typically have problems with their tempers and with allowing themselves to be vulnerable. *At their Best*: self- mastering, they use their strength to improve others' lives, becoming heroic, magnanimous, and inspiring.
+- > Eights are self-confident, strong, and assertive. Protective, resourceful, straight-talking, and decisive, but can also be ego-centric and domineering. Eights feel they must control their environment, especially people, sometimes becoming confrontational and intimidating. Eights typically have problems with their tempers and with allowing themselves to be vulnerable. *At their Best*: self- mastering, they use their strength to improve others' lives, becoming heroic, magnanimous, and inspiring.
  • **Basic Fear:** Of being harmed or controlled by others
  • **Basic Desire:** To protect themselves (to be in control of their own life 
  and destiny)
