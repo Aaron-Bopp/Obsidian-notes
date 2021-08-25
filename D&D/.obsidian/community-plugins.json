@@ -4,7 +4,6 @@
   "metaedit",
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
-  "breadcrumbs",
   "sliding-panes-obsidian",
   "obsidian-style-settings",
   "tag-wrangler",
@@ -21,5 +20,6 @@
   "obsidian-outliner",
   "readwise-official",
   "longform",
-  "pdf-to-markdown-plugin"
+  "pdf-to-markdown-plugin",
+  "obsidian-auto-link-title"
 ]

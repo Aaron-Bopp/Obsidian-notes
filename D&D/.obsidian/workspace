@@ -7,11 +7,8 @@
         "id": "5f4fcebff790e8a5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/Misc/Adelade.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -54,7 +51,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Misc/Adelade.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -65,9 +61,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D&D/Misc/Adelade.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Misc/Adelade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,22 +100,23 @@
             }
           },
           {
-            "id": "9e70db25fdf72df3",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-matrix",
-              "state": {}
-            }
-          },
-          {
             "id": "4307b1d238ad9f0c",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
+          },
+          {
+            "id": "92c8d87937b305d3",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -151,7 +145,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Misc/Adelade.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,32 +211,31 @@
             }
           },
           {
-            "id": "f29621ead6818066",
+            "id": "be6b3225210681ed",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-stats",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 962,
+    "width": 440,
     "collapsed": true
   },
   "active": "5f4fcebff790e8a5",
   "lastOpenFiles": [
+    "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
+    "D&D/Wildemount/Marrow Valley.md",
+    "D&D/Wildemount/INDEX.md",
     "D&D/Misc/Adelade.md",
     "D&D/Misc/Pathfinder character.md",
     "D&D/tharoline/Section/073 Approaching the island.md",
     "074.md",
     "D&D/Wildemount/Wastes of Xhorhas.md",
     "D&D/Wildemount/Greying Wildlands.md",
-    "D&D/Wildemount/Chapter 2.md",
-    "D&D/Wildemount/Chapter 1.md",
-    "D&D/Wildemount/Chapter 5.md",
-    "D&D/Wildemount/Chapter 4.md"
+    "D&D/Wildemount/Chapter 2.md"
   ]
 }

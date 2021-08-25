@@ -10,18 +10,39 @@
       "down": [
         "embedded"
       ]
+    },
+    {
+      "up": [
+        "Location"
+      ],
+      "same": [
+        ""
+      ],
+      "down": [
+        ""
+      ]
     }
   ],
   "indexNote": [
     "INDEX"
   ],
+  "hierarchyNotes": [
+    ""
+  ],
+  "hierarchyNoteDownFieldName": "",
+  "hierarchyNoteUpFieldName": "",
+  "refreshIndexOnActiveLeafChange": false,
+  "useAllMetadata": true,
+  "parseJugglLinksWithoutJuggl": false,
+  "dvWaitTime": 5000,
   "refreshIntervalTime": 0,
   "defaultView": true,
   "showNameOrType": true,
   "showRelationType": true,
+  "filterImpliedSiblingsOfDifferentTypes": false,
   "rlLeaf": true,
   "showTrail": true,
-  "trailOrTable": 3,
+  "trailOrTable": 1,
   "gridDots": false,
   "dotsColour": "#000000",
   "gridHeatmap": false,
