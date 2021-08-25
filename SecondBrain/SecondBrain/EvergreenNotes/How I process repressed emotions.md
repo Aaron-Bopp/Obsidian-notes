@@ -12,7 +12,7 @@ aliases:
 2. Some amount of time of feeling low/shitty/meh. If the event was strong it can be short because I can recognize the event and can identify the emotion, but sometimes it builds over days and then I have to parse through everything that's happened to me to find the source
 3. Recognizing/verbalizing the ACTUAL emotion, not the defense-mechanism produced feeling or rationalization. This usually involves breaking down the logic of my defense-mechanisms. It feels like a [[mindfullness]] exercise. What am I thinking about this feeling, how does that actually relate to the feeling, is it bringing out the feeling or pushing it back in.
 4. Sob uncontrollably
-5. Try to work through the emotion with healthly using [[self-love|self-validation]] like "It's okay" repeated over and over. 
+5. Try to work through the emotion with healthily using [[self-love|self-validation]] like "It's okay" repeated over and over. 
 
 ###### Examples
 

@@ -15,7 +15,6 @@ source:
 
 > literature pits identity blindness (e.g., color blindness) against identity consciousness (e.g., multiculturalism),
 
-`$= Date()`
 
 > Color blindness has ego-protective features
 
@@ -34,7 +33,7 @@ source:
 
 
 
-> Whites’ use of color blindness in interracial interaction correlates with exter-nal motivation to control prejudice
+> Whites’ use of color blindness in interracial interaction correlates with external motivation to control prejudice
 
 
 

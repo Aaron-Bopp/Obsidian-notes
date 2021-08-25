@@ -111,7 +111,7 @@
             "id": "92c8d87937b305d3",
             "type": "leaf",
             "state": {
-              "type": "breadcrumbs-matrix",
+              "type": "empty",
               "state": {}
             }
           }
@@ -214,7 +214,7 @@
             "id": "be6b3225210681ed",
             "type": "leaf",
             "state": {
-              "type": "breadcrumbs-stats",
+              "type": "empty",
               "state": {}
             }
           }

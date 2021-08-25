@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "199a27b96064cbe9",
+        "id": "23f89f6c8ee6c1aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EvergreenNotes/How I process repressed emotions.md",
+            "file": "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/How I process repressed emotions.md",
+                "file": "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/How I process repressed emotions.md",
+                "file": "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/How I process repressed emotions.md"
+                "file": "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md"
               }
             }
           },
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379
+    "width": 379,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -126,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/How I process repressed emotions.md",
+                "file": "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -251,17 +252,17 @@
     "width": 1168,
     "collapsed": true
   },
-  "active": "199a27b96064cbe9",
+  "active": "23f89f6c8ee6c1aa",
   "lastOpenFiles": [
-    "SecondBrain/EvergreenNotes/How I process repressed emotions.md",
+    "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md",
     "SecondBrain/ContentNotes/Articles/Replacement prod.pdf.md",
+    "SecondBrain/ContentNotes/Articles/Type Six — The Enneagram Institute.md",
+    "SecondBrain/ContentNotes/Articles/What We Do — Radical in Progress.md",
+    "SecondBrain/EvergreenNotes/How I process repressed emotions.md",
     "SecondBrain/ContentNotes/Articles/Summary, Part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
     "SecondBrain/ContentNotes/Articles/Type Eight — The Enneagram Institute.md",
     "SecondBrain/ContentNotes/Articles/Type Five — The Enneagram Institute.md",
     "SecondBrain/ContentNotes/Articles/Type Nine — The Enneagram Institute.md",
-    "SecondBrain/ContentNotes/Articles/What We Do — Radical in Progress.md",
-    "SecondBrain/ContentNotes/Articles/Type Six — The Enneagram Institute.md",
-    "SecondBrain/ContentNotes/Articles/Type Four.md",
-    "SecondBrain/ContentNotes/Articles/National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators.md"
+    "SecondBrain/ContentNotes/Articles/Type Four.md"
   ]
 }
