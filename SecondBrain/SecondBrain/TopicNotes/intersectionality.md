@@ -1,22 +1,24 @@
 ---
-creation date: 2021-07-03
-modification date: Saturday 3rd July 2021 00:05:23
+creation date: 2021-08-27
 note-type: 
 - evergreen-note
 - topic-note
 aliases:
 - 
+embedded:
+- 
 ---
  
-###### [[self-hate]]
+##### [[intersectionality]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 
-
-
-**Status**:: #EVER/SEED
-###### [[self-hate]] `=length([[self-hate]].file.inlinks)` 
-
+**Status**:: #EVER/SEED 
+**Related-Topics**:: 
+**Last Edited**:: *`=this.file.mtime`*
+##### [[intersectionality]] `=length(this.file.inlinks)` 
 - 
+
+### <hr class="dataviews"/>
 
 #### Notes not yet in outline
 ```dataviewjs
@@ -107,3 +109,5 @@ statusTable("TopicNotes")
 statusTable("EvergreenNotes")
 contentNotesTable("ContentNotes")
 ```
+
+

@@ -9,7 +9,7 @@ source: https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking
 ---
 ##### National SEED Project - 'White Privilege: Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators
 **Related-Topics**:: 
-**Source**:: [National SEED Project - 'White Privilege: Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators](https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking-the-invisible-knapsack)
+**Source**:: [White Privilege: Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators' | National SEED Project](https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking-the-invisible-knapsack)
 **Last Edited**:: *`=this.file.mtime`*
 
 ## Highlights

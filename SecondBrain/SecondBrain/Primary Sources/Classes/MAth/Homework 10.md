@@ -1,4 +1,4 @@
-[[Homework 10]]
+[[SecondBrain/Primary Sources/Classes/Math/Homework 10]]
 
 Download the data set Cat Jumping.
 

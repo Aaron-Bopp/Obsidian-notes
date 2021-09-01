@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "23f89f6c8ee6c1aa",
+        "id": "277acb297dea51af",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379,
-    "collapsed": true
+    "width": 379
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -221,48 +220,43 @@
             }
           },
           {
-            "id": "673b03d08890f4aa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "486816fac6580f7c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "871a193b79b5b248",
             "type": "leaf",
             "state": {
               "type": "chat",
               "state": {}
             }
+          },
+          {
+            "id": "6887f46f93496143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RECENTLY-MODIFIED.md",
+                "mode": "preview"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 1168,
+    "width": 466,
     "collapsed": true
   },
-  "active": "23f89f6c8ee6c1aa",
+  "active": "277acb297dea51af",
   "lastOpenFiles": [
     "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md",
+    "Untitled.md",
+    "SecondBrain/EvergreenNotes/Dataview.md",
+    "RECENTLY-MODIFIED.md",
     "SecondBrain/ContentNotes/Articles/Replacement prod.pdf.md",
-    "SecondBrain/ContentNotes/Articles/Type Six — The Enneagram Institute.md",
+    "SecondBrain/EvergreenNotes/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
     "SecondBrain/ContentNotes/Articles/What We Do — Radical in Progress.md",
-    "SecondBrain/EvergreenNotes/How I process repressed emotions.md",
-    "SecondBrain/ContentNotes/Articles/Summary, Part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
-    "SecondBrain/ContentNotes/Articles/Type Eight — The Enneagram Institute.md",
-    "SecondBrain/ContentNotes/Articles/Type Five — The Enneagram Institute.md",
-    "SecondBrain/ContentNotes/Articles/Type Nine — The Enneagram Institute.md",
-    "SecondBrain/ContentNotes/Articles/Type Four.md"
+    "SecondBrain/EvergreenNotes/You're never sure if you're trans.md",
+    "SecondBrain/INDEX.md",
+    "SecondBrain/TopicNotes/Politics.md"
   ]
 }

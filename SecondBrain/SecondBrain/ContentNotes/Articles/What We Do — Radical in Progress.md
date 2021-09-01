@@ -8,7 +8,7 @@ content-type:
 source: https://radicalinprogress.org/about
 ---
 ##### What We Do — Radical in Progress
-**Related-Topics**:: 
+**Related-Topics**:: [[activism]], [[social justice]], [[mutual aid]]
 **Source**:: [What We Do — Radical in Progress](https://radicalinprogress.org/about)
 **Last Edited**:: *`=this.file.mtime`*
 

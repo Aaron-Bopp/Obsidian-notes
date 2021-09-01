@@ -512,7 +512,7 @@
 
 [[Hitler]]:
 
-[[Homework 10]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 10]]:
 
 [[Homework 3]]:
 
@@ -524,13 +524,13 @@
 
 [[Homework 7]]:
 
-[[Homework 8]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 8]]:
 
-[[Homework 8]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 8]]:
 
-[[Homework 9]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 9]]:
 
-[[Homework 9]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 9]]:
 
 [[Homework week 7]]:
 
@@ -1156,7 +1156,7 @@
 
 [[higherNormalForms]]:
 
-[[homework 10]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 10]]:
 
 [[homework 11]]:
 

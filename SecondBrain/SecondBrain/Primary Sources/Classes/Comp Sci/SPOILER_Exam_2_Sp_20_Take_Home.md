@@ -8,7 +8,7 @@ Transform the ER model below into a set of 3NF relations. Use the format shown h
 
 FACULTY ([FacID]{.ul}, LastName, FirstName, Rank, DeptID)
 
-FK DeptID -\>DEPT
+FK DeptID ->DEPT
 
 DEPT ([DeptID]{.ul}, DeptName, DeptPhone)
 
@@ -22,42 +22,42 @@ BUILDING ([BuildingID**,**]{.ul} Name, SquareFeet, Rooms, Rent, Street, City, St
 
 APARTMENT ([ApartmentID]{.ul}, NumOfBedrooms, NumOfBathrooms)
 
-FK ApartmentID -\>BUILDING
+FK ApartmentID ->BUILDING
 
 GYM ([GymID, MembershipCost]{.ul})
 
-FK GymID -\>BUILDING
+FK GymID ->BUILDING
 
 GYM_EQUIPMENT ([GymID]{.ul}, [Equipment]{.ul})
 
-FK GymID -\>GYM
+FK GymID ->GYM
 
 STORE ([StoreID, Dept]{.ul})
 
-FK StoreID -\>BUILDING
+FK StoreID ->BUILDING
 
 STORE_DEPARTMENT ([StoreID]{.ul}, [Dept]{.ul})
 
-FK StoreID -\>STORE
+FK StoreID ->STORE
 
 RENT ([BuildingID, DepartmentID,]{.ul} DateRented, Duration)
 
-FK BuildingID -\>BUILDING
+FK BuildingID ->BUILDING
 
-DepartmentID -\>DEPARTMENT
+DepartmentID ->DEPARTMENT
 
 DEPARTMENT ([DepartmentID]{.ul}, Name, Location, Email, phoneNumber, DepartmentHead)
 
 OFFICE ([OfficeID,]{.ul} DepartmentID[,]{.ul} ExtensionNumber)
 
-FK DepartmentID -\>DEPARTMENT
+FK DepartmentID ->DEPARTMENT
 
 CONSTRUCT ([BuildingID,]{.ul} [OrganizationID,]{.ul} [DateConstructionStarted]{.ul})
 
-FK BuildingID -\> Building
+FK BuildingID -> Building
 
-OrganizationID -\> Organization
+OrganizationID -> Organization
 
 ORGANIZATION ([OrganizationID]{.ul}, Name, NameBranches, AcquiredID)
 
-FK AcquiredID -\>ORGANIZATION
+FK AcquiredID ->ORGANIZATION

@@ -21,5 +21,7 @@
   "readwise-official",
   "longform",
   "pdf-to-markdown-plugin",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "obsidian-languagetool-plugin",
+  "oz-image-plugin"
 ]

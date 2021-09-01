@@ -25,10 +25,6 @@ embedded:
 - ![[self-improvement#self-improvement length this file inlinks]]
 - [[Is your self-talk bullying you or bodyguarding you]]
 
-> test
-> keeps going
-
-
 ### <hr class="dataviews"/>
 
 #### Notes not yet in outline
@@ -51,8 +47,26 @@ function formatDate(date){
 function wrap(name) {
 	return '[[' + name + ']]'
 }
-function getIO(file) {
-	return `${file.inlinks.length}/${file.outlinks.length}`
+function getEmbeds(name){
+	const file = dv.pages().where(f => f.file.name === name)[0]
+	if (file === undefined) {
+		return [null]
+	}
+	let embeds = file.embedded
+	if (embeds == undefined) {
+		return [file]
+	}
+	// prevent infinite loops if currentNote is included in embeds
+	embeds = embeds.filter(l => l !== null && name !== l.path )
+	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat().filter(el => el != null)
+}
+
+function getIO(page) {
+	let embeds = 0
+	if (page.embedded){
+		embeds = getEmbeds(page.file.name).length 
+	}
+	return `${page.file.inlinks.length}/${page.file.outlinks.length + embeds - 1}`
 }
 const statusDict = {
 	"GREEN":0,
@@ -60,21 +74,16 @@ const statusDict = {
 	"SEED":2
 }
 const statusLevel = (status) => {
-	const [_, growth, state] = status.split("/")
-	return statusDict[growth]
-}
-//includes first called file as last element
-function getEmbeds(name){
-	const file = dv.pages().where(f => f.file.name === name)[0]
-	let embeds = file.embedded
-	console.log(embeds)
-	if (embeds == undefined) {
-		return [file]
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
 	}
-	// prevent infinite loops if currentNote is included in embeds
-	embeds = embeds.filter(l => l !== null && name !== l.path )
-	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat()
+	return 0
 }
+
 const allEmbeds = getEmbeds(thisFile.file.name)
 const allOutlinks = allEmbeds.map(f => f.file.outlinks).flat()
 const allPaths = allOutlinks.map(l => l.path)
@@ -107,5 +116,3 @@ statusTable("TopicNotes")
 statusTable("EvergreenNotes")
 contentNotesTable("ContentNotes")
 ```
-
-
