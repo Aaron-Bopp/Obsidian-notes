@@ -24,16 +24,17 @@ Summarized and expanded upon in [[White Privilege write-up]]
 - College campuses are central for lots of activism about race
 - Whiteness is not just an identity, it is embedded institutions and practices (college)
 	- Notion that whiteness is the invisible identity. “Other people have race”
-- Whiteness is a racial project. Representation that distributes resources 
+- Whiteness is a racial project. ([[Whiteness was created as a societal structure]]) Representation that distributes resources 
 	- Women default to whiteness => white women’s experience === women’s experience
 	- People want a racial alibi = to become the good white person or separate themselves from the institution of whiteness	(and white supremacy)
 - Progressive or liberal white people view whiteness as a burden but that is not true of all white people
-- Direct approach
-	-  White supremacy and forcing to acknowledge white privilege
-		- often used by activists
-- Indirect approach
-	-  Ground teaching in actual experience of white people = why do people feel like they don't have white privilege? -> the problems they face aren't related to their race or other races.
-		- Different than losing privilege feeling like oppression
+- [[How to address whiteness]]
+	- Direct approach
+		-  White supremacy and forcing to acknowledge white privilege
+			- often used by activists
+	- Indirect approach
+		-  Ground teaching in actual experience of white people = why do people feel like they don't have white privilege? -> the problems they face aren't related to their race or other races.
+			- Different than losing privilege feeling like oppression ([[To those with privilege, losing it feels like oppression]])
 - White teachers can be seen as benevolent role-model while BIPOC teachers are seen as bitter
 - Is there a way to get rid of the burden of whiteness? -> No
 	- teaching intellectual habits

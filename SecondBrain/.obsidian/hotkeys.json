@@ -233,5 +233,14 @@
       ],
       "key": "`"
     }
+  ],
+  "quick-explorer:browse-current": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }

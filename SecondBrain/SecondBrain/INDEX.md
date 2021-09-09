@@ -49,3 +49,10 @@ This is a constantly updated index of entry points and topics for my personal fl
  ![[personal knowledge management#personal knowledge management length this file inlinks]]
 ## <hr class="embedded"/>
  ![[Christianity#this file link length this file inlinks]]
+
+| food   | location        | price      |
+| ------ | --------------- | ---------- |
+| pop    | union           | swipe card |
+| pop    | vending machine | $2         |
+| burger | mcdonalds       | $1         |
+| cookie | home            | free       | 

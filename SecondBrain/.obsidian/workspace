@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "277acb297dea51af",
+        "id": "c68ac178d8fffe16",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -54,7 +51,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -71,7 +67,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -105,12 +98,24 @@
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
+          },
+          {
+            "id": "beb182fe8a6bd6c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SecondBrain/Primary Sources/Classes/Comp Sci/SPOILER_Exam_2_Sp_20_Take_Home.md",
+                "mode": "source"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 379
+    "width": 491,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -126,7 +131,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -228,14 +232,11 @@
             }
           },
           {
-            "id": "6887f46f93496143",
+            "id": "2655aed1bf94a8be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RECENTLY-MODIFIED.md",
-                "mode": "preview"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -246,17 +247,17 @@
     "width": 466,
     "collapsed": true
   },
-  "active": "277acb297dea51af",
+  "active": "c68ac178d8fffe16",
   "lastOpenFiles": [
-    "SecondBrain/Primary Sources/Classes/Pyschology of Race and Gender notes.md",
+    "SecondBrain/EvergreenNotes/Obsidian (software).md",
+    "Acting Bio.md",
     "Untitled.md",
-    "SecondBrain/EvergreenNotes/Dataview.md",
-    "RECENTLY-MODIFIED.md",
-    "SecondBrain/ContentNotes/Articles/Replacement prod.pdf.md",
-    "SecondBrain/EvergreenNotes/Your anxiety is telling you everything that could go wrong not what will go wrong.md",
-    "SecondBrain/ContentNotes/Articles/What We Do — Radical in Progress.md",
-    "SecondBrain/EvergreenNotes/You're never sure if you're trans.md",
-    "SecondBrain/INDEX.md",
-    "SecondBrain/TopicNotes/Politics.md"
+    "SecondBrain/ContentNotes/Can We Talk About Whiteness NPR One.md",
+    "SecondBrain/ContentNotes/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md",
+    "SecondBrain/Primary Sources/Classes/Pyschology/White Privilege write-up.md",
+    "SecondBrain/Primary Sources/Classes/Pyschology/Race_Talk.pdf",
+    "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
+    "SecondBrain/Primary Sources/Classes/Science/Article Review.md",
+    "SecondBrain/Primary Sources/Classes/Operating Systems.md"
   ]
 }

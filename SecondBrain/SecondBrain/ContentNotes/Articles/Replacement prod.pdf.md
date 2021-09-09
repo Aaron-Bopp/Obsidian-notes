@@ -6,11 +6,12 @@ creator:
 content-type: 
 - articles
 source:
+alias: Plaut et al. (2018) - Colorblindness and Multiculturalism
 ---
 ##### Replacement prod.pdf
 **Related-Topics**:: [[discrimination]], [[multiculturalism]], [[diversity]], [[color blindness]], [[racism]] 
 **Last Edited**:: *`=this.file.mtime`*
-
+**Source**:: [Plaut et al. (2018) - Colorblindness and Multiculturalism](obsidian://open?vault=SecondBrain&file=Attachments%2FPlaut%20et%20al.%20(2018)%20-%20Colorblindness%20and%20Multiculturalism.pdf)
 ## Highlights
 
 > literature pits identity blindness (e.g., color blindness) against identity consciousness (e.g., multiculturalism),

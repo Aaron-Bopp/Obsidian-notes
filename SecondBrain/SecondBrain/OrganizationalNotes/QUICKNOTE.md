@@ -12,7 +12,7 @@ good resource for [[social justice]] https://www.radicalinprogress.org/ #TO/EXPL
 
 good gpt resources https://www.youtube.com/watch?v=_z86t7LerrQ
 
-Get-ChildItem . -Filter *.docx |
+Get-ChildItem . -Filter *.docx | 
 Foreach-Object {
     pandoc --from docx --to markdown --wrap=none $_ -o $_.Name.Replace('.docx', '.md')
 }

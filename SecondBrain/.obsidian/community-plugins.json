@@ -23,5 +23,10 @@
   "pdf-to-markdown-plugin",
   "obsidian-auto-link-title",
   "obsidian-languagetool-plugin",
-  "oz-image-plugin"
+  "oz-image-plugin",
+  "obsidian-pandoc",
+  "quick-explorer",
+  "find-and-replace-in-selection",
+  "obsidian-regex-search-replace",
+  "customjs"
 ]

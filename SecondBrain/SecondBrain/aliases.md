@@ -106,7 +106,7 @@
 
 [[API]]:
 
-[[Aaron Bopp - Short Written Response The Littoral Zone]]:
+[[Short Written Response The Littoral Zone]]:
 
 [[Abortion and immigration are key to white supremacy]]:
 
@@ -213,9 +213,9 @@
 
 [[Bopp]]:
 
-[[Bopp, Aaron - Under Milkwood Play Critique]]:
+[[Under Milkwood Play Critique]]:
 
-[[Bopp, Aaron History Research Paper]]:
+[[Acting  History Research Paper]]:
 
 [[Bopp-Assignment05]]:
 
