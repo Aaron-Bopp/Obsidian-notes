@@ -7,6 +7,9 @@ note-type:
 
 ---
 
+- It's not about being successful, it's about doing what you can do to get close to success
+	-  [51:24](https://youtu.be/wsGrMgtsKOs?t=3146#t=3084.5915995880127)
+
 good resource for [[social justice]] https://www.radicalinprogress.org/ #TO/EXPLORE/READ 
 [Academic Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536)
 

@@ -11530,11 +11530,12 @@ class MacroChoiceEngine extends QuickAddChoiceEngine {
         }
     }
     async userScriptDelegator(userScript) {
-        if (this.userScriptCommand)
-            await this.runScriptWithSettings(userScript, this.userScriptCommand);
         switch (typeof userScript) {
             case "function":
-                await this.onExportIsFunction(userScript);
+                if (this.userScriptCommand)
+                    await this.runScriptWithSettings(userScript, this.userScriptCommand);
+                else
+                    await this.onExportIsFunction(userScript);
                 break;
             case "object":
                 await this.onExportIsObject(userScript);
@@ -11553,6 +11554,8 @@ class MacroChoiceEngine extends QuickAddChoiceEngine {
         this.output = await userScript(this.params, settings);
     }
     async onExportIsObject(obj) {
+        if (this.userScriptCommand && obj.entry !== null)
+            await this.runScriptWithSettings(obj, this.userScriptCommand);
         try {
             const keys = Object.keys(obj);
             const selected = await GenericSuggester.Suggest(this.app, keys, keys);
@@ -12232,6 +12235,7 @@ class UserScript extends Command {
 class ObsidianCommand extends Command {
     constructor(name, commandId) {
         super(name, CommandType.Obsidian);
+        this.generateId = () => this.id = v4();
         this.commandId = commandId;
     }
 }
@@ -13890,7 +13894,9 @@ class MacroBuilder extends obsidian.Modal {
         let input;
         const addObsidianCommandFromInput = () => {
             const value = input.getValue();
-            const command = this.commands.find(v => v.name === value);
+            const obsidianCommand = this.commands.find(v => v.name === value);
+            const command = new ObsidianCommand(obsidianCommand.name, obsidianCommand.commandId);
+            command.generateId();
             this.addCommandToMacro(command);
             input.setValue("");
         };
@@ -14022,6 +14028,7 @@ class MacroBuilder extends obsidian.Modal {
     }
     addCommandList() {
         const commandList = this.contentEl.createDiv('commandList');
+        console.log(this.macro.commands);
         this.commandListEl = new CommandList({
             target: commandList,
             props: {

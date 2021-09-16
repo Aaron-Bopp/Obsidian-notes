@@ -24,5 +24,8 @@
   "ITS@@naked-em": false,
   "ITS@@justified": false,
   "ITS@@lh": 1.5,
-  "ITS@@hcl": true
+  "ITS@@hcl": true,
+  "shimmering-focus@@show-titlebar": true,
+  "shimmering-focus@@show-ribbons": true,
+  "shimmering-focus@@round-checkboxes": true
 }

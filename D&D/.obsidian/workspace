@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5f4fcebff790e8a5",
+        "id": "14d411dd0e81176f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "D&D/MOTW/Book/Monster_of_the_Week.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -51,6 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/MOTW/Book/Monster_of_the_Week.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -61,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/MOTW/Book/Monster_of_the_Week.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/MOTW/Book/Monster_of_the_Week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +110,15 @@
             "id": "4307b1d238ad9f0c",
             "type": "leaf",
             "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {}
-            }
-          },
-          {
-            "id": "92c8d87937b305d3",
-            "type": "leaf",
-            "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 490.5,
-    "collapsed": true
+    "width": 490.5
   },
   "right": {
     "id": "e4957aafc9974964",
@@ -145,6 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "D&D/MOTW/Book/Monster_of_the_Week.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,17 +223,17 @@
     "width": 440,
     "collapsed": true
   },
-  "active": "5f4fcebff790e8a5",
+  "active": "14d411dd0e81176f",
   "lastOpenFiles": [
-    "D&D/Wildemount/Wildemount Gazetteer/Blightshore.md",
-    "D&D/Wildemount/Marrow Valley.md",
-    "D&D/Wildemount/INDEX.md",
-    "D&D/Misc/Adelade.md",
+    "D&D/MOTW/Book/Monster_of_the_Week.md",
+    "D&D/MOTW/A Matter of Timing Pacing for Convention Games.md",
+    "D&D/MOTW/Book/Monster_of_the_Week_Revised_Corrected.md",
+    "Monster_of_the_Week_Revised_Corrected.md",
+    "D&D/MOTW/Book/Monster_of_the_Week_Revised_Corrected.pdf",
+    "D&D/MOTW/Book/Monster_of_the_Week_-_Tome_of_Mysteries_Playbooks_-_2020-07-22_Update.pdf",
+    "D&D/MOTW/The Structure Of An On-the-fly Game.md",
+    "D&D/Camp Holy Rock/Camp Holy Rock.md",
     "D&D/Misc/Pathfinder character.md",
-    "D&D/tharoline/Section/073 Approaching the island.md",
-    "074.md",
-    "D&D/Wildemount/Wastes of Xhorhas.md",
-    "D&D/Wildemount/Greying Wildlands.md",
-    "D&D/Wildemount/Chapter 2.md"
+    "D&D/Misc/Adelade.md"
   ]
 }

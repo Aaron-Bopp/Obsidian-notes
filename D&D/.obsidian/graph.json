@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:SecondBrain/TopicNotes OR path:SecondBrain/EvergreenNotes",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -132,18 +132,32 @@
         "a": 1,
         "rgb": 15402437
       }
+    },
+    {
+      "query": "path:SecondBrain/TopicNotes",
+      "color": {
+        "a": 1,
+        "rgb": 16138244
+      }
+    },
+    {
+      "query": "path:SecondBrain/EvergreenNotes",
+      "color": {
+        "a": 1,
+        "rgb": 1630933
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.2,
-  "nodeSizeMultiplier": 0.871775898520085,
-  "lineSizeMultiplier": 0.388235294117647,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.78905882352941,
+  "lineSizeMultiplier": 1.67376470588235,
   "collapse-forces": false,
-  "centerStrength": 0.398520084566596,
-  "repelStrength": 10.4228329809725,
-  "linkStrength": 0.63107822410148,
-  "linkDistance": 362,
-  "scale": 0.10498394231765706,
+  "centerStrength": 0.448161764705882,
+  "repelStrength": 18.0941176470588,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.09429602172248921,
   "close": false
 }

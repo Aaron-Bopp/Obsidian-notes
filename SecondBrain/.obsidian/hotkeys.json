@@ -242,5 +242,13 @@
       ],
       "key": "L"
     }
+  ],
+  "obsidian42-text-transporter:obsidian42-text-transporter-combinedCommands": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }

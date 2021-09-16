@@ -5,6 +5,7 @@ note-type:
 - topic-note
 aliases:
 - identity
+- self-concept
 embedded:
 - [[self-improvement]]
 - [[self-image]]

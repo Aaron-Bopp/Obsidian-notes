@@ -6526,7 +6526,7 @@ async function openOrSwitch(app, dest, currFile, event) {
     }
     else {
         const mode = app.vault.getConfig("defaultViewMode");
-        const leaf = event.ctrlKey || event.metaKey
+        const leaf = (event.ctrlKey || event.getModifierState('Meta'))
             ? workspace.splitActiveLeaf()
             : workspace.getUnpinnedLeaf();
         await leaf.openFile(destFile, { active: true, mode });
@@ -6614,6 +6614,21 @@ function getAllGsInDir(userHierarchies, currGraphs, dir) {
     // console.log({ allXGs, allGsInDir });
     return allGsInDir;
 }
+function getAllFieldGs(fields, currGraphs) {
+    const fieldGs = [];
+    currGraphs.forEach(hierGs => {
+        DIRECTIONS.forEach(dir => {
+            Object.keys(hierGs[dir]).forEach(fieldName => {
+                if (fields.includes(fieldName)) {
+                    const fieldG = hierGs[dir][fieldName];
+                    if (fieldG instanceof graphlib.Graph)
+                        fieldGs.push(fieldG);
+                }
+            });
+        });
+    });
+    return fieldGs;
+}
 function hierToStr(hier) {
     return `↑: ${hier.up.join(", ")}
 →: ${hier.same.join(", ")}
@@ -6621,6 +6636,63 @@ function hierToStr(hier) {
 }
 function removeDuplicates(arr) {
     return [...new Set(arr)];
+}
+const createOrUpdateYaml = async (key, value, file, frontmatter, api) => {
+    let valueStr = value.toString();
+    if (!frontmatter || frontmatter[key] === undefined) {
+        console.log(`Creating: ${key}: ${valueStr}`);
+        await api.createYamlProperty(key, `['${valueStr}']`, file);
+    }
+    else if ([...[frontmatter[key]]].flat(3).some(val => val == valueStr)) {
+        console.log('Already Exists!');
+        return;
+    }
+    else {
+        const oldValueFlat = [...[frontmatter[key]]].flat(4);
+        const newValue = [...oldValueFlat, valueStr].map(val => `'${val}'`);
+        console.log(`Updating: ${key}: ${newValue}`);
+        await api.update(key, `[${newValue.join(", ")}]`, file);
+    }
+};
+const writeBCToFile = (app, plugin, currGraphs, file) => {
+    var _a, _b;
+    const frontmatter = (_a = app.metadataCache.getFileCache(file)) === null || _a === void 0 ? void 0 : _a.frontmatter;
+    const api = (_b = app.plugins.plugins.metaedit) === null || _b === void 0 ? void 0 : _b.api;
+    if (!api) {
+        new obsidian.Notice('Metaedit must be enabled for this function to work');
+        return;
+    }
+    currGraphs.hierGs.forEach(hier => {
+        DIRECTIONS.forEach(dir => {
+            let oppDir;
+            if (dir === 'up')
+                oppDir = 'down';
+            if (dir === 'down')
+                oppDir = 'up';
+            if (dir === 'same')
+                oppDir = 'same';
+            Object.keys(hier[dir]).forEach(field => {
+                const fieldG = hier[dir][field];
+                const succs = fieldG.predecessors(file.basename);
+                succs.forEach(async (succ) => {
+                    const { fieldName } = fieldG.node(succ);
+                    const currHier = plugin.settings.userHierarchies.filter(hier => hier[dir].includes(fieldName))[0];
+                    let oppField = currHier[oppDir][0];
+                    if (!oppField)
+                        oppField = `<Reverse>${fieldName}`;
+                    await createOrUpdateYaml(oppField, succ, file, frontmatter, api);
+                });
+            });
+        });
+    });
+};
+function oppFields(field, dir, userHierarchies) {
+    var _a, _b;
+    let oppDir = 'same';
+    if (dir !== "same") {
+        oppDir = dir === "up" ? "down" : "up";
+    }
+    return (_b = (_a = userHierarchies.find(hier => hier[oppDir].includes(field))) === null || _a === void 0 ? void 0 : _a[oppDir]) !== null && _b !== void 0 ? _b : [];
 }
 
 /**
@@ -24209,6 +24281,18 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
                 saveButton.toggleClass("hierarchy-unsaved", true);
                 saveButton.textContent = "Save";
             }));
+            async function resetLimitTrailCheckboxes() {
+                settings.limitTrailCheckboxStates = {};
+                settings.userHierarchies.forEach(userHier => {
+                    userHier.up.forEach(async (field) => {
+                        // First sort out limitTrailCheckboxStates
+                        settings.limitTrailCheckboxStates[field] = true;
+                        await plugin.saveSettings();
+                    });
+                });
+                await plugin.saveSettings();
+                drawLimitTrailCheckboxes(checkboxDiv);
+            }
             row.createEl("button", { text: "X" }, (el) => {
                 el.addEventListener("click", async () => {
                     row.remove();
@@ -24217,6 +24301,8 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
                         settings.userHierarchies.splice(removeIndex, 1);
                         await plugin.saveSettings();
                     }
+                    // Refresh limitTrailFields
+                    resetLimitTrailCheckboxes();
                     new obsidian.Notice("Hierarchy Removed.");
                 });
             });
@@ -24234,6 +24320,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
                         if (removeIndex > -1) {
                             settings.userHierarchies.splice(removeIndex, 1);
                             await plugin.saveSettings();
+                            resetLimitTrailCheckboxes();
                         }
                     }
                     cleanInputs = [upInput.value, sameInput.value, downInput.value].map(splitAndTrim);
@@ -24250,6 +24337,7 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
                         });
                         await plugin.saveSettings();
                         new obsidian.Notice("Hierarchy saved.");
+                        resetLimitTrailCheckboxes();
                     }
                 });
             });
@@ -24514,6 +24602,33 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             await plugin.saveSettings();
             await plugin.drawTrail();
         }));
+        const limitTrailFieldsDiv = trailDetails.createDiv({ cls: 'limit-ML-fields' });
+        limitTrailFieldsDiv.createEl('strong', { 'text': 'Limit M/L View to only show certain fields' });
+        const checkboxDiv = limitTrailFieldsDiv.createDiv({ cls: 'checkboxes' });
+        function drawLimitTrailCheckboxes(div) {
+            checkboxDiv.empty();
+            const checkboxStates = settings.limitTrailCheckboxStates;
+            settings.userHierarchies.forEach(userHier => {
+                userHier.up.forEach(async (field) => {
+                    // First sort out limitTrailCheckboxStates
+                    if (checkboxStates[field] === undefined) {
+                        checkboxStates[field] = true;
+                        await plugin.saveSettings();
+                    }
+                    const cbDiv = div.createDiv();
+                    const checkedQ = checkboxStates[field];
+                    const cb = cbDiv.createEl('input', { type: 'checkbox', attr: { id: field } });
+                    cb.checked = checkedQ;
+                    cbDiv.createEl('label', { text: field, attr: { for: field } });
+                    cb.addEventListener('change', async (event) => {
+                        checkboxStates[field] = cb.checked;
+                        await plugin.saveSettings();
+                        console.log(settings.limitTrailCheckboxStates);
+                    });
+                });
+            });
+        }
+        drawLimitTrailCheckboxes(checkboxDiv);
         new obsidian.Setting(trailDetails)
             .setName("Field name to hide trail")
             .setDesc("A note-specific toggle to hide the Trail View. By default, it is `hide-trail`. So, to hide the trail on a specific note, add the field to that note's yaml, like so: `hide-trail: {{anything}}`.")
@@ -24649,6 +24764,17 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             await plugin.saveSettings();
             await plugin.drawTrail();
         }));
+        const writeBCsToFileDetails = containerEl.createEl("details");
+        writeBCsToFileDetails.createEl("summary", { text: "Write Breadcrumbs to File" });
+        new obsidian.Setting(writeBCsToFileDetails)
+            .setName("Show the `Write Breadcrumbs to ALL Files` command")
+            .setDesc("This command attempts to update ALL files with implied breadcrumbs pointing to them. So, it is not even shown by default (even though it has 3 confirmation boxes to ensure you want to run it")
+            .addToggle((toggle) => toggle
+            .setValue(settings.showWriteAllBCsCmd)
+            .onChange(async (value) => {
+            settings.showWriteAllBCsCmd = value;
+            await plugin.saveSettings();
+        }));
         const visModalDetails = containerEl.createEl("details");
         visModalDetails.createEl("summary", { text: "Visualisation Modal" });
         new obsidian.Setting(visModalDetails)
@@ -24735,6 +24861,9 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
             settings.superDebugMode = value;
             await plugin.saveSettings();
         }));
+        debugDetails.createEl('button', { text: 'Console log `settings`' }, (el) => {
+            el.addEventListener('click', () => console.log(settings));
+        });
         new KoFi({ target: this.containerEl });
     }
 }
@@ -26116,6 +26245,7 @@ class MatrixView extends obsidian.ItemView {
         reversed.forEach((path) => path.shift());
         const indent = "  ";
         const visited = {};
+        const activeFile = this.app.workspace.getActiveFile();
         reversed.forEach((path) => {
             var _a, _b, _c, _d;
             for (let depth = 0; depth < path.length; depth++) {
@@ -26131,16 +26261,18 @@ class MatrixView extends obsidian.ItemView {
                     index += currNode;
                     index += settings.wikilinkIndex ? "]]" : "";
                     if (settings.aliasesInIndex) {
-                        const currFile = this.app.metadataCache.getFirstLinkpathDest(currNode, this.app.workspace.getActiveFile().path);
-                        const cache = this.app.metadataCache.getFileCache(currFile);
-                        const alias = (_b = (_a = cache === null || cache === void 0 ? void 0 : cache.frontmatter) === null || _a === void 0 ? void 0 : _a.alias) !== null && _b !== void 0 ? _b : [];
-                        const aliases = (_d = (_c = cache === null || cache === void 0 ? void 0 : cache.frontmatter) === null || _c === void 0 ? void 0 : _c.aliases) !== null && _d !== void 0 ? _d : [];
-                        const allAliases = [
-                            ...[alias].flat(3),
-                            ...[aliases].flat(3),
-                        ];
-                        if (allAliases.length) {
-                            index += ` (${allAliases.join(", ")})`;
+                        const currFile = this.app.metadataCache.getFirstLinkpathDest(currNode, activeFile.path);
+                        if (currFile !== null) {
+                            const cache = this.app.metadataCache.getFileCache(currFile);
+                            const alias = (_b = (_a = cache === null || cache === void 0 ? void 0 : cache.frontmatter) === null || _a === void 0 ? void 0 : _a.alias) !== null && _b !== void 0 ? _b : [];
+                            const aliases = (_d = (_c = cache === null || cache === void 0 ? void 0 : cache.frontmatter) === null || _c === void 0 ? void 0 : _c.aliases) !== null && _d !== void 0 ? _d : [];
+                            const allAliases = [
+                                ...[alias].flat(3),
+                                ...[aliases].flat(3),
+                            ];
+                            if (allAliases.length) {
+                                index += ` (${allAliases.join(", ")})`;
+                            }
                         }
                     }
                     index += "\n";
@@ -34908,6 +35040,8 @@ const forceDirectedG = (graph, app, currFile, modal, width, height) => {
             return currNodeColour;
         });
     });
+    // const saveLayoutButton = modal.contentEl.createEl('button', { text: 'Save Layout' })
+    //   .addEventListener('click', saveGraph)
     const data = graphlibToD3(graph);
     const links = data.links.map((d) => Object.create(d));
     const currNode = data.nodes.find((node) => node.name === currFile.basename);
@@ -36968,6 +37102,7 @@ const DEFAULT_SETTINGS = {
     filterImpliedSiblingsOfDifferentTypes: false,
     rlLeaf: true,
     showTrail: true,
+    limitTrailCheckboxStates: {},
     hideTrailFieldName: 'hide-trail',
     trailOrTable: 3,
     gridDots: false,
@@ -36978,6 +37113,7 @@ const DEFAULT_SETTINGS = {
     noPathMessage: `This note has no real or implied parents`,
     trailSeperator: "→",
     respectReadableLineLength: true,
+    showWriteAllBCsCmd: false,
     visGraph: "Force Directed Graph",
     visRelation: "Parent",
     visClosed: "Real",
@@ -37257,6 +37393,38 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             name: "Refresh Breadcrumbs Index",
             callback: async () => await this.refreshIndex(),
         });
+        this.addCommand({
+            id: "Write-Breadcrumbs-to-Current-File",
+            name: "Write Breadcrumbs to Current File",
+            callback: () => {
+                const currFile = this.app.workspace.getActiveFile();
+                writeBCToFile(this.app, this, this.currGraphs, currFile);
+            },
+        });
+        this.addCommand({
+            id: "Write-Breadcrumbs-to-All-Files",
+            name: "Write Breadcrumbs to **ALL** Files",
+            callback: () => {
+                const first = window.confirm("This action will write the implied Breadcrumbs of each file to that file.\nIt uses the MetaEdit plugins API to update the YAML, so it should only affect that frontmatter of your note.\nI can't promise that nothing bad will happen. **This operation cannot be undone**.");
+                if (first) {
+                    const second = window.confirm('Are you sure? You have been warned that this operation will attempt to update all files with implied breadcrumbs.');
+                    if (second) {
+                        const third = window.confirm('For real, please make a back up before');
+                        if (third) {
+                            try {
+                                this.app.vault.getMarkdownFiles().forEach(file => writeBCToFile(this.app, this, this.currGraphs, file));
+                                new obsidian.Notice('Operation Complete');
+                            }
+                            catch (error) {
+                                new obsidian.Notice(error);
+                                console.log(error);
+                            }
+                        }
+                    }
+                }
+            },
+            checkCallback: () => this.settings.showWriteAllBCsCmd
+        });
         this.addRibbonIcon("dice", "Breadcrumbs Visualisation", () => new VisModal(this.app, this).open());
         this.addSettingTab(new BreadcrumbsSettingTab(this.app, this));
     }
@@ -37314,6 +37482,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             hierGs: [],
             mergedGs: { up: undefined, same: undefined, down: undefined },
             closedGs: { up: undefined, same: undefined, down: undefined },
+            limitTrailG: undefined
         };
         userHierarchies.forEach((hier, i) => {
             const newGraphs = { up: {}, same: {}, down: {} };
@@ -37374,6 +37543,25 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                 graphs.closedGs[dir] = closeImpliedLinks(graphs.mergedGs[dir], graphs.mergedGs[dir]);
             }
         });
+        // LimitTrailG
+        if (Object.values(settings.limitTrailCheckboxStates).every(val => val)) {
+            graphs.limitTrailG = graphs.closedGs.up;
+        }
+        else {
+            const allUps = getAllGsInDir(userHierarchies, graphs.hierGs, 'up');
+            const allLimitedTrailsGsKeys = Object.keys(allUps).filter(field => settings.limitTrailCheckboxStates[field]);
+            const allLimitedTrailsGs = [];
+            allLimitedTrailsGsKeys.forEach(key => allLimitedTrailsGs.push(allUps[key]));
+            const mergedLimitedUpGs = mergeGs(...allLimitedTrailsGs);
+            const allLimitedDownGs = [];
+            Object.keys(settings.limitTrailCheckboxStates).forEach(limitedField => {
+                const oppFieldsArr = oppFields(limitedField, 'up', userHierarchies);
+                const oppGs = getAllFieldGs(oppFieldsArr, graphs.hierGs);
+                allLimitedDownGs.push(...oppGs);
+            });
+            const mergedLimitedDownGs = mergeGs(...allLimitedDownGs);
+            graphs.limitTrailG = closeImpliedLinks(mergedLimitedUpGs, mergedLimitedDownGs);
+        }
         debug(settings, "graphs inited");
         debug(settings, { graphs });
         debugGroupEnd(settings, "debugMode");
@@ -37483,7 +37671,7 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             debugGroupEnd(settings, "debugMode");
             return;
         }
-        const closedUp = this.currGraphs.closedGs.up;
+        const closedUp = this.currGraphs.limitTrailG;
         const sortedTrails = this.getBreadcrumbs(closedUp, currFile);
         debug(settings, { sortedTrails });
         // Get the container div of the active note

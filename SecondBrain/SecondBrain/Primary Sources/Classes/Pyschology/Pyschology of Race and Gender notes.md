@@ -11,7 +11,6 @@
 	- what if people don't want to be a part of a culture that they are recognized for?
 	- cons
 		- can lead to tokenism and stereotyping 
-		- 
 - Color blindness => seeing everybody as equal, not labeling people according to the color of their skins
 	- seen as separate from using color blindness to make racist remarks
 	- != ignoring race's existence, applies more in individual situations
@@ -68,4 +67,138 @@
 	- systemic racism is when the systems of society have been built to reinforce individuals racism
 - Institutional bias - discrimination ingrained into society through culture, govt, laws, norms
 	- implicit or explicit (discrimination vs privelege)
-- 
+- What is causing institutional bias?
+## Racial disparities in covid
+- black people (and navajo people) more likely to catch and more likely to die from covid
+- Causes: Some of these are correlations not causation of race
+	- Hospitals underfunded
+	- higher percentage essential workers
+		- can't work from home
+		- can't take time off to get healthcare
+	- crowded and multigenerational housing
+	- less likely to have health insurance
+	- distrust of healthcare and govt
+	- higher rate of pre-existing conditions
+		- lower health outcomes
+		- lower life expectancy
+	- lack of education
+- Systemic causes:
+	- poverty
+	- redlining
+	- school funding
+	- biased research/medicine
+	- historical discrimination
+	- history history of racist treatment
+	- slavery (==?what can we do about slavery today?how does this effects the conversation about solutions?==)
+	- feedback loop
+- Hurricane Katrina = example of inequal treatment in healthcare
+# Week 5  
+
+1.  [[Ritchey (2014) - Black Identity Development.pdf]] 
+2.  [[Cook & McCoy (2017) - Messages in Collusion.pdf]] 
+## Identity
+- Identity models are about experience not age periods
+### Black identity
+- Black identity developmental model with goal of a positive racial identity with strong importance to [[self]]
+	- Invented by a white man (Cross) who said it should only be for black identities
+	- 4-5 stages
+		1. pre-encounter
+			- unware of race
+			- identity is focused on othe internal aspects
+			- disinterested in black issues or anti-black attitudes
+				- white is taugh as the default
+				- colorblind narratives are more dominant and so they won't understand the racial reasons behind inequalities
+		2. encounter/personalize
+			- event that evokes racial awareness
+			- can be good or bad
+			- can happen many times
+				- reinforces or bring's it back to the forefront
+			- individuals's sense of self is impacted and they re-evaluate
+		3. Immersion-Emersion
+			- immersion = full intense engagement in black culture
+			- emersion - emergence from immersion with a nuanced understanding of racial identity/culture/relations
+			- characterized by (justified) rage toward whiteness
+		4. Internalization
+			- transitions from action and emotion to internal change and view of self
+	- criticisms
+		- only applicable to african-americans
+		- one-directional
+			- people shift from stage to stage back and forth
+### White identity			
+- Abandonment of Racism
+	1. Contact
+		- Lack of awareness of race is importance in society
+		- all people are evaluated by white criteria
+	1. Disintegration
+		- acknowledge race ==> feelings of guild, shame, anxiety
+	1. Reintegration
+		- Reversion back to recially-biased beliefs
+		- idealization
+		- racial superiority
+		- guilt => fear anger
+		- active vs passive expression
+- To be not be racist you have to be anti-racist
+	- you still benefit from white privelege even if you are not racist
+- Defining a non-racist white identity
+	1. Pseudo
+		- 
+
+	1. 
+
+# Week 6  
+
+1.  “[Intersectionality](https://www.nccj.org/intersectionality),” web article from _NCCJ_.
+2.  [[Robbins & McGowan (2016) - Intersectional Perspectives on Gender.pdf]] 
+3.  [[McCormick-Huhn et al. (2019) - What If Psychology Took Intersectionality Seriously.pdf]] 
+
+# Week 7  
+
+1.  Chapter 2: Theoretical Perspectives on Gender, pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
+
+# Week 8  
+
+1.  Chapter 2: Theoretical Perspectives on Gender, pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
+2.  Chapter 7: Lifespan Development, pp. 151-179. Access through your Else-Quest & Hyde (2018) textbook.
+
+# Week 9  
+
+1.  Chapter 3: Gender Stereotypes and Gender Differences, pp. 61-81. Access through your Else-Quest & Hyde (2018) textbook.
+2.  Chapter 10: Biology and Gender, pp. 223-240. Access through your Else-Quest & Hyde (2018) textbook.
+
+# Week 10  
+
+1.  “[Frequently Asked Questions about Transgender People](https://transequality.org/issues/resources/frequently-asked-questions-about-transgender-people),” web article from _National Center for Transgender Equality_.
+2.  [[Russell et al. (2018) - Chosen Name Use.pdf]] 
+3.  [[Sansfacon et al. (2020) - I Knew That I Wasn't Cis.pdf]] 
+
+# Week 11  
+
+1.  [[Olson et al. (2016) - Mental Health of Transgender Children.pdf]] 
+
+# Week 12  
+
+1.  [[Dovidio et al. (2017) - Aversive Racism and Contemporary Bias.pdf]] 
+2.  [[Correll et al. (2014) - The Police Officer's Dilemma.pdf]] 
+
+# Week 13  
+
+1.  “[Sexism Isn’t Just Unfair; It Makes Women Sick, Study Suggests](https://theconversation.com/sexism-isnt-just-unfair-it-makes-women-sick-study-suggests-95689),” web article from _The Conversation._
+2.  “[Sexism May Be Harmful to Men’s Mental Health](https://www.apa.org/news/press/releases/2016/11/sexism-harmful),” web article from _American Psychological Association_.
+3.  [[Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
+
+# Week 14  
+
+1.  Chapter 4, Focus 4.1: Racial Microaggressions, pp. 90-91. Access through your Else-Quest & Hyde (2018) textbook.
+2.  Chapter 9: Gender and Work, pp. 210-216. Access through your Else-Quest & Hyde (2018) textbook.
+3.  Chapter 14: Gender and Victimization, pp. 311-336. Access through your Else-Quest & Hyde (2018) textbook.
+
+# Week 15
+No assigned readings.  
+  
+# Week 16
+
+1.  [[Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact.pdf]] 
+2.  “[The Top 10 Strategies for Reducing Prejudice](https://greatergood.berkeley.edu/article/item/top_10_strategies_for_reducing_prejudice),” web article from _Greater Good Magazine_, published by University of California, Berkeley.
+
+
+link

@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c68ac178d8fffe16",
+        "id": "b2117d34e154e5d4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -51,6 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -67,6 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -88,25 +93,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md"
+              }
             }
           },
           {
-            "id": "5b625a9ace26c46f",
+            "id": "0c769aef4d9945f1",
             "type": "leaf",
             "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "type": "dictionary-view",
               "state": {}
             }
           },
           {
-            "id": "beb182fe8a6bd6c9",
+            "id": "27a36f04e1c2d530",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Primary Sources/Classes/Comp Sci/SPOILER_Exam_2_Sp_20_Take_Home.md",
-                "mode": "source"
+                "file": "SecondBrain/OrganizationalNotes/RECENTLY-MODIFIED.md",
+                "mode": "preview"
               }
             }
           }
@@ -114,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491,
-    "collapsed": true
+    "width": 491
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -131,6 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -247,17 +254,17 @@
     "width": 466,
     "collapsed": true
   },
-  "active": "c68ac178d8fffe16",
+  "active": "b2117d34e154e5d4",
   "lastOpenFiles": [
-    "SecondBrain/EvergreenNotes/Obsidian (software).md",
-    "Acting Bio.md",
-    "Untitled.md",
-    "SecondBrain/ContentNotes/Can We Talk About Whiteness NPR One.md",
-    "SecondBrain/ContentNotes/Religion/articleDifference between reincarnation in Hinduism and Bhudism.md",
-    "SecondBrain/Primary Sources/Classes/Pyschology/White Privilege write-up.md",
-    "SecondBrain/Primary Sources/Classes/Pyschology/Race_Talk.pdf",
+    "SecondBrain/EvergreenNotes/Monster of the Week.md",
     "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
-    "SecondBrain/Primary Sources/Classes/Science/Article Review.md",
+    "SecondBrain/EvergreenNotes/Being in a defensive condition can cause you to be consumed by your ego.md",
+    "SecondBrain/EvergreenNotes/Abortion and immigration are key to white supremacy.md",
+    "SecondBrain/EvergreenNotes/ADHD is primarily an executive function disorder.md",
+    "SecondBrain/EvergreenNotes/American's are scared of the word communism not it's meaning.md",
+    "SecondBrain/EvergreenNotes/Anti-government stances lead to economic crashes.md",
+    "SecondBrain/Primary Sources/Classes/Pyschology/It’s All About the Jeffersons - This American Life.md",
+    "SecondBrain/Primary Sources/Classes/Pyschology/Worksheet 1.md",
     "SecondBrain/Primary Sources/Classes/Operating Systems.md"
   ]
 }
