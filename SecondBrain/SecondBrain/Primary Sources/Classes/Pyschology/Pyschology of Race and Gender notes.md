@@ -140,10 +140,19 @@
 - To be not be racist you have to be anti-racist
 	- you still benefit from white privelege even if you are not racist
 - Defining a non-racist white identity
-	1. Pseudo
-		- 
-
-	1. 
+	1. Pseudo-independent
+		- personal ownership of [[white privelege]]/[[racism]]
+		- microagressions unconscious bias still present
+		- wants to help POC but can become paternalistic
+	2. immersion/emersion
+		- immersion = what does a non-racist white person look like
+		- emersion - how do I want to embrace whiteness
+	3. autonomy
+		- internalization of positive white identity
+		- race is not viewed negatively
+		- cfronts racism
+		- rejects privilege
+		- comfort when interacting with POC
 
 # Week 6  
 

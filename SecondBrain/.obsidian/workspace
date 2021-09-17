@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/INDEX.md",
+            "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/INDEX.md",
+                "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/INDEX.md",
+                "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/INDEX.md"
+                "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/INDEX.md",
+                "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -256,6 +256,8 @@
   },
   "active": "713aacf35f08ef9a",
   "lastOpenFiles": [
+    "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
+    "SecondBrain/OrganizationalNotes/QUICKNOTE.md",
     "SecondBrain/INDEX.md",
     "SecondBrain/EvergreenNotes/Journal.md",
     "Untitled.md",
@@ -263,8 +265,6 @@
     "Bobby Milton.md",
     "Regex.md",
     "SecondBrain/EvergreenNotes/The biblical christian God is evil and does not deserved to be worshipped.md",
-    "SecondBrain/EvergreenNotes/Obsidian (software).md",
-    "SecondBrain/EvergreenNotes/My self-image is purely based on other's perceptions of me.md",
-    "SecondBrain/EvergreenNotes/Make your inbox into an entry point.md"
+    "SecondBrain/EvergreenNotes/Obsidian (software).md"
   ]
 }

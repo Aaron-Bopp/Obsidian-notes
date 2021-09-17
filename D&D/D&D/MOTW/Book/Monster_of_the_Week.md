@@ -2954,9 +2954,7 @@ A mystery is made up of six basic elements. You can create them in any order, bu
 
 Before I get into the guts of it, here’s what a finished mystery looks like. Read it, and then I’ll talk about how the pieces fit together.
 
-An Example Mystery:
-
-Mongolian Death Worm Attack
+An Example Mystery Mongolian Death Worm Attack
 
 *The hunters get a report of some strange deaths at a local museum. Professor Josh Singer, Dr Jennifer Sofia, and Michelle Fitzsimmons were last seen alive working late unpacking and cleaning up new items for the collection. The next morning they were found “burned and partially dissolved” (according to police reports).*
 
@@ -3304,7 +3302,7 @@ Summary: First Mystery Creation
 
 
 
-Introductory Mystery: Dream Away the Time
+Introductory Mystery Dream Away the Time
 
 Here’s a first mystery you can use if you don’t have time to prepare your own.
 

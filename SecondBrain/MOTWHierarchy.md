@@ -1,0 +1,200 @@
+ - Foreword to the Revised Edition
+ - There Are Monsters Out There
+     - What You've Signed Up For
+     - What You'll Need
+     - What You Should Read
+     - Structure
+     - Feedback
+ - The Hunters
+     - The First Session
+         - Extra hunter types
+         - Just One Of Each
+         - Making Your Hunter
+     - Team Concepts
+         - Team Customisation
+         - Example Team Concepts
+             - Slayer and Entourage
+             - The Unexplained Cases Team
+             - The Order
+             - Roadtripping Hunter Family
+     - Before You GET STARTED
+         - Moves
+             - The Hunter Basic Moves
+         - The Ratings
+ - The Playbooks
+     - The Chosen
+     - The Crooked
+     - The Divine
+     - The Expert
+     - The Flake
+     - The Initiate
+     - The Monstrous
+     - The Mundane
+     - The Professional
+     - The SpellSlinger
+     - The Spooky
+     - The Wronged
+ - Get Ready For Action
+     - Introductions
+     - History
+     - How To Play
+         - Hunter Agenda
+         - The Game Is A Conversation
+         - Moves
+             - You Have To Make The Move
+             - Rolling the Dice
+             - Bonuses and Holds
+                 - FORWARD
+                 - ONGOING
+                 - HOLD
+             - The Basic Moves
+                 - Act Under Pressure
+                 - Help Out
+                 - Investigate A Mystery
+                 - Kick Some Ass
+                 - Manipulate Someone
+                 - Protect Someone
+                 - Read A Bad Situation
+                 - Use Magic
+             - Big Magic
+     - Fights
+         - Unarmed Attacks And Improvised Weapons
+     - Harm
+         - Monsters and Harm    
+         - Healing
+             - Healing Between Mysteries
+     - Resurrection
+     - The Luck Counter
+         - When You Run Out Of Luck
+ - Gear
+     - Getting New Gear
+     - Weapons
+         - Custom Weapons
+     - Armour
+     - Other Gear
+     - Gear Tags
+     - Custom Gear Moves
+ - Leveling Up
+     - End Of Session Experience
+     - Improvements
+     - Advanced Improvements
+     - Advanced Moves
+         - PlaybookSpecific Advanced Improvements
+ - Summary Hunter's Session
+     - The First Time Only
+     - Every Game
+ - The Keeper
+     - What You Do
+         - How It Will Play Out
+             - No Planning Ahead
+         - It's About the Hunters, Not The Mystery
+     - Before Your First Game
+         - Think About Style
+         - Get Into The Keeper Mindset
+         - The Keeper Agenda
+         - The Keeper Principles
+     - Creating Your First Mystery
+         - An Example Mystery Mongolian Death Worm Attack
+         - What That All Means
+             - Componenents of a mystery
+     - Preparing Your First Mystery
+         - The Hook
+         - The Threats
+             - Monsters
+             - Minions
+             - Bystanders
+             - Locations
+         - More Threats
+     - Mystery Countdowns
+     - Summary First Mystery Creation
+ - Introductory Mystery Dream Away the Time
+ - The First SesSion
+     - Hunter Creation
+     - Introductions
+     - History
+ - Running The First Mystery
+     - The Game Is A Conversation
+     - Keeper Agenda
+     - The Keeper Principles
+     - Always Say
+     - Moves
+     - The Basic Keeper Moves
+         -  Using The Keeper Moves
+         -  Which Keeper Move To Use
+     - Threat Moves
+ - The Basic Hunter Moves
+     - Act Under Pressure
+     - Help Out
+     - Investigate A Mystery
+     - Kick Some Ass
+     - Manipulate Someone
+     - Protect Someone
+     - Read A Bad Situation
+     - Use Magic
+     - Big Magic
+     - Playbook Moves
+     - Actions Not Covered By A Move
+ - On With The Mystery
+     - StartOfMystery Moves
+         - The Teaser
+         - Beginning the Investigation
+         - Use The Countdown
+         - I'm Not Prepared For This
+         - It Always Comes To A Fight
+         - Harm
+         - Healing
+         - An Example Fight
+     -    End of the First Session
+     -  Summary Keeper's First Session
+ -  Between Game Sessions:  Arcs
+     -  Building Arcs
+     - The Basic Concept
+     - Arc Threats
+     - Arc Countdowns
+     - Arc Templates
+         - Ancient Evil Rising
+         - The Nemesis
+         - The End of Days
+         - Corruption
+         - Arc Custom Moves
+         - Summary Arc Creation
+ - Between Game Sessions: Subsequent mysteries
+     - Summary: Mystery Creation    
+ - Basic Concept
+     - The Hook
+     - The Threats
+     - The Countdown
+     - Messing With The Formula
+     - Sessions and Mysteries
+     - Mystery Letters
+ - Running Subsequent Mysteries
+     - At the Beginning of Each Session
+     - Playing the Mystery
+     - At the End of Each Session
+     - Summary Keeper's Session
+ - Mystery Damn Dirty Apes
+ - As the game  Goes On
+     - At the End Of Each Mystery
+         - Checking On Your Arcs
+         - Building Mythology
+     - Endgame
+         - Leveling Up And Improvements
+         - Running Out Of Luck
+         - Dealing With Arcs
+         - Other Things To Consider
+         - How To End A Game
+     - OneShot Games
+ - Player Numbers
+ - Customising Your Game
+     - Custom Moves
+         - Defining The Move
+         - Triggering The Custom Move
+         - Move Types
+         - Example Custom Moves
+     - Custom Threats
+ - Legacy Experience Rules
+ - Sharing The Keeper Duties
+ - Custom Playbooks
+ - A Whole New Game
+ - Inspiration
+ - Index

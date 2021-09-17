@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d0e6167fa4a5f874",
+        "id": "609af8cb4b875b33",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/MOTW/Book/Monster_of_the_Week.md",
+            "file": "MOTWHierarchy.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/MOTW/Book/Monster_of_the_Week.md",
+                "file": "MOTWHierarchy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/MOTW/Book/Monster_of_the_Week.md"
+                "file": "MOTWHierarchy.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/MOTW/Book/Monster_of_the_Week.md",
+                "file": "MOTWHierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "id": "01679dbf8c4230ca",
             "type": "leaf",
             "state": {
-              "type": "breadcrumbs-matrix",
+              "type": "empty",
               "state": {}
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/MOTW/Book/Monster_of_the_Week.md",
+                "file": "MOTWHierarchy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +212,7 @@
             "id": "12bde5608e9e3435",
             "type": "leaf",
             "state": {
-              "type": "breadcrumbs-stats",
+              "type": "empty",
               "state": {}
             }
           }
@@ -224,17 +224,17 @@
     "width": 822,
     "collapsed": true
   },
-  "active": "d0e6167fa4a5f874",
+  "active": "609af8cb4b875b33",
   "lastOpenFiles": [
+    "MOTWHierarchy.md",
     "D&D/MOTW/Book/Monster_of_the_Week.md",
+    "Untitled.md",
+    "D&D/MOTW/Book/motwrevcor.md",
     "D&D/MOTW/Book/Images/MotWIMG2.jpeg",
     "D&D/MOTW/Book/TomeIMGs/media/image1.jpg",
-    "MOTWHierarchy.md",
     "D&D/MOTW/MOTW Sections/MOTWToC.md",
     "D&D/MOTW/MOTW Sections/Act Under Pressure.md",
     "D&D/MOTW/MOTW Sections/Big Magic.md",
-    "D&D/Koescher/Investigate a mystery.md",
-    "D&D/MOTW/MOTW Sections/The Basic Moves.md",
-    "D&D/MOTW/MOTW Sections/Bonuses and Holds.md"
+    "D&D/Koescher/Investigate a mystery.md"
   ]
 }
