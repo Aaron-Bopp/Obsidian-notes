@@ -29,5 +29,6 @@
   "obsidian-dictionary-plugin",
   "code-block-copy",
   "obsidian42-text-transporter",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-linter"
 ]

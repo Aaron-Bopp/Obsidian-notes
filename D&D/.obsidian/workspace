@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "14d411dd0e81176f",
+        "id": "d0e6167fa4a5f874",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Exandria/Adventure",
+                "query": "\"The Monstrous\" path:MOTW",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabeticalReverse"
               }
@@ -82,14 +82,6 @@
             }
           },
           {
-            "id": "0d645caca1f610c2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "88f1d9024a92d275",
             "type": "leaf",
             "state": {
@@ -102,15 +94,15 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "4307b1d238ad9f0c",
+            "id": "01679dbf8c4230ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "breadcrumbs-matrix",
               "state": {}
             }
           }
@@ -215,25 +207,34 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "12bde5608e9e3435",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-stats",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 440,
+    "width": 822,
     "collapsed": true
   },
-  "active": "14d411dd0e81176f",
+  "active": "d0e6167fa4a5f874",
   "lastOpenFiles": [
     "D&D/MOTW/Book/Monster_of_the_Week.md",
-    "D&D/MOTW/A Matter of Timing Pacing for Convention Games.md",
-    "D&D/MOTW/Book/Monster_of_the_Week_Revised_Corrected.md",
-    "Monster_of_the_Week_Revised_Corrected.md",
-    "D&D/MOTW/Book/Monster_of_the_Week_Revised_Corrected.pdf",
-    "D&D/MOTW/Book/Monster_of_the_Week_-_Tome_of_Mysteries_Playbooks_-_2020-07-22_Update.pdf",
-    "D&D/MOTW/The Structure Of An On-the-fly Game.md",
-    "D&D/Camp Holy Rock/Camp Holy Rock.md",
-    "D&D/Misc/Pathfinder character.md",
-    "D&D/Misc/Adelade.md"
+    "MOTWHierarchy.md",
+    "D&D/MOTW/MOTW Sections/MOTWToC.md",
+    "D&D/MOTW/MOTW Sections/Act Under Pressure.md",
+    "D&D/MOTW/MOTW Sections/Big Magic.md",
+    "D&D/Koescher/Investigate a mystery.md",
+    "D&D/MOTW/MOTW Sections/The Basic Moves.md",
+    "D&D/MOTW/MOTW Sections/Bonuses and Holds.md",
+    "D&D/MOTW/MOTW Sections/HOLD.md",
+    "D&D/MOTW/MOTW Sections/FORWARD.md"
   ]
 }

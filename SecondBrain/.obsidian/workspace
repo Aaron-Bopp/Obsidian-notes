@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
+            "file": "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
+                "file": "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
+                "file": "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md"
+                "file": "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Monster of the Week.md",
+                "file": "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -256,6 +256,8 @@
   },
   "active": "b2117d34e154e5d4",
   "lastOpenFiles": [
+    "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md",
+    "SecondBrain/EvergreenNotes/Agoraphobia.md",
     "SecondBrain/EvergreenNotes/Monster of the Week.md",
     "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
     "SecondBrain/EvergreenNotes/Being in a defensive condition can cause you to be consumed by your ego.md",
@@ -263,8 +265,6 @@
     "SecondBrain/EvergreenNotes/ADHD is primarily an executive function disorder.md",
     "SecondBrain/EvergreenNotes/American's are scared of the word communism not it's meaning.md",
     "SecondBrain/EvergreenNotes/Anti-government stances lead to economic crashes.md",
-    "SecondBrain/Primary Sources/Classes/Pyschology/It’s All About the Jeffersons - This American Life.md",
-    "SecondBrain/Primary Sources/Classes/Pyschology/Worksheet 1.md",
-    "SecondBrain/Primary Sources/Classes/Operating Systems.md"
+    "SecondBrain/Primary Sources/Classes/Pyschology/It’s All About the Jeffersons - This American Life.md"
   ]
 }
