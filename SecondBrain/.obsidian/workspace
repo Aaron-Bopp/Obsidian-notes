@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b2117d34e154e5d4",
+        "id": "713aacf35f08ef9a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md",
+            "file": "SecondBrain/INDEX.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md",
+                "file": "SecondBrain/INDEX.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md",
+                "file": "SecondBrain/INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md"
+                "file": "SecondBrain/INDEX.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md",
+                "file": "SecondBrain/INDEX.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -254,17 +254,17 @@
     "width": 466,
     "collapsed": true
   },
-  "active": "b2117d34e154e5d4",
+  "active": "713aacf35f08ef9a",
   "lastOpenFiles": [
-    "SecondBrain/EvergreenNotes/An unfulfilled need for validation results in a fear of rejection.md",
-    "SecondBrain/EvergreenNotes/Agoraphobia.md",
-    "SecondBrain/EvergreenNotes/Monster of the Week.md",
-    "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
-    "SecondBrain/EvergreenNotes/Being in a defensive condition can cause you to be consumed by your ego.md",
-    "SecondBrain/EvergreenNotes/Abortion and immigration are key to white supremacy.md",
-    "SecondBrain/EvergreenNotes/ADHD is primarily an executive function disorder.md",
-    "SecondBrain/EvergreenNotes/American's are scared of the word communism not it's meaning.md",
-    "SecondBrain/EvergreenNotes/Anti-government stances lead to economic crashes.md",
-    "SecondBrain/Primary Sources/Classes/Pyschology/It’s All About the Jeffersons - This American Life.md"
+    "SecondBrain/INDEX.md",
+    "SecondBrain/EvergreenNotes/Journal.md",
+    "Untitled.md",
+    "Acting Bio.md",
+    "Bobby Milton.md",
+    "Regex.md",
+    "SecondBrain/EvergreenNotes/The biblical christian God is evil and does not deserved to be worshipped.md",
+    "SecondBrain/EvergreenNotes/Obsidian (software).md",
+    "SecondBrain/EvergreenNotes/My self-image is purely based on other's perceptions of me.md",
+    "SecondBrain/EvergreenNotes/Make your inbox into an entry point.md"
   ]
 }
