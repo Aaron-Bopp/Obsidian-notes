@@ -109,7 +109,7 @@ Make sure you have:
 - copies of the hunter playbooks (each of these is a rules reference and record sheet for your hunter)
 - enough hunter reference sheets to go round
 - a Keeper reference sheet
-- one mystery sheet for the Keeper, or an introductory mystery to play (there’s one [here](#0000500258))
+- one mystery sheet for the Keeper, or an introductory mystery to play (there’s one [[Introductory Mystery: Dream Away the Time]])
 - pencils and note paper for everyone
 - a pair of normal six-sided dice for each hunter (the Keeper won’t need dice). 
 
@@ -127,11 +127,11 @@ I’ve written the rulebook in the order that you’ll need as you play, with al
 
 If you want to skip that and just hit the basics, here’s some suggestions:
 
-- If you’re going to be Keeper, focus on the First Session section ([here](#0000532383)): that covers what you need to prepare and what to do for the first game. It’s best to know the hunters’ basic moves ([here](#0000589979)) and playbooks (from [here](#0000067792)), at least in passing
-- If you’re going to play a hunter, read the hunter playbooks (from [here](#0000067792)), and about moves ([here](#0000338319)) and ratings ([here](#0000064752)). Most important is to pick which hunter type(s) you want to play.
-- If you’ve played *Apocalypse World* (or another game based on those rules, such as *Monsterhearts* or *Dungeon World*) then plenty here will be familiar. Check out ratings (stats in *Apocalypse World*) ([here](#0000064752)), playbooks ([here](#0000067792)), and basic moves ([here](#0000338319)) to get a sense of the main differences. Luck is new ([here](#0000377180)). The Keeper’s (MC in *Apocalypse World*) agenda and principles ([here](#0000443922)), threats ([here](#0000465043)), and moves ([here](#0000559527)) are different, and mysteries ([here](#0000446797) & [here](#0000764334)) and arcs ([here](#0000741446)) take the place of fronts.
-- If you’re an experienced roleplayer who hasn’t played *Apocalypse World* (the game these rules are adapted from), check out the hunter playbooks ([here](#0000067792)) and the moves ([here](#0000338319)) and ratings ([here](#0000064752)). From there everything else should fall into place.
-- If you want to run a game right away, skim “Running the First Mystery” ([here](#0000539124)) and “On With the Mystery” ([here](#0000651380)) and then read through “Dream Away the Time” on [here](#0000500258). That should be enough to get you up and running. You can come back for more detail later.
+- If you’re going to be Keeper, focus on the First Session section ([[0000532383]]): that covers what you need to prepare and what to do for the first game. It’s best to know the hunters’ basic moves ([[0000589979]]) and playbooks (from [[The Playbooks]]), at least in passing
+- If you’re going to play a hunter, read the hunter playbooks (from [[The Playbooks]]), and about moves ([[The Basic Moves]]) and ratings ([[The Ratings]]). Most important is to pick which hunter type(s) you want to play.
+- If you’ve played *Apocalypse World* (or another game based on those rules, such as *Monsterhearts* or *Dungeon World*) then plenty here will be familiar. Check out ratings (stats in *Apocalypse World*) ([[The Ratings]]), playbooks ([[The Playbooks]]), and basic moves ([[The Basic Moves]]) to get a sense of the main differences. Luck is new ([[The Luck Counter]]). The Keeper’s (MC in *Apocalypse World*) agenda and principles ([[The Keeper Agenda]]), threats ([[0000465043]]), and moves ([[0000559527]]) are different, and mysteries ([[Creating Your First Mystery]] & [[0000764334]]) and arcs ([[0000741446]]) take the place of fronts.
+- If you’re an experienced roleplayer who hasn’t played *Apocalypse World* (the game these rules are adapted from), check out the hunter playbooks ([[The Playbooks]]) and the moves ([[The Basic Moves]]) and ratings ([[The Ratings]]). From there everything else should fall into place.
+- If you want to run a game right away, skim “Running the First Mystery” ([[0000539124]]) and “On With the Mystery” ([[0000651380]]) and then read through “Dream Away the Time” on [[Introductory Mystery: Dream Away the Time]]. That should be enough to get you up and running. You can come back for more detail later.
 
 Structure
 
@@ -162,7 +162,7 @@ The First Session
 
 In the first session, you’ll create your hunters and investigate your first mystery.
 
-The first step is to decide if the group wants to pick a team concept ([here](#0000050145)). That’s the reason you are a team, for example, “We all work for a secret monster hunting agency” or “We defend our home town against the monsters that keep coming here.” The Keeper may have some suggestions based on what they’ve been planning.
+The first step is to decide if the group wants to pick a team concept ([[Team Concepts]]). That’s the reason you are a team, for example, “We all work for a secret monster hunting agency” or “We defend our home town against the monsters that keep coming here.” The Keeper may have some suggestions based on what they’ve been planning.
 
 If you have a team concept that needs certain hunter types, allocate those first.
 
@@ -170,22 +170,22 @@ If you don’t have a team concept, just let everyone pick a playbook (that’s 
 
 The hunter types are:
 
-- **The Chosen**: a once-ordinary person who discovered they have a special destiny, and who has been given the power to accomplish it. The Chosen is good in a fight, with some weird powers. E.g. Buffy from *Buffy the Vampire Slayer.* See [here](#0000068181).
-- **The Crooked**: a criminal turned monster hunter, haunted by their past and enemies. The Crooked is good in social situations and has a lot of contacts. E.g. Anna Valmont from *The Dresden Files*, Peter Bishop from *Fringe*. See [here](#0000090524).
-- **The Divine**: an agent of a higher power, with a mission to fulfill. The Divine is very tough and has been granted holy powers. E.g. Castiel from *Supernatural*; Michael Carpenter from *The Dresden Files*. See [here](#0000113203).
-- **The Expert**: the hunter who knows all about monsters and magic. The Expert knows a lot of hidden secrets and how to find out more, and also has a well-supplied base to work from. E.g. Bobby Singer from *Supernatural*; Rupert Giles from *Buffy the Vampire Slayer*. See [here](#0000130787).
-- **The Flake**: a conspiracy theorist. The Flake is great at finding things out and seeing how the events of separate mysteries are connected. E.g. Agent Mulder or the Lone Gunmen from *The* *X-Files*. See [here](#0000150627).
-- **The Initiate**: a member of an ancient monster-slaying Sect, trained to fight and use magic[[The Initiate]] is good with magic, and their Sect provides help (and sometimes problems). E.g. The Wardens from *The Dresden Files*; Annelise from the *Twenty Palaces* series. See [here](#0000167603).
-- **The Monstrous**: a monster fighting for the good guys. [[The Monstrous]] is very weird, and can have a variety of different powers based on what monster breed they are. E.g. Angel from *Buffy the Vampire Slayer* and *Angel*; Bill Compton from *True Blood* ([here](#0000189800)).
-- **The Mundane**: just a normal regular person, especially good at dealing with regular people you meet and have to save, and at getting captured by monsters (which can be more useful than you might expect). E.g. Xander or Cordelia from *Buffy the Vampire Slayer*. See [here](#0000213865).
-- **The Professional**: you work for an agency that hunts monsters. The Professional is good in a fight, and a good team player. E.g. Riley and the Initiative from *Buffy the Vampire Slayer*; Olivia Dunham from *Fringe*. See [here](#0000231064).
-- **The Spell-slinger**: a trained wizard, wielding powerful magic in their crusade against evil. The Spell-slinger’s arcane training gives them an advantage when dealing with eldritch secrets. E.g. Harry Dresden from *The Dresden Files*; Willow from *Buffy the Vampire Slayer*, in the later seasons. See [here](#0000251948).
-- **The Spooky**: has psychic or magical powers. These powers are strange and sinister ... and not completely under the Spooky’s control. E.g. Sam Winchester from *Supernatural*; Willow from earlier seasons of *Buffy the Vampire Slayer*. See [here](#0000273714).
-- **The Wronged**: revenge-driven, and really tough. The Wronged is all about killing a specific breed of monster and protecting others as you do it. E.g. Dean and John Winchester from *Supernatural*. See [here](#0000295092).
+- **The Chosen**: a once-ordinary person who discovered they have a special destiny, and who has been given the power to accomplish it. The Chosen is good in a fight, with some weird powers. E.g. Buffy from *Buffy the Vampire Slayer.* See [[0000068181]].
+- **The Crooked**: a criminal turned monster hunter, haunted by their past and enemies. The Crooked is good in social situations and has a lot of contacts. E.g. Anna Valmont from *The Dresden Files*, Peter Bishop from *Fringe*. See [[The Crooked]].
+- **The Divine**: an agent of a higher power, with a mission to fulfill. The Divine is very tough and has been granted holy powers. E.g. Castiel from *Supernatural*; Michael Carpenter from *The Dresden Files*. See [[The Divine]].
+- **The Expert**: the hunter who knows all about monsters and magic. The Expert knows a lot of hidden secrets and how to find out more, and also has a well-supplied base to work from. E.g. Bobby Singer from *Supernatural*; Rupert Giles from *Buffy the Vampire Slayer*. See [[The Expert]].
+- **The Flake**: a conspiracy theorist. The Flake is great at finding things out and seeing how the events of separate mysteries are connected. E.g. Agent Mulder or the Lone Gunmen from *The* *X-Files*. See [[The Flake]].
+- **The Initiate**: a member of an ancient monster-slaying Sect, trained to fight and use magic[[The Initiate]] is good with magic, and their Sect provides help (and sometimes problems). E.g. The Wardens from *The Dresden Files*; Annelise from the *Twenty Palaces* series. See [[The Initiate]].
+- **The Monstrous**: a monster fighting for the good guys. [[The Monstrous]] is very weird, and can have a variety of different powers based on what monster breed they are. E.g. Angel from *Buffy the Vampire Slayer* and *Angel*; Bill Compton from *True Blood* ([[0000189800]]).
+- **The Mundane**: just a normal regular person, especially good at dealing with regular people you meet and have to save, and at getting captured by monsters (which can be more useful than you might expect). E.g. Xander or Cordelia from *Buffy the Vampire Slayer*. See [[The Mundane]].
+- **The Professional**: you work for an agency that hunts monsters. The Professional is good in a fight, and a good team player. E.g. Riley and the Initiative from *Buffy the Vampire Slayer*; Olivia Dunham from *Fringe*. See [[The Professional]].
+- **The Spell-slinger**: a trained wizard, wielding powerful magic in their crusade against evil. The Spell-slinger’s arcane training gives them an advantage when dealing with eldritch secrets. E.g. Harry Dresden from *The Dresden Files*; Willow from *Buffy the Vampire Slayer*, in the later seasons. See [[The Spell-Slinger]].
+- **The Spooky**: has psychic or magical powers. These powers are strange and sinister ... and not completely under the Spooky’s control. E.g. Sam Winchester from *Supernatural*; Willow from earlier seasons of *Buffy the Vampire Slayer*. See [[The Spooky]].
+- **The Wronged**: revenge-driven, and really tough. The Wronged is all about killing a specific breed of monster and protecting others as you do it. E.g. Dean and John Winchester from *Supernatural*. See [[0000295092]].
 
 Extra hunter types
 
-There are some extra playbooks out there, some official and others fan-made. You can find advice on making your own on [here](#0000935239).
+There are some extra playbooks out there, some official and others fan-made. You can find advice on making your own on [[0000935239]].
 
 The currently available hunters include:
 
@@ -211,7 +211,7 @@ Making Your Hunter
 
 After you’ve all picked your hunter types, you’ll spend about 20-30 minutes of the first session defining their abilities and establishing the relationships in your team. Follow the instructions in your playbook to create your hunter. You don’t need to spend too long deciding on each option in the playbook—if you make any choices you regret, you can always revise them after the first session.
 
-When you get to the ‘Introductions’ section, wait until everyone catches up. The Keeper will guide everyone as you make up your hunters, so ask them if you have any questions (For the Keeper, there are instructions on how to guide this process in ‘The First Session’ section on [here](#0000532383)).
+When you get to the ‘Introductions’ section, wait until everyone catches up. The Keeper will guide everyone as you make up your hunters, so ask them if you have any questions (For the Keeper, there are instructions on how to guide this process in ‘The First Session’ section on [[0000532383]]).
 
 Team Concepts
 
@@ -232,8 +232,8 @@ Decide as a group if any changes are needed, and what they will be. You can work
 Your concept might require:
 
 - Equipment that isn’t in your playbook options. For example: your team concept has the hunters always on the move, but none of your playbooks include transport in the gear section. You can decide the team has a van to travel in.
-- Something that can be written up as a custom move ([here](#0000915624)). For example: the team concept is that you are all members of a secret organisation, so everyone starts with a version of the Professional’s **deal with the Agency** move ([here](#0000236873)).
-- New options when you level up ([here](#0000392979)). For example: the team concept has a special mystical artifact for each hunter, but these artifacts’ powers are not initially available. Each hunter may choose to unlock one of their artifact’s powers when they level up.
+- Something that can be written up as a custom move ([[0000915624]]). For example: the team concept is that you are all members of a secret organisation, so everyone starts with a version of the Professional’s **deal with the Agency** move ([[0000236873]]).
+- New options when you level up ([[Leveling Up]]). For example: the team concept has a special mystical artifact for each hunter, but these artifacts’ powers are not initially available. Each hunter may choose to unlock one of their artifact’s powers when they level up.
 
 Example Team Concepts
 
@@ -251,7 +251,7 @@ The Agency needs a team to handle all the weird stuff regular agents don’t und
 
 This team concept requires a Professional. A Flake, Mundane, Expert, Spooky, and Wronged would all be good choices to fill out the team’s skill profile, while a Crooked might have some useful contacts.
 
-The Professional’s Agency will employ the whole team. As a customisation, allow any of the hunters to take the Professional’s **deal with the Agency** move as a leveling up option ([here](#0000251869)). Until then, they’re just consultants, contractors, or temps.
+The Professional’s Agency will employ the whole team. As a customisation, allow any of the hunters to take the Professional’s **deal with the Agency** move as a leveling up option ([[0000251869]]). Until then, they’re just consultants, contractors, or temps.
 
 The Order
 
@@ -259,7 +259,7 @@ You are all members of an ancient order of monster slayers.
 
 You’ll need an Initiate. Everyone else makes up the tea[[The Initiate]] commands: the Spooky, Expert, Mundane, Flake, Crooked, or Chosen all work well here.
 
-Everyone is a member of the Order, but initially onl[[The Initiate]] will have to deal with your superiors. As a customisation, anyone can tak[[The Initiate]] move for **when you are in good standing with the Sect** as a leveling up option ([here](#0000171217)). Anyone may also substitute one o[[The Initiate]]’s old-fashioned weapons ([here](#0000179244)) for a regular weapon choice.
+Everyone is a member of the Order, but initially onl[[The Initiate]] will have to deal with your superiors. As a customisation, anyone can tak[[The Initiate]] move for **when you are in good standing with the Sect** as a leveling up option ([[0000171217]]). Anyone may also substitute one o[[The Initiate]]’s old-fashioned weapons ([[0000179244]]) for a regular weapon choice.
 
 Road-tripping Hunter Family
 
@@ -275,7 +275,7 @@ Before You GET STARTED
 
 Before you get started, you need to know about two game concepts: moves and ratings.
 
-The hunter playbooks mention some other terms that I haven’t introduced yet. Don’t worry about those, you don’t need to understand them just now. If you want to find out more, read the “How to Play” section starting at [here](#0000321613).
+The hunter playbooks mention some other terms that I haven’t introduced yet. Don’t worry about those, you don’t need to understand them just now. If you want to find out more, read the “How to Play” section starting at [[How To Play]].
 
 Moves
 
@@ -298,7 +298,7 @@ After you’ve recognised the move’s trigger, it will tell you want to do next
 
 The Hunter Basic Moves
 
-All the hunters have a set of moves that allow them to investigate and deal with monsters. These are called the “basic moves” ([here](#0000338319)). There are eight basic moves:
+All the hunters have a set of moves that allow them to investigate and deal with monsters. These are called the “basic moves” ([[The Basic Moves]]). There are eight basic moves:
 
 - **Act Under Pressure**, used for any difficult or dangerous action that isn’t covered by another move.
 - **Help Out**, used to help another hunter do something. If you succeed, you’ll give them a bonus on their task.
@@ -2063,7 +2063,7 @@ When you’re playing your hunter:
 
 Think like your hunter would think. Do what your hunter would do. Remember that you’re a badass: extremely dangerous, and good at what you do.
 
-When you get into a fight, you might take a lot of harm, but hunters are lucky and heal quickly. Use Luck to avoid harm if you need to. Alternatively, you can hold on until the end of the fight and then take a break to rest up and heal. For the full harm and healing rules see [here](#0000325098).
+When you get into a fight, you might take a lot of harm, but hunters are lucky and heal quickly. Use Luck to avoid harm if you need to. Alternatively, you can hold on until the end of the fight and then take a break to rest up and heal. For the full harm and healing rules see [[Moves]].
 
 You need to work out what’s behind each situation. Then work out how to find it and what its weaknesses are. Then kill it.
 
@@ -2409,7 +2409,7 @@ Injury severity depends on how much harm you have suffered:
 - 8-harm or more will kill a normal human, including a hunter.
 - Note that armour reduces the harm suffered by the number of points it is rated for.
 
-There are more details in the Keeper section ([here](#0000688047)).
+There are more details in the Keeper section ([[0000688047]]).
 
 Monsters and Harm
 
@@ -2469,7 +2469,7 @@ On a 7-9, choose one of these:
 
 - You come back a little bit broken (memory loss, stressed, disconnected).
 - You come back a little different. Add 1 to one rating (max +3) and subtract 1 from another (min -2).
-- You come back very different. Change to a new playbook, just as if you took that advanced improvement (see [here](#0000339930)).
+- You come back very different. Change to a new playbook, just as if you took that advanced improvement (see [[Help Out]]).
 - Your revival satisfies an ancient prophecy.
 - Something comes back with you (e.g. a possessing spirit, a slain monster is revived, an ancient evil is released), but it’s not a pressing danger.
 - You, or the one who brought you back, owes a favour to a powerful spirit, monster, or demon.
@@ -2596,7 +2596,7 @@ Tags come into play by opening up possibilities for the hunters. For example, ni
 
 Custom Gear Moves
 
-If tags aren’t quite enough, you can also define a custom move for gear. Custom moves are dealt with in detail on [here](#0000915624), but the basic idea is simple: just define when the gear works, and what it does for the user.
+If tags aren’t quite enough, you can also define a custom move for gear. Custom moves are dealt with in detail on [[0000915624]], but the basic idea is simple: just define when the gear works, and what it does for the user.
 
 For example, if you get a sports car, you could define a custom move to represent its speed and performance. E.g. “When you **flee or pursue in a sports car**, you get +1 ongoing.”
 
@@ -2608,7 +2608,7 @@ Whenever you mark the fifth experience box on your playbook, you **level up**. E
 
 Then you start collecting experience marks again, until you level up again when you get another five experience points.
 
-When you have leveled up five times, you can start choosing from the advanced improvements list as well ([here](#0000338728)).
+When you have leveled up five times, you can start choosing from the advanced improvements list as well ([[Act Under Pressure]]).
 
 End Of Session Experience
 
@@ -2763,9 +2763,9 @@ For **kick some ass**, on a 12+ you devastate and overawe your enemy. You inflic
 - Your attack inflicts double the normal harm.
 - Your attack drives the enemy away in a rout.
 
-For **protect someone**, on a 12+ you defend them perfectly. Both you and the character you are protecting are unharmed and out of danger. If you were protecting a bystander, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on leveling up, see [here](#0000338319)).
+For **protect someone**, on a 12+ you defend them perfectly. Both you and the character you are protecting are unharmed and out of danger. If you were protecting a bystander, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on leveling up, see [[The Basic Moves]]).
 
-For **manipulate someone**, on a 12+ you absolutely convince them. They do what you want *right now*. For a hunter, they must **act under pressure** to resist your request. If they do what you ask, they mark one experience and take +1 ongoing while doing what you asked. For a bystander, not only do they do what you want right now, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on leveling up, see [here](#0000338319)) for the rest of the mystery (or, if you do enough for them, permanently). Note that allies can be lost, too! If they discover you’ve manipulated them into acting against their best interests, your new **ally** may become a threat to you.
+For **manipulate someone**, on a 12+ you absolutely convince them. They do what you want *right now*. For a hunter, they must **act under pressure** to resist your request. If they do what you ask, they mark one experience and take +1 ongoing while doing what you asked. For a bystander, not only do they do what you want right now, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on leveling up, see [[The Basic Moves]]) for the rest of the mystery (or, if you do enough for them, permanently). Note that allies can be lost, too! If they discover you’ve manipulated them into acting against their best interests, your new **ally** may become a threat to you.
 
 For **investigate a mystery**, on a 12+ you may ask the Keeper any question you want about the mystery, not just the listed ones.
 
@@ -2898,7 +2898,7 @@ There’s a few things you need to do before you begin.
 
 Think About Style
 
-Before you begin playing, spend some time thinking about the style you want to bring to the game. Consider the monster hunting fiction that excites you the most, and maybe watch or read some of it. Generate some ideas about how you want the world of the game to work, how it will look to the hunters, and what sorts of things might be going on. You’ll find a list of my favourite monster hunting fiction on [here](#0000945890) if you need some extra inspiration.
+Before you begin playing, spend some time thinking about the style you want to bring to the game. Consider the monster hunting fiction that excites you the most, and maybe watch or read some of it. Generate some ideas about how you want the world of the game to work, how it will look to the hunters, and what sorts of things might be going on. You’ll find a list of my favourite monster hunting fiction on [[0000945890]] if you need some extra inspiration.
 
 The game is going to be built by you and the other players together: so at this stage consider your ideas just a sketch. Once the hunters are created and the game begins, all your sketches might get overwritten. Having something in mind gives you a skeleton of the world to begin with, but you’ll fill in the details as a group, in play.
 
@@ -2941,7 +2941,7 @@ Creating Your First Mystery
 
 Before each game, you’ll create a mystery for the hunters to investigate. Here’s how to build your first mystery.
 
-If you want to skip this step, you can use either of the introductory mysteries: “Dream Away the Time” on [here](#0000500178), or “Damn Dirty Apes” on [here](#0000863159). Then you can resume reading at “The First Session” on [here](#0000532303) for advice on how to run the game.
+If you want to skip this step, you can use either of the introductory mysteries: “Dream Away the Time” on [[0000500178]], or “Damn Dirty Apes” on [[0000863159]]. Then you can resume reading at “The First Session” on [[0000532303]] for advice on how to run the game.
 
 A mystery is made up of six basic elements. You can create them in any order, but I’ll show you the order I usually use:
 
@@ -3088,7 +3088,7 @@ First, pick the monster’s type. The twelve types (and the motivations that go 
 
 *In my example, Marie O’Connell, a ghost seeking justice, makes a good Executioner with the motivation “to punish the guilty.” To give her a reason to be angry at the hunters, she wants to be properly laid to rest (Damian buried her under the basement floor), and treats anyone who isn’t actively doing that as one of the guilty parties she is punishing.*
 
-Next up, think about the supernatural **powers** the monster possesses. Think about your initial inspiration for the monster and work out what it can do. There’s no particular level of detail you need for monster powers. Some might be a simple descriptive note, such as “can fly.” For others you might need more detail: note down as much about the power’s effects and limitations as you can think of (this is a custom move for the power: there’s more about them on [here](#0000915624)).
+Next up, think about the supernatural **powers** the monster possesses. Think about your initial inspiration for the monster and work out what it can do. There’s no particular level of detail you need for monster powers. Some might be a simple descriptive note, such as “can fly.” For others you might need more detail: note down as much about the power’s effects and limitations as you can think of (this is a custom move for the power: there’s more about them on [[0000915624]]).
 
 *For powers, Marie has the ability to appear instantly anywhere in the house. And telekinesis which allows her to throw knives and stuff around, and hold doors and windows closed.*
 
@@ -3570,7 +3570,7 @@ Hunter Creation
 
 Your first task is to guide the other players through the process of creating their hunters.
 
-Introduce the idea of team concepts ([here](#0000050145)). Help the group come up with a concept that gets them all excited. If nobody thinks of an exciting concept now, you can wait until later to work that out (wait until after they’ve decided on their hunters’ histories with each other).
+Introduce the idea of team concepts ([[Team Concepts]]). Help the group come up with a concept that gets them all excited. If nobody thinks of an exciting concept now, you can wait until later to work that out (wait until after they’ve decided on their hunters’ histories with each other).
 
 Next, allocate hunter playbooks. It’s perfectly reasonable to limit the hunter types available if you have a particular style in mind for your game. This can also speed up hunter creation, as there are fewer decisions to make.
 
@@ -3598,11 +3598,11 @@ Now you can work out the team’s story, based on all those bits of history. You
 
 Mention How Things Work
 
-This is a good time to explain the player agenda ([here](#0000321886)), basic moves ([here](#0000338319)), what to roll and add ([here](#0000331862)), using Luck ([here](#0000377180)), when to mark experience ([here](#0000392979)), and how to level up ([here](#0000392979)). Give just enough detail to get started, rather than trying to explain everything right now. You can fill in more details when they are needed.
+This is a good time to explain the player agenda ([[Hunter Agenda]]), basic moves ([[The Basic Moves]]), what to roll and add ([[Rolling the Dice]]), using Luck ([[The Luck Counter]]), when to mark experience ([[Leveling Up]]), and how to level up ([[Leveling Up]]). Give just enough detail to get started, rather than trying to explain everything right now. You can fill in more details when they are needed.
 
 Running The First Mystery
 
-I’m going to start by talking a bit about the way to play the game, then remind you of the Keeper **agenda** and **principles**, then discuss how to use them. I will then introduce two more concepts you need: what you should **always say** and the **Keeper moves**. That will give you all the rules you need to run the game. I’ll pull all of this together to explain how to run your mystery on [here](#0000651300).
+I’m going to start by talking a bit about the way to play the game, then remind you of the Keeper **agenda** and **principles**, then discuss how to use them. I will then introduce two more concepts you need: what you should **always say** and the **Keeper moves**. That will give you all the rules you need to run the game. I’ll pull all of this together to explain how to run your mystery on [[0000651300]].
 
 The Game Is A Conversation
 
@@ -3655,7 +3655,7 @@ The Keeper principles keep your agenda at the front of your mind. Here’s more 
 
 *Address the hunters, not the players* to keep things immediate. If you talk to Diana the hunter instead of Stefan the player, you’re putting him into that zone, where he needs to deal with what Diana has in front of her right now.
 
-*Make your move but never use its name.* You have a list of moves you are allowed to make (see [here](#0000559663)). You should not, however, tell the hunters that you are picking a particular move from the list. Tell them what happens in the story, the actions that comprise your move. *“The swamp gargoyle grabs you and leaps up onto the roof, leaving everyone else in the alley”* is a lot more interesting than *“I separate you! Francis, you’re grabbed and on the roof now.”* Grounding your moves in the events of the game keeps the sense that things are happening because they make sense, rather than that you picked an option from a list.
+*Make your move but never use its name.* You have a list of moves you are allowed to make (see [[0000559663]]). You should not, however, tell the hunters that you are picking a particular move from the list. Tell them what happens in the story, the actions that comprise your move. *“The swamp gargoyle grabs you and leaps up onto the roof, leaving everyone else in the alley”* is a lot more interesting than *“I separate you! Francis, you’re grabbed and on the roof now.”* Grounding your moves in the events of the game keeps the sense that things are happening because they make sense, rather than that you picked an option from a list.
 
 *Be a fan of the hunters* because that’s the whole point of the game. We’re here to see how awesome these hunters can be. Your job is to make life hard for them, but only so you can see how the hell they get out of their next predicament!
 
@@ -3692,7 +3692,7 @@ The “Always say” rules ensure you stick to your job.
 
 *Say what the rules demand.* When someone makes a move, follow the rules for that move. Don’t apply them inconsistently.
 
-*Say what your prepared mysteries and arcs demand.* That’s what you prepared them for, after all. If the mystery countdown says the rakshasa is going after the mayor next, that’s what you say (unless other events have changed its plan, of course). Arcs are ongoing or recurring threats, like season-long stories or big bad monsters (I talk more about them on [here](#0000741446)), but are treated here the same as mysteries.
+*Say what your prepared mysteries and arcs demand.* That’s what you prepared them for, after all. If the mystery countdown says the rakshasa is going after the mayor next, that’s what you say (unless other events have changed its plan, of course). Arcs are ongoing or recurring threats, like season-long stories or big bad monsters (I talk more about them on [[0000741446]]), but are treated here the same as mysteries.
 
 *Say what honesty demands* means you should let the hunters know anything they would be aware of. For example, there’s a monster waiting to ambush them and they’re walking right into it. But an experienced, bad-ass hunter would know to be careful here. It makes sense to say to them, “This would be a good ambush spot—maybe you want to **read a bad situation**?” Or, if they’re talking about the werewolf they’re hunting and they say, “Silver kills werewolves” but that isn’t true for *your* werewolves, then let them know, “Actually silver is a myth, but wolfsbane works.” Or if they’re going to make a move like **protect someone** and they’ll need to throw themselves in front of a flesh-stitcher, let them know that they’re going to suffer a **lot** of harm if they do it.
 
@@ -3760,7 +3760,7 @@ These moves are your main tool in play. Most of the time, when you’re saying s
 
 *Put someone in trouble*. Hunters are out to save people, so you need to provide people for them to save. Threaten bystanders, endanger other members of the team, and send monsters after a hunter’s family. Plus there are other kinds of trouble as well, such as suspicious cops or neighbours who don’t like the hunters snooping around.
 
-*Make a threat move, from one of the current mystery’s threats or one of your arc threats*. This list of Keeper moves is not the whole story. Each type of threat has its own list of [[special moves]] it can make: see [here](#0000575908) to [here](#0000589791). Use these when the threats are present and active.
+*Make a threat move, from one of the current mystery’s threats or one of your arc threats*. This list of Keeper moves is not the whole story. Each type of threat has its own list of [[special moves]] it can make: see [[0000575908]] to [[0000589791]]. Use these when the threats are present and active.
 
 *After every move, ask what they do next*. Just as it says, every time you make a move, immediately ask what the hunters do next. Let them drive the action, by asking what they do next at every chance you get.
 
@@ -3922,7 +3922,7 @@ Location threat moves give you ways to move the mystery along, or put obstacles 
 
 The Basic Hunter Moves
 
-The earlier description of the basic hunter moves (on [here](#0000338319)) is written from the hunters’ point of view. Here’s some extra information about the moves from the Keeper’s point of view.
+The earlier description of the basic hunter moves (on [[The Basic Moves]]) is written from the hunters’ point of view. Here’s some extra information about the moves from the Keeper’s point of view.
 
 Act Under Pressure
 
@@ -4332,7 +4332,7 @@ If it’s something that a normal person couldn’t do at all, then you can ask 
 
 In fact, **act under pressure** and **use magic** are intended to be catch-alls. If you can’t work out which move to use, one of these two will usually work.
 
-Another alternative is to quickly make up a custom move for this particular situation. Only do this if you think it will come up again, and only once you are comfortable enough with the moves that you can do this quickly. There’s a section on making custom moves on [here](#0000915624).
+Another alternative is to quickly make up a custom move for this particular situation. Only do this if you think it will come up again, and only once you are comfortable enough with the moves that you can do this quickly. There’s a section on making custom moves on [[0000915624]].
 
 ![](MotWIMG3.jpeg)
 
@@ -4340,7 +4340,7 @@ Another alternative is to quickly make up a custom move for this particular situ
 
 On With The Mystery!
 
-That covers the basic rules that you need to keep in mind—it’s time to get on with the mystery. The previous section was a long digression: but if you cast your mind back to “Running the First Mystery” (on [here](#0000539124)), the group had just finished creating hunters and were ready to start playing out the mystery. You should have your prepared mystery in front of you.
+That covers the basic rules that you need to keep in mind—it’s time to get on with the mystery. The previous section was a long digression: but if you cast your mind back to “Running the First Mystery” (on [[0000539124]]), the group had just finished creating hunters and were ready to start playing out the mystery. You should have your prepared mystery in front of you.
 
 Start-Of-Mystery Moves
 
@@ -4365,9 +4365,9 @@ Beginning the Investigation
 
 Tell them about the location and sketch a quick map of the area (or show them one you already prepared). Include important features, especially anything that was mentioned in the hook—where bodies were found, which house appears to be haunted, the location of the police station that filed the report, and so on. Then ask them “So, where are you going first? Are you all going or are you going to split up and cover more ground?” After this, let the hunters drive the investigation.
 
-Play out the hunters’ interviews with normal folks, and their examination of places. If they meet bystanders you prepared with the mystery, use the details you wrote down. If they talk to someone new, give that bystander a name, and a bystander type ([here](#0000482535) and [here](#0000582544)).
+Play out the hunters’ interviews with normal folks, and their examination of places. If they meet bystanders you prepared with the mystery, use the details you wrote down. If they talk to someone new, give that bystander a name, and a bystander type ([[0000482535]] and [[0000582544]]).
 
-Draw a map of everywhere they search, and everywhere there’s some action. Give each place a location threat type ([here](#0000488669) and [here](#0000587195)).
+Draw a map of everywhere they search, and everywhere there’s some action. Give each place a location threat type ([[0000488669]] and [[0000587195]]).
 
 Ask Questions
 
@@ -4394,9 +4394,9 @@ If a hunter wants to do some crazy, impossible stuff then remind them they can *
 
 Use Your Keeper Moves
 
-Keep in mind your agenda and principles ([here](#0000541652)), and moves ([here](#0000559663)).
+Keep in mind your agenda and principles ([[0000541652]]), and moves ([[0000559663]]).
 
-Respond to the hunters’ actions with your Keeper and threat moves. Make soft moves that the hunters must deal with, and then make a hard move if they don’t deal with it (see [here](#0000570605)).
+Respond to the hunters’ actions with your Keeper and threat moves. Make soft moves that the hunters must deal with, and then make a hard move if they don’t deal with it (see [[0000570605]]).
 
 Recall that when a hunter misses a move roll (that is, their total is six or less), you get to respond with a move of your own (and it can be a hard move):
 
@@ -4658,7 +4658,7 @@ Then everyone knows they properly killed it.
 
 Healing
 
-The rules for healing (from the hunters’ perspective) are on [here](#0000370773). In brief, they are:
+The rules for healing (from the hunters’ perspective) are on [[0000370773]]. In brief, they are:
 
 - 0-harm wounds only apply at the moment they happen: no healing time is required to get over them.
 - Stable wounds get better by 1 point for each day of rest, or when medical attention is given.
@@ -4937,7 +4937,7 @@ The sort of things that might have come up include:
 
 If something like that came up, make a note.
 
-You’ll use these notes to build subsequent mysteries and your arcs (arcs are long-term problems). If you’re already thinking about long-term problems and plots, go and read about building arcs ([here](#0000741446)) and start your first one. It may not be totally defined yet: it could just be one or two threats and a couple of notes. That’s fine. You can develop and polish it as you go on.
+You’ll use these notes to build subsequent mysteries and your arcs (arcs are long-term problems). If you’re already thinking about long-term problems and plots, go and read about building arcs ([[0000741446]]) and start your first one. It may not be totally defined yet: it could just be one or two threats and a couple of notes. That’s fine. You can develop and polish it as you go on.
 
 If nothing springs to mind yet, wait until events in later mysteries give you some ideas.
 
@@ -5124,7 +5124,7 @@ This is for games with a critical organisation that the hunters have to trust. U
 
 Arc Custom Moves
 
-Arcs and arc threats may have custom moves, the same as mysteries and mystery threats (the rules for custom moves are on [here](#0000916117)). Think about creating custom moves for threats that the hunters will deal with directly, or to highlight special features of the arc.
+Arcs and arc threats may have custom moves, the same as mysteries and mystery threats (the rules for custom moves are on [[0000916117]]). Think about creating custom moves for threats that the hunters will deal with directly, or to highlight special features of the arc.
 
 *For example:*
 
@@ -5167,7 +5167,7 @@ Start by coming up with a concept. Think about:
 
 - Favourite monsters from myth, folklore, urban legend or popular culture.
 - Loose ends from previous mysteries.
-- The next problem from one of your arcs (see [here](#0000741446)).
+- The next problem from one of your arcs (see [[0000741446]]).
 - Steal a plot from somewhere else and file off the serial numbers (by changing the location and/or type of monster).
 - A place you’ve been, or know about, that has potential as somewhere a monster could be lurking.
 - Any secrets the hunters found out and want to explore.
@@ -5698,12 +5698,12 @@ You can write up a weird phenomenon as if it were a monster, complete with motiv
 
 - There’s no monster, but instead low-powered minions are the problem. A plague of giant spiders, for example, could work this way.
 - A session where the hunters are off-duty gives an opportunity to explore the relationships in the team, and with their friends and family outside the team as well.
-- The discussion of one-shot games ([here](#0000906294)) includes some ideas for more intense, self-contained mysteries that you can use in an ongoing game as well.
+- The discussion of one-shot games ([[0000906294]]) includes some ideas for more intense, self-contained mysteries that you can use in an ongoing game as well.
 - A flashback mystery could explore aspects of the team’s history (such as when they met, or events that intrigued you from the characters’ backstories).
 - There are no bystanders. In this sort of mystery, maybe the hunters are thrown into a remote location with only unnatural horrors for company. There won’t be any time for chatting to normal folks, you’ll be too busy staying alive.
 - A comedy episode. Set things up to be silly, maybe in a way that pokes fun at the hunters and yourself. You can steal one of the comedy episode ideas from *Buffy*, *Angel* or *Supernatural,* and then adjust it to make your own version.
 - A mystery based directly on what’s happening in one of your arcs. This will contribute to the ongoing plot, and can help alert the hunters about the bigger problem.
-- A deadly mystery, where the players all create [[new hunters]] with just 1 or 2 Luck. Use the tweaks for a one-shot game ([here](#0000906294)), and aim to kill them all. These events can then become the background for a mystery with the normal hunter team, and may illustrate something about an arc they haven’t noticed yet.
+- A deadly mystery, where the players all create [[new hunters]] with just 1 or 2 Luck. Use the tweaks for a one-shot game ([[0000906294]]), and aim to kill them all. These events can then become the background for a mystery with the normal hunter team, and may illustrate something about an arc they haven’t noticed yet.
 - You can present the hunters with hooks for two (or more) mysteries, and let them decide which one they want to deal with. This is a very high-stakes tough choice, especially if the hunters can see the mysteries relate to different evil plots they need to stop (i.e. your ongoing arcs). Once the first mystery has been dealt with, you’ll need to decide how things have worsened in the other situation(s): the countdowns may have advanced a little, or a lot. Make these decisions based on your Keeper agenda, principles and what you always say.
 
 In the end though, take any cool idea you have, write it up as a list of threats and you’re good to go.
@@ -6246,7 +6246,7 @@ One-Shot Mystery Play
 
 In general, follow the instructions for a first session.
 
-Give everyone a quick introduction to the rules before they make their hunters. The idea of moves and what the ratings mean ([here](#0000059535)) is enough. Explain other rules when you need them in the game.
+Give everyone a quick introduction to the rules before they make their hunters. The idea of moves and what the ratings mean ([[0000059535]]) is enough. Explain other rules when you need them in the game.
 
 Go a little easier on the questions, as you don’t need to build so much mythology from the answers.
 
@@ -6262,7 +6262,7 @@ If you have more than four hunters, you’ll find hunter creation takes longer: 
 
 You may also find that spotlight time is harder to juggle with such a large group. You can suggest the team splits up to cover the mystery, allowing you to switch back and forth between the different groups as the mystery unfolds. You can encourage the other players to share the spotlight and to be fans of the other hunters.
 
-With large groups, you will also find that each hunter makes fewer move rolls (and so will get a little fewer experience marks), and that combat can become either a cake-walk or overly drawn out. Some of the techniques for keeping fights interesting will help in these situations (see [here](#0000669367)).
+With large groups, you will also find that each hunter makes fewer move rolls (and so will get a little fewer experience marks), and that combat can become either a cake-walk or overly drawn out. Some of the techniques for keeping fights interesting will help in these situations (see [[0000669367]]).
 
 Customising Your Game
 
@@ -6471,7 +6471,7 @@ Don’t worry about balancing your hunter type against the others. If you follow
 
 Sharing
 
-Please share your own content with other *Monster of the Week* fans. See [here](#0000033243) for some places that you’ll be able to find us.
+Please share your own content with other *Monster of the Week* fans. See [[Feedback]] for some places that you’ll be able to find us.
 
 A Whole New Game
 
