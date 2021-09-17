@@ -1,252 +1,5 @@
-﻿![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.001.jpeg)![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.002.jpeg)
+![](MotWIMG1.jpeg)![](MotWIMG2.jpeg)
 
-**Table of Contents**
-
-"Foreword to the Revised Edition": "#0000016509"
-
-"There Are Monsters Out There": "#0000019997"
-
-"What You've Signed Up For": "#0000022081"
-
-"What You'll Need": "#0000023888"
-
-"What You Should Read": "#0000027662"
-
-"Structure": "#0000032412"
-
-"Feedback": "#0000033243"
-
-"The Hunters": "#0000035156"
-
-"The First Session": "#0000035902"
-
-"Extra hunter types": "#0000044270"
-
-"Just One Of Each": "#0000048334"
-
-"Making Your Hunter": "#0000049013"
-
-"Team Concepts": "#0000050145"
-
-"Team Customisation": "#0000051530"
-
-"Example Team Concepts": "#0000053837"
-
-"Slayer and Entourage": "#0000054201"
-
-"The Unexplained Cases Team": "#0000054877"
-
-"The Order": "#0000056190"
-
-"Road-tripping Hunter Family": "#0000057394"
-
-"Before You GET STARTED": "#0000058688"
-
-"Moves": "#0000059416"
-
-"The Hunter Basic Moves": "#0000062239"
-
-"The Ratings": "#0000064752"
-
-"The Playbooks": "#0000067792"
-
-"The Crooked": "#0000090524"
-
-"The Divine": "#0000113203"
-
-"The Expert": "#0000130787"
-
-"The Flake": "#0000150627"
-
-"The Initiate": "#0000167603"
-
-"The Mundane": "#0000213865"
-
-"The Professional": "#0000231064"
-
-"The Spell-Slinger": "#0000251948"
-
-"The Spooky": "#0000273714"
-
-"Get Ready For Action": "#0000316463"
-
-"Introductions": "#0000317074"
-
-"History": "#0000317700"
-
-"How To Play": "#0000321613"
-
-"Hunter Agenda": "#0000321886"
-
-"The Game Is A Conversation": "#0000323626"
-
-"Moves": "#0000325098"
-
-"You Have To Make The Move": "#0000327888"
-
-"Rolling the Dice": "#0000331862"
-
-"Bonuses and Holds": "#0000333552"
-
-"The Basic Moves": "#0000338319"
-
-"Act Under Pressure": "#0000338728"
-
-"Help Out": "#0000339930"
-
-"Investigate A Mystery": "#0000341067"
-
-"Kick Some Ass": "#0000344192"
-
-"Manipulate Someone": "#0000346149"
-
-"Protect Someone": "#0000350330"
-
-"Read A Bad Situation": "#0000351890"
-
-"Use Magic": "#0000354206"
-
-"Big Magic": "#0000359101"
-
-"Fights": "#0000363980"
-
-"Unarmed Attacks And Improvised Weapons": "#0000365701"
-
-"Harm": "#0000367151"
-
-"Monsters and Harm": "#0000368731"
-
-"Healing": "#0000370652"
-
-"Healing Between Mysteries": "#0000373011"
-
-"Resurrection": "#0000373673"
-
-"The Luck Counter": "#0000377180"
-
-"When You Run Out Of Luck": "#0000378193"
-
-"Gear": "#0000378861"
-
-"Getting New Gear": "#0000379148"
-
-"Weapons": "#0000380474"
-
-"Custom Weapons": "#0000387343"
-
-"Armour": "#0000389349"
-
-"Other Gear": "#0000390805"
-
-"Gear Tags": "#0000391460"
-
-"Custom Gear Moves": "#0000392083"
-
-"Leveling Up": "#0000392979"
-
-"End Of Session Experience": "#0000394218"
-
-"Improvements": "#0000395352"
-
-"Advanced Improvements": "#0000411668"
-
-"Advanced Moves": "#0000419601"
-
-"Playbook-Specific Advanced Improvements": "#0000424250"
-
-"Summary: Hunter's Session": "#0000431162"
-
-"The First Time Only": "#0000431524"
-
-"Every Game": "#0000432976"
-
-"The Keeper": "#0000434803"
-
-"What You Do": "#0000435449"
-
-"How It Will Play Out": "#0000436631"
-
-"No Planning Ahead": "#0000437574"
-
-"It's About the Hunters, Not The Mystery": "#0000439573"
-
-"Before Your First Game": "#0000440629"
-
-"Think About Style": "#0000441334"
-
-"Get Into The Keeper Mindset": "#0000442528"
-
-"The Keeper Agenda": "#0000443922"
-
-"The Keeper Principles": "#0000444796"
-
-"Creating Your First Mystery": "#0000446797"
-
-"An Example Mystery: Mongolian Death Worm Attack": "#0000449005"
-
-"What That All Means": "#0000452333"
-
-"Preparing Your First Mystery": "#0000461838"
-
-"The Hook": "#0000463407"
-
-"The Threats": "#0000464702"
-
-"More Threats": "#0000492594"
-
-"Mystery Countdowns": "#0000492975"
-
-"Summary: First Mystery Creation": "#0000497784"
-
-"Introductory Mystery: Dream Away the Time": "#0000500258"
-
-"Mystery concept": "#0000501025"
-
-"Hook": "#0000501825"
-
-"Countdown": "#0000502884"
-
-"Notes": "#0000503146"
-
-"Threats": "#0000506553"
-
-"Oberon, King of Faerie": "#0000506674"
-
-"Oberon's Fortress": "#0000510750"
-
-"Violet, a changeling": "#0000511868"
-
-"Bonecruncher, a Redcap": "#0000514888"
-
-"The Old Forest Nature Reserve, near Handfast": "#0000518221"
-
-"Handfast, the Town": "#0000519320"
-
-"Tornado And Flood Wreckage": "#0000520186"
-
-"Handfast Children's Park": "#0000521052"
-
-"Max Tilley, a beloved child": "#0000522058"
-
-"Mary and Samuel Tilley, Max's parents": "#0000522557"
-
-"John and Alice Chilton, Violet's parents": "#0000523611"
-
-"Officer Edward Turner": "#0000525225"
-
-"The Assault Victims": "#0000527477"
-
-"Jane Howland, Editor of the Handfast Herald": "#0000529012"
-
-"The Crowne Tavern": "#0000530190"
-
-"Ely Holbeck, Bartender": "#0000530880"
-
-"Decide who has the initiative": "#0000672235"
-
-"Use The Environment": "#0000673623"
-
-"Make Maps": "#0000675876"
 
 [APPLY WEAPON TAGS](#0000676813)	
 
@@ -286,7 +39,7 @@ Thanks to all of you who contributed to the first edition crowd-funding campaign
 
 Peter Aronson, Lester Ward, Alasdair Sinclair, Sophie Melchior, Malcolm Harbrow, Colin Jessup, Dev Purkayastha, Marco Andreeto, Hamish Cameron, Shane Mclean, Jamas Enright, Jeremy Tidwell, Rohan Smith, Ian Raymond, Morgan Davie, Stephanie Pegg, Andrew Millar, Robert Oglodzinski, Herman Duyker, Todd Furler, Luke Walker, John Harper, Jonathan Davis, Avram Lewis, Fealoro, Martin Gray, Eirik Kildal Stangnes, Emma-Jean, Jason Pollock, Antoine Fournier, Sevag Bakalian, Steve Dempsey, Rich Rogers, Marcus Constable, Yragaël Malbos, Nathan Roberts, Joseph Le May, Linda Larsson, Vincent Baker, Jonathan Bristow, Stuart Chaplin, Robert T Roy, Marc Majcher, Kevin Lindgren, Nick Reynolds, Dale Elvy, John Ryan, Mike Olson, Brian Allred, Ken Finlayson, Guns\_n\_Droids, Alan Jackson, Scott White, Matthew Edwards, Guillaume Carré, Svend Andersen, Stefan Tyler, Paul Wilson, Florian Hoheneder, Peter Borah, Bryan Chavez, Dag Sverre Syrdal, David Bowers, Paul Edson, Jason L Blair, Marcus Bone, Jeremy Friesen, Phil Garrad, Adam Waggenspack, Tim Ireland, Sevag Bakalian, Nathan Riddell, Richard Rogers, Derek Grimm, Julianna Backer, Ferrer Jean-Olivier, James Iles, Katrina Allis, Nicolas Brian, Sean Dunstan, Chris Norwood, Mark Harris, Gary Anastasio, Felan Parker, Steve Hickey, Noah Doyle, Karen Wilson, Sven Folkesson, Gino Moretto, Frank Pitt, Chris Moriarty, Jenni Dowsett, Neal Dalton, Alden Strock, Reid San Filippo, Zoe Tsang, Christopher Weeks, W. Mark Woodhouse, Ben Wootten, James Gabrielsen, Aurynn Shaw, Alex Abate Biral, Jason Pitre, Justin Koopmans, René John Kerkdyk, Diogo Curado, Grégoire Pinson, Brett Easterbrook, Wayne West, Nicolas Ronvel, Alex Fradera, Noam Rosen, Mark Shocklee, Scott Kelly, Will A Wright, John Machin, Peter Edwards, Guy Milner, Joe Beason, Avery Mcdaldno, Gerry Saracco, Jim Sweeney, Carl Rigney, Jonathan Walton, Keith Higdon, Scott Bennett, Joshua Cupp, Parke Hultman, Bryan Rennekamp, Andrew Rosenheim.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 
 
@@ -311,7 +64,7 @@ I can’t wait to hear how it works at your table! You’re in for a treat.
 
 — Fred Hicks
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 
 
@@ -393,7 +146,7 @@ If you have some feedback or just want to talk about the game, you can send me e
 
 If you want to keep up with Monster of the Week news and updates, you can watch the game website at <http://www.evilhat.com/home/monster-of-the-week/> or [http://genericgames.co.nz](http://genericgames.co.nz/) or follow [@MotW  rpg](http://twitter.com/#!/MotW_rpg) on Twitter.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 
 
@@ -422,7 +175,7 @@ The hunter types are:
 - **The Divine**: an agent of a higher power, with a mission to fulfill. The Divine is very tough and has been granted holy powers. E.g. Castiel from *Supernatural*; Michael Carpenter from *The Dresden Files*. See [here](#0000113203).
 - **The Expert**: the hunter who knows all about monsters and magic. The Expert knows a lot of hidden secrets and how to find out more, and also has a well-supplied base to work from. E.g. Bobby Singer from *Supernatural*; Rupert Giles from *Buffy the Vampire Slayer*. See [here](#0000130787).
 - **The Flake**: a conspiracy theorist. The Flake is great at finding things out and seeing how the events of separate mysteries are connected. E.g. Agent Mulder or the Lone Gunmen from *The* *X-Files*. See [here](#0000150627).
-- **The Initiate**: a member of an ancient monster-slaying Sect, trained to fight and use magic[[The Initiate]]]] is good with magic, and their Sect provides help (and sometimes problems). E.g. The Wardens from *The Dresden Files*; Annelise from the *Twenty Palaces* series. See [here](#0000167603).
+- **The Initiate**: a member of an ancient monster-slaying Sect, trained to fight and use magic[[The Initiate]] is good with magic, and their Sect provides help (and sometimes problems). E.g. The Wardens from *The Dresden Files*; Annelise from the *Twenty Palaces* series. See [here](#0000167603).
 - **The Monstrous**: a monster fighting for the good guys. [[The Monstrous]] is very weird, and can have a variety of different powers based on what monster breed they are. E.g. Angel from *Buffy the Vampire Slayer* and *Angel*; Bill Compton from *True Blood* ([here](#0000189800)).
 - **The Mundane**: just a normal regular person, especially good at dealing with regular people you meet and have to save, and at getting captured by monsters (which can be more useful than you might expect). E.g. Xander or Cordelia from *Buffy the Vampire Slayer*. See [here](#0000213865).
 - **The Professional**: you work for an agency that hunts monsters. The Professional is good in a fight, and a good team player. E.g. Riley and the Initiative from *Buffy the Vampire Slayer*; Olivia Dunham from *Fringe*. See [here](#0000231064).
@@ -504,9 +257,9 @@ The Order
 
 You are all members of an ancient order of monster slayers.
 
-You’ll need an Initiate. Everyone else makes up the tea[[The Initiate]]]] commands: the Spooky, Expert, Mundane, Flake, Crooked, or Chosen all work well here.
+You’ll need an Initiate. Everyone else makes up the tea[[The Initiate]] commands: the Spooky, Expert, Mundane, Flake, Crooked, or Chosen all work well here.
 
-Everyone is a member of the Order, but initially onl[[The Initiate]]]] will have to deal with your superiors. As a customisation, anyone can tak[[The Initiate]]]] move for **when you are in good standing with the Sect** as a leveling up option ([here](#0000171217)). Anyone may also substitute one o[[The Initiate]]]]’s old-fashioned weapons ([here](#0000179244)) for a regular weapon choice.
+Everyone is a member of the Order, but initially onl[[The Initiate]] will have to deal with your superiors. As a customisation, anyone can tak[[The Initiate]] move for **when you are in good standing with the Sect** as a leveling up option ([here](#0000171217)). Anyone may also substitute one o[[The Initiate]]’s old-fashioned weapons ([here](#0000179244)) for a regular weapon choice.
 
 Road-tripping Hunter Family
 
@@ -576,7 +329,7 @@ The ratings range from -1 to +3.
 - +2 is really good
 - +3 is phenomenal
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 The Playbooks
 
@@ -588,7 +341,7 @@ The Chosen
 
 To make your Chosen, first pick a name. Then follow the instructions below to decide your look, ratings, fate, moves, gear, and your special weapon. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.004.jpeg)
+![](MotWIMG4.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -780,7 +533,7 @@ The Crooked
 
 To make your Crooked, pick a name. Then follow the instructions below to decide your look, ratings, background, heat, underworld, moves, and gear. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.005.jpeg)
+![](MotWIMG5.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -827,7 +580,7 @@ Pick how you discovered about the real underworld. Keep this in mind when you se
 - You were hired by something weird. Pick one: [[immortal]], god, outsider, witch.
 - Things went south on a job—including, but not limited to, running into (choose one): a horde of goblins, a hunger of ghouls, a dream-eater, a salamander.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.006.jpeg)
+![](MotWIMG6.jpeg)
 
 **MOVES**
 
@@ -936,7 +689,7 @@ The Divine
 
 To make your Divine, first pick a name. Then follow the instructions below to decide your look, ratings, mission, moves, and gear. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.007.jpeg)
+![](MotWIMG7.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -1061,7 +814,7 @@ The Expert
 
 To make your Expert, first pick a name. Then follow the instructions below to decide your look, ratings, moves, haven, and gear. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.008.jpeg)
+![](MotWIMG8.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -1200,7 +953,7 @@ The Flake
 
 To make your Flake, first pick a name. Then follow the instructions below to decide your look, ratings, moves, and gear. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.009.jpeg)
+![](MotWIMG9.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -1321,7 +1074,7 @@ After you have leveled up *five* times, you qualify for advanced improvements in
 - Mark another two of the basic moves as advanced.
 - Retire this hunter to safety.
 
-[[The Initiate]]]]
+[[The Initiate]]
 
 
 [[The Monstrous]]
@@ -1330,7 +1083,7 @@ After you have leveled up *five* times, you qualify for advanced improvements in
 
 To make your Monstrous, first pick a name. Then follow the instructions below to decide your look, ratings, breed, moves, and gear. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.011.jpeg)
+![](MotWIMG11.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -1490,7 +1243,7 @@ The Mundane
 
 To make your Mundane, first pick a name. Then follow the instructions below to decide your look, ratings, moves, and gear. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.012.jpeg)
+![](MotWIMG12.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -1625,7 +1378,7 @@ The Professional
 
 To make your Professional, first pick a name. Then follow the instructions below to decide your look, ratings, Agency, moves, and gear. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.013.jpeg)
+![](MotWIMG13.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -1794,7 +1547,7 @@ The Spell-Slinger
 
 To make your Spell-slinger, first pick a name. Then follow the instructions below to decide your look, ratings, Combat Magic, moves, and gear. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.014.jpeg)
+![](MotWIMG14.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -1944,7 +1697,7 @@ The Spooky
 
 To make your Spooky, first pick a name. Then follow the instructions below to decide your look, ratings, moves, dark side and gear. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.015.jpeg)
+![](MotWIMG15.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -2102,7 +1855,7 @@ The Wronged
 
 To make your Wronged, first pick a name. Then follow the instructions below to decide your look, ratings, who you lost, moves, and gear. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.016.jpeg)
+![](MotWIMG16.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -2259,7 +2012,7 @@ After you have leveled up *five* times, you qualify for advanced improvements in
 - You track down the specific monster(s) responsible for your loss. The Keeper must make the next mystery about them.
 - Change the target of your vengeful rage. Pick a new monster breed: **I know my prey** now applies to them instead.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.017.jpeg)
+![](MotWIMG17.jpeg)
 
 Get Ready For Action
 
@@ -2921,7 +2674,7 @@ Don’t bother taking this improvement if you don’t have a haven!
 
 Like it says, you get a big pile of cash to spend. It’s a lot, but not unlimited.
 
-**INITIATE: GAIN COMMAND OF YOUR CHAPTER OF THE SECT**[[The Initiate]]]] can take this. It means they get promoted to be head of their local chapter. This give[[The Initiate]]]] access to all the Sect’s local facilities and command of the chapter’s members.
+**INITIATE: GAIN COMMAND OF YOUR CHAPTER OF THE SECT**[[The Initiate]] can take this. It means they get promoted to be head of their local chapter. This give[[The Initiate]] access to all the Sect’s local facilities and command of the chapter’s members.
 
 It doesn’t mean you can constantly bring people along to help you on your mysteries—you need to take a team under your command for that.
 
@@ -3032,7 +2785,7 @@ These are only available to the hunters of the type listed. They become availabl
 
 - Change your mission. When you choose this, you accept that your initial mission has failed, that it is impossible, or that things have changed too much to continue. Whatever the reason, decide with the Keeper what your new mission is. If none of the original choices are right for you, make up something new.
 
-**FO[[The Initiate]]]]**
+**FO[[The Initiate]]**
 
 - Become the leader, or effective leader, of the whole Sect. 
 
@@ -3093,7 +2846,7 @@ Every Game
 - Go and kill the monster!
 - When you’re done, answer the end-of-session experience questions and mark any experience you earn from the answers.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 The Keeper
 
@@ -3547,7 +3300,7 @@ Summary: First Mystery Creation
 - Define the mystery *countdown*: six terrible events that would occur if the hunters never came.
 - Go back over everything and make sure it all hangs together. Fill in gaps where something seems to be missing.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 
 
@@ -3573,7 +3326,7 @@ The hunters will be alerted to the mystery by the following events in Handfast a
 
 Countdown
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.018.jpeg)
+![](MotWIMG18.jpeg)
 
 
 
@@ -3765,7 +3518,7 @@ Sheriff Turner has no idea what the heck is going on here. Maybe college student
 
 The Assault Victims
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.019.jpeg)
+![](MotWIMG19.jpeg)
 
 These are the four people attacked by Bonecruncher:
 
@@ -3805,7 +3558,7 @@ Other Bystanders
 
 Use these templates as starting points for any other people the hunters talk to.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.020.jpeg)
+![](MotWIMG20.jpeg)
 
 
 
@@ -4165,7 +3918,7 @@ Locations normally don’t have intentions in the way that monsters, minions and
 
 Location threat moves give you ways to move the mystery along, or put obstacles in the way of the hunters. They’re useful to pace the mystery as it plays out—to slow the progress down, or speed it up. The moves also work well when there’s action, to keep things exciting.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 
 
@@ -4583,7 +4336,7 @@ In fact, **act under pressure** and **use magic** are intended to be catch-alls.
 
 Another alternative is to quickly make up a custom move for this particular situation. Only do this if you think it will come up again, and only once you are comfortable enough with the moves that you can do this quickly. There’s a section on making custom moves on [here](#0000915624).
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 
 
@@ -5181,7 +4934,7 @@ The sort of things that might have come up include:
 - Hunters’ history choices that indicated a pattern of events or a significant incident.
 - Events during the mystery that hinted at bigger troubles happening somewhere else.
 - Unfinished business from the mystery.
-- Hunter choices that have a wide reach, such as the Chosen’s fate, the Professional’s Agency, an[[The Initiate]]]]’s Sect.
+- Hunter choices that have a wide reach, such as the Chosen’s fate, the Professional’s Agency, an[[The Initiate]]’s Sect.
 - Anything that came up in play that suggested something more is going on, or that a secret is waiting to be uncovered. Examples include the results of the Expert’s dark past move, or someone saying something interesting about their past (e.g. Keeper: “Have you ever dealt with a snake demon before?” Hunter: “Oh, sure, we got a lot of them back on the farm.”)
 
 If something like that came up, make a note.
@@ -5208,7 +4961,7 @@ Summary: Keeper's First Session
 - Discuss how it went. Let them change their hunters around a bit if required.
 - Look at your notes, and think ahead. Think about possible future mysteries and monsters.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 
 
@@ -5245,7 +4998,7 @@ You may get some ideas for arcs right at the beginning of a new game when the hu
 
 - The Chosen’s fate. Use the details that you work out with the player about what is in store for the Chosen.
 - The Divine’s mission may require an arc, depending on the details you worked out with the player.
-[[The Initiate]]]]’s Sect and Professional’s Agency both deserve an arc. Use the choices the player made to decide what the organisation’s motivations are, and how these will affect the hunters. The organisation may mean well, but still cause trouble by accident. On the other hand, some organisations might have a sinister purpose for hunting monsters.
+[[The Initiate]]’s Sect and Professional’s Agency both deserve an arc. Use the choices the player made to decide what the organisation’s motivations are, and how these will affect the hunters. The organisation may mean well, but still cause trouble by accident. On the other hand, some organisations might have a sinister purpose for hunting monsters.
 - The Wronged’s loss: every Wronged should have an arc involving the creature(s) that caused their loss.
 - Any player might make a decision during hunter creation that gives you an idea for an arc.
 
@@ -5336,7 +5089,7 @@ This centers on a dormant, dead, or imprisoned monster and the allies or servant
 
 *Countdown*:
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.021.jpeg)
+![](MotWIMG21.jpeg)
 
 The End of Days
 
@@ -5352,7 +5105,7 @@ This is about the Apocalypse. The world is going to end.
 
 *Countdown*:
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.022.jpeg)
+![](MotWIMG22.jpeg)
 
 Corruption
 
@@ -5369,7 +5122,7 @@ This is for games with a critical organisation that the hunters have to trust. U
 
 *Countdown*:
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.023.jpeg)
+![](MotWIMG23.jpeg)
 
 Arc Custom Moves
 
@@ -5389,7 +5142,7 @@ Summary: Arc Creation
 - As you play, add more details to the arc based on what happens in each related mystery.
 - Advance the arc countdown when the hunters do not stop the evil plan.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 
 
@@ -5913,7 +5666,7 @@ A straightforward monster hunt. Bug hunts suit monsters that have simple motivat
 
 **Countdown:**
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.024.jpeg)
+![](MotWIMG24.jpeg)
 
 **NOT WHAT IT SEEMS**
 
@@ -5931,7 +5684,7 @@ You’ll need to come up with the monster, and work out why it initially seems t
 
 **Countdown:**
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.025.jpeg)
+![](MotWIMG25.jpeg)
 
 Messing With The Formula
 
@@ -6110,7 +5863,7 @@ Summary: Keeper's Session
 - Ask the end-of-session experience questions to see whether each hunter gets to mark zero, one or two experience.
 - Think about how events in the mystery will affect your arcs or later mysteries. Tidy up your notes.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 
 
@@ -6134,7 +5887,7 @@ Yesterday a security guard called Chris Lamb was torn to pieces (literally) duri
 
 Countdown
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.026.jpeg)
+![](MotWIMG26.jpeg)
 
 Notes
 
@@ -6377,9 +6130,9 @@ Other Bystanders
 
 Use these templates as starting points for any other people the hunters talk to.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.027.jpeg)
+![](MotWIMG27.jpeg)
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 As the game Goes On
 
@@ -6467,7 +6220,7 @@ Use mystery letters to share background information the hunters should know. The
 
 The hunters should start with fewer Luck points: give them 1-3 (depending on how tough you want the mystery to be). You may allow them to have a free level-up after creating their hunter, to make up for having fewer Luck points to save them.
 
-It’s useful to pick a team concept for the game, and just tell everyone who the team are and how they operate. You may need to make certain playbooks mandatory, suggest others that fit in, and leave out others completely. For example, if your team concept is centered on the Professional, having an Initiate might not work so well. Don’t offe[[The Initiate]]]] playbook as an option.
+It’s useful to pick a team concept for the game, and just tell everyone who the team are and how they operate. You may need to make certain playbooks mandatory, suggest others that fit in, and leave out others completely. For example, if your team concept is centered on the Professional, having an Initiate might not work so well. Don’t offe[[The Initiate]] playbook as an option.
 
 I strongly advise that you let everyone make up their own hunter (even if you restrict the types available). Making all the choices during hunter creation—about their abilities, history and so on—gives the players a stake in the way the game is going to play.
 
@@ -6489,7 +6242,7 @@ Without the expectation that the game will continue, you should also feel free t
 
 Also, think about the scale of events. In a one-shot, the stakes of the mystery can be huge: zombie epidemics, the legions of Hell being unleashed on earth, hideous gods from beyond the stars—any huge threat is fair game.
 
-If your team includes hunters with central story elements (the Chosen and her fate, the Wronged’s nemesis, the Professional and her Agency[[The Initiate]]]] and his Sect, etc) then tie those into the mystery as well. Think about these central elements when you decide which hunter books to bring to the table, and then you can leave the right-shaped holes in your mystery (e.g. you could leave yourself space to adjust the threats to match the Chosen’s fate). You should have time to do this as the other players make up their hunters: as they go, find out what they picked for their hunters, and you can quickly adjust your notes to fit, or suggest to the players things that work with what you have planned.
+If your team includes hunters with central story elements (the Chosen and her fate, the Wronged’s nemesis, the Professional and her Agency[[The Initiate]] and his Sect, etc) then tie those into the mystery as well. Think about these central elements when you decide which hunter books to bring to the table, and then you can leave the right-shaped holes in your mystery (e.g. you could leave yourself space to adjust the threats to match the Chosen’s fate). You should have time to do this as the other players make up their hunters: as they go, find out what they picked for their hunters, and you can quickly adjust your notes to fit, or suggest to the players things that work with what you have planned.
 
 One-Shot Mystery Play
 
@@ -6689,7 +6442,7 @@ Moves
 
 Each hunter type gets three moves as well. For many, one or two of these moves are mandatory.
 
-Some of the moves don’t count as one against their count: that’s for moves that aren’t purely an advantage, but that have both a good and bad side[[The Initiate]]]]’s move when **in good standing with the Sect** is one of those: the move’s good and bad sides balance out, s[[The Initiate]]]] gets another three choices of purely useful moves.
+Some of the moves don’t count as one against their count: that’s for moves that aren’t purely an advantage, but that have both a good and bad side[[The Initiate]]’s move when **in good standing with the Sect** is one of those: the move’s good and bad sides balance out, s[[The Initiate]] gets another three choices of purely useful moves.
 
 Some playbooks have moves that are purely bad (the Monstrous’ curse and the Spooky’s dark side, for example). When a playbook has a purely bad move, give them an extra useful move to make up for it.
 
@@ -6738,7 +6491,7 @@ If you want to compare and contrast, here are some other hacks of *Apocalypse Wo
 - *Sagas of the Icelanders* by Gregor Vuga has moves and playbooks that reflect expected social roles.
 - *World of Dungeons* by John Harper is an extremely cut down (but still perfectly playable) version of *Dungeon World.* It’s a great illustration of how little you can get away with.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.003.jpeg)
+![](MotWIMG3.jpeg)
 
 
 

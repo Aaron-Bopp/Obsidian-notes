@@ -226,14 +226,7 @@
     }
   ],
   "outgoing-links:open-for-current": [],
-  "outgoing-links:open": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "`"
-    }
-  ],
+  "outgoing-links:open": [],
   "quick-explorer:browse-current": [
     {
       "modifiers": [
