@@ -1,5 +1,5 @@
 
-When you look around and **read a bad situation**, roll +Sharp.
+When you look around and **read a bad situation**, roll [[+Sharp]].
 
 On a 10+ [[hold]] 3, and on a 7-9, [[hold]] 1.
 
@@ -20,7 +20,7 @@ On a miss, you might mis-read the situation (e.g. “Everything is fine here! It
 
 Here’s the move:
 
-*When you look around and* ***read a bad situation**, roll +Sharp.*
+*When you look around and* ***read a bad situation**, roll [[+Sharp]].*
 
 *On a 10+ [[hold]] 3, and on a 7-9 [[hold]] 1.*
 

@@ -35,6 +35,6 @@ Here’s what the tags mean:
 - **unreliable**: This weapon needs regular cleaning and maintenance, otherwise it just isn’t gonna work.
 - **useful**: This weapon has other uses aside from violence.
 - **valuable**: This weapon is antique, or made of valuable materials.
-- **volatile**: This weapon is dangerous and unstable.
+- **volatile**: This weapon is dangerous and [[unstable]].
 
 [[Custom Weapons]]

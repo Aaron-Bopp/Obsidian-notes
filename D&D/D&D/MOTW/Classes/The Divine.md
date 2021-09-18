@@ -39,12 +39,12 @@ You have been put on Earth for a purpose. Pick one:
 
 You get all the basic [[moves]], and pick three Divine [[moves]]:
 
-- **Boss from Beyond**: **At the beginning of each mystery**, roll +Weird. On a 10+, your Superiors ask you to do something simple. On a 7-9, they ask you to do something complicated or difficult. In either case, you get to ask them one of the questions from the **[[investigate a mystery]]** move right now. On a miss, you are required to do something terrible. If you do not accomplish what they’ve ordered, you cannot use this move again until you have made up for your failure.
-- **Angel Wings**: You can go instantly to anywhere you’ve visited before, or to a person you know well. When **you carry one or two people with you**, roll +Weird. On a 10+ you all go where you wanted. On a 7-9, you don’t quite manage it. Either you are all separated, or you all appear in the wrong place.
+- **Boss from Beyond**: **At the beginning of each mystery**, roll [[+Weird]]. On a 10+, your Superiors ask you to do something simple. On a 7-9, they ask you to do something complicated or difficult. In either case, you get to ask them one of the questions from the **[[investigate a mystery]]** move right now. On a miss, you are required to do something terrible. If you do not accomplish what they’ve ordered, you cannot use this move again until you have made up for your failure.
+- **Angel Wings**: You can go instantly to anywhere you’ve visited before, or to a person you know well. When **you carry one or two people with you**, roll [[+Weird]]. On a 10+ you all go where you wanted. On a 7-9, you don’t quite manage it. Either you are all separated, or you all appear in the wrong place.
 - **What I Need, When I Need It**: You may store any small object you own, putting it into a magical space nobody can get to. You may retrieve anything you stored at any time; it appears in your hand.
 - **Soothe**: **When** **you talk to someone for a few seconds in a quiet voice**, you can calm them down, blocking any panic, anger, or other negative emotions they have. This works even if the thing that freaked them out is still present, as long as your voice can be heard.
 - **Lay On Hands**: Your touch can heal injury and disease. When you **lay your hands on someone hurt**, roll [[+Cool]]. On a 10+, heal 2 [[harm]] or an illness, plus they’re stabilized. On a 7-9, you can heal the [[harm]] or illness as on a 10+, but you take it into yourself. On a miss, your aura causes them extra [[harm]].
-- **Cast Out Evil**: You may **banish an unnatural creature from your presence**. Roll +Tough. On a 10+ it is banished. On a 7-9 it takes a little while for the banishing to take effect—the creature has time to make one or two actions. Either way, the banished creature is unharmed, and you have no control over where it goes. This move may be used on unnatural hunters (e.g. [[the Monstrous]]). On a miss, something is keeping it here. That’s bad.
+- **Cast Out Evil**: You may **banish an unnatural creature from your presence**. Roll [[+Tough]]. On a 10+ it is banished. On a 7-9 it takes a little while for the banishing to take effect—the creature has time to make one or two actions. Either way, the banished creature is unharmed, and you have no control over where it goes. This move may be used on unnatural hunters (e.g. [[the Monstrous]]). On a miss, something is keeping it here. That’s bad.
 - **Smite**: Your body and divine weapon always count as a weakness against the [[monsters]] you fight. Your unarmed attacks are 2-[[harm]] intimate hand messy.
 
 **[[GEAR]]**
@@ -86,11 +86,11 @@ Okay bbb b bbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark of the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable”.
+When you suffer [[harm]], mark of the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]]”.
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 

@@ -1,4 +1,5 @@
-[[Hunter Creation]]
+From [[Hunter Creation]]
+
 When you’ve all reached the “Introductions” section, you’ll take turns introducing your hunter to the others. Describe how your hunter looks, and the main things the team would know about you. What are you good at? What drives you? What personality traits stand out? [[The Keeper]] or the other hunters might have some questions for you too. Answer them as appropriate.
 
 [[History]]

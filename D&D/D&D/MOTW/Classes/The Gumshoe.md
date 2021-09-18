@@ -56,7 +56,7 @@ Then pick one of these:
 
 b **The Postman Always Rings Twice**: Twice per mystery—as long as you follow your Code—you may reroll a roll.
 
-b **The Long Goodbye**: You can’t die with an open case (usually your current mystery). Specifically, you suffer all [[harm]] as normal but your death is postponed until you have either completed or abandoned the case, or you break your Code (then all bets are off). b **Jessica Jones Entry**: When you double-talk your way into a secure location, roll +Charm.
+b **The Long Goodbye**: You can’t die with an open case (usually your current mystery). Specifically, you suffer all [[harm]] as normal but your death is postponed until you have either completed or abandoned the case, or you break your Code (then all bets are off). b **Jessica Jones Entry**: When you double-talk your way into a secure location, roll [[+Charm]].
 
 On a 10+ pick three, on a 7-9 pick two, on a fail pick one:
 
@@ -74,7 +74,7 @@ b **Out of the Past**: You have a police buddy who will do you big favors. Get i
 
 b **Asphalt Jungle**: You heal faster than normal people. Any time your [[harm]] gets healed, heal an extra point. You are immune to all the [[harm]] move effects under ‘0-[[harm]]’ and ‘1-[[harm]]’ (when [[the Keeper]] would apply these, you ignore it).
 
-b **Hacker with a Dragon Tattoo**: When you hack into a computer system, roll +Sharp. On 10+ pick two, on a 7-9 pick one:
+b **Hacker with a Dragon Tattoo**: When you hack into a computer system, roll [[+Sharp]]. On 10+ pick two, on a 7-9 pick one:
 
 -   You leave no traces.
 
@@ -84,7 +84,7 @@ b **Hacker with a Dragon Tattoo**: When you hack into a computer system, roll +S
 
 -   You gain access to somewhere you want to get in to.
 
-b **“Just one more thing”**: When you ask a suspect leading questions, roll +Charm. On a 10+ [[hold]] 2, on a 7-9 [[hold]] 1, on a miss [[hold]] 1 but something bad is going to happen too.
+b **“Just one more thing”**: When you ask a suspect leading questions, roll [[+Charm]]. On a 10+ [[hold]] 2, on a 7-9 [[hold]] 1, on a miss [[hold]] 1 but something bad is going to happen too.
 
 Spend your [[hold]] to ask questions from this list:
 
@@ -162,11 +162,11 @@ Okay bbbbbbb Doomed
 
 ## Harm
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b (Unstable injuries will worsen as time passes)
+[[Unstable]]: b (Unstable injuries will worsen as time passes)
 
 ## Leveling Up
 

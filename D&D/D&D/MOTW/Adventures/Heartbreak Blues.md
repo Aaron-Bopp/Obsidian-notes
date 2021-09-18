@@ -94,15 +94,15 @@ Travelling Jones Records is more than just a record shop, though their collectio
 
 **Create Art**: When you channel your emotions into your talents and skills to make a beautiful work of art, say [[what you do]] and:
 
--   If you **use your knowledge and insight into the human condition**, roll +Charm.
+-   If you **use your knowledge and insight into the human condition**, roll [[+Charm]].
 
 -   If you **tap into an observation of the world around you**, roll
 
-+Sharp.
+[[+Sharp]].
 
--   If you **just let all your raw emotion loose**, roll +Tough.
+-   If you **just let all your raw emotion loose**, roll [[+Tough]].
 
--   ![[image128.jpg]]If you **channel your connection to magic and other weirdness**, roll +Weird.
+-   ![[image128.jpg]]If you **channel your connection to magic and other weirdness**, roll [[+Weird]].
 
 On a hit, you make it. On a 10+, choose one from the following list.
 

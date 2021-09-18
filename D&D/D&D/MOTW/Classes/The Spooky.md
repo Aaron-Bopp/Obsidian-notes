@@ -31,16 +31,16 @@ To make your Spooky, first pick a name. Then follow the instructions below to de
     [[armour]]).
   - The target breaks something precious or important.
 - **The Sight:** You can see the invisible, especially spirits and magical influences. You may communicate with (maybe even make deals with) the spirits you see, and they give you more opportunities to spot clues when you **[[Investigate A Mystery]]**.
-- **Premonitions:** **At the start of each mystery**, roll +Weird. On a 10+, you get a detailed vision of something bad that is yet to happen. You take +1 [[forward]] to prevent it coming true, and mark experience if you stop it. On a 7-9+ you get clouded images of something bad that is yet to happen: mark experience if you stop it. On a miss, you get a vision of something bad happening to you and [[the Keeper]] holds 3, to be spent one-for-one as penalties to rolls you make.
-- **Hunches:** **When something bad is happening** (or just about to happen) somewhere that you aren’t, roll +Sharp. On a 10+ you knew where you needed to go, just in time to get there. On a 7-9, you get there late—in time to intervene, but not prevent it altogether. On a miss, you get there just in time to be in trouble yourself.
-- **Tune In**: You can **attune your mind to a monster or minion**. Roll +Weird. On a 10+, [[hold]] 3. On a 7-9, [[hold]] 1. On a miss, the monster becomes aware of you. Spend one [[hold]] to ask [[the Keeper]] one of the following questions, and gain +1 [[ongoing]] while acting on the answers: 
+- **Premonitions:** **At the start of each mystery**, roll [[+Weird]]. On a 10+, you get a detailed vision of something bad that is yet to happen. You take +1 [[forward]] to prevent it coming true, and mark experience if you stop it. On a 7-9+ you get clouded images of something bad that is yet to happen: mark experience if you stop it. On a miss, you get a vision of something bad happening to you and [[the Keeper]] holds 3, to be spent one-for-one as penalties to rolls you make.
+- **Hunches:** **When something bad is happening** (or just about to happen) somewhere that you aren’t, roll [[+Sharp]]. On a 10+ you knew where you needed to go, just in time to get there. On a 7-9, you get there late—in time to intervene, but not prevent it altogether. On a miss, you get there just in time to be in trouble yourself.
+- **Tune In**: You can **attune your mind to a monster or minion**. Roll [[+Weird]]. On a 10+, [[hold]] 3. On a 7-9, [[hold]] 1. On a miss, the monster becomes aware of you. Spend one [[hold]] to ask [[the Keeper]] one of the following questions, and gain +1 [[ongoing]] while acting on the answers: 
   - *Where is the creature right now?*
   - *What is it planning to do right now?*
   - *Who is it going to attack next?*
   - *Who does it regard as the biggest threat?*
   - *How can I attract its attention?*
-- **The Big Whammy**: You can use your powers to **[[kick some ass]]:** roll +Weird instead of +Tough. The attack has 2-[[harm]] close obvious ignore-[[armour]]. On a miss, you’ll get a magical backlash.
-- **Jinx**: You can encourage coincidences to occur, the way you want. **When you jinx a target**, roll +Weird. On a 10+ [[hold]] 2 and on a 7-9 [[hold]] 1. On a miss, [[the Keeper]] holds 2 over you to be used in the same way. Spend your [[hold]] to: 
+- **The Big Whammy**: You can use your powers to **[[kick some ass]]:** roll [[+Weird]] instead of [[+Tough]]. The attack has 2-[[harm]] close obvious ignore-[[armour]]. On a miss, you’ll get a magical backlash.
+- **Jinx**: You can encourage coincidences to occur, the way you want. **When you jinx a target**, roll [[+Weird]]. On a 10+ [[hold]] 2 and on a 7-9 [[hold]] 1. On a miss, [[the Keeper]] holds 2 over you to be used in the same way. Spend your [[hold]] to: 
   - Interfere with a hunter, giving them -1 [[forward]].
   - Help a hunter, giving them +1 [[forward]], by interfering with their enemy.
   - Interfere with what a monster, minion, or bystander is trying to do.
@@ -114,11 +114,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 

@@ -57,11 +57,11 @@ Why couldn’t you save them? You were (pick one or more):
 - **Berserk**: No matter how much [[harm]] you take, you can always keep going until the current fight is over. During a fight, [[the Keeper]] may not use [[harm]] [[moves]] on you and you cannot die. When the fight ends, all [[harm]] takes effect as normal.
 - **NEVER AGAIN**: In combat, you may choose to **[[Protect Someone]]** without rolling, as if you had rolled a 10+, but you may not choose to “suffer little [[harm]].”
 - **What Does Not Kill Me...**: If you have suffered [[harm]] in a fight, you gain +1 [[ongoing]] until the fight is over.
-- **Fervor**: When you **[[Manipulate Someone]]**, roll +Tough instead of +Charm.
+- **Fervor**: When you **[[Manipulate Someone]]**, roll [[+Tough]] instead of [[+Charm]].
 - **Safety First:** You have jury-rigged extra protection into your [[gear]], giving you +1 [[armour]] (maximum 2-[[armour]]).
 - **DIY Surgery**: When **you do quick and dirty first aid on someone** (including yourself), roll [[+Cool]]. On a 10+ it’s all good, it counts as normal first aid, plus stabilize the injury and heal 1 [[harm]]. On a 7-9 it counts as normal first aid, plus one of these, your choice: 
   - Stabilise the injury but the patient takes -1 [[forward]].
-  - Heal 1-[[harm]] and stabilise for now, but it will return as 2-[[harm]] and become unstable again later.
+  - Heal 1-[[harm]] and stabilise for now, but it will return as 2-[[harm]] and become [[unstable]] again later.
   - Heal 1-[[harm]] and stabilise but the patient takes -1 [[ongoing]] until it’s fixed properly.
 - **Tools Matter**: With your signature weapon (see your [[gear]], below), you get +1 to **[[kick some ass]]**.
 
@@ -120,11 +120,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 

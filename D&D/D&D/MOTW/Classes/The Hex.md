@@ -33,7 +33,7 @@ Whenever you **[[use magic]]**, you can decide afterwards that a particular spel
 
 Give your new rote a name, and decide specifically what the requirements are (which words, gestures, objects, symbols, and procedures are required). Unlike regular **[[use magic]]**, a rote’s cost and the consequences for failing it are known to you in advance. After you cast it for the first time, treat each rote as a custom move—a specialised version of [[Use Magic]], which is built with [[the Keeper]]. Write down what it does on a 10+, a 7-9, and a miss. Also, a rote is a bit more powerful than a basic **[[use magic]]** spell: its glitches are less onerous and its effect may be a little bigger.
 
-Casting a rote requires you to have the needed items at hand and the ability to physically use them. You roll +Weird to cast it, as you would when **using magic** normally.
+Casting a rote requires you to have the needed items at hand and the ability to physically use them. You roll [[+Weird]] to cast it, as you would when **using magic** normally.
 
 You start out knowing up to one rote, which you can choose when creating your character or during play. You can learn more by taking [[improvements]]—when you do, you can choose the new rote right away or in play.
 
@@ -61,13 +61,13 @@ B **Bad Luck Charm**: Whenever you **[[use magic]]** and miss, the backlash neve
 
 Plus pick two of these:
 
-b **Burn Everything**: When you **[[use magic]]** to inflict [[harm]], you can choose to inflict 3-[[harm]] area magic obvious or 3-[[harm]] ignore-[[armour]] magic obvious. b **Cast the Bones**: Once per mystery, you may perform some kind of divination (tarot, casting the runes, reading entrails, or something like that) to glean information about the future. When you seek guidance by divination, roll +Sharp. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. On a miss, you get some information, but it’s not what you want to hear. Spend those holds to ask any question from the **[[investigate a mystery]]** move, or one of the following questions:
+b **Burn Everything**: When you **[[use magic]]** to inflict [[harm]], you can choose to inflict 3-[[harm]] area magic obvious or 3-[[harm]] ignore-[[armour]] magic obvious. b **Cast the Bones**: Once per mystery, you may perform some kind of divination (tarot, casting the runes, reading entrails, or something like that) to glean information about the future. When you seek guidance by divination, roll [[+Sharp]]. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. On a miss, you get some information, but it’s not what you want to hear. Spend those holds to ask any question from the **[[investigate a mystery]]** move, or one of the following questions:
 
 -   What can I gain from this person/place/thing/creature?
 
 -   Who has touched this person/place/thing/creature before me? [[The Keeper]] will answer truthfully, with either a direct answer or how to find out more.
 
-b **Force of Will**: When you apply your will to dispelling a magical effect, blocking a spell, or suspending a Phenomenon, roll +Weird. On a hit, momentary magics are cancelled completely, and long-lasting spells and effects are suspended temporarily. On a 10+, you can also spend Luck to instantly snuff out a powerful spell or strange effect. On a 7-9, you take 1-[[harm]] as the strain of dismissing magic unravels you. b **Luck of the Damned**: After you **[[use magic]]** or cast a rote, take +1 [[forward]] on the next roll you make. b **Sympathetic Token**: As long as you carry a personal object belonging to someone, such as a lock of hair, a full set of toenails, or a treasured family heirloom, you get +1 [[ongoing]] to **[[use magic]]** against them. You can also **[[use magic]]** against them at a distance. If you try to **[[use magic]]** against them and miss, the token is lost, destroyed, or loses its power.
+b **Force of Will**: When you apply your will to dispelling a magical effect, blocking a spell, or suspending a Phenomenon, roll [[+Weird]]. On a hit, momentary magics are cancelled completely, and long-lasting spells and effects are suspended temporarily. On a 10+, you can also spend Luck to instantly snuff out a powerful spell or strange effect. On a 7-9, you take 1-[[harm]] as the strain of dismissing magic unravels you. b **Luck of the Damned**: After you **[[use magic]]** or cast a rote, take +1 [[forward]] on the next roll you make. b **Sympathetic Token**: As long as you carry a personal object belonging to someone, such as a lock of hair, a full set of toenails, or a treasured family heirloom, you get +1 [[ongoing]] to **[[use magic]]** against them. You can also **[[use magic]]** against them at a distance. If you try to **[[use magic]]** against them and miss, the token is lost, destroyed, or loses its power.
 
 b **This Might Sting**: You can **[[use magic]]** to heal 3-[[harm]], but the process is exceptionally painful. On a 7-9 it also leaves a gnarly scar.
 
@@ -119,11 +119,11 @@ Okay bbbbbbb Doomed
 
 ## Harm
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b (Unstable injuries will worsen as time passes)
+[[Unstable]]: b (Unstable injuries will worsen as time passes)
 
 ## Leveling Up
 
@@ -153,7 +153,7 @@ b Gain another two Rotes. b Choose one advanced Hex move (see below).
 
 When you take the “Choose one advanced Hex move” improvement, choose one of these [[moves]]. You can never have both:
 
-b **Apotheosis**: You become a terrifying fount of mystical power. Once per mystery, after you suffer loss or [[harm]], you may enter a state where you have both immense power and zero interest in the well-being of other people. While in this state, you can fly, use +Weird to **[[kick some ass]]** instead of +Tough (using innate magic as a 3-[[harm]] weapon with whatever properties you choose), ignore the component costs of your rotes, ignore one requirement of every spell you cast with **[[use magic]]**, and you have +1 [[ongoing]] to do everything. On the other hand, you outright cannot use the **[[protect someone]]** move, you have all the Temptations, and you have to indulge them whenever a good opportunity presents itself. When you try to resist a temptation, roll [[+Cool]]. On a 10+, your apotheosis ends. On a 7-9, it ends with you doing something dangerous or cruel. On a miss, it ends only after you [[harm]] someone (or something) you love.
+b **Apotheosis**: You become a terrifying fount of mystical power. Once per mystery, after you suffer loss or [[harm]], you may enter a state where you have both immense power and zero interest in the well-being of other people. While in this state, you can fly, use [[+Weird]] to **[[kick some ass]]** instead of [[+Tough]] (using innate magic as a 3-[[harm]] weapon with whatever properties you choose), ignore the component costs of your rotes, ignore one requirement of every spell you cast with **[[use magic]]**, and you have +1 [[ongoing]] to do everything. On the other hand, you outright cannot use the **[[protect someone]]** move, you have all the Temptations, and you have to indulge them whenever a good opportunity presents itself. When you try to resist a temptation, roll [[+Cool]]. On a 10+, your apotheosis ends. On a 7-9, it ends with you doing something dangerous or cruel. On a miss, it ends only after you [[harm]] someone (or something) you love.
 
 b **Synthesis**: You manage to conciliate your dark power with your moral impulses. You lose your Temptation. Whenever you **[[use magic]]** to **[[help out]]** or **[[protect someone]]**, you mark experience. Mark a second experience if you do it at the expense of your own safety.
 

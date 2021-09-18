@@ -32,7 +32,7 @@ She appears as an apparition of an 18-year-old, in a faded print dress from the 
 
 **Powers:**
 
-• **Frost Grasp**: When **Evelyn reaches through your chest and grabs your heart**, take 3-[[harm]] ignore-[[armour]] magic, then roll +Weird:
+• **Frost Grasp**: When **Evelyn reaches through your chest and grabs your heart**, take 3-[[harm]] ignore-[[armour]] magic, then roll [[+Weird]]:
 
 On a 10+, you resist and see into her soul; ask [[the Keeper]] a single question about her and they will answer you honestly.
 

@@ -1,4 +1,3 @@
-
 In the first edition of *Monster of the Week*, the way hunters gained experience points was different. Here is the original system for those who prefer the it, or are interested in what it was.
 
 Hunters do not mark experience on a missed roll (6 or less), and there’s no end-of-session list of questions that can earn experience.

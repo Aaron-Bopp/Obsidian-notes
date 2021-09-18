@@ -10,10 +10,6 @@ All [[the hunters]] have a set of [[moves]] that allow them to investigate and d
 - **[[Protect Someone]]**, used to save someone from danger.
 - **[[Read a Bad Situation]]**, used to work out what dangers are immediately threatening you. For instance, if you think you are walking into a trap, or want to do some tactical analysis.
 - **[[Use Magic]]**, used to cast magic spells or use enchanted items.
-
-Hunter use their [[Ability Ratings]] when they [[How to roll for a move| roll a move]]
-# Other moves
 - [[Big Magic]]
-- [[Playbook Moves]]
-- [[Actions Not Covered By A Move]]
-
+ 
+Hunter use their [[Ability Ratings]] when they [[How to roll for a move| roll a move]]

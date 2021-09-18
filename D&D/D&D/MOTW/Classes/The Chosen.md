@@ -75,7 +75,7 @@ Whenever you mark off a point of Luck, [[the Keeper]] will throw something from 
 
 *You get these two:*
 
-- **Destiny’s Plaything**: At the beginning of each mystery, roll +Weird to **see what is revealed about your immediate future**. On a 10+, [[the Keeper]] will reveal a useful detail about the coming mystery. On a 7-9 you get a vague hint about it. On a miss, something bad is going to happen to you.
+- **Destiny’s Plaything**: At the beginning of each mystery, roll [[+Weird]] to **see what is revealed about your immediate future**. On a 10+, [[the Keeper]] will reveal a useful detail about the coming mystery. On a 7-9 you get a vague hint about it. On a miss, something bad is going to happen to you.
 - **I’m Here For A Reason**: There’s something you are destined to do. Work out the details with [[the Keeper]], based on your fate. You cannot die until it comes to pass. **If you die in play**, then you must spend a Luck point. You will then, somehow, recover or be returned to life. Once your task is done (or you use up all your Luck), all bets are off.
 
 *Then pick one of these:*
@@ -148,11 +148,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 

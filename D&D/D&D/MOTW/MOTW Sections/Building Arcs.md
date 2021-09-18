@@ -1,11 +1,23 @@
+[[Arcs]]
 
-An arc is made up of four basic elements, similar to a mystery. You can create them in any order you want, but I’ll go through them in [[the order]] I usually use:
+Decide on a starting concept for your arc. Mysteries usually start with a monster, but [[arcs]] can come from a wide variety of places: a hunter’s [[history]], unfinished business from a mystery, or a neat idea you have for an evil plan.
 
-- [[Basic concept]].
-- [[The threats]].
-- One or more countdowns.
-- Optionally, some [[custom moves]].
+You may get some ideas for [[arcs]] right at the beginning of a new game when [[the hunters]] are created. Perhaps the team concept and backstory of the team suggests something. Some playbooks also have built-in arc seeds, specifically:
 
-[[Arcs]] work fine without being fully detailed at first. Sometimes you’ll have only a few ideas about what’s going on. That’s fine: just note the details you have now, and fill in others as you think of them. Events in play will suggest further elements to be added in later.
+- [[The Chosen]]’s fate. Use the details that you work out with the player about what is in store for [[The Chosen]].
+- [[The Divine]]’s mission may require an arc, depending on the details you worked out with the player.
+[[The Initiate]]’s Sect and Professional’s Agency both deserve an arc. Use the choices the player made to decide what the organisation’s motivations are, and how these will affect [[the hunters]]. The organisation may mean well, but still cause trouble by accident. On the other hand, some organisations might have a sinister purpose for hunting [[monsters]].
+- [[The Wronged]]’s loss: every Wronged should have an arc involving the creature(s) that caused their loss.
+- Any player might make a decision during [[hunter creation]] that gives you an idea for an arc.
 
-[[The Basic Concept]]
+In all these cases, ask the player questions about their hunter and their [[history]], in order to tease out ideas you can use for an arc.
+
+Another way to get arc ideas is to take unfinished business from the mysteries you play. For example:
+
+- If [[the hunters]] failed to defeat a monster, it might decide to track them and get revenge. Alternatively, it might restart its evil plan somewhere else.
+- If [[the hunters]] failed to notice and stop an evil plot, the plotters can move on to the next step in their terrible plan.
+- If [[the hunters]] miss an important detail, it might start a new problem (for instance, a roach-person’s eggs are left in place to hatch a new generation).
+
+Lastly, [[as the game goes on]] you might notice that previously unconnected facts or events make more sense if they were really connected all along. That is the seed of an arc. Maybe you’ve had two mysteries that both had a naga as the monster. Could there be a naga conspiracy that led to both situations? Think about what the nagas might be trying to achieve, and use that as your arc concept.
+
+[[An example arc]]

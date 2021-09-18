@@ -11,7 +11,7 @@ This custom threat represents an evil cult infesting a small town. It’s a mini
 
 This threat has this custom move.
 
-When a hunter **asks locals about something weird**, roll +Sharp.
+When a hunter **asks locals about something weird**, roll [[+Sharp]].
 
 On a 10+, the hunter works out:
 

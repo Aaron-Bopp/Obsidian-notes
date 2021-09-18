@@ -16,7 +16,7 @@ Here’s some fragments from letters I used for a convention scenario. The team 
 
 An information-finding move:
 
-*Obviously you checked out the haunting’s background before the job. Roll me +Weird, to see what you’ve found out, or worked out. On a 10+ ask me two of these, on a 7-9 ask me one. On a miss, you can ask me one anyhow but you had to do something dangerous to find out. I’ll let you know what that was. The questions you can ask:*
+*Obviously you checked out the haunting’s background before the job. Roll me [[+Weird]], to see what you’ve found out, or worked out. On a 10+ ask me two of these, on a 7-9 ask me one. On a miss, you can ask me one anyhow but you had to do something dangerous to find out. I’ll let you know what that was. The questions you can ask:*
 
 - *What’s the buzz on the cryptozoology and ghost hunter message boards and mailing lists?*
 - *I found some writing in blood on a mirror. What did it say?*
@@ -24,7 +24,7 @@ An information-finding move:
 
 A move to get into the action:
 
-*The initial check of the house went okay, but then things turned bad. Roll me +Sharp and see what happened: On a 10+ pick two, on a 7-9 pick one:*
+*The initial check of the house went okay, but then things turned bad. Roll me [[+Sharp]] and see what happened: On a 10+ pick two, on a 7-9 pick one:*
 
 - *You have the poltergeist in a ghost trap.*
 - *You do not have a huge shard of mirror embedded in your leg (that means you do otherwise).*
@@ -56,7 +56,7 @@ Here’s an entire mystery letter to use as a model. This one is for a hunter wh
 
 *If there’s anything you want to add to that list, go ahead and ask. I’ll let you know if it’s okay (anything you could do in a week should be fine).*
 
-*Roll +Sharp to see how much you got done.*
+*Roll [[+Sharp]] to see how much you got done.*
 
 - *On a 10+ you can pick two of them to be done, on a 7-9 only one.*
 - *On a miss you can pick one if you want, but you got into trouble doing it. Getting you out of that trouble is where we’ll kick off today.*

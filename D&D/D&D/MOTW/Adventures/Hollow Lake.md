@@ -32,7 +32,7 @@ Kappa are short, ugly goblins with scaled skin, webbed hands and feet, and a thi
 
 **Custom Move:**
 
-**Wrestling Grab**: When you’re grabbed by a kappa, roll +Tough:
+**Wrestling Grab**: When you’re grabbed by a kappa, roll [[+Tough]]:
 
 -   On a 10+, choose two two of the following options.
 

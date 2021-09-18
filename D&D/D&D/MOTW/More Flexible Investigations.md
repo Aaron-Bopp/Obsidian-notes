@@ -6,7 +6,7 @@ Some players find the list of allowed questions in the normal **[[Investigate A 
 
 If you would like something a bit more open-ended, you can use this alternative basic move:
 
-When you **[[Investigate A Mystery]]** with your particular techniques and skills, roll +Sharp:
+When you **[[Investigate A Mystery]]** with your particular techniques and skills, roll [[+Sharp]]:
 
 -   On a 10 or higher, ask [[the Keeper]] two general questions or one specific question. Based on how you are investigating, they will tell you honestly and with good detail what you discover.
 

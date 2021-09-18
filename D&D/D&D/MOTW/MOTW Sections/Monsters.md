@@ -43,7 +43,7 @@ If you haven’t already worked out what it’s trying to achieve, give that som
 
 Example Monsters
 
-Here are some [[examples]] to illustrate a variety of different monsters. Note that I’ve given each one a monster type that fits [[the basic concept]] of the creature, but if you use it in a mystery you should consider whether it fits the monster’s role for that adventure, and change the type if you find a better match.
+Here are some [[examples]] to illustrate a variety of different monsters. Note that I’ve given each one a monster type that fits [[Building Arcs]] of the creature, but if you use it in a mystery you should consider whether it fits the monster’s role for that adventure, and change the type if you find a better match.
 
 **A CLASSIC VAMPIRE**
 

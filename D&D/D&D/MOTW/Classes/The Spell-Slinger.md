@@ -20,7 +20,7 @@ To make your Spell-slinger, first pick a name. Then follow the instructions belo
 
 **COMBAT MAGIC**
 
-You have a few attack spells you can use as [[weapons]]. When you use these spells to **[[kick some ass]]**, roll +Weird instead of +Tough. Sometimes the situation may require you to **[[Act Under Pressure]]** to cast your spell without problems.
+You have a few attack spells you can use as [[weapons]]. When you use these spells to **[[kick some ass]]**, roll [[+Weird]] instead of [[+Tough]]. Sometimes the situation may require you to **[[Act Under Pressure]]** to cast your spell without problems.
 
 Pick three options from the list below.
 
@@ -106,11 +106,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 

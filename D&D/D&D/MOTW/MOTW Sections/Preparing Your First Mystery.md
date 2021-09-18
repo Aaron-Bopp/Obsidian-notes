@@ -1,3 +1,4 @@
+1. [[Running the game]]
 
 This first mystery is going to be everyone’s introduction to [[the hunters]] and to your game’s world. Build a straightforward hunt, to give [[the hunters]] space to talk and get a sense of how the team operates. Pick a classic monster that everyone will recognise from folklore, urban legend, or pop culture.
 
@@ -9,4 +10,9 @@ I’ll build an example ghost story while we go through the process, to illustra
 
 *Marie O’Connell is the angry ghost. She was murdered by her husband Damian (in an unjustified jealous rage) and subsequently drove him to suicide.*
 
-[[The Hook]]
+1.  [[One-Shot Games]] 
+2.  [[Creating Your First Mystery]] 
+3.  [[The Hook]] 
+4.  [[The Threats]] 
+5.  [[Mystery Countdowns]] 
+6.  [[Summary First Mystery Creation]] 

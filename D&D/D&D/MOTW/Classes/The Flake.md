@@ -27,7 +27,7 @@ To make your Flake, first pick a name. Then follow the instructions below to dec
 
 *You get all of the basic [[moves]], plus pick three Flake [[moves]]:*
 
-- **Connect the Dots**: At the beginning of each mystery, if **you look for the wider patterns** that current events might be part of, roll +Sharp. On a 10+ [[hold]] 3, and on a 7-9 [[hold]] 1. Spend your [[hold]] during the mystery to ask [[the Keeper]] any one of the following questions: 
+- **Connect the Dots**: At the beginning of each mystery, if **you look for the wider patterns** that current events might be part of, roll [[+Sharp]]. On a 10+ [[hold]] 3, and on a 7-9 [[hold]] 1. Spend your [[hold]] during the mystery to ask [[the Keeper]] any one of the following questions: 
   - *Is this person connected to current events more than they are saying?*
   - *When and where will the next critical event occur?*
   - *What does the monster want from this person?*
@@ -36,9 +36,9 @@ To make your Flake, first pick a name. Then follow the instructions below to dec
 - **Crazy Eyes**: You get +1 Weird (max +3).
 - **See, It All Fits Together**: You can use Sharp instead of Charm when you **[[manipulate someone]]**.
 - **Suspicious Mind**: If someone lies to you, you know it.
-- **Often Overlooked**: When **you** **act all crazy** to avoid something, roll +Weird. On a 10+ you’re regarded as unthreatening and unimportant. On a 7-9, pick one: unthreatening or unimportant. On a miss, you draw lots (but not all) of the attention.
+- **Often Overlooked**: When **you** **act all crazy** to avoid something, roll [[+Weird]]. On a 10+ you’re regarded as unthreatening and unimportant. On a 7-9, pick one: unthreatening or unimportant. On a miss, you draw lots (but not all) of the attention.
 - **Contrary**: When **you seek out and receive someone’s honest advice** on the best course of action for you and then do something else instead, mark experience. If you do exactly the opposite of their advice, you also take +1 [[ongoing]] on any [[moves]] you make pursuing that course.
-- **Net Friends**: You know a lot of people on the Internet. When **you** **contact a net friend to help you** with a mystery, roll +Charm. On a 10+, they’re available and helpful—they can fix something, break a code, hack a computer, or get you some special information. On a 7-9, they’re prepared to help, but it’s either going to take some time or you’re going to have to do part of it yourself. On a miss, you burn some bridges.
+- **Net Friends**: You know a lot of people on the Internet. When **you** **contact a net friend to help you** with a mystery, roll [[+Charm]]. On a 10+, they’re available and helpful—they can fix something, break a code, hack a computer, or get you some special information. On a 7-9, they’re prepared to help, but it’s either going to take some time or you’re going to have to do part of it yourself. On a miss, you burn some bridges.
 - **Sneaky**: When **you attack from ambush, or from behind**, inflict +2 [[harm]].
 
 **[[GEAR]]**
@@ -90,11 +90,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 

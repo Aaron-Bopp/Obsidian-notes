@@ -58,15 +58,15 @@ Pick two resource tags for the Agency, and two red tape tags:
 
 *You get this one:*
 
-- When you **deal with the Agency,** requesting help or [[gear]], or making excuses for a failure, roll +Sharp. On a 10+, you’re good—your request for [[gear]] or personnel is okayed, or your slip-up goes unnoticed. On a 7-9, things aren’t so great. You might get chewed out by your superiors and there’ll be fallout, but you get what you need for the job. On a miss, you screwed up: you might be suspended or under investigation, or just in the doghouse. You certainly aren’t going to get any help until you sort it all out.
+- When you **deal with the Agency,** requesting help or [[gear]], or making excuses for a failure, roll [[+Sharp]]. On a 10+, you’re good—your request for [[gear]] or personnel is okayed, or your slip-up goes unnoticed. On a 7-9, things aren’t so great. You might get chewed out by your superiors and there’ll be fallout, but you get what you need for the job. On a miss, you screwed up: you might be suspended or under investigation, or just in the doghouse. You certainly aren’t going to get any help until you sort it all out.
 
 *Then pick three of these:*
 
 - **Bottle It Up**: If you want, you can take up to +3 bonus when you **[[Act Under Pressure]]**. For each +1 you use, [[the Keeper]] holds 1. That [[hold]] can be spent later—one for one—to give you -1 on any move *except* **[[Act Under Pressure]]**.
 - **Unfazeable**: Take +1 Cool (max +3).
 - **Battlefield Awareness**: You always know what’s happening around you, and what to watch out for. Take +1 [[armour]] (max 2-[[armour]]) on top of whatever you get from your [[gear]].
-- **Leave No One Behind**: In combat, when **you help someone escape**, roll +Sharp. On a 10+ you get them out clean. On a 7-9, you can *either* get them out *or* suffer no [[harm]], you choose. On a miss, you fail to get them out and you’ve attracted hostile attention.
-- **Tactical Genius**: When you **[[Read A Bad Situation]]**, you may roll [[+Cool]] instead of +Sharp
+- **Leave No One Behind**: In combat, when **you help someone escape**, roll [[+Sharp]]. On a 10+ you get them out clean. On a 7-9, you can *either* get them out *or* suffer no [[harm]], you choose. On a miss, you fail to get them out and you’ve attracted hostile attention.
+- **Tactical Genius**: When you **[[Read A Bad Situation]]**, you may roll [[+Cool]] instead of [[+Sharp]]
 - **Medic**: You have a full first aid kit, and the training to heal people. **When you do first aid**, roll [[+Cool]]. On a 10+ the patient is stabilized and healed of 2 [[harm]]. On a 7-9 choose one: heal 2 [[harm]] or stabilize the injury. On a miss, you cause an extra 1 [[harm]]. This move takes the place of regular first aid.
 - **Mobility**: You have a truck, van, or car built for monster hunting. Choose two good things and one bad thing about it. 
 
@@ -123,11 +123,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 

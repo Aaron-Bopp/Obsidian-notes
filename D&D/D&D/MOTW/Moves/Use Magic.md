@@ -1,5 +1,5 @@
 
-When you **use magic**, say what you’re trying to achieve and how you do the spell, then roll +Weird.
+When you **use magic**, say what you’re trying to achieve and how you do the spell, then roll [[+Weird]].
 
 - If you get a 10+, the magic works without issues: choose your effect.
 - On a 7-9, it works imperfectly: choose your effect and a glitch. [[The Keeper]] will decide what effect the glitch has.

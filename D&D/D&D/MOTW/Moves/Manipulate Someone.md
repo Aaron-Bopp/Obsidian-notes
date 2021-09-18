@@ -3,7 +3,7 @@ This move is used when you want someone to do something for you and they don’t
 
 For friends and allies, you might just need to ask. For witnesses to a monster attack, you could tell them you are with the police, or just offer them some cash for answering your questions.
 
-Once you have given them a reason, **tell them what you want them to do** and roll +Charm.
+Once you have given them a reason, **tell them what you want them to do** and roll [[+Charm]].
 
 For a normal person:
 

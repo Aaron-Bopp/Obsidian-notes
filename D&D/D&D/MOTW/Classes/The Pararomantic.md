@@ -24,7 +24,7 @@ There is a reason why your love with your Guide (the supernatural being you have
 
 Whenever you put yourself or somebody else in serious danger in order to conceal the truth about you and your Guide, mark experience.
 
-**Bond Abuse**: Whenever you do something to abuse the bond with your Guide, like acting against them, or not giving them enough attention, roll +Charm:
+**Bond Abuse**: Whenever you do something to abuse the bond with your Guide, like acting against them, or not giving them enough attention, roll [[+Charm]]:
 
 -   On 10+, your action has no effect beyond the exchange of some angry words.
 
@@ -52,11 +52,11 @@ Determine what kind of creature your Guide is and how your relationship works. S
 
 If your Guide is another hunter, determine together how your relationship works.
 
-Whenever you would roll +Weird you can roll +Charm instead, by channeling the power of your bond. When you do so and miss, in addition to the usual consequences, you and your Guide suffer as when you miss a roll for **bond abuse**.
+Whenever you would roll [[+Weird]] you can roll [[+Charm]] instead, by channeling the power of your bond. When you do so and miss, in addition to the usual consequences, you and your Guide suffer as when you miss a roll for **bond abuse**.
 
 Then pick two of these:
 
-b **Bonding Time**: If you spend some quality time with your Guide instead of working on the current mystery you can roll +Charm.
+b **Bonding Time**: If you spend some quality time with your Guide instead of working on the current mystery you can roll [[+Charm]].
 
 On 10+, [[hold]] 2. On 7-9, [[hold]] 1. Spend your [[hold]] to:
 
@@ -74,7 +74,7 @@ b **The Power of Love**: When you use **help someone** to help your Guide you do
 
 b **I Am Theirs And They Are Mine**: Whenever you are in danger, your Guide knows it. If your Guide is suffering [[harm]] (and it’s feasible), you can spend a point of Luck to redirect the attack onto yourself as if you have rolled 10+ with **[[protect someone]]**. If you are suffering [[harm]], you can decide that your Guide has protected you and is suffering this [[harm]] instead. If you choose this, roll for **bond abuse**.
 
-b **Monster Empathy**: When you try to work out what a supernatural creature desires, roll +Charm. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. Spend your [[hold]] to ask the following questions—[[the Keeper]] will answer honestly:
+b **Monster Empathy**: When you try to work out what a supernatural creature desires, roll [[+Charm]]. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. Spend your [[hold]] to ask the following questions—[[the Keeper]] will answer honestly:
 
 -   What does it most desire?
 
@@ -82,7 +82,7 @@ b **Monster Empathy**: When you try to work out what a supernatural creature des
 
 -   What would distract it?
 
-b **Spirit Touched**: Your experiences have made you sensitive to the supernatural. When you sense magical things, roll +Weird. On a 10+ you can sense them fully. On a 7-9, choose: either sense them fully but they notice you too, or you sense only impressions.
+b **Spirit Touched**: Your experiences have made you sensitive to the supernatural. When you sense magical things, roll [[+Weird]]. On a 10+ you can sense them fully. On a 7-9, choose: either sense them fully but they notice you too, or you sense only impressions.
 
 ## Gear
 
@@ -141,11 +141,11 @@ Loving bbbbbbb Broken
 
 ## Harm
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b (Unstable injuries will worsen as time passes)
+[[Unstable]]: b (Unstable injuries will worsen as time passes)
 
 ## Leveling Up
 

@@ -24,12 +24,12 @@ To make your Crooked, pick a name. Then follow the instructions below to decide 
 You worked a less-than-legal job before you became a monster hunter. What did you do?
 
 - **Hoodlum**. You can use Tough instead of Charm to **[[manipulate someone]]** with threats of violence.
-- **Burglar**. When you **break into a secure location**, roll +Sharp. On a 10+ pick three, on a 7-9 pick two: you get in undetected, you get out undetected, you don’t leave a mess, you find what you were after.
+- **Burglar**. When you **break into a secure location**, roll [[+Sharp]]. On a 10+ pick three, on a 7-9 pick two: you get in undetected, you get out undetected, you don’t leave a mess, you find what you were after.
 - **Grifter**. When you are about to **[[manipulate someone]]**, you can ask [[the Keeper]] “What will convince this person to do what I want?” [[The Keeper]] must answer honestly, but not necessarily completely.
-- **Fixer**. If you **need to buy something, sell something, or hire someone**, roll +Charm. On a 10+ you know just the person who will be interested. On a 7-9 you know the only person who can do it, but there’s a complication. Pick one: you owe them; they screwed you over; you screwed them over. On a miss, the only person who can help is someone who absolutely hates you.
+- **Fixer**. If you **need to buy something, sell something, or hire someone**, roll [[+Charm]]. On a 10+ you know just the person who will be interested. On a 7-9 you know the only person who can do it, but there’s a complication. Pick one: you owe them; they screwed you over; you screwed them over. On a miss, the only person who can help is someone who absolutely hates you.
 - **Assassin**. When you take your first shot at an unsuspecting target, do +2 [[Harm]].
 - **Charlatan**. When you want people to think you are using magic, roll [[+Cool]]. On a 10 or more, your audience is amazed and fooled by your illusion. On a 7-9 you tripped up a couple of times, maybe someone will notice. You may also **manipulate** **people** with fortune telling. When you do that, ask “What are they hoping for right now?” as a free question (even on a miss).
-- **Pickpocket.** When you **steal something small**, roll +Charm. On a 10 or more, you get it and they didn’t notice you taking it. On a 7-9 either you don’t grab it, you grab the wrong thing, or they remember you later: your choice.
+- **Pickpocket.** When you **steal something small**, roll [[+Charm]]. On a 10 or more, you get it and they didn’t notice you taking it. On a 7-9 either you don’t grab it, you grab the wrong thing, or they remember you later: your choice.
 
 **HEAT**
 
@@ -112,7 +112,7 @@ When you suffer [[harm]], mark of the number of boxes equal to [[harm]] suffered
 
 Okay bbb|bbbb Dying
 
-Unstable: b (Unstable injuries will worsen as time passes)
+[[Unstable]]: b (Unstable injuries will worsen as time passes)
 
 **[[LEVELING UP]]**
 

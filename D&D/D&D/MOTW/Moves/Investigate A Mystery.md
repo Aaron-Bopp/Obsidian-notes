@@ -1,7 +1,7 @@
 
 Investigating can be done any number of ways: following tracks, interviewing witnesses, forensic analysis, looking up old folklore in a library, typing the monster’s name into Google, capturing the monster and conducting tests on it, and so on. Anything that might give you more information about what’s going on is fair game for an investigate move.
 
-When you **investigate a mystery**, roll +Sharp.
+When you **investigate a mystery**, roll [[+Sharp]].
 
 - On a 10+ [[hold]] 2, and on a 7-9 [[hold]] 1.
 
@@ -100,7 +100,7 @@ The investigation:
 [[Kick Some Ass]]
 
 
-- roll *+Sharp* when investigating a mystery
+- roll *[[+Sharp]]* when investigating a mystery
 	- On a *10+* [[hold]] 2
 	- On a *7-9* [[hold]] 1
 	- Use [[hold]] to ask the following questions ^68a031

@@ -7,4 +7,4 @@ Then you start collecting experience marks again, until you level up again when 
 
 When you have leveled up five times, you can start choosing from the [[advanced improvements]] list as well ([[Act Under Pressure]]).
 
-[[End Of Session Experience]]
+[[End-Of-Session Experience Questions]]

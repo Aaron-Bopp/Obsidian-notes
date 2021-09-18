@@ -154,7 +154,7 @@ Glen, but this write-up can work for most of them. Many facilities can be found 
 
 **Custom [[moves]]:**
 
-When you **search in the forest**, roll +Sharp:
+When you **search in the forest**, roll [[+Sharp]]:
 
 -   On a 10+, things seem to point somewhere in particular: take +1 [[forward]] for investigating.
 
@@ -176,7 +176,7 @@ When you **search in the forest**, roll +Sharp:
 
 **Custom [[moves]]:**
 
-When you **search in Wolf Road Woods**, roll +Sharp:
+When you **search in Wolf Road Woods**, roll [[+Sharp]]:
 
 -   On a 10+ you find a tuft of strange hair and a well-worn work glove with Billy’s initials: take +1 [[forward]] for investigating, then [[the Keeper]] will pick one of the bad things from **search in the forest** (see above).
 

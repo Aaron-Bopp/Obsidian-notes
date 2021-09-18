@@ -32,7 +32,7 @@ The primary threat is Zenobia Bellairs, the undead Witch. You may also add a bur
 
 # ![[image153.jpg]]Custom Moves
 
-If **a hunter looks for traps**, roll +Sharp:
+If **a hunter looks for traps**, roll [[+Sharp]]:
 
 On a 10+, the trap is disarmed and the hunter learns something about Zenobia.
 

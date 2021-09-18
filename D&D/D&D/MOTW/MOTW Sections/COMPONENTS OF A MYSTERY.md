@@ -2,7 +2,7 @@
 
 The *[[basic concept]]* is your original idea, the thought that led to this mystery.
 
-*In the example, [[the basic concept]] is the Mongolian death worms—the stories are awesome, so I wanted to make a mystery about them.*
+*In the example, [[Building Arcs]] is the Mongolian death worms—the stories are awesome, so I wanted to make a mystery about them.*
 
 The *hook* is whatever has drawn [[the hunters]]’ attention to the situation: reports of deaths or disappearances, a monster sighting, or some weird phenomena. You’ll tell [[the hunters]] up front what [[the hook]] is, but after that it’s totally up to them how they deal with what’s going on.
 

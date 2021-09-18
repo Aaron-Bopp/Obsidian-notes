@@ -54,7 +54,7 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 **Custom [[Moves]]:**
 
-**Twister**: **The first time you are hit by the efreet’s whirlwind attack**, you are surprised. Disregard the usual weapon effect and roll +Tough:
+**Twister**: **The first time you are hit by the efreet’s whirlwind attack**, you are surprised. Disregard the usual weapon effect and roll [[+Tough]]:
 
 -   On a 10+, you grit your teeth and stand your ground (but your hair is a mess).
 
@@ -74,7 +74,7 @@ Requirements for the evil ritual are:
 
 -   The bloody sacrifice of a large mammal—ideally a camel, but a horse, giraffe, or even a human would do.
 
-**Dances with Djinns**: If you **dance with two torches to mesmerize a nearby efreet**, roll +Charm:
+**Dances with Djinns**: If you **dance with two torches to mesmerize a nearby efreet**, roll [[+Charm]]:
 
 -   On a 10+, the efreet will come quickly and return into the bottle providing the rest of the ritual requirements are met. Choose one consequence from the list below.
 
@@ -94,7 +94,7 @@ On any hit, the dancing hunter decides which ritual-participant the consequence 
 
 -   One hunter gains pyrophobia. In future, they will need to **[[Act Under Pressure]]** to go near open flames.
 
--   One hunter is touched by the supernatural. If possible, their next improvement must either be “Take +1 Weird” or a move that requires rolling +Weird.
+-   One hunter is touched by the supernatural. If possible, their next improvement must either be “Take +1 Weird” or a move that requires rolling [[+Weird]].
 
 # Swarm of Flesh-eating Scarabs
 

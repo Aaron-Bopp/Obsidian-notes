@@ -7,7 +7,7 @@
 - When you mark your fifth experience point, level up, select an improvement and reset your experience to zero.
 - Protect all the innocent [[bystanders]].
 - Go and kill the monster!
-- When you’re done, answer the end-of-session experience questions and mark any experience you earn from the answers.
+- When you’re done, answer the [[end-of-session experience questions]] and mark any experience you earn from the answers.
 
 
 [[The Keeper]]

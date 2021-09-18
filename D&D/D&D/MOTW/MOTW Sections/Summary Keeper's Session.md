@@ -12,7 +12,7 @@
 - When a hunter misses on a roll, have them mark experience.
 - When any character suffers [[harm]], use a [[harm]] move on them.
 - Confront the monster! Hopefully [[the hunters]] win.
-- Ask the end-of-session experience questions to see whether each hunter gets to mark zero, one or two experience.
+- Ask the [[end-of-session experience questions]] to see whether each hunter gets to mark zero, one or two experience.
 - Think about how events in the mystery will affect your [[arcs]] or later mysteries. Tidy up your notes.
 
 ![](MotWIMG3.jpeg)

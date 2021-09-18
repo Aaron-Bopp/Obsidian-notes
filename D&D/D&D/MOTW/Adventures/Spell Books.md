@@ -56,7 +56,7 @@ A Hand of Glory is the dried and pickled hand of a man who has been hanged. It i
 
 Old European beliefs attribute great powers to a Hand of Glory that has been combined with a candle made of fat from the corpse of the same hanged man who died on the gallows.
 
-When the fingers of the Hand close around this candle (see above) and the candle is lit, the Hand provides the following move: **When you walk into a building while holding a lit Hand of Glory**, Roll +Weird:
+When the fingers of the Hand close around this candle (see above) and the candle is lit, the Hand provides the following move: **When you walk into a building while holding a lit Hand of Glory**, Roll [[+Weird]]:
 
 -   On a 10+, choose two from the list below.
 
@@ -74,7 +74,7 @@ When the fingers of the Hand close around this candle (see above) and the candle
 
 ## Raise Zombie
 
-**When you call up the recently dead by their name to serve you**, you need to wear personal clothing from the grave of a victim of violence, while chanting John 6:63 at their graveside. Roll +Weird:
+**When you call up the recently dead by their name to serve you**, you need to wear personal clothing from the grave of a victim of violence, while chanting John 6:63 at their graveside. Roll [[+Weird]]:
 
 -   On any result, the zombie rises at midnight.
 
@@ -86,7 +86,7 @@ When the fingers of the Hand close around this candle (see above) and the candle
 
 ## Command Zombie
 
-**When you seek to control a raised zombie**, call the secret name of the Angel of Death, and roll +Weird.
+**When you seek to control a raised zombie**, call the secret name of the Angel of Death, and roll [[+Weird]].
 
 -   On a 10+, the zombie will obey you until the next full moon.
 
@@ -96,7 +96,7 @@ When the fingers of the Hand close around this candle (see above) and the candle
 
 ## Speak with the Dead
 
-**When you call the spectre of the recently dead**, a personal item of the deceased must be thrown into a fire, and you must then call them by name. Roll +Weird:
+**When you call the spectre of the recently dead**, a personal item of the deceased must be thrown into a fire, and you must then call them by name. Roll [[+Weird]]:
 
 -   On a 10+, the spirit you named comes and answers your questions honestly.
 

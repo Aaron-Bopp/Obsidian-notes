@@ -40,7 +40,7 @@ Lifespan: As the plague mutates, each generation of infected arachnoids lives tw
 
 **Cunning**: Infected arachnoids become feral and violent, but are capable of a greater degree of cunning than the original gumos. Arachnoids can set traps and be wary of security cameras etc. Some arachnoids might start to figure out they can infect others and may seek to do so rather than kill people. The motive for doing so varies from individual to individual. Some might be trying to punish enemies while others might want to reunite with loved ones.
 
-**Infectious**: If **a hunter suffers [[harm]] from an arachnoid bite**, instead of the normal **[[harm]]** move, use this one. Roll +Tough:
+**Infectious**: If **a hunter suffers [[harm]] from an arachnoid bite**, instead of the normal **[[harm]]** move, use this one. Roll [[+Tough]]:
 
 -   On a 10 or more, they resist the infection and gain +1 [[ongoing]] to resist the infection in the future. If they already have +1 [[ongoing]], they are now totally immune to the plague.
 
@@ -154,7 +154,7 @@ The arachnoids that Atsuko released live in these tunnels when they’re not cre
 
 -   On a 7-9, They get through but something goes wrong.
 
--   On a miss someone gets stuck and something is coming for you. If **they cut or burn through**, roll +Tough:
+-   On a miss someone gets stuck and something is coming for you. If **they cut or burn through**, roll [[+Tough]]:
 
 -   On a 10 or more, they open up a path for everyone to follow.
 

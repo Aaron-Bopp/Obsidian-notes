@@ -21,7 +21,7 @@
 ### Just One Of Each
 ![[Just One Of Each]]
 ### Making Your Hunter
-![[Making Your Hunter]]
+![[Hunter Creation]]
 ## Team Concepts
 ![[Team Concepts]]
 ### Team Customization
@@ -115,7 +115,7 @@
 ## Harm
 ![[Harm]]
 ### Monsters and Harm#
-![[Monsters and Harm#]]
+![[How to fight monsters#]]
 ### Healing
 ![[Healing]]
 #### Healing Between Mysteries
@@ -145,7 +145,7 @@
 # Leveling Up
 ![[Leveling Up]]
 ## End Of Session Experience
-![[End Of Session Experience]]
+![[End-Of-Session Experience Questions]]
 ## Improvements
 ![[Improvements]]
 ## Advanced Improvements
@@ -299,7 +299,7 @@
 ### An Example Fight
 ![[An Example Fight]]
 ## End of the First Session
-![[End of the First Session]]
+![[At the End of Each Session]]
 ## Summary Keeper's First Session
 ![[Summary Keeper's First Session]]
 ## Between Game Sessions]
@@ -309,7 +309,7 @@
 ## Building Arcs
 ![[Building Arcs]]
 ## The Basic Concept
-![[The Basic Concept]]
+![[Building Arcs]]
 ## Arc Threats
 ![[Arc Threats]]
 ## Arc Countdowns

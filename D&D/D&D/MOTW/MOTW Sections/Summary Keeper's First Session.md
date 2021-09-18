@@ -10,7 +10,7 @@
 - Make a note of everything you can.
 - Have some [[fights]] and action scenes as they get close to the monster.
 - They confront the monster. Hopefully, [[the hunters]] win.
-- Go through the end-of-session experience questions and have [[the hunters]] mark experience based on the answers.
+- Go through the [[end-of-session experience questions]] and have [[the hunters]] mark experience based on the answers.
 - Discuss how it went. Let them change their hunters around a bit if required.
 - Look at your notes, and think ahead. Think about possible future mysteries and [[monsters]].
 

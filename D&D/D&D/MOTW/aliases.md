@@ -1,4 +1,12 @@
+[[+Charm]]:
+
 [[+Cool]]:
+
+[[+Sharp]]:
+
+[[+Tough]]:
+
+[[+Weird]]:
 
 [[802701 AD]]:
 
@@ -25,6 +33,8 @@
 [[An Example Mystery Mongolian Death Worm Attack]]:
 
 [[An Open Letter to Virginia about Monsters]]:
+
+[[An example arc]]:
 
 [[Arachne Genesis]]:
 
@@ -112,9 +122,7 @@
 
 [[Elvis Has Left the Building]]:
 
-[[End Of Session Experience]]:
-
-[[End of the First Session]]:
+[[End-Of-Session Experience Questions]]:
 
 [[Endgame]]:
 
@@ -180,6 +188,8 @@
 
 [[How To End A Game]]:
 
+[[How to fight monsters]]:
+
 [[How to roll for a move]]:
 
 [[Hunter Agenda]]:
@@ -228,8 +238,6 @@
 
 [[MOTWWholeBook]]:
 
-[[Making Your Hunter]]:
-
 [[Manipulate Someone]]:
 
 [[Mental Dominion]]:
@@ -251,8 +259,6 @@
 [[Monster_of_the_Week]]:
 
 [[Monsters]]:
-
-[[Monsters and Harm]]:
 
 [[More Flexible Investigations]]:
 
@@ -378,8 +384,6 @@
 
 [[Team Customization]]:
 
-[[The Basic Concept]]:
-
 [[The Basic Hunter Moves]]:
 
 [[The Basic Keeper Moves]]:
@@ -467,6 +471,8 @@
 [[Tracks Movement]]:
 
 [[Triggering The Custom Move]]:
+
+[[UNSTABLE]]:
 
 [[Unarmed Attacks And Improvised Weapons]]:
 

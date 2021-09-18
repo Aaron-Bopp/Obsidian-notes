@@ -44,7 +44,7 @@ This location is someone’s home: maybe a Chosen, Mundane, or Spooky who is sti
 
 **Location:** Prison (motivation: to constrain and prevent exit).
 
-**Custom move**: When you **make excuses to the family for something to do with monster hunting**, roll +Charm.
+**Custom move**: When you **make excuses to the family for something to do with monster hunting**, roll [[+Charm]].
 
 - On a 10+, you smooth over things but you might need to [[Help Out]] with some chores in the near future.
 - On a 7-9, they know you aren’t telling the whole truth. You smooth over things for now, but you’ll need to make an effort to be seen as the good kid. Also, take -1 the next time you roll this move.

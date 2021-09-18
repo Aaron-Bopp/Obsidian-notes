@@ -112,7 +112,7 @@ Ualichu dwells in the Hidden City, attended by his Eyeless Brides. He rules over
 
 **Powers:**
 
-**Proclamation**: His word is Truth in a cosmic sense. What he says goes, literally. When you confront Ualichu with evidence of a broken proclamation, roll +Sharp. On any hit, the law-breaker is gravely weakened. On a 10+, the law-breaker is magically compelled to do one service for [[The Wronged]] party: they may not avoid or delay this penalty without painful (or even deadly) consequence.
+**Proclamation**: His word is Truth in a cosmic sense. What he says goes, literally. When you confront Ualichu with evidence of a broken proclamation, roll [[+Sharp]]. On any hit, the law-breaker is gravely weakened. On a 10+, the law-breaker is magically compelled to do one service for [[The Wronged]] party: they may not avoid or delay this penalty without painful (or even deadly) consequence.
 
 # Lindsay Awale
 

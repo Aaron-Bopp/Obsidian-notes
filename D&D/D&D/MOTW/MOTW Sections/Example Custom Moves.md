@@ -21,7 +21,7 @@ This is a special-effect move, triggered by the hounds biting a person. This mov
 
 Searching The Marshes
 
-*When you* ***search in the marshes*** *(location: maze) roll +Sharp. On a 10+ things seem to point somewhere in particular: take +1 [[forward]] for investigating. On a 7-9, you can investigate, but then you must pick one of the bad things below. On a miss, all three bad things are true.*
+*When you* ***search in the marshes*** *(location: maze) roll [[+Sharp]]. On a 10+ things seem to point somewhere in particular: take +1 [[forward]] for investigating. On a 7-9, you can investigate, but then you must pick one of the bad things below. On a miss, all three bad things are true.*
 
 *Bad things that can happen in the marshes:*
 
@@ -41,7 +41,7 @@ Calling The Flame Spirits
 
 Here’s a move for a hunter who made the **[[Use Magic]]** move a lot for a particular effect, so we decided to make a custom move for that spell.
 
-*When you **call the flame spirits** you need to spill some very strong liquor into a fire and call the spirits by name (as many or as few names as you want). Roll +Weird. On a 10+ all the spirits you named come, and they’ll tell you some specific things and burn anything you want. On a 7-9 one of them comes and tells you some obscure things and then it burns some stuff, mostly what you wanted burned. On a miss, the fire spirits are angered. They might refuse your summons for a long time, or some of them might appear and demand a significant sacrifice from you right now, or else.*
+*When you **call the flame spirits** you need to spill some very strong liquor into a fire and call the spirits by name (as many or as few names as you want). Roll [[+Weird]]. On a 10+ all the spirits you named come, and they’ll tell you some specific things and burn anything you want. On a 7-9 one of them comes and tells you some obscure things and then it burns some stuff, mostly what you wanted burned. On a miss, the fire spirits are angered. They might refuse your summons for a long time, or some of them might appear and demand a significant sacrifice from you right now, or else.*
 
 This is another roll move, designed to be a slightly different version of **[[Use Magic]]** that deals with this particular spell. Note that it is safer, but a lot more specific, than the **[[Use Magic]]** move.
 

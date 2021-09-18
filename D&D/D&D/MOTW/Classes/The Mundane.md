@@ -25,10 +25,10 @@ To make your Mundane, first pick a name. Then follow the instructions below to d
 
 - **Always The Victim**: When another hunter uses **[[protect someone]]** to protect you, they mark experience. Whenever a monster captures you, you mark experience.
 - **Oops!** If **you want to stumble across something important**, tell [[the Keeper]]. You will find something important and useful, although not necessarily related to your immediate problems.
-- **Let’s Get Out Of Here!** If you can **[[protect someone]]** by telling them what to do, or by leading them out, roll +Charm instead of +Tough.
-- **Panic Button**: When you need to escape, **name the route you’ll try** and roll +Sharp. On a 10+ you’re out of danger, no problem. On a 7-9 you can go or stay, but if you go it’s going to cost you (you leave something behind or something comes with you). On a miss, you are caught halfway out.
+- **Let’s Get Out Of Here!** If you can **[[protect someone]]** by telling them what to do, or by leading them out, roll [[+Charm]] instead of [[+Tough]].
+- **Panic Button**: When you need to escape, **name the route you’ll try** and roll [[+Sharp]]. On a 10+ you’re out of danger, no problem. On a 7-9 you can go or stay, but if you go it’s going to cost you (you leave something behind or something comes with you). On a miss, you are caught halfway out.
 - **The Power of Heart**: When fighting a monster, if you **help someone**, don’t roll [[+Cool]]. You automatically help as though you’d rolled a 10.
-- **Trust Me**: When **you tell a normal person the truth in order to protect them from danger**, roll +Charm. On a 10+ they’ll do what you say they should, no questions asked. On a 7-9 they do it, but [[the Keeper]] chooses one from: 
+- **Trust Me**: When **you tell a normal person the truth in order to protect them from danger**, roll [[+Charm]]. On a 10+ they’ll do what you say they should, no questions asked. On a 7-9 they do it, but [[the Keeper]] chooses one from: 
   - They ask you a hard question first.
   - They stall and dither a while.
   - They have a “better” idea.
@@ -90,11 +90,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 

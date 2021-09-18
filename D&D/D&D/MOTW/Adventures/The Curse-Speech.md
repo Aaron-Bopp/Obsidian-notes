@@ -60,7 +60,7 @@ Banishing anything from a person’s mind is **[[big magic]]**. Banishing the Cu
 
 You can spend your holds to change any **cursed magic** [[moves]] into regular **[[Use Magic]]** instead. [[The Keeper]]’s holds are used to force the hunter to cast a **cursed magic** spell in any situation when magic could help them out.
 
-**Cursed Magic**: When you **know the Curse-Speech and [[Use Magic]]**, you must use this cursed version of the move. Roll +Weird:
+**Cursed Magic**: When you **know the Curse-Speech and [[Use Magic]]**, you must use this cursed version of the move. Roll [[+Weird]]:
 
 -   On an 11+ your magic works as advanced **[[Use Magic]]**. [[The Keeper]] also gains 1 **Cursed Mind** [[hold]] as the power overwhelms you.
 

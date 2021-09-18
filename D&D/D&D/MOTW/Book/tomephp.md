@@ -432,7 +432,7 @@ We formed a constructive online community on Google Plus (‘The
 
 ## Empath {#empath}
 
-> When you **open up your brain to feel the emotions of something right there in front of you**, roll +Weird:
+> When you **open up your brain to feel the emotions of something right there in front of you**, roll [[+Weird]]:
 
 -   On a 10 or more, you gain a clear impression of their current emotional state and intentions. Take +1 [[forward]] when acting on this knowledge.
 
@@ -452,7 +452,7 @@ We formed a constructive online community on Google Plus (‘The
 >
 > Sometimes, at [[the Keeper]]’s discretion, they proactively send you information, advice, or orders.
 >
-> When you **telepathically ask the Secret Masters for aid**, roll +Weird:
+> When you **telepathically ask the Secret Masters for aid**, roll [[+Weird]]:
 
 -   On a 10 or more, the Secret Masters reveal a key fact, clue, or technique that will help you.
 
@@ -468,7 +468,7 @@ We formed a constructive online community on Google Plus (‘The
 
 ## No Limits {#no-limits}
 
-> When you **push your physical body past its limits**, roll +Weird:
+> When you **push your physical body past its limits**, roll [[+Weird]]:
 
 -   On a 10 or more, your body obeys your will, to the limits of physical possibility (see below), for a moment.
 
@@ -486,7 +486,7 @@ We formed a constructive online community on Google Plus (‘The
 
 -   **Not Physically Possible:** Lift a building, Fly, Punch a blast of energy at a foe. Past Lives
 
-> When you **channel your previous incarnations to discover something**, pose your question and roll +Weird:
+> When you **channel your previous incarnations to discover something**, pose your question and roll [[+Weird]]:
 
 -   On a 10 or more, a past life has something useful to offer. Ask [[the Keeper]] two of the questions below.
 
@@ -514,7 +514,7 @@ We formed a constructive online community on Google Plus (‘The
 
 > When you **open up your brain to the psychic environment**, roll
 >
-> +Weird:
+> [[+Weird]]:
 
 -   On a 10 or more, you gain a definite impression (a vision, tangible aura, overheard thought, etc) about something important.
 
@@ -528,7 +528,7 @@ We formed a constructive online community on Google Plus (‘The
 
 ## Trust Your Gut {#trust-your-gut}
 
-> When you **consult your instincts about what to do next**, roll +Weird:
+> When you **consult your instincts about what to do next**, roll [[+Weird]]:
 
 -   On a 10 or more, [[the Keeper]] will tell where you should go. Wherever that is, it will be important. You get +1 [[ongoing]] on the way to this place.
 
@@ -542,7 +542,7 @@ We formed a constructive online community on Google Plus (‘The
 
 > Your gut feelings will point you somewhere important, but they do not care about your conscious concerns. To your gut, the current mystery is just one important thing amongst many.
 >
-> When you **fling something with your mind**, roll +Weird:
+> When you **fling something with your mind**, roll [[+Weird]]:
 
 -   On a 10 or more, you move it. Choose two options and mark 1-[[harm]].
 
@@ -764,7 +764,7 @@ As with standard mystery design, you should create other threats.
 >
 > If you would like something a bit more open-ended, you can use this alternative basic move:
 >
-> When you **[[Investigate A Mystery]]** with your particular techniques and skills, roll +Sharp:
+> When you **[[Investigate A Mystery]]** with your particular techniques and skills, roll [[+Sharp]]:
 
 -   On a 10 or higher, ask [[the Keeper]] two general questions or one specific question. Based on how you are investigating, they will tell you honestly and with good detail what you discover.
 
@@ -866,7 +866,7 @@ Academics, Accountants, Artists, Bartenders, Clergy, Conspiracy
 >
 > b **The Postman Always Rings Twice**: Twice per mystery—as long as you follow your Code—you may reroll a roll.
 >
-> b **The Long Goodbye**: You can’t die with an open case (usually your current mystery). Specifically, you suffer all [[harm]] as normal but your death is postponed until you have either completed or abandoned the case, or you break your Code (then all bets are off). b **Jessica Jones Entry**: When you double-talk your way into a secure location, roll +Charm.
+> b **The Long Goodbye**: You can’t die with an open case (usually your current mystery). Specifically, you suffer all [[harm]] as normal but your death is postponed until you have either completed or abandoned the case, or you break your Code (then all bets are off). b **Jessica Jones Entry**: When you double-talk your way into a secure location, roll [[+Charm]].
 >
 > On a 10+ pick three, on a 7-9 pick two, on a fail pick one:
 
@@ -884,7 +884,7 @@ Academics, Accountants, Artists, Bartenders, Clergy, Conspiracy
 >
 > b **Asphalt Jungle**: You heal faster than normal people. Any time your [[harm]] gets healed, heal an extra point. You are immune to all the [[harm]] move effects under ‘0-[[harm]]’ and ‘1-[[harm]]’ (when [[the Keeper]] would apply these, you ignore it).
 >
-> b **Hacker with a Dragon Tattoo**: When you hack into a computer system, roll +Sharp. On 10+ pick two, on a 7-9 pick one:
+> b **Hacker with a Dragon Tattoo**: When you hack into a computer system, roll [[+Sharp]]. On 10+ pick two, on a 7-9 pick one:
 
 -   You leave no traces.
 
@@ -894,7 +894,7 @@ Academics, Accountants, Artists, Bartenders, Clergy, Conspiracy
 
 -   You gain access to somewhere you want to get in to.
 
-> b **“Just one more thing”**: When you ask a suspect leading questions, roll +Charm. On a 10+ [[hold]] 2, on a 7-9 [[hold]] 1, on a miss [[hold]] 1 but something bad is going to happen too.
+> b **“Just one more thing”**: When you ask a suspect leading questions, roll [[+Charm]]. On a 10+ [[hold]] 2, on a 7-9 [[hold]] 1, on a miss [[hold]] 1 but something bad is going to happen too.
 >
 > Spend your [[hold]] to ask questions from this list:
 
@@ -973,11 +973,11 @@ weapon. **Recording devices (pick two):**
 
 ## Harm {#harm}
 
-> When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+> When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 >
 > Okay bbb\|bbbb Dying
 >
-> Unstable: b (Unstable injuries will worsen as time passes)
+> [[Unstable]]: b (Unstable injuries will worsen as time passes)
 
 ## Leveling Up {#leveling-up}
 
@@ -1031,7 +1031,7 @@ weapon. **Recording devices (pick two):**
 
 > Give your new rote a name, and decide specifically what the requirements are (which words, gestures, objects, symbols, and procedures are required). Unlike regular **[[Use Magic]]**, a rote’s cost and the consequences for failing it are known to you in advance. After you cast it for the first time, treat each rote as a custom move—a specialised version of [[Use Magic]], which is built with [[the Keeper]]. Write down what it does on a 10+, a 7-9, and a miss. Also, a rote is a bit more powerful than a basic **[[Use Magic]]** spell: its glitches are less onerous and its effect may be a little bigger.
 >
-> Casting a rote requires you to have the needed items at hand and the ability to physically use them. You roll +Weird to cast it, as you would when **using magic** normally.
+> Casting a rote requires you to have the needed items at hand and the ability to physically use them. You roll [[+Weird]] to cast it, as you would when **using magic** normally.
 >
 > You start out knowing up to one rote, which you can choose when creating your character or during play. You can learn more by taking [[improvements]]—when you do, you can choose the new rote right away or in play.
 
@@ -1059,13 +1059,13 @@ weapon. **Recording devices (pick two):**
 >
 > Plus pick two of these:
 >
-> b **Burn Everything**: When you **[[Use Magic]]** to inflict [[harm]], you can choose to inflict 3-[[harm]] area magic obvious or 3-[[harm]] ignore-[[armour]] magic obvious. b **Cast the Bones**: Once per mystery, you may perform some kind of divination (tarot, casting the runes, reading entrails, or something like that) to glean information about the future. When you seek guidance by divination, roll +Sharp. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. On a miss, you get some information, but it’s not what you want to hear. Spend those holds to ask any question from the **[[Investigate A Mystery]]** move, or one of the following questions:
+> b **Burn Everything**: When you **[[Use Magic]]** to inflict [[harm]], you can choose to inflict 3-[[harm]] area magic obvious or 3-[[harm]] ignore-[[armour]] magic obvious. b **Cast the Bones**: Once per mystery, you may perform some kind of divination (tarot, casting the runes, reading entrails, or something like that) to glean information about the future. When you seek guidance by divination, roll [[+Sharp]]. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. On a miss, you get some information, but it’s not what you want to hear. Spend those holds to ask any question from the **[[Investigate A Mystery]]** move, or one of the following questions:
 
 -   What can I gain from this person/place/thing/creature?
 
 -   Who has touched this person/place/thing/creature before me? [[The Keeper]] will answer truthfully, with either a direct answer or how to find out more.
 
-> b **Force of Will**: When you apply your will to dispelling a magical effect, blocking a spell, or suspending a Phenomenon, roll +Weird. On a hit, momentary magics are cancelled completely, and long-lasting spells and effects are suspended temporarily. On a 10+, you can also spend Luck to instantly snuff out a powerful spell or strange effect. On a 7-9, you take 1-[[harm]] as the strain of dismissing magic unravels you. b **Luck of the Damned**: After you **[[Use Magic]]** or cast a rote, take +1 [[forward]] on the next roll you make. b **Sympathetic Token**: As long as you carry a personal object belonging to someone, such as a lock of hair, a full set of toenails, or a treasured family heirloom, you get +1 [[ongoing]] to **[[Use Magic]]** against them. You can also **[[Use Magic]]** against them at a distance. If you try to **[[Use Magic]]** against them and miss, the token is lost, destroyed, or loses its power.
+> b **Force of Will**: When you apply your will to dispelling a magical effect, blocking a spell, or suspending a Phenomenon, roll [[+Weird]]. On a hit, momentary magics are cancelled completely, and long-lasting spells and effects are suspended temporarily. On a 10+, you can also spend Luck to instantly snuff out a powerful spell or strange effect. On a 7-9, you take 1-[[harm]] as the strain of dismissing magic unravels you. b **Luck of the Damned**: After you **[[Use Magic]]** or cast a rote, take +1 [[forward]] on the next roll you make. b **Sympathetic Token**: As long as you carry a personal object belonging to someone, such as a lock of hair, a full set of toenails, or a treasured family heirloom, you get +1 [[ongoing]] to **[[Use Magic]]** against them. You can also **[[Use Magic]]** against them at a distance. If you try to **[[Use Magic]]** against them and miss, the token is lost, destroyed, or loses its power.
 >
 > b **This Might Sting**: You can **[[Use Magic]]** to heal 3-[[harm]], but the process is exceptionally painful. On a 7-9 it also leaves a gnarly scar.
 >
@@ -1117,11 +1117,11 @@ weapon. **Recording devices (pick two):**
 
 ## Harm {#harm-1}
 
-> When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+> When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 >
 > Okay bbb\|bbbb Dying
 >
-> Unstable: b (Unstable injuries will worsen as time passes)
+> [[Unstable]]: b (Unstable injuries will worsen as time passes)
 
 ## Leveling Up {#leveling-up-1}
 
@@ -1151,7 +1151,7 @@ weapon. **Recording devices (pick two):**
 
 > When you take the “Choose one advanced Hex move” improvement, choose one of these [[moves]]. You can never have both:
 >
-> b **Apotheosis**: You become a terrifying fount of mystical power. Once per mystery, after you suffer loss or [[harm]], you may enter a state where you have both immense power and zero interest in the well-being of other people. While in this state, you can fly, use +Weird to **[[kick some ass]]** instead of +Tough (using innate magic as a 3-[[harm]] weapon with whatever properties you choose), ignore the component costs of your rotes, ignore one requirement of every spell you cast with **[[Use Magic]]**, and you have +1 [[ongoing]] to do everything. On the other hand, you outright cannot use the **[[Protect Someone]]** move, you have all the Temptations, and you have to indulge them whenever a good opportunity presents itself. When you try to resist a temptation, roll [[+Cool]]. On a 10+, your apotheosis ends. On a 7-9, it ends with you doing something dangerous or cruel. On a miss, it ends only after you [[harm]] someone (or something) you love.
+> b **Apotheosis**: You become a terrifying fount of mystical power. Once per mystery, after you suffer loss or [[harm]], you may enter a state where you have both immense power and zero interest in the well-being of other people. While in this state, you can fly, use [[+Weird]] to **[[kick some ass]]** instead of [[+Tough]] (using innate magic as a 3-[[harm]] weapon with whatever properties you choose), ignore the component costs of your rotes, ignore one requirement of every spell you cast with **[[Use Magic]]**, and you have +1 [[ongoing]] to do everything. On the other hand, you outright cannot use the **[[Protect Someone]]** move, you have all the Temptations, and you have to indulge them whenever a good opportunity presents itself. When you try to resist a temptation, roll [[+Cool]]. On a 10+, your apotheosis ends. On a 7-9, it ends with you doing something dangerous or cruel. On a miss, it ends only after you [[harm]] someone (or something) you love.
 >
 > b **Synthesis**: You manage to conciliate your dark power with your moral impulses. You lose your Temptation. Whenever you **[[Use Magic]]** to **[[Help Out]]** or **[[Protect Someone]]**, you mark experience. Mark a second experience if you do it at the expense of your own safety.
 >
@@ -1181,7 +1181,7 @@ weapon. **Recording devices (pick two):**
 >
 > Whenever you put yourself or somebody else in serious danger in order to conceal the truth about you and your Guide, mark experience.
 >
-> **Bond Abuse**: Whenever you do something to abuse the bond with your Guide, like acting against them, or not giving them enough attention, roll +Charm:
+> **Bond Abuse**: Whenever you do something to abuse the bond with your Guide, like acting against them, or not giving them enough attention, roll [[+Charm]]:
 
 -   On 10+, your action has no effect beyond the exchange of some angry words.
 
@@ -1209,11 +1209,11 @@ weapon. **Recording devices (pick two):**
 >
 > If your Guide is another hunter, determine together how your relationship works.
 >
-> Whenever you would roll +Weird you can roll +Charm instead, by channeling the power of your bond. When you do so and miss, in addition to the usual consequences, you and your Guide suffer as when you miss a roll for **bond abuse**.
+> Whenever you would roll [[+Weird]] you can roll [[+Charm]] instead, by channeling the power of your bond. When you do so and miss, in addition to the usual consequences, you and your Guide suffer as when you miss a roll for **bond abuse**.
 >
 > Then pick two of these:
 >
-> b **Bonding Time**: If you spend some quality time with your Guide instead of working on the current mystery you can roll +Charm.
+> b **Bonding Time**: If you spend some quality time with your Guide instead of working on the current mystery you can roll [[+Charm]].
 >
 > On 10+, [[hold]] 2. On 7-9, [[hold]] 1. Spend your [[hold]] to:
 
@@ -1231,7 +1231,7 @@ weapon. **Recording devices (pick two):**
 >
 > b **I Am Theirs And They Are Mine**: Whenever you are in danger, your Guide knows it. If your Guide is suffering [[harm]] (and it’s feasible), you can spend a point of Luck to redirect the attack onto yourself as if you have rolled 10+ with **[[Protect Someone]]**. If you are suffering [[harm]], you can decide that your Guide has protected you and is suffering this [[harm]] instead. If you choose this, roll for **bond abuse**.
 >
-> b **Monster Empathy**: When you try to work out what a supernatural creature desires, roll +Charm. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. Spend your [[hold]] to ask the following questions—[[the Keeper]] will answer honestly:
+> b **Monster Empathy**: When you try to work out what a supernatural creature desires, roll [[+Charm]]. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. Spend your [[hold]] to ask the following questions—[[the Keeper]] will answer honestly:
 
 -   What does it most desire?
 
@@ -1239,7 +1239,7 @@ weapon. **Recording devices (pick two):**
 
 -   What would distract it?
 
-> b **Spirit Touched**: Your experiences have made you sensitive to the supernatural. When you sense magical things, roll +Weird. On a 10+ you can sense them fully. On a 7-9, choose: either sense them fully but they notice you too, or you sense only impressions.
+> b **Spirit Touched**: Your experiences have made you sensitive to the supernatural. When you sense magical things, roll [[+Weird]]. On a 10+ you can sense them fully. On a 7-9, choose: either sense them fully but they notice you too, or you sense only impressions.
 
 ## Gear {#gear-2}
 
@@ -1301,11 +1301,11 @@ b Pocket knife or multitool decent condition
 
 ## Harm {#harm-2}
 
-> When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+> When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 >
 > Okay bbb\|bbbb Dying
 >
-> Unstable: b (Unstable injuries will worsen as time passes)
+> [[Unstable]]: b (Unstable injuries will worsen as time passes)
 
 ## Leveling Up {#leveling-up-2}
 
@@ -1355,7 +1355,7 @@ b Pocket knife or multitool decent condition
 >
 > b **Prepared to Defend**: Even truth seekers need to fight some times. Whenever you suffer [[harm]] when you **[[kick some ass]]** or **[[Protect Someone]]**, you suffer 1-[[harm]] less. b **Fellow Believer**: People understand you’ve also known strangeness. [[Bystanders]] will talk to you about weird things they would not trust another hunter (or a mundane official) to believe. b **Guardian**: You have a mystical ally (perhaps a spirit, alien, or cryptid) who helps and defends you. Define them, and their powers, with [[the Keeper]]’s agreement. Their look is one of: invisible, an intangible spirit thing, a weird creature, disguised as an animal, or disguised as a person.
 >
-> b **Just Another Day**: When you have to **[[Act Under Pressure]]** due to a monster, phenomenon, or mystical effect, you may roll +Weird instead of [[+Cool]]. b **Network**: You may gain an ally group of others who had experiences similar to your first encounter—perhaps they’re a support group or hobbyist club. Detail up to five members with useful skills related to what happened to them (none are up for fighting [[monsters]]).
+> b **Just Another Day**: When you have to **[[Act Under Pressure]]** due to a monster, phenomenon, or mystical effect, you may roll [[+Weird]] instead of [[+Cool]]. b **Network**: You may gain an ally group of others who had experiences similar to your first encounter—perhaps they’re a support group or hobbyist club. Detail up to five members with useful skills related to what happened to them (none are up for fighting [[monsters]]).
 >
 > b **Ockham’s Broadsword**: When you first encounter something strange, you may ask [[the Keeper]] what sort of thing it is. They will tell you if it (or the cause) is: natural, an unnatural creature, a weird phenomenon, or a person. You gain +1 [[forward]] dealing with it.
 >
@@ -1427,11 +1427,11 @@ b Forensic tools. of strange events.
 
 ## Harm {#harm-3}
 
-> When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+> When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 >
 > Okay bbb\|bbbb Dying
 >
-> Unstable: b (Unstable injuries will worsen as time passes)
+> [[Unstable]]: b (Unstable injuries will worsen as time passes)
 
 ## Leveling Up {#leveling-up-3}
 
@@ -1905,7 +1905,7 @@ An exceedingly rare and powerful arcane grimoire, the *Christian*
 >
 > Old European beliefs attribute great powers to a Hand of Glory that has been combined with a candle made of fat from the corpse of the same hanged man who died on the gallows.
 >
-> When the fingers of the Hand close around this candle (see above) and the candle is lit, the Hand provides the following move: **When you walk into a building while holding a lit Hand of Glory**, Roll +Weird:
+> When the fingers of the Hand close around this candle (see above) and the candle is lit, the Hand provides the following move: **When you walk into a building while holding a lit Hand of Glory**, Roll [[+Weird]]:
 
 -   On a 10+, choose two from the list below.
 
@@ -1923,7 +1923,7 @@ An exceedingly rare and powerful arcane grimoire, the *Christian*
 
 ## Raise Zombie {#raise-zombie}
 
-> **When you call up the recently dead by their name to serve you**, you need to wear personal clothing from the grave of a victim of violence, while chanting John 6:63 at their graveside. Roll +Weird:
+> **When you call up the recently dead by their name to serve you**, you need to wear personal clothing from the grave of a victim of violence, while chanting John 6:63 at their graveside. Roll [[+Weird]]:
 
 -   On any result, the zombie rises at midnight.
 
@@ -1935,7 +1935,7 @@ An exceedingly rare and powerful arcane grimoire, the *Christian*
 
 ## Command Zombie {#command-zombie}
 
-> **When you seek to control a raised zombie**, call the secret name of the Angel of Death, and roll +Weird.
+> **When you seek to control a raised zombie**, call the secret name of the Angel of Death, and roll [[+Weird]].
 
 -   On a 10+, the zombie will obey you until the next full moon.
 
@@ -1945,7 +1945,7 @@ An exceedingly rare and powerful arcane grimoire, the *Christian*
 
 ## Speak with the Dead {#speak-with-the-dead}
 
-> **When you call the spectre of the recently dead**, a personal item of the deceased must be thrown into a fire, and you must then call them by name. Roll +Weird:
+> **When you call the spectre of the recently dead**, a personal item of the deceased must be thrown into a fire, and you must then call them by name. Roll [[+Weird]]:
 
 -   On a 10+, the spirit you named comes and answers your questions honestly.
 
@@ -2266,7 +2266,7 @@ b phenomenon b serial killer b dopplegänger
 
 ## In The Museum {#in-the-museum}
 
-> When you **search for a useful item in the museum**, roll +Sharp:
+> When you **search for a useful item in the museum**, roll [[+Sharp]]:
 >
 > On a 10+, you find such an item and understand its function. A solar-powered flashlight or miraculous first aid kit would be an example.
 >
@@ -2282,7 +2282,7 @@ b phenomenon b serial killer b dopplegänger
 
 -   You need a tool or part that isn’t to be found here (but you saw one nearby).
 
--   A premature, unstable wormhole portal opens and brings something unexpected from a previous era: a bewildered Dimetrodon!
+-   A premature, [[unstable]] wormhole portal opens and brings something unexpected from a previous era: a bewildered Dimetrodon!
 
 -   A blast of steam does 1-[[harm]] to a hunter.
 
@@ -2450,7 +2450,7 @@ b phenomenon b serial killer b dopplegänger
 >
 > **Cunning**: Infected arachnoids become feral and violent, but are capable of a greater degree of cunning than the original gumos. Arachnoids can set traps and be wary of security cameras etc. Some arachnoids might start to figure out they can infect others and may seek to do so rather than kill people. The motive for doing so varies from individual to individual. Some might be trying to punish enemies while others might want to reunite with loved ones.
 >
-> **Infectious**: If **a hunter suffers [[harm]] from an arachnoid bite**, instead of the normal **[[harm]]** move, use this one. Roll +Tough:
+> **Infectious**: If **a hunter suffers [[harm]] from an arachnoid bite**, instead of the normal **[[harm]]** move, use this one. Roll [[+Tough]]:
 
 -   On a 10 or more, they resist the infection and gain +1 [[ongoing]] to resist the infection in the future. If they already have +1 [[ongoing]], they are now totally immune to the plague.
 
@@ -2564,7 +2564,7 @@ b phenomenon b serial killer b dopplegänger
 
 -   On a 7-9, They get through but something goes wrong.
 
--   On a miss someone gets stuck and something is coming for you. If **they cut or burn through**, roll +Tough:
+-   On a miss someone gets stuck and something is coming for you. If **they cut or burn through**, roll [[+Tough]]:
 
 -   On a 10 or more, they open up a path for everyone to follow.
 
@@ -2758,7 +2758,7 @@ b phenomenon b serial killer b dopplegänger
 >
 > **Powers:**
 >
-> • **Frost Grasp**: When **Evelyn reaches through your chest and grabs your heart**, take 3-[[harm]] ignore-[[armour]] magic, then roll +Weird:
+> • **Frost Grasp**: When **Evelyn reaches through your chest and grabs your heart**, take 3-[[harm]] ignore-[[armour]] magic, then roll [[+Weird]]:
 >
 > On a 10+, you resist and see into her soul; ask [[the Keeper]] a single question about her and they will answer you honestly.
 >
@@ -3044,7 +3044,7 @@ b phenomenon b serial killer b dopplegänger
 >
 > **Custom [[Moves]]:**
 >
-> **Let’s Get Out Of Here!** When you enter the circle looking for the center, you find it. When you try to find an exit or someone else in the maze, roll +Sharp:
+> **Let’s Get Out Of Here!** When you enter the circle looking for the center, you find it. When you try to find an exit or someone else in the maze, roll [[+Sharp]]:
 
 -   On a 10+, you get there.
 
@@ -3122,7 +3122,7 @@ b phenomenon b serial killer b dopplegänger
 >
 > **Custom Move:**
 >
-> **Enter the Nexus**: When **someone travels into the transdimensional nexus**, roll +Sharp.
+> **Enter the Nexus**: When **someone travels into the transdimensional nexus**, roll [[+Sharp]].
 >
 > On a 10+, you can see the doorway back to the real world behind you and can escape at any time.
 >
@@ -3154,7 +3154,7 @@ b phenomenon b serial killer b dopplegänger
 >
 > **Custom [[Moves]]:**
 >
-> **Grab**: When a **froghemoth grabs a hunter**, they roll +Tough:
+> **Grab**: When a **froghemoth grabs a hunter**, they roll [[+Tough]]:
 
 -   On a 10+, the hunter breaks free and may inflict [[harm]] on the froghemoth as they escape.
 
@@ -3166,7 +3166,7 @@ b phenomenon b serial killer b dopplegänger
 
 -   They are being pulled inexorably towards its maw.
 
-> **Engulf**: When **a hunter is engulfed by a froghemoth’s maw**, they roll +Tough:
+> **Engulf**: When **a hunter is engulfed by a froghemoth’s maw**, they roll [[+Tough]]:
 
 -   On a 10+, they force the froghemoth to vomit them forth for no additional damage.
 
@@ -3266,7 +3266,7 @@ b phenomenon b serial killer b dopplegänger
 
 -   **Stealth**: The mantids exist in a phase of reality that living eyes can see quite well but technology can only catch fragments of. On camera, the mantid might present an occasional glimmer when viewed full on, with full silhouettes being caught rarely and usually on the edges of an image. Mantids are aware of when they are under a camera’s eye and will be careful when they can be recorded. If there is an active queen, they stop caring about being seen.
 
--   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes unstable as their body begins to crystallize and they are completely transformed once all [[harm]] is marked off. The process can only be stopped with magic (**[[Use Magic]]** to banish a curse), **weird science**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
+-   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes [[unstable]] as their body begins to crystallize and they are completely transformed once all [[harm]] is marked off. The process can only be stopped with magic (**[[Use Magic]]** to banish a curse), **weird science**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
 
 -   **Devouring**: When it eats a crystallized prey and the soul within, it heals 2-[[harm]].
 
@@ -3438,7 +3438,7 @@ b phenomenon b serial killer b dopplegänger
 
 > You can spend your holds to change any **cursed magic** [[moves]] into regular **[[Use Magic]]** instead. [[The Keeper]]’s holds are used to force the hunter to cast a **cursed magic** spell in any situation when magic could help them out.
 >
-> **Cursed Magic**: When you **know [[the Curse-Speech]] and [[Use Magic]]**, you must use this cursed version of the move. Roll +Weird:
+> **Cursed Magic**: When you **know [[the Curse-Speech]] and [[Use Magic]]**, you must use this cursed version of the move. Roll [[+Weird]]:
 
 -   On an 11+ your magic works as advanced **[[Use Magic]]**. [[The Keeper]] also gains 1 **Cursed Mind** [[hold]] as the power overwhelms you.
 
@@ -3716,7 +3716,7 @@ The problem is that Amy’s subconscious has created a “Rabbit of
 >
 > **Custom [[Moves]]:**
 >
-> To **summon a tulpa** you must be able to use some sort of magic and have studied the process. A hunter trying it may have to **[[Act Under Pressure]]** to stay focused while visualizing the tulpa. Roll +Weird:
+> To **summon a tulpa** you must be able to use some sort of magic and have studied the process. A hunter trying it may have to **[[Act Under Pressure]]** to stay focused while visualizing the tulpa. Roll [[+Weird]]:
 
 -   On a 10+, a tulpa appears, totally under your control.
 
@@ -4104,7 +4104,7 @@ The problem is that Amy’s subconscious has created a “Rabbit of
 >
 > **Custom [[moves]]:**
 >
-> When you **search in the forest**, roll +Sharp:
+> When you **search in the forest**, roll [[+Sharp]]:
 
 -   On a 10+, things seem to point somewhere in particular: take +1 [[forward]] for investigating.
 
@@ -4126,7 +4126,7 @@ The problem is that Amy’s subconscious has created a “Rabbit of
 >
 > **Custom [[moves]]:**
 >
-> When you **search in Wolf Road Woods**, roll +Sharp:
+> When you **search in Wolf Road Woods**, roll [[+Sharp]]:
 
 -   On a 10+ you find a tuft of strange hair and a well-worn work glove with Billy’s initials: take +1 [[forward]] for investigating, then [[the Keeper]] will pick one of the bad things from **search in the forest** (see above).
 
@@ -4232,7 +4232,7 @@ A mythical ghost-monster from Hispanic and Lusophone folklore
 >
 > **Custom [[Moves]]:**
 >
-> **Escaping The Coco**: When you are having your life drained by a coco and try to break free, roll +Tough:
+> **Escaping The Coco**: When you are having your life drained by a coco and try to break free, roll [[+Tough]]:
 
 -   On a 10+, you break the coco’s grip. You are free!
 
@@ -4514,15 +4514,15 @@ Other eldritch beings may be residing in the hotel, having snuck through the ope
 
 > **Create Art**: When you channel your emotions into your talents and skills to make a beautiful work of art, say [[what you do]] and:
 
--   If you **use your knowledge and insight into the human condition**, roll +Charm.
+-   If you **use your knowledge and insight into the human condition**, roll [[+Charm]].
 
 -   If you **tap into an observation of the world around you**, roll
 
-> +Sharp.
+> [[+Sharp]].
 
--   If you **just let all your raw emotion loose**, roll +Tough.
+-   If you **just let all your raw emotion loose**, roll [[+Tough]].
 
--   ![](media/image128.jpg){width="6.0in" height="4.19in"}If you **channel your connection to magic and other weirdness**, roll +Weird.
+-   ![](media/image128.jpg){width="6.0in" height="4.19in"}If you **channel your connection to magic and other weirdness**, roll [[+Weird]].
 
 On a hit, you make it. On a 10+, choose one from the following list.
 
@@ -4572,7 +4572,7 @@ On a hit, you make it. On a 10+, choose one from the following list.
 >
 > **Custom Move:**
 >
-> **Wrestling Grab**: When you’re grabbed by a kappa, roll +Tough:
+> **Wrestling Grab**: When you’re grabbed by a kappa, roll [[+Tough]]:
 
 -   On a 10+, choose two two of the following options.
 
@@ -4916,7 +4916,7 @@ Little does he realise, the powers will soon be too much for his body.
 >
 > **Powers:**
 >
-> **Proclamation**: His word is Truth in a cosmic sense. What he says goes, literally. When you confront Ualichu with evidence of a broken proclamation, roll +Sharp. On any hit, the law-breaker is gravely weakened. On a 10+, the law-breaker is magically compelled to do one service for [[The Wronged]] party: they may not avoid or delay this penalty without painful (or even deadly) consequence.
+> **Proclamation**: His word is Truth in a cosmic sense. What he says goes, literally. When you confront Ualichu with evidence of a broken proclamation, roll [[+Sharp]]. On any hit, the law-breaker is gravely weakened. On a 10+, the law-breaker is magically compelled to do one service for [[The Wronged]] party: they may not avoid or delay this penalty without painful (or even deadly) consequence.
 
 # Lindsay Awale {#lindsay-awale}
 
@@ -5858,7 +5858,7 @@ Reportedly, the heart was created by a noblewoman during the
 >
 > **Custom [[Moves]]:**
 >
-> **Twister**: **The first time you are hit by the efreet’s whirlwind attack**, you are surprised. Disregard the usual weapon effect and roll +Tough:
+> **Twister**: **The first time you are hit by the efreet’s whirlwind attack**, you are surprised. Disregard the usual weapon effect and roll [[+Tough]]:
 
 -   On a 10+, you grit your teeth and stand your ground (but your hair is a mess).
 
@@ -5878,7 +5878,7 @@ Reportedly, the heart was created by a noblewoman during the
 
 -   The bloody sacrifice of a large mammal—ideally a camel, but a horse, giraffe, or even a human would do.
 
-> **Dances with Djinns**: If you **dance with two torches to mesmerize a nearby efreet**, roll +Charm:
+> **Dances with Djinns**: If you **dance with two torches to mesmerize a nearby efreet**, roll [[+Charm]]:
 
 -   On a 10+, the efreet will come quickly and return into the bottle providing the rest of the ritual requirements are met. Choose one consequence from the list below.
 
@@ -5898,7 +5898,7 @@ Reportedly, the heart was created by a noblewoman during the
 
 -   One hunter gains pyrophobia. In future, they will need to **[[Act Under Pressure]]** to go near open flames.
 
--   One hunter is touched by the supernatural. If possible, their next improvement must either be “Take +1 Weird” or a move that requires rolling +Weird.
+-   One hunter is touched by the supernatural. If possible, their next improvement must either be “Take +1 Weird” or a move that requires rolling [[+Weird]].
 
 # Swarm of Flesh-eating Scarabs {#swarm-of-flesh-eating-scarabs}
 
@@ -5992,7 +5992,7 @@ Reportedly, the heart was created by a noblewoman during the
 
 # ![](media/image153.jpg){width="6.0in" height="3.0191666666666666in"}Custom Moves {#custom-moves-6}
 
-> If **a hunter looks for traps**, roll +Sharp:
+> If **a hunter looks for traps**, roll [[+Sharp]]:
 >
 > On a 10+, the trap is disarmed and the hunter learns something about Zenobia.
 >

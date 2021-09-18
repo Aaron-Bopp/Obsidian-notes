@@ -57,7 +57,7 @@ Beech has no supernatural powers or abilities beyond those he uses to create his
 
 **[[Armour]]**: (Pre-upgrade) None; (Post-upgrade) 2-[[armour]].
 
-**[[Harm]] capacity**: 7. Okay bbbb|bbb Dying Unstable: b
+**[[Harm]] capacity**: 7. Okay bbbb|bbb Dying [[Unstable]]: b
 
 **Weaknesses**: **Gloating monologue:** Dr Beech cannot be defeated until [[the hunters]] have listened to him rant about his evil plans; (Post-upgrade) **Etheric-Bionic Control Interface:** If the interface is disrupted with magic or electromagnetic energy, Dr Beech will no longer be able to control the bionics and is vulnerable.
 
@@ -89,7 +89,7 @@ Koko, robo Gorilla (mark 3)
 
 *Minion: Assassin (motivation: to kill [[the hunters]])*
 
-A possessed bionic silverback gorilla, Koko has been kept caged so far as he is too dangerous and unstable to be let out. Once Beech knows about [[the hunters]], or is ready to make his move, Koko will be unleashed.
+A possessed bionic silverback gorilla, Koko has been kept caged so far as he is too dangerous and [[unstable]] to be let out. Once Beech knows about [[the hunters]], or is ready to make his move, Koko will be unleashed.
 
 Note that Koko was not stolen from the university, but acquired through other means. Most likely, Dr Beech has been in contact with animal smugglers, but this loose end is a good candidate for tying into other parts of your own game.
 

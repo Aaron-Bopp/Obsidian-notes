@@ -5,7 +5,7 @@ Moderate wounds (1-3 [[harm]]) will improve when your hunter has a chance to res
 
 First aid does not normally require a move, it’s just regular practice. Hunter [[moves]] that provide healing may be used in addition to first aid. You can only benefit from first aid once per injury or condition.
 
-Serious wounds (4+ [[harm]]) require treatment. They are normally unstable, meaning that they will worsen if untreated (the Keeper will tell you when to mark off another point of [[harm]]). Left too long, serious wounds will kill you. If a move tells you that the injury is now stable, you can erase the mark in the unstable box. If you take more [[harm]] and are still at 4-[[harm]] or more, then your injuries become unstable again. For serious wounds, first aid heals one [[harm]] but it will still be unstable.
+Serious wounds (4+ [[harm]]) require treatment. They are normally [[unstable]], meaning that they will worsen if untreated (the Keeper will tell you when to mark off another point of [[harm]]). Left too long, serious wounds will kill you. If a move tells you that the injury is now stable, you can erase the mark in the [[unstable]] box. If you take more [[harm]] and are still at 4-[[harm]] or more, then your injuries become [[unstable]] again. For serious wounds, first aid heals one [[harm]] but it will still be [[unstable]].
 
 What counts as treatment depends on the wound, but it will usually be one of the following:
 

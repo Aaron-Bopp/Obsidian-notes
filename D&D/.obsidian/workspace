@@ -4,14 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "d091c23e3eb78aeb",
+        "id": "79093367520b205a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/MOTW/MOTW Sections/How to roll for a move.md",
+            "file": "D&D/MOTW/MOTW Sections/Custom Moves.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "2546d9cc9afc733e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "D&D/MOTW/MOTW Sections/Endgame.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "83be9d1630bd0dbb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "D&D/MOTW/MOTW Sections/Preparing Your First Mystery.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "42089d07d3a806ea",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<img",
+                "query": "\"unstable\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -54,7 +84,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/MOTW/MOTW Sections/How to roll for a move.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -65,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D&D/MOTW/MOTW Sections/How to roll for a move.md"
-              }
+              "state": {}
             }
           },
           {
@@ -87,8 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/MOTW/MOTW Sections/How to roll for a move.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -142,7 +169,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/MOTW/MOTW Sections/How to roll for a move.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,17 +266,17 @@
     "width": 822,
     "collapsed": true
   },
-  "active": "d091c23e3eb78aeb",
+  "active": "42089d07d3a806ea",
   "lastOpenFiles": [
-    "D&D/MOTW/MOTW Sections/How to role for a move.md",
-    "D&D/MOTW/MOTW Sections/Ability Ratings.md",
-    "+Weird.md",
-    "+Sharp.md",
-    "Untitled.md",
-    "D&D/MOTW/Moves/+Cool.md",
-    "D&D/MOTW/Moves/Untitled.md",
-    "D&D/MOTW/MOTW Sections/The Basic Hunter Moves.md",
-    "D&D/MOTW/MOTW Sections/Playbook Moves.md",
-    "D&D/MOTW/MOTW Sections/Actions Not Covered By A Move.md"
+    "D&D/MOTW/MOTW Sections/Harm.md",
+    "D&D/MOTW/MOTW Sections/Summary Running Fights.md",
+    "D&D/MOTW/MOTW Sections/On With The Mystery!.md",
+    "D&D/MOTW/MOTW Sections/Start-Of-Mystery Moves.md",
+    "D&D/MOTW/MOTW Sections/Summary Keeper's First Session.md",
+    "D&D/MOTW/MOTW Sections/Always Say.md",
+    "D&D/MOTW/MOTW Sections/Running The First Mystery.md",
+    "D&D/MOTW/MOTW Sections/The Keeper Principles.md",
+    "D&D/MOTW/MOTW Sections/Running Subsequent Mysteries.md",
+    "D&D/MOTW/MOTW Sections/Preparing Your First Mystery.md"
   ]
 }

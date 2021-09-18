@@ -76,7 +76,7 @@ The maze is a series of spiralling circles connected to one larger circle at the
 
 **Custom [[Moves]]:**
 
-**Let’s Get Out Of Here!** When you enter the circle looking for the center, you find it. When you try to find an exit or someone else in the maze, roll +Sharp:
+**Let’s Get Out Of Here!** When you enter the circle looking for the center, you find it. When you try to find an exit or someone else in the maze, roll [[+Sharp]]:
 
 -   On a 10+, you get there.
 

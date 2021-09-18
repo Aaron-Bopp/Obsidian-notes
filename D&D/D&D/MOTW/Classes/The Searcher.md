@@ -31,7 +31,7 @@ Then pick two of these:
 
 - **Prepared to Defend**: Even truth seekers need to fight some times. Whenever you suffer [[harm]] when you **[[kick some ass]]** or **[[Protect Someone]]**, you suffer 1-[[harm]] less. b **Fellow Believer**: People understand you’ve also known strangeness. [[Bystanders]] will talk to you about weird things they would not trust another hunter (or a mundane official) to believe. b **Guardian**: You have a mystical ally (perhaps a spirit, alien, or cryptid) who helps and defends you. Define them, and their powers, with [[the Keeper]]’s agreement. Their look is one of: invisible, an intangible spirit thing, a weird creature, disguised as an animal, or disguised as a person.
 
-- **Just Another Day**: When you have to **[[Act Under Pressure]]** due to a monster, phenomenon, or mystical effect, you may roll +Weird instead of [[+Cool]]. b **Network**: You may gain an ally group of others who had experiences similar to your first encounter—perhaps they’re a support group or hobbyist club. Detail up to five members with useful skills related to what happened to them (none are up for fighting [[monsters]]).
+- **Just Another Day**: When you have to **[[Act Under Pressure]]** due to a monster, phenomenon, or mystical effect, you may roll [[+Weird]] instead of [[+Cool]]. b **Network**: You may gain an ally group of others who had experiences similar to your first encounter—perhaps they’re a support group or hobbyist club. Detail up to five members with useful skills related to what happened to them (none are up for fighting [[monsters]]).
 
 - **Ockham’s Broadsword**: When you first encounter something strange, you may ask [[the Keeper]] what sort of thing it is. They will tell you if it (or the cause) is: natural, an unnatural creature, a weird phenomenon, or a person. You gain +1 [[forward]] dealing with it.
 
@@ -100,11 +100,11 @@ Okay bbbbbbb Doomed
 
 ## Harm
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b (Unstable injuries will worsen as time passes)
+[[Unstable]]: b (Unstable injuries will worsen as time passes)
 
 ## Leveling Up
 

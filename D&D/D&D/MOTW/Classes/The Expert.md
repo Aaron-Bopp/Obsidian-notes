@@ -23,13 +23,13 @@ To make your Expert, first pick a name. Then follow the instructions below to de
 
 *You get all of the basic [[moves]], plus pick two Expert [[moves]]:*
 
-- **I’ve Read About This Sort Of Thing**: Roll +Sharp instead of [[+Cool]] when you **[[act under pressure]]**.
+- **I’ve Read About This Sort Of Thing**: Roll [[+Sharp]] instead of [[+Cool]] when you **[[act under pressure]]**.
 - **Often Right**: When **a hunter comes to you for advice** about a problem, give them your honest opinion and advice. If they take your advice, they get +1 [[ongoing]] while following your advice, and you mark experience.
-- **Preparedness:** When **you need something unusual or rare**, roll +Sharp. On a 10+, you have it here right now. On a 7-9 you have it, but not here: it will take some time to get it. On a miss, you know where it is, but it’s somewhere real bad.
-- **It Wasn’t As Bad As It Looked**: Once per mystery, you may attempt to **keep going despite your injuries**. Roll [[+Cool]]. On a 10+, heal 2 [[harm]] and stabilize your wounds. On a 7-9 you may either stabilize or heal 1 [[harm]]. On a miss, it was worse than it looked: [[the Keeper]] may inflict a [[harm]] move on you, or make your wounds unstable.
-- **Precise Strike**. When you inflict [[harm]] on a monster, you can **aim for a weak spot**. Roll +Tough. On a 10+ you inflict +2 [[harm]]. On a 7-9 you inflict +1 [[harm]]. On a miss, you leave yourself open for the monster to hit you.
-- **The Woman (or Man) With The Plan**: **At the beginning of each mystery**, roll +Sharp. On a 10+ [[hold]] 2, on a 7-9 [[hold]] 1. Spend the [[hold]] to be where you need to be, prepared and ready. On a miss, [[the Keeper]] holds 1 they can spend to have you be in the worst place, unprepared and unready.
-- **Dark Past**: You dabbled in the worst sort of mystical arts before you became one of the good guys. If **you trawl through your memories** for something relevant to the case at hand, roll +Weird. On a 10+ ask [[the Keeper]] two questions from the list below. On a 7-9 ask one. On a miss, you can ask a question anyway but that will mean you were personally complicit in creating the situation you are now dealing with. The questions are: 
+- **Preparedness:** When **you need something unusual or rare**, roll [[+Sharp]]. On a 10+, you have it here right now. On a 7-9 you have it, but not here: it will take some time to get it. On a miss, you know where it is, but it’s somewhere real bad.
+- **It Wasn’t As Bad As It Looked**: Once per mystery, you may attempt to **keep going despite your injuries**. Roll [[+Cool]]. On a 10+, heal 2 [[harm]] and stabilize your wounds. On a 7-9 you may either stabilize or heal 1 [[harm]]. On a miss, it was worse than it looked: [[the Keeper]] may inflict a [[harm]] move on you, or make your wounds [[unstable]].
+- **Precise Strike**. When you inflict [[harm]] on a monster, you can **aim for a weak spot**. Roll [[+Tough]]. On a 10+ you inflict +2 [[harm]]. On a 7-9 you inflict +1 [[harm]]. On a miss, you leave yourself open for the monster to hit you.
+- **The Woman (or Man) With The Plan**: **At the beginning of each mystery**, roll [[+Sharp]]. On a 10+ [[hold]] 2, on a 7-9 [[hold]] 1. Spend the [[hold]] to be where you need to be, prepared and ready. On a miss, [[the Keeper]] holds 1 they can spend to have you be in the worst place, unprepared and unready.
+- **Dark Past**: You dabbled in the worst sort of mystical arts before you became one of the good guys. If **you trawl through your memories** for something relevant to the case at hand, roll [[+Weird]]. On a 10+ ask [[the Keeper]] two questions from the list below. On a 7-9 ask one. On a miss, you can ask a question anyway but that will mean you were personally complicit in creating the situation you are now dealing with. The questions are: 
   - *When I dealt with this creature (or one of its kind), what did I learn?*
   - *What black magic do I know that could help here?*
   - *Do I know anyone who might be behind this?*
@@ -42,7 +42,7 @@ You have set up a haven, a safe place to work. Pick three of the options below f
 - **Lore Library**. When you hit the books, take +1 [[forward]] to **investigate the mystery** (as long as historical or reference works are appropriate).
 - **Mystical Library**. If you use your library’s occult tomes and grimoires, preparing with your tomes and grimoires, take +1 [[forward]] for **[[use magic]]**.
 - **Protection Spells**. Your haven is safe from [[monsters]]—they cannot enter. [[Monsters]] might be able to do something special to evade the wards, but not easily.
-- **Armory**. You have a stockpile of mystical and rare monster-killing [[weapons]] and items. If you **need a special weapon**, roll +Weird. On a 10+ you have it (and plenty if that matters). On a 7-9 you have it, but only the minimum. On a miss, you’ve got the wrong thing.
+- **Armory**. You have a stockpile of mystical and rare monster-killing [[weapons]] and items. If you **need a special weapon**, roll [[+Weird]]. On a 10+ you have it (and plenty if that matters). On a 7-9 you have it, but only the minimum. On a miss, you’ve got the wrong thing.
 - **Infirmary**. You can heal people, and have the space for one or two to recuperate. [[The Keeper]] will tell you how long any patient’s recovery is likely to take, and if you need extra supplies or help.
 - **Workshop**. You have a space for building and repairing guns, cars and other gadgets. Work out with [[the Keeper]] how long any repair or construction will take, and if you need extra supplies or help.
 - **Oubliette**. This room is isolated from every kind of monster, spirit and magic that you know about. Anything you stash in there can’t be found, can’t do any magic, and can’t get out.
@@ -92,11 +92,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 

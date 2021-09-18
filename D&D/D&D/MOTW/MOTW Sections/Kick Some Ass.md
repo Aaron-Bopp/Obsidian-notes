@@ -1,7 +1,7 @@
 
 This is used when you are fighting something that’s fighting you back.
 
-When you get into a fight and **kick some ass**, roll +Tough.
+When you get into a fight and **kick some ass**, roll [[+Tough]].
 
 On any success (i.e., total 7 or more) you and whatever you’re fighting inflict [[harm]] on each other. The amount of [[harm]] is based on the established dangers in the game. That usually means you inflict the [[harm]] rating of your weapon and your enemy inflicts their attack’s [[harm]] rating on you.
 

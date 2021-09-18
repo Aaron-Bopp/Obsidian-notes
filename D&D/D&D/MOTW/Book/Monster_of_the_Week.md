@@ -207,7 +207,7 @@ Most of these are available on the *Monster of the Week* website.
 
 Only one hunter of each type is allowed at the same time in any game. That’s because you’re not just *one* *of* that type of hunter: you’re the archetype. There may be a whole agency of professional monster hunters, but only one of them is *[[The Professional]]*.
 
-[[Making Your Hunter]]
+[[Hunter Creation]]
 
 After you’ve all picked your [[hunter types]], you’ll spend about 20-30 minutes of [[the first session]] defining their abilities and establishing the relationships in your team. Follow the instructions in your playbook to create your hunter. You don’t need to spend too long deciding on each option in the playbook—if you make any choices you regret, you can always revise them after [[the first session]].
 
@@ -413,7 +413,7 @@ Whenever you mark off a point of Luck, [[the Keeper]] will throw something from 
 
 *You get these two:*
 
-- **Destiny’s Plaything**: At the beginning of each mystery, roll +Weird to **see what is revealed about your immediate future**. On a 10+, [[the Keeper]] will reveal a useful detail about the coming mystery. On a 7-9 you get a vague hint about it. On a miss, something bad is going to happen to you.
+- **Destiny’s Plaything**: At the beginning of each mystery, roll [[+Weird]] to **see what is revealed about your immediate future**. On a 10+, [[the Keeper]] will reveal a useful detail about the coming mystery. On a 7-9 you get a vague hint about it. On a miss, something bad is going to happen to you.
 - **I’m Here For A Reason**: There’s something you are destined to do. Work out the details with [[the Keeper]], based on your fate. You cannot die until it comes to pass. **If you die in play**, then you must spend a Luck point. You will then, somehow, recover or be returned to life. Once your task is done (or you use up all your Luck), all bets are off.
 
 *Then pick one of these:*
@@ -486,11 +486,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 
@@ -554,12 +554,12 @@ To make your Crooked, pick a name. Then follow the instructions below to decide 
 You worked a less-than-legal job before you became a monster hunter. What did you do?
 
 - **Hoodlum**. You can use Tough instead of Charm to **[[manipulate someone]]** with threats of violence.
-- **Burglar**. When you **break into a secure location**, roll +Sharp. On a 10+ pick three, on a 7-9 pick two: you get in undetected, you get out undetected, you don’t leave a mess, you find what you were after.
+- **Burglar**. When you **break into a secure location**, roll [[+Sharp]]. On a 10+ pick three, on a 7-9 pick two: you get in undetected, you get out undetected, you don’t leave a mess, you find what you were after.
 - **Grifter**. When you are about to **[[manipulate someone]]**, you can ask [[the Keeper]] “What will convince this person to do what I want?” [[The Keeper]] must answer honestly, but not necessarily completely.
-- **Fixer**. If you **need to buy something, sell something, or hire someone**, roll +Charm. On a 10+ you know just the person who will be interested. On a 7-9 you know the only person who can do it, but there’s a complication. Pick one: you owe them; they screwed you over; you screwed them over. On a miss, the only person who can help is someone who absolutely hates you.
+- **Fixer**. If you **need to buy something, sell something, or hire someone**, roll [[+Charm]]. On a 10+ you know just the person who will be interested. On a 7-9 you know the only person who can do it, but there’s a complication. Pick one: you owe them; they screwed you over; you screwed them over. On a miss, the only person who can help is someone who absolutely hates you.
 - **Assassin**. When you take your first shot at an unsuspecting target, do +2 [[Harm]].
 - **Charlatan**. When you want people to think you are using magic, roll [[+Cool]]. On a 10 or more, your audience is amazed and fooled by your illusion. On a 7-9 you tripped up a couple of times, maybe someone will notice. You may also **manipulate** **people** with fortune telling. When you do that, ask “What are they hoping for right now?” as a free question (even on a miss).
-- **Pickpocket.** When you **steal something small**, roll +Charm. On a 10 or more, you get it and they didn’t notice you taking it. On a 7-9 either you don’t grab it, you grab the wrong thing, or they remember you later: your choice.
+- **Pickpocket.** When you **steal something small**, roll [[+Charm]]. On a 10 or more, you get it and they didn’t notice you taking it. On a 7-9 either you don’t grab it, you grab the wrong thing, or they remember you later: your choice.
 
 **HEAT**
 
@@ -642,7 +642,7 @@ When you suffer [[harm]], mark of the number of boxes equal to [[harm]] suffered
 
 Okay bbb|bbbb Dying
 
-Unstable: b (Unstable injuries will worsen as time passes)
+[[Unstable]]: b (Unstable injuries will worsen as time passes)
 
 **[[LEVELING UP]]**
 
@@ -719,12 +719,12 @@ You have been put on Earth for a purpose. Pick one:
 
 You get all the basic [[moves]], and pick three Divine [[moves]]:
 
-- **Boss from Beyond**: **At the beginning of each mystery**, roll +Weird. On a 10+, your Superiors ask you to do something simple. On a 7-9, they ask you to do something complicated or difficult. In either case, you get to ask them one of the questions from the **[[investigate a mystery]]** move right now. On a miss, you are required to do something terrible. If you do not accomplish what they’ve ordered, you cannot use this move again until you have made up for your failure.
-- **Angel Wings**: You can go instantly to anywhere you’ve visited before, or to a person you know well. When **you carry one or two people with you**, roll +Weird. On a 10+ you all go where you wanted. On a 7-9, you don’t quite manage it. Either you are all separated, or you all appear in the wrong place.
+- **Boss from Beyond**: **At the beginning of each mystery**, roll [[+Weird]]. On a 10+, your Superiors ask you to do something simple. On a 7-9, they ask you to do something complicated or difficult. In either case, you get to ask them one of the questions from the **[[investigate a mystery]]** move right now. On a miss, you are required to do something terrible. If you do not accomplish what they’ve ordered, you cannot use this move again until you have made up for your failure.
+- **Angel Wings**: You can go instantly to anywhere you’ve visited before, or to a person you know well. When **you carry one or two people with you**, roll [[+Weird]]. On a 10+ you all go where you wanted. On a 7-9, you don’t quite manage it. Either you are all separated, or you all appear in the wrong place.
 - **What I Need, When I Need It**: You may store any small object you own, putting it into a magical space nobody can get to. You may retrieve anything you stored at any time; it appears in your hand.
 - **Soothe**: **When** **you talk to someone for a few seconds in a quiet voice**, you can calm them down, blocking any panic, anger, or other negative emotions they have. This works even if the thing that freaked them out is still present, as long as your voice can be heard.
 - **Lay On Hands**: Your touch can heal injury and disease. When you **lay your hands on someone hurt**, roll [[+Cool]]. On a 10+, heal 2 [[harm]] or an illness, plus they’re stabilized. On a 7-9, you can heal the [[harm]] or illness as on a 10+, but you take it into yourself. On a miss, your aura causes them extra [[harm]].
-- **Cast Out Evil**: You may **banish an unnatural creature from your presence**. Roll +Tough. On a 10+ it is banished. On a 7-9 it takes a little while for the banishing to take effect—the creature has time to make one or two actions. Either way, the banished creature is unharmed, and you have no control over where it goes. This move may be used on unnatural hunters (e.g. [[the Monstrous]]). On a miss, something is keeping it here. That’s bad.
+- **Cast Out Evil**: You may **banish an unnatural creature from your presence**. Roll [[+Tough]]. On a 10+ it is banished. On a 7-9 it takes a little while for the banishing to take effect—the creature has time to make one or two actions. Either way, the banished creature is unharmed, and you have no control over where it goes. This move may be used on unnatural hunters (e.g. [[the Monstrous]]). On a miss, something is keeping it here. That’s bad.
 - **Smite**: Your body and divine weapon always count as a weakness against the [[monsters]] you fight. Your unarmed attacks are 2-[[harm]] intimate hand messy.
 
 **[[GEAR]]**
@@ -766,11 +766,11 @@ Okay bbb b bbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark of the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable”.
+When you suffer [[harm]], mark of the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]]”.
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 
@@ -834,13 +834,13 @@ To make your Expert, first pick a name. Then follow the instructions below to de
 
 *You get all of the basic [[moves]], plus pick two Expert [[moves]]:*
 
-- **I’ve Read About This Sort Of Thing**: Roll +Sharp instead of [[+Cool]] when you **[[act under pressure]]**.
+- **I’ve Read About This Sort Of Thing**: Roll [[+Sharp]] instead of [[+Cool]] when you **[[act under pressure]]**.
 - **Often Right**: When **a hunter comes to you for advice** about a problem, give them your honest opinion and advice. If they take your advice, they get +1 [[ongoing]] while following your advice, and you mark experience.
-- **Preparedness:** When **you need something unusual or rare**, roll +Sharp. On a 10+, you have it here right now. On a 7-9 you have it, but not here: it will take some time to get it. On a miss, you know where it is, but it’s somewhere real bad.
-- **It Wasn’t As Bad As It Looked**: Once per mystery, you may attempt to **keep going despite your injuries**. Roll [[+Cool]]. On a 10+, heal 2 [[harm]] and stabilize your wounds. On a 7-9 you may either stabilize or heal 1 [[harm]]. On a miss, it was worse than it looked: [[the Keeper]] may inflict a [[harm]] move on you, or make your wounds unstable.
-- **Precise Strike**. When you inflict [[harm]] on a monster, you can **aim for a weak spot**. Roll +Tough. On a 10+ you inflict +2 [[harm]]. On a 7-9 you inflict +1 [[harm]]. On a miss, you leave yourself open for the monster to hit you.
-- **The Woman (or Man) With The Plan**: **At the beginning of each mystery**, roll +Sharp. On a 10+ [[hold]] 2, on a 7-9 [[hold]] 1. Spend the [[hold]] to be where you need to be, prepared and ready. On a miss, [[the Keeper]] holds 1 they can spend to have you be in the worst place, unprepared and unready.
-- **Dark Past**: You dabbled in the worst sort of mystical arts before you became one of the good guys. If **you trawl through your memories** for something relevant to the case at hand, roll +Weird. On a 10+ ask [[the Keeper]] two questions from the list below. On a 7-9 ask one. On a miss, you can ask a question anyway but that will mean you were personally complicit in creating the situation you are now dealing with. The questions are: 
+- **Preparedness:** When **you need something unusual or rare**, roll [[+Sharp]]. On a 10+, you have it here right now. On a 7-9 you have it, but not here: it will take some time to get it. On a miss, you know where it is, but it’s somewhere real bad.
+- **It Wasn’t As Bad As It Looked**: Once per mystery, you may attempt to **keep going despite your injuries**. Roll [[+Cool]]. On a 10+, heal 2 [[harm]] and stabilize your wounds. On a 7-9 you may either stabilize or heal 1 [[harm]]. On a miss, it was worse than it looked: [[the Keeper]] may inflict a [[harm]] move on you, or make your wounds [[unstable]].
+- **Precise Strike**. When you inflict [[harm]] on a monster, you can **aim for a weak spot**. Roll [[+Tough]]. On a 10+ you inflict +2 [[harm]]. On a 7-9 you inflict +1 [[harm]]. On a miss, you leave yourself open for the monster to hit you.
+- **The Woman (or Man) With The Plan**: **At the beginning of each mystery**, roll [[+Sharp]]. On a 10+ [[hold]] 2, on a 7-9 [[hold]] 1. Spend the [[hold]] to be where you need to be, prepared and ready. On a miss, [[the Keeper]] holds 1 they can spend to have you be in the worst place, unprepared and unready.
+- **Dark Past**: You dabbled in the worst sort of mystical arts before you became one of the good guys. If **you trawl through your memories** for something relevant to the case at hand, roll [[+Weird]]. On a 10+ ask [[the Keeper]] two questions from the list below. On a 7-9 ask one. On a miss, you can ask a question anyway but that will mean you were personally complicit in creating the situation you are now dealing with. The questions are: 
   - *When I dealt with this creature (or one of its kind), what did I learn?*
   - *What black magic do I know that could help here?*
   - *Do I know anyone who might be behind this?*
@@ -853,7 +853,7 @@ You have set up a haven, a safe place to work. Pick three of the options below f
 - **Lore Library**. When you hit the books, take +1 [[forward]] to **investigate the mystery** (as long as historical or reference works are appropriate).
 - **Mystical Library**. If you use your library’s occult tomes and grimoires, preparing with your tomes and grimoires, take +1 [[forward]] for **[[use magic]]**.
 - **Protection Spells**. Your haven is safe from [[monsters]]—they cannot enter. [[Monsters]] might be able to do something special to evade the wards, but not easily.
-- **Armory**. You have a stockpile of mystical and rare monster-killing [[weapons]] and items. If you **need a special weapon**, roll +Weird. On a 10+ you have it (and plenty if that matters). On a 7-9 you have it, but only the minimum. On a miss, you’ve got the wrong thing.
+- **Armory**. You have a stockpile of mystical and rare monster-killing [[weapons]] and items. If you **need a special weapon**, roll [[+Weird]]. On a 10+ you have it (and plenty if that matters). On a 7-9 you have it, but only the minimum. On a miss, you’ve got the wrong thing.
 - **Infirmary**. You can heal people, and have the space for one or two to recuperate. [[The Keeper]] will tell you how long any patient’s recovery is likely to take, and if you need extra supplies or help.
 - **Workshop**. You have a space for building and repairing guns, cars and other gadgets. Work out with [[the Keeper]] how long any repair or construction will take, and if you need extra supplies or help.
 - **Oubliette**. This room is isolated from every kind of monster, spirit and magic that you know about. Anything you stash in there can’t be found, can’t do any magic, and can’t get out.
@@ -903,11 +903,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 
@@ -973,7 +973,7 @@ To make your Flake, first pick a name. Then follow the instructions below to dec
 
 *You get all of the basic [[moves]], plus pick three Flake [[moves]]:*
 
-- **Connect the Dots**: At the beginning of each mystery, if **you look for the wider patterns** that current events might be part of, roll +Sharp. On a 10+ [[hold]] 3, and on a 7-9 [[hold]] 1. Spend your [[hold]] during the mystery to ask [[the Keeper]] any one of the following questions: 
+- **Connect the Dots**: At the beginning of each mystery, if **you look for the wider patterns** that current events might be part of, roll [[+Sharp]]. On a 10+ [[hold]] 3, and on a 7-9 [[hold]] 1. Spend your [[hold]] during the mystery to ask [[the Keeper]] any one of the following questions: 
   - *Is this person connected to current events more than they are saying?*
   - *When and where will the next critical event occur?*
   - *What does the monster want from this person?*
@@ -982,9 +982,9 @@ To make your Flake, first pick a name. Then follow the instructions below to dec
 - **Crazy Eyes**: You get +1 Weird (max +3).
 - **See, It All Fits Together**: You can use Sharp instead of Charm when you **[[manipulate someone]]**.
 - **Suspicious Mind**: If someone lies to you, you know it.
-- **Often Overlooked**: When **you** **act all crazy** to avoid something, roll +Weird. On a 10+ you’re regarded as unthreatening and unimportant. On a 7-9, pick one: unthreatening or unimportant. On a miss, you draw lots (but not all) of the attention.
+- **Often Overlooked**: When **you** **act all crazy** to avoid something, roll [[+Weird]]. On a 10+ you’re regarded as unthreatening and unimportant. On a 7-9, pick one: unthreatening or unimportant. On a miss, you draw lots (but not all) of the attention.
 - **Contrary**: When **you seek out and receive someone’s honest advice** on the best course of action for you and then do something else instead, mark experience. If you do exactly the opposite of their advice, you also take +1 [[ongoing]] on any [[moves]] you make pursuing that course.
-- **Net Friends**: You know a lot of people on the Internet. When **you** **contact a net friend to help you** with a mystery, roll +Charm. On a 10+, they’re available and helpful—they can fix something, break a code, hack a computer, or get you some special information. On a 7-9, they’re prepared to help, but it’s either going to take some time or you’re going to have to do part of it yourself. On a miss, you burn some bridges.
+- **Net Friends**: You know a lot of people on the Internet. When **you** **contact a net friend to help you** with a mystery, roll [[+Charm]]. On a 10+, they’re available and helpful—they can fix something, break a code, hack a computer, or get you some special information. On a 7-9, they’re prepared to help, but it’s either going to take some time or you’re going to have to do part of it yourself. On a miss, you burn some bridges.
 - **Sneaky**: When **you attack from ambush, or from behind**, inflict +2 [[harm]].
 
 **[[GEAR]]**
@@ -1036,11 +1036,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 
@@ -1143,12 +1143,12 @@ Create the monster you want to be: whatever you choose defines your breed in the
 *You get all the basic [[moves]], plus pick two Monstrous [[moves]]:*
 
 - **[[Immortal]]**: You do not age or sicken, and whenever you suffer [[harm]] you suffer 1-[[harm]] less.
-- **[[Unnatural Appeal]]**: Roll +Weird instead of +Charm when you **[[manipulate someone]]**.
-- **[[Unholy Strength]]**: Roll +Weird instead of +Tough when you **[[kick some ass]]**.
+- **[[Unnatural Appeal]]**: Roll [[+Weird]] instead of [[+Charm]] when you **[[manipulate someone]]**.
+- **[[Unholy Strength]]**: Roll [[+Weird]] instead of [[+Tough]] when you **[[kick some ass]]**.
 - **[[Incorporeal]]**: You may move freely through solid objects (but not people).
 - **[[Preternatural Speed]]**: You go much faster than normal people. **When you chase, flee, or run** take +1 [[ongoing]].
 - **[[Claws of the Beast]]**: All your natural attacks get +1 [[harm]].
-- **[[Mental Dominion]]**: When you gaze into a normal human’s eyes and **exert your will over them**, roll +Charm. On a 10+, [[hold]] 3. On a 7-9, [[hold]] 1. You may spend your [[hold]] to give them an order. Regular people will follow your order, whatever it is. Hunters can choose whether they do it or not. If they do, they mark experience.
+- **[[Mental Dominion]]**: When you gaze into a normal human’s eyes and **exert your will over them**, roll [[+Charm]]. On a 10+, [[hold]] 3. On a 7-9, [[hold]] 1. You may spend your [[hold]] to give them an order. Regular people will follow your order, whatever it is. Hunters can choose whether they do it or not. If they do, they mark experience.
 - **[[Unquenchable Vitality]]**: When you have taken [[harm]], **you can heal yourself**. Roll [[+Cool]]. On a 10+, heal 2-[[harm]] and stabilise your injuries. On a 7-9, heal 1-[[harm]] and stabilise your injuries. On a miss, your injuries worsen.
 - **[[Dark Negotiator]]**: You can use the **[[manipulate someone]]** move on [[monsters]] as well as people, if they can reason and talk.
 - **[[Flight]]**: You can fly.
@@ -1195,11 +1195,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 
@@ -1265,10 +1265,10 @@ To make your Mundane, first pick a name. Then follow the instructions below to d
 
 - **Always The Victim**: When another hunter uses **[[protect someone]]** to protect you, they mark experience. Whenever a monster captures you, you mark experience.
 - **Oops!** If **you want to stumble across something important**, tell [[the Keeper]]. You will find something important and useful, although not necessarily related to your immediate problems.
-- **Let’s Get Out Of Here!** If you can **[[protect someone]]** by telling them what to do, or by leading them out, roll +Charm instead of +Tough.
-- **Panic Button**: When you need to escape, **name the route you’ll try** and roll +Sharp. On a 10+ you’re out of danger, no problem. On a 7-9 you can go or stay, but if you go it’s going to cost you (you leave something behind or something comes with you). On a miss, you are caught halfway out.
+- **Let’s Get Out Of Here!** If you can **[[protect someone]]** by telling them what to do, or by leading them out, roll [[+Charm]] instead of [[+Tough]].
+- **Panic Button**: When you need to escape, **name the route you’ll try** and roll [[+Sharp]]. On a 10+ you’re out of danger, no problem. On a 7-9 you can go or stay, but if you go it’s going to cost you (you leave something behind or something comes with you). On a miss, you are caught halfway out.
 - **The Power of Heart**: When fighting a monster, if you **help someone**, don’t roll [[+Cool]]. You automatically help as though you’d rolled a 10.
-- **Trust Me**: When **you tell a normal person the truth in order to protect them from danger**, roll +Charm. On a 10+ they’ll do what you say they should, no questions asked. On a 7-9 they do it, but [[the Keeper]] chooses one from: 
+- **Trust Me**: When **you tell a normal person the truth in order to protect them from danger**, roll [[+Charm]]. On a 10+ they’ll do what you say they should, no questions asked. On a 7-9 they do it, but [[the Keeper]] chooses one from: 
   - They ask you a hard question first.
   - They stall and dither a while.
   - They have a “better” idea.
@@ -1330,11 +1330,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 
@@ -1433,15 +1433,15 @@ Pick two resource tags for the Agency, and two red tape tags:
 
 *You get this one:*
 
-- When you **deal with the Agency,** requesting help or [[gear]], or making excuses for a failure, roll +Sharp. On a 10+, you’re good—your request for [[gear]] or personnel is okayed, or your slip-up goes unnoticed. On a 7-9, things aren’t so great. You might get chewed out by your superiors and there’ll be fallout, but you get what you need for the job. On a miss, you screwed up: you might be suspended or under investigation, or just in the doghouse. You certainly aren’t going to get any help until you sort it all out.
+- When you **deal with the Agency,** requesting help or [[gear]], or making excuses for a failure, roll [[+Sharp]]. On a 10+, you’re good—your request for [[gear]] or personnel is okayed, or your slip-up goes unnoticed. On a 7-9, things aren’t so great. You might get chewed out by your superiors and there’ll be fallout, but you get what you need for the job. On a miss, you screwed up: you might be suspended or under investigation, or just in the doghouse. You certainly aren’t going to get any help until you sort it all out.
 
 *Then pick three of these:*
 
 - **Bottle It Up**: If you want, you can take up to +3 bonus when you **[[act under pressure]]**. For each +1 you use, [[the Keeper]] holds 1. That [[hold]] can be spent later—one for one—to give you -1 on any move *except* **[[act under pressure]]**.
 - **Unfazeable**: Take +1 Cool (max +3).
 - **Battlefield Awareness**: You always know what’s happening around you, and what to watch out for. Take +1 [[armour]] (max 2-[[armour]]) on top of whatever you get from your [[gear]].
-- **Leave No One Behind**: In combat, when **you help someone escape**, roll +Sharp. On a 10+ you get them out clean. On a 7-9, you can *either* get them out *or* suffer no [[harm]], you choose. On a miss, you fail to get them out and you’ve attracted hostile attention.
-- **Tactical Genius**: When you **[[read a bad situation]]**, you may roll [[+Cool]] instead of +Sharp
+- **Leave No One Behind**: In combat, when **you help someone escape**, roll [[+Sharp]]. On a 10+ you get them out clean. On a 7-9, you can *either* get them out *or* suffer no [[harm]], you choose. On a miss, you fail to get them out and you’ve attracted hostile attention.
+- **Tactical Genius**: When you **[[read a bad situation]]**, you may roll [[+Cool]] instead of [[+Sharp]]
 - **Medic**: You have a full first aid kit, and the training to heal people. **When you do first aid**, roll [[+Cool]]. On a 10+ the patient is stabilized and healed of 2 [[harm]]. On a 7-9 choose one: heal 2 [[harm]] or stabilize the injury. On a miss, you cause an extra 1 [[harm]]. This move takes the place of regular first aid.
 - **Mobility**: You have a truck, van, or car built for monster hunting. Choose two good things and one bad thing about it. 
 
@@ -1500,11 +1500,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 
@@ -1565,7 +1565,7 @@ To make your Spell-slinger, first pick a name. Then follow the instructions belo
 
 **COMBAT MAGIC**
 
-You have a few attack spells you can use as [[weapons]]. When you use these spells to **[[kick some ass]]**, roll +Weird instead of +Tough. Sometimes the situation may require you to **[[act under pressure]]** to cast your spell without problems.
+You have a few attack spells you can use as [[weapons]]. When you use these spells to **[[kick some ass]]**, roll [[+Weird]] instead of [[+Tough]]. Sometimes the situation may require you to **[[act under pressure]]** to cast your spell without problems.
 
 Pick three options from the list below.
 
@@ -1649,11 +1649,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 
@@ -1725,16 +1725,16 @@ To make your Spooky, first pick a name. Then follow the instructions below to de
     [[armour]]).
   - The target breaks something precious or important.
 - **The Sight:** You can see the invisible, especially spirits and magical influences. You may communicate with (maybe even make deals with) the spirits you see, and they give you more opportunities to spot clues when you **[[investigate a mystery]]**.
-- **Premonitions:** **At the start of each mystery**, roll +Weird. On a 10+, you get a detailed vision of something bad that is yet to happen. You take +1 [[forward]] to prevent it coming true, and mark experience if you stop it. On a 7-9+ you get clouded images of something bad that is yet to happen: mark experience if you stop it. On a miss, you get a vision of something bad happening to you and [[the Keeper]] holds 3, to be spent one-for-one as penalties to rolls you make.
-- **Hunches:** **When something bad is happening** (or just about to happen) somewhere that you aren’t, roll +Sharp. On a 10+ you knew where you needed to go, just in time to get there. On a 7-9, you get there late—in time to intervene, but not prevent it altogether. On a miss, you get there just in time to be in trouble yourself.
-- **Tune In**: You can **attune your mind to a monster or minion**. Roll +Weird. On a 10+, [[hold]] 3. On a 7-9, [[hold]] 1. On a miss, the monster becomes aware of you. Spend one [[hold]] to ask [[the Keeper]] one of the following questions, and gain +1 [[ongoing]] while acting on the answers: 
+- **Premonitions:** **At the start of each mystery**, roll [[+Weird]]. On a 10+, you get a detailed vision of something bad that is yet to happen. You take +1 [[forward]] to prevent it coming true, and mark experience if you stop it. On a 7-9+ you get clouded images of something bad that is yet to happen: mark experience if you stop it. On a miss, you get a vision of something bad happening to you and [[the Keeper]] holds 3, to be spent one-for-one as penalties to rolls you make.
+- **Hunches:** **When something bad is happening** (or just about to happen) somewhere that you aren’t, roll [[+Sharp]]. On a 10+ you knew where you needed to go, just in time to get there. On a 7-9, you get there late—in time to intervene, but not prevent it altogether. On a miss, you get there just in time to be in trouble yourself.
+- **Tune In**: You can **attune your mind to a monster or minion**. Roll [[+Weird]]. On a 10+, [[hold]] 3. On a 7-9, [[hold]] 1. On a miss, the monster becomes aware of you. Spend one [[hold]] to ask [[the Keeper]] one of the following questions, and gain +1 [[ongoing]] while acting on the answers: 
   - *Where is the creature right now?*
   - *What is it planning to do right now?*
   - *Who is it going to attack next?*
   - *Who does it regard as the biggest threat?*
   - *How can I attract its attention?*
-- **The Big Whammy**: You can use your powers to **[[kick some ass]]:** roll +Weird instead of +Tough. The attack has 2-[[harm]] close obvious ignore-[[armour]]. On a miss, you’ll get a magical backlash.
-- **Jinx**: You can encourage coincidences to occur, the way you want. **When you jinx a target**, roll +Weird. On a 10+ [[hold]] 2 and on a 7-9 [[hold]] 1. On a miss, [[the Keeper]] holds 2 over you to be used in the same way. Spend your [[hold]] to: 
+- **The Big Whammy**: You can use your powers to **[[kick some ass]]:** roll [[+Weird]] instead of [[+Tough]]. The attack has 2-[[harm]] close obvious ignore-[[armour]]. On a miss, you’ll get a magical backlash.
+- **Jinx**: You can encourage coincidences to occur, the way you want. **When you jinx a target**, roll [[+Weird]]. On a 10+ [[hold]] 2 and on a 7-9 [[hold]] 1. On a miss, [[the Keeper]] holds 2 over you to be used in the same way. Spend your [[hold]] to: 
   - Interfere with a hunter, giving them -1 [[forward]].
   - Help a hunter, giving them +1 [[forward]], by interfering with their enemy.
   - Interfere with what a monster, minion, or bystander is trying to do.
@@ -1808,11 +1808,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 
@@ -1909,11 +1909,11 @@ Why couldn’t you save them? You were (pick one or more):
 - **Berserk**: No matter how much [[harm]] you take, you can always keep going until the current fight is over. During a fight, [[the Keeper]] may not use [[harm]] [[moves]] on you and you cannot die. When the fight ends, all [[harm]] takes effect as normal.
 - **NEVER AGAIN**: In combat, you may choose to **[[protect someone]]** without rolling, as if you had rolled a 10+, but you may not choose to “suffer little [[harm]].”
 - **What Does Not Kill Me...**: If you have suffered [[harm]] in a fight, you gain +1 [[ongoing]] until the fight is over.
-- **Fervor**: When you **[[manipulate someone]]**, roll +Tough instead of +Charm.
+- **Fervor**: When you **[[manipulate someone]]**, roll [[+Tough]] instead of [[+Charm]].
 - **Safety First:** You have jury-rigged extra protection into your [[gear]], giving you +1 [[armour]] (maximum 2-[[armour]]).
 - **DIY Surgery**: When **you do quick and dirty first aid on someone** (including yourself), roll [[+Cool]]. On a 10+ it’s all good, it counts as normal first aid, plus stabilize the injury and heal 1 [[harm]]. On a 7-9 it counts as normal first aid, plus one of these, your choice: 
   - Stabilise the injury but the patient takes -1 [[forward]].
-  - Heal 1-[[harm]] and stabilise for now, but it will return as 2-[[harm]] and become unstable again later.
+  - Heal 1-[[harm]] and stabilise for now, but it will return as 2-[[harm]] and become [[unstable]] again later.
   - Heal 1-[[harm]] and stabilise but the patient takes -1 [[ongoing]] until it’s fixed properly.
 - **Tools Matter**: With your signature weapon (see your [[gear]], below), you get +1 to **[[kick some ass]]**.
 
@@ -1972,11 +1972,11 @@ Okay bbbbbbb Doomed
 
 **[[HARM]]**
 
-When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
+When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “[[Unstable]].”
 
 Okay bbb|bbbb Dying
 
-Unstable: b *(Unstable injuries will worsen as time passes)*
+[[Unstable]]: b *(Unstable injuries will worsen as time passes)*
 
 **[[LEVELING UP]]**
 
@@ -2135,13 +2135,13 @@ Sometimes [[the Keeper]] will ask you questions to clarify what’s going on. Th
 
 Often the rules for a move will tell you to roll, say, [[+Cool]]. This means you should grab two everyday six-sided dice, roll them, add them together and then add whatever number is written down for your hunter’s Cool.
 
-If it says something else instead of Cool (usually another rating), then add that number instead. So, if you are told to roll +Weird, roll two dice and add your Weird rating. If you are told to roll +Tough, roll two dice and add your Tough rating. If you have a negative rating, like -1, then you subtract one from your total instead.
+If it says something else instead of Cool (usually another rating), then add that number instead. So, if you are told to roll [[+Weird]], roll two dice and add your Weird rating. If you are told to roll [[+Tough]], roll two dice and add your Tough rating. If you have a negative rating, like -1, then you subtract one from your total instead.
 
 The move description will say what the different results mean. Usually, 7 or higher is good, and 10 or higher is really good. A result of 6 or lower is a miss, which means [[the Keeper]] will have an opportunity to screw your hunter over.
 
 *Example:*
 
-*I need to roll “[[Manipulate Someone]].” That’s a +Charm roll, and my Charm is +1. I roll the dice and get a 2 and a 5. My total is 1 + 2 + 5 = 9. That’s a partial success for **[[manipulate someone]]**.*
+*I need to roll “[[Manipulate Someone]].” That’s a [[+Charm]] roll, and my Charm is +1. I roll the dice and get a 2 and a 5. My total is 1 + 2 + 5 = 9. That’s a partial success for **[[manipulate someone]]**.*
 
 [[Bonuses and Holds]]
 
@@ -2207,7 +2207,7 @@ Note that help bonuses do not stack: if two people **[[help out]]**, the hunter 
 
 Investigating can be done any number of ways: following tracks, interviewing witnesses, forensic analysis, looking up old folklore in a library, typing the monster’s name into Google, capturing the monster and conducting tests on it, and so on. Anything that might give you more information about what’s going on is fair game for an investigate move.
 
-When you **[[investigate a mystery]]**, roll +Sharp.
+When you **[[investigate a mystery]]**, roll [[+Sharp]].
 
 - On a 10+ [[hold]] 2, and on a 7-9 [[hold]] 1.
 
@@ -2231,7 +2231,7 @@ It’s important that your attempts to investigate (and the results you get from
 
 This is used when you are fighting something that’s fighting you back.
 
-When you get into a fight and **[[kick some ass]]**, roll +Tough.
+When you get into a fight and **[[kick some ass]]**, roll [[+Tough]].
 
 On any success (i.e., total 7 or more) you and whatever you’re fighting inflict [[harm]] on each other. The amount of [[harm]] is based on the established dangers in the game. That usually means you inflict the [[harm]] rating of your weapon and your enemy inflicts their attack’s [[harm]] rating on you.
 
@@ -2252,7 +2252,7 @@ This move is used when you want someone to do something for you and they don’t
 
 For friends and allies, you might just need to ask. For witnesses to a monster attack, you could tell them you are with the police, or just offer them some cash for answering your questions.
 
-Once you have given them a reason, **tell them what you want them to do** and roll +Charm.
+Once you have given them a reason, **tell them what you want them to do** and roll [[+Charm]].
 
 For a normal person:
 
@@ -2278,7 +2278,7 @@ If you take [[the Monstrous]] move **[[dark negotiator]]** (or any other move th
 
 If someone is about to suffer [[harm]] and you can somehow prevent it, then you can try to protect them.
 
-When you **prevent [[harm]] to another character**, roll +Tough.
+When you **prevent [[harm]] to another character**, roll [[+Tough]].
 
 On any success (i.e., 7 or more), you protect them okay, but you’ll suffer some or all of the [[harm]] they were going to get.
 
@@ -2293,7 +2293,7 @@ On a miss, then you end up making things worse.
 
 [[Read A Bad Situation]]
 
-When you look around and **[[read a bad situation]]**, roll +Sharp.
+When you look around and **[[read a bad situation]]**, roll [[+Sharp]].
 
 On a 10+ [[hold]] 3, and on a 7-9, [[hold]] 1.
 
@@ -2312,7 +2312,7 @@ On a miss, you might mis-read the situation (e.g. “Everything is fine here! It
 
 [[Use Magic]]
 
-When you **[[use magic]]**, say what you’re trying to achieve and how you do the spell, then roll +Weird.
+When you **[[use magic]]**, say what you’re trying to achieve and how you do the spell, then roll [[+Weird]].
 
 - If you get a 10+, the magic works without issues: choose your effect.
 - On a 7-9, it works imperfectly: choose your effect and a glitch. [[The Keeper]] will decide what effect the glitch has.
@@ -2405,13 +2405,13 @@ When you take [[harm]], [[the Keeper]] will tell you what happened and how many 
 Injury severity depends on how much [[harm]] you have suffered:
 
 - 0-[[harm]] wounds have only minor, short term effects.
-- 4-7 [[harm]] wounds are serious and *unstable*. They will get worse unless treated. Mark the “Unstable” box.
+- 4-7 [[harm]] wounds are serious and *[[unstable]]*. They will get worse unless treated. Mark the “[[Unstable]]” box.
 - 8-[[harm]] or more will kill a normal human, including a hunter.
 - Note that [[armour]] reduces the [[harm]] suffered by the number of points it is rated for.
 
 There are more details in [[the Keeper]] section ([[0000688047]]).
 
-[[Monsters and Harm]]
+[[How to fight monsters]]
 
 [[Monsters]] are usually a lot harder to kill than humans. [[Minions]] (lesser supernatural creatures) can be as well.
 
@@ -2438,7 +2438,7 @@ Moderate wounds (1-3 [[harm]]) will improve when your hunter has a chance to res
 
 First aid does not normally require a move, it’s just regular practice. Hunter [[moves]] that provide [[healing]] may be used in addition to first aid. You can only benefit from first aid once per injury or condition.
 
-Serious wounds (4+ [[harm]]) require treatment. They are normally unstable, meaning that they will worsen if untreated (the Keeper will tell you when to mark off another point of [[harm]]). Left too long, serious wounds will kill you. If a move tells you that the injury is now stable, you can erase the mark in the unstable box. If you take more [[harm]] and are still at 4-[[harm]] or more, then your injuries become unstable again. For serious wounds, first aid heals one [[harm]] but it will still be unstable.
+Serious wounds (4+ [[harm]]) require treatment. They are normally [[unstable]], meaning that they will worsen if untreated (the Keeper will tell you when to mark off another point of [[harm]]). Left too long, serious wounds will kill you. If a move tells you that the injury is now stable, you can erase the mark in the [[unstable]] box. If you take more [[harm]] and are still at 4-[[harm]] or more, then your injuries become [[unstable]] again. For serious wounds, first aid heals one [[harm]] but it will still be [[unstable]].
 
 What counts as treatment depends on the wound, but it will usually be one of the following:
 
@@ -2553,7 +2553,7 @@ Here’s what the tags mean:
 - **unreliable**: This weapon needs regular cleaning and maintenance, otherwise it just isn’t gonna work.
 - **useful**: This weapon has other uses aside from violence.
 - **valuable**: This weapon is antique, or made of valuable materials.
-- **volatile**: This weapon is dangerous and unstable.
+- **volatile**: This weapon is dangerous and [[unstable]].
 
 [[Custom Weapons]]
 
@@ -2610,7 +2610,7 @@ Then you start collecting experience marks again, until you level up again when 
 
 When you have leveled up five times, you can start choosing from the [[advanced improvements]] list as well ([[Act Under Pressure]]).
 
-[[End Of Session Experience]]
+[[End-Of-Session Experience Questions]]
 
 [[At the end of each session]], [[the Keeper]] will ask the following questions:
 
@@ -2832,7 +2832,7 @@ There’s two parts to this: the things you’ll do just at the start of a new g
 - Go around the group again: each of you picks a [[history]] option for every other hunter on the team.
 - Keeping your selected [[history]] options in mind, tidy up the team concept and work out your backstory.
 - Go on to the things you do [[every game]] (see below)
-- At the [[end of the first session]], review your hunter’s playbook and decide if any of the options you picked didn’t match your vision of what the character would be like. If you need to make some changes, go ahead and do it.
+- At the [[At the End of Each Session]], review your hunter’s playbook and decide if any of the options you picked didn’t match your vision of what the character would be like. If you need to make some changes, go ahead and do it.
 
 [[Every Game]]
 
@@ -2844,7 +2844,7 @@ There’s two parts to this: the things you’ll do just at the start of a new g
 - When you mark your fifth experience point, level up, select an improvement and reset your experience to zero.
 - Protect all the innocent [[bystanders]].
 - Go and kill the monster!
-- When you’re done, answer the end-of-session experience questions and mark any experience you earn from the answers.
+- When you’re done, answer the [[end-of-session experience questions]] and mark any experience you earn from the answers.
 
 ![](MotWIMG3.jpeg)
 
@@ -2982,7 +2982,7 @@ When you’re making up your own mystery, some of these elements will be defined
 
 The *[[basic concept]]* is your original idea, the thought that led to this mystery.
 
-*In the example, [[the basic concept]] is the Mongolian death worms—the stories are awesome, so I wanted to make a mystery about them.*
+*In the example, [[Building Arcs]] is the Mongolian death worms—the stories are awesome, so I wanted to make a mystery about them.*
 
 The *hook* is whatever has drawn [[the hunters]]’ attention to the situation: reports of deaths or disappearances, a monster sighting, or some weird phenomena. You’ll tell [[the hunters]] up front what [[the hook]] is, but after that it’s totally up to them how they deal with what’s going on.
 
@@ -3974,7 +3974,7 @@ Here’s the move:
 
 *Investigating can be done any number of ways: following tracks, interviewing witnesses, forensic analysis, looking up old folklore in a library, typing the monster’s name into Google, capturing the monster and conducting tests on it, and so on. Anything that might give you more information about what’s going on is fair game for an investigate move.*
 
-*When you [[Investigate A Mystery]], roll +Sharp.*
+*When you [[Investigate A Mystery]], roll [[+Sharp]].*
 
 *On a 10+ [[hold]] 2, and on a 7-9 [[hold]] 1.*
 
@@ -4072,7 +4072,7 @@ The investigation:
 
 Here’s the move:
 
-*When you get into a fight and* ***[[kick some ass]]**, roll +Tough.*
+*When you get into a fight and* ***[[kick some ass]]**, roll [[+Tough]].*
 
 *On any success (i.e., total 7 or more) you inflict [[harm]] on (and suffer [[harm]] from) whatever you’re fighting. The amount of [[harm]] is based on the established dangers in the game. That usually means you inflict the [[harm]] rating of your weapon and your enemies inflict their attack’s [[harm]] rating on you.*
 
@@ -4113,7 +4113,7 @@ Here’s the move:
 
 *For friends and allies, you might just need to ask. For witnesses to a monster attack, you could tell them you are with the police, or just offer them some cash for answering your questions.*
 
-*Once you have given them a reason, **tell them what you want them to do** and roll +Charm.*
+*Once you have given them a reason, **tell them what you want them to do** and roll [[+Charm]].*
 
 *For a normal person:*
 
@@ -4151,7 +4151,7 @@ The only exception is when a hunter move explicitly allows it (such as [[the Mon
 
 Here’s the move:
 
-*When* ***you prevent [[harm]] to another character**, roll +Tough.*
+*When* ***you prevent [[harm]] to another character**, roll [[+Tough]].*
 
 *On any success (i.e., 7 or more), you protect them okay, but you’ll suffer some or all of the [[harm]] they were going to get.*
 
@@ -4186,7 +4186,7 @@ Missing a **[[protect someone]]** roll is very bad. In general, [[harm]] to both
 
 Here’s the move:
 
-*When you look around and* ***[[read a bad situation]]**, roll +Sharp.*
+*When you look around and* ***[[read a bad situation]]**, roll [[+Sharp]].*
 
 *On a 10+ [[hold]] 3, and on a 7-9 [[hold]] 1.*
 
@@ -4213,7 +4213,7 @@ Misses can also give you a chance to put [[the hunters]] into danger—for examp
 
 Here’s the move:
 
-*When you* ***[[use magic]]**, say what you’re trying to achieve and how you do the spell, then roll +Weird.*
+*When you* ***[[use magic]]**, say what you’re trying to achieve and how you do the spell, then roll [[+Weird]].*
 
 - *If you get a 10+, the magic works without issues: choose your effect.*
 - *On a 7-9, it works imperfectly: choose your effect and a glitch. [[The Keeper]] will decide what effect the glitch has.*
@@ -4564,7 +4564,7 @@ Whenever a character (hunter, monster, minion, or bystander) gets harmed, note d
 
 Remember that if the victim has [[armour]], that reduces the amount of [[harm]] suffered by its rating.
 
-If it’s a hunter, tell them how many [[harm]] boxes to check off. Make sure you know if they’re up to four (after which the injuries become unstable, and will get worse until treated).
+If it’s a hunter, tell them how many [[harm]] boxes to check off. Make sure you know if they’re up to four (after which the injuries become [[unstable]], and will get worse until treated).
 
 Describe the pain, how bad the wound looks, how much blood is coming out, if a bone is sticking out, if they’re feeling faint, and so on. All the gory detail you can think of. This leads into which [[harm]] move affects them.
 
@@ -4587,7 +4587,7 @@ The [[harm]] [[moves]] are listed below, along with the minimum [[harm]] level f
 - Pass out.
 - Intense pain.
 
-Unstable wounds:
+[[Unstable]] wounds:
 
 - +1 [[harm]].
 
@@ -4607,13 +4607,13 @@ Think about each of the [[harm]] [[moves]] you could use, and whether any of the
 - Is the wound going to be especially painful? For example: burns; injuries to the hands or face; an existing injury is struck again.
 - Could the injury kill the victim? [[Examples]]: blood loss; head trauma; chest or abdomen hits (which could rupture a major organ).
 
-**UNSTABLE WOUNDS**
+**[[UNSTABLE]] WOUNDS**
 
-Once a hunter has suffered 4-[[harm]], their injuries become unstable. That means that it will get worse, until it’s properly treated.
+Once a hunter has suffered 4-[[harm]], their injuries become [[unstable]]. That means that it will get worse, until it’s properly treated.
 
-While the injuries are unstable, you may tell the hunter they take another point of [[harm]] at any time. Use the same process as deciding which [[harm]] move to use: given the type and severity of the injuries, would it be likely to have gotten worse yet?
+While the injuries are [[unstable]], you may tell the hunter they take another point of [[harm]] at any time. Use the same process as deciding which [[harm]] move to use: given the type and severity of the injuries, would it be likely to have gotten worse yet?
 
-If an unstable wound has been left for a day and you haven’t added any more [[harm]] yet, do it then.
+If an [[unstable]] wound has been left for a day and you haven’t added any more [[harm]] yet, do it then.
 
 **[[MINIONS]], [[BYSTANDERS]] AND [[HARM]]**
 
@@ -4625,7 +4625,7 @@ Killing [[Monsters]]
 
 When you defined the monster, you picked the [[harm]] capacity it has. That’s how many points of [[harm]] it can take before it’s dying. You should inflict [[harm]] [[moves]] on [[monsters]] as normal whenever they are injured.
 
-Monster injuries do not become unstable when they have taken four [[harm]] or more. [[The hunters]] will have to inflict all the [[harm]] themselves.
+Monster injuries do not become [[unstable]] when they have taken four [[harm]] or more. [[The hunters]] will have to inflict all the [[harm]] themselves.
 
 Additionally, recall that the monster is only *really* dead if [[the hunters]] used a weakness against it.
 
@@ -4894,11 +4894,11 @@ Our cast is:
 
 *The details of what happens when a vampire gets staked are part of the game’s mythology.*
 
-[[End of the First Session]]
+[[At the End of Each Session]]
 
 Once the mystery has been solved, take some time to go around the table and check that everyone’s happy with how it played out. If [[the hunters]] didn’t finish up this mystery, that’s okay too. Just finish when you or the group thinks it’s a cool time to put “To be continued...” up on the screen. You can find out what happens next time.
 
-Then ask the end-of-session experience questions:
+Then ask the [[end-of-session experience questions]]:
 
 - Did we conclude the current mystery?
 - Did we save someone from certain death (or worse)?
@@ -4955,7 +4955,7 @@ Summary: Keeper's First Session
 - Make a note of everything you can.
 - Have some [[fights]] and action scenes as they get close to the monster.
 - They confront the monster. Hopefully, [[the hunters]] win.
-- Go through the end-of-session experience questions and have [[the hunters]] mark experience based on the answers.
+- Go through the [[end-of-session experience questions]] and have [[the hunters]] mark experience based on the answers.
 - Discuss how it went. Let them change their hunters around a bit if required.
 - Look at your notes, and think ahead. Think about possible future mysteries and [[monsters]].
 
@@ -4988,7 +4988,7 @@ An arc is made up of four basic elements, similar to a mystery. You can create t
 
 [[Arcs]] work fine without being fully detailed at first. Sometimes you’ll have only a few ideas about what’s going on. That’s fine: just note the details you have now, and fill in others as you think of them. Events in play will suggest further elements to be added in later.
 
-[[The Basic Concept]]
+[[Building Arcs]]
 
 Decide on a starting concept for your arc. Mysteries usually start with a monster, but [[arcs]] can come from a wide variety of places: a hunter’s [[history]], unfinished business from a mystery, or a neat idea you have for an evil plan.
 
@@ -5010,7 +5010,7 @@ Another way to get arc ideas is to take unfinished business from the mysteries y
 
 Lastly, [[as the game goes on]] you might notice that previously unconnected facts or events make more sense if they were really connected all along. That is the seed of an arc. Maybe you’ve had two mysteries that both had a naga as the monster. Could there be a naga conspiracy that led to both situations? Think about what the nagas might be trying to achieve, and use that as your arc concept.
 
-*An example arc:*
+*[[An example arc]]:*
 
 *Let’s say that there was a particularly annoying werewolf pack leader who eluded [[the hunters]]. She seems like a good choice to start an arc around (especially as the team has a Wronged who is hunting werewolves).*
 
@@ -5255,7 +5255,7 @@ If you haven’t already worked out what it’s trying to achieve, give that som
 
 Example [[Monsters]]
 
-Here are some [[examples]] to illustrate a variety of different [[monsters]]. Note that I’ve given each one a monster type that fits [[the basic concept]] of the creature, but if you use it in a mystery you should consider whether it fits the monster’s role for that adventure, and change the type if you find a better match.
+Here are some [[examples]] to illustrate a variety of different [[monsters]]. Note that I’ve given each one a monster type that fits [[Building Arcs]] of the creature, but if you use it in a mystery you should consider whether it fits the monster’s role for that adventure, and change the type if you find a better match.
 
 **A CLASSIC VAMPIRE**
 
@@ -5614,7 +5614,7 @@ This location is someone’s home: maybe a Chosen, Mundane, or Spooky who is sti
 
 **Location:** Prison (motivation: to constrain and prevent exit).
 
-**Custom move**: When you **make excuses to the family for something to do with monster hunting**, roll +Charm.
+**Custom move**: When you **make excuses to the family for something to do with monster hunting**, roll [[+Charm]].
 
 - On a 10+, you smooth over things but you might need to [[Help Out]] with some chores in the near future.
 - On a 7-9, they know you aren’t telling the whole truth. You smooth over things for now, but you’ll need to make an effort to be seen as the good kid. Also, take -1 the next time you roll this move.
@@ -5757,7 +5757,7 @@ Here’s some fragments from letters I used for a convention scenario. The team 
 
 An information-finding move:
 
-*Obviously you checked out the haunting’s background before the job. Roll me +Weird, to see what you’ve found out, or worked out. On a 10+ ask me two of these, on a 7-9 ask me one. On a miss, you can ask me one anyhow but you had to do something dangerous to find out. I’ll let you know what that was. The questions you can ask:*
+*Obviously you checked out the haunting’s background before the job. Roll me [[+Weird]], to see what you’ve found out, or worked out. On a 10+ ask me two of these, on a 7-9 ask me one. On a miss, you can ask me one anyhow but you had to do something dangerous to find out. I’ll let you know what that was. The questions you can ask:*
 
 - *What’s the buzz on the cryptozoology and ghost hunter message boards and mailing lists?*
 - *I found some writing in blood on a mirror. What did it say?*
@@ -5765,7 +5765,7 @@ An information-finding move:
 
 A move to get into the action:
 
-*The initial check of the house went okay, but then things turned bad. Roll me +Sharp and see what happened: On a 10+ pick two, on a 7-9 pick one:*
+*The initial check of the house went okay, but then things turned bad. Roll me [[+Sharp]] and see what happened: On a 10+ pick two, on a 7-9 pick one:*
 
 - *You have the poltergeist in a ghost trap.*
 - *You do not have a huge shard of mirror embedded in your leg (that means you do otherwise).*
@@ -5797,7 +5797,7 @@ Here’s an entire mystery letter to use as a model. This one is for a hunter wh
 
 *If there’s anything you want to add to that list, go ahead and ask. I’ll let you know if it’s okay (anything you could do in a week should be fine).*
 
-*Roll +Sharp to see how much you got done.*
+*Roll [[+Sharp]] to see how much you got done.*
 
 - *On a 10+ you can pick two of them to be done, on a 7-9 only one.*
 - *On a miss you can pick one if you want, but you got into trouble doing it. Getting you out of that trouble is where we’ll kick off today.*
@@ -5833,7 +5833,7 @@ We’re not interested in [[the hunters]] having everything go their way. It’s
 
 [[At the End of Each Session]]
 
-[[At the end of each session]], remember to ask the end-of-session experience questions:
+[[At the end of each session]], remember to ask the [[end-of-session experience questions]]:
 
 - Did we conclude the current mystery?
 - Did we save someone from certain death (or worse)?
@@ -5858,7 +5858,7 @@ Summary: Keeper's Session
 - When a hunter misses on a roll, have them mark experience.
 - When any character suffers [[harm]], use a [[harm]] move on them.
 - Confront the monster! Hopefully [[the hunters]] win.
-- Ask the end-of-session experience questions to see whether each hunter gets to mark zero, one or two experience.
+- Ask the [[end-of-session experience questions]] to see whether each hunter gets to mark zero, one or two experience.
 - Think about how events in the mystery will affect your [[arcs]] or later mysteries. Tidy up your notes.
 
 ![](MotWIMG3.jpeg)
@@ -5924,7 +5924,7 @@ Beech has no supernatural powers or abilities beyond those he uses to create his
 
 **[[Armour]]**: (Pre-upgrade) None; (Post-upgrade) 2-[[armour]].
 
-**[[Harm]] capacity**: 7. Okay bbbb|bbb Dying Unstable: b
+**[[Harm]] capacity**: 7. Okay bbbb|bbb Dying [[Unstable]]: b
 
 **Weaknesses**: **Gloating monologue:** Dr Beech cannot be defeated until [[the hunters]] have listened to him rant about his evil plans; (Post-upgrade) **Etheric-Bionic Control Interface:** If the interface is disrupted with magic or electromagnetic energy, Dr Beech will no longer be able to control the bionics and is vulnerable.
 
@@ -5954,7 +5954,7 @@ Koko, robo Gorilla (mark 3)
 
 *Minion: Assassin (motivation: to kill [[the hunters]])*
 
-A possessed bionic silverback gorilla, Koko has been kept caged so far as he is too dangerous and unstable to be let out. Once Beech knows about [[the hunters]], or is ready to make his move, Koko will be unleashed.
+A possessed bionic silverback gorilla, Koko has been kept caged so far as he is too dangerous and [[unstable]] to be let out. Once Beech knows about [[the hunters]], or is ready to make his move, Koko will be unleashed.
 
 Note that Koko was not stolen from the university, but acquired through other means. Most likely, Dr Beech has been in contact with animal smugglers, but this loose end is a good candidate for tying into other parts of your own game.
 
@@ -6318,7 +6318,7 @@ This is a special-effect move, triggered by the hounds biting a person. This mov
 
 Searching The Marshes
 
-*When you* ***search in the marshes*** *(location: maze) roll +Sharp. On a 10+ things seem to point somewhere in particular: take +1 [[forward]] for investigating. On a 7-9, you can investigate, but then you must pick one of the bad things below. On a miss, all three bad things are true.*
+*When you* ***search in the marshes*** *(location: maze) roll [[+Sharp]]. On a 10+ things seem to point somewhere in particular: take +1 [[forward]] for investigating. On a 7-9, you can investigate, but then you must pick one of the bad things below. On a miss, all three bad things are true.*
 
 *Bad things that can happen in the marshes:*
 
@@ -6338,7 +6338,7 @@ Calling The Flame Spirits
 
 Here’s a move for a hunter who made the **[[use magic]]** move a lot for a particular effect, so we decided to make a custom move for that spell.
 
-*When you **call the flame spirits** you need to spill some very strong liquor into a fire and call the spirits by name (as many or as few names as you want). Roll +Weird. On a 10+ all the spirits you named come, and they’ll tell you some specific things and burn anything you want. On a 7-9 one of them comes and tells you some obscure things and then it burns some stuff, mostly what you wanted burned. On a miss, the fire spirits are angered. They might refuse your summons for a long time, or some of them might appear and demand a significant sacrifice from you right now, or else.*
+*When you **call the flame spirits** you need to spill some very strong liquor into a fire and call the spirits by name (as many or as few names as you want). Roll [[+Weird]]. On a 10+ all the spirits you named come, and they’ll tell you some specific things and burn anything you want. On a 7-9 one of them comes and tells you some obscure things and then it burns some stuff, mostly what you wanted burned. On a miss, the fire spirits are angered. They might refuse your summons for a long time, or some of them might appear and demand a significant sacrifice from you right now, or else.*
 
 This is another roll move, designed to be a slightly different version of **[[use magic]]** that deals with this particular spell. Note that it is safer, but a lot more specific, than the **[[use magic]]** move.
 
@@ -6379,7 +6379,7 @@ This custom threat represents an evil cult infesting a small town. It’s a mini
 
 This threat has this custom move.
 
-When a hunter **asks locals about something weird**, roll +Sharp.
+When a hunter **asks locals about something weird**, roll [[+Sharp]].
 
 On a 10+, the hunter works out:
 

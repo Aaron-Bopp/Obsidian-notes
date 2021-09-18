@@ -1,7 +1,7 @@
 
 If someone is about to suffer [[harm]] and you can somehow prevent it, then you can try to protect them.
 
-When you **prevent [[harm]] to another character**, roll +Tough.
+When you **prevent [[harm]] to another character**, roll [[+Tough]].
 
 On any success (i.e., 7 or more), you protect them okay, but you’ll suffer some or all of the [[harm]] they were going to get.
 

@@ -42,7 +42,7 @@ A transdimensional nexus has formed in Nimoy, New Mexico due to a ‘red matter�
 
 **Custom Move:**
 
-**Enter the Nexus**: When **someone travels into the transdimensional nexus**, roll +Sharp.
+**Enter the Nexus**: When **someone travels into the transdimensional nexus**, roll [[+Sharp]].
 
 On a 10+, you can see the doorway back to the real world behind you and can escape at any time.
 
@@ -74,7 +74,7 @@ Resembles a giant eyeless toad with a mouth covered with constantly moving tenta
 
 **Custom [[Moves]]:**
 
-**Grab**: When a **froghemoth grabs a hunter**, they roll +Tough:
+**Grab**: When a **froghemoth grabs a hunter**, they roll [[+Tough]]:
 
 -   On a 10+, the hunter breaks free and may inflict [[harm]] on the froghemoth as they escape.
 
@@ -86,7 +86,7 @@ Resembles a giant eyeless toad with a mouth covered with constantly moving tenta
 
 -   They are being pulled inexorably towards its maw.
 
-**Engulf**: When **a hunter is engulfed by a froghemoth’s maw**, they roll +Tough:
+**Engulf**: When **a hunter is engulfed by a froghemoth’s maw**, they roll [[+Tough]]:
 
 -   On a 10+, they force the froghemoth to vomit them forth for no additional damage.
 

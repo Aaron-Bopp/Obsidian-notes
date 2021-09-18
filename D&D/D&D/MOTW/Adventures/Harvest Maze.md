@@ -64,7 +64,7 @@ The coco’s true form is hideous: a twisted, half-melted corpse child in rags. 
 
 **Custom [[Moves]]:**
 
-**Escaping The Coco**: When you are having your life drained by a coco and try to break free, roll +Tough:
+**Escaping The Coco**: When you are having your life drained by a coco and try to break free, roll [[+Tough]]:
 
 -   On a 10+, you break the coco’s grip. You are free!
 

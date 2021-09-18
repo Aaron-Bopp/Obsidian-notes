@@ -1,4 +1,3 @@
-
 This illustrates some of the techniques I’ve outlined above, demonstrating how it works in play.
 
 Our cast is:
@@ -220,4 +219,4 @@ Our cast is:
 
 *The details of what happens when a vampire gets staked are part of the game’s mythology.*
 
-[[End of the First Session]]
+[[At the End of Each Session]]
