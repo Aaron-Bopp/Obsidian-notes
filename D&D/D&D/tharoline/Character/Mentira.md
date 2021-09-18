@@ -5,5 +5,5 @@
 #### Notes
 
 - Is part of the [[Bookeeper'S Alliance]]
-- [[Aliases]] 
-- [[Aliases]]- [[Aliases]]
+- [[D&D/MOTW/aliases]] 
+- [[D&D/MOTW/aliases]]- [[D&D/MOTW/aliases]]

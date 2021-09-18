@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:SecondBrain/TopicNotes OR path:SecondBrain/EvergreenNotes",
+  "search": "path:MOTW -file:MOTW -aliases -path:book",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -158,6 +158,6 @@
   "repelStrength": 18.0941176470588,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.09429602172248921,
+  "scale": 0.09429602172248931,
   "close": false
 }

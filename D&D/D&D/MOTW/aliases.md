@@ -64,7 +64,7 @@
 
 [[Monster Hunting At Work]]:
 
-[[Monster_of_the_Week]]:
+[[D&D/MOTW/Book/Monster_of_the_Week]]:
 
 [[More Flexible Investigations]]:
 
@@ -150,7 +150,7 @@
 
 [[World Egg]]:
 
-[[aliases]]:
+[[D&D/MOTW/aliases]]:
 
 [[tomecommonmark]]:
 

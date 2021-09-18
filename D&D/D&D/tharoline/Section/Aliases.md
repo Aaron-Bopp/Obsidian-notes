@@ -7,10 +7,10 @@
 
 [[Character/good]]
 
-- [[Aliases]] 
+- [[D&D/tharoline/Section/Aliases]] 
     - [[Louie]]- ebony urchin, leto mirimm
     - [[Amarei]]- hooded huntress
     - [[Mentira]]- serated bookworm
     - [[Gerard]]- black poet
-- [[Aliases]] 
-- [[Aliases]]- [[Aliases]]
+- [[D&D/tharoline/Section/Aliases]] 
+- [[D&D/tharoline/Section/Aliases]]- [[D&D/tharoline/Section/Aliases]]

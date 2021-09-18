@@ -97,4 +97,4 @@ Sharing
 
 Please share your own content with other *Monster of the Week* fans. See [[Feedback]] for some places that you’ll be able to find us.
 
-[[A Whole New Game]]
+[[Other Games]]
