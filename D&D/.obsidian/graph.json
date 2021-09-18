@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-aliases",
+  "search": "-aliases -path:book",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -158,6 +158,6 @@
   "repelStrength": 9.62014863748968,
   "linkStrength": 0.285466556564822,
   "linkDistance": 30,
-  "scale": 0.13220140978325406,
+  "scale": 0.36430424690125174,
   "close": false
 }
