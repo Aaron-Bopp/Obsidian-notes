@@ -4,7 +4,7 @@ Heartbreak Blues
 
 # Introduction
 
-The thing I love most about the blues is that, as an art form, it takes something broken and makes it something beautiful. The musicians’ pathos comes through in sweet six-bar riffs of wailing guitars and a steady bass heartbeat. I take inspiration from the blues not only in writing this adventure, but also during play. I recommend playing this Spotify playlist during the game: [*https://open.spotify.com/user/1262304001/* *playlist/6KdTrQNx5W9wilOxF1qS77*](https://open.spotify.com/user/1262304001/playlist/6KdTrQNx5W9wilOxF1qS77). Use it to keep you honest to the blues.
+The thing I love most about the blues is that, as an art form, it takes something broken and makes it something beautiful. The musicians’ pathos comes through in sweet six-bar riffs of wailing guitars and a steady bass heartbeat. I take [[inspiration]] from the blues not only in writing this adventure, but also during play. I recommend playing this Spotify playlist during the game: [*https://open.spotify.com/user/1262304001/* *playlist/6KdTrQNx5W9wilOxF1qS77*](https://open.spotify.com/user/1262304001/playlist/6KdTrQNx5W9wilOxF1qS77). Use it to keep you honest to the blues.
 
 # Hook
 
@@ -12,9 +12,9 @@ Off the beaten path in Memphis, Tennessee, is the legendary blues joint
 
 Johnny Ray’s. It was there that “Thundering” Joe Johnson played his last set to raucous applause. One of the regulars said that the music damn near tore your heart out.
 
-When the club owner, Buddy Wolf, came in early this morning, he found Joe sitting on a black, cane-backed chair under the harsh white house lights with his head slumped forward. In Joe’s hands were his ‘54 Gretsch White Falcon guitar and his still-bleeding heart.
+When the club owner, Buddy Wolf, came in early this morning, he found Joe sitting on a black, cane-backed chair under the harsh white house lights with his head slumped [[forward]]. In Joe’s hands were his ‘54 Gretsch White Falcon guitar and his still-bleeding heart.
 
-There were no cuts (or even marks) on Joe’s ashen chest. With no way to explain the horrible scene and fearing the cops would shut down the club, Buddy immediately called his cousin. A cousin who knew someone who dealt with weird stuff. A cousin who knew one of the hunters...
+There were no cuts (or even marks) on Joe’s ashen chest. With no way to explain the horrible scene and fearing the cops would shut down the club, Buddy immediately called his cousin. A cousin who knew someone who dealt with weird stuff. A cousin who knew one of [[the hunters]]...
 
 # Background
 
@@ -28,13 +28,13 @@ Johnny Ray’s is circling the drain. Like all good things in the blues, it’s 
 
 *Monster: Devourer (motivation: to consume profound sadness)*
 
-The Heartbreaker is an oddity among the vampiric monsters in that rather than consuming blood or fear, it feasts on despair. It is not above getting its hands dirty and hurting people, but it would much rather consume pure anguish unalloyed with terror. To that end, it will manipulate situations to create the meal it craves.
+The Heartbreaker is an oddity among the vampiric [[monsters]] in that rather than consuming blood or fear, it feasts on despair. It is not above getting its hands dirty and hurting people, but it would much rather consume pure anguish unalloyed with terror. To that end, it will manipulate situations to create the meal it craves.
 
 The Heartbreaker has currently disguised itself as the Orpheum’s new theatre manager, Jacky King. **Powers:**
 
 • **Glamour**: Always looks like a person of indescribable beauty, whatever the beholder finds most physically attractive.
 
-**Attacks:** **Brawl** 2-harm hand, **Debilitating sadness** 0-harm close magic (victims take -1 forward on a passionate action). **Armour:** 1.
+**Attacks:** **Brawl** 2-[[harm]] hand, **Debilitating sadness** 0-[[harm]] close magic (victims take -1 [[forward]] on a passionate action). **Armour:** 1.
 
 **Harm Capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -48,7 +48,7 @@ The Hollow resemble zombies in that they are unpossessed with selfwill, but they
 
 • **Mentally Reft**: Cannot be distracted—they have no mind or will of their own
 
-**Attacks:** **Smashing fists** 1-harm hand. **Armour:** 1.
+**Attacks:** **Smashing fists** 1-[[harm]] hand. **Armour:** 1.
 
 **Harm Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
 
@@ -80,7 +80,7 @@ Legendary blues club fallen on hard times, but the bar is stocked with smokey bo
 
 # Orpheum
 
-*Location: Den (motivation: to harbor monsters)*
+*Location: Den (motivation: to harbor [[monsters]])*
 
 The Orpheum is a newly remodelled 19th century concert hall with thick red velvet curtains and gilt balustrades. But all that is just a veneer over a building that’s ready to crumble. The illusion of beauty is what drew the Heartbreaker into making this her lair.
 
@@ -92,7 +92,7 @@ Travelling Jones Records is more than just a record shop, though their collectio
 
 # Custom Moves
 
-**Create Art**: When you channel your emotions into your talents and skills to make a beautiful work of art, say what you do and:
+**Create Art**: When you channel your emotions into your talents and skills to make a beautiful work of art, say [[what you do]] and:
 
 -   If you **use your knowledge and insight into the human condition**, roll +Charm.
 
@@ -106,11 +106,11 @@ Travelling Jones Records is more than just a record shop, though their collectio
 
 On a hit, you make it. On a 10+, choose one from the following list.
 
-On a 7-9, you pick one and the Keeper picks one.
+On a 7-9, you pick one and [[the Keeper]] picks one.
 
 -   It takes longer than you thought it would.
 
--   It costs you something precious. The Keeper will tell you what.
+-   It costs you something precious. [[The Keeper]] will tell you what.
 
 -   You’ll never make something this good again.
 

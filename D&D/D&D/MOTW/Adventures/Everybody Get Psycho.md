@@ -6,7 +6,7 @@ Everybody Get Psycho
 
 A demon haunts a CD, intent on turning unsuspecting music fans into cinematic serial killers.
 
-Inspiration from the film *Trick or Treat* (1986), and the music of Ozzy Osbourne, Disturbed, Slayer, and Slipknot.
+[[Inspiration]] from the film *Trick or Treat* (1986), and the music of Ozzy Osbourne, Disturbed, Slayer, and Slipknot.
 
 # Hook
 
@@ -24,7 +24,7 @@ A teenager murders her family with a chainsaw, exhibiting supernatural strength 
 
 **Weakness:** A simple banishing spell is enough to destroy the magic protecting the disk.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Summon a Wicked Soul**.
 
@@ -38,9 +38,9 @@ When **a hunter listens to the Disk Most Black**, they roll +Cool:
 
 -   On a 7-9, in addition to asking a question as above, choose 1: a Wicked Soul appears to steal the disk; the music deals you
 
-1-harm, ignore-armour; the music unsettles you and you take –1 ongoing until you take harm .
+1-[[harm]], ignore-[[armour]]; the music unsettles you and you take –1 [[ongoing]] until you take [[harm]] .
 
--   On a miss, a Wicked Soul makes off with the disk before any action can be taken, probably triggering another tick of the Countdown.
+-   On a miss, a Wicked Soul makes off with the disk before any action can be taken, probably triggering another tick of [[the Countdown]].
 
 # Wicked Souls
 
@@ -50,11 +50,11 @@ These little terrors resemble large mosquitos made of smoke and glowing coals (t
 
 • **Invisibility .**
 
-**Attack:** **Soul lash:** 1-harm intimate ignore-armour.
+**Attack:** **Soul lash:** 1-[[harm]] intimate ignore-[[armour]].
 
 **Armour:** 0, but ignores all but holy or psychic damage. **Harm capacity:** 2. <sup>\[\]\[\]</sup>
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Move the disk**.
 
@@ -68,15 +68,15 @@ These little terrors resemble large mosquitos made of smoke and glowing coals (t
 
 Brutes who seek only violence. This is a chance to bring your favorite
 
-(or most hated) movie slashers to life. The moves presented are just a sample from the typical slasher’s bag of tricks. Use your hard moves to the utmost to recreate the powers and deadliness of these remorseless slayers. Slashers who take more than 3-harm will be dead once the curse is broken by destroying the Disk Most Black. The Lord of Carnage is an evil fucker.
+(or most hated) movie slashers to life. The [[moves]] presented are just a sample from the typical slasher’s bag of tricks. Use your hard [[moves]] to the utmost to recreate the powers and deadliness of these remorseless slayers. Slashers who take more than 3-[[harm]] will be dead once the curse is broken by destroying the Disk Most Black. The Lord of Carnage is an evil fucker.
 
-**Attack:** **Signature over-the-top movie slasher weapon:** 4-harm hand messy.
+**Attack:** **Signature over-the-top movie slasher weapon:** 4-[[harm]] hand messy.
 
 **Armour:** 0
 
 **Harm Capacity:** 3 (They’re just kids! They change back upon death.) <sup>\[\]\[\]\[\]</sup>
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Attack from surprise**.
 
@@ -90,7 +90,7 @@ Brutes who seek only violence. This is a chance to bring your favorite
 
 The high school attended by the kids passing the disk around. By default, this story is set in the suburbs, but it could be anywhere that angsty music thrives. You may wish to rename the school to fit the setting of your game.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Rumor mill**.
 
@@ -102,9 +102,9 @@ The high school attended by the kids passing the disk around. By default, this s
 
 *Bystander: Gossip (motivation: to pass on rumours)*
 
-Mr. Kilminster is the history teacher at Matheson SHS. He’s known for teaching his senior world history class in full costume and running competitive academic events. He’s also a notorious gossip who finds youth culture fascinating, if alien. Yesterday, Mr. Kilminster heard some emo kids whispering about Bazrael, which he believes is a new drug responsible for the murders.
+Mr. Kilminster is the [[history]] teacher at Matheson SHS. He’s known for teaching his senior world [[history]] class in full costume and running competitive academic events. He’s also a notorious gossip who finds youth culture fascinating, if alien. Yesterday, Mr. Kilminster heard some emo kids whispering about Bazrael, which he believes is a new drug responsible for the murders.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Gossip monger**. **Nosey teacher**.
 
@@ -112,9 +112,9 @@ Mr. Kilminster is the history teacher at Matheson SHS. He’s known for teaching
 
 *Bystander: Victim (motivation: to put themselves in danger)*
 
-Jess and Vince are emo kids, but they are new to the school. They desperately want to be part of the group that hangs out in the woods and listens to amazing music like that black disk they keep hearing about. They will try to get information out of the hunters about the disk. They’ve heard the disk is by a band called ‘Bazrael.’ Jess and Vince can be found at Hill’s Music searching for the disk or behind the school smoking clove cigarettes.
+Jess and Vince are emo kids, but they are new to the school. They desperately want to be part of the group that hangs out in the woods and listens to amazing music like that black disk they keep hearing about. They will try to get information out of [[the hunters]] about the disk. They’ve heard the disk is by a band called ‘Bazrael.’ Jess and Vince can be found at Hill’s Music searching for the disk or behind the school smoking clove cigarettes.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Expert eavesdropper**.
 
@@ -126,7 +126,7 @@ Jess and Vince are emo kids, but they are new to the school. They desperately wa
 
 The local vintage music store where fans of rare music and esoteric media go to find entertainment. Yes, they still exist! And they have things you can’t find on iTunes. This is where the Disk Most Black first appeared and where Wicked Souls will return it if the Disk so commands (when there is no obvious new target). One of the employees might have seen something creepy.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Just what you’re looking for**. **Produce edgelord**.
 
@@ -136,7 +136,7 @@ The local vintage music store where fans of rare music and esoteric media go to 
 
 Reb Watson has worked at Hill’s Music for over a decade. Now they manage the store and keep the inventory fresh and enigmatic. Reb identifies as non-binary and uses they/them pronouns. They are just over five feet tall, covered in tattoos and piercings, and revered by the other employees. Reb doesn’t remember ordering the Disk Most Black, but has a record of its sale to the first teen victim, the girl who killed her family with a chainsaw.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Eyes in the back of their head**. **Cooler than you**.
 
@@ -144,9 +144,9 @@ Reb Watson has worked at Hill’s Music for over a decade. Now they manage the s
 
 *Location: Wilds (motivation: to contain hidden things)*
 
-Here we have the spooky woods where the teenagers hang out when they don’t want to be around those pesky parent-types. While the suburbs in the western US often have forested areas nearby, this location can easily be recast as a large public park or a rundown apartment building.
+Here we have [[the spooky]] woods where the teenagers hang out when they don’t want to be around those pesky parent-types. While the suburbs in the western US often have forested areas nearby, this location can easily be recast as a large public park or a rundown apartment building.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Dead end**.
 

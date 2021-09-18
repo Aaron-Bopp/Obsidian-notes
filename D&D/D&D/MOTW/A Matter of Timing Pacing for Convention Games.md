@@ -3,7 +3,7 @@
 
 Many Keepers struggle to end their convention games on time without rushing through their final confrontation. Delivering a rousing finish without going over your scheduled time is an art and a science. In this article we’re talking about the science. Spoiler alert: a little planning goes a long way.
 
-<img src="./TomeIMGs/media/image52.png" style="width:6in;height:8.5312in" />Pacing in RPGs can mean the ebb and flow of action in the story, but it also refers to the way a session evolves and how it treats the essential beats of a story. It’s no mystery that stories need a beginning, a middle, and an end. In campaign play, this ebb and flow happens naturally as the narrative and group develop. But for a one-shot, like a convention game, the Keeper is in a pressure cooker to deliver a fun time and a complete story on a tight timeline.
+<img src="./TomeIMGs/media/image52.png" style="width:6in;height:8.5312in" />Pacing in RPGs can mean the ebb and flow of action in the story, but it also refers to the way a session evolves and how it treats the essential beats of a story. It’s no mystery that stories need a beginning, a middle, and an end. In campaign play, this ebb and flow happens naturally as the narrative and group develop. But for a one-shot, like a convention game, [[the Keeper]] is in a pressure cooker to deliver a fun time and a complete story on a tight timeline.
 
 There’s plenty of narrative advice out there about plot points, rising action, and the like. This article provides practical advice for Keepers to end a convention game on time without sacrificing an exciting finale.
 
@@ -39,7 +39,7 @@ Make a list of all the things you want to tell people up front. Revise this list
 
 ## Example Agenda
 
--   A list of the gear I need to run the game.
+-   A list of the [[gear]] I need to run the game.
 
 -   FYIs (for the beginning—to ensure everyone is a good fit for the game):
 
@@ -61,19 +61,19 @@ Make a list of all the things you want to tell people up front. Revise this list
 
 -   About MotW & Player Experience: Find out who’s never played a Powered by the Apocalypse (PbtA) game and ask those who have to assist.
 
--   Explain the dice mechanic, ratings, and point out the basic moves.
+-   Explain the dice mechanic, ratings, and point out the basic [[moves]].
 
 -   Choose playbooks.
 
--   Read your playbook’s History options first, to guide your character vision.
+-   Read your playbook’s [[History]] options first, to guide your character vision.
 
 -   Questions on character creation or choices?
 
--   Your hunters are already a team; you have each other on speed dial; no introductions are necessary once play starts.
+-   Your hunters are already a team; you have each other on speed dial; no [[introductions]] are necessary once play starts.
 
 -   Explain Luck.
 
--   Review Basic Moves with extra attention to:
+-   Review Basic [[Moves]] with extra attention to:
 
 -   **Help out** and **protect**: Usable after the roll. You’re a kick ass team!
 
@@ -105,9 +105,9 @@ No matter how much or little time you have, it’s always important to give your
 
 <img src="./TomeIMGs/media/image56.jpg" style="width:6in;height:6.1967in" /> 1:15 • Start the Show—Cinematic Framing.
 
--   I like to signal the move into actual play and story time with dramatic music. Each player takes a turn describing an out of context action shot of their character meant to show ‘the audience’ something important about who they are. This is a great chance to establish signature weapons, stylish lairs, and memorable moments from history.
+-   I like to signal the move into actual play and story time with dramatic music. Each player takes a turn describing an out of context action shot of their character meant to show ‘the audience’ something important about who they are. This is a great chance to establish signature [[weapons]], stylish lairs, and memorable moments from [[history]].
 
-<table><colgroup><col style="width: 12%" /><col style="width: 87%" /></colgroup><thead><tr class="header"><th>1:20</th><th>• Opening Scene: the Hook and the first hunter.</th></tr></thead><tbody><tr class="odd"><td>1:25</td><td><ul><li><p>First Scene for hunters, where are they when they get the</p></li></ul><blockquote><p>Hook?</p></blockquote><ul><li><p>This is another opportunity for players to go big and establish what their hunter is up to when they’re contacted by the team: a dive bar with a pool game about to turn violent; an ancient tomb filled with zombie cobras; or a fashionable music festival getting their groove on. Agency really helps players invest in the game. Just make sure to resolve any entanglements in a roll or two and meet up with the team.</p></li></ul></td></tr><tr class="even"><td>1:50</td><td>• Group Investigation: Maybe there’s a McGuffin or maybe one of the hunters has a wild hunch; it’s ok to let them thrash about a bit.</td></tr><tr class="odd"><td><blockquote><p>2:10</p></blockquote></td><td>• Close Encounters. By this time, the hunters should be encountering minions or otherwise deep into the mystery. Perhaps a hunter gets a little too close to the truth, setting up a nice cliffhanger before the break.</td></tr><tr class="even"><td><blockquote><p>2:30</p></blockquote></td><td><ul><li><p>Break.</p></li><li><p>Review the schedule and adjust.</p></li><li><p>Who’s been getting the spotlight?</p></li><li><p>Ask players if there’s any element or character they’d like to see more of?</p></li></ul></td></tr><tr class="odd"><td><blockquote><p>2:40</p></blockquote></td><td>• Rising Action: get really free with the clues.</td></tr><tr class="even"><td><blockquote><p>3:00</p></blockquote></td><td>• Confronting the minions or hitting the big break in the case.</td></tr><tr class="odd"><td><blockquote><p>3:20</p></blockquote></td><td><ul><li><p>Confronting the Big Bad.</p></li><li><p>Detail the setting and sense of danger.</p></li><li><p>Make the creature awesome.</p></li></ul></td></tr><tr class="even"><td><blockquote><p>3:45</p></blockquote></td><td>• Epilogues &amp; cinematic final shot.</td></tr><tr class="odd"><td><blockquote><p>3:50</p></blockquote></td><td>• Thank your players and debrief, if they want. Ask them to help you clean up.</td></tr><tr class="even"><td><blockquote><p>3:55</p></blockquote></td><td>• Leave the room in good shape for the next group.</td></tr></tbody></table>
+<table><colgroup><col style="width: 12%" /><col style="width: 87%" /></colgroup><thead><tr class="header"><th>1:20</th><th>• Opening Scene: [[the Hook]] and the first hunter.</th></tr></thead><tbody><tr class="odd"><td>1:25</td><td><ul><li><p>First Scene for hunters, where are they when they get the</p></li></ul><blockquote><p>Hook?</p></blockquote><ul><li><p>This is another opportunity for players to go big and establish what their hunter is up to when they’re contacted by the team: a dive bar with a pool game about to turn violent; an ancient tomb filled with zombie cobras; or a fashionable music festival getting their groove on. Agency really helps players invest in the game. Just make sure to resolve any entanglements in a roll or two and meet up with the team.</p></li></ul></td></tr><tr class="even"><td>1:50</td><td>• Group Investigation: Maybe there’s a McGuffin or maybe one of [[the hunters]] has a wild hunch; it’s ok to let them thrash about a bit.</td></tr><tr class="odd"><td><blockquote><p>2:10</p></blockquote></td><td>• Close Encounters. By this time, [[the hunters]] should be encountering [[minions]] or otherwise deep into the mystery. Perhaps a hunter gets a little too close to the truth, setting up a nice cliffhanger before the break.</td></tr><tr class="even"><td><blockquote><p>2:30</p></blockquote></td><td><ul><li><p>Break.</p></li><li><p>Review the schedule and adjust.</p></li><li><p>Who’s been getting the spotlight?</p></li><li><p>Ask players if there’s any element or character they’d like to see more of?</p></li></ul></td></tr><tr class="odd"><td><blockquote><p>2:40</p></blockquote></td><td>• Rising Action: get really free with the clues.</td></tr><tr class="even"><td><blockquote><p>3:00</p></blockquote></td><td>• Confronting the [[minions]] or hitting the big break in the case.</td></tr><tr class="odd"><td><blockquote><p>3:20</p></blockquote></td><td><ul><li><p>Confronting the Big Bad.</p></li><li><p>Detail the setting and sense of danger.</p></li><li><p>Make the creature awesome.</p></li></ul></td></tr><tr class="even"><td><blockquote><p>3:45</p></blockquote></td><td>• Epilogues &amp; cinematic final shot.</td></tr><tr class="odd"><td><blockquote><p>3:50</p></blockquote></td><td>• Thank your players and debrief, if they want. Ask them to help you clean up.</td></tr><tr class="even"><td><blockquote><p>3:55</p></blockquote></td><td>• Leave the room in good shape for the next group.</td></tr></tbody></table>
 
 # Convention Gaming Technique
 
@@ -117,13 +117,13 @@ Even if you’re generally not a person who makes lists or wants to carefully ma
 
 # What about “Play to find out?”
 
-One of the best aspects of PbtA games is the idea of “play to find out.” Even if the Keeper knows the threats, they should never plan out the course of the game in advance. We don’t have to violate this principle in order to run a tight game. Every decision you make can move the story forward. Timeline notes like ‘Rising Action’ or ‘The Big Break’ are guides for scene framing.
+One of the best aspects of PbtA games is the idea of “play to find out.” Even if [[the Keeper]] knows [[the threats]], they should never plan out the course of the game in advance. We don’t have to violate this principle in order to run a tight game. Every decision you make can move the story [[forward]]. Timeline notes like ‘Rising Action’ or ‘The Big Break’ are guides for scene framing.
 
-Once the team has assembled, let the players take their time with their investigation and banter. Make them work a bit more, with **investigate a mystery** results that lead them to new threats rather than providing straightforward answers. Later, when the finale approaches, your choices can drive the hunters more directly to the finish; don’t hold anything back.
+Once the team has assembled, let the players take their time with their investigation and banter. Make them work a bit more, with **investigate a mystery** results that lead them to new threats rather than providing straightforward answers. Later, when the finale approaches, your choices can drive [[the hunters]] more directly to the finish; don’t [[hold]] anything back.
 
 # Other Applications
 
-While the examples provided here are tailored for *Monster of the Week*, the concepts can be applied to other games. I started making timelines for my organized play of *Dungeons & Dragons* games. In the tight time frames provided, I found myself struggling to make time for the setpiece fights at the end of the scenario. There’s only so much you can do to speed up play in games with figures and tactical maps. I found it took about 75 minutes to do a big set-piece a battle justice. By planning around that, and taking some notes about how long an average turn takes, I could adjust the rest of the scenario accordingly.
+While the [[examples]] provided here are tailored for *Monster of the Week*, the concepts can be applied to [[other games]]. I started making timelines for my organized play of *Dungeons & Dragons* games. In the tight time frames provided, I found myself struggling to make time for the setpiece [[fights]] at the end of the scenario. There’s only so much you can do to speed up play in games with figures and tactical maps. I found it took about 75 minutes to do a big set-piece a battle justice. By planning around that, and taking some notes about how long an average turn takes, I could adjust the rest of the scenario accordingly.
 
 When we’re rushed by the time constraints of a convention game, we risk a mediocre finale or asking players to somehow finish the game in another location. With a little planning, you can focus play time on your priorities and take command of the temporal game space.
 

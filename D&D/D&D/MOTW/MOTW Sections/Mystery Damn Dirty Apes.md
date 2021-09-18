@@ -8,7 +8,7 @@ Like “Dream Away the Time,” this mystery requires some things to be true abo
 
 Hook
 
-The hunters will hear that a spate of unusual burglaries at a university has now culminated in a murder.
+[[The hunters]] will hear that a spate of unusual burglaries at a university has now culminated in a murder.
 
 What makes the burglaries unusual is that they have been targeted on engineering and electronics workshops. Some artifacts have also been stolen from the Anthropology department. In all the raids, security cameras and alarms have been tampered with.
 
@@ -23,7 +23,7 @@ Notes
 
 This mystery has a fairly limited scope, with most of the events and investigation likely to take place at the university.
 
-Many of the bystanders know or suspect the truth, but have reasons to hide their involvement. Be sure to let the hunters know when the bystander they are talking to is being evasive or obviously concealing something, and make the hunters push each character hard to get the information. These secrets are another way to see how much the hunters will do—in this case, how hard will they push these bystanders?
+Many of the [[bystanders]] know or suspect the truth, but have reasons to hide their involvement. Be sure to let [[the hunters]] know when the bystander they are talking to is being evasive or obviously concealing something, and make [[the hunters]] push each character hard to get the information. These secrets are another way to see how much [[the hunters]] will do—in this case, how hard will they push these [[bystanders]]?
 
 The strange thefts (in order of occurrence):
 
@@ -49,27 +49,27 @@ Beech has no supernatural powers or abilities beyond those he uses to create his
 
 - **Etheric-Bionic Binding Spell**: Uses intricate mathemagical programming techniques to bind bionics to a living host. An other-dimensional consciousnesses is installed into the bionics as a control interface. Has the unfortunate side effect of overwriting the host mind with the mind of the other dimensional being (which cannot comprehend this universe).
 - (Post-upgrade) **Surgical robot hand** (see attacks).
-- (Post-upgrade) **Minion radio net**. He can sense anything that any of his bionic minions can sense, although he must actively concentrate to do so.
+- (Post-upgrade) **Minion radio net**. He can sense anything that any of his bionic [[minions]] can sense, although he must actively concentrate to do so.
 - (Post-upgrade) **Etheric blast** (see attacks).
 - (Post-upgrade) **Etheric awareness**. He is conscious of all living things in his immediate vicinity (within about 50m), regardless of obstacles. “Etherically active” individuals are easier for him to detect—for hunters, that’s anyone with Weird +2 or +3.
 
-**Attacks**: (Pre-upgrade) Ineffectual slap: 0-harm hand; (Post-upgrade) Surgical robot hand: 3-harm hand slow; (Post-upgrade) Etheric blast: 1-harm close magic ignores-armour
+**Attacks**: (Pre-upgrade) Ineffectual slap: 0-[[harm]] hand; (Post-upgrade) Surgical robot hand: 3-[[harm]] hand slow; (Post-upgrade) Etheric blast: 1-[[harm]] close magic ignores-[[armour]]
 
-**Armour**: (Pre-upgrade) None; (Post-upgrade) 2-armour.
+**Armour**: (Pre-upgrade) None; (Post-upgrade) 2-[[armour]].
 
 **Harm capacity**: 7. Okay bbbb|bbb Dying Unstable: b
 
-**Weaknesses**: **Gloating monologue:** Dr Beech cannot be defeated until the hunters have listened to him rant about his evil plans; (Post-upgrade) **Etheric-Bionic Control Interface:** If the interface is disrupted with magic or electromagnetic energy, Dr Beech will no longer be able to control the bionics and is vulnerable.
+**Weaknesses**: **Gloating monologue:** Dr Beech cannot be defeated until [[the hunters]] have listened to him rant about his evil plans; (Post-upgrade) **Etheric-Bionic Control Interface:** If the interface is disrupted with magic or electromagnetic energy, Dr Beech will no longer be able to control the bionics and is vulnerable.
 
 Dr Beech's Research Lab
 
-*Location: Den (motivation: to harbour monsters)*
+*Location: Den (motivation: to harbour [[monsters]])*
 
 Dr Beech can currently be found here. He sends monkeys and chimps to do or obtain anything he needs outside his lab.
 
 Beech has been absent from work for a week. That’s long enough to have been noticed by people who also know about the allegations, but most of them have assumed he’s on “gardening leave” while the whole mess is sorted out.
 
-If the hunters visit Beech’s apartment they will find it abandoned, with some evidence of packing for a long absence.
+If [[the hunters]] visit Beech’s apartment they will find it abandoned, with some evidence of packing for a long absence.
 
 The lab was originally a disused storage basement attached to the university’s steam tunnels. Beech has converted it into a robo-primate conversion factory. There are workbenches, operating tables, surgical robots, and a large number of robo-primates: up to 30 monkeys, and Koko and the chimps (if they are not on a mission elsewhere).
 
@@ -77,19 +77,19 @@ The surgical robots can be used as a weapon by Beech, but they’re tied to the 
 
 The Steam Tunnels
 
-*Location: Deathtrap (motivation: to harm intruders)*
+*Location: Deathtrap (motivation: to [[harm]] intruders)*
 
-The tunnels are the only way the hunters can get to Dr Beech’s lab, and they have been rigged to repel intruders with ambushes. Beech has set up lots of motion detectors and cameras to ensure he’s warned about intruders, and he will send out monkeys to deal with anyone snooping around. The monkeys are equipped with infrared-vision camera eyes, so they can see heat signatures in the total darkness of the tunnels.
+The tunnels are the only way [[the hunters]] can get to Dr Beech’s lab, and they have been rigged to repel intruders with ambushes. Beech has set up lots of motion detectors and cameras to ensure he’s warned about intruders, and he will send out monkeys to deal with anyone snooping around. The monkeys are equipped with infrared-vision camera eyes, so they can see heat signatures in the total darkness of the tunnels.
 
-The tunnels can be confusing to navigate, so you might want to call for an **act under pressure** move for the hunters to orientate themselves properly after a monkey attack.
+The tunnels can be confusing to navigate, so you might want to call for an **act under pressure** move for [[the hunters]] to orientate themselves properly after a monkey attack.
 
 Koko, robo Gorilla (mark 3)
 
 ![[Pasted image 20210917193646.png]]
 
-*Minion: Assassin (motivation: to kill the hunters)*
+*Minion: Assassin (motivation: to kill [[the hunters]])*
 
-A possessed bionic silverback gorilla, Koko has been kept caged so far as he is too dangerous and unstable to be let out. Once Beech knows about the hunters, or is ready to make his move, Koko will be unleashed.
+A possessed bionic silverback gorilla, Koko has been kept caged so far as he is too dangerous and unstable to be let out. Once Beech knows about [[the hunters]], or is ready to make his move, Koko will be unleashed.
 
 Note that Koko was not stolen from the university, but acquired through other means. Most likely, Dr Beech has been in contact with animal smugglers, but this loose end is a good candidate for tying into other parts of your own game.
 
@@ -98,9 +98,9 @@ Note that Koko was not stolen from the university, but acquired through other me
 - **Immense Strength**. Koko’s augmented gorilla limbs can overpower any human and deal with almost any barrier or weight.
 - **Laser cannon**. Koko has a laser cannon mounted over his left shoulder.
 
-**Attacks**: **Laser**: 2-harm hand close far; **Tear limb from limb**: 4-harm hand messy.
+**Attacks**: **Laser**: 2-[[harm]] hand close far; **Tear limb from limb**: 4-[[harm]] hand messy.
 
-**Armour**: Bionic Armour Plating: 2-armour.
+**Armour**: Bionic [[Armour]] Plating: 2-[[armour]].
 
 **Harm capacity**: 12. bbbbbbbbbbbb
 
@@ -118,9 +118,9 @@ The chimps are crazy, but smart. They like to sneak about and steal things.
 
 - **Electro-grapple**. Each chimp has one arm replaced with a mechanical grapple and line. The hand may be fired up to 30 meters and winched back in. The chimps can use this to ascend, swing around, attack, and steal things.
 
-**Attacks**: **Electro-grapple Strike**: 2-harm close restraining; **Grapple**: 3-harm intimate hand restraining messy; **Bite**: 2-harm intimate.
+**Attacks**: **Electro-grapple Strike**: 2-[[harm]] close restraining; **Grapple**: 3-[[harm]] intimate hand restraining messy; **Bite**: 2-[[harm]] intimate.
 
-**Armour**: **Bionic Armour Plating**: 1-armour.
+**Armour**: **Bionic [[Armour]] Plating**: 1-[[armour]].
 
 **Harm capacity**: 7. bbbbbbb Clara
 
@@ -143,15 +143,15 @@ Beech has around thirty robo-monkeys of various species. The monkeys will tend t
 - **Railgun**: Each monkey is equipped with a small electromagnetic cannon, which they’ll load with whatever comes to hand—stones, rubbish, poo, etc.
 - **Camera Eyes**: They can see infrared, so the robo-monkeys have excellent vision in total darkness, especially for spotting people.
 
-**Attacks**: **Railgun:** 0-3-harm (depends on ammunition) close far; **Bite:** 2-harm intimate.
+**Attacks**: **Railgun:** 0-3-[[harm]] (depends on ammunition) close far; **Bite:** 2-[[harm]] intimate.
 
-**Armour**: Bionic plating: 1-armour
+**Armour**: Bionic plating: 1-[[armour]]
 
 **Harm capacity**: Each group: 5.
 
 Group one: bbbbb Group two: bbbbb
 
-Each point of harm suffered by the group means 3 monkeys are out of action.
+Each point of [[harm]] suffered by the group means 3 monkeys are out of action.
 
 **Weakness**: **Etheric-Bionic Control Interface**: If the interface is disrupted with magic or electromagnetic energy, the monkey will no longer be able to control the bionics and is vulnerable.
 
@@ -159,13 +159,13 @@ University Quad
 
 *Location: Crossroads (motivation: to bring people, and things, together)*
 
-There’s a large quad in the center of the university campus. It’s usually filled with students. On the edges of the quad the hunters will find two cafes, the university library, and the main administration building.
+There’s a large quad in the center of the university campus. It’s usually filled with students. On the edges of the quad [[the hunters]] will find two cafes, the university library, and the main administration building.
 
 University Departments
 
 *Location: Hub (motivation: to reveal information)*
 
-The various departments the hunters may be interested in are all similar: long hallways, doors with opaque numbering systems (different for each department), and an assortment of offices, classrooms, labs, and storage areas lining any particular corridor.
+The various departments [[the hunters]] may be interested in are all similar: long hallways, doors with opaque numbering systems (different for each department), and an assortment of offices, classrooms, labs, and storage areas lining any particular corridor.
 
 University Grand Hall
 
@@ -183,11 +183,11 @@ Pauline Brooks
 
 *Bystander: Victim (motivation: to put themselves in danger)*
 
-A security guard at the university, doomed to be maimed in the events of “day” in the countdown. Before then, Pauline can help the hunters with details of the usual routine for the security team. They’re generally more concerned with students causing minor trouble rather than any kind of serious threat.
+A security guard at the university, doomed to be maimed in the events of “day” in [[the countdown]]. Before then, Pauline can help [[the hunters]] with details of the usual routine for the security team. They’re generally more concerned with students causing minor trouble rather than any kind of serious threat.
 
-**Attacks**: Nightstick: 1-harm hand
+**Attacks**: Nightstick: 1-[[harm]] hand
 
-**Armour**: Stab-proof vest: 1-armour
+**Armour**: Stab-proof vest: 1-[[armour]]
 
 **Harm capacity**: 7. bbbb|bbb
 
@@ -223,7 +223,7 @@ Holt is in charge of the university research ethics committee and thus has acces
 
 Holt also oversaw the ethics breach complaints against Beech and is aware that Beech was conducting hideous prosthetic experiments on animals.
 
-The university (specifically Dean Crouch) prevailed upon the committee to keep the details of these sessions confidential due to the danger they posed to the university’s reputation. Holt is not wholly happy with that situation and can be persuaded to reveal what he knows if the hunters provide good reasons (such as clues that Beech is continuing his work illicitly).
+The university (specifically Dean Crouch) prevailed upon the committee to keep the details of these sessions confidential due to the danger they posed to the university’s reputation. Holt is not wholly happy with that situation and can be persuaded to reveal what he knows if [[the hunters]] provide good reasons (such as clues that Beech is continuing his work illicitly).
 
 Amy Pritchard, Student
 
@@ -249,7 +249,7 @@ Crazy Cats Club
 
 A bar and punk/alternative music venue, this is also the *de facto* headquarters of the Animal Freedom Militia. The bar is cramped and noisy, the walls covered with messy murals and graffiti.
 
-If the hunters come here undercover as cops or other authority figures, the patrons will tend to be hostile.
+If [[the hunters]] come here undercover as cops or other authority figures, the patrons will tend to be hostile.
 
 Amy and Robin can be found here most evenings, and if not then someone will know where they are.
 
@@ -257,15 +257,15 @@ Claire Guimaras, Local police chief
 
 *Bystander: Witness (motivation: to reveal information)*
 
-Concerned mainly with the weirdness of the crime, Guimaras has no particular leads when the hunters first arrive. It’s clearly linked to the other recent thefts at the university, but the extreme violence of the attack on the security guard has left her puzzled.
+Concerned mainly with the weirdness of the crime, Guimaras has no particular leads when [[the hunters]] first arrive. It’s clearly linked to the other recent thefts at the university, but the extreme violence of the attack on the security guard has left her puzzled.
 
 Later in the adventure, forensic technicians will report that samples from the scene reveal that at least two chimpanzees were involved. This fact does not help Guimaras in any meaningful way.
 
-If the hunters can give her some leads or any kind of explanation about what is really going on, she’ll be grateful.
+If [[the hunters]] can give her some leads or any kind of explanation about what is really going on, she’ll be grateful.
 
-Other Bystanders
+Other [[Bystanders]]
 
-Use these templates as starting points for any other people the hunters talk to.
+Use these templates as starting points for any other people [[the hunters]] talk to.
 
 ![](MotWIMG27.jpeg)
 

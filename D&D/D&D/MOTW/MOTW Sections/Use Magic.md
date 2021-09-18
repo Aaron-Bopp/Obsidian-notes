@@ -2,15 +2,15 @@
 When you **use magic**, say what you’re trying to achieve and how you do the spell, then roll +Weird.
 
 - If you get a 10+, the magic works without issues: choose your effect.
-- On a 7-9, it works imperfectly: choose your effect and a glitch. The Keeper will decide what effect the glitch has.
+- On a 7-9, it works imperfectly: choose your effect and a glitch. [[The Keeper]] will decide what effect the glitch has.
 - On a miss, you lose control of the magic. This never ends well.
 
 By default the magic has one of the effects listed below, lasts for around thirty minutes, and does not expose you to danger, unwanted attention, or side-effects. If there’s a glitch that might change.
 
 Effects:
 
-- Inflict harm (1-harm ignore-armour magic obvious).
-- Enchant a weapon. It gets +1 harm and +magic.
+- Inflict [[harm]] (1-[[harm]] ignore-[[armour]] magic obvious).
+- Enchant a weapon. It gets +1 [[harm]] and +magic.
 - Do one thing that is beyond human limitations.
 - Bar a place or portal to a specific person or a type of creature.
 - Trap a specific person, minion, or monster.
@@ -18,17 +18,17 @@ Effects:
 - Summon a monster into the world.
 - Communicate with something that you do not share a language with.
 - Observe another place or time.
-- Heal 1-harm from an injury, or cure a disease, or neutralize a poison.
+- Heal 1-[[harm]] from an injury, or cure a disease, or neutralize a poison.
 
 Glitches:
 
 - The effect is weakened.
 - The effect is of short duration.
-- You take 1-harm ignore-armour.
+- You take 1-[[harm]] ignore-[[armour]].
 - The magic draws immediate, unwelcome attention.
 - It has a problematic side effect.
 
-The Keeper may require one or more of the following:
+[[The Keeper]] may require one or more of the following:
 
 - The spell requires weird materials.
 - The spell will take 10 seconds, 30 seconds, or 1 minute to cast.
@@ -37,7 +37,7 @@ The Keeper may require one or more of the following:
 - You need one or two people to help cast the spell.
 - You need to refer to a tome of magic for the details.
 
-If you want to do magic that goes beyond these effects, it counts as **big magic**. Big magic uses different rules, described below.
+If you want to do magic that goes beyond these effects, it counts as **big magic**. [[Big magic]] uses different rules, described below.
 
 Magic, by its nature, breaks the rules. The **use magic** move lists the possible effects for magic spells. Magic that goes beyond these effects counts as **big magic** (see below).
 
@@ -67,7 +67,7 @@ For a more super-heroic game, going ‘beyond human limitations’ might include
 - surviving a deadly injury.
 - reading the thoughts of everyone around you.
 
-So, when a hunter wants to exceed human limitations, think carefully about what allowing their desired effect in this case implies for your entire game. You can think of your decisions about this as a dial that determines how much power the hunters can get from everyday magic spells.
+So, when a hunter wants to exceed human limitations, think carefully about what allowing their desired effect in this case implies for your entire game. You can think of your decisions about this as a dial that determines how much power [[the hunters]] can get from everyday magic spells.
 
 If you think the desired effect is too powerful, tell them they would have to do it with by using a **big magic** ritual instead).
 

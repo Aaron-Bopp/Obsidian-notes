@@ -8,9 +8,9 @@ Elvis Has Left the Building
 
 # Concept
 
-<img src="./TomeIMGs/media/image114.png" style="width:5.99667in;height:2.70667in" />The hunters investigate several bizarre appearances of the famously deceased Elvis Presley socializing with also-deceased ex-President Richard Nixon in their local community.
+<img src="./TomeIMGs/media/image114.png" style="width:5.99667in;height:2.70667in" />[[The hunters]] investigate several bizarre appearances of the famously deceased Elvis Presley socializing with also-deceased ex-President Richard Nixon in their local community.
 
-Almost everyone regards this case as a joke: typical of the silly tabloid ghost hunting stories that the *In Search of the Supernatural* television series is famous for producing. However, it offers the hunters the possibility of some quick money for very little work.
+Almost everyone regards this case as a joke: typical of the silly tabloid ghost hunting stories that the *In Search of the Supernatural* television series is famous for producing. However, it offers [[the hunters]] the possibility of some quick money for very little work.
 
 # Overview
 
@@ -26,11 +26,11 @@ Caerbannog” tulpa from her memories of *Monty Python and the Holy*
 
 Potential leads:
 
--   The popular cable television tabloid series *In Search of the Supernatural* asks the hunters for their “expert consultants’ opinion” on the case.
+-   The popular cable television tabloid series *In Search of the Supernatural* asks [[the hunters]] for their “expert consultants’ opinion” on the case.
 
 -   <img src="./TomeIMGs/media/image115.png" style="width:5.99667in;height:2.70667in" />A Flake (or other conspiracy theorist hunter) hears about the phenomenon.
 
--   The hunters happen to be at the bar when the tulpas first appear.
+-   [[The hunters]] happen to be at the bar when the tulpas first appear.
 
 -   A Snoop is called anonymously (by Amy) to join the interviewers (for a fee, of course).
 
@@ -40,7 +40,7 @@ Potential leads:
 
 # Investigation Notes
 
--   Nobody on the *In Search of the Supernatural* staff thinks the story is real, but the producers want the hunters to unearth an entertaining yarn they can broadcast. The worse the hunters’ reputations, the happier the producers are to hire them (for less money).
+-   Nobody on the *In Search of the Supernatural* staff thinks the story is real, but the producers want [[the hunters]] to unearth an entertaining yarn they can broadcast. The worse [[the hunters]]’ reputations, the happier the producers are to hire them (for less money).
 
 -   The tulpas only appear at the White House Bar at midnight when Amy Caulfield is present. Nixon asks for a large amount of money in exchange for interviews. However, tulpas cannot be recorded by electronic devices. The tulpas have only limited information about their historical selves: they only know what Amy knows. The tulpas always vanish by 1 a.m.
 
@@ -48,7 +48,7 @@ Potential leads:
 
 -   Since 2009, anonymous posters on the discussion board 4chan started experimenting with creating tulpas, and the community gained popularity through the emergence of the *My Little Pony: Friendship Is Magic* fandom. The fans attempted to use meditation and lucid dreaming techniques to create imaginary friends. These individuals, calling themselves ‘tulpamancers,’ treat the tulpas as a
 
-‘real or somewhat-real person.’ Due to this unlikely connection, some *My Little Pony* websites provide useful and accurate information about tulpas when the hunters investigate on the Web.
+‘real or somewhat-real person.’ Due to this unlikely connection, some *My Little Pony* websites provide useful and accurate information about tulpas when [[the hunters]] investigate on the Web.
 
 # Amy Caulfield, grifter and tulpamancer
 
@@ -56,7 +56,7 @@ Potential leads:
 
 An imaginative unemployed middle school English teacher, and single mother who decided to support her two daughters and make her way in the world by running supernatural short cons. Amy’s strong psychic abilities are largely subconscious but she can consciously summon tulpas after a few drinks (although she can’t fully control them).
 
-If there’s a fight or other stressful situation in the bar, Amy might create more tulpas unintentionally. These could be any characters from fiction or history that would make the situation more chaotic or silly (that’s for you the Keeper, it’s not what Amy wants). These tulpas will not be under her control, but may try to protect her from what is going on.
+If there’s a fight or other stressful situation in the bar, Amy might create more tulpas unintentionally. These could be any characters from fiction or [[history]] that would make the situation more chaotic or silly (that’s for you [[the Keeper]], it’s not what Amy wants). These tulpas will not be under her control, but may try to protect her from what is going on.
 
 # Tulpas
 
@@ -64,11 +64,11 @@ If there’s a fight or other stressful situation in the bar, Amy might create m
 
 A tulpa is an imaginary minion brought to life through pure will, lasting for a single hour. It is usually based on a fictional creation or historical figure with whom the creator has a strong emotional connection.
 
-Normal tulpas only have the abilities of the person who created them. They doesn’t have any special powers, attacks, or armour. They only possess the knowledge and abilities of their creator. They may be destroyed by magic and will fade back into the subconscious of their creator within an hour of their creation. If killed, a tulpa’s corpse will fade from existence within an hour.
+Normal tulpas only have the abilities of the person who created them. They doesn’t have any special powers, attacks, or [[armour]]. They only possess the knowledge and abilities of their creator. They may be destroyed by magic and will fade back into the subconscious of their creator within an hour of their creation. If killed, a tulpa’s corpse will fade from existence within an hour.
 
-An evil tulpa will not fade after an hour. It will continue to manifest randomly (at the Keeper’s discretion) to harm its creator in some way. Tulpas always manifest an item an that can take advantage of their weakness. Tulpas of any type will always disappear if their creator dies.
+An evil tulpa will not fade after an hour. It will continue to manifest randomly (at [[the Keeper]]’s discretion) to [[harm]] its creator in some way. Tulpas always manifest an item an that can take advantage of their weakness. Tulpas of any type will always disappear if their creator dies.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 To **summon a tulpa** you must be able to use some sort of magic and have studied the process. A hunter trying it may have to **act under pressure** to stay focused while visualizing the tulpa. Roll +Weird:
 
@@ -88,7 +88,7 @@ An imaginary friend brought to life, this version of Richard Nixon looks how he 
 
 *Bystander: Victim (motivation: to put himself in danger)*
 
-This is the Las Vegas Elvis of popular lore in full regalia, but he is a carefree and warm hypocritical “King of Rock and Roll.” He voices his love for Monty Python, and his loathing of the scourge of illegal drugs (often while injecting himself or popping pills endlessly without effect). He often hugs President Nixon and treats him like a younger sibling, much to the former President’s discomfort. Unlike Nixon, Elvis seems to have some understanding that he is a tulpa, although he will not admit it. If killed, he will ask the hunters to have “Amy bring him and the former president back for a drink sometime,” as his dying wish.
+This is the Las Vegas Elvis of popular lore in full regalia, but he is a carefree and warm hypocritical “King of Rock and Roll.” He voices his love for Monty Python, and his loathing of the scourge of illegal drugs (often while injecting himself or popping pills endlessly without effect). He often hugs President Nixon and treats him like a younger sibling, much to the former President’s discomfort. Unlike Nixon, Elvis seems to have some understanding that he is a tulpa, although he will not admit it. If killed, he will ask [[the hunters]] to have “Amy bring him and the former president back for a drink sometime,” as his dying wish.
 
 # Rabbit of Caerbannog, evil deviant tulpa
 
@@ -98,9 +98,9 @@ This unpredictable ‘bunny’ may look cute and cuddly on the outside, but insi
 
 When attacking multiple foes, the rabbit quickly jumps from one target to another, giving those it’s fighting no chance to stop it. **Powers:**
 
--   **Extremely fast and long jump**: After it inflicts harm on a target, it may instantly jump up to far range (including to another target).
+-   **Extremely fast and long jump**: After it inflicts [[harm]] on a target, it may instantly jump up to far range (including to another target).
 
-**Attack:** **Bite** 5-harm hand messy.
+**Attack:** **Bite** 5-[[harm]] hand messy.
 
 **Armour:** 0. Soft fur, often bloody.
 
@@ -108,7 +108,7 @@ When attacking multiple foes, the rabbit quickly jumps from one target to anothe
 
 **Weaknesses:**
 
--   **Holy Hand Grenade of Antioch**. The Holy Hand Grenade will appear randomly in the bar whenever the monster appears. It looks like a jewelled orb with a crucifix on top, and definitely looks out of place in the bar. The ‘grenade’ does 30-harm but only to rabbits and scenery.
+-   **Holy Hand Grenade of Antioch**. The Holy Hand Grenade will appear randomly in the bar whenever the monster appears. It looks like a jewelled orb with a crucifix on top, and definitely looks out of place in the bar. The ‘grenade’ does 30-[[harm]] but only to rabbits and scenery.
 
 -   The death of Amy Caulfield.
 
@@ -138,7 +138,7 @@ An erudite 50-year-old semi-retired producer of award-winning historical and nat
 
 Low-rent local offices near the John Wayne Airport. Home of *In Search of the Supernatural*.
 
-Low-rent local offices near the John Wayne Airport, Loch Ness Productions corporate is cheerfully chaotic, with movie posters on every wall and starstruck interns everywhere. Since no one has any authority besides the owner and Chief Operating Officer Christian B. Slyvas (who spends most of his time avoiding visitors), the hunters are likely to be ‘accidentally’ locked in a storeroom filled with old movie memorabilia and props for days if they request a meeting with this august personage or come looking for payment.
+Low-rent local offices near the John Wayne Airport, Loch Ness Productions corporate is cheerfully chaotic, with movie posters on every wall and starstruck interns everywhere. Since no one has any authority besides the owner and Chief Operating Officer Christian B. Slyvas (who spends most of his time avoiding visitors), [[the hunters]] are likely to be ‘accidentally’ locked in a storeroom filled with old movie memorabilia and props for days if they request a meeting with this august personage or come looking for payment.
 
 # Christian B. Slyvas, OWNER, Loch Ness Productions
 

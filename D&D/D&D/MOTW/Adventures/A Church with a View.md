@@ -12,7 +12,7 @@ The walls of the church have been absorbing all the hate and negativity and beca
 
 A death by stabbing occurred in St. George’s yesterday. Father Amhurst was hostile and uncooperative with the police.
 
-The following supernatural elements were also reported, which should make the hunters interested:
+The following supernatural elements were also reported, which should make [[the hunters]] interested:
 
 -   Visions of hell and ghostly forms seen through the church windows.
 
@@ -36,7 +36,7 @@ When the monster manifests as one of the figures from a stained glass window, th
 
 -   **Re-emerge**: When a manifested form is destroyed, the ghost comes out of another window in a new form of something depicted in that window. Each window may only be used once.
 
--   **Shatter**: The monster can shatter its currently manifested form at will, destroying it and sending shards of glass in every direction (4-harm far messy).
+-   **Shatter**: The monster can shatter its currently manifested form at will, destroying it and sending shards of glass in every direction (4-[[harm]] far messy).
 
 -   **Blind**: If under bright light, the ghost can reflect the light into the eyes. Roll +Cool to cover your eyes:
 
@@ -46,7 +46,7 @@ When the monster manifests as one of the figures from a stained glass window, th
 
 -   On a miss, you are blinded for at least 30 seconds.
 
-**Attacks:** **Sharp shards of glass** 3-harm close messy. **Armour:** None.
+**Attacks:** **Sharp shards of glass** 3-[[harm]] close messy. **Armour:** None.
 
 **Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -58,15 +58,15 @@ When the monster manifests as one of the figures from a stained glass window, th
 
 Following the Stained Glass Ghost through the tear in reality, these poltergeists will manifest in vaguely humanoid forms. **Powers:**
 
-<img src="./TomeIMGs/media/image94.jpg" style="width:5.99667in;height:4.33in" />• **Coalesce**: The Poltergeists can gather together into a more powerful form. This doubles their harm capacity and the harm they inflict.
+<img src="./TomeIMGs/media/image94.jpg" style="width:5.99667in;height:4.33in" />• **Coalesce**: The Poltergeists can gather together into a more powerful form. This doubles their [[harm]] capacity and the [[harm]] they inflict.
 
-**Attacks:** **Throw anything not bolted down** 2-harm far.
+**Attacks:** **Throw anything not bolted down** 2-[[harm]] far.
 
 **Armour:** None.
 
 **Harm Capacity:** 2. <sup>\[\]\[\]</sup>
 
-**Weakness:** Corporeal form—in order to attack the hunters, the Poltergeists must physically manifest. They can be destroyed by all forms of harm, just as a human would. When destroyed they melt into shadows and disappear, never to manifest again.
+**Weakness:** Corporeal form—in order to attack [[the hunters]], the Poltergeists must physically manifest. They can be destroyed by all forms of [[harm]], just as a human would. When destroyed they melt into shadows and disappear, never to manifest again.
 
 # St. George's Church, Temporally Displaced Building
 
@@ -76,7 +76,7 @@ The church is known for its many stained glass windows depicting scenes of the b
 
 The church is now intersects with a space between realities. Anyone who looks out the windows sees the realm of ghosts. Each color of glass gives a different view of a strange landscape and swirling mass of ghosts, each tinted by the color of the glass. **Powers:**
 
-• **Locked In**: Once the door to the church has been closed, those inside are trapped. Opening the door again reveals the ethereal landscape of the ghost world. The church returns to the normal world when the ghost is destroyed or if the hunters can pull off some appropriate **big magic**.
+• **Locked In**: Once the door to the church has been closed, those inside are trapped. Opening the door again reveals the ethereal landscape of the ghost world. The church returns to the normal world when the ghost is destroyed or if [[the hunters]] can pull off some appropriate **big magic**.
 
 **Custom Move:**
 
@@ -96,18 +96,18 @@ Father Amhurst has always possessed a mean streak and not a little bit of prejud
 
 In his twilight years, his tolerance has waned even further and his sermons have reflected this. At first his antics drove parishioners away, but after social media turned his meltdowns into a viral sensation his congregation swelled with the curious and hateful. His new audience fueled the detestable fire within him.
 
-This has wrought the current state of affairs. Amhurst denies any of this is his fault and instead blames ‘sinners’: these events are the wrath of God coming to punish the ungodly. He will offer no cooperation with the hunters under any circumstances.
+This has wrought the current state of affairs. Amhurst denies any of this is his fault and instead blames ‘sinners’: these events are the wrath of God coming to punish the ungodly. He will offer no cooperation with [[the hunters]] under any circumstances.
 
 # Carrie Haydon, Police Officer
 
 *Bystander: Official (motivation: to be suspicious)*
 
-The local cop on the job who has been called in to investigate what’s happening at the church. Officer Haydon thinks the murders are the work of an opportunistic serial killer. She is totally unprepared for the existence of monsters and the supernatural.
+The local cop on the job who has been called in to investigate what’s happening at the church. Officer Haydon thinks the murders are the work of an opportunistic serial killer. She is totally unprepared for the existence of [[monsters]] and the supernatural.
 
 # Clark Molina, Local citizen in the wrong place at the wrong time
 
 *Bystander: Victim (motivation: to put himself in danger)*
 
-Clark Molina is an insurance adjuster. He works from his home across the street. He is curious about the commotion at St. George’s as the hunters arrive, and will find his way into trouble, possibly getting trapped in the church when the doors close.
+Clark Molina is an insurance adjuster. He works from his home across the street. He is curious about the commotion at St. George’s as [[the hunters]] arrive, and will find his way into trouble, possibly getting trapped in the church when the doors close.
 
 [[The Circles]]

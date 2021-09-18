@@ -8,7 +8,7 @@ Harvest Maze
 
 # Concept
 
-The hunters investigate a couple’s ‘disappearance.’
+[[The hunters]] investigate a couple’s ‘disappearance.’
 
 This mystery was inspired by the first season *Supernatural* episode
 
@@ -18,7 +18,7 @@ This mystery was inspired by the first season *Supernatural* episode
 
 A series of disappearances—of multiple victims—around the same date every year has this small town’s police worried about a possible serial killer.
 
-Either law enforcement or family members of the victims may ask the hunters to help. A Flake could notice the cycle of disappearances or be tipped off by a crime reporter. The victims share no discernible pattern of class, age, geography, ethnic group, or religious faith. All they have in common are the dates of their disappearances.
+Either law enforcement or family members of the victims may ask [[the hunters]] to help. A Flake could notice the cycle of disappearances or be tipped off by a crime reporter. The victims share no discernible pattern of class, age, geography, ethnic group, or religious faith. All they have in common are the dates of their disappearances.
 
 The first missing person was notable UFO expert, right wing pundit, and radio talk show host Erica Kripke. She disappeared seven years ago while investigating crop circles. This led to claims from her associates of government conspiracy and/or alien abduction. Her empty car was found next to a cornfield.
 
@@ -56,19 +56,19 @@ The coco’s true form is hideous: a twisted, half-melted corpse child in rags. 
 
 **Weakness:** The sound of protective prayers.
 
-**Attacks:** **Strike with fists** 1-harm hand. **Draining grip** 0-harm hand life-drain.
+**Attacks:** **Strike with fists** 1-[[harm]] hand. **Draining grip** 0-[[harm]] hand life-drain.
 
 **Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Armour:** None
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Escaping The Coco**: When you are having your life drained by a coco and try to break free, roll +Tough:
 
 -   On a 10+, you break the coco’s grip. You are free!
 
--   On a 7-9, choose to escape but suffer 1-harm and move to the next Life Drain countdown level, or resist for the moment but stay in its grip.
+-   On a 7-9, choose to escape but suffer 1-[[harm]] and move to the next Life Drain countdown level, or resist for the moment but stay in its grip.
 
 -   On a miss, you immediately suffer the next two countdown entries. **Life Drain Countdown**:
 
@@ -76,9 +76,9 @@ The coco’s true form is hideous: a twisted, half-melted corpse child in rags. 
 
 -   Shadows: Extreme pain.
 
--   Sunset: Pain induces 1-harm.
+-   Sunset: Pain induces 1-[[harm]].
 
--   Dusk: Pain induces 3-harm.
+-   Dusk: Pain induces 3-[[harm]].
 
 -   Nightfall: The hunter is unconscious.
 
@@ -92,7 +92,7 @@ The couple was last seen near a cornfield on the Guzman farm.
 
 A recent immigrant success story, the Guzmans operate something that is becoming exceedingly rare: a family farm. The disappearances have been clustered around this area, as well as a largely disregarded series of chupacabra sightings by drunk local teenagers (which were the coco, of course).
 
-When investigating the cornfield the hunters will suddenly hear a women’s scream amid the corn. If the field is entered they will find themselves in a strange misty corn maze after dark (no matter the actual time).
+When investigating the cornfield [[the hunters]] will suddenly hear a women’s scream amid the corn. If the field is entered they will find themselves in a strange misty corn maze after dark (no matter the actual time).
 
 # Vanessa Guzman
 
@@ -110,9 +110,9 @@ A man obsessed with making his family farm a success, Fidel becomes warm and fri
 
 # The Coco's Corn Maze 
 
-*Location: Den (motivation: to harbour monsters)*
+*Location: Den (motivation: to harbour [[monsters]])*
 
-An illusionary labyrinth created by the coco to ‘play’ with its victims. It is always night in the maze, with a full harvest moon. The stars match no known constellations. If the coco is killed, the illusion vanishes and the hunters find themselves randomly dispersed through the Guzman corn fields.
+An illusionary labyrinth created by the coco to ‘play’ with its victims. It is always night in the maze, with a full harvest moon. The stars match no known constellations. If the coco is killed, the illusion vanishes and [[the hunters]] find themselves randomly dispersed through the Guzman corn fields.
 
 # <img src="./TomeIMGs/media/image122.jpg" style="width:6in;height:3.625in" />Josh Lopez, Noisy Reporter
 
@@ -120,7 +120,7 @@ An illusionary labyrinth created by the coco to ‘play’ with its victims. It 
 
 Josh is a young, bright, ambitious reporter from an impoverished immigrant family. He believes a serial killer targeting Hispanics has been operating in the area. Josh is fascinated with serial killers, and believes this case could also expose an American society deeply prejudiced and indifferent to the suffering of minorities.
 
-He will try to enlist the hunters in any number of research activities that alienate the local authorities and produce little useful information.
+He will try to enlist [[the hunters]] in any number of research activities that alienate the local authorities and produce little useful information.
 
 Josh is skeptical of the supernatural, but his childhood was full of stories of folklore, including the coco.
 

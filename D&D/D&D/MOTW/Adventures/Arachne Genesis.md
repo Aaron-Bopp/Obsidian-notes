@@ -10,27 +10,27 @@ Doctor Atsuko Popov is a scientist from a race of spider-people, called the gumo
 
 There are different varieties of gumo, some quite easily able to pass for human and others with obvious spider-like features. Their personalities and morality are in the normal human range. Mostly they keep themselves hidden, in fear of humanity’s reaction. The gumo are a mortal species, but some have psychic abilities.
 
-It is up to the Keeper whether they are a minor or major part of the setting.
+It is up to [[the Keeper]] whether they are a minor or major part of the setting.
 
 # Hook
 
 Some possibilities:
 
--   Another team of hunters has gone missing after looking into rumors of sewer monsters.
+-   Another team of hunters has gone missing after looking into rumors of sewer [[monsters]].
 
 -   A series of murders in high-security buildings has police stumped due to the lack of apparent access.
 
 -   A disturbingly deformed corpse was recently discovered.
 
--   The goddess Arachne sends dreams to one of the hunters.
+-   The goddess Arachne sends dreams to one of [[the hunters]].
 
 # <img src="./TomeIMGs/media/image84.jpg" style="width:6in;height:3.3575in" />Countdown
 
-<table><colgroup><col style="width: 23%" /><col style="width: 76%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>Older failed experiments continue their attacks until they are captured or die.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td><blockquote><p>Dr Popov releases an infectious patient she considers too dangerous to hold.</p></blockquote></td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Survivors of arachnoid attacks start turning into arachnoids over the next eight hours.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td>Arachnoid sightings make it to the news.</td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td><blockquote><p>The authorities become aware of the arachnoid plague.</p></blockquote></td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>The military suppresses the infestation, with significant collateral damage.</p></blockquote></td></tr></tbody></table>
+<table><colgroup><col style="width: 23%" /><col style="width: 76%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>Older failed experiments continue their attacks until they are captured or die.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td><blockquote><p>Dr Popov releases an infectious patient she considers too dangerous to [[hold]].</p></blockquote></td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Survivors of arachnoid attacks start turning into arachnoids over the next eight hours.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td>Arachnoid sightings make it to the news.</td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td><blockquote><p>The authorities become aware of the arachnoid plague.</p></blockquote></td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>The military suppresses the infestation, with significant collateral damage.</p></blockquote></td></tr></tbody></table>
 
 # Gumo Plague
 
-*Phenomenon: Biohazard (motivation: to infect, harm and spread)*
+*Phenomenon: Biohazard (motivation: to infect, [[harm]] and spread)*
 
 As the mystery begins, Dr Popov has recreated the mutagenic bioweapon. She doesn’t realise it yet. She took genetic samples from the first-generation gumo who survived the original bioweapon, and her own research ‘reawakened’ the plague.
 
@@ -40,19 +40,19 @@ Lifespan: As the plague mutates, each generation of infected arachnoids lives tw
 
 **Cunning**: Infected arachnoids become feral and violent, but are capable of a greater degree of cunning than the original gumos. Arachnoids can set traps and be wary of security cameras etc. Some arachnoids might start to figure out they can infect others and may seek to do so rather than kill people. The motive for doing so varies from individual to individual. Some might be trying to punish enemies while others might want to reunite with loved ones.
 
-**Infectious**: If **a hunter suffers harm from an arachnoid bite**, instead of the normal **harm** move, use this one. Roll +Tough:
+**Infectious**: If **a hunter suffers [[harm]] from an arachnoid bite**, instead of the normal **harm** move, use this one. Roll +Tough:
 
--   On a 10 or more, they resist the infection and gain +1 ongoing to resist the infection in the future. If they already have +1 ongoing, they are now totally immune to the plague.
+-   On a 10 or more, they resist the infection and gain +1 [[ongoing]] to resist the infection in the future. If they already have +1 [[ongoing]], they are now totally immune to the plague.
 
 -   On a 7-9, the infected person starts at the Day level of the infection countdown (detailed below).
 
 -   On a miss, the infected person starts at the Sunset level of the infection countdown.
 
-**Weakness:** Treating individuals one at a time takes too long to cure the plague: more victims will be infected too fast. The hunters must find someone who has become immune to the plague (perhaps one of their own number), then they can create a vaccine that can be mass-produced. This will prevent new infections from occurring and thus allow authorities to deal with the already-infected on a case-by-case basis.
+**Weakness:** Treating individuals one at a time takes too long to cure the plague: more victims will be infected too fast. [[The hunters]] must find someone who has become immune to the plague (perhaps one of their own number), then they can create a vaccine that can be mass-produced. This will prevent new infections from occurring and thus allow authorities to deal with the already-infected on a case-by-case basis.
 
-**Custom moves:**
+**Custom [[moves]]:**
 
-**The Plague**: The plague progresses in stages as detailed below. Danger, fear, and anger cause it to advance more quickly. The Keeper has discretion over what exactly causes the infection to advance a stage—this could be a potential consequence or choice on a 7-9 or miss result for the hunter’s moves.
+**The Plague**: The plague progresses in stages as detailed below. Danger, fear, and anger cause it to advance more quickly. [[The Keeper]] has discretion over what exactly causes the infection to advance a stage—this could be a potential consequence or choice on a 7-9 or miss result for the hunter’s [[moves]].
 
 **Infection Countdown:**
 
@@ -68,7 +68,7 @@ Lifespan: As the plague mutates, each generation of infected arachnoids lives tw
 
 -   Midnight: The character seems completely monstrous. Rational thought is nearly impossible.
 
-**Cure:** A person whose immune system is boosted by magic or science can fight off the transformation with regular **use magic** or **weird science**. Other weird moves might also apply if the hunter comes up with a good way to use them. It is not so simple to cure someone who has completed the transformation. This is a situation requiring major effort, **big magic** or a **weird science** experiment. The following elements will be needed:
+**Cure:** A person whose immune system is boosted by magic or science can fight off the transformation with regular **use magic** or **weird science**. Other weird [[moves]] might also apply if the hunter comes up with a good way to use them. It is not so simple to cure someone who has completed the transformation. This is a situation requiring major effort, **big magic** or a **weird science** experiment. The following elements will be needed:
 
 -   The individual to be cured must be present for the procedure.
 
@@ -84,15 +84,15 @@ Lifespan: As the plague mutates, each generation of infected arachnoids lives tw
 
 Atsuko Popov is a fourth-generation gumo and has one of the two most obvious forms, which means that she has to stay out of sight. Since puberty, when she developed into a half-spider, she feels she has been forced to live in a prison of secrecy. She began researching ways to reproduce the bioweapon that originally created the gumo, unaware that a goddess’ interference (see Arachne on page 112) was the motivating factor. Her fixation on this idea eventually drove other gumo to avoid her. Working alone, she came up with a serum that she thought might work; unfortunately, her more human-seeming mother discovered her plans and in the resulting argument was injected. Atsuko’s mother died quickly, messily, and in agony as Atsuko watched. Atsuko is now determined to succeed as it is the only way, in her mind, that she can justify the increasing death toll. Soon after, she began deliberately experimenting on humans and dissecting gumo. Some of her first victims were the undocumented workers who built her lab.
 
-Once she is aware of the plague, Atsuko will try to insinuate herself into the investigation by hacking her name onto the list of disease experts. She will contact authorities, or the hunters if they contact her, via video call (hiding her lower half). She’ll try to keep the investigation away from her lab by manufacturing a fake source for the plague. If someone she’s talking to is scientifically keen, she will try to exploit that for her own purposes. **Powers:**
+Once she is aware of the plague, Atsuko will try to insinuate herself into the investigation by hacking her name onto the list of disease experts. She will contact authorities, or [[the hunters]] if they contact her, via video call (hiding her lower half). She’ll try to keep the investigation away from her lab by manufacturing a fake source for the plague. If someone she’s talking to is scientifically keen, she will try to exploit that for her own purposes. **Powers:**
 
 -   **Many Legs**: Allows her to climb walls.
 
 -   **Produce Webs**: If possible, she prefers she prefers not to contaminate her lab with these.
 
-**Attacks:** **Syringe** 0-harm intimate sedative. **Handgun** 2-harm close loud.
+**Attacks:** **Syringe** 0-[[harm]] intimate sedative. **Handgun** 2-[[harm]] close loud.
 
-**Armour:** \*Unusual anatomy\* (makes vital points harder to find): 1-armour.
+**Armour:** \*Unusual anatomy\* (makes vital points harder to find): 1-[[armour]].
 
 **Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -114,19 +114,19 @@ Arachnoids are former human beings who have been changed by Atsuko into tortured
 
 The mutation process is brutal, and they will die from the changes in about a week. **Powers:**
 
-• **Spider-parts**: They can produce webs, and climb walls like a spider. **Attacks:** **Claw and bite** 4-harm hand/close messy.
+• **Spider-parts**: They can produce webs, and climb walls like a spider. **Attacks:** **Claw and bite** 4-[[harm]] hand/close messy.
 
-**Armour:** Choose: **Human skin**: 0-armour, **Light chitin**: 1-armour, or **Heavy chitin**: 2-armour.
+**Armour:** Choose: **Human skin**: 0-[[armour]], **Light chitin**: 1-[[armour]], or **Heavy chitin**: 2-[[armour]].
 
 **Harm Capacity:** 9. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:** No special weaknesses—although mutated, they are still normal living creatures.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Webbing**: The arachnoids are capable of producing webs. **When an arachnoid tries to maneuver a hunter into its webs**, the hunter must roll +Cool:
 
-On a 10 or more, they avoid being entangled in the webs and gain a +1 Forward against the arachnoid.
+On a 10 or more, they avoid being entangled in the webs and gain a +1 [[Forward]] against the arachnoid.
 
 On a 7-9, they avoid the webbing but have to choose one of the following:
 
@@ -146,11 +146,11 @@ Depending on the city you use for the mystery, the tunnels might be sewers, subw
 
 The arachnoids that Atsuko released live in these tunnels when they’re not creeping about their old places. The deeper you go, the more web-filled and cluttered the tunnels become. Dead animals, people, and arachnoids will be found tangled up in webs.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
-**Web-Blocked Corridors**: When the hunters find a blocked tunnel, they might try to navigate it carefully or just cut their way through. If **they try to navigate the webs carefully**, they roll +Cool:
+**Web-Blocked Corridors**: When [[the hunters]] find a blocked tunnel, they might try to navigate it carefully or just cut their way through. If **they try to navigate the webs carefully**, they roll +Cool:
 
--   On a 10 or more, they find a path through the webs without alerting anything. Anyone following them has +1 forward to navigate the webbing.
+-   On a 10 or more, they find a path through the webs without alerting anything. Anyone following them has +1 [[forward]] to navigate the webbing.
 
 -   On a 7-9, They get through but something goes wrong.
 
@@ -170,7 +170,7 @@ Some things that can go wrong (on 7-9 or miss results):
 
 -   Bad side effects of their approach (perhaps smoke or getting lost).
 
--   The hunters get lost or separated.
+-   [[The hunters]] get lost or separated.
 
 -   Arachnoids trap someone in a dead end.
 
@@ -180,6 +180,6 @@ Some things that can go wrong (on 7-9 or miss results):
 
 <img src="./TomeIMGs/media/image87.jpg" style="width:3in;height:9in" />Arachne was once human before she ascended to become the goddess of weaving and spiders. Modern myth has twisted the story to make it sound like a curse or punishment, but each god is given the privilege to create a single mortal species. This privilege can be fulfilled either by creating a species from nothing or by altering an existing species. Arachne chose to use her privilege to affect the bioweapon’s effect on humans, causing it to mutate them into something viable rather than painfully kill them.
 
-Arachne is limited in how she can interact with mortals: she can only send dreams to the hunters. Hunters with The Sight might also notice spider spirits. A Divine, Chosen, Summoned, Expert, or similar hunter might see the influence of such an entity.
+Arachne is limited in how she can interact with mortals: she can only send dreams to [[the hunters]]. Hunters with The Sight might also notice spider spirits. A Divine, Chosen, Summoned, Expert, or similar hunter might see the influence of such an entity.
 
 [[Attack of the Rapid Moss]]

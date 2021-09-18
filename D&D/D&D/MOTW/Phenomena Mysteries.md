@@ -4,17 +4,17 @@
 
 Phenomena mysteries give hunters the chance to investigate an increasingly dangerous source of weirdness rather than a monster.
 
-To create a mystery centered on a phenomenon, the Keeper will need the following details:
+To create a mystery centered on a phenomenon, [[the Keeper]] will need the following details:
 
--   A basic concept (like a standard mystery) describing what is going on.
+-   A [[basic concept]] (like a standard mystery) describing what is going on.
 
 -   A phenomenon type and motivation.
 
--   What effects the phenomenon has on hunters (and other bystanders) who get too close.
+-   What effects the phenomenon has on hunters (and other [[bystanders]]) who get too close.
 
 -   What its weakness is (this works differently to monster weaknesses).
 
--   Custom moves for its effects (optional but recommended).
+-   [[Custom moves]] for its effects (optional but recommended).
 
 ## Phenomenon Types
 
@@ -24,7 +24,7 @@ These are the possible phenomenon types:
 
 -   Artifact (motivation: to grant someone more power than they can handle)
 
--   Biohazard (motivation: to infect, harm, and spread)
+-   Biohazard (motivation: to infect, [[harm]], and spread)
 
 -   Bubble (motivation: to keep inside things inside, and outside things outside)
 
@@ -40,25 +40,25 @@ These are the possible phenomenon types:
 
 -   Portal (motivation: to draw things from one world to another)
 
--   Teratogen (motivation: to turn creatures and people into monsters)
+-   Teratogen (motivation: to turn creatures and people into [[monsters]])
 
--   Zone (motivation: to harm all that venture within)
+-   Zone (motivation: to [[harm]] all that venture within)
 
-Every phenomenon should have at least one custom move to describe what it does. Create custom moves for a phenomenon the same way you would for a monster, based on your concept and its abilities.
+Every phenomenon should have at least one custom move to describe what it does. Create [[custom moves]] for a phenomenon the same way you would for a monster, based on your concept and its abilities.
 
 <img src="./TomeIMGs/media/image32.jpg" style="width:6in;height:3.69in" />
 
-**For a phenomenon, weaknesses are not what allows it be defeated or killed . Weaknesses are the secrets or discoveries that will allow the hunters to mitigate, undo, or prevent what the phenomenon wants to do .** In general, create one weakness that allows the hunters to stop the phenomenon (or to stop its bad effects). If applicable, create another weakness that allows them to cure those who were affected. 
+**For a phenomenon, weaknesses are not what allows it be defeated or killed . Weaknesses are the secrets or discoveries that will allow [[the hunters]] to mitigate, undo, or prevent what the phenomenon wants to do .** In general, create one weakness that allows [[the hunters]] to stop the phenomenon (or to stop its bad effects). If applicable, create another weakness that allows them to cure those who were affected. 
 
 **For example:** *The phenomenon is a time loop (type: Bubble) that has a town stuck repeating one afternoon, and prevents anyone from leaving. It is caused by strange crystals that were discovered in a nearby mine. The phenomenon’s weakness is that it must be able to radiate energy to create the time loop effect—if the crystals are contained (by returning them to the mine, placing them in a special containment device, or something similar) then the effect will stop.*
 
 You should create a countdown for the mystery as normal. However, rather than thinking about a monster’s plan and how it will get worse, you should think about how the phenomenon will become more and more dangerous as it grows without constraint.
 
-As with standard mystery design, you should create other threats. There will be bystanders and places as usual, and often minions (including people taking advantage of, or believing they control, the phenomenon). The phenomenon could even involve or create monsters—these would need to be defeated in the usual ways.
+As with standard mystery design, you should create other threats. There will be [[bystanders]] and places as usual, and often [[minions]] (including people taking advantage of, or believing they control, the phenomenon). The phenomenon could even involve or create [[monsters]]—these would need to be defeated in the usual ways.
 
 ## Phenomena Threat Moves
 
-These are the threat moves a phenomenon can use during the mystery:
+These are the [[threat moves]] a phenomenon can use during the mystery:
 
 -   Hint at its effects.
 
@@ -70,13 +70,13 @@ These are the threat moves a phenomenon can use during the mystery:
 
 -   Create some new weirdness.
 
--   Harm or destroy someone or something.
+-   [[Harm]] or destroy someone or something.
 
 -   React unexpectedly.
 
 -   Escape from containment.
 
--   Hold something in place.
+-   [[Hold]] something in place.
 
 -   Grant an unnatural ability.
 
@@ -84,9 +84,9 @@ These are the threat moves a phenomenon can use during the mystery:
 
 -   Subvert a bystander’s motivation.
 
-Because phenomena are more varied in their motivations and powers than monsters, you should rely more on custom moves. Note down a few specific things the phenomenon might do (these might overlap with the general phenomenon moves).
+Because phenomena are more varied in their motivations and powers than [[monsters]], you should rely more on [[custom moves]]. Note down a few specific things the phenomenon might do (these might overlap with the general phenomenon [[moves]]).
 
-**For example:** *The time loop example above might have these custom moves:*
+**For example:** *The time loop example above might have these [[custom moves]]:*
 
 -   *If you try to leave the time loop area, you find yourself back in town with a short block of missing time.*
 

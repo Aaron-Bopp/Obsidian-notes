@@ -12,19 +12,19 @@ In her lab, Drittore only managed to create worlds that echo herself and the ste
 
 Potential leads include:
 
--   The hunters receive a letter (or mystical transmission) from a panicked creature trapped in a pocket dimension—one of Lea’s golems.
+-   [[The hunters]] receive a letter (or mystical transmission) from a panicked creature trapped in a pocket dimension—one of Lea’s golems.
 
--   One of the hunters studied with Lea and is paying her a visit just as things get out of control.
+-   One of [[the hunters]] studied with Lea and is paying her a visit just as things get out of control.
 
 -   A divination predicts Lea has a big chance of starting the Apocalypse.
 
--   By messing up with occult rituals, the hunters end up in one of Lea’s pocket dimensions.
+-   By messing up with occult rituals, [[the hunters]] end up in one of Lea’s pocket dimensions.
 
--   One of the hunters detects the presence of a powerful artefact in the city.
+-   One of [[the hunters]] detects the presence of a powerful artefact in the city.
 
--   The hunters are keeping watch on Maurizia, a fence who seems to read occult auras.
+-   [[The hunters]] are keeping watch on Maurizia, a fence who seems to read occult auras.
 
--   One of the important characters is an old friend or enemy of the hunters.
+-   One of the important characters is an old friend or enemy of [[the hunters]].
 
 # Countdown
 
@@ -40,7 +40,7 @@ The World Egg is sensitive to everything around it. It reads auras and compiles 
 
 The more auras the Egg reads, the bigger and more complex a world it creates. Such worlds may contain life or life-like entities. Creatures created this way may visit our world if they find the portal out.
 
-<img src="./TomeIMGs/media/image157.jpg" style="width:6in;height:3.4028in" />The Egg is resistant to accidental damage but if hit really hard (3-harm in a single strike) it breaks and hatches prematurely into a Voidmouth: an occult black hole that first swallows everything nearby and then gradually pulls more distant objects into itself, annihilating them. It would need about a month to swallow an entire city.
+<img src="./TomeIMGs/media/image157.jpg" style="width:6in;height:3.4028in" />The Egg is resistant to accidental damage but if hit really hard (3-[[harm]] in a single strike) it breaks and hatches prematurely into a Voidmouth: an occult black hole that first swallows everything nearby and then gradually pulls more distant objects into itself, annihilating them. It would need about a month to swallow an entire city.
 
 Sealing a Voidmouth requires a **big magic** ritual with the following requirements:
 
@@ -58,11 +58,11 @@ Sealing a Voidmouth requires a **big magic** ritual with the following requireme
 
 Lea has spent her entire life researching Kabbalah, demonology, and quantum physics in order to discover the secrets of alternate dimensions. She isn’t so much evil as immoral and obsessed. After decades of research, she even discovered how to loosen her own anchor to our world and teleport herself. **Powers:**
 
--   **Teleport**: She can get to any place within a few miles that is not specifically warded. Teleporting normally takes a few seconds. She can do it instantly (to avoid harm) but then she ends up stunned and unable to teleport for about a minute.
+-   **Teleport**: She can get to any place within a few miles that is not specifically warded. Teleporting normally takes a few seconds. She can do it instantly (to avoid [[harm]]) but then she ends up stunned and unable to teleport for about a minute.
 
 -   **Occult Science**: She has many strange devices that bend space and manipulate distances.
 
-**Attacks:** **Heighten gravity** 2-harm far area forceful ignore-armour.
+**Attacks:** **Heighten gravity** 2-[[harm]] far area forceful ignore-[[armour]].
 
 **Harm capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -90,7 +90,7 @@ These are humanoid animate objects from the pocket worlds. Most look like people
 
 -   Power-hungry.
 
-Most of the golems don’t know about the world beyond their dimensions and will be very angry at Lea for keeping them in the dark about it. **Attacks:** **Slam** 3-harm hand messy.
+Most of the golems don’t know about the world beyond their dimensions and will be very angry at Lea for keeping them in the dark about it. **Attacks:** **Slam** 3-[[harm]] hand messy.
 
 **Harm capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Armour:** 2. Made of minerals.
 
@@ -100,7 +100,7 @@ Most of the golems don’t know about the world beyond their dimensions and will
 
 This golem is both curious and power-hungry. It knows about the outside world and wants to use the Egg to hatch a pocket dimension within another one, believing this will create a portal between all the worlds Lea has made and allow him to unite all golems under his rule. This golem looks like a bulky, short man made of glass lenses and steel beams. It has no name but will gladly accept one if someone suggests something.
 
-**Attacks:** **Slam** 3-harm hand messy. **Stolen gravity gun** 2-harm close area forceful ignore-armour.
+**Attacks:** **Slam** 3-[[harm]] hand messy. **Stolen gravity gun** 2-[[harm]] close area forceful ignore-[[armour]].
 
 **Harm capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Armour:** 2. Made of minerals.
 
@@ -118,13 +118,13 @@ The portals to the pocket dimensions are in a small room called the Hatchery. By
 
 -   An endless maze of mine tunnels with gem-rock golems (like the runaway one) looking for better and better techniques to mine ores and then using these ores to divine their futures.
 
--   Other strange worlds themed after aspects of Lea’s work, history, and personality.
+-   Other strange worlds themed after aspects of Lea’s work, [[history]], and personality.
 
 # Andreo Bruno
 
 *Bystander: Victim (motivation: to put himself in danger)*
 
-A thief, sly and streetwise, but clueless about the supernatural. He had been casing Lea’s house. Sometimes shows his loot to Maurizia. **Attacks:** **Knife** 1-harm hand.
+A thief, sly and streetwise, but clueless about the supernatural. He had been casing Lea’s house. Sometimes shows his loot to Maurizia. **Attacks:** **Knife** 1-[[harm]] hand.
 
 **Harm capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -134,15 +134,15 @@ A thief, sly and streetwise, but clueless about the supernatural. He had been ca
 
 A fence with a sense of the supernatural, she earns a living by buying seemingly worthless trinkets with occult power and selling them to those in the know.
 
-**Attacks:** **Thin, runed stiletto** 1-harm hand magic.
+**Attacks:** **Thin, runed stiletto** 1-[[harm]] hand magic.
 
 **Harm capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 # Aftermath
 
-After so much fighting over it, the Egg from this mystery will probably hatch into a violent world full of conflict between sly and brutal lifeforms inspired by thieves and golems. It still has about two weeks until it hatches, however—so the hunters might expose it to peaceful stimuli and make it less dangerous. If they do so, the new-born dimension can become a Haven for the entire party with two or three traits determined by what has happened to the Egg.
+After so much fighting over it, the Egg from this mystery will probably hatch into a violent world full of conflict between sly and brutal lifeforms inspired by thieves and golems. It still has about two weeks until it hatches, however—so [[the hunters]] might expose it to peaceful stimuli and make it less dangerous. If they do so, the new-born dimension can become a Haven for the entire party with two or three traits determined by what has happened to the Egg.
 
-On the other hand, if a Voidmouth is born, there might be a hellish dimension on the other side of it just as some scientists speculate that black holes can be used for hyperspace travelling. All manner of monsters, occultists and fringe scientists can be willing to explore the Voidmouth, making it hard for the hunters to seal it.
+On the other hand, if a Voidmouth is born, there might be a hellish dimension on the other side of it just as some scientists speculate that black holes can be used for hyperspace travelling. All manner of [[monsters]], occultists and fringe scientists can be willing to explore the Voidmouth, making it hard for [[the hunters]] to seal it.
 
 **Bits and Mortar provides PDFs for purchases of games by participating publishers.**
 
@@ -152,7 +152,7 @@ On the other hand, if a Voidmouth is born, there might be a hellish dimension on
 
 **Ordered it online at evilhat.com or somewhere else?**
 
-Email us at feedback@evilhat.com with an image of your receipt and we'll send it to you!
+Email us at [[feedback]]@evilhat.com with an image of your receipt and we'll send it to you!
 
 **Learn more about our PDF Guarantee policy** at www.evilhat.com/home/pdf-guarantee
 

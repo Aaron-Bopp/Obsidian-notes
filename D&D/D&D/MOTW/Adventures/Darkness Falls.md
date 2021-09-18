@@ -20,7 +20,7 @@ Several cars crashed last night. They were discovered on the edge of the highway
 
 When Kristina and David arrived home after adopting Nika, a series of gruesome attacks began in their hometown—each attack happening soon after nightfall, on victims who were awake. Researching folklore, the Delanos identified the culprit as a ghost: Madame Koshmar.
 
-The Delanos were able to fashion a ritual to hold Madame Koshmar at bay using a Russian folk song that Kristina remembered from her childhood. The ritual is carried out at Tanner’s End Church (see below).
+The Delanos were able to fashion a ritual to [[hold]] Madame Koshmar at bay using a Russian folk song that Kristina remembered from her childhood. The ritual is carried out at Tanner’s End Church (see below).
 
 The Delanos are loving parents who will do anything for their child.
 
@@ -38,7 +38,7 @@ As a baby, Nika was the sole survivor of a brutal knife attack in an orphanage i
 
 Madame Koshmar was as much a monster in life as she was in death. Years ago, she ran an orphanage in an isolated Russian township. The children were cold, starving, and beaten—none more so than when they made noise after lights out. When she died, Madame Koshmar’s spirit was unable to pass on: the fear in the children’s hearts called to her louder than any afterlife. Since then, her legacy has been passed down through generations of children in the form of a children’s folksong (see Tanner’s End Church, below). She draws power from the children who still fear her.
 
-If the hunters attack her before learning about her link to Nika, ensure they are aware of it’s effects: describe a child’s scream rending the air if anyone lands a hit, or the vision of a young girl standing beside her.
+If [[the hunters]] attack her before learning about her link to Nika, ensure they are aware of it’s effects: describe a child’s scream rending the air if anyone lands a hit, or the vision of a young girl standing beside her.
 
 **Powers:**
 
@@ -46,9 +46,9 @@ If the hunters attack her before learning about her link to Nika, ensure they ar
 
 -   **Shadow Step**: While in a shadow, Madame Koshmar may disappear in a puff of black smoke before reappearing, in a similar fashion, from another shadow.
 
--   **Summon Shades**: Madame Koshmar is able to summon her minions at will from nearby shadows.
+-   **Summon Shades**: Madame Koshmar is able to summon her [[minions]] at will from nearby shadows.
 
-**Attacks:** **Long curved dagger** 2-harm hand. **Shadow blast** 3-harm close magic ignore-armour.
+**Attacks:** **Long curved dagger** 2-[[harm]] hand. **Shadow blast** 3-[[harm]] close magic ignore-[[armour]].
 
 **Armour:** 3 magic [[incorporeal]].
 
@@ -56,7 +56,7 @@ If the hunters attack her before learning about her link to Nika, ensure they ar
 
 **Weaknesses:**
 
-**Light:** Madame Koshmar can be made corporeal by strong or magical light. This negates her armour as well. If not killed while corporeal, she reawakens undamaged the next night.
+**Light:** Madame Koshmar can be made corporeal by strong or magical light. This negates her [[armour]] as well. If not killed while corporeal, she reawakens undamaged the next night.
 
 **Nika Delano:** Madame Koshmar has been linked psychically to Nika Delano ever since Nika was the sole survivor of one of Madame Koshmar’s previous attacks. Because of this, whenever Madame Koshmar is hurt, Nika will also get hurt (and vice versa). Your players will need to separate Nika’s soul from Madame Koshmar’s before trying to damage the spirit. Here are some methods that could achieve this:
 
@@ -70,11 +70,11 @@ If the hunters attack her before learning about her link to Nika, ensure they ar
 
 *Minion: Right hand (motivation: to support the monster)*
 
-Shades are dark ghostly minions that Madame Koshmar may summon from nearby shadows. They are the souls of her previous victims— blackened and atrophied from their time under Madame Koshmar’s control. The Shades are capable of following simple commands from Madame Koshmar.
+Shades are dark ghostly [[minions]] that Madame Koshmar may summon from nearby shadows. They are the souls of her previous victims— blackened and atrophied from their time under Madame Koshmar’s control. The Shades are capable of following simple commands from Madame Koshmar.
 
 **Powers:**
 
-<img src="./TomeIMGs/media/image110.jpg" style="width:6in;height:3.81in" />• **Incorporeal**: Unless dispelled with light, Shades will quickly reform without needing to be summoned by Madame Koshmar. **Attacks:** **Pass through person** 1-harm intimate magic. **Shadow attack** 2-harm close magic. **Armour:** None.
+<img src="./TomeIMGs/media/image110.jpg" style="width:6in;height:3.81in" />• **Incorporeal**: Unless dispelled with light, Shades will quickly reform without needing to be summoned by Madame Koshmar. **Attacks:** **Pass through person** 1-[[harm]] intimate magic. **Shadow attack** 2-[[harm]] close magic. **Armour:** None.
 
 **Harm Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
 
@@ -94,19 +94,19 @@ Kristina has multiple levels of warding to protect her while she carries out the
 
 -   A soot circle around the extent of the church property. When crossed, the sound of an owl hoot will alert Kristina to an intruder.
 
--   Rune markings scratched round the entrances and shadowy nooks of the chapel itself. When intruders pass them, a flash of light (4-harm close magic) will send loose objects flying back.
+-   Rune markings scratched round the entrances and shadowy nooks of the chapel itself. When intruders pass them, a flash of light (4-[[harm]] close magic) will send loose objects flying back.
 
 -   A protective circle carved into the stone floor: this is hidden underneath a rug during the day. Each night, Kristina reinforces the circle by pouring a small volume of Nika’s blood into the grooves. Madame Koshmar cannot cross this circle unless it is first broken by something else crossing it.
 
 The ritual is a sleep spell intended to encompass the whole city. As the spell spreads out an equal distance from Kristina in all directions, a small portion of rural highway is also affected. This is what has been causing travellers to fall asleep at the wheel. These accidents have been happening since the rituals started. The recent revitalisation of the nearby Robinson township as a cultural hub means the number of victims will keep increasing. In a matter of days, hundreds of music fans will be heading toward Robinson for a music festival.
 
-If the hunters are inside the circle of the sleep spell’s effect (or enter it) between 9 p.m. and 6 a.m., they will be affected by the spell and fall asleep almost instantly. Your hunters may **act under pressure** or **use magic** to resist the effects, but Madame Koshmar has ways of dealing with children up past curfew.
+If [[the hunters]] are inside the circle of the sleep spell’s effect (or enter it) between 9 p.m. and 6 a.m., they will be affected by the spell and fall asleep almost instantly. Your hunters may **act under pressure** or **use magic** to resist the effects, but Madame Koshmar has ways of dealing with children up past curfew.
 
 # Andrew Withers
 
 *Bystander: Witness (motivation: to reveal information)*
 
-<img src="./TomeIMGs/media/image112.png" style="width:4.55306in;height:4.2742in" />The town sheriff zealously lectures on the dangers of driving tired and has littered the town and highway with “Don’t Drive Tired” signs. He will resist the hunters’ efforts as he sees there being no case worth following up. Sheriff Withers knows about and has files on the string of murders several years ago (in the Delanos’ neighbourhood) as well as about the accidents on both the rural highway and the significantly less-trafficked winding mountain road.
+<img src="./TomeIMGs/media/image112.png" style="width:4.55306in;height:4.2742in" />The town sheriff zealously lectures on the dangers of driving tired and has littered the town and highway with “Don’t Drive Tired” signs. He will resist [[the hunters]]’ efforts as he sees there being no case worth following up. Sheriff Withers knows about and has files on the string of murders several years ago (in the Delanos’ neighbourhood) as well as about the accidents on both the rural highway and the significantly less-trafficked winding mountain road.
 
 # Other Townsfolk
 

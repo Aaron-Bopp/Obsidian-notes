@@ -14,23 +14,23 @@ Dedicated to the memory of Leonard Nimoy (1931-2015).
 
 # Concept
 
-The hunters are trapped by an eerie mist that suddenly surrounds the small desert town of Nimoy, New Mexico.
+[[The hunters]] are trapped by an eerie mist that suddenly surrounds the small desert town of Nimoy, New Mexico.
 
 Inspired by Stephen King’s *The Mist* (story, film, and miniseries).
 
-The hunters must find a way to avoid terrible extradimensional invaders and close a portal to another reality.
+[[The hunters]] must find a way to avoid terrible extradimensional invaders and close a portal to another reality.
 
 The ‘Froghemoth’ first appeared in Gary Gygax’s classic *Advanced Dungeons & Dragons* module *Expedition to the Barrier Peaks*.
 
 # Hook
 
-The hunters are having a meal in Serling’s Cafe. Maybe they are passing through on their way to follow-up another lead or to learn about accounts of a recent meteor strikes? Then an eerie green-yellow mist surrounds the town.
+[[The hunters]] are having a meal in Serling’s Cafe. Maybe they are passing through on their way to follow-up another lead or to learn about accounts of a recent meteor strikes? Then an eerie green-yellow mist surrounds the town.
 
-Soon the hunters become aware that they are now the hunted…
+Soon [[the hunters]] become aware that they are now the hunted…
 
 # <img src="./TomeIMGs/media/image97.jpg" style="width:6in;height:4.855in" />Countdown
 
-<table><colgroup><col style="width: 21%" /><col style="width: 78%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>A transdimensonal nexus opens due to a ‘red matter’ meteor strike and a strange mist floods the town. Cellphones and internet fail as a result. The hunters realize they are trapped.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>A froghemoth starts hunting town citizens.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td>Town becomes increasingly swampy. Alien vegetation appears.</td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Town citizens gather at Shatner’s Hardware Store to plan defense. Froghemoth appears and devours town leaders. Citizens panic.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td><blockquote><p>Professor Scott devoured. City now transformed into alien swamp.</p></blockquote></td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>The transdimensonal nexus transfers all of Nimoy, New Mexico to the Froghemoth</p><p>Dimension. Remaining town citizens eaten.</p></blockquote></td></tr></tbody></table>
+<table><colgroup><col style="width: 21%" /><col style="width: 78%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>A transdimensonal nexus opens due to a ‘red matter’ meteor strike and a strange mist floods the town. Cellphones and internet fail as a result. [[The hunters]] realize they are trapped.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>A froghemoth starts hunting town citizens.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td>Town becomes increasingly swampy. Alien vegetation appears.</td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Town citizens gather at Shatner’s Hardware Store to plan defense. Froghemoth appears and devours town leaders. Citizens panic.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td><blockquote><p>Professor Scott devoured. City now transformed into alien swamp.</p></blockquote></td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>The transdimensonal nexus transfers all of Nimoy, New Mexico to the Froghemoth</p><p>Dimension. Remaining town citizens eaten.</p></blockquote></td></tr></tbody></table>
 
 # Transdimensional Nexus
 
@@ -66,19 +66,19 @@ Resembles a giant eyeless toad with a mouth covered with constantly moving tenta
 
 -   **Grab**: The froghemoth shoots its tongue out to try and grab someone. See the ‘grab’ move below.
 
-**Attack:** **Swallow** 3-harm close engulf (see custom move below). **Armour:** None.
+**Attack:** **Swallow** 3-[[harm]] close engulf (see custom move below). **Armour:** None.
 
 **Harm Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
 **Weakness:** Can only manifest when a transdimensonal nexus is open. If the nexus is closed, it becomes vulnerable.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Grab**: When a **froghemoth grabs a hunter**, they roll +Tough:
 
--   On a 10+, the hunter breaks free and may inflict harm on the froghemoth as they escape.
+-   On a 10+, the hunter breaks free and may inflict [[harm]] on the froghemoth as they escape.
 
--   On a 7-9, the hunter breaks free but suffers 1-harm.
+-   On a 7-9, the hunter breaks free but suffers 1-[[harm]].
 
 -   On a miss thee hunter is engulfed (see below). If the froghemoth grabs a bystander, pick one:
 
@@ -90,9 +90,9 @@ Resembles a giant eyeless toad with a mouth covered with constantly moving tenta
 
 -   On a 10+, they force the froghemoth to vomit them forth for no additional damage.
 
--   On a 7-9, they suffer 2-harm or the loss of a valuable item (hunter’s choice).
+-   On a 7-9, they suffer 2-[[harm]] or the loss of a valuable item (hunter’s choice).
 
--   On a miss, they suffer 4-harm and now they are being digested.
+-   On a miss, they suffer 4-[[harm]] and now they are being digested.
 
 # Serling's Diner
 

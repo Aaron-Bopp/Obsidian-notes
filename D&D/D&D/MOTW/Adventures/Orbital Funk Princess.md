@@ -26,7 +26,7 @@ Potential leads:
 
 # Countdown
 
-<table><colgroup><col style="width: 20%" /><col style="width: 79%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>An bystander known to the hunters is addicted to the game. They will be distracted, distant in communications, and not reply to messages as quickly as normal. They have been playing one day.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td><blockquote><p>More discs spread through town. Report of a new death, very similar to the first.</p></blockquote></td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Several people die from playing the game.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>The game is distributed to most households. Much of the population of the town is indoors, playing the game, hypnotised.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td><blockquote><p>Population of the town is enthralled, dying off.</p></blockquote></td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>Gaibriel collects up the discs and moves on to a new town, leaving the population to waste away.</p></blockquote></td></tr></tbody></table>
+<table><colgroup><col style="width: 20%" /><col style="width: 79%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>An bystander known to [[the hunters]] is addicted to the game. They will be distracted, distant in communications, and not reply to messages as quickly as normal. They have been playing one day.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td><blockquote><p>More discs spread through town. Report of a new death, very similar to the first.</p></blockquote></td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Several people die from playing the game.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>The game is distributed to most households. Much of the population of the town is indoors, playing the game, hypnotised.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td><blockquote><p>Population of the town is enthralled, dying off.</p></blockquote></td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>Gaibriel collects up the discs and [[moves]] on to a new town, leaving the population to waste away.</p></blockquote></td></tr></tbody></table>
 
 # Gaibriel
 
@@ -34,7 +34,7 @@ Potential leads:
 
 Gaibriel is a tech-savvy fairy who’s angry with humanity. His vendetta began when he tried to entice some modern children away into the forest but they were too busy playing *Pokemon Go* to follow him. He’s decided to use the power of video games against humankind to get his revenge.
 
-He is unwilling to stop his plan or give the hunters any information at all, but he isn’t a very tough fae and not much of a fighter. He’s a trickster, hence his roundabout approach. If trapped and threatened, he will break the spell but he’ll try to mess with the hunters when he does it (e.g. insisting that the counter spell involves all the hunters skipping in a circle holding hands and singing, and covering them with indelible glitter. Harmless but annoying.)
+He is unwilling to stop his plan or give [[the hunters]] any information at all, but he isn’t a very tough fae and not much of a fighter. He’s a trickster, hence his roundabout approach. If trapped and threatened, he will break the spell but he’ll try to mess with [[the hunters]] when he does it (e.g. insisting that the counter spell involves all [[the hunters]] skipping in a circle holding hands and singing, and covering them with indelible glitter. Harmless but annoying.)
 
 He has no official course of distribution but has been planting the games in secondhand sales at game shops, leaving them in public libraries, and selling them at a stall in a rundown flea market along with other bric-a-brac.
 
@@ -64,7 +64,7 @@ If **you touch the game disc or see someone else playing it**, roll + Cool. You 
 
 -   On a miss, you are compelled to play. You must **act under pressure** to either stop playing, or if you have stopped playing, not pick up the game again.
 
-Bystanders who see someone playing the game just get the urge to play. If they’re left alone they will play until they eventually die.
+[[Bystanders]] who see someone playing the game just get the urge to play. If they’re left alone they will play until they eventually die.
 
 <img src="./TomeIMGs/media/image139.png" style="width:6in;height:7.14414in" />
 

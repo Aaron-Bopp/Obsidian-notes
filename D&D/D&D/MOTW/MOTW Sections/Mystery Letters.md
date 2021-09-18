@@ -1,16 +1,16 @@
 
-Mystery letters are a technique to give the hunters information to set up a new mystery and start the game with a roar. They’re especially useful when:
+Mystery letters are a technique to give [[the hunters]] information to set up a new mystery and start the game with a roar. They’re especially useful when:
 
 - You are running a convention game.
 - Someone missed a game, to bring them (and yourself) back up to speed.
 - There’s been a hiatus in your game.
 - There’s some unfinished business from the last game session.
-- You want to give the hunters some clues about the mystery.
-- You want to start with the hunters already in the midst of the action.
+- You want to give [[the hunters]] some clues about the mystery.
+- You want to start with [[the hunters]] already in the midst of the action.
 
-The letter should briefly remind the hunter what happened last time, and where you left off. Include any new information that you want to give the hunter. For example, you can put the hook for this mystery and some background information they have already discovered.
+The letter should briefly remind the hunter what happened last time, and where you left off. Include any new information that you want to give the hunter. For example, you can put [[the hook]] for this mystery and some background information they have already discovered.
 
-Then put in a custom move for the hunter to roll, or pick from a list of options. The moves should either provide some useful information, or put the hunter right into the action, or both.
+Then put in a custom move for the hunter to roll, or pick from a list of options. The [[moves]] should either provide some useful information, or put the hunter right into the action, or both.
 
 Here’s some fragments from letters I used for a convention scenario. The team are in a haunted house, attempting to exorcise a poltergeist.
 
@@ -32,7 +32,7 @@ A move to get into the action:
 
 *On a miss, well. I’ll let you know what’s going wrong (everything).*
 
-In both moves I have options that will suggest what’s going on beyond the immediate situation. In the first, the fact that the map is important is raised even if they don’t ask me about it. In the second, the “other ghosts” had not been mentioned earlier, so this is the first hint that there’s something extra going on.
+In both [[moves]] I have options that will suggest what’s going on beyond the immediate situation. In the first, the fact that the map is important is raised even if they don’t ask me about it. In the second, the “other ghosts” had not been mentioned earlier, so this is the first hint that there’s something extra going on.
 
 There’s also that negatively phrased option about the mirror shard. The hunter has to pick it to avoid trouble, because otherwise (by implication), they’ll have that injury.
 
@@ -52,7 +52,7 @@ Here’s an entire mystery letter to use as a model. This one is for a hunter wh
 
 - *Check up on where the Unseeing Ones might have holed up.*
 - *Research a spell that will cure Theresa.*
-- *Get hold of some of those “can kill anything” bullets from that creepy dude.*
+- *Get [[hold]] of some of those “can kill anything” bullets from that creepy dude.*
 
 *If there’s anything you want to add to that list, go ahead and ask. I’ll let you know if it’s okay (anything you could do in a week should be fine).*
 

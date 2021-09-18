@@ -18,7 +18,7 @@ Investigators know the state park is a weirdness magnet and has been since human
 
 # Countdown
 
-<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>Taylor seduces Amber. Yudashkin offers Lindsay to Ualichu as a bride, but Ualichu doesn’t accept the offer.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td><blockquote><p>Earthquakes rock the park and harm searchers, as Ualichu shows his anger with Yudashkin.</p></blockquote></td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Jose Gongorra is found dead. Flocks of blackbirds follow the hunters.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Taylor and Amber go camping, and he sells her to Yudashkin.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>Yudashkin trades Lindsay and Amber for his freedom, opening an ongoing business relationship.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td>Yudashkin is freed, and continues to spread his home forest, as well as kidnapping more women for Ualichu.</td></tr></tbody></table>
+<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>Taylor seduces Amber. Yudashkin offers Lindsay to Ualichu as a bride, but Ualichu doesn’t accept the offer.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td><blockquote><p>Earthquakes rock the park and [[harm]] searchers, as Ualichu shows his anger with Yudashkin.</p></blockquote></td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Jose Gongorra is found dead. Flocks of blackbirds follow [[the hunters]].</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Taylor and Amber go camping, and he sells her to Yudashkin.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>Yudashkin trades Lindsay and Amber for his freedom, opening an [[ongoing]] business relationship.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td>Yudashkin is freed, and continues to spread his home forest, as well as kidnapping more women for Ualichu.</td></tr></tbody></table>
 
 # Ivanovich the vagrant, aka Yudashkin the Leshii
 
@@ -34,13 +34,13 @@ In his natural form, Yudashkin is a tree of flesh and fronds composed of human a
 
 -   **Shapeshifter**: He can appear as an elderly man, a boar, or a flock of blackbirds.
 
--   **Tree Stride**: Yudashkin travels through the space surrounding any of his trees as if they were side by side. They’re located across the park so he can suddenly appear and menace the hunters whenever it’s appropriate.
+-   **Tree Stride**: Yudashkin travels through the space surrounding any of his trees as if they were side by side. They’re located across the park so he can suddenly appear and menace [[the hunters]] whenever it’s appropriate.
 
 -   **Grant Magical Power**: He may gift a human with a magical ability. These gifts are wild and always strike back at their user in cruel ways.
 
 -   **Trapped**: As the mystery begins, he is magically imprisoned within this specific forest park.
 
-**Attacks:** **Primordial curse** 3-harm close area magic transform (-1 forward to run away; if not magically cured, the curse eventually turns you into a tree.) **Armour:** **Fallen pine needles and rotten flesh**: 2-armour.
+**Attacks:** **Primordial curse** 3-[[harm]] close area magic transform (-1 [[forward]] to run away; if not magically cured, the curse eventually turns you into a tree.) **Armour:** **Fallen pine needles and rotten flesh**: 2-[[armour]].
 
 **Harm Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
@@ -58,11 +58,11 @@ In his natural form, Yudashkin is a tree of flesh and fronds composed of human a
 
 -   Force him into the form of a woodland creature.
 
--   Call down the fury of nature: deal his harm back to him.
+-   Call down the fury of nature: deal his [[harm]] back to him.
 
--   Provide +1 armour to yourself or someone else.
+-   Provide +1 [[armour]] to yourself or someone else.
 
--   Declare Yudashkin’s [[vulnerability]] (fire, silver, cold iron, etc.) Any further damage from that source deals +1 harm and pierces armour.
+-   Declare Yudashkin’s [[vulnerability]] (fire, silver, cold iron, etc.) Any further damage from that source deals +1 [[harm]] and pierces [[armour]].
 
 # The Park
 
@@ -78,7 +78,7 @@ The Tangakwunu Valley Campgrounds are located on the western side of the highway
 
 *Location: Fortress (motivation: to keep intruders out)*
 
-A tightly woven stand of fir, juniper, and pines which fight against intruders with undead hands (1-harm, reduces armour by 1.) The central grove is located on a butte that drops off into Lake Mansi.
+A tightly woven stand of fir, juniper, and pines which fight against intruders with undead hands (1-[[harm]], reduces [[armour]] by 1.) The central grove is located on a butte that drops off into Lake Mansi.
 
 # The Groundskeepers, Park Ranger Cult
 
@@ -90,7 +90,7 @@ Park Ranger Rodney Womack is the self-appointed leader. A sprig of juniper is pi
 
 • **Beastspeak**: When a groundskeeper is attacked or spied upon, the beasts of the park warn and intervene to protect him/her.
 
-**Attacks:** **Deer rifle** 2-harm far loud. **Ritual knife** 1-harm close. **Armour:** None.
+**Attacks:** **Deer rifle** 2-[[harm]] far loud. **Ritual knife** 1-[[harm]] close. **Armour:** None.
 
 **Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -112,7 +112,7 @@ Ualichu dwells in the Hidden City, attended by his Eyeless Brides. He rules over
 
 **Powers:**
 
-**Proclamation**: His word is Truth in a cosmic sense. What he says goes, literally. When you confront Ualichu with evidence of a broken proclamation, roll +Sharp. On any hit, the law-breaker is gravely weakened. On a 10+, the law-breaker is magically compelled to do one service for the wronged party: they may not avoid or delay this penalty without painful (or even deadly) consequence.
+**Proclamation**: His word is Truth in a cosmic sense. What he says goes, literally. When you confront Ualichu with evidence of a broken proclamation, roll +Sharp. On any hit, the law-breaker is gravely weakened. On a 10+, the law-breaker is magically compelled to do one service for [[the wronged]] party: they may not avoid or delay this penalty without painful (or even deadly) consequence.
 
 # Lindsay Awale
 
@@ -156,7 +156,7 @@ A fey bazaar where you can get your heart’s true desire. Also happens to be a 
 
 # The Hidden City
 
-*Location: Den (motivation: to harbor monsters)*
+*Location: Den (motivation: to harbor [[monsters]])*
 
 Hosts the Low Court of Ualichu and is home to giant mummies. It lies under Mount Taima, the large mountain to the east.
 

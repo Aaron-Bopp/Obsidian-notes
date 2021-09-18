@@ -5,21 +5,21 @@ For **act under pressure**, on a 12+ you rise above the pressure completely. You
 
 For **help out**, on a 12+ you make the difference. The person you are helping acts as if they just rolled a 12 on their move, regardless of what they actually got.
 
-For **kick some ass**, on a 12+ you devastate and overawe your enemy. You inflict and suffer harm as normal, and pick one of these enhanced effects:
+For **kick some ass**, on a 12+ you devastate and overawe your enemy. You inflict and suffer [[harm]] as normal, and pick one of these enhanced effects:
 
-- You completely hold the advantage. All hunters involved in the fight get +1 forward.
-- You suffer no harm at all.
-- Your attack inflicts double the normal harm.
+- You completely [[hold]] the advantage. All hunters involved in the fight get +1 [[forward]].
+- You suffer no [[harm]] at all.
+- Your attack inflicts double the normal [[harm]].
 - Your attack drives the enemy away in a rout.
 
-For **protect someone**, on a 12+ you defend them perfectly. Both you and the character you are protecting are unharmed and out of danger. If you were protecting a bystander, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on leveling up, see [[The Basic Hunter Moves]]).
+For **protect someone**, on a 12+ you defend them perfectly. Both you and the character you are protecting are unharmed and out of danger. If you were protecting a bystander, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on [[leveling up]], see [[The Basic Hunter Moves]]).
 
-For **manipulate someone**, on a 12+ you absolutely convince them. They do what you want *right now*. For a hunter, they must **act under pressure** to resist your request. If they do what you ask, they mark one experience and take +1 ongoing while doing what you asked. For a bystander, not only do they do what you want right now, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on leveling up, see [[The Basic Hunter Moves]]) for the rest of the mystery (or, if you do enough for them, permanently). Note that allies can be lost, too! If they discover you’ve manipulated them into acting against their best interests, your new **ally** may become a threat to you.
+For **manipulate someone**, on a 12+ you absolutely convince them. They do what you want *right now*. For a hunter, they must **act under pressure** to resist your request. If they do what you ask, they mark one experience and take +1 [[ongoing]] while doing what you asked. For a bystander, not only do they do what you want right now, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on [[leveling up]], see [[The Basic Hunter Moves]]) for the rest of the mystery (or, if you do enough for them, permanently). Note that allies can be lost, too! If they discover you’ve manipulated them into acting against their best interests, your new **ally** may become a threat to you.
 
-For **investigate a mystery**, on a 12+ you may ask the Keeper any question you want about the mystery, not just the listed ones.
+For **investigate a mystery**, on a 12+ you may ask [[the Keeper]] any question you want about the mystery, not just the listed ones.
 
-For **read a bad situation**, on a 12+ you may ask the Keeper any question you want about the situation, not just the listed ones.
+For **read a bad situation**, on a 12+ you may ask [[the Keeper]] any question you want about the situation, not just the listed ones.
 
-For **use magic**, on a 12+ you are infused with magical power. What you wanted to do happens and the Keeper will offer you some extra benefit on top of that.
+For **use magic**, on a 12+ you are infused with magical power. What you wanted to do happens and [[the Keeper]] will offer you some extra benefit on top of that.
 
 [[Playbook-Specific Advanced Improvements]]

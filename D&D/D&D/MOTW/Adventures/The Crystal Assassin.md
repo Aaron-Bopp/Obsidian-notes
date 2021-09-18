@@ -10,11 +10,11 @@ Celino Adessi, a mystical assassin, summons extradimensional entities to kill fo
 
 Possible leads:
 
--   The hunters notice that in a recent gang war, one side of the conflict has people dying but the other side’s people are simply vanishing.
+-   [[The hunters]] notice that in a recent gang war, one side of the conflict has people dying but the other side’s people are simply vanishing.
 
 -   A hunter with criminal ties receives a dead drop package from one of the people who has gone missing. This could be a Crooked, an ex-cop getting info from an old snitch, etc.
 
--   One of the hunters (or someone they know) happens upon a crystal head in a pawn shop and realizes there’s a soul trapped inside.
+-   One of [[the hunters]] (or someone they know) happens upon a crystal head in a pawn shop and realizes there’s a soul trapped inside.
 
 -   Serenity Evans has become concerned that her pupil Adessi has gotten herself into trouble.
 
@@ -42,9 +42,9 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 -   **Magician**: She knows other magic spells too, mostly wards and protective blessings.
 
-**Attacks:** **Handguns** 3-harm close loud.
+**Attacks:** **Handguns** 3-[[harm]] close loud.
 
-**Armour:** 2 if prepared for a fight (tactical gear and wards), 1 otherwise (normal wards only).
+**Armour:** 2 if prepared for a fight (tactical [[gear]] and wards), 1 otherwise (normal wards only).
 
 **Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -58,27 +58,27 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 -   **Stealth**: The mantids exist in a phase of reality that living eyes can see quite well but technology can only catch fragments of. On camera, the mantid might present an occasional glimmer when viewed full on, with full silhouettes being caught rarely and usually on the edges of an image. Mantids are aware of when they are under a camera’s eye and will be careful when they can be recorded. If there is an active queen, they stop caring about being seen.
 
--   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes unstable as their body begins to crystallize and they are completely transformed once all harm is marked off. The process can only be stopped with magic (**use magic** to banish a curse), **weird science**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
+-   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes unstable as their body begins to crystallize and they are completely transformed once all [[harm]] is marked off. The process can only be stopped with magic (**use magic** to banish a curse), **weird science**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
 
--   **Devouring**: When it eats a crystallized prey and the soul within, it heals 2-harm.
+-   **Devouring**: When it eats a crystallized prey and the soul within, it heals 2-[[harm]].
 
 **Weaknesses:**
 
--   High-frequency sound pulses or sonic attacks (these shatter the mantids’ structure).
+-   High-frequency sound pulses or sonic attacks (these shatter the mantids’ [[structure]]).
 
 -   **Use magic** to banish a spirit. This will permanently destroy a mantid. **Attacks:**
 
--   **Claws** 5-harm close grappling.
+-   **Claws** 5-[[harm]] close grappling.
 
--   **Stinger** 3-harm hand paralyze.
+-   **Stinger** 3-[[harm]] hand paralyze.
 
--   **Bite** 3-harm intimate crystallize (see powers, above).
+-   **Bite** 3-[[harm]] intimate crystallize (see powers, above).
 
-**Armour:** 2 against mundane harm, 0 against magical harm.
+**Armour:** 2 against mundane [[harm]], 0 against magical [[harm]].
 
 **Harm Capacity:** 6. <sup>\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Totally Crystallized**: What if a hunter or bystander is completely crystallized? Possible post-transformation cures include:
 
@@ -116,13 +116,13 @@ If you prefer, here are two alternate methods (you might come up with your own t
 
 **Attacks:** Depending on physical form:
 
--   **Humanoid:** **Crystal arms** 2-harm hand grab. **Kiss** 0-harm intimate crystallize.
+-   **Humanoid:** **Crystal arms** 2-[[harm]] hand grab. **Kiss** 0-[[harm]] intimate crystallize.
 
--   **Insectile:** **Claws** 3-harm hand grab. **Bite** 2-harm intimate crystallize.
+-   **Insectile:** **Claws** 3-[[harm]] hand grab. **Bite** 2-[[harm]] intimate crystallize.
 
--   **Living Crystal Shard:** **Grown spikes** 3-harm hand grapple. **Crystal dust** 0-harm intimate inhaled crystallize.
+-   **Living Crystal Shard:** **Grown spikes** 3-[[harm]] hand grapple. **Crystal dust** 0-[[harm]] intimate inhaled crystallize.
 
-**Armour:** 3 against mundane harm, 0 against magical harm.
+**Armour:** 3 against mundane [[harm]], 0 against magical [[harm]].
 
 **Harm Capacity:** 10 <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -144,7 +144,7 @@ Evans is the occultist who originally taught Adessi. She has deep knowledge but 
 
 <img src="./TomeIMGs/media/image102.jpg" style="width:6in;height:3.65399in" />In the mystic community, she is known as a crafter of sanctums, hidden places, vaults, and the like. She has also mentored a fair number of psychics.
 
-Evans is unaware that Adessi has been using her powers for murderous ends. However, Evas periodically performs divinations to check up on her old students. Until recently, Adessi’s use of summoned creatures has kept Serenity from noticing anything—but as the assassin begins to get a greater thrill out of her murders these divinations have been growing darker. Serenity assumes Adessi is in trouble and needs help. Since she has found it difficult to reach her old student, she might ask the hunters to investigate. She may or may not know of Adessi’s mother, but certainly never met the woman. Note that Adessi’s ‘Cursed Hall’ is based on perversions of spells taught by Serenity.
+Evans is unaware that Adessi has been using her powers for murderous ends. However, Evas periodically performs divinations to check up on her old students. Until recently, Adessi’s use of summoned creatures has kept Serenity from noticing anything—but as the assassin begins to get a greater thrill out of her murders these divinations have been growing darker. Serenity assumes Adessi is in trouble and needs help. Since she has found it difficult to reach her old student, she might ask [[the hunters]] to investigate. She may or may not know of Adessi’s mother, but certainly never met the woman. Note that Adessi’s ‘Cursed Hall’ is based on perversions of spells taught by Serenity.
 
 # Marcus Eiger
 
@@ -160,7 +160,7 @@ The moment he can safely betray her, he will do it in the blink of an eye.
 
 *Bystander: Witness (motivation: to reveal information)*
 
-The leader of a local contingent of mafia who has been finding himself on the losing end of a gang war. After witnessing monsters turn his men into crystal statues, he’s ready to leave town.
+The leader of a local contingent of mafia who has been finding himself on the losing end of a gang war. After witnessing [[monsters]] turn his men into crystal statues, he’s ready to leave town.
 
 # Junoichi Kenta
 

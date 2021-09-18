@@ -1,4 +1,4 @@
-Minions get eleven moves:
+[[Minions]] get eleven [[moves]]:
 
 - A burst of sudden, uncontrolled violence
 - Make a coordinated attack
@@ -12,12 +12,12 @@ Minions get eleven moves:
 - Display a hint of conscience or humanity
 - Disobey the master, in some petty way
 
-**USING MINIONS**
+**USING [[MINIONS]]**
 
-Minions are there to support and guard the monster. While monsters should be kept at a distance to start with, it’s fine for minions to be noticed and fought early in the mystery.
+[[Minions]] are there to support and guard the monster. While [[monsters]] should be kept at a distance to start with, it’s fine for [[minions]] to be noticed and fought early in the mystery.
 
-Minions can also be used to build up tension, giving the hunters a feeling of being surrounded by danger, or of constantly being watched.
+[[Minions]] can also be used to build up tension, giving [[the hunters]] a feeling of being surrounded by danger, or of constantly being watched.
 
-Don’t have minions always fight to the death: they can flee, surrender, or offer a deal to be left alive or betray their master. This is especially true for human minions.
+Don’t have [[minions]] always fight to the death: they can flee, surrender, or offer a deal to be left alive or betray their master. This is especially true for human [[minions]].
 
 [[Bystander Threat Moves]]

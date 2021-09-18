@@ -26,23 +26,23 @@ Young’s obsession reached its peak in early February, when she found a book of
 
 Evelyn, in her freshman year, had an affair with a young married professor (Eric Clevinger) whom she loved and who she thought loved her. She became pregnant. Afraid that Evelyn and her secret could ruin his life, the professor came to her room one night, pushed her from her open window, and watched her fall four floors to the pavement. He fled and the death was presumed to be a suicide.
 
-Evelyn is now a spirit of vengeance, punishing those who break their lovers’ vows. If any of the hunters fit the bill, be sure to send Evelyn after them.
+Evelyn is now a spirit of vengeance, punishing those who break their lovers’ vows. If any of [[the hunters]] fit the bill, be sure to send Evelyn after them.
 
 She appears as an apparition of an 18-year-old, in a faded print dress from the 70s. The back of her head is caved in from the fall that killed her, and she holds her head at an impossible angle on her ghostly broken neck.
 
 **Powers:**
 
-• **Frost Grasp**: When **Evelyn reaches through your chest and grabs your heart**, take 3-harm ignore-armour magic, then roll +Weird:
+• **Frost Grasp**: When **Evelyn reaches through your chest and grabs your heart**, take 3-[[harm]] ignore-[[armour]] magic, then roll +Weird:
 
-On a 10+, you resist and see into her soul; ask the Keeper a single question about her and they will answer you honestly.
+On a 10+, you resist and see into her soul; ask [[the Keeper]] a single question about her and they will answer you honestly.
 
 On a 7-9, you see into her soul, but she also sees into yours; ask your question, but Evelyn will have a question or two for you as well: answer her honestly.
 
-On a miss, take an additional harm and answer honestly the questions she asks you.
+On a miss, take an additional [[harm]] and answer honestly the questions she asks you.
 
-**Attacks:** **Telekinesis:** 0 to 3-harm close ignore-armour cold. Evelyn can throw objects or push victims—pick harm rating based on danger level. This leaves a frost that will melt into ectoplasmic goo.
+**Attacks:** **Telekinesis:** 0 to 3-[[harm]] close ignore-[[armour]] cold. Evelyn can throw objects or push victims—pick [[harm]] rating based on danger level. This leaves a frost that will melt into ectoplasmic goo.
 
-**Armour:** None, but she cannot be harmed by normal weapons (except while using her frost grasp).
+**Armour:** None, but she cannot be harmed by normal [[weapons]] (except while using her frost grasp).
 
 **Harm Capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -114,7 +114,7 @@ The McDowell Building
 
 # (English Department)
 
-*Location: Deathtrap (motivation: to harm intruders)*
+*Location: Deathtrap (motivation: to [[harm]] intruders)*
 
 One of the oldest buildings on campus, made of limestone and brick. Cramped and poorly maintained.
 

@@ -20,11 +20,11 @@ The door slams shut.
 
 # Countdown
 
-<table><colgroup><col style="width: 21%" /><col style="width: 78%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>The hunters’ souls are devoured, imbuing the Old One with more power.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>As the Old One gains power, the building begins to thrum and glow a dull green.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>The hotel gains more notoriety, bringing in a stream of journalists and bloggers.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Police officers are sent in to find the growing number of missing persons.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td><blockquote><p>The growing power triggers an earthquake, killing many people in town and creating many more souls for the hungry monstrosity.</p></blockquote></td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>The Old One, having devoured enough</p><p>souls, bursts forth. It destroys the tri-state area and continues on its destructive path.</p></blockquote></td></tr></tbody></table>
+<table><colgroup><col style="width: 21%" /><col style="width: 78%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>[[The hunters]]’ souls are devoured, imbuing the Old One with more power.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>As the Old One gains power, the building begins to thrum and glow a dull green.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>The hotel gains more notoriety, bringing in a stream of journalists and bloggers.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Police officers are sent in to find the growing number of missing persons.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td><blockquote><p>The growing power triggers an earthquake, killing many people in town and creating many more souls for the hungry monstrosity.</p></blockquote></td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>The Old One, having devoured enough</p><p>souls, bursts forth. It destroys the tri-state area and continues on its destructive path.</p></blockquote></td></tr></tbody></table>
 
 # Keeper Notes
 
-The hunters begin as ghosts. As a result of their deaths, your hunters cannot properly remember the past week and do not realise what has happened. Pick your language carefully to support this. For example, instead of saying someone opens a book, describe the pages fluttering in an unseen breeze and falling to the right page. You might use the move **separate them** to have someone accidentally move to another section of the hotel, as they do not have full control of their ghostly body. If they fail an attack roll, describe their weapon seeming to pass directly through the target.
+[[The hunters]] begin as ghosts. As a result of their deaths, your hunters cannot properly remember the past week and do not realise what has happened. Pick your language carefully to support this. For example, instead of saying someone opens a book, describe the pages fluttering in an unseen breeze and falling to the right page. You might use the move **separate them** to have someone accidentally move to another section of the hotel, as they do not have full control of their ghostly body. If they fail an attack roll, describe their weapon seeming to pass directly through the target.
 
 Your hunters’ limitations may depend on what has already been set up in the world, however it is likely they:
 
@@ -48,9 +48,9 @@ The Old One is massive and octopus-like, spanning floors. It cannot move from th
 
 -   **Great Old Grand**: Over time, the Old One has reached other tentacles up through the floors and walls of the old hotel. This is how it is able to trap people inside and it also means it is aware of where a living/moving being is in the hotel at all times.
 
-**Attacks:** **Serrated suckers** 2-harm far/intimate life-drain. **Gaping maw** 4-harm intimate ignore-armour.
+**Attacks:** **Serrated suckers** 2-[[harm]] far/intimate life-drain. **Gaping maw** 4-[[harm]] intimate ignore-[[armour]].
 
-**Harm Capacity:** 10-harm with two extra long tentacles (5-harm, each).
+**Harm Capacity:** 10-[[harm]] with two extra long tentacles (5-[[harm]], each).
 
 -   Body: \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
@@ -58,17 +58,17 @@ The Old One is massive and octopus-like, spanning floors. It cannot move from th
 
 **Weakness:**
 
-**Eldritch Ritual:** The Old One was brought into this realm by an eldritch ritual that was incorrectly carried out by hotel guests. This was done by carving and painting sigils around the hotel and in the basement. If these five sigils can be found and destroyed (by causing 2-harm to each), the portal will be destroyed and the Old One will no longer be tethered between worlds.
+**Eldritch Ritual:** The Old One was brought into this realm by an eldritch ritual that was incorrectly carried out by hotel guests. This was done by carving and painting sigils around the hotel and in the basement. If these five sigils can be found and destroyed (by causing 2-[[harm]] to each), the portal will be destroyed and the Old One will no longer be tethered between worlds.
 
 # Kel Priestly, werewolf and supernatural detective
 
-*Bystander: Hunter (motivation: to kill the monsters), later*
+*Bystander: Hunter (motivation: to kill the [[monsters]]), later*
 
 *Witness (motivation: to reveal information)*
 
-<img src="./TomeIMGs/media/image126.jpg" style="width:6in;height:4.12162in" />Kel is a hunter (similar to [[the Monstrous]] playbook) who has come to investigate the Old Grand after the hunters went missing over a week ago. Convinced he is dealing with typical ghosts, he is armed with salt bullets and will attack on sight. If they take the time, the hunters will notice Kel is less wolf-like than typical werewolves: he still stands as a human, has use of his hands and feet, and can speak (although gutturally and infrequently while fighting). If they can convince him they mean no harm, he may become an ally. If not, his supernatural PI licence and hunter’s notes will be found on his body.
+<img src="./TomeIMGs/media/image126.jpg" style="width:6in;height:4.12162in" />Kel is a hunter (similar to [[the Monstrous]] playbook) who has come to investigate the Old Grand after [[the hunters]] went missing over a week ago. Convinced he is dealing with typical ghosts, he is armed with salt bullets and will attack on sight. If they take the time, [[the hunters]] will notice Kel is less wolf-like than typical werewolves: he still stands as a human, has use of his hands and feet, and can speak (although gutturally and infrequently while fighting). If they can convince him they mean no [[harm]], he may become an ally. If not, his supernatural PI licence and hunter’s notes will be found on his body.
 
-**Attacks:** **Shotgun with salt bullets** 4-harm close messy loud anti-ghost. **Teeth** 2-harm intimate. **Armour:** 1. Very tough.
+**Attacks:** **Shotgun with salt bullets** 4-[[harm]] close messy loud anti-ghost. **Teeth** 2-[[harm]] intimate. **Armour:** 1. Very tough.
 
 **Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -82,7 +82,7 @@ Once the door closes, the hotel is no longer linked to the present. Looking outs
 
 Any attempt to leave will fail until the Old One is defeated: the hotel will only allow exit once the Old One is no longer controlling it—once the sigils have been broken and its connection with the Other World has been severed. These sigils can only be broken by physical damage.
 
-The Old Grand sits just as it was abandoned over a century ago when cultists carried out various rituals in an attempt to bring the Old One forth. As they look around, investigators will find ritual [[spell books]] and the personal diaries of the cultists in some of the rooms, as well as evidence of the rituals carried out. The library may also contain information about the history of the location.
+The Old Grand sits just as it was abandoned over a century ago when cultists carried out various rituals in an attempt to bring the Old One forth. As they look around, investigators will find ritual [[spell books]] and the personal diaries of the cultists in some of the rooms, as well as evidence of the rituals carried out. The library may also contain information about the [[history]] of the location.
 
 The investigators may find evidence of their physical selves, such as a unique item dropped around the hotel before they were killed and captured.
 
@@ -94,7 +94,7 @@ Other spirits may be briefly seen or heard around the hotel. This may include gh
 
 # Custom Moves
 
-**Shades from the past**: As the hunters start to realise their situation, they may get flashbacks to what happened. As they are presented with additional information, an investigator may **investigate a mystery** (using Weird instead of Sharp) to recall relevant information in the form of a vision of the lost time.
+**Shades from the past**: As [[the hunters]] start to realise their situation, they may get flashbacks to what happened. As they are presented with additional information, an investigator may **investigate a mystery** (using Weird instead of Sharp) to recall relevant information in the form of a vision of the lost time.
 
 The investigators will be able to **resurrect**—see page 112 of *Monster of the Week*. The **big magic** requires:
 

@@ -10,7 +10,7 @@ Spell Books
 
 —Sidney Sheldon, *Are You Afraid of the Dark?*
 
-<img src="./TomeIMGs/media/image66.png" style="width:5.81667in;height:3.94333in" />Magic in *Monster of the Week* can generate concern around the question of ‘everyday magic.’ Since the game is squarely based on classic monster hunting television shows like *Buffy* and *Supernatural*, players quickly understand that ritual magic allows for special events or adventures, like Buffy’s resurrection or Sam and Dean Winchester traveling back in time.
+<img src="./TomeIMGs/media/image66.png" style="width:5.81667in;height:3.94333in" />Magic in *Monster of the Week* can generate concern around the question of ‘everyday magic.’ Since the game is squarely based on classic monster hunting television shows like *Buffy* and *Supernatural*, players quickly understand that ritual magic allows for special events or adventures, like Buffy’s [[resurrection]] or Sam and Dean Winchester traveling back in time.
 
 The new weirdness rules can help in games based on low magic or purely science fiction monster hunting shows like *The X-Files* or *Fringe*. That still leaves a question about running the vanilla magic rules in a game inspired by urban fantasy where magic is rare. One way the group can make magic more formalised is to limit it to a smaller number of defined spells. New spells must be found, researched, or invented rather than simply improvised in play (as with the normal **use magic** move).
 
@@ -24,11 +24,11 @@ Apply the **use magic** rules as a starting point, picking specific effects, gli
 
 You may add new requirements and glitches if you want, using the existing ones as guidelines.
 
-For example, Gerard the Spooky wants a spell that turns him momentarily insubstantial to protect him from monster attacks. This is clearly ‘beyond human limitations’ and similar to a ‘heal’ effect, which makes it a bit more powerful than a regular spell. Gerard’s player and the Keeper agree that the spell needs a rare ingredient—a special mystic herb that Gerard must swallow—and certain arcane gestures. In the case of a glitch, it will have reduced effect (only half the harm is avoided) and attract unwanted attention (from other things that live in the insubstantial dimension Gerard is visiting). To cast this spell, roll the **use magic** move as usual, but the effect, requirements, and glitches are always the pre-agreed ones that go with the spell formula.
+For example, Gerard [[the Spooky]] wants a spell that turns him momentarily insubstantial to protect him from monster attacks. This is clearly ‘beyond human limitations’ and similar to a ‘heal’ effect, which makes it a bit more powerful than a regular spell. Gerard’s player and [[the Keeper]] agree that the spell needs a rare ingredient—a special mystic herb that Gerard must swallow—and certain arcane gestures. In the case of a glitch, it will have reduced effect (only half the [[harm]] is avoided) and attract unwanted attention (from other things that live in the insubstantial dimension Gerard is visiting). To cast this spell, roll the **use magic** move as usual, but the effect, requirements, and glitches are always the pre-agreed ones that go with the spell formula.
 
 # Spell Books
 
-Hunters with magical backgrounds should begin with a spell book containing a core group of spells. These should be developed between player and Keeper. The payoff for the magician should be that the downside is clearly limited if it misfires. Various forms of investigative, illusion, protection, and healing magic spells are to be encouraged. Fantasy tabletop RPGs like *Dungeon World* are a good source of inspiration, with the understanding that the spells generally need to be powered down a bit to match an urban fantasy setting.
+Hunters with magical backgrounds should begin with a spell book containing a core group of spells. These should be developed between player and Keeper. The payoff for the magician should be that the downside is clearly limited if it misfires. Various forms of investigative, illusion, protection, and [[healing]] magic spells are to be encouraged. Fantasy tabletop RPGs like *Dungeon World* are a good source of [[inspiration]], with the understanding that the spells generally need to be powered down a bit to match an urban fantasy setting.
 
 Spellcasters may be allowed to research spells—but this should often come with the same sort of serious costs associated with **big magic**. In many cases, the exact same requirements as **big magic** will work for spell research. A spell book or grimoire is a good special rare ingredient for spell research.
 
@@ -106,7 +106,7 @@ When the fingers of the Hand close around this candle (see above) and the candle
 
 # Grimoires In Your Game
 
-It is easy to imagine one or more of these texts being the basis of a whole campaign. The *Twenty Palaces* novels by Harry Connolly offer a good model: The Society is a ruthless guild of sorcerers who track down grimoires and destroy them, their users, and the monsters they create.
+It is easy to imagine one or more of these texts being the basis of a whole campaign. The *Twenty Palaces* novels by Harry Connolly offer a good model: The Society is a ruthless guild of sorcerers who track down grimoires and destroy them, their users, and the [[monsters]] they create.
 
 In my case, I recreated the satanic Pallas Society from Val Lewton’s classic film *The Seventh Victim* to trouble the characters with the *Christian Book of the Dead*.
 
@@ -120,13 +120,13 @@ The members believe that reason naturally leads to a bizarre pacifism
 
 The group can program serial killers using Cold War techniques on chosen (i.e. less useful) cult members. The society membership strongly favors old and powerful WASP Eastern elite families (think the Skull and Bones club). The cult would dearly like some actual supernatural knowledge but is currently just a bunch of depraved elites who dress up in funny hats and robes and attend seasonal orgies, as in Kubrick’s film *Eyes Wide Shut*.
 
-The Palladists are based on a fictional Satanist group that was a famous 19th Century hoax. The Palladists also play a major role in the latter part of Umberto Eco’s novel *The Prague Cemetery*. An entire campaign can be centered on the hunters in conflict with a group like this.
+The Palladists are based on a fictional Satanist group that was a famous 19th Century hoax. The Palladists also play a major role in the latter part of Umberto Eco’s novel *The Prague Cemetery*. An entire campaign can be centered on [[the hunters]] in conflict with a group like this.
 
 # Other Ways To Use Spellbooks
 
 Of course many other types of campaigns can be imagined about various types of spell books.
 
-The hunters could inhabit Kenneth Hite’s *Bookhounds of London* setting, obtaining forbidden Lovecraftian tomes from depraved aristocrats and corrupt cultists in 1930s Britain.
+[[The hunters]] could inhabit Kenneth Hite’s *Bookhounds of London* setting, obtaining forbidden Lovecraftian tomes from depraved aristocrats and corrupt cultists in 1930s Britain.
 
 Alternatively, the players could explore mysterious powers and dangerous urban spells from Fritz Leiber’s *Our Lady of Darkness* after they gain a copy of the mad scholar Thibaut de Castries’ obscure book *Megapolisomancy: a New Science of Cities*.
 
@@ -134,7 +134,7 @@ Or join Ash back in a medieval Britain that looks surprisingly like the
 
 Southern Californian desert to fight zombies by mispronouncing a phrase from the *Necronomicon Est*.
 
-The hunters may be foolish enough seek the location of the very gates of Hell itself in the Nine Gates to the Kingdom of Shadows...
+[[The hunters]] may be foolish enough seek the location of the very gates of Hell itself in the Nine Gates to the Kingdom of Shadows...
 
 The possibilities are as limitless as the volumes in a library located somewhere in Rod Serling’s *Twilight Zone*. With a little thought and input from your players, your mystical hunters can be the catalyst for countless adventures.
 

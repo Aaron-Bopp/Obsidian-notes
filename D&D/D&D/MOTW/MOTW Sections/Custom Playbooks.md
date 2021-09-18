@@ -1,5 +1,5 @@
 
-I encourage the creation of custom hunter types for your game, and to share the results with other players and groups over the Internet. Here’s how to go about putting a new playbook together.
+I encourage the creation of custom [[hunter types]] for your game, and to share the results with other players and groups over the Internet. Here’s how to go about putting a new playbook together.
 
 Concept
 
@@ -19,6 +19,6 @@ Rating lines should add up to three, and normally each hunter type has one ratin
 
 [[The Monstrous]] always gets +3 Weird, as a special case: there’s an unstated move that gives [[the Monstrous]] +1 Weird.
 
-The Chosen varies the rule as well: she gets two +2 ratings (each line has a different pair), plus each line adds up to four: the Chosen also has an unstated extra move to give her this advantage.
+[[The Chosen]] varies the rule as well: she gets two +2 ratings (each line has a different pair), plus each line adds up to four: [[the Chosen]] also has an unstated extra move to give her this advantage.
 
 [[Moves]]

@@ -14,15 +14,15 @@ As the mystery begins, he needs one more meal, then he will leave to start over 
 
 # Hook
 
-Some options for the hunters:
+Some options for [[the hunters]]:
 
 -   The teenagers are reported missing.
 
 -   Paddington Reynolds, conspiracy theorist and UFO expert, is convinced that extraterrestrials created the crop circles and the government is covering it up. He announces on his show that he’s going to the site to investigate and will broadcast live from there.
 
--   The hunters may be called in by relatives of the teenagers.
+-   [[The hunters]] may be called in by relatives of the teenagers.
 
--   The hunters may know (or know of) Reynolds and follow his investigation. Reynolds would be a good friend or rival for a Flake.
+-   [[The hunters]] may know (or know of) Reynolds and follow his investigation. Reynolds would be a good friend or rival for a Flake.
 
 # Countdown
 
@@ -42,11 +42,11 @@ In human form, Pavlos is a boy in his late teens with dark features and a strong
 
 -   **Alter**: Change the labyrinth (crop circles) at will to confound intruders or to lead them somewhere specific. **Attacks:**
 
--   **Fire snort** 3-harm close fire.
+-   **Fire snort** 3-[[harm]] close fire.
 
--   **Horns** 3-harm close forceful.
+-   **Horns** 3-[[harm]] close forceful.
 
--   **Bite** 2-harm intimate.
+-   **Bite** 2-[[harm]] intimate.
 
 **Armour:** None in human form. 2 in minotaur form (thick hide).
 
@@ -62,7 +62,7 @@ In human form, Pavlos is a boy in his late teens with dark features and a strong
 
 *Minion: Guardian (motivation: to protect Pavlos and the labyrinth)*
 
-Pavlos is actually Nikos’ father. Nikos can reveal this information dramatically (“Get away from my daddy!”) when he intervenes. **Attacks:** **Shotgun** 3-harm close messy loud. **Kick and punch** 0-harm hand.
+Pavlos is actually Nikos’ father. Nikos can reveal this information dramatically (“Get away from my daddy!”) when he intervenes. **Attacks:** **Shotgun** 3-[[harm]] close messy loud. **Kick and punch** 0-[[harm]] hand.
 
 **Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -74,7 +74,7 @@ Pavlos is actually Nikos’ father. Nikos can reveal this information dramatical
 
 The maze is a series of spiralling circles connected to one larger circle at the center. Hunters and victims will feel disorientated because of the twisting layout and being unable to see over the top of the tall crops.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Let’s Get Out Of Here!** When you enter the circle looking for the center, you find it. When you try to find an exit or someone else in the maze, roll +Sharp:
 
@@ -86,7 +86,7 @@ The maze is a series of spiralling circles connected to one larger circle at the
 
 # The Farmhouse
 
-*Location: Den (motivation: to harbour monsters)*
+*Location: Den (motivation: to harbour [[monsters]])*
 
 This looks like a regular farmhouse on the outside and the inside. The basement is a shrine with art on the walls depicting the legend and a statue of the minotaur. This is where Pavlos rests after feeding.
 
@@ -94,7 +94,7 @@ This looks like a regular farmhouse on the outside and the inside. The basement 
 
 *Bystander: Victim (motivation: to put himself in danger)*
 
-Paddington is determined to prove that he knows the truth and he will put himself in danger to do so. He is sure he knows more than the hunters and will try to stay a step ahead of them rather than working with them.
+Paddington is determined to prove that he knows the truth and he will put himself in danger to do so. He is sure he knows more than [[the hunters]] and will try to stay a step ahead of them rather than working with them.
 
 He will also try to capture everything he can on film as evidence.
 
@@ -102,7 +102,7 @@ He will also try to capture everything he can on film as evidence.
 
 <img src="./TomeIMGs/media/image95.jpg" style="width:6in;height:2.68996in" />*Bystander: Skeptic (motivation: to deny supernatural explanations)*
 
-Gibbs is dismissive of Reynolds and the hunters, who he views as opportunists in a situation he’d prefer to keep quiet. He thinks the crop circle is a hoax arranged by school kids and suspects that Pavlos is somehow involved—but he doesn’t know how. He sees any approaches made by the hunters to Pavlos and Nikosas as disrupting his own investigation.
+Gibbs is dismissive of Reynolds and [[the hunters]], who he views as opportunists in a situation he’d prefer to keep quiet. He thinks the crop circle is a hoax arranged by school kids and suspects that Pavlos is somehow involved—but he doesn’t know how. He sees any approaches made by [[the hunters]] to Pavlos and Nikosas as disrupting his own investigation.
 
 # Bill and Sally Daniels, Ed and Jean Cross, parents of the missing kids
 

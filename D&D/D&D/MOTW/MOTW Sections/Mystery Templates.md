@@ -1,11 +1,11 @@
 ---
 date updated: Friday, September 17th 2021, 7:33:13 pm
 ---
-Here are some simple skeletons for mysteries that allow you to slot in a monster and build up the rest of the mystery quickly. Use them as-is if you’re in a hurry, or as inspiration for your own mysteries.
+Here are some simple skeletons for mysteries that allow you to slot in a monster and build up the rest of the mystery quickly. Use them as-is if you’re in a hurry, or as [[inspiration]] for your own mysteries.
 
 # A BUG HUNT
 
-A straightforward monster hunt. Bug hunts suit monsters that have simple motivations, such as a devourer, torturer, beast, or executioner.
+A straightforward monster hunt. Bug hunts suit [[monsters]] that have simple motivations, such as a devourer, torturer, beast, or executioner.
 
 **Hook:** There have been one or more killings which, to those in the know, are obviously the work of an unnatural creature.
 
@@ -14,7 +14,7 @@ A straightforward monster hunt. Bug hunts suit monsters that have simple motivat
 - The monster.
 - A location: the general vicinity.
 - A location: the monster’s lair.
-- At least two bystanders to be potential witnesses and victims (some sympathetic, others annoying).
+- At least two [[bystanders]] to be potential witnesses and victims (some sympathetic, others annoying).
 
 **Countdown:**
 
@@ -26,11 +26,11 @@ A straightforward monster hunt. Bug hunts suit monsters that have simple motivat
 >
 ![[Pasted image 20210917193225.png]]
 
-**Hook:** An ancient prophecy, a vision of the future, or everyday investigation and research tells the hunters that the ritual is going to occur. **Threats:**
+**Hook:** An ancient prophecy, a vision of the future, or everyday investigation and research tells [[the hunters]] that the ritual is going to occur. **Threats:**
 
 - A monster.
 
-- Some minions (including your sorcerer, if you have one).
+- Some [[minions]] (including your sorcerer, if you have one).
 
 - A location (the ritual ground---most likely a hellgate).
 
@@ -51,7 +51,7 @@ You’ll need to come up with the monster, and work out why it initially seems t
 
 - A monster.
 - The area where the attacks are happening.
-- Lots of bystanders.
+- Lots of [[bystanders]].
 
 **Countdown:**
 

@@ -1,11 +1,11 @@
 
 Minions can be supernatural creatures (maybe weaker versions of a monster breed), or normal people (who could be voluntarily or involuntarily helping the monster). They can also be a group that work together.
 
-Minions help the monster and work against the hunters.
+Minions help the monster and work against [[the hunters]].
 
 There are ten minion types:
 
-- Assassin (motivation: to kill the hunters)
+- Assassin (motivation: to kill [[the hunters]])
 - Brute (motivation: to intimidate and attack)
 - Cultist (motivation: to save their own skin at any cost)
 - Guardian (motivation: to bar a way or protect something)
@@ -22,14 +22,14 @@ Decide on all the elements that you’ll need:
 - Pick the type (and associated motivation) for the minion.
 - Note down all the supernatural powers it has, if any.
 - Weaknesses, if any.
-- Define its attacks: how much harm does the minion do (usually 2-4)? What range? Are any other tags required?
-- How much armour does it have, if any?
-- How much harm can it suffer before it dies (usually 5-10)?
-- Optionally, custom moves for the minion’s powers.
+- Define its attacks: how much [[harm]] does the minion do (usually 2-4)? What range? Are any other tags required?
+- How much [[armour]] does it have, if any?
+- How much [[harm]] can it suffer before it dies (usually 5-10)?
+- Optionally, [[custom moves]] for the minion’s powers.
 
-As with monsters, when your hunters are experienced and capable, you can make the minions tougher than these guidelines.
+As with [[monsters]], when your hunters are experienced and capable, you can make the minions tougher than these guidelines.
 
-Remember minions may be a group of undistinguished foes as well as individuals. If you create a group minion, the harm capacity is how much is required to kill or disperse the whole group.
+Remember minions may be a group of undistinguished foes as well as individuals. If you create a group minion, the [[harm]] capacity is how much is required to kill or disperse the whole group.
 
 Example Minions
 
@@ -43,18 +43,18 @@ They look nasty: strips of muscle, bits of bone, pieces of organs, an eye or thr
 
 **Minion:** Brute (motivation: to intimidate and attack).
 
-**Attacks:** Individuals have an attack of 1-harm (if rat-sized) or 2-harm, (if cat-sized). There aren’t any bigger ones (yet). If they attack as a group, then they have a 3-harm area attack. Range is hand/intimate.
+**Attacks:** Individuals have an attack of 1-[[harm]] (if rat-sized) or 2-[[harm]], (if cat-sized). There aren’t any bigger ones (yet). If they attack as a group, then they have a 3-[[harm]] area attack. Range is hand/intimate.
 
-**Harm capacity:** 7-harm will disperse the swarm. Each point of harm kills one or two individuals.
+**Harm capacity:** 7-[[harm]] will disperse the swarm. Each point of [[harm]] kills one or two individuals.
 
 **CHUCK THE BARTENDER**
 
-Chuck is the hunters’ good friend at their favorite bar, always happy to give them a couple of free drinks and to listen to them unload about their problems. Unfortunately, Chuck also makes a bit of extra money passing information back to the hunters’ biggest enemies.
+Chuck is [[the hunters]]’ good friend at their favorite bar, always happy to give them a couple of free drinks and to listen to them unload about their problems. Unfortunately, Chuck also makes a bit of extra money passing information back to [[the hunters]]’ biggest enemies.
 
 **Minion:** Traitor (motivation: to betray people)
 
-Chuck is friendly and a little too generous. He won’t do anything obvious against the hunters, but make him just a little nicer than he needs to be. And make sure that the monster hears about everything that they tell Chuck (assume the monster knows how to fill in any gaps the hunters have left out because they are talking to a civilian).
+Chuck is friendly and a little too generous. He won’t do anything obvious against [[the hunters]], but make him just a little nicer than he needs to be. And make sure that the monster hears about everything that they tell Chuck (assume the monster knows how to fill in any gaps [[the hunters]] have left out because they are talking to a civilian).
 
-Chuck’s just a normal person. He doesn’t have any special powers, attacks, or armour.
+Chuck’s just a normal person. He doesn’t have any special powers, attacks, or [[armour]].
 
 [[Bystanders]]

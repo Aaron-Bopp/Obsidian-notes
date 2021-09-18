@@ -22,23 +22,23 @@ Razorback is a huge ogre wearing a patchwork leather pig mask and a slaughterhou
 
 During combat, Razorback prefers to hang back and throw blades or spikes, or trigger machinery. Razorback does not run.
 
-Slaughterhouse tools deal +2 harm to Razorback.
+Slaughterhouse tools deal +2 [[harm]] to Razorback.
 
-**Attacks:** **Thrown sharps** 2-harm close forceful messy. **Slaughterhouse hammer** 3-harm hand messy stun. **Machinery** 5-harm intimate messy slow. **Devour** 4-harm intimate messy life-drain. **Armour:** 1
+**Attacks:** **Thrown sharps** 2-[[harm]] close forceful messy. **Slaughterhouse hammer** 3-[[harm]] hand messy stun. **Machinery** 5-[[harm]] intimate messy slow. **Devour** 4-[[harm]] intimate messy life-drain. **Armour:** 1
 
 **Harm Capacity:** 20. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\] **Weakness:** Being ground up in the slaughterhouse machinery.
 
 # The Pig Killing Factory
 
-*Location: Deathtrap (motivation: to harm intruders)*
+*Location: Deathtrap (motivation: to [[harm]] intruders)*
 
 The plant is full of dangling ceiling hooks on conveyors, and hoppers for grinding and destruction of pigs.
 
-Razorback can activate them, and has built traps to maim, hold, and kill his victims.
+Razorback can activate them, and has built traps to maim, [[hold]], and kill his victims.
 
 The remains of earlier victims can be found being eaten by slaughterhouse pigs.
 
-**Attacks:** **Killing machines**: 3-harm close messy loud.
+**Attacks:** **Killing machines**: 3-[[harm]] close messy loud.
 
 # Slaughterhouse Pigs
 
@@ -48,7 +48,7 @@ Slaughterhouse pigs with oddly human-looking eyes are mysteriously appearing des
 
 If many are present, they will initiate an attack on a solitary or wounded hunter.
 
-**Attacks:** **Pig bite** 2-harm intimate messy. **Harm capacity:** 3. <sup>\[\]\[\]\[\]</sup>
+**Attacks:** **Pig bite** 2-[[harm]] intimate messy. **Harm capacity:** 3. <sup>\[\]\[\]\[\]</sup>
 
 # Archie Clemonte
 
@@ -72,7 +72,7 @@ An heir of the Clemonte family, he is a martial artist, a yuppie, and a bully. H
 
 *Bystander: Victim (motivation: to put herself in danger)*
 
-An heir of the Clemonte family, she liked to explore the mansion as a child. She stumbled across magical items in secret rooms, and she may offer these to the hunters in exchange for help. She entertains parapsychology as a hobby when she isn’t administrating side ventures of the family fortune.
+An heir of the Clemonte family, she liked to explore the mansion as a child. She stumbled across magical items in secret rooms, and she may offer these to [[the hunters]] in exchange for help. She entertains parapsychology as a hobby when she isn’t administrating side ventures of the family fortune.
 
 # Cyril Clemonte
 

@@ -12,7 +12,7 @@ This pact was upheld for centuries, but the various upheavals of the twentieth c
 
 Hook
 
-The hunters will be alerted to the mystery by the following events in Handfast and the surrounding farmland.
+[[The hunters]] will be alerted to the mystery by the following events in Handfast and the surrounding farmland.
 
 - One unusual weather event after another: a summer heatwave, a tornado, flooding.
 - A spate of attacks in which a person alone, at night, has been beaten and suffered a single cut, but can remember nothing about the event or their attacker. This has happened four times over the past week.
@@ -27,15 +27,15 @@ Countdown
 
 Notes
 
-This mystery is unusual in that the most dangerous supernatural being here (Oberon) is not the monster to be defeated (which is Bonecruncher the redcap). Oberon has set certain things in motion, but Bonecruncher is the immediate danger to the town and the hunters. Threat types are defined by their role in the mystery, which is why this one has Oberon as a “minion” even though he’s really in charge.
+This mystery is unusual in that the most dangerous supernatural being here (Oberon) is not the monster to be defeated (which is Bonecruncher the redcap). Oberon has set certain things in motion, but Bonecruncher is the immediate danger to the town and [[the hunters]]. Threat types are defined by their role in the mystery, which is why this one has Oberon as a “minion” even though he’s really in charge.
 
-Aside from defeating Bonecruncher, the mystery has a few other threads the hunters might want to tie up.
+Aside from defeating Bonecruncher, the mystery has a few other threads [[the hunters]] might want to tie up.
 
-- Oberon is indulging his desire for revenge due to the town’s betrayal, but for him this is quite a small betrayal. If the hunters propose some kind of reparation, he’ll be happy to leave the town to its own devices. Cunning hunters might even argue that the things he has already done are enough punishment for the town to consider the contract quit. Another angle they can take is that none of the people now suffering were parties to the contract (Oberon will respond that they benefited from his influence over the town, so are bound by the terms for that reason). Hunters could also call upon another major power as a mediator, but they would still need to successfully present their argument against Oberon. Note that it is possible the hunters may use **manipulate someone** on Oberon, but he will demand a high price, such as servitude for one hundred years, or a unique magical treasure.
-- Bonecruncher could be sent away as one of the terms of a deal the hunters cut with Oberon, but otherwise the redcap will be left to roam and kill as he wishes.
+- Oberon is indulging his desire for revenge due to the town’s betrayal, but for him this is quite a small betrayal. If [[the hunters]] propose some kind of reparation, he’ll be happy to leave the town to its own devices. Cunning hunters might even argue that the things he has already done are enough punishment for the town to consider the contract quit. Another angle they can take is that none of the people now suffering were parties to the contract (Oberon will respond that they benefited from his influence over the town, so are bound by the terms for that reason). Hunters could also call upon another major power as a mediator, but they would still need to successfully present their argument against Oberon. Note that it is possible [[the hunters]] may use **manipulate someone** on Oberon, but he will demand a high price, such as servitude for one hundred years, or a unique magical treasure.
+- Bonecruncher could be sent away as one of the terms of a deal [[the hunters]] cut with Oberon, but otherwise the redcap will be left to roam and kill as he wishes.
 - Violet poses another problem. She is currently happy being a member of Oberon’s court, but her family would love to have her returned. Hunters might think about restoring her memories of her mortal life, or breaking the glamours of Faerie. A disenchanted Violet will be unhappy to lose Faerie (and her friends there) but will gradually settle back into a normal life. And, after all, her fairy friends can still come and visit (that could be a starting point for a later mystery). Hunters can use **manipulate someone** on Violet as with any normal person, although her wants are rather twisted by her time in Faerie.
 
-In case the hunters go looking for it: beloved children were sent to Faerie on Midsummer Day in 1615, 1655, 1695, 1735, 1775, 1815, 1855, 1895, 1935, and 1975. These dates assume a game set in 2015—shift them if your game is set some other time! The most recent disappearance must be 40 years back, and you can shift the town’s founding date from 1615 if needed to make it fit.
+In case [[the hunters]] go looking for it: beloved children were sent to Faerie on Midsummer Day in 1615, 1655, 1695, 1735, 1775, 1815, 1855, 1895, 1935, and 1975. These dates assume a game set in 2015—shift them if your game is set some other time! The most recent disappearance must be 40 years back, and you can shift the town’s founding date from 1615 if needed to make it fit.
 
 Threats
 
@@ -47,7 +47,7 @@ Oberon, King of Faerie
 
 Oberon has waited forty years and one day, and no beloved child has been given to him. As the contract is now null and void, he wishes to punish the town for their failure to live up to their end. In order to do so, he has dispatched two vassals with the orders, “Create chaos, scare them, perhaps even kill some of them.” The vassals are Violet, the last beloved child given to him (who has no memory of her life before she was brought to Faerie) and Bonecruncher, a redcap (an ogre who dyes his hat with the blood of his victims).
 
-Most likely, Oberon will remain in his fortress in Faerie. Extraordinary events might draw him to the mortal world, but otherwise he will remain offscreen unless the hunters go and find him. Note that actually fighting Oberon is a terrible idea. When physically threatened, Oberon’s first action is to summon his army, which should give the hunters some idea of what they’re dealing with.
+Most likely, Oberon will remain in his fortress in Faerie. Extraordinary events might draw him to the mortal world, but otherwise he will remain offscreen unless [[the hunters]] go and find him. Note that actually fighting Oberon is a terrible idea. When physically threatened, Oberon’s first action is to summon his army, which should give [[the hunters]] some idea of what they’re dealing with.
 
 In person, Oberon is patronising and arrogant. After all, he is an [[immortal]] elf-king and these are just a bunch of dirty human monster hunters. Try to give the impression that anything he does for them is an immense favour.
 
@@ -58,26 +58,26 @@ In person, Oberon is patronising and arrogant. After all, he is an [[immortal]] 
 
 Oberon has many other powers but those two will be the ones most appropriate for this mystery. If it really seems like he should have another power, feel free to add it for your game.
 
-**Attacks**: Sword: 3-harm hand poison; Host of elf-knights plus goblin infantry: 4-harm hand/close/far area.
+**Attacks**: Sword: 3-[[harm]] hand poison; Host of elf-knights plus goblin infantry: 4-[[harm]] hand/close/far area.
 
 **Harm capacity**: 15 bbbbbbbbbbbbbbb
 
-**Armour**: Faerie mail: 3-armour magic
+**Armour**: Faerie mail: 3-[[armour]] magic
 
 **Weaknesses**:
 
 - **Winter**. Note that this weakness is of little use as the mystery takes place a few weeks after midsummer day.
-- **His Word**. If Oberon lies to or goes back on a promise or contract, the wronged party has power over him, which counts as a weakness. As Oberon is aware of this, he will go to extraordinary lengths to never put himself in this position.
+- **His Word**. If Oberon lies to or goes back on a promise or contract, [[the wronged]] party has power over him, which counts as a weakness. As Oberon is aware of this, he will go to extraordinary lengths to never put himself in this position.
 
 Oberon's Fortress
 
 *Location: Crossroads (motivation: bring people and things together)*
 
-This is in Faerie. The hunters may travel here to try and come to an arrangement with Oberon.
+This is in Faerie. [[The hunters]] may travel here to try and come to an arrangement with Oberon.
 
-If you want, you can make the journey through Faerie a major task and extend the mystery. Alternatively, you can have the hunters **act under pressure** to find their way, or have them meet a guide who will take them swiftly to Oberon.
+If you want, you can make the journey through Faerie a major task and extend the mystery. Alternatively, you can have [[the hunters]] **act under pressure** to find their way, or have them meet a guide who will take them swiftly to Oberon.
 
-King Oberon is very powerful and has hosts of fairies under his command, so the hunters should treat this as a negotiation rather than a battle.
+King Oberon is very powerful and has hosts of fairies under his command, so [[the hunters]] should treat this as a negotiation rather than a battle.
 
 Violet, a changeling
 
@@ -89,14 +89,14 @@ This is the last human child given to Oberon. With no memory of her mortal life,
 
 Her current mission is to find the most beloved child in the town, and along the way take whatever revenge she wishes on the town that has betrayed her Lord.
 
-Violet is curious about mortals, and playful, so the hunters can probably get her talking easily. Play her as unworldly and naïve, but a little wild and dangerous as well.
+Violet is curious about mortals, and playful, so [[the hunters]] can probably get her talking easily. Play her as unworldly and naïve, but a little wild and dangerous as well.
 
 **Powers**:
 
 - **Bane dust**. Violet has a large bag of this “pixie dust”. When cast about, it causes misfortune and mishaps (including spoiling food, making people ill, and causing things to fail or break).
 - **Glamour**. Violet may alter her guise at whim, but may not change her size.
 
-**Attacks**: Faerie dagger. 1-harm intimate/hand sleep magic. Anyone harmed by this dagger may also suffer “falls into an enchanted slumber” as a harm move.
+**Attacks**: Faerie dagger. 1-[[harm]] intimate/hand sleep magic. Anyone harmed by this dagger may also suffer “falls into an enchanted slumber” as a [[harm]] move.
 
 **Harm capacity**: 7 Okay bbbb|bbb Dying
 
@@ -114,14 +114,14 @@ Bonecruncher is working for Oberon, taking revenge on the town and keeping an ey
 
 Bonecruncher is a simple creature, desiring only to kill mortals to dye his cap and then eat their flesh. Oberon has given him strict orders not to kill anyone yet, but Bonecruncher’s hunger is growing and his will is quickly weakening. He’s taken to following people who are alone at night, concealing himself in a cloak of shadows, brutally beating them and cutting them a single time in order to keep his cap damp with their blood. With so many potential victims around it’s only a matter of time until Bonecruncher snaps and eats someone.
 
-If the hunters talk to him, Bonecruncher will insult and threaten them, hoping to provoke a fight. If things go badly, he’ll call shadows to conceal his escape.
+If [[the hunters]] talk to him, Bonecruncher will insult and threaten them, hoping to provoke a fight. If things go badly, he’ll call shadows to conceal his escape.
 
 **Powers**:
 
 - **Shadow Glamour**. He may cloak himself in shadows, and put shadows in people’s minds (this is why they don’t remember him).
 - **Immense Strength**. He automatically beats any normal human in contests of strength.
 
-**Attacks**: Razor-sharp Poleaxe: 3-harm hand/close; Terrible Talons: 1-harm hand; Sharp Teeth: 2-harm intimate ignores-armour.
+**Attacks**: Razor-sharp Poleaxe: 3-[[harm]] hand/close; Terrible Talons: 1-[[harm]] hand; Sharp Teeth: 2-[[harm]] intimate ignores-[[armour]].
 
 **Harm capacity**: 9. bbbbbbbbb
 
@@ -147,7 +147,7 @@ Handfast, the Town
 
 *Location: Hub (motivation: to reveal information)*
 
-A remote town, settled in 1615 but far from the main trade routes. It is nestled in a fertile valley, and has a history of being a thriving farming town. More recently, it’s become a tourist haven, as a lovely piece of history that’s off the beaten track.
+A remote town, settled in 1615 but far from the main trade routes. It is nestled in a fertile valley, and has a [[history]] of being a thriving farming town. More recently, it’s become a tourist haven, as a lovely piece of [[history]] that’s off the beaten track.
 
 The town has a quaint town square surrounded by shops, a few businesses nearby, and the rest is houses (for both locals and tourists).
 
@@ -193,9 +193,9 @@ As a traditional breadwinner in his youth, John never quite recovered from the l
 
 *Alice: Bystander: Helper (motivation: to join in the hunt)*
 
-Alice had a different reaction to her loss—as the worst has now happened, the world holds nothing that can harm her any more. If she learns that her daughter is involved in the events in Handfast, she will do anything necessary to get her back.
+Alice had a different reaction to her loss—as the worst has now happened, the world holds nothing that can [[harm]] her any more. If she learns that her daughter is involved in the events in Handfast, she will do anything necessary to get her back.
 
-If the hunters come to the Chiltons with news of Violet, they will initially view the hunters as crazies and disregard them. If the hunters can provide proof—most likely a photo, or leading Violet to her parents—then they will be eager to “get her back” and will accept and help with anything the hunters suggest—up to and including taking part in a magic ritual.
+If [[the hunters]] come to the Chiltons with news of Violet, they will initially view [[the hunters]] as crazies and disregard them. If [[the hunters]] can provide proof—most likely a photo, or leading Violet to her parents—then they will be eager to “get her back” and will accept and help with anything [[the hunters]] suggest—up to and including taking part in a magic ritual.
 
 Officer Edward Turner
 
@@ -226,7 +226,7 @@ Unfortunately, they only provide useful information by omission. Each knows only
 - It was very dark.
 - They woke up, or were found and woken, to find they had been beaten and left with a big bleeding cut on their forearm. Some victims were cut on the left arm, some the right.
 
-Magic (“observe another time or place”) can allow the hunters to see what really happened. CCTV footage is of limited use as Bonecruncher cloaks himself in shadow when attacking, although the result will definitely be suspicious, as a blob of shadow engulfs each victim.
+Magic (“observe another time or place”) can allow [[the hunters]] to see what really happened. CCTV footage is of limited use as Bonecruncher cloaks himself in shadow when attacking, although the result will definitely be suspicious, as a blob of shadow engulfs each victim.
 
 Jane Howland, Editor of the Handfast Herald
 
@@ -250,11 +250,11 @@ Ely Holbeck, Bartender
 
 *Bystander: Gossip (motivation: to pass on rumours)*
 
-Well-used to dealing with tourists, Ely will happily “play along” with the hunters questions as long as they buy some food or drink. A young man, he’s got no knowledge at all of the contract, but if prompted for weird stuff, he’ll mention that as a kid he used to go into the “haunted” spot in the centre of the Forest Reserve. He can describe how to get there (or show them himself, if given a good reason). Like all mortals, Ely will be unable to see the stone circle where Violet and Bonecruncher are staying without some help from the hunters.
+Well-used to dealing with tourists, Ely will happily “play along” with [[the hunters]] questions as long as they buy some food or drink. A young man, he’s got no knowledge at all of the contract, but if prompted for weird stuff, he’ll mention that as a kid he used to go into the “haunted” spot in the centre of the Forest Reserve. He can describe how to get there (or show them himself, if given a good reason). Like all mortals, Ely will be unable to see the stone circle where Violet and Bonecruncher are staying without some help from [[the hunters]].
 
-Other Bystanders
+Other [[Bystanders]]
 
-Use these templates as starting points for any other people the hunters talk to.
+Use these templates as starting points for any other people [[the hunters]] talk to.
 
 ![](MotWIMG20.jpeg)
 

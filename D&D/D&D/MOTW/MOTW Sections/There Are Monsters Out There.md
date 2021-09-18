@@ -1,10 +1,10 @@
 ![[Pasted image 20210917180504.png]]
 
-*Most people don’t believe in* *monsters, but they’re real. When someone finds out that monsters are real, it’s usually just before they get eaten.*
+*Most people don’t believe in* *monsters, but they’re real. When someone finds out that [[monsters]] are real, it’s usually just before they get eaten.*
 
 *But some people are mean enough, smart enough, crazy enough, or hurt enough, that they live.*
 
-*And some of those survivors go on a crusade against the monsters.*
+*And some of those survivors go on a crusade against the [[monsters]].*
 
 *That’s you.*
 

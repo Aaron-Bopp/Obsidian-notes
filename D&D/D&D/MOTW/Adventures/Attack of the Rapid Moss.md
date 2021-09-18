@@ -8,9 +8,9 @@ An experimental, intelligent ‘learning moss’ has broken out from a scientist
 
 # Hook
 
-Some ways for the hunters to get involved are:
+Some ways for [[the hunters]] to get involved are:
 
--   Place the woods near the hunters’ base of operations, so it is their hometown that will be eaten by the moss.
+-   Place the woods near [[the hunters]]’ base of operations, so it is their hometown that will be eaten by the moss.
 
 -   They are called to the woods by the scientist’s assistant, Mike, who told them something bad was set to happen. When they arrive, Mike runs out of the woods, with moss hot on his tail.
 
@@ -22,7 +22,7 @@ Some ways for the hunters to get involved are:
 
 # Rapid Moss
 
-*Phenomenon: Biohazard (motivation: to infect, harm, and spread)*
+*Phenomenon: Biohazard (motivation: to infect, [[harm]], and spread)*
 
 An experimental sentient moss created by Dr. Cornwall. Once released, it rapidly spreads across the ground and consumes anything it thinks could be a threat to it, which happens to be all human life, except for Dr. Cornwall (who is being controlled by the central Moss Brain).
 
@@ -32,9 +32,9 @@ An experimental sentient moss created by Dr. Cornwall. Once released, it rapidly
 
 -   **Vines**: Vines whip out from the moss. They can attack (see below), or be used to drag people into the moss, engulfing them.
 
--   **Strangle Structure**: Can topple trees and small structures by squeezing them tight with vine growths.
+-   **Strangle [[Structure]]**: Can topple trees and small structures by squeezing them tight with vine growths.
 
-**Attacks:** **Vines** 2-harm close grab.
+**Attacks:** **Vines** 2-[[harm]] close grab.
 
 **Armour:** None.
 
@@ -48,7 +48,7 @@ An experimental sentient moss created by Dr. Cornwall. Once released, it rapidly
 
 *Location: Wilds (motivation: to contain hidden things)*
 
-The woods are where the moss was first grown. It is spreading mainly across the ground—so the hunters will have to be careful.
+The woods are where the moss was first grown. It is spreading mainly across the ground—so [[the hunters]] will have to be careful.
 
 The forest is densely packed with large trees and has plenty of wild animals living in it.
 
@@ -64,17 +64,17 @@ The lab where the moss was born. Dr. Cornwall guards the lab from anyone who wan
 
 In the center of the lab is a large chamber where the Moss Brain is held.
 
-There are many weird science materials and tools here. Some may be useful if the hunters try to defeat the moss with their own weird science.
+There are many weird science materials and tools here. Some may be useful if [[the hunters]] try to defeat the moss with their own weird science.
 
 # Moss Brain
 
 *Minion: Cultist (motivation: to save their own skin at any cost)*
 
-The Moss Brain is a strange, pulsating, and glowing clump of moss and tendrils. Glowing spores seep out of holes in the Moss Brain, sending and receiving signals from the moss as it expands. The Moss Brain is located in the center of Cornwall’s lab. It is a psychic being that Cornwall awoke and it controls all the moss. It also uses its powers to control Cornwall, forcing him to do its bidding. Its sole desire is to spread moss out and consume everything. It can’t move but can defend itself from the hunters with psychic blasts and by spawning moss children. If it is destroyed, the moss will continue to spread but without the brain to command it there will be no direction or intention. **Powers:**
+The Moss Brain is a strange, pulsating, and glowing clump of moss and tendrils. Glowing spores seep out of holes in the Moss Brain, sending and receiving signals from the moss as it expands. The Moss Brain is located in the center of Cornwall’s lab. It is a psychic being that Cornwall awoke and it controls all the moss. It also uses its powers to control Cornwall, forcing him to do its bidding. Its sole desire is to spread moss out and consume everything. It can’t move but can defend itself from [[the hunters]] with psychic blasts and by spawning moss children. If it is destroyed, the moss will continue to spread but without the brain to command it there will be no direction or intention. **Powers:**
 
 • **Controller of the Moss**: Can control the moss and spawn moss children.
 
-**Attacks:** **Painful psychic plant blast** 1-harm close ignore-armour. **Armour:** None.
+**Attacks:** **Painful psychic plant blast** 1-[[harm]] close ignore-[[armour]]. **Armour:** None.
 
 **Harm Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -84,9 +84,9 @@ The Moss Brain is a strange, pulsating, and glowing clump of moss and tendrils. 
 
 *Minion: Guardian (motivation: to bar a way or protect something)*
 
-Dr. Cornwall is a 50-year-old scientist. He is short with greying black hair and a long beard. He discovered the Moss Brain and set up a research lab in the woods to study it. However, as time went on exposure to the brain allowed the creature to slowly take over his mind, corrupting him. Dr Cornwall’s sole desire is now ‘to spread the moss across all corners of the globe’. With the moss starting to spread, the brain now uses him as its puppet, forcing him to protect the brain with his life. He knows how to make a poison that will kill the Moss Brain and completely sever its psychic connection to its moss, stopping it from spreading. Unless the hunters can break him free of the brain’s control, there is no way he will reveal this information.
+Dr. Cornwall is a 50-year-old scientist. He is short with greying black hair and a long beard. He discovered the Moss Brain and set up a research lab in the woods to study it. However, as time went on exposure to the brain allowed the creature to slowly take over his mind, corrupting him. Dr Cornwall’s sole desire is now ‘to spread the moss across all corners of the globe’. With the moss starting to spread, the brain now uses him as its puppet, forcing him to protect the brain with his life. He knows how to make a poison that will kill the Moss Brain and completely sever its psychic connection to its moss, stopping it from spreading. Unless [[the hunters]] can break him free of the brain’s control, there is no way he will reveal this information.
 
-**Attacks:** **Shotgun** 3-harm close messy loud. **Armour:** None.
+**Attacks:** **Shotgun** 3-[[harm]] close messy loud. **Armour:** None.
 
 **Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Weakness:** He is a normal human.
 
@@ -98,7 +98,7 @@ When the Moss Brain feels threatened it will create moss children. These are str
 
 • **Rapid Growth**: If it grabs onto a hunter, the moss will spread across their body and try to suffocate them. Hunters being engulfed should roll **act under pressure** to escape, or another hunter might **protect someone** to pull them free.
 
-**Attacks:** **Vines** 2-harm close grab. **Pummel** 1-harm hand. **Armour:** None.
+**Attacks:** **Vines** 2-[[harm]] close grab. **Pummel** 1-[[harm]] hand. **Armour:** None.
 
 **Harm Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -108,7 +108,7 @@ When the Moss Brain feels threatened it will create moss children. These are str
 
 *Bystander: Witness (motivation: to reveal information).*
 
-Assistant to Dr Cornwall. He is a 32-year-old man with short brown hair and blue eyes, who has worked with Dr Cornwall for many years. He realizes how fanatical his boss has become (and that the moss is behind it) and will help the hunters if they find him. If the hunters don’t get to him, he will eventually confront Cornwall himself (and likely be killed by the moss).
+Assistant to Dr Cornwall. He is a 32-year-old man with short brown hair and blue eyes, who has worked with Dr Cornwall for many years. He realizes how fanatical his boss has become (and that the moss is behind it) and will help [[the hunters]] if they find him. If [[the hunters]] don’t get to him, he will eventually confront Cornwall himself (and likely be killed by the moss).
 
 He knows:
 
@@ -126,6 +126,6 @@ He knows:
 
 *Bystander: Innocent (motivation: to do the right thing)*
 
-A 26-year-old camper staying out near the lab. He is tall and lanky with long blond hair in a ponytail. Jerry discovered the lab, and could lead the hunters to it. He is unaware of the danger of the moss.
+A 26-year-old camper staying out near the lab. He is tall and lanky with long blond hair in a ponytail. Jerry discovered the lab, and could lead [[the hunters]] to it. He is unaware of the danger of the moss.
 
 [[Big Haunt on Campus]]

@@ -7,7 +7,7 @@ Moves cover situations when the game rules step in to help you determine what ha
 
 Each move is triggered when a particular situation happens in the game. Look at when the move says it happens, and follow the instructions when you do it.
 
-*For example, you need to use the move **protect someone** to save another hunter from a bone puppet’s attack. The move says **when you protect someone** from harm, roll +Cool, so you roll the dice and get a two and a five. That’s seven, plus your hunter has Cool +1 for a total of eight. The move’s instructions say that on a 7-9, you protect the target okay but you may suffer some or all of the harm instead.*
+*For example, you need to use the move **protect someone** to save another hunter from a bone puppet’s attack. The move says **when you [[protect someone]]** from [[harm]], roll +Cool, so you roll the dice and get a two and a five. That’s seven, plus your hunter has Cool +1 for a total of eight. The move’s instructions say that on a 7-9, you protect the target okay but you may suffer some or all of the [[harm]] instead.*
 
 After you’ve recognised the move’s trigger, it will tell you want to do next. Moves can:
 
@@ -27,7 +27,7 @@ Most of the time, you’ll be describing what your hunter says, where they go, o
 
 In circumstances where a normal person couldn’t do what you want to do, or the drama of the story requires it, or it’s dangerous, that’s when the moves come in and control how well you do.
 
-Here are some examples:
+Here are some [[examples]]:
 
 *Archer is checking out the site of a monster attack. There’s blood and guts all over the place, and police have walked in and out of the area. Archer starts trying to track where the monster went after the attack. When she makes the* ***investigate a mystery*** *move, what does she discover?*
 
@@ -40,17 +40,17 @@ Here are some examples:
 #  For Keepers
 Moves cover situations when the game rules step in to help determine what happens.
 
-Just as the hunters have basic moves and playbook moves, you have a set of basic Keeper moves. You also get moves that go with each type of threat, and harm moves for when someone (or something) gets hurt.
+Just as [[the hunters]] have basic moves and [[playbook moves]], you have a set of basic Keeper moves. You also get moves that go with each type of threat, and [[harm]] moves for when someone (or something) gets hurt.
 
-For the hunters, their moves cover specific cases. Hunter moves say that when a hunter does **this**, it is resolved like so. Your Keeper moves are more general, giving you broad but definite options.
+For [[the hunters]], their moves cover specific cases. Hunter moves say that when a hunter does **this**, it is resolved like so. Your Keeper moves are more general, giving you broad but definite options.
 
 To Do It, You Have To Do It
 
-This is important: when you (or the hunters) make any move, you must describe how it happens.
+This is important: when you (or [[the hunters]]) make any move, you must describe how it happens.
 
-Always say what is happening in the game, not just the rules side of things. Don’t tell someone “roll **act under pressure**!” tell them “the warlock’s gaze insinuates itself into your mind and as it hisses, ‘Kill your comrades,’ you feel an overwhelming urge to comply. What do you do?”
+[[Always say]] what is happening in the game, not just the rules side of things. Don’t tell someone “roll **act under pressure**!” tell them “the warlock’s gaze insinuates itself into your mind and as it hisses, ‘Kill your comrades,’ you feel an overwhelming urge to comply. What do you do?”
 
-There’s a flip-side to this as well. When one of the hunters is doing something that is a move, make sure they follow the rules for that move. For example, if someone says “I go up to the park ranger and ask her ‘Did you see anything weird last Sunday night?’” then you should ask them to roll the **investigate** move before you decide how the ranger answers.
+There’s a flip-side to this as well. When one of [[the hunters]] is doing something that is a move, make sure they follow the rules for that move. For example, if someone says “I go up to the park ranger and ask her ‘Did you see anything weird last Sunday night?’” then you should ask them to roll the **investigate** move before you decide how the ranger answers.
 
 [[The Basic Keeper Moves]]
 
@@ -58,8 +58,8 @@ Each hunter type gets three moves as well. For many, one or two of these moves a
 
 Some of the moves don’t count as one against their count: that’s for moves that aren’t purely an advantage, but that have both a good and bad side[[The Initiate]]’s move when **in good standing with the Sect** is one of those: the move’s good and bad sides balance out, s[[The Initiate]] gets another three choices of purely useful moves.
 
-Some playbooks have moves that are purely bad (the Monstrous’ curse and the Spooky’s dark side, for example). When a playbook has a purely bad move, give them an extra useful move to make up for it.
+Some playbooks have moves that are purely bad (the Monstrous’ curse and [[the Spooky]]’s dark side, for example). When a playbook has a purely bad move, give them an extra useful move to make up for it.
 
-Not all the moves in the playbooks are explicitly called that, either. For example, the Expert’s haven is a move, but not referred to as one. Do this if your move is something special that doesn’t fit into the usual list of things the hunter can do.
+Not all the moves in the playbooks are explicitly called that, either. For example, [[the Expert]]’s haven is a move, but not referred to as one. Do this if your move is something special that doesn’t fit into the usual list of things the hunter can do.
 
 [[Gear]]

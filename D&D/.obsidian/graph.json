@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:MOTW -file:MOTW -aliases -path:book",
+  "search": "-aliases",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -151,13 +151,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1.78905882352941,
-  "lineSizeMultiplier": 1.67376470588235,
+  "nodeSizeMultiplier": 0.851387283236994,
+  "lineSizeMultiplier": 0.825491329479769,
   "collapse-forces": false,
-  "centerStrength": 0.448161764705882,
-  "repelStrength": 18.0941176470588,
-  "linkStrength": 1,
+  "centerStrength": 0.33831544178365,
+  "repelStrength": 9.62014863748968,
+  "linkStrength": 0.285466556564822,
   "linkDistance": 30,
-  "scale": 0.0672590385175644,
+  "scale": 0.13220140978325406,
   "close": false
 }

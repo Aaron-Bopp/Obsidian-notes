@@ -8,11 +8,11 @@ A clandestine cargo intended for the local cult chapter arrives at the port: a m
 
 # Hook
 
-<img src="./TomeIMGs/media/image152.png" style="width:5.99667in;height:2.35in" />Through contacts in law enforcement or the media, the hunters learn that a few minutes ago a man was hacked to death in a disturbing and mysterious murder. Any hunter with a foresight-style ability (e.g. the move **hunches**) will feel this is an urgent matter.
+<img src="./TomeIMGs/media/image152.png" style="width:5.99667in;height:2.35in" />Through contacts in law enforcement or the media, [[the hunters]] learn that a few minutes ago a man was hacked to death in a disturbing and mysterious murder. Any hunter with a foresight-style ability (e.g. the move **hunches**) will feel this is an urgent matter.
 
 The dead man is Errol Mauser, a customs agent. Just a few steps away from the entrance to the apartment building where he lived, he was cut down by assailants unknown and died on the spot. To boot, his face was eaten off, and not cleanly.
 
-The cargo vessel Tillinghast Forward had arrived at the port a little earlier. Errol Mauser, on duty to inspect it for contraband, discovered the captain had been turned into a lichen-like monstrosity (the captain had wished he could live forever). Mauser stole the precious bottle he found by the stricken man. But the intended recipients of the bottle, members of the Scorched Ones, noticed him slipping away and caught up with him outside his house.
+The cargo vessel Tillinghast [[Forward]] had arrived at the port a little earlier. Errol Mauser, on duty to inspect it for contraband, discovered the captain had been turned into a lichen-like monstrosity (the captain had wished he could live forever). Mauser stole the precious bottle he found by the stricken man. But the intended recipients of the bottle, members of the Scorched Ones, noticed him slipping away and caught up with him outside his house.
 
 As CCTV footage footage of or witnesses to the killing reveal, the bottle falls during the struggle and its cap pops. Something hardly visible rushes out. The bottle is flung away and hovers in the air for a while.
 
@@ -40,9 +40,9 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 -   **Barely There**: When the efreet is lurking or simply flying, it becomes nearly transparent. Its real shape is awesome and terrifying.
 
--   **Plasmic Body**: Impervious to weapons without the *blessed*, *magical*, or *silver* tags.
+-   **Plasmic Body**: Impervious to [[weapons]] without the *blessed*, *magical*, or *silver* tags.
 
-**Attacks:** **Scorching ray** 3-harm close/far area slow heat. **Whirlwind**: 2-harm area forceful (see **twister** move below).
+**Attacks:** **Scorching ray** 3-[[harm]] close/far area slow heat. **Whirlwind**: 2-[[harm]] area forceful (see **twister** move below).
 
 **Armour:** 0, but refer to its **barely there** and **plasmic body** powers, above.
 
@@ -52,15 +52,15 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 **Islamic ritual:** The efreet was originally defeated and bound by a Muslim sheikh, so it fears the religion of Allah and will flee from its holy people and their prayers.
 
-**Custom Moves:**
+**Custom [[Moves]]:**
 
 **Twister**: **The first time you are hit by the efreet’s whirlwind attack**, you are surprised. Disregard the usual weapon effect and roll +Tough:
 
 -   On a 10+, you grit your teeth and stand your ground (but your hair is a mess).
 
--   On a 7-9, you are thrown, like, 20 feet. You take 2-harm and get –1 forward.
+-   On a 7-9, you are thrown, like, 20 feet. You take 2-[[harm]] and get –1 [[forward]].
 
--   On a miss, you are swept up and unceremoniously dropped a block or two away. You take 4-harm and are away from the action.
+-   On a miss, you are swept up and unceremoniously dropped a block or two away. You take 4-[[harm]] and are away from the action.
 
 **Return to the Bottle**: The efreet cannot attack somebody holding the bottle or the cap. It may also be trapped back in the bottle by a **big magic** ritual.
 
@@ -80,13 +80,13 @@ Requirements for the evil ritual are:
 
 -   On a 7-9, the efreet will take its time and return into the bottle unwillingly. Choose two consequences.
 
--   On a miss, the efreet is insulted and enraged by the performance and attacks the dancing hunter. The Keeper chooses two consequences.
+-   On a miss, the efreet is insulted and enraged by the performance and attacks the dancing hunter. [[The Keeper]] chooses two consequences.
 
 On any hit, the dancing hunter decides which ritual-participant the consequence is applied to (including themselves). The list of consequences are:
 
--   One hunter’s face is scarred forever. Change their look accordingly, and take 2-harm.
+-   One hunter’s face is scarred forever. Change their look accordingly, and take 2-[[harm]].
 
--   One hunter is burned. Take 2-harm and permanently lose one box from the health track.
+-   One hunter is burned. Take 2-[[harm]] and permanently lose one box from the health track.
 
 -   One hunter is cursed. Delete one improvement option from the playbook.
 
@@ -106,7 +106,7 @@ On any hit, the dancing hunter decides which ritual-participant the consequence 
 
 -   **Obscure Vision**.
 
--   **Immune to Harm**, unless it is an *area*, *fire*, or *crushing* attack. **Attacks:** **Hundreds of mandibles** 1-harm intimate slow.
+-   **Immune to [[Harm]]**, unless it is an *area*, *fire*, or *crushing* attack. **Attacks:** **Hundreds of mandibles** 1-[[harm]] intimate slow.
 
 **Harm capacity:** 3. <sup>\[\]\[\]\[\]</sup> That’s enough to disperse the swarm so it’s no longer dangerous.
 
@@ -122,7 +122,7 @@ Cunning agents of the cult ready to sacrifice themselves to further its goals.
 
 • **Minor Spells**: Anything a normal **use magic** could do. **Weaknesses:** None (they are just normal humans).
 
-**Attacks:** as per weapon, usually a **knife** 2-harm hand. **Armour:** none, but impervious to heat, smoke, fire.
+**Attacks:** as per weapon, usually a **knife** 2-[[harm]] hand. **Armour:** none, but impervious to heat, smoke, fire.
 
 **Harm capacity:** 6. <sup>\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 

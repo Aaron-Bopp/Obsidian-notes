@@ -18,7 +18,7 @@ Pick one of these:
 
 -   A Flake, Professional, Expert, or other hunter with appropriate contacts might have access to NASA spectroscopy data which suggests the meteorite is made of an unknown material.
 
--   The hunters are rewarding themselves with some R&R at Havenhills Ski Resort, when the satellite strikes nearby one morning.
+-   [[The hunters]] are rewarding themselves with some R&R at Havenhills Ski Resort, when the satellite strikes nearby one morning.
 
 # Countdown
 
@@ -26,7 +26,7 @@ Pick one of these:
 
 # Notes
 
-A number of the attacks in this mystery have cold ignore-armour effects. You should assess if the hunters have ‘cold armour’ based on what they describe themselves wearing. Regular winter or ski gear is 1-cold-armour and serious mountaineering gear would be 2-cold-armour. In either case, this armour applies only to cold-based harm. Supernatural or other special hunter armour may work against the cold as normal.
+A number of the attacks in this mystery have cold ignore-[[armour]] effects. You should assess if [[the hunters]] have ‘cold [[armour]]’ based on what they describe themselves wearing. Regular winter or ski [[gear]] is 1-cold-[[armour]] and serious mountaineering [[gear]] would be 2-cold-[[armour]]. In either case, this [[armour]] applies only to cold-based [[harm]]. Supernatural or other special hunter [[armour]] may work against the cold as normal.
 
 # The Squall
 
@@ -34,13 +34,13 @@ A number of the attacks in this mystery have cold ignore-armour effects. You sho
 
 A swarm of crystalline nanomachines, manufactured by Havenhill’s hacked snowmakers. To anyone who inspects a sample with a microscope, its snowflakes are clearly identical and artificial. **Powers:**
 
--   **Deadly Cold**: The living storm freezes anything it surrounds. Any hunter who gets close to the Squall (intimate/hand range) takes 1-harm, cold ignore-armour.
+-   **Deadly Cold**: The living storm freezes anything it surrounds. Any hunter who gets close to the Squall (intimate/hand range) takes 1-[[harm]], cold ignore-[[armour]].
 
 -   **Formless**: The Squall can flow into small spaces and cracks, and isn’t harmed by physical attacks like gunfire or martial arts—only fire or explosions.
 
 -   **Lightweight**: The Squall can effectively fly on the wind, but not very fast.
 
-**Attacks:** **Small gust** 1-harm close cold ignore-armour. **Big gust** 3-harm close cold ignore-armour forceful. **Avalanche** 5-harm far cold ignore-armour forceful area. **Armour:** 0
+**Attacks:** **Small gust** 1-[[harm]] close cold ignore-[[armour]]. **Big gust** 3-[[harm]] close cold ignore-[[armour]] forceful. **Avalanche** 5-[[harm]] far cold ignore-[[armour]] forceful area. **Armour:** 0
 
 **Harm capacity:** 12. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -66,7 +66,7 @@ When they’re not sculpting, Buddies will try to collect electronic communicati
 
 • **Festive Camouflage**: Snow Buddies are difficult to spot in the storm.
 
-**Attacks:** **Twiggy claws** 1-harm hand. **Icicle fangs** 3-harm intimate. **Armour:** None.
+**Attacks:** **Twiggy claws** 1-[[harm]] hand. **Icicle fangs** 3-[[harm]] intimate. **Armour:** None.
 
 **Harm capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup> **Weakness:** Heat.
 
@@ -82,13 +82,13 @@ The Maudsley is Havenhill’s sprawling, shag-carpeted hotel. All guests check i
 
 *Location: Prison (motivation: to constrain and prevent exit)*
 
-For the well-off, a private cabin means barely having to leave the expert slopes on the far side of the resort. Each of the dozen or so private cabins are restocked weekly with food and supplies, including firewood, gasoline, and emergency flares. Sturdy, but in bad weather they’re cut off from the hotel.
+For the well-off, a private cabin means barely having to leave [[the expert]] slopes on the far side of the resort. Each of the dozen or so private cabins are restocked weekly with food and supplies, including firewood, gasoline, and emergency flares. Sturdy, but in bad weather they’re cut off from the hotel.
 
 # The Slopes
 
-*Location: Deathtrap (motivation: to harm intruders)*
+*Location: Deathtrap (motivation: to [[harm]] intruders)*
 
-Bystanders and hunters caught outside when the Squall flares up are going to have a rough time. There’s little protection on the slopes or in the woods, and the Squall will quickly kill anyone who doesn’t shelter indoors.
+[[Bystanders]] and hunters caught outside when the Squall flares up are going to have a rough time. There’s little protection on the slopes or in the woods, and the Squall will quickly kill anyone who doesn’t shelter indoors.
 
 # The Maintenance Shack/ Alien Satellite
 
@@ -134,6 +134,6 @@ Carla doesn’t make damn near enough, considering how capable she is. She defin
 
 # Custom Moves
 
-**Warming Up Again**: When **a hunter warms up after being exposed to the Squall**, they heal 1 cold harm for every ten minutes spent near a heat source (raging fire, radiator, electric blanket, etc.). If the hunter has taken 4-harm or more, they still need to be stabilized, as normal. Other kinds of harm (stab wounds, burns, hurt pride) can’t be healed using this move.
+**Warming Up Again**: When **a hunter warms up after being exposed to the Squall**, they heal 1 cold [[harm]] for every ten minutes spent near a heat source (raging fire, radiator, electric blanket, etc.). If the hunter has taken 4-[[harm]] or more, they still need to be stabilized, as normal. Other kinds of [[harm]] (stab wounds, burns, hurt pride) can’t be healed using this move.
 
 [[The Torch Comes To Town]]

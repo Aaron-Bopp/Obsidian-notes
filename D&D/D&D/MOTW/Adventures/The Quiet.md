@@ -24,13 +24,13 @@ Dr. Jon Hansen (or “All-Father Stillness”) gathered followers under a moveme
 
 All-Father Stillness walked deep into the desert and abandoned his body, committing himself fully to walking the Earth eternally as a spirit. After a long journey, he found his way back to the commune and waited for his followers to join him in their spirit forms. Once they gathered together, they would show the world what they had done and bring their “gift” to all.
 
-The All-Father will not show himself to the hunters until after at least two of his followers have been destroyed. **Powers:**
+The All-Father will not show himself to [[the hunters]] until after at least two of his followers have been destroyed. **Powers:**
 
--   **Invulnerable**: The hunters must force him to manifest, otherwise they cannot hurt him with physical attacks.
+-   **Invulnerable**: [[The hunters]] must force him to manifest, otherwise they cannot hurt him with physical attacks.
 
 -   **Enforced Stillness**: He creates a zone of absolute silence in a 10-meter radius around himself. Within this zone an oppressive spectral force seeps into the bodies of the living, attacking them with **Force of Silence** each minute they are in the zone.
 
-**Attacks:** **Choke** 3-harm close ignore-armour. **Force of Silence** 1-harm close magic ongoing. **Armour:** 2
+**Attacks:** **Choke** 3-[[harm]] close ignore-[[armour]]. **Force of Silence** 1-[[harm]] close magic [[ongoing]]. **Armour:** 2
 
 **Harm Capacity:** 12. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -48,9 +48,9 @@ Over the years, the distance they are able to roam has extended from the cement 
 
 They stand still with disturbingly blank stares and will only move when unseen. Should anyone observing them turn away, or even blink, The Disembodied will suddenly be closer until they reach their ghostly hands deep into their victim’s throats. **Powers:**
 
-• **Incorporeal**: The Disembodied Quiet are [[incorporeal]] forms who should be treated as having 3-armour (against any harm) unless their weakness is being exploited.
+• **Incorporeal**: The Disembodied Quiet are [[incorporeal]] forms who should be treated as having 3-[[armour]] (against any [[harm]]) unless their weakness is being exploited.
 
-**Attacks:** **Choke** 3-harm close ignore-armour.
+**Attacks:** **Choke** 3-[[harm]] close ignore-[[armour]].
 
 **Armour:** 3 when [[incorporeal]], otherwise 0.
 
@@ -64,15 +64,15 @@ They stand still with disturbingly blank stares and will only move when unseen. 
 
 *Location: Prison (motivation: to constrain and prevent exit)*
 
-Alton’s Bend is little more than a cluster of buildings in a horseshoe arrangement, with the One Stop Gas & Grocery at the apex. The town is quite far away from civilisation: the tension can be ratcheted up by having no cell reception and the hunters’ vehicle running on fumes by the time they get there (maybe they’re even walking the last mile into town).
+Alton’s Bend is little more than a cluster of buildings in a horseshoe arrangement, with the One Stop Gas & Grocery at the apex. The town is quite far away from civilisation: the tension can be ratcheted up by having no cell reception and [[the hunters]]’ vehicle running on fumes by the time they get there (maybe they’re even walking the last mile into town).
 
-After the countdown reaches Shadows, the bodies of two state police are found in the center of town near their patrol car (which has its doors sitting wide open).
+After [[the countdown]] reaches Shadows, the bodies of two state police are found in the center of town near their patrol car (which has its doors sitting wide open).
 
 The town seems to have been hurriedly abandoned. A stroller lies on its side along the sidewalk with toys and a blanket strewn about. A cold cup of coffee and a half-eaten sandwich sit on a bench. A pruner sits next to a pile of recently cut flowers. The surviving residents are hiding, too scared to make any noise lest the Disembodied Quiet find them. A few of them have made the connection between the spirits they are seeing and the members of The Quiet who once lived in the desert.
 
 # One Stop Gas & Grocery
 
-*Location: Deathtrap (motivation: to harm intruders)*
+*Location: Deathtrap (motivation: to [[harm]] intruders)*
 
 The hoses have been torn from the gas pumps, resulting in large puddles of gas soaking the surrounding gravel. Any kind of flame or spark could cause some serious damage to a large area.
 
@@ -80,7 +80,7 @@ Inside the building is a combination gift shop, sandwich counter, and woefully s
 
 Dead bodies are in the kitchen and the basement. Broken pieces of broom handles have been shoved in their ears and dish rags shoved down their throats.
 
-The Disembodied Quiet patrol here and will soon see and stalk the hunters as they investigate the grisly scene.
+The Disembodied Quiet patrol here and will soon see and stalk [[the hunters]] as they investigate the grisly scene.
 
 236
 
@@ -108,7 +108,7 @@ A close check of the bodies reveals they are still alive. Their corporeal form h
 
 -   All spirits in the area focus their attacks on you.
 
--   All spirits in the area are enraged and now cause +1 harm (increasing each time this option is selected).
+-   All spirits in the area are enraged and now cause +1 [[harm]] (increasing each time this option is selected).
 
 -   The noise disorients you (–1 to Sharp for 30 minutes—this can only be chosen once per hunter).
 

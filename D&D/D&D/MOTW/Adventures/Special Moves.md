@@ -2,7 +2,7 @@
 
 *By Michael Sands*
 
-Some of the hunter playbooks get a special move when they spend Luck. This optional section provides special moves for all the hunter types. I’ve included the existing ones so you have them all available for reference.
+Some of the hunter playbooks get a special move when they spend Luck. This optional section provides special [[moves]] for all the [[hunter types]]. I’ve included the existing ones so you have them all available for reference.
 
 **Action Scientist Special**: When you spend a Luck, some gadget or machine near you will do something weird, malfunction, break down, or explode.
 
@@ -16,7 +16,7 @@ Some of the hunter playbooks get a special move when they spend Luck. This optio
 
 **Exile Special**: When you spend a Luck, you’ll find something from your original life. Maybe something good, maybe something bad.
 
-**Flake Special**: When you spend a Luck, pick an aspect of the current situation. The Keeper will tell you what other conspiracies that aspect is connected to. If that aspect wasn’t part of another conspiracy, it is now.
+**Flake Special**: When you spend a Luck, pick an aspect of the current situation. [[The Keeper]] will tell you what other conspiracies that aspect is connected to. If that aspect wasn’t part of another conspiracy, it is now.
 
 **Gumshoe Special**: When you use a point of Luck your next regular case will actually be a mystery for your hunter group, not a regular case at all (and the monster will focus its attention on you!)
 
@@ -32,7 +32,7 @@ Some of the hunter playbooks get a special move when they spend Luck. This optio
 
 **Mundane Special**: When you spend a Luck, you’ll find something weird. Maybe even useful, but mostly just weird.
 
-**Pararomantic Special**: When you spend a point of Luck, also mark off one of your relationship status boxes. The Keeper will bring **fate of your love** into play.
+**Pararomantic Special**: When you spend a point of Luck, also mark off one of your relationship status boxes. [[The Keeper]] will bring **fate of your love** into play.
 
 **Professional Special**: When you spend a Luck, your next mission from the Agency comes with lots of Red Tape. Lots.
 

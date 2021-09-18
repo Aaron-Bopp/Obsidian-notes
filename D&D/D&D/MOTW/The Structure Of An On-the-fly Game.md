@@ -1,4 +1,4 @@
-The Structure Of An On-the-fly Game
+The [[Structure]] Of An On-the-fly Game
 
 *By Daniel Steadman*
 
@@ -24,11 +24,11 @@ The first thing you need to do is come up with the two ‘opening lines’ to st
 
 To get your opening lines, expand on that: be detailed but not specific. “Police express alarm in Poughkeepsie” or “Upsurge in suicides; parents blame rock and roll music.”
 
-At this point you are almost done for an on-the-fly game’s prep. I realise we have not given characteristics to the monster, we don’t have any bystanders, and we definitely don’t have any stats written down.
+At this point you are almost done for an on-the-fly game’s prep. I realise we have not given characteristics to the monster, we don’t have any [[bystanders]], and we definitely don’t have any stats written down.
 
 This is important. Once you nail down exactly what the story is about, you lose the wiggle room to drive the story and it becomes about the details.
 
-Now deliver the Hook: describe what the hunters know (which is almost nothing). They are driving by a creepy old house in the rain when their car stops. They receive a vision of that strange old dude who was eating bacon at the diner. They see something in the headlines or the ad section of the paper. Whatever the source, give them their hook in a format that makes sense, is a clear call to action, and tells them diddly.
+Now deliver [[the Hook]]: describe what [[the hunters]] know (which is almost nothing). They are driving by a creepy old house in the rain when their car stops. They receive a vision of that strange old dude who was eating bacon at the diner. They see something in the headlines or the ad section of the paper. Whatever the source, give them their hook in a format that makes sense, is a clear call to action, and tells them diddly.
 
 Then you find out what the mystery is right alongside the players. They will provide most of the story when they ask questions. The key is to rarely say “No” and instead give plenty of “Yes.”
 
@@ -44,13 +44,13 @@ This style of running a game relies on flexibility as you play. That can be pret
 
 # Guidelines for On-the-fly Mayhem
 
-To make things easier, I have created a small inspiration guide to illustrate how easy this structure can be. Print out this template (or the expanded version that follows), and circle descriptors as they become relevant. You will likely find that you only need to do this once or twice before you get the hang of running games in this style.
+To make things easier, I have created a small [[inspiration]] guide to illustrate how easy this [[structure]] can be. Print out this template (or the expanded version that follows), and circle descriptors as they become relevant. You will likely find that you only need to do this once or twice before you get the hang of running games in this style.
 
 Start with a couple of opening lines taken from things around you or previous stories. Remember to be purposely vague.
 
 Hook the players with a call to action.
 
-Decide if the first encounter will help or hinder the hunters. Then pick one of the following: They are attacked; Someone tells them something (is it true?); They find a clue.
+Decide if the first encounter will help or hinder [[the hunters]]. Then pick one of the following: They are attacked; Someone tells them something (is it true?); They find a clue.
 
 Pick some descriptors:
 
@@ -76,21 +76,21 @@ Or maybe they decide to look for the strange signs themselves. A chill runs down
 
 Of course, you could instead decide that Jerry was just hoaxing them for his stupid paranormal documentary when suddenly everyone in a local retirement home got young again. Either could springboard from that initial setup just as easily.
 
-In the second encounter, the hunters meet someone or something. Decide if this person is well- or ill-disposed to the hunters. This person will reveal something about the threat (though maybe not intentionally).
+In the second encounter, [[the hunters]] meet someone or something. Decide if this person is well- or ill-disposed to [[the hunters]]. This person will reveal something about the threat (though maybe not intentionally).
 
 -   **Who?** An authority, an expert, a witness to strange events, a kid, a homeless person, someone with power, a victim, an escaped prisoner, a zombie, a ghost, a cop, a conspiracy theorist, a priest, a pickup artist, an artist, a medium, a scientist, a monster hunter, a victim.
 
--   Repeat the first and second encounter pattern until you (and the hunters) have some understanding of the threat. You will know by now that:
+-   Repeat the first and second encounter pattern until you (and [[the hunters]]) have some understanding of the threat. You will know by now that:
 
 -   **It is a:** big, small, smart, sneaky, old, new, hidden, obvious, tricky, unintelligent, mindless, cunning, powerful, ancient, newly-spawned, transformed, undead, kooky, misunderstood, deceptive, tragic, arrogant.
 
 -   **Monster type:** minion master, behemoth, assassin, creature, spirit, alien, old friend, magic, ally, summoned, possessor, trickster, butcher, mother, serial killer, mutant.
 
-The hunters better go do something about that! While they make a plan you can take a moment to write up its powers, attacks, and weakness.
+[[The hunters]] better go do something about that! While they make a plan you can take a moment to write up its powers, attacks, and weakness.
 
 -   Be open to anything—don’t think you know the story until the very end.
 
--   Always say “Yes.” You can always add “but” afterwards.
+-   [[Always say]] “Yes.” You can always add “but” afterwards.
 
 -   Look for possibilities.
 
@@ -106,7 +106,7 @@ The hunters better go do something about that! While they make a plan you can ta
 
 # Expanded On-the-fly Mayhem Worksheet
 
-The following is an expanded version of the On-the-fly Mystery inspiration worksheet.
+The following is an expanded version of the On-the-fly Mystery [[inspiration]] worksheet.
 
 -   Start with a couple of open lines taken from things around you or previous stories. Remember to be purposely vague.
 
@@ -114,7 +114,7 @@ The following is an expanded version of the On-the-fly Mystery inspiration works
 
 # First Encounter
 
-Decide if the first encounter will help or hinder the hunters. Then pick one of the following: They are attacked; Someone tells them something (is it true?); They find a clue. Pick some descriptors from these categories:
+Decide if the first encounter will help or hinder [[the hunters]]. Then pick one of the following: They are attacked; Someone tells them something (is it true?); They find a clue. Pick some descriptors from these categories:
 
 **What?**
 
@@ -146,7 +146,7 @@ b churchgoers b a priest b a spirit b monster hunters b a gourmet chef b a twin 
 
 # More Encounters
 
-Repeat the first and second encounter pattern until you (and the hunters) have some understanding of the threat. You know by now that: **It is a:**
+Repeat the first and second encounter pattern until you (and [[the hunters]]) have some understanding of the threat. You know by now that: **It is a:**
 
 b big b ancient b sullen b small b newly-spawned b chatty b smart b transformed b insecure b sneaky b undead b controlling
 
@@ -164,7 +164,7 @@ b old friend b science exper- b psychic b Great Old One iment b infectious b mag
 
 b ally experiment b the second study b summoned
 
-The hunters better go do something about that! While they make a plan you can take a moment to stat it up.
+[[The hunters]] better go do something about that! While they make a plan you can take a moment to stat it up.
 
 <img src="./TomeIMGs/media/image7.jpg" style="width:6in;height:9in" />
 

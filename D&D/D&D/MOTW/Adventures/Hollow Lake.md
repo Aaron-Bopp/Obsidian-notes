@@ -48,9 +48,9 @@ Grabbed by kappa options:
 
 -   Your arms are free.
 
-**Attacks:** **Webbed claws** 2-harm hand quick. **Beaked mouth** 2-harm intimate messy. **Strangle** (only used on people the creature has already **wrestling grabbed**) 4-harm intimate ignore-armour.
+**Attacks:** **Webbed claws** 2-[[harm]] hand quick. **Beaked mouth** 2-[[harm]] intimate messy. **Strangle** (only used on people the creature has already **wrestling grabbed**) 4-[[harm]] intimate ignore-[[armour]].
 
-**Armour:** **Rock-hard shell:** 4-armour. Kappa can extend and retract both their limbs and head into their shells instantly; getting past the shell means catching them completely unaware, targeting a soft spot, or using some kind of magic.
+**Armour:** **Rock-hard shell:** 4-[[armour]]. Kappa can extend and retract both their limbs and head into their shells instantly; getting past the shell means catching them completely unaware, targeting a soft spot, or using some kind of magic.
 
 **Harm Capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -58,11 +58,11 @@ Grabbed by kappa options:
 
 **Repelled by** ginger, sesame, and iron.
 
-**Head Bowl:** If the kappa bows, the water in its head will spill out rendering the kappa immobile until refilled. (The water is magical and won’t spill under any other circumstances.) Common ways of getting a kappa to bow are by making formal introductions at the beginning of a sumo wrestling match or a game of shogi. If a human refills the depression of an immobilized kappa, it must uphold its end of a bargain faithfully without malice or deception.
+**Head Bowl:** If the kappa bows, the water in its head will spill out rendering the kappa immobile until refilled. (The water is magical and won’t spill under any other circumstances.) Common ways of getting a kappa to bow are by making formal [[introductions]] at the beginning of a sumo wrestling match or a game of shogi. If a human refills the depression of an immobilized kappa, it must uphold its end of a bargain faithfully without malice or deception.
 
 # The Lake
 
-*Location: Den (motivation: to harbor monsters)*
+*Location: Den (motivation: to harbor [[monsters]])*
 
 Fed by an underground spring, the lake is cold, murky, and deep. It’s large enough for small, single-engine watercraft, and most families have a rowboat or a canoe. A committee monitors the chemistry of the water and the health of the local wildlife, especially the fish population.
 
@@ -78,7 +78,7 @@ Emiko is the grown daughter of Katsuko Tanigawa and runs a pediatric clinic in t
 
 *Bystander: Victim (motivation: to put himself in danger)*
 
-Takahiro is a university student who is home for the spring or summer, depending on when the mystery takes place. He spent summers with his grandmother as a teenager, where she told him all the traditional Japanese stories. He can help identify the creature living in the lake if the hunters bring him evidence or ask for his help.
+Takahiro is a university student who is home for the spring or summer, depending on when the mystery takes place. He spent summers with his grandmother as a teenager, where she told him all the traditional Japanese stories. He can help identify the creature living in the lake if [[the hunters]] bring him evidence or ask for his help.
 
 If he’s told what’s going on, he’ll assume the kappa is somehow responsible for his grandmother’s death. He’ll go off to deal with the monster himself and, despite knowing the creature’s trick, will ultimately fail, ending up as another body floating in the lake.
 
@@ -86,7 +86,7 @@ If he’s told what’s going on, he’ll assume the kappa is somehow responsibl
 
 *Bystander: Witness (motivation: to reveal information)*
 
-Despite Katsuko having died late last year, it is possible for the hunters to talk with her, perhaps with magic.
+Despite Katsuko having died late last year, it is possible for [[the hunters]] to talk with her, perhaps with magic.
 
 Katsuko was born in 1923 in Saga Prefecture, a small rural area on the northwestern edge of Kyushu. Walking home from high school one night, she was trapped by the kappa. Remembering the stories her mother told her, Katsuko politely challenged the creature to a sumo match, which it had to accept. She tricked it into bowing, forcing it to agree to a deal: she’d leave it a cucumber twice a year and it would leave the people in her town alone.
 

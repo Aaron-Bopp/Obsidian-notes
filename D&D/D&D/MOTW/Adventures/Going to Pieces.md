@@ -6,7 +6,7 @@ Going to Pieces
 
 <img src="./TomeIMGs/media/image120.png" style="width:5.99667in;height:5.17667in" />A series of animal mutilations and killings are blamed on Preĝo practitioners. But the latter are really trying to ward against a new threat: a necromancer preparing a ritual that will grant mastery over an army of nightwalkers (the immigrants are calling them “chupacabras”). Nightwalkers have already started hunting in the Cook County forests, where the Preĝo community practices their religion.
 
-This mystery assumes the necromancer is an old foe of the hunters who was defeated and now plans revenge. Fill in the details for a suitable character from your game.
+This mystery assumes the necromancer is an old foe of [[the hunters]] who was defeated and now plans revenge. Fill in the details for a suitable character from your game.
 
 ## Preĝo
 
@@ -14,7 +14,7 @@ This is a fictitious syncretic religion, built from aspects of the community’s
 
 # Hook
 
-The hunters investigate the latest in a series of animal killings in Cook County Forest Preserves. Dead goats and chickens have been found at
+[[The hunters]] investigate the latest in a series of animal killings in Cook County Forest Preserves. Dead goats and chickens have been found at
 
 Oak Glen Preserve in a Chicago neighbourhood along the northern edge of the city.
 
@@ -26,7 +26,7 @@ Oak Glen Preserve in a Chicago neighbourhood along the northern edge of the city
 
 *Monster: Sorcerer (motivation: to usurp unnatural power)*
 
-He remembers when the hunters defeated him before, oh yes he does. They killed him once; he wants to return the favour. He selected the nightwalkers as his tools because they are a corrupt form of werecreatures: he plans on draining the hunters of life and having them torn to pieces by nightwalkers. **Powers:**
+He remembers when [[the hunters]] defeated him before, oh yes he does. They killed him once; he wants to return the favour. He selected the nightwalkers as his tools because they are a corrupt form of werecreatures: he plans on draining [[the hunters]] of life and having them torn to pieces by nightwalkers. **Powers:**
 
 -   **Phylactery**: Keeps his soul safe.
 
@@ -36,19 +36,19 @@ He remembers when the hunters defeated him before, oh yes he does. They killed h
 
 -   **Necromantic Blast, Necromantic Wall, Withering Touch, Memory Theft** (see attacks below). **Attacks:**
 
--   **Ritual dagger** 2-harm hand.
+-   **Ritual dagger** 2-[[harm]] hand.
 
--   **Necromantic blast** 2-harm close magical obvious ignore-armour life-drain.
+-   **Necromantic blast** 2-[[harm]] close magical obvious ignore-[[armour]] life-drain.
 
--   **Necromantic wall** 1-harm close magical barrier 1-armour obvious loud life-drain.
+-   **Necromantic wall** 1-[[harm]] close magical barrier 1-[[armour]] obvious loud life-drain.
 
--   **Withering touch** 4-harm intimate magical obvious ignore-armour life-drain.
+-   **Withering touch** 4-[[harm]] intimate magical obvious ignore-[[armour]] life-drain.
 
--   **Memory theft** 0-harm intimate magical ignore-armour 1-memory.
+-   **Memory theft** 0-[[harm]] intimate magical ignore-[[armour]] 1-memory.
 
-**Armour:** 1-armour (always prepared!)
+**Armour:** 1-[[armour]] (always prepared!)
 
-**Harm capacity:** 12 harm, but will flee when he receives 6-harm.
+**Harm capacity:** 12 [[harm]], but will flee when he receives 6-[[harm]].
 
 \[\]\[\]\[\]\[\]\[\]\[\] Flee \[\]\[\]\[\]\[\]\[\]\[\] Dead
 
@@ -58,9 +58,9 @@ He remembers when the hunters defeated him before, oh yes he does. They killed h
 
 *Bystanders: Victims (motivation: to put themselves in danger)*
 
-Mostly of Latinx and Afro-Caribbean descent. They might go out looking for the people really behind the animal killings, or be on the streets to patrol and defend their community. They could even regard the hunters as a threat—who are these people hanging around asking questions?
+Mostly of Latinx and Afro-Caribbean descent. They might go out looking for the people really behind the animal killings, or be on the streets to patrol and defend their community. They could even regard [[the hunters]] as a threat—who are these people hanging around asking questions?
 
-**Attacks:** **Ordinary weapons** 2-harm hand/close.
+**Attacks:** **Ordinary [[weapons]]** 2-[[harm]] hand/close.
 
 # Nightwalkers
 
@@ -70,11 +70,11 @@ A couple of nightwalkers who are already on board with the Necromancer’s plan,
 
 -   **Night Walker**: A nightwalker can disappear into the darkness, reappearing in its den. It cannot be tracked home, as it did not walk through the intervening space.
 
--   **Horrifying Yell**: Anyone who hears the howl of the nightwalker must take –1 ongoing unless they **act under pressure** to resist the fear. **Attacks:**
+-   **Horrifying Yell**: Anyone who hears the howl of the nightwalker must take –1 [[ongoing]] unless they **act under pressure** to resist the fear. **Attacks:**
 
--   **Bite** 1-harm hand.
+-   **Bite** 1-[[harm]] hand.
 
--   **Blood-suck** (must **bite** first): 2-harm intimate.
+-   **Blood-suck** (must **bite** first): 2-[[harm]] intimate.
 
 **Armour:** None. **Weaknesses:**
 
@@ -84,7 +84,7 @@ A couple of nightwalkers who are already on board with the Necromancer’s plan,
 
 -   Enclosure (if you can trap it within an enclosed area, it may not night-walk away and may be killed).
 
-**Harm capacity:** 5 harm, but they will flee when they reach 3 harm.
+**Harm capacity:** 5 [[harm]], but they will flee when they reach 3 [[harm]].
 
 <sup>\[\]\[\]\[\]</sup> Flee <sup>\[\]\[\]</sup> Dead
 
@@ -118,7 +118,7 @@ Debra Priest, Esq.
 
 *Bystander: Busybody (motivation: to interfere in other people’s plans)*
 
-A real estate attorney, NWU lecturer, and animal rights lawyer who is a former director of Chicago’s Animal Control Department. A white woman with long, curly, slightly graying hair, a medium body, and a friendly attitude which turns to anger when she talks about harm to animals. She genuinely cares about animal protection, but she also deplores that the animal killings lower property values in otherwise nice areas nearby.
+A real estate attorney, NWU lecturer, and animal rights lawyer who is a former director of Chicago’s Animal Control Department. A white woman with long, curly, slightly graying hair, a medium body, and a friendly attitude which turns to anger when she talks about [[harm]] to animals. She genuinely cares about animal protection, but she also deplores that the animal killings lower property values in otherwise nice areas nearby.
 
 *“Illinois’ Humane Care for Animals Act is a neutral law; it’s not true that we’re targeting religious activity.”*
 
@@ -148,15 +148,15 @@ On the South Side, Gabriela Cruz’ herbal shop. Non-hispanics mostly just call 
 
 *Location: Maze (motivation: to confuse and separate)*
 
-The first Forest Preserve the hunters will encounter is likely to be Oak
+The first Forest Preserve [[the hunters]] will encounter is likely to be Oak
 
-Glen, but this write-up can work for most of them. Many facilities can be found near the entrances of each preserve location (over 300 sites in the district!), but the woods soon thicken with distance, especially in the locations where incidents have occurred. Some—but not all—preserves have well-marked trails, picnic tables, interpretive signs (sometimes duplicated), and even lodges. But away from these, the underbrush gets thick and the trees grow close together.
+Glen, but this write-up can work for most of them. Many facilities can be found near the entrances of each preserve location (over 300 sites in the district!), but the woods soon thicken with distance, especially in the [[locations]] where incidents have occurred. Some—but not all—preserves have well-marked trails, picnic tables, interpretive signs (sometimes duplicated), and even lodges. But away from these, the underbrush gets thick and the trees grow close together.
 
-**Custom moves:**
+**Custom [[moves]]:**
 
 When you **search in the forest**, roll +Sharp:
 
--   On a 10+, things seem to point somewhere in particular: take +1 forward for investigating.
+-   On a 10+, things seem to point somewhere in particular: take +1 [[forward]] for investigating.
 
 -   On a 7-9, you can **investigate a mystery**, but then pick one of the bad things below.
 
@@ -170,15 +170,15 @@ When you **search in the forest**, roll +Sharp:
 
 # Wolf Road Woods Forest Preserves
 
-*Location: Den (motivation: to harbor monsters)*
+*Location: Den (motivation: to harbor [[monsters]])*
 
-The hunters’ investigation of Billy Washington’s disappearance will eventually lead them to Wolf Road Woods, where the nightwalkers have their temporary lair.
+[[The hunters]]’ investigation of Billy Washington’s disappearance will eventually lead them to Wolf Road Woods, where the nightwalkers have their temporary lair.
 
-**Custom moves:**
+**Custom [[moves]]:**
 
 When you **search in Wolf Road Woods**, roll +Sharp:
 
--   On a 10+ you find a tuft of strange hair and a well-worn work glove with Billy’s initials: take +1 forward for investigating, then the Keeper will pick one of the bad things from **search in the forest** (see above).
+-   On a 10+ you find a tuft of strange hair and a well-worn work glove with Billy’s initials: take +1 [[forward]] for investigating, then [[the Keeper]] will pick one of the bad things from **search in the forest** (see above).
 
 -   On a 7-9, you find the clues but all three bad things are true.
 
@@ -192,13 +192,13 @@ In cardboard boxes, plastic sacks, or at the base of a tree clustered with token
 
 According to residents near various Forest Preserves, this has been going for at least 30 years.
 
-Only once in recent memory—the incident the hunters are investigating—has a report come in of someone being caught in the act of a suspected ritual sacrifice. A few days ago, a caller reported seeing five people “dressed all in white” in Oak Glen: they appeared to be “doing animal sacrifices on chickens and roosters.” By the time the police arrived, there was nothing to see.
+Only once in recent memory—the incident [[the hunters]] are investigating—has a report come in of someone being caught in the act of a suspected ritual sacrifice. A few days ago, a caller reported seeing five people “dressed all in white” in Oak Glen: they appeared to be “doing animal sacrifices on chickens and roosters.” By the time the police arrived, there was nothing to see.
 
 The Cook County Forest Preserves encompass about 70,000 acres
 
 (280 square kilometers)—11 percent of the county. About 100 officers police the area.
 
-**If the hunters correlate sites over time and area:** although it’s hard to discern by looking at a specific location, incidents across all forest preserves in Cook County have suddenly increased in frequency.
+**If [[the hunters]] correlate sites over time and area:** although it’s hard to discern by looking at a specific location, incidents across all forest preserves in Cook County have suddenly increased in frequency.
 
 Live animals, possibly escaped from attempted sacrifices, have been found wandering in the woods.
 
@@ -208,7 +208,7 @@ Small makeshift altars have also been found in the woods, with candle stubs, wil
 
 **Investigating the attack on Kathy Witecki:** *Basic:* Kathy walked away from the path that day, and towards an altar. *Advanced:* She actually checked on several spots in the preserve where incidents had been reported over the years.
 
-**If Kathy wakes up after the attack and the hunters interview her:** *Basic:* Kathy has suffered from the Necromancer’s memory theft attack. Her memory is affected and she can’t recall much from the day of the attack, except a dark shadow with long spikes, and a man with eyes like glowing embers. *Advanced:* Even some details that she recently told the hunters have been forgotten.
+**If Kathy wakes up after the attack and [[the hunters]] interview her:** *Basic:* Kathy has suffered from the Necromancer’s memory theft attack. Her memory is affected and she can’t recall much from the day of the attack, except a dark shadow with long spikes, and a man with eyes like glowing embers. *Advanced:* Even some details that she recently told [[the hunters]] have been forgotten.
 
 **Investigation of Billy Washington’s disappearance:** *Basic:* He was working alone at the time of the attack and was near a forest altar— tending it. *Advanced:* Close examination by a knowledgeable person would suggest Billy didn’t exactly know what he was doing; he was just trying to fix it up as best he could.
 

@@ -11,9 +11,9 @@ Acknowledgements for the First Edition
 
 Thanks go to many people who helped me with this game. Firstly, to Vincent Baker for *Apocalypse World*, and for not minding that I took his rules and changed them all around to fit my vision.
 
-Also, to the many playtesters who indulged me by joining in and hunting monsters over four or five years of development (especially my regular Monday night crew: Scott Kelly, Bruce Norris, Andrew McLeod, Jason Pollock, and Stefan Tyler).
+Also, to the many playtesters who indulged me by joining in and hunting [[monsters]] over four or five years of development (especially my regular Monday night crew: Scott Kelly, Bruce Norris, Andrew McLeod, Jason Pollock, and Stefan Tyler).
 
-Steve Hickey, who edited the game, was one of my first enthusiastic fans, the first Keeper (aside from me), and has provided great feedback throughout the process. Thanks to my other early fans: Jenni Sands, Sophie Melchior, Hamish Cameron, and Stefan Tyler.
+Steve Hickey, who edited the game, was one of my first enthusiastic fans, the first Keeper (aside from me), and has provided great [[feedback]] throughout the process. Thanks to my other early fans: Jenni Sands, Sophie Melchior, Hamish Cameron, and Stefan Tyler.
 
 Daniel Gorringe for the art: he was on the same page as me instantly in terms of style, and his work is fantastic.
 
@@ -23,7 +23,7 @@ Thanks also to everyone who contributed to the game’s fundraising campaign: th
 
 And, finally, to my wife and daughter. As the dedication says, they put up with a lot while I was writing, and were supportive all along.
 
-Thanks also to all the fans who have played and enjoyed Monster of the Week since the first printing, especially those of you who have created new hunter classes, mysteries, monsters, talked about your games, or shared it at conventions.
+Thanks also to all the fans who have played and enjoyed Monster of the Week since the first printing, especially those of you who have created new hunter classes, mysteries, [[monsters]], talked about your games, or shared it at conventions.
 
 Play-testers Roll of Honour
 

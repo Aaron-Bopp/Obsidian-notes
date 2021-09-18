@@ -8,15 +8,15 @@ Necromancers Gambit
 
 # Concept
 
-The hunters investigate sinister grave robberies, but in fact the whole world is at stake.
+[[The hunters]] investigate sinister grave robberies, but in fact the whole world is at stake.
 
-This mystery can be used as a sequel to The [[Witching Hour]] (see page 262) and the Keeper could add literature from Sunset Prayer Group to Zenobia Bellairs’ house to connect the mysteries. Zenobia, intent on gaining immortality, left the sect a few years before her death.
+This mystery can be used as a sequel to The [[Witching Hour]] (see page 262) and [[the Keeper]] could add literature from Sunset Prayer Group to Zenobia Bellairs’ house to connect the mysteries. Zenobia, intent on gaining immortality, left the sect a few years before her death.
 
 # Hook
 
 Several tragic suicides by leading members of the local community have been followed by a bizarre series of grave robberies.
 
-The hunters might be asked for help by family of the victims, local law enforcement, or a journalist covering the deaths.
+[[The hunters]] might be asked for help by family of the victims, local law enforcement, or a journalist covering the deaths.
 
 # Overview
 
@@ -38,15 +38,15 @@ He owns a white van. **Powers:**
 
 -   Must be killed by his own zombies.
 
-**Attacks:** **Necromantic touch** 1-harm intimate ignore-armour. **Armour:** None.
+**Attacks:** **Necromantic touch** 1-[[harm]] intimate ignore-[[armour]]. **Armour:** None.
 
 **Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 # The Zombies (Cult Suicide Victims)
 
-*Minion: Assassins (motivation: to kill the hunters)*
+*Minion: Assassins (motivation: to kill [[the hunters]])*
 
-These are animated human corpses. Their numbers depend on how far Coin’s plans have advanced. When the hunters get involved, there are two.
+These are animated human corpses. Their numbers depend on how far Coin’s plans have advanced. When [[the hunters]] get involved, there are two.
 
 They cannot cross salt barriers or running water.
 
@@ -58,7 +58,7 @@ They cannot cross salt barriers or running water.
 
 **Romero-style:** Zombies can be destroyed by decapitation, or destruction of the brain.
 
-**Attacks:** **Bite** 2-harm intimate messy. **Armour:** None.
+**Attacks:** **Bite** 2-[[harm]] intimate messy. **Armour:** None.
 
 **Harm Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
 
@@ -76,7 +76,7 @@ An agnostic, Carla will always discount any evidence of the supernatural, as “
 
 *Bystander: Official (motivation: to be suspicious)*
 
-Veteran officer Carter thinks the whole grave robbery thing is a cruel prank. Although always polite, he is equally unimpressed with reporters, FBI profilers, and “monster hunters” who he feels get in the way of real police work. Carter ignores the hunters, restricts Schniepp to consulting from his FBI office, and looks for vandals, goth kids, and other ”lowlifes” despite whatever evidence emerges.
+Veteran officer Carter thinks the whole grave robbery thing is a cruel prank. Although always polite, he is equally unimpressed with reporters, FBI profilers, and “monster hunters” who he feels get in the way of real police work. Carter ignores [[the hunters]], restricts Schniepp to consulting from his FBI office, and looks for vandals, goth kids, and other ”lowlifes” despite whatever evidence emerges.
 
 Carter’s just a bored big city cop with a chip on his shoulder due to working in a small town. He’s retiring soon and he’s already checked out.
 
@@ -126,7 +126,7 @@ There is a small attached mortuary service with the graveyard and the staff is e
 
 # The Necromancer's Home
 
-*Location: Den (motivation: to harbour monsters)*
+*Location: Den (motivation: to harbour [[monsters]])*
 
 This house, located on a large isolated rural property, is crammed with stuffed animals (taxidermy is a natural hobby for a necromancer), mystical texts, pictures depicting the Apocalypse, framed Bible verses, etc.
 
@@ -134,7 +134,7 @@ In the center of it all sits Nathan Coin, brooding on the end of the world like 
 
 # The Basement 
 
-*Location: Deathtrap (motivation: to harm intruders)*
+*Location: Deathtrap (motivation: to [[harm]] intruders)*
 
 The necromancer generally keeps his zombies “asleep,” buried in the earth in his basement. The zombies will attack if the basement is searched. He will summon them if attacked and seek to lock intruders down here for his followers to consume.
 

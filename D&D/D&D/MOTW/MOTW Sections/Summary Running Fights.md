@@ -1,11 +1,11 @@
 - Think about what’s at stake.
 - Work out how the fight starts based on what’s happening in the game.
-- Describe the location and pick a type for it, then use those details and threat moves. Consider what makes this place unusual.
+- Describe the location and pick a type for it, then use those details and [[threat moves]]. Consider what makes this place unusual.
 - Make maps.
 - Use the combatants’ weapon and attack tags.
-- Use moves creatively.
+- Use [[moves]] creatively.
 - Most times, do the obvious thing. Usually the first thing you think of is perfectly appropriate.
-- Balance spotlight time between the hunters.
+- Balance spotlight time between [[the hunters]].
 - Don’t drag things out. You can zoom out on the action when it’s not so important, or not so interesting.
-- Use soft moves and give the hunters a chance to react.
-- Try to hurt the hunters: they can handle it.
+- Use soft [[moves]] and give [[the hunters]] a chance to react.
+- Try to hurt [[the hunters]]: they can handle it.

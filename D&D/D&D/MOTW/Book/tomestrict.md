@@ -48,7 +48,7 @@ I nodded, thinking it’d be ready to play by Christmas.
 
 ## When you design a game, roll +Grind
 
-Three and half years later, Mike had tested out quite a few more than a ‘few’ different versions of the game. But none of them provided the type of play he wanted: The mechanics didn’t flow; the fights were too long and clunky.
+Three and half years later, Mike had tested out quite a few more than a ‘few’ different versions of the game. But none of them provided the type of play he wanted: The mechanics didn’t flow; the [[fights]] were too long and clunky.
 
 <img src="./TomeIMGs/media/image15.jpg" style="width:6in;height:4.14in" />While I hadn’t read the rules at this point, I’d played a draft version at a later Fright Night. As usual, I said what I enjoyed, unsuccessfully tried to stop myself offering solutions to fix its rough spots, and told him I’d be happy to playtest it.
 
@@ -62,7 +62,7 @@ Meanwhile, I realised the two of us had never played an on-going game. In mid-20
 
 That first contact with *Apocalypse World* was definitely weird.
 
-As a group, we were figuring out the implications of the rules. How tough were our characters? If I got ambushed by four resentful members of my cult, was that a death sentence? How did moves trigger and who was responsible for noticing it? Did the History rules make sense? What about advancement? What happens when you change playbooks?
+As a group, we were figuring out the implications of the rules. How tough were our characters? If I got ambushed by four resentful members of my cult, was that a death sentence? How did [[moves]] trigger and who was responsible for noticing it? Did the [[History]] rules make sense? What about advancement? What happens when you change playbooks?
 
 It was glorious. Mike, Sophie, Simon, and I leapt into creating a world that had been fractured into multiple universes, and into conflicts between our characters that had me utterly absorbed.
 
@@ -74,7 +74,7 @@ He started running his own game of *Apocalypse World* about a week and half late
 
 Then, looking at the official Powered by the Apocalypse forums, I can see the following:
 
--   Mike designed his first playbook (The Metal Beast, a soldier in powered armour) on 26 August 2010.
+-   Mike designed his first playbook (The Metal Beast, a soldier in powered [[armour]]) on 26 August 2010.
 
 -   He hit his first ‘Ungiven future’ advance in late September 2010 and created his first ‘second character’ (a savvyhead I still have fond memories of).
 
@@ -94,11 +94,11 @@ It took 259 days for the game to go from its first external playtest to being cr
 
 It happened fast. Here are a few reasons why:
 
-I ran the first session for my Tuesday night group, and we got all the way to the end without the rules fundamentally breaking down. That’s a rare mark of success for a game-in-playtest. I’ve only seen it happen two other times (with *Nod* and *Monsterhearts*).
+I ran [[the first session]] for my Tuesday night group, and we got all the way to the end without the rules fundamentally breaking down. That’s a rare mark of success for a game-in-playtest. I’ve only seen it happen two other times (with *Nod* and *Monsterhearts*).
 
 Our Tuesday night group wanted to play a second session (another great sign).
 
-While there was a lot right with the game, there was enough wrong with it that we wanted to give lots of feedback and write about it online.
+While there was a lot right with the game, there was enough wrong with it that we wanted to give lots of [[feedback]] and write about it online.
 
 Our playtesting and posting generated more interest from other groups. And their playtesting and posting did the same. A positive attention spiral created the two most helpful things in of all in game design: fans and a culture of play.
 
@@ -112,7 +112,7 @@ If you’re interested in hacking *Monster of the Week* or creating your own gam
 
 -   Put your game out for playtesting before it’s perfect
 
--   When you find fans, encourage them. Encourage public feedback. Create a healthy culture where people feel their ideas are valued.
+-   When you find fans, encourage them. Encourage public [[feedback]]. Create a healthy culture where people feel their ideas are valued.
 
 -   Start finalising the game when you think you’re finding a balance between:
 
@@ -132,7 +132,7 @@ Despite Mike teasing me about the phrase ‘cognitive dissidents’, he hired me
 
 That first playtest was also where I started jotting down notes about how to design a mystery.
 
-Of all our work together, our back-and-forth about how to create mysteries and arcs in the monster-hunting genre is my favourite memory (and the section I’m most proud of). I’m looking forward to running (or, hopefully, playing) the mysteries in this collection and to applying the advice about creating mysteries on the fly.
+Of all our work together, our back-and-forth about how to create mysteries and [[arcs]] in the monster-hunting genre is my favourite memory (and the section I’m most proud of). I’m looking [[forward]] to running (or, hopefully, playing) the mysteries in this collection and to applying the advice about creating mysteries on the fly.
 
 ## Once you've filled five Experience boxes, upgrade to a 2nd edition
 
@@ -148,7 +148,7 @@ Monster of the Week Roadhouse’) and the game developed a reputation as a good 
 
 Fred Hicks’ enthusiasm to make sure the game reached the widest possible audience led to the revised edition in 2015. Fred was great to work with: relaxed and professional.
 
-I was also a huge fan of his process for running the game, especially the new mythology he created (‘The Hungry’) filled with monsters like the Editors and the Subtractors.
+I was also a huge fan of his process for [[running the game]], especially the new mythology he created (‘The Hungry’) filled with [[monsters]] like the Editors and the Subtractors.
 
 # And now we have this collection
 
@@ -174,9 +174,9 @@ And now, three things I loved figuring out:
 
 **Fred Hicks’ work on The Hungry demonstrated a great thing about creating a custom mythos for your game:** It throws players off-balance. They can’t make any assumptions about how things work (just like the best bits of *Supernatural* Season 7).
 
-Here’s a quick way to create a mythology. Choose an existential or contemporary dread. What are three ‘vectors’ that would exacerbate or spread that dread? Those are the ‘gods’ or ‘major villains’. Now: what are the reasons each of them would be in opposition to the others? Hopefully this gives you enough inspiration to create one servitor (a new type of monster) for each god. Finish off by asking yourself “What’s the big secret about this mythos that nobody knows yet?” and you’re good to go.
+Here’s a quick way to create a mythology. Choose an existential or contemporary dread. What are three ‘vectors’ that would exacerbate or spread that dread? Those are the ‘gods’ or ‘major villains’. Now: what are the reasons each of them would be in opposition to the others? Hopefully this gives you enough [[inspiration]] to create one servitor (a new type of monster) for each god. Finish off by asking yourself “What’s the big secret about this mythos that nobody knows yet?” and you’re good to go.
 
-**You have an unlimited special effects budget in your games .** As part of running a series of cinematic ‘wide-screen’ games, I threw my hunters up against a dragon so enormous it seemed impossible to kill. Conventional weapons couldn’t hurt it, and the hunters had to figure out the dragon’s weaknesses during its attacks My favourite thing about that game? Inspired by *Pacific Rim* and *Dragonball Z*, I gave the dragon three different forms. Every time it took a lethal amount of damage, it changed into its next form: tougher, with different stats and moves. It totally frustrated the players (in the best possible way) and lent an epic feel to the confrontation.
+**You have an unlimited special effects budget in your games .** As part of running a series of cinematic ‘wide-screen’ games, I threw my hunters up against a dragon so enormous it seemed impossible to kill. Conventional [[weapons]] couldn’t hurt it, and [[the hunters]] had to figure out the dragon’s weaknesses during its attacks My favourite thing about that game? Inspired by *Pacific Rim* and *Dragonball Z*, I gave the dragon three different forms. Every time it took a lethal amount of damage, it changed into its next form: tougher, with different stats and [[moves]]. It totally frustrated the players (in the best possible way) and lent an epic feel to the confrontation.
 
 <img src="./TomeIMGs/media/image7.jpg" style="width:6in;height:9in" />
 
