@@ -146,6 +146,13 @@
         "a": 1,
         "rgb": 1630933
       }
+    },
+    {
+      "query": "path:MOTW",
+      "color": {
+        "a": 1,
+        "rgb": 5966603
+      }
     }
   ],
   "collapse-display": false,
@@ -155,9 +162,9 @@
   "lineSizeMultiplier": 0.825491329479769,
   "collapse-forces": false,
   "centerStrength": 0.33831544178365,
-  "repelStrength": 9.62014863748968,
-  "linkStrength": 0.285466556564822,
+  "repelStrength": 13.7423616845582,
+  "linkStrength": 0.382352941176471,
   "linkDistance": 30,
-  "scale": 0.36430424690125174,
+  "scale": 0.047974221814156635,
   "close": false
 }
