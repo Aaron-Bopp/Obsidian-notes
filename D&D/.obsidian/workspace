@@ -4,22 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9629c447cf6ba96",
+        "id": "8779105582a25f4d",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
-        }
-      },
-      {
-        "id": "8779105582a25f4d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/MOTW/MOTW Sections/On With The Mystery!.md",
-            "mode": "source"
-          }
         }
       }
     ],
@@ -243,17 +232,17 @@
     "width": 822,
     "collapsed": true
   },
-  "active": "b9629c447cf6ba96",
+  "active": "8779105582a25f4d",
   "lastOpenFiles": [
+    "Running the game.md",
+    "Summaries.md",
+    "D&D/MOTW/MOTW Sections/On With The Mystery!.md",
+    "The SpellSlinger.md",
+    "D&D/MOTW/Table of Contents.md",
     "D&D/MOTW/Book/Monster_of_the_Week.md",
     "MOTWHierarchy.md",
     "D&D/MOTW/Book/MOTW Sections/Leveling Up And Improvements.md",
     "D&D/MOTW/Book/MOTW Sections/Endgame.md",
-    "D&D/MOTW/Book/MOTW Sections/Between Game Sessions Arcs.md",
-    "Running the game.md",
-    "D&D/MOTW/Book/MOTW Sections/On With The Mystery!.md",
-    "D&D/MOTW/Book/MOTW Sections/As the game Goes On.md",
-    "D&D/MOTW/Book/MOTW Sections/Playing a Hunter.md",
-    "D&D/MOTW/Book/MOTW Sections/The First Session.md"
+    "D&D/MOTW/Book/MOTW Sections/Between Game Sessions Arcs.md"
   ]
 }
