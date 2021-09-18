@@ -70,12 +70,12 @@
   "trailSeperator": "→",
   "respectReadableLineLength": true,
   "limitWriteBCCheckboxStates": {
-    "Related-Topics": true,
-    "Location": true,
+    "Related-Topics": false,
+    "Location": false,
     "parent": true,
-    "→": true,
-    "embedded": true,
-    "sibling": true,
+    "→": false,
+    "embedded": false,
+    "sibling": false,
     "child": true
   },
   "showWriteAllBCsCmd": true,
