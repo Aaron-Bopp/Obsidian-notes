@@ -6,7 +6,7 @@ The Curse-Speech
 
 In this mystery, the main threat is a language: Curse-Speech. This is a semi-sentient tongue of black magic formulas. Curse-Speech allows those who know it to use vile magic—but it also forces them to rely more and more on these foul enchantments to solve their problems. [[The hunters]] are caught in a struggle between a group of occultists devoted to this language and an ambitious businessman who learned it recently.
 
-# <img src="./TomeIMGs/media/image104.png" style="width:0.16333in;height:4.43667in" />Hook
+# ![[image104.png]]Hook
 
 Possible leads:
 
@@ -30,7 +30,7 @@ Possible leads:
 
 Curse-Speech is a simple ‘language’ of about a hundred words of power and destruction. It has a bodiless consciousness, is aware of all the people who know the Curse-Speech, and can influence their minds. The Curse-Speech allows its ‘hosts’ to invoke powerful energies but the cost is always high.
 
-<img src="./TomeIMGs/media/image105.jpg" style="width:5.965in;height:4.4375in" />Curse-Speech is contagious: anybody who learns the words can understand its true power and feels the urge to use it (if the CurseSpeech wishes). People experienced in the occult, hunters included, are at greater risk because hearing just a few words is enough to figure out how to open yourself to the Curse-Speech. It wants to sow great chaos, but its power is limited. It can be active only in the minds of about a dozen people at once. Therefore, when it finds it finds somebody with greater destructive potential it will abandon one of its current hosts—literally disappearing from their mind—and then manipulate the other hosts to teach Curse-Speech to the new recruit, whether they wish to learn or not.
+![[image105.jpg]]Curse-Speech is contagious: anybody who learns the words can understand its true power and feels the urge to use it (if the CurseSpeech wishes). People experienced in the occult, hunters included, are at greater risk because hearing just a few words is enough to figure out how to open yourself to the Curse-Speech. It wants to sow great chaos, but its power is limited. It can be active only in the minds of about a dozen people at once. Therefore, when it finds it finds somebody with greater destructive potential it will abandon one of its current hosts—literally disappearing from their mind—and then manipulate the other hosts to teach Curse-Speech to the new recruit, whether they wish to learn or not.
 
 **Powers:**
 
@@ -140,7 +140,7 @@ Silent, observant, always plotting something. Lene Janz
 
 *Minion: Scout (motivation: to stalk, watch, and report)* Curious, well-educated, immoral. Annemieke Kahler
 
-<img src="./TomeIMGs/media/image107.png" style="width:5.99667in;height:4.90333in" />*Minion: Cultist (motivation: to save her own skin at any cost)* Manipulative, unsure, older than the others, and scared of aging.
+![[image107.png]]*Minion: Cultist (motivation: to save her own skin at any cost)* Manipulative, unsure, older than the others, and scared of aging.
 
 ## Hans Großtern
 

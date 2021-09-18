@@ -29,18 +29,18 @@ Pick a Base and add an extra to it, or two Bases.
 ## Moves
 
 You get all the basic [[moves]], plus pick two Monstrous [[moves]]:
-![[Immortal]]
-![[Unnatural Appeal]]
-![[Unholy Strength]]
-![[Incorporeal]]
-![[Preternatural Speed]]
-![[Claws of the Beast]]
-![[Mental Dominion]]
-![[Unquenchable Vitality]]
-![[Dark Negotiator]]
-![[Flight]]
-![[Shapeshifter]]
-![[Something Borrowed]]
+- ![[Immortal]]
+- ![[Unnatural Appeal]]
+- ![[Unholy Strength]]
+- ![[Incorporeal]]
+- ![[Preternatural Speed]]
+- ![[Claws of the Beast]]
+- ![[Mental Dominion]]
+- ![[Unquenchable Vitality]]
+- ![[Dark Negotiator]]
+- ![[Flight]]
+- ![[Shapeshifter]]
+- ![[Something Borrowed]]
 ## History
 Go around the group again. When it’s your turn, pick one for each of the other hunters:
 - You lost control one time, and almost killed them. Ask them how they stopped you.

@@ -102,7 +102,7 @@ In the second encounter, [[the hunters]] meet someone or something. Decide if th
 
 -   Don’t tell the players that you don’t know, or don’t have a plan.
 
-<img src="./TomeIMGs/media/image70.jpg" style="width:6in;height:4.77213in" />You do, it’s just that you haven’t thought of it yet.
+![[image70.jpg]]You do, it’s just that you haven’t thought of it yet.
 
 # Expanded On-the-fly Mayhem Worksheet
 
@@ -142,7 +142,7 @@ b a collector b a librarian b a government agent
 
 b churchgoers b a priest b a spirit b monster hunters b a gourmet chef b a twin b a community leader
 
-<img src="./TomeIMGs/media/image72.png" style="width:6in;height:8.53125in" />
+![[image72.png]]
 
 # More Encounters
 
@@ -166,8 +166,8 @@ b ally experiment b the second study b summoned
 
 [[The hunters]] better go do something about that! While they make a plan you can take a moment to stat it up.
 
-<img src="./TomeIMGs/media/image7.jpg" style="width:6in;height:9in" />
+![[image7.jpg]]
 
-<img src="./TomeIMGs/media/image78.png" style="width:5.99667in;height:9in" />
+![[image78.png]]
 
 [[802701 AD]]

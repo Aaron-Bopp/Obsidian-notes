@@ -100,7 +100,7 @@ He will also try to capture everything he can on film as evidence.
 
 # Wilson Gibbs, Local Sheriff
 
-<img src="./TomeIMGs/media/image95.jpg" style="width:6in;height:2.68996in" />*Bystander: Skeptic (motivation: to deny supernatural explanations)*
+![[image95.jpg]]*Bystander: Skeptic (motivation: to deny supernatural explanations)*
 
 Gibbs is dismissive of Reynolds and [[the hunters]], who he views as opportunists in a situation he’d prefer to keep quiet. He thinks the crop circle is a hoax arranged by school kids and suspects that Pavlos is somehow involved—but he doesn’t know how. He sees any approaches made by [[the hunters]] to Pavlos and Nikosas as disrupting his own investigation.
 

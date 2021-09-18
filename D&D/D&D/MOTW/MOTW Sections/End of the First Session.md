@@ -35,8 +35,8 @@ The sort of things that might have come up include:
 - Hunters’ [[history]] choices that indicated a pattern of events or a significant incident.
 - Events during the mystery that hinted at bigger troubles happening somewhere else.
 - Unfinished business from the mystery.
-- Hunter choices that have a wide reach, such as [[the Chosen]]’s fate, [[the Professional]]’s Agency, an[[The Initiate]]’s Sect.
-- Anything that came up in play that suggested something more is going on, or that a secret is waiting to be uncovered. [[Examples]] include the results of [[the Expert]]’s dark past move, or someone saying something interesting about their past (e.g. Keeper: “Have you ever dealt with a snake demon before?” Hunter: “Oh, sure, we got a lot of them back on the farm.”)
+- Hunter choices that have a wide reach, such as [[The Chosen]]’s fate, [[The Professional]]’s Agency, an[[The Initiate]]’s Sect.
+- Anything that came up in play that suggested something more is going on, or that a secret is waiting to be uncovered. [[Examples]] include the results of [[The Expert]]’s dark past move, or someone saying something interesting about their past (e.g. Keeper: “Have you ever dealt with a snake demon before?” Hunter: “Oh, sure, we got a lot of them back on the farm.”)
 
 If something like that came up, make a note.
 

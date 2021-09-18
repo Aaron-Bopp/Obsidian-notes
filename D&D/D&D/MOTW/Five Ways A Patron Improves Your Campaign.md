@@ -52,7 +52,7 @@ Sometimes you have to lie to your boss. On the television show
 
 [[The hunters]] may discover the agency they work for has an evil faction of conspirators and must be fixed or destroyed. The classic example of this is the early *X-Files* and the classic evil cabal preparing for a planetary invasion aided by shape-shifting alien bounty hunters. *Fringe* and *Counterpart* have doppelgangers nefariously subverting our universe from a parallel dimension: nobody is safe from being “replaced.”
 
-<img src="./TomeIMGs/media/image48.jpg" style="width:6in;height:5.31796in" />Another possibility is the Patron is so scary and ruthless that [[the hunters]] have to manipulate it or them to prevent crimes against humanity, despite the essential good work the Patron provides. The *Twenty Palaces* book series by Harry Connolly is a wonderful example of this, as the antihero Ray Lilly must deal with supernatural problems while keeping innocent bloodshed to a minimum, or be faced with his employers’ more efficient methods, which may include eliminating a low-level operative like Lilly.
+![[image48.jpg]]Another possibility is the Patron is so scary and ruthless that [[the hunters]] have to manipulate it or them to prevent crimes against humanity, despite the essential good work the Patron provides. The *Twenty Palaces* book series by Harry Connolly is a wonderful example of this, as the antihero Ray Lilly must deal with supernatural problems while keeping innocent bloodshed to a minimum, or be faced with his employers’ more efficient methods, which may include eliminating a low-level operative like Lilly.
 
 A third and devastating possibility is that the patron’s ultimate agenda is evil. On the fourth season of *Fringe* the viewers discovered a universe where William Bell was actually the source of the evil Pattern experiments.
 
@@ -60,7 +60,7 @@ A third and devastating possibility is that the patron’s ultimate agenda is ev
 
 An even more devastating way to either open or climax a campaign is for [[the hunters]] to return back from a mission to find their patron has been destroyed by a mysterious entity or group. [[The hunters]] must hustle to retrieve what is left of the destroyed Agency’s equipment and intelligence from their few remaining boltholes and safehouses all while being hunted by mysterious supernatural assassins. This could be devastating to a Professional or Initiate hunter, so [[the Keeper]] should carefully consider this option and have a long build-up to destruction. Of course it may only appear that the group is destroyed...
 
-<img src="./TomeIMGs/media/image50.png" style="width:6in;height:3.27833in" />A well executed example of this idea is the classic 1970s Sydney Pollack thriller *Three Days of the Condor* wherein Joseph Turner returns late from lunch only to find all the other members of his clandestine library have been murdered by unknown gunmen. He must unravel the deadly mystery to survive. By my count, the *Mission Impossible* film series has used this plot at least twice.
+![[image50.png]]A well executed example of this idea is the classic 1970s Sydney Pollack thriller *Three Days of the Condor* wherein Joseph Turner returns late from lunch only to find all the other members of his clandestine library have been murdered by unknown gunmen. He must unravel the deadly mystery to survive. By my count, the *Mission Impossible* film series has used this plot at least twice.
 
 A good way to end such a campaign is to have the players reform their old Agency with [[the hunters]] as the new management team.
 

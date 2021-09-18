@@ -78,7 +78,7 @@ Sensitivity reading
 >
 > **Kane Cathain:** Thank you to Jim Robinson, Carly Onofrio, Denis Carey, Keegan Fink, Lauren McEwen, Dan Kobza, Justin Gray, and Salvatore Giorgi for playtesting and support.
 >
-> **Sean Clancy:** To Enan Granbery, Eric Loucks, and Paul Spears (aka Frank [[the Wronged]], Pelagius [[the Expert]], and Bob [[the Professional]]) for playtesting “[[Special Snowflake]].”
+> **Sean Clancy:** To Enan Granbery, Eric Loucks, and Paul Spears (aka Frank [[The Wronged]], Pelagius [[The Expert]], and Bob [[The Professional]]) for playtesting “[[Special Snowflake]].”
 >
 > **Felix Girke:** I want to thank the wonderful players who hunted an efreet at “The Kraken—A Gaming Retreat”—Kris, Christine, Foggy, and Jason-Dirk.
 >
@@ -989,7 +989,7 @@ weapon. **Recording devices (pick two):**
 
 ## Improvements {#improvements}
 
-> b Get +1 Charm, max +3 b Get +1 Cool, max +2 b Get +1 Sharp, max +3 b Get +1 Tough, max +2 b Take another Gumshoe move. b Take another Gumshoe move. b Add another [[harm]] box to your track, before Dying. b Get a haven (your office, perhaps), like [[the Expert]] has, with two options. b Add four additional or new contacts for your **Naked City** move.
+> b Get +1 Charm, max +3 b Get +1 Cool, max +2 b Get +1 Sharp, max +3 b Get +1 Tough, max +2 b Take another Gumshoe move. b Take another Gumshoe move. b Add another [[harm]] box to your track, before Dying. b Get a haven (your office, perhaps), like [[The Expert]] has, with two options. b Add four additional or new contacts for your **Naked City** move.
 >
 > After you have leveled up five times, you qualify for [[advanced improvements]] in addition to these. They’re below.
 >
@@ -1133,7 +1133,7 @@ weapon. **Recording devices (pick two):**
 
 ## Improvements {#improvements-1}
 
-> b Get +1 Weird, max +3. b Take another Rote. b Get +1 Cool, max +2. b Take another Rote. b Get +1 Charm, max +2. b Take another Rote. b Get +1 Sharp, max +2. b Take another Hex move, or an additional Rote. b Take another Hex move, or an additional Rote. b Take a Haven, like [[the Expert]] has, with two options. b Take a move from another playbook.
+> b Get +1 Weird, max +3. b Take another Rote. b Get +1 Cool, max +2. b Take another Rote. b Get +1 Charm, max +2. b Take another Rote. b Get +1 Sharp, max +2. b Take another Hex move, or an additional Rote. b Take another Hex move, or an additional Rote. b Take a Haven, like [[The Expert]] has, with two options. b Take a move from another playbook.
 >
 > After you have leveled up five times, you qualify for [[advanced improvements]] in addition to these. They’re below.
 >
@@ -1835,7 +1835,7 @@ Another trick is to make sure the player has a number of helpful
 
 This is where having the player work for some sort of organisation
 
-> (like [[the Professional]]’s Agency or [[The Initiate]]’s Sect) really becomes useful. The organisation can quickly help by giving the player credentials or resources but can also demand the player’s allegiance in all sorts of unsettling ways. That report on toxins in the murdered victim’s bloodstream might be on its way but it’s also paired with a ‘request’ to help dispose of both a dead body and the klutz who mismanaged the hit. Office politics can just be a killer…
+> (like [[The Professional]]’s Agency or [[The Initiate]]’s Sect) really becomes useful. The organisation can quickly help by giving the player credentials or resources but can also demand the player’s allegiance in all sorts of unsettling ways. That report on toxins in the murdered victim’s bloodstream might be on its way but it’s also paired with a ‘request’ to help dispose of both a dead body and the klutz who mismanaged the hit. Office politics can just be a killer…
 >
 > If the character is going to work for an organisation, then it is in that organisation’s best interests to outfit their agent with all the sorcerous tattoos, charms, and whatnot to help shore that hunter up where they are weak. For solo hunters, high-quality [[gear]] and a generous amount of magical help should be in order. A magical tattoo that adds 1- or 2-[[armour]] is a good example.
 >
@@ -1873,7 +1873,7 @@ This is where having the player work for some sort of organisation
 >
 > You may add new requirements and glitches if you want, using the existing ones as guidelines.
 >
-> For example, Gerard [[the Spooky]] wants a spell that turns him momentarily insubstantial to protect him from monster attacks. This is clearly ‘beyond human limitations’ and similar to a ‘heal’ effect, which makes it a bit more powerful than a regular spell. Gerard’s player and [[the Keeper]] agree that the spell needs a rare ingredient—a special mystic herb that Gerard must swallow—and certain arcane gestures. In the case of a glitch, it will have reduced effect (only half the [[harm]] is avoided) and attract unwanted attention (from other things that live in the insubstantial dimension Gerard is visiting). To cast this spell, roll the **use magic** move as usual, but the effect, requirements, and glitches are always the pre-agreed ones that go with the spell formula.
+> For example, Gerard [[The Spooky]] wants a spell that turns him momentarily insubstantial to protect him from monster attacks. This is clearly ‘beyond human limitations’ and similar to a ‘heal’ effect, which makes it a bit more powerful than a regular spell. Gerard’s player and [[the Keeper]] agree that the spell needs a rare ingredient—a special mystic herb that Gerard must swallow—and certain arcane gestures. In the case of a glitch, it will have reduced effect (only half the [[harm]] is avoided) and attract unwanted attention (from other things that live in the insubstantial dimension Gerard is visiting). To cast this spell, roll the **use magic** move as usual, but the effect, requirements, and glitches are always the pre-agreed ones that go with the spell formula.
 
 # Spell Books {#spell-books}
 
@@ -2039,7 +2039,7 @@ Or join Ash back in a medieval Britain that looks surprisingly like the
 
 > *Children of the Corn* is one way to go here, but if you think about it, almost any strange organization could be a cult and it doesn’t even have to be overtly religious. An ancient order of astrologers could be sending our young Initiate coded commands via a popular science program of the day like Carl Sagan’s *Cosmos* or the local astronomy club.
 >
-> **The Monstrous:** A child vampire or teenage werewolf is not at all difficult to imagine and there are a wide variety of tropes in movies and television to draw [[inspiration]] from. From *My Best Friend is a Vampire* to the antics of various generations of Disney’s teenaged werewolves, the kid monster was a popular comedic subject. Buffy the Vampire Slayer elevated the material further in the 1990s. The key, as with [[the Divine]] playbook, is to hide the monster in the classroom. A more comedic campaign could have the community embrace the monster, especially if that player can lead a local high school team to victory.
+> **The Monstrous:** A child vampire or teenage werewolf is not at all difficult to imagine and there are a wide variety of tropes in movies and television to draw [[inspiration]] from. From *My Best Friend is a Vampire* to the antics of various generations of Disney’s teenaged werewolves, the kid monster was a popular comedic subject. Buffy the Vampire Slayer elevated the material further in the 1990s. The key, as with [[The Divine]] playbook, is to hide the monster in the classroom. A more comedic campaign could have the community embrace the monster, especially if that player can lead a local high school team to victory.
 
 # Inspiration from Other Worlds {#inspiration-from-other-worlds}
 
@@ -3940,7 +3940,7 @@ The problem is that Amy’s subconscious has created a “Rabbit of
 
 > *Location: Wilds (motivation: to contain hidden things)*
 >
-> Here we have [[the spooky]] woods where the teenagers hang out when they don’t want to be around those pesky parent-types. While the suburbs in the western US often have forested areas nearby, this location can easily be recast as a large public park or a rundown apartment building.
+> Here we have [[The Spooky]] woods where the teenagers hang out when they don’t want to be around those pesky parent-types. While the suburbs in the western US often have forested areas nearby, this location can easily be recast as a large public park or a rundown apartment building.
 >
 > **Custom [[Moves]]:**
 >
@@ -4916,7 +4916,7 @@ Little does he realise, the powers will soon be too much for his body.
 >
 > **Powers:**
 >
-> **Proclamation**: His word is Truth in a cosmic sense. What he says goes, literally. When you confront Ualichu with evidence of a broken proclamation, roll +Sharp. On any hit, the law-breaker is gravely weakened. On a 10+, the law-breaker is magically compelled to do one service for [[the wronged]] party: they may not avoid or delay this penalty without painful (or even deadly) consequence.
+> **Proclamation**: His word is Truth in a cosmic sense. What he says goes, literally. When you confront Ualichu with evidence of a broken proclamation, roll +Sharp. On any hit, the law-breaker is gravely weakened. On a 10+, the law-breaker is magically compelled to do one service for [[The Wronged]] party: they may not avoid or delay this penalty without painful (or even deadly) consequence.
 
 # Lindsay Awale {#lindsay-awale}
 
@@ -5748,7 +5748,7 @@ Reportedly, the heart was created by a noblewoman during the
 
 > *Location: Prison (motivation: to constrain and prevent exit)*
 >
-> For the well-off, a private cabin means barely having to leave [[the expert]] slopes on the far side of the resort. Each of the dozen or so private cabins are restocked weekly with food and supplies, including firewood, gasoline, and emergency flares. Sturdy, but in bad weather they’re cut off from the hotel.
+> For the well-off, a private cabin means barely having to leave [[The Expert]] slopes on the far side of the resort. Each of the dozen or so private cabins are restocked weekly with food and supplies, including firewood, gasoline, and emergency flares. Sturdy, but in bad weather they’re cut off from the hotel.
 
 # The Slopes {#the-slopes}
 

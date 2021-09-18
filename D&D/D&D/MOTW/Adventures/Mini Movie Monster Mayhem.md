@@ -14,7 +14,7 @@ Miri heard Ephraim, Helena, and a doctor discussing hospice care. So yesterday M
 
 While Helena slept and Ephraim was out of the room, Miri has been envisioning pushing the [[monsters]] out of her mother, and it’s been working. They emerge as miniatures of whatever movie monster Miri had been picturing, a few inches high. After Miri severed the connection, each scurried from the room. The process leaves Miri spent: she can only do it every few hours. Miri didn’t think much about what happened to the [[monsters]] next; she had bigger things to worry about and she assumed they’d soon perish outside of a host body. But she guessed wrong... they can live and grow, but crave and need blood. They absolutely will not [[harm]] Miri or Helena, but everyone else is fair game.
 
-<img src="./TomeIMGs/media/image132.png" style="width:6in;height:8.51209in" />
+![[image132.png]]
 
 # Countdown
 
@@ -164,6 +164,6 @@ Here are names and concepts for [[bystanders]] (victims, most likely) the myster
 
 -   Beatrice Montaighne, pest control worker.
 
-<img src="./TomeIMGs/media/image134.jpg" style="width:5.99667in;height:9in" />
+![[image134.jpg]]
 
 [[The Mole King's Brides]]

@@ -5,7 +5,7 @@ I’ve always loved the urban fantasy genre, and I’ve been particularly happy 
 
 But when I finally did find *Monster of the Week*, man, did it bite me hard: a system driven by Apocalypse Engine sexiness, a genre I go ape for, and smart choices made at every turn in the text and design. The game had it all. I was particularly taken by its clarity: this is a game that’s easy to read, learn, and put into practice.
 
-As is my way, I threw a lot of enthusiasm at the game. I started a (still-[[ongoing]]) campaign inspired in part by Harry Connolly’s *Twenty Palaces* series, and I wrote up a new playbook based on a particular wizard of my acquaintance (you’ll find it in this book as [[the Spell-Slinger]]).
+As is my way, I threw a lot of enthusiasm at the game. I started a (still-[[ongoing]]) campaign inspired in part by Harry Connolly’s *Twenty Palaces* series, and I wrote up a new playbook based on a particular wizard of my acquaintance (you’ll find it in this book as [[The Spell-Slinger]]).
 
 I also looked into how this game was getting out into the world, because, man, it deserves to go far. Turns out, it wasn’t getting out into the world in all the ways it could—it wasn’t in retail distribution, and physical copies largely only happened via print on demand.
 

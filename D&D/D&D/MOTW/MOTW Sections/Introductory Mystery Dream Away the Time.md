@@ -67,7 +67,7 @@ Oberon has many other powers but those two will be the ones most appropriate for
 **Weaknesses**:
 
 - **Winter**. Note that this weakness is of little use as the mystery takes place a few weeks after midsummer day.
-- **His Word**. If Oberon lies to or goes back on a promise or contract, [[the wronged]] party has power over him, which counts as a weakness. As Oberon is aware of this, he will go to extraordinary lengths to never put himself in this position.
+- **His Word**. If Oberon lies to or goes back on a promise or contract, [[The Wronged]] party has power over him, which counts as a weakness. As Oberon is aware of this, he will go to extraordinary lengths to never put himself in this position.
 
 Oberon's Fortress
 

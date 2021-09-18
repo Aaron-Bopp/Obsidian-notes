@@ -30,7 +30,7 @@ A teenager murders her family with a chainsaw, exhibiting supernatural strength 
 
 **Lash out spiritually**. **Possess a listener**.
 
-<img src="./TomeIMGs/media/image118.jpg" style="width:6in;height:4.01153in" />**Get Psycho**: When a bystander listens to the Disk Most Black, they become a Silver Screen Slasher (see below) by the end of one song.
+![[image118.jpg]]**Get Psycho**: When a bystander listens to the Disk Most Black, they become a Silver Screen Slasher (see below) by the end of one song.
 
 When **a hunter listens to the Disk Most Black**, they roll +Cool:
 
@@ -144,7 +144,7 @@ Reb Watson has worked at Hill’s Music for over a decade. Now they manage the s
 
 *Location: Wilds (motivation: to contain hidden things)*
 
-Here we have [[the spooky]] woods where the teenagers hang out when they don’t want to be around those pesky parent-types. While the suburbs in the western US often have forested areas nearby, this location can easily be recast as a large public park or a rundown apartment building.
+Here we have [[The Spooky]] woods where the teenagers hang out when they don’t want to be around those pesky parent-types. While the suburbs in the western US often have forested areas nearby, this location can easily be recast as a large public park or a rundown apartment building.
 
 **Custom [[Moves]]:**
 

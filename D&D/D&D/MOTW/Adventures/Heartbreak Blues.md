@@ -102,7 +102,7 @@ Travelling Jones Records is more than just a record shop, though their collectio
 
 -   If you **just let all your raw emotion loose**, roll +Tough.
 
--   <img src="./TomeIMGs/media/image128.jpg" style="width:6in;height:4.19in" />If you **channel your connection to magic and other weirdness**, roll +Weird.
+-   ![[image128.jpg]]If you **channel your connection to magic and other weirdness**, roll +Weird.
 
 On a hit, you make it. On a 10+, choose one from the following list.
 

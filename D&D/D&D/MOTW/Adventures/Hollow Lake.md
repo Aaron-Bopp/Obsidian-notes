@@ -4,7 +4,7 @@ Hollow Lake
 
 # Concept
 
-<img src="./TomeIMGs/media/image130.png" style="width:5.99667in;height:3.46333in" />For over 70 years, Katsuko Tanigawa had a deal with a kappa, a Japanese water spirit. She continued this practice after leaving Japan and moving in with her daughter’s family upon her husband’s death. The entity—bound by contract—relocated with her and now resides in the lake close to the edge of the family’s property.
+![[image130.png]]For over 70 years, Katsuko Tanigawa had a deal with a kappa, a Japanese water spirit. She continued this practice after leaving Japan and moving in with her daughter’s family upon her husband’s death. The entity—bound by contract—relocated with her and now resides in the lake close to the edge of the family’s property.
 
 Katsuko never told anyone. Her daughter Emiko assumed the small suitengu shrine her mother asked to have built on the lake’s edge was simply a way to help deal with culture shock. Since Katsuko’s death late last year, no one is leaving offerings for the kappa and it has gone back to procuring its favorite food: human livers.
 
@@ -12,7 +12,7 @@ This mystery takes place in an affluent suburb. Most of the residents have jobs 
 
 # Hook
 
-<img src="./TomeIMGs/media/image131.png" style="width:5.99667in;height:3.46333in" />Samuel Voss was a retiree and avid fisherman who was a fixture of the lakeside. His corpse just washed up and is being called a boating accident. However, the coroner is baffled because the body is missing its liver and intestines, with no sign of how they were removed.
+![[image131.png]]Samuel Voss was a retiree and avid fisherman who was a fixture of the lakeside. His corpse just washed up and is being called a boating accident. However, the coroner is baffled because the body is missing its liver and intestines, with no sign of how they were removed.
 
 # Countdown
 

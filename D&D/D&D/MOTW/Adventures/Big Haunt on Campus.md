@@ -16,7 +16,7 @@ Before the winter break, The Buck had a one-night stand with Shelly Young. The m
 
 Young’s obsession reached its peak in early February, when she found a book of spells in the university library. Inspired, she gathered up supplies and attempted to summon a revenge demon. Shelly lacked the skill and experience to summon the demon she sought but but she did manage to summon something...else. Evelyn Bradshaw was murdered by Eric Clevinger in the same dorm room 40 years before. When Shelly lifted the veil, she allowed this vengeful spirit to enter our world. Mistaking Evelyn for the demon, Shelly told her an elaborate tale of Candy’s infidelities and sent the spirit off to kill her. When Evelyn watched the couple, she discerned the truth and killed Buckner instead.
 
-# <img src="./TomeIMGs/media/image90.png" style="width:6in;height:2.96in" />Countdown
+# ![[image90.png]]Countdown
 
 <table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>Shelly confronts Evelyn for not doing as she instructed. When Evelyn learns the</p><p>whole sordid truth, she throws Shelley from her dorm window. Shelly’s body is also found covered in the strange frost.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td><blockquote><p>Evelyn murders a female student on the quad outside the English department, sending a tree branch through her chest while the man she is flirting with looks on in horror. The student was in the middle of texting an excuse to her long-distance hometown boyfriend about why he shouldn’t call her tonight.</p></blockquote></td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Evelyn goes to the English department to find Clevinger, not appreciating how much time has passed since she was alive. She kills the young professor she finds in the office, just as he finishes office hours with a female student.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Evelyn tracks Clevinger, now old and retired, back to his home. She kills him—and masters her powers. The frost is thick where she touched him.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>Evelyn tears through the student population. The murders come fast and furious, each one more gruesome than the last.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td>The school is forced to close its doors and seek professionals to end the rampage of death. Evelyn takes her vengeance into the larger world.</td></tr></tbody></table>
 
@@ -92,7 +92,7 @@ Professor Eric Clevinger
 
 # (Evelyn's murderer)
 
-<img src="./TomeIMGs/media/image92.jpg" style="width:6in;height:5.46in" />*Bystander: Innocent (motivation: to do the right thing)*
+![[image92.jpg]]*Bystander: Innocent (motivation: to do the right thing)*
 
 Now in his early 70s, retired from academia, and living in a suburb with his wife of 40 years. He still suffers great guilt from his murder of Evelyn Bradshaw. He can be persuaded to talk to Evelyn if convinced that her ghost is causing the troubles on campus.
 

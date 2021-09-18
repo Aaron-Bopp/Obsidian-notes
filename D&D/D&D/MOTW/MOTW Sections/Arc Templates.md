@@ -22,7 +22,7 @@ This centers on a dormant, dead, or imprisoned monster and the allies or servant
 ![](MotWIMG21.jpeg)
 
 # The Nemesis  
-This works for any hunter(s) with a nemesis—possibly a monster that escaped, or the one [[the Wronged]] is hunting down, or something from  a destiny or dark past. The nemesis might be after an individual hunter,  or the whole team.  Note that my werewolf example arc, above, is a version of this  template (although with a few changes, to reflect the details of that  
+This works for any hunter(s) with a nemesis—possibly a monster that escaped, or the one [[The Wronged]] is hunting down, or something from  a destiny or dark past. The nemesis might be after an individual hunter,  or the whole team.  Note that my werewolf example arc, above, is a version of this  template (although with a few changes, to reflect the details of that  
 particular game).  Starting point: A monster gets away, or there is a Wronged in the team.  
 
 *Threats*:  

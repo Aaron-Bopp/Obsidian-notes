@@ -66,6 +66,6 @@ If **you touch the game disc or see someone else playing it**, roll + Cool. You 
 
 [[Bystanders]] who see someone playing the game just get the urge to play. If they’re left alone they will play until they eventually die.
 
-<img src="./TomeIMGs/media/image139.png" style="width:6in;height:7.14414in" />
+![[image139.png]]
 
 [[Pity The Cat]]

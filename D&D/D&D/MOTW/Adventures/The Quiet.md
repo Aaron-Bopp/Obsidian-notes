@@ -114,6 +114,6 @@ A close check of the bodies reveals they are still alive. Their corporeal form h
 
 -   On a 6 or less, all spirits in the area focus their attacks on you.
 
-<img src="./TomeIMGs/media/image144.jpg" style="width:5.99667in;height:9in" />
+![[image144.jpg]]
 
 [[Razorback]]

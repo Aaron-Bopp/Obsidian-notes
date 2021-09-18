@@ -22,7 +22,7 @@ This being (also known as Belladonna Royal) is actually a shark devil. She is th
 
 Her goal is to gentrify and profit from poor neighborhoods through defamation, police brutality, and mass murder.
 
-<img src="./TomeIMGs/media/image145.jpg" style="width:6in;height:3.4in" />If the Heart of Darkness is defeated, the Red Queen will give up (for now) and withdraw her influence from the city.
+![[image145.jpg]]If the Heart of Darkness is defeated, the Red Queen will give up (for now) and withdraw her influence from the city.
 
 **Powers:**
 

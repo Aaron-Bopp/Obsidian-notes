@@ -28,7 +28,7 @@ The ‘Froghemoth’ first appeared in Gary Gygax’s classic *Advanced Dungeons
 
 Soon [[the hunters]] become aware that they are now the hunted…
 
-# <img src="./TomeIMGs/media/image97.jpg" style="width:6in;height:4.855in" />Countdown
+# ![[image97.jpg]]Countdown
 
 <table><colgroup><col style="width: 21%" /><col style="width: 78%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>A transdimensonal nexus opens due to a ‘red matter’ meteor strike and a strange mist floods the town. Cellphones and internet fail as a result. [[The hunters]] realize they are trapped.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>A froghemoth starts hunting town citizens.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td>Town becomes increasingly swampy. Alien vegetation appears.</td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Town citizens gather at Shatner’s Hardware Store to plan defense. Froghemoth appears and devours town leaders. Citizens panic.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td><blockquote><p>Professor Scott devoured. City now transformed into alien swamp.</p></blockquote></td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>The transdimensonal nexus transfers all of Nimoy, New Mexico to the Froghemoth</p><p>Dimension. Remaining town citizens eaten.</p></blockquote></td></tr></tbody></table>
 

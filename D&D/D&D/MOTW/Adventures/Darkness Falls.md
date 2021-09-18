@@ -24,7 +24,7 @@ The Delanos were able to fashion a ritual to [[hold]] Madame Koshmar at bay usin
 
 The Delanos are loving parents who will do anything for their child.
 
-<img src="./TomeIMGs/media/image108.jpg" style="width:6in;height:3.01572in" />They have told nobody about their actions regarding Madame Koshmar, fearing they will not be believed. They know little of the paranormal beyond what they needed to learn to keep the town safe, so they have not realised the unintended effects of their spell.
+![[image108.jpg]]They have told nobody about their actions regarding Madame Koshmar, fearing they will not be believed. They know little of the paranormal beyond what they needed to learn to keep the town safe, so they have not realised the unintended effects of their spell.
 
 # Nika Delano
 
@@ -74,7 +74,7 @@ Shades are dark ghostly [[minions]] that Madame Koshmar may summon from nearby s
 
 **Powers:**
 
-<img src="./TomeIMGs/media/image110.jpg" style="width:6in;height:3.81in" />• **Incorporeal**: Unless dispelled with light, Shades will quickly reform without needing to be summoned by Madame Koshmar. **Attacks:** **Pass through person** 1-[[harm]] intimate magic. **Shadow attack** 2-[[harm]] close magic. **Armour:** None.
+![[image110.jpg]]• **Incorporeal**: Unless dispelled with light, Shades will quickly reform without needing to be summoned by Madame Koshmar. **Attacks:** **Pass through person** 1-[[harm]] intimate magic. **Shadow attack** 2-[[harm]] close magic. **Armour:** None.
 
 **Harm Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
 
@@ -106,7 +106,7 @@ If [[the hunters]] are inside the circle of the sleep spell’s effect (or enter
 
 *Bystander: Witness (motivation: to reveal information)*
 
-<img src="./TomeIMGs/media/image112.png" style="width:4.55306in;height:4.2742in" />The town sheriff zealously lectures on the dangers of driving tired and has littered the town and highway with “Don’t Drive Tired” signs. He will resist [[the hunters]]’ efforts as he sees there being no case worth following up. Sheriff Withers knows about and has files on the string of murders several years ago (in the Delanos’ neighbourhood) as well as about the accidents on both the rural highway and the significantly less-trafficked winding mountain road.
+![[image112.png]]The town sheriff zealously lectures on the dangers of driving tired and has littered the town and highway with “Don’t Drive Tired” signs. He will resist [[the hunters]]’ efforts as he sees there being no case worth following up. Sheriff Withers knows about and has files on the string of murders several years ago (in the Delanos’ neighbourhood) as well as about the accidents on both the rural highway and the significantly less-trafficked winding mountain road.
 
 # Other Townsfolk
 

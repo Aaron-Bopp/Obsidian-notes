@@ -5,8 +5,8 @@ If a hunter is getting to the end of their Luck, that’s another sign their sto
 
 Some [[hunter types]] have special effects as they spend Luck, as well:
 
-- When [[the Chosen]] spends Luck, you need to include something from their fate in the game.
+- When [[The Chosen]] spends Luck, you need to include something from their fate in the game.
 - When [[the Crooked]] spends Luck, that means someone from their past is going to reappear soon.
-- When [[the Spooky]] spends Luck, the demands of their dark side will grow.
+- When [[The Spooky]] spends Luck, the demands of their dark side will grow.
 
 [[Dealing With Arcs]]

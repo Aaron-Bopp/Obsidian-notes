@@ -50,7 +50,7 @@ A swarm of crystalline nanomachines, manufactured by Havenhill’s hacked snowma
 
 -   Spring. If enough time passes (1-3 days, depending on the pace of the investigation) the Squall will melt in the encroaching spring weather.
 
-<img src="./TomeIMGs/media/image147.jpg" style="width:5.99667in;height:9in" />
+![[image147.jpg]]
 
 # Snow Buddies
 
@@ -82,7 +82,7 @@ The Maudsley is Havenhill’s sprawling, shag-carpeted hotel. All guests check i
 
 *Location: Prison (motivation: to constrain and prevent exit)*
 
-For the well-off, a private cabin means barely having to leave [[the expert]] slopes on the far side of the resort. Each of the dozen or so private cabins are restocked weekly with food and supplies, including firewood, gasoline, and emergency flares. Sturdy, but in bad weather they’re cut off from the hotel.
+For the well-off, a private cabin means barely having to leave [[The Expert]] slopes on the far side of the resort. Each of the dozen or so private cabins are restocked weekly with food and supplies, including firewood, gasoline, and emergency flares. Sturdy, but in bad weather they’re cut off from the hotel.
 
 # The Slopes
 
@@ -112,7 +112,7 @@ Brent’s family owns Havenhill (“…and don’t you forget it!”), and he gr
 
 *Bystander: Witness (motivation: to reveal information)*
 
-<img src="./TomeIMGs/media/image148.jpg" style="width:6in;height:3.34464in" />This is Asa’s third year at Havenhill, but her first at check-in. She’s bright, capable, and good with faces, including that of the excitable grad student who just rented a room. (That said, she’s also been pulling double OT for the past two weeks.)
+![[image148.jpg]]This is Asa’s third year at Havenhill, but her first at check-in. She’s bright, capable, and good with faces, including that of the excitable grad student who just rented a room. (That said, she’s also been pulling double OT for the past two weeks.)
 
 # Harry Reynolds, planetary science researcher
 
@@ -128,7 +128,7 @@ Like, Carl’s just here to make some extra scratch for the season, dude. He doe
 
 # Carla Monteiro, senior underpaid security
 
-<img src="./TomeIMGs/media/image150.jpg" style="width:6in;height:3.34469in" />*Bystander: Official (motivation: to be suspicious)*
+![[image150.jpg]]*Bystander: Official (motivation: to be suspicious)*
 
 Carla doesn’t make damn near enough, considering how capable she is. She definitely doesn’t make enough to be stuck with layabout Carl as the season winds down.
 

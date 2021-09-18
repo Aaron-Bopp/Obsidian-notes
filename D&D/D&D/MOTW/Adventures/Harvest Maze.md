@@ -28,7 +28,7 @@ The most recent disappearance, just two days ago, was a local teenaged couple: R
 
 # Overview
 
-<img src="./TomeIMGs/media/image121.png" style="width:5.99667in;height:3.63in" />The disappearances were victims of a coco, caught in the enchanted maze it creates in a local cornfield to “celebrate the holidays” each year.
+![[image121.png]]The disappearances were victims of a coco, caught in the enchanted maze it creates in a local cornfield to “celebrate the holidays” each year.
 
 # Countdown
 
@@ -114,7 +114,7 @@ A man obsessed with making his family farm a success, Fidel becomes warm and fri
 
 An illusionary labyrinth created by the coco to ‘play’ with its victims. It is always night in the maze, with a full harvest moon. The stars match no known constellations. If the coco is killed, the illusion vanishes and [[the hunters]] find themselves randomly dispersed through the Guzman corn fields.
 
-# <img src="./TomeIMGs/media/image122.jpg" style="width:6in;height:3.625in" />Josh Lopez, Noisy Reporter
+# ![[image122.jpg]]Josh Lopez, Noisy Reporter
 
 *Bystander: Busybody (motivation: to interfere in other people’s plans).*
 
@@ -132,7 +132,7 @@ Like most local law enforcement officers, Molly Gunderson finds Josh
 
 Lopez to be highly annoying, but she secretly shares his concerns about a possible serial killer operating in the area. She is convinced that the disappearances are the work of a “Children of the Corn” satanic cult that is active among the local farm workers.
 
-<img src="./TomeIMGs/media/image124.jpg" style="width:6in;height:3.625in" />A middle-aged disappointed veteran of an often sexist rural law enforcement office, Molly has fallen victim to the consolations of a rather extreme Christian cult.
+![[image124.jpg]]A middle-aged disappointed veteran of an often sexist rural law enforcement office, Molly has fallen victim to the consolations of a rather extreme Christian cult.
 
 # Bridget's Diner
 

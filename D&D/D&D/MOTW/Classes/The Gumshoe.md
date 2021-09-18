@@ -1,5 +1,5 @@
 # The Gumshoe
-<img src="./TomeIMGs/media/image38.png" style="width:5.34287in;height:8.51813in" />
+![[image38.png]]
 
 > “You won’t understand this… When I take a case, I’m supposed to do something about it. You’re supposed to do something about it whether you like it or not. You’ve got to pay for what you’ve done, sweetheart, whatever it is I might feel about you. Yes, I’ll have some bad nights, but I’ll still have myself.” 
 
@@ -178,7 +178,7 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 
 ## Improvements
 
-b Get +1 Charm, max +3 b Get +1 Cool, max +2 b Get +1 Sharp, max +3 b Get +1 Tough, max +2 b Take another Gumshoe move. b Take another Gumshoe move. b Add another [[harm]] box to your track, before Dying. b Get a haven (your office, perhaps), like [[the Expert]] has, with two options. b Add four additional or new contacts for your **Naked City** move.
+b Get +1 Charm, max +3 b Get +1 Cool, max +2 b Get +1 Sharp, max +3 b Get +1 Tough, max +2 b Take another Gumshoe move. b Take another Gumshoe move. b Add another [[harm]] box to your track, before Dying. b Get a haven (your office, perhaps), like [[The Expert]] has, with two options. b Add four additional or new contacts for your **Naked City** move.
 
 After you have leveled up five times, you qualify for [[advanced improvements]] in addition to these. They’re below.
 

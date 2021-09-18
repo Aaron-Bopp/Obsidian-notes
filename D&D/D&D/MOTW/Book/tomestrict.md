@@ -1,12 +1,12 @@
-<img src="./TomeIMGs/media/image1.jpg" style="width:6in;height:9in" />
+![[image1.jpg]]
 
-<img src="./TomeIMGs/media/image2.jpg" style="width:6in;height:9in" />
+![[image2.jpg]]
 
-<img src="./TomeIMGs/media/image3.png" style="width:2.11in;height:0.44333in" /><img src="./TomeIMGs/media/image4.png" style="width:6in;height:2.8323in" />
+![[image4.png]]
 
 [[Table of Contents]]
 
-<img src="./TomeIMGs/media/image7.jpg" style="width:6in;height:9in" />
+![[image7.jpg]]
 
 ![[image1.jpg]]
 
@@ -30,7 +30,7 @@ When **it’s your turn to describe your relationship with Mike**, pick one of t
 
 I’ve been looking back through old internet posts, and I suspect the first time I heard Mike talk about *Monster of the Week* was around 9pm on October 27th, 2007.
 
-<img src="./TomeIMGs/media/image11.png" style="width:6in;height:9in" />We were at Fright Night, a one-night-only horror roleplaying convention held in Wellington, New Zealand. Mike had just run *The Infected*, a game by Eric Provost, and as players we were recovering from an intense session involving some hapless eco-tourists trying to outrun fast zombies.
+![[image11.png]]We were at Fright Night, a one-night-only horror roleplaying convention held in Wellington, New Zealand. Mike had just run *The Infected*, a game by Eric Provost, and as players we were recovering from an intense session involving some hapless eco-tourists trying to outrun fast zombies.
 
 Mike mentioned he wanted to work on a game that covered more than just survival horror. He told me what he was thinking of calling it.
 
@@ -50,7 +50,7 @@ I nodded, thinking it’d be ready to play by Christmas.
 
 Three and half years later, Mike had tested out quite a few more than a ‘few’ different versions of the game. But none of them provided the type of play he wanted: The mechanics didn’t flow; the [[fights]] were too long and clunky.
 
-<img src="./TomeIMGs/media/image15.jpg" style="width:6in;height:4.14in" />While I hadn’t read the rules at this point, I’d played a draft version at a later Fright Night. As usual, I said what I enjoyed, unsuccessfully tried to stop myself offering solutions to fix its rough spots, and told him I’d be happy to playtest it.
+![[image15.jpg]]While I hadn’t read the rules at this point, I’d played a draft version at a later Fright Night. As usual, I said what I enjoyed, unsuccessfully tried to stop myself offering solutions to fix its rough spots, and told him I’d be happy to playtest it.
 
 My fear, though, was this would be one of those games (every designer has them) that just gets stuck. The core insight, the one that lets you solve the game and make it fun, just never arrives.
 
@@ -154,7 +154,7 @@ I was also a huge fan of his process for [[running the game]], especially the ne
 
 Organised by Mike, it’s filled with contributions from Roadhouse regulars and some of the first-generation Wellington- and Christchurch-based monster-hunters and playtesters.
 
-<img src="./TomeIMGs/media/image17.png" style="width:5.99667in;height:5.90333in" />In addition to advice from experienced keepers, this volume fills a big gap in the genre: it provides rules and adventures for *Fringe* and *X-Files* style ‘phenomenon mysteries’. This is my favourite type of mystery: where the antagonist is a problem to solve rather than an entity to beat up or banish.
+![[image17.png]]In addition to advice from experienced keepers, this volume fills a big gap in the genre: it provides rules and adventures for *Fringe* and *X-Files* style ‘phenomenon mysteries’. This is my favourite type of mystery: where the antagonist is a problem to solve rather than an entity to beat up or banish.
 
 I hope you enjoy the Tome of Mysteries—Monster: Breeder (motivation: to bring forth evil). May you retire to safety.
 
@@ -178,8 +178,8 @@ Here’s a quick way to create a mythology. Choose an existential or contemporar
 
 **You have an unlimited special effects budget in your games .** As part of running a series of cinematic ‘wide-screen’ games, I threw my hunters up against a dragon so enormous it seemed impossible to kill. Conventional [[weapons]] couldn’t hurt it, and [[the hunters]] had to figure out the dragon’s weaknesses during its attacks My favourite thing about that game? Inspired by *Pacific Rim* and *Dragonball Z*, I gave the dragon three different forms. Every time it took a lethal amount of damage, it changed into its next form: tougher, with different stats and [[moves]]. It totally frustrated the players (in the best possible way) and lent an epic feel to the confrontation.
 
-<img src="./TomeIMGs/media/image7.jpg" style="width:6in;height:9in" />
+![[image7.jpg]]
 
-<img src="./TomeIMGs/media/image11.png" style="width:6in;height:9in" />
+![[image11.png]]
 
 [[Alternative Weird Basic Moves]]

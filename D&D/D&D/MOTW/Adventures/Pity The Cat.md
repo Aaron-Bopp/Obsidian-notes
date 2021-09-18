@@ -88,7 +88,7 @@ Jacob’s spell still affects all the cats in the city. Every time The Starry
 
 Order tries to influence the town, the cats meow and yowl throughout the night. Nowadays, however, their cries offer a weaker protection because they are regularly drowned out by the noises of passing cars and trains.
 
-<img src="./TomeIMGs/media/image141.png" style="width:5.90972in;height:3.3975in" />When a cat is taken away from the town, they lose the connection to the spell. On the other hand, a cat who comes into the town will join the spell within a few days.
+![[image141.png]]When a cat is taken away from the town, they lose the connection to the spell. On the other hand, a cat who comes into the town will join the spell within a few days.
 
 # Marjan Claes
 
@@ -126,6 +126,6 @@ It will be very hard to make her believe in anything supernatural.
 
 An elegant old lady who runs a charming coffeehouse at the main square. Friendly and open but also quite concerned with what’s proper. She keeps a few cats in her coffeehouse but will chase them off when [[the Order]] gets to her.
 
-<img src="./TomeIMGs/media/image143.jpg" style="width:5.99667in;height:9in" />
+![[image143.jpg]]
 
 [[The Quiet]]

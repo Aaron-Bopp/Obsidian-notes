@@ -4,7 +4,7 @@ World Egg
 
 # Introduction
 
-<img src="./TomeIMGs/media/image156.png" style="width:5.99667in;height:5.21667in" />Lea Drittore, an occult scientist, discovered how to create ‘World Eggs.’ These are mystical gems that [[feed]] on auras in their surroundings and then hatch into pocket dimensions inhabited by golems.
+![[image156.png]]Lea Drittore, an occult scientist, discovered how to create ‘World Eggs.’ These are mystical gems that [[feed]] on auras in their surroundings and then hatch into pocket dimensions inhabited by golems.
 
 In her lab, Drittore only managed to create worlds that echo herself and the sterile environment, so she submitted an Egg to a local gem fair. She wants it to be bought and to experience the auras of many different people and places. Then she’ll get it back and explore the rich, complex artificial world that results: the ultimate goal of her research.
 
@@ -40,7 +40,7 @@ The World Egg is sensitive to everything around it. It reads auras and compiles 
 
 The more auras the Egg reads, the bigger and more complex a world it creates. Such worlds may contain life or life-like entities. Creatures created this way may visit our world if they find the portal out.
 
-<img src="./TomeIMGs/media/image157.jpg" style="width:6in;height:3.4028in" />The Egg is resistant to accidental damage but if hit really hard (3-[[harm]] in a single strike) it breaks and hatches prematurely into a Voidmouth: an occult black hole that first swallows everything nearby and then gradually pulls more distant objects into itself, annihilating them. It would need about a month to swallow an entire city.
+![[image157.jpg]]The Egg is resistant to accidental damage but if hit really hard (3-[[harm]] in a single strike) it breaks and hatches prematurely into a Voidmouth: an occult black hole that first swallows everything nearby and then gradually pulls more distant objects into itself, annihilating them. It would need about a month to swallow an entire city.
 
 Sealing a Voidmouth requires a **big magic** ritual with the following requirements:
 
@@ -148,7 +148,7 @@ On the other hand, if a Voidmouth is born, there might be a hellish dimension on
 
 **Bought your book at your favorite local game store?**
 
-<img src="./TomeIMGs/media/image159.png" style="width:6in;height:6.51099in" />Ask your game store to use www.bitsandmortar.com to send the PDF to you!
+![[image159.png]]Ask your game store to use www.bitsandmortar.com to send the PDF to you!
 
 **Ordered it online at evilhat.com or somewhere else?**
 
@@ -156,4 +156,4 @@ Email us at [[feedback]]@evilhat.com with an image of your receipt and we'll sen
 
 **Learn more about our PDF Guarantee policy** at www.evilhat.com/home/pdf-guarantee
 
-<img src="./TomeIMGs/media/image171.png" style="width:6in;height:8.21031in" />
+![[image171.png]]

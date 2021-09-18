@@ -8,7 +8,7 @@ Elvis Has Left the Building
 
 # Concept
 
-<img src="./TomeIMGs/media/image114.png" style="width:5.99667in;height:2.70667in" />[[The hunters]] investigate several bizarre appearances of the famously deceased Elvis Presley socializing with also-deceased ex-President Richard Nixon in their local community.
+![[image114.png]][[The hunters]] investigate several bizarre appearances of the famously deceased Elvis Presley socializing with also-deceased ex-President Richard Nixon in their local community.
 
 Almost everyone regards this case as a joke: typical of the silly tabloid ghost hunting stories that the *In Search of the Supernatural* television series is famous for producing. However, it offers [[the hunters]] the possibility of some quick money for very little work.
 
@@ -28,7 +28,7 @@ Potential leads:
 
 -   The popular cable television tabloid series *In Search of the Supernatural* asks [[the hunters]] for their “expert consultants’ opinion” on the case.
 
--   <img src="./TomeIMGs/media/image115.png" style="width:5.99667in;height:2.70667in" />A Flake (or other conspiracy theorist hunter) hears about the phenomenon.
+-   ![[image115.png]]A Flake (or other conspiracy theorist hunter) hears about the phenomenon.
 
 -   [[The hunters]] happen to be at the bar when the tulpas first appear.
 
@@ -144,7 +144,7 @@ Low-rent local offices near the John Wayne Airport, Loch Ness Productions corpor
 
 *Bystander: Busybody (motivation: to interfere in others’ plans)*
 
-<img src="./TomeIMGs/media/image116.jpg" style="width:6in;height:5.6in" />A bizarre but merry mixture of John Milius, P.T. Barnum, and William
+![[image116.jpg]]A bizarre but merry mixture of John Milius, P.T. Barnum, and William
 
 Shatner. The over 400 pounds and bald Slyvas likes to receive first-time visitors in a Confederate General’s full-dress uniform (Slyvas is an active Civil War re-enactor) and ask for their opinions about the war between the States. Hunters who play along will likely pass his test as ‘good eggs’ and their requests will be granted; hunters who do not will be teased and pranked mercilessly in the future.
 

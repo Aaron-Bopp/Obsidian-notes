@@ -1,5 +1,5 @@
 # The Searcher
-<img src="./TomeIMGs/media/image46.png" style="width:5.99833in;height:8.51813in" />
+![[image46.png]]
 
 **Look, pick one from each list:**
 
@@ -11,61 +11,57 @@
 
 **Ratings, pick one line:**
 
-b Charm=0, Cool+1, Sharp+1, Tough–1, Weird+2 b Charm+1, Cool–1, Sharp+1, Tough=0, Weird+2 b Charm=0, Cool–1, Sharp+2, Tough=0, Weird+2 b Charm=0, Cool+1, Sharp+2, Tough–1, Weird+1 b Charm+1, Cool=0, Sharp+2, Tough–1, Weird+1
+- Charm=0, Cool+1, Sharp+1, Tough–1, Weird+2 b Charm+1, Cool–1, Sharp+1, Tough=0, Weird+2 b Charm=0, Cool–1, Sharp+2, Tough=0, Weird+2 b Charm=0, Cool+1, Sharp+2, Tough–1, Weird+1 b Charm+1, Cool=0, Sharp+2, Tough–1, Weird+1
 
 ## Moves
 
 You get all of the basic [[moves]], plus three Searcher [[moves]]. You get this one:
 
-B **First Encounter**: One strange event started you down this path, sparking your need to discover the truth behind the unexplained. Decide what that event was: pick a category below and take the associated move. Then tell everyone what happened to you (or someone close to you). Then pick a category below and take the associated move: b **Cryptid Sighting**: You take note of any reports of strange creatures. Whenever you first see a new type of creature, you may immediately ask one of the **investigate a mystery** questions. b **Zone of Strangeness**: Things are not fixed. You never need **act under pressure** when supernatural forces alter the environment around you, and you get 2-[[armour]] against [[harm]] from sudden changes to the laws of physics.
+- **First Encounter**: One strange event started you down this path, sparking your need to discover the truth behind the unexplained. Decide what that event was: pick a category below and take the associated move. Then tell everyone what happened to you (or someone close to you). Then pick a category below and take the associated move: b **Cryptid Sighting**: You take note of any reports of strange creatures. Whenever you first see a new type of creature, you may immediately ask one of the **investigate a mystery** questions. b **Zone of Strangeness**: Things are not fixed. You never need **act under pressure** when supernatural forces alter the environment around you, and you get 2-[[armour]] against [[harm]] from sudden changes to the laws of physics.
 
-b **Psychic Event**: Your mind is awakened. You may **act under pressure** to use the **sensitive** weird move, or—if **sensitive** is your weird move—**empath**. See page 21. b **Higher power**: Something looks out for you. You start with an extra Luck.
+- **Psychic Event**: Your mind is awakened. You may **act under pressure** to use the **sensitive** weird move, or—if **sensitive** is your weird move—**empath**. See page 21. b **Higher power**: Something looks out for you. You start with an extra Luck.
 
-b **Strange Dangers**: You are always watching for hazards. When you have no [[armour]], you still count as having 1-[[armour]].
+- **Strange Dangers**: You are always watching for hazards. When you have no [[armour]], you still count as having 1-[[armour]].
 
-b **Abduction**: They taught you hidden knowledge. Gain +1 to any move when you research strange or ancient secrets to do it.
+- **Abduction**: They taught you hidden knowledge. Gain +1 to any move when you research strange or ancient secrets to do it.
 
-b **Cosmic Insight**: You have encompassed the soul of the universe. You never need to **act under pressure** due to feelings of fear, despair, or isolation.
+- **Cosmic Insight**: You have encompassed the soul of the universe. You never need to **act under pressure** due to feelings of fear, despair, or isolation.
 
 Then pick two of these:
 
-b **Prepared to Defend**: Even truth seekers need to fight some times. Whenever you suffer [[harm]] when you **kick some ass** or **protect someone**, you suffer 1-[[harm]] less. b **Fellow Believer**: People understand you’ve also known strangeness. [[Bystanders]] will talk to you about weird things they would not trust another hunter (or a mundane official) to believe. b **Guardian**: You have a mystical ally (perhaps a spirit, alien, or cryptid) who helps and defends you. Define them, and their powers, with [[the Keeper]]’s agreement. Their look is one of: invisible, an intangible spirit thing, a weird creature, disguised as an animal, or disguised as a person.
+- **Prepared to Defend**: Even truth seekers need to fight some times. Whenever you suffer [[harm]] when you **kick some ass** or **protect someone**, you suffer 1-[[harm]] less. b **Fellow Believer**: People understand you’ve also known strangeness. [[Bystanders]] will talk to you about weird things they would not trust another hunter (or a mundane official) to believe. b **Guardian**: You have a mystical ally (perhaps a spirit, alien, or cryptid) who helps and defends you. Define them, and their powers, with [[the Keeper]]’s agreement. Their look is one of: invisible, an intangible spirit thing, a weird creature, disguised as an animal, or disguised as a person.
 
-b **Just Another Day**: When you have to **act under pressure** due to a monster, phenomenon, or mystical effect, you may roll +Weird instead of +Cool. b **Network**: You may gain an ally group of others who had experiences similar to your first encounter—perhaps they’re a support group or hobbyist club. Detail up to five members with useful skills related to what happened to them (none are up for fighting [[monsters]]).
+- **Just Another Day**: When you have to **act under pressure** due to a monster, phenomenon, or mystical effect, you may roll +Weird instead of +Cool. b **Network**: You may gain an ally group of others who had experiences similar to your first encounter—perhaps they’re a support group or hobbyist club. Detail up to five members with useful skills related to what happened to them (none are up for fighting [[monsters]]).
 
-b **Ockham’s Broadsword**: When you first encounter something strange, you may ask [[the Keeper]] what sort of thing it is. They will tell you if it (or the cause) is: natural, an unnatural creature, a weird phenomenon, or a person. You gain +1 [[forward]] dealing with it.
+- **Ockham’s Broadsword**: When you first encounter something strange, you may ask [[the Keeper]] what sort of thing it is. They will tell you if it (or the cause) is: natural, an unnatural creature, a weird phenomenon, or a person. You gain +1 [[forward]] dealing with it.
 
-b **The Things I’ve Seen**: When you encounter a creature or phenomenon, you may declare that you have seen it before. [[The Keeper]] may ask you some questions about that encounter, and will then tell you one useful fact you learned and one danger you need to watch out for (maybe right now).
+- **The Things I’ve Seen**: When you encounter a creature or phenomenon, you may declare that you have seen it before. [[The Keeper]] may ask you some questions about that encounter, and will then tell you one useful fact you learned and one danger you need to watch out for (maybe right now).
 
 ## Gear
 
 You get a laptop, a car or motorcycle, a camera, binoculars, two sets of investigation tools, and one self-defence weapon. **Investigation tools, pick two:**
 
-b A bag of cameras & b Historical documents microphones. and witness reports
+- A bag of cameras & b Historical documents microphones. and witness reports
 
-b Forensic tools. of strange events.
+- Forensic tools. of strange events.
 
-b Ghost hunting tools. b Maps, blueprints, and b Scientific measuring tools. building reports for b Cryptid hunting [[gear]]. significant places.
+- Ghost hunting tools. b Maps, blueprints, and b Scientific measuring tools. building reports for b Cryptid hunting [[gear]]. significant places.
 
 **Self-defence [[weapons]], pick one:**
 
-b Walking stick (1-[[harm]] hand innocuous).
+- Walking stick (1-[[harm]] hand innocuous).
 
-b Small handgun (2-[[harm]] close reload loud).
+- Small handgun (2-[[harm]] close reload loud).
 
-b Small knife (1-[[harm]] hand messy).
+- Small knife (1-[[harm]] hand messy).
 
 ## Introductions
 
-b Martial arts training
+- Martial arts training (1-[[harm]] hand innocuous).
 
-(1-[[harm]] hand innocuous).
+- Incapacitating spray  (0-[[harm]] hand irritating).
 
-b Incapacitating spray
-
-(0-[[harm]] hand irritating).
-
-b Heavy flashlight (1-[[harm]] hand innocuous).
+- Heavy flashlight (1-[[harm]] hand innocuous).
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
@@ -118,20 +114,19 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list.
 
-## <img src="./TomeIMGs/media/image7.jpg" style="height:9in" />Improvements
-
+## Improvements
 <table><colgroup><col style="width: 56%" /><col style="width: 43%" /></colgroup><thead><tr class="header"><th><p>b Get +1 Sharp, max +3 b Get +1 Weird, max +3 b Get +1 Charm, max +2 b Get +1 Cool, max +2 b Take another</p><p>Searcher move b Take another</p><blockquote><p>Searcher move</p></blockquote></th><th><p>b Gain an ally.</p><p>b Take a second <strong>first encounter</strong> move, based on a recent mystery. b Take a move from another playbook</p><p>b Take a move from another playbook.</p></th></tr></thead><tbody></tbody></table>
 
 After you have leveled up five times, you qualify for [[advanced improvements]] in addition to these. They’re below.
 
 ## Advanced Improvements
 
-b Get +1 to any b Mark two of the basic rating, max +3. [[moves]] as advanced.
+- Get +1 to any b Mark two of the basic rating, max +3. [[moves]] as advanced.
 
-b Change this hunter b Mark another two of the to a new type. basic [[moves]] as advanced.
+- Change this hunter b Mark another two of the to a new type. basic [[moves]] as advanced.
 
-b Create a second hunter to b Erase a used Luck mark play as well as this one. from your playbook.
+- Create a second hunter to b Erase a used Luck mark play as well as this one. from your playbook.
 
-b Retire this hunter to safety. b Erase a used Luck mark from your playbook.
+- Retire this hunter to safety. b Erase a used Luck mark from your playbook.
 
-b Resolve your first encounter. [[The Keeper]] makes the next mystery about this event, and should try to answer all remaining questions about it during the mystery (although there are sure to be new threads to investigate after...)
+- Resolve your first encounter. [[The Keeper]] makes the next mystery about this event, and should try to answer all remaining questions about it during the mystery (although there are sure to be new threads to investigate after...)

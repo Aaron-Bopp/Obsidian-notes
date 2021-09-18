@@ -14,7 +14,7 @@ To make your Pararomantic, first pick a name. Then follow the instructions below
 
 **Ratings, pick one line:**
 
-<img src="./TomeIMGs/media/image43.jpg" style="width:5.84667in;height:4.40667in" />
+![[image43.jpg]]
 
 b Charm+2, Cool+1, Sharp=0, Tough–1, Weird+1 b Charm+2, Cool–1, Sharp+1, Tough+1, Weird=0 b Charm+2, Cool+2, Sharp=0, Tough=0, Weird–1 b Charm+2, Cool+1, Sharp+1, Tough–1, Weird=0 b Charm+2, Cool=0, Sharp+2, Tough–1, Weird=0
 
@@ -161,4 +161,4 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 
 After you have leveled up five times, you qualify for [[advanced improvements]] in addition to these. They’re on the next page.
 
-<img src="./TomeIMGs/media/image44.png" style="width:4.90167in;height:8.54917in" />
+![[image44.png]]

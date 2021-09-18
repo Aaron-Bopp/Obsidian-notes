@@ -222,7 +222,7 @@
 
 [[MOTWHierarchy]]:
 
-[[MOTWToC]]:
+[[MOTWWholeBook]]:
 
 [[Making Your Hunter]]:
 

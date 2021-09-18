@@ -52,7 +52,7 @@ They cannot cross salt barriers or running water.
 
 **Powers:**
 
-<img src="./TomeIMGs/media/image136.jpg" style="width:6in;height:3.7075in" />• **Infection**: Any humans they kill will arise as a zombie under the necromancer’s control, unless stuffed with salt, burned, or decapitated.
+![[image136.jpg]]• **Infection**: Any humans they kill will arise as a zombie under the necromancer’s control, unless stuffed with salt, burned, or decapitated.
 
 **Weakness:**
 
@@ -72,7 +72,7 @@ An able, middle-aged reporter stuck writing obituaries in the dying local newspa
 
 An agnostic, Carla will always discount any evidence of the supernatural, as “that is what sank my old man’s career.”
 
-# <img src="./TomeIMGs/media/image138.png" style="width:5.99667in;height:3.37in" />“Big” Bob Carter, Police Officer
+# ![[image138.png]]“Big” Bob Carter, Police Officer
 
 *Bystander: Official (motivation: to be suspicious)*
 

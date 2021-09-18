@@ -3,7 +3,7 @@
 
 To make your Hex, first pick a name. Then follow the instructions below to decide your look, ratings, [[moves]], Temptation, and [[gear]]. Finally, introduce yourself and pick [[history]].
 
-<img src="./TomeIMGs/media/image40.png" style="width:5.99889in;height:8.51813in" />
+![[image40.png]]
 
 **Look, pick one from each list:**
 
@@ -25,7 +25,7 @@ Whenever you **use magic**, you can decide afterwards that a particular spell is
 
 -   An object of power (wand, talisman, orb, staff, etc) which must be wielded.
 
--   <img src="./TomeIMGs/media/image42.jpg" style="height:7.28055in" />An expendable component such as sulfur, sage, or incense, which must be burned, blown, or scattered during the casting.
+-   ![[image42.jpg]]An expendable component such as sulfur, sage, or incense, which must be burned, blown, or scattered during the casting.
 
 -   Runes or symbols written or engraved on a surface (which must be prepared).
 
@@ -135,7 +135,7 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 
 ## Improvements
 
-b Get +1 Weird, max +3. b Take another Rote. b Get +1 Cool, max +2. b Take another Rote. b Get +1 Charm, max +2. b Take another Rote. b Get +1 Sharp, max +2. b Take another Hex move, or an additional Rote. b Take another Hex move, or an additional Rote. b Take a Haven, like [[the Expert]] has, with two options. b Take a move from another playbook.
+b Get +1 Weird, max +3. b Take another Rote. b Get +1 Cool, max +2. b Take another Rote. b Get +1 Charm, max +2. b Take another Rote. b Get +1 Sharp, max +2. b Take another Hex move, or an additional Rote. b Take another Hex move, or an additional Rote. b Take a Haven, like [[The Expert]] has, with two options. b Take a move from another playbook.
 
 After you have leveled up five times, you qualify for [[advanced improvements]] in addition to these. They’re below.
 

@@ -10,7 +10,7 @@ Spell Books
 
 —Sidney Sheldon, *Are You Afraid of the Dark?*
 
-<img src="./TomeIMGs/media/image66.png" style="width:5.81667in;height:3.94333in" />Magic in *Monster of the Week* can generate concern around the question of ‘everyday magic.’ Since the game is squarely based on classic monster hunting television shows like *Buffy* and *Supernatural*, players quickly understand that ritual magic allows for special events or adventures, like Buffy’s [[resurrection]] or Sam and Dean Winchester traveling back in time.
+![[image66.png]]Magic in *Monster of the Week* can generate concern around the question of ‘everyday magic.’ Since the game is squarely based on classic monster hunting television shows like *Buffy* and *Supernatural*, players quickly understand that ritual magic allows for special events or adventures, like Buffy’s [[resurrection]] or Sam and Dean Winchester traveling back in time.
 
 The new weirdness rules can help in games based on low magic or purely science fiction monster hunting shows like *The X-Files* or *Fringe*. That still leaves a question about running the vanilla magic rules in a game inspired by urban fantasy where magic is rare. One way the group can make magic more formalised is to limit it to a smaller number of defined spells. New spells must be found, researched, or invented rather than simply improvised in play (as with the normal **use magic** move).
 
@@ -24,7 +24,7 @@ Apply the **use magic** rules as a starting point, picking specific effects, gli
 
 You may add new requirements and glitches if you want, using the existing ones as guidelines.
 
-For example, Gerard [[the Spooky]] wants a spell that turns him momentarily insubstantial to protect him from monster attacks. This is clearly ‘beyond human limitations’ and similar to a ‘heal’ effect, which makes it a bit more powerful than a regular spell. Gerard’s player and [[the Keeper]] agree that the spell needs a rare ingredient—a special mystic herb that Gerard must swallow—and certain arcane gestures. In the case of a glitch, it will have reduced effect (only half the [[harm]] is avoided) and attract unwanted attention (from other things that live in the insubstantial dimension Gerard is visiting). To cast this spell, roll the **use magic** move as usual, but the effect, requirements, and glitches are always the pre-agreed ones that go with the spell formula.
+For example, Gerard [[The Spooky]] wants a spell that turns him momentarily insubstantial to protect him from monster attacks. This is clearly ‘beyond human limitations’ and similar to a ‘heal’ effect, which makes it a bit more powerful than a regular spell. Gerard’s player and [[the Keeper]] agree that the spell needs a rare ingredient—a special mystic herb that Gerard must swallow—and certain arcane gestures. In the case of a glitch, it will have reduced effect (only half the [[harm]] is avoided) and attract unwanted attention (from other things that live in the insubstantial dimension Gerard is visiting). To cast this spell, roll the **use magic** move as usual, but the effect, requirements, and glitches are always the pre-agreed ones that go with the spell formula.
 
 # Spell Books
 
@@ -42,7 +42,7 @@ An exceedingly rare and powerful arcane grimoire, the *Christian*
 
 *Book of the Dead* is a collection of translated medieval magical rituals centered on the ‘heretical’ practice of Christian necromancy by a strange medieval Gnostic sect based in southern England. They worshipped the ‘Black Death’ and were brutally eliminated by the Inquisition. The original text is in the Church Latin of the late 13th century by a William of Baskerville but an abridged modern translation was produced in the 1920s by the writer Professor M.R. James for Red Dragon Press.
 
-<img src="./TomeIMGs/media/image67.jpg" style="width:6in;height:2.91332in" />The book describes various magic spells that allow one to conjure spirits of the dead and speak with them. In addition, it contains a spell to reanimate those who died by violence: these individuals become zombies under the control of the necromancer.
+![[image67.jpg]]The book describes various magic spells that allow one to conjure spirits of the dead and speak with them. In addition, it contains a spell to reanimate those who died by violence: these individuals become zombies under the control of the necromancer.
 
 All the spells involve sacrificial blood, medieval prayers in Latin, and the use of a complicated magic circle of salt to protect the necromancer if the spell fails. The spells also involve the caster focusing their will and then speaking the ‘true name’ of both the dead person and the Angel of Death.
 
@@ -68,7 +68,7 @@ When the fingers of the Hand close around this candle (see above) and the candle
 
 -   The candle flares up blue in the presence of secret doors, buried treasure, etc. and its light reveals any invisible creature or item.
 
-<img src="./TomeIMGs/media/image69.jpg" style="width:5.81875in;height:4.0364in" />
+![[image69.jpg]]
 
 # Example Spells
 

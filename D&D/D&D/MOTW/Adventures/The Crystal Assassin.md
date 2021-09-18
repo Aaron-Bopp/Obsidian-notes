@@ -50,7 +50,7 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 **Weakness:** Adessi is a normal human being. The trick is getting past her protections and summons.
 
-<img src="./TomeIMGs/media/image99.png" style="width:6in;height:8.51209in" />
+![[image99.png]]
 
 **Powers:**
 
@@ -96,7 +96,7 @@ When a crystal queen appears, the mantids are able to spawn easily.
 
 The queen is able to speak: she presents the appearance of rationality, but she only cares about spreading the mantid swarm and overrunning the world.
 
-<img src="./TomeIMGs/media/image101.png" style="width:5.99667in;height:4.48667in" />When four mantids are present, they will summon a queen which appears as a simple block of crystal capable of extending spines from its side to serve as limbs.
+![[image101.png]]When four mantids are present, they will summon a queen which appears as a simple block of crystal capable of extending spines from its side to serve as limbs.
 
 If you prefer, here are two alternate methods (you might come up with your own too):
 
@@ -142,7 +142,7 @@ If you prefer, here are two alternate methods (you might come up with your own t
 
 Evans is the occultist who originally taught Adessi. She has deep knowledge but middling powers. She appears to be about 70 but is actually over 150.
 
-<img src="./TomeIMGs/media/image102.jpg" style="width:6in;height:3.65399in" />In the mystic community, she is known as a crafter of sanctums, hidden places, vaults, and the like. She has also mentored a fair number of psychics.
+![[image102.jpg]]In the mystic community, she is known as a crafter of sanctums, hidden places, vaults, and the like. She has also mentored a fair number of psychics.
 
 Evans is unaware that Adessi has been using her powers for murderous ends. However, Evas periodically performs divinations to check up on her old students. Until recently, Adessi’s use of summoned creatures has kept Serenity from noticing anything—but as the assassin begins to get a greater thrill out of her murders these divinations have been growing darker. Serenity assumes Adessi is in trouble and needs help. Since she has found it difficult to reach her old student, she might ask [[the hunters]] to investigate. She may or may not know of Adessi’s mother, but certainly never met the woman. Note that Adessi’s ‘Cursed Hall’ is based on perversions of spells taught by Serenity.
 

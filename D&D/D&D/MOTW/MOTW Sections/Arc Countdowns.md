@@ -9,7 +9,7 @@ Aim for each step of [[the countdown]] to have the potential to be a whole myste
 
 - **Day:** *Nina consolidates her [[hold]] over New Hampstead and creates a bunch of new werewolves.*
 - **Shadows:** *The pack begins sending out spies to find [[the hunters]] and assassins to kill [[the hunters]]’ loved ones and support network.*
-- **Dusk:** *George decides to target [[the Wronged]], by hunting down her family (aiming to turn them into werewolves, rather than “just” kill them).*
+- **Dusk:** *George decides to target [[The Wronged]], by hunting down her family (aiming to turn them into werewolves, rather than “just” kill them).*
 - **Sunset:** *The pack makes a concerted assault on [[the hunters]] and takes them out.*
 - **Nightfall:** *The pack kills any other monster hunters who are active in the region, and begins turning people in positions of authority.*
 - **Midnight:** *Nina rules the whole region through the pack.*

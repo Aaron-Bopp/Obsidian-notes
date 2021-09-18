@@ -176,7 +176,7 @@ Go around the group again. On your turn, pick one of these for each other hunter
 
 - Just friends, from school or work or something. Ask them what.
 
-- They could have been [[the Chosen]] One instead of you, but they failed some trial. Tell them how they failed.
+- They could have been [[The Chosen]] One instead of you, but they failed some trial. Tell them how they failed.
 
 - You saved their life, back when they didn’t know [[monsters]] were real. Tell them what you saved them from.
 
@@ -764,7 +764,7 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 
 ## Improvements
 
-- Get +1 Sharp, max +3 - Get +1 Charm, max +2 - Get +1 Cool, max +2 - Get +1 Weird, max +2 - Take another Flake move - Take another Flake move - Get a haven, like [[the Expert]] has, with two options - Gain another option for your haven - Take a move from another playbook - Take a move from another playbook
+- Get +1 Sharp, max +3 - Get +1 Charm, max +2 - Get +1 Cool, max +2 - Get +1 Weird, max +2 - Take another Flake move - Take another Flake move - Get a haven, like [[The Expert]] has, with two options - Gain another option for your haven - Take a move from another playbook - Take a move from another playbook
 
 After you have leveled up _five_ times, you qualify for [[advanced improvements]] in addition to these. They’re below.
 
@@ -1068,7 +1068,7 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 
 ## Improvements
 
-- Get +1 Charm, max +2 - Get +1 Cool, max +2 - Get +1 Sharp, max +2 - Get +1 Tough, max +2 - Take another Monstrous move - Take another Monstrous move - Gain a haven, like [[the Expert]] has, with two options - Take a natural attacks pick - Take a move from another playbook - Take a move from another playbook
+- Get +1 Charm, max +2 - Get +1 Cool, max +2 - Get +1 Sharp, max +2 - Get +1 Tough, max +2 - Take another Monstrous move - Take another Monstrous move - Gain a haven, like [[The Expert]] has, with two options - Take a natural attacks pick - Take a move from another playbook - Take a move from another playbook
 
 After you have leveled up _five_ times, you qualify for [[advanced improvements]] in addition to these. They’re below.
 
@@ -1684,7 +1684,7 @@ Go around the group again. On your turn, pick one of these for each hunter:
 
 ![](file:///C:/Users/aweso/AppData/Local/Packages/oice_16_974fa576_32c1d314_bec/AC/Temp/msohtmlclip1/01/clip_image034.jpg)
 
-Get +1 Weird, max +3 - Get +1 Charm, max +2 - Get +1 Cool, max +2 - Get +1 Sharp, max +2 - Take another Spooky move - Take another Spooky move - Change some, or all, your dark side tags - Get a mystical library, like [[the Expert]]’s haven option - Take a move from another playbook - Take a move from another playbook
+Get +1 Weird, max +3 - Get +1 Charm, max +2 - Get +1 Cool, max +2 - Get +1 Sharp, max +2 - Take another Spooky move - Take another Spooky move - Change some, or all, your dark side tags - Get a mystical library, like [[The Expert]]’s haven option - Take a move from another playbook - Take a move from another playbook
 
 After you have leveled up _five_ times, you qualify for [[advanced improvements]] in addition to these. They’re below.
 
@@ -1828,7 +1828,7 @@ Go around the group again. When it’s your turn, pick one for each of the other
 
 - ![](file:///C:/Users/aweso/AppData/Local/Packages/oice_16_974fa576_32c1d314_bec/AC/Temp/msohtmlclip1/01/clip_image036.gif)They saw you absolutely lose it and go berserk. Tell them what the situation was, and ask them how much col-
 
-Get +1 Tough, max +3 - Get +1 Cool, max +2 - Get +1 Sharp, max +2 - Get +1 Weird, max +2 - Take another Wronged move - Take another Wronged move - Gain a haven, like [[the Expert]] has, with two options - Add one more option to your haven - Take a move from another playbook - Take a move from another playbook
+Get +1 Tough, max +3 - Get +1 Cool, max +2 - Get +1 Sharp, max +2 - Get +1 Weird, max +2 - Take another Wronged move - Take another Wronged move - Gain a haven, like [[The Expert]] has, with two options - Add one more option to your haven - Take a move from another playbook - Take a move from another playbook
 
 After you have leveled up _five_ times, you qualify for [[advanced improvements]] in addition to these. They’re below.
 

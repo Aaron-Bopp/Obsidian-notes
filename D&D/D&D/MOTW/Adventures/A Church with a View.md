@@ -58,7 +58,7 @@ When the monster manifests as one of the figures from a stained glass window, th
 
 Following the Stained Glass Ghost through the tear in reality, these poltergeists will manifest in vaguely humanoid forms. **Powers:**
 
-<img src="./TomeIMGs/media/image94.jpg" style="width:5.99667in;height:4.33in" />• **Coalesce**: The Poltergeists can gather together into a more powerful form. This doubles their [[harm]] capacity and the [[harm]] they inflict.
+![[image94.jpg]]• **Coalesce**: The Poltergeists can gather together into a more powerful form. This doubles their [[harm]] capacity and the [[harm]] they inflict.
 
 **Attacks:** **Throw anything not bolted down** 2-[[harm]] far.
 

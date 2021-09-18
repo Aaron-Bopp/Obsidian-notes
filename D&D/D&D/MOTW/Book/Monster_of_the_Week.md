@@ -54,7 +54,7 @@ I’ve always loved the urban fantasy genre, and I’ve been particularly happy 
 
 But when I finally did find *Monster of the Week*, man, did it bite me hard: a system driven by Apocalypse Engine sexiness, a genre I go ape for, and smart choices made at every turn in the text and design. The game had it all. I was particularly taken by its clarity: this is a game that’s easy to read, learn, and put into practice.
 
-As is my way, I threw a lot of enthusiasm at the game. I started a (still-[[ongoing]]) campaign inspired in part by Harry Connolly’s *Twenty Palaces* series, and I wrote up a new playbook based on a particular wizard of my acquaintance (you’ll find it in this book as [[the Spell-Slinger]]).
+As is my way, I threw a lot of enthusiasm at the game. I started a (still-[[ongoing]]) campaign inspired in part by Harry Connolly’s *Twenty Palaces* series, and I wrote up a new playbook based on a particular wizard of my acquaintance (you’ll find it in this book as [[The Spell-Slinger]]).
 
 I also looked into how this game was getting out into the world, because, man, it deserves to go far. Turns out, it wasn’t getting out into the world in all the ways it could—it wasn’t in retail distribution, and physical copies largely only happened via print on demand.
 
@@ -179,8 +179,8 @@ The [[hunter types]] are:
 - **The Monstrous**: a monster fighting for the good guys. [[The Monstrous]] is very weird, and can have a variety of different powers based on what monster breed they are. E.g. Angel from *Buffy the Vampire Slayer* and *Angel*; Bill Compton from *True Blood* ([[0000189800]]).
 - **The Mundane**: just a normal regular person, especially good at dealing with regular people you meet and have to save, and at getting captured by [[monsters]] (which can be more useful than you might expect). E.g. Xander or Cordelia from *Buffy the Vampire Slayer*. See [[The Mundane]].
 - **The Professional**: you work for an agency that hunts [[monsters]]. [[The Professional]] is good in a fight, and a good team player. E.g. Riley and the Initiative from *Buffy the Vampire Slayer*; Olivia Dunham from *Fringe*. See [[The Professional]].
-- **The Spell-slinger**: a trained wizard, wielding powerful magic in their crusade against evil. [[The Spell-slinger]]’s arcane training gives them an advantage when dealing with eldritch secrets. E.g. Harry Dresden from *The Dresden Files*; Willow from *Buffy the Vampire Slayer*, in the later seasons. See [[The Spell-Slinger]].
-- **The Spooky**: has psychic or magical powers. These powers are strange and sinister ... and not completely under [[the Spooky]]’s control. E.g. Sam Winchester from *Supernatural*; Willow from earlier seasons of *Buffy the Vampire Slayer*. See [[The Spooky]].
+- **The Spell-slinger**: a trained wizard, wielding powerful magic in their crusade against evil. [[The Spell-Slinger]]’s arcane training gives them an advantage when dealing with eldritch secrets. E.g. Harry Dresden from *The Dresden Files*; Willow from *Buffy the Vampire Slayer*, in the later seasons. See [[The Spell-Slinger]].
+- **The Spooky**: has psychic or magical powers. These powers are strange and sinister ... and not completely under [[The Spooky]]’s control. E.g. Sam Winchester from *Supernatural*; Willow from earlier seasons of *Buffy the Vampire Slayer*. See [[The Spooky]].
 - **The Wronged**: revenge-driven, and really tough. [[The Wronged]] is all about killing a specific breed of monster and protecting others as you do it. E.g. Dean and John Winchester from *Supernatural*. See [[0000295092]].
 
 Extra [[hunter types]]
@@ -232,7 +232,7 @@ Decide as a group if any changes are needed, and what they will be. You can work
 Your concept might require:
 
 - Equipment that isn’t in your playbook options. For example: your team concept has [[the hunters]] always on the move, but none of your playbooks include transport in the [[gear]] section. You can decide the team has a van to travel in.
-- Something that can be written up as a custom move ([[0000915624]]). For example: the team concept is that you are all members of a secret organisation, so everyone starts with a version of [[the Professional]]’s **deal with the Agency** move ([[0000236873]]).
+- Something that can be written up as a custom move ([[0000915624]]). For example: the team concept is that you are all members of a secret organisation, so everyone starts with a version of [[The Professional]]’s **deal with the Agency** move ([[0000236873]]).
 - New options when you level up ([[Leveling Up]]). For example: the team concept has a special mystical artifact for each hunter, but these artifacts’ powers are not initially available. Each hunter may choose to unlock one of their artifact’s powers when they level up.
 
 [[Example Team Concepts]]
@@ -243,7 +243,7 @@ Slayer and Entourage
 
 There’s a chosen one, and their support group. Hopefully, together you’ll be able to save the world.
 
-The team has a Chosen, who is at the centre of things. An Expert, Initiate, or Spell-slinger would make a good mentor. A Mundane or Flake could be a friend of [[the Chosen]]. A Divine, Monstrous, or Spooky gives the team some magical powers to draw on.
+The team has a Chosen, who is at the centre of things. An Expert, Initiate, or Spell-slinger would make a good mentor. A Mundane or Flake could be a friend of [[The Chosen]]. A Divine, Monstrous, or Spooky gives the team some magical powers to draw on.
 
 [[The Unexplained Cases Team]]
 
@@ -251,13 +251,13 @@ The Agency needs a team to handle all the weird stuff regular agents don’t und
 
 This team concept requires a Professional. A Flake, Mundane, Expert, Spooky, and Wronged would all be good choices to fill out the team’s skill profile, while a Crooked might have some useful contacts.
 
-[[The Professional]]’s Agency will employ the whole team. As a customisation, allow any of [[the hunters]] to take [[the Professional]]’s **deal with the Agency** move as a [[leveling up]] option ([[0000251869]]). Until then, they’re just consultants, contractors, or temps.
+[[The Professional]]’s Agency will employ the whole team. As a customisation, allow any of [[the hunters]] to take [[The Professional]]’s **deal with the Agency** move as a [[leveling up]] option ([[0000251869]]). Until then, they’re just consultants, contractors, or temps.
 
 [[The Order]]
 
 You are all members of an ancient order of monster slayers.
 
-You’ll need an Initiate. Everyone else makes up the tea[[The Initiate]] commands: [[the Spooky]], Expert, Mundane, Flake, Crooked, or Chosen all work well here.
+You’ll need an Initiate. Everyone else makes up the tea[[The Initiate]] commands: [[The Spooky]], Expert, Mundane, Flake, Crooked, or Chosen all work well here.
 
 Everyone is a member of [[the Order]], but initially onl[[The Initiate]] will have to deal with your superiors. As a customisation, anyone can tak[[The Initiate]] move for **when you are in good standing with the Sect** as a [[leveling up]] option ([[0000171217]]). Anyone may also substitute one o[[The Initiate]]’s old-fashioned [[weapons]] ([[0000179244]]) for a regular weapon choice.
 
@@ -265,7 +265,7 @@ Road-tripping Hunter Family
 
 Your family’s trade is hunting [[monsters]]. The nomadic life, drifting into town just long enough to find and slay whatever is causing trouble... well, it suits some of you just fine. Others, not so much.
 
-This team concept suits [[the Wronged]], Spooky, Divine, Expert, Flake, and Chosen best. A Monstrous could fit in too, but not comfortably. All the others except [[the Professional]] could round out the team. If there’s an Initiate, maybe the Sect is comprised of certain bloodlines, so everyone in the family is a member.
+This team concept suits [[The Wronged]], Spooky, Divine, Expert, Flake, and Chosen best. A Monstrous could fit in too, but not comfortably. All the others except [[The Professional]] could round out the team. If there’s an Initiate, maybe the Sect is comprised of certain bloodlines, so everyone in the family is a member.
 
 You are all family, or as good as family.
 
@@ -337,7 +337,7 @@ Next up are the hunter playbooks, which define how to create your hunter and wha
 
 [[The Chosen]]
 
-*Your birth was prophesied. You are [[the Chosen]] One, and with your abilities you can save the world. If you fail, all will be destroyed. It all rests on you. Only you.*
+*Your birth was prophesied. You are [[The Chosen]] One, and with your abilities you can save the world. If you fail, all will be destroyed. It all rests on you. Only you.*
 
 To make your Chosen, first pick a name. Then follow the instructions below to decide your look, ratings, fate, [[moves]], [[gear]], and your special weapon. Finally, introduce yourself and pick [[history]].
 
@@ -473,7 +473,7 @@ Go around the group again. On your turn, pick one of these for each other hunter
 - A rival at first, but you came to a working arrangement.
 - Romantic entanglement, or fated to be romantically entangled.
 - Just friends, from school or work or something. Ask them what.
-- They could have been [[the Chosen]] One instead of you, but they failed some trial. Tell them how they failed.
+- They could have been [[The Chosen]] One instead of you, but they failed some trial. Tell them how they failed.
 - You saved their life, back when they didn’t know [[monsters]] were real. Tell them what you saved them from.
 
 **LUCK**
@@ -1058,7 +1058,7 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 - Get +1 Weird, max +2
 - Take another Flake move
 - Take another Flake move
-- Get a haven, like [[the Expert]] has, with two options
+- Get a haven, like [[The Expert]] has, with two options
 - Gain another option for your haven
 - Take a move from another playbook
 - Take a move from another playbook
@@ -1217,7 +1217,7 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 - Get +1 Tough, max +2
 - Take another Monstrous move
 - Take another Monstrous move
-- Gain a haven, like [[the Expert]] has, with two options
+- Gain a haven, like [[The Expert]] has, with two options
 - Take a natural attacks pick
 - Take a move from another playbook
 - Take a move from another playbook
@@ -1831,7 +1831,7 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 - Take another Spooky move
 - Take another Spooky move
 - Change some, or all, your dark side tags
-- Get a mystical library, like [[the Expert]]’s haven option
+- Get a mystical library, like [[The Expert]]’s haven option
 - Take a move from another playbook
 - Take a move from another playbook
 
@@ -1994,7 +1994,7 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 - Get +1 Weird, max +2
 - Take another Wronged move
 - Take another Wronged move
-- Gain a haven, like [[the Expert]] has, with two options
+- Gain a haven, like [[The Expert]] has, with two options
 - Add one more option to your haven
 - Take a move from another playbook
 - Take a move from another playbook
@@ -2497,7 +2497,7 @@ Your playbook has a Luck counter that keeps track of how much is left. You only 
 
 When you have marked off all your Luck, [[the Keeper]] is allowed to hit you with more bad stuff. Fate will be looking for some payback.
 
-If your playbook includes fate-related stuff (such as [[the Chosen]]’s fate or [[the Spooky]]’s dark side), [[running out of Luck]] means all that bad stuff is going to start happening.
+If your playbook includes fate-related stuff (such as [[The Chosen]]’s fate or [[The Spooky]]’s dark side), [[running out of Luck]] means all that bad stuff is going to start happening.
 
 [[Gear]]
 
@@ -2658,15 +2658,15 @@ Pick one of the following types (the “motivation” is the guideline for [[the
 
 If the ally/team members don’t have names yet, pick them now. Decide what their background is too, how they look, and any special skills they bring.
 
-**GAIN A HAVEN LIKE [[THE EXPERT]] HAS**
+**GAIN A HAVEN LIKE [[The Expert]] HAS**
 
-You get a haven. When you take this, it will tell you how many options you can pick from the list in [[the Expert]] playbook.
+You get a haven. When you take this, it will tell you how many options you can pick from the list in [[The Expert]] playbook.
 
 Decide how you got the haven, and where it is.
 
 **ADD AN OPTION TO YOUR HAVEN**
 
-Select a new haven option from the list in [[the Expert]] playbook. You have added this facility to your haven.
+Select a new haven option from the list in [[The Expert]] playbook. You have added this facility to your haven.
 
 Don’t bother taking this improvement if you don’t have a haven!
 
@@ -2777,11 +2777,11 @@ For **use magic**, on a 12+ you are infused with magical power. What you wanted 
 
 These are only available to [[the hunters]] of the type listed. They become available after you have leveled up five times, the same as the usual [[advanced improvements]].
 
-**FOR [[THE CHOSEN]]**
+**FOR [[The Chosen]]**
 
 - Delete one doom tag from your fate, and (optionally) change one heroic tag as well.
 
-**FOR [[THE DIVINE]]**
+**FOR [[The Divine]]**
 
 - Change your mission. When you choose this, you accept that your initial mission has failed, that it is impossible, or that things have changed too much to continue. Whatever the reason, decide with [[the Keeper]] what your new mission is. If none of the original choices are right for you, make up something new.
 
@@ -2798,25 +2798,25 @@ This operates similarly to becoming the leader of your chapter. You are now in c
 
 Turning evil takes your hunter out of your control permanently. The character is now a threat, for [[the Keeper]] to use against [[the hunters]]. Given how many of the team’s secrets your hunter knows, this option shouldn’t be chosen lightly!
 
-**FOR [[THE PROFESSIONAL]]**
+**FOR [[The Professional]]**
 
 - You can get some or all of [[the hunters]] hired by your agency (they’ll get the **deal with the agency** move, as well as salary and benefits). 
 
 All [[the hunters]] you pick are now Agency employees. They all get the deal with the Agency move, and everything else that goes along with being an agent.
 
-**FOR [[THE SPELL-SLINGER]]**
+**FOR [[The Spell-Slinger]]**
 
 - You may cross off another option from your Tools and Techniques. This works just like when you first created your Spell-slinger—you are now less restricted in your spell casting.
 
-**FOR [[THE SPOOKY]]**
+**FOR [[The Spooky]]**
 
 - You discover how to use your powers at a lower price. Delete one dark side tag permanently.
 
-**FOR [[THE WRONGED]]**
+**FOR [[The Wronged]]**
 
 - You track down the specific monster(s) responsible for your loss—[[the Keeper]] must make the next mystery about them. 
 
-Note that this doesn’t mean you get to automatically win. You just get a shot at them. Keeper, [[the Wronged]]’s targets should be central to the next mystery but otherwise create the mystery as normal.
+Note that this doesn’t mean you get to automatically win. You just get a shot at them. Keeper, [[The Wronged]]’s targets should be central to the next mystery but otherwise create the mystery as normal.
 
 - Change the target of your vengeful rage. **I know my prey** now applies to these [[monsters]] instead.
 
@@ -3369,7 +3369,7 @@ Oberon has many other powers but those two will be the ones most appropriate for
 **Weaknesses**:
 
 - **Winter**. Note that this weakness is of little use as the mystery takes place a few weeks after midsummer day.
-- **His Word**. If Oberon lies to or goes back on a promise or contract, [[the wronged]] party has power over him, which counts as a weakness. As Oberon is aware of this, he will go to extraordinary lengths to never put himself in this position.
+- **His Word**. If Oberon lies to or goes back on a promise or contract, [[The Wronged]] party has power over him, which counts as a weakness. As Oberon is aware of this, he will go to extraordinary lengths to never put himself in this position.
 
 Oberon's Fortress
 
@@ -3584,7 +3584,7 @@ As everyone gets close to done, go around those who’ve finished, find out what
 
 Once everyone’s ready to introduce themselves, facilitate taking turns to introduce hunters. The most important things each player should describe are their hunter’s name, playbook and looks, though they can add more if they want.
 
-You should ask a few questions of each player to tease out more details that you and the others might need to know, especially about things that will have a big impact on the game (the Chosen’s destiny, [[the Professional]]’s agency, [[the Wronged]]’s loss, etc). This is also a good time to ask what each hunter can do, so that everyone can see how the team works together.
+You should ask a few questions of each player to tease out more details that you and the others might need to know, especially about things that will have a big impact on the game (the Chosen’s destiny, [[The Professional]]’s agency, [[The Wronged]]’s loss, etc). This is also a good time to ask what each hunter can do, so that everyone can see how the team works together.
 
 [[History]]
 
@@ -4932,8 +4932,8 @@ The sort of things that might have come up include:
 - Hunters’ [[history]] choices that indicated a pattern of events or a significant incident.
 - Events during the mystery that hinted at bigger troubles happening somewhere else.
 - Unfinished business from the mystery.
-- Hunter choices that have a wide reach, such as [[the Chosen]]’s fate, [[the Professional]]’s Agency, an[[The Initiate]]’s Sect.
-- Anything that came up in play that suggested something more is going on, or that a secret is waiting to be uncovered. [[Examples]] include the results of [[the Expert]]’s dark past move, or someone saying something interesting about their past (e.g. Keeper: “Have you ever dealt with a snake demon before?” Hunter: “Oh, sure, we got a lot of them back on the farm.”)
+- Hunter choices that have a wide reach, such as [[The Chosen]]’s fate, [[The Professional]]’s Agency, an[[The Initiate]]’s Sect.
+- Anything that came up in play that suggested something more is going on, or that a secret is waiting to be uncovered. [[Examples]] include the results of [[The Expert]]’s dark past move, or someone saying something interesting about their past (e.g. Keeper: “Have you ever dealt with a snake demon before?” Hunter: “Oh, sure, we got a lot of them back on the farm.”)
 
 If something like that came up, make a note.
 
@@ -4994,7 +4994,7 @@ Decide on a starting concept for your arc. Mysteries usually start with a monste
 
 You may get some ideas for [[arcs]] right at the beginning of a new game when [[the hunters]] are created. Perhaps the team concept and backstory of the team suggests something. Some playbooks also have built-in arc seeds, specifically:
 
-- [[The Chosen]]’s fate. Use the details that you work out with the player about what is in store for [[the Chosen]].
+- [[The Chosen]]’s fate. Use the details that you work out with the player about what is in store for [[The Chosen]].
 - [[The Divine]]’s mission may require an arc, depending on the details you worked out with the player.
 [[The Initiate]]’s Sect and Professional’s Agency both deserve an arc. Use the choices the player made to decide what the organisation’s motivations are, and how these will affect [[the hunters]]. The organisation may mean well, but still cause trouble by accident. On the other hand, some organisations might have a sinister purpose for hunting [[monsters]].
 - [[The Wronged]]’s loss: every Wronged should have an arc involving the creature(s) that caused their loss.
@@ -5026,7 +5026,7 @@ Lastly, [[as the game goes on]] you might notice that previously unconnected fac
 
 *Nina Keenan. Monster: Queen (motivation: to possess and control). I’ll omit her werewolf powers and weaknesses here, but they will be the same as when she appeared previously (and in keeping with the established rules for werewolves).*
 
-*The Wronged is hunting a werewolf too. His name is George Tovey, but [[the Wronged]] just calls him “the black werewolf.” Let’s put that one here too. This threat was established by the player when she made [[the Wronged]], but it is currently unallocated to any mystery or arc. I’ll add him to this arc now.*
+*The Wronged is hunting a werewolf too. His name is George Tovey, but [[The Wronged]] just calls him “the black werewolf.” Let’s put that one here too. This threat was established by the player when she made [[The Wronged]], but it is currently unallocated to any mystery or arc. I’ll add him to this arc now.*
 
 *“The Black Werewolf” aka George Tovey. Monster: Torturer (motivation: to hurt and terrify).*
 
@@ -5058,7 +5058,7 @@ Aim for each step of [[the countdown]] to have the potential to be a whole myste
 
 - **Day:** *Nina consolidates her [[hold]] over New Hampstead and creates a bunch of new werewolves.*
 - **Shadows:** *The pack begins sending out spies to find [[the hunters]] and assassins to kill [[the hunters]]’ loved ones and support network.*
-- **Dusk:** *George decides to target [[the Wronged]], by hunting down her family (aiming to turn them into werewolves, rather than “just” kill them).*
+- **Dusk:** *George decides to target [[The Wronged]], by hunting down her family (aiming to turn them into werewolves, rather than “just” kill them).*
 - **Sunset:** *The pack makes a concerted assault on [[the hunters]] and takes them out.*
 - **Nightfall:** *The pack kills any other monster hunters who are active in the region, and begins turning people in positions of authority.*
 - **Midnight:** *Nina rules the whole region through the pack.*
@@ -6188,9 +6188,9 @@ If a hunter is getting to the end of their Luck, that’s another sign their sto
 
 Some [[hunter types]] have special effects as they spend Luck, as well:
 
-- When [[the Chosen]] spends Luck, you need to include something from their fate in the game.
+- When [[The Chosen]] spends Luck, you need to include something from their fate in the game.
 - When [[the Crooked]] spends Luck, that means someone from their past is going to reappear soon.
-- When [[the Spooky]] spends Luck, the demands of their dark side will grow.
+- When [[The Spooky]] spends Luck, the demands of their dark side will grow.
 
 [[Dealing With Arcs]]
 
@@ -6218,7 +6218,7 @@ Use [[mystery letters]] to share background information [[the hunters]] should k
 
 [[The hunters]] should start with fewer Luck points: give them 1-3 (depending on how tough you want the mystery to be). You may allow them to have a free level-up after creating their hunter, to make up for having fewer Luck points to save them.
 
-It’s useful to pick a team concept for the game, and just tell everyone who the team are and how they operate. You may need to make certain playbooks mandatory, suggest others that fit in, and leave out others completely. For example, if your team concept is centered on [[the Professional]], having an Initiate might not work so well. Don’t offe[[The Initiate]] playbook as an option.
+It’s useful to pick a team concept for the game, and just tell everyone who the team are and how they operate. You may need to make certain playbooks mandatory, suggest others that fit in, and leave out others completely. For example, if your team concept is centered on [[The Professional]], having an Initiate might not work so well. Don’t offe[[The Initiate]] playbook as an option.
 
 I strongly advise that you let everyone make up their own hunter (even if you restrict the types available). Making all the choices during [[hunter creation]]—about their abilities, [[history]] and so on—gives the players a stake in the way the game is going to play.
 
@@ -6240,7 +6240,7 @@ Without the expectation that the game will continue, you should also feel free t
 
 Also, think about the scale of events. In a one-shot, the stakes of the mystery can be huge: zombie epidemics, the legions of Hell being unleashed on earth, hideous gods from beyond the stars—any huge threat is fair game.
 
-If your team includes hunters with central story elements (the Chosen and her fate, [[the Wronged]]’s nemesis, [[the Professional]] and her Agency[[The Initiate]] and his Sect, etc) then tie those into the mystery as well. Think about these central elements when you decide which hunter books to bring to the table, and then you can leave the right-shaped holes in your mystery (e.g. you could leave yourself space to adjust [[the threats]] to match [[the Chosen]]’s fate). You should have time to do this as the other players make up their hunters: as they go, find out what they picked for their hunters, and you can quickly adjust your notes to fit, or suggest to the players things that work with what you have planned.
+If your team includes hunters with central story elements (the Chosen and her fate, [[The Wronged]]’s nemesis, [[The Professional]] and her Agency[[The Initiate]] and his Sect, etc) then tie those into the mystery as well. Think about these central elements when you decide which hunter books to bring to the table, and then you can leave the right-shaped holes in your mystery (e.g. you could leave yourself space to adjust [[the threats]] to match [[The Chosen]]’s fate). You should have time to do this as the other players make up their hunters: as they go, find out what they picked for their hunters, and you can quickly adjust your notes to fit, or suggest to the players things that work with what you have planned.
 
 One-Shot Mystery Play
 
@@ -6434,7 +6434,7 @@ Rating lines should add up to three, and normally each hunter type has one ratin
 
 [[The Monstrous]] always gets +3 Weird, as a special case: there’s an unstated move that gives [[the Monstrous]] +1 Weird.
 
-[[The Chosen]] varies the rule as well: she gets two +2 ratings (each line has a different pair), plus each line adds up to four: [[the Chosen]] also has an unstated extra move to give her this advantage.
+[[The Chosen]] varies the rule as well: she gets two +2 ratings (each line has a different pair), plus each line adds up to four: [[The Chosen]] also has an unstated extra move to give her this advantage.
 
 [[Moves]]
 
@@ -6442,9 +6442,9 @@ Each hunter type gets three [[moves]] as well. For many, one or two of these [[m
 
 Some of the [[moves]] don’t count as one against their count: that’s for [[moves]] that aren’t purely an advantage, but that have both a good and bad side[[The Initiate]]’s move when **in good standing with the Sect** is one of those: the move’s good and bad sides balance out, s[[The Initiate]] gets another three choices of purely useful [[moves]].
 
-Some playbooks have [[moves]] that are purely bad (the Monstrous’ curse and [[the Spooky]]’s dark side, for example). When a playbook has a purely bad move, give them an extra useful move to make up for it.
+Some playbooks have [[moves]] that are purely bad (the Monstrous’ curse and [[The Spooky]]’s dark side, for example). When a playbook has a purely bad move, give them an extra useful move to make up for it.
 
-Not all the [[moves]] in the playbooks are explicitly called that, either. For example, [[the Expert]]’s haven is a move, but not referred to as one. Do this if your move is something special that doesn’t fit into the usual list of things the hunter can do.
+Not all the [[moves]] in the playbooks are explicitly called that, either. For example, [[The Expert]]’s haven is a move, but not referred to as one. Do this if your move is something special that doesn’t fit into the usual list of things the hunter can do.
 
 [[Gear]]
 

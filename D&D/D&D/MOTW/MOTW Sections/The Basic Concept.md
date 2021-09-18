@@ -3,7 +3,7 @@ Decide on a starting concept for your arc. Mysteries usually start with a monste
 
 You may get some ideas for [[arcs]] right at the beginning of a new game when [[the hunters]] are created. Perhaps the team concept and backstory of the team suggests something. Some playbooks also have built-in arc seeds, specifically:
 
-- [[The Chosen]]’s fate. Use the details that you work out with the player about what is in store for [[the Chosen]].
+- [[The Chosen]]’s fate. Use the details that you work out with the player about what is in store for [[The Chosen]].
 - [[The Divine]]’s mission may require an arc, depending on the details you worked out with the player.
 [[The Initiate]]’s Sect and Professional’s Agency both deserve an arc. Use the choices the player made to decide what the organisation’s motivations are, and how these will affect [[the hunters]]. The organisation may mean well, but still cause trouble by accident. On the other hand, some organisations might have a sinister purpose for hunting [[monsters]].
 - [[The Wronged]]’s loss: every Wronged should have an arc involving the creature(s) that caused their loss.

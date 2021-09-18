@@ -1,33 +1,4 @@
 {
-  "parentFieldName": "related-topics, parent",
-  "siblingFieldName": "sub-topics",
-  "childFieldName": "child",
-  "indexNote": [
-    "INDEX"
-  ],
-  "refreshIntervalTime": 0,
-  "defaultView": true,
-  "showNameOrType": true,
-  "showRelationType": true,
-  "rlLeaf": true,
-  "showTrail": true,
-  "trailOrTable": 1,
-  "gridDots": false,
-  "dotsColour": "#000000",
-  "gridHeatmap": false,
-  "heatmapColour": "#EEEEEE",
-  "showAll": false,
-  "noPathMessage": "This note has no real or implied parents",
-  "trailSeperator": "→",
-  "respectReadableLineLength": true,
-  "visGraph": "Force Directed Graph",
-  "visRelation": "Parent",
-  "visClosed": "Real",
-  "visAll": "All",
-  "wikilinkIndex": true,
-  "aliasesInIndex": true,
-  "debugMode": false,
-  "superDebugMode": false,
   "userHierarchies": [
     {
       "up": [
@@ -63,6 +34,9 @@
       ]
     }
   ],
+  "indexNote": [
+    "INDEX"
+  ],
   "hierarchyNotes": [
     "MOTWHierarchy"
   ],
@@ -73,13 +47,28 @@
   "useAllMetadata": true,
   "parseJugglLinksWithoutJuggl": false,
   "dvWaitTime": 5000,
+  "refreshIntervalTime": 0,
+  "defaultView": true,
+  "showNameOrType": true,
+  "showRelationType": true,
   "filterImpliedSiblingsOfDifferentTypes": false,
+  "rlLeaf": true,
+  "showTrail": true,
   "limitTrailCheckboxStates": {
     "Related-Topics": true,
     "Location": true,
     "parent": false
   },
   "hideTrailFieldName": "hide-trail",
+  "trailOrTable": 1,
+  "gridDots": false,
+  "dotsColour": "#000000",
+  "gridHeatmap": false,
+  "heatmapColour": "#EEEEEE",
+  "showAll": false,
+  "noPathMessage": "This note has no real or implied parents",
+  "trailSeperator": "→",
+  "respectReadableLineLength": true,
   "limitWriteBCCheckboxStates": {
     "Related-Topics": true,
     "Location": true,
@@ -89,5 +78,16 @@
     "sibling": true,
     "child": true
   },
-  "showWriteAllBCsCmd": false
+  "showWriteAllBCsCmd": false,
+  "visGraph": "Force Directed Graph",
+  "visRelation": "Parent",
+  "visClosed": "Real",
+  "visAll": "All",
+  "wikilinkIndex": true,
+  "aliasesInIndex": true,
+  "debugMode": false,
+  "superDebugMode": false,
+  "parentFieldName": "related-topics, parent",
+  "siblingFieldName": "sub-topics",
+  "childFieldName": "child"
 }

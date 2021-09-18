@@ -3,7 +3,7 @@
 
 Many Keepers struggle to end their convention games on time without rushing through their final confrontation. Delivering a rousing finish without going over your scheduled time is an art and a science. In this article we’re talking about the science. Spoiler alert: a little planning goes a long way.
 
-<img src="./TomeIMGs/media/image52.png" style="width:6in;height:8.5312in" />Pacing in RPGs can mean the ebb and flow of action in the story, but it also refers to the way a session evolves and how it treats the essential beats of a story. It’s no mystery that stories need a beginning, a middle, and an end. In campaign play, this ebb and flow happens naturally as the narrative and group develop. But for a one-shot, like a convention game, [[the Keeper]] is in a pressure cooker to deliver a fun time and a complete story on a tight timeline.
+![[image52.png]]Pacing in RPGs can mean the ebb and flow of action in the story, but it also refers to the way a session evolves and how it treats the essential beats of a story. It’s no mystery that stories need a beginning, a middle, and an end. In campaign play, this ebb and flow happens naturally as the narrative and group develop. But for a one-shot, like a convention game, [[the Keeper]] is in a pressure cooker to deliver a fun time and a complete story on a tight timeline.
 
 There’s plenty of narrative advice out there about plot points, rising action, and the like. This article provides practical advice for Keepers to end a convention game on time without sacrificing an exciting finale.
 
@@ -91,7 +91,7 @@ Make a list of all the things you want to tell people up front. Revise this list
 
 The context of your game is important. Conventions in different regions have varying expectations regarding game length. In my area, convention slots can run up to 12 hours! For me, 6 hours is the sweet spot for a *Monster of the Week* game. However, in many areas 4-hour slots are the norm. Also: for online games in the evening, 4 hours has been a solid length for me.
 
-<img src="./TomeIMGs/media/image54.jpg" style="width:6in;height:5.87074in" />In this article, we’ll focus on the biggest challenge: the 4-hour con or online game with 3-4 players. For blocks of play in the timeline, I use 5 minutes per PC as a rule of thumb to ensure I have enough time in each block for each hunter to have a significant scene.
+![[image54.jpg]]In this article, we’ll focus on the biggest challenge: the 4-hour con or online game with 3-4 players. For blocks of play in the timeline, I use 5 minutes per PC as a rule of thumb to ensure I have enough time in each block for each hunter to have a significant scene.
 
 No matter how much or little time you have, it’s always important to give yourself opportunity to evaluate the pacing and possibilities of your game. You don’t need to adhere to your break schedule exactly, but make sure you take them.
 
@@ -103,7 +103,7 @@ No matter how much or little time you have, it’s always important to give your
 
 1:00 • Break & Keeper prep.
 
-<img src="./TomeIMGs/media/image56.jpg" style="width:6in;height:6.1967in" /> 1:15 • Start the Show—Cinematic Framing.
+![[image56.jpg]] 1:15 • Start the Show—Cinematic Framing.
 
 -   I like to signal the move into actual play and story time with dramatic music. Each player takes a turn describing an out of context action shot of their character meant to show ‘the audience’ something important about who they are. This is a great chance to establish signature [[weapons]], stylish lairs, and memorable moments from [[history]].
 

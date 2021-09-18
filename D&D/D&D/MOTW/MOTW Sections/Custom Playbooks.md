@@ -19,6 +19,6 @@ Rating lines should add up to three, and normally each hunter type has one ratin
 
 [[The Monstrous]] always gets +3 Weird, as a special case: there’s an unstated move that gives [[the Monstrous]] +1 Weird.
 
-[[The Chosen]] varies the rule as well: she gets two +2 ratings (each line has a different pair), plus each line adds up to four: [[the Chosen]] also has an unstated extra move to give her this advantage.
+[[The Chosen]] varies the rule as well: she gets two +2 ratings (each line has a different pair), plus each line adds up to four: [[The Chosen]] also has an unstated extra move to give her this advantage.
 
 [[Moves]]

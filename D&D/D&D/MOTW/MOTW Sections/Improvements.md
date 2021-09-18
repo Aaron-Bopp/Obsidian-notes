@@ -34,15 +34,15 @@ Pick one of the following types (the “motivation” is the guideline for [[the
 
 If the ally/team members don’t have names yet, pick them now. Decide what their background is too, how they look, and any special skills they bring.
 
-**GAIN A HAVEN LIKE [[THE EXPERT]] HAS**
+**GAIN A HAVEN LIKE [[The Expert]] HAS**
 
-You get a haven. When you take this, it will tell you how many options you can pick from the list in [[the Expert]] playbook.
+You get a haven. When you take this, it will tell you how many options you can pick from the list in [[The Expert]] playbook.
 
 Decide how you got the haven, and where it is.
 
 **ADD AN OPTION TO YOUR HAVEN**
 
-Select a new haven option from the list in [[the Expert]] playbook. You have added this facility to your haven.
+Select a new haven option from the list in [[The Expert]] playbook. You have added this facility to your haven.
 
 Don’t bother taking this improvement if you don’t have a haven!
 

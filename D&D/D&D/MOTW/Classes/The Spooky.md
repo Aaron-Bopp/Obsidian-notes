@@ -137,7 +137,7 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 - Take another Spooky move
 - Take another Spooky move
 - Change some, or all, your dark side tags
-- Get a mystical library, like [[the Expert]]’s haven option
+- Get a mystical library, like [[The Expert]]’s haven option
 - Take a move from another playbook
 - Take a move from another playbook
 

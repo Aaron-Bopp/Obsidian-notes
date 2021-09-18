@@ -7,8 +7,11 @@
         "id": "700d9a52c112af82",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "D&D/MOTW/MOTWWholeBook.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"an evil ritual\"",
+                "query": "<img",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabeticalReverse"
               }
@@ -51,6 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/MOTW/MOTWWholeBook.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -61,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/MOTW/MOTWWholeBook.md"
+              }
             }
           },
           {
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/MOTW/MOTWWholeBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,6 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "D&D/MOTW/MOTWWholeBook.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,15 +243,15 @@
   },
   "active": "700d9a52c112af82",
   "lastOpenFiles": [
-    "D&D/Wildemount/INDEX.md",
-    "D&D/Wildemount/Adventures in Wildemount.md",
-    "D&D/Wildemount/Blightshore.md",
-    "D&D/Wildemount/aliases.md",
-    "D&D/Wildemount/Daily Life in Wildemount.md",
-    "D&D/Wildemount/Eiselcross.md",
-    "D&D/Wildemount/Factions and Societies.md",
-    "D&D/Wildemount/Glossary.md",
-    "D&D/Wildemount/Greying Wildlands.md",
-    "D&D/Wildemount/History of Wildemount.md"
+    "D&D/MOTW/MOTWToC.md",
+    "D&D/MOTW/Classes/The Chosen.md",
+    "D&D/MOTW/Classes/The Flake.md",
+    "D&D/MOTW/Classes/The Monstrous.md",
+    "D&D/MOTW/Classes/The Divine.md",
+    "D&D/MOTW/Adventures/Heartbreak Blues.md",
+    "D&D/MOTW/Adventures/Creature Feature.md",
+    "D&D/MOTW/Adventures/Attack of the Rapid Moss.md",
+    "D&D/MOTW/Adventures/A Church with a View.md",
+    "D&D/MOTW/Adventures/Arachne Genesis.md"
   ]
 }

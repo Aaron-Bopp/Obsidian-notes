@@ -142,7 +142,7 @@ When you have filled all five experience boxes, you level up. Erase the marks an
 - Get +1 Weird, max +2
 - Take another Wronged move
 - Take another Wronged move
-- Gain a haven, like [[the Expert]] has, with two options
+- Gain a haven, like [[The Expert]] has, with two options
 - Add one more option to your haven
 - Take a move from another playbook
 - Take a move from another playbook

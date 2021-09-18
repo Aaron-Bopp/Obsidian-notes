@@ -4,7 +4,7 @@ Going to Pieces
 
 # Concept
 
-<img src="./TomeIMGs/media/image120.png" style="width:5.99667in;height:5.17667in" />A series of animal mutilations and killings are blamed on Preĝo practitioners. But the latter are really trying to ward against a new threat: a necromancer preparing a ritual that will grant mastery over an army of nightwalkers (the immigrants are calling them “chupacabras”). Nightwalkers have already started hunting in the Cook County forests, where the Preĝo community practices their religion.
+![[image120.png]]A series of animal mutilations and killings are blamed on Preĝo practitioners. But the latter are really trying to ward against a new threat: a necromancer preparing a ritual that will grant mastery over an army of nightwalkers (the immigrants are calling them “chupacabras”). Nightwalkers have already started hunting in the Cook County forests, where the Preĝo community practices their religion.
 
 This mystery assumes the necromancer is an old foe of [[the hunters]] who was defeated and now plans revenge. Fill in the details for a suitable character from your game.
 

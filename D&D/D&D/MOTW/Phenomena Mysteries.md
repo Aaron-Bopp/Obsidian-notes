@@ -46,7 +46,7 @@ These are the possible phenomenon types:
 
 Every phenomenon should have at least one custom move to describe what it does. Create [[custom moves]] for a phenomenon the same way you would for a monster, based on your concept and its abilities.
 
-<img src="./TomeIMGs/media/image32.jpg" style="width:6in;height:3.69in" />
+![[image32.jpg]]
 
 **For a phenomenon, weaknesses are not what allows it be defeated or killed . Weaknesses are the secrets or discoveries that will allow [[the hunters]] to mitigate, undo, or prevent what the phenomenon wants to do .** In general, create one weakness that allows [[the hunters]] to stop the phenomenon (or to stop its bad effects). If applicable, create another weakness that allows them to cure those who were affected. 
 

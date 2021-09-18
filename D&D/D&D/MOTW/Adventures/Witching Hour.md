@@ -30,7 +30,7 @@ The primary threat is Zenobia Bellairs, the undead Witch. You may also add a bur
 
 [[Examples]] of human [[minions]] who the Witch controls include a psychotic handy-man or deranged gothic cultists. [[Examples]] traps include a **bear trap** (2-[[harm]]) and a **shotgun blast trap** (3-[[harm]]). Traps inflict their [[harm]] on hunters unless found and disarmed (see below).
 
-# <img src="./TomeIMGs/media/image153.jpg" style="width:6in;height:3.01917in" />Custom Moves
+# ![[image153.jpg]]Custom Moves
 
 If **a hunter looks for traps**, roll +Sharp:
 
@@ -60,7 +60,7 @@ On a miss, the trap is sprung and the hunter takes full damage.
 
 -   **Consume**: Any [[harm]] she inflicts is absorbed to fuel her existence. Each point of [[harm]] caused by her life-draining touch adds one to her [[harm]] capacity. However it doesn’t last forever—each year, her capacity loses one point.
 
--   <img src="./TomeIMGs/media/image155.png" style="width:5.99667in;height:3.53667in" />**Summon Human [[Minions]]**: When in need, she may summon human followers (at [[the Keeper]]’s discretion).
+-   ![[image155.png]]**Summon Human [[Minions]]**: When in need, she may summon human followers (at [[the Keeper]]’s discretion).
 
 -   **Creature of Darkness**: She can only leave her secret chamber (her tomb) between midnight and one in the morning (‘The Witching Hour’). She may not cross running water. Attacks that use rock salt will force her to return to her tomb.
 

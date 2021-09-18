@@ -114,7 +114,7 @@ He knows:
 
 -   Where the Moss Brain is.
 
--   <img src="./TomeIMGs/media/image88.jpg" style="width:6in;height:3.94955in" />Dr Cornwall is being controlled by the moss.
+-   ![[image88.jpg]]Dr Cornwall is being controlled by the moss.
 
 -   The Moss Brain has psychic powers.
 
