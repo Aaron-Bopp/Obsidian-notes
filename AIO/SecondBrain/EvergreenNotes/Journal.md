@@ -6,8 +6,24 @@ note-type:
 aliases:
 -
 ---
+### 2021-8-25
+What is the use of my intelligence if I can never find the answer? What is the use of my knowledge if I can never apply it? What is the use of my brain if it is riddled with chemical imbalances? I'm scared that one day I will finally realize that suicide has been the only reasonable option all along. What will happen when I grow tired of searching for the answers? I feel like a mad man. I'm so confused. I'm so incredibly confused and I think that hurts the most to say. What is the point... What is the god damn point.
 
+If I'm not going to do it. Why? Maybe if I can at least answer that question I will be satisfied. If I can find the reason to continue on I will never need to answer questions again.
 
+I've never wanted to be committed before this moment. I want all control stripped from me. I want to be naked.
+
+I am in a strange state of hyperbolic lucidity. Manic lucidity. Maddening lucidity. I want to throw up
+
+Will you not answer the questions?
+
+Am I dissasociating? Am I just dramatic? Is imagining people reading this after my death the most logical thing to think?
+
+Everything is a lie. Everthing is true
+
+pain
+### 2021-5-31
+You're never sure you're [[transgender|trans]]. I heard that in a [[tiktok]] today. I don't think you admit that you're [[transgender|trans]]. It's not a decision. You don't even really discover it. You just one day realize that you're a girl, and it makes total sense. That part is so obvious that it doesn't feel real. It feels like a dream that you can't achieve, and the process of achieving it is the difficult part
 ### 2021-05-29 6:52 pm
 I seem to have had less [[anxiety]] since I started caring about [[socialization|social interaction]] as much. The reason I was able to care less is because I'm finding more joy in other things I do and I think maybe liking myself a little bit more
 ### 2021-05-24

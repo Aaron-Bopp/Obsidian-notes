@@ -6,7 +6,7 @@ Before [[the Calamity]], eight of the Betrayer Gods each forged a sentient weapo
 
 When an Arm of the Betrayers is found, it grants its wielder some of the power of the Betrayer Gods and the wisdom of the fiend within. The bound fiends know that their war was lost long ago, but they still desire to be used in battle, win victories, and spill blood in the hands of skilled warriors. As a weapon’s wielder becomes more powerful, so too does the weapon, which in turn is able to lend even more magic to the wielder. Whenever a weapon’s wielder dies, the weapon disappears and reappears elsewhere.
 
-The Betrayer Gods made the following weapons, which are described in more detail in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#ArmsoftheBetrayers "chapter 6"):
+The Betrayer Gods made the following weapons, which are described in more detail in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#ArmsoftheBetrayers "[[chapter 6]]"):
 
 [Blade of Broken Mirrors](https://www.dndbeyond.com/magic-items/blade-of-broken-mirrors). This stone dagger of [[Tharizdun]] has yet to be found after [[the Calamity]]. It has the power to warp reality around its wielder. The life force of a glabrezu named Ragazuu was used to forge the weapon.
 

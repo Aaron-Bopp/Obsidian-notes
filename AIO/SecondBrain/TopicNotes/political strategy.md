@@ -17,7 +17,10 @@ embedded:
 **Related-Topics**::
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[political strategy]] `=length(this.file.inlinks)` 
-- 
+- Examples
+	- [[Yang's Political Success]]
+	- [[Yang's Political Failure]]
+- [[The ethnic makeup is a significant driver of change]]
 
 ### <hr class="dataviews"/>
 
@@ -97,5 +100,7 @@ statusTable("TopicNotes")
 statusTable("EvergreenNotes")
 contentNotesTable("ContentNotes")
 ```
+
+
 
 

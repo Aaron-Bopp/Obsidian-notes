@@ -14,6 +14,6 @@ The five rights provided in the First Amendment are speech, [[religion]], press,
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: [[America]], [[politics]], [[Civil Rights]], [[free-will]]
+**Related Topics**:: [[America]], [[Politics]], [[Civil Rights]], [[free-will]]
 	
 **Last Edited**:: *`=this.file.mtime`*

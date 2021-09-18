@@ -226,12 +226,22 @@
     }
   ],
   "outgoing-links:open-for-current": [],
-  "outgoing-links:open": [
+  "outgoing-links:open": [],
+  "quick-explorer:browse-current": [
     {
       "modifiers": [
+        "Mod",
         "Shift"
       ],
-      "key": "`"
+      "key": "L"
+    }
+  ],
+  "obsidian42-text-transporter:obsidian42-text-transporter-combinedCommands": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }

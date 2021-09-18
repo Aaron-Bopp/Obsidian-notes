@@ -14,6 +14,6 @@ Many rights that now exist were denied to [[women]], [[black people]], and [[ind
 
 **Status**:: #EVER/SEED
 
-**Related Topics**:: [[America]], [[racism]], [[politics]], [[Revolution]]
+**Related Topics**:: [[America]], [[racism]], [[Politics]], [[Revolution]]
 	
 **Last Edited**:: *`=this.file.mtime`*

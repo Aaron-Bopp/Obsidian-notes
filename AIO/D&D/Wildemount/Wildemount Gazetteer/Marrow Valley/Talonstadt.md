@@ -16,7 +16,7 @@ The fall of [[Draconia]] at the hands of the deadly chromatic [[dragon]] sect kn
 
 Although it is part of the [[Dwendalian Empire]], Talonstadt receives very little support from [[Bertrand Dwendal|the Crown]]. Instead, the [[Cerberus Assembly]] pays meager wages to the refugees while promising that their hard work will one day allow them to earn imperial citizenship and a better quality of life for their families. With tensions between the refugees and the [[Dwendalian Empire|empire]] escalating, and a [[Crownsguard]] that consistently turns a blind eye to crimes within the community, very few residents believe these empty promises.
 
-Amid the chaos, a handful of Draconian sympathizers within the refugees actively undermine the ravenites' community leaders.
+Amid the chaos, a handful of Draconian sympathizers within the refugees actively undermine the [[Dragonborn|ravenites]]' community leaders.
 
 The people of Talonstadt have great need of adventurers to protect them from crime, monsters, and each other. The community can't offer much in the way of monetary rewards, but they can provide forgotten stories and describe (relatively) safe routes through [[Xhorhas]] to the characters.
 

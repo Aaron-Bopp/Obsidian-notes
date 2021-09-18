@@ -1,21 +1,19 @@
 ---
 creation date: 2021-06-12
-modification date: Saturday 12th June 2021 21:11:20
 note-type: 
 -  evergreen-note
 
 ---
 
-###### [[Human's have an inability to admit that they are wrong]] `=length([[Human's have an inability to admit that they are wrong]].file.inlinks) + length([[Human's have an inability to admit that they are wrong]].file.outlinks)`
+##### [[Human's have an inability to admit that they are wrong]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
-[[Human's will find explanations for inexplainable things]]
+Once the [[ego]] has internalized a belief as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]].
 
----
+This will sometimes lead to [[Human's will find explanations for inexplainable things]]
 
+### <hr class="footnote"/>
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]]
+**Related-Topics**:: [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]], [[self]], [[socialization]]
 	
-**Sub-Topics**:: 
-	
-**References**
+**Last Edited**:: *`=this.file.mtime`*

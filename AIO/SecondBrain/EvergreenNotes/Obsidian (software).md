@@ -26,6 +26,14 @@ It also has a variety of plugins that help the workflow
 - [obsidian text expand](https://github.com/mrjackphil/obsidian-text-expand) 
 - [Position images](https://slrvb.github.io/Site/3_Nebula/ITS-Theme/ITST_Image-Positions/)
 - [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme)
+- [hot reload for plugin development](https://forum.obsidian.md/t/plugin-release-for-developers-hot-reload-the-plugin-s-youre-developing/12185)
+
+#### Example Vaults
+- [good examples for index card size snippets of info](https://publish.obsidian.md/myquantumwell/Knowledge+Management)
+	- academic, math-related
+- [large database with lots of dataview](https://publish.obsidian.md/slrvb/50+Nebula/30-N+Nebula/N+-+MediaDB+Vault+Setup)
+- [journaling setup w/ dataview](https://forum.obsidian.md/t/slrvbs-journaling-setup/22346/5)
+	- mainly dat to day stuff but lots of advanced dataview (without dataviewjs)
 
 
 ---

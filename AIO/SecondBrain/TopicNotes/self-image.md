@@ -20,7 +20,7 @@ embedded:
 ##### [[self-image]] `=length(this.file.inlinks)` 
 - [[A mismatch between your self-image and the way others percieve you destroys self-image]]
 - [[My self-image is purely based on other's perceptions of me]]
-- ![[self-hate#self-hate length this file inlinks]]
+- ![[self-hate#self-hate length self-hate file inlinks]]
 - ![[self-love#self-love length this file inlinks]]
 
 ### <hr class="dataviews"/>

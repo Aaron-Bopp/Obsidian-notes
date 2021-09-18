@@ -90,13 +90,13 @@ Prime Deities are the gods who turn to the more orderly, good, and balanced view
 
 Raven Queen is the god of winter, fate, and the transition of death.
 
-Ravenites are the surviving [[dragonborn]] previously held as a lower, slave-class under the [[Dragonborn|Draconbloods]] of [[Draconia]] before its fall, known for their tailless bodies and hardy physique.
+[[Dragonborn|Ravenites]] are the surviving [[dragonborn]] previously held as a lower, slave-class under the [[Dragonborn|Draconbloods]] of [[Draconia]] before its fall, known for their tailless bodies and hardy physique.
 
 [[The Revelry|Revelry]] is the faction and banner that most operating pirates across the [[Menagerie Coast]] are united under.
 
 [[Righteous Brand]] is the military army of the [[Dwendalian Empire]].
 
-[[Scars of Scale and Tooth]] is a new faction of Ravenites and survivors of the destruction of [[Draconia]], centered around the city of [[Xarzith Kitril]].
+[[Scars of Scale and Tooth]] is a new faction of [[Dragonborn|Ravenites]] and survivors of the destruction of [[Draconia]], centered around the city of [[Xarzith Kitril]].
 
 [[Sehanine]] is the god of moonlight, illusions, and misdirection.
 

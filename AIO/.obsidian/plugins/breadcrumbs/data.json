@@ -9,23 +9,85 @@
   "defaultView": true,
   "showNameOrType": true,
   "showRelationType": true,
+  "rlLeaf": true,
   "showTrail": true,
-  "trailOrTable": 3,
+  "trailOrTable": 1,
+  "gridDots": false,
+  "dotsColour": "#000000",
   "gridHeatmap": false,
-  "showAll": true,
+  "heatmapColour": "#EEEEEE",
+  "showAll": false,
   "noPathMessage": "This note has no real or implied parents",
   "trailSeperator": "→",
   "respectReadableLineLength": true,
-  "debugMode": false,
-  "superDebugMode": false,
-  "heatmapColour": "#EEEEEE",
-  "wikilinkIndex": true,
-  "gridDots": false,
-  "dotsColour": "#000000",
   "visGraph": "Force Directed Graph",
   "visRelation": "Parent",
   "visClosed": "Real",
   "visAll": "All",
-  "aliasesInIndex": false,
-  "rlLeaf": true
+  "wikilinkIndex": true,
+  "aliasesInIndex": true,
+  "debugMode": false,
+  "superDebugMode": false,
+  "userHierarchies": [
+    {
+      "up": [
+        "Related-Topics"
+      ],
+      "same": [
+        "→"
+      ],
+      "down": [
+        "embedded"
+      ]
+    },
+    {
+      "up": [
+        "Location"
+      ],
+      "same": [
+        ""
+      ],
+      "down": [
+        ""
+      ]
+    },
+    {
+      "up": [
+        "parent"
+      ],
+      "same": [
+        "sibling"
+      ],
+      "down": [
+        "child"
+      ]
+    }
+  ],
+  "hierarchyNotes": [
+    "MOTWHierarchy"
+  ],
+  "hierarchyNoteDownFieldName": "child",
+  "hierarchyNoteUpFieldName": "parent",
+  "refreshIndexOnActiveLeafChange": false,
+  "altLinkFields": [],
+  "useAllMetadata": true,
+  "parseJugglLinksWithoutJuggl": false,
+  "dvWaitTime": 5000,
+  "filterImpliedSiblingsOfDifferentTypes": false,
+  "limitTrailCheckboxStates": {
+    "Related-Topics": true,
+    "Location": true,
+    "parent": false
+  },
+  "hideTrailFieldName": "hide-trail",
+  "limitWriteBCCheckboxStates": {
+    "Related-Topics": true,
+    "Location": true,
+    "parent": true,
+    "→": true,
+    "embedded": true,
+    "sibling": true,
+    "child": true
+  },
+  "showWriteAllBCsCmd": false
 }

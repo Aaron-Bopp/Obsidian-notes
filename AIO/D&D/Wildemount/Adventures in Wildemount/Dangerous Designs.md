@@ -1,6 +1,6 @@
 A war criminal is broken out of prison by well-armed kobolds working for a mysterious mastermind who threatens the gnomish city of [[Hupperdook]]. “Dangerous Designs” is an adventure that takes characters from 1st to 3rd level, and which introduces them to the [[Western Wynandir]] region of the continent under the rule of the [[Dwendalian Empire]]. This region is geared toward adventures that involve monster hunting, political intrigue, and the war with [[Xhorhas]].
 
-If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "chapter 4")), they might wish to create characters who grew up in the [[Zemni Fields]] or [[Marrow Valley]], giving them a closer connection to this region and to the [[Dwendalian Empire]]. For characters not from [[Western Wynandir]], the players should consider what has drawn those characters to [[Hupperdook]]. Because this adventure ties directly to the [[Kryn Dynasty]]’s conflict with the [[Dwendalian Empire]], you can also ask each player to consider their character’s stance on the war and how the war might tie into their background.
+If your players are using the [[heroic chronicle]] to create their characters (see [chapter 4](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle "[[chapter 4]]")), they might wish to create characters who grew up in the [[Zemni Fields]] or [[Marrow Valley]], giving them a closer connection to this region and to the [[Dwendalian Empire]]. For characters not from [[Western Wynandir]], the players should consider what has drawn those characters to [[Hupperdook]]. Because this adventure ties directly to the [[Kryn Dynasty]]’s conflict with the [[Dwendalian Empire]], you can also ask each player to consider their character’s stance on the war and how the war might tie into their background.
 
 ## Story Overview
 
@@ -22,7 +22,7 @@ In the final part of the adventure, the characters are urged to continue their i
 
 ### Setup and Starting Points
 
-Before the adventure begins, talk to your players about why their characters might have made the journey to [[Hupperdook]]. You can provide details regarding the city and the surrounding region as outlined in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-marrow-valley#Hupperdook "chapter 3"). You can also ask the players if they want to share any of their characters’ goals, which might provide reasons for their group to come together. Seeking paying work, purchasing equipment, and wanting to join the war effort are all common reasons for traveling to the gnomish enclave.
+Before the adventure begins, talk to your players about why their characters might have made the journey to [[Hupperdook]]. You can provide details regarding the city and the surrounding region as outlined in [chapter 3](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-marrow-valley#Hupperdook "[[chapter 3]]"). You can also ask the players if they want to share any of their characters’ goals, which might provide reasons for their group to come together. Seeking paying work, purchasing equipment, and wanting to join the war effort are all common reasons for traveling to the gnomish enclave.
 
 Use this time to also discuss if the characters are meeting for the first time or if any of them already know each other.
 
@@ -200,13 +200,13 @@ Cleff is an amiable middle-aged [[Gnomes|gnome]], albeit a bit absent-minded and
 
 If the characters show Cleff the damaged automaton, he recognizes the design as his own. Thinking at first that the device might be one of his older models, he inspects it further and scoffs at the realization that it is a poor copy. The crafting reminds him of the work of an old colleague of his—Huron Stahlmast. Talented but impatient, Stahlmast was [prone](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Prone) to copying the work of others and executing it poorly. He hasn’t been seen in [[Hupperdook]] for years.
 
-If the characters are particularly interested in the functionality of the broken automaton, Cleff offers to repair it. Doing so takes a few hours and costs 15 gp for materials, whereupon the characters are the owners of a [vox seeker](https://www.dndbeyond.com/magic-items/vox-seeker) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#VoxSeeker "chapter 6")).
+If the characters are particularly interested in the functionality of the broken automaton, Cleff offers to repair it. Doing so takes a few hours and costs 15 gp for materials, whereupon the characters are the owners of a [vox seeker](https://www.dndbeyond.com/magic-items/vox-seeker) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#VoxSeeker "[[chapter 6]]")).
 
 ### H4. Lay of the Land Herbalist
 
 If the adventurers find their way to this shop, read:
 
-The welcoming herbalist Zendasa (a chaotic good, female [[Humans|human]] [druid](https://www.dndbeyond.com/monsters/druid)) treats her customers almost as children under her care, and asks frequent and probing questions regarding the characters’ daily habits and hygiene. Her shop sells the following items from chapter 5 of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"): antitoxin, candles, druidic focuses, incense, healer’s kits, oil, perfume, [potions of healing](https://www.dndbeyond.com/equipment/potion-of-healing), alchemist’s supplies, and herbalism kits.
+The welcoming herbalist Zendasa (a chaotic good, female [[Humans|human]] [druid](https://www.dndbeyond.com/monsters/druid)) treats her customers almost as children under her care, and asks frequent and probing questions regarding the characters’ daily habits and hygiene. Her shop sells the following items from [[chapter 5]] of the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"): antitoxin, candles, druidic focuses, incense, healer’s kits, oil, perfume, [potions of healing](https://www.dndbeyond.com/equipment/potion-of-healing), alchemist’s supplies, and herbalism kits.
 
 If the characters describe the stained, muddy feet of the kobolds who helped break Sken Zabriss out of prison, she tells them that red clay shouldn’t be found in [[Hupperdook]]. The most likely place for it to have come from is farther up the mountain, near the long-dormant volcanic caps of the [[Silberquel Ridge]].
 
@@ -344,7 +344,7 @@ If any character investigates the steel door, read:
 
 If the characters want to try to open the door right away, see the next section of the adventure (“[Stahlmast’s Lair](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#StahlmastsLair "Stahlmast’s Lair")”) for more information.
 
-After defeating Sken, the characters can claim her [ring of obscuring](https://www.dndbeyond.com/magic-items/ring-of-obscuring) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#RingofObscuring "chapter 6")). The workbench Nima was working at holds 1d4 + 1 [explosive seeds](https://www.dndbeyond.com/equipment/explosive-seed) (see the earlier “[Alchemical Items](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#AlchemicalItems "Alchemical Items")” sidebar).
+After defeating Sken, the characters can claim her [ring of obscuring](https://www.dndbeyond.com/magic-items/ring-of-obscuring) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#RingofObscuring "[[chapter 6]]")). The workbench Nima was working at holds 1d4 + 1 [explosive seeds](https://www.dndbeyond.com/equipment/explosive-seed) (see the earlier “[Alchemical Items](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#AlchemicalItems "Alchemical Items")” sidebar).
 
 ### Character Advancement
 
@@ -380,7 +380,7 @@ Even kobolds as well trained as the ones that serve Stahlmast prize self-preserv
 
 If any kobolds are captured and questioned, they reveal what they know of Stahlmast’s operation with a successful DC 13 Charisma ([Intimidation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Intimidation) or [Persuasion](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Persuasion)) check. You can have individual kobolds know only bits of the overall plan so that the characters learn all the information only over time:
 
--   The Master is planning to make many tiny metal crabs ([vox seekers](https://www.dndbeyond.com/monsters/vox-seeker), as described in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#VoxSeeker "chapter 6")).
+-   The Master is planning to make many tiny metal crabs ([vox seekers](https://www.dndbeyond.com/monsters/vox-seeker), as described in [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#VoxSeeker "[[chapter 6]]")).
 -   The gray [[Dwarves|dwarf]] is obsessed with his ugly statue.
 -   The scary [[Elves|elf]] visits every few weeks to train the kobolds, and then vanishes into the Master’s fire room.
 
@@ -424,7 +424,7 @@ Small characters—or Medium characters who crouch down—can don the cloaks fou
 
 Most of the notes here read like mad scrawls mixed with engineering designs. Sketches of the layout of [[Hupperdook]] and the mountaintop are seen, as well as what looks like the designs for [explosive seeds](https://www.dndbeyond.com/equipment/explosive-seed) (see the “[Alchemical Items](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#AlchemicalItems "Alchemical Items")” sidebar earlier in this adventure) and a diagram of how the seeds can be surgically implanted into creatures. Another note details the process by which sharks are to be placed into the waterfall lake in Silver Falls Grove. One strange design shows what appears to be some kind of clockwork-powered armor.
 
-Clinging to the underside of the table is a [vox seeker](https://www.dndbeyond.com/magic-items/vox-seeker) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#VoxSeeker "chapter 6")). There is a 25 percent chance that the automaton is wound up when discovered, allowing it to attack for up to 5 minutes.
+Clinging to the underside of the table is a [vox seeker](https://www.dndbeyond.com/magic-items/vox-seeker) (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#VoxSeeker "[[chapter 6]]")). There is a 25 percent chance that the automaton is wound up when discovered, allowing it to attack for up to 5 minutes.
 
 A character who studies the notes and diagrams can determine that Stahlmast plans to set powerful explosives across the mountainside in a way that will bury most of [[Hupperdook]] in a landslide, even as it leaves his lair intact. Bringing these designs to Watchmaster Bram Gulchswattle earns the characters an additional reward (see “[Concluding the Adventure](https://www.dndbeyond.com/sources/egtw/adventures-in-[[wildemount]]-dangerous-designs#ConcludingtheAdventure1 "Concluding the Adventure")” at the end of this adventure).
 

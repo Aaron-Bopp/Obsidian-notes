@@ -106,7 +106,7 @@
 
 [[API]]:
 
-[[Aaron Bopp - Short Written Response The Littoral Zone]]:
+[[Short Written Response The Littoral Zone]]:
 
 [[Abortion and immigration are key to white supremacy]]:
 
@@ -213,9 +213,9 @@
 
 [[Bopp]]:
 
-[[Bopp, Aaron - Under Milkwood Play Critique]]:
+[[Under Milkwood Play Critique]]:
 
-[[Bopp, Aaron History Research Paper]]:
+[[Acting  History Research Paper]]:
 
 [[Bopp-Assignment05]]:
 
@@ -353,7 +353,7 @@
 
 [[Destiny Interviews Dr. K]]:
 
-[[Did the Atomic Bombs end WW2]]:
+[[SecondBrain/history/Did the Atomic Bombs end WW2]]:
 
 [[Difference between reincarnation in Hinduism and Bhudism]]:
 
@@ -512,7 +512,7 @@
 
 [[Hitler]]:
 
-[[Homework 10]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 10]]:
 
 [[Homework 3]]:
 
@@ -524,13 +524,13 @@
 
 [[Homework 7]]:
 
-[[Homework 8]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 8]]:
 
-[[Homework 8]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 8]]:
 
-[[Homework 9]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 9]]:
 
-[[Homework 9]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 9]]:
 
 [[Homework week 7]]:
 
@@ -577,7 +577,7 @@
 
 [[In order to for my parents to love me, they need to admit they might be wrong]]:
 
-[[Income Inequality Increases Unhappiness]]:
+[[SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness]]:
 
 [[Indigenous]]:
 
@@ -1156,7 +1156,7 @@
 
 [[higherNormalForms]]:
 
-[[homework 10]]:
+[[SecondBrain/Primary Sources/Classes/Math/Homework 10]]:
 
 [[homework 11]]:
 
@@ -1273,7 +1273,7 @@
 
 [[political strategy]]:
 
-[[politics]]:
+[[Politics]]:
 
 [[poverty]]:
 
@@ -1358,7 +1358,7 @@
 
 [[tags as a data structure]]:
 
-[[the politicization of the christian church]]:
+[[The Politicization of the Christian Church]]:
 
 [[theology]]:
 

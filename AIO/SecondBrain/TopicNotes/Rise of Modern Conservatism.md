@@ -16,7 +16,10 @@ embedded:
 **Related-Topics**::
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[Rise of Modern Conservatism]] `=length(this.file.inlinks)` 
-- 
+- [[Non-faith issues have been co-opted to keep people in the christian church]]
+- [[Republicans have become a true opposition party]]
+- [[Republican voters do not hold their leaders accountable]]
+- [[Anti-government stances lead to economic crashes]]
 
 ### <hr class="dataviews"/>
 

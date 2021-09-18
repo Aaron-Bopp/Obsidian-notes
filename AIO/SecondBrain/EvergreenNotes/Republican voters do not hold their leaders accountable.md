@@ -15,7 +15,7 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: [[Republican]], [[politics]]
+**Related Topics**:: [[Republican]], [[Politics]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

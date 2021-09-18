@@ -18,20 +18,92 @@ aliases:
 
 - 
 
+#### Notes not yet in outline
+```dataviewjs
+const thisFile = dv.pages().where(f => f.file.path == dv.current().file.path)[0]
+function formatDate(date){
+	var d = new Date(date),
+		month = '' + (d.getMonth() + 1),
+		day = '' + d.getDate(),
+		year = d.getFullYear();
 
-## Evergreen Notes
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"  and [[self-hate]]
-WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "self-hate" and !contains([[self-hate]].file.outlinks, link(file.name))
-SORT Status
-```
-## Content Notes
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM [[self-hate]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "self-hate" and !contains([[self-hate]].file.outlinks, link(file.name))
-SORT Status
-```
+	if (month.length < 2) 
+		month = '0' + month;
+	if (day.length < 2) 
+		day = '0' + day;
 
-## References
+	return [year, month, day].join('-');
+}
+
+function wrap(name) {
+	return '[[' + name + ']]'
+}
+function getEmbeds(name){
+	const file = dv.pages().where(f => f.file.name === name)[0]
+	if (file == undefined) {
+		return [null]
+	}
+	let embeds = file.embedded
+	if (embeds == undefined) {
+		return [file]
+	}
+	// prevent infinite loops if currentNote is included in embeds
+	embeds = embeds.filter(l => l !== null && name !== l.path )
+	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat().filter(el => el != null)
+}
+
+function getIO(page) {
+	let embeds = 0
+	if (page.embedded){
+		embeds = getEmbeds(page.file.name).length 
+	}
+	return `${page.file.inlinks.length}/${page.file.outlinks.length + embeds - 1}`
+}
+const statusDict = {
+	"GREEN":0,
+	"SPROUT":1,
+	"SEED":2
+}
+const statusLevel = (status) => {
+	if (!status) {return 0}
+	try {
+		let [_, growth, state] = status.split("/")
+		return statusDict[growth]
+	} catch (TypeError){
+		return 0
+	}
+	return 0
+}
+
+const allEmbeds = getEmbeds(thisFile.file.name)
+const allOutlinks = allEmbeds.map(f => f.file.outlinks).flat()
+const allPaths = allOutlinks.map(l => l.path)
+function notLinkedPages(folder) {
+	return dv.pages(wrap(thisFile.file.name))
+			.where(p => {
+				return !allPaths.contains(p.file.path) && 
+				p.file.path.contains(folder) 
+			})
+			.sort(p => p.file.inlinks.length + p.file.outlinks.length, 'desc')
+}
+function contentNotesTable(folder) {
+	let pages = notLinkedPages(folder)
+	if (pages.length > 0) {
+		dv.table([folder, "I/O", "Edited", "Created"], 
+			pages
+			.map(p => [p.file.link, getIO(p.file), p.file.mtime, formatDate(p["creation date"])]))
+	}
+}
+function statusTable(folder) {
+	let pages = notLinkedPages(folder)
+	if (pages.length > 0) {
+		dv.table([folder, "I/O", "Status", "Edited", "Created"], 
+			pages
+			.sort(p => statusLevel(p.status))
+			.map(p => [p.file.link, getIO(p.file), p.status, p.file.mtime, formatDate(p["creation date"])]))
+	}
+}
+statusTable("TopicNotes")
+statusTable("EvergreenNotes")
+contentNotesTable("ContentNotes")
+```

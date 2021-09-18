@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Knowledge of the world is painful]] `=length([[Knowledge of the world is painful]].file.inlinks) + length([[Knowledge of the world is painful]].file.outlinks)`
+##### [[Knowledge of the world is painful]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 This is a big part of [[Accepting responsibility is not only about your actions]]. You must accept your part in the hurt of the world without crippling yourself.
 

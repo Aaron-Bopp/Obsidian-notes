@@ -42,4 +42,4 @@ The weapon can be broken only by a blow from another of the [[Arms of the Betray
 
 Burning the remains of the first champion to wield the weapon destroys the item.
 
-These artifacts are presented in alphabetical order. For the rules on artifacts, see [chapter 7](https://www.dndbeyond.com/sources/dmg/sentient-magic-items-artifacts#Artifacts "chapter 7") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide").
+These artifacts are presented in alphabetical order. For the rules on artifacts, see [chapter 7](https://www.dndbeyond.com/sources/dmg/sentient-magic-items-artifacts#Artifacts "[[chapter 7]]") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide").

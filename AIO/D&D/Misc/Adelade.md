@@ -65,8 +65,8 @@ Archetype:: [Charismatic](https://www.d20pfsrd.com/classes/core-classes/cleric/a
 		- there are five goblin champions
 			- gugmut - stays in marshes 
 			- karuvis - champion of seventooth tribe, missing, found a secret hideout in the cliffs
-			- ripnugget - leader of thisletops
-			- bruthasmus - bugbear ranger, lives in the north, trades with other goblin tribes
+			- [x] ripnugget - leader of thisletops
+			- [x] bruthasmus - bugbear ranger, lives in the north, trades with other goblin tribes
 				- particular hate of elves
 		- Not common for goblins to rob graves
 - [[Kay Kiserany]] owner of the whorehouse
@@ -74,7 +74,23 @@ Archetype:: [Charismatic](https://www.d20pfsrd.com/classes/core-classes/cleric/a
 - Adopted daughter of [[father tobin]] also died in the fire
 - [[Beth]] ![[Pasted image 20210810195520.png| portrait+small locr]]
 	- Found that [[Amicu]] has gone missing and found a message under her bed
-	- [[Longique]] hasn't been at the manor in days
+	- [[Lonjiku Kaijitsu]] hasn't been at the manor in days
 [[Suto]] ![[Pasted image 20210810221935.png| locr]]
 - Mother's grace follower of amashtu phrase for 
 - Hanna the healer ![[Pasted image 20210810225625.png| locr]]
+## Session 3
+- [[Gorbachally Vune]] [[gorby]] is the owner of the blacksmith
+- [[Aliver Podiker]] ![[Pasted image 20210817175513.png | profile locr ]]
+- Altar to [[lamashtu]] this is what [[Suto]] is trying to use to become more powerful
+## Session 5
+- existence
+	- it is known that the realm of reality is basically 
+	- yeth hound
+		- comes from the lower planes
+		- related to hell/abyss evil
+	- endgame hound
+		- reality is like a cube 
+		- complex spider web
+		- lives in the corner of that spider web
+		- summon them and round off the room so there are no corners they cannot leave
+		- they cannot leave if no corners

@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Bhuddism is the study of happiness through detachment]] `=length([[Bhuddism is the study of happiness through detachment]].file.inlinks) + length([[Bhuddism is the study of happiness through detachment]].file.outlinks)`
+##### [[Bhuddism is the study of happiness through detachment]] `=length(this.file.inlinks) + length(this.file.outlinks)`
 
 [[The nature of happiness is not doing what you love its detachment from the decisions of the life]]
 #TO/EXPLORE/RESEARCH 

@@ -7,7 +7,15 @@ note-type:
 
 ---
 
-Get-ChildItem . -Filter *.docx |
+- It's not about being successful, it's about doing what you can do to get close to success
+	-  [51:24](https://youtu.be/wsGrMgtsKOs?t=3146#t=3084.5915995880127)
+
+good resource for [[social justice]] https://www.radicalinprogress.org/ #TO/EXPLORE/READ 
+[Academic Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536)
+
+good gpt resources https://www.youtube.com/watch?v=_z86t7LerrQ
+
+Get-ChildItem . -Filter *.docx | 
 Foreach-Object {
     pandoc --from docx --to markdown --wrap=none $_ -o $_.Name.Replace('.docx', '.md')
 }

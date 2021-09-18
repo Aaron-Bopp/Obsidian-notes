@@ -12,17 +12,17 @@ While these preserved scenes are sometimes useful for gathering information, the
 If and how the stasis bubbles of [[Aeor]] can be broken is up to you, but here are a few suggestions for solutions:
 -   An encoded ritual hidden in the bowels of [[Aeor]]'s crash site can break the bubbles. It requires one powdered unicorn horn and one dried flumph tentacle per bubble.
 -   The crystal in [[Allowak's Sanctuary]] powers the stasis bubbles. If it is destroyed, the stasis bubbles break.
--   In their exalted state, the [[Arms of the Betrayers]] (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#ArmsoftheBetrayers "chapter 6")) are powerful enough to break the bubbles with an attack.
+-   In their exalted state, the [[Arms of the Betrayers]] (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#ArmsoftheBetrayers "[[chapter 6]]")) are powerful enough to break the bubbles with an attack.
 
 #### Arms and Armor
 
-[[Aeor|Aeorian]] technology was created to battle the gods and their servants. Explorers seek weapons and armor, most of which is crafted to pierce divine defenses and guard against deific assaults. Weapons as small as daggers and as large as cannons were crafted in [[Aeor]]. Although much was destroyed in the crash, there are still items in the rubble (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures "chapter 6")). The pieces are valuable, and the blueprints for creating such powerful items would be priceless, though none have been found so far.
+[[Aeor|Aeorian]] technology was created to battle the gods and their servants. Explorers seek weapons and armor, most of which is crafted to pierce divine defenses and guard against deific assaults. Weapons as small as daggers and as large as cannons were crafted in [[Aeor]]. Although much was destroyed in the crash, there are still items in the rubble (see [chapter 6](https://www.dndbeyond.com/sources/egtw/wildemount-treasures "[[chapter 6]]")). The pieces are valuable, and the blueprints for creating such powerful items would be priceless, though none have been found so far.
 
 A large facility in the city developed diseases meant to weaken and kill the gods and their servants. [[Aeor]]'s mages tested the diseases on beasts and prisoners, creating horrific monsters, some of which still stalk the ruins.
 
 ![[Frigid Woe]]
 
-[[Aeor]]'s people didn't just develop weapons that could kill the gods; they created soldiers. Strange experiments turned captive beasts, prisoners, and volunteers into hulking dreadnoughts called [[Aeorian hunters]] (described in [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#AeorianHunters "chapter 7")). Those that survived the crash still stalk the ruins, driven mad by isolation and unsated bloodlust.
+[[Aeor]]'s people didn't just develop weapons that could kill the gods; they created soldiers. Strange experiments turned captive beasts, prisoners, and volunteers into hulking dreadnoughts called [[Aeorian hunters]] (described in [chapter 7](https://www.dndbeyond.com/sources/egtw/wildemount-bestiary#AeorianHunters "[[chapter 7]]")). Those that survived the crash still stalk the ruins, driven mad by isolation and unsated bloodlust.
 
 A mile west of the crater that defines the crash site is a rocky hill that thaws any snow or ice that rests atop it. The mouth of a cavern can be found on the hill's northern side, which leads to a 60-foot-wide, domed chamber. In the center of this cave stands a fifteen-foot-tall obelisk made of dark, reflective metal that resembles smoothed obsidian. The stone quietly hums with an aura of abjuration from some mysterious enchantment. Travelers that complete a long rest within proximity of the stone are visited with terrible dreams of strange, alien places and visions difficult to understand.
 

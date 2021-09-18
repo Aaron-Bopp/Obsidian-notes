@@ -7,7 +7,7 @@
         "id": "06c18d0d8cea184f",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -193,7 +193,7 @@
             "id": "9e3ed9ab29e87c04",
             "type": "leaf",
             "state": {
-              "type": "juggl_nodes",
+              "type": "empty",
               "state": {}
             }
           },
@@ -201,7 +201,7 @@
             "id": "0f1e07f7a4ff4f1b",
             "type": "leaf",
             "state": {
-              "type": "juggl_style",
+              "type": "empty",
               "state": {}
             }
           },
@@ -210,6 +210,36 @@
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "da5b539214d3dfc5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2ca4b07f0ce5bdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6168a94a3621e084",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {}
             }
           }

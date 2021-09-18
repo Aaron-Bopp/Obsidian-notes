@@ -18,8 +18,26 @@ function formatDate(date){
 function wrap(name) {
 	return '[[' + name + ']]'
 }
-function getIO(file) {
-	return `${file.inlinks.length}/${file.outlinks.length}`
+function getEmbeds(name){
+	const file = dv.pages().where(f => f.file.name === name)[0]
+	if (file == undefined) {
+		return [null]
+	}
+	let embeds = file.embedded
+	if (embeds == undefined) {
+		return [file]
+	}
+	// prevent infinite loops if currentNote is included in embeds
+	embeds = embeds.filter(l => l !== null && name !== l.path )
+	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat().filter(el => el != null)
+}
+
+function getIO(page) {
+	let embeds = 0
+	if (page.embedded){
+		embeds = getEmbeds(page.file.name).length 
+	}
+	return `${page.file.inlinks.length}/${page.file.outlinks.length + embeds - 1}`
 }
 const statusDict = {
 	"GREEN":0,
@@ -36,18 +54,7 @@ const statusLevel = (status) => {
 	}
 	return 0
 }
-//includes first called file as last element
-function getEmbeds(name){
-	const file = dv.pages().where(f => f.file.name === name)[0]
-	let embeds = file.embedded
-	console.log(embeds)
-	if (embeds == undefined) {
-		return [file]
-	}
-	// prevent infinite loops if currentNote is included in embeds
-	embeds = embeds.filter(l => l !== null && name !== l.path )
-	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat()
-}
+
 const allEmbeds = getEmbeds(thisFile.file.name)
 const allOutlinks = allEmbeds.map(f => f.file.outlinks).flat()
 const allPaths = allOutlinks.map(l => l.path)

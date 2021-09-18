@@ -19,6 +19,6 @@ It has also allowed for a culture shift, where previously niche topics like [[Dn
 
 **Status**:: #EVER/SPROUT/CULTIVATE 
 
-**Related Topics**:: [[internet]], [[mass media]], [[inter-personal communication]]
+**Related Topics**:: [[internet]], [[mass media]], [[inter-personal communication]], [[human advancement]]
 	
 **Last Edited**:: *`=this.file.mtime`*

@@ -33,5 +33,19 @@ const statusLevel = (status) => {
 	return statusDict[growth]
 }
 
+function datediff(first, second) {
+    // Take the difference between the dates and divide by milliseconds per day.
+    // Round to nearest whole number to deal with DST.
+    return Math.round((second-first)/(1000*60*60*24));
+}
+
+function lastEdited (page) {
+	let days = datediff(new Date(page.file.mtime), new Date())
+	if (days === 0) {
+		return "Today"
+	} 
+	return `${days} days ago`
+	
+}
 <% tp.file.cursor() %><% tp.system.clipboard() %>
 ```

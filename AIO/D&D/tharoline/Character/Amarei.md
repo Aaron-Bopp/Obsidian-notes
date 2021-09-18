@@ -6,5 +6,5 @@
 
 #### Linked Notes 
 
-- [[Aliases]] 
-- [[Aliases]]- [[Aliases]]
+- [[D&D/MOTW/aliases]] 
+- [[D&D/MOTW/aliases]]- [[D&D/MOTW/aliases]]

@@ -7,6 +7,7 @@ embedded:
 - [[trauma]]
 - [[my emotions]]
 - [[yoga]]
+- [[neurodivergency]]
 note-type: 
 - evergreen-note
 - topic-note
@@ -22,13 +23,10 @@ note-type:
 ##### [[mental health]] `=length([[mental health]].file.inlinks)` 
 
 - ![[anxiety#this file link length this file inlinks]]
-- ![[ADHD#ADHD length ADHD file inlinks]]
-- ![[trauma#trauma length trauma file inlinks]]
+- How [[neurodivergency]] affects mental health
+	- ![[neurodivergency#neurodivergency length this file inlinks]]
+- ![[trauma#trauma length this file inlinks]]
 - [[mental disorders]]
-- [[self-actualization]]
-	- [[self-hate]]
-	- [[self-love]]
-	- [[self-improvement]]
 - Techniques to improve mental health
 	- [[Tips for concentration]]
 	- [[mindfullness]]

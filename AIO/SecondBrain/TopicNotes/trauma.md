@@ -18,7 +18,7 @@ embedded:
 **Related-Topics**:: [[mental health]]
 ##### [[trauma]] `=length(this.file.inlinks)` 
 - [[early childhood]]
-- ![[religious trauma#religious trauma length religious trauma file inlinks]]
+- ![[religious trauma#religious trauma length this file inlinks]]
 - Defense mechanisms
 	- [[Explaining emotion can just be a way of escaping the situation]]
 

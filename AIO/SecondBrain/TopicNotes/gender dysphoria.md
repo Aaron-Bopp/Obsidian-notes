@@ -13,11 +13,14 @@ embedded:
 
 
 **Status**:: #EVER/SEED 
-**Related-Topics**::  [[mental health]], [[self-love]], [[self-hate]], [[self-love]], [[childhood trauma]], [[body dysmorphia]]
+**Related-Topics**::  [[gender]], [[mental disorders]], [[mental health]], [[self-love]], [[self-hate]], [[childhood trauma]], [[body dysmorphia]], [[depression]], [[self-image]], [[self-perception]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 ##### [[gender dysphoria]] `=length(this.file.inlinks)` 
-- 
+- [[Gender Dysphoria is based in a intrinsic wrongness of self]]
+	- [[Self-hatred is born out of dissonance between self-image and self-perception]]
+- [[Gender Dysphoria can take many forms]]
+- [[Trans people will look for any other solution than being trans]]
 
 ### <hr class="dataviews"/>
 
