@@ -175,7 +175,7 @@ The [[hunter types]] are:
 - **The Divine**: an agent of a higher power, with a mission to fulfill. [[The Divine]] is very tough and has been granted holy powers. E.g. Castiel from *Supernatural*; Michael Carpenter from *The Dresden Files*. See [[The Divine]].
 - **The Expert**: the hunter who knows all about [[monsters]] and magic. [[The Expert]] knows a lot of hidden secrets and how to find out more, and also has a well-supplied base to work from. E.g. Bobby Singer from *Supernatural*; Rupert Giles from *Buffy the Vampire Slayer*. See [[The Expert]].
 - **The Flake**: a conspiracy theorist. [[The Flake]] is great at finding things out and seeing how the events of separate mysteries are connected. E.g. Agent Mulder or the Lone Gunmen from *The* *X-Files*. See [[The Flake]].
-- **The Initiate**: a member of an ancient monster-slaying Sect, trained to fight and [[use magic]][[The Initiate]] is good with magic, and their Sect provides help (and sometimes problems). E.g. The Wardens from *The Dresden Files*; Annelise from the *Twenty Palaces* series. See [[The Initiate]].
+- **The Initiate**: a member of an ancient monster-slaying Sect, trained to fight and [[Use Magic]][[The Initiate]] is good with magic, and their Sect provides help (and sometimes problems). E.g. The Wardens from *The Dresden Files*; Annelise from the *Twenty Palaces* series. See [[The Initiate]].
 - **The Monstrous**: a monster fighting for the good guys. [[The Monstrous]] is very weird, and can have a variety of different powers based on what monster breed they are. E.g. Angel from *Buffy the Vampire Slayer* and *Angel*; Bill Compton from *True Blood* ([[0000189800]]).
 - **The Mundane**: just a normal regular person, especially good at dealing with regular people you meet and have to save, and at getting captured by [[monsters]] (which can be more useful than you might expect). E.g. Xander or Cordelia from *Buffy the Vampire Slayer*. See [[The Mundane]].
 - **The Professional**: you work for an agency that hunts [[monsters]]. [[The Professional]] is good in a fight, and a good team player. E.g. Riley and the Initiative from *Buffy the Vampire Slayer*; Olivia Dunham from *Fringe*. See [[The Professional]].
@@ -287,7 +287,7 @@ The hunter playbooks mention some other terms that I haven’t introduced yet. D
 
 Each move is triggered when a particular situation happens in the game. Look at when the move says it happens, and follow the instructions when you do it.
 
-*For example, you need to use the move **protect someone** to save another hunter from a bone puppet’s attack. The move says **when you [[protect someone]]** from [[harm]], roll +Cool, so you roll the dice and get a two and a five. That’s seven, plus your hunter has Cool +1 for a total of eight. The move’s instructions say that on a 7-9, you protect the target okay but you may suffer some or all of the [[harm]] instead.*
+*For example, you need to use the move **protect someone** to save another hunter from a bone puppet’s attack. The move says **when you [[Protect Someone]]** from [[harm]], roll +Cool, so you roll the dice and get a two and a five. That’s seven, plus your hunter has Cool +1 for a total of eight. The move’s instructions say that on a 7-9, you protect the target okay but you may suffer some or all of the [[harm]] instead.*
 
 After you’ve recognised the move’s trigger, it will tell you want to do next. [[Moves]] can:
 
@@ -2141,7 +2141,7 @@ The move description will say what the different results mean. Usually, 7 or hig
 
 *Example:*
 
-*I need to roll “[[manipulate someone]].” That’s a +Charm roll, and my Charm is +1. I roll the dice and get a 2 and a 5. My total is 1 + 2 + 5 = 9. That’s a partial success for **manipulate someone**.*
+*I need to roll “[[Manipulate Someone]].” That’s a +Charm roll, and my Charm is +1. I roll the dice and get a 2 and a 5. My total is 1 + 2 + 5 = 9. That’s a partial success for **manipulate someone**.*
 
 [[Bonuses and Holds]]
 
@@ -3203,7 +3203,7 @@ It’s a good idea to include some partially defined [[bystanders]]: just a name
 
 *Sean Hadley is a Victim (motivation: to put himself into danger). I’m going for the easy “kids in peril” scares here.*
 
-*Ashley Hadley is a Helper (motivation: to join in the hunt). I can see a six year old being totally fascinated by a team of monster hunters. Of course she wants to [[help out]]!*
+*Ashley Hadley is a Helper (motivation: to join in the hunt). I can see a six year old being totally fascinated by a team of monster hunters. Of course she wants to [[Help Out]]!*
 
 *The [[bystanders]] could be rounded out with some more people in the town, but I think we have enough.*
 
@@ -3930,7 +3930,7 @@ Here’s the move:
 
 *This covers trying to do something under conditions of particular stress or danger. [[Examples]] of acting under pressure are: staying on task while a banshee screams at you; barricading a door before the giant rats catch up; resisting the mental domination of a brain-worm; fighting on when you’re badly injured.*
 
-*When you [[act under pressure]], roll +Cool.*
+*When you [[Act Under Pressure]], roll +Cool.*
 
 - *On a 10+ you do what you set out to.*
 - *On a 7-9 [[the Keeper]] is going to give you a worse outcome, hard choice, or price to pay.*
@@ -3960,9 +3960,9 @@ Here’s the move:
 - *On a 7-9 your help grants them +1 to their roll, but you also expose yourself to trouble or danger.*
 - *On a failure, you expose yourself to trouble or danger without helping.*
 
-This is used when a hunter wants to help another hunter make a move. Helping will give the other hunter +1 on a single roll. It’s okay to see what the result is before deciding to [[help out]], as long as it still makes sense that the hunter could do something to help improve the results.
+This is used when a hunter wants to help another hunter make a move. Helping will give the other hunter +1 on a single roll. It’s okay to see what the result is before deciding to [[Help Out]], as long as it still makes sense that the hunter could do something to help improve the results.
 
-Make sure they tell you what concrete action they are taking to [[help out]]. If they can’t think of how they help, then they don’t get to do it. You should also make sure their actions actually do help in the game, too. For example, helping with an attack might allow the helper to add their weapon’s [[harm]] to the injury the first hunter inflicts on the monster.
+Make sure they tell you what concrete action they are taking to [[Help Out]]. If they can’t think of how they help, then they don’t get to do it. You should also make sure their actions actually do help in the game, too. For example, helping with an attack might allow the helper to add their weapon’s [[harm]] to the injury the first hunter inflicts on the monster.
 
 A result of 7-9 means that the hunter succeeds in helping, but exposes themselves to trouble. A lot of the time this trouble will be obvious, as when they are helping someone **kick some ass**. Here you could inflict [[harm]] on both of [[the hunters]]. In other cases the trouble will be less obvious, such as a when trying to help **investigate a mystery** by interviewing witnesses: this might lead to hostile rumours circulating about the hunter later on, or make an enemy of a witness.
 
@@ -3974,7 +3974,7 @@ Here’s the move:
 
 *Investigating can be done any number of ways: following tracks, interviewing witnesses, forensic analysis, looking up old folklore in a library, typing the monster’s name into Google, capturing the monster and conducting tests on it, and so on. Anything that might give you more information about what’s going on is fair game for an investigate move.*
 
-*When you [[investigate a mystery]], roll +Sharp.*
+*When you [[Investigate A Mystery]], roll +Sharp.*
 
 *On a 10+ [[hold]] 2, and on a 7-9 [[hold]] 1.*
 
@@ -4129,7 +4129,7 @@ Here’s the move:
 
 Here’s the most important thing to remember about the **manipulate someone** move: the hunter needs to offer something that makes the target willing to do what the hunter asks.
 
-This doesn’t mean it should be hard. It can be enough for a hunter to pretend to be a police officer, or say “I’ll look after you,” or promise to [[help out]] later.
+This doesn’t mean it should be hard. It can be enough for a hunter to pretend to be a police officer, or say “I’ll look after you,” or promise to [[Help Out]] later.
 
 But don’t let it be too easy either. If a hunter is asking a bystander to be bait in a monster trap, there may be nothing the hunter can offer that will convince them to do it. Use the target’s motivation to help determine what might be enough for them. Use your agenda of making the world seem real and the rule to [[always say]] what honesty demands to assess whether the target would be willing to do what the hunter is asking for.
 
@@ -4308,7 +4308,7 @@ You can pick multiple requirements, that all need to be satisfied:
 
 You can also give [[the hunters]] alternatives:
 
-*For example, you can tell [[the hunters]] “You need to spend a few days doing research for a simple version, or if you get a lava snake fang then you can cast it right now. Either way you need three people to [[help out]].”*
+*For example, you can tell [[the hunters]] “You need to spend a few days doing research for a simple version, or if you get a lava snake fang then you can cast it right now. Either way you need three people to [[Help Out]].”*
 
 Make the requirements consistent with how big a deal this spell is going to be. Also, because the [[big magic]] does not require a roll for any move (except, incidentally, as part of meeting the requirements), you need to consider the perils and side effects of the spell and bring them into play as Keeper [[moves]].
 
@@ -5616,7 +5616,7 @@ This location is someone’s home: maybe a Chosen, Mundane, or Spooky who is sti
 
 **Custom move**: When you **make excuses to the family for something to do with monster hunting**, roll +Charm.
 
-- On a 10+, you smooth over things but you might need to [[help out]] with some chores in the near future.
+- On a 10+, you smooth over things but you might need to [[Help Out]] with some chores in the near future.
 - On a 7-9, they know you aren’t telling the whole truth. You smooth over things for now, but you’ll need to make an effort to be seen as the good kid. Also, take -1 the next time you roll this move.
 - On a miss, they catch you out. You’re in big trouble!
 
@@ -5703,7 +5703,7 @@ You can write up a weird phenomenon as if it were a monster, complete with motiv
 - There are no [[bystanders]]. In this sort of mystery, maybe [[the hunters]] are thrown into a remote location with only unnatural horrors for company. There won’t be any time for chatting to normal folks, you’ll be too busy staying alive.
 - A comedy episode. Set things up to be silly, maybe in a way that pokes fun at [[the hunters]] and yourself. You can steal one of the comedy episode ideas from *Buffy*, *Angel* or *Supernatural,* and then adjust it to make your own version.
 - A mystery based directly on what’s happening in one of your [[arcs]]. This will contribute to the [[ongoing]] plot, and can help alert [[the hunters]] about the bigger problem.
-- A deadly mystery, where the players all create [[new hunters]] with just 1 or 2 Luck. Use the tweaks for a one-shot game ([[0000906294]]), and aim to kill them all. These events can then become the background for a mystery with the normal hunter team, and may illustrate something about an arc they haven’t noticed yet.
+- A deadly mystery, where the players all create [[Hunter types]] with just 1 or 2 Luck. Use the tweaks for a one-shot game ([[0000906294]]), and aim to kill them all. These events can then become the background for a mystery with the normal hunter team, and may illustrate something about an arc they haven’t noticed yet.
 - You can present [[the hunters]] with hooks for two (or more) mysteries, and let them decide which one they want to deal with. This is a very high-stakes tough choice, especially if [[the hunters]] can see the mysteries relate to different evil plots they need to stop (i.e. your [[ongoing]] [[arcs]]). Once the first mystery has been dealt with, you’ll need to decide how things have worsened in the other situation(s): the countdowns may have advanced a little, or a lot. Make these decisions based on your [[Keeper agenda]], principles and what you [[always say]].
 
 In the end though, take any cool idea you have, write it up as a list of threats and you’re good to go.
@@ -6206,7 +6206,7 @@ If you feel that things are moving towards a climax and resolution, it’s a goo
 
 If there is general agreement that it’s time to finish the game, make sure you plan the next few mysteries to suit. Have them be bigger in scope, more epic, and ensure the important [[arcs]] get resolved.
 
-If there’s no agreement that it’s time to finish up and there’s enthusiasm to continue, that’s your cue to start thinking up some new [[arcs]] to replace the ones that have been dealt with, and maybe for some [[new hunters]] to join the team.
+If there’s no agreement that it’s time to finish up and there’s enthusiasm to continue, that’s your cue to start thinking up some new [[arcs]] to replace the ones that have been dealt with, and maybe for some [[Hunter types]] to join the team.
 
 [[One-Shot Games]]
 

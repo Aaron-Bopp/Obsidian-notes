@@ -52,7 +52,7 @@ Oh, and the stars above the afflicted terrain form strangely regular patterns, h
 
 **Custom [[Moves]]:**
 
-**Order From Without**: [[The hunters]] aren’t free from [[the Order]]’s influence. When the mystery reaches Dusk and every step thereafter, [[the Keeper]] holds 2. [[The Keeper]] may spend a [[hold]] to make a hunter **act under pressure** to do something unconnected to their Orderly obligations. And remember that, for many monster hunters, the quest is often purely a personal one.
+**Order From Without**: [[The hunters]] aren’t free from [[the Order]]’s influence. When the mystery reaches Dusk and every step thereafter, [[the Keeper]] holds 2. [[The Keeper]] may spend a [[hold]] to make a hunter **[[Act Under Pressure]]** to do something unconnected to their Orderly obligations. And remember that, for many monster hunters, the quest is often purely a personal one.
 
 # The Town
 
@@ -80,7 +80,7 @@ Notable places:
 
 # The Cats
 
-*Bystanders: Innocents (motivation: to do the right thing)*
+*[[Bystanders]]: Innocents (motivation: to do the right thing)*
 
 The town was always proud of its huge population of cats. They were well-fed, sheltered, and treated with love and respect. Nowadays people still like them but many residents have no time to play with and care for the little felines.
 

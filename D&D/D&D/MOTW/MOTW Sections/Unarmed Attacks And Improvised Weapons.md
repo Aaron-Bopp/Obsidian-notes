@@ -1,5 +1,5 @@
 
-If your hunter has been caught unarmed, and is just fighting with fists and feet, you do 0-[[harm]] hand/intimate. You can still hurt things if you have a bonus to [[harm]]. That could come from getting a 10+ on a **kick some ass** roll, or a move you have.
+If your hunter has been caught unarmed, and is just fighting with fists and feet, you do 0-[[harm]] hand/intimate. You can still hurt things if you have a bonus to [[harm]]. That could come from getting a 10+ on a **[[kick some ass]]** roll, or a move you have.
 
 If your hunter grabs a random object to use as a weapon, decide between you and your Keeper about how it is rated. Here are some guidelines:
 

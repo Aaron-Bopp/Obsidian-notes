@@ -62,7 +62,7 @@ If **you touch the game disc or see someone else playing it**, roll + Cool. You 
 
 -   On a 7-9, you feel a distinct urge to play more. Mark experience if you play *Orbital Funk Princess* when you should be helping the others with the investigation.
 
--   On a miss, you are compelled to play. You must **act under pressure** to either stop playing, or if you have stopped playing, not pick up the game again.
+-   On a miss, you are compelled to play. You must **[[Act Under Pressure]]** to either stop playing, or if you have stopped playing, not pick up the game again.
 
 [[Bystanders]] who see someone playing the game just get the urge to play. If they’re left alone they will play until they eventually die.
 

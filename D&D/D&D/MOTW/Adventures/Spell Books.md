@@ -12,7 +12,7 @@ Spell Books
 
 ![[image66.png]]Magic in *Monster of the Week* can generate concern around the question of ‘everyday magic.’ Since the game is squarely based on classic monster hunting television shows like *Buffy* and *Supernatural*, players quickly understand that ritual magic allows for special events or adventures, like Buffy’s [[resurrection]] or Sam and Dean Winchester traveling back in time.
 
-The new weirdness rules can help in games based on low magic or purely science fiction monster hunting shows like *The X-Files* or *Fringe*. That still leaves a question about running the vanilla magic rules in a game inspired by urban fantasy where magic is rare. One way the group can make magic more formalised is to limit it to a smaller number of defined spells. New spells must be found, researched, or invented rather than simply improvised in play (as with the normal **use magic** move).
+The new weirdness rules can help in games based on low magic or purely science fiction monster hunting shows like *The X-Files* or *Fringe*. That still leaves a question about running the vanilla magic rules in a game inspired by urban fantasy where magic is rare. One way the group can make magic more formalised is to limit it to a smaller number of defined spells. New spells must be found, researched, or invented rather than simply improvised in play (as with the normal **[[Use Magic]]** move).
 
 # Spell Formulae
 
@@ -20,17 +20,17 @@ Every aspiring magic-using character should create a few starting spells they ha
 
 Spells should be written up with the exact effects of success and failure.
 
-Apply the **use magic** rules as a starting point, picking specific effects, glitches, and requirements to fit the spell. If the effects are more powerful, the spell should have more potential glitches and requirements to balance that out.
+Apply the **[[Use Magic]]** rules as a starting point, picking specific effects, glitches, and requirements to fit the spell. If the effects are more powerful, the spell should have more potential glitches and requirements to balance that out.
 
 You may add new requirements and glitches if you want, using the existing ones as guidelines.
 
-For example, Gerard [[The Spooky]] wants a spell that turns him momentarily insubstantial to protect him from monster attacks. This is clearly ‘beyond human limitations’ and similar to a ‘heal’ effect, which makes it a bit more powerful than a regular spell. Gerard’s player and [[the Keeper]] agree that the spell needs a rare ingredient—a special mystic herb that Gerard must swallow—and certain arcane gestures. In the case of a glitch, it will have reduced effect (only half the [[harm]] is avoided) and attract unwanted attention (from other things that live in the insubstantial dimension Gerard is visiting). To cast this spell, roll the **use magic** move as usual, but the effect, requirements, and glitches are always the pre-agreed ones that go with the spell formula.
+For example, Gerard [[The Spooky]] wants a spell that turns him momentarily insubstantial to protect him from monster attacks. This is clearly ‘beyond human limitations’ and similar to a ‘heal’ effect, which makes it a bit more powerful than a regular spell. Gerard’s player and [[the Keeper]] agree that the spell needs a rare ingredient—a special mystic herb that Gerard must swallow—and certain arcane gestures. In the case of a glitch, it will have reduced effect (only half the [[harm]] is avoided) and attract unwanted attention (from other things that live in the insubstantial dimension Gerard is visiting). To cast this spell, roll the **[[Use Magic]]** move as usual, but the effect, requirements, and glitches are always the pre-agreed ones that go with the spell formula.
 
 # Spell Books
 
 Hunters with magical backgrounds should begin with a spell book containing a core group of spells. These should be developed between player and Keeper. The payoff for the magician should be that the downside is clearly limited if it misfires. Various forms of investigative, illusion, protection, and [[healing]] magic spells are to be encouraged. Fantasy tabletop RPGs like *Dungeon World* are a good source of [[inspiration]], with the understanding that the spells generally need to be powered down a bit to match an urban fantasy setting.
 
-Spellcasters may be allowed to research spells—but this should often come with the same sort of serious costs associated with **big magic**. In many cases, the exact same requirements as **big magic** will work for spell research. A spell book or grimoire is a good special rare ingredient for spell research.
+Spellcasters may be allowed to research spells—but this should often come with the same sort of serious costs associated with **[[big magic]]**. In many cases, the exact same requirements as **[[big magic]]** will work for spell research. A spell book or grimoire is a good special rare ingredient for spell research.
 
 ## Christian Book of the Dead (Abridged)
 
@@ -46,7 +46,7 @@ An exceedingly rare and powerful arcane grimoire, the *Christian*
 
 All the spells involve sacrificial blood, medieval prayers in Latin, and the use of a complicated magic circle of salt to protect the necromancer if the spell fails. The spells also involve the caster focusing their will and then speaking the ‘true name’ of both the dead person and the Angel of Death.
 
-The book also details the expensive **big magic** ritual necessary to create a ‘Hand of Glory.’
+The book also details the expensive **[[big magic]]** ritual necessary to create a ‘Hand of Glory.’
 
 Famously, the original (but not the abridged) text also includes a complex ritual that allows for the manufacture of a musical instrument called Gabriel’s Horn. When sounded, the Horn can transform four zombies created by the book’s ritual into the Four Horsemen of the Apocalypse and bring about the end of the world.
 

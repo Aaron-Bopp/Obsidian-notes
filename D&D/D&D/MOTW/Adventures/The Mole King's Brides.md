@@ -32,7 +32,7 @@ In his natural form, Yudashkin is a tree of flesh and fronds composed of human a
 
 **Powers:**
 
--   **Shapeshifter**: He can appear as an elderly man, a boar, or a flock of blackbirds.
+-   **[[Shapeshifter]]**: He can appear as an elderly man, a boar, or a flock of blackbirds.
 
 -   **Tree Stride**: Yudashkin travels through the space surrounding any of his trees as if they were side by side. They’re located across the park so he can suddenly appear and menace [[the hunters]] whenever it’s appropriate.
 
@@ -40,9 +40,9 @@ In his natural form, Yudashkin is a tree of flesh and fronds composed of human a
 
 -   **Trapped**: As the mystery begins, he is magically imprisoned within this specific forest park.
 
-**Attacks:** **Primordial curse** 3-[[harm]] close area magic transform (-1 [[forward]] to run away; if not magically cured, the curse eventually turns you into a tree.) **Armour:** **Fallen pine needles and rotten flesh**: 2-[[armour]].
+**Attacks:** **Primordial curse** 3-[[harm]] close area magic transform (-1 [[forward]] to run away; if not magically cured, the curse eventually turns you into a tree.) **[[Armour]]:** **Fallen pine needles and rotten flesh**: 2-[[armour]].
 
-**Harm Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
+**[[Harm]] Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
 **Weaknesses:**
 
@@ -90,9 +90,9 @@ Park Ranger Rodney Womack is the self-appointed leader. A sprig of juniper is pi
 
 • **Beastspeak**: When a groundskeeper is attacked or spied upon, the beasts of the park warn and intervene to protect him/her.
 
-**Attacks:** **Deer rifle** 2-[[harm]] far loud. **Ritual knife** 1-[[harm]] close. **Armour:** None.
+**Attacks:** **Deer rifle** 2-[[harm]] far loud. **Ritual knife** 1-[[harm]] close. **[[Armour]]:** None.
 
-**Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 # Taylor Shaw
 

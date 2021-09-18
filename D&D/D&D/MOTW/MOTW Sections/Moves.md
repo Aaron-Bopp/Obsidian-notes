@@ -7,7 +7,7 @@ Moves cover situations when the game rules step in to help you determine what ha
 
 Each move is triggered when a particular situation happens in the game. Look at when the move says it happens, and follow the instructions when you do it.
 
-*For example, you need to use the move **protect someone** to save another hunter from a bone puppet’s attack. The move says **when you [[protect someone]]** from [[harm]], roll +Cool, so you roll the dice and get a two and a five. That’s seven, plus your hunter has Cool +1 for a total of eight. The move’s instructions say that on a 7-9, you protect the target okay but you may suffer some or all of the [[harm]] instead.*
+*For example, you need to use the move **protect someone** to save another hunter from a bone puppet’s attack. The move says **when you [[Protect Someone]]** from [[harm]], roll +Cool, so you roll the dice and get a two and a five. That’s seven, plus your hunter has Cool +1 for a total of eight. The move’s instructions say that on a 7-9, you protect the target okay but you may suffer some or all of the [[harm]] instead.*
 
 After you’ve recognised the move’s trigger, it will tell you want to do next. Moves can:
 

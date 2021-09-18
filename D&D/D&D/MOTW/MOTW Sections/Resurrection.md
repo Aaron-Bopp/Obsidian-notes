@@ -1,5 +1,5 @@
 
-If someone wants to bring a slain hunter (or someone else) back from the dead, this requires **big magic**. But there’s an extra step for this particular case.
+If someone wants to bring a slain hunter (or someone else) back from the dead, this requires **[[big magic]]**. But there’s an extra step for this particular case.
 
 **When you** **return to life,** roll -Weird (so subtract three if you have +3 Weird, add one for -1 Weird, etc.). The weirder you are, the weirder it is when you come back from the dead.
 

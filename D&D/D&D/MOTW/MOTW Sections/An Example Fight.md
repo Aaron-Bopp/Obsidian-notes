@@ -78,7 +78,7 @@ Our cast is:
 
 **Alan:** *Yeah, so you shoot it in the face a couple of times and it doesn’t even slow down. It grabs your shoulders and comes in to bite.*
 
-*Because Cray’s* **kick some ass** *move failed, Alan is responding with* **inflict [[harm]], as established***.*
+*Because Cray’s* **[[kick some ass]]** *move failed, Alan is responding with* **inflict [[harm]], as established***.*
 
 **Mary:** *Can Mark get a shot now? Before it bites him?*
 
@@ -86,17 +86,17 @@ Our cast is:
 
 **Mary:** *Can I knock its face away?*
 
-**Alan:** *With the rifle butt? Yes, that might work. Roll... This seems like it will interrupt the attack, so roll* ***protect someone**.*
+**Alan:** *With the rifle butt? Yes, that might work. Roll... This seems like it will interrupt the attack, so roll* ***[[Protect Someone]]**.*
 
 **Mary:** *Sweet, I use* ***Never again*** *to make it like I rolled a 10. As usual, all impending danger on me.*
 
-*The vampire’s bite was interrupted by Mark’s* **protect someone** *move, so Cray doesn’t suffer [[harm]].*
+*The vampire’s bite was interrupted by Mark’s* **[[Protect Someone]]** *move, so Cray doesn’t suffer [[harm]].*
 
 **Mary** (speaking as Mark): *“Bring it!”*
 
 **Alan:** *Okay, so you smash its face, and it spins Cray out the way and comes for you. It smashes you up against the wall on the far side of the hallway, and you notice you go a ways into the plaster. Now what?*
 
-*This is [[the Keeper]] move* **inflict [[harm]], as established** *and the effects of the successful* **protect someone** *move.*
+*This is [[the Keeper]] move* **inflict [[harm]], as established** *and the effects of the successful* **[[Protect Someone]]** *move.*
 
 *Mary notes down that Mark took 2-[[harm]].*
 
@@ -108,7 +108,7 @@ Our cast is:
 
 **Mary:** *Sure, I drop the rifle as I fly back and scramble for my sawn-off. BLAM! Both barrels, sucker!*
 
-**Alan:** *Okay, roll* ***kick some ass**. It’s trying to get with the biting on you, but it’s going for inside your elbow rather than your neck, grabbing for your arm as you shoot.*
+**Alan:** *Okay, roll* ***[[kick some ass]]**. It’s trying to get with the biting on you, but it’s going for inside your elbow rather than your neck, grabbing for your arm as you shoot.*
 
 *Mary rolls and adds Mark’s Tough.*
 
@@ -132,7 +132,7 @@ Our cast is:
 
 **Chris:** *Okay, I want to make sure it can’t escape. I’m casting a spell to keep it in here.*
 
-**Alan:** *Sure, you can* ***use magic*** *to bar a place or portal to a monster. I think keeping it from leaving counts. How do you cast this spell? I think you’re going to need at least some weird ingredients.*
+**Alan:** *Sure, you can* ***[[Use Magic]]*** *to bar a place or portal to a monster. I think keeping it from leaving counts. How do you cast this spell? I think you’re going to need at least some weird ingredients.*
 
 **Chris:** *It’s undead, so I’ll use some goofer dust. I sprinkle it on the door and write mystic symbols in it with my finger.*
 
@@ -160,7 +160,7 @@ Our cast is:
 
 **Mary** (as Mark): *“Dammit!” Can I get there in time to save him?*
 
-**Alan:** *Ah... maybe, if you* ***act under pressure**?*
+**Alan:** *Ah... maybe, if you* ***[[Act Under Pressure]]**?*
 
 **Mary:** *Is there like a light hanging above him I can shoot down?*
 
@@ -170,7 +170,7 @@ Our cast is:
 
 **Alan:** *Yeah, when the light fitting comes down, it smashes on top of it, and the vampire drops Jerry and just looks at you, then starts walking towards you like a gunfighter heading for a showdown.*
 
-*This is the result of the* **protect someone** *move.*
+*This is the result of the* **[[Protect Someone]]** *move.*
 
 **Alan** (speaking as Lucius): *“Very well! I will take you first.”*
 

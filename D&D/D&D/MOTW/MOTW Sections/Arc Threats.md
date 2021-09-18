@@ -7,7 +7,7 @@ Arc threats are created (and work) in exactly the same way as mystery threats, e
 
 *Nina Keenan. Monster: Queen (motivation: to possess and control). I’ll omit her werewolf powers and weaknesses here, but they will be the same as when she appeared previously (and in keeping with the established rules for werewolves).*
 
-*The Wronged is hunting a werewolf too. His name is George Tovey, but [[The Wronged]] just calls him “the black werewolf.” Let’s put that one here too. This threat was established by the player when she made [[The Wronged]], but it is currently unallocated to any mystery or arc. I’ll add him to this arc now.*
+*[[The Wronged]] is hunting a werewolf too. His name is George Tovey, but [[The Wronged]] just calls him “the black werewolf.” Let’s put that one here too. This threat was established by the player when she made [[The Wronged]], but it is currently unallocated to any mystery or arc. I’ll add him to this arc now.*
 
 *“The Black Werewolf” aka George Tovey. Monster: Torturer (motivation: to hurt and terrify).*
 

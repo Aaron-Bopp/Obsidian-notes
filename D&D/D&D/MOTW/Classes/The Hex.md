@@ -31,7 +31,7 @@ Whenever you **use magic**, you can decide afterwards that a particular spell is
 
 -   A spilling of blood, which inflicts 1-[[harm]] upon you or a willing participant.
 
-Give your new rote a name, and decide specifically what the requirements are (which words, gestures, objects, symbols, and procedures are required). Unlike regular **use magic**, a rote’s cost and the consequences for failing it are known to you in advance. After you cast it for the first time, treat each rote as a custom move—a specialised version of [[use magic]], which is built with [[the Keeper]]. Write down what it does on a 10+, a 7-9, and a miss. Also, a rote is a bit more powerful than a basic **use magic** spell: its glitches are less onerous and its effect may be a little bigger.
+Give your new rote a name, and decide specifically what the requirements are (which words, gestures, objects, symbols, and procedures are required). Unlike regular **use magic**, a rote’s cost and the consequences for failing it are known to you in advance. After you cast it for the first time, treat each rote as a custom move—a specialised version of [[Use Magic]], which is built with [[the Keeper]]. Write down what it does on a 10+, a 7-9, and a miss. Also, a rote is a bit more powerful than a basic **use magic** spell: its glitches are less onerous and its effect may be a little bigger.
 
 Casting a rote requires you to have the needed items at hand and the ability to physically use them. You roll +Weird to cast it, as you would when **using magic** normally.
 
@@ -43,15 +43,15 @@ You have a dangerous drive that you pursue, sometimes to the exclusion of your o
 
 Whenever you give in to your Temptation and act accordingly, you mark experience. You need to **act under pressure** to resist giving in to your temptation, if a perfect opportunity presents itself; if you fail this roll, you don’t mark experience like you would have if you’d willingly acted out your desires.
 
-Choose one Temptation: b **Vengeance:** [[Use magic]] to inflict disproportionate retribution on someone who wronged you.
+Choose one Temptation: b **Vengeance:** [[Use Magic]] to inflict disproportionate retribution on someone who wronged you.
 
-b **Power:** [[Use magic]] to exert your dominance over another. b **Addiction:** [[Use magic]] to do what you could do without it. b **Callousness:** [[Use magic]] without regard for the safety of others.
+b **Power:** [[Use Magic]] to exert your dominance over another. b **Addiction:** [[Use Magic]] to do what you could do without it. b **Callousness:** [[Use Magic]] without regard for the safety of others.
 
-b **Carnage:** [[Use magic]] to inflict gruesome violence.
+b **Carnage:** [[Use Magic]] to inflict gruesome violence.
 
-b **Secrets:** [[Use magic]] to discover forbidden, dangerous knowledge.
+b **Secrets:** [[Use Magic]] to discover forbidden, dangerous knowledge.
 
-b **Glory:** [[Use magic]] to steal someone’s thunder.
+b **Glory:** [[Use Magic]] to steal someone’s thunder.
 
 ## Moves
 

@@ -42,7 +42,7 @@ The more auras the Egg reads, the bigger and more complex a world it creates. Su
 
 ![[image157.jpg]]The Egg is resistant to accidental damage but if hit really hard (3-[[harm]] in a single strike) it breaks and hatches prematurely into a Voidmouth: an occult black hole that first swallows everything nearby and then gradually pulls more distant objects into itself, annihilating them. It would need about a month to swallow an entire city.
 
-Sealing a Voidmouth requires a **big magic** ritual with the following requirements:
+Sealing a Voidmouth requires a **[[big magic]]** ritual with the following requirements:
 
 -   Three or more participants.
 
@@ -64,9 +64,9 @@ Lea has spent her entire life researching Kabbalah, demonology, and quantum phys
 
 **Attacks:** **Heighten gravity** 2-[[harm]] far area forceful ignore-[[armour]].
 
-**Harm capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
-**Weakness:** Pocket dimensions: Her power to **teleport** doesn’t work in dimensions created by World Eggs or in other places where space is disrupted. Hunters can create such disruptions with **big magic**.
+**Weakness:** Pocket dimensions: Her power to **teleport** doesn’t work in dimensions created by World Eggs or in other places where space is disrupted. Hunters can create such disruptions with **[[big magic]]**.
 
 # Lea's Lab
 
@@ -78,7 +78,7 @@ Lea’s lab is a cross between a high-tech physics facility and a medieval alche
 
 # World Egg Golems
 
-*Minions: Guardians (motivation: to protect the lab and Drittore)*
+*[[Minions]]: Guardians (motivation: to protect the lab and Drittore)*
 
 These are humanoid animate objects from the pocket worlds. Most look like people made from rare minerals, metals, laboratory apparatus, or raw energy. They are reflections of Lea’s aura so they always have at least one of the following traits:
 
@@ -92,7 +92,7 @@ These are humanoid animate objects from the pocket worlds. Most look like people
 
 Most of the golems don’t know about the world beyond their dimensions and will be very angry at Lea for keeping them in the dark about it. **Attacks:** **Slam** 3-[[harm]] hand messy.
 
-**Harm capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Armour:** 2. Made of minerals.
+**[[Harm]] capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **[[Armour]]:** 2. Made of minerals.
 
 # The Runaway Golem
 
@@ -102,7 +102,7 @@ This golem is both curious and power-hungry. It knows about the outside world an
 
 **Attacks:** **Slam** 3-[[harm]] hand messy. **Stolen gravity gun** 2-[[harm]] close area forceful ignore-[[armour]].
 
-**Harm capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Armour:** 2. Made of minerals.
+**[[Harm]] capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **[[Armour]]:** 2. Made of minerals.
 
 # The Hatchery
 
@@ -126,7 +126,7 @@ The portals to the pocket dimensions are in a small room called the Hatchery. By
 
 A thief, sly and streetwise, but clueless about the supernatural. He had been casing Lea’s house. Sometimes shows his loot to Maurizia. **Attacks:** **Knife** 1-[[harm]] hand.
 
-**Harm capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 # Maurizia Diori
 
@@ -136,7 +136,7 @@ A fence with a sense of the supernatural, she earns a living by buying seemingly
 
 **Attacks:** **Thin, runed stiletto** 1-[[harm]] hand magic.
 
-**Harm capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 # Aftermath
 

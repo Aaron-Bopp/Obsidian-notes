@@ -24,7 +24,7 @@ A Patron can always provide two important assets: direction and resources.
 
 # Patrons Provide Direction
 
-Without a Patron supplying direction, a Keeper needs a new hook for every mystery [[the hunters]] investigate. After a while, inventing needy friends and relatives for [[the hunters]] to [[help out]] becomes tired.
+Without a Patron supplying direction, a Keeper needs a new hook for every mystery [[the hunters]] investigate. After a while, inventing needy friends and relatives for [[the hunters]] to [[Help Out]] becomes tired.
 
 It is much easier to have [[the hunters]] assigned a case by their supervisor, or a story by their editor, than to have the monster once again lurch into [[the hunters]]’ favorite diner and interrupt dinner! Patron organizations do not have to be extremely well-organized and resourced for this role. A simple group of retired law enforcement officers who know the supernatural is real would be plenty to provide leads and missions.
 

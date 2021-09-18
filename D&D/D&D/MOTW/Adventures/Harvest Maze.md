@@ -48,9 +48,9 @@ The coco’s true form is hideous: a twisted, half-melted corpse child in rags. 
 
 **Powers:**
 
--   **Shapeshifter**: It can appear as anything roughly between human to childsized, but radiates it magic and evil strongly.
+-   **[[Shapeshifter]]**: It can appear as anything roughly between human to childsized, but radiates it magic and evil strongly.
 
--   **Illusions**: As well as creating spooky mazes, it can surround itself with confusing visions when attacked, forcing hunters to **act under pressure** to take action.
+-   **Illusions**: As well as creating spooky mazes, it can surround itself with confusing visions when attacked, forcing hunters to **[[Act Under Pressure]]** to take action.
 
 -   **Life Drain**: See the **life drain countdown** below for the process. Hunters have a chance to intervene and stop the process after each step, if they are close enough.
 
@@ -58,9 +58,9 @@ The coco’s true form is hideous: a twisted, half-melted corpse child in rags. 
 
 **Attacks:** **Strike with fists** 1-[[harm]] hand. **Draining grip** 0-[[harm]] hand life-drain.
 
-**Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
-**Armour:** None
+**[[Armour]]:** None
 
 **Custom [[Moves]]:**
 

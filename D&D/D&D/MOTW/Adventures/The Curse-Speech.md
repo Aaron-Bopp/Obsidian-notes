@@ -38,7 +38,7 @@ Curse-Speech is a simple ‘language’ of about a hundred words of power and de
 
 **Weakness:** Being banished from the minds of its hosts.
 
-Banishing anything from a person’s mind is **big magic**. Banishing the CurseSpeech when it wants to stay is really, really **big magic**. The ritual requires:
+Banishing anything from a person’s mind is **[[big magic]]**. Banishing the CurseSpeech when it wants to stay is really, really **[[big magic]]**. The ritual requires:
 
 -   Three participants in addition to the subject.
 
@@ -58,17 +58,17 @@ Banishing anything from a person’s mind is **big magic**. Banishing the CurseS
 
 -   On a miss, [[the Keeper]] holds 3.
 
-You can spend your holds to change any **cursed magic** [[moves]] into regular **use magic** instead. [[The Keeper]]’s holds are used to force the hunter to cast a **cursed magic** spell in any situation when magic could help them out.
+You can spend your holds to change any **cursed magic** [[moves]] into regular **[[Use Magic]]** instead. [[The Keeper]]’s holds are used to force the hunter to cast a **cursed magic** spell in any situation when magic could help them out.
 
-**Cursed Magic**: When you **know the Curse-Speech and [[use magic]]**, you must use this cursed version of the move. Roll +Weird:
+**Cursed Magic**: When you **know the Curse-Speech and [[Use Magic]]**, you must use this cursed version of the move. Roll +Weird:
 
--   On an 11+ your magic works as advanced **use magic**. [[The Keeper]] also gains 1 **Cursed Mind** [[hold]] as the power overwhelms you.
+-   On an 11+ your magic works as advanced **[[Use Magic]]**. [[The Keeper]] also gains 1 **Cursed Mind** [[hold]] as the power overwhelms you.
 
--   On a 9+, treat this as a 10+ **use magic** result.
+-   On a 9+, treat this as a 10+ **[[Use Magic]]** result.
 
--   On a 6-8, treat this as a 7-9 **use magic** result.
+-   On a 6-8, treat this as a 7-9 **[[Use Magic]]** result.
 
--   On a 5 or less, treat it as a 6 or less **use magic** result, plus you’re so overwhelmed with power that [[the Keeper]] gains 2 **Cursed Mind** [[hold]].
+-   On a 5 or less, treat it as a 6 or less **[[Use Magic]]** result, plus you’re so overwhelmed with power that [[the Keeper]] gains 2 **Cursed Mind** [[hold]].
 
 Choose one of the glitches listed below (in addition to any normal glitches required):
 
@@ -78,9 +78,9 @@ Choose one of the glitches listed below (in addition to any normal glitches requ
 
 -   Somebody present learns the Curse-Speech.
 
-If you’re using alternative Weird [[moves]], then hunters with new [[moves]] instead of **use magic** gain the ability to [[use magic]] when they know the Curse-Speech.
+If you’re using alternative Weird [[moves]], then hunters with new [[moves]] instead of **[[Use Magic]]** gain the ability to [[Use Magic]] when they know the Curse-Speech.
 
-Those with classic **use magic** get an additional +1 on the Cursed Magic move.
+Those with classic **[[Use Magic]]** get an additional +1 on the Cursed Magic move.
 
 # Helmut Salzwedel
 
@@ -122,7 +122,7 @@ All the Circle members have the same abilities (except Hans, who can no longer u
 
 **Attacks:** **Black magic** 2-[[harm]] close ignore-[[armour]] magic. **Dagger** 1-[[harm]] hand.
 
-**Harm capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Weakness:** None, just a regular human.
+**[[Harm]] capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Weakness:** None, just a regular human.
 
 Below are the members of the circle: Ilse Herschwor
 

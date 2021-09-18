@@ -55,9 +55,9 @@ Beech has no supernatural powers or abilities beyond those he uses to create his
 
 **Attacks**: (Pre-upgrade) Ineffectual slap: 0-[[harm]] hand; (Post-upgrade) Surgical robot hand: 3-[[harm]] hand slow; (Post-upgrade) Etheric blast: 1-[[harm]] close magic ignores-[[armour]]
 
-**Armour**: (Pre-upgrade) None; (Post-upgrade) 2-[[armour]].
+**[[Armour]]**: (Pre-upgrade) None; (Post-upgrade) 2-[[armour]].
 
-**Harm capacity**: 7. Okay bbbb|bbb Dying Unstable: b
+**[[Harm]] capacity**: 7. Okay bbbb|bbb Dying Unstable: b
 
 **Weaknesses**: **Gloating monologue:** Dr Beech cannot be defeated until [[the hunters]] have listened to him rant about his evil plans; (Post-upgrade) **Etheric-Bionic Control Interface:** If the interface is disrupted with magic or electromagnetic energy, Dr Beech will no longer be able to control the bionics and is vulnerable.
 
@@ -81,7 +81,7 @@ The Steam Tunnels
 
 The tunnels are the only way [[the hunters]] can get to Dr Beech’s lab, and they have been rigged to repel intruders with ambushes. Beech has set up lots of motion detectors and cameras to ensure he’s warned about intruders, and he will send out monkeys to deal with anyone snooping around. The monkeys are equipped with infrared-vision camera eyes, so they can see heat signatures in the total darkness of the tunnels.
 
-The tunnels can be confusing to navigate, so you might want to call for an **act under pressure** move for [[the hunters]] to orientate themselves properly after a monkey attack.
+The tunnels can be confusing to navigate, so you might want to call for an **[[Act Under Pressure]]** move for [[the hunters]] to orientate themselves properly after a monkey attack.
 
 Koko, robo Gorilla (mark 3)
 
@@ -100,9 +100,9 @@ Note that Koko was not stolen from the university, but acquired through other me
 
 **Attacks**: **Laser**: 2-[[harm]] hand close far; **Tear limb from limb**: 4-[[harm]] hand messy.
 
-**Armour**: Bionic [[Armour]] Plating: 2-[[armour]].
+**[[Armour]]**: Bionic [[Armour]] Plating: 2-[[armour]].
 
-**Harm capacity**: 12. bbbbbbbbbbbb
+**[[Harm]] capacity**: 12. bbbbbbbbbbbb
 
 **Weakness**: **Etheric-Bionic Control Interface:** If the interface is disrupted with magic or electromagnetic energy, Koko will no longer be able to control the bionics and is vulnerable.
 
@@ -120,9 +120,9 @@ The chimps are crazy, but smart. They like to sneak about and steal things.
 
 **Attacks**: **Electro-grapple Strike**: 2-[[harm]] close restraining; **Grapple**: 3-[[harm]] intimate hand restraining messy; **Bite**: 2-[[harm]] intimate.
 
-**Armour**: **Bionic [[Armour]] Plating**: 1-[[armour]].
+**[[Armour]]**: **Bionic [[Armour]] Plating**: 1-[[armour]].
 
-**Harm capacity**: 7. bbbbbbb Clara
+**[[Harm]] capacity**: 7. bbbbbbb Clara
 
 bbbbbbb Virgil
 
@@ -145,9 +145,9 @@ Beech has around thirty robo-monkeys of various species. The monkeys will tend t
 
 **Attacks**: **Railgun:** 0-3-[[harm]] (depends on ammunition) close far; **Bite:** 2-[[harm]] intimate.
 
-**Armour**: Bionic plating: 1-[[armour]]
+**[[Armour]]**: Bionic plating: 1-[[armour]]
 
-**Harm capacity**: Each group: 5.
+**[[Harm]] capacity**: Each group: 5.
 
 Group one: bbbbb Group two: bbbbb
 
@@ -187,9 +187,9 @@ A security guard at the university, doomed to be maimed in the events of “day�
 
 **Attacks**: Nightstick: 1-[[harm]] hand
 
-**Armour**: Stab-proof vest: 1-[[armour]]
+**[[Armour]]**: Stab-proof vest: 1-[[armour]]
 
-**Harm capacity**: 7. bbbb|bbb
+**[[Harm]] capacity**: 7. bbbb|bbb
 
 Dr Andrew Crouch, Medical School Dean
 

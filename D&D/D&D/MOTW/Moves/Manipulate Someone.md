@@ -27,7 +27,7 @@ If you take [[the Monstrous]] move **dark negotiator** (or any other move that s
 
 Here’s the most important thing to remember about the **manipulate someone** move: the hunter needs to offer something that makes the target willing to do what the hunter asks.
 
-This doesn’t mean it should be hard. It can be enough for a hunter to pretend to be a police officer, or say “I’ll look after you,” or promise to [[help out]] later.
+This doesn’t mean it should be hard. It can be enough for a hunter to pretend to be a police officer, or say “I’ll look after you,” or promise to [[Help Out]] later.
 
 But don’t let it be too easy either. If a hunter is asking a bystander to be bait in a monster trap, there may be nothing the hunter can offer that will convince them to do it. Use the target’s motivation to help determine what might be enough for them. Use your agenda of making the world seem real and the rule to [[always say]] what honesty demands to assess whether the target would be willing to do what the hunter is asking for.
 

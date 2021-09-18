@@ -98,7 +98,7 @@ Because phenomena are more varied in their motivations and powers than [[monster
 
 ## Investigating Weird Phenomena
 
-In order to make the **investigate a mystery** move a bit less creature-specific, hunters dealing with phenomena may ask the following as part of the standard list of questions:
+In order to make the **[[Investigate A Mystery]]** move a bit less creature-specific, hunters dealing with phenomena may ask the following as part of the standard list of questions:
 
 -   How is this phenomenon doing this?
 

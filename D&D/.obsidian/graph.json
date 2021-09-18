@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-aliases -path:book",
+  "search": "-aliases -path:book path:MOTW",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -148,6 +148,20 @@
       }
     },
     {
+      "query": "path:classes",
+      "color": {
+        "a": 1,
+        "rgb": 15206892
+      }
+    },
+    {
+      "query": "path:Moves",
+      "color": {
+        "a": 1,
+        "rgb": 3082732
+      }
+    },
+    {
       "query": "path:MOTW",
       "color": {
         "a": 1,
@@ -159,12 +173,12 @@
   "showArrow": false,
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 0.998933823529412,
-  "lineSizeMultiplier": 0.825491329479769,
+  "lineSizeMultiplier": 0.1,
   "collapse-forces": false,
   "centerStrength": 0.33831544178365,
   "repelStrength": 13.7423616845582,
-  "linkStrength": 0.112941176470588,
+  "linkStrength": 0.545454545454545,
   "linkDistance": 30,
-  "scale": 0.18510502758768568,
+  "scale": 0.1081737408822556,
   "close": false
 }

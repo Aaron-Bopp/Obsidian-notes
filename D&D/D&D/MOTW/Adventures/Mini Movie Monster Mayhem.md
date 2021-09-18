@@ -22,7 +22,7 @@ While Helena slept and Ephraim was out of the room, Miri has been envisioning pu
 
 # Notes
 
-The most challenging part of the investigation will probably be connecting the [[monsters]] to Miri or Helena so that the story can come out. Some ways that might happen: enhanced senses (a Monstrous [[shapeshifter]] ability or one of **use magic**’s “things beyond human capability”) might lead someone tracking a monster by smell bacl to Helena. A moment of magic sensitivity might detect Miri, who’s something like a Spooky hunter. If [[the hunters]] meticulously map all the sites of attacks, tell them their exact epicenter is Helena’s room. They might meet Miri, who isn’t spending all of her time with her mother, and is sometimes sent out of the room so her parents can talk. [[The hunters]] might see a monster run by her, noting both that it’s declining to attack her and that she doesn’t seem alarmed or surprised by it. **Using magic** to view another time or place might let [[the hunters]] backtrack to Helena’s room.
+The most challenging part of the investigation will probably be connecting the [[monsters]] to Miri or Helena so that the story can come out. Some ways that might happen: enhanced senses (a Monstrous [[shapeshifter]] ability or one of **[[Use Magic]]**’s “things beyond human capability”) might lead someone tracking a monster by smell bacl to Helena. A moment of magic sensitivity might detect Miri, who’s something like a Spooky hunter. If [[the hunters]] meticulously map all the sites of attacks, tell them their exact epicenter is Helena’s room. They might meet Miri, who isn’t spending all of her time with her mother, and is sometimes sent out of the room so her parents can talk. [[The hunters]] might see a monster run by her, noting both that it’s declining to attack her and that she doesn’t seem alarmed or surprised by it. **Using magic** to view another time or place might let [[the hunters]] backtrack to Helena’s room.
 
 For bookkeeping, have a card for each monster that includes their current height and [[harm]] and whether they’re active, or torpid and hiding. Prepare a stack of small cards for victims. As time passes and torpid [[monsters]] go active, add height to the monster and increase the [[harm]] of its attacks. When off-screen attacks occur, stack another victim card by the monster’s card, noting when and where the attack happened and the size of the monster at the time so you can keep everyone’s stories straight.
 
@@ -60,11 +60,11 @@ At first, they won’t stray too far from Helena (and thus the hospital). But th
 
 **Attacks:** The attacks all use the monster’s size in feet to determine [[harm]] amounts. **Bite** Size-[[harm]] intimate. **Claw** (Size minus 1)-[[harm]] hand.
 
-**Harm Capacity:** Equal to their height in feet (minimum 1). So a three-foot monster can withstand 3-[[harm]], and can bite for 3-[[harm]] or claw for 2-[[harm]].
+**[[Harm]] Capacity:** Equal to their height in feet (minimum 1). So a three-foot monster can withstand 3-[[harm]], and can bite for 3-[[harm]] or claw for 2-[[harm]].
 
 **Weakness:**
 
-**Disease Cures:** Radiation, chemotherapy drugs, other harsh chemicals (e.g. concentrated acid, bleach, or ammonia), or magic. In particular, a successful use of **use magic** to ‘cure a disease’ will kill a monster of any size outright.
+**Disease Cures:** Radiation, chemotherapy drugs, other harsh chemicals (e.g. concentrated acid, bleach, or ammonia), or magic. In particular, a successful use of **[[Use Magic]]** to ‘cure a disease’ will kill a monster of any size outright.
 
 # The Hospital
 

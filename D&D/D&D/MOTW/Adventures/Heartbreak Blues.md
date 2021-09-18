@@ -34,9 +34,9 @@ The Heartbreaker has currently disguised itself as the Orpheum’s new theatre m
 
 • **Glamour**: Always looks like a person of indescribable beauty, whatever the beholder finds most physically attractive.
 
-**Attacks:** **Brawl** 2-[[harm]] hand, **Debilitating sadness** 0-[[harm]] close magic (victims take -1 [[forward]] on a passionate action). **Armour:** 1.
+**Attacks:** **Brawl** 2-[[harm]] hand, **Debilitating sadness** 0-[[harm]] close magic (victims take -1 [[forward]] on a passionate action). **[[Armour]]:** 1.
 
-**Harm Capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:** Genuine Beauty—a work of art, a pure note, anything that can be called truly beautiful.
 
@@ -48,9 +48,9 @@ The Hollow resemble zombies in that they are unpossessed with selfwill, but they
 
 • **Mentally Reft**: Cannot be distracted—they have no mind or will of their own
 
-**Attacks:** **Smashing fists** 1-[[harm]] hand. **Armour:** 1.
+**Attacks:** **Smashing fists** 1-[[harm]] hand. **[[Armour]]:** 1.
 
-**Harm Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
 
 **Weaknesses:** Loud sounds/music. Massive trauma.
 

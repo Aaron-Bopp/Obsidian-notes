@@ -75,11 +75,11 @@ Make a list of all the things you want to tell people up front. Revise this list
 
 -   Review Basic [[Moves]] with extra attention to:
 
--   **Help out** and **protect**: Usable after the roll. You’re a kick ass team!
+-   **[[Help Out]]** and **protect**: Usable after the roll. You’re a kick ass team!
 
--   Explain **use magic** and invite players to get cinematic.
+-   Explain **[[Use Magic]]** and invite players to get cinematic.
 
--   **Investigate a mystery**: Answers will start out general but get more specific as you get closer to the creature. You can’t exactly identify a monster just from a news article about a murder. Crime scene evidence is better, especially if you can get to the scene.
+-   **[[Investigate A Mystery]]**: Answers will start out general but get more specific as you get closer to the creature. You can’t exactly identify a monster just from a news article about a murder. Crime scene evidence is better, especially if you can get to the scene.
 
 -   Table Rules:
 
@@ -119,7 +119,7 @@ Even if you’re generally not a person who makes lists or wants to carefully ma
 
 One of the best aspects of PbtA games is the idea of “play to find out.” Even if [[the Keeper]] knows [[the threats]], they should never plan out the course of the game in advance. We don’t have to violate this principle in order to run a tight game. Every decision you make can move the story [[forward]]. Timeline notes like ‘Rising Action’ or ‘The Big Break’ are guides for scene framing.
 
-Once the team has assembled, let the players take their time with their investigation and banter. Make them work a bit more, with **investigate a mystery** results that lead them to new threats rather than providing straightforward answers. Later, when the finale approaches, your choices can drive [[the hunters]] more directly to the finish; don’t [[hold]] anything back.
+Once the team has assembled, let the players take their time with their investigation and banter. Make them work a bit more, with **[[Investigate A Mystery]]** results that lead them to new threats rather than providing straightforward answers. Later, when the finale approaches, your choices can drive [[the hunters]] more directly to the finish; don’t [[hold]] anything back.
 
 # Other Applications
 

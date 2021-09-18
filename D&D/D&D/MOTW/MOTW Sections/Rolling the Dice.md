@@ -7,6 +7,6 @@ The move description will say what the different results mean. Usually, 7 or hig
 
 *Example:*
 
-*I need to roll “[[manipulate someone]].” That’s a +Charm roll, and my Charm is +1. I roll the dice and get a 2 and a 5. My total is 1 + 2 + 5 = 9. That’s a partial success for **manipulate someone**.*
+*I need to roll “[[Manipulate Someone]].” That’s a +Charm roll, and my Charm is +1. I roll the dice and get a 2 and a 5. My total is 1 + 2 + 5 = 9. That’s a partial success for **[[Manipulate Someone]]**.*
 
 [[Bonuses and Holds]]

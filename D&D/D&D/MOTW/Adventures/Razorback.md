@@ -24,9 +24,9 @@ During combat, Razorback prefers to hang back and throw blades or spikes, or tri
 
 Slaughterhouse tools deal +2 [[harm]] to Razorback.
 
-**Attacks:** **Thrown sharps** 2-[[harm]] close forceful messy. **Slaughterhouse hammer** 3-[[harm]] hand messy stun. **Machinery** 5-[[harm]] intimate messy slow. **Devour** 4-[[harm]] intimate messy life-drain. **Armour:** 1
+**Attacks:** **Thrown sharps** 2-[[harm]] close forceful messy. **Slaughterhouse hammer** 3-[[harm]] hand messy stun. **Machinery** 5-[[harm]] intimate messy slow. **Devour** 4-[[harm]] intimate messy life-drain. **[[Armour]]:** 1
 
-**Harm Capacity:** 20. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\] **Weakness:** Being ground up in the slaughterhouse machinery.
+**[[Harm]] Capacity:** 20. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\] **Weakness:** Being ground up in the slaughterhouse machinery.
 
 # The Pig Killing Factory
 
@@ -42,13 +42,13 @@ The remains of earlier victims can be found being eaten by slaughterhouse pigs.
 
 # Slaughterhouse Pigs
 
-*Minions: Beasts (motivation: to intimidate and attack)*
+*[[Minions]]: Beasts (motivation: to intimidate and attack)*
 
 Slaughterhouse pigs with oddly human-looking eyes are mysteriously appearing despite the plant being closed for years. They aren’t violent—they are scavengers—but will defend themselves if attacked. Slaughterhouse tools brandished threateningly will keep a mob of pigs from attacking.
 
 If many are present, they will initiate an attack on a solitary or wounded hunter.
 
-**Attacks:** **Pig bite** 2-[[harm]] intimate messy. **Harm capacity:** 3. <sup>\[\]\[\]\[\]</sup>
+**Attacks:** **Pig bite** 2-[[harm]] intimate messy. **[[Harm]] capacity:** 3. <sup>\[\]\[\]\[\]</sup>
 
 # Archie Clemonte
 

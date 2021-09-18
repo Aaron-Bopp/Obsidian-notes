@@ -24,7 +24,7 @@ By default when a hunter **kicks ass** both sides inflict [[harm]] as establishe
 
 *For example, Hoss the hunter is going to shoot a zombie with his shotgun (harm-3 close load messy reload), while the zombie is trying to bite Hoss (the zombie’s bite attack is rated “2-[[harm]] hand”). If the zombie is still out of reach (i.e. out of hand range), Hoss will inflict 3-[[harm]] on it but be safe from the zombie’s bite. Once the zombie is right up in Hoss’s face, then Hoss can still blast it for 3-[[harm]] and this time the zombie can bite him back for 2-[[harm]].*
 
-Don’t automatically call for this move any time a hunter attacks something. If a hunter attacks a foe that cannot (or will not) fight back, then it is appropriate to just use [[the Keeper]] move **inflict [[harm]] as established** instead. What the hunter’s doing could also be a move like **protect someone** or **act under pressure** (or another move altogether): use what the player has stated the hunter’s intentions are and the actions they’ve described the hunter taking to determine what makes sense.
+Don’t automatically call for this move any time a hunter attacks something. If a hunter attacks a foe that cannot (or will not) fight back, then it is appropriate to just use [[the Keeper]] move **inflict [[harm]] as established** instead. What the hunter’s doing could also be a move like **[[Protect Someone]]** or **[[Act Under Pressure]]** (or another move altogether): use what the player has stated the hunter’s intentions are and the actions they’ve described the hunter taking to determine what makes sense.
 
 On a success of 10+, the hunter gets to pick an extra effect. Always ask them what happened.
 

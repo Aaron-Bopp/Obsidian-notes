@@ -71,7 +71,7 @@ people, real terrors, real [[monsters]], or other horrifying realities of your h
 
 **Bryanna Hitchcock:** To Sean Nittner and Big Bad Con for giving people like me a safe place to run and play *Monster of the Week* in person.
 
-**Paul Mcbride:** Dedicated to Connor, Shylee, Gavin and everyone who played *The Circles*.
+**Paul Mcbride:** Dedicated to Connor, Shylee, Gavin and everyone who played *[[The Circles]]*.
 
 **Michael Sands:** To my family, Amanda & Zelda. Also the Monday Crew for putting up with all my gaming whims for so many years.
 
@@ -379,17 +379,17 @@ Here's a quick way to create a mythology. Choose an existential or contemporary 
 
 *By Michael Sands*
 
-These optional rules allow your hunters to have different Weird basic [[moves]], instead of everyone having access to **use magic**. These rules are intended for games that place more emphasis on weird science and paranormal powers than *Monster of the Week*'s default occultism and magic.
+These optional rules allow your hunters to have different Weird basic [[moves]], instead of everyone having access to **[[Use Magic]]**. These rules are intended for games that place more emphasis on weird science and paranormal powers than *Monster of the Week*'s default occultism and magic.
 
-If you use this rule, **use magic** is no longer a basic move for all hunters. Instead, all hunters pick a weirdness move from **how are you weird?** (See below.)
+If you use this rule, **[[Use Magic]]** is no longer a basic move for all hunters. Instead, all hunters pick a weirdness move from **how are you weird?** (See below.)
 
-Any hunter [[playbook moves]] that change how you would normally **use magic** now apply to the new move (if it doesn't directly apply, come up with an appropriate adjustment with the agreement of your group--- perhaps that hunter can now **use magic** with the modifications applied).
+Any hunter [[playbook moves]] that change how you would normally **[[Use Magic]]** now apply to the new move (if it doesn't directly apply, come up with an appropriate adjustment with the agreement of your group--- perhaps that hunter can now **[[Use Magic]]** with the modifications applied).
 
 # Casting Spells Without Use Magic
 
-Hunters who do not have **use magic** as their Weirdness move must treat any spell as [[big magic]]. [[The Keeper]] may wish to pick requirements towards the lighter end of the spectrum if the spell's effects will be at the level of **use magic**.
+Hunters who do not have **[[Use Magic]]** as their Weirdness move must treat any spell as [[big magic]]. [[The Keeper]] may wish to pick requirements towards the lighter end of the spectrum if the spell's effects will be at the level of **[[Use Magic]]**.
 
-**Big magic** still works the same for everyone, but you may adjust the requirements so they have a more 'weird science' style when appropriate.
+**[[Big magic]]** still works the same for everyone, but you may adjust the requirements so they have a more 'weird science' style when appropriate.
 
 ![](media/image24.png){width="2.83in" height="2.3766666666666665in"}
 
@@ -419,7 +419,7 @@ Choose one of the following as your basic move for Weird:
 
 -   **Trust your gut** (page 21)
 
--   **Use magic** (as in vanilla *Monster of the Week*)
+-   **[[Use Magic]]** (as in vanilla *Monster of the Week*)
 
 -   **Weird science** (page 23)
 
@@ -431,7 +431,7 @@ If none of these weirdness [[moves]] seem appropriate, use:
 
 -   **Sensitive** or **empath** for those with psychic potential.
 
--   **Use magic** for anyone else.
+-   **[[Use Magic]]** for anyone else.
 
 These are the weirdness [[moves]] that have the smallest implications for your game's mythology.
 
@@ -451,7 +451,7 @@ When you **open up your brain to feel the emotions of something right there in f
 
 -   On a 12 or more, you get an impression (as for 10 or more), and you may ask one follow-up question that [[the Keeper]] will answer honestly.
 
-You can use **empath** on anything with emotions (e.g. animals and some [[monsters]]), but the less human they are, the less it's safe for you. If the emotions are especially strong or alien, you might need to **act under pressure** regardless of how successful your roll was.
+You can use **empath** on anything with emotions (e.g. animals and some [[monsters]]), but the less human they are, the less it's safe for you. If the emotions are especially strong or alien, you might need to **[[Act Under Pressure]]** regardless of how successful your roll was.
 
 ![](media/image26.jpg){width="4.753266622922134in" height="3.860951443569554in"}You have become enlightened, and sometimes receive information telepathically from the Secret Masters.
 
@@ -703,7 +703,7 @@ Because phenomena are more varied in their motivations and powers than [[monster
 
 # Investigating Weird Phenomena
 
-In order to make the **investigate a mystery** move a bit less creature-specific, hunters dealing with phenomena may ask the following as part of the standard list of questions:
+In order to make the **[[Investigate A Mystery]]** move a bit less creature-specific, hunters dealing with phenomena may ask the following as part of the standard list of questions:
 
 -   How is this phenomenon doing this?
 
@@ -767,11 +767,11 @@ Some of the hunter playbooks get a special move when they spend Luck. This optio
 
 *By Michael Sands*
 
-Some players find the list of allowed questions in the normal **investigate a mystery** move to be too restrictive. They're designed to focus on the immediate monster-killing needs of [[the hunters]] in the game's default style.
+Some players find the list of allowed questions in the normal **[[Investigate A Mystery]]** move to be too restrictive. They're designed to focus on the immediate monster-killing needs of [[the hunters]] in the game's default style.
 
 If you would like something a bit more open-ended, you can use this alternative basic move:
 
-When you **investigate a mystery** with your particular techniques and skills, roll +Sharp:
+When you **[[Investigate A Mystery]]** with your particular techniques and skills, roll +Sharp:
 
 -   On a 10 or higher, ask [[the Keeper]] two general questions or one specific question. Based on how you are investigating, they will tell you honestly and with good detail what you discover.
 
@@ -785,11 +785,11 @@ When you advance this move, add this extra result:
 
 # Moves That Grant Different Questions
 
-Many hunters have [[moves]] that grant special questions to ask instead of the usual list. To ensure these [[moves]] are still valuable, they now grant one of those special questions *in addition to* the questions granted by your **investigate a mystery** move result.
+Many hunters have [[moves]] that grant special questions to ask instead of the usual list. To ensure these [[moves]] are still valuable, they now grant one of those special questions *in addition to* the questions granted by your **[[Investigate A Mystery]]** move result.
 
 # For The Keeper
 
-In all other ways, this variant of the **investigate a mystery** move works just the same as the original.
+In all other ways, this variant of the **[[Investigate A Mystery]]** move works just the same as the original.
 
 What a hunter discovers still depends on the evidence that is (or could be) present and how they are investigating it. Hunters cannot get answers to questions that do not fit with the investigation techniques they've used, nor can they discover things if there's no way that relevant evidence could be at this scene.
 
@@ -813,13 +813,13 @@ N~~ew~~ Hun~~t~~ers
 
 The following pages include four new [[hunter types]] for your games. They are:
 
-**The Gumshoe:** The supernatural is just another case for this private eye to solve. A tough, ethical charmer, this shamus is in the fictional tradition that stretches from classic noir characters like Sam Spade and Philip Marlowe to the modern Jessica Jones and Lisbeth Salander.
+**[[The Gumshoe]]:** The supernatural is just another case for this private eye to solve. A tough, ethical charmer, this shamus is in the fictional tradition that stretches from classic noir characters like Sam Spade and Philip Marlowe to the modern Jessica Jones and Lisbeth Salander.
 
-**The Hex:** A witch motivated by the pursuit of forbidden power, using magic more readily---and more recklessly---than other hunters. E.g. Willow during season six of *Buffy the Vampire Slayer*.
+**[[The Hex]]:** A witch motivated by the pursuit of forbidden power, using magic more readily---and more recklessly---than other hunters. E.g. Willow during season six of *Buffy the Vampire Slayer*.
 
-**The Pararomantic:** A hunter with a loving---but difficult--- relationship with a supernatural being. Understands [[monsters]]' intentions and can earn their trust, but puts their own heart, and even mortality, at risk. E.g. Elena Gilbert from *The Vampire Diaries*, Belle from *Beauty and the Beast*.
+**[[The Pararomantic]]:** A hunter with a loving---but difficult--- relationship with a supernatural being. Understands [[monsters]]' intentions and can earn their trust, but puts their own heart, and even mortality, at risk. E.g. Elena Gilbert from *The Vampire Diaries*, Belle from *Beauty and the Beast*.
 
-![](media/image37.png){width="5.996666666666667in" height="9.0in"}**The Searcher:** After an encounter with weirdness, they dedicated their life to investigating the unexplained. Very strong investigator, especially at working out what sort of thing is going on. Not really a fighter, but has some defensive options. E.g. Roy Neary in *Close Encounters of the Third Kind*, or (historically) Charles Fort.
+![](media/image37.png){width="5.996666666666667in" height="9.0in"}**[[The Searcher]]:** After an encounter with weirdness, they dedicated their life to investigating the unexplained. Very strong investigator, especially at working out what sort of thing is going on. Not really a fighter, but has some defensive options. E.g. Roy Neary in *Close Encounters of the Third Kind*, or (historically) Charles Fort.
 
 ![](media/image38.png){width="5.342872922134733in" height="8.518129921259842in"}
 
@@ -843,13 +843,13 @@ With the agreement of [[the Keeper]], pick a one-sentence Code that your Gumshoe
 
 This Code defines your Gumshoe. Any time you violate your code you forfeit all Code related [[moves]] (**The Postman Always Rings Twice**, **The Long Goodbye**) and the ability to spend Luck points. These forfeits last either until the next mystery or you make amends (whichever comes
 
-first). As long as you follow the Code people will sense your sincerity: you receive +1 [[ongoing]] for **manipulate someone** and you may not be possessed or charmed by any sort of supernatural, alien, or demonic entity or item.
+first). As long as you follow the Code people will sense your sincerity: you receive +1 [[ongoing]] for **[[Manipulate Someone]]** and you may not be possessed or charmed by any sort of supernatural, alien, or demonic entity or item.
 
 ## Moves
 
 You get all the basic [[moves]], and three Gumshoe [[moves]]. You get these two:
 
-B **Occult Confidential**: The first time in each mystery that you observe a monster, minion, or phenomenon in action, you may ask one question from the **investigate a mystery** list.
+B **Occult Confidential**: The first time in each mystery that you observe a monster, minion, or phenomenon in action, you may ask one question from the **[[Investigate A Mystery]]** list.
 
 B **The Naked City**: You have lots of personal contacts wherever you go. Pick four contact types from the following areas (or from other areas agreed to between you and [[the Keeper]]):
 
@@ -867,7 +867,7 @@ Security, Property Developers, Stage Magicians, Technologists,
 
 Transportation
 
-You can hit them up for info (+1 to one **investigate a mystery** roll) or small favours---but there may be a small cost involved. Personal contacts can provide more significant help but [[the Keeper]] decides their price on a case-by-case basis.
+You can hit them up for info (+1 to one **[[Investigate A Mystery]]** roll) or small favours---but there may be a small cost involved. Personal contacts can provide more significant help but [[the Keeper]] decides their price on a case-by-case basis.
 
 Then pick one of these:
 
@@ -905,7 +905,7 @@ b **"Just one more thing"**: When you ask a suspect leading questions, roll +Cha
 
 Spend your [[hold]] to ask questions from this list:
 
--   One question from the **investigate a mystery** list.
+-   One question from the **[[Investigate A Mystery]]** list.
 
 -   Was that a lie?
 
@@ -1027,7 +1027,7 @@ b Charm+2, Cool=0, Sharp=0, Tough--1, Weird+2 b Charm+1, Cool--1, Sharp+1, Tough
 
 ## Rotes
 
-Whenever you **use magic**, you can decide afterwards that a particular spell is a **rote** that you know. Write down in detail what the spell does, and what it requires. You know how to cast it off the top of your head, and you choose two requirements from this list:
+Whenever you **[[Use Magic]]**, you can decide afterwards that a particular spell is a **rote** that you know. Write down in detail what the spell does, and what it requires. You know how to cast it off the top of your head, and you choose two requirements from this list:
 
 -   Magic words and ritual gestures.
 
@@ -1039,7 +1039,7 @@ Whenever you **use magic**, you can decide afterwards that a particular spell is
 
 -   A spilling of blood, which inflicts 1-[[harm]] upon you or a willing participant.
 
-Give your new rote a name, and decide specifically what the requirements are (which words, gestures, objects, symbols, and procedures are required). Unlike regular **use magic**, a rote's cost and the consequences for failing it are known to you in advance. After you cast it for the first time, treat each rote as a custom move---a specialised version of [[use magic]], which is built with [[the Keeper]]. Write down what it does on a 10+, a 7-9, and a miss. Also, a rote is a bit more powerful than a basic **use magic** spell: its glitches are less onerous and its effect may be a little bigger.
+Give your new rote a name, and decide specifically what the requirements are (which words, gestures, objects, symbols, and procedures are required). Unlike regular **[[Use Magic]]**, a rote's cost and the consequences for failing it are known to you in advance. After you cast it for the first time, treat each rote as a custom move---a specialised version of [[Use Magic]], which is built with [[the Keeper]]. Write down what it does on a 10+, a 7-9, and a miss. Also, a rote is a bit more powerful than a basic **[[Use Magic]]** spell: its glitches are less onerous and its effect may be a little bigger.
 
 Casting a rote requires you to have the needed items at hand and the ability to physically use them. You roll +Weird to cast it, as you would when **using magic** normally.
 
@@ -1049,37 +1049,37 @@ You start out knowing up to one rote, which you can choose when creating your ch
 
 You have a dangerous drive that you pursue, sometimes to the exclusion of your own safety. Decide if your Temptation drove you to learn magic, or if learning magic drove you to it.
 
-Whenever you give in to your Temptation and act accordingly, you mark experience. You need to **act under pressure** to resist giving in to your temptation, if a perfect opportunity presents itself; if you fail this roll, you don't mark experience like you would have if you'd willingly acted out your desires.
+Whenever you give in to your Temptation and act accordingly, you mark experience. You need to **[[Act Under Pressure]]** to resist giving in to your temptation, if a perfect opportunity presents itself; if you fail this roll, you don't mark experience like you would have if you'd willingly acted out your desires.
 
-Choose one Temptation: b **Vengeance:** [[Use magic]] to inflict disproportionate retribution on someone who wronged you.
+Choose one Temptation: b **Vengeance:** [[Use Magic]] to inflict disproportionate retribution on someone who wronged you.
 
-b **Power:** [[Use magic]] to exert your dominance over another. b **Addiction:** [[Use magic]] to do what you could do without it. b **Callousness:** [[Use magic]] without regard for the safety of others.
+b **Power:** [[Use Magic]] to exert your dominance over another. b **Addiction:** [[Use Magic]] to do what you could do without it. b **Callousness:** [[Use Magic]] without regard for the safety of others.
 
-b **Carnage:** [[Use magic]] to inflict gruesome violence.
+b **Carnage:** [[Use Magic]] to inflict gruesome violence.
 
-b **Secrets:** [[Use magic]] to discover forbidden, dangerous knowledge.
+b **Secrets:** [[Use Magic]] to discover forbidden, dangerous knowledge.
 
-b **Glory:** [[Use magic]] to steal someone's thunder.
+b **Glory:** [[Use Magic]] to steal someone's thunder.
 
 ## Moves
 
 You have three Hex [[moves]]. You have this one:
 
-B **Bad Luck Charm**: Whenever you **use magic** and miss, the backlash never affects you directly if there's someone else around to hit. It'll go for allies, other hunters, and innocent [[bystanders]]. Sometimes, every so often, it might even hit an enemy.
+B **Bad Luck Charm**: Whenever you **[[Use Magic]]** and miss, the backlash never affects you directly if there's someone else around to hit. It'll go for allies, other hunters, and innocent [[bystanders]]. Sometimes, every so often, it might even hit an enemy.
 
 Plus pick two of these:
 
-b **Burn Everything**: When you **use magic** to inflict [[harm]], you can choose to inflict 3-[[harm]] area magic obvious or 3-[[harm]] ignore-[[armour]] magic obvious. b **Cast the Bones**: Once per mystery, you may perform some kind of divination (tarot, casting the runes, reading entrails, or something like that) to glean information about the future. When you seek guidance by divination, roll +Sharp. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. On a miss, you get some information, but it's not what you want to hear. Spend those holds to ask any question from the **investigate a mystery** move, or one of the following questions:
+b **Burn Everything**: When you **[[Use Magic]]** to inflict [[harm]], you can choose to inflict 3-[[harm]] area magic obvious or 3-[[harm]] ignore-[[armour]] magic obvious. b **Cast the Bones**: Once per mystery, you may perform some kind of divination (tarot, casting the runes, reading entrails, or something like that) to glean information about the future. When you seek guidance by divination, roll +Sharp. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. On a miss, you get some information, but it's not what you want to hear. Spend those holds to ask any question from the **[[Investigate A Mystery]]** move, or one of the following questions:
 
 -   What can I gain from this person/place/thing/creature?
 
 -   Who has touched this person/place/thing/creature before me? [[The Keeper]] will answer truthfully, with either a direct answer or how to find out more.
 
-b **Force of Will**: When you apply your will to dispelling a magical effect, blocking a spell, or suspending a Phenomenon, roll +Weird. On a hit, momentary magics are cancelled completely, and long-lasting spells and effects are suspended temporarily. On a 10+, you can also spend Luck to instantly snuff out a powerful spell or strange effect. On a 7-9, you take 1-[[harm]] as the strain of dismissing magic unravels you. b **Luck of the Damned**: After you **use magic** or cast a rote, take +1 [[forward]] on the next roll you make. b **Sympathetic Token**: As long as you carry a personal object belonging to someone, such as a lock of hair, a full set of toenails, or a treasured family heirloom, you get +1 [[ongoing]] to **use magic** against them. You can also **use magic** against them at a distance. If you try to **use magic** against them and miss, the token is lost, destroyed, or loses its power.
+b **Force of Will**: When you apply your will to dispelling a magical effect, blocking a spell, or suspending a Phenomenon, roll +Weird. On a hit, momentary magics are cancelled completely, and long-lasting spells and effects are suspended temporarily. On a 10+, you can also spend Luck to instantly snuff out a powerful spell or strange effect. On a 7-9, you take 1-[[harm]] as the strain of dismissing magic unravels you. b **Luck of the Damned**: After you **[[Use Magic]]** or cast a rote, take +1 [[forward]] on the next roll you make. b **Sympathetic Token**: As long as you carry a personal object belonging to someone, such as a lock of hair, a full set of toenails, or a treasured family heirloom, you get +1 [[ongoing]] to **[[Use Magic]]** against them. You can also **[[Use Magic]]** against them at a distance. If you try to **[[Use Magic]]** against them and miss, the token is lost, destroyed, or loses its power.
 
-b **This Might Sting**: You can **use magic** to heal 3-[[harm]], but the process is exceptionally painful. On a 7-9 it also leaves a gnarly scar.
+b **This Might Sting**: You can **[[Use Magic]]** to heal 3-[[harm]], but the process is exceptionally painful. On a 7-9 it also leaves a gnarly scar.
 
-b **Wise Soul**: Whenever you **use magic**, right before you roll, you can ask [[the Keeper]] what exactly would happen on a miss. If you dislike the risk, you can stop at the last second, and let the spell fizzle harmlessly. All of the effort is wasted.
+b **Wise Soul**: Whenever you **[[Use Magic]]**, right before you roll, you can ask [[the Keeper]] what exactly would happen on a miss. If you dislike the risk, you can stop at the last second, and let the spell fizzle harmlessly. All of the effort is wasted.
 
 ## Gear
 
@@ -1089,7 +1089,7 @@ You have whatever magical items or amulets you use to perform magic, including w
 
 b .38 revolver b Athame b Crossbow (2-[[harm]] close (2-[[harm]] hand (2-[[harm]] reload loud) magic silver) close slow)
 
-b Shotgun b Shillelagh b Staff (1-[[harm]] (3-[[harm]] close (1-[[harm]] hand hand balanced messy loud) balanced) large) **Introductions**
+b Shotgun b Shillelagh b Staff (1-[[harm]] (3-[[harm]] close (1-[[harm]] hand hand balanced messy loud) balanced) large) **[[Introductions]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
@@ -1161,9 +1161,9 @@ b Gain another two Rotes. b Choose one advanced Hex move (see below).
 
 When you take the "Choose one advanced Hex move" improvement, choose one of these [[moves]]. You can never have both:
 
-b **Apotheosis**: You become a terrifying fount of mystical power. Once per mystery, after you suffer loss or [[harm]], you may enter a state where you have both immense power and zero interest in the well-being of other people. While in this state, you can fly, use +Weird to **kick some ass** instead of +Tough (using innate magic as a 3-[[harm]] weapon with whatever properties you choose), ignore the component costs of your rotes, ignore one requirement of every spell you cast with **use magic**, and you have +1 [[ongoing]] to do everything. On the other hand, you outright cannot use the **protect someone** move, you have all the Temptations, and you have to indulge them whenever a good opportunity presents itself. When you try to resist a temptation, roll +Cool. On a 10+, your apotheosis ends. On a 7-9, it ends with you doing something dangerous or cruel. On a miss, it ends only after you [[harm]] someone (or something) you love.
+b **Apotheosis**: You become a terrifying fount of mystical power. Once per mystery, after you suffer loss or [[harm]], you may enter a state where you have both immense power and zero interest in the well-being of other people. While in this state, you can fly, use +Weird to **[[kick some ass]]** instead of +Tough (using innate magic as a 3-[[harm]] weapon with whatever properties you choose), ignore the component costs of your rotes, ignore one requirement of every spell you cast with **[[Use Magic]]**, and you have +1 [[ongoing]] to do everything. On the other hand, you outright cannot use the **[[Protect Someone]]** move, you have all the Temptations, and you have to indulge them whenever a good opportunity presents itself. When you try to resist a temptation, roll +Cool. On a 10+, your apotheosis ends. On a 7-9, it ends with you doing something dangerous or cruel. On a miss, it ends only after you [[harm]] someone (or something) you love.
 
-b **Synthesis**: You manage to conciliate your dark power with your moral impulses. You lose your Temptation. Whenever you **use magic** to **help out** or **protect someone**, you mark experience. Mark a second experience if you do it at the expense of your own safety.
+b **Synthesis**: You manage to conciliate your dark power with your moral impulses. You lose your Temptation. Whenever you **[[Use Magic]]** to **[[Help Out]]** or **[[Protect Someone]]**, you mark experience. Mark a second experience if you do it at the expense of your own safety.
 
 [[The Pararomantic]]
 
@@ -1235,11 +1235,11 @@ On 10+, [[hold]] 2. On 7-9, [[hold]] 1. Spend your [[hold]] to:
 
 -   Take +1 [[forward]].
 
-b **Dark Desires**: You may use the **manipulate someone** move on [[monsters]], as long as you are using emotional ties.
+b **Dark Desires**: You may use the **[[Manipulate Someone]]** move on [[monsters]], as long as you are using emotional ties.
 
 b **The Power of Love**: When you use **help someone** to help your Guide you don't have to roll +Cool. You automatically help as though you'd rolled a 10. If your Guide is another hunter, the same applies when they help you. b **Do As The Supernatural Do**: You can take an unnatural move from your Guide's playbook (if they are a hunter). If they are a monster, choose a move from a suitable supernatural playbook. [[The Keeper]] may offer you a custom move, instead.
 
-b **I Am Theirs And They Are Mine**: Whenever you are in danger, your Guide knows it. If your Guide is suffering [[harm]] (and it's feasible), you can spend a point of Luck to redirect the attack onto yourself as if you have rolled 10+ with **protect someone**. If you are suffering [[harm]], you can decide that your Guide has protected you and is suffering this [[harm]] instead. If you choose this, roll for **bond abuse**.
+b **I Am Theirs And They Are Mine**: Whenever you are in danger, your Guide knows it. If your Guide is suffering [[harm]] (and it's feasible), you can spend a point of Luck to redirect the attack onto yourself as if you have rolled 10+ with **[[Protect Someone]]**. If you are suffering [[harm]], you can decide that your Guide has protected you and is suffering this [[harm]] instead. If you choose this, roll for **bond abuse**.
 
 b **Monster Empathy**: When you try to work out what a supernatural creature desires, roll +Charm. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. Spend your [[hold]] to ask the following questions---[[the Keeper]] will answer honestly:
 
@@ -1358,21 +1358,21 @@ b Charm=0, Cool+1, Sharp+1, Tough--1, Weird+2 b Charm+1, Cool--1, Sharp+1, Tough
 
 You get all of the basic [[moves]], plus three Searcher [[moves]]. You get this one:
 
-B **First Encounter**: One strange event started you down this path, sparking your need to discover the truth behind the unexplained. Decide what that event was: pick a category below and take the associated move. Then tell everyone what happened to you (or someone close to you). Then pick a category below and take the associated move: b **Cryptid Sighting**: You take note of any reports of strange creatures. Whenever you first see a new type of creature, you may immediately ask one of the **investigate a mystery** questions. b **Zone of Strangeness**: Things are not fixed. You never need **act under pressure** when supernatural forces alter the environment around you, and you get 2-[[armour]] against [[harm]] from sudden changes to the laws of physics.
+B **First Encounter**: One strange event started you down this path, sparking your need to discover the truth behind the unexplained. Decide what that event was: pick a category below and take the associated move. Then tell everyone what happened to you (or someone close to you). Then pick a category below and take the associated move: b **Cryptid Sighting**: You take note of any reports of strange creatures. Whenever you first see a new type of creature, you may immediately ask one of the **[[Investigate A Mystery]]** questions. b **Zone of Strangeness**: Things are not fixed. You never need **[[Act Under Pressure]]** when supernatural forces alter the environment around you, and you get 2-[[armour]] against [[harm]] from sudden changes to the laws of physics.
 
-b **Psychic Event**: Your mind is awakened. You may **act under pressure** to use the **sensitive** weird move, or---if **sensitive** is your weird move---**empath**. See page 21. b **Higher power**: Something looks out for you. You start with an extra Luck.
+b **Psychic Event**: Your mind is awakened. You may **[[Act Under Pressure]]** to use the **sensitive** weird move, or---if **sensitive** is your weird move---**empath**. See page 21. b **Higher power**: Something looks out for you. You start with an extra Luck.
 
 b **Strange Dangers**: You are always watching for hazards. When you have no [[armour]], you still count as having 1-[[armour]].
 
 b **Abduction**: They taught you hidden knowledge. Gain +1 to any move when you research strange or ancient secrets to do it.
 
-b **Cosmic Insight**: You have encompassed the soul of the universe. You never need to **act under pressure** due to feelings of fear, despair, or isolation.
+b **Cosmic Insight**: You have encompassed the soul of the universe. You never need to **[[Act Under Pressure]]** due to feelings of fear, despair, or isolation.
 
 Then pick two of these:
 
-b **Prepared to Defend**: Even truth seekers need to fight some times. Whenever you suffer [[harm]] when you **kick some ass** or **protect someone**, you suffer 1-[[harm]] less. b **Fellow Believer**: People understand you've also known strangeness. [[Bystanders]] will talk to you about weird things they would not trust another hunter (or a mundane official) to believe. b **Guardian**: You have a mystical ally (perhaps a spirit, alien, or cryptid) who helps and defends you. Define them, and their powers, with [[the Keeper]]'s agreement. Their look is one of: invisible, an intangible spirit thing, a weird creature, disguised as an animal, or disguised as a person.
+b **Prepared to Defend**: Even truth seekers need to fight some times. Whenever you suffer [[harm]] when you **[[kick some ass]]** or **[[Protect Someone]]**, you suffer 1-[[harm]] less. b **Fellow Believer**: People understand you've also known strangeness. [[Bystanders]] will talk to you about weird things they would not trust another hunter (or a mundane official) to believe. b **Guardian**: You have a mystical ally (perhaps a spirit, alien, or cryptid) who helps and defends you. Define them, and their powers, with [[the Keeper]]'s agreement. Their look is one of: invisible, an intangible spirit thing, a weird creature, disguised as an animal, or disguised as a person.
 
-b **Just Another Day**: When you have to **act under pressure** due to a monster, phenomenon, or mystical effect, you may roll +Weird instead of +Cool. b **Network**: You may gain an ally group of others who had experiences similar to your first encounter---perhaps they're a support group or hobbyist club. Detail up to five members with useful skills related to what happened to them (none are up for fighting [[monsters]]).
+b **Just Another Day**: When you have to **[[Act Under Pressure]]** due to a monster, phenomenon, or mystical effect, you may roll +Weird instead of +Cool. b **Network**: You may gain an ally group of others who had experiences similar to your first encounter---perhaps they're a support group or hobbyist club. Detail up to five members with useful skills related to what happened to them (none are up for fighting [[monsters]]).
 
 b **Ockham's Broadsword**: When you first encounter something strange, you may ask [[the Keeper]] what sort of thing it is. They will tell you if it (or the cause) is: natural, an unnatural creature, a weird phenomenon, or a person. You gain +1 [[forward]] dealing with it.
 
@@ -1513,7 +1513,7 @@ A Patron can always provide two important assets: direction and resources.
 
 # Patrons Provide Direction
 
-Without a Patron supplying direction, a Keeper needs a new hook for every mystery [[the hunters]] investigate. After a while, inventing needy friends and relatives for [[the hunters]] to [[help out]] becomes tired.
+Without a Patron supplying direction, a Keeper needs a new hook for every mystery [[the hunters]] investigate. After a while, inventing needy friends and relatives for [[the hunters]] to [[Help Out]] becomes tired.
 
 It is much easier to have [[the hunters]] assigned a case by their supervisor, or a story by their editor, than to have the monster once again lurch into [[the hunters]]' favorite diner and interrupt dinner! Patron organizations do not have to be extremely well-organized and resourced for this role. A simple group of retired law enforcement officers who know the supernatural is real would be plenty to provide leads and missions.
 
@@ -1643,11 +1643,11 @@ Make a list of all the things you want to tell people up front. Revise this list
 
 -   Review Basic [[Moves]] with extra attention to:
 
--   **Help out** and **protect**: Usable after the roll. You're a kick ass team!
+-   **[[Help Out]]** and **protect**: Usable after the roll. You're a kick ass team!
 
--   Explain **use magic** and invite players to get cinematic.
+-   Explain **[[Use Magic]]** and invite players to get cinematic.
 
--   **Investigate a mystery**: Answers will start out general but get more specific as you get closer to the creature. You can't exactly identify a monster just from a news article about a murder. Crime scene evidence is better, especially if you can get to the scene.
+-   **[[Investigate A Mystery]]**: Answers will start out general but get more specific as you get closer to the creature. You can't exactly identify a monster just from a news article about a murder. Crime scene evidence is better, especially if you can get to the scene.
 
 -   Table Rules:
 
@@ -1723,7 +1723,7 @@ Even if you're generally not a person who makes lists or wants to carefully mana
 
 One of the best aspects of PbtA games is the idea of "play to find out." Even if [[the Keeper]] knows [[the threats]], they should never plan out the course of the game in advance. We don't have to violate this principle in order to run a tight game. Every decision you make can move the story [[forward]]. Timeline notes like 'Rising Action' or 'The Big Break' are guides for scene framing.
 
-Once the team has assembled, let the players take their time with their investigation and banter. Make them work a bit more, with **investigate a mystery** results that lead them to new threats rather than providing straightforward answers. Later, when the finale approaches, your choices can drive [[the hunters]] more directly to the finish; don't [[hold]] anything back.
+Once the team has assembled, let the players take their time with their investigation and banter. Make them work a bit more, with **[[Investigate A Mystery]]** results that lead them to new threats rather than providing straightforward answers. Later, when the finale approaches, your choices can drive [[the hunters]] more directly to the finish; don't [[hold]] anything back.
 
 # Other Applications
 
@@ -1813,7 +1813,7 @@ Running in an office lunchtime setting is a very different beast to an [[ongoing
 
 With a little less than an hour to play while also consuming food, you have to drop some aspects of the game. In my case, I dropped world building. The group decided to set the game in the city we live in: easy, everyone knows what it looks like, how many people will be nearby at any time of day or night, how long it takes to get around, and the ways people will react to weirdness.
 
-Mystery-wise, I keep things simple: not too many [[bystanders]] to interact with (one or two, tops), easy-to-find information on the monster, and a quick-paced story. I push them to make rolls if they seem uncertain (there's very little time to sit around and puzzle out the next move). I'm flexible with the questions for **investigate a mystery** or **read a bad situation**. If none of the options on the move list look useful for keeping the pace fast, I'll get them to ask something directly, or just say "You did well enough to find out this thing."
+Mystery-wise, I keep things simple: not too many [[bystanders]] to interact with (one or two, tops), easy-to-find information on the monster, and a quick-paced story. I push them to make rolls if they seem uncertain (there's very little time to sit around and puzzle out the next move). I'm flexible with the questions for **[[Investigate A Mystery]]** or **[[Read A Bad Situation]]**. If none of the options on the move list look useful for keeping the pace fast, I'll get them to ask something directly, or just say "You did well enough to find out this thing."
 
 This kind of game would also really suit the new 'flexible investigations' rules (page 29), especially since giving the players another chance to roll the dice opens up new opportunities for plot twists.
 
@@ -1921,7 +1921,7 @@ Good hunting!
 
 ![](media/image66.png){width="5.816666666666666in" height="3.9433333333333334in"}Magic in *Monster of the Week* can generate concern around the question of 'everyday magic.' Since the game is squarely based on classic monster hunting television shows like *Buffy* and *Supernatural*, players quickly understand that ritual magic allows for special events or adventures, like Buffy's [[resurrection]] or Sam and Dean Winchester traveling back in time.
 
-The new weirdness rules can help in games based on low magic or purely science fiction monster hunting shows like *The X-Files* or *Fringe*. That still leaves a question about running the vanilla magic rules in a game inspired by urban fantasy where magic is rare. One way the group can make magic more formalised is to limit it to a smaller number of defined spells. New spells must be found, researched, or invented rather than simply improvised in play (as with the normal **use magic** move).
+The new weirdness rules can help in games based on low magic or purely science fiction monster hunting shows like *The X-Files* or *Fringe*. That still leaves a question about running the vanilla magic rules in a game inspired by urban fantasy where magic is rare. One way the group can make magic more formalised is to limit it to a smaller number of defined spells. New spells must be found, researched, or invented rather than simply improvised in play (as with the normal **[[Use Magic]]** move).
 
 # Spell Formulae
 
@@ -1929,17 +1929,17 @@ Every aspiring magic-using character should create a few starting spells they ha
 
 Spells should be written up with the exact effects of success and failure.
 
-Apply the **use magic** rules as a starting point, picking specific effects, glitches, and requirements to fit the spell. If the effects are more powerful, the spell should have more potential glitches and requirements to balance that out.
+Apply the **[[Use Magic]]** rules as a starting point, picking specific effects, glitches, and requirements to fit the spell. If the effects are more powerful, the spell should have more potential glitches and requirements to balance that out.
 
 You may add new requirements and glitches if you want, using the existing ones as guidelines.
 
-For example, Gerard [[The Spooky]] wants a spell that turns him momentarily insubstantial to protect him from monster attacks. This is clearly 'beyond human limitations' and similar to a 'heal' effect, which makes it a bit more powerful than a regular spell. Gerard's player and [[the Keeper]] agree that the spell needs a rare ingredient---a special mystic herb that Gerard must swallow---and certain arcane gestures. In the case of a glitch, it will have reduced effect (only half the [[harm]] is avoided) and attract unwanted attention (from other things that live in the insubstantial dimension Gerard is visiting). To cast this spell, roll the **use magic** move as usual, but the effect, requirements, and glitches are always the pre-agreed ones that go with the spell formula.
+For example, Gerard [[The Spooky]] wants a spell that turns him momentarily insubstantial to protect him from monster attacks. This is clearly 'beyond human limitations' and similar to a 'heal' effect, which makes it a bit more powerful than a regular spell. Gerard's player and [[the Keeper]] agree that the spell needs a rare ingredient---a special mystic herb that Gerard must swallow---and certain arcane gestures. In the case of a glitch, it will have reduced effect (only half the [[harm]] is avoided) and attract unwanted attention (from other things that live in the insubstantial dimension Gerard is visiting). To cast this spell, roll the **[[Use Magic]]** move as usual, but the effect, requirements, and glitches are always the pre-agreed ones that go with the spell formula.
 
 # Spell Books
 
 Hunters with magical backgrounds should begin with a spell book containing a core group of spells. These should be developed between player and Keeper. The payoff for the magician should be that the downside is clearly limited if it misfires. Various forms of investigative, illusion, protection, and [[healing]] magic spells are to be encouraged. Fantasy tabletop RPGs like *Dungeon World* are a good source of [[inspiration]], with the understanding that the spells generally need to be powered down a bit to match an urban fantasy setting.
 
-Spellcasters may be allowed to research spells---but this should often come with the same sort of serious costs associated with **big magic**. In many cases, the exact same requirements as **big magic** will work for spell research. A spell book or grimoire is a good special rare ingredient for spell research.
+Spellcasters may be allowed to research spells---but this should often come with the same sort of serious costs associated with **[[big magic]]**. In many cases, the exact same requirements as **[[big magic]]** will work for spell research. A spell book or grimoire is a good special rare ingredient for spell research.
 
 ## Christian Book of the Dead (Abridged)
 
@@ -1955,7 +1955,7 @@ An exceedingly rare and powerful arcane grimoire, the *Christian*
 
 All the spells involve sacrificial blood, medieval prayers in Latin, and the use of a complicated magic circle of salt to protect the necromancer if the spell fails. The spells also involve the caster focusing their will and then speaking the 'true name' of both the dead person and the Angel of Death.
 
-The book also details the expensive **big magic** ritual necessary to create a 'Hand of Glory.'
+The book also details the expensive **[[big magic]]** ritual necessary to create a 'Hand of Glory.'
 
 Famously, the original (but not the abridged) text also includes a complex ritual that allows for the manufacture of a musical instrument called Gabriel's Horn. When sounded, the Horn can transform four zombies created by the book's ritual into the Four Horsemen of the Apocalypse and bring about the end of the world.
 
@@ -2081,29 +2081,29 @@ A campaign modeled on *Stranger Things* can include adults as well as kids. An a
 
 As for the other basic playbooks:
 
-**The Crooked:** If you re-imagine the underworld in a kid's terms, it can work. A 'King Rat' kid who sells homework answers and forged permission slips might have fallen in with the supernatural. For [[inspiration]], you can also look to the film *Brick*, which imagines high school as a film noir, or *Buffy the Vampire Slayer* which depicts high school as a literal gateway to hell.
+**[[The Crooked]]:** If you re-imagine the underworld in a kid's terms, it can work. A 'King Rat' kid who sells homework answers and forged permission slips might have fallen in with the supernatural. For [[inspiration]], you can also look to the film *Brick*, which imagines high school as a film noir, or *Buffy the Vampire Slayer* which depicts high school as a literal gateway to hell.
 
-**The Divine:** A kid as an avatar or disguise is a nice fit for a campaign.
+**[[The Divine]]:** A kid as an avatar or disguise is a nice fit for a campaign.
 
 Keepers may want to check out the classic Cary Grant film *The Bishop's*
 
 *Wife* for ideas on how this could play. Your angel needs to remain disguised to regular folk. In *The Bishop's Wife*, for example, the angel's intervention is forgotten when his divine mission is completed.
 
-**The Expert:** While this character playbook suggests for an older mentor, an uber-nerd kid who knows every comic book and monster manual backwards can be an amusing substitute, with a tree house as their sanctuary.
+**[[The Expert]]:** While this character playbook suggests for an older mentor, an uber-nerd kid who knows every comic book and monster manual backwards can be an amusing substitute, with a tree house as their sanctuary.
 
 **The Spellslinger:** A spellcasting version of the nerd trope could also work for a Spellslinger. Imagine a small Harry Dresden or Harry Potter playing on the hockey team or as president of the high school magic club.
 
-**The Flake:** A nerd type is the aspiring journalist, Kolchak fan obsessed with the latest cryptids and conspiracy theories.
+**[[The Flake]]:** A nerd type is the aspiring journalist, Kolchak fan obsessed with the latest cryptids and conspiracy theories.
 
-**The Initiate:** A cult composed of children like in Stephen King's
+**[[The Initiate]]:** A cult composed of children like in Stephen King's
 
 *Children of the Corn* is one way to go here, but if you think about it, almost any strange organization could be a cult and it doesn't even have to be overtly religious. An ancient order of astrologers could be sending our young Initiate coded commands via a popular science program of the day like Carl Sagan's *Cosmos* or the local astronomy club.
 
-**The Monstrous:** A child vampire or teenage werewolf is not at all difficult to imagine and there are a wide variety of tropes in movies and television to draw [[inspiration]] from. From *My Best Friend is a Vampire* to the antics of various generations of Disney's teenaged werewolves, the kid monster was a popular comedic subject. Buffy the Vampire Slayer elevated the material further in the 1990s. The key, as with [[The Divine]] playbook, is to hide the monster in the classroom. A more comedic campaign could have the community embrace the monster, especially if that player can lead a local high school team to victory.
+**[[The Monstrous]]:** A child vampire or teenage werewolf is not at all difficult to imagine and there are a wide variety of tropes in movies and television to draw [[inspiration]] from. From *My Best Friend is a Vampire* to the antics of various generations of Disney's teenaged werewolves, the kid monster was a popular comedic subject. Buffy the Vampire Slayer elevated the material further in the 1990s. The key, as with [[The Divine]] playbook, is to hide the monster in the classroom. A more comedic campaign could have the community embrace the monster, especially if that player can lead a local high school team to victory.
 
 # Inspiration from Other Worlds
 
-A whole host of kid-centered horror games can provide [[inspiration]]. [[Examples]] include *Tales from the Loop*, *Grimm*, *Little Fears*, *Bubblegumshoe*, *Monsters and Other Childish Things*, *Dark Places and Demogorgons*, and *The Breakfast Cult*. While these systems have the advantage of being designed for kid-centered monster hunting, they should be used with caution. Almost all were designed for child characters, not monster hunting adolescents. Some have a focus outside where your group may want your campaign to go.
+A whole host of kid-centered horror games can provide [[inspiration]]. [[Examples]] include *Tales from the Loop*, *Grimm*, *Little Fears*, *Bubblegumshoe*, *[[Monsters]] and Other Childish Things*, *Dark Places and Demogorgons*, and *The Breakfast Cult*. While these systems have the advantage of being designed for kid-centered monster hunting, they should be used with caution. Almost all were designed for child characters, not monster hunting adolescents. Some have a focus outside where your group may want your campaign to go.
 
 -   *The Breakfast Cult* turns high school into a wonderland of Lovecraftian cultists and a place where a child Initiate might fit in just fine. It's also Powered by the Apocalypse, so its mechanics are more compatible with *Monster of the Week* than any of the other systems I have mentioned. *The Breakfast Cult* focuses on competing high school cults, so it's only going to be useful if that's a direction you want your game to go.
 
@@ -2379,7 +2379,7 @@ When you set the reactor to overload, [[the Keeper]] chooses some of these thing
 
 -   The Morlock caverns begin to collapse.
 
-*Monsters: Devourers (motivation: to consume people)*
+*[[Monsters]]: Devourers (motivation: to consume people)*
 
 After thousands of generations of living without sunlight, the Morlocks have dull grey-to-white skin, chinless faces, large greyish-red eyes with a capacity for reflecting light, and flaxen hair on the head and back. They are smaller than humans (the same height as Eloi). They are significantly weaker than an average human, but a large swarm of them is a serious threat to [[the hunters]], especially in the dark. Their sensitivity to light makes them reluctant to attack during the day. The Morlocks and the Eloi have something of a symbiotic relationship: the Eloi are clothed and fed by the Morlocks, and in return the Morlocks eat the Eloi. **Powers:**
 
@@ -2387,9 +2387,9 @@ After thousands of generations of living without sunlight, the Morlocks have dul
 
 ![](media/image79.jpg){width="6.0in" height="2.6496872265966753in"}**Attacks:** **Capture** (see below), **Talons** 1-[[harm]] hand messy.
 
-**Armour:** None.
+**[[Armour]]:** None.
 
-**Harm Capacity:** 12 (Each point represents a single Morlock).
+**[[Harm]] Capacity:** 12 (Each point represents a single Morlock).
 
 \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
@@ -2413,9 +2413,9 @@ Early prehistoric carnivorous reptile. Think of it as a huge alligator with a fi
 
 • **Ambush**: May attack before a victim can react.
 
-**Attack:** **Bite** 3-[[harm]] hand messy. **Armour:** 1 (thick scales).
+**Attack:** **Bite** 3-[[harm]] hand messy. **[[Armour]]:** 1 (thick scales).
 
-**Harm Capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 ![](media/image81.jpg){width="6.0in" height="2.649786745406824in"}**Weakness:** Cold. They will quickly fall into a stupor in low temperatures and will not attack at night above ground.
 
@@ -2429,9 +2429,9 @@ Early prehistoric carnivorous reptile. Think of it as a huge alligator with a fi
 
 **Attack:** **Bite** 1-[[harm]] hand.
 
-**Armour:** 3 (thick carapace).
+**[[Armour]]:** 3 (thick carapace).
 
-**Harm Capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:** Fearful: Will flee from any attack or perceived threat. Generally will not bite unless molested.
 
@@ -2465,7 +2465,7 @@ The larder cages are relatively easy to escape from and the Morlocks will store 
 
 # The Eloi
 
-*Bystanders: Victims (motivation: to put themselves in danger)*
+*[[Bystanders]]: Victims (motivation: to put themselves in danger)*
 
 The Eloi are smaller than modern humans, with shoulder-length curly hair, pointed chins, large eyes, small ears, small mouths with bright red thin lips, and sub-human intelligence. The Eloi speak a simple language, but have no interest in learning English or in anything besides simple play.
 
@@ -2551,7 +2551,7 @@ Lifespan: As the plague mutates, each generation of infected arachnoids lives tw
 
 **Cunning**: Infected arachnoids become feral and violent, but are capable of a greater degree of cunning than the original gumos. Arachnoids can set traps and be wary of security cameras etc. Some arachnoids might start to figure out they can infect others and may seek to do so rather than kill people. The motive for doing so varies from individual to individual. Some might be trying to punish enemies while others might want to reunite with loved ones.
 
-**Infectious**: If **a hunter suffers [[harm]] from an arachnoid bite**, instead of the normal **harm** move, use this one. Roll +Tough:
+**Infectious**: If **a hunter suffers [[harm]] from an arachnoid bite**, instead of the normal **[[harm]]** move, use this one. Roll +Tough:
 
 -   On a 10 or more, they resist the infection and gain +1 [[ongoing]] to resist the infection in the future. If they already have +1 [[ongoing]], they are now totally immune to the plague.
 
@@ -2579,15 +2579,15 @@ Lifespan: As the plague mutates, each generation of infected arachnoids lives tw
 
 -   Midnight: The character seems completely monstrous. Rational thought is nearly impossible.
 
-**Cure:** A person whose immune system is boosted by magic or science can fight off the transformation with regular **use magic** or **weird science**. Other weird [[moves]] might also apply if the hunter comes up with a good way to use them. It is not so simple to cure someone who has completed the transformation. This is a situation requiring major effort, **big magic** or a **weird science** experiment. The following elements will be needed:
+**Cure:** A person whose immune system is boosted by magic or science can fight off the transformation with regular **[[Use Magic]]** or **weird science**. Other weird [[moves]] might also apply if the hunter comes up with a good way to use them. It is not so simple to cure someone who has completed the transformation. This is a situation requiring major effort, **[[big magic]]** or a **weird science** experiment. The following elements will be needed:
 
 -   The individual to be cured must be present for the procedure.
 
 -   Some sample or representation of the person they were before: a treasured item or sympathetic token for a magical approach, or a genetic sample for a scientific approach.
 
--   A few days to study the changes between the past and current version of the person. This could be an opportunity to **read a bad situation**.
+-   A few days to study the changes between the past and current version of the person. This could be an opportunity to **[[Read A Bad Situation]]**.
 
--   A **use magic** or **weird science** move.
+-   A **[[Use Magic]]** or **weird science** move.
 
 # Dr. Atsuko Popov
 
@@ -2603,9 +2603,9 @@ Once she is aware of the plague, Atsuko will try to insinuate herself into the i
 
 **Attacks:** **Syringe** 0-[[harm]] intimate sedative. **Handgun** 2-[[harm]] close loud.
 
-**Armour:** \*Unusual anatomy\* (makes vital points harder to find): 1-[[armour]].
+**[[Armour]]:** \*Unusual anatomy\* (makes vital points harder to find): 1-[[armour]].
 
-**Harm Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:** None. Although not fully human, she is still a mortal creature.
 
@@ -2627,9 +2627,9 @@ The mutation process is brutal, and they will die from the changes in about a we
 
 • **Spider-parts**: They can produce webs, and climb walls like a spider. **Attacks:** **Claw and bite** 4-[[harm]] hand/close messy.
 
-**Armour:** Choose: **Human skin**: 0-[[armour]], **Light chitin**: 1-[[armour]], or **Heavy chitin**: 2-[[armour]].
+**[[Armour]]:** Choose: **Human skin**: 0-[[armour]], **Light chitin**: 1-[[armour]], or **Heavy chitin**: 2-[[armour]].
 
-**Harm Capacity:** 9. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 9. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:** No special weaknesses---although mutated, they are still normal living creatures.
 
@@ -2737,7 +2737,7 @@ An experimental sentient moss created by Dr. Cornwall. Once released, it rapidly
 
 **Powers:**
 
--   **Rapid Growth**: Grows quickly and without limit. It has trouble growing up vertical surfaces. It will engulf and suffocate anyone who doesn't escape its tendrils. Hunters being engulfed should roll **act under pressure** to escape, or another hunter might **protect** them to pull them free.
+-   **Rapid Growth**: Grows quickly and without limit. It has trouble growing up vertical surfaces. It will engulf and suffocate anyone who doesn't escape its tendrils. Hunters being engulfed should roll **[[Act Under Pressure]]** to escape, or another hunter might **protect** them to pull them free.
 
 -   **Vines**: Vines whip out from the moss. They can attack (see below), or be used to drag people into the moss, engulfing them.
 
@@ -2745,9 +2745,9 @@ An experimental sentient moss created by Dr. Cornwall. Once released, it rapidly
 
 **Attacks:** **Vines** 2-[[harm]] close grab.
 
-**Armour:** None.
+**[[Armour]]:** None.
 
-**Harm capacity:** Effectively unlimited. **Weaknesses:**
+**[[Harm]] capacity:** Effectively unlimited. **Weaknesses:**
 
 -   The Moss Brain, located at the center of Cornwall's lab.
 
@@ -2783,9 +2783,9 @@ The Moss Brain is a strange, pulsating, and glowing clump of moss and tendrils. 
 
 • **Controller of the Moss**: Can control the moss and spawn moss children.
 
-**Attacks:** **Painful psychic plant blast** 1-[[harm]] close ignore-[[armour]]. **Armour:** None.
+**Attacks:** **Painful psychic plant blast** 1-[[harm]] close ignore-[[armour]]. **[[Armour]]:** None.
 
-**Harm Capacity:** 5. ^\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 5. ^\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:** Sever its psychic connection to the moss: injecting it with a special poison is one way of doing this. Only Cornwall and Mike know how to make this poison, using materials in the lab.
 
@@ -2795,9 +2795,9 @@ The Moss Brain is a strange, pulsating, and glowing clump of moss and tendrils. 
 
 Dr. Cornwall is a 50-year-old scientist. He is short with greying black hair and a long beard. He discovered the Moss Brain and set up a research lab in the woods to study it. However, as time went on exposure to the brain allowed the creature to slowly take over his mind, corrupting him. Dr Cornwall's sole desire is now 'to spread the moss across all corners of the globe'. With the moss starting to spread, the brain now uses him as its puppet, forcing him to protect the brain with his life. He knows how to make a poison that will kill the Moss Brain and completely sever its psychic connection to its moss, stopping it from spreading. Unless [[the hunters]] can break him free of the brain's control, there is no way he will reveal this information.
 
-**Attacks:** **Shotgun** 3-[[harm]] close messy loud. **Armour:** None.
+**Attacks:** **Shotgun** 3-[[harm]] close messy loud. **[[Armour]]:** None.
 
-**Harm Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^ **Weakness:** He is a normal human.
+**[[Harm]] Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^ **Weakness:** He is a normal human.
 
 # Moss Child
 
@@ -2805,11 +2805,11 @@ Dr. Cornwall is a 50-year-old scientist. He is short with greying black hair and
 
 When the Moss Brain feels threatened it will create moss children. These are strange, vaguely child-shaped clumps of moss that have been given a very small amount of intelligence by the Moss Brain. **Powers:**
 
-• **Rapid Growth**: If it grabs onto a hunter, the moss will spread across their body and try to suffocate them. Hunters being engulfed should roll **act under pressure** to escape, or another hunter might **protect someone** to pull them free.
+• **Rapid Growth**: If it grabs onto a hunter, the moss will spread across their body and try to suffocate them. Hunters being engulfed should roll **[[Act Under Pressure]]** to escape, or another hunter might **[[Protect Someone]]** to pull them free.
 
-**Attacks:** **Vines** 2-[[harm]] close grab. **Pummel** 1-[[harm]] hand. **Armour:** None.
+**Attacks:** **Vines** 2-[[harm]] close grab. **Pummel** 1-[[harm]] hand. **[[Armour]]:** None.
 
-**Harm Capacity:** 5. ^\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 5. ^\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:** The Moss Brain, fire, and weedkiller.
 
@@ -2895,17 +2895,17 @@ On a miss, take an additional [[harm]] and answer honestly the questions she ask
 
 **Attacks:** **Telekinesis:** 0 to 3-[[harm]] close ignore-[[armour]] cold. Evelyn can throw objects or push victims---pick [[harm]] rating based on danger level. This leaves a frost that will melt into ectoplasmic goo.
 
-**Armour:** None, but she cannot be harmed by normal [[weapons]] (except while using her frost grasp).
+**[[Armour]]:** None, but she cannot be harmed by normal [[weapons]] (except while using her frost grasp).
 
-**Harm Capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weaknesses:**
 
-An apology, or **big magic** exorcism.
+An apology, or **[[big magic]]** exorcism.
 
 She will go away willingly with a heartfelt apology from Eric Clevinger, the professor who murdered her. She will claim him and the two will dramatically disappear.
 
-She can also be exorcised by **big magic .** Possible requirements for the ritual: one or two more people than there are hunters; must be performed in the dorm room where she was first summoned; will take time and chanting, possibly attracting unwanted attention and innocents.
+She can also be exorcised by **[[big magic]] .** Possible requirements for the ritual: one or two more people than there are hunters; must be performed in the dorm room where she was first summoned; will take time and chanting, possibly attracting unwanted attention and innocents.
 
 # Shelly Young (First-time witch)
 
@@ -3041,9 +3041,9 @@ When the monster manifests as one of the figures from a stained glass window, th
 
 -   On a miss, you are blinded for at least 30 seconds.
 
-**Attacks:** **Sharp shards of glass** 3-[[harm]] close messy. **Armour:** None.
+**Attacks:** **Sharp shards of glass** 3-[[harm]] close messy. **[[Armour]]:** None.
 
-**Harm Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:** Church Windows---when all the windows in the church are broken the ghost will no longer be able to manifest. There are three windows per hunter.
 
@@ -3057,9 +3057,9 @@ Following the Stained Glass Ghost through the tear in reality, these poltergeist
 
 **Attacks:** **Throw anything not bolted down** 2-[[harm]] far.
 
-**Armour:** None.
+**[[Armour]]:** None.
 
-**Harm Capacity:** 2. ^\[\]\[\]^
+**[[Harm]] Capacity:** 2. ^\[\]\[\]^
 
 **Weakness:** Corporeal form---in order to attack [[the hunters]], the Poltergeists must physically manifest. They can be destroyed by all forms of [[harm]], just as a human would. When destroyed they melt into shadows and disappear, never to manifest again.
 
@@ -3071,7 +3071,7 @@ The church is known for its many stained glass windows depicting scenes of the b
 
 The church is now intersects with a space between realities. Anyone who looks out the windows sees the realm of ghosts. Each color of glass gives a different view of a strange landscape and swirling mass of ghosts, each tinted by the color of the glass. **Powers:**
 
-• **Locked In**: Once the door to the church has been closed, those inside are trapped. Opening the door again reveals the ethereal landscape of the ghost world. The church returns to the normal world when the ghost is destroyed or if [[the hunters]] can pull off some appropriate **big magic**.
+• **Locked In**: Once the door to the church has been closed, those inside are trapped. Opening the door again reveals the ethereal landscape of the ghost world. The church returns to the normal world when the ghost is destroyed or if [[the hunters]] can pull off some appropriate **[[big magic]]**.
 
 **Custom Move:**
 
@@ -3167,9 +3167,9 @@ In human form, Pavlos is a boy in his late teens with dark features and a strong
 
 -   **Bite** 2-[[harm]] intimate.
 
-**Armour:** None in human form. 2 in minotaur form (thick hide).
+**[[Armour]]:** None in human form. 2 in minotaur form (thick hide).
 
-**Harm Capacity:** 10. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 10. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weaknesses:**
 
@@ -3183,7 +3183,7 @@ In human form, Pavlos is a boy in his late teens with dark features and a strong
 
 Pavlos is actually Nikos' father. Nikos can reveal this information dramatically ("Get away from my daddy!") when he intervenes. **Attacks:** **Shotgun** 3-[[harm]] close messy loud. **Kick and punch** 0-[[harm]] hand.
 
-**Harm Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:** None, he's just a normal human.
 
@@ -3225,7 +3225,7 @@ Gibbs is dismissive of Reynolds and [[the hunters]], who he views as opportunist
 
 # Bill and Sally Daniels, Ed and Jean Cross, parents of the missing kids
 
-*Bystanders: Helpers (motivation: to join the hunt)*
+*[[Bystanders]]: Helpers (motivation: to join the hunt)*
 
 The parents knew that their kids were going UFO spotting They will head into the crop circle themselves, if necessary, to do their own investigation.
 
@@ -3311,9 +3311,9 @@ Resembles a giant eyeless toad with a mouth covered with constantly moving tenta
 
 -   **Grab**: The froghemoth shoots its tongue out to try and grab someone. See the 'grab' move below.
 
-**Attack:** **Swallow** 3-[[harm]] close engulf (see custom move below). **Armour:** None.
+**Attack:** **Swallow** 3-[[harm]] close engulf (see custom move below). **[[Armour]]:** None.
 
-**Harm Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
+**[[Harm]] Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
 **Weakness:** Can only manifest when a transdimensonal nexus is open. If the nexus is closed, it becomes vulnerable.
 
@@ -3429,9 +3429,9 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 **Attacks:** **Handguns** 3-[[harm]] close loud.
 
-**Armour:** 2 if prepared for a fight (tactical [[gear]] and wards), 1 otherwise (normal wards only).
+**[[Armour]]:** 2 if prepared for a fight (tactical [[gear]] and wards), 1 otherwise (normal wards only).
 
-**Harm Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:** Adessi is a normal human being. The trick is getting past her protections and summons.
 
@@ -3439,11 +3439,11 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 **Powers:**
 
--   **Flight .**
+-   **[[Flight]] .**
 
 -   **Stealth**: The mantids exist in a phase of reality that living eyes can see quite well but technology can only catch fragments of. On camera, the mantid might present an occasional glimmer when viewed full on, with full silhouettes being caught rarely and usually on the edges of an image. Mantids are aware of when they are under a camera's eye and will be careful when they can be recorded. If there is an active queen, they stop caring about being seen.
 
--   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes unstable as their body begins to crystallize and they are completely transformed once all [[harm]] is marked off. The process can only be stopped with magic (**use magic** to banish a curse), **weird science**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
+-   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes unstable as their body begins to crystallize and they are completely transformed once all [[harm]] is marked off. The process can only be stopped with magic (**[[Use Magic]]** to banish a curse), **weird science**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
 
 -   **Devouring**: When it eats a crystallized prey and the soul within, it heals 2-[[harm]].
 
@@ -3451,7 +3451,7 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 -   High-frequency sound pulses or sonic attacks (these shatter the mantids' [[structure]]).
 
--   **Use magic** to banish a spirit. This will permanently destroy a mantid. **Attacks:**
+-   **[[Use Magic]]** to banish a spirit. This will permanently destroy a mantid. **Attacks:**
 
 -   **Claws** 5-[[harm]] close grappling.
 
@@ -3459,9 +3459,9 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 -   **Bite** 3-[[harm]] intimate crystallize (see powers, above).
 
-**Armour:** 2 against mundane [[harm]], 0 against magical [[harm]].
+**[[Armour]]:** 2 against mundane [[harm]], 0 against magical [[harm]].
 
-**Harm Capacity:** 6. ^\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 6. ^\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Custom [[Moves]]:**
 
@@ -3469,7 +3469,7 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 -   Altering the crystal so the soul within can animate it. Probably a temporary measure until something better can be found!
 
--   A **big magic** effect to revert the body to flesh. This might require studying the supernatural venom of the mantid's bite.
+-   A **[[big magic]]** effect to revert the body to flesh. This might require studying the supernatural venom of the mantid's bite.
 
 -   Creating a clone body via science or magic and transferring the soul to the new body. This will require dissolving the crystal body in a special solution to free the soul. The risk is that once the soul is free of the crystal, it will pass on to the afterlife rather than successfully transferring to a new body.
 
@@ -3507,9 +3507,9 @@ If you prefer, here are two alternate methods (you might come up with your own t
 
 -   **Living Crystal Shard:** **Grown spikes** 3-[[harm]] hand grapple. **Crystal dust** 0-[[harm]] intimate inhaled crystallize.
 
-**Armour:** 3 against mundane [[harm]], 0 against magical [[harm]].
+**[[Armour]]:** 3 against mundane [[harm]], 0 against magical [[harm]].
 
-**Harm Capacity:** 10 ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 10 ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:**
 
@@ -3605,7 +3605,7 @@ Curse-Speech is a simple 'language' of about a hundred words of power and destru
 
 **Weakness:** Being banished from the minds of its hosts.
 
-Banishing anything from a person's mind is **big magic**. Banishing the CurseSpeech when it wants to stay is really, really **big magic**. The ritual requires:
+Banishing anything from a person's mind is **[[big magic]]**. Banishing the CurseSpeech when it wants to stay is really, really **[[big magic]]**. The ritual requires:
 
 -   Three participants in addition to the subject.
 
@@ -3625,17 +3625,17 @@ Banishing anything from a person's mind is **big magic**. Banishing the CurseSpe
 
 -   On a miss, [[the Keeper]] holds 3.
 
-You can spend your holds to change any **cursed magic** [[moves]] into regular **use magic** instead. [[The Keeper]]'s holds are used to force the hunter to cast a **cursed magic** spell in any situation when magic could help them out.
+You can spend your holds to change any **cursed magic** [[moves]] into regular **[[Use Magic]]** instead. [[The Keeper]]'s holds are used to force the hunter to cast a **cursed magic** spell in any situation when magic could help them out.
 
-**Cursed Magic**: When you **know [[the Curse-Speech]] and [[use magic]]**, you must use this cursed version of the move. Roll +Weird:
+**Cursed Magic**: When you **know [[the Curse-Speech]] and [[Use Magic]]**, you must use this cursed version of the move. Roll +Weird:
 
--   On an 11+ your magic works as advanced **use magic**. [[The Keeper]] also gains 1 **Cursed Mind** [[hold]] as the power overwhelms you.
+-   On an 11+ your magic works as advanced **[[Use Magic]]**. [[The Keeper]] also gains 1 **Cursed Mind** [[hold]] as the power overwhelms you.
 
--   On a 9+, treat this as a 10+ **use magic** result.
+-   On a 9+, treat this as a 10+ **[[Use Magic]]** result.
 
--   On a 6-8, treat this as a 7-9 **use magic** result.
+-   On a 6-8, treat this as a 7-9 **[[Use Magic]]** result.
 
--   On a 5 or less, treat it as a 6 or less **use magic** result, plus you're so overwhelmed with power that [[the Keeper]] gains 2 **Cursed Mind** [[hold]].
+-   On a 5 or less, treat it as a 6 or less **[[Use Magic]]** result, plus you're so overwhelmed with power that [[the Keeper]] gains 2 **Cursed Mind** [[hold]].
 
 Choose one of the glitches listed below (in addition to any normal glitches required):
 
@@ -3645,9 +3645,9 @@ Choose one of the glitches listed below (in addition to any normal glitches requ
 
 -   Somebody present learns [[the Curse-Speech]].
 
-If you're using alternative Weird [[moves]], then hunters with new [[moves]] instead of **use magic** gain the ability to [[use magic]] when they know [[the Curse-Speech]].
+If you're using alternative Weird [[moves]], then hunters with new [[moves]] instead of **[[Use Magic]]** gain the ability to [[Use Magic]] when they know [[the Curse-Speech]].
 
-Those with classic **use magic** get an additional +1 on the Cursed Magic move.
+Those with classic **[[Use Magic]]** get an additional +1 on the Cursed Magic move.
 
 # Helmut Salzwedel
 
@@ -3689,7 +3689,7 @@ All the Circle members have the same abilities (except Hans, who can no longer u
 
 **Attacks:** **Black magic** 2-[[harm]] close ignore-[[armour]] magic. **Dagger** 1-[[harm]] hand.
 
-**Harm capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^ **Weakness:** None, just a regular human.
+**[[Harm]] capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^ **Weakness:** None, just a regular human.
 
 Below are the members of the circle: Ilse Herschwor
 
@@ -3745,7 +3745,7 @@ Several cars crashed last night. They were discovered on the edge of the highway
 
 # Kristina and David Delano
 
-*Bystanders: Innocents (motivation: to do the right thing)*
+*[[Bystanders]]: Innocents (motivation: to do the right thing)*
 
 When Kristina and David arrived home after adopting Nika, a series of gruesome attacks began in their hometown---each attack happening soon after nightfall, on victims who were awake. Researching folklore, the Delanos identified the culprit as a ghost: Madame Koshmar.
 
@@ -3779,9 +3779,9 @@ If [[the hunters]] attack her before learning about her link to Nika, ensure the
 
 **Attacks:** **Long curved dagger** 2-[[harm]] hand. **Shadow blast** 3-[[harm]] close magic ignore-[[armour]].
 
-**Armour:** 3 magic [[incorporeal]].
+**[[Armour]]:** 3 magic [[incorporeal]].
 
-**Harm Capacity:** 15. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
+**[[Harm]] Capacity:** 15. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
 **Weaknesses:**
 
@@ -3803,13 +3803,13 @@ Shades are dark ghostly [[minions]] that Madame Koshmar may summon from nearby s
 
 **Powers:**
 
-![](media/image110.jpg){width="6.0in" height="3.81in"}• **Incorporeal**: Unless dispelled with light, Shades will quickly reform without needing to be summoned by Madame Koshmar. **Attacks:** **Pass through person** 1-[[harm]] intimate magic. **Shadow attack** 2-[[harm]] close magic. **Armour:** None.
+![](media/image110.jpg){width="6.0in" height="3.81in"}• **[[Incorporeal]]**: Unless dispelled with light, Shades will quickly reform without needing to be summoned by Madame Koshmar. **Attacks:** **Pass through person** 1-[[harm]] intimate magic. **Shadow attack** 2-[[harm]] close magic. **[[Armour]]:** None.
 
-**Harm Capacity:** 4. ^\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 4. ^\[\]\[\]\[\]\[\]^
 
 **Weakness:**
 
-**Light:** Shades can be dispelled by a strong light such as a floodlight or an industrial-strength flashlight. However, in some situations it may be important for a character to **act under pressure** to successfully focus the light in the right direction.
+**Light:** Shades can be dispelled by a strong light such as a floodlight or an industrial-strength flashlight. However, in some situations it may be important for a character to **[[Act Under Pressure]]** to successfully focus the light in the right direction.
 
 # Tanner\'s End Chapel
 
@@ -3829,7 +3829,7 @@ Kristina has multiple levels of warding to protect her while she carries out the
 
 The ritual is a sleep spell intended to encompass the whole city. As the spell spreads out an equal distance from Kristina in all directions, a small portion of rural highway is also affected. This is what has been causing travellers to fall asleep at the wheel. These accidents have been happening since the rituals started. The recent revitalisation of the nearby Robinson township as a cultural hub means the number of victims will keep increasing. In a matter of days, hundreds of music fans will be heading toward Robinson for a music festival.
 
-If [[the hunters]] are inside the circle of the sleep spell's effect (or enter it) between 9 p.m. and 6 a.m., they will be affected by the spell and fall asleep almost instantly. Your hunters may **act under pressure** or **use magic** to resist the effects, but Madame Koshmar has ways of dealing with children up past curfew.
+If [[the hunters]] are inside the circle of the sleep spell's effect (or enter it) between 9 p.m. and 6 a.m., they will be affected by the spell and fall asleep almost instantly. Your hunters may **[[Act Under Pressure]]** or **[[Use Magic]]** to resist the effects, but Madame Koshmar has ways of dealing with children up past curfew.
 
 # Andrew Withers
 
@@ -3839,7 +3839,7 @@ If [[the hunters]] are inside the circle of the sleep spell's effect (or enter i
 
 # Other Townsfolk
 
-*Bystanders: Gossips (motivation: to pass on rumours)*
+*[[Bystanders]]: Gossips (motivation: to pass on rumours)*
 
 Most people in the town placidly accept their 9 p.m 'bedtime' as just the way it is in small-town America. Many are unlikely to respond well to suggestions that anything else is going on.
 
@@ -3929,7 +3929,7 @@ An evil tulpa will not fade after an hour. It will continue to manifest randomly
 
 **Custom [[Moves]]:**
 
-To **summon a tulpa** you must be able to use some sort of magic and have studied the process. A hunter trying it may have to **act under pressure** to stay focused while visualizing the tulpa. Roll +Weird:
+To **summon a tulpa** you must be able to use some sort of magic and have studied the process. A hunter trying it may have to **[[Act Under Pressure]]** to stay focused while visualizing the tulpa. Roll +Weird:
 
 -   On a 10+, a tulpa appears, totally under your control.
 
@@ -3961,9 +3961,9 @@ When attacking multiple foes, the rabbit quickly jumps from one target to anothe
 
 **Attack:** **Bite** 5-[[harm]] hand messy.
 
-**Armour:** 0. Soft fur, often bloody.
+**[[Armour]]:** 0. Soft fur, often bloody.
 
-**Harm Capacity:** 5. ^\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 5. ^\[\]\[\]\[\]\[\]\[\]^
 
 **Weaknesses:**
 
@@ -4057,7 +4057,7 @@ A teenager murders her family with a chainsaw, exhibiting supernatural strength 
 
 When **a hunter listens to the Disk Most Black**, they roll +Cool:
 
--   On a 10+, the music is merely noisome and repulsive. You may ask a question from the **investigate a mystery** list.
+-   On a 10+, the music is merely noisome and repulsive. You may ask a question from the **[[Investigate A Mystery]]** list.
 
 -   On a 7-9, in addition to asking a question as above, choose 1: a Wicked Soul appears to steal the disk; the music deals you
 
@@ -4067,7 +4067,7 @@ When **a hunter listens to the Disk Most Black**, they roll +Cool:
 
 # Wicked Souls
 
-*Minions: Guardians (motivation: to bar the way or protect something)*
+*[[Minions]]: Guardians (motivation: to bar the way or protect something)*
 
 These little terrors resemble large mosquitos made of smoke and glowing coals (to those who can detect them at all). They exist to protect and move the Disk Most Black. **Powers:**
 
@@ -4075,7 +4075,7 @@ These little terrors resemble large mosquitos made of smoke and glowing coals (t
 
 **Attack:** **Soul lash:** 1-[[harm]] intimate ignore-[[armour]].
 
-**Armour:** 0, but ignores all but holy or psychic damage. **Harm capacity:** 2. ^\[\]\[\]^
+**[[Armour]]:** 0, but ignores all but holy or psychic damage. **[[Harm]] capacity:** 2. ^\[\]\[\]^
 
 **Custom [[Moves]]:**
 
@@ -4087,7 +4087,7 @@ These little terrors resemble large mosquitos made of smoke and glowing coals (t
 
 # Silver Screen Slashers
 
-*Minions: Brute (motivation: to intimidate and attack)*
+*[[Minions]]: Brute (motivation: to intimidate and attack)*
 
 Brutes who seek only violence. This is a chance to bring your favorite
 
@@ -4095,9 +4095,9 @@ Brutes who seek only violence. This is a chance to bring your favorite
 
 **Attack:** **Signature over-the-top movie slasher weapon:** 4-[[harm]] hand messy.
 
-**Armour:** 0
+**[[Armour]]:** 0
 
-**Harm Capacity:** 3 (They're just kids! They change back upon death.) ^\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 3 (They're just kids! They change back upon death.) ^\[\]\[\]\[\]^
 
 **Custom [[Moves]]:**
 
@@ -4219,7 +4219,7 @@ He remembers when [[the hunters]] defeated him before, oh yes he does. They kill
 
 -   **Phylactery**: Keeps his soul safe.
 
--   **Powerful Magic**: Can use any of the normal **use magic** effects freely.
+-   **Powerful Magic**: Can use any of the normal **[[Use Magic]]** effects freely.
 
 -   **Advanced Arcane Training**: He only needs two out of Foci, Gestures, and Incantations to perform magic.
 
@@ -4235,17 +4235,17 @@ He remembers when [[the hunters]] defeated him before, oh yes he does. They kill
 
 -   **Memory theft** 0-[[harm]] intimate magical ignore-[[armour]] 1-memory.
 
-**Armour:** 1-[[armour]] (always prepared!)
+**[[Armour]]:** 1-[[armour]] (always prepared!)
 
-**Harm capacity:** 12 [[harm]], but will flee when he receives 6-[[harm]].
+**[[Harm]] capacity:** 12 [[harm]], but will flee when he receives 6-[[harm]].
 
 \[\]\[\]\[\]\[\]\[\]\[\] Flee \[\]\[\]\[\]\[\]\[\]\[\] Dead
 
-**Weakness:** A **big magic** ritual is required to wrench his soul from its phylactery and destroy both soul and phylactery. It must be performed within one midnight of his death (before or after) and takes six hours to cast. It requires the phylactery itself, **use magic**, and several rare ingredients that might be mysteries in their own right to obtain.
+**Weakness:** A **[[big magic]]** ritual is required to wrench his soul from its phylactery and destroy both soul and phylactery. It must be performed within one midnight of his death (before or after) and takes six hours to cast. It requires the phylactery itself, **[[Use Magic]]**, and several rare ingredients that might be mysteries in their own right to obtain.
 
 # Preĝo Believers
 
-*Bystanders: Victims (motivation: to put themselves in danger)*
+*[[Bystanders]]: Victims (motivation: to put themselves in danger)*
 
 Mostly of Latinx and Afro-Caribbean descent. They might go out looking for the people really behind the animal killings, or be on the streets to patrol and defend their community. They could even regard [[the hunters]] as a threat---who are these people hanging around asking questions?
 
@@ -4253,19 +4253,19 @@ Mostly of Latinx and Afro-Caribbean descent. They might go out looking for the p
 
 # Nightwalkers
 
-*Minions: Brutes (motivation: to intimidate and attack)*
+*[[Minions]]: Brutes (motivation: to intimidate and attack)*
 
 A couple of nightwalkers who are already on board with the Necromancer's plan, either for their own reasons or because he subdued them. They look like like large misshapen dog silhouettes made of pure darkness, bristling with spines, their red eyes glowing like embers. **Powers:**
 
 -   **Night Walker**: A nightwalker can disappear into the darkness, reappearing in its den. It cannot be tracked home, as it did not walk through the intervening space.
 
--   **Horrifying Yell**: Anyone who hears the howl of the nightwalker must take --1 [[ongoing]] unless they **act under pressure** to resist the fear. **Attacks:**
+-   **Horrifying Yell**: Anyone who hears the howl of the nightwalker must take --1 [[ongoing]] unless they **[[Act Under Pressure]]** to resist the fear. **Attacks:**
 
 -   **Bite** 1-[[harm]] hand.
 
 -   **Blood-suck** (must **bite** first): 2-[[harm]] intimate.
 
-**Armour:** None. **Weaknesses:**
+**[[Armour]]:** None. **Weaknesses:**
 
 -   Sunlight.
 
@@ -4273,7 +4273,7 @@ A couple of nightwalkers who are already on board with the Necromancer's plan, e
 
 -   Enclosure (if you can trap it within an enclosed area, it may not night-walk away and may be killed).
 
-**Harm capacity:** 5 [[harm]], but they will flee when they reach 3 [[harm]].
+**[[Harm]] capacity:** 5 [[harm]], but they will flee when they reach 3 [[harm]].
 
 ^\[\]\[\]\[\]^ Flee ^\[\]\[\]^ Dead
 
@@ -4347,7 +4347,7 @@ When you **search in the forest**, roll +Sharp:
 
 -   On a 10+, things seem to point somewhere in particular: take +1 [[forward]] for investigating.
 
--   On a 7-9, you can **investigate a mystery**, but then pick one of the bad things below.
+-   On a 7-9, you can **[[Investigate A Mystery]]**, but then pick one of the bad things below.
 
 -   On a miss, all three bad things are true. Bad things that can happen in the forest:
 
@@ -4467,9 +4467,9 @@ The coco's true form is hideous: a twisted, half-melted corpse child in rags. It
 
 **Powers:**
 
--   **Shapeshifter**: It can appear as anything roughly between human to childsized, but radiates it magic and evil strongly.
+-   **[[Shapeshifter]]**: It can appear as anything roughly between human to childsized, but radiates it magic and evil strongly.
 
--   **Illusions**: As well as creating spooky mazes, it can surround itself with confusing visions when attacked, forcing hunters to **act under pressure** to take action.
+-   **Illusions**: As well as creating spooky mazes, it can surround itself with confusing visions when attacked, forcing hunters to **[[Act Under Pressure]]** to take action.
 
 -   **Life Drain**: See the **life drain countdown** below for the process. Hunters have a chance to intervene and stop the process after each step, if they are close enough.
 
@@ -4477,9 +4477,9 @@ The coco's true form is hideous: a twisted, half-melted corpse child in rags. It
 
 **Attacks:** **Strike with fists** 1-[[harm]] hand. **Draining grip** 0-[[harm]] hand life-drain.
 
-**Harm Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
-**Armour:** None
+**[[Armour]]:** None
 
 **Custom [[Moves]]:**
 
@@ -4627,7 +4627,7 @@ The Old One is massive and octopus-like, spanning floors. It cannot move from th
 
 **Attacks:** **Serrated suckers** 2-[[harm]] far/intimate life-drain. **Gaping maw** 4-[[harm]] intimate ignore-[[armour]].
 
-**Harm Capacity:** 10-[[harm]] with two extra long tentacles (5-[[harm]], each).
+**[[Harm]] Capacity:** 10-[[harm]] with two extra long tentacles (5-[[harm]], each).
 
 -   Body: \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
@@ -4645,9 +4645,9 @@ The Old One is massive and octopus-like, spanning floors. It cannot move from th
 
 ![](media/image126.jpg){width="6.0in" height="4.121620734908136in"}Kel is a hunter (similar to [[the Monstrous]] playbook) who has come to investigate the Old Grand after [[the hunters]] went missing over a week ago. Convinced he is dealing with typical ghosts, he is armed with salt bullets and will attack on sight. If they take the time, [[the hunters]] will notice Kel is less wolf-like than typical werewolves: he still stands as a human, has use of his hands and feet, and can speak (although gutturally and infrequently while fighting). If they can convince him they mean no [[harm]], he may become an ally. If not, his supernatural PI licence and hunter's notes will be found on his body.
 
-**Attacks:** **Shotgun with salt bullets** 4-[[harm]] close messy loud anti-ghost. **Teeth** 2-[[harm]] intimate. **Armour:** 1. Very tough.
+**Attacks:** **Shotgun with salt bullets** 4-[[harm]] close messy loud anti-ghost. **Teeth** 2-[[harm]] intimate. **[[Armour]]:** 1. Very tough.
 
-**Harm Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weaknesses:** Silver, Wolfsbane, Magic.
 
@@ -4671,9 +4671,9 @@ Other spirits may be briefly seen or heard around the hotel. This may include gh
 
 # Custom Moves
 
-**Shades from the past**: As [[the hunters]] start to realise their situation, they may get flashbacks to what happened. As they are presented with additional information, an investigator may **investigate a mystery** (using Weird instead of Sharp) to recall relevant information in the form of a vision of the lost time.
+**Shades from the past**: As [[the hunters]] start to realise their situation, they may get flashbacks to what happened. As they are presented with additional information, an investigator may **[[Investigate A Mystery]]** (using Weird instead of Sharp) to recall relevant information in the form of a vision of the lost time.
 
-The investigators will be able to **resurrect**---see page 112 of *Monster of the Week*. The **big magic** requires:
+The investigators will be able to **resurrect**---see page 112 of *Monster of the Week*. The **[[big magic]]** requires:
 
 -   Their souls.
 
@@ -4731,9 +4731,9 @@ The Heartbreaker has currently disguised itself as the Orpheum's new theatre man
 
 • **Glamour**: Always looks like a person of indescribable beauty, whatever the beholder finds most physically attractive.
 
-**Attacks:** **Brawl** 2-[[harm]] hand, **Debilitating sadness** 0-[[harm]] close magic (victims take -1 [[forward]] on a passionate action). **Armour:** 1.
+**Attacks:** **Brawl** 2-[[harm]] hand, **Debilitating sadness** 0-[[harm]] close magic (victims take -1 [[forward]] on a passionate action). **[[Armour]]:** 1.
 
-**Harm Capacity:** 10. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 10. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:** Genuine Beauty---a work of art, a pure note, anything that can be called truly beautiful.
 
@@ -4745,9 +4745,9 @@ The Hollow resemble zombies in that they are unpossessed with selfwill, but they
 
 • **Mentally Reft**: Cannot be distracted---they have no mind or will of their own
 
-**Attacks:** **Smashing fists** 1-[[harm]] hand. **Armour:** 1.
+**Attacks:** **Smashing fists** 1-[[harm]] hand. **[[Armour]]:** 1.
 
-**Harm Capacity:** 4. ^\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 4. ^\[\]\[\]\[\]\[\]^
 
 **Weaknesses:** Loud sounds/music. Massive trauma.
 
@@ -4879,9 +4879,9 @@ Grabbed by kappa options:
 
 **Attacks:** **Webbed claws** 2-[[harm]] hand quick. **Beaked mouth** 2-[[harm]] intimate messy. **Strangle** (only used on people the creature has already **wrestling grabbed**) 4-[[harm]] intimate ignore-[[armour]].
 
-**Armour:** **Rock-hard shell:** 4-[[armour]]. Kappa can extend and retract both their limbs and head into their shells instantly; getting past the shell means catching them completely unaware, targeting a soft spot, or using some kind of magic.
+**[[Armour]]:** **Rock-hard shell:** 4-[[armour]]. Kappa can extend and retract both their limbs and head into their shells instantly; getting past the shell means catching them completely unaware, targeting a soft spot, or using some kind of magic.
 
-**Harm Capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weaknesses:**
 
@@ -4899,7 +4899,7 @@ The kappa is most active after dark, when it circles the lake looking for prey. 
 
 # Emiko and Peter Mikleson
 
-*Bystanders: Skeptics (motivation: to deny supernatural explanations)*
+*[[Bystanders]]: Skeptics (motivation: to deny supernatural explanations)*
 
 Emiko is the grown daughter of Katsuko Tanigawa and runs a pediatric clinic in the nearby city. She practices Shinto, the traditional religion of Japan, and still observes important holidays and practices. Emiko knows the folk stories of kappa and other yokai, but does not believe they actually exist. Her husband Peter is a successful real estate agent. Smart investments have left him and his family very well-off, and he now spends most of his time at charity board meetings or on the golf course. A practical man, Peter is not at all superstitious and flat out refuses to believe the deaths are anything more than unfortunate accidents.
 
@@ -4961,7 +4961,7 @@ While Helena slept and Ephraim was out of the room, Miri has been envisioning pu
 
 # Notes
 
-The most challenging part of the investigation will probably be connecting the [[monsters]] to Miri or Helena so that the story can come out. Some ways that might happen: enhanced senses (a Monstrous [[shapeshifter]] ability or one of **use magic**'s "things beyond human capability") might lead someone tracking a monster by smell bacl to Helena. A moment of magic sensitivity might detect Miri, who's something like a Spooky hunter. If [[the hunters]] meticulously map all the sites of attacks, tell them their exact epicenter is Helena's room. They might meet Miri, who isn't spending all of her time with her mother, and is sometimes sent out of the room so her parents can talk. [[The hunters]] might see a monster run by her, noting both that it's declining to attack her and that she doesn't seem alarmed or surprised by it. **Using magic** to view another time or place might let [[the hunters]] backtrack to Helena's room.
+The most challenging part of the investigation will probably be connecting the [[monsters]] to Miri or Helena so that the story can come out. Some ways that might happen: enhanced senses (a Monstrous [[shapeshifter]] ability or one of **[[Use Magic]]**'s "things beyond human capability") might lead someone tracking a monster by smell bacl to Helena. A moment of magic sensitivity might detect Miri, who's something like a Spooky hunter. If [[the hunters]] meticulously map all the sites of attacks, tell them their exact epicenter is Helena's room. They might meet Miri, who isn't spending all of her time with her mother, and is sometimes sent out of the room so her parents can talk. [[The hunters]] might see a monster run by her, noting both that it's declining to attack her and that she doesn't seem alarmed or surprised by it. **Using magic** to view another time or place might let [[the hunters]] backtrack to Helena's room.
 
 For bookkeeping, have a card for each monster that includes their current height and [[harm]] and whether they're active, or torpid and hiding. Prepare a stack of small cards for victims. As time passes and torpid [[monsters]] go active, add height to the monster and increase the [[harm]] of its attacks. When off-screen attacks occur, stack another victim card by the monster's card, noting when and where the attack happened and the size of the monster at the time so you can keep everyone's stories straight.
 
@@ -4999,11 +4999,11 @@ At first, they won't stray too far from Helena (and thus the hospital). But the 
 
 **Attacks:** The attacks all use the monster's size in feet to determine [[harm]] amounts. **Bite** Size-[[harm]] intimate. **Claw** (Size minus 1)-[[harm]] hand.
 
-**Harm Capacity:** Equal to their height in feet (minimum 1). So a three-foot monster can withstand 3-[[harm]], and can bite for 3-[[harm]] or claw for 2-[[harm]].
+**[[Harm]] Capacity:** Equal to their height in feet (minimum 1). So a three-foot monster can withstand 3-[[harm]], and can bite for 3-[[harm]] or claw for 2-[[harm]].
 
 **Weakness:**
 
-**Disease Cures:** Radiation, chemotherapy drugs, other harsh chemicals (e.g. concentrated acid, bleach, or ammonia), or magic. In particular, a successful use of **use magic** to 'cure a disease' will kill a monster of any size outright.
+**Disease Cures:** Radiation, chemotherapy drugs, other harsh chemicals (e.g. concentrated acid, bleach, or ammonia), or magic. In particular, a successful use of **[[Use Magic]]** to 'cure a disease' will kill a monster of any size outright.
 
 # The Hospital
 
@@ -5151,7 +5151,7 @@ In his natural form, Yudashkin is a tree of flesh and fronds composed of human a
 
 **Powers:**
 
--   **Shapeshifter**: He can appear as an elderly man, a boar, or a flock of blackbirds.
+-   **[[Shapeshifter]]**: He can appear as an elderly man, a boar, or a flock of blackbirds.
 
 -   **Tree Stride**: Yudashkin travels through the space surrounding any of his trees as if they were side by side. They're located across the park so he can suddenly appear and menace [[the hunters]] whenever it's appropriate.
 
@@ -5159,9 +5159,9 @@ In his natural form, Yudashkin is a tree of flesh and fronds composed of human a
 
 -   **Trapped**: As the mystery begins, he is magically imprisoned within this specific forest park.
 
-**Attacks:** **Primordial curse** 3-[[harm]] close area magic transform (-1 [[forward]] to run away; if not magically cured, the curse eventually turns you into a tree.) **Armour:** **Fallen pine needles and rotten flesh**: 2-[[armour]].
+**Attacks:** **Primordial curse** 3-[[harm]] close area magic transform (-1 [[forward]] to run away; if not magically cured, the curse eventually turns you into a tree.) **[[Armour]]:** **Fallen pine needles and rotten flesh**: 2-[[armour]].
 
-**Harm Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
+**[[Harm]] Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
 **Weaknesses:**
 
@@ -5209,9 +5209,9 @@ Park Ranger Rodney Womack is the self-appointed leader. A sprig of juniper is pi
 
 • **Beastspeak**: When a groundskeeper is attacked or spied upon, the beasts of the park warn and intervene to protect him/her.
 
-**Attacks:** **Deer rifle** 2-[[harm]] far loud. **Ritual knife** 1-[[harm]] close. **Armour:** None.
+**Attacks:** **Deer rifle** 2-[[harm]] far loud. **Ritual knife** 1-[[harm]] close. **[[Armour]]:** None.
 
-**Harm Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 # Taylor Shaw
 
@@ -5331,9 +5331,9 @@ He owns a white van. **Powers:**
 
 -   Must be killed by his own zombies.
 
-**Attacks:** **Necromantic touch** 1-[[harm]] intimate ignore-[[armour]]. **Armour:** None.
+**Attacks:** **Necromantic touch** 1-[[harm]] intimate ignore-[[armour]]. **[[Armour]]:** None.
 
-**Harm Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 # The Zombies (Cult Suicide Victims)
 
@@ -5351,9 +5351,9 @@ They cannot cross salt barriers or running water.
 
 **Romero-style:** Zombies can be destroyed by decapitation, or destruction of the brain.
 
-**Attacks:** **Bite** 2-[[harm]] intimate messy. **Armour:** None.
+**Attacks:** **Bite** 2-[[harm]] intimate messy. **[[Armour]]:** None.
 
-**Harm Capacity:** 4. ^\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 4. ^\[\]\[\]\[\]\[\]^
 
 **Note:** The necromancer is always in a protective circle of salt when commanding the zombies, otherwise they will attack and destroy him. He always carries salt with him, just in case. If the zombies devour the necromancer, their curse of unlife is over and their spirits are freed.
 
@@ -5441,17 +5441,17 @@ The necromancer generally keeps his zombies "asleep," buried in the earth in his
 
 A vengeful fairy, angry over a real or imagined slight, has infiltrated the world, learned technology, and created the most addictive video game ever. He has targeted one town to start things off.
 
-The game---*Orbital Funk Princess*---is so compelling that once someone picks it up, they must keep playing it. They keep playing the game to the exclusion of eating, drinking, or taking care of themselves at all. The game causes them to kill themselves through exhaustion, starvation, and related conditions such as thrombosis.
+The game---*[[Orbital Funk Princess]]*---is so compelling that once someone picks it up, they must keep playing it. They keep playing the game to the exclusion of eating, drinking, or taking care of themselves at all. The game causes them to kill themselves through exhaustion, starvation, and related conditions such as thrombosis.
 
-The game *Orbital Funk Princess* is present at each scene of death, in some instances still playing on the TV. If a hunter touches the physical game disc, sees it on-screen, or sees someone playing it, then they must test against the game's move (see below). On a miss, they get 'infected' with a need to play the game. It's not all-consuming---they can function and think about other things---but the need to play is like a hunger they can't ignore forever. As time progresses, they will think about the game more and more.
+The game *[[Orbital Funk Princess]]* is present at each scene of death, in some instances still playing on the TV. If a hunter touches the physical game disc, sees it on-screen, or sees someone playing it, then they must test against the game's move (see below). On a miss, they get 'infected' with a need to play the game. It's not all-consuming---they can function and think about other things---but the need to play is like a hunger they can't ignore forever. As time progresses, they will think about the game more and more.
 
 # Hook
 
 Potential leads:
 
--   People have been turning up dead from starvation/thrombosis/ etc while playing *Orbital Funk Princess*. There are reports on local news networks for the town and online news sources.
+-   People have been turning up dead from starvation/thrombosis/ etc while playing *[[Orbital Funk Princess]]*. There are reports on local news networks for the town and online news sources.
 
--   A hunter's connection was raving about *Orbital Funk Princess*:
+-   A hunter's connection was raving about *[[Orbital Funk Princess]]*:
 
 "Hey, isn't that the game that was in the news because someone played it until they died?"
 
@@ -5505,9 +5505,9 @@ If **you touch the game disc or see someone else playing it**, roll + Cool. You 
 
 -   On a 10+, it seems like a fun game---something is really neat about the music and images though you can't describe what exactly.
 
--   On a 7-9, you feel a distinct urge to play more. Mark experience if you play *Orbital Funk Princess* when you should be helping the others with the investigation.
+-   On a 7-9, you feel a distinct urge to play more. Mark experience if you play *[[Orbital Funk Princess]]* when you should be helping the others with the investigation.
 
--   On a miss, you are compelled to play. You must **act under pressure** to either stop playing, or if you have stopped playing, not pick up the game again.
+-   On a miss, you are compelled to play. You must **[[Act Under Pressure]]** to either stop playing, or if you have stopped playing, not pick up the game again.
 
 [[Bystanders]] who see someone playing the game just get the urge to play. If they're left alone they will play until they eventually die.
 
@@ -5579,7 +5579,7 @@ Oh, and the stars above the afflicted terrain form strangely regular patterns, h
 
 **Custom [[Moves]]:**
 
-**Order From Without**: [[The hunters]] aren't free from [[the Order]]'s influence. When the mystery reaches Dusk and every step thereafter, [[the Keeper]] holds 2. [[The Keeper]] may spend a [[hold]] to make a hunter **act under pressure** to do something unconnected to their Orderly obligations. And remember that, for many monster hunters, the quest is often purely a personal one.
+**Order From Without**: [[The hunters]] aren't free from [[the Order]]'s influence. When the mystery reaches Dusk and every step thereafter, [[the Keeper]] holds 2. [[The Keeper]] may spend a [[hold]] to make a hunter **[[Act Under Pressure]]** to do something unconnected to their Orderly obligations. And remember that, for many monster hunters, the quest is often purely a personal one.
 
 # The Town
 
@@ -5607,7 +5607,7 @@ Notable places:
 
 # The Cats
 
-*Bystanders: Innocents (motivation: to do the right thing)*
+*[[Bystanders]]: Innocents (motivation: to do the right thing)*
 
 The town was always proud of its huge population of cats. They were well-fed, sheltered, and treated with love and respect. Nowadays people still like them but many residents have no time to play with and care for the little felines.
 
@@ -5701,9 +5701,9 @@ The All-Father will not show himself to [[the hunters]] until after at least two
 
 -   **Enforced Stillness**: He creates a zone of absolute silence in a 10-meter radius around himself. Within this zone an oppressive spectral force seeps into the bodies of the living, attacking them with **Force of Silence** each minute they are in the zone.
 
-**Attacks:** **Choke** 3-[[harm]] close ignore-[[armour]]. **Force of Silence** 1-[[harm]] close magic [[ongoing]]. **Armour:** 2
+**Attacks:** **Choke** 3-[[harm]] close ignore-[[armour]]. **Force of Silence** 1-[[harm]] close magic [[ongoing]]. **[[Armour]]:** 2
 
-**Harm Capacity:** 12. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 12. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:** Loud noises will distract him to the point that his form wavers, causing him to manifest and become vulnerable to attack.
 
@@ -5719,13 +5719,13 @@ Over the years, the distance they are able to roam has extended from the cement 
 
 They stand still with disturbingly blank stares and will only move when unseen. Should anyone observing them turn away, or even blink, The Disembodied will suddenly be closer until they reach their ghostly hands deep into their victim's throats. **Powers:**
 
-• **Incorporeal**: The Disembodied Quiet are [[incorporeal]] forms who should be treated as having 3-[[armour]] (against any [[harm]]) unless their weakness is being exploited.
+• **[[Incorporeal]]**: The Disembodied Quiet are [[incorporeal]] forms who should be treated as having 3-[[armour]] (against any [[harm]]) unless their weakness is being exploited.
 
 **Attacks:** **Choke** 3-[[harm]] close ignore-[[armour]].
 
-**Armour:** 3 when [[incorporeal]], otherwise 0.
+**[[Armour]]:** 3 when [[incorporeal]], otherwise 0.
 
-**Harm Capacity:** 5. ^\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 5. ^\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:**
 
@@ -5827,9 +5827,9 @@ During combat, [[Razorback]] prefers to hang back and throw blades or spikes, or
 
 Slaughterhouse tools deal +2 [[harm]] to [[Razorback]].
 
-**Attacks:** **Thrown sharps** 2-[[harm]] close forceful messy. **Slaughterhouse hammer** 3-[[harm]] hand messy stun. **Machinery** 5-[[harm]] intimate messy slow. **Devour** 4-[[harm]] intimate messy life-drain. **Armour:** 1
+**Attacks:** **Thrown sharps** 2-[[harm]] close forceful messy. **Slaughterhouse hammer** 3-[[harm]] hand messy stun. **Machinery** 5-[[harm]] intimate messy slow. **Devour** 4-[[harm]] intimate messy life-drain. **[[Armour]]:** 1
 
-**Harm Capacity:** 20. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\] **Weakness:** Being ground up in the slaughterhouse machinery.
+**[[Harm]] Capacity:** 20. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\] **Weakness:** Being ground up in the slaughterhouse machinery.
 
 # The Pig Killing Factory
 
@@ -5845,13 +5845,13 @@ The remains of earlier victims can be found being eaten by slaughterhouse pigs.
 
 # Slaughterhouse Pigs
 
-*Minions: Beasts (motivation: to intimidate and attack)*
+*[[Minions]]: Beasts (motivation: to intimidate and attack)*
 
 Slaughterhouse pigs with oddly human-looking eyes are mysteriously appearing despite the plant being closed for years. They aren't violent---they are scavengers---but will defend themselves if attacked. Slaughterhouse tools brandished threateningly will keep a mob of pigs from attacking.
 
 If many are present, they will initiate an attack on a solitary or wounded hunter.
 
-**Attacks:** **Pig bite** 2-[[harm]] intimate messy. **Harm capacity:** 3. ^\[\]\[\]\[\]^
+**Attacks:** **Pig bite** 2-[[harm]] intimate messy. **[[Harm]] capacity:** 3. ^\[\]\[\]\[\]^
 
 # Archie Clemonte
 
@@ -5908,7 +5908,7 @@ Last night, four people were killed at a liquor store by something described as 
 +=================+==================================================================================================================================================================================================+
 | **Shadows**     | > The Red Ties play on suspicions between police and protesters at the RQI building. Violence erupts.                                                                                            |
 +-----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Sunset**      | The Heart is fully armed. Hunters have --1 [[ongoing]] to **read a bad situation**.                                                                                                                  |
+| **Sunset**      | The Heart is fully armed. Hunters have --1 [[ongoing]] to **[[Read A Bad Situation]]**.                                                                                                                  |
 +-----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Dusk**        | > Authorities institute martial law in the neighborhood.                                                                                                                                         |
 +-----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -5941,9 +5941,9 @@ Her goal is to gentrify and profit from poor neighborhoods through defamation, p
 
 **Attacks:** **Lava sword** 3-[[harm]] hand fire.
 
-**Armour:** 2, invulnerable to non-magical [[weapons]].
+**[[Armour]]:** 2, invulnerable to non-magical [[weapons]].
 
-**Harm Capacity:** 10. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 10. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 # Red Ties, minions of the queen
 
@@ -5959,9 +5959,9 @@ These agents of the Red Queen look like special agents with dark glasses and bla
 
 -   **Call in Reinforcements**.
 
-**Attacks:** **Guns** 2-[[harm]] close loud. **Armour:** 1.
+**Attacks:** **Guns** 2-[[harm]] close loud. **[[Armour]]:** 1.
 
-**Harm capacity:** 3. ^\[\]\[\]\[\]^
+**[[Harm]] capacity:** 3. ^\[\]\[\]\[\]^
 
 **Weakness:** Except for their devotion to the Red Queen, these [[minions]] are plain humans.
 
@@ -5977,9 +5977,9 @@ These hapless victims of the Red Queen's cursed fortified wine become ferocious 
 
 -   **Leaping**.
 
-**Attacks:** **Claws** 2-[[harm]] hand messy. **Armour:** 0.
+**Attacks:** **Claws** 2-[[harm]] hand messy. **[[Armour]]:** 0.
 
-**Harm capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^ **Weakness:** Magic.
+**[[Harm]] capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^ **Weakness:** Magic.
 
 # The Heart of Darkness
 
@@ -5991,7 +5991,7 @@ Reportedly, the heart was created by a noblewoman during the
 
 Middle Ages. When the ruling family executed her husband for his political writings, the distraught noble commissioned a forge and crafted the cage. The final step was to sacrifice her own life, giving her heart (full of hate for the rulers) to create an artifact of disruption and despair for the ages. **Powers:**
 
-• **Curse of Miscommunication**: Once two Mad Dogs have fed on human flesh, the heart will begin twisting communication in the city where it is installed. Apply --1 [[ongoing]] to **manipulate** any bystander. The next feeding brings a further --1 [[ongoing]] to **read a bad situation**, as it becomes harder to think. Most [[bystanders]] will give in to panic at this point and will fight, flee, hide, or freeze.
+• **Curse of Miscommunication**: Once two Mad Dogs have fed on human flesh, the heart will begin twisting communication in the city where it is installed. Apply --1 [[ongoing]] to **manipulate** any bystander. The next feeding brings a further --1 [[ongoing]] to **[[Read A Bad Situation]]**, as it becomes harder to think. Most [[bystanders]] will give in to panic at this point and will fight, flee, hide, or freeze.
 
 **Weakness:** The Heart of Darkness can be defeated two ways, but there is only one way to destroy it.
 
@@ -6001,7 +6001,7 @@ The chains that bind it in place can take a total of 8-[[harm]]. If [[the hunter
 
 To destroy the Heart of Darkness for good, the frame must be dismantled and the heart buried with the rest of the old Countess of Winchester's body in the UK.
 
-**Harm capacity:** The Chains, 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] capacity:** The Chains, 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 # RQI HQ
 
@@ -6043,7 +6043,7 @@ A bystander turns into a Mad Dog after drinking Ruby Red three times.
 
 When **a hunter drinks Ruby Red**, they roll +Cool:
 
--   On a 10+ the drink is merely disgusting, but you have a vision and may ask a question from the **investigate a mystery** list.
+-   On a 10+ the drink is merely disgusting, but you have a vision and may ask a question from the **[[Investigate A Mystery]]** list.
 
 -   On a 7-9, choose 1:
 
@@ -6109,9 +6109,9 @@ A swarm of crystalline nanomachines, manufactured by Havenhill's hacked snowmake
 
 -   **Lightweight**: The Squall can effectively fly on the wind, but not very fast.
 
-**Attacks:** **Small gust** 1-[[harm]] close cold ignore-[[armour]]. **Big gust** 3-[[harm]] close cold ignore-[[armour]] forceful. **Avalanche** 5-[[harm]] far cold ignore-[[armour]] forceful area. **Armour:** 0
+**Attacks:** **Small gust** 1-[[harm]] close cold ignore-[[armour]]. **Big gust** 3-[[harm]] close cold ignore-[[armour]] forceful. **Avalanche** 5-[[harm]] far cold ignore-[[armour]] forceful area. **[[Armour]]:** 0
 
-**Harm capacity:** 12. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] capacity:** 12. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weaknesses:**
 
@@ -6135,9 +6135,9 @@ When they're not sculpting, Buddies will try to collect electronic communication
 
 • **Festive Camouflage**: Snow Buddies are difficult to spot in the storm.
 
-**Attacks:** **Twiggy claws** 1-[[harm]] hand. **Icicle fangs** 3-[[harm]] intimate. **Armour:** None.
+**Attacks:** **Twiggy claws** 1-[[harm]] hand. **Icicle fangs** 3-[[harm]] intimate. **[[Armour]]:** None.
 
-**Harm capacity:** 4. ^\[\]\[\]\[\]\[\]^ **Weakness:** Heat.
+**[[Harm]] capacity:** 4. ^\[\]\[\]\[\]\[\]^ **Weakness:** Heat.
 
 **Note:** Meatmen have the same stats and abilities as Snow Buddies, just\... more gross.
 
@@ -6255,7 +6255,7 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 -   **Swarm of Scarabs**: Swarms of flesh-eating scarabs manifest spontaneously where the efreet has been. See below for the details on these critters.
 
--   **Flight**.
+-   **[[Flight]]**.
 
 -   **Barely There**: When the efreet is lurking or simply flying, it becomes nearly transparent. Its real shape is awesome and terrifying.
 
@@ -6263,9 +6263,9 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 **Attacks:** **Scorching ray** 3-[[harm]] close/far area slow heat. **Whirlwind**: 2-[[harm]] area forceful (see **twister** move below).
 
-**Armour:** 0, but refer to its **barely there** and **plasmic body** powers, above.
+**[[Armour]]:** 0, but refer to its **barely there** and **plasmic body** powers, above.
 
-**Harm capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weaknesses:**
 
@@ -6281,7 +6281,7 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 -   On a miss, you are swept up and unceremoniously dropped a block or two away. You take 4-[[harm]] and are away from the action.
 
-**Return to the Bottle**: The efreet cannot attack somebody holding the bottle or the cap. It may also be trapped back in the bottle by a **big magic** ritual.
+**Return to the Bottle**: The efreet cannot attack somebody holding the bottle or the cap. It may also be trapped back in the bottle by a **[[big magic]]** ritual.
 
 Requirements for the evil ritual are:
 
@@ -6311,7 +6311,7 @@ On any hit, the dancing hunter decides which ritual-participant the consequence 
 
 -   One hunter is enchanted. Their eyes are now literally burning.
 
--   One hunter gains pyrophobia. In future, they will need to **act under pressure** to go near open flames.
+-   One hunter gains pyrophobia. In future, they will need to **[[Act Under Pressure]]** to go near open flames.
 
 -   One hunter is touched by the supernatural. If possible, their next improvement must either be "Take +1 Weird" or a move that requires rolling +Weird.
 
@@ -6321,13 +6321,13 @@ On any hit, the dancing hunter decides which ritual-participant the consequence 
 
 -   **Hide Inside Dead Bodies**.
 
--   **Flight**.
+-   **[[Flight]]**.
 
 -   **Obscure Vision**.
 
 -   **Immune to [[Harm]]**, unless it is an *area*, *fire*, or *crushing* attack. **Attacks:** **Hundreds of mandibles** 1-[[harm]] intimate slow.
 
-**Harm capacity:** 3. ^\[\]\[\]\[\]^ That's enough to disperse the swarm so it's no longer dangerous.
+**[[Harm]] capacity:** 3. ^\[\]\[\]\[\]^ That's enough to disperse the swarm so it's no longer dangerous.
 
 **Weakness:** Fire.
 
@@ -6339,11 +6339,11 @@ Cunning agents of the cult ready to sacrifice themselves to further its goals.
 
 **Powers:**
 
-• **Minor Spells**: Anything a normal **use magic** could do. **Weaknesses:** None (they are just normal humans).
+• **Minor Spells**: Anything a normal **[[Use Magic]]** could do. **Weaknesses:** None (they are just normal humans).
 
-**Attacks:** as per weapon, usually a **knife** 2-[[harm]] hand. **Armour:** none, but impervious to heat, smoke, fire.
+**Attacks:** as per weapon, usually a **knife** 2-[[harm]] hand. **[[Armour]]:** none, but impervious to heat, smoke, fire.
 
-**Harm capacity:** 6. ^\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] capacity:** 6. ^\[\]\[\]\[\]\[\]\[\]\[\]^
 
 # Sailors\' Hostel
 
@@ -6451,9 +6451,9 @@ On a miss, the trap is sprung and the hunter takes full damage.
 
 -   **Creature of Darkness**: She can only leave her secret chamber (her tomb) between midnight and one in the morning ('The [[Witching Hour]]'). She may not cross running water. Attacks that use rock salt will force her to return to her tomb.
 
-**Attack:** **Touch** 1-[[harm]] intimate life-drain ignore-[[armour]]. She also has a Hand of Glory (see page 82) and will use it. **Armour:** None.
+**Attack:** **Touch** 1-[[harm]] intimate life-drain ignore-[[armour]]. She also has a Hand of Glory (see page 82) and will use it. **[[Armour]]:** None.
 
-**Harm Capacity:** 7 (at the start). ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] Capacity:** 7 (at the start). ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 **Weakness:** She can only be killed if the Clock of Endor is destroyed.
 
@@ -6579,7 +6579,7 @@ The more auras the Egg reads, the bigger and more complex a world it creates. Su
 
 ![](media/image157.jpg){width="6.0in" height="3.4027963692038496in"}The Egg is resistant to accidental damage but if hit really hard (3-[[harm]] in a single strike) it breaks and hatches prematurely into a Voidmouth: an occult black hole that first swallows everything nearby and then gradually pulls more distant objects into itself, annihilating them. It would need about a month to swallow an entire city.
 
-Sealing a Voidmouth requires a **big magic** ritual with the following requirements:
+Sealing a Voidmouth requires a **[[big magic]]** ritual with the following requirements:
 
 -   Three or more participants.
 
@@ -6601,9 +6601,9 @@ Lea has spent her entire life researching Kabbalah, demonology, and quantum phys
 
 **Attacks:** **Heighten gravity** 2-[[harm]] far area forceful ignore-[[armour]].
 
-**Harm capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
-**Weakness:** Pocket dimensions: Her power to **teleport** doesn't work in dimensions created by World Eggs or in other places where space is disrupted. Hunters can create such disruptions with **big magic**.
+**Weakness:** Pocket dimensions: Her power to **teleport** doesn't work in dimensions created by World Eggs or in other places where space is disrupted. Hunters can create such disruptions with **[[big magic]]**.
 
 # Lea\'s Lab
 
@@ -6615,7 +6615,7 @@ Lea's lab is a cross between a high-tech physics facility and a medieval alchemi
 
 # World Egg Golems
 
-*Minions: Guardians (motivation: to protect the lab and Drittore)*
+*[[Minions]]: Guardians (motivation: to protect the lab and Drittore)*
 
 These are humanoid animate objects from the pocket worlds. Most look like people made from rare minerals, metals, laboratory apparatus, or raw energy. They are reflections of Lea's aura so they always have at least one of the following traits:
 
@@ -6629,7 +6629,7 @@ These are humanoid animate objects from the pocket worlds. Most look like people
 
 Most of the golems don't know about the world beyond their dimensions and will be very angry at Lea for keeping them in the dark about it. **Attacks:** **Slam** 3-[[harm]] hand messy.
 
-**Harm capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^ **Armour:** 2. Made of minerals.
+**[[Harm]] capacity:** 8. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^ **[[Armour]]:** 2. Made of minerals.
 
 # The Runaway Golem
 
@@ -6639,7 +6639,7 @@ This golem is both curious and power-hungry. It knows about the outside world an
 
 **Attacks:** **Slam** 3-[[harm]] hand messy. **Stolen gravity gun** 2-[[harm]] close area forceful ignore-[[armour]].
 
-**Harm capacity:** 10. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^ **Armour:** 2. Made of minerals.
+**[[Harm]] capacity:** 10. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]^ **[[Armour]]:** 2. Made of minerals.
 
 # The Hatchery
 
@@ -6663,7 +6663,7 @@ The portals to the pocket dimensions are in a small room called the Hatchery. By
 
 A thief, sly and streetwise, but clueless about the supernatural. He had been casing Lea's house. Sometimes shows his loot to Maurizia. **Attacks:** **Knife** 1-[[harm]] hand.
 
-**Harm capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 # Maurizia Diori
 
@@ -6673,7 +6673,7 @@ A fence with a sense of the supernatural, she earns a living by buying seemingly
 
 **Attacks:** **Thin, runed stiletto** 1-[[harm]] hand magic.
 
-**Harm capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
+**[[Harm]] capacity:** 7. ^\[\]\[\]\[\]\[\]\[\]\[\]\[\]^
 
 # Aftermath
 

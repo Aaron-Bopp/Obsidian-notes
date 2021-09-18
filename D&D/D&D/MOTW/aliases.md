@@ -270,7 +270,7 @@
 
 [[Necromancers Gambit]]:
 
-[[New Hunters]]:
+[[Hunter types]]:
 
 [[No Planning Ahead]]:
 

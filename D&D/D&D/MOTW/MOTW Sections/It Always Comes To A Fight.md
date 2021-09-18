@@ -9,7 +9,7 @@ Try to hurt [[the hunters]]: they have plenty of Luck at the beginning so they a
 
 Keeping [[Fights]] Interesting
 
-There are going to be a lot of [[fights]], and you need to keep them novel. It’s easy to fall into giving everyone a turn, [[the hunters]] each rolling **kick some ass** one at a time, but that’s dull.
+There are going to be a lot of [[fights]], and you need to keep them novel. It’s easy to fall into giving everyone a turn, [[the hunters]] each rolling **[[kick some ass]]** one at a time, but that’s dull.
 
 I’m going to present a variety of techniques to keep fight scenes exciting. Use them in your game (with your Keeper [[moves]]) whenever you can. The techniques are:
 
@@ -34,7 +34,7 @@ Take a moment to work out what the combatants want to achieve, and that will hel
 
 When a fight starts, pick who gets the first move, and base your decision both on what’s happening and in accordance with your agenda and principles.
 
-If a hunter just missed a **read a bad situation** roll, maybe the first she knows about the troll is when it attacks. Conversely, if [[the hunters]] have made a concerted effort to infiltrate a lair undetected, they’ll be the ones attacking without warning.
+If a hunter just missed a **[[Read A Bad Situation]]** roll, maybe the first she knows about the troll is when it attacks. Conversely, if [[the hunters]] have made a concerted effort to infiltrate a lair undetected, they’ll be the ones attacking without warning.
 
 Other times, both sides are aware of each other. Use your common sense here, and base the decision on what’s happening, as always in accordance with your agenda and principles.
 
@@ -62,15 +62,15 @@ Drawing a map is a good idea, and will give everyone an agreed picture of the sp
 
 Pay attention to the tags of the [[weapons]] used in the fight, so you can work them into your descriptions of what’s going on. Many of the weapon tags can influence the direction of the fight and the story in unpredictable directions. As well as [[the hunters]]’ weapon tags, use the monster’s and [[minions]]’ attack tags.
 
-Make sure that you take weapon range tags into account, too. If a weapon is being used out of its normal range, that will be a disadvantage to the wielder. That might prevent it from being used at all, or it might be less effective (e.g. causing less [[harm]] than usual, or requiring an **act under pressure** to use it properly).
+Make sure that you take weapon range tags into account, too. If a weapon is being used out of its normal range, that will be a disadvantage to the wielder. That might prevent it from being used at all, or it might be less effective (e.g. causing less [[harm]] than usual, or requiring an **[[Act Under Pressure]]** to use it properly).
 
 **BE CREATIVE WITH [[MOVES]]**
 
 Vary [[the Keeper]] [[moves]] you use. If you find yourself repeating the same sort of thing, take a moment to check [[the Keeper]] [[moves]] list and think about what else could happen right now.
 
-Call for [[the hunters]] to use **act under pressure**, **help out**, **protect someone**, and **read a bad situation** whenever an opportunity comes up, so [[the hunters]] do not just use **kick some ass** all the time.
+Call for [[the hunters]] to use **[[Act Under Pressure]]**, **[[Help Out]]**, **[[Protect Someone]]**, and **[[Read A Bad Situation]]** whenever an opportunity comes up, so [[the hunters]] do not just use **[[kick some ass]]** all the time.
 
-Remember that you can also use the move **inflict [[harm]] as established**. If an attack doesn’t require the hunter to expose themselves to danger, just let them **inflict [[harm]]** instead of asking them to **kick some ass**.
+Remember that you can also use the move **inflict [[harm]] as established**. If an attack doesn’t require the hunter to expose themselves to danger, just let them **inflict [[harm]]** instead of asking them to **[[kick some ass]]**.
 
 Make sure [[the hunters]] always describe what they are doing in detail. If they’ve used enough detail, you’ll find it easy to work out how to react.
 
@@ -80,7 +80,7 @@ When a hunter misses a move roll, think a little about what could go wrong, give
 
 *Terry (playing the hunter Isis) says “I shoot the cyclops slug.” You can ask “Okay, where do you shoot it?” or “Are you leaning around the doorframe or coming into the passage to get a clear shot?” or “Is it a carefully aimed shot or quick shot?”*
 
-*If Isis misses her **kick some ass** roll, then you can react based on the answer:*
+*If Isis misses her **[[kick some ass]]** roll, then you can react based on the answer:*
 
 - *If she shot it in the face, it could blind the single eye.*
 - *If she shot it in the body, it can’t come at her so fast.*
@@ -101,7 +101,7 @@ If some of [[the hunters]] don’t join the fighting, ask them what they’re do
 
 **DON’T DRAG THINGS OUT**
 
-Don’t be afraid to resolve [[fights]] quickly, especially if [[the hunters]] are fighting outclassed [[minions]], or a difficult bystander. One successful **kick some ass** can be enough to win an easy fight. Remember that many [[minions]] and most [[bystanders]] won’t just fight to the death: they might surrender or flee after a single hit.
+Don’t be afraid to resolve [[fights]] quickly, especially if [[the hunters]] are fighting outclassed [[minions]], or a difficult bystander. One successful **[[kick some ass]]** can be enough to win an easy fight. Remember that many [[minions]] and most [[bystanders]] won’t just fight to the death: they might surrender or flee after a single hit.
 
 **USE SOFT [[MOVES]]**
 

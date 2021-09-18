@@ -31,9 +31,9 @@ This mystery is unusual in that the most dangerous supernatural being here (Ober
 
 Aside from defeating Bonecruncher, the mystery has a few other threads [[the hunters]] might want to tie up.
 
-- Oberon is indulging his desire for revenge due to the town’s betrayal, but for him this is quite a small betrayal. If [[the hunters]] propose some kind of reparation, he’ll be happy to leave the town to its own devices. Cunning hunters might even argue that the things he has already done are enough punishment for the town to consider the contract quit. Another angle they can take is that none of the people now suffering were parties to the contract (Oberon will respond that they benefited from his influence over the town, so are bound by the terms for that reason). Hunters could also call upon another major power as a mediator, but they would still need to successfully present their argument against Oberon. Note that it is possible [[the hunters]] may use **manipulate someone** on Oberon, but he will demand a high price, such as servitude for one hundred years, or a unique magical treasure.
+- Oberon is indulging his desire for revenge due to the town’s betrayal, but for him this is quite a small betrayal. If [[the hunters]] propose some kind of reparation, he’ll be happy to leave the town to its own devices. Cunning hunters might even argue that the things he has already done are enough punishment for the town to consider the contract quit. Another angle they can take is that none of the people now suffering were parties to the contract (Oberon will respond that they benefited from his influence over the town, so are bound by the terms for that reason). Hunters could also call upon another major power as a mediator, but they would still need to successfully present their argument against Oberon. Note that it is possible [[the hunters]] may use **[[Manipulate Someone]]** on Oberon, but he will demand a high price, such as servitude for one hundred years, or a unique magical treasure.
 - Bonecruncher could be sent away as one of the terms of a deal [[the hunters]] cut with Oberon, but otherwise the redcap will be left to roam and kill as he wishes.
-- Violet poses another problem. She is currently happy being a member of Oberon’s court, but her family would love to have her returned. Hunters might think about restoring her memories of her mortal life, or breaking the glamours of Faerie. A disenchanted Violet will be unhappy to lose Faerie (and her friends there) but will gradually settle back into a normal life. And, after all, her fairy friends can still come and visit (that could be a starting point for a later mystery). Hunters can use **manipulate someone** on Violet as with any normal person, although her wants are rather twisted by her time in Faerie.
+- Violet poses another problem. She is currently happy being a member of Oberon’s court, but her family would love to have her returned. Hunters might think about restoring her memories of her mortal life, or breaking the glamours of Faerie. A disenchanted Violet will be unhappy to lose Faerie (and her friends there) but will gradually settle back into a normal life. And, after all, her fairy friends can still come and visit (that could be a starting point for a later mystery). Hunters can use **[[Manipulate Someone]]** on Violet as with any normal person, although her wants are rather twisted by her time in Faerie.
 
 In case [[the hunters]] go looking for it: beloved children were sent to Faerie on Midsummer Day in 1615, 1655, 1695, 1735, 1775, 1815, 1855, 1895, 1935, and 1975. These dates assume a game set in 2015—shift them if your game is set some other time! The most recent disappearance must be 40 years back, and you can shift the town’s founding date from 1615 if needed to make it fit.
 
@@ -60,9 +60,9 @@ Oberon has many other powers but those two will be the ones most appropriate for
 
 **Attacks**: Sword: 3-[[harm]] hand poison; Host of elf-knights plus goblin infantry: 4-[[harm]] hand/close/far area.
 
-**Harm capacity**: 15 bbbbbbbbbbbbbbb
+**[[Harm]] capacity**: 15 bbbbbbbbbbbbbbb
 
-**Armour**: Faerie mail: 3-[[armour]] magic
+**[[Armour]]**: Faerie mail: 3-[[armour]] magic
 
 **Weaknesses**:
 
@@ -75,7 +75,7 @@ Oberon's Fortress
 
 This is in Faerie. [[The hunters]] may travel here to try and come to an arrangement with Oberon.
 
-If you want, you can make the journey through Faerie a major task and extend the mystery. Alternatively, you can have [[the hunters]] **act under pressure** to find their way, or have them meet a guide who will take them swiftly to Oberon.
+If you want, you can make the journey through Faerie a major task and extend the mystery. Alternatively, you can have [[the hunters]] **[[Act Under Pressure]]** to find their way, or have them meet a guide who will take them swiftly to Oberon.
 
 King Oberon is very powerful and has hosts of fairies under his command, so [[the hunters]] should treat this as a negotiation rather than a battle.
 
@@ -98,9 +98,9 @@ Violet is curious about mortals, and playful, so [[the hunters]] can probably ge
 
 **Attacks**: Faerie dagger. 1-[[harm]] intimate/hand sleep magic. Anyone harmed by this dagger may also suffer “falls into an enchanted slumber” as a [[harm]] move.
 
-**Harm capacity**: 7 Okay bbbb|bbb Dying
+**[[Harm]] capacity**: 7 Okay bbbb|bbb Dying
 
-**Armour**: None
+**[[Armour]]**: None
 
 **Weaknesses**: She is a normal human.
 
@@ -123,9 +123,9 @@ If [[the hunters]] talk to him, Bonecruncher will insult and threaten them, hopi
 
 **Attacks**: Razor-sharp Poleaxe: 3-[[harm]] hand/close; Terrible Talons: 1-[[harm]] hand; Sharp Teeth: 2-[[harm]] intimate ignores-[[armour]].
 
-**Harm capacity**: 9. bbbbbbbbb
+**[[Harm]] capacity**: 9. bbbbbbbbb
 
-**Armour**: None
+**[[Armour]]**: None
 
 **Weaknesses**:
 

@@ -64,9 +64,9 @@ On a miss, the trap is sprung and the hunter takes full damage.
 
 -   **Creature of Darkness**: She can only leave her secret chamber (her tomb) between midnight and one in the morning (‘The Witching Hour’). She may not cross running water. Attacks that use rock salt will force her to return to her tomb.
 
-**Attack:** **Touch** 1-[[harm]] intimate life-drain ignore-[[armour]]. She also has a Hand of Glory (see page 82) and will use it. **Armour:** None.
+**Attack:** **Touch** 1-[[harm]] intimate life-drain ignore-[[armour]]. She also has a Hand of Glory (see page 82) and will use it. **[[Armour]]:** None.
 
-**Harm Capacity:** 7 (at the start). <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 7 (at the start). <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:** She can only be killed if the Clock of Endor is destroyed.
 

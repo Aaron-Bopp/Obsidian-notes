@@ -50,7 +50,7 @@ The Old One is massive and octopus-like, spanning floors. It cannot move from th
 
 **Attacks:** **Serrated suckers** 2-[[harm]] far/intimate life-drain. **Gaping maw** 4-[[harm]] intimate ignore-[[armour]].
 
-**Harm Capacity:** 10-[[harm]] with two extra long tentacles (5-[[harm]], each).
+**[[Harm]] Capacity:** 10-[[harm]] with two extra long tentacles (5-[[harm]], each).
 
 -   Body: \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
@@ -68,9 +68,9 @@ The Old One is massive and octopus-like, spanning floors. It cannot move from th
 
 ![[image126.jpg]]Kel is a hunter (similar to [[the Monstrous]] playbook) who has come to investigate the Old Grand after [[the hunters]] went missing over a week ago. Convinced he is dealing with typical ghosts, he is armed with salt bullets and will attack on sight. If they take the time, [[the hunters]] will notice Kel is less wolf-like than typical werewolves: he still stands as a human, has use of his hands and feet, and can speak (although gutturally and infrequently while fighting). If they can convince him they mean no [[harm]], he may become an ally. If not, his supernatural PI licence and hunter’s notes will be found on his body.
 
-**Attacks:** **Shotgun with salt bullets** 4-[[harm]] close messy loud anti-ghost. **Teeth** 2-[[harm]] intimate. **Armour:** 1. Very tough.
+**Attacks:** **Shotgun with salt bullets** 4-[[harm]] close messy loud anti-ghost. **Teeth** 2-[[harm]] intimate. **[[Armour]]:** 1. Very tough.
 
-**Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weaknesses:** Silver, Wolfsbane, Magic.
 
@@ -94,9 +94,9 @@ Other spirits may be briefly seen or heard around the hotel. This may include gh
 
 # Custom Moves
 
-**Shades from the past**: As [[the hunters]] start to realise their situation, they may get flashbacks to what happened. As they are presented with additional information, an investigator may **investigate a mystery** (using Weird instead of Sharp) to recall relevant information in the form of a vision of the lost time.
+**Shades from the past**: As [[the hunters]] start to realise their situation, they may get flashbacks to what happened. As they are presented with additional information, an investigator may **[[Investigate A Mystery]]** (using Weird instead of Sharp) to recall relevant information in the form of a vision of the lost time.
 
-The investigators will be able to **resurrect**—see page 112 of *Monster of the Week*. The **big magic** requires:
+The investigators will be able to **resurrect**—see page 112 of *Monster of the Week*. The **[[big magic]]** requires:
 
 -   Their souls.
 

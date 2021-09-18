@@ -30,9 +30,9 @@ The All-Father will not show himself to [[the hunters]] until after at least two
 
 -   **Enforced Stillness**: He creates a zone of absolute silence in a 10-meter radius around himself. Within this zone an oppressive spectral force seeps into the bodies of the living, attacking them with **Force of Silence** each minute they are in the zone.
 
-**Attacks:** **Choke** 3-[[harm]] close ignore-[[armour]]. **Force of Silence** 1-[[harm]] close magic [[ongoing]]. **Armour:** 2
+**Attacks:** **Choke** 3-[[harm]] close ignore-[[armour]]. **Force of Silence** 1-[[harm]] close magic [[ongoing]]. **[[Armour]]:** 2
 
-**Harm Capacity:** 12. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 12. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:** Loud noises will distract him to the point that his form wavers, causing him to manifest and become vulnerable to attack.
 
@@ -48,13 +48,13 @@ Over the years, the distance they are able to roam has extended from the cement 
 
 They stand still with disturbingly blank stares and will only move when unseen. Should anyone observing them turn away, or even blink, The Disembodied will suddenly be closer until they reach their ghostly hands deep into their victim’s throats. **Powers:**
 
-• **Incorporeal**: The Disembodied Quiet are [[incorporeal]] forms who should be treated as having 3-[[armour]] (against any [[harm]]) unless their weakness is being exploited.
+• **[[Incorporeal]]**: The Disembodied Quiet are [[incorporeal]] forms who should be treated as having 3-[[armour]] (against any [[harm]]) unless their weakness is being exploited.
 
 **Attacks:** **Choke** 3-[[harm]] close ignore-[[armour]].
 
-**Armour:** 3 when [[incorporeal]], otherwise 0.
+**[[Armour]]:** 3 when [[incorporeal]], otherwise 0.
 
-**Harm Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:**
 

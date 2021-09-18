@@ -48,9 +48,9 @@ In human form, Pavlos is a boy in his late teens with dark features and a strong
 
 -   **Bite** 2-[[harm]] intimate.
 
-**Armour:** None in human form. 2 in minotaur form (thick hide).
+**[[Armour]]:** None in human form. 2 in minotaur form (thick hide).
 
-**Harm Capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weaknesses:**
 
@@ -64,7 +64,7 @@ In human form, Pavlos is a boy in his late teens with dark features and a strong
 
 Pavlos is actually Nikos’ father. Nikos can reveal this information dramatically (“Get away from my daddy!”) when he intervenes. **Attacks:** **Shotgun** 3-[[harm]] close messy loud. **Kick and punch** 0-[[harm]] hand.
 
-**Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:** None, he’s just a normal human.
 
@@ -106,7 +106,7 @@ Gibbs is dismissive of Reynolds and [[the hunters]], who he views as opportunist
 
 # Bill and Sally Daniels, Ed and Jean Cross, parents of the missing kids
 
-*Bystanders: Helpers (motivation: to join the hunt)*
+*[[Bystanders]]: Helpers (motivation: to join the hunt)*
 
 The parents knew that their kids were going UFO spotting They will head into the crop circle themselves, if necessary, to do their own investigation.
 

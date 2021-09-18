@@ -19,18 +19,18 @@ To make your Spooky, first pick a name. Then follow the instructions below to de
 - Charm=0, Cool-1, Sharp+1, Tough+1, Weird+2
 - Charm-1, Cool-1, Sharp+2, Tough=0, Weird+2
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all the basic [[moves]], plus pick three Spooky [[moves]]:*
 
-- **Telepathy:** You can read people’s thoughts and put words in their mind. This can allow you to **investigate a mystery** or **read a bad situation** without needing to actually talk. You can also **manipulate someone** without speaking. You still roll [[moves]] as normal, except people will not expect the weirdness of your mental communication.
-- **Hex:** When you cast a spell (with **use magic**), as well as the normal effects, you may pick from the following: 
+- **Telepathy:** You can read people’s thoughts and put words in their mind. This can allow you to **[[Investigate A Mystery]]** or **[[Read A Bad Situation]]** without needing to actually talk. You can also **[[Manipulate Someone]]** without speaking. You still roll [[moves]] as normal, except people will not expect the weirdness of your mental communication.
+- **Hex:** When you cast a spell (with **[[Use Magic]]**), as well as the normal effects, you may pick from the following: 
   - The target contracts a disease.
   - The target immediately suffers [[harm]] (2-[[harm]] magic ignore-
 
     [[armour]]).
   - The target breaks something precious or important.
-- **The Sight:** You can see the invisible, especially spirits and magical influences. You may communicate with (maybe even make deals with) the spirits you see, and they give you more opportunities to spot clues when you **investigate a mystery**.
+- **The Sight:** You can see the invisible, especially spirits and magical influences. You may communicate with (maybe even make deals with) the spirits you see, and they give you more opportunities to spot clues when you **[[Investigate A Mystery]]**.
 - **Premonitions:** **At the start of each mystery**, roll +Weird. On a 10+, you get a detailed vision of something bad that is yet to happen. You take +1 [[forward]] to prevent it coming true, and mark experience if you stop it. On a 7-9+ you get clouded images of something bad that is yet to happen: mark experience if you stop it. On a miss, you get a vision of something bad happening to you and [[the Keeper]] holds 3, to be spent one-for-one as penalties to rolls you make.
 - **Hunches:** **When something bad is happening** (or just about to happen) somewhere that you aren’t, roll +Sharp. On a 10+ you knew where you needed to go, just in time to get there. On a 7-9, you get there late—in time to intervene, but not prevent it altogether. On a miss, you get there just in time to be in trouble yourself.
 - **Tune In**: You can **attune your mind to a monster or minion**. Roll +Weird. On a 10+, [[hold]] 3. On a 7-9, [[hold]] 1. On a miss, the monster becomes aware of you. Spend one [[hold]] to ask [[the Keeper]] one of the following questions, and gain +1 [[ongoing]] while acting on the answers: 
@@ -39,7 +39,7 @@ To make your Spooky, first pick a name. Then follow the instructions below to de
   - *Who is it going to attack next?*
   - *Who does it regard as the biggest threat?*
   - *How can I attract its attention?*
-- **The Big Whammy**: You can use your powers to **kick some ass:** roll +Weird instead of +Tough. The attack has 2-[[harm]] close obvious ignore-[[armour]]. On a miss, you’ll get a magical backlash.
+- **The Big Whammy**: You can use your powers to **[[kick some ass]]:** roll +Weird instead of +Tough. The attack has 2-[[harm]] close obvious ignore-[[armour]]. On a miss, you’ll get a magical backlash.
 - **Jinx**: You can encourage coincidences to occur, the way you want. **When you jinx a target**, roll +Weird. On a 10+ [[hold]] 2 and on a 7-9 [[hold]] 1. On a miss, [[the Keeper]] holds 2 over you to be used in the same way. Spend your [[hold]] to: 
   - Interfere with a hunter, giving them -1 [[forward]].
   - Help a hunter, giving them +1 [[forward]], by interfering with their enemy.
@@ -73,7 +73,7 @@ Your powers have an unsavory source, and sometimes you get tempted to do things 
 
 [[The Keeper]] can ask you to do nasty things (in accordance with the tags), when your powers need you to. If you do whatever is asked, mark experience. If you don’t do it, then your powers are unavailable until the end of the mystery (or until you cave). As you mark off Luck boxes, these requests will get bigger and nastier.
 
-**GEAR**
+**[[GEAR]]**
 
 You get two normal [[weapons]] and any magical items or amulets that you use to invoke your powers.
 
@@ -85,13 +85,13 @@ Normal [[weapons]] (pick two):
 - Shotgun (3-[[harm]] close messy)
 - Big knife (1-[[harm]] hand)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Spooky by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. On your turn, pick one of these for each hunter:
 
@@ -112,7 +112,7 @@ Okay bbbbbbb Doomed
 
 **Spooky special:** As you mark off Luck boxes, your dark side’s needs will get nastier.
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -120,7 +120,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -128,7 +128,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Weird, max +3
 - Get +1 Charm, max +2

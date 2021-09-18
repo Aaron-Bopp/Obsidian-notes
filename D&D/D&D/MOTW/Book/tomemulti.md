@@ -1029,7 +1029,7 @@ weapon. **Recording devices (pick two):**
 
 -   A spilling of blood, which inflicts 1-[[harm]] upon you or a willing participant.
 
-> Give your new rote a name, and decide specifically what the requirements are (which words, gestures, objects, symbols, and procedures are required). Unlike regular **use magic**, a rote’s cost and the consequences for failing it are known to you in advance. After you cast it for the first time, treat each rote as a custom move—a specialised version of [[use magic]], which is built with [[the Keeper]]. Write down what it does on a 10+, a 7-9, and a miss. Also, a rote is a bit more powerful than a basic **use magic** spell: its glitches are less onerous and its effect may be a little bigger.
+> Give your new rote a name, and decide specifically what the requirements are (which words, gestures, objects, symbols, and procedures are required). Unlike regular **use magic**, a rote’s cost and the consequences for failing it are known to you in advance. After you cast it for the first time, treat each rote as a custom move—a specialised version of [[Use Magic]], which is built with [[the Keeper]]. Write down what it does on a 10+, a 7-9, and a miss. Also, a rote is a bit more powerful than a basic **use magic** spell: its glitches are less onerous and its effect may be a little bigger.
 >
 > Casting a rote requires you to have the needed items at hand and the ability to physically use them. You roll +Weird to cast it, as you would when **using magic** normally.
 >
@@ -1041,15 +1041,15 @@ weapon. **Recording devices (pick two):**
 >
 > Whenever you give in to your Temptation and act accordingly, you mark experience. You need to **act under pressure** to resist giving in to your temptation, if a perfect opportunity presents itself; if you fail this roll, you don’t mark experience like you would have if you’d willingly acted out your desires.
 >
-> Choose one Temptation: b **Vengeance:** [[Use magic]] to inflict disproportionate retribution on someone who wronged you.
+> Choose one Temptation: b **Vengeance:** [[Use Magic]] to inflict disproportionate retribution on someone who wronged you.
 >
-> b **Power:** [[Use magic]] to exert your dominance over another. b **Addiction:** [[Use magic]] to do what you could do without it. b **Callousness:** [[Use magic]] without regard for the safety of others.
+> b **Power:** [[Use Magic]] to exert your dominance over another. b **Addiction:** [[Use Magic]] to do what you could do without it. b **Callousness:** [[Use Magic]] without regard for the safety of others.
 >
-> b **Carnage:** [[Use magic]] to inflict gruesome violence.
+> b **Carnage:** [[Use Magic]] to inflict gruesome violence.
 >
-> b **Secrets:** [[Use magic]] to discover forbidden, dangerous knowledge.
+> b **Secrets:** [[Use Magic]] to discover forbidden, dangerous knowledge.
 >
-> b **Glory:** [[Use magic]] to steal someone’s thunder.
+> b **Glory:** [[Use Magic]] to steal someone’s thunder.
 
 ## Moves
 
@@ -1489,7 +1489,7 @@ b Forensic tools. of strange events.
 
 # Patrons Provide Direction
 
-> Without a Patron supplying direction, a Keeper needs a new hook for every mystery [[the hunters]] investigate. After a while, inventing needy friends and relatives for [[the hunters]] to [[help out]] becomes tired.
+> Without a Patron supplying direction, a Keeper needs a new hook for every mystery [[the hunters]] investigate. After a while, inventing needy friends and relatives for [[the hunters]] to [[Help Out]] becomes tired.
 >
 > It is much easier to have [[the hunters]] assigned a case by their supervisor, or a story by their editor, than to have the monster once again lurch into [[the hunters]]’ favorite diner and interrupt dinner! Patron organizations do not have to be extremely well-organized and resourced for this role. A simple group of retired law enforcement officers who know the supernatural is real would be plenty to provide leads and missions.
 >
@@ -3438,7 +3438,7 @@ b phenomenon b serial killer b dopplegänger
 
 > You can spend your holds to change any **cursed magic** [[moves]] into regular **use magic** instead. [[The Keeper]]’s holds are used to force the hunter to cast a **cursed magic** spell in any situation when magic could help them out.
 >
-> **Cursed Magic**: When you **know [[the Curse-Speech]] and [[use magic]]**, you must use this cursed version of the move. Roll +Weird:
+> **Cursed Magic**: When you **know [[the Curse-Speech]] and [[Use Magic]]**, you must use this cursed version of the move. Roll +Weird:
 
 -   On an 11+ your magic works as advanced **use magic**. [[The Keeper]] also gains 1 **Cursed Mind** [[hold]] as the power overwhelms you.
 
@@ -3456,7 +3456,7 @@ b phenomenon b serial killer b dopplegänger
 
 -   Somebody present learns [[the Curse-Speech]].
 
-> If you’re using alternative Weird [[moves]], then hunters with new [[moves]] instead of **use magic** gain the ability to [[use magic]] when they know [[the Curse-Speech]].
+> If you’re using alternative Weird [[moves]], then hunters with new [[moves]] instead of **use magic** gain the ability to [[Use Magic]] when they know [[the Curse-Speech]].
 >
 > Those with classic **use magic** get an additional +1 on the Cursed Magic move.
 

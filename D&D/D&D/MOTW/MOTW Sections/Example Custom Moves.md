@@ -3,7 +3,7 @@ Here are a bunch more [[examples]] to show you the sorts of [[moves]] you might 
 
 An Aura Of Terror
 
-*An ancient wraith has an aura of terror. **Anyone within 5 metres of the wraith** takes -1 [[ongoing]], unless they **act under pressure** to resist the fear.*
+*An ancient wraith has an aura of terror. **Anyone within 5 metres of the wraith** takes -1 [[ongoing]], unless they **[[Act Under Pressure]]** to resist the fear.*
 
 This is a penalty move, triggered by being close to the monster. It’s designed to make attacking the ghost up close harder, which may get [[the hunters]] thinking of alternative ways to defeat it.
 
@@ -33,17 +33,17 @@ Searching the marshes is a roll move. It is designed to make the marshes a bit m
 
 Nightmares
 
-*When **you go to sleep in this town**, count how many times you have slept here and roll +sleeps. On a 10+, you have nightmare visions of what is to come and you know it can’t be stopped: you must **act under pressure** to break out of your despair and actually do something about the visions. On a 7-9 you have nightmare visions of what’s coming, but that’s all. On a miss, you sleep like a baby.*
+*When **you go to sleep in this town**, count how many times you have slept here and roll +sleeps. On a 10+, you have nightmare visions of what is to come and you know it can’t be stopped: you must **[[Act Under Pressure]]** to break out of your despair and actually do something about the visions. On a 7-9 you have nightmare visions of what’s coming, but that’s all. On a miss, you sleep like a baby.*
 
 This move belongs to the location threat that describes the town. It is another roll type move, that tells [[the hunters]] that this town is in big trouble, and they need to sort it out before too many nights pass.
 
 Calling The Flame Spirits
 
-Here’s a move for a hunter who made the **use magic** move a lot for a particular effect, so we decided to make a custom move for that spell.
+Here’s a move for a hunter who made the **[[Use Magic]]** move a lot for a particular effect, so we decided to make a custom move for that spell.
 
 *When you **call the flame spirits** you need to spill some very strong liquor into a fire and call the spirits by name (as many or as few names as you want). Roll +Weird. On a 10+ all the spirits you named come, and they’ll tell you some specific things and burn anything you want. On a 7-9 one of them comes and tells you some obscure things and then it burns some stuff, mostly what you wanted burned. On a miss, the fire spirits are angered. They might refuse your summons for a long time, or some of them might appear and demand a significant sacrifice from you right now, or else.*
 
-This is another roll move, designed to be a slightly different version of **use magic** that deals with this particular spell. Note that it is safer, but a lot more specific, than the **use magic** move.
+This is another roll move, designed to be a slightly different version of **[[Use Magic]]** that deals with this particular spell. Note that it is safer, but a lot more specific, than the **[[Use Magic]]** move.
 
 Inaccurate Memories
 

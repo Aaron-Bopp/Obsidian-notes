@@ -28,29 +28,29 @@ A campaign modeled on *Stranger Things* can include adults as well as kids. An a
 
 As for the other basic playbooks:
 
-**The Crooked:** If you re-imagine the underworld in a kid’s terms, it can work. A ‘King Rat’ kid who sells homework answers and forged permission slips might have fallen in with the supernatural. For [[inspiration]], you can also look to the film *Brick*, which imagines high school as a film noir, or *Buffy the Vampire Slayer* which depicts high school as a literal gateway to hell.
+**[[The Crooked]]:** If you re-imagine the underworld in a kid’s terms, it can work. A ‘King Rat’ kid who sells homework answers and forged permission slips might have fallen in with the supernatural. For [[inspiration]], you can also look to the film *Brick*, which imagines high school as a film noir, or *Buffy the Vampire Slayer* which depicts high school as a literal gateway to hell.
 
-**The Divine:** A kid as an avatar or disguise is a nice fit for a campaign.
+**[[The Divine]]:** A kid as an avatar or disguise is a nice fit for a campaign.
 
 Keepers may want to check out the classic Cary Grant film *The Bishop’s*
 
 *Wife* for ideas on how this could play. Your angel needs to remain disguised to regular folk. In *The Bishop’s Wife*, for example, the angel’s intervention is forgotten when his divine mission is completed.
 
-**The Expert:** While this character playbook suggests for an older mentor, an uber-nerd kid who knows every comic book and monster manual backwards can be an amusing substitute, with a tree house as their sanctuary.
+**[[The Expert]]:** While this character playbook suggests for an older mentor, an uber-nerd kid who knows every comic book and monster manual backwards can be an amusing substitute, with a tree house as their sanctuary.
 
 **The Spellslinger:** A spellcasting version of the nerd trope could also work for a Spellslinger. Imagine a small Harry Dresden or Harry Potter playing on the hockey team or as president of the high school magic club.
 
-**The Flake:** A nerd type is the aspiring journalist, Kolchak fan obsessed with the latest cryptids and conspiracy theories.
+**[[The Flake]]:** A nerd type is the aspiring journalist, Kolchak fan obsessed with the latest cryptids and conspiracy theories.
 
-**The Initiate:** A cult composed of children like in Stephen King’s
+**[[The Initiate]]:** A cult composed of children like in Stephen King’s
 
 *Children of the Corn* is one way to go here, but if you think about it, almost any strange organization could be a cult and it doesn’t even have to be overtly religious. An ancient order of astrologers could be sending our young Initiate coded commands via a popular science program of the day like Carl Sagan’s *Cosmos* or the local astronomy club.
 
-**The Monstrous:** A child vampire or teenage werewolf is not at all difficult to imagine and there are a wide variety of tropes in movies and television to draw [[inspiration]] from. From *My Best Friend is a Vampire* to the antics of various generations of Disney’s teenaged werewolves, the kid monster was a popular comedic subject. Buffy the Vampire Slayer elevated the material further in the 1990s. The key, as with [[The Divine]] playbook, is to hide the monster in the classroom. A more comedic campaign could have the community embrace the monster, especially if that player can lead a local high school team to victory.
+**[[The Monstrous]]:** A child vampire or teenage werewolf is not at all difficult to imagine and there are a wide variety of tropes in movies and television to draw [[inspiration]] from. From *My Best Friend is a Vampire* to the antics of various generations of Disney’s teenaged werewolves, the kid monster was a popular comedic subject. Buffy the Vampire Slayer elevated the material further in the 1990s. The key, as with [[The Divine]] playbook, is to hide the monster in the classroom. A more comedic campaign could have the community embrace the monster, especially if that player can lead a local high school team to victory.
 
 # Inspiration from Other Worlds
 
-A whole host of kid-centered horror games can provide [[inspiration]]. [[Examples]] include *Tales from the Loop*, *Grimm*, *Little Fears*, *Bubblegumshoe*, *Monsters and Other Childish Things*, *Dark Places and Demogorgons*, and *The Breakfast Cult*. While these systems have the advantage of being designed for kid-centered monster hunting, they should be used with caution. Almost all were designed for child characters, not monster hunting adolescents. Some have a focus outside where your group may want your campaign to go.
+A whole host of kid-centered horror games can provide [[inspiration]]. [[Examples]] include *Tales from the Loop*, *Grimm*, *Little Fears*, *Bubblegumshoe*, *[[Monsters]] and Other Childish Things*, *Dark Places and Demogorgons*, and *The Breakfast Cult*. While these systems have the advantage of being designed for kid-centered monster hunting, they should be used with caution. Almost all were designed for child characters, not monster hunting adolescents. Some have a focus outside where your group may want your campaign to go.
 
 -   *The Breakfast Cult* turns high school into a wonderland of Lovecraftian cultists and a place where a child Initiate might fit in just fine. It’s also Powered by the Apocalypse, so its mechanics are more compatible with *Monster of the Week* than any of the other systems I have mentioned. *The Breakfast Cult* focuses on competing high school cults, so it’s only going to be useful if that’s a direction you want your game to go.
 

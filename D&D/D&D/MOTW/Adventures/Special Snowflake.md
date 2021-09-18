@@ -40,9 +40,9 @@ A swarm of crystalline nanomachines, manufactured by Havenhill’s hacked snowma
 
 -   **Lightweight**: The Squall can effectively fly on the wind, but not very fast.
 
-**Attacks:** **Small gust** 1-[[harm]] close cold ignore-[[armour]]. **Big gust** 3-[[harm]] close cold ignore-[[armour]] forceful. **Avalanche** 5-[[harm]] far cold ignore-[[armour]] forceful area. **Armour:** 0
+**Attacks:** **Small gust** 1-[[harm]] close cold ignore-[[armour]]. **Big gust** 3-[[harm]] close cold ignore-[[armour]] forceful. **Avalanche** 5-[[harm]] far cold ignore-[[armour]] forceful area. **[[Armour]]:** 0
 
-**Harm capacity:** 12. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] capacity:** 12. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weaknesses:**
 
@@ -66,9 +66,9 @@ When they’re not sculpting, Buddies will try to collect electronic communicati
 
 • **Festive Camouflage**: Snow Buddies are difficult to spot in the storm.
 
-**Attacks:** **Twiggy claws** 1-[[harm]] hand. **Icicle fangs** 3-[[harm]] intimate. **Armour:** None.
+**Attacks:** **Twiggy claws** 1-[[harm]] hand. **Icicle fangs** 3-[[harm]] intimate. **[[Armour]]:** None.
 
-**Harm capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup> **Weakness:** Heat.
+**[[Harm]] capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup> **Weakness:** Heat.
 
 **Note:** Meatmen have the same stats and abilities as Snow Buddies, just... more gross.
 

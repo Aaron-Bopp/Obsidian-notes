@@ -44,9 +44,9 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 **Attacks:** **Handguns** 3-[[harm]] close loud.
 
-**Armour:** 2 if prepared for a fight (tactical [[gear]] and wards), 1 otherwise (normal wards only).
+**[[Armour]]:** 2 if prepared for a fight (tactical [[gear]] and wards), 1 otherwise (normal wards only).
 
-**Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:** Adessi is a normal human being. The trick is getting past her protections and summons.
 
@@ -54,11 +54,11 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 **Powers:**
 
--   **Flight .**
+-   **[[Flight]] .**
 
 -   **Stealth**: The mantids exist in a phase of reality that living eyes can see quite well but technology can only catch fragments of. On camera, the mantid might present an occasional glimmer when viewed full on, with full silhouettes being caught rarely and usually on the edges of an image. Mantids are aware of when they are under a camera’s eye and will be careful when they can be recorded. If there is an active queen, they stop caring about being seen.
 
--   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes unstable as their body begins to crystallize and they are completely transformed once all [[harm]] is marked off. The process can only be stopped with magic (**use magic** to banish a curse), **weird science**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
+-   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes unstable as their body begins to crystallize and they are completely transformed once all [[harm]] is marked off. The process can only be stopped with magic (**[[Use Magic]]** to banish a curse), **weird science**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
 
 -   **Devouring**: When it eats a crystallized prey and the soul within, it heals 2-[[harm]].
 
@@ -66,7 +66,7 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 -   High-frequency sound pulses or sonic attacks (these shatter the mantids’ [[structure]]).
 
--   **Use magic** to banish a spirit. This will permanently destroy a mantid. **Attacks:**
+-   **[[Use Magic]]** to banish a spirit. This will permanently destroy a mantid. **Attacks:**
 
 -   **Claws** 5-[[harm]] close grappling.
 
@@ -74,9 +74,9 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 -   **Bite** 3-[[harm]] intimate crystallize (see powers, above).
 
-**Armour:** 2 against mundane [[harm]], 0 against magical [[harm]].
+**[[Armour]]:** 2 against mundane [[harm]], 0 against magical [[harm]].
 
-**Harm Capacity:** 6. <sup>\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 6. <sup>\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Custom [[Moves]]:**
 
@@ -84,7 +84,7 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 -   Altering the crystal so the soul within can animate it. Probably a temporary measure until something better can be found!
 
--   A **big magic** effect to revert the body to flesh. This might require studying the supernatural venom of the mantid’s bite.
+-   A **[[big magic]]** effect to revert the body to flesh. This might require studying the supernatural venom of the mantid’s bite.
 
 -   Creating a clone body via science or magic and transferring the soul to the new body. This will require dissolving the crystal body in a special solution to free the soul. The risk is that once the soul is free of the crystal, it will pass on to the afterlife rather than successfully transferring to a new body.
 
@@ -122,9 +122,9 @@ If you prefer, here are two alternate methods (you might come up with your own t
 
 -   **Living Crystal Shard:** **Grown spikes** 3-[[harm]] hand grapple. **Crystal dust** 0-[[harm]] intimate inhaled crystallize.
 
-**Armour:** 3 against mundane [[harm]], 0 against magical [[harm]].
+**[[Armour]]:** 3 against mundane [[harm]], 0 against magical [[harm]].
 
-**Harm Capacity:** 10 <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 10 <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:**
 

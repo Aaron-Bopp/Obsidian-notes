@@ -2,13 +2,13 @@
 
 A key element of the use of [[moves]] is “You have to make the move.”
 
-This means that if you want to (for instance) **manipulate someone** in the game, you need to describe your hunter doing that. How do you ask? What do you offer, to make them do what you want? Why would they believe your offer is genuine?
+This means that if you want to (for instance) **[[Manipulate Someone]]** in the game, you need to describe your hunter doing that. How do you ask? What do you offer, to make them do what you want? Why would they believe your offer is genuine?
 
 *For example:*
 
 *Alan, [[the Keeper]]: “The flayed one is racing you to the car, and it looks like it’s going to get to you before you can close the door. So Mark, what do you do now?”*
 
-*Mary, playing her hunter Mark: “I **kick some ass**!”*
+*Mary, playing her hunter Mark: “I **[[kick some ass]]**!”*
 
 *Alan: “What are you doing?”*
 

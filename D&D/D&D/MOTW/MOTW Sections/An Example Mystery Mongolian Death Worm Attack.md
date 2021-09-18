@@ -1,6 +1,6 @@
 An Example Mystery Mongolian Death Worm Attack
 
-*The hunters get a report of some strange deaths at a local museum. Professor Josh Singer, Dr Jennifer Sofia, and Michelle Fitzsimmons were last seen alive working late unpacking and cleaning up new items for the collection. The next morning they were found “burned and partially dissolved” (according to police reports).*
+*[[The hunters]] get a report of some strange deaths at a local museum. Professor Josh Singer, Dr Jennifer Sofia, and Michelle Fitzsimmons were last seen alive working late unpacking and cleaning up new items for the collection. The next morning they were found “burned and partially dissolved” (according to police reports).*
 
 *The [[monsters]] are three newly hatched Mongolian death worms. They’re bright red and look moist and intestinal. Each is about 5cm thick and 50cm long. They have a deadly venom that they can spit, and excrete via the skin. Plus, they can shoot lightning bolts. They like things dry, and water is poisonous to them.*
 

@@ -50,9 +50,9 @@ Grabbed by kappa options:
 
 **Attacks:** **Webbed claws** 2-[[harm]] hand quick. **Beaked mouth** 2-[[harm]] intimate messy. **Strangle** (only used on people the creature has already **wrestling grabbed**) 4-[[harm]] intimate ignore-[[armour]].
 
-**Armour:** **Rock-hard shell:** 4-[[armour]]. Kappa can extend and retract both their limbs and head into their shells instantly; getting past the shell means catching them completely unaware, targeting a soft spot, or using some kind of magic.
+**[[Armour]]:** **Rock-hard shell:** 4-[[armour]]. Kappa can extend and retract both their limbs and head into their shells instantly; getting past the shell means catching them completely unaware, targeting a soft spot, or using some kind of magic.
 
-**Harm Capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weaknesses:**
 
@@ -70,7 +70,7 @@ The kappa is most active after dark, when it circles the lake looking for prey. 
 
 # Emiko and Peter Mikleson
 
-*Bystanders: Skeptics (motivation: to deny supernatural explanations)*
+*[[Bystanders]]: Skeptics (motivation: to deny supernatural explanations)*
 
 Emiko is the grown daughter of Katsuko Tanigawa and runs a pediatric clinic in the nearby city. She practices Shinto, the traditional religion of Japan, and still observes important holidays and practices. Emiko knows the folk stories of kappa and other yokai, but does not believe they actually exist. Her husband Peter is a successful real estate agent. Smart investments have left him and his family very well-off, and he now spends most of his time at charity board meetings or on the golf course. A practical man, Peter is not at all superstitious and flat out refuses to believe the deaths are anything more than unfortunate accidents.
 

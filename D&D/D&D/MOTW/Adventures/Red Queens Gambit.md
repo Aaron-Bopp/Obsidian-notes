@@ -38,9 +38,9 @@ Her goal is to gentrify and profit from poor neighborhoods through defamation, p
 
 **Attacks:** **Lava sword** 3-[[harm]] hand fire.
 
-**Armour:** 2, invulnerable to non-magical [[weapons]].
+**[[Armour]]:** 2, invulnerable to non-magical [[weapons]].
 
-**Harm Capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 # Red Ties, minions of the queen
 
@@ -56,9 +56,9 @@ These agents of the Red Queen look like special agents with dark glasses and bla
 
 -   **Call in Reinforcements**.
 
-**Attacks:** **Guns** 2-[[harm]] close loud. **Armour:** 1.
+**Attacks:** **Guns** 2-[[harm]] close loud. **[[Armour]]:** 1.
 
-**Harm capacity:** 3. <sup>\[\]\[\]\[\]</sup>
+**[[Harm]] capacity:** 3. <sup>\[\]\[\]\[\]</sup>
 
 **Weakness:** Except for their devotion to the Red Queen, these [[minions]] are plain humans.
 
@@ -74,9 +74,9 @@ These hapless victims of the Red Queen’s cursed fortified wine become ferociou
 
 -   **Leaping**.
 
-**Attacks:** **Claws** 2-[[harm]] hand messy. **Armour:** 0.
+**Attacks:** **Claws** 2-[[harm]] hand messy. **[[Armour]]:** 0.
 
-**Harm capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Weakness:** Magic.
+**[[Harm]] capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Weakness:** Magic.
 
 # The Heart of Darkness
 
@@ -88,7 +88,7 @@ Reportedly, the heart was created by a noblewoman during the
 
 Middle Ages. When the ruling family executed her husband for his political writings, the distraught noble commissioned a forge and crafted the cage. The final step was to sacrifice her own life, giving her heart (full of hate for the rulers) to create an artifact of disruption and despair for the ages. **Powers:**
 
-• **Curse of Miscommunication**: Once two Mad Dogs have fed on human flesh, the heart will begin twisting communication in the city where it is installed. Apply –1 [[ongoing]] to **manipulate** any bystander. The next feeding brings a further –1 [[ongoing]] to **read a bad situation**, as it becomes harder to think. Most [[bystanders]] will give in to panic at this point and will fight, flee, hide, or freeze.
+• **Curse of Miscommunication**: Once two Mad Dogs have fed on human flesh, the heart will begin twisting communication in the city where it is installed. Apply –1 [[ongoing]] to **manipulate** any bystander. The next feeding brings a further –1 [[ongoing]] to **[[Read A Bad Situation]]**, as it becomes harder to think. Most [[bystanders]] will give in to panic at this point and will fight, flee, hide, or freeze.
 
 **Weakness:** The Heart of Darkness can be defeated two ways, but there is only one way to destroy it.
 
@@ -98,7 +98,7 @@ The chains that bind it in place can take a total of 8-[[harm]]. If [[the hunter
 
 To destroy the Heart of Darkness for good, the frame must be dismantled and the heart buried with the rest of the old Countess of Winchester’s body in the UK.
 
-**Harm capacity:** The Chains, 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] capacity:** The Chains, 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 # RQI HQ
 
@@ -140,7 +140,7 @@ A bystander turns into a Mad Dog after drinking Ruby Red three times.
 
 When **a hunter drinks Ruby Red**, they roll +Cool:
 
--   On a 10+ the drink is merely disgusting, but you have a vision and may ask a question from the **investigate a mystery** list.
+-   On a 10+ the drink is merely disgusting, but you have a vision and may ask a question from the **[[Investigate A Mystery]]** list.
 
 -   On a 7-9, choose 1:
 

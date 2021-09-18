@@ -52,7 +52,7 @@ Pick two resource tags for the Agency, and two red tape tags:
 - Take no prisoners policy
 - Live capture policy
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all the basic [[moves]], plus four Professional [[moves]].*
 
@@ -62,21 +62,19 @@ Pick two resource tags for the Agency, and two red tape tags:
 
 *Then pick three of these:*
 
-- **Bottle It Up**: If you want, you can take up to +3 bonus when you **act under pressure**. For each +1 you use, [[the Keeper]] holds 1. That [[hold]] can be spent later—one for one—to give you -1 on any move *except* **act under pressure**.
+- **Bottle It Up**: If you want, you can take up to +3 bonus when you **[[Act Under Pressure]]**. For each +1 you use, [[the Keeper]] holds 1. That [[hold]] can be spent later—one for one—to give you -1 on any move *except* **[[Act Under Pressure]]**.
 - **Unfazeable**: Take +1 Cool (max +3).
 - **Battlefield Awareness**: You always know what’s happening around you, and what to watch out for. Take +1 [[armour]] (max 2-[[armour]]) on top of whatever you get from your [[gear]].
 - **Leave No One Behind**: In combat, when **you help someone escape**, roll +Sharp. On a 10+ you get them out clean. On a 7-9, you can *either* get them out *or* suffer no [[harm]], you choose. On a miss, you fail to get them out and you’ve attracted hostile attention.
-- **Tactical Genius**: When you **read a bad situation**, you may roll +Cool instead of +Sharp
+- **Tactical Genius**: When you **[[Read A Bad Situation]]**, you may roll +Cool instead of +Sharp
 - **Medic**: You have a full first aid kit, and the training to heal people. **When you do first aid**, roll +Cool. On a 10+ the patient is stabilized and healed of 2 [[harm]]. On a 7-9 choose one: heal 2 [[harm]] or stabilize the injury. On a miss, you cause an extra 1 [[harm]]. This move takes the place of regular first aid.
 - **Mobility**: You have a truck, van, or car built for monster hunting. Choose two good things and one bad thing about it. 
 
 *Good things*: roomy; surveillance [[gear]]; fast; stealthy; intimidating; classic; medical kit; sleeping space; toolkit; concealed [[weapons]]; anonymous; armoured (+1 [[armour]] inside); tough; monster cage.
 
-*Bad things*: loud; obvious; temperamental; beaten-up; gas-
+*Bad things*: loud; obvious; temperamental; beaten-up; gas-  guzzler; uncomfortable; slow; old.
 
-guzzler; uncomfortable; slow; old.
-
-**GEAR**
+**[[GEAR]]**
 
 Pick one serious weapon and two normal [[weapons]].
 
@@ -98,13 +96,13 @@ Normal [[weapons]] (pick two):
 - Shotgun (3-[[harm]] close messy)
 - Big knife (1-[[harm]] hand)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Professional by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. On your turn, pick one for each of the other hunters:
 
@@ -123,7 +121,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -131,7 +129,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -139,7 +137,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Cool, max +3
 - Get +1 Charm, max +2

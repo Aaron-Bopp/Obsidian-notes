@@ -3,14 +3,14 @@ Now the mystery needs some threats. These are the things that will interfere wit
 
 Threats come in four types:
 
-- **Monsters** (the big bad behind these events).
-- **Minions** (allies of the monster, usually weaker creatures).
-- **Bystanders** (normal folks who are involved).
-- **Locations** (significant places).
+- **[[Monsters]]** (the big bad behind these events).
+- **[[Minions]]** (allies of the monster, usually weaker creatures).
+- **[[Bystanders]]** (normal folks who are involved).
+- **[[Locations]]** (significant places).
 
 Threat categories are more concerned with the role that the entity will have in the mystery than rigid definitions. Sometimes powerful creatures will be “[[minions]]” because that’s how they fit into the situation. In other cases, normal people could be a “minion” (if they’re inadvertantly supporting a monster) or even a “monster” (if they’re a mass murderer). Think about how the situation in your mystery is set up, and choose threat types based on which part each element plays.
 
-**MONSTERS**
+**[[MONSTERS]]**
 
 Start with the monster. Most mysteries will have just one: the single creature behind everything bad that’s going to happen.
 
@@ -53,9 +53,9 @@ Once you know the monster’s powers, it’s time to make a note of its **attack
 
 Now decide how resilient the monster is.
 
-Decide how many points of **harm** will kill it. Take seven as your basic minimum (the same as a hunter). Increase it based on how large and robust the monster is. There’s no set maximum, but more than fourteen would be exceptional. Sometimes a monster might be more fragile, too: in those cases, reduce the [[harm]] capacity.
+Decide how many points of **[[harm]]** will kill it. Take seven as your basic minimum (the same as a hunter). Increase it based on how large and robust the monster is. There’s no set maximum, but more than fourteen would be exceptional. Sometimes a monster might be more fragile, too: in those cases, reduce the [[harm]] capacity.
 
-Secondly decide if it has an **armour** rating, based on its innate toughness or a power that makes it harder to hurt. 1- or 2- [[armour]] is normal. Higher values make it difficult for [[the hunters]] to hurt the monster, and no [[armour]] makes the monster very vulnerable.
+Secondly decide if it has an **[[armour]]** rating, based on its innate toughness or a power that makes it harder to hurt. 1- or 2- [[armour]] is normal. Higher values make it difficult for [[the hunters]] to hurt the monster, and no [[armour]] makes the monster very vulnerable.
 
 *Marie is an averagely resilient ghost. I’ll set her [[harm]] capacity to seven. But I won’t give her any [[armour]]: her [[incorporeal]] power is enough for [[the hunters]] to deal with.*
 
@@ -75,7 +75,7 @@ If you haven’t already worked out what the monster is trying to achieve, give 
 
 *Marie is obsessed with being laid to rest properly. She can’t communicate with anyone directly, she’s just going to violently attack them whenever they don’t seem to be helping her. If people persist in not helping, she’s just going to kill them. Because the family have been here longest without helping her, she’ll target them first.*
 
-**MINIONS**
+**[[MINIONS]]**
 
 Decide if the monster is working on its own or if it has [[minions]] to help it. If it has [[minions]], detail them now. [[Minions]] can be weaker individuals of the same kind of monster, allied creatures of different kinds, human worshippers, or human (perhaps unwitting) servants.
 
@@ -114,7 +114,7 @@ If [[minions]] have [[armour]], they normally have 1-[[armour]], and only rarely
 
 *The possessed rats are Scouts (motivation: to stalk, watch, and report). If they attack, they do 1-[[harm]] intimate as a swarm. 10-[[harm]] must be inflicted to disperse the group completely.*
 
-**BYSTANDERS**
+**[[BYSTANDERS]]**
 
 [[Bystanders]] are the normal people who are involved in the situation. They’re the victims, witnesses, interfering cops, and anyone else.
 
@@ -156,11 +156,11 @@ It’s a good idea to include some partially defined [[bystanders]]: just a name
 
 *Sean Hadley is a Victim (motivation: to put himself into danger). I’m going for the easy “kids in peril” scares here.*
 
-*Ashley Hadley is a Helper (motivation: to join in the hunt). I can see a six year old being totally fascinated by a team of monster hunters. Of course she wants to [[help out]]!*
+*Ashley Hadley is a Helper (motivation: to join in the hunt). I can see a six year old being totally fascinated by a team of monster hunters. Of course she wants to [[Help Out]]!*
 
 *The [[bystanders]] could be rounded out with some more people in the town, but I think we have enough.*
 
-**LOCATIONS**
+**[[LOCATIONS]]**
 
 ![[Pasted image 20210917184700.png]]
 

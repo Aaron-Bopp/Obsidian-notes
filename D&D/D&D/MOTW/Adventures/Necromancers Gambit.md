@@ -38,9 +38,9 @@ He owns a white van. **Powers:**
 
 -   Must be killed by his own zombies.
 
-**Attacks:** **Necromantic touch** 1-[[harm]] intimate ignore-[[armour]]. **Armour:** None.
+**Attacks:** **Necromantic touch** 1-[[harm]] intimate ignore-[[armour]]. **[[Armour]]:** None.
 
-**Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 # The Zombies (Cult Suicide Victims)
 
@@ -58,9 +58,9 @@ They cannot cross salt barriers or running water.
 
 **Romero-style:** Zombies can be destroyed by decapitation, or destruction of the brain.
 
-**Attacks:** **Bite** 2-[[harm]] intimate messy. **Armour:** None.
+**Attacks:** **Bite** 2-[[harm]] intimate messy. **[[Armour]]:** None.
 
-**Harm Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
 
 **Note:** The necromancer is always in a protective circle of salt when commanding the zombies, otherwise they will attack and destroy him. He always carries salt with him, just in case. If the zombies devour the necromancer, their curse of unlife is over and their spirits are freed.
 

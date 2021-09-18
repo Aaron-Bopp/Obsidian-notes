@@ -36,7 +36,7 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 -   **Swarm of Scarabs**: Swarms of flesh-eating scarabs manifest spontaneously where the efreet has been. See below for the details on these critters.
 
--   **Flight**.
+-   **[[Flight]]**.
 
 -   **Barely There**: When the efreet is lurking or simply flying, it becomes nearly transparent. Its real shape is awesome and terrifying.
 
@@ -44,9 +44,9 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 **Attacks:** **Scorching ray** 3-[[harm]] close/far area slow heat. **Whirlwind**: 2-[[harm]] area forceful (see **twister** move below).
 
-**Armour:** 0, but refer to its **barely there** and **plasmic body** powers, above.
+**[[Armour]]:** 0, but refer to its **barely there** and **plasmic body** powers, above.
 
-**Harm capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weaknesses:**
 
@@ -62,7 +62,7 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 -   On a miss, you are swept up and unceremoniously dropped a block or two away. You take 4-[[harm]] and are away from the action.
 
-**Return to the Bottle**: The efreet cannot attack somebody holding the bottle or the cap. It may also be trapped back in the bottle by a **big magic** ritual.
+**Return to the Bottle**: The efreet cannot attack somebody holding the bottle or the cap. It may also be trapped back in the bottle by a **[[big magic]]** ritual.
 
 Requirements for the evil ritual are:
 
@@ -92,7 +92,7 @@ On any hit, the dancing hunter decides which ritual-participant the consequence 
 
 -   One hunter is enchanted. Their eyes are now literally burning.
 
--   One hunter gains pyrophobia. In future, they will need to **act under pressure** to go near open flames.
+-   One hunter gains pyrophobia. In future, they will need to **[[Act Under Pressure]]** to go near open flames.
 
 -   One hunter is touched by the supernatural. If possible, their next improvement must either be “Take +1 Weird” or a move that requires rolling +Weird.
 
@@ -102,13 +102,13 @@ On any hit, the dancing hunter decides which ritual-participant the consequence 
 
 -   **Hide Inside Dead Bodies**.
 
--   **Flight**.
+-   **[[Flight]]**.
 
 -   **Obscure Vision**.
 
 -   **Immune to [[Harm]]**, unless it is an *area*, *fire*, or *crushing* attack. **Attacks:** **Hundreds of mandibles** 1-[[harm]] intimate slow.
 
-**Harm capacity:** 3. <sup>\[\]\[\]\[\]</sup> That’s enough to disperse the swarm so it’s no longer dangerous.
+**[[Harm]] capacity:** 3. <sup>\[\]\[\]\[\]</sup> That’s enough to disperse the swarm so it’s no longer dangerous.
 
 **Weakness:** Fire.
 
@@ -120,11 +120,11 @@ Cunning agents of the cult ready to sacrifice themselves to further its goals.
 
 **Powers:**
 
-• **Minor Spells**: Anything a normal **use magic** could do. **Weaknesses:** None (they are just normal humans).
+• **Minor Spells**: Anything a normal **[[Use Magic]]** could do. **Weaknesses:** None (they are just normal humans).
 
-**Attacks:** as per weapon, usually a **knife** 2-[[harm]] hand. **Armour:** none, but impervious to heat, smoke, fire.
+**Attacks:** as per weapon, usually a **knife** 2-[[harm]] hand. **[[Armour]]:** none, but impervious to heat, smoke, fire.
 
-**Harm capacity:** 6. <sup>\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] capacity:** 6. <sup>\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 # Sailors' Hostel
 

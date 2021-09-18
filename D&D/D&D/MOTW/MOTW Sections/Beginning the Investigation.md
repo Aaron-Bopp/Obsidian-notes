@@ -18,15 +18,15 @@ The heart of the game is seeing what [[the hunters]] decide when they’ve only 
 There are any number of ways you can do this. Here are some of my favourites:
 
 - a monster’s weakness that is terrible to take advantage of.
-- a **big magic** ritual that has nasty stuff for its requirements.
+- a **[[big magic]]** ritual that has nasty stuff for its requirements.
 - a monster that is, in its way, a victim.
 - a simple but awful solution to the mystery’s central problem.
 
 Call For [[Moves]]
 
-Call for **investigate** and **manipulate** [[moves]] when [[the hunters]] look for clues. And if they go somewhere dangerous, suggest that they might want to **read a bad situation**.
+Call for **investigate** and **manipulate** [[moves]] when [[the hunters]] look for clues. And if they go somewhere dangerous, suggest that they might want to **[[Read A Bad Situation]]**.
 
-If a hunter wants to do some crazy, impossible stuff then remind them they can **use magic** for that sort of thing.
+If a hunter wants to do some crazy, impossible stuff then remind them they can **[[Use Magic]]** for that sort of thing.
 
 Use Your Keeper [[Moves]]
 
@@ -36,14 +36,14 @@ Respond to [[the hunters]]’ actions with your Keeper and [[threat moves]]. Mak
 
 Recall that when a hunter misses a move roll (that is, their total is six or less), you get to respond with a move of your own (and it can be a hard move):
 
-- For **act under pressure**, things go to hell for the hunter.
-- For **help out**, the hunter exposes themselves to trouble or danger.
-- For **kick some ass**, the hunter gets their ass kicked.
-- For **protect someone**, the hunter makes things worse.
-- For **manipulate someone**, the hunter angers or offends the target.
-- For **investigate a mystery**, the hunter reveals something to the monster or whoever they are talking to.
-- For **read a bad situation**, the hunter reads the situation all wrong or reveals tactical details to their enemies.
-- For **use magic**, the hunter loses control of the magic and anything can happen.
+- For **[[Act Under Pressure]]**, things go to hell for the hunter.
+- For **[[Help Out]]**, the hunter exposes themselves to trouble or danger.
+- For **[[kick some ass]]**, the hunter gets their ass kicked.
+- For **[[Protect Someone]]**, the hunter makes things worse.
+- For **[[Manipulate Someone]]**, the hunter angers or offends the target.
+- For **[[Investigate A Mystery]]**, the hunter reveals something to the monster or whoever they are talking to.
+- For **[[Read A Bad Situation]]**, the hunter reads the situation all wrong or reveals tactical details to their enemies.
+- For **[[Use Magic]]**, the hunter loses control of the magic and anything can happen.
 
 Remind [[the hunters]] that they can **help** each other, too, especially if someone just missed a roll by one (help can be given after a roll has been made). However **help** bonuses do not stack (e.g if three hunters successfully **help**, they don’t give a +3 bonus).
 
