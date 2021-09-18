@@ -1,8 +1,8 @@
-![[Pasted image 20210917182920.png]]
+![[Pasted image 20210917182920.png| locr]]
 
 A key element of the use of [[moves]] is “You have to make the move.”
 
-This means that if you want to (for instance) **[[Manipulate Someone]]** in the game, you need to describe your hunter doing that. How do you ask? What do you offer, to make them do what you want? Why would they believe your offer is genuine?
+**This means that if you want to (for instance) **[[Manipulate Someone]]** in the game, you need to describe your hunter doing that. How do you ask? What do you offer, to make them do what you want? Why would they believe your offer is genuine?** [[The Basic Hunter Moves]]
 
 *For example:*
 
@@ -32,4 +32,4 @@ It works the other way too—if you are describing what you are doing, someone m
 
 Sometimes [[the Keeper]] will ask you questions to clarify what’s going on. That’s cool; for the game to work, everyone needs to clearly understand what’s happening, so make sure your answer in as much detail as you can.
 
-[[Rolling the Dice]]
+[[How to roll for a move]]

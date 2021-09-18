@@ -30,7 +30,7 @@ He remembers when [[the hunters]] defeated him before, oh yes he does. They kill
 
 -   **Phylactery**: Keeps his soul safe.
 
--   **Powerful Magic**: Can use any of the normal **use magic** effects freely.
+-   **Powerful Magic**: Can use any of the normal **[[use magic]]** effects freely.
 
 -   **Advanced Arcane Training**: He only needs two out of Foci, Gestures, and Incantations to perform magic.
 
@@ -46,17 +46,17 @@ He remembers when [[the hunters]] defeated him before, oh yes he does. They kill
 
 -   **Memory theft** 0-[[harm]] intimate magical ignore-[[armour]] 1-memory.
 
-**Armour:** 1-[[armour]] (always prepared!)
+**[[Armour]]:** 1-[[armour]] (always prepared!)
 
-**Harm capacity:** 12 [[harm]], but will flee when he receives 6-[[harm]].
+**[[Harm]] capacity:** 12 [[harm]], but will flee when he receives 6-[[harm]].
 
 \[\]\[\]\[\]\[\]\[\]\[\] Flee \[\]\[\]\[\]\[\]\[\]\[\] Dead
 
-**Weakness:** A **big magic** ritual is required to wrench his soul from its phylactery and destroy both soul and phylactery. It must be performed within one midnight of his death (before or after) and takes six hours to cast. It requires the phylactery itself, **use magic**, and several rare ingredients that might be mysteries in their own right to obtain.
+**Weakness:** A **[[big magic]]** ritual is required to wrench his soul from its phylactery and destroy both soul and phylactery. It must be performed within one midnight of his death (before or after) and takes six hours to cast. It requires the phylactery itself, **[[use magic]]**, and several rare ingredients that might be mysteries in their own right to obtain.
 
 # Preĝo Believers
 
-*Bystanders: Victims (motivation: to put themselves in danger)*
+*[[Bystanders]]: Victims (motivation: to put themselves in danger)*
 
 Mostly of Latinx and Afro-Caribbean descent. They might go out looking for the people really behind the animal killings, or be on the streets to patrol and defend their community. They could even regard [[the hunters]] as a threat—who are these people hanging around asking questions?
 
@@ -64,19 +64,19 @@ Mostly of Latinx and Afro-Caribbean descent. They might go out looking for the p
 
 # Nightwalkers
 
-*Minions: Brutes (motivation: to intimidate and attack)*
+*[[Minions]]: Brutes (motivation: to intimidate and attack)*
 
 A couple of nightwalkers who are already on board with the Necromancer’s plan, either for their own reasons or because he subdued them. They look like like large misshapen dog silhouettes made of pure darkness, bristling with spines, their red eyes glowing like embers. **Powers:**
 
 -   **Night Walker**: A nightwalker can disappear into the darkness, reappearing in its den. It cannot be tracked home, as it did not walk through the intervening space.
 
--   **Horrifying Yell**: Anyone who hears the howl of the nightwalker must take –1 [[ongoing]] unless they **act under pressure** to resist the fear. **Attacks:**
+-   **Horrifying Yell**: Anyone who hears the howl of the nightwalker must take –1 [[ongoing]] unless they **[[act under pressure]]** to resist the fear. **Attacks:**
 
 -   **Bite** 1-[[harm]] hand.
 
 -   **Blood-suck** (must **bite** first): 2-[[harm]] intimate.
 
-**Armour:** None. **Weaknesses:**
+**[[Armour]]:** None. **Weaknesses:**
 
 -   Sunlight.
 
@@ -84,7 +84,7 @@ A couple of nightwalkers who are already on board with the Necromancer’s plan,
 
 -   Enclosure (if you can trap it within an enclosed area, it may not night-walk away and may be killed).
 
-**Harm capacity:** 5 [[harm]], but they will flee when they reach 3 [[harm]].
+**[[Harm]] capacity:** 5 [[harm]], but they will flee when they reach 3 [[harm]].
 
 <sup>\[\]\[\]\[\]</sup> Flee <sup>\[\]\[\]</sup> Dead
 
@@ -158,7 +158,7 @@ When you **search in the forest**, roll +Sharp:
 
 -   On a 10+, things seem to point somewhere in particular: take +1 [[forward]] for investigating.
 
--   On a 7-9, you can **investigate a mystery**, but then pick one of the bad things below.
+-   On a 7-9, you can **[[investigate a mystery]]**, but then pick one of the bad things below.
 
 -   On a miss, all three bad things are true. Bad things that can happen in the forest:
 

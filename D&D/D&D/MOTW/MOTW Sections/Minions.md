@@ -45,7 +45,7 @@ They look nasty: strips of muscle, bits of bone, pieces of organs, an eye or thr
 
 **Attacks:** Individuals have an attack of 1-[[harm]] (if rat-sized) or 2-[[harm]], (if cat-sized). There aren’t any bigger ones (yet). If they attack as a group, then they have a 3-[[harm]] area attack. Range is hand/intimate.
 
-**Harm capacity:** 7-[[harm]] will disperse the swarm. Each point of [[harm]] kills one or two individuals.
+**[[Harm]] capacity:** 7-[[harm]] will disperse the swarm. Each point of [[harm]] kills one or two individuals.
 
 **CHUCK THE BARTENDER**
 

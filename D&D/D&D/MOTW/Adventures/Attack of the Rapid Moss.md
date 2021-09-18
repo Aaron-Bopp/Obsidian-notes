@@ -28,7 +28,7 @@ An experimental sentient moss created by Dr. Cornwall. Once released, it rapidly
 
 **Powers:**
 
--   **Rapid Growth**: Grows quickly and without limit. It has trouble growing up vertical surfaces. It will engulf and suffocate anyone who doesn’t escape its tendrils. Hunters being engulfed should roll **act under pressure** to escape, or another hunter might **protect** them to pull them free.
+-   **Rapid Growth**: Grows quickly and without limit. It has trouble growing up vertical surfaces. It will engulf and suffocate anyone who doesn’t escape its tendrils. Hunters being engulfed should roll **[[act under pressure]]** to escape, or another hunter might **protect** them to pull them free.
 
 -   **Vines**: Vines whip out from the moss. They can attack (see below), or be used to drag people into the moss, engulfing them.
 
@@ -36,9 +36,9 @@ An experimental sentient moss created by Dr. Cornwall. Once released, it rapidly
 
 **Attacks:** **Vines** 2-[[harm]] close grab.
 
-**Armour:** None.
+**[[Armour]]:** None.
 
-**Harm capacity:** Effectively unlimited. **Weaknesses:**
+**[[Harm]] capacity:** Effectively unlimited. **Weaknesses:**
 
 -   The Moss Brain, located at the center of Cornwall’s lab.
 
@@ -74,9 +74,9 @@ The Moss Brain is a strange, pulsating, and glowing clump of moss and tendrils. 
 
 • **Controller of the Moss**: Can control the moss and spawn moss children.
 
-**Attacks:** **Painful psychic plant blast** 1-[[harm]] close ignore-[[armour]]. **Armour:** None.
+**Attacks:** **Painful psychic plant blast** 1-[[harm]] close ignore-[[armour]]. **[[Armour]]:** None.
 
-**Harm Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:** Sever its psychic connection to the moss: injecting it with a special poison is one way of doing this. Only Cornwall and Mike know how to make this poison, using materials in the lab.
 
@@ -86,9 +86,9 @@ The Moss Brain is a strange, pulsating, and glowing clump of moss and tendrils. 
 
 Dr. Cornwall is a 50-year-old scientist. He is short with greying black hair and a long beard. He discovered the Moss Brain and set up a research lab in the woods to study it. However, as time went on exposure to the brain allowed the creature to slowly take over his mind, corrupting him. Dr Cornwall’s sole desire is now ‘to spread the moss across all corners of the globe’. With the moss starting to spread, the brain now uses him as its puppet, forcing him to protect the brain with his life. He knows how to make a poison that will kill the Moss Brain and completely sever its psychic connection to its moss, stopping it from spreading. Unless [[the hunters]] can break him free of the brain’s control, there is no way he will reveal this information.
 
-**Attacks:** **Shotgun** 3-[[harm]] close messy loud. **Armour:** None.
+**Attacks:** **Shotgun** 3-[[harm]] close messy loud. **[[Armour]]:** None.
 
-**Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Weakness:** He is a normal human.
+**[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Weakness:** He is a normal human.
 
 # Moss Child
 
@@ -96,11 +96,11 @@ Dr. Cornwall is a 50-year-old scientist. He is short with greying black hair and
 
 When the Moss Brain feels threatened it will create moss children. These are strange, vaguely child-shaped clumps of moss that have been given a very small amount of intelligence by the Moss Brain. **Powers:**
 
-• **Rapid Growth**: If it grabs onto a hunter, the moss will spread across their body and try to suffocate them. Hunters being engulfed should roll **act under pressure** to escape, or another hunter might **protect someone** to pull them free.
+• **Rapid Growth**: If it grabs onto a hunter, the moss will spread across their body and try to suffocate them. Hunters being engulfed should roll **[[act under pressure]]** to escape, or another hunter might **[[protect someone]]** to pull them free.
 
-**Attacks:** **Vines** 2-[[harm]] close grab. **Pummel** 1-[[harm]] hand. **Armour:** None.
+**Attacks:** **Vines** 2-[[harm]] close grab. **Pummel** 1-[[harm]] hand. **[[Armour]]:** None.
 
-**Harm Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:** The Moss Brain, fire, and weedkiller.
 

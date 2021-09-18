@@ -23,7 +23,7 @@ To make your Flake, first pick a name. Then follow the instructions below to dec
 - Charm+1, Cool-1, Sharp+2, Tough=0, Weird+1
 - Charm-1, Cool-1, Sharp+2, Tough=0, Weird+2
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all of the basic [[moves]], plus pick three Flake [[moves]]:*
 
@@ -34,14 +34,14 @@ To make your Flake, first pick a name. Then follow the instructions below to dec
   - *Is this connected to previous mysteries we have investigated?*
   - *How does this mystery connect to the bigger picture?*
 - **Crazy Eyes**: You get +1 Weird (max +3).
-- **See, It All Fits Together**: You can use Sharp instead of Charm when you **manipulate someone**.
+- **See, It All Fits Together**: You can use Sharp instead of Charm when you **[[manipulate someone]]**.
 - **Suspicious Mind**: If someone lies to you, you know it.
 - **Often Overlooked**: When **you** **act all crazy** to avoid something, roll +Weird. On a 10+ you’re regarded as unthreatening and unimportant. On a 7-9, pick one: unthreatening or unimportant. On a miss, you draw lots (but not all) of the attention.
 - **Contrary**: When **you seek out and receive someone’s honest advice** on the best course of action for you and then do something else instead, mark experience. If you do exactly the opposite of their advice, you also take +1 [[ongoing]] on any [[moves]] you make pursuing that course.
 - **Net Friends**: You know a lot of people on the Internet. When **you** **contact a net friend to help you** with a mystery, roll +Charm. On a 10+, they’re available and helpful—they can fix something, break a code, hack a computer, or get you some special information. On a 7-9, they’re prepared to help, but it’s either going to take some time or you’re going to have to do part of it yourself. On a miss, you burn some bridges.
 - **Sneaky**: When **you attack from ambush, or from behind**, inflict +2 [[harm]].
 
-**GEAR**
+**[[GEAR]]**
 
 You get one normal weapon and two hidden [[weapons]].
 
@@ -63,13 +63,13 @@ Hidden [[weapons]] (pick two):
 - Weighted gloves/brass knuckles (1-[[harm]] hand)
 - Butterfly knife/folding knife (1-[[harm]] hand)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Flake by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. On your turn, pick one of these for each other hunter:
 
@@ -88,7 +88,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -96,7 +96,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -104,7 +104,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Sharp, max +3
 - Get +1 Charm, max +2

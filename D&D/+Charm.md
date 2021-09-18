@@ -1,0 +1,1 @@
+**Charm** is how pleasant and persuasive you are. It is added to your die roll for the **[[Manipulate Someone]]** basic move.

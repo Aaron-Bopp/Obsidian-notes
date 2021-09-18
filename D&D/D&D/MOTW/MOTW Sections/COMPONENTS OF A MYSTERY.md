@@ -1,6 +1,6 @@
 **COMPONENTS OF A MYSTERY**
 
-The *basic concept* is your original idea, the thought that led to this mystery.
+The *[[basic concept]]* is your original idea, the thought that led to this mystery.
 
 *In the example, [[the basic concept]] is the Mongolian death worms—the stories are awesome, so I wanted to make a mystery about them.*
 
@@ -20,11 +20,11 @@ Next there’s the *monster*. The monster has a type that defines its motivation
 
 *Weakness: Water.*
 
-Next up are *minions*. These are servants of the main monster, who help it out and work against [[the hunters]]. [[Minions]] also get a type and motivation to guide you about how they act.
+Next up are *[[minions]]*. These are servants of the main monster, who help it out and work against [[the hunters]]. [[Minions]] also get a type and motivation to guide you about how they act.
 
 *In the example, Dr Kelly Morrison is a minion. She’s a guardian, with the motivation “to bar a way or protect something.” She’s going to try and protect the worms as they nest and breed, because she wants to study and understand them.*
 
-There’s also a list of *bystanders.* These are the people involved in the situation. These can be people who are in danger, who might help [[the hunters]]’ investigation, who might get in the way. [[Bystanders]] each have a type and associated motivation.
+There’s also a list of *[[bystanders]].* These are the people involved in the situation. These can be people who are in danger, who might help [[the hunters]]’ investigation, who might get in the way. [[Bystanders]] each have a type and associated motivation.
 
 *Dr Francesco Ferrara, is a* victim *with the motivation “to put herself in danger.” She’ll put herself in danger by helping [[the hunters]] as much as she can.*
 
@@ -32,11 +32,11 @@ There’s also a list of *bystanders.* These are the people involved in the situ
 
 *Chris Larsen is an official with the motivation “to be suspicious.” He is there to get in the way of [[the hunters]] by bringing up annoying regulations they need to comply with, and that sort of thing. Just so [[the hunters]] don’t have too easy a time exploring the museum.*
 
-Next up is one or more *locations* that will be important. [[Locations]] are allocated a type from a list. The type has a descriptive name and a motivation. [[Locations]] in this game are able to do things. The motivation tells you what sort of things this particular place will do.
+Next up is one or more *[[locations]]* that will be important. [[Locations]] are allocated a type from a list. The type has a descriptive name and a motivation. [[Locations]] in this game are able to do things. The motivation tells you what sort of things this particular place will do.
 
 *In the example, the one location is the Natural [[History]] Museum. It’s a **Wilds**, with the motivation “to contain hidden things.” The plan is to have it full of scary places, and fake-out scares, as well as people to protect and worms to hunt down.*
 
-Those elements (*monsters*, *minions*, *bystanders*, and *locations*) are *threats*. *Threats* are the things that make trouble for [[the hunters]], one way or another. Each *threat* gets a *type* and a corresponding *motivation*.
+Those elements (*[[monsters]]*, *[[minions]]*, *[[bystanders]]*, and *[[locations]]*) are *threats*. *Threats* are the things that make trouble for [[the hunters]], one way or another. Each *threat* gets a *type* and a corresponding *motivation*.
 
 Any kind of *threat* can have a *custom move*, too. This is a special rule that defines something this particular threat can do. See [page 296](#0000915624) for how to create [[custom moves]].
 

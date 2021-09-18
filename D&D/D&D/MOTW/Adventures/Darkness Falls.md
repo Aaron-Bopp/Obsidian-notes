@@ -16,7 +16,7 @@ Several cars crashed last night. They were discovered on the edge of the highway
 
 # Kristina and David Delano
 
-*Bystanders: Innocents (motivation: to do the right thing)*
+*[[Bystanders]]: Innocents (motivation: to do the right thing)*
 
 When Kristina and David arrived home after adopting Nika, a series of gruesome attacks began in their hometown—each attack happening soon after nightfall, on victims who were awake. Researching folklore, the Delanos identified the culprit as a ghost: Madame Koshmar.
 
@@ -50,9 +50,9 @@ If [[the hunters]] attack her before learning about her link to Nika, ensure the
 
 **Attacks:** **Long curved dagger** 2-[[harm]] hand. **Shadow blast** 3-[[harm]] close magic ignore-[[armour]].
 
-**Armour:** 3 magic [[incorporeal]].
+**[[Armour]]:** 3 magic [[incorporeal]].
 
-**Harm Capacity:** 15. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
+**[[Harm]] Capacity:** 15. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
 **Weaknesses:**
 
@@ -74,13 +74,13 @@ Shades are dark ghostly [[minions]] that Madame Koshmar may summon from nearby s
 
 **Powers:**
 
-![[image110.jpg]]• **Incorporeal**: Unless dispelled with light, Shades will quickly reform without needing to be summoned by Madame Koshmar. **Attacks:** **Pass through person** 1-[[harm]] intimate magic. **Shadow attack** 2-[[harm]] close magic. **Armour:** None.
+![[image110.jpg]]• **[[Incorporeal]]**: Unless dispelled with light, Shades will quickly reform without needing to be summoned by Madame Koshmar. **Attacks:** **Pass through person** 1-[[harm]] intimate magic. **Shadow attack** 2-[[harm]] close magic. **[[Armour]]:** None.
 
-**Harm Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:**
 
-**Light:** Shades can be dispelled by a strong light such as a floodlight or an industrial-strength flashlight. However, in some situations it may be important for a character to **act under pressure** to successfully focus the light in the right direction.
+**Light:** Shades can be dispelled by a strong light such as a floodlight or an industrial-strength flashlight. However, in some situations it may be important for a character to **[[act under pressure]]** to successfully focus the light in the right direction.
 
 # Tanner's End Chapel
 
@@ -100,7 +100,7 @@ Kristina has multiple levels of warding to protect her while she carries out the
 
 The ritual is a sleep spell intended to encompass the whole city. As the spell spreads out an equal distance from Kristina in all directions, a small portion of rural highway is also affected. This is what has been causing travellers to fall asleep at the wheel. These accidents have been happening since the rituals started. The recent revitalisation of the nearby Robinson township as a cultural hub means the number of victims will keep increasing. In a matter of days, hundreds of music fans will be heading toward Robinson for a music festival.
 
-If [[the hunters]] are inside the circle of the sleep spell’s effect (or enter it) between 9 p.m. and 6 a.m., they will be affected by the spell and fall asleep almost instantly. Your hunters may **act under pressure** or **use magic** to resist the effects, but Madame Koshmar has ways of dealing with children up past curfew.
+If [[the hunters]] are inside the circle of the sleep spell’s effect (or enter it) between 9 p.m. and 6 a.m., they will be affected by the spell and fall asleep almost instantly. Your hunters may **[[act under pressure]]** or **[[use magic]]** to resist the effects, but Madame Koshmar has ways of dealing with children up past curfew.
 
 # Andrew Withers
 
@@ -110,7 +110,7 @@ If [[the hunters]] are inside the circle of the sleep spell’s effect (or enter
 
 # Other Townsfolk
 
-*Bystanders: Gossips (motivation: to pass on rumours)*
+*[[Bystanders]]: Gossips (motivation: to pass on rumours)*
 
 Most people in the town placidly accept their 9 p.m ‘bedtime’ as just the way it is in small-town America. Many are unlikely to respond well to suggestions that anything else is going on.
 

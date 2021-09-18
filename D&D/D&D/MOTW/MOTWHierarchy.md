@@ -53,7 +53,7 @@
 				- [[Advanced Moves]]
 		- [[Moves]]
 			- [[You Have To Make The Move]]
-			- [[Rolling the Dice]]
+			- [[How to roll for a move]]
 			- [[Bonuses and Holds]]
 				- [[FORWARD]]
 				- [[ONGOING]]

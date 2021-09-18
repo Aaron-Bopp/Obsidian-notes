@@ -66,8 +66,8 @@ Pick two resource tags for the Agency, and two red tape tags:
 - **Unfazeable**: Take +1 Cool (max +3).
 - **Battlefield Awareness**: You always know what’s happening around you, and what to watch out for. Take +1 [[armour]] (max 2-[[armour]]) on top of whatever you get from your [[gear]].
 - **Leave No One Behind**: In combat, when **you help someone escape**, roll +Sharp. On a 10+ you get them out clean. On a 7-9, you can *either* get them out *or* suffer no [[harm]], you choose. On a miss, you fail to get them out and you’ve attracted hostile attention.
-- **Tactical Genius**: When you **[[Read A Bad Situation]]**, you may roll +Cool instead of +Sharp
-- **Medic**: You have a full first aid kit, and the training to heal people. **When you do first aid**, roll +Cool. On a 10+ the patient is stabilized and healed of 2 [[harm]]. On a 7-9 choose one: heal 2 [[harm]] or stabilize the injury. On a miss, you cause an extra 1 [[harm]]. This move takes the place of regular first aid.
+- **Tactical Genius**: When you **[[Read A Bad Situation]]**, you may roll [[+Cool]] instead of +Sharp
+- **Medic**: You have a full first aid kit, and the training to heal people. **When you do first aid**, roll [[+Cool]]. On a 10+ the patient is stabilized and healed of 2 [[harm]]. On a 7-9 choose one: heal 2 [[harm]] or stabilize the injury. On a miss, you cause an extra 1 [[harm]]. This move takes the place of regular first aid.
 - **Mobility**: You have a truck, van, or car built for monster hunting. Choose two good things and one bad thing about it. 
 
 *Good things*: roomy; surveillance [[gear]]; fast; stealthy; intimidating; classic; medical kit; sleeping space; toolkit; concealed [[weapons]]; anonymous; armoured (+1 [[armour]] inside); tough; monster cage.

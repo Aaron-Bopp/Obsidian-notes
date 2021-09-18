@@ -42,17 +42,17 @@ On a miss, take an additional [[harm]] and answer honestly the questions she ask
 
 **Attacks:** **Telekinesis:** 0 to 3-[[harm]] close ignore-[[armour]] cold. Evelyn can throw objects or push victims—pick [[harm]] rating based on danger level. This leaves a frost that will melt into ectoplasmic goo.
 
-**Armour:** None, but she cannot be harmed by normal [[weapons]] (except while using her frost grasp).
+**[[Armour]]:** None, but she cannot be harmed by normal [[weapons]] (except while using her frost grasp).
 
-**Harm Capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weaknesses:**
 
-An apology, or **big magic** exorcism.
+An apology, or **[[big magic]]** exorcism.
 
 She will go away willingly with a heartfelt apology from Eric Clevinger, the professor who murdered her. She will claim him and the two will dramatically disappear.
 
-She can also be exorcised by **big magic .** Possible requirements for the ritual: one or two more people than there are hunters; must be performed in the dorm room where she was first summoned; will take time and chanting, possibly attracting unwanted attention and innocents.
+She can also be exorcised by **[[big magic]] .** Possible requirements for the ritual: one or two more people than there are hunters; must be performed in the dorm room where she was first summoned; will take time and chanting, possibly attracting unwanted attention and innocents.
 
 # Shelly Young (First-time witch)
 

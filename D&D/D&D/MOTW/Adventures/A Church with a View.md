@@ -38,7 +38,7 @@ When the monster manifests as one of the figures from a stained glass window, th
 
 -   **Shatter**: The monster can shatter its currently manifested form at will, destroying it and sending shards of glass in every direction (4-[[harm]] far messy).
 
--   **Blind**: If under bright light, the ghost can reflect the light into the eyes. Roll +Cool to cover your eyes:
+-   **Blind**: If under bright light, the ghost can reflect the light into the eyes. Roll [[+Cool]] to cover your eyes:
 
 -   On a 10+, you avoid the light.
 
@@ -46,9 +46,9 @@ When the monster manifests as one of the figures from a stained glass window, th
 
 -   On a miss, you are blinded for at least 30 seconds.
 
-**Attacks:** **Sharp shards of glass** 3-[[harm]] close messy. **Armour:** None.
+**Attacks:** **Sharp shards of glass** 3-[[harm]] close messy. **[[Armour]]:** None.
 
-**Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:** Church Windows—when all the windows in the church are broken the ghost will no longer be able to manifest. There are three windows per hunter.
 
@@ -62,9 +62,9 @@ Following the Stained Glass Ghost through the tear in reality, these poltergeist
 
 **Attacks:** **Throw anything not bolted down** 2-[[harm]] far.
 
-**Armour:** None.
+**[[Armour]]:** None.
 
-**Harm Capacity:** 2. <sup>\[\]\[\]</sup>
+**[[Harm]] Capacity:** 2. <sup>\[\]\[\]</sup>
 
 **Weakness:** Corporeal form—in order to attack [[the hunters]], the Poltergeists must physically manifest. They can be destroyed by all forms of [[harm]], just as a human would. When destroyed they melt into shadows and disappear, never to manifest again.
 
@@ -76,7 +76,7 @@ The church is known for its many stained glass windows depicting scenes of the b
 
 The church is now intersects with a space between realities. Anyone who looks out the windows sees the realm of ghosts. Each color of glass gives a different view of a strange landscape and swirling mass of ghosts, each tinted by the color of the glass. **Powers:**
 
-• **Locked In**: Once the door to the church has been closed, those inside are trapped. Opening the door again reveals the ethereal landscape of the ghost world. The church returns to the normal world when the ghost is destroyed or if [[the hunters]] can pull off some appropriate **big magic**.
+• **Locked In**: Once the door to the church has been closed, those inside are trapped. Opening the door again reveals the ethereal landscape of the ghost world. The church returns to the normal world when the ghost is destroyed or if [[the hunters]] can pull off some appropriate **[[big magic]]**.
 
 **Custom Move:**
 

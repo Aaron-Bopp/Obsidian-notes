@@ -1,3 +1,5 @@
+[[+Cool]]:
+
 [[802701 AD]]:
 
 [[A Church with a View]]:
@@ -178,6 +180,8 @@
 
 [[How To End A Game]]:
 
+[[How to roll for a move]]:
+
 [[Hunter Agenda]]:
 
 [[Hunter Creation]]:
@@ -258,6 +262,8 @@
 
 [[Moves]]:
 
+[[Moves can be can have a good and bad sides]]:
+
 [[Mystery Countdowns]]:
 
 [[Mystery Damn Dirty Apes]]:
@@ -269,8 +275,6 @@
 [[Mystery Templates]]:
 
 [[Necromancers Gambit]]:
-
-[[Hunter types]]:
 
 [[No Planning Ahead]]:
 
@@ -317,8 +321,6 @@
 [[Red Queens Gambit]]:
 
 [[Resurrection]]:
-
-[[Rolling the Dice]]:
 
 [[Running Out Of Luck]]:
 
@@ -473,8 +475,6 @@
 [[Unnatural Appeal]]:
 
 [[Unquenchable Vitality]]:
-
-[[Untitled]]:
 
 [[Use Magic]]:
 

@@ -1,5 +1,5 @@
 
-Often the rules for a move will tell you to roll, say, +Cool. This means you should grab two everyday six-sided dice, roll them, add them together and then add whatever number is written down for your hunter’s Cool.
+Often the rules for a move will tell you to roll, say, [[+Cool]]. This means you should grab two everyday six-sided dice, roll them, add them together and then add whatever number is written down for your hunter’s Cool.
 
 If it says something else instead of Cool (usually another rating), then add that number instead. So, if you are told to roll +Weird, roll two dice and add your Weird rating. If you are told to roll +Tough, roll two dice and add your Tough rating. If you have a negative rating, like -1, then you subtract one from your total instead.
 

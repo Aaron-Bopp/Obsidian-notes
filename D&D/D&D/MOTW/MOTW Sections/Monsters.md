@@ -54,7 +54,7 @@ A vampire based on the novel *Dracula.*
 **Powers**:
 
 - [[Immortal]].
-- Mesmerism: When **it commands you**, roll +Cool. On a 10+, you can choose whether to do it or not. If you do, mark experience and take +1 [[forward]]. On a 7-9, you can choose whether you do it or not. If you do, mark experience. If you don’t, take +1 the next time he tries to mesmerise you. On a miss, you do what it asks.
+- Mesmerism: When **it commands you**, roll [[+Cool]]. On a 10+, you can choose whether to do it or not. If you do, mark experience and take +1 [[forward]]. On a 7-9, you can choose whether you do it or not. If you do, mark experience. If you don’t, take +1 the next time he tries to mesmerise you. On a miss, you do what it asks.
 - Transform into wolf, bat, or shadow.
 - Extremely strong.
 - Can climb any wall.
@@ -65,11 +65,11 @@ A vampire based on the novel *Dracula.*
 
 **Attacks**: Punch/throw: 4-[[harm]] hand; Bite: 3-[[harm]] intimate vampiric.
 
-**Armour**: Physical toughness: 1-[[armour]].
+**[[Armour]]**: Physical toughness: 1-[[armour]].
 
 **Weaknesses**: Must subsist on human blood. Must sleep in the soil of his homeland. A wooden stake through the heart. Decapitation.
 
-**Harm capacity**: 9 [[harm]].
+**[[Harm]] capacity**: 9 [[harm]].
 
 **A MONSTROSITY FROM BEYOND**
 
@@ -84,11 +84,11 @@ This is an alien being. It has no name. It looks like a collection of moving sha
 
 **Attacks:** Devour memory: 3-[[harm]] ignore [[armour]] 1-memory; Tendril lash: 4-[[harm]] close ignore-[[armour]] phasing.
 
-**Armour:** Its semi-physical body counts as 2-[[armour]].
+**[[Armour]]:** Its semi-physical body counts as 2-[[armour]].
 
 **Weaknesses:** Its form can be disrupted by high energy (e.g. intense heat, industrial-voltage electricity, high powered laser, etc.).
 
-**Harm capacity:** 12 [[harm]].
+**[[Harm]] capacity:** 12 [[harm]].
 
 **UHUL, DEMON PRINCE**
 
@@ -104,11 +104,11 @@ Uhul is immensely powerful, and hard to call to Earth. It’s even harder to ban
 
 **Attacks:** Fisticuffs: 2-[[harm]] hand; Demonic talons: 4-[[harm]] hand; Barbed iron spear: 5-[[harm]] hand close heavy.
 
-**Armour:** 1-[[armour]] (just generally hard to hurt).
+**[[Armour]]:** 1-[[armour]] (just generally hard to hurt).
 
-**Weaknesses:** A specific **big magic** banishing ritual (requires 7 people, some rare crystals, requires **use magic** to banish Uhul, and takes 4 hours to cast).
+**Weaknesses:** A specific **[[big magic]]** banishing ritual (requires 7 people, some rare crystals, requires **[[use magic]]** to banish Uhul, and takes 4 hours to cast).
 
-**Harm capacity:** 12 [[harm]].
+**[[Harm]] capacity:** 12 [[harm]].
 
 **A VRYKOLAKAS, A BALKAN VAMPIRE**
 
@@ -127,11 +127,11 @@ A vrykolakas sleeps in its den (any place that won’t be disturbed) during the 
 
 **Attacks:** Claws: 1-[[harm]] hand messy; Teeth: 1-[[harm]] intimate contagious (‘contagious’ gives the victim the wasting illness).
 
-**Armour:** 2-[[armour]]
+**[[Armour]]:** 2-[[armour]]
 
 **Weaknesses:** Sleeps in its grave on Saturday; Fire; Decapitation.
 
-**Harm capacity:** 10 [[harm]].
+**[[Harm]] capacity:** 10 [[harm]].
 
 **SPORE TROLL**
 
@@ -146,15 +146,15 @@ Spore trolls are fungal creatures that grow when an animal is infected with spec
 
 **Attacks:** SMASH!: 3-[[harm]] hand messy; Cutting lash: 2-[[harm]] close.
 
-**Armour:** 2 [[armour]].
+**[[Armour]]:** 2 [[armour]].
 
 **Weaknesses:** Link to the fungus-queen-mass: destroying the queen-mass or severing the mental link allows the spore troll to be destroyed.
 
-**Harm capacity:** 12 [[harm]].
+**[[Harm]] capacity:** 12 [[harm]].
 
 **A CLASSIC WEREWOLF**
 
-A person can become a werewolf in two ways. They may be cursed (by a **big magic** ritual) or injured by a werewolf but not killed.
+A person can become a werewolf in two ways. They may be cursed (by a **[[big magic]]** ritual) or injured by a werewolf but not killed.
 
 Werewolves transform into wolves on the night of the full moon each month, and run wild, attacking any human or animal prey they find.
 
@@ -169,11 +169,11 @@ Although a werewolf is very tough in wolf form, it doesn’t heal any faster tha
 
 **Attacks:** Human—as normal; Wolf—Bite: 2-[[harm]] hand; Wolf—Rend: 3-[[harm]] hand messy.
 
-**Armour:** Human—none; Wolf—1-[[armour]].
+**[[Armour]]:** Human—none; Wolf—1-[[armour]].
 
 **Weaknesses:** Silver; Wolfsbane.
 
-**Harm capacity:** Human: 7 [[harm]]; Wolf: 18 [[harm]].
+**[[Harm]] capacity:** Human: 7 [[harm]]; Wolf: 18 [[harm]].
 
 **THE DE-IDENTIFIER**
 
@@ -189,15 +189,15 @@ An entity from another dimension that feeds on what makes any thing distinguisha
 
 **Attacks:** Take away individuality 0-[[harm]] concentration hand (see below).
 
-**Armour:** None.
+**[[Armour]]:** None.
 
-**Weaknesses:** Identity (if [[the hunters]] somehow name it, they may kill it; this will require **big magic** or a very creative plan); Banishment (it may be sent back to its own dimension permanently).
+**Weaknesses:** Identity (if [[the hunters]] somehow name it, they may kill it; this will require **[[big magic]]** or a very creative plan); Banishment (it may be sent back to its own dimension permanently).
 
-**Harm capacity:** 7-[[harm]].
+**[[Harm]] capacity:** 7-[[harm]].
 
 **Custom [[moves]]**:
 
-**Take Away Individuality:** when it touches something, the De-Identifier takes away aspects of the entity that may be used to tell it apart from others of its kind. Entities with their individuality taken away are still whole, so [[the hunters]] can interact with such objects or talk to such people, etc. However, it will be impossible recall anything to help find that object or person again (only **use magic** or **big magic** will supersede this effect). If any hunter is successfully targetted by this custom move, take away a single thing that distinguishes them each time—their name, or an aspect of their look. When a hunter’s name and all look choices are gone, they are completely de-individualised. Recovery of these things will require **big magic**.
+**Take Away Individuality:** when it touches something, the De-Identifier takes away aspects of the entity that may be used to tell it apart from others of its kind. Entities with their individuality taken away are still whole, so [[the hunters]] can interact with such objects or talk to such people, etc. However, it will be impossible recall anything to help find that object or person again (only **[[use magic]]** or **[[big magic]]** will supersede this effect). If any hunter is successfully targetted by this custom move, take away a single thing that distinguishes them each time—their name, or an aspect of their look. When a hunter’s name and all look choices are gone, they are completely de-individualised. Recovery of these things will require **[[big magic]]**.
 
 **CHUPACABRAS**
 
@@ -215,11 +215,11 @@ Individually, chupacabras are not very dangerous to a hunter team. However, they
 
 **Attacks:** Bite: 1-[[harm]] hand; Blood-suck: 2-[[harm]] intimate, must bite first.
 
-**Armour:** None.
+**[[Armour]]:** None.
 
 **Weaknesses:** Sunlight; Enclosure (if you can trap it within a given area, it may not night-walk away and may be killed).
 
-**Harm capacity:** 5-[[harm]].
+**[[Harm]] capacity:** 5-[[harm]].
 
 **GHOUL**
 
@@ -233,17 +233,17 @@ Ghouls usually seem to have a low intelligence: only interested in eating and ho
 
 **Powers:**
 
-- **Immortal**: Ghouls do not age.
+- **[[Immortal]]**: Ghouls do not age.
 - **Tunnels Beneath**: Ghouls delve systems of tunnels beneath graveyards, first to access the flesh of the dead, but they may also travel great distances (sometimes even through time) via these passages.
 - **Rubbery Flesh**: The sinews and body of a ghoul is strong and tough. Hunters who attempt to contest with a ghoul in brute strength take -1 [[ongoing]].
 - **Creature of the Night**: Ghouls can see perfectly well in the dark, but bright light dazzles them.
 
 **Attacks:** Grabbing claws (1-[[harm]] hand), Rending teeth (1-[[harm]] intimate).
 
-**Armour:** The rubbery flesh of a ghoul counts as 1-[[armour]].
+**[[Armour]]:** The rubbery flesh of a ghoul counts as 1-[[armour]].
 
 **Weaknesses:** Sunlight.
 
-**Harm capacity:** 8 [[harm]].
+**[[Harm]] capacity:** 8 [[harm]].
 
 [[Minions]]

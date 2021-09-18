@@ -72,7 +72,7 @@ While the injuries are unstable, you may tell the hunter they take another point
 
 If an unstable wound has been left for a day and you haven’t added any more [[harm]] yet, do it then.
 
-**MINIONS, [[BYSTANDERS]] AND [[HARM]]**
+**[[MINIONS]], [[BYSTANDERS]] AND [[HARM]]**
 
 For [[minions]] and [[bystanders]], you don’t have to track wounds in detail. You can just make a call based on each injury: is this enough to take them out of the fight? Is this enough to kill them? Make the decision about the injury’s severity based on your usual Keeper’s agenda and principles, and (for [[minions]]) based on the [[harm]] capacity you picked for them.
 

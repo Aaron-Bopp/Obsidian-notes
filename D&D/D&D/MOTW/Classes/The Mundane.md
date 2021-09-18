@@ -19,15 +19,15 @@ To make your Mundane, first pick a name. Then follow the instructions below to d
 - Charm+2, Cool=0, Sharp+1, Tough+1, Weird-1
 - Charm+2, Cool+1, Sharp+1, Tough=0, Weird-1
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all the basic [[moves]], plus pick three Mundane [[moves]]:*
 
-- **Always The Victim**: When another hunter uses **protect someone** to protect you, they mark experience. Whenever a monster captures you, you mark experience.
+- **Always The Victim**: When another hunter uses **[[protect someone]]** to protect you, they mark experience. Whenever a monster captures you, you mark experience.
 - **Oops!** If **you want to stumble across something important**, tell [[the Keeper]]. You will find something important and useful, although not necessarily related to your immediate problems.
-- **Let’s Get Out Of Here!** If you can **protect someone** by telling them what to do, or by leading them out, roll +Charm instead of +Tough.
+- **Let’s Get Out Of Here!** If you can **[[protect someone]]** by telling them what to do, or by leading them out, roll +Charm instead of +Tough.
 - **Panic Button**: When you need to escape, **name the route you’ll try** and roll +Sharp. On a 10+ you’re out of danger, no problem. On a 7-9 you can go or stay, but if you go it’s going to cost you (you leave something behind or something comes with you). On a miss, you are caught halfway out.
-- **The Power of Heart**: When fighting a monster, if you **help someone**, don’t roll +Cool. You automatically help as though you’d rolled a 10.
+- **The Power of Heart**: When fighting a monster, if you **help someone**, don’t roll [[+Cool]]. You automatically help as though you’d rolled a 10.
 - **Trust Me**: When **you tell a normal person the truth in order to protect them from danger**, roll +Charm. On a 10+ they’ll do what you say they should, no questions asked. On a 7-9 they do it, but [[the Keeper]] chooses one from: 
   - They ask you a hard question first.
   - They stall and dither a while.
@@ -38,10 +38,10 @@ On a miss, they’re going to think you’re crazy and maybe dangerous too.
 - **What Could Go Wrong?**: Whenever you **charge into immediate danger** without hedging your bets, [[hold]] 2. You may spend your [[hold]] to: 
   - Inflict +1 [[harm]].
   - Reduce someone’s [[harm]] suffered by 1.
-  - Take +2 [[forward]] on an **act under pressure** roll.
+  - Take +2 [[forward]] on an **[[act under pressure]]** roll.
 - **Don’t Worry, I’ll Check It Out**: Whenever **you go off by yourself** to check out somewhere (or something) scary, mark experience.
 
-**GEAR**
+**[[GEAR]]**
 
 You get two Mundane [[weapons]] and a means of transport.
 
@@ -63,13 +63,13 @@ Means of transport (pick one):
 - Motorcycle
 - Van
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Mundane by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. When it’s your turn, pick one for each of the other hunters:
 
@@ -88,7 +88,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -96,7 +96,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -104,7 +104,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Charm, max +3
 - Get +1 Cool, max +2

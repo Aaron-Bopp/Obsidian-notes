@@ -40,7 +40,7 @@ Lifespan: As the plague mutates, each generation of infected arachnoids lives tw
 
 **Cunning**: Infected arachnoids become feral and violent, but are capable of a greater degree of cunning than the original gumos. Arachnoids can set traps and be wary of security cameras etc. Some arachnoids might start to figure out they can infect others and may seek to do so rather than kill people. The motive for doing so varies from individual to individual. Some might be trying to punish enemies while others might want to reunite with loved ones.
 
-**Infectious**: If **a hunter suffers [[harm]] from an arachnoid bite**, instead of the normal **harm** move, use this one. Roll +Tough:
+**Infectious**: If **a hunter suffers [[harm]] from an arachnoid bite**, instead of the normal **[[harm]]** move, use this one. Roll +Tough:
 
 -   On a 10 or more, they resist the infection and gain +1 [[ongoing]] to resist the infection in the future. If they already have +1 [[ongoing]], they are now totally immune to the plague.
 
@@ -68,15 +68,15 @@ Lifespan: As the plague mutates, each generation of infected arachnoids lives tw
 
 -   Midnight: The character seems completely monstrous. Rational thought is nearly impossible.
 
-**Cure:** A person whose immune system is boosted by magic or science can fight off the transformation with regular **use magic** or **weird science**. Other weird [[moves]] might also apply if the hunter comes up with a good way to use them. It is not so simple to cure someone who has completed the transformation. This is a situation requiring major effort, **big magic** or a **weird science** experiment. The following elements will be needed:
+**Cure:** A person whose immune system is boosted by magic or science can fight off the transformation with regular **[[use magic]]** or **weird science**. Other weird [[moves]] might also apply if the hunter comes up with a good way to use them. It is not so simple to cure someone who has completed the transformation. This is a situation requiring major effort, **[[big magic]]** or a **weird science** experiment. The following elements will be needed:
 
 -   The individual to be cured must be present for the procedure.
 
 -   Some sample or representation of the person they were before: a treasured item or sympathetic token for a magical approach, or a genetic sample for a scientific approach.
 
--   A few days to study the changes between the past and current version of the person. This could be an opportunity to **read a bad situation**.
+-   A few days to study the changes between the past and current version of the person. This could be an opportunity to **[[read a bad situation]]**.
 
--   A **use magic** or **weird science** move.
+-   A **[[use magic]]** or **weird science** move.
 
 # Dr. Atsuko Popov
 
@@ -92,9 +92,9 @@ Once she is aware of the plague, Atsuko will try to insinuate herself into the i
 
 **Attacks:** **Syringe** 0-[[harm]] intimate sedative. **Handgun** 2-[[harm]] close loud.
 
-**Armour:** \*Unusual anatomy\* (makes vital points harder to find): 1-[[armour]].
+**[[Armour]]:** \*Unusual anatomy\* (makes vital points harder to find): 1-[[armour]].
 
-**Harm Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:** None. Although not fully human, she is still a mortal creature.
 
@@ -116,15 +116,15 @@ The mutation process is brutal, and they will die from the changes in about a we
 
 • **Spider-parts**: They can produce webs, and climb walls like a spider. **Attacks:** **Claw and bite** 4-[[harm]] hand/close messy.
 
-**Armour:** Choose: **Human skin**: 0-[[armour]], **Light chitin**: 1-[[armour]], or **Heavy chitin**: 2-[[armour]].
+**[[Armour]]:** Choose: **Human skin**: 0-[[armour]], **Light chitin**: 1-[[armour]], or **Heavy chitin**: 2-[[armour]].
 
-**Harm Capacity:** 9. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 9. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:** No special weaknesses—although mutated, they are still normal living creatures.
 
 **Custom [[Moves]]:**
 
-**Webbing**: The arachnoids are capable of producing webs. **When an arachnoid tries to maneuver a hunter into its webs**, the hunter must roll +Cool:
+**Webbing**: The arachnoids are capable of producing webs. **When an arachnoid tries to maneuver a hunter into its webs**, the hunter must roll [[+Cool]]:
 
 On a 10 or more, they avoid being entangled in the webs and gain a +1 [[Forward]] against the arachnoid.
 
@@ -148,7 +148,7 @@ The arachnoids that Atsuko released live in these tunnels when they’re not cre
 
 **Custom [[Moves]]:**
 
-**Web-Blocked Corridors**: When [[the hunters]] find a blocked tunnel, they might try to navigate it carefully or just cut their way through. If **they try to navigate the webs carefully**, they roll +Cool:
+**Web-Blocked Corridors**: When [[the hunters]] find a blocked tunnel, they might try to navigate it carefully or just cut their way through. If **they try to navigate the webs carefully**, they roll [[+Cool]]:
 
 -   On a 10 or more, they find a path through the webs without alerting anything. Anyone following them has +1 [[forward]] to navigate the webbing.
 

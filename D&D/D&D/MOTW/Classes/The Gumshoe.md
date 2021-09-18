@@ -26,13 +26,13 @@ With the agreement of [[the Keeper]], pick a one-sentence Code that your Gumshoe
 
 This Code defines your Gumshoe. Any time you violate your code you forfeit all Code related [[moves]] (**The Postman Always Rings Twice**, **The Long Goodbye**) and the ability to spend Luck points. These forfeits last either until the next mystery or you make amends (whichever comes
 
-first). As long as you follow the Code people will sense your sincerity: you receive +1 [[ongoing]] for **manipulate someone** and you may not be possessed or charmed by any sort of supernatural, alien, or demonic entity or item.
+first). As long as you follow the Code people will sense your sincerity: you receive +1 [[ongoing]] for **[[manipulate someone]]** and you may not be possessed or charmed by any sort of supernatural, alien, or demonic entity or item.
 
 ## Moves
 
 You get all the basic [[moves]], and three Gumshoe [[moves]]. You get these two:
 
-B **Occult Confidential**: The first time in each mystery that you observe a monster, minion, or phenomenon in action, you may ask one question from the **investigate a mystery** list.
+B **Occult Confidential**: The first time in each mystery that you observe a monster, minion, or phenomenon in action, you may ask one question from the **[[investigate a mystery]]** list.
 
 B **The Naked City**: You have lots of personal contacts wherever you go. Pick four contact types from the following areas (or from other areas agreed to between you and [[the Keeper]]):
 
@@ -50,7 +50,7 @@ Security, Property Developers, Stage Magicians, Technologists,
 
 Transportation
 
-You can hit them up for info (+1 to one **investigate a mystery** roll) or small favours—but there may be a small cost involved. Personal contacts can provide more significant help but [[the Keeper]] decides their price on a case-by-case basis.
+You can hit them up for info (+1 to one **[[investigate a mystery]]** roll) or small favours—but there may be a small cost involved. Personal contacts can provide more significant help but [[the Keeper]] decides their price on a case-by-case basis.
 
 Then pick one of these:
 
@@ -88,7 +88,7 @@ b **“Just one more thing”**: When you ask a suspect leading questions, roll 
 
 Spend your [[hold]] to ask questions from this list:
 
--   One question from the **investigate a mystery** list.
+-   One question from the **[[investigate a mystery]]** list.
 
 -   Was that a lie?
 

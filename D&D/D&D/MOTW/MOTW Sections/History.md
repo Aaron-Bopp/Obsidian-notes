@@ -13,7 +13,7 @@ Take a few moments to work out what the history choices imply about how and why 
 
 [[The Keeper]] will have prepared a mystery for you to investigate, and will start by telling you what clues drew you in.
 
-**MOVES FOR THE BEGINNING OF THE MYSTERY**
+**[[MOVES]] FOR THE BEGINNING OF THE MYSTERY**
 
 If you have a move that is triggered at the beginning of a mystery, you should make it now.
 
@@ -33,7 +33,7 @@ Now you can work out the team’s story, based on all those bits of history. You
 
 Mention How Things Work
 
-This is a good time to explain the player agenda ([[Hunter Agenda]]), basic [[moves]] ([[The Basic Hunter Moves]]), what to roll and add ([[Rolling the Dice]]), using Luck ([[The Luck Counter]]), when to mark experience ([[Leveling Up]]), and how to level up ([[Leveling Up]]). Give just enough detail to get started, rather than trying to explain everything right now. You can fill in more details when they are needed.
+This is a good time to explain the player agenda ([[Hunter Agenda]]), basic [[moves]] ([[The Basic Hunter Moves]]), what to roll and add ([[How to roll for a move]]), using Luck ([[The Luck Counter]]), when to mark experience ([[Leveling Up]]), and how to level up ([[Leveling Up]]). Give just enough detail to get started, rather than trying to explain everything right now. You can fill in more details when they are needed.
 
 [[Running The First Mystery]]
 

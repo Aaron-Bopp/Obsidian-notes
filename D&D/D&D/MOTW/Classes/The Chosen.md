@@ -69,7 +69,7 @@ Whenever you mark off a point of Luck, [[the Keeper]] will throw something from 
 - The end of days
 - The source of Evil
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all of the basic [[moves]], plus three Chosen [[moves]].*
 
@@ -80,13 +80,13 @@ Whenever you mark off a point of Luck, [[the Keeper]] will throw something from 
 
 *Then pick one of these:*
 
-- **The Big Entrance**: When **you make a showy entrance into a dangerous situation**, roll +Cool. On 10+ everyone stops to watch and listen until you finish your opening speech. On a 7-9, you pick one person or monster to stop, watch and listen until you finish talking. On a miss, you’re marked as the biggest threat by all enemies who are present.
+- **The Big Entrance**: When **you make a showy entrance into a dangerous situation**, roll [[+Cool]]. On 10+ everyone stops to watch and listen until you finish your opening speech. On a 7-9, you pick one person or monster to stop, watch and listen until you finish talking. On a miss, you’re marked as the biggest threat by all enemies who are present.
 - **Devastating**: When **you inflict [[harm]]**, you may inflict +1 [[harm]].
 - **Dutiful**: When your fate rears its ugly head, and **you act in accordance with any of your fate tags** (either heroic or doom) then mark experience. If it’s a heroic tag, take +1 [[forward]].
 - **Invincible**: You always count as having 2-[[armour]]. This doesn’t stack with other protection.
 - **Resilience**: You heal faster than normal people. Any time your [[harm]] gets healed, heal an extra point. Additionally, your wounds count as 1-[[harm]] less for the purpose of [[the Keeper]]’s [[harm]] [[moves]].
 
-**GEAR**
+**[[GEAR]]**
 
 You can have protective [[gear]] worth 1-[[armour]], if you want it.
 
@@ -119,13 +119,13 @@ Finally, pick what material the business-end is made from: add “steel,” “c
 
 Material:
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Chosen by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. On your turn, pick one of these for each other hunter:
 
@@ -146,7 +146,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -154,7 +154,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -162,7 +162,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Charm, max +3
 - Get +1 Cool, max +3

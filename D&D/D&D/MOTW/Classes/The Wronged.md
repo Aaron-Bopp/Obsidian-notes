@@ -59,7 +59,7 @@ Why couldn’t you save them? You were (pick one or more):
 - **What Does Not Kill Me...**: If you have suffered [[harm]] in a fight, you gain +1 [[ongoing]] until the fight is over.
 - **Fervor**: When you **[[Manipulate Someone]]**, roll +Tough instead of +Charm.
 - **Safety First:** You have jury-rigged extra protection into your [[gear]], giving you +1 [[armour]] (maximum 2-[[armour]]).
-- **DIY Surgery**: When **you do quick and dirty first aid on someone** (including yourself), roll +Cool. On a 10+ it’s all good, it counts as normal first aid, plus stabilize the injury and heal 1 [[harm]]. On a 7-9 it counts as normal first aid, plus one of these, your choice: 
+- **DIY Surgery**: When **you do quick and dirty first aid on someone** (including yourself), roll [[+Cool]]. On a 10+ it’s all good, it counts as normal first aid, plus stabilize the injury and heal 1 [[harm]]. On a 7-9 it counts as normal first aid, plus one of these, your choice: 
   - Stabilise the injury but the patient takes -1 [[forward]].
   - Heal 1-[[harm]] and stabilise for now, but it will return as 2-[[harm]] and become unstable again later.
   - Heal 1-[[harm]] and stabilise but the patient takes -1 [[ongoing]] until it’s fixed properly.

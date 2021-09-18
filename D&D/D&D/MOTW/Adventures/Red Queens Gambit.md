@@ -138,7 +138,7 @@ If a hunter has a spare smoke, Maggie will also mention that Pete’s been buyin
 
 A bystander turns into a Mad Dog after drinking Ruby Red three times.
 
-When **a hunter drinks Ruby Red**, they roll +Cool:
+When **a hunter drinks Ruby Red**, they roll [[+Cool]]:
 
 -   On a 10+ the drink is merely disgusting, but you have a vision and may ask a question from the **[[Investigate A Mystery]]** list.
 

@@ -66,9 +66,9 @@ Resembles a giant eyeless toad with a mouth covered with constantly moving tenta
 
 -   **Grab**: The froghemoth shoots its tongue out to try and grab someone. See the ‘grab’ move below.
 
-**Attack:** **Swallow** 3-[[harm]] close engulf (see custom move below). **Armour:** None.
+**Attack:** **Swallow** 3-[[harm]] close engulf (see custom move below). **[[Armour]]:** None.
 
-**Harm Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
+**[[Harm]] Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
 **Weakness:** Can only manifest when a transdimensonal nexus is open. If the nexus is closed, it becomes vulnerable.
 

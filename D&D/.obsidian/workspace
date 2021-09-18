@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/MOTW/MOTW Sections/Moves.md",
+            "file": "D&D/MOTW/MOTW Sections/How to roll for a move.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/MOTW/MOTW Sections/Moves.md",
+                "file": "D&D/MOTW/MOTW Sections/How to roll for a move.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/MOTW/MOTW Sections/Moves.md"
+                "file": "D&D/MOTW/MOTW Sections/How to roll for a move.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/MOTW/MOTW Sections/Moves.md",
+                "file": "D&D/MOTW/MOTW Sections/How to roll for a move.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/MOTW/MOTW Sections/Moves.md",
+                "file": "D&D/MOTW/MOTW Sections/How to roll for a move.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -242,15 +242,15 @@
   },
   "active": "d091c23e3eb78aeb",
   "lastOpenFiles": [
-    "D&D/MOTW/MOTW Sections/Moves.md",
-    "D&D/MOTW/MOTW Sections/Hunter types.md",
-    "D&D/MOTW/New Hunters.md",
-    "D&D/MOTW/MOTW Sections/The Hunters.md",
-    "D&D/MOTW/MOTW Sections/Which Keeper Move To Use.md",
-    "D&D/MOTW/Classes/The Professional.md",
-    "D&D/MOTW/Classes/Untitled.md",
+    "D&D/MOTW/MOTW Sections/How to role for a move.md",
+    "D&D/MOTW/MOTW Sections/Ability Ratings.md",
+    "+Weird.md",
+    "+Sharp.md",
+    "Untitled.md",
+    "D&D/MOTW/Moves/+Cool.md",
+    "D&D/MOTW/Moves/Untitled.md",
     "D&D/MOTW/MOTW Sections/The Basic Hunter Moves.md",
-    "D&D/MOTW/MOTW Sections/Use Magic.md",
-    "D&D/MOTW/MOTW Sections/Read A Bad Situation.md"
+    "D&D/MOTW/MOTW Sections/Playbook Moves.md",
+    "D&D/MOTW/MOTW Sections/Actions Not Covered By A Move.md"
   ]
 }

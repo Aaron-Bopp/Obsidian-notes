@@ -70,7 +70,7 @@ An evil tulpa will not fade after an hour. It will continue to manifest randomly
 
 **Custom [[Moves]]:**
 
-To **summon a tulpa** you must be able to use some sort of magic and have studied the process. A hunter trying it may have to **act under pressure** to stay focused while visualizing the tulpa. Roll +Weird:
+To **summon a tulpa** you must be able to use some sort of magic and have studied the process. A hunter trying it may have to **[[act under pressure]]** to stay focused while visualizing the tulpa. Roll +Weird:
 
 -   On a 10+, a tulpa appears, totally under your control.
 
@@ -102,9 +102,9 @@ When attacking multiple foes, the rabbit quickly jumps from one target to anothe
 
 **Attack:** **Bite** 5-[[harm]] hand messy.
 
-**Armour:** 0. Soft fur, often bloody.
+**[[Armour]]:** 0. Soft fur, often bloody.
 
-**Harm Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weaknesses:**
 

@@ -32,9 +32,9 @@ A teenager murders her family with a chainsaw, exhibiting supernatural strength 
 
 ![[image118.jpg]]**Get Psycho**: When a bystander listens to the Disk Most Black, they become a Silver Screen Slasher (see below) by the end of one song.
 
-When **a hunter listens to the Disk Most Black**, they roll +Cool:
+When **a hunter listens to the Disk Most Black**, they roll [[+Cool]]:
 
--   On a 10+, the music is merely noisome and repulsive. You may ask a question from the **investigate a mystery** list.
+-   On a 10+, the music is merely noisome and repulsive. You may ask a question from the **[[investigate a mystery]]** list.
 
 -   On a 7-9, in addition to asking a question as above, choose 1: a Wicked Soul appears to steal the disk; the music deals you
 
@@ -44,7 +44,7 @@ When **a hunter listens to the Disk Most Black**, they roll +Cool:
 
 # Wicked Souls
 
-*Minions: Guardians (motivation: to bar the way or protect something)*
+*[[Minions]]: Guardians (motivation: to bar the way or protect something)*
 
 These little terrors resemble large mosquitos made of smoke and glowing coals (to those who can detect them at all). They exist to protect and move the Disk Most Black. **Powers:**
 
@@ -52,7 +52,7 @@ These little terrors resemble large mosquitos made of smoke and glowing coals (t
 
 **Attack:** **Soul lash:** 1-[[harm]] intimate ignore-[[armour]].
 
-**Armour:** 0, but ignores all but holy or psychic damage. **Harm capacity:** 2. <sup>\[\]\[\]</sup>
+**[[Armour]]:** 0, but ignores all but holy or psychic damage. **[[Harm]] capacity:** 2. <sup>\[\]\[\]</sup>
 
 **Custom [[Moves]]:**
 
@@ -64,7 +64,7 @@ These little terrors resemble large mosquitos made of smoke and glowing coals (t
 
 # Silver Screen Slashers
 
-*Minions: Brute (motivation: to intimidate and attack)*
+*[[Minions]]: Brute (motivation: to intimidate and attack)*
 
 Brutes who seek only violence. This is a chance to bring your favorite
 
@@ -72,9 +72,9 @@ Brutes who seek only violence. This is a chance to bring your favorite
 
 **Attack:** **Signature over-the-top movie slasher weapon:** 4-[[harm]] hand messy.
 
-**Armour:** 0
+**[[Armour]]:** 0
 
-**Harm Capacity:** 3 (They’re just kids! They change back upon death.) <sup>\[\]\[\]\[\]</sup>
+**[[Harm]] Capacity:** 3 (They’re just kids! They change back upon death.) <sup>\[\]\[\]\[\]</sup>
 
 **Custom [[Moves]]:**
 

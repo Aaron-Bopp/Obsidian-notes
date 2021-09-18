@@ -23,6 +23,6 @@ Lastly, [[as the game goes on]] you might notice that previously unconnected fac
 
 *Let’s say that there was a particularly annoying werewolf pack leader who eluded [[the hunters]]. She seems like a good choice to start an arc around (especially as the team has a Wronged who is hunting werewolves).*
 
-*The hunters killed most of the werewolf pack, so the leader will definitely [[hold]] a grudge, and she was pretty smart in her tactics, so the idea of her starting a crusade against [[the hunters]] makes perfect sense.*
+*[[The hunters]] killed most of the werewolf pack, so the leader will definitely [[hold]] a grudge, and she was pretty smart in her tactics, so the idea of her starting a crusade against [[the hunters]] makes perfect sense.*
 
 [[Arc Threats]]

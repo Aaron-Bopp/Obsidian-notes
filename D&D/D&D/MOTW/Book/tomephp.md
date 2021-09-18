@@ -1151,7 +1151,7 @@ weapon. **Recording devices (pick two):**
 
 > When you take the “Choose one advanced Hex move” improvement, choose one of these [[moves]]. You can never have both:
 >
-> b **Apotheosis**: You become a terrifying fount of mystical power. Once per mystery, after you suffer loss or [[harm]], you may enter a state where you have both immense power and zero interest in the well-being of other people. While in this state, you can fly, use +Weird to **[[kick some ass]]** instead of +Tough (using innate magic as a 3-[[harm]] weapon with whatever properties you choose), ignore the component costs of your rotes, ignore one requirement of every spell you cast with **[[Use Magic]]**, and you have +1 [[ongoing]] to do everything. On the other hand, you outright cannot use the **[[Protect Someone]]** move, you have all the Temptations, and you have to indulge them whenever a good opportunity presents itself. When you try to resist a temptation, roll +Cool. On a 10+, your apotheosis ends. On a 7-9, it ends with you doing something dangerous or cruel. On a miss, it ends only after you [[harm]] someone (or something) you love.
+> b **Apotheosis**: You become a terrifying fount of mystical power. Once per mystery, after you suffer loss or [[harm]], you may enter a state where you have both immense power and zero interest in the well-being of other people. While in this state, you can fly, use +Weird to **[[kick some ass]]** instead of +Tough (using innate magic as a 3-[[harm]] weapon with whatever properties you choose), ignore the component costs of your rotes, ignore one requirement of every spell you cast with **[[Use Magic]]**, and you have +1 [[ongoing]] to do everything. On the other hand, you outright cannot use the **[[Protect Someone]]** move, you have all the Temptations, and you have to indulge them whenever a good opportunity presents itself. When you try to resist a temptation, roll [[+Cool]]. On a 10+, your apotheosis ends. On a 7-9, it ends with you doing something dangerous or cruel. On a miss, it ends only after you [[harm]] someone (or something) you love.
 >
 > b **Synthesis**: You manage to conciliate your dark power with your moral impulses. You lose your Temptation. Whenever you **[[Use Magic]]** to **[[Help Out]]** or **[[Protect Someone]]**, you mark experience. Mark a second experience if you do it at the expense of your own safety.
 >
@@ -1227,7 +1227,7 @@ weapon. **Recording devices (pick two):**
 
 > b **Dark Desires**: You may use the **[[Manipulate Someone]]** move on [[monsters]], as long as you are using emotional ties.
 >
-> b **The Power of Love**: When you use **help someone** to help your Guide you don’t have to roll +Cool. You automatically help as though you’d rolled a 10. If your Guide is another hunter, the same applies when they help you. b **Do As The Supernatural Do**: You can take an unnatural move from your Guide’s playbook (if they are a hunter). If they are a monster, choose a move from a suitable supernatural playbook. [[The Keeper]] may offer you a custom move, instead.
+> b **The Power of Love**: When you use **help someone** to help your Guide you don’t have to roll [[+Cool]]. You automatically help as though you’d rolled a 10. If your Guide is another hunter, the same applies when they help you. b **Do As The Supernatural Do**: You can take an unnatural move from your Guide’s playbook (if they are a hunter). If they are a monster, choose a move from a suitable supernatural playbook. [[The Keeper]] may offer you a custom move, instead.
 >
 > b **I Am Theirs And They Are Mine**: Whenever you are in danger, your Guide knows it. If your Guide is suffering [[harm]] (and it’s feasible), you can spend a point of Luck to redirect the attack onto yourself as if you have rolled 10+ with **[[Protect Someone]]**. If you are suffering [[harm]], you can decide that your Guide has protected you and is suffering this [[harm]] instead. If you choose this, roll for **bond abuse**.
 >
@@ -1355,7 +1355,7 @@ b Pocket knife or multitool decent condition
 >
 > b **Prepared to Defend**: Even truth seekers need to fight some times. Whenever you suffer [[harm]] when you **[[kick some ass]]** or **[[Protect Someone]]**, you suffer 1-[[harm]] less. b **Fellow Believer**: People understand you’ve also known strangeness. [[Bystanders]] will talk to you about weird things they would not trust another hunter (or a mundane official) to believe. b **Guardian**: You have a mystical ally (perhaps a spirit, alien, or cryptid) who helps and defends you. Define them, and their powers, with [[the Keeper]]’s agreement. Their look is one of: invisible, an intangible spirit thing, a weird creature, disguised as an animal, or disguised as a person.
 >
-> b **Just Another Day**: When you have to **[[Act Under Pressure]]** due to a monster, phenomenon, or mystical effect, you may roll +Weird instead of +Cool. b **Network**: You may gain an ally group of others who had experiences similar to your first encounter—perhaps they’re a support group or hobbyist club. Detail up to five members with useful skills related to what happened to them (none are up for fighting [[monsters]]).
+> b **Just Another Day**: When you have to **[[Act Under Pressure]]** due to a monster, phenomenon, or mystical effect, you may roll +Weird instead of [[+Cool]]. b **Network**: You may gain an ally group of others who had experiences similar to your first encounter—perhaps they’re a support group or hobbyist club. Detail up to five members with useful skills related to what happened to them (none are up for fighting [[monsters]]).
 >
 > b **Ockham’s Broadsword**: When you first encounter something strange, you may ask [[the Keeper]] what sort of thing it is. They will tell you if it (or the cause) is: natural, an unnatural creature, a weird phenomenon, or a person. You gain +1 [[forward]] dealing with it.
 >
@@ -2534,7 +2534,7 @@ b phenomenon b serial killer b dopplegänger
 >
 > **Custom [[Moves]]:**
 >
-> **Webbing**: The arachnoids are capable of producing webs. **When an arachnoid tries to maneuver a hunter into its webs**, the hunter must roll +Cool:
+> **Webbing**: The arachnoids are capable of producing webs. **When an arachnoid tries to maneuver a hunter into its webs**, the hunter must roll [[+Cool]]:
 >
 > On a 10 or more, they avoid being entangled in the webs and gain a +1 [[Forward]] against the arachnoid.
 >
@@ -2558,7 +2558,7 @@ b phenomenon b serial killer b dopplegänger
 >
 > **Custom [[Moves]]:**
 >
-> **Web-Blocked Corridors**: When [[the hunters]] find a blocked tunnel, they might try to navigate it carefully or just cut their way through. If **they try to navigate the webs carefully**, they roll +Cool:
+> **Web-Blocked Corridors**: When [[the hunters]] find a blocked tunnel, they might try to navigate it carefully or just cut their way through. If **they try to navigate the webs carefully**, they roll [[+Cool]]:
 
 -   On a 10 or more, they find a path through the webs without alerting anything. Anyone following them has +1 [[forward]] to navigate the webbing.
 
@@ -2894,7 +2894,7 @@ b phenomenon b serial killer b dopplegänger
 
 -   **Shatter**: The monster can shatter its currently manifested form at will, destroying it and sending shards of glass in every direction (4-[[harm]] far messy).
 
--   **Blind**: If under bright light, the ghost can reflect the light into the eyes. Roll +Cool to cover your eyes:
+-   **Blind**: If under bright light, the ghost can reflect the light into the eyes. Roll [[+Cool]] to cover your eyes:
 
 -   On a 10+, you avoid the light.
 
@@ -3428,7 +3428,7 @@ b phenomenon b serial killer b dopplegänger
 
 > **Custom [[Moves]]:**
 >
-> **Cursed Mind**: When you first learn Curse-Speech, roll +Cool:
+> **Cursed Mind**: When you first learn Curse-Speech, roll [[+Cool]]:
 
 -   On a 10+ you [[hold]] 3 and [[the Keeper]] holds 1.
 
@@ -3828,7 +3828,7 @@ The problem is that Amy’s subconscious has created a “Rabbit of
 >
 > ![](media/image118.jpg){width="6.0in" height="4.011527777777777in"}**Get Psycho**: When a bystander listens to the Disk Most Black, they become a Silver Screen Slasher (see below) by the end of one song.
 >
-> When **a hunter listens to the Disk Most Black**, they roll +Cool:
+> When **a hunter listens to the Disk Most Black**, they roll [[+Cool]]:
 
 -   On a 10+, the music is merely noisome and repulsive. You may ask a question from the **[[Investigate A Mystery]]** list.
 
@@ -5650,7 +5650,7 @@ Reportedly, the heart was created by a noblewoman during the
 >
 > A bystander turns into a Mad Dog after drinking Ruby Red three times.
 >
-> When **a hunter drinks Ruby Red**, they roll +Cool:
+> When **a hunter drinks Ruby Red**, they roll [[+Cool]]:
 
 -   On a 10+ the drink is merely disgusting, but you have a vision and may ask a question from the **[[Investigate A Mystery]]** list.
 

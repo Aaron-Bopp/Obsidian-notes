@@ -20,7 +20,7 @@ To make your Initiate, first pick a name. Then follow the instructions below to 
 - Charm+1, Cool-1, Sharp+1, Tough=0, Weird+2
 - Charm=0, Cool=0, Sharp=0, Tough+1, Weird+2
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all of the basic [[moves]], plus four Initiate [[moves]]. You get this one:*
 
@@ -28,8 +28,8 @@ To make your Initiate, first pick a name. Then follow the instructions below to 
 
 *Then pick three of these:*
 
-- **Ancient Fighting Arts**: When using an old-fashioned hand weapon, you inflict +1 [[harm]] and get +1 whenever you roll **protect someone**.
-- **Mystic**: Every time you successfully **use magic**, take +1 [[forward]].
+- **Ancient Fighting Arts**: When using an old-fashioned hand weapon, you inflict +1 [[harm]] and get +1 whenever you roll **[[protect someone]]**.
+- **Mystic**: Every time you successfully **[[use magic]]**, take +1 [[forward]].
 - **Fortunes**: The Sect has ancient prophecies or divination techniques to predict the future. Once per mystery, you may use them. If **you look at what the future holds**, roll +Weird. On a 10+ [[hold]] 3, and on a 7-9 [[hold]] 1. On a miss, you get bad information and [[the Keeper]] decides how that affects you. Spend your [[hold]] to: 
   - have a useful object ready.
   - be somewhere you are needed, just in time.
@@ -38,8 +38,8 @@ To make your Initiate, first pick a name. Then follow the instructions below to 
 - **Sacred Oath:** You may bind yourself to a single goal, forsaking something during your quest (e.g. speech, all sustenance but bread and water, alcohol, lying, sex, etc). Get [[the Keeper]]’s agreement on this—it should match the goal in importance and difficulty. While you keep your oath and work towards your goal, mark experience at the end of every session and get +1 on any rolls that directly help achieve the goal. If you break the oath, take -1 [[ongoing]] until you have atoned.
 - **Mentor**: You have a mentor in the Sect: name them. When you **contact your mentor for info**, roll +Sharp. On a 10+, you get an answer to your question, no problem. On a 7-9 you choose: they’re either busy and can’t help, or they answer the question but you owe a favour. On a miss, your question causes trouble.
 - **Apprentice**: You have an apprentice: name them. Your job is to teach them the Sect’s ways. They count as an **ally**: **subordinate** (motivation: to follow your instructions to the letter).
-- **Helping Hand**: When you successfully **help out** another hunter, they get +2 instead of the usual +1.
-- **That Old Black Magic**: When you **use magic**, you can ask a question from the **investigate a mystery** move as your effect.
+- **Helping Hand**: When you successfully **[[help out]]** another hunter, they get +2 instead of the usual +1.
+- **That Old Black Magic**: When you **[[use magic]]**, you can ask a question from the **[[investigate a mystery]]** move as your effect.
 
 **SECT**
 
@@ -78,7 +78,7 @@ You also need to pick the Sect’s traditions (these will be used by [[the Keepe
 - Obsolete [[gear]]
 - Poor
 
-**GEAR**
+**[[GEAR]]**
 
 If the Sect has **fighting arts** or **obsolete [[gear]]**, then pick three old-fashioned [[weapons]]. If the Sect has **modernised** or **nifty gadgets**, you may pick two modern [[weapons]]. Otherwise, pick two old-fashioned [[weapons]] and one modern weapon.
 
@@ -104,13 +104,13 @@ Modern [[weapons]] (pick either one or two, as above):
 - Magnum (3-[[harm]] close reload loud)
 - Shotgun (3-[[harm]] close messy)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Initiate by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. On your turn, pick one for each of the other hunters:
 
@@ -129,7 +129,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -137,7 +137,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -145,7 +145,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Weird, max +3
 - Get +1 Cool, max +2

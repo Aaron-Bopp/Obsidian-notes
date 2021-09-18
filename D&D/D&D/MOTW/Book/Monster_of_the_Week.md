@@ -70,7 +70,7 @@ I can’t wait to hear how it works at your table! You’re in for a treat.
 
 [[There Are Monsters Out There]]
 
-*Most people don’t believe in* *monsters, but they’re real. When someone finds out that [[monsters]] are real, it’s usually just before they get eaten.*
+*Most people don’t believe in* *[[monsters]], but they’re real. When someone finds out that [[monsters]] are real, it’s usually just before they get eaten.*
 
 *But some people are mean enough, smart enough, crazy enough, or hurt enough, that they live.*
 
@@ -135,7 +135,7 @@ If you want to skip that and just hit the basics, here’s some suggestions:
 
 [[Structure]]
 
-This book is split into two main sections, *The Hunters* and *The Keeper*. Each section contains the rules for the corresponding player role. It’s helpful for [[the Keeper]] to be familiar with how the rules work for hunters as well as for their own Keeper responsibilities. There’s also no reason for other players to avoid [[the Keeper]]’s section (there are no spoilers there, except in the example mysteries) if you want another perspective on the rules.
+This book is split into two main sections, *[[The Hunters]]* and *[[The Keeper]]*. Each section contains the rules for the corresponding player role. It’s helpful for [[the Keeper]] to be familiar with how the rules work for hunters as well as for their own Keeper responsibilities. There’s also no reason for other players to avoid [[the Keeper]]’s section (there are no spoilers there, except in the example mysteries) if you want another perspective on the rules.
 
 [[Feedback]]
 
@@ -170,18 +170,18 @@ If you don’t have a team concept, just let everyone pick a playbook (that’s 
 
 The [[hunter types]] are:
 
-- **The Chosen**: a once-ordinary person who discovered they have a special destiny, and who has been given the power to accomplish it. [[The Chosen]] is good in a fight, with some weird powers. E.g. Buffy from *Buffy the Vampire Slayer.* See [[0000068181]].
-- **The Crooked**: a criminal turned monster hunter, haunted by their past and enemies. [[The Crooked]] is good in social situations and has a lot of contacts. E.g. Anna Valmont from *The Dresden Files*, Peter Bishop from *Fringe*. See [[The Crooked]].
-- **The Divine**: an agent of a higher power, with a mission to fulfill. [[The Divine]] is very tough and has been granted holy powers. E.g. Castiel from *Supernatural*; Michael Carpenter from *The Dresden Files*. See [[The Divine]].
-- **The Expert**: the hunter who knows all about [[monsters]] and magic. [[The Expert]] knows a lot of hidden secrets and how to find out more, and also has a well-supplied base to work from. E.g. Bobby Singer from *Supernatural*; Rupert Giles from *Buffy the Vampire Slayer*. See [[The Expert]].
-- **The Flake**: a conspiracy theorist. [[The Flake]] is great at finding things out and seeing how the events of separate mysteries are connected. E.g. Agent Mulder or the Lone Gunmen from *The* *X-Files*. See [[The Flake]].
-- **The Initiate**: a member of an ancient monster-slaying Sect, trained to fight and [[Use Magic]][[The Initiate]] is good with magic, and their Sect provides help (and sometimes problems). E.g. The Wardens from *The Dresden Files*; Annelise from the *Twenty Palaces* series. See [[The Initiate]].
-- **The Monstrous**: a monster fighting for the good guys. [[The Monstrous]] is very weird, and can have a variety of different powers based on what monster breed they are. E.g. Angel from *Buffy the Vampire Slayer* and *Angel*; Bill Compton from *True Blood* ([[0000189800]]).
-- **The Mundane**: just a normal regular person, especially good at dealing with regular people you meet and have to save, and at getting captured by [[monsters]] (which can be more useful than you might expect). E.g. Xander or Cordelia from *Buffy the Vampire Slayer*. See [[The Mundane]].
-- **The Professional**: you work for an agency that hunts [[monsters]]. [[The Professional]] is good in a fight, and a good team player. E.g. Riley and the Initiative from *Buffy the Vampire Slayer*; Olivia Dunham from *Fringe*. See [[The Professional]].
-- **The Spell-slinger**: a trained wizard, wielding powerful magic in their crusade against evil. [[The Spell-Slinger]]’s arcane training gives them an advantage when dealing with eldritch secrets. E.g. Harry Dresden from *The Dresden Files*; Willow from *Buffy the Vampire Slayer*, in the later seasons. See [[The Spell-Slinger]].
-- **The Spooky**: has psychic or magical powers. These powers are strange and sinister ... and not completely under [[The Spooky]]’s control. E.g. Sam Winchester from *Supernatural*; Willow from earlier seasons of *Buffy the Vampire Slayer*. See [[The Spooky]].
-- **The Wronged**: revenge-driven, and really tough. [[The Wronged]] is all about killing a specific breed of monster and protecting others as you do it. E.g. Dean and John Winchester from *Supernatural*. See [[0000295092]].
+- **[[The Chosen]]**: a once-ordinary person who discovered they have a special destiny, and who has been given the power to accomplish it. [[The Chosen]] is good in a fight, with some weird powers. E.g. Buffy from *Buffy the Vampire Slayer.* See [[0000068181]].
+- **[[The Crooked]]**: a criminal turned monster hunter, haunted by their past and enemies. [[The Crooked]] is good in social situations and has a lot of contacts. E.g. Anna Valmont from *The Dresden Files*, Peter Bishop from *Fringe*. See [[The Crooked]].
+- **[[The Divine]]**: an agent of a higher power, with a mission to fulfill. [[The Divine]] is very tough and has been granted holy powers. E.g. Castiel from *Supernatural*; Michael Carpenter from *The Dresden Files*. See [[The Divine]].
+- **[[The Expert]]**: the hunter who knows all about [[monsters]] and magic. [[The Expert]] knows a lot of hidden secrets and how to find out more, and also has a well-supplied base to work from. E.g. Bobby Singer from *Supernatural*; Rupert Giles from *Buffy the Vampire Slayer*. See [[The Expert]].
+- **[[The Flake]]**: a conspiracy theorist. [[The Flake]] is great at finding things out and seeing how the events of separate mysteries are connected. E.g. Agent Mulder or the Lone Gunmen from *The* *X-Files*. See [[The Flake]].
+- **[[The Initiate]]**: a member of an ancient monster-slaying Sect, trained to fight and [[Use Magic]][[The Initiate]] is good with magic, and their Sect provides help (and sometimes problems). E.g. The Wardens from *The Dresden Files*; Annelise from the *Twenty Palaces* series. See [[The Initiate]].
+- **[[The Monstrous]]**: a monster fighting for the good guys. [[The Monstrous]] is very weird, and can have a variety of different powers based on what monster breed they are. E.g. Angel from *Buffy the Vampire Slayer* and *Angel*; Bill Compton from *True Blood* ([[0000189800]]).
+- **[[The Mundane]]**: just a normal regular person, especially good at dealing with regular people you meet and have to save, and at getting captured by [[monsters]] (which can be more useful than you might expect). E.g. Xander or Cordelia from *Buffy the Vampire Slayer*. See [[The Mundane]].
+- **[[The Professional]]**: you work for an agency that hunts [[monsters]]. [[The Professional]] is good in a fight, and a good team player. E.g. Riley and the Initiative from *Buffy the Vampire Slayer*; Olivia Dunham from *Fringe*. See [[The Professional]].
+- **[[The Spell-slinger]]**: a trained wizard, wielding powerful magic in their crusade against evil. [[The Spell-Slinger]]’s arcane training gives them an advantage when dealing with eldritch secrets. E.g. Harry Dresden from *The Dresden Files*; Willow from *Buffy the Vampire Slayer*, in the later seasons. See [[The Spell-Slinger]].
+- **[[The Spooky]]**: has psychic or magical powers. These powers are strange and sinister ... and not completely under [[The Spooky]]’s control. E.g. Sam Winchester from *Supernatural*; Willow from earlier seasons of *Buffy the Vampire Slayer*. See [[The Spooky]].
+- **[[The Wronged]]**: revenge-driven, and really tough. [[The Wronged]] is all about killing a specific breed of monster and protecting others as you do it. E.g. Dean and John Winchester from *Supernatural*. See [[0000295092]].
 
 Extra [[hunter types]]
 
@@ -205,7 +205,7 @@ Most of these are available on the *Monster of the Week* website.
 
 [[Just One Of Each]]
 
-Only one hunter of each type is allowed at the same time in any game. That’s because you’re not just *one* *of* that type of hunter: you’re the archetype. There may be a whole agency of professional monster hunters, but only one of them is *The Professional*.
+Only one hunter of each type is allowed at the same time in any game. That’s because you’re not just *one* *of* that type of hunter: you’re the archetype. There may be a whole agency of professional monster hunters, but only one of them is *[[The Professional]]*.
 
 [[Making Your Hunter]]
 
@@ -287,7 +287,7 @@ The hunter playbooks mention some other terms that I haven’t introduced yet. D
 
 Each move is triggered when a particular situation happens in the game. Look at when the move says it happens, and follow the instructions when you do it.
 
-*For example, you need to use the move **protect someone** to save another hunter from a bone puppet’s attack. The move says **when you [[Protect Someone]]** from [[harm]], roll +Cool, so you roll the dice and get a two and a five. That’s seven, plus your hunter has Cool +1 for a total of eight. The move’s instructions say that on a 7-9, you protect the target okay but you may suffer some or all of the [[harm]] instead.*
+*For example, you need to use the move **[[protect someone]]** to save another hunter from a bone puppet’s attack. The move says **when you [[Protect Someone]]** from [[harm]], roll [[+Cool]], so you roll the dice and get a two and a five. That’s seven, plus your hunter has Cool +1 for a total of eight. The move’s instructions say that on a 7-9, you protect the target okay but you may suffer some or all of the [[harm]] instead.*
 
 After you’ve recognised the move’s trigger, it will tell you want to do next. [[Moves]] can:
 
@@ -300,14 +300,14 @@ The Hunter Basic [[Moves]]
 
 All [[the hunters]] have a set of [[moves]] that allow them to investigate and deal with [[monsters]]. These are called the “basic [[moves]]” ([[The Basic Hunter Moves]]). There are eight basic [[moves]]:
 
-- **Act Under Pressure**, used for any difficult or dangerous action that isn’t covered by another move.
-- **Help Out**, used to help another hunter do something. If you succeed, you’ll give them a bonus on their task.
-- **Investigate a Mystery**, used to work out what kind of monster you are dealing with, what it can do, and what it’s planning.
-- **Kick Some Ass**, used for fighting. Fighting [[monsters]], mainly.
-- **Manipulate Someone**, used to try and get someone to do something for you, after you give them some kind of reason.
-- **Protect Someone**, used to save someone from danger.
-- **Read a Bad Situation**, used to work out what dangers are immediately threatening you. For instance, if you think you are walking into a trap, or want to do some tactical analysis.
-- **Use Magic**, used to cast magic spells or use enchanted items.
+- **[[Act Under Pressure]]**, used for any difficult or dangerous action that isn’t covered by another move.
+- **[[Help Out]]**, used to help another hunter do something. If you succeed, you’ll give them a bonus on their task.
+- **[[Investigate a Mystery]]**, used to work out what kind of monster you are dealing with, what it can do, and what it’s planning.
+- **[[Kick Some Ass]]**, used for fighting. Fighting [[monsters]], mainly.
+- **[[Manipulate Someone]]**, used to try and get someone to do something for you, after you give them some kind of reason.
+- **[[Protect Someone]]**, used to save someone from danger.
+- **[[Read a Bad Situation]]**, used to work out what dangers are immediately threatening you. For instance, if you think you are walking into a trap, or want to do some tactical analysis.
+- **[[Use Magic]]**, used to cast magic spells or use enchanted items.
 
 In addition, each hunter playbook has its own set of [[moves]]. These are called “[[playbook moves]].”
 
@@ -315,11 +315,11 @@ The Ratings
 
 Your hunter has ratings that describe how good they are in certain areas that are important when hunting [[monsters]]. The ratings add to (or subtract from) your dice total when you roll for a move.
 
-- **Cool** is how calm and collected you are. It is added to your die roll for the **act under pressure** and **help out** basic [[moves]].
-- **Tough** is how strong and mean you are in a fight. It is added to your die roll for the **kick some ass** and **protect someone** basic [[moves]].
-- **Charm** is how pleasant and persuasive you are. It is added to your die roll for the **manipulate someone** basic move.
-- **Sharp** is how observant you are. It is added to your die roll for the **investigate a mystery** and **read a bad situation** basic [[moves]].
-- **Weird** is how attuned to the supernatural you are. It is added to your die roll for the **use magic** basic move.
+- **Cool** is how calm and collected you are. It is added to your die roll for the **[[act under pressure]]** and **[[help out]]** basic [[moves]].
+- **Tough** is how strong and mean you are in a fight. It is added to your die roll for the **[[kick some ass]]** and **[[protect someone]]** basic [[moves]].
+- **Charm** is how pleasant and persuasive you are. It is added to your die roll for the **[[manipulate someone]]** basic move.
+- **Sharp** is how observant you are. It is added to your die roll for the **[[investigate a mystery]]** and **[[read a bad situation]]** basic [[moves]].
+- **Weird** is how attuned to the supernatural you are. It is added to your die roll for the **[[use magic]]** basic move.
 
 The ratings range from -1 to +3.
 
@@ -407,7 +407,7 @@ Whenever you mark off a point of Luck, [[the Keeper]] will throw something from 
 - The end of days
 - The source of Evil
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all of the basic [[moves]], plus three Chosen [[moves]].*
 
@@ -418,13 +418,13 @@ Whenever you mark off a point of Luck, [[the Keeper]] will throw something from 
 
 *Then pick one of these:*
 
-- **The Big Entrance**: When **you make a showy entrance into a dangerous situation**, roll +Cool. On 10+ everyone stops to watch and listen until you finish your opening speech. On a 7-9, you pick one person or monster to stop, watch and listen until you finish talking. On a miss, you’re marked as the biggest threat by all enemies who are present.
+- **The Big Entrance**: When **you make a showy entrance into a dangerous situation**, roll [[+Cool]]. On 10+ everyone stops to watch and listen until you finish your opening speech. On a 7-9, you pick one person or monster to stop, watch and listen until you finish talking. On a miss, you’re marked as the biggest threat by all enemies who are present.
 - **Devastating**: When **you inflict [[harm]]**, you may inflict +1 [[harm]].
 - **Dutiful**: When your fate rears its ugly head, and **you act in accordance with any of your fate tags** (either heroic or doom) then mark experience. If it’s a heroic tag, take +1 [[forward]].
 - **Invincible**: You always count as having 2-[[armour]]. This doesn’t stack with other protection.
 - **Resilience**: You heal faster than normal people. Any time your [[harm]] gets healed, heal an extra point. Additionally, your wounds count as 1-[[harm]] less for the purpose of [[the Keeper]]’s [[harm]] [[moves]].
 
-**GEAR**
+**[[GEAR]]**
 
 You can have protective [[gear]] worth 1-[[armour]], if you want it.
 
@@ -457,13 +457,13 @@ Finally, pick what material the business-end is made from: add “steel,” “c
 
 Material:
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Chosen by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. On your turn, pick one of these for each other hunter:
 
@@ -484,7 +484,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -492,7 +492,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -500,7 +500,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Charm, max +3
 - Get +1 Cool, max +3
@@ -553,12 +553,12 @@ To make your Crooked, pick a name. Then follow the instructions below to decide 
 
 You worked a less-than-legal job before you became a monster hunter. What did you do?
 
-- **Hoodlum**. You can use Tough instead of Charm to **manipulate someone** with threats of violence.
+- **Hoodlum**. You can use Tough instead of Charm to **[[manipulate someone]]** with threats of violence.
 - **Burglar**. When you **break into a secure location**, roll +Sharp. On a 10+ pick three, on a 7-9 pick two: you get in undetected, you get out undetected, you don’t leave a mess, you find what you were after.
-- **Grifter**. When you are about to **manipulate someone**, you can ask [[the Keeper]] “What will convince this person to do what I want?” [[The Keeper]] must answer honestly, but not necessarily completely.
+- **Grifter**. When you are about to **[[manipulate someone]]**, you can ask [[the Keeper]] “What will convince this person to do what I want?” [[The Keeper]] must answer honestly, but not necessarily completely.
 - **Fixer**. If you **need to buy something, sell something, or hire someone**, roll +Charm. On a 10+ you know just the person who will be interested. On a 7-9 you know the only person who can do it, but there’s a complication. Pick one: you owe them; they screwed you over; you screwed them over. On a miss, the only person who can help is someone who absolutely hates you.
 - **Assassin**. When you take your first shot at an unsuspecting target, do +2 [[Harm]].
-- **Charlatan**. When you want people to think you are using magic, roll +Cool. On a 10 or more, your audience is amazed and fooled by your illusion. On a 7-9 you tripped up a couple of times, maybe someone will notice. You may also **manipulate** **people** with fortune telling. When you do that, ask “What are they hoping for right now?” as a free question (even on a miss).
+- **Charlatan**. When you want people to think you are using magic, roll [[+Cool]]. On a 10 or more, your audience is amazed and fooled by your illusion. On a 7-9 you tripped up a couple of times, maybe someone will notice. You may also **manipulate** **people** with fortune telling. When you do that, ask “What are they hoping for right now?” as a free question (even on a miss).
 - **Pickpocket.** When you **steal something small**, roll +Charm. On a 10 or more, you get it and they didn’t notice you taking it. On a 7-9 either you don’t grab it, you grab the wrong thing, or they remember you later: your choice.
 
 **HEAT**
@@ -582,20 +582,20 @@ Pick how you discovered about the real underworld. Keep this in mind when you se
 
 ![](MotWIMG6.jpeg)
 
-**MOVES**
+**[[MOVES]]**
 
 You get all the basic [[moves]], and two Crooked [[moves]]:
 
-- **Artifact**: You ‘found’ a magical artifact with handy powers, and kept it. Pick one: Protective amulet (1-[[armour]] magic recharge), Lucky charm (may be used as a Luck point, once only), Grimoire (studying the book gives +1 [[forward]] to **use magic**), Skeleton key (opens any magically sealed lock), Imp stone (A weak demon is bound to serve the holder. The imp must be summoned with the **use magic** move).
+- **Artifact**: You ‘found’ a magical artifact with handy powers, and kept it. Pick one: Protective amulet (1-[[armour]] magic recharge), Lucky charm (may be used as a Luck point, once only), Grimoire (studying the book gives +1 [[forward]] to **[[use magic]]**), Skeleton key (opens any magically sealed lock), Imp stone (A weak demon is bound to serve the holder. The imp must be summoned with the **[[use magic]]** move).
 - **Crew**: You have a regular crew, a team of three or four people who will help you out with pretty much anything. They count as a team (see [page 119](#0000399193)).
 - **Deal with the Devil**: You sold your soul to the Devil. Pick one or two things you got out of the deal: wealth, fame, youth, sensual gratification, skill (add +1 to two ratings). Payment is due either when you die, in six months (if you picked two things) or otherwise in a year.
-- **Friends on the Force**: You know a few cops who can be persuaded to look the other way, or do you a favour, for certain considerations. You can **act under pressure** to get in touch with them when you need to divert any law enforcement attention. There will be a cost, although maybe not right now.
+- **Friends on the Force**: You know a few cops who can be persuaded to look the other way, or do you a favour, for certain considerations. You can **[[act under pressure]]** to get in touch with them when you need to divert any law enforcement attention. There will be a cost, although maybe not right now.
 - **Made**: You’re “made” in a gang. Name the gang and describe how their operations tie into your background. You can call on gang members to help you out, but they’ll expect to be paid. Your bosses will have requests for you now and again, but you’ll be paid. Minor trouble will be overlooked, but you better not screw over any other made gangsters.\
 - **Driver**: You have +1 [[ongoing]] while driving, plus you can hotwire anything (the older it is, the fewer tools you need to do it). You also own two handy, widely-available vehicles (perhaps a sportscar and a van).
 - **Home Ground**: Your crew made a point of keeping the locals happy - keeping them safe, ensuring things always went down okay. When you’re back in your old neighbourhood, you can always find people who will hide you or help you with a minor favour, no questions asked.
-- **Notorious**: You have a reputation from your criminal past. When **you reveal who you are**, your terrifying reputation counts as a reason for people to do what you ask, for the **manipulate someone** move. Revealing your identity to someone can create other problems later, of course.
+- **Notorious**: You have a reputation from your criminal past. When **you reveal who you are**, your terrifying reputation counts as a reason for people to do what you ask, for the **[[manipulate someone]]** move. Revealing your identity to someone can create other problems later, of course.
 
-**GEAR**
+**[[GEAR]]**
 
 Effective [[weapons]], pick three:
 
@@ -609,13 +609,13 @@ Effective [[weapons]], pick three:
 - Submachinegun (2-[[harm]] close reload auto)
 - Assault rifle (3-[[harm]] close/far auto)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Crooked by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. When it’s your turn, pick one for each of the other hunters:
 
@@ -636,7 +636,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark of the number of boxes equal to [[harm]] suffered. More than four [[harm]] is especially dangerous.
 
@@ -644,7 +644,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b (Unstable injuries will worsen as time passes)
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 Experience: bbbbb
 
@@ -652,7 +652,7 @@ Whenever you roll a six or less, or when a move tells you to, mark an experience
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the list below.
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Sharp, max +3
 - Get +1 Tough, max +2
@@ -715,19 +715,19 @@ You have been put on Earth for a purpose. Pick one:
 - You have been exiled. You must work for the cause of Good without drawing attention from your brothers and sisters, as they are bound to execute you for your crimes.
 - One of the other hunters has a crucial role to play in events to come. You must prepare them for their role, and protect them at *any* cost.
 
-**MOVES**
+**[[MOVES]]**
 
 You get all the basic [[moves]], and pick three Divine [[moves]]:
 
-- **Boss from Beyond**: **At the beginning of each mystery**, roll +Weird. On a 10+, your Superiors ask you to do something simple. On a 7-9, they ask you to do something complicated or difficult. In either case, you get to ask them one of the questions from the **investigate a mystery** move right now. On a miss, you are required to do something terrible. If you do not accomplish what they’ve ordered, you cannot use this move again until you have made up for your failure.
+- **Boss from Beyond**: **At the beginning of each mystery**, roll +Weird. On a 10+, your Superiors ask you to do something simple. On a 7-9, they ask you to do something complicated or difficult. In either case, you get to ask them one of the questions from the **[[investigate a mystery]]** move right now. On a miss, you are required to do something terrible. If you do not accomplish what they’ve ordered, you cannot use this move again until you have made up for your failure.
 - **Angel Wings**: You can go instantly to anywhere you’ve visited before, or to a person you know well. When **you carry one or two people with you**, roll +Weird. On a 10+ you all go where you wanted. On a 7-9, you don’t quite manage it. Either you are all separated, or you all appear in the wrong place.
 - **What I Need, When I Need It**: You may store any small object you own, putting it into a magical space nobody can get to. You may retrieve anything you stored at any time; it appears in your hand.
 - **Soothe**: **When** **you talk to someone for a few seconds in a quiet voice**, you can calm them down, blocking any panic, anger, or other negative emotions they have. This works even if the thing that freaked them out is still present, as long as your voice can be heard.
-- **Lay On Hands**: Your touch can heal injury and disease. When you **lay your hands on someone hurt**, roll +Cool. On a 10+, heal 2 [[harm]] or an illness, plus they’re stabilized. On a 7-9, you can heal the [[harm]] or illness as on a 10+, but you take it into yourself. On a miss, your aura causes them extra [[harm]].
+- **Lay On Hands**: Your touch can heal injury and disease. When you **lay your hands on someone hurt**, roll [[+Cool]]. On a 10+, heal 2 [[harm]] or an illness, plus they’re stabilized. On a 7-9, you can heal the [[harm]] or illness as on a 10+, but you take it into yourself. On a miss, your aura causes them extra [[harm]].
 - **Cast Out Evil**: You may **banish an unnatural creature from your presence**. Roll +Tough. On a 10+ it is banished. On a 7-9 it takes a little while for the banishing to take effect—the creature has time to make one or two actions. Either way, the banished creature is unharmed, and you have no control over where it goes. This move may be used on unnatural hunters (e.g. [[the Monstrous]]). On a miss, something is keeping it here. That’s bad.
 - **Smite**: Your body and divine weapon always count as a weakness against the [[monsters]] you fight. Your unarmed attacks are 2-[[harm]] intimate hand messy.
 
-**GEAR**
+**[[GEAR]]**
 
 *Pick one divine weapon:*
 
@@ -739,13 +739,13 @@ You get all the basic [[moves]], and pick three Divine [[moves]]:
 
 You also get divine [[armour]] (1-[[armour]] holy). It has a look suited to your divine origin.
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Divine by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. When it’s your turn, pick one for each of the other hunters:
 
@@ -764,7 +764,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbb b bbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark of the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable”.
 
@@ -772,7 +772,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -780,7 +780,7 @@ Whenever your roll totals 6 or less, or when a move tells you to, mark an experi
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the list below.
 
-**IMPROVEMENTS:**
+**[[IMPROVEMENTS]]:**
 
 - Get +1 Tough, max +3
 - Get +1 Cool, max +2
@@ -830,14 +830,14 @@ To make your Expert, first pick a name. Then follow the instructions below to de
 - Charm-1, Cool+1, Sharp+2, Tough=0, Weird+1
 - Charm-1, Cool=0, Sharp+2, Tough-1, Weird+2
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all of the basic [[moves]], plus pick two Expert [[moves]]:*
 
-- **I’ve Read About This Sort Of Thing**: Roll +Sharp instead of +Cool when you **act under pressure**.
+- **I’ve Read About This Sort Of Thing**: Roll +Sharp instead of [[+Cool]] when you **[[act under pressure]]**.
 - **Often Right**: When **a hunter comes to you for advice** about a problem, give them your honest opinion and advice. If they take your advice, they get +1 [[ongoing]] while following your advice, and you mark experience.
 - **Preparedness:** When **you need something unusual or rare**, roll +Sharp. On a 10+, you have it here right now. On a 7-9 you have it, but not here: it will take some time to get it. On a miss, you know where it is, but it’s somewhere real bad.
-- **It Wasn’t As Bad As It Looked**: Once per mystery, you may attempt to **keep going despite your injuries**. Roll +Cool. On a 10+, heal 2 [[harm]] and stabilize your wounds. On a 7-9 you may either stabilize or heal 1 [[harm]]. On a miss, it was worse than it looked: [[the Keeper]] may inflict a [[harm]] move on you, or make your wounds unstable.
+- **It Wasn’t As Bad As It Looked**: Once per mystery, you may attempt to **keep going despite your injuries**. Roll [[+Cool]]. On a 10+, heal 2 [[harm]] and stabilize your wounds. On a 7-9 you may either stabilize or heal 1 [[harm]]. On a miss, it was worse than it looked: [[the Keeper]] may inflict a [[harm]] move on you, or make your wounds unstable.
 - **Precise Strike**. When you inflict [[harm]] on a monster, you can **aim for a weak spot**. Roll +Tough. On a 10+ you inflict +2 [[harm]]. On a 7-9 you inflict +1 [[harm]]. On a miss, you leave yourself open for the monster to hit you.
 - **The Woman (or Man) With The Plan**: **At the beginning of each mystery**, roll +Sharp. On a 10+ [[hold]] 2, on a 7-9 [[hold]] 1. Spend the [[hold]] to be where you need to be, prepared and ready. On a miss, [[the Keeper]] holds 1 they can spend to have you be in the worst place, unprepared and unready.
 - **Dark Past**: You dabbled in the worst sort of mystical arts before you became one of the good guys. If **you trawl through your memories** for something relevant to the case at hand, roll +Weird. On a 10+ ask [[the Keeper]] two questions from the list below. On a 7-9 ask one. On a miss, you can ask a question anyway but that will mean you were personally complicit in creating the situation you are now dealing with. The questions are: 
@@ -851,16 +851,16 @@ To make your Expert, first pick a name. Then follow the instructions below to de
 You have set up a haven, a safe place to work. Pick three of the options below for your haven:
 
 - **Lore Library**. When you hit the books, take +1 [[forward]] to **investigate the mystery** (as long as historical or reference works are appropriate).
-- **Mystical Library**. If you use your library’s occult tomes and grimoires, preparing with your tomes and grimoires, take +1 [[forward]] for **use magic**.
+- **Mystical Library**. If you use your library’s occult tomes and grimoires, preparing with your tomes and grimoires, take +1 [[forward]] for **[[use magic]]**.
 - **Protection Spells**. Your haven is safe from [[monsters]]—they cannot enter. [[Monsters]] might be able to do something special to evade the wards, but not easily.
 - **Armory**. You have a stockpile of mystical and rare monster-killing [[weapons]] and items. If you **need a special weapon**, roll +Weird. On a 10+ you have it (and plenty if that matters). On a 7-9 you have it, but only the minimum. On a miss, you’ve got the wrong thing.
 - **Infirmary**. You can heal people, and have the space for one or two to recuperate. [[The Keeper]] will tell you how long any patient’s recovery is likely to take, and if you need extra supplies or help.
 - **Workshop**. You have a space for building and repairing guns, cars and other gadgets. Work out with [[the Keeper]] how long any repair or construction will take, and if you need extra supplies or help.
 - **Oubliette**. This room is isolated from every kind of monster, spirit and magic that you know about. Anything you stash in there can’t be found, can’t do any magic, and can’t get out.
 - **Panic Room**. This has essential supplies and is protected by normal and mystical means. You can hide out there for a few days, safe from pretty much anything.
-- **Magical Laboratory**. You have a mystical lab with all kinds of weird ingredients and tools useful for casting spells (like the **use magic** move, [[big magic]], and any other magical [[moves]]).
+- **Magical Laboratory**. You have a mystical lab with all kinds of weird ingredients and tools useful for casting spells (like the **[[use magic]]** move, [[big magic]], and any other magical [[moves]]).
 
-**GEAR**
+**[[GEAR]]**
 
 You get three monster-slaying [[weapons]].
 
@@ -876,13 +876,13 @@ You get three monster-slaying [[weapons]].
 - Magnum (3-[[harm]] close reload loud)
 - Shotgun (3-[[harm]] close messy loud)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Expert by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. On your turn, pick one of these for each other hunter:
 
@@ -901,7 +901,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -909,7 +909,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -917,7 +917,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Sharp, max +3
 - Get +1 Charm, max +2
@@ -969,7 +969,7 @@ To make your Flake, first pick a name. Then follow the instructions below to dec
 - Charm+1, Cool-1, Sharp+2, Tough=0, Weird+1
 - Charm-1, Cool-1, Sharp+2, Tough=0, Weird+2
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all of the basic [[moves]], plus pick three Flake [[moves]]:*
 
@@ -980,14 +980,14 @@ To make your Flake, first pick a name. Then follow the instructions below to dec
   - *Is this connected to previous mysteries we have investigated?*
   - *How does this mystery connect to the bigger picture?*
 - **Crazy Eyes**: You get +1 Weird (max +3).
-- **See, It All Fits Together**: You can use Sharp instead of Charm when you **manipulate someone**.
+- **See, It All Fits Together**: You can use Sharp instead of Charm when you **[[manipulate someone]]**.
 - **Suspicious Mind**: If someone lies to you, you know it.
 - **Often Overlooked**: When **you** **act all crazy** to avoid something, roll +Weird. On a 10+ you’re regarded as unthreatening and unimportant. On a 7-9, pick one: unthreatening or unimportant. On a miss, you draw lots (but not all) of the attention.
 - **Contrary**: When **you seek out and receive someone’s honest advice** on the best course of action for you and then do something else instead, mark experience. If you do exactly the opposite of their advice, you also take +1 [[ongoing]] on any [[moves]] you make pursuing that course.
 - **Net Friends**: You know a lot of people on the Internet. When **you** **contact a net friend to help you** with a mystery, roll +Charm. On a 10+, they’re available and helpful—they can fix something, break a code, hack a computer, or get you some special information. On a 7-9, they’re prepared to help, but it’s either going to take some time or you’re going to have to do part of it yourself. On a miss, you burn some bridges.
 - **Sneaky**: When **you attack from ambush, or from behind**, inflict +2 [[harm]].
 
-**GEAR**
+**[[GEAR]]**
 
 You get one normal weapon and two hidden [[weapons]].
 
@@ -1009,13 +1009,13 @@ Hidden [[weapons]] (pick two):
 - Weighted gloves/brass knuckles (1-[[harm]] hand)
 - Butterfly knife/folding knife (1-[[harm]] hand)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Flake by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. On your turn, pick one of these for each other hunter:
 
@@ -1034,7 +1034,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -1042,7 +1042,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -1050,7 +1050,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Sharp, max +3
 - Get +1 Charm, max +2
@@ -1111,20 +1111,20 @@ Create the monster you want to be: whatever you choose defines your breed in the
 
 **MONSTER BREED SUGGESTIONS**
 
-- **Vampire**: *Curse*: [[feed]] (blood or life-force). *Natural attacks*: Base: life-drain or Base: teeth; add +1 [[harm]] to base attack. *Moves*: [[immortal]] or [[unquenchable vitality]]; mental domination.
-- **Werewolf**: *Curse*: [[vulnerability]] (silver). *Natural attacks*: Base: claws; Base: teeth. *Moves*: [[shapeshifter]] (wolf and/or wolfman); [[claws of the beast]] or [[unholy strength]].
-- **Ghost**: *Curse*: [[vulnerability]] (rock salt). *Natural attacks*: Base: magical force; add hand range to magical force. *Moves*: [[incorporeal]]; [[immortal]].
-- **Faerie**: *Curse*: [[pure drive]] (joy). *Natural attacks*: Base: magical force; add ignore-[[armour]] to magical force. *Moves*: [[flight]]; [[preternatural speed]].
-- **Demon**: *Curse*: [[pure drive]] (cruelty). *Natural attacks*: Base: claws; +1 [[harm]] to claws. *Moves*: [[dark negotiator]]; [[unquenchable vitality]].
-- **Orc**: *Curse*: [[dark master]] (the orc overlord). *Natural attacks*: Base: teeth; add ignore-[[armour]] to teeth. *Moves*: [[Unholy strength]]; [[dark negotiator]].
-- **Zombie**: *Curse*: [[pure drive]] (hunger), [[feed]] (flesh or brains). *Natural attacks*: Base: teeth; +1 [[harm]] to teeth. *Moves*: [[immortal]]; [[unquenchable vitality]].
+- **Vampire**: *Curse*: [[feed]] (blood or life-force). *Natural attacks*: Base: life-drain or Base: teeth; add +1 [[harm]] to base attack. *[[Moves]]*: [[immortal]] or [[unquenchable vitality]]; mental domination.
+- **Werewolf**: *Curse*: [[vulnerability]] (silver). *Natural attacks*: Base: claws; Base: teeth. *[[Moves]]*: [[shapeshifter]] (wolf and/or wolfman); [[claws of the beast]] or [[unholy strength]].
+- **Ghost**: *Curse*: [[vulnerability]] (rock salt). *Natural attacks*: Base: magical force; add hand range to magical force. *[[Moves]]*: [[incorporeal]]; [[immortal]].
+- **Faerie**: *Curse*: [[pure drive]] (joy). *Natural attacks*: Base: magical force; add ignore-[[armour]] to magical force. *[[Moves]]*: [[flight]]; [[preternatural speed]].
+- **Demon**: *Curse*: [[pure drive]] (cruelty). *Natural attacks*: Base: claws; +1 [[harm]] to claws. *[[Moves]]*: [[dark negotiator]]; [[unquenchable vitality]].
+- **Orc**: *Curse*: [[dark master]] (the orc overlord). *Natural attacks*: Base: teeth; add ignore-[[armour]] to teeth. *[[Moves]]*: [[Unholy strength]]; [[dark negotiator]].
+- **Zombie**: *Curse*: [[pure drive]] (hunger), [[feed]] (flesh or brains). *Natural attacks*: Base: teeth; +1 [[harm]] to teeth. *[[Moves]]*: [[immortal]]; [[unquenchable vitality]].
 
 **CURSES, PICK ONE:**
 
-- **Feed:** You must subsist on living humans—it might take the form of blood, brains, or spiritual essence but it must be from people. You need to **act under pressure** to resist feeding whenever a perfect opportunity presents itself.
-- **Vulnerability**: Pick a substance. You suffer +1 [[harm]] when you suffer [[harm]] from it. If you are bound or surrounded by it, you must **act under pressure** to use your powers.
-- **Pure Drive**: One emotion rules you. Pick from: hunger, hate, anger, fear, jealousy, greed, joy, pride, envy, lust, or cruelty. Whenever you have a chance to indulge that emotion, you must do so immediately, or **act under pressure** to resist.
-- **Dark Master**: You have an evil lord who doesn’t know you changed sides. They still give you orders, and they do not tolerate refusal. Or failure.
+- **[[Feed]]:** You must subsist on living humans—it might take the form of blood, brains, or spiritual essence but it must be from people. You need to **[[act under pressure]]** to resist feeding whenever a perfect opportunity presents itself.
+- **[[Vulnerability]]**: Pick a substance. You suffer +1 [[harm]] when you suffer [[harm]] from it. If you are bound or surrounded by it, you must **[[act under pressure]]** to use your powers.
+- **[[Pure Drive]]**: One emotion rules you. Pick from: hunger, hate, anger, fear, jealousy, greed, joy, pride, envy, lust, or cruelty. Whenever you have a chance to indulge that emotion, you must do so immediately, or **[[act under pressure]]** to resist.
+- **[[Dark Master]]**: You have an evil lord who doesn’t know you changed sides. They still give you orders, and they do not tolerate refusal. Or failure.
 
 **NATURAL ATTACKS**
 
@@ -1138,24 +1138,24 @@ Create the monster you want to be: whatever you choose defines your breed in the
 - Extra: Add ignore-[[armour]] to a base
 - Extra: Add an extra range to a base (add intimate, hand, or close).
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all the basic [[moves]], plus pick two Monstrous [[moves]]:*
 
-- **Immortal**: You do not age or sicken, and whenever you suffer [[harm]] you suffer 1-[[harm]] less.
-- **Unnatural Appeal**: Roll +Weird instead of +Charm when you **manipulate someone**.
-- **Unholy Strength**: Roll +Weird instead of +Tough when you **kick some ass**.
-- **Incorporeal**: You may move freely through solid objects (but not people).
-- **Preternatural Speed**: You go much faster than normal people. **When you chase, flee, or run** take +1 [[ongoing]].
-- **Claws of the Beast**: All your natural attacks get +1 [[harm]].
-- **Mental Dominion**: When you gaze into a normal human’s eyes and **exert your will over them**, roll +Charm. On a 10+, [[hold]] 3. On a 7-9, [[hold]] 1. You may spend your [[hold]] to give them an order. Regular people will follow your order, whatever it is. Hunters can choose whether they do it or not. If they do, they mark experience.
-- **Unquenchable Vitality**: When you have taken [[harm]], **you can heal yourself**. Roll +Cool. On a 10+, heal 2-[[harm]] and stabilise your injuries. On a 7-9, heal 1-[[harm]] and stabilise your injuries. On a miss, your injuries worsen.
-- **Dark Negotiator**: You can use the **manipulate someone** move on [[monsters]] as well as people, if they can reason and talk.
-- **Flight**: You can fly.
-- **Shapeshifter**: You may change your form (usually into an animal). Decide if you have just one alternate form or several, and detail them. You gain +1 to **investigate a mystery** when using an alternate form’s superior senses (e.g. smell for a wolf, sight for an eagle).
-- **Something Borrowed**: Take a move from a hunter playbook that is not currently in play.
+- **[[Immortal]]**: You do not age or sicken, and whenever you suffer [[harm]] you suffer 1-[[harm]] less.
+- **[[Unnatural Appeal]]**: Roll +Weird instead of +Charm when you **[[manipulate someone]]**.
+- **[[Unholy Strength]]**: Roll +Weird instead of +Tough when you **[[kick some ass]]**.
+- **[[Incorporeal]]**: You may move freely through solid objects (but not people).
+- **[[Preternatural Speed]]**: You go much faster than normal people. **When you chase, flee, or run** take +1 [[ongoing]].
+- **[[Claws of the Beast]]**: All your natural attacks get +1 [[harm]].
+- **[[Mental Dominion]]**: When you gaze into a normal human’s eyes and **exert your will over them**, roll +Charm. On a 10+, [[hold]] 3. On a 7-9, [[hold]] 1. You may spend your [[hold]] to give them an order. Regular people will follow your order, whatever it is. Hunters can choose whether they do it or not. If they do, they mark experience.
+- **[[Unquenchable Vitality]]**: When you have taken [[harm]], **you can heal yourself**. Roll [[+Cool]]. On a 10+, heal 2-[[harm]] and stabilise your injuries. On a 7-9, heal 1-[[harm]] and stabilise your injuries. On a miss, your injuries worsen.
+- **[[Dark Negotiator]]**: You can use the **[[manipulate someone]]** move on [[monsters]] as well as people, if they can reason and talk.
+- **[[Flight]]**: You can fly.
+- **[[Shapeshifter]]**: You may change your form (usually into an animal). Decide if you have just one alternate form or several, and detail them. You gain +1 to **[[investigate a mystery]]** when using an alternate form’s superior senses (e.g. smell for a wolf, sight for an eagle).
+- **[[Something Borrowed]]**: Take a move from a hunter playbook that is not currently in play.
 
-**GEAR**
+**[[GEAR]]**
 
 If you want, you can take one handy weapon:
 
@@ -1168,13 +1168,13 @@ If you want, you can take one handy weapon:
 - Sword (2-[[harm]] hand messy)
 - Huge sword (3-[[harm]] hand heavy)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Monstrous by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. When it’s your turn, pick one for each of the other hunters:
 
@@ -1193,7 +1193,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -1201,7 +1201,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -1209,7 +1209,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Charm, max +2
 - Get +1 Cool, max +2
@@ -1259,15 +1259,15 @@ To make your Mundane, first pick a name. Then follow the instructions below to d
 - Charm+2, Cool=0, Sharp+1, Tough+1, Weird-1
 - Charm+2, Cool+1, Sharp+1, Tough=0, Weird-1
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all the basic [[moves]], plus pick three Mundane [[moves]]:*
 
-- **Always The Victim**: When another hunter uses **protect someone** to protect you, they mark experience. Whenever a monster captures you, you mark experience.
+- **Always The Victim**: When another hunter uses **[[protect someone]]** to protect you, they mark experience. Whenever a monster captures you, you mark experience.
 - **Oops!** If **you want to stumble across something important**, tell [[the Keeper]]. You will find something important and useful, although not necessarily related to your immediate problems.
-- **Let’s Get Out Of Here!** If you can **protect someone** by telling them what to do, or by leading them out, roll +Charm instead of +Tough.
+- **Let’s Get Out Of Here!** If you can **[[protect someone]]** by telling them what to do, or by leading them out, roll +Charm instead of +Tough.
 - **Panic Button**: When you need to escape, **name the route you’ll try** and roll +Sharp. On a 10+ you’re out of danger, no problem. On a 7-9 you can go or stay, but if you go it’s going to cost you (you leave something behind or something comes with you). On a miss, you are caught halfway out.
-- **The Power of Heart**: When fighting a monster, if you **help someone**, don’t roll +Cool. You automatically help as though you’d rolled a 10.
+- **The Power of Heart**: When fighting a monster, if you **help someone**, don’t roll [[+Cool]]. You automatically help as though you’d rolled a 10.
 - **Trust Me**: When **you tell a normal person the truth in order to protect them from danger**, roll +Charm. On a 10+ they’ll do what you say they should, no questions asked. On a 7-9 they do it, but [[the Keeper]] chooses one from: 
   - They ask you a hard question first.
   - They stall and dither a while.
@@ -1278,10 +1278,10 @@ On a miss, they’re going to think you’re crazy and maybe dangerous too.
 - **What Could Go Wrong?**: Whenever you **charge into immediate danger** without hedging your bets, [[hold]] 2. You may spend your [[hold]] to: 
   - Inflict +1 [[harm]].
   - Reduce someone’s [[harm]] suffered by 1.
-  - Take +2 [[forward]] on an **act under pressure** roll.
+  - Take +2 [[forward]] on an **[[act under pressure]]** roll.
 - **Don’t Worry, I’ll Check It Out**: Whenever **you go off by yourself** to check out somewhere (or something) scary, mark experience.
 
-**GEAR**
+**[[GEAR]]**
 
 You get two Mundane [[weapons]] and a means of transport.
 
@@ -1303,13 +1303,13 @@ Means of transport (pick one):
 - Motorcycle
 - Van
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Mundane by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. When it’s your turn, pick one for each of the other hunters:
 
@@ -1328,7 +1328,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -1336,7 +1336,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -1344,7 +1344,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Charm, max +3
 - Get +1 Cool, max +2
@@ -1427,7 +1427,7 @@ Pick two resource tags for the Agency, and two red tape tags:
 - Take no prisoners policy
 - Live capture policy
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all the basic [[moves]], plus four Professional [[moves]].*
 
@@ -1437,12 +1437,12 @@ Pick two resource tags for the Agency, and two red tape tags:
 
 *Then pick three of these:*
 
-- **Bottle It Up**: If you want, you can take up to +3 bonus when you **act under pressure**. For each +1 you use, [[the Keeper]] holds 1. That [[hold]] can be spent later—one for one—to give you -1 on any move *except* **act under pressure**.
+- **Bottle It Up**: If you want, you can take up to +3 bonus when you **[[act under pressure]]**. For each +1 you use, [[the Keeper]] holds 1. That [[hold]] can be spent later—one for one—to give you -1 on any move *except* **[[act under pressure]]**.
 - **Unfazeable**: Take +1 Cool (max +3).
 - **Battlefield Awareness**: You always know what’s happening around you, and what to watch out for. Take +1 [[armour]] (max 2-[[armour]]) on top of whatever you get from your [[gear]].
 - **Leave No One Behind**: In combat, when **you help someone escape**, roll +Sharp. On a 10+ you get them out clean. On a 7-9, you can *either* get them out *or* suffer no [[harm]], you choose. On a miss, you fail to get them out and you’ve attracted hostile attention.
-- **Tactical Genius**: When you **read a bad situation**, you may roll +Cool instead of +Sharp
-- **Medic**: You have a full first aid kit, and the training to heal people. **When you do first aid**, roll +Cool. On a 10+ the patient is stabilized and healed of 2 [[harm]]. On a 7-9 choose one: heal 2 [[harm]] or stabilize the injury. On a miss, you cause an extra 1 [[harm]]. This move takes the place of regular first aid.
+- **Tactical Genius**: When you **[[read a bad situation]]**, you may roll [[+Cool]] instead of +Sharp
+- **Medic**: You have a full first aid kit, and the training to heal people. **When you do first aid**, roll [[+Cool]]. On a 10+ the patient is stabilized and healed of 2 [[harm]]. On a 7-9 choose one: heal 2 [[harm]] or stabilize the injury. On a miss, you cause an extra 1 [[harm]]. This move takes the place of regular first aid.
 - **Mobility**: You have a truck, van, or car built for monster hunting. Choose two good things and one bad thing about it. 
 
 *Good things*: roomy; surveillance [[gear]]; fast; stealthy; intimidating; classic; medical kit; sleeping space; toolkit; concealed [[weapons]]; anonymous; armoured (+1 [[armour]] inside); tough; monster cage.
@@ -1451,7 +1451,7 @@ Pick two resource tags for the Agency, and two red tape tags:
 
 guzzler; uncomfortable; slow; old.
 
-**GEAR**
+**[[GEAR]]**
 
 Pick one serious weapon and two normal [[weapons]].
 
@@ -1473,13 +1473,13 @@ Normal [[weapons]] (pick two):
 - Shotgun (3-[[harm]] close messy)
 - Big knife (1-[[harm]] hand)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Professional by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. On your turn, pick one for each of the other hunters:
 
@@ -1498,7 +1498,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -1506,7 +1506,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -1514,7 +1514,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Cool, max +3
 - Get +1 Charm, max +2
@@ -1565,7 +1565,7 @@ To make your Spell-slinger, first pick a name. Then follow the instructions belo
 
 **COMBAT MAGIC**
 
-You have a few attack spells you can use as [[weapons]]. When you use these spells to **kick some ass**, roll +Weird instead of +Tough. Sometimes the situation may require you to **act under pressure** to cast your spell without problems.
+You have a few attack spells you can use as [[weapons]]. When you use these spells to **[[kick some ass]]**, roll +Weird instead of +Tough. Sometimes the situation may require you to **[[act under pressure]]** to cast your spell without problems.
 
 Pick three options from the list below.
 
@@ -1589,7 +1589,7 @@ Combat magic, pick three (with at least one base):
 - **Earth**: Add “forceful restraining” to a base.
 - **Necromantic**: Add “life-drain” to a base.
 
-**MOVES**
+**[[MOVES]]**
 
 You get all the basic [[moves]] and four Spell-slinger [[moves]]. You have this one:
 
@@ -1597,24 +1597,24 @@ You get all the basic [[moves]] and four Spell-slinger [[moves]]. You have this 
 - **Consumables**: You need to have certain supplies— powders, oils, etc— on hand to cast your spell. They’re used up when you cast the spell. If you don’t have them on hand, your body will be the substitute: take 1-[[harm]] ignore-[[armour]] when you cast.
 - **Foci**: You need wands, staves, and other somewhat obvious props to focus your efforts at their most powerful. If you don’t have what you need on hand, your combat magic does 1 less [[harm]].
 - **Gestures**: You need to be able to wave your hands around obviously in order to use your combat magic. If you’re restrained in any way, you can still cast the spell but it’s more likely to go wrong; take -1 [[ongoing]] to your combat magic.
-- **Incantations**: You must speak in an arcane language to control your magic without it filtering directly through your mind. If you use combat magic spell, successfully or failed, while unable or unwilling to speak, you must immediately **act under pressure** to avoid scrambling your thoughts—producing hallucinations, sensory deprivation, and general befuddlement.
+- **Incantations**: You must speak in an arcane language to control your magic without it filtering directly through your mind. If you use combat magic spell, successfully or failed, while unable or unwilling to speak, you must immediately **[[act under pressure]]** to avoid scrambling your thoughts—producing hallucinations, sensory deprivation, and general befuddlement.
 
 Plus pick three of these:
 
 - **Advanced Arcane Training**: If you have two of your three Tools and Techniques at the ready, you may ignore the third one.
 - **Arcane Reputation**: Pick three big organizations or groups in the supernatural community, which can include some of the more sociable types of [[monsters]]. They’ve heard of you and respect your power. With affected humans, take +1 [[forward]] when you **manipulate** them. You may **manipulate** affected [[monsters]] as if they were human, with no bonus.
-- **Could’ve Been Worse**: When you miss a **use magic** roll you can choose one of the following options instead of losing control of the magic: 
+- **Could’ve Been Worse**: When you miss a **[[use magic]]** roll you can choose one of the following options instead of losing control of the magic: 
   - **Fizzle**: The preparations and materials for the spell are ruined. You’ll have to start over from scratch with the prep time doubled.
   - **This Is Gonna Suck**: The effect happens, but you trigger all of the listed glitches but one. You pick the one you avoid.
 - **Enchanted Clothing**: Pick an article of every-day clothing–it’s enchanted without any change in appearance. Take -1 [[harm]] from any source that tries to get at you through the garment.
-- **Forensic Divination**: When you successfully **investigate a mystery**, you may ask “What magic was done here?” as a free extra question.
-- **Go Big or Go Home**: When you must **use magic** as a requirement for [[Big Magic]], take +1 [[ongoing]] to those **use magic** rolls.
-- **Not My Fault**: +1 to **act under pressure** when you are dealing with the consequences of your own spellcasting.
-- **Practitioner**: Choose two effects available to you under **use magic**. Take +1 to **use magic** whenever you choose one of those effects.
-- **Shield Spell**: When you **protect someone**, gain 2-[[armour]] against any [[harm]] that is transferred to you. This doesn’t stack with your other [[armour]], if any.
-- **Third Eye**: When you **read a bad situation**, you can **open up your third eye** for a moment to take in extra information. Take +1 [[hold]] on any result of 7 or more, plus you can see invisible things. On a miss, you may still get 1 [[hold]], but you’re exposed to supernatural danger. Unfiltered hidden reality is rough on the mind!
+- **Forensic Divination**: When you successfully **[[investigate a mystery]]**, you may ask “What magic was done here?” as a free extra question.
+- **Go Big or Go Home**: When you must **[[use magic]]** as a requirement for [[Big Magic]], take +1 [[ongoing]] to those **[[use magic]]** rolls.
+- **Not My Fault**: +1 to **[[act under pressure]]** when you are dealing with the consequences of your own spellcasting.
+- **Practitioner**: Choose two effects available to you under **[[use magic]]**. Take +1 to **[[use magic]]** whenever you choose one of those effects.
+- **Shield Spell**: When you **[[protect someone]]**, gain 2-[[armour]] against any [[harm]] that is transferred to you. This doesn’t stack with your other [[armour]], if any.
+- **Third Eye**: When you **[[read a bad situation]]**, you can **open up your third eye** for a moment to take in extra information. Take +1 [[hold]] on any result of 7 or more, plus you can see invisible things. On a miss, you may still get 1 [[hold]], but you’re exposed to supernatural danger. Unfiltered hidden reality is rough on the mind!
 
-**GEAR**
+**[[GEAR]]**
 
 You don’t need much—aside from any foci or consumables to power your magic. Still, it’s good to carry some backup. Pick one:
 
@@ -1622,13 +1622,13 @@ You don’t need much—aside from any foci or consumables to power your magic. 
 - Ritual knife (1-[[harm]] hand)
 - Heirloom sword (2-[[harm]] hand messy)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Spell-slinger by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. On your turn, pick one for each of the other hunters:
 
@@ -1647,7 +1647,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -1655,7 +1655,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -1663,7 +1663,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Weird, max +3
 - Get +1 Cool, max +2
@@ -1713,18 +1713,18 @@ To make your Spooky, first pick a name. Then follow the instructions below to de
 - Charm=0, Cool-1, Sharp+1, Tough+1, Weird+2
 - Charm-1, Cool-1, Sharp+2, Tough=0, Weird+2
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all the basic [[moves]], plus pick three Spooky [[moves]]:*
 
-- **Telepathy:** You can read people’s thoughts and put words in their mind. This can allow you to **investigate a mystery** or **read a bad situation** without needing to actually talk. You can also **manipulate someone** without speaking. You still roll [[moves]] as normal, except people will not expect the weirdness of your mental communication.
-- **Hex:** When you cast a spell (with **use magic**), as well as the normal effects, you may pick from the following: 
+- **Telepathy:** You can read people’s thoughts and put words in their mind. This can allow you to **[[investigate a mystery]]** or **[[read a bad situation]]** without needing to actually talk. You can also **[[manipulate someone]]** without speaking. You still roll [[moves]] as normal, except people will not expect the weirdness of your mental communication.
+- **Hex:** When you cast a spell (with **[[use magic]]**), as well as the normal effects, you may pick from the following: 
   - The target contracts a disease.
   - The target immediately suffers [[harm]] (2-[[harm]] magic ignore-
 
     [[armour]]).
   - The target breaks something precious or important.
-- **The Sight:** You can see the invisible, especially spirits and magical influences. You may communicate with (maybe even make deals with) the spirits you see, and they give you more opportunities to spot clues when you **investigate a mystery**.
+- **The Sight:** You can see the invisible, especially spirits and magical influences. You may communicate with (maybe even make deals with) the spirits you see, and they give you more opportunities to spot clues when you **[[investigate a mystery]]**.
 - **Premonitions:** **At the start of each mystery**, roll +Weird. On a 10+, you get a detailed vision of something bad that is yet to happen. You take +1 [[forward]] to prevent it coming true, and mark experience if you stop it. On a 7-9+ you get clouded images of something bad that is yet to happen: mark experience if you stop it. On a miss, you get a vision of something bad happening to you and [[the Keeper]] holds 3, to be spent one-for-one as penalties to rolls you make.
 - **Hunches:** **When something bad is happening** (or just about to happen) somewhere that you aren’t, roll +Sharp. On a 10+ you knew where you needed to go, just in time to get there. On a 7-9, you get there late—in time to intervene, but not prevent it altogether. On a miss, you get there just in time to be in trouble yourself.
 - **Tune In**: You can **attune your mind to a monster or minion**. Roll +Weird. On a 10+, [[hold]] 3. On a 7-9, [[hold]] 1. On a miss, the monster becomes aware of you. Spend one [[hold]] to ask [[the Keeper]] one of the following questions, and gain +1 [[ongoing]] while acting on the answers: 
@@ -1733,7 +1733,7 @@ To make your Spooky, first pick a name. Then follow the instructions below to de
   - *Who is it going to attack next?*
   - *Who does it regard as the biggest threat?*
   - *How can I attract its attention?*
-- **The Big Whammy**: You can use your powers to **kick some ass:** roll +Weird instead of +Tough. The attack has 2-[[harm]] close obvious ignore-[[armour]]. On a miss, you’ll get a magical backlash.
+- **The Big Whammy**: You can use your powers to **[[kick some ass]]:** roll +Weird instead of +Tough. The attack has 2-[[harm]] close obvious ignore-[[armour]]. On a miss, you’ll get a magical backlash.
 - **Jinx**: You can encourage coincidences to occur, the way you want. **When you jinx a target**, roll +Weird. On a 10+ [[hold]] 2 and on a 7-9 [[hold]] 1. On a miss, [[the Keeper]] holds 2 over you to be used in the same way. Spend your [[hold]] to: 
   - Interfere with a hunter, giving them -1 [[forward]].
   - Help a hunter, giving them +1 [[forward]], by interfering with their enemy.
@@ -1767,7 +1767,7 @@ Your powers have an unsavory source, and sometimes you get tempted to do things 
 
 [[The Keeper]] can ask you to do nasty things (in accordance with the tags), when your powers need you to. If you do whatever is asked, mark experience. If you don’t do it, then your powers are unavailable until the end of the mystery (or until you cave). As you mark off Luck boxes, these requests will get bigger and nastier.
 
-**GEAR**
+**[[GEAR]]**
 
 You get two normal [[weapons]] and any magical items or amulets that you use to invoke your powers.
 
@@ -1779,13 +1779,13 @@ Normal [[weapons]] (pick two):
 - Shotgun (3-[[harm]] close messy)
 - Big knife (1-[[harm]] hand)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Spooky by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. On your turn, pick one of these for each hunter:
 
@@ -1806,7 +1806,7 @@ Okay bbbbbbb Doomed
 
 **Spooky special:** As you mark off Luck boxes, your dark side’s needs will get nastier.
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -1814,7 +1814,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -1822,7 +1822,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Weird, max +3
 - Get +1 Charm, max +2
@@ -1898,7 +1898,7 @@ Why couldn’t you save them? You were (pick one or more):
 - in denial
 - complicit
 
-**MOVES**
+**[[MOVES]]**
 
 *You get all the basic [[moves]] plus three Wronged [[moves]]. You get this one:*
 
@@ -1907,17 +1907,17 @@ Why couldn’t you save them? You were (pick one or more):
 *Then pick two of these:*
 
 - **Berserk**: No matter how much [[harm]] you take, you can always keep going until the current fight is over. During a fight, [[the Keeper]] may not use [[harm]] [[moves]] on you and you cannot die. When the fight ends, all [[harm]] takes effect as normal.
-- **NEVER AGAIN**: In combat, you may choose to **protect someone** without rolling, as if you had rolled a 10+, but you may not choose to “suffer little [[harm]].”
+- **NEVER AGAIN**: In combat, you may choose to **[[protect someone]]** without rolling, as if you had rolled a 10+, but you may not choose to “suffer little [[harm]].”
 - **What Does Not Kill Me...**: If you have suffered [[harm]] in a fight, you gain +1 [[ongoing]] until the fight is over.
-- **Fervor**: When you **manipulate someone**, roll +Tough instead of +Charm.
+- **Fervor**: When you **[[manipulate someone]]**, roll +Tough instead of +Charm.
 - **Safety First:** You have jury-rigged extra protection into your [[gear]], giving you +1 [[armour]] (maximum 2-[[armour]]).
-- **DIY Surgery**: When **you do quick and dirty first aid on someone** (including yourself), roll +Cool. On a 10+ it’s all good, it counts as normal first aid, plus stabilize the injury and heal 1 [[harm]]. On a 7-9 it counts as normal first aid, plus one of these, your choice: 
+- **DIY Surgery**: When **you do quick and dirty first aid on someone** (including yourself), roll [[+Cool]]. On a 10+ it’s all good, it counts as normal first aid, plus stabilize the injury and heal 1 [[harm]]. On a 7-9 it counts as normal first aid, plus one of these, your choice: 
   - Stabilise the injury but the patient takes -1 [[forward]].
   - Heal 1-[[harm]] and stabilise for now, but it will return as 2-[[harm]] and become unstable again later.
   - Heal 1-[[harm]] and stabilise but the patient takes -1 [[ongoing]] until it’s fixed properly.
-- **Tools Matter**: With your signature weapon (see your [[gear]], below), you get +1 to **kick some ass**.
+- **Tools Matter**: With your signature weapon (see your [[gear]], below), you get +1 to **[[kick some ass]]**.
 
-**GEAR**
+**[[GEAR]]**
 
 Pick one signature weapon and two practical [[weapons]].
 
@@ -1945,13 +1945,13 @@ Practical [[weapons]], pick two:
 - Brass knuckles (1-[[harm]] hand stealthy)
 - Assault rifle (3-[[harm]] close area loud reload)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Wronged by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. When it’s your turn, pick one for each of the other hunters:
 
@@ -1970,7 +1970,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark off the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable.”
 
@@ -1978,7 +1978,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -1986,7 +1986,7 @@ Whenever you roll and get a total of 6 or less, or when a move tells you to, mar
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the following list:
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Tough, max +3
 - Get +1 Cool, max +2
@@ -2040,7 +2040,7 @@ Take a few moments to work out what the [[history]] choices imply about how and 
 
 [[The Keeper]] will have prepared a mystery for you to investigate, and will start by telling you what clues drew you in.
 
-**MOVES FOR THE BEGINNING OF THE MYSTERY**
+**[[MOVES]] FOR THE BEGINNING OF THE MYSTERY**
 
 If you have a move that is triggered at the beginning of a mystery, you should make it now.
 
@@ -2091,23 +2091,23 @@ In circumstances where a normal person couldn’t do what you want to do, or the
 
 Here are some [[examples]]:
 
-*Archer is checking out the site of a monster attack. There’s blood and guts all over the place, and police have walked in and out of the area. Archer starts trying to track where the monster went after the attack. When she makes the* ***investigate a mystery*** *move, what does she discover?*
+*Archer is checking out the site of a monster attack. There’s blood and guts all over the place, and police have walked in and out of the area. Archer starts trying to track where the monster went after the attack. When she makes the* ***[[investigate a mystery]]*** *move, what does she discover?*
 
-*Chris realises that a ghul is sneaking up on him, so he gets out his sawn-off shotgun and blasts it in the face as it leaps for him. Does Chris get hurt? He makes the **kick some ass** move to find out how bad his injuries are and what happens to the ghul.*
+*Chris realises that a ghul is sneaking up on him, so he gets out his sawn-off shotgun and blasts it in the face as it leaps for him. Does Chris get hurt? He makes the **[[kick some ass]]** move to find out how bad his injuries are and what happens to the ghul.*
 
-*A roof-beam comes down on Ted as a giant spider smashes through the wall and scampers to freedom. Ted’s partner, Rainer, grabs a chair and tries to wedge the beam so there’s room for Ted to escape. Does she succeed? How badly is Ted hurt? Is he trapped? She needs to make the **act under pressure** move to find out.*
+*A roof-beam comes down on Ted as a giant spider smashes through the wall and scampers to freedom. Ted’s partner, Rainer, grabs a chair and tries to wedge the beam so there’s room for Ted to escape. Does she succeed? How badly is Ted hurt? Is he trapped? She needs to make the **[[act under pressure]]** move to find out.*
 
 [[You Have To Make The Move]]
 
 A key element of the use of [[moves]] is “[[You have to make the move]].”
 
-This means that if you want to (for instance) **manipulate someone** in the game, you need to describe your hunter doing that. How do you ask? What do you offer, to make them do what you want? Why would they believe your offer is genuine?
+This means that if you want to (for instance) **[[manipulate someone]]** in the game, you need to describe your hunter doing that. How do you ask? What do you offer, to make them do what you want? Why would they believe your offer is genuine?
 
 *For example:*
 
 *Alan, [[the Keeper]]: “The flayed one is racing you to the car, and it looks like it’s going to get to you before you can close the door. So Mark, what do you do now?”*
 
-*Mary, playing her hunter Mark: “I **kick some ass**!”*
+*Mary, playing her hunter Mark: “I **[[kick some ass]]**!”*
 
 *Alan: “What are you doing?”*
 
@@ -2131,9 +2131,9 @@ It works the other way too—if you are describing what you are doing, someone m
 
 Sometimes [[the Keeper]] will ask you questions to clarify what’s going on. That’s cool; for the game to work, everyone needs to clearly understand what’s happening, so make sure your answer in as much detail as you can.
 
-[[Rolling the Dice]]
+[[How to roll for a move]]
 
-Often the rules for a move will tell you to roll, say, +Cool. This means you should grab two everyday six-sided dice, roll them, add them together and then add whatever number is written down for your hunter’s Cool.
+Often the rules for a move will tell you to roll, say, [[+Cool]]. This means you should grab two everyday six-sided dice, roll them, add them together and then add whatever number is written down for your hunter’s Cool.
 
 If it says something else instead of Cool (usually another rating), then add that number instead. So, if you are told to roll +Weird, roll two dice and add your Weird rating. If you are told to roll +Tough, roll two dice and add your Tough rating. If you have a negative rating, like -1, then you subtract one from your total instead.
 
@@ -2141,41 +2141,41 @@ The move description will say what the different results mean. Usually, 7 or hig
 
 *Example:*
 
-*I need to roll “[[Manipulate Someone]].” That’s a +Charm roll, and my Charm is +1. I roll the dice and get a 2 and a 5. My total is 1 + 2 + 5 = 9. That’s a partial success for **manipulate someone**.*
+*I need to roll “[[Manipulate Someone]].” That’s a +Charm roll, and my Charm is +1. I roll the dice and get a 2 and a 5. My total is 1 + 2 + 5 = 9. That’s a partial success for **[[manipulate someone]]**.*
 
 [[Bonuses and Holds]]
 
 Sometimes a move will give you a bonus to future dice rolls: you get to take the bonus “[[forward]]” or “[[ongoing]].” Sometimes a move will give you a “[[hold]].”
 
-**FORWARD**
+**[[FORWARD]]**
 
 If you get +1 [[forward]], you get +1 on your very next roll only.
 
 *For example:*
 
-*Another hunter can give you a bonus of +1 [[forward]] as the result of a move. The next thing that happens is that you charge in to attack a monster. You get +1 on your **kick some ass** roll. If you had decided to **use magic** instead, to cast a protection spell, then you would have gained the +1 on that roll. Once you have used the bonus, it’s gone.*
+*Another hunter can give you a bonus of +1 [[forward]] as the result of a move. The next thing that happens is that you charge in to attack a monster. You get +1 on your **[[kick some ass]]** roll. If you had decided to **[[use magic]]** instead, to cast a protection spell, then you would have gained the +1 on that roll. Once you have used the bonus, it’s gone.*
 
-**ONGOING**
+**[[ONGOING]]**
 
 If you get +1 [[ongoing]], you get +1 to every roll you make until the situation no longer applies.
 
 *For example:*
 
-*If you **read a bad situation**, you might be awarded +1 [[ongoing]] while using an escape route you spotted. You get +1 on all rolls while escaping via that route, but nothing more once you have escaped. You also get no bonus if you don’t try to escape via the way you spotted.*
+*If you **[[read a bad situation]]**, you might be awarded +1 [[ongoing]] while using an escape route you spotted. You get +1 on all rolls while escaping via that route, but nothing more once you have escaped. You also get no bonus if you don’t try to escape via the way you spotted.*
 
-**HOLD**
+**[[HOLD]]**
 
 When you get a [[hold]], you’ll get a number of points. Each point can be spent one-for-one to get a specific effect. The move will list the effects you can spend your [[hold]] on.
 
-*For example, you are interviewing the witnesses to a monster attack and you make an* ***investigate a mystery*** *roll. Your result gives you 3 [[hold]]. You can spend your [[hold]] to ask [[the Keeper]] questions from the list in the* ***investigate a mystery*** *move.*
+*For example, you are interviewing the witnesses to a monster attack and you make an* ***[[investigate a mystery]]*** *roll. Your result gives you 3 [[hold]]. You can spend your [[hold]] to ask [[the Keeper]] questions from the list in the* ***[[investigate a mystery]]*** *move.*
 
 *You ask a witness, “Did you see where the attacker went?” and spend one [[hold]]. (“Where did it go?” is one of the questions.)*
 
-*The Keeper says (as Mrs Henderson, the witness), “It scurried over there, and pulled up that grating and went into the sewers.”*
+*[[The Keeper]] says (as Mrs Henderson, the witness), “It scurried over there, and pulled up that grating and went into the sewers.”*
 
 *As the conversation with the witnesses continues, you spend the next [[hold]] to ask [[the Keeper]] about the monster’s powers. “Hey, from all the things they’ve told me, can I work out any powers?” (“What can it do?” is another question.)*
 
-*The Keeper replies, “The witness descriptions don’t agree at all. It must be able to change shape or maybe change memories.”*
+*[[The Keeper]] replies, “The witness descriptions don’t agree at all. It must be able to change shape or maybe change memories.”*
 
 *Later the last [[hold]] goes to ask [[the Keeper]] about whether a witness is hiding something. That exhausts your [[hold]], so you don’t get any more questions for now.*
 
@@ -2187,7 +2187,7 @@ I introduced the basic [[moves]] earlier: the things every hunter can do to find
 
 This covers trying to do something under conditions of particular stress or danger. [[Examples]] of acting under pressure are: staying on task while a banshee screams at you; barricading a door before the giant rats catch up; resisting the mental domination of a brain-worm; fighting on when you’re badly injured.
 
-When you **act under pressure**, roll +Cool.
+When you **[[act under pressure]]**, roll [[+Cool]].
 
 - On a 10+ you do what you set out to.
 - On a 7-9 [[the Keeper]] is going to give you a worse outcome, hard choice, or price to pay.
@@ -2195,19 +2195,19 @@ When you **act under pressure**, roll +Cool.
 
 [[Help Out]]
 
-When you **help another hunter** with a move they are making, roll +Cool.
+When you **help another hunter** with a move they are making, roll [[+Cool]].
 
 - On a 10+ your help grants them +1 to their roll.
 - On a 7-9 your help grants them +1 to their roll, but you also expose yourself to trouble or danger.
 - On a miss, you expose yourself to trouble or danger without helping.
 
-Note that help bonuses do not stack: if two people **help out**, the hunter just gets +1 on their roll.
+Note that help bonuses do not stack: if two people **[[help out]]**, the hunter just gets +1 on their roll.
 
 [[Investigate A Mystery]]
 
 Investigating can be done any number of ways: following tracks, interviewing witnesses, forensic analysis, looking up old folklore in a library, typing the monster’s name into Google, capturing the monster and conducting tests on it, and so on. Anything that might give you more information about what’s going on is fair game for an investigate move.
 
-When you **investigate a mystery**, roll +Sharp.
+When you **[[investigate a mystery]]**, roll +Sharp.
 
 - On a 10+ [[hold]] 2, and on a 7-9 [[hold]] 1.
 
@@ -2231,7 +2231,7 @@ It’s important that your attempts to investigate (and the results you get from
 
 This is used when you are fighting something that’s fighting you back.
 
-When you get into a fight and **kick some ass**, roll +Tough.
+When you get into a fight and **[[kick some ass]]**, roll +Tough.
 
 On any success (i.e., total 7 or more) you and whatever you’re fighting inflict [[harm]] on each other. The amount of [[harm]] is based on the established dangers in the game. That usually means you inflict the [[harm]] rating of your weapon and your enemy inflicts their attack’s [[harm]] rating on you.
 
@@ -2268,9 +2268,9 @@ For another hunter:
 
 **MANIPULATING [[MONSTERS]]**
 
-**Manipulate someone** does not normally work on [[monsters]], even if they can reason and talk. You can try and make a deal with one if you really want, but you don’t get to roll to ensure it keeps its side of the bargain. You just have to hope it’s an honourable fiend. Good luck with that.
+**[[Manipulate someone]]** does not normally work on [[monsters]], even if they can reason and talk. You can try and make a deal with one if you really want, but you don’t get to roll to ensure it keeps its side of the bargain. You just have to hope it’s an honourable fiend. Good luck with that.
 
-If you take [[the Monstrous]] move **dark negotiator** (or any other move that specifically allows it) then you are allowed to manipulate [[monsters]], at least if they can reason and talk. Of course, a monster probably needs a different sort of reason than normal people—quite possibly something you really won’t want to do.
+If you take [[the Monstrous]] move **[[dark negotiator]]** (or any other move that specifically allows it) then you are allowed to manipulate [[monsters]], at least if they can reason and talk. Of course, a monster probably needs a different sort of reason than normal people—quite possibly something you really won’t want to do.
 
 [[Minions]] may or may not be susceptible to manipulation. It may be possible to manipulate [[minions]] who are human, or almost human; those that are incapable of understanding or reason cannot be manipulated.
 
@@ -2293,7 +2293,7 @@ On a miss, then you end up making things worse.
 
 [[Read A Bad Situation]]
 
-When you look around and **read a bad situation**, roll +Sharp.
+When you look around and **[[read a bad situation]]**, roll +Sharp.
 
 On a 10+ [[hold]] 3, and on a 7-9, [[hold]] 1.
 
@@ -2312,7 +2312,7 @@ On a miss, you might mis-read the situation (e.g. “Everything is fine here! It
 
 [[Use Magic]]
 
-When you **use magic**, say what you’re trying to achieve and how you do the spell, then roll +Weird.
+When you **[[use magic]]**, say what you’re trying to achieve and how you do the spell, then roll +Weird.
 
 - If you get a 10+, the magic works without issues: choose your effect.
 - On a 7-9, it works imperfectly: choose your effect and a glitch. [[The Keeper]] will decide what effect the glitch has.
@@ -2350,11 +2350,11 @@ Glitches:
 - You need one or two people to help cast the spell.
 - You need to refer to a tome of magic for the details.
 
-If you want to do magic that goes beyond these effects, it counts as **big magic**. [[Big magic]] uses different rules, described below.
+If you want to do magic that goes beyond these effects, it counts as **[[big magic]]**. [[Big magic]] uses different rules, described below.
 
 [[Big Magic]]
 
-Sometimes the everyday spells and rituals of the **use magic** basic move aren’t enough. **Big magic** covers everything more powerful, such as bringing someone back from the dead or opening a portal to another dimension. [[Big magic]] is both more powerful and more dangerous than the basic **use magic**.
+Sometimes the everyday spells and rituals of the **[[use magic]]** basic move aren’t enough. **[[Big magic]]** covers everything more powerful, such as bringing someone back from the dead or opening a portal to another dimension. [[Big magic]] is both more powerful and more dangerous than the basic **[[use magic]]**.
 
 Decide what magical effect you want to make happen, and tell [[the Keeper]]. They will determine what you must do in order to cast the spell. The options (and [[the Keeper]] can pick more than one) are:
 
@@ -2364,32 +2364,32 @@ Decide what magical effect you want to make happen, and tell [[the Keeper]]. The
 - The spell will take a long time (hours or days) to cast.
 - You need a lot of people (2, 3, 7, 13, or more) to help.
 - The spell needs to be cast at a particular place and/or time.
-- You need to **use magic** as part of the ritual, perhaps to summon a monster, communicate with something, or bar the portal you opened.
+- You need to **[[use magic]]** as part of the ritual, perhaps to summon a monster, communicate with something, or bar the portal you opened.
 - It will have a specific side-effect or danger.
 
-Once you know the requirements, you need to arrange them. Once you’ve done that, the magical effect you want will simply happen. You don’t need to roll any move for **big magic** itself, but you might need to roll some other [[moves]], as you try to meet the requirements.
+Once you know the requirements, you need to arrange them. Once you’ve done that, the magical effect you want will simply happen. You don’t need to roll any move for **[[big magic]]** itself, but you might need to roll some other [[moves]], as you try to meet the requirements.
 
-Here are some [[examples]] of how you can use **big magic**.
+Here are some [[examples]] of how you can use **[[big magic]]**.
 
-*The hunters want to discover where a particular person is, with only a photograph to go on. [[The Keeper]] decides this will require three people to take part in the ritual, and that they need a very precise map of the area—the spell will guide a pendulum to the person’s location.*
+*[[The hunters]] want to discover where a particular person is, with only a photograph to go on. [[The Keeper]] decides this will require three people to take part in the ritual, and that they need a very precise map of the area—the spell will guide a pendulum to the person’s location.*
 
-*The hunters are investigating a frogbeast that’s been devouring people. After discovering it’s from an alien dimension, [[the hunters]] propose casting a spell that “detunes” it from our dimension and sends it home (or somewhere else, at least). [[The Keeper]] decides this will require a few experiments taking up the afternoon, the spell will take around six hours to cast, it requires them to **use** **magic** to banish the frogbeast from this dimension, and it will expose them to danger—the frogbeast will feel the spell being cast and know where the force is coming from.*
+*[[The hunters]] are investigating a frogbeast that’s been devouring people. After discovering it’s from an alien dimension, [[the hunters]] propose casting a spell that “detunes” it from our dimension and sends it home (or somewhere else, at least). [[The Keeper]] decides this will require a few experiments taking up the afternoon, the spell will take around six hours to cast, it requires them to **use** **magic** to banish the frogbeast from this dimension, and it will expose them to danger—the frogbeast will feel the spell being cast and know where the force is coming from.*
 
-*One of [[the hunters]] on the team has died, and the others want to bring her back to life. [[The Keeper]] decides that it will take some weeks of research, the ritual requires her body, it must take place at dawn on the spring solstice in view of the rising sun, they must **use magic** to summon back the dead hunter’s soul from Death’s realm, and it exposes them to a big danger—Death will be angered by this transgression.*
+*One of [[the hunters]] on the team has died, and the others want to bring her back to life. [[The Keeper]] decides that it will take some weeks of research, the ritual requires her body, it must take place at dawn on the spring solstice in view of the rising sun, they must **[[use magic]]** to summon back the dead hunter’s soul from Death’s realm, and it exposes them to a big danger—Death will be angered by this transgression.*
 
 [[Fights]]
 
 Here are some things to remember when you get down to the slaying.
 
-Don’t always go right to rolling dice for **kick some ass**. That move puts you in danger of [[harm]] as well as your enemy. If you can find a way to attack *without* putting yourself in danger, then you can inflict [[harm]] on the enemy without suffering any yourself (and without needing to succeed on a roll).
+Don’t always go right to rolling dice for **[[kick some ass]]**. That move puts you in danger of [[harm]] as well as your enemy. If you can find a way to attack *without* putting yourself in danger, then you can inflict [[harm]] on the enemy without suffering any yourself (and without needing to succeed on a roll).
 
-Remember you can try to **protect someone** whenever they are threatened with [[harm]]. Think about who needs protecting, and where everyone is in relation to each other. If you set things up right, you might even be able to save a teammate from the [[harm]] they’re going to suffer if they miss a roll.
+Remember you can try to **[[protect someone]]** whenever they are threatened with [[harm]]. Think about who needs protecting, and where everyone is in relation to each other. If you set things up right, you might even be able to save a teammate from the [[harm]] they’re going to suffer if they miss a roll.
 
 Remember that you can **help another hunter** to give them +1 on a roll. This can sometimes be the difference between life and death, plus if you help in a fight [[the Keeper]] might say you can add the [[harm]] from your attack to the attack of the hunter you’re helping—so you can take a monster down faster.
 
 [[Unarmed Attacks And Improvised Weapons]]
 
-If your hunter has been caught unarmed, and is just fighting with fists and feet, you do 0-[[harm]] hand/intimate. You can still hurt things if you have a bonus to [[harm]]. That could come from getting a 10+ on a **kick some ass** roll, or a move you have.
+If your hunter has been caught unarmed, and is just fighting with fists and feet, you do 0-[[harm]] hand/intimate. You can still hurt things if you have a bonus to [[harm]]. That could come from getting a 10+ on a **[[kick some ass]]** roll, or a move you have.
 
 If your hunter grabs a random object to use as a weapon, decide between you and your Keeper about how it is rated. Here are some guidelines:
 
@@ -2459,7 +2459,7 @@ If there was no time to rest between mysteries, then heal 1-[[harm]].
 
 [[Resurrection]]
 
-If someone wants to bring a slain hunter (or someone else) back from the dead, this requires **big magic**. But there’s an extra step for this particular case.
+If someone wants to bring a slain hunter (or someone else) back from the dead, this requires **[[big magic]]**. But there’s an extra step for this particular case.
 
 **When you** **return to life,** roll -Weird (so subtract three if you have +3 Weird, add one for -1 Weird, etc.). The weirder you are, the weirder it is when you come back from the dead.
 
@@ -2752,26 +2752,26 @@ There’s a new result for each advanced move, that applies when you roll a 12 o
 
 If you have advanced a basic move, you gain access to an even better result when you roll a 12 or more for the move.
 
-For **act under pressure**, on a 12+ you rise above the pressure completely. You may choose to either do what you wanted and something extra, or to do what you wanted to absolute perfection (so that people will talk about it for years to come).
+For **[[act under pressure]]**, on a 12+ you rise above the pressure completely. You may choose to either do what you wanted and something extra, or to do what you wanted to absolute perfection (so that people will talk about it for years to come).
 
-For **help out**, on a 12+ you make the difference. The person you are helping acts as if they just rolled a 12 on their move, regardless of what they actually got.
+For **[[help out]]**, on a 12+ you make the difference. The person you are helping acts as if they just rolled a 12 on their move, regardless of what they actually got.
 
-For **kick some ass**, on a 12+ you devastate and overawe your enemy. You inflict and suffer [[harm]] as normal, and pick one of these enhanced effects:
+For **[[kick some ass]]**, on a 12+ you devastate and overawe your enemy. You inflict and suffer [[harm]] as normal, and pick one of these enhanced effects:
 
 - You completely [[hold]] the advantage. All hunters involved in the fight get +1 [[forward]].
 - You suffer no [[harm]] at all.
 - Your attack inflicts double the normal [[harm]].
 - Your attack drives the enemy away in a rout.
 
-For **protect someone**, on a 12+ you defend them perfectly. Both you and the character you are protecting are unharmed and out of danger. If you were protecting a bystander, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on [[leveling up]], see [[The Basic Hunter Moves]]).
+For **[[protect someone]]**, on a 12+ you defend them perfectly. Both you and the character you are protecting are unharmed and out of danger. If you were protecting a bystander, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on [[leveling up]], see [[The Basic Hunter Moves]]).
 
-For **manipulate someone**, on a 12+ you absolutely convince them. They do what you want *right now*. For a hunter, they must **act under pressure** to resist your request. If they do what you ask, they mark one experience and take +1 [[ongoing]] while doing what you asked. For a bystander, not only do they do what you want right now, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on [[leveling up]], see [[The Basic Hunter Moves]]) for the rest of the mystery (or, if you do enough for them, permanently). Note that allies can be lost, too! If they discover you’ve manipulated them into acting against their best interests, your new **ally** may become a threat to you.
+For **[[manipulate someone]]**, on a 12+ you absolutely convince them. They do what you want *right now*. For a hunter, they must **[[act under pressure]]** to resist your request. If they do what you ask, they mark one experience and take +1 [[ongoing]] while doing what you asked. For a bystander, not only do they do what you want right now, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on [[leveling up]], see [[The Basic Hunter Moves]]) for the rest of the mystery (or, if you do enough for them, permanently). Note that allies can be lost, too! If they discover you’ve manipulated them into acting against their best interests, your new **ally** may become a threat to you.
 
-For **investigate a mystery**, on a 12+ you may ask [[the Keeper]] any question you want about the mystery, not just the listed ones.
+For **[[investigate a mystery]]**, on a 12+ you may ask [[the Keeper]] any question you want about the mystery, not just the listed ones.
 
-For **read a bad situation**, on a 12+ you may ask [[the Keeper]] any question you want about the situation, not just the listed ones.
+For **[[read a bad situation]]**, on a 12+ you may ask [[the Keeper]] any question you want about the situation, not just the listed ones.
 
-For **use magic**, on a 12+ you are infused with magical power. What you wanted to do happens and [[the Keeper]] will offer you some extra benefit on top of that.
+For **[[use magic]]**, on a 12+ you are infused with magical power. What you wanted to do happens and [[the Keeper]] will offer you some extra benefit on top of that.
 
 [[Playbook-Specific Advanced Improvements]]
 
@@ -2906,7 +2906,7 @@ The game is going to be built by you and the other players together: so at this 
 
 You also need to prepare yourself for how to run the game.
 
-I’ve codified my best practices for running *Monster of the Week* into a ‘toolbox’ of advice. This toolbox owes a huge debt to Vincent Baker: in *Apocalypse World* Vincent described his methods for running that game. As he’s done, I’ll present an **agenda** for [[what you do]] as Keeper, what you should **always say**, the **principles** you use to create the world, and the **moves** you can make.
+I’ve codified my best practices for running *Monster of the Week* into a ‘toolbox’ of advice. This toolbox owes a huge debt to Vincent Baker: in *Apocalypse World* Vincent described his methods for running that game. As he’s done, I’ll present an **agenda** for [[what you do]] as Keeper, what you should **[[always say]]**, the **principles** you use to create the world, and the **[[moves]]** you can make.
 
 I’ll have more to say about these later, but I’ll present them here so you have them in mind while you prepare your first mystery.
 
@@ -2956,7 +2956,7 @@ Before I get into the guts of it, here’s what a finished mystery looks like. R
 
 [[An Example Mystery Mongolian Death Worm Attack]]
 
-*The hunters get a report of some strange deaths at a local museum. Professor Josh Singer, Dr Jennifer Sofia, and Michelle Fitzsimmons were last seen alive working late unpacking and cleaning up new items for the collection. The next morning they were found “burned and partially dissolved” (according to police reports).*
+*[[The hunters]] get a report of some strange deaths at a local museum. Professor Josh Singer, Dr Jennifer Sofia, and Michelle Fitzsimmons were last seen alive working late unpacking and cleaning up new items for the collection. The next morning they were found “burned and partially dissolved” (according to police reports).*
 
 *The [[monsters]] are three newly hatched Mongolian death worms. They’re bright red and look moist and intestinal. Each is about 5cm thick and 50cm long. They have a deadly venom that they can spit, and excrete via the skin. Plus, they can shoot lightning bolts. They like things dry, and water is poisonous to them.*
 
@@ -2978,9 +2978,9 @@ That mystery writeup shows the level of detail you need to play the game. You al
 
 When you’re making up your own mystery, some of these elements will be defined in game terms to make it easier for you to manage them. I left the jargon out of the example, but I’ll describe each of the pieces now. These are the six mystery elements I mentioned before.
 
-**COMPONENTS OF A MYSTERY**
+**[[COMPONENTS OF A MYSTERY]]**
 
-The *basic concept* is your original idea, the thought that led to this mystery.
+The *[[basic concept]]* is your original idea, the thought that led to this mystery.
 
 *In the example, [[the basic concept]] is the Mongolian death worms—the stories are awesome, so I wanted to make a mystery about them.*
 
@@ -3000,11 +3000,11 @@ Next there’s the *monster*. The monster has a type that defines its motivation
 
 *Weakness: Water.*
 
-Next up are *minions*. These are servants of the main monster, who help it out and work against [[the hunters]]. [[Minions]] also get a type and motivation to guide you about how they act.
+Next up are *[[minions]]*. These are servants of the main monster, who help it out and work against [[the hunters]]. [[Minions]] also get a type and motivation to guide you about how they act.
 
 *In the example, Dr Kelly Morrison is a minion. She’s a guardian, with the motivation “to bar a way or protect something.” She’s going to try and protect the worms as they nest and breed, because she wants to study and understand them.*
 
-There’s also a list of *bystanders.* These are the people involved in the situation. These can be people who are in danger, who might help [[the hunters]]’ investigation, who might get in the way. [[Bystanders]] each have a type and associated motivation.
+There’s also a list of *[[bystanders]].* These are the people involved in the situation. These can be people who are in danger, who might help [[the hunters]]’ investigation, who might get in the way. [[Bystanders]] each have a type and associated motivation.
 
 *Dr Francesco Ferrara, is a* victim *with the motivation “to put herself in danger.” She’ll put herself in danger by helping [[the hunters]] as much as she can.*
 
@@ -3012,11 +3012,11 @@ There’s also a list of *bystanders.* These are the people involved in the situ
 
 *Chris Larsen is an official with the motivation “to be suspicious.” He is there to get in the way of [[the hunters]] by bringing up annoying regulations they need to comply with, and that sort of thing. Just so [[the hunters]] don’t have too easy a time exploring the museum.*
 
-Next up is one or more *locations* that will be important. [[Locations]] are allocated a type from a list. The type has a descriptive name and a motivation. [[Locations]] in this game are able to do things. The motivation tells you what sort of things this particular place will do.
+Next up is one or more *[[locations]]* that will be important. [[Locations]] are allocated a type from a list. The type has a descriptive name and a motivation. [[Locations]] in this game are able to do things. The motivation tells you what sort of things this particular place will do.
 
 *In the example, the one location is the Natural [[History]] Museum. It’s a **Wilds**, with the motivation “to contain hidden things.” The plan is to have it full of scary places, and fake-out scares, as well as people to protect and worms to hunt down.*
 
-Those elements (*monsters*, *minions*, *bystanders*, and *locations*) are *threats*. *Threats* are the things that make trouble for [[the hunters]], one way or another. Each *threat* gets a *type* and a corresponding *motivation*.
+Those elements (*[[monsters]]*, *[[minions]]*, *[[bystanders]]*, and *[[locations]]*) are *threats*. *Threats* are the things that make trouble for [[the hunters]], one way or another. Each *threat* gets a *type* and a corresponding *motivation*.
 
 Any kind of *threat* can have a *custom move*, too. This is a special rule that defines something this particular threat can do. See [page 296](#0000915624) for how to create [[custom moves]].
 
@@ -3050,14 +3050,14 @@ Now the mystery needs some threats. These are the things that will interfere wit
 
 Threats come in four types:
 
-- **Monsters** (the big bad behind these events).
-- **Minions** (allies of the monster, usually weaker creatures).
-- **Bystanders** (normal folks who are involved).
-- **Locations** (significant places).
+- **[[Monsters]]** (the big bad behind these events).
+- **[[Minions]]** (allies of the monster, usually weaker creatures).
+- **[[Bystanders]]** (normal folks who are involved).
+- **[[Locations]]** (significant places).
 
 Threat categories are more concerned with the role that the entity will have in the mystery than rigid definitions. Sometimes powerful creatures will be “[[minions]]” because that’s how they fit into the situation. In other cases, normal people could be a “minion” (if they’re inadvertantly supporting a monster) or even a “monster” (if they’re a mass murderer). Think about how the situation in your mystery is set up, and choose threat types based on which part each element plays.
 
-**MONSTERS**
+**[[MONSTERS]]**
 
 Start with the monster. Most mysteries will have just one: the single creature behind everything bad that’s going to happen.
 
@@ -3100,9 +3100,9 @@ Once you know the monster’s powers, it’s time to make a note of its **attack
 
 Now decide how resilient the monster is.
 
-Decide how many points of **harm** will kill it. Take seven as your basic minimum (the same as a hunter). Increase it based on how large and robust the monster is. There’s no set maximum, but more than fourteen would be exceptional. Sometimes a monster might be more fragile, too: in those cases, reduce the [[harm]] capacity.
+Decide how many points of **[[harm]]** will kill it. Take seven as your basic minimum (the same as a hunter). Increase it based on how large and robust the monster is. There’s no set maximum, but more than fourteen would be exceptional. Sometimes a monster might be more fragile, too: in those cases, reduce the [[harm]] capacity.
 
-Secondly decide if it has an **armour** rating, based on its innate toughness or a power that makes it harder to hurt. 1- or 2- [[armour]] is normal. Higher values make it difficult for [[the hunters]] to hurt the monster, and no [[armour]] makes the monster very vulnerable.
+Secondly decide if it has an **[[armour]]** rating, based on its innate toughness or a power that makes it harder to hurt. 1- or 2- [[armour]] is normal. Higher values make it difficult for [[the hunters]] to hurt the monster, and no [[armour]] makes the monster very vulnerable.
 
 *Marie is an averagely resilient ghost. I’ll set her [[harm]] capacity to seven. But I won’t give her any [[armour]]: her [[incorporeal]] power is enough for [[the hunters]] to deal with.*
 
@@ -3122,7 +3122,7 @@ If you haven’t already worked out what the monster is trying to achieve, give 
 
 *Marie is obsessed with being laid to rest properly. She can’t communicate with anyone directly, she’s just going to violently attack them whenever they don’t seem to be helping her. If people persist in not helping, she’s just going to kill them. Because the family have been here longest without helping her, she’ll target them first.*
 
-**MINIONS**
+**[[MINIONS]]**
 
 Decide if the monster is working on its own or if it has [[minions]] to help it. If it has [[minions]], detail them now. [[Minions]] can be weaker individuals of the same kind of monster, allied creatures of different kinds, human worshippers, or human (perhaps unwitting) servants.
 
@@ -3161,7 +3161,7 @@ If [[minions]] have [[armour]], they normally have 1-[[armour]], and only rarely
 
 *The possessed rats are Scouts (motivation: to stalk, watch, and report). If they attack, they do 1-[[harm]] intimate as a swarm. 10-[[harm]] must be inflicted to disperse the group completely.*
 
-**BYSTANDERS**
+**[[BYSTANDERS]]**
 
 [[Bystanders]] are the normal people who are involved in the situation. They’re the victims, witnesses, interfering cops, and anyone else.
 
@@ -3207,7 +3207,7 @@ It’s a good idea to include some partially defined [[bystanders]]: just a name
 
 *The [[bystanders]] could be rounded out with some more people in the town, but I think we have enough.*
 
-**LOCATIONS**
+**[[LOCATIONS]]**
 
 [[Locations]] are places that can cause trouble for [[the hunters]]. They’re metaphorically hostile, encompassing all the stuff that can go wrong around [[the hunters]] (like the phones not working, or a car not starting, or getting lost and ending up alone in the dark).
 
@@ -3289,12 +3289,12 @@ As [[the countdown]] is what would happen if [[the hunters]] didn’t interfere,
 
 Summary: First Mystery Creation
 
-- Come up with a cool but uncomplicated *basic concept* for the monster and mystery.
+- Come up with a cool but uncomplicated *[[basic concept]]* for the monster and mystery.
 - Create a *hook*: the clue that caught [[the hunters]]’ attention.
 - Create the *monster*: name, description, type & motivation, then define its powers, weaknesses, attacks, [[armour]], [[harm]] capacity, optionally [[custom moves]].
-- Create the *minions* (if any): name, description, type & motivation, then define their powers, attacks, [[armour]], [[harm]] capacity, optionally weaknesses and [[custom moves]].
-- Create the *bystanders* (at least two): name, description, type & motivation.
-- Create the *locations*: name, description, type & motivation, optionally maps and [[custom moves]].
+- Create the *[[minions]]* (if any): name, description, type & motivation, then define their powers, attacks, [[armour]], [[harm]] capacity, optionally weaknesses and [[custom moves]].
+- Create the *[[bystanders]]* (at least two): name, description, type & motivation.
+- Create the *[[locations]]*: name, description, type & motivation, optionally maps and [[custom moves]].
 - Define the mystery *countdown*: six terrible events that would occur if [[the hunters]] never came.
 - Go back over everything and make sure it all hangs together. Fill in gaps where something seems to be missing.
 
@@ -3335,9 +3335,9 @@ This mystery is unusual in that the most dangerous supernatural being here (Ober
 
 Aside from defeating Bonecruncher, the mystery has a few other threads [[the hunters]] might want to tie up.
 
-- Oberon is indulging his desire for revenge due to the town’s betrayal, but for him this is quite a small betrayal. If [[the hunters]] propose some kind of reparation, he’ll be happy to leave the town to its own devices. Cunning hunters might even argue that the things he has already done are enough punishment for the town to consider the contract quit. Another angle they can take is that none of the people now suffering were parties to the contract (Oberon will respond that they benefited from his influence over the town, so are bound by the terms for that reason). Hunters could also call upon another major power as a mediator, but they would still need to successfully present their argument against Oberon. Note that it is possible [[the hunters]] may use **manipulate someone** on Oberon, but he will demand a high price, such as servitude for one hundred years, or a unique magical treasure.
+- Oberon is indulging his desire for revenge due to the town’s betrayal, but for him this is quite a small betrayal. If [[the hunters]] propose some kind of reparation, he’ll be happy to leave the town to its own devices. Cunning hunters might even argue that the things he has already done are enough punishment for the town to consider the contract quit. Another angle they can take is that none of the people now suffering were parties to the contract (Oberon will respond that they benefited from his influence over the town, so are bound by the terms for that reason). Hunters could also call upon another major power as a mediator, but they would still need to successfully present their argument against Oberon. Note that it is possible [[the hunters]] may use **[[manipulate someone]]** on Oberon, but he will demand a high price, such as servitude for one hundred years, or a unique magical treasure.
 - Bonecruncher could be sent away as one of the terms of a deal [[the hunters]] cut with Oberon, but otherwise the redcap will be left to roam and kill as he wishes.
-- Violet poses another problem. She is currently happy being a member of Oberon’s court, but her family would love to have her returned. Hunters might think about restoring her memories of her mortal life, or breaking the glamours of Faerie. A disenchanted Violet will be unhappy to lose Faerie (and her friends there) but will gradually settle back into a normal life. And, after all, her fairy friends can still come and visit (that could be a starting point for a later mystery). Hunters can use **manipulate someone** on Violet as with any normal person, although her wants are rather twisted by her time in Faerie.
+- Violet poses another problem. She is currently happy being a member of Oberon’s court, but her family would love to have her returned. Hunters might think about restoring her memories of her mortal life, or breaking the glamours of Faerie. A disenchanted Violet will be unhappy to lose Faerie (and her friends there) but will gradually settle back into a normal life. And, after all, her fairy friends can still come and visit (that could be a starting point for a later mystery). Hunters can use **[[manipulate someone]]** on Violet as with any normal person, although her wants are rather twisted by her time in Faerie.
 
 In case [[the hunters]] go looking for it: beloved children were sent to Faerie on Midsummer Day in 1615, 1655, 1695, 1735, 1775, 1815, 1855, 1895, 1935, and 1975. These dates assume a game set in 2015—shift them if your game is set some other time! The most recent disappearance must be 40 years back, and you can shift the town’s founding date from 1615 if needed to make it fit.
 
@@ -3362,9 +3362,9 @@ Oberon has many other powers but those two will be the ones most appropriate for
 
 **Attacks**: Sword: 3-[[harm]] hand poison; Host of elf-knights plus goblin infantry: 4-[[harm]] hand/close/far area.
 
-**Harm capacity**: 15 bbbbbbbbbbbbbbb
+**[[Harm]] capacity**: 15 bbbbbbbbbbbbbbb
 
-**Armour**: Faerie mail: 3-[[armour]] magic
+**[[Armour]]**: Faerie mail: 3-[[armour]] magic
 
 **Weaknesses**:
 
@@ -3377,7 +3377,7 @@ Oberon's Fortress
 
 This is in Faerie. [[The hunters]] may travel here to try and come to an arrangement with Oberon.
 
-If you want, you can make the journey through Faerie a major task and extend the mystery. Alternatively, you can have [[the hunters]] **act under pressure** to find their way, or have them meet a guide who will take them swiftly to Oberon.
+If you want, you can make the journey through Faerie a major task and extend the mystery. Alternatively, you can have [[the hunters]] **[[act under pressure]]** to find their way, or have them meet a guide who will take them swiftly to Oberon.
 
 King Oberon is very powerful and has hosts of fairies under his command, so [[the hunters]] should treat this as a negotiation rather than a battle.
 
@@ -3400,9 +3400,9 @@ Violet is curious about mortals, and playful, so [[the hunters]] can probably ge
 
 **Attacks**: Faerie dagger. 1-[[harm]] intimate/hand sleep magic. Anyone harmed by this dagger may also suffer “falls into an enchanted slumber” as a [[harm]] move.
 
-**Harm capacity**: 7 Okay bbbb|bbb Dying
+**[[Harm]] capacity**: 7 Okay bbbb|bbb Dying
 
-**Armour**: None
+**[[Armour]]**: None
 
 **Weaknesses**: She is a normal human.
 
@@ -3425,9 +3425,9 @@ If [[the hunters]] talk to him, Bonecruncher will insult and threaten them, hopi
 
 **Attacks**: Razor-sharp Poleaxe: 3-[[harm]] hand/close; Terrible Talons: 1-[[harm]] hand; Sharp Teeth: 2-[[harm]] intimate ignores-[[armour]].
 
-**Harm capacity**: 9. bbbbbbbbb
+**[[Harm]] capacity**: 9. bbbbbbbbb
 
-**Armour**: None
+**[[Armour]]**: None
 
 **Weaknesses**:
 
@@ -3598,11 +3598,11 @@ Now you can work out the team’s story, based on all those bits of [[history]].
 
 Mention How Things Work
 
-This is a good time to explain the player agenda ([[Hunter Agenda]]), basic [[moves]] ([[The Basic Hunter Moves]]), what to roll and add ([[Rolling the Dice]]), using Luck ([[The Luck Counter]]), when to mark experience ([[Leveling Up]]), and how to level up ([[Leveling Up]]). Give just enough detail to get started, rather than trying to explain everything right now. You can fill in more details when they are needed.
+This is a good time to explain the player agenda ([[Hunter Agenda]]), basic [[moves]] ([[The Basic Hunter Moves]]), what to roll and add ([[How to roll for a move]]), using Luck ([[The Luck Counter]]), when to mark experience ([[Leveling Up]]), and how to level up ([[Leveling Up]]). Give just enough detail to get started, rather than trying to explain everything right now. You can fill in more details when they are needed.
 
 [[Running The First Mystery]]
 
-I’m going to start by talking a bit about the way to play the game, then remind you of [[the Keeper]] **agenda** and **principles**, then discuss how to use them. I will then introduce two more concepts you need: what you should **always say** and the **Keeper [[moves]]**. That will give you all the rules you need to run the game. I’ll pull all of this together to explain how to run your mystery on [[0000651300]].
+I’m going to start by talking a bit about the way to play the game, then remind you of [[the Keeper]] **agenda** and **principles**, then discuss how to use them. I will then introduce two more concepts you need: what you should **[[always say]]** and the **Keeper [[moves]]**. That will give you all the rules you need to run the game. I’ll pull all of this together to explain how to run your mystery on [[0000651300]].
 
 [[The Game Is A Conversation]]
 
@@ -3694,7 +3694,7 @@ The “[[Always say]]” rules ensure you stick to your job.
 
 *Say what your prepared mysteries and [[arcs]] demand.* That’s what you prepared them for, after all. If the mystery countdown says the rakshasa is going after the mayor next, that’s what you say (unless other events have changed its plan, of course). [[Arcs]] are [[ongoing]] or recurring threats, like season-long stories or big bad [[monsters]] (I talk more about them on [[0000741446]]), but are treated here the same as mysteries.
 
-*Say what honesty demands* means you should let [[the hunters]] know anything they would be aware of. For example, there’s a monster waiting to ambush them and they’re walking right into it. But an experienced, bad-ass hunter would know to be careful here. It makes sense to say to them, “This would be a good ambush spot—maybe you want to **read a bad situation**?” Or, if they’re talking about the werewolf they’re hunting and they say, “Silver kills werewolves” but that isn’t true for *your* werewolves, then let them know, “Actually silver is a myth, but wolfsbane works.” Or if they’re going to make a move like **protect someone** and they’ll need to throw themselves in front of a flesh-stitcher, let them know that they’re going to suffer a **lot** of [[harm]] if they do it.
+*Say what honesty demands* means you should let [[the hunters]] know anything they would be aware of. For example, there’s a monster waiting to ambush them and they’re walking right into it. But an experienced, bad-ass hunter would know to be careful here. It makes sense to say to them, “This would be a good ambush spot—maybe you want to **[[read a bad situation]]**?” Or, if they’re talking about the werewolf they’re hunting and they say, “Silver kills werewolves” but that isn’t true for *your* werewolves, then let them know, “Actually silver is a myth, but wolfsbane works.” Or if they’re going to make a move like **[[protect someone]]** and they’ll need to throw themselves in front of a flesh-stitcher, let them know that they’re going to suffer a **lot** of [[harm]] if they do it.
 
 More generally: You should be a fan of [[the hunters]], so don’t let dumb, unsaid stuff trip them up.
 
@@ -3712,7 +3712,7 @@ To Do It, You Have To Do It
 
 This is important: when you (or [[the hunters]]) make any move, you must describe how it happens.
 
-[[Always say]] what is happening in the game, not just the rules side of things. Don’t tell someone “roll **act under pressure**!” tell them “the warlock’s gaze insinuates itself into your mind and as it hisses, ‘Kill your comrades,’ you feel an overwhelming urge to comply. What do you do?”
+[[Always say]] what is happening in the game, not just the rules side of things. Don’t tell someone “roll **[[act under pressure]]**!” tell them “the warlock’s gaze insinuates itself into your mind and as it hisses, ‘Kill your comrades,’ you feel an overwhelming urge to comply. What do you do?”
 
 There’s a flip-side to this as well. When one of [[the hunters]] is doing something that is a move, make sure they follow the rules for that move. For example, if someone says “I go up to the park ranger and ask her ‘Did you see anything weird last Sunday night?’” then you should ask them to roll the **investigate** move before you decide how the ranger answers.
 
@@ -3746,13 +3746,13 @@ These [[moves]] are your main tool in play. Most of the time, when you’re sayi
 
 *Inflict [[harm]], as established* is used when a person or other thing in the world was being threatened with damage and nothing prevented it. The “as established” part is important—you can only inflict [[harm]] that is plausible and already present in the story. For example, if a hunter is pushed down a [[flight]] of stairs you immediately have a good idea of the potential [[harm]]. It is likely they’ll be shaken and bruised, possible that they broke a bone or got a concussion, but they can’t suffer severe burns.
 
-*Make them investigate* keeps the game moving. In each mystery [[the hunters]] need to find clues until they know enough to face the monster behind it all. If [[the hunters]] get stumped, ask them what they look for next. If they ask you for information, ask them how they find it out, then get them to make the **investigate a mystery** move. The answers from investigating depend on what the hunter did: by asking a witness questions they will learn different things than when they analyse samples in a lab. If [[the hunters]] ask a question and you can’t see how they could discover that, ask them to explain how.
+*Make them investigate* keeps the game moving. In each mystery [[the hunters]] need to find clues until they know enough to face the monster behind it all. If [[the hunters]] get stumped, ask them what they look for next. If they ask you for information, ask them how they find it out, then get them to make the **[[investigate a mystery]]** move. The answers from investigating depend on what the hunter did: by asking a witness questions they will learn different things than when they analyse samples in a lab. If [[the hunters]] ask a question and you can’t see how they could discover that, ask them to explain how.
 
 *Make them acquire stuff*. Use this move when [[the hunters]] need something special, like they want to build a spirit detector, or cast a spell, or find an old book, or get a new weapon. Ask them how they pay for it, steal it, or find it.
 
-*Tell them the possible consequences and ask*. Often, [[the hunters]] will want to do something but it isn’t a move. Let them know they can do it, but only if they pay a certain price or suffer certain effects. For example, you can get away through that vent, but you’ll have to leave your shotgun behind. Or you can grab that bag, but only by putting yourself in the firing line. The consequences could be a move, too: “you can do it, but you’ll need to **act under pressure**.”
+*Tell them the possible consequences and ask*. Often, [[the hunters]] will want to do something but it isn’t a move. Let them know they can do it, but only if they pay a certain price or suffer certain effects. For example, you can get away through that vent, but you’ll have to leave your shotgun behind. Or you can grab that bag, but only by putting yourself in the firing line. The consequences could be a move, too: “you can do it, but you’ll need to **[[act under pressure]]**.”
 
-*Turn their move back on them* is for when a hunter misses a move roll. Whatever they were trying to do happens to them instead. If they were trying to **protect someone**, they made the danger worse. If they were **investigating a mystery**, they revealed something to the monster. If they were **using magic**, it has the opposite of its intended effect.
+*Turn their move back on them* is for when a hunter misses a move roll. Whatever they were trying to do happens to them instead. If they were trying to **[[protect someone]]**, they made the danger worse. If they were **investigating a mystery**, they revealed something to the monster. If they were **using magic**, it has the opposite of its intended effect.
 
 *Offer an opportunity, maybe with a cost*. If they need something, offer what they need and tell them what they need to pay for it. For example, maybe the sheriff will let them continue investigating in his town, but only if they guarantee his children’s safety.
 
@@ -3800,9 +3800,9 @@ As well as a failed attempt to deal with a soft move, events in play can turn ou
 
 *Handing you a golden opportunity* is a situation where, for example, the hunter says, “I leap down into the horde of zombies!” If you inflict 4-[[harm]] on them from zombie bites and clawing, that’s too bad: they knew what they were getting into.
 
-*Missing a roll* (with a total of six or less) is *always* a time when you can make a hard move. The hunter’s screwed something up badly, so do whatever you need to. For example, if a hunter tries to **protect someone** and blows it, then you can inflict [[harm]] on the victim, maybe even kill them: make whatever was threatened come to pass.
+*Missing a roll* (with a total of six or less) is *always* a time when you can make a hard move. The hunter’s screwed something up badly, so do whatever you need to. For example, if a hunter tries to **[[protect someone]]** and blows it, then you can inflict [[harm]] on the victim, maybe even kill them: make whatever was threatened come to pass.
 
-The last one’s a different case. When *someone has used all their Luck*, they become ‘doomed’. This means you are allowed to make hard [[moves]] against them any time. For example, let’s say a hunter says “I’ll go check out the camp site” and you know the yeti have set up an ambush there. Normally it would make sense to give them a chance to spot this, for instance by asking if they want to **read a bad situation** as they approach. But if the hunter is doomed (and doesn’t make a point of checking for danger), then you can choose to make a hard move, which means they only find out when two yeti grab them.
+The last one’s a different case. When *someone has used all their Luck*, they become ‘doomed’. This means you are allowed to make hard [[moves]] against them any time. For example, let’s say a hunter says “I’ll go check out the camp site” and you know the yeti have set up an ambush there. Normally it would make sense to give them a chance to spot this, for instance by asking if they want to **[[read a bad situation]]** as they approach. But if the hunter is doomed (and doesn’t make a point of checking for danger), then you can choose to make a hard move, which means they only find out when two yeti grab them.
 
 These situations are times when you are *justified* making as hard a move as you like. You don’t *have* to, but you can. Always refer back to your agenda and principles when you make these choices.
 
@@ -3930,7 +3930,7 @@ Here’s the move:
 
 *This covers trying to do something under conditions of particular stress or danger. [[Examples]] of acting under pressure are: staying on task while a banshee screams at you; barricading a door before the giant rats catch up; resisting the mental domination of a brain-worm; fighting on when you’re badly injured.*
 
-*When you [[Act Under Pressure]], roll +Cool.*
+*When you [[Act Under Pressure]], roll [[+Cool]].*
 
 - *On a 10+ you do what you set out to.*
 - *On a 7-9 [[the Keeper]] is going to give you a worse outcome, hard choice, or price to pay.*
@@ -3954,7 +3954,7 @@ On a miss, then whatever the pressure has overwhelmed the hunter.
 
 Here’s the move:
 
-*When you* ***help another hunter*** *with a move they are making, roll +Cool.*
+*When you* ***help another hunter*** *with a move they are making, roll [[+Cool]].*
 
 - *On a 10+ your help grants them +1 to their roll.*
 - *On a 7-9 your help grants them +1 to their roll, but you also expose yourself to trouble or danger.*
@@ -3964,7 +3964,7 @@ This is used when a hunter wants to help another hunter make a move. Helping wil
 
 Make sure they tell you what concrete action they are taking to [[Help Out]]. If they can’t think of how they help, then they don’t get to do it. You should also make sure their actions actually do help in the game, too. For example, helping with an attack might allow the helper to add their weapon’s [[harm]] to the injury the first hunter inflicts on the monster.
 
-A result of 7-9 means that the hunter succeeds in helping, but exposes themselves to trouble. A lot of the time this trouble will be obvious, as when they are helping someone **kick some ass**. Here you could inflict [[harm]] on both of [[the hunters]]. In other cases the trouble will be less obvious, such as a when trying to help **investigate a mystery** by interviewing witnesses: this might lead to hostile rumours circulating about the hunter later on, or make an enemy of a witness.
+A result of 7-9 means that the hunter succeeds in helping, but exposes themselves to trouble. A lot of the time this trouble will be obvious, as when they are helping someone **[[kick some ass]]**. Here you could inflict [[harm]] on both of [[the hunters]]. In other cases the trouble will be less obvious, such as a when trying to help **[[investigate a mystery]]** by interviewing witnesses: this might lead to hostile rumours circulating about the hunter later on, or make an enemy of a witness.
 
 On a miss, the help does no good and the helper exposes themselves to trouble or danger. This could be the same as the danger of the move being helped, or something else entirely.
 
@@ -3992,7 +3992,7 @@ Here’s the move:
 
 *It’s important that your attempts to investigate (and the results you get from them) are plausible and consistent with what’s happening. For example, if you’re using laboratory equipment to investigate evidence, you probably won’t be able to learn anything about the monster’s magical origins.*
 
-The **investigate a mystery** move will be used frequently. When [[the hunters]] begin each new mystery, they will have (at best) a vague idea of what they’re hunting. Investigation is the main way to find out what’s going on, where the monster is, who they need to protect, and anything else they need to know.
+The **[[investigate a mystery]]** move will be used frequently. When [[the hunters]] begin each new mystery, they will have (at best) a vague idea of what they’re hunting. Investigation is the main way to find out what’s going on, where the monster is, who they need to protect, and anything else they need to know.
 
 The move covers any investigation technique [[the hunters]] can think of: interviewing witnesses, sending monster DNA to the lab, tracking it through the alleys, looking at a dead body and reconstructing what happened, looking through ancient tomes of monster lore, and hacking into police databases. These are all legitimate ways to investigate.
 
@@ -4028,7 +4028,7 @@ The investigation:
 
 **Mary** (speaking as Mark): *“So, what did the witness have to say about the attacker? I’m interested in anything, even if it’s kinda weird.”*
 
-**Alan:** *Okay, roll* ***investigate a mystery*** *for me.*
+**Alan:** *Okay, roll* ***[[investigate a mystery]]*** *for me.*
 
 *Mary rolls the dice and adds Mark’s Sharp.*
 
@@ -4072,7 +4072,7 @@ The investigation:
 
 Here’s the move:
 
-*When you get into a fight and* ***kick some ass**, roll +Tough.*
+*When you get into a fight and* ***[[kick some ass]]**, roll +Tough.*
 
 *On any success (i.e., total 7 or more) you inflict [[harm]] on (and suffer [[harm]] from) whatever you’re fighting. The amount of [[harm]] is based on the established dangers in the game. That usually means you inflict the [[harm]] rating of your weapon and your enemies inflict their attack’s [[harm]] rating on you.*
 
@@ -4091,7 +4091,7 @@ By default when a hunter **kicks ass** both sides inflict [[harm]] as establishe
 
 *For example, Hoss the hunter is going to shoot a zombie with his shotgun (harm-3 close load messy reload), while the zombie is trying to bite Hoss (the zombie’s bite attack is rated “2-[[harm]] hand”). If the zombie is still out of reach (i.e. out of hand range), Hoss will inflict 3-[[harm]] on it but be safe from the zombie’s bite. Once the zombie is right up in Hoss’s face, then Hoss can still blast it for 3-[[harm]] and this time the zombie can bite him back for 2-[[harm]].*
 
-Don’t automatically call for this move any time a hunter attacks something. If a hunter attacks a foe that cannot (or will not) fight back, then it is appropriate to just use [[the Keeper]] move **inflict [[harm]] as established** instead. What the hunter’s doing could also be a move like **protect someone** or **act under pressure** (or another move altogether): use what the player has stated the hunter’s intentions are and the actions they’ve described the hunter taking to determine what makes sense.
+Don’t automatically call for this move any time a hunter attacks something. If a hunter attacks a foe that cannot (or will not) fight back, then it is appropriate to just use [[the Keeper]] move **inflict [[harm]] as established** instead. What the hunter’s doing could also be a move like **[[protect someone]]** or **[[act under pressure]]** (or another move altogether): use what the player has stated the hunter’s intentions are and the actions they’ve described the hunter taking to determine what makes sense.
 
 On a success of 10+, the hunter gets to pick an extra effect. Always ask them what happened.
 
@@ -4103,7 +4103,7 @@ If the hunter suffers less [[harm]], then reduce the [[harm]] the enemy inflicts
 
 If the hunter forces the enemy where they want them, this will allow them to push the bad guys wherever they want. Be generous with this, as long as it’s consistent with what is happening in the game: you can’t drive the [[monsters]] out if they’re in a dead end, for instance.
 
-When a hunter misses on **kick some ass**, they’re usually going to be in a lot of trouble. Your move doesn’t always have to be **inflict [[harm]] as established**. Sometimes your other [[moves]] can apply too: maybe the hunter gets captured, or the monster gets a chance to flee the fight.
+When a hunter misses on **[[kick some ass]]**, they’re usually going to be in a lot of trouble. Your move doesn’t always have to be **inflict [[harm]] as established**. Sometimes your other [[moves]] can apply too: maybe the hunter gets captured, or the monster gets a chance to flee the fight.
 
 [[Manipulate Someone]]
 
@@ -4127,7 +4127,7 @@ Here’s the move:
 - *On a 7-9, they mark experience if they do what you ask.*
 - *On a miss, it’s up to that hunter to decide how badly you offend or annoy them. They mark experience if they do not do what you asked.*
 
-Here’s the most important thing to remember about the **manipulate someone** move: the hunter needs to offer something that makes the target willing to do what the hunter asks.
+Here’s the most important thing to remember about the **[[manipulate someone]]** move: the hunter needs to offer something that makes the target willing to do what the hunter asks.
 
 This doesn’t mean it should be hard. It can be enough for a hunter to pretend to be a police officer, or say “I’ll look after you,” or promise to [[Help Out]] later.
 
@@ -4141,9 +4141,9 @@ If the hunter promises something as part of manipulating someone, but then fails
 
 **MANIPULATING [[MONSTERS]]**
 
-By default [[the hunters]] can’t manipulate [[monsters]]. Even if a monster can talk and reason, it cannot be trusted to keep its word. You should certainly allow [[the hunters]] to make a deal with a monster, if they try to, but they do not get to roll **manipulate someone** and they certainly will not get a guarantee that the monster will [[hold]] up its end of the bargain. From the monster’s point of view, hunters wanting to make a deal are probably in a weak position so this is a great opportunity to take advantage of them.
+By default [[the hunters]] can’t manipulate [[monsters]]. Even if a monster can talk and reason, it cannot be trusted to keep its word. You should certainly allow [[the hunters]] to make a deal with a monster, if they try to, but they do not get to roll **[[manipulate someone]]** and they certainly will not get a guarantee that the monster will [[hold]] up its end of the bargain. From the monster’s point of view, hunters wanting to make a deal are probably in a weak position so this is a great opportunity to take advantage of them.
 
-The only exception is when a hunter move explicitly allows it (such as [[the Monstrous]] move **dark negotiator**). If a hunter has a move allowing this, then **manipulate** works as normal (although what a monster wants in return could be quite unpleasant).
+The only exception is when a hunter move explicitly allows it (such as [[the Monstrous]] move **[[dark negotiator]]**). If a hunter has a move allowing this, then **manipulate** works as normal (although what a monster wants in return could be quite unpleasant).
 
 [[Minions]] may or may not be vulnerable to manipulation. If the minion is a normal human working for a monster, then hunters can manipulate them fine. The other extreme are [[minions]] who can’t understand speech and may not be capable of making deals, such as brain-eating zombies or a malevolent fungus. Make decisions for the in-between cases as they come up, and remember that the minion might want something nasty in return for doing what the hunter asks.
 
@@ -4164,9 +4164,9 @@ Here’s the move:
 
 *On a miss, then you end up making things worse.*
 
-This can be used any time someone is about to suffer [[harm]], including as the result of another move (i.e. a **kick some ass** move that means a hunter is going to suffer [[harm]]).
+This can be used any time someone is about to suffer [[harm]], including as the result of another move (i.e. a **[[kick some ass]]** move that means a hunter is going to suffer [[harm]]).
 
-As with **help out**, always ask the hunter how they are going to protect *this* person in *this* situation.
+As with **[[help out]]**, always ask the hunter how they are going to protect *this* person in *this* situation.
 
 By default, any success means that the hunter has successfully protected the target (so the target is not harmed at all) but the hunter will suffer [[harm]] instead (usually, but not always, the same [[harm]]).
 
@@ -4180,13 +4180,13 @@ If they choose to “inflict [[harm]] on the enemy,” they get to [[harm]] an e
 
 If they choose “[[Hold]] the enemy back” then the bad guys can’t get past the hunter. Other hunters, or even [[bystanders]], may help fight from this position if it makes sense. This works best when defending a small space like a doorway. If [[the hunters]] are in the open, the bad guys will be able to work their way around them eventually.
 
-Missing a **protect someone** roll is very bad. In general, [[harm]] to both the original victim and the hunter is a good choice. Things could be even worse, e.g. the target might be captured as well. As with **kick some ass**, when things go bad here, they go *really* bad. Feel free to inflict [[harm]] as established and follow up with a hard move.
+Missing a **[[protect someone]]** roll is very bad. In general, [[harm]] to both the original victim and the hunter is a good choice. Things could be even worse, e.g. the target might be captured as well. As with **[[kick some ass]]**, when things go bad here, they go *really* bad. Feel free to inflict [[harm]] as established and follow up with a hard move.
 
 [[Read A Bad Situation]]
 
 Here’s the move:
 
-*When you look around and* ***read a bad situation**, roll +Sharp.*
+*When you look around and* ***[[read a bad situation]]**, roll +Sharp.*
 
 *On a 10+ [[hold]] 3, and on a 7-9 [[hold]] 1.*
 
@@ -4213,7 +4213,7 @@ Misses can also give you a chance to put [[the hunters]] into danger—for examp
 
 Here’s the move:
 
-*When you* ***use magic**, say what you’re trying to achieve and how you do the spell, then roll +Weird.*
+*When you* ***[[use magic]]**, say what you’re trying to achieve and how you do the spell, then roll +Weird.*
 
 - *If you get a 10+, the magic works without issues: choose your effect.*
 - *On a 7-9, it works imperfectly: choose your effect and a glitch. [[The Keeper]] will decide what effect the glitch has.*
@@ -4242,7 +4242,7 @@ Here’s the move:
 - *The magic draws immediate, unwelcome attention.*
 - *It has a problematic side effect.*
 
-*The Keeper may require one or more of the following:*
+*[[The Keeper]] may require one or more of the following:*
 
 - *The spell requires weird materials.*
 - *The spell will take 10 seconds, 30 seconds, or 1 minute to cast.*
@@ -4251,7 +4251,7 @@ Here’s the move:
 - *You need one or two people to help cast the spell.*
 - *You need to refer to a tome of magic for the details.*
 
-Magic, by its nature, breaks the rules. The **use magic** move lists the possible effects for magic spells. Magic that goes beyond these effects counts as **big magic** (see below).
+Magic, by its nature, breaks the rules. The **[[use magic]]** move lists the possible effects for magic spells. Magic that goes beyond these effects counts as **[[big magic]]** (see below).
 
 When a hunter **uses magic**, it’s important to ask them what they’re trying to do (and work out which of the effects they are trying for). Ask the hunter how they cast the spell, and what it looks like too.
 
@@ -4281,17 +4281,17 @@ For a more super-heroic game, going ‘beyond human limitations’ might include
 
 So, when a hunter wants to exceed human limitations, think carefully about what allowing their desired effect in this case implies for your entire game. You can think of your decisions about this as a dial that determines how much power [[the hunters]] can get from everyday magic spells.
 
-If you think the desired effect is too powerful, tell them they would have to do it with by using a **big magic** ritual instead).
+If you think the desired effect is too powerful, tell them they would have to do it with by using a **[[big magic]]** ritual instead).
 
 [[Big Magic]]
 
-The rules for the **use magic** move are constrained, but **big magic** is not. **Big magic** is for everything else, from curing someone of vampirism to opening a gate to another dimension.
+The rules for the **[[use magic]]** move are constrained, but **[[big magic]]** is not. **[[Big magic]]** is for everything else, from curing someone of vampirism to opening a gate to another dimension.
 
-The only limits on **big magic** are those that have been established in your game. For example, it may be that you decided magic never allows anyone to travel into the past.
+The only limits on **[[big magic]]** are those that have been established in your game. For example, it may be that you decided magic never allows anyone to travel into the past.
 
 Even these established rules might be broken if there is a strong enough reason in the story. For example, [[the hunters]] might realise that the *only* way to defeat a monster is to go back in time to when it was weaker. If you reveal that a limit can be broken in certain circumstances, think about what this reveals about the world. This sort of event should always be a big deal, with big repercussions in your story. In our time travel example, maybe travel into the past changes the timeline irrevocably; or maybe the rule being broken unleashes an angry time god on [[the hunters]].
 
-When [[the hunters]] want to do **big magic**, you decide what it requires, the same as when someone uses magic normally. Once [[the hunters]] meet the requirements, the spell happens successfully, without a roll. Here are the options for requirements that you can choose from:
+When [[the hunters]] want to do **[[big magic]]**, you decide what it requires, the same as when someone uses magic normally. Once [[the hunters]] meet the requirements, the spell happens successfully, without a roll. Here are the options for requirements that you can choose from:
 
 - Spend a lot of time (days or weeks) researching the magic ritual.
 - Experiment with the spell—there will be lots of failures before you get it right.
@@ -4299,7 +4299,7 @@ When [[the hunters]] want to do **big magic**, you decide what it requires, the 
 - It will take a long time (hours or days) to cast.
 - The hunter needs a lot of people (2, 3, 7, 13, or more) to help.
 - It needs to be done at a particular place and/or time.
-- You need to **use magic** as part of the ritual, perhaps to summon a monster, communicate with something, or bar the portal you opened.
+- You need to **[[use magic]]** as part of the ritual, perhaps to summon a monster, communicate with something, or bar the portal you opened.
 - It will have a specific side effect or danger.
 
 You can pick multiple requirements, that all need to be satisfied:
@@ -4326,11 +4326,11 @@ If the action is something a normal person could do, then you can just accept it
 
 If it’s something that [[moves]] the mystery along, and you can’t think of how rolling dice for it will be more interesting than just accepting it, that’s another case where it’s best for them to just do it.
 
-If it’s something that a normal person could do, but it’s really hard and/or dangerous, ask them to **act under pressure**.
+If it’s something that a normal person could do, but it’s really hard and/or dangerous, ask them to **[[act under pressure]]**.
 
-If it’s something that a normal person couldn’t do at all, then you can ask them to **use magic**, or **big magic**.
+If it’s something that a normal person couldn’t do at all, then you can ask them to **[[use magic]]**, or **[[big magic]]**.
 
-In fact, **act under pressure** and **use magic** are intended to be catch-alls. If you can’t work out which move to use, one of these two will usually work.
+In fact, **[[act under pressure]]** and **[[use magic]]** are intended to be catch-alls. If you can’t work out which move to use, one of these two will usually work.
 
 Another alternative is to quickly make up a custom move for this particular situation. Only do this if you think it will come up again, and only once you are comfortable enough with the [[moves]] that you can do this quickly. There’s a section on making [[custom moves]] on [[0000915624]].
 
@@ -4382,15 +4382,15 @@ The heart of the game is seeing what [[the hunters]] decide when they’ve only 
 There are any number of ways you can do this. Here are some of my favourites:
 
 - a monster’s weakness that is terrible to take advantage of.
-- a **big magic** ritual that has nasty stuff for its requirements.
+- a **[[big magic]]** ritual that has nasty stuff for its requirements.
 - a monster that is, in its way, a victim.
 - a simple but awful solution to the mystery’s central problem.
 
 Call For [[Moves]]
 
-Call for **investigate** and **manipulate** [[moves]] when [[the hunters]] look for clues. And if they go somewhere dangerous, suggest that they might want to **read a bad situation**.
+Call for **investigate** and **manipulate** [[moves]] when [[the hunters]] look for clues. And if they go somewhere dangerous, suggest that they might want to **[[read a bad situation]]**.
 
-If a hunter wants to do some crazy, impossible stuff then remind them they can **use magic** for that sort of thing.
+If a hunter wants to do some crazy, impossible stuff then remind them they can **[[use magic]]** for that sort of thing.
 
 Use Your Keeper [[Moves]]
 
@@ -4400,14 +4400,14 @@ Respond to [[the hunters]]’ actions with your Keeper and [[threat moves]]. Mak
 
 Recall that when a hunter misses a move roll (that is, their total is six or less), you get to respond with a move of your own (and it can be a hard move):
 
-- For **act under pressure**, things go to hell for the hunter.
-- For **help out**, the hunter exposes themselves to trouble or danger.
-- For **kick some ass**, the hunter gets their ass kicked.
-- For **protect someone**, the hunter makes things worse.
-- For **manipulate someone**, the hunter angers or offends the target.
-- For **investigate a mystery**, the hunter reveals something to the monster or whoever they are talking to.
-- For **read a bad situation**, the hunter reads the situation all wrong or reveals tactical details to their enemies.
-- For **use magic**, the hunter loses control of the magic and anything can happen.
+- For **[[act under pressure]]**, things go to hell for the hunter.
+- For **[[help out]]**, the hunter exposes themselves to trouble or danger.
+- For **[[kick some ass]]**, the hunter gets their ass kicked.
+- For **[[protect someone]]**, the hunter makes things worse.
+- For **[[manipulate someone]]**, the hunter angers or offends the target.
+- For **[[investigate a mystery]]**, the hunter reveals something to the monster or whoever they are talking to.
+- For **[[read a bad situation]]**, the hunter reads the situation all wrong or reveals tactical details to their enemies.
+- For **[[use magic]]**, the hunter loses control of the magic and anything can happen.
 
 Remind [[the hunters]] that they can **help** each other, too, especially if someone just missed a roll by one (help can be given after a roll has been made). However **help** bonuses do not stack (e.g if three hunters successfully **help**, they don’t give a +3 bonus).
 
@@ -4446,7 +4446,7 @@ Try to hurt [[the hunters]]: they have plenty of Luck at the beginning so they a
 
 Keeping [[Fights]] Interesting
 
-There are going to be a lot of [[fights]], and you need to keep them novel. It’s easy to fall into giving everyone a turn, [[the hunters]] each rolling **kick some ass** one at a time, but that’s dull.
+There are going to be a lot of [[fights]], and you need to keep them novel. It’s easy to fall into giving everyone a turn, [[the hunters]] each rolling **[[kick some ass]]** one at a time, but that’s dull.
 
 I’m going to present a variety of techniques to keep fight scenes exciting. Use them in your game (with your Keeper [[moves]]) whenever you can. The techniques are:
 
@@ -4471,7 +4471,7 @@ Take a moment to work out what the combatants want to achieve, and that will hel
 
 When a fight starts, pick who gets the first move, and base your decision both on what’s happening and in accordance with your agenda and principles.
 
-If a hunter just missed a **read a bad situation** roll, maybe the first she knows about the troll is when it attacks. Conversely, if [[the hunters]] have made a concerted effort to infiltrate a lair undetected, they’ll be the ones attacking without warning.
+If a hunter just missed a **[[read a bad situation]]** roll, maybe the first she knows about the troll is when it attacks. Conversely, if [[the hunters]] have made a concerted effort to infiltrate a lair undetected, they’ll be the ones attacking without warning.
 
 Other times, both sides are aware of each other. Use your common sense here, and base the decision on what’s happening, as always in accordance with your agenda and principles.
 
@@ -4499,15 +4499,15 @@ Drawing a map is a good idea, and will give everyone an agreed picture of the sp
 
 Pay attention to the tags of the [[weapons]] used in the fight, so you can work them into your descriptions of what’s going on. Many of the weapon tags can influence the direction of the fight and the story in unpredictable directions. As well as [[the hunters]]’ weapon tags, use the monster’s and [[minions]]’ attack tags.
 
-Make sure that you take weapon range tags into account, too. If a weapon is being used out of its normal range, that will be a disadvantage to the wielder. That might prevent it from being used at all, or it might be less effective (e.g. causing less [[harm]] than usual, or requiring an **act under pressure** to use it properly).
+Make sure that you take weapon range tags into account, too. If a weapon is being used out of its normal range, that will be a disadvantage to the wielder. That might prevent it from being used at all, or it might be less effective (e.g. causing less [[harm]] than usual, or requiring an **[[act under pressure]]** to use it properly).
 
 **BE CREATIVE WITH [[MOVES]]**
 
 Vary [[the Keeper]] [[moves]] you use. If you find yourself repeating the same sort of thing, take a moment to check [[the Keeper]] [[moves]] list and think about what else could happen right now.
 
-Call for [[the hunters]] to use **act under pressure**, **help out**, **protect someone**, and **read a bad situation** whenever an opportunity comes up, so [[the hunters]] do not just use **kick some ass** all the time.
+Call for [[the hunters]] to use **[[act under pressure]]**, **[[help out]]**, **[[protect someone]]**, and **[[read a bad situation]]** whenever an opportunity comes up, so [[the hunters]] do not just use **[[kick some ass]]** all the time.
 
-Remember that you can also use the move **inflict [[harm]] as established**. If an attack doesn’t require the hunter to expose themselves to danger, just let them **inflict [[harm]]** instead of asking them to **kick some ass**.
+Remember that you can also use the move **inflict [[harm]] as established**. If an attack doesn’t require the hunter to expose themselves to danger, just let them **inflict [[harm]]** instead of asking them to **[[kick some ass]]**.
 
 Make sure [[the hunters]] always describe what they are doing in detail. If they’ve used enough detail, you’ll find it easy to work out how to react.
 
@@ -4517,7 +4517,7 @@ When a hunter misses a move roll, think a little about what could go wrong, give
 
 *Terry (playing the hunter Isis) says “I shoot the cyclops slug.” You can ask “Okay, where do you shoot it?” or “Are you leaning around the doorframe or coming into the passage to get a clear shot?” or “Is it a carefully aimed shot or quick shot?”*
 
-*If Isis misses her **kick some ass** roll, then you can react based on the answer:*
+*If Isis misses her **[[kick some ass]]** roll, then you can react based on the answer:*
 
 - *If she shot it in the face, it could blind the single eye.*
 - *If she shot it in the body, it can’t come at her so fast.*
@@ -4538,7 +4538,7 @@ If some of [[the hunters]] don’t join the fighting, ask them what they’re do
 
 **DON’T DRAG THINGS OUT**
 
-Don’t be afraid to resolve [[fights]] quickly, especially if [[the hunters]] are fighting outclassed [[minions]], or a difficult bystander. One successful **kick some ass** can be enough to win an easy fight. Remember that many [[minions]] and most [[bystanders]] won’t just fight to the death: they might surrender or flee after a single hit.
+Don’t be afraid to resolve [[fights]] quickly, especially if [[the hunters]] are fighting outclassed [[minions]], or a difficult bystander. One successful **[[kick some ass]]** can be enough to win an easy fight. Remember that many [[minions]] and most [[bystanders]] won’t just fight to the death: they might surrender or flee after a single hit.
 
 **USE SOFT [[MOVES]]**
 
@@ -4615,7 +4615,7 @@ While the injuries are unstable, you may tell the hunter they take another point
 
 If an unstable wound has been left for a day and you haven’t added any more [[harm]] yet, do it then.
 
-**MINIONS, [[BYSTANDERS]] AND [[HARM]]**
+**[[MINIONS]], [[BYSTANDERS]] AND [[HARM]]**
 
 For [[minions]] and [[bystanders]], you don’t have to track wounds in detail. You can just make a call based on each injury: is this enough to take them out of the fight? Is this enough to kill them? Make the decision about the injury’s severity based on your usual Keeper’s agenda and principles, and (for [[minions]]) based on the [[harm]] capacity you picked for them.
 
@@ -4754,7 +4754,7 @@ Our cast is:
 
 **Alan:** *Yeah, so you shoot it in the face a couple of times and it doesn’t even slow down. It grabs your shoulders and comes in to bite.*
 
-*Because Cray’s* **kick some ass** *move failed, Alan is responding with* **inflict [[harm]], as established***.*
+*Because Cray’s* **[[kick some ass]]** *move failed, Alan is responding with* **inflict [[harm]], as established***.*
 
 **Mary:** *Can Mark get a shot now? Before it bites him?*
 
@@ -4762,17 +4762,17 @@ Our cast is:
 
 **Mary:** *Can I knock its face away?*
 
-**Alan:** *With the rifle butt? Yes, that might work. Roll... This seems like it will interrupt the attack, so roll* ***protect someone**.*
+**Alan:** *With the rifle butt? Yes, that might work. Roll... This seems like it will interrupt the attack, so roll* ***[[protect someone]]**.*
 
 **Mary:** *Sweet, I use* ***Never again*** *to make it like I rolled a 10. As usual, all impending danger on me.*
 
-*The vampire’s bite was interrupted by Mark’s* **protect someone** *move, so Cray doesn’t suffer [[harm]].*
+*The vampire’s bite was interrupted by Mark’s* **[[protect someone]]** *move, so Cray doesn’t suffer [[harm]].*
 
 **Mary** (speaking as Mark): *“Bring it!”*
 
 **Alan:** *Okay, so you smash its face, and it spins Cray out the way and comes for you. It smashes you up against the wall on the far side of the hallway, and you notice you go a ways into the plaster. Now what?*
 
-*This is [[the Keeper]] move* **inflict [[harm]], as established** *and the effects of the successful* **protect someone** *move.*
+*This is [[the Keeper]] move* **inflict [[harm]], as established** *and the effects of the successful* **[[protect someone]]** *move.*
 
 *Mary notes down that Mark took 2-[[harm]].*
 
@@ -4784,7 +4784,7 @@ Our cast is:
 
 **Mary:** *Sure, I drop the rifle as I fly back and scramble for my sawn-off. BLAM! Both barrels, sucker!*
 
-**Alan:** *Okay, roll* ***kick some ass**. It’s trying to get with the biting on you, but it’s going for inside your elbow rather than your neck, grabbing for your arm as you shoot.*
+**Alan:** *Okay, roll* ***[[kick some ass]]**. It’s trying to get with the biting on you, but it’s going for inside your elbow rather than your neck, grabbing for your arm as you shoot.*
 
 *Mary rolls and adds Mark’s Tough.*
 
@@ -4808,7 +4808,7 @@ Our cast is:
 
 **Chris:** *Okay, I want to make sure it can’t escape. I’m casting a spell to keep it in here.*
 
-**Alan:** *Sure, you can* ***use magic*** *to bar a place or portal to a monster. I think keeping it from leaving counts. How do you cast this spell? I think you’re going to need at least some weird ingredients.*
+**Alan:** *Sure, you can* ***[[use magic]]*** *to bar a place or portal to a monster. I think keeping it from leaving counts. How do you cast this spell? I think you’re going to need at least some weird ingredients.*
 
 **Chris:** *It’s undead, so I’ll use some goofer dust. I sprinkle it on the door and write mystic symbols in it with my finger.*
 
@@ -4834,7 +4834,7 @@ Our cast is:
 
 **Mary** (as Mark): *“Dammit!” Can I get there in time to save him?*
 
-**Alan:** *Ah... maybe, if you* ***act under pressure**?*
+**Alan:** *Ah... maybe, if you* ***[[act under pressure]]**?*
 
 **Mary:** *Is there like a light hanging above him I can shoot down?*
 
@@ -4844,7 +4844,7 @@ Our cast is:
 
 **Alan:** *Yeah, when the light fitting comes down, it smashes on top of it, and the vampire drops Jerry and just looks at you, then starts walking towards you like a gunfighter heading for a showdown.*
 
-*This is the result of the* **protect someone** *move.*
+*This is the result of the* **[[protect someone]]** *move.*
 
 **Alan** (speaking as Lucius): *“Very well! I will take you first.”*
 
@@ -5014,7 +5014,7 @@ Lastly, [[as the game goes on]] you might notice that previously unconnected fac
 
 *Let’s say that there was a particularly annoying werewolf pack leader who eluded [[the hunters]]. She seems like a good choice to start an arc around (especially as the team has a Wronged who is hunting werewolves).*
 
-*The hunters killed most of the werewolf pack, so the leader will definitely [[hold]] a grudge, and she was pretty smart in her tactics, so the idea of her starting a crusade against [[the hunters]] makes perfect sense.*
+*[[The hunters]] killed most of the werewolf pack, so the leader will definitely [[hold]] a grudge, and she was pretty smart in her tactics, so the idea of her starting a crusade against [[the hunters]] makes perfect sense.*
 
 [[Arc Threats]]
 
@@ -5026,7 +5026,7 @@ Lastly, [[as the game goes on]] you might notice that previously unconnected fac
 
 *Nina Keenan. Monster: Queen (motivation: to possess and control). I’ll omit her werewolf powers and weaknesses here, but they will be the same as when she appeared previously (and in keeping with the established rules for werewolves).*
 
-*The Wronged is hunting a werewolf too. His name is George Tovey, but [[The Wronged]] just calls him “the black werewolf.” Let’s put that one here too. This threat was established by the player when she made [[The Wronged]], but it is currently unallocated to any mystery or arc. I’ll add him to this arc now.*
+*[[The Wronged]] is hunting a werewolf too. His name is George Tovey, but [[The Wronged]] just calls him “the black werewolf.” Let’s put that one here too. This threat was established by the player when she made [[The Wronged]], but it is currently unallocated to any mystery or arc. I’ll add him to this arc now.*
 
 *“The Black Werewolf” aka George Tovey. Monster: Torturer (motivation: to hurt and terrify).*
 
@@ -5266,7 +5266,7 @@ A vampire based on the novel *Dracula.*
 **Powers**:
 
 - [[Immortal]].
-- Mesmerism: When **it commands you**, roll +Cool. On a 10+, you can choose whether to do it or not. If you do, mark experience and take +1 [[forward]]. On a 7-9, you can choose whether you do it or not. If you do, mark experience. If you don’t, take +1 the next time he tries to mesmerise you. On a miss, you do what it asks.
+- Mesmerism: When **it commands you**, roll [[+Cool]]. On a 10+, you can choose whether to do it or not. If you do, mark experience and take +1 [[forward]]. On a 7-9, you can choose whether you do it or not. If you do, mark experience. If you don’t, take +1 the next time he tries to mesmerise you. On a miss, you do what it asks.
 - Transform into wolf, bat, or shadow.
 - Extremely strong.
 - Can climb any wall.
@@ -5277,11 +5277,11 @@ A vampire based on the novel *Dracula.*
 
 **Attacks**: Punch/throw: 4-[[harm]] hand; Bite: 3-[[harm]] intimate vampiric.
 
-**Armour**: Physical toughness: 1-[[armour]].
+**[[Armour]]**: Physical toughness: 1-[[armour]].
 
 **Weaknesses**: Must subsist on human blood. Must sleep in the soil of his homeland. A wooden stake through the heart. Decapitation.
 
-**Harm capacity**: 9 [[harm]].
+**[[Harm]] capacity**: 9 [[harm]].
 
 **A MONSTROSITY FROM BEYOND**
 
@@ -5296,11 +5296,11 @@ This is an alien being. It has no name. It looks like a collection of moving sha
 
 **Attacks:** Devour memory: 3-[[harm]] ignore [[armour]] 1-memory; Tendril lash: 4-[[harm]] close ignore-[[armour]] phasing.
 
-**Armour:** Its semi-physical body counts as 2-[[armour]].
+**[[Armour]]:** Its semi-physical body counts as 2-[[armour]].
 
 **Weaknesses:** Its form can be disrupted by high energy (e.g. intense heat, industrial-voltage electricity, high powered laser, etc.).
 
-**Harm capacity:** 12 [[harm]].
+**[[Harm]] capacity:** 12 [[harm]].
 
 **UHUL, DEMON PRINCE**
 
@@ -5316,11 +5316,11 @@ Uhul is immensely powerful, and hard to call to Earth. It’s even harder to ban
 
 **Attacks:** Fisticuffs: 2-[[harm]] hand; Demonic talons: 4-[[harm]] hand; Barbed iron spear: 5-[[harm]] hand close heavy.
 
-**Armour:** 1-[[armour]] (just generally hard to hurt).
+**[[Armour]]:** 1-[[armour]] (just generally hard to hurt).
 
-**Weaknesses:** A specific **big magic** banishing ritual (requires 7 people, some rare crystals, requires **use magic** to banish Uhul, and takes 4 hours to cast).
+**Weaknesses:** A specific **[[big magic]]** banishing ritual (requires 7 people, some rare crystals, requires **[[use magic]]** to banish Uhul, and takes 4 hours to cast).
 
-**Harm capacity:** 12 [[harm]].
+**[[Harm]] capacity:** 12 [[harm]].
 
 **A VRYKOLAKAS, A BALKAN VAMPIRE**
 
@@ -5339,11 +5339,11 @@ A vrykolakas sleeps in its den (any place that won’t be disturbed) during the 
 
 **Attacks:** Claws: 1-[[harm]] hand messy; Teeth: 1-[[harm]] intimate contagious (‘contagious’ gives the victim the wasting illness).
 
-**Armour:** 2-[[armour]]
+**[[Armour]]:** 2-[[armour]]
 
 **Weaknesses:** Sleeps in its grave on Saturday; Fire; Decapitation.
 
-**Harm capacity:** 10 [[harm]].
+**[[Harm]] capacity:** 10 [[harm]].
 
 **SPORE TROLL**
 
@@ -5358,15 +5358,15 @@ Spore trolls are fungal creatures that grow when an animal is infected with spec
 
 **Attacks:** SMASH!: 3-[[harm]] hand messy; Cutting lash: 2-[[harm]] close.
 
-**Armour:** 2 [[armour]].
+**[[Armour]]:** 2 [[armour]].
 
 **Weaknesses:** Link to the fungus-queen-mass: destroying the queen-mass or severing the mental link allows the spore troll to be destroyed.
 
-**Harm capacity:** 12 [[harm]].
+**[[Harm]] capacity:** 12 [[harm]].
 
 **A CLASSIC WEREWOLF**
 
-A person can become a werewolf in two ways. They may be cursed (by a **big magic** ritual) or injured by a werewolf but not killed.
+A person can become a werewolf in two ways. They may be cursed (by a **[[big magic]]** ritual) or injured by a werewolf but not killed.
 
 Werewolves transform into wolves on the night of the full moon each month, and run wild, attacking any human or animal prey they find.
 
@@ -5381,11 +5381,11 @@ Although a werewolf is very tough in wolf form, it doesn’t heal any faster tha
 
 **Attacks:** Human—as normal; Wolf—Bite: 2-[[harm]] hand; Wolf—Rend: 3-[[harm]] hand messy.
 
-**Armour:** Human—none; Wolf—1-[[armour]].
+**[[Armour]]:** Human—none; Wolf—1-[[armour]].
 
 **Weaknesses:** Silver; Wolfsbane.
 
-**Harm capacity:** Human: 7 [[harm]]; Wolf: 18 [[harm]].
+**[[Harm]] capacity:** Human: 7 [[harm]]; Wolf: 18 [[harm]].
 
 **THE DE-IDENTIFIER**
 
@@ -5401,15 +5401,15 @@ An entity from another dimension that feeds on what makes any thing distinguisha
 
 **Attacks:** Take away individuality 0-[[harm]] concentration hand (see below).
 
-**Armour:** None.
+**[[Armour]]:** None.
 
-**Weaknesses:** Identity (if [[the hunters]] somehow name it, they may kill it; this will require **big magic** or a very creative plan); Banishment (it may be sent back to its own dimension permanently).
+**Weaknesses:** Identity (if [[the hunters]] somehow name it, they may kill it; this will require **[[big magic]]** or a very creative plan); Banishment (it may be sent back to its own dimension permanently).
 
-**Harm capacity:** 7-[[harm]].
+**[[Harm]] capacity:** 7-[[harm]].
 
 **Custom [[moves]]**:
 
-**Take Away Individuality:** when it touches something, the De-Identifier takes away aspects of the entity that may be used to tell it apart from others of its kind. Entities with their individuality taken away are still whole, so [[the hunters]] can interact with such objects or talk to such people, etc. However, it will be impossible recall anything to help find that object or person again (only **use magic** or **big magic** will supersede this effect). If any hunter is successfully targetted by this custom move, take away a single thing that distinguishes them each time—their name, or an aspect of their look. When a hunter’s name and all look choices are gone, they are completely de-individualised. Recovery of these things will require **big magic**.
+**Take Away Individuality:** when it touches something, the De-Identifier takes away aspects of the entity that may be used to tell it apart from others of its kind. Entities with their individuality taken away are still whole, so [[the hunters]] can interact with such objects or talk to such people, etc. However, it will be impossible recall anything to help find that object or person again (only **[[use magic]]** or **[[big magic]]** will supersede this effect). If any hunter is successfully targetted by this custom move, take away a single thing that distinguishes them each time—their name, or an aspect of their look. When a hunter’s name and all look choices are gone, they are completely de-individualised. Recovery of these things will require **[[big magic]]**.
 
 **CHUPACABRAS**
 
@@ -5427,11 +5427,11 @@ Individually, chupacabras are not very dangerous to a hunter team. However, they
 
 **Attacks:** Bite: 1-[[harm]] hand; Blood-suck: 2-[[harm]] intimate, must bite first.
 
-**Armour:** None.
+**[[Armour]]:** None.
 
 **Weaknesses:** Sunlight; Enclosure (if you can trap it within a given area, it may not night-walk away and may be killed).
 
-**Harm capacity:** 5-[[harm]].
+**[[Harm]] capacity:** 5-[[harm]].
 
 **GHOUL**
 
@@ -5445,18 +5445,18 @@ Ghouls usually seem to have a low intelligence: only interested in eating and ho
 
 **Powers:**
 
-- **Immortal**: Ghouls do not age.
+- **[[Immortal]]**: Ghouls do not age.
 - **Tunnels Beneath**: Ghouls delve systems of tunnels beneath graveyards, first to access the flesh of the dead, but they may also travel great distances (sometimes even through time) via these passages.
 - **Rubbery Flesh**: The sinews and body of a ghoul is strong and tough. Hunters who attempt to contest with a ghoul in brute strength take -1 [[ongoing]].
 - **Creature of the Night**: Ghouls can see perfectly well in the dark, but bright light dazzles them.
 
 **Attacks:** Grabbing claws (1-[[harm]] hand), Rending teeth (1-[[harm]] intimate).
 
-**Armour:** The rubbery flesh of a ghoul counts as 1-[[armour]].
+**[[Armour]]:** The rubbery flesh of a ghoul counts as 1-[[armour]].
 
 **Weaknesses:** Sunlight.
 
-**Harm capacity:** 8 [[harm]].
+**[[Harm]] capacity:** 8 [[harm]].
 
 [[Minions]]
 
@@ -5506,7 +5506,7 @@ They look nasty: strips of muscle, bits of bone, pieces of organs, an eye or thr
 
 **Attacks:** Individuals have an attack of 1-[[harm]] (if rat-sized) or 2-[[harm]], (if cat-sized). There aren’t any bigger ones (yet). If they attack as a group, then they have a 3-[[harm]] area attack. Range is hand/intimate.
 
-**Harm capacity:** 7-[[harm]] will disperse the swarm. Each point of [[harm]] kills one or two individuals.
+**[[Harm]] capacity:** 7-[[harm]] will disperse the swarm. Each point of [[harm]] kills one or two individuals.
 
 **CHUCK THE BARTENDER**
 
@@ -5922,9 +5922,9 @@ Beech has no supernatural powers or abilities beyond those he uses to create his
 
 **Attacks**: (Pre-upgrade) Ineffectual slap: 0-[[harm]] hand; (Post-upgrade) Surgical robot hand: 3-[[harm]] hand slow; (Post-upgrade) Etheric blast: 1-[[harm]] close magic ignores-[[armour]]
 
-**Armour**: (Pre-upgrade) None; (Post-upgrade) 2-[[armour]].
+**[[Armour]]**: (Pre-upgrade) None; (Post-upgrade) 2-[[armour]].
 
-**Harm capacity**: 7. Okay bbbb|bbb Dying Unstable: b
+**[[Harm]] capacity**: 7. Okay bbbb|bbb Dying Unstable: b
 
 **Weaknesses**: **Gloating monologue:** Dr Beech cannot be defeated until [[the hunters]] have listened to him rant about his evil plans; (Post-upgrade) **Etheric-Bionic Control Interface:** If the interface is disrupted with magic or electromagnetic energy, Dr Beech will no longer be able to control the bionics and is vulnerable.
 
@@ -5948,7 +5948,7 @@ The Steam Tunnels
 
 The tunnels are the only way [[the hunters]] can get to Dr Beech’s lab, and they have been rigged to repel intruders with ambushes. Beech has set up lots of motion detectors and cameras to ensure he’s warned about intruders, and he will send out monkeys to deal with anyone snooping around. The monkeys are equipped with infrared-vision camera eyes, so they can see heat signatures in the total darkness of the tunnels.
 
-The tunnels can be confusing to navigate, so you might want to call for an **act under pressure** move for [[the hunters]] to orientate themselves properly after a monkey attack.
+The tunnels can be confusing to navigate, so you might want to call for an **[[act under pressure]]** move for [[the hunters]] to orientate themselves properly after a monkey attack.
 
 Koko, robo Gorilla (mark 3)
 
@@ -5965,9 +5965,9 @@ Note that Koko was not stolen from the university, but acquired through other me
 
 **Attacks**: **Laser**: 2-[[harm]] hand close far; **Tear limb from limb**: 4-[[harm]] hand messy.
 
-**Armour**: Bionic [[Armour]] Plating: 2-[[armour]].
+**[[Armour]]**: Bionic [[Armour]] Plating: 2-[[armour]].
 
-**Harm capacity**: 12. bbbbbbbbbbbb
+**[[Harm]] capacity**: 12. bbbbbbbbbbbb
 
 **Weakness**: **Etheric-Bionic Control Interface:** If the interface is disrupted with magic or electromagnetic energy, Koko will no longer be able to control the bionics and is vulnerable.
 
@@ -5983,9 +5983,9 @@ The chimps are crazy, but smart. They like to sneak about and steal things.
 
 **Attacks**: **Electro-grapple Strike**: 2-[[harm]] close restraining; **Grapple**: 3-[[harm]] intimate hand restraining messy; **Bite**: 2-[[harm]] intimate.
 
-**Armour**: **Bionic [[Armour]] Plating**: 1-[[armour]].
+**[[Armour]]**: **Bionic [[Armour]] Plating**: 1-[[armour]].
 
-**Harm capacity**: 7. bbbbbbb Clara
+**[[Harm]] capacity**: 7. bbbbbbb Clara
 
 bbbbbbb Virgil
 
@@ -6006,9 +6006,9 @@ Beech has around thirty robo-monkeys of various species. The monkeys will tend t
 
 **Attacks**: **Railgun:** 0-3-[[harm]] (depends on ammunition) close far; **Bite:** 2-[[harm]] intimate.
 
-**Armour**: Bionic plating: 1-[[armour]]
+**[[Armour]]**: Bionic plating: 1-[[armour]]
 
-**Harm capacity**: Each group: 5.
+**[[Harm]] capacity**: Each group: 5.
 
 Group one: bbbbb Group two: bbbbb
 
@@ -6048,9 +6048,9 @@ A security guard at the university, doomed to be maimed in the events of “day�
 
 **Attacks**: Nightstick: 1-[[harm]] hand
 
-**Armour**: Stab-proof vest: 1-[[armour]]
+**[[Armour]]**: Stab-proof vest: 1-[[armour]]
 
-**Harm capacity**: 7. bbbb|bbb
+**[[Harm]] capacity**: 7. bbbb|bbb
 
 Dr Andrew Crouch, Medical School Dean
 
@@ -6300,7 +6300,7 @@ Here are a bunch more [[examples]] to show you the sorts of [[moves]] you might 
 
 An Aura Of Terror
 
-*An ancient wraith has an aura of terror. **Anyone within 5 metres of the wraith** takes -1 [[ongoing]], unless they **act under pressure** to resist the fear.*
+*An ancient wraith has an aura of terror. **Anyone within 5 metres of the wraith** takes -1 [[ongoing]], unless they **[[act under pressure]]** to resist the fear.*
 
 This is a penalty move, triggered by being close to the monster. It’s designed to make attacking the ghost up close harder, which may get [[the hunters]] thinking of alternative ways to defeat it.
 
@@ -6330,17 +6330,17 @@ Searching the marshes is a roll move. It is designed to make the marshes a bit m
 
 Nightmares
 
-*When **you go to sleep in this town**, count how many times you have slept here and roll +sleeps. On a 10+, you have nightmare visions of what is to come and you know it can’t be stopped: you must **act under pressure** to break out of your despair and actually do something about the visions. On a 7-9 you have nightmare visions of what’s coming, but that’s all. On a miss, you sleep like a baby.*
+*When **you go to sleep in this town**, count how many times you have slept here and roll +sleeps. On a 10+, you have nightmare visions of what is to come and you know it can’t be stopped: you must **[[act under pressure]]** to break out of your despair and actually do something about the visions. On a 7-9 you have nightmare visions of what’s coming, but that’s all. On a miss, you sleep like a baby.*
 
 This move belongs to the location threat that describes the town. It is another roll type move, that tells [[the hunters]] that this town is in big trouble, and they need to sort it out before too many nights pass.
 
 Calling The Flame Spirits
 
-Here’s a move for a hunter who made the **use magic** move a lot for a particular effect, so we decided to make a custom move for that spell.
+Here’s a move for a hunter who made the **[[use magic]]** move a lot for a particular effect, so we decided to make a custom move for that spell.
 
 *When you **call the flame spirits** you need to spill some very strong liquor into a fire and call the spirits by name (as many or as few names as you want). Roll +Weird. On a 10+ all the spirits you named come, and they’ll tell you some specific things and burn anything you want. On a 7-9 one of them comes and tells you some obscure things and then it burns some stuff, mostly what you wanted burned. On a miss, the fire spirits are angered. They might refuse your summons for a long time, or some of them might appear and demand a significant sacrifice from you right now, or else.*
 
-This is another roll move, designed to be a slightly different version of **use magic** that deals with this particular spell. Note that it is safer, but a lot more specific, than the **use magic** move.
+This is another roll move, designed to be a slightly different version of **[[use magic]]** that deals with this particular spell. Note that it is safer, but a lot more specific, than the **[[use magic]]** move.
 
 Inaccurate Memories
 

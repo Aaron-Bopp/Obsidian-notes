@@ -50,7 +50,7 @@ Banishing anything from a person’s mind is **[[big magic]]**. Banishing the Cu
 
 **Custom [[Moves]]:**
 
-**Cursed Mind**: When you first learn Curse-Speech, roll +Cool:
+**Cursed Mind**: When you first learn Curse-Speech, roll [[+Cool]]:
 
 -   On a 10+ you [[hold]] 3 and [[the Keeper]] holds 1.
 

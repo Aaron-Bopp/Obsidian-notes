@@ -68,11 +68,11 @@ On 10+, [[hold]] 2. On 7-9, [[hold]] 1. Spend your [[hold]] to:
 
 -   Take +1 [[forward]].
 
-b **Dark Desires**: You may use the **manipulate someone** move on [[monsters]], as long as you are using emotional ties.
+b **Dark Desires**: You may use the **[[manipulate someone]]** move on [[monsters]], as long as you are using emotional ties.
 
-b **The Power of Love**: When you use **help someone** to help your Guide you don’t have to roll +Cool. You automatically help as though you’d rolled a 10. If your Guide is another hunter, the same applies when they help you. b **Do As The Supernatural Do**: You can take an unnatural move from your Guide’s playbook (if they are a hunter). If they are a monster, choose a move from a suitable supernatural playbook. [[The Keeper]] may offer you a custom move, instead.
+b **The Power of Love**: When you use **help someone** to help your Guide you don’t have to roll [[+Cool]]. You automatically help as though you’d rolled a 10. If your Guide is another hunter, the same applies when they help you. b **Do As The Supernatural Do**: You can take an unnatural move from your Guide’s playbook (if they are a hunter). If they are a monster, choose a move from a suitable supernatural playbook. [[The Keeper]] may offer you a custom move, instead.
 
-b **I Am Theirs And They Are Mine**: Whenever you are in danger, your Guide knows it. If your Guide is suffering [[harm]] (and it’s feasible), you can spend a point of Luck to redirect the attack onto yourself as if you have rolled 10+ with **protect someone**. If you are suffering [[harm]], you can decide that your Guide has protected you and is suffering this [[harm]] instead. If you choose this, roll for **bond abuse**.
+b **I Am Theirs And They Are Mine**: Whenever you are in danger, your Guide knows it. If your Guide is suffering [[harm]] (and it’s feasible), you can spend a point of Luck to redirect the attack onto yourself as if you have rolled 10+ with **[[protect someone]]**. If you are suffering [[harm]], you can decide that your Guide has protected you and is suffering this [[harm]] instead. If you choose this, roll for **bond abuse**.
 
 b **Monster Empathy**: When you try to work out what a supernatural creature desires, roll +Charm. On a 10+, [[hold]] 2. On a 7-9, [[hold]] 1. Spend your [[hold]] to ask the following questions—[[the Keeper]] will answer honestly:
 

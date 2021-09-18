@@ -35,19 +35,19 @@ You have been put on Earth for a purpose. Pick one:
 - You have been exiled. You must work for the cause of Good without drawing attention from your brothers and sisters, as they are bound to execute you for your crimes.
 - One of the other hunters has a crucial role to play in events to come. You must prepare them for their role, and protect them at *any* cost.
 
-**MOVES**
+**[[MOVES]]**
 
 You get all the basic [[moves]], and pick three Divine [[moves]]:
 
-- **Boss from Beyond**: **At the beginning of each mystery**, roll +Weird. On a 10+, your Superiors ask you to do something simple. On a 7-9, they ask you to do something complicated or difficult. In either case, you get to ask them one of the questions from the **investigate a mystery** move right now. On a miss, you are required to do something terrible. If you do not accomplish what they’ve ordered, you cannot use this move again until you have made up for your failure.
+- **Boss from Beyond**: **At the beginning of each mystery**, roll +Weird. On a 10+, your Superiors ask you to do something simple. On a 7-9, they ask you to do something complicated or difficult. In either case, you get to ask them one of the questions from the **[[investigate a mystery]]** move right now. On a miss, you are required to do something terrible. If you do not accomplish what they’ve ordered, you cannot use this move again until you have made up for your failure.
 - **Angel Wings**: You can go instantly to anywhere you’ve visited before, or to a person you know well. When **you carry one or two people with you**, roll +Weird. On a 10+ you all go where you wanted. On a 7-9, you don’t quite manage it. Either you are all separated, or you all appear in the wrong place.
 - **What I Need, When I Need It**: You may store any small object you own, putting it into a magical space nobody can get to. You may retrieve anything you stored at any time; it appears in your hand.
 - **Soothe**: **When** **you talk to someone for a few seconds in a quiet voice**, you can calm them down, blocking any panic, anger, or other negative emotions they have. This works even if the thing that freaked them out is still present, as long as your voice can be heard.
-- **Lay On Hands**: Your touch can heal injury and disease. When you **lay your hands on someone hurt**, roll +Cool. On a 10+, heal 2 [[harm]] or an illness, plus they’re stabilized. On a 7-9, you can heal the [[harm]] or illness as on a 10+, but you take it into yourself. On a miss, your aura causes them extra [[harm]].
+- **Lay On Hands**: Your touch can heal injury and disease. When you **lay your hands on someone hurt**, roll [[+Cool]]. On a 10+, heal 2 [[harm]] or an illness, plus they’re stabilized. On a 7-9, you can heal the [[harm]] or illness as on a 10+, but you take it into yourself. On a miss, your aura causes them extra [[harm]].
 - **Cast Out Evil**: You may **banish an unnatural creature from your presence**. Roll +Tough. On a 10+ it is banished. On a 7-9 it takes a little while for the banishing to take effect—the creature has time to make one or two actions. Either way, the banished creature is unharmed, and you have no control over where it goes. This move may be used on unnatural hunters (e.g. [[the Monstrous]]). On a miss, something is keeping it here. That’s bad.
 - **Smite**: Your body and divine weapon always count as a weakness against the [[monsters]] you fight. Your unarmed attacks are 2-[[harm]] intimate hand messy.
 
-**GEAR**
+**[[GEAR]]**
 
 *Pick one divine weapon:*
 
@@ -59,13 +59,13 @@ You get all the basic [[moves]], and pick three Divine [[moves]]:
 
 You also get divine [[armour]] (1-[[armour]] holy). It has a look suited to your divine origin.
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Divine by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. When it’s your turn, pick one for each of the other hunters:
 
@@ -84,7 +84,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbb b bbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark of the number of boxes equal to [[harm]] suffered. When you reach four [[harm]], tick “Unstable”.
 
@@ -92,7 +92,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b *(Unstable injuries will worsen as time passes)*
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 *Experience*: bbbbb
 
@@ -100,7 +100,7 @@ Whenever your roll totals 6 or less, or when a move tells you to, mark an experi
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the list below.
 
-**IMPROVEMENTS:**
+**[[IMPROVEMENTS]]:**
 
 - Get +1 Tough, max +3
 - Get +1 Cool, max +2

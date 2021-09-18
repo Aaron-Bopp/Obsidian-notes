@@ -23,12 +23,12 @@ To make your Crooked, pick a name. Then follow the instructions below to decide 
 
 You worked a less-than-legal job before you became a monster hunter. What did you do?
 
-- **Hoodlum**. You can use Tough instead of Charm to **manipulate someone** with threats of violence.
+- **Hoodlum**. You can use Tough instead of Charm to **[[manipulate someone]]** with threats of violence.
 - **Burglar**. When you **break into a secure location**, roll +Sharp. On a 10+ pick three, on a 7-9 pick two: you get in undetected, you get out undetected, you don’t leave a mess, you find what you were after.
-- **Grifter**. When you are about to **manipulate someone**, you can ask [[the Keeper]] “What will convince this person to do what I want?” [[The Keeper]] must answer honestly, but not necessarily completely.
+- **Grifter**. When you are about to **[[manipulate someone]]**, you can ask [[the Keeper]] “What will convince this person to do what I want?” [[The Keeper]] must answer honestly, but not necessarily completely.
 - **Fixer**. If you **need to buy something, sell something, or hire someone**, roll +Charm. On a 10+ you know just the person who will be interested. On a 7-9 you know the only person who can do it, but there’s a complication. Pick one: you owe them; they screwed you over; you screwed them over. On a miss, the only person who can help is someone who absolutely hates you.
 - **Assassin**. When you take your first shot at an unsuspecting target, do +2 [[Harm]].
-- **Charlatan**. When you want people to think you are using magic, roll +Cool. On a 10 or more, your audience is amazed and fooled by your illusion. On a 7-9 you tripped up a couple of times, maybe someone will notice. You may also **manipulate** **people** with fortune telling. When you do that, ask “What are they hoping for right now?” as a free question (even on a miss).
+- **Charlatan**. When you want people to think you are using magic, roll [[+Cool]]. On a 10 or more, your audience is amazed and fooled by your illusion. On a 7-9 you tripped up a couple of times, maybe someone will notice. You may also **manipulate** **people** with fortune telling. When you do that, ask “What are they hoping for right now?” as a free question (even on a miss).
 - **Pickpocket.** When you **steal something small**, roll +Charm. On a 10 or more, you get it and they didn’t notice you taking it. On a 7-9 either you don’t grab it, you grab the wrong thing, or they remember you later: your choice.
 
 **HEAT**
@@ -52,20 +52,20 @@ Pick how you discovered about the real underworld. Keep this in mind when you se
 
 ![](MotWIMG6.jpeg)
 
-**MOVES**
+**[[MOVES]]**
 
 You get all the basic [[moves]], and two Crooked [[moves]]:
 
-- **Artifact**: You ‘found’ a magical artifact with handy powers, and kept it. Pick one: Protective amulet (1-[[armour]] magic recharge), Lucky charm (may be used as a Luck point, once only), Grimoire (studying the book gives +1 [[forward]] to **use magic**), Skeleton key (opens any magically sealed lock), Imp stone (A weak demon is bound to serve the holder. The imp must be summoned with the **use magic** move).
+- **Artifact**: You ‘found’ a magical artifact with handy powers, and kept it. Pick one: Protective amulet (1-[[armour]] magic recharge), Lucky charm (may be used as a Luck point, once only), Grimoire (studying the book gives +1 [[forward]] to **[[use magic]]**), Skeleton key (opens any magically sealed lock), Imp stone (A weak demon is bound to serve the holder. The imp must be summoned with the **[[use magic]]** move).
 - **Crew**: You have a regular crew, a team of three or four people who will help you out with pretty much anything. They count as a team (see [page 119](#0000399193)).
 - **Deal with the Devil**: You sold your soul to the Devil. Pick one or two things you got out of the deal: wealth, fame, youth, sensual gratification, skill (add +1 to two ratings). Payment is due either when you die, in six months (if you picked two things) or otherwise in a year.
-- **Friends on the Force**: You know a few cops who can be persuaded to look the other way, or do you a favour, for certain considerations. You can **act under pressure** to get in touch with them when you need to divert any law enforcement attention. There will be a cost, although maybe not right now.
+- **Friends on the Force**: You know a few cops who can be persuaded to look the other way, or do you a favour, for certain considerations. You can **[[act under pressure]]** to get in touch with them when you need to divert any law enforcement attention. There will be a cost, although maybe not right now.
 - **Made**: You’re “made” in a gang. Name the gang and describe how their operations tie into your background. You can call on gang members to help you out, but they’ll expect to be paid. Your bosses will have requests for you now and again, but you’ll be paid. Minor trouble will be overlooked, but you better not screw over any other made gangsters.\
 - **Driver**: You have +1 [[ongoing]] while driving, plus you can hotwire anything (the older it is, the fewer tools you need to do it). You also own two handy, widely-available vehicles (perhaps a sportscar and a van).
 - **Home Ground**: Your crew made a point of keeping the locals happy - keeping them safe, ensuring things always went down okay. When you’re back in your old neighbourhood, you can always find people who will hide you or help you with a minor favour, no questions asked.
-- **Notorious**: You have a reputation from your criminal past. When **you reveal who you are**, your terrifying reputation counts as a reason for people to do what you ask, for the **manipulate someone** move. Revealing your identity to someone can create other problems later, of course.
+- **Notorious**: You have a reputation from your criminal past. When **you reveal who you are**, your terrifying reputation counts as a reason for people to do what you ask, for the **[[manipulate someone]]** move. Revealing your identity to someone can create other problems later, of course.
 
-**GEAR**
+**[[GEAR]]**
 
 Effective [[weapons]], pick three:
 
@@ -79,13 +79,13 @@ Effective [[weapons]], pick three:
 - Submachinegun (2-[[harm]] close reload auto)
 - Assault rifle (3-[[harm]] close/far auto)
 
-**INTRODUCTIONS**
+**[[INTRODUCTIONS]]**
 
 When you get here, wait for everyone to catch up so you can do your [[introductions]] together.
 
 Go around the group. On your turn, introduce your Crooked by name and look, and tell the group what they know about you.
 
-**HISTORY**
+**[[HISTORY]]**
 
 Go around the group again. When it’s your turn, pick one for each of the other hunters:
 
@@ -106,7 +106,7 @@ You can mark off a Luck box to *either* change a roll you just made to a 12, as 
 
 Okay bbbbbbb Doomed
 
-**HARM**
+**[[HARM]]**
 
 When you suffer [[harm]], mark of the number of boxes equal to [[harm]] suffered. More than four [[harm]] is especially dangerous.
 
@@ -114,7 +114,7 @@ Okay bbb|bbbb Dying
 
 Unstable: b (Unstable injuries will worsen as time passes)
 
-**LEVELING UP**
+**[[LEVELING UP]]**
 
 Experience: bbbbb
 
@@ -122,7 +122,7 @@ Whenever you roll a six or less, or when a move tells you to, mark an experience
 
 When you have filled all five experience boxes, you level up. Erase the marks and pick an improvement from the list below.
 
-**IMPROVEMENTS**
+**[[IMPROVEMENTS]]**
 
 - Get +1 Sharp, max +3
 - Get +1 Tough, max +2
