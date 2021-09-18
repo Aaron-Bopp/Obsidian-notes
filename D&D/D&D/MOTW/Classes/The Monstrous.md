@@ -1,3 +1,4 @@
+![[MotWIMG11.jpeg]]
 # The Monstrous
 
 > I feel the hunger, the lust to destroy. But I fight it: I never give in. I’m not human any more, not really, but I have to protect those who still are. That way I can tell myself I’m different to the other monsters. Sometimes I can even believe it.
@@ -50,3 +51,5 @@ Go around the group again. When it’s your turn, pick one for each of the other
 - They are tied to your curse or origin. Tell them how.
 - You fought together against the odds, and prevailed.
 - They saved you from another hunter who was prepared to kill you. Ask them what happened.
+
+[[The Mundane]]

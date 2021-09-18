@@ -127,10 +127,10 @@ I’ve written the rulebook in the order that you’ll need as you play, with al
 
 If you want to skip that and just hit the basics, here’s some suggestions:
 
-- If you’re going to be Keeper, focus on the First Session section ([[0000532383]]): that covers what you need to prepare and what to do for the first game. It’s best to know the hunters’ basic moves ([[0000589979]]) and playbooks (from [[The Playbooks]]), at least in passing
-- If you’re going to play a hunter, read the hunter playbooks (from [[The Playbooks]]), and about moves ([[The Basic Moves]]) and ratings ([[The Ratings]]). Most important is to pick which hunter type(s) you want to play.
-- If you’ve played *Apocalypse World* (or another game based on those rules, such as *Monsterhearts* or *Dungeon World*) then plenty here will be familiar. Check out ratings (stats in *Apocalypse World*) ([[The Ratings]]), playbooks ([[The Playbooks]]), and basic moves ([[The Basic Moves]]) to get a sense of the main differences. Luck is new ([[The Luck Counter]]). The Keeper’s (MC in *Apocalypse World*) agenda and principles ([[The Keeper Agenda]]), threats ([[0000465043]]), and moves ([[0000559527]]) are different, and mysteries ([[Creating Your First Mystery]] & [[0000764334]]) and arcs ([[0000741446]]) take the place of fronts.
-- If you’re an experienced roleplayer who hasn’t played *Apocalypse World* (the game these rules are adapted from), check out the hunter playbooks ([[The Playbooks]]) and the moves ([[The Basic Moves]]) and ratings ([[The Ratings]]). From there everything else should fall into place.
+- If you’re going to be Keeper, focus on the First Session section ([[The First Session]]): that covers what you need to prepare and what to do for the first game. It’s best to know the hunters’ basic moves ([[The Basic Hunter Moves]]) and playbooks (from [[The Playbooks]]), at least in passing
+- If you’re going to play a hunter, read the hunter playbooks (from [[The Playbooks]]), and about moves ([[The Basic Hunter Moves]]) and ratings ([[Ability Ratings]]). Most important is to pick which hunter type(s) you want to play.
+- If you’ve played *Apocalypse World* (or another game based on those rules, such as *Monsterhearts* or *Dungeon World*) then plenty here will be familiar. Check out ratings (stats in *Apocalypse World*) ([[Ability Ratings]]), playbooks ([[The Playbooks]]), and basic moves ([[The Basic Hunter Moves]]) to get a sense of the main differences. Luck is new ([[The Luck Counter]]). The Keeper’s (MC in *Apocalypse World*) agenda and principles ([[The Keeper Agenda]]), threats ([[0000465043]]), and moves ([[0000559527]]) are different, and mysteries ([[Creating Your First Mystery]] & [[0000764334]]) and arcs ([[0000741446]]) take the place of fronts.
+- If you’re an experienced roleplayer who hasn’t played *Apocalypse World* (the game these rules are adapted from), check out the hunter playbooks ([[The Playbooks]]) and the moves ([[The Basic Hunter Moves]]) and ratings ([[Ability Ratings]]). From there everything else should fall into place.
 - If you want to run a game right away, skim “Running the First Mystery” ([[0000539124]]) and “On With the Mystery” ([[0000651380]]) and then read through “Dream Away the Time” on [[Introductory Mystery: Dream Away the Time]]. That should be enough to get you up and running. You can come back for more detail later.
 
 Structure
@@ -211,7 +211,7 @@ Making Your Hunter
 
 After you’ve all picked your hunter types, you’ll spend about 20-30 minutes of the first session defining their abilities and establishing the relationships in your team. Follow the instructions in your playbook to create your hunter. You don’t need to spend too long deciding on each option in the playbook—if you make any choices you regret, you can always revise them after the first session.
 
-When you get to the ‘Introductions’ section, wait until everyone catches up. The Keeper will guide everyone as you make up your hunters, so ask them if you have any questions (For the Keeper, there are instructions on how to guide this process in ‘The First Session’ section on [[0000532383]]).
+When you get to the ‘Introductions’ section, wait until everyone catches up. The Keeper will guide everyone as you make up your hunters, so ask them if you have any questions (For the Keeper, there are instructions on how to guide this process in ‘The First Session’ section on [[The First Session]]).
 
 Team Concepts
 
@@ -275,7 +275,7 @@ Before You GET STARTED
 
 Before you get started, you need to know about two game concepts: moves and ratings.
 
-The hunter playbooks mention some other terms that I haven’t introduced yet. Don’t worry about those, you don’t need to understand them just now. If you want to find out more, read the “How to Play” section starting at [[How To Play]].
+The hunter playbooks mention some other terms that I haven’t introduced yet. Don’t worry about those, you don’t need to understand them just now. If you want to find out more, read the “How to Play” section starting at [[Playing a Hunter]].
 
 Moves
 
@@ -298,7 +298,7 @@ After you’ve recognised the move’s trigger, it will tell you want to do next
 
 The Hunter Basic Moves
 
-All the hunters have a set of moves that allow them to investigate and deal with monsters. These are called the “basic moves” ([[The Basic Moves]]). There are eight basic moves:
+All the hunters have a set of moves that allow them to investigate and deal with monsters. These are called the “basic moves” ([[The Basic Hunter Moves]]). There are eight basic moves:
 
 - **Act Under Pressure**, used for any difficult or dangerous action that isn’t covered by another move.
 - **Help Out**, used to help another hunter do something. If you succeed, you’ll give them a bonus on their task.
@@ -2763,9 +2763,9 @@ For **kick some ass**, on a 12+ you devastate and overawe your enemy. You inflic
 - Your attack inflicts double the normal harm.
 - Your attack drives the enemy away in a rout.
 
-For **protect someone**, on a 12+ you defend them perfectly. Both you and the character you are protecting are unharmed and out of danger. If you were protecting a bystander, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on leveling up, see [[The Basic Moves]]).
+For **protect someone**, on a 12+ you defend them perfectly. Both you and the character you are protecting are unharmed and out of danger. If you were protecting a bystander, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on leveling up, see [[The Basic Hunter Moves]]).
 
-For **manipulate someone**, on a 12+ you absolutely convince them. They do what you want *right now*. For a hunter, they must **act under pressure** to resist your request. If they do what you ask, they mark one experience and take +1 ongoing while doing what you asked. For a bystander, not only do they do what you want right now, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on leveling up, see [[The Basic Moves]]) for the rest of the mystery (or, if you do enough for them, permanently). Note that allies can be lost, too! If they discover you’ve manipulated them into acting against their best interests, your new **ally** may become a threat to you.
+For **manipulate someone**, on a 12+ you absolutely convince them. They do what you want *right now*. For a hunter, they must **act under pressure** to resist your request. If they do what you ask, they mark one experience and take +1 ongoing while doing what you asked. For a bystander, not only do they do what you want right now, they also become your **ally** (pick a type for them as if you had taken the “gain an ally” improvement on leveling up, see [[The Basic Hunter Moves]]) for the rest of the mystery (or, if you do enough for them, permanently). Note that allies can be lost, too! If they discover you’ve manipulated them into acting against their best interests, your new **ally** may become a threat to you.
 
 For **investigate a mystery**, on a 12+ you may ask the Keeper any question you want about the mystery, not just the listed ones.
 
@@ -3598,7 +3598,7 @@ Now you can work out the team’s story, based on all those bits of history. You
 
 Mention How Things Work
 
-This is a good time to explain the player agenda ([[Hunter Agenda]]), basic moves ([[The Basic Moves]]), what to roll and add ([[Rolling the Dice]]), using Luck ([[The Luck Counter]]), when to mark experience ([[Leveling Up]]), and how to level up ([[Leveling Up]]). Give just enough detail to get started, rather than trying to explain everything right now. You can fill in more details when they are needed.
+This is a good time to explain the player agenda ([[Hunter Agenda]]), basic moves ([[The Basic Hunter Moves]]), what to roll and add ([[Rolling the Dice]]), using Luck ([[The Luck Counter]]), when to mark experience ([[Leveling Up]]), and how to level up ([[Leveling Up]]). Give just enough detail to get started, rather than trying to explain everything right now. You can fill in more details when they are needed.
 
 Running The First Mystery
 
@@ -3922,7 +3922,7 @@ Location threat moves give you ways to move the mystery along, or put obstacles 
 
 The Basic Hunter Moves
 
-The earlier description of the basic hunter moves (on [[The Basic Moves]]) is written from the hunters’ point of view. Here’s some extra information about the moves from the Keeper’s point of view.
+The earlier description of the basic hunter moves (on [[The Basic Hunter Moves]]) is written from the hunters’ point of view. Here’s some extra information about the moves from the Keeper’s point of view.
 
 Act Under Pressure
 

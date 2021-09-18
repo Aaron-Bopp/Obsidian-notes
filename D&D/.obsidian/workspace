@@ -4,12 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "609af8cb4b875b33",
+        "id": "b9629c447cf6ba96",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "8779105582a25f4d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOTWHierarchy.md",
+            "file": "D&D/MOTW/MOTW Sections/On With The Mystery!.md",
             "mode": "source"
           }
         }
@@ -39,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"The Monstrous\" path:MOTW",
+                "query": "\"an evil ritual\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -54,7 +62,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOTWHierarchy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -65,9 +72,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MOTWHierarchy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -87,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOTWHierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,12 +109,20 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "a5d353cc57eb93e3",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 445
   },
   "right": {
     "id": "e4957aafc9974964",
@@ -134,7 +146,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOTWHierarchy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,26 +226,34 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "95d3002637d724c3",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-stats",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 822,
     "collapsed": true
   },
-  "active": "609af8cb4b875b33",
+  "active": "b9629c447cf6ba96",
   "lastOpenFiles": [
-    "MOTWHierarchy.md",
     "D&D/MOTW/Book/Monster_of_the_Week.md",
-    "Untitled.md",
-    "D&D/MOTW/Book/motwrevcor.md",
-    "D&D/MOTW/Book/Images/MotWIMG2.jpeg",
-    "D&D/MOTW/Book/TomeIMGs/media/image1.jpg",
-    "D&D/MOTW/MOTW Sections/MOTWToC.md",
-    "D&D/MOTW/MOTW Sections/Act Under Pressure.md",
-    "D&D/MOTW/MOTW Sections/Big Magic.md",
-    "D&D/Koescher/Investigate a mystery.md"
+    "MOTWHierarchy.md",
+    "D&D/MOTW/Book/MOTW Sections/Leveling Up And Improvements.md",
+    "D&D/MOTW/Book/MOTW Sections/Endgame.md",
+    "D&D/MOTW/Book/MOTW Sections/Between Game Sessions Arcs.md",
+    "Running the game.md",
+    "D&D/MOTW/Book/MOTW Sections/On With The Mystery!.md",
+    "D&D/MOTW/Book/MOTW Sections/As the game Goes On.md",
+    "D&D/MOTW/Book/MOTW Sections/Playing a Hunter.md",
+    "D&D/MOTW/Book/MOTW Sections/The First Session.md"
   ]
 }

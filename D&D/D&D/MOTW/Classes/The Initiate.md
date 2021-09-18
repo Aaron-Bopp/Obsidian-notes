@@ -4,7 +4,7 @@
 
 To make your Initiate, first pick a name. Then follow the instructions below to decide your look, ratings, moves, Sect, and gear. Finally, introduce yourself and pick history.
 
-![](Aspose.Words.fbc4b36e-3928-49bd-aaa3-686f04c1d37b.010.jpeg)
+![](MOTWIMG10.jpeg)
 
 **LOOK, PICK ONE FROM EACH LIST:**
 
@@ -169,3 +169,7 @@ After you have leveled up *five* times, you qualify for advanced improvements in
 - Mark another two of the basic moves as advanced.
 - Retire this hunter to safety.
 - Become the leader, or effective leader, of the whole Sect.
+
+[[The Monstrous]]
+
+![[Pasted image 20210917182253.png]]

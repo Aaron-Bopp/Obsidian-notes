@@ -31,5 +31,6 @@
   "obsidian42-text-transporter",
   "obsidian-vimrc-support",
   "obsidian-linter",
-  "buttons"
+  "buttons",
+  "breadcrumbs"
 ]
