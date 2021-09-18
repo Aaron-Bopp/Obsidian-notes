@@ -78,7 +78,7 @@
     "sibling": true,
     "child": true
   },
-  "showWriteAllBCsCmd": false,
+  "showWriteAllBCsCmd": true,
   "visGraph": "Force Directed Graph",
   "visRelation": "Parent",
   "visClosed": "Real",

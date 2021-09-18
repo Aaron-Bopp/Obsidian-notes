@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "79093367520b205a",
+        "id": "83be9d1630bd0dbb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,36 +12,6 @@
             "file": "D&D/MOTW/MOTW Sections/Custom Moves.md",
             "mode": "source"
           }
-        }
-      },
-      {
-        "id": "2546d9cc9afc733e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/MOTW/MOTW Sections/Endgame.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "83be9d1630bd0dbb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D&D/MOTW/MOTW Sections/Preparing Your First Mystery.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "42089d07d3a806ea",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -84,6 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/MOTW/MOTW Sections/Custom Moves.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -94,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D&D/MOTW/MOTW Sections/Custom Moves.md"
+              }
             }
           },
           {
@@ -114,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D/MOTW/MOTW Sections/Custom Moves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "D&D/MOTW/MOTW Sections/Custom Moves.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,17 +241,17 @@
     "width": 822,
     "collapsed": true
   },
-  "active": "42089d07d3a806ea",
+  "active": "83be9d1630bd0dbb",
   "lastOpenFiles": [
+    "D&D/MOTW/MOTW Sections/Custom Moves.md",
+    "D&D/MOTW/MOTW Sections/Monsters.md",
+    "D&D/MOTW/Alternative Weird Basic Moves.md",
+    "D&D/MOTW/MOTW Sections/Endgame.md",
+    "D&D/MOTW/MOTW Sections/Preparing Your First Mystery.md",
     "D&D/MOTW/MOTW Sections/Harm.md",
     "D&D/MOTW/MOTW Sections/Summary Running Fights.md",
     "D&D/MOTW/MOTW Sections/On With The Mystery!.md",
     "D&D/MOTW/MOTW Sections/Start-Of-Mystery Moves.md",
-    "D&D/MOTW/MOTW Sections/Summary Keeper's First Session.md",
-    "D&D/MOTW/MOTW Sections/Always Say.md",
-    "D&D/MOTW/MOTW Sections/Running The First Mystery.md",
-    "D&D/MOTW/MOTW Sections/The Keeper Principles.md",
-    "D&D/MOTW/MOTW Sections/Running Subsequent Mysteries.md",
-    "D&D/MOTW/MOTW Sections/Preparing Your First Mystery.md"
+    "D&D/MOTW/MOTW Sections/Summary Keeper's First Session.md"
   ]
 }
