@@ -49,15 +49,15 @@
   "dvWaitTime": 5000,
   "refreshIntervalTime": 0,
   "defaultView": true,
-  "showNameOrType": true,
+  "showNameOrType": false,
   "showRelationType": true,
-  "filterImpliedSiblingsOfDifferentTypes": false,
+  "filterImpliedSiblingsOfDifferentTypes": true,
   "rlLeaf": true,
   "showTrail": true,
   "limitTrailCheckboxStates": {
     "Related-Topics": true,
     "Location": true,
-    "parent": false
+    "parent": true
   },
   "hideTrailFieldName": "hide-trail",
   "trailOrTable": 1,

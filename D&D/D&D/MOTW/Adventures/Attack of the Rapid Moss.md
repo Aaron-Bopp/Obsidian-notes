@@ -64,7 +64,7 @@ The lab where the moss was born. Dr. Cornwall guards the lab from anyone who wan
 
 In the center of the lab is a large chamber where the Moss Brain is held.
 
-There are many weird science materials and tools here. Some may be useful if [[the hunters]] try to defeat the moss with their own weird science.
+There are many [[weird science]] materials and tools here. Some may be useful if [[the hunters]] try to defeat the moss with their own [[weird science]].
 
 # Moss Brain
 

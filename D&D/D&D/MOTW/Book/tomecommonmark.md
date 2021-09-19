@@ -105,7 +105,7 @@ Sensitivity reading
 >
 > [[Phenomena Mysteries]] . . . . . 24
 >
-> [[Special Moves]] . . . . . . . . . . 27
+> [[Special Luck Moves]] . . . . . . . . . . 27
 >
 > [[More Flexible Investigations]] . 29
 >
@@ -373,7 +373,7 @@ We formed a constructive online community on Google Plus ('The
 >
 > *By Michael Sands*
 >
-> These optional rules allow your hunters to have different Weird basic [[moves]], instead of everyone having access to **[[use magic]]**. These rules are intended for games that place more emphasis on weird science and paranormal powers than *Monster of the Week*'s default occultism and magic.
+> These optional rules allow your hunters to have different Weird basic [[moves]], instead of everyone having access to **[[use magic]]**. These rules are intended for games that place more emphasis on [[weird science]] and paranormal powers than *Monster of the Week*'s default occultism and magic.
 >
 > If you use this rule, **[[use magic]]** is no longer a basic move for all hunters. Instead, all hunters pick a weirdness move from **how are you weird?** (See below.)
 >
@@ -383,7 +383,7 @@ We formed a constructive online community on Google Plus ('The
 
 > Hunters who do not have **[[use magic]]** as their Weirdness move must treat any spell as [[big magic]]. [[The Keeper]] may wish to pick requirements towards the lighter end of the spectrum if the spell's effects will be at the level of **[[use magic]]**.
 >
-> **[[Big magic]]** still works the same for everyone, but you may adjust the requirements so they have a more 'weird science' style when appropriate.
+> **[[Big magic]]** still works the same for everyone, but you may adjust the requirements so they have a more '[[weird science]]' style when appropriate.
 >
 > ![](Images/image24.png){width="2.83in" height="2.3766666666666665in"}
 
@@ -391,7 +391,7 @@ We formed a constructive online community on Google Plus ('The
 
 > As with all [[custom moves]], you should consider how this works with your world's mythology. Many of these weirdness [[moves]] make certain things true in your world.
 >
-> For instance, if a hunter chooses **past lives** then it becomes true that some people are reincarnated and can remember their previous lives. If someone takes **illuminated**, there must be some Secret Masters out there with some plan for the world (or something pretending to be that).
+> For instance, if a hunter chooses **[[past lives]]** then it becomes true that some people are reincarnated and can remember their previous lives. If someone takes **[[illuminated]]**, there must be some Secret Masters out there with some plan for the world (or something pretending to be that).
 >
 > Perhaps some of these options aren't appropriate. Some of these new [[moves]] might be rare. Consider that along with your concept as you pick which one is right for your hunter. Check that the whole group is on board with your choice.
 >
@@ -399,31 +399,31 @@ We formed a constructive online community on Google Plus ('The
 >
 > Choose one of the following as your basic move for Weird:
 
--   **Empath** (page 18)
+-   **[[Empath]]** (page 18)
 
--   **Illuminated** (page 19)
+-   **[[Illuminated]]** (page 19)
 
--   **No limits** (page 20)
+-   **[[No limits]]** (page 20)
 
--   **Past lives** (page 20)
+-   **[[Past lives]]** (page 20)
 
--   **Sensitive** (page 21)
+-   **[[Sensitive]]** (page 21)
 
--   **Telekinesis** (page 22)
+-   **[[Telekinesis]]** (page 22)
 
--   **Trust your gut** (page 21)
+-   **[[Trust your gut]]** (page 21)
 
 -   **[[Use magic]]** (as in vanilla *Monster of the Week*)
 
--   **Weird science** (page 23)
+-   **[[Weird science]]** (page 23)
 
 > If none of these weirdness [[moves]] seem appropriate, use:
 
--   **Trust your gut** or **no limits** for a relatively mundane hunter.
+-   **[[Trust your gut]]** or **[[no limits]]** for a relatively mundane hunter.
 
--   **Weird science** for a curious, scientific minded hunter.
+-   **[[Weird science]]** for a curious, scientific minded hunter.
 
--   **Sensitive** or **empath** for those with psychic potential.
+-   **[[Sensitive]]** or **[[empath]]** for those with psychic potential.
 
 -   **[[Use magic]]** for anyone else.
 
@@ -441,11 +441,11 @@ We formed a constructive online community on Google Plus ('The
 
 -   On a miss, your brain is overwhelmed with emotion.
 
-> **Advanced Empath .** When you advance your **empath** move, add this:
+> **Advanced [[Empath]] .** When you advance your **[[empath]]** move, add this:
 
 -   On a 12 or more, you get an impression (as for 10 or more), and you may ask one follow-up question that [[the Keeper]] will answer honestly.
 
-> You can use **empath** on anything with emotions (e.g. animals and some [[monsters]]), but the less human they are, the less it's safe for you. If the emotions are especially strong or alien, you might need to **[[act under pressure]]** regardless of how successful your roll was.
+> You can use **[[empath]]** on anything with emotions (e.g. animals and some [[monsters]]), but the less human they are, the less it's safe for you. If the emotions are especially strong or alien, you might need to **[[act under pressure]]** regardless of how successful your roll was.
 >
 > ![](Images/image26.jpg){width="4.753266622922134in" height="3.860951443569554in"}You have become enlightened, and sometimes receive information telepathically from the Secret Masters.
 >
@@ -461,11 +461,11 @@ We formed a constructive online community on Google Plus ('The
 
 -   On a miss, the Secret Masters' reply is terrible, garbled, or somehow dangerously wrong.
 
-> **Advanced Illuminated .** When you advance your **illuminated** move, add this:
+> **Advanced [[Illuminated]] .** When you advance your **[[illuminated]]** move, add this:
 
 -   On a 12 or more, the Secret Masters reveal a key fact, clue, or technique that will help you. You may ask one follow-up question that [[the Keeper]] will answer honestly.
 
-> **Keeper:** Create the Secret Masters as a threat---consider using the new conspiracy 'Phenomenon' type (page 24). If more than one hunter is **illuminated**, the group decides if all the Secret Masters are united or at odds.
+> **Keeper:** Create the Secret Masters as a threat---consider using the new conspiracy 'Phenomenon' type (page 24). If more than one hunter is **[[illuminated]]**, the group decides if all the Secret Masters are united or at odds.
 
 ## No Limits {#no-limits}
 
@@ -477,7 +477,7 @@ We formed a constructive online community on Google Plus ('The
 
 -   On a miss, something goes horribly wrong.
 
-> **Advanced No Limits .** If you advance your **no limits** move, add this:
+> **Advanced [[No Limits]] .** If you advance your **[[no limits]]** move, add this:
 
 -   On a 12 or more, you can continue acting at your body's limits for 30 seconds.
 
@@ -485,7 +485,7 @@ We formed a constructive online community on Google Plus ('The
 
 -   **Physically Possible:** Lift an SUV, Jump over a truck, Punch through a wall.
 
--   **Not Physically Possible:** Lift a building, Fly, Punch a blast of energy at a foe. Past Lives
+-   **Not Physically Possible:** Lift a building, Fly, Punch a blast of energy at a foe. [[Past Lives]]
 
 > When you **channel your previous incarnations to discover something**, pose your question and roll [[+Weird]]:
 
@@ -495,9 +495,9 @@ We formed a constructive online community on Google Plus ('The
 
 -   On a miss, a past life takes over for a while.
 
-> **Advanced Past Lives .** If you advance your **past lives** move, add this:
+> **Advanced [[Past Lives]] .** If you advance your **[[past lives]]** move, add this:
 
--   On a 12 or more, a past life knows exactly what you were after. Ask [[the Keeper]] one of the questions below, and one free-form question. Gain +1 [[ongoing]] while acting on the answers. **Past Lives questions:**
+-   On a 12 or more, a past life knows exactly what you were after. Ask [[the Keeper]] one of the questions below, and one free-form question. Gain +1 [[ongoing]] while acting on the answers. **[[Past Lives]] questions:**
 
 -   What did a past life discover about \_\_\_\_\_\_\_\_\_\_\_?
 
@@ -521,7 +521,7 @@ We formed a constructive online community on Google Plus ('The
 
 -   On a 7-9, you gain a hazy impression about something important.
 
--   On a miss, your brain makes contact with something dangerous. **Advanced Sensitive .** When you advance your **sensitive** move, add this:
+-   On a miss, your brain makes contact with something dangerous. **Advanced [[Sensitive]] .** When you advance your **[[sensitive]]** move, add this:
 
 -   On a 12 or more, you get an impression as for 10 or more, plus you may ask one follow-up question that [[the Keeper]] will answer honestly.
 
@@ -537,7 +537,7 @@ We formed a constructive online community on Google Plus ('The
 
 -   On a miss, your instincts lead you into danger.
 
-> **Advanced Trust Your Gut .** If you advance your **trust your gut** move, add this:
+> **Advanced [[Trust Your Gut]] .** If you advance your **[[trust your gut]]** move, add this:
 
 -   On a 12 or more, in addition to the usual 10+ result, [[the Keeper]] will tell you about one important thing you should investigate further.
 
@@ -551,7 +551,7 @@ We formed a constructive online community on Google Plus ('The
 
 -   On a miss, something goes horribly wrong.
 
-> By default you can move something smaller than a person. You don't have much control, and you can't move it strongly enough to hurt anything. **Telekinesis options** (anything not picked is not true):
+> By default you can move something smaller than a person. You don't have much control, and you can't move it strongly enough to hurt anything. **[[Telekinesis]] options** (anything not picked is not true):
 
 -   Something is held fast.
 
@@ -565,7 +565,7 @@ We formed a constructive online community on Google Plus ('The
 
 -   You suffer 1 less [[harm]].
 
-> **Advanced Telekinesis .** When you advance your **telekinesis** move, add this:
+> **Advanced [[Telekinesis]] .** When you advance your **[[telekinesis]]** move, add this:
 
 -   On a 12 or more, choose three options. You may also choose from these advanced options:
 
@@ -579,7 +579,7 @@ We formed a constructive online community on Google Plus ('The
 
 -   On a 7-9, you pick one requirement and [[the Keeper]] picks a second one.
 
--   On a miss, something goes horribly wrong. You are still able to create your device, but [[the Keeper]] picks three requirements. **Weird science requirements:**
+-   On a miss, something goes horribly wrong. You are still able to create your device, but [[the Keeper]] picks three requirements. **[[Weird science]] requirements:**
 
 -   It needs a rare and/or weird material.
 
@@ -593,7 +593,7 @@ We formed a constructive online community on Google Plus ('The
 
 -   You'll need help (beyond [[the hunters]] on your team) to finish it.
 
-> **Advanced Weird Science .** When you advance your weird science move, add this:
+> **Advanced [[Weird Science]] .** When you advance your [[weird science]] move, add this:
 
 -   On a 12 or more, you gain +1 [[ongoing]] when operating the device.
 
@@ -707,11 +707,11 @@ As with standard mystery design, you should create other threats.
 
 -   What will be affected next?
 
-> [[Special Moves]]
+> [[Special Luck Moves]]
 >
 > *By Michael Sands*
 >
-> Some of the hunter playbooks get a special move when they spend Luck. This optional section provides [[special moves]] for all the [[hunter types]]. I've included the existing ones so you have them all available for reference.
+> Some of the hunter playbooks get a special move when they spend Luck. This optional section provides [[Special Luck Moves]] for all the [[hunter types]]. I've included the existing ones so you have them all available for reference.
 >
 > **Action Scientist Special**: When you spend a Luck, some gadget or machine near you will do something weird, malfunction, break down, or explode.
 >
@@ -1240,7 +1240,7 @@ weapon. **Recording devices (pick two):**
 
 -   What would distract it?
 
-> b **Spirit Touched**: Your experiences have made you sensitive to the supernatural. When you sense magical things, roll [[+Weird]]. On a 10+ you can sense them fully. On a 7-9, choose: either sense them fully but they notice you too, or you sense only impressions.
+> b **Spirit Touched**: Your experiences have made you [[sensitive]] to the supernatural. When you sense magical things, roll [[+Weird]]. On a 10+ you can sense them fully. On a 7-9, choose: either sense them fully but they notice you too, or you sense only impressions.
 
 ## Gear {#gear-2}
 
@@ -1344,7 +1344,7 @@ b Pocket knife or multitool decent condition
 >
 > B **First Encounter**: One strange event started you down this path, sparking your need to discover the truth behind the unexplained. Decide what that event was: pick a category below and take the associated move. Then tell everyone what happened to you (or someone close to you). Then pick a category below and take the associated move: b **Cryptid Sighting**: You take note of any reports of strange creatures. Whenever you first see a new type of creature, you may immediately ask one of the **[[investigate a mystery]]** questions. b **Zone of Strangeness**: Things are not fixed. You never need **[[act under pressure]]** when supernatural forces alter the environment around you, and you get 2-[[armour]] against [[harm]] from sudden changes to the laws of physics.
 >
-> b **Psychic Event**: Your mind is awakened. You may **[[act under pressure]]** to use the **sensitive** weird move, or---if **sensitive** is your weird move---**empath**. See page 21. b **Higher power**: Something looks out for you. You start with an extra Luck.
+> b **Psychic Event**: Your mind is awakened. You may **[[act under pressure]]** to use the **[[sensitive]]** weird move, or---if **[[sensitive]]** is your weird move---**[[empath]]**. See page 21. b **Higher power**: Something looks out for you. You start with an extra Luck.
 >
 > b **Strange Dangers**: You are always watching for hazards. When you have no [[armour]], you still count as having 1-[[armour]].
 >
@@ -2479,7 +2479,7 @@ b phenomenon b serial killer b dopplegänger
 
 -   Midnight: The character seems completely monstrous. Rational thought is nearly impossible.
 
-> **Cure:** A person whose immune system is boosted by magic or science can fight off the transformation with regular **[[use magic]]** or **weird science**. Other weird [[moves]] might also apply if the hunter comes up with a good way to use them. It is not so simple to cure someone who has completed the transformation. This is a situation requiring major effort, **[[big magic]]** or a **weird science** experiment. The following elements will be needed:
+> **Cure:** A person whose immune system is boosted by magic or science can fight off the transformation with regular **[[use magic]]** or **[[weird science]]**. Other weird [[moves]] might also apply if the hunter comes up with a good way to use them. It is not so simple to cure someone who has completed the transformation. This is a situation requiring major effort, **[[big magic]]** or a **[[weird science]]** experiment. The following elements will be needed:
 
 -   The individual to be cured must be present for the procedure.
 
@@ -2487,7 +2487,7 @@ b phenomenon b serial killer b dopplegänger
 
 -   A few days to study the changes between the past and current version of the person. This could be an opportunity to **[[read a bad situation]]**.
 
--   A **[[use magic]]** or **weird science** move.
+-   A **[[use magic]]** or **[[weird science]]** move.
 
 # Dr. Atsuko Popov {#dr.-atsuko-popov}
 
@@ -2661,7 +2661,7 @@ b phenomenon b serial killer b dopplegänger
 >
 > In the center of the lab is a large chamber where the Moss Brain is held.
 >
-> There are many weird science materials and tools here. Some may be useful if [[the hunters]] try to defeat the moss with their own weird science.
+> There are many [[weird science]] materials and tools here. Some may be useful if [[the hunters]] try to defeat the moss with their own [[weird science]].
 
 # Moss Brain {#moss-brain}
 
@@ -2767,7 +2767,7 @@ b phenomenon b serial killer b dopplegänger
 >
 > On a miss, take an additional [[harm]] and answer honestly the questions she asks you.
 >
-> **Attacks:** **Telekinesis:** 0 to 3-[[harm]] close ignore-[[armour]] cold. Evelyn can throw objects or push victims---pick [[harm]] rating based on danger level. This leaves a frost that will melt into ectoplasmic goo.
+> **Attacks:** **[[Telekinesis]]:** 0 to 3-[[harm]] close ignore-[[armour]] cold. Evelyn can throw objects or push victims---pick [[harm]] rating based on danger level. This leaves a frost that will melt into ectoplasmic goo.
 >
 > **[[Armour]]:** None, but she cannot be harmed by normal [[weapons]] (except while using her frost grasp).
 >
@@ -3267,7 +3267,7 @@ b phenomenon b serial killer b dopplegänger
 
 -   **Stealth**: The mantids exist in a phase of reality that living eyes can see quite well but technology can only catch fragments of. On camera, the mantid might present an occasional glimmer when viewed full on, with full silhouettes being caught rarely and usually on the edges of an image. Mantids are aware of when they are under a camera's eye and will be careful when they can be recorded. If there is an active queen, they stop caring about being seen.
 
--   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes [[unstable]] as their body begins to crystallize and they are completely transformed once all [[harm]] is marked off. The process can only be stopped with magic (**[[use magic]]** to banish a curse), **weird science**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
+-   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes [[unstable]] as their body begins to crystallize and they are completely transformed once all [[harm]] is marked off. The process can only be stopped with magic (**[[use magic]]** to banish a curse), **[[weird science]]**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
 
 -   **Devouring**: When it eats a crystallized prey and the soul within, it heals 2-[[harm]].
 
@@ -5443,7 +5443,7 @@ Jacob's spell still affects all the cats in the city. Every time The Starry
 
 > *Monster: Executioner (motivation: to punish the guilty)*
 >
-> [[Razorback]] is a huge ogre wearing a patchwork leather pig mask and a slaughterhouse apron full of killing tools. Magically sensitive hunters notice an intense demonic aura. Everyone hears an intense buzzing of flies when he is near.
+> [[Razorback]] is a huge ogre wearing a patchwork leather pig mask and a slaughterhouse apron full of killing tools. Magically [[sensitive]] hunters notice an intense demonic aura. Everyone hears an intense buzzing of flies when he is near.
 >
 > During combat, [[Razorback]] prefers to hang back and throw blades or spikes, or trigger machinery. [[Razorback]] does not run.
 >
@@ -6133,7 +6133,7 @@ The sound of antique clocks constantly ticking is almost deafening.
 
 > *Phenomenon: Experiment (motivation: to unleash dangers)*
 >
-> The [[World Egg]] is sensitive to everything around it. It reads auras and compiles the data into a pocket dimension. After a month or so it
+> The [[World Egg]] is [[sensitive]] to everything around it. It reads auras and compiles the data into a pocket dimension. After a month or so it
 >
 > 'hatches' by bursting into an immobile portal about the size of a typical door: a rip in our reality leading into the newborn world. The portal is visible in our world but usually not from inside the pocket dimension.
 >

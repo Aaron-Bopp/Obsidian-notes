@@ -34,7 +34,7 @@ Potential leads include:
 
 *Phenomenon: Experiment (motivation: to unleash dangers)*
 
-The World Egg is sensitive to everything around it. It reads auras and compiles the data into a pocket dimension. After a month or so it
+The World Egg is [[sensitive]] to everything around it. It reads auras and compiles the data into a pocket dimension. After a month or so it
 
 ‘hatches’ by bursting into an immobile portal about the size of a typical door: a rip in our reality leading into the newborn world. The portal is visible in our world but usually not from inside the pocket dimension.
 

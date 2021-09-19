@@ -18,7 +18,7 @@ The Clemonte family, who own the plant, received notice from the local police th
 
 *Monster: Executioner (motivation: to punish the guilty)*
 
-Razorback is a huge ogre wearing a patchwork leather pig mask and a slaughterhouse apron full of killing tools. Magically sensitive hunters notice an intense demonic aura. Everyone hears an intense buzzing of flies when he is near.
+Razorback is a huge ogre wearing a patchwork leather pig mask and a slaughterhouse apron full of killing tools. Magically [[sensitive]] hunters notice an intense demonic aura. Everyone hears an intense buzzing of flies when he is near.
 
 During combat, Razorback prefers to hang back and throw blades or spikes, or trigger machinery. Razorback does not run.
 

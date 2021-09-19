@@ -23,7 +23,7 @@ These [[moves]] are your main tool in play. Most of the time, when you’re sayi
 
 *Put someone in trouble*. Hunters are out to save people, so you need to provide people for them to save. Threaten [[bystanders]], endanger other members of the team, and send [[monsters]] after a hunter’s family. Plus there are other kinds of trouble as well, such as suspicious cops or neighbours who don’t like [[the hunters]] snooping around.
 
-*Make a threat move, from one of the current mystery’s threats or one of your [[arc threats]]*. This list of Keeper [[moves]] is not the whole story. Each type of threat has its own list of [[special moves]] it can make: see [[0000575908]] to [[0000589791]]. Use these when [[the threats]] are present and active.
+*Make a threat move, from one of the current mystery’s threats or one of your [[arc threats]]*. This list of Keeper [[moves]] is not the whole story. Each type of threat has its own list of [[Special Luck Moves]] it can make: see [[0000575908]] to [[0000589791]]. Use these when [[the threats]] are present and active.
 
 *After every move, ask what they do next*. Just as it says, every time you make a move, immediately ask what [[the hunters]] do next. Let them drive the action, by asking what they do next at every chance you get.
 

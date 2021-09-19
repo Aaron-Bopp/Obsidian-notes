@@ -2580,7 +2580,7 @@ For example, a hunter decides they want a super-soaker type water gun for a mons
 
 If [[armour]] has the magic tag, then normal [[weapons]] that have ignore-[[armour]] don’t bypass the rating. Only [[weapons]] that have magic and ignore-[[armour]] will bypass magic [[armour]].
 
-Normally hunters can only get [[gear]] worth 1 or 2-[[armour]]. [[Armour]] worth more than that would be something very rare and special: perhaps ancient magic, or the results of weird science.
+Normally hunters can only get [[gear]] worth 1 or 2-[[armour]]. [[Armour]] worth more than that would be something very rare and special: perhaps ancient magic, or the results of [[weird science]].
 
 [[Other Gear]]
 
@@ -3090,7 +3090,7 @@ First, pick the monster’s type. The twelve types (and the motivations that go 
 
 Next up, think about the supernatural **powers** the monster possesses. Think about your initial [[inspiration]] for the monster and work out what it can do. There’s no particular level of detail you need for monster powers. Some might be a simple descriptive note, such as “can fly.” For others you might need more detail: note down as much about the power’s effects and limitations as you can think of (this is a custom move for the power: there’s more about them on [[0000915624]]).
 
-*For powers, Marie has the ability to appear instantly anywhere in the house. And telekinesis which allows her to throw knives and stuff around, and [[hold]] doors and windows closed.*
+*For powers, Marie has the ability to appear instantly anywhere in the house. And [[telekinesis]] which allows her to throw knives and stuff around, and [[hold]] doors and windows closed.*
 
 *As she’s only a ghost, a lot of attacks won’t hurt her. Only attacks using rock salt, cold iron, or magic can [[harm]] her at all (I’m drawing [[inspiration]] straight from Supernatural here). This is a power that restricts what attacks can affect her. There’s also a special weakness that a monster has that must be used to kill her for good—that’s addressed below.*
 
@@ -3760,7 +3760,7 @@ These [[moves]] are your main tool in play. Most of the time, when you’re sayi
 
 *Put someone in trouble*. Hunters are out to save people, so you need to provide people for them to save. Threaten [[bystanders]], endanger other members of the team, and send [[monsters]] after a hunter’s family. Plus there are other kinds of trouble as well, such as suspicious cops or neighbours who don’t like [[the hunters]] snooping around.
 
-*Make a threat move, from one of the current mystery’s threats or one of your [[arc threats]]*. This list of Keeper [[moves]] is not the whole story. Each type of threat has its own list of [[special moves]] it can make: see [[0000575908]] to [[0000589791]]. Use these when [[the threats]] are present and active.
+*Make a threat move, from one of the current mystery’s threats or one of your [[arc threats]]*. This list of Keeper [[moves]] is not the whole story. Each type of threat has its own list of [[Special Luck Moves]] it can make: see [[0000575908]] to [[0000589791]]. Use these when [[the threats]] are present and active.
 
 *After every move, ask what they do next*. Just as it says, every time you make a move, immediately ask what [[the hunters]] do next. Let them drive the action, by asking what they do next at every chance you get.
 
@@ -3808,7 +3808,7 @@ These situations are times when you are *justified* making as hard a move as you
 
 [[Threat Moves]]
 
-Each type of threat has its own set of [[special moves]] it can make. Use these as well as [[the basic Keeper moves]] when you’re describing what a threat is doing.
+Each type of threat has its own set of [[Special Luck Moves]] it can make. Use these as well as [[the basic Keeper moves]] when you’re describing what a threat is doing.
 
 [[Threat moves]] are used in the same way as [[the basic Keeper moves]], except that a particular threat has to be the source of the move.
 
@@ -4006,7 +4006,7 @@ Sometimes the answer to one of the questions will be a negative, such as when yo
 
 Misses for this move lend themselves to trouble with normal people (e.g. annoying the witness; being caught stealing evidence, etc) or giving away information to their enemies (e.g. the monster or [[minions]] hear about questions being asked; [[the hunters]] are observed in their evidence collection; etc).
 
-**AN EXAMPLE INVESTIGATION**
+**[[AN EXAMPLE INVESTIGATION]]**
 
 Here’s an example showing how an investigation scene might play out.
 
@@ -6369,7 +6369,7 @@ This is a special-effect move, adding some extra options for investigation that 
 
 If there’s a need for a threat type that doesn’t quite fit into the ones that are already defined, just add it. All that’s needed are a name, a motivation, and any [[custom moves]] it can make.
 
-Think about whether it is a monster, minion, bystander, or location. If it doesn’t fit into any of those, you can create a new threat type with its own list of [[special moves]].
+Think about whether it is a monster, minion, bystander, or location. If it doesn’t fit into any of those, you can create a new threat type with its own list of [[Special Luck Moves]].
 
 Example Custom Threat: An Evil Cult
 

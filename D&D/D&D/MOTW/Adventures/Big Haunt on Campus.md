@@ -40,7 +40,7 @@ On a 7-9, you see into her soul, but she also sees into yours; ask your question
 
 On a miss, take an additional [[harm]] and answer honestly the questions she asks you.
 
-**Attacks:** **Telekinesis:** 0 to 3-[[harm]] close ignore-[[armour]] cold. Evelyn can throw objects or push victims—pick [[harm]] rating based on danger level. This leaves a frost that will melt into ectoplasmic goo.
+**Attacks:** **[[Telekinesis]]:** 0 to 3-[[harm]] close ignore-[[armour]] cold. Evelyn can throw objects or push victims—pick [[harm]] rating based on danger level. This leaves a frost that will melt into ectoplasmic goo.
 
 **[[Armour]]:** None, but she cannot be harmed by normal [[weapons]] (except while using her frost grasp).
 

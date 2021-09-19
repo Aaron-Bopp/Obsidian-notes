@@ -14,6 +14,8 @@
 
 [[A Matter of Timing Pacing for Convention Games]]:
 
+[[AN EXAMPLE INVESTIGATION]]:
+
 [[Ability Ratings]]:
 
 [[Act Under Pressure]]:
@@ -122,6 +124,8 @@
 
 [[Elvis Has Left the Building]]:
 
+[[Empath]]:
+
 [[End-Of-Session Experience Questions]]:
 
 [[Endgame]]:
@@ -200,6 +204,8 @@
 
 [[I'm Not Prepared For This]]:
 
+[[Illuminated]]:
+
 [[Immortal]]:
 
 [[Improvements]]:
@@ -260,8 +266,6 @@
 
 [[Monsters]]:
 
-[[More Flexible Investigations]]:
-
 [[More Threats]]:
 
 [[Move Types]]:
@@ -282,6 +286,8 @@
 
 [[Necromancers Gambit]]:
 
+[[No Limits]]:
+
 [[No Planning Ahead]]:
 
 [[ONGOING]]:
@@ -297,6 +303,8 @@
 [[Other Gear]]:
 
 [[Other Things To Consider]]:
+
+[[Past Lives]]:
 
 [[Phenomena Mysteries]]:
 
@@ -336,6 +344,8 @@
 
 [[Running the game]]:
 
+[[Sensitive]]:
+
 [[Sessions and Mysteries]]:
 
 [[Shapeshifter]]:
@@ -350,7 +360,7 @@
 
 [[Something Borrowed]]:
 
-[[Special Moves]]:
+[[Special Luck Moves]]:
 
 [[Special Snowflake]]:
 
@@ -383,6 +393,8 @@
 [[Team Concepts]]:
 
 [[Team Customization]]:
+
+[[Telekinesis]]:
 
 [[The Basic Hunter Moves]]:
 
@@ -472,6 +484,8 @@
 
 [[Triggering The Custom Move]]:
 
+[[Trust Your Gut]]:
+
 [[UNSTABLE]]:
 
 [[Unarmed Attacks And Improvised Weapons]]:
@@ -491,6 +505,8 @@
 [[Vulnerability]]:
 
 [[Weapons]]:
+
+[[Weird Science]]:
 
 [[What That All Means]]:
 

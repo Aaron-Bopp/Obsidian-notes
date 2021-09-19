@@ -68,7 +68,7 @@ Lifespan: As the plague mutates, each generation of infected arachnoids lives tw
 
 -   Midnight: The character seems completely monstrous. Rational thought is nearly impossible.
 
-**Cure:** A person whose immune system is boosted by magic or science can fight off the transformation with regular **[[use magic]]** or **weird science**. Other weird [[moves]] might also apply if the hunter comes up with a good way to use them. It is not so simple to cure someone who has completed the transformation. This is a situation requiring major effort, **[[big magic]]** or a **weird science** experiment. The following elements will be needed:
+**Cure:** A person whose immune system is boosted by magic or science can fight off the transformation with regular **[[use magic]]** or **[[weird science]]**. Other weird [[moves]] might also apply if the hunter comes up with a good way to use them. It is not so simple to cure someone who has completed the transformation. This is a situation requiring major effort, **[[big magic]]** or a **[[weird science]]** experiment. The following elements will be needed:
 
 -   The individual to be cured must be present for the procedure.
 
@@ -76,7 +76,7 @@ Lifespan: As the plague mutates, each generation of infected arachnoids lives tw
 
 -   A few days to study the changes between the past and current version of the person. This could be an opportunity to **[[read a bad situation]]**.
 
--   A **[[use magic]]** or **weird science** move.
+-   A **[[use magic]]** or **[[weird science]]** move.
 
 # Dr. Atsuko Popov
 

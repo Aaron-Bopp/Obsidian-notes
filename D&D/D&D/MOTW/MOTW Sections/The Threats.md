@@ -43,7 +43,7 @@ First, pick the monster’s type. The twelve types (and the motivations that go 
 
 Next up, think about the supernatural **powers** the monster possesses. Think about your initial [[inspiration]] for the monster and work out what it can do. There’s no particular level of detail you need for monster powers. Some might be a simple descriptive note, such as “can fly.” For others you might need more detail: note down as much about the power’s effects and limitations as you can think of (this is a custom move for the power: there’s more about them on [[0000915624]]).
 
-*For powers, Marie has the ability to appear instantly anywhere in the house. And telekinesis which allows her to throw knives and stuff around, and [[hold]] doors and windows closed.*
+*For powers, Marie has the ability to appear instantly anywhere in the house. And [[telekinesis]] which allows her to throw knives and stuff around, and [[hold]] doors and windows closed.*
 
 *As she’s only a ghost, a lot of attacks won’t hurt her. Only attacks using rock salt, cold iron, or magic can [[harm]] her at all (I’m drawing [[inspiration]] straight from Supernatural here). This is a power that restricts what attacks can affect her. There’s also a special weakness that a monster has that must be used to kill her for good—that’s addressed below.*
 

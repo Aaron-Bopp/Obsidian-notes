@@ -22,7 +22,9 @@ If they come up with what seems like a silly, plot-derailing plan then
 
 I run with it, especially if everyone at the table is laughing. We had our Flake decide that the way to get into the second-floor apartment above a dry cleaner was to take off his shirt and get it washed. The dry cleaners weren’t involved with the mystery, but they did call the police to investigate the weirdo who was bugging them, thereby leaving the way clear for the rest of the team to sneak in the back way.
 
-![[image62.png]]My biggest piece of advice is not to get your mind set on any one way a story should go. Jjust come up with a monster and the kind of thing it’s doing and then let the players go wild. Be willing to throw out all your prep and don’t worry about it; follow what the players are into and you’ll all have a great time.
+![[image62.png]]
+
+My biggest piece of advice is not to get your mind set on any one way a story should go. Jjust come up with a monster and the kind of thing it’s doing and then let the players go wild. Be willing to throw out all your prep and don’t worry about it; follow what the players are into and you’ll all have a great time.
 
 The point of these sessions is to have fun, and the inter-team bonding has had positive effects in our work relationships as well. Some of us are in vastly different roles in different areas of the business, but building common ground through gaming has opened up communication channels and built trust we wouldn’t have had otherwise.
 

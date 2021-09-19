@@ -82,7 +82,7 @@ b **Monster Empathy**: When you try to work out what a supernatural creature des
 
 -   What would distract it?
 
-b **Spirit Touched**: Your experiences have made you sensitive to the supernatural. When you sense magical things, roll [[+Weird]]. On a 10+ you can sense them fully. On a 7-9, choose: either sense them fully but they notice you too, or you sense only impressions.
+b **Spirit Touched**: Your experiences have made you [[sensitive]] to the supernatural. When you sense magical things, roll [[+Weird]]. On a 10+ you can sense them fully. On a 7-9, choose: either sense them fully but they notice you too, or you sense only impressions.
 
 ## Gear
 

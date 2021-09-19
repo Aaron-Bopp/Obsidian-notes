@@ -19,7 +19,7 @@ You get all of the basic [[moves]], plus three Searcher [[moves]]. You get this 
 
 - **First Encounter**: One strange event started you down this path, sparking your need to discover the truth behind the unexplained. Decide what that event was: pick a category below and take the associated move. Then tell everyone what happened to you (or someone close to you). Then pick a category below and take the associated move: b **Cryptid Sighting**: You take note of any reports of strange creatures. Whenever you first see a new type of creature, you may immediately ask one of the **[[Investigate A Mystery]]** questions. b **Zone of Strangeness**: Things are not fixed. You never need **[[Act Under Pressure]]** when supernatural forces alter the environment around you, and you get 2-[[armour]] against [[harm]] from sudden changes to the laws of physics.
 
-- **Psychic Event**: Your mind is awakened. You may **[[Act Under Pressure]]** to use the **sensitive** weird move, or—if **sensitive** is your weird move—**empath**. See page 21. b **Higher power**: Something looks out for you. You start with an extra Luck.
+- **Psychic Event**: Your mind is awakened. You may **[[Act Under Pressure]]** to use the **[[sensitive]]** weird move, or—if **[[sensitive]]** is your weird move—**[[empath]]**. See page 21. b **Higher power**: Something looks out for you. You start with an extra Luck.
 
 - **Strange Dangers**: You are always watching for hazards. When you have no [[armour]], you still count as having 1-[[armour]].
 

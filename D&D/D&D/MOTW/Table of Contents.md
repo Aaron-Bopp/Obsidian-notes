@@ -7,7 +7,7 @@ Rules . . . . . . . . . . 15
 
 [[Phenomena Mysteries]] . . . . . 24
 
-[[Special Moves]] . . . . . . . . . . 27
+[[Special Luck Moves]] . . . . . . . . . . 27
 
 [[More Flexible Investigations]] . 29
 

@@ -7,6 +7,6 @@ Armour reduces the [[harm]] suffered by the wearer, by the number of points that
 
 If armour has the magic tag, then normal [[weapons]] that have ignore-armour don’t bypass the rating. Only [[weapons]] that have magic and ignore-armour will bypass magic armour.
 
-Normally hunters can only get [[gear]] worth 1 or 2-armour. Armour worth more than that would be something very rare and special: perhaps ancient magic, or the results of weird science.
+Normally hunters can only get [[gear]] worth 1 or 2-armour. Armour worth more than that would be something very rare and special: perhaps ancient magic, or the results of [[weird science]].
 
 [[Other Gear]]

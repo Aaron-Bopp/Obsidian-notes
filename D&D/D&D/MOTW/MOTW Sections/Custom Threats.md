@@ -1,7 +1,7 @@
 
 If there’s a need for a threat type that doesn’t quite fit into the ones that are already defined, just add it. All that’s needed are a name, a motivation, and any [[custom moves]] it can make.
 
-Think about whether it is a monster, minion, bystander, or location. If it doesn’t fit into any of those, you can create a new threat type with its own list of [[special moves]].
+Think about whether it is a monster, minion, bystander, or location. If it doesn’t fit into any of those, you can create a new threat type with its own list of [[Special Luck Moves]].
 
 Example Custom Threat: An Evil Cult
 

@@ -1,4 +1,4 @@
-
+### How it works
 When you **use magic**, say what you’re trying to achieve and how you do the spell, then roll [[+Weird]].
 
 - If you get a 10+, the magic works without issues: choose your effect.
@@ -37,9 +37,7 @@ Glitches:
 - You need one or two people to help cast the spell.
 - You need to refer to a tome of magic for the details.
 
-If you want to do magic that goes beyond these effects, it counts as **[[big magic]]**. [[Big magic]] uses different rules, described below.
-
-Magic, by its nature, breaks the rules. The **use magic** move lists the possible effects for magic spells. Magic that goes beyond these effects counts as **[[big magic]]** (see below).
+Magic, by its nature, breaks the rules.  If you want to do magic that goes beyond these effects, it counts as **[[big magic]]**. [[Big magic]] uses different rules, described below.
 
 When a hunter **uses magic**, it’s important to ask them what they’re trying to do (and work out which of the effects they are trying for). Ask the hunter how they cast the spell, and what it looks like too.
 

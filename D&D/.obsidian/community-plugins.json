@@ -32,5 +32,7 @@
   "obsidian-vimrc-support",
   "obsidian-linter",
   "buttons",
-  "breadcrumbs"
+  "breadcrumbs",
+  "obsidian-codemirror-options",
+  "mrj-add-codemirror-matchbrackets"
 ]
