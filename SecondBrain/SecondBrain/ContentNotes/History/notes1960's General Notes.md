@@ -228,7 +228,7 @@ bib:
                 - Impact of 
                     - Birth Control
                     - Roe v wade
-                - intersectionality
+                - [[intersectionality]]
         - [[Gay Rights]] [[Queer]]
             - Stonewall riots 1969
                 - police raided bar that was known for providing help to disadvantaged people
@@ -269,30 +269,30 @@ bib:
                     - McCarthy supporters protested
                 - Delegates voted down [[anti-war]] platform
    Tyranny, poverty, and disease -> what can you do for your country to eradicate these things
-        - established Peace Corps gave Americans an excuse to make connections with other countries (and act against [[Communism]])
+        - established Peace Corps gave [[America|Americans]] an excuse to make connections with other countries (and act against [[Communism]])
         - Foreign Policy
             - Space Race - fight [[Communism]], government funding helped innovate many new daily products (velcro)
             - Bay of Pigs 
                 - Batista was anti-communist dictator of Cuba and supported by US
-                - Fidel Castor overthrew Batista and established communist govt
+                - Fidel Castor overthrew Batista and established communist [[government|govt]]
                 - Many Cubans fled to US and US was fearful of communist country so close to US with ties to russia
                 - Bay of Pigs Invasion -> CIA plan to overthrow Cuba but with US troop involvement and invasion failed
             - Berlin Wall
                 - Fear of Russian sector of Berlin
                 - Khrushchev ordered building wall
                     - physical symbol of Iron Curtain
-            - Cuban Missile Crisis
+            - [[Cuba|Cuban]] Missile Crisis
                 - U2 plain saw missile launch sites
                 - Quarantine of Cuba stopped military goods, communist countries saw this as blockade 
-                - Frantic negotations between US and USSR to avoid war bcs mutually assured destruction
-                - USSR removed missiles from cuba, but US removed missiles from Turkey which was not reported till years later
+                - Frantic negotations between US and [[Russia|USSR]] to avoid war bcs mutually assured destruction
+                - [[Russia|USSR]] removed missiles from cuba, but US removed missiles from Turkey which was not reported till years later
                 - JFK's approval rating soared 
         - Domestic Policy
             - New Frontier Agenda
                 - increased education
                 - medical care for elderly
                 - Urband reforms (city housing)
-                - Civil rights legislation
+                - [[Civil rights]] legislation
                 - end to poverty
                 - containment of [[Communism]]
                     - Vietnam
@@ -304,7 +304,7 @@ bib:
                 - Protests were seen on TV and activists statements were publicized public support grew
                     - MLK I have a dream and Letter from Birmingham jail
                 - March on Washington
-            - Civil Rights movement forced JFK's hand despite his want of southern support to pass CRA of 1964
+            - [[Civil Rights]] movement forced JFK's hand despite his want of southern support to pass CRA of 1964
                 - CRA 1964 was not passed until after his assassination
                     - 911 like moment for current generations
                 - LBJ used JFK's legacy to move policy forward
@@ -324,15 +324,15 @@ bib:
                 - this is how to make a better America
                 - 10 billion tax cut
                 - Economic Opportunity Act of 1964
-            - Passed Civil Rights Act of 1964
+            - Passed [[Civil Rights]] Act of 1964
             - Voting Rights Act of 1965
-                - Murder of young black people allowed opportunity for change
+                - Murder of young [[black people]] allowed opportunity for change
                 - Selma 
                     - bloody sunday - marching to protest access to vote
                         - john lewis
                     - Third day joined by MLK
             - Eliminated Poll taxes and other barriers to vote
-            - Great Society legislation brought hope to everyday Americans
+            - Great Society legislation brought hope to everyday [[America|Americans]]
                 - wiped out whites only signs
                 - Not handouts handups
     - [[Vietnam]]
@@ -340,26 +340,26 @@ bib:
         - Divided on 17th parralel and was designed
         - Began as part of the Domino Theory
             - If Vietnam fell to [[Communism]] the rest of South Asia
-                - [[Communism]] associated to Soviet Union and mutually assured destruction
+                - [[Communism]] associated to [[Russia|Soviet Union]] and mutually assured destruction
         - Vietcong - Anti-american group in democratic government of South Vietnam
         - The Viet Minh - tried to take control of North Vietnam after WW2
             - Catholic vs Bhudhist conflict
             - First Indochina war 1946-1954
-            - US started to pay 80% cost of French forces to attack [[Communism]]
-                - French overconfident, and Vietnam sieged and ambushed french forces
-                - French requested direct American involvement
-            - Vietnamese were astonished and proud of the leader for defeating the French
+            - US started to pay 80% cost of [[France|French]] forces to attack [[Communism]]
+                - [[France|French]] overconfident, and Vietnam sieged and ambushed [[France|french]] forces
+                - [[France|French]] requested direct American involvement
+            - [[Vietnam|Vietnamese]] were astonished and proud of the leader for defeating the [[France|French]]
         - Geneva Accords
         - TET Offensive
-            - North Vietnamese attack with help from Vietcong
+            - North [[Vietnam|Vietnamese]] attack with help from Vietcong
             - Vietcong broke the holiday of TET and launched an attack on Saigon
                 - Called people to rise up
             - Came right after US had been promised war was ending soon
             - Fueled anti-war sentiment
         - My Lai Massacre
-            - Infamous search and destroy mission
+            - Infamous [[search]] and destroy mission
             - American soldiers massacred Vietnam civilians
-                - Guerilla Warfare made some American soldiers indifferent to Vietnamese suffering
+                - Guerilla Warfare made some American soldiers indifferent to [[Vietnam|Vietnamese]] [[suffering]]
             - Pentagon investigation ordered
                 - Calley convicted in 1971 higher ups were not 
         - Quagmire in Vietnam
@@ -372,7 +372,7 @@ bib:
     - [[Civil Rights]] Movement (lecture 23)
         - The Warren Court
             - Chief Justice Earl Warren
-            - Civil Rights cases
+            - [[Civil Rights]] cases
                 - Brown v Board of Education (1954)
                     - Advocated for desegregation
                         - Court didn't set any timeframe
@@ -388,7 +388,7 @@ bib:
                 - [[Malcolm X]]
                     - Said race was number one problem in US.
                     - assassinated in 1965
-                    - aspired for liberation not integration
+                    - aspired for [[liberation]] not integration
                 - Stokley Carmichael
                     - Invented term Black Power
                     - not riots, rebellions
@@ -396,12 +396,12 @@ bib:
                     - Abandoned Interracial Collaboration
                     - Lowndes County Freedom Party
                 - The [[Black Panthers]]
-                    - Black Panther Party for Self Defense
+                    - Black Panther Party for [[Self]] Defense
                         - The Vanguard
                             - Studied law and said that anybody without a felony could carry firearm
                             - Kept police in line with intimidation and non-violence
                         - Got a lot of backlash as "hooligans with guns"
-                        - Ronald Reagan was against
+                        - [[Reagan|Ronald Reagan]] was against
                             - California passed legislation banning firearms in public
                         - Some members of the Black community were also against it
                     - Huey P Newton and Bobby Seale
@@ -442,7 +442,7 @@ bib:
                 - The report of the Kerner Commission, appointed by President Lyndon B. Johnson to examine the causes of race riots in American cities in previous years, declares the nation is..."moving toward two societies, one black, one white--seperate and unequal." [src](https://www.smithsonianmag.com/history/timeline-seismic-180967503/)
         - [[Native American]] rights
             - 1961 Declaration of Purposes
-                - Criticized government's treatment of Native Americans
+                - Criticized government's treatment of Native [[America|Americans]]
                 - lobbied for
                     - recognition
                     - cultural and spiritual independence
@@ -454,7 +454,7 @@ bib:
             - Red Power
                 - National Indian Youth Council 
                 - American Indian Movement
-                - Advocated for Indigenous liberation
+                - Advocated for Indigenous [[liberation]]
                 - Reclaim Alcatraz Island for price that was payed for Manhattan it and help not indigenous people learn of their culture
                     - Got discussion with President Nixon
                     - Advocated for many different thigns
@@ -471,17 +471,17 @@ bib:
                 - striking images got national attention
         - New Feminism
             - 1963 Feminine Mystique
-                - had large effect on physique of women
-            - 1966 Women's liberation moevement
-                - Goal to gain equal rights for women
+                - had large effect on physique of [[women]]
+            - 1966 [[Women]]'s [[liberation]] moevement
+                - Goal to gain equal rights for [[women]]
                 - Impact of 
                     - Birth Control
                     - Roe v wade
-                - intersectionality
-        - Gay Rights
+                - [[intersectionality]]
+        - [[Queer|Gay]] Rights
             - Stonewall riots 1969
                 - police raided bar that was known for providing help to disadvantaged people
-            - Gay liberation front
+            - [[Gay Rights|Gay liberation]] front
                 - demand remove of sexuality laws
                 - equal employment
     - 1968
@@ -508,7 +508,7 @@ bib:
             - directly after winning California primary
             - RFK would be first anti-war person in the white house
         - June 28 New tax bill
-            - raised taxes and lowered govt spending
+            - raised taxes and lowered [[government|govt]] spending
         - August 8 Nixon becomes Republican candidate for president
         - August 26-28 DNC
             - Turned into conflict

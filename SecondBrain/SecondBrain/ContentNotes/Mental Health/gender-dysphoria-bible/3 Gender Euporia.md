@@ -13,7 +13,7 @@ author: Jocelyn Badgley
 ---
 **The [[Gender Dysphoria]] Bible is a Living Document**
 
-The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third Gender narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
+The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third [[Gender]] narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
 
 > [[Def]] **Euphoria** -> A feeling or state of intense excitement and [[happiness]]. Elation, joy, glee.
 
@@ -34,7 +34,7 @@ This is what [[Gender Euphoria]] is like, it is brief flashes of a light that ma
 
 I'm just going to list some idiosyncrasies and discomforts that I didn't realize were dysphoria:
 
-Many [[transgender|trans]] people have no idea how much pain they are in until they find small bits of relief. Cosplay, stage [[acting]], drag, role playing games, video games; small little forays into a different gender than they have lived as. They find that it feels just a little bit more comfortable. They’ll make up excuses for why (“If I’m gonna be looking at this character’s ass, it might as well be a girl’s ass.”), they’ll try to convince themselves it’s all just for fun, or an artistic expression. They might tell themselves that the bits of joy they feel at hearing a different pronoun are just novelty. But soon they find themselves looking for reasons to get that more often. More and more frequently they’re role playing characters of a different sex, building more costumes, buying more clothes, performing more often. You find yourself wanting to do that all the time, because it just feels better than your real life, and being “you” starts to hurt. Eventually, the old you becomes the costume.
+Many [[transgender|trans]] people have no idea how much pain they are in until they find small bits of relief. Cosplay, stage [[acting]], drag, role playing games, video games; small little forays into a different [[gender]] than they have lived as. They find that it feels just a little bit more comfortable. They’ll make up excuses for why (“If I’m gonna be looking at this character’s ass, it might as well be a girl’s ass.”), they’ll try to convince themselves it’s all just for fun, or an artistic expression. They might tell themselves that the bits of joy they feel at hearing a different pronoun are just novelty. But soon they find themselves looking for reasons to get that more often. More and more frequently they’re role playing characters of a different sex, building more costumes, buying more clothes, performing more often. You find yourself wanting to do that all the time, because it just feels better than your real life, and being “you” starts to hurt. Eventually, the old you becomes the costume.
 
 This is the most fundamental reason why we as a community say “you do not need dysphoria to be [[transgender|trans]]”, because black ink on a black canvas isn’t visible without close examination and a lot of light.
 
@@ -56,11 +56,11 @@ Examples:
 -   Getting a haircut in a masculine / feminine / androgynous manner
 -   Shaving your legs
 -   NOT shaving your legs
--   Being included in something you wouldn’t otherwise because of your assigned gender (e.g. bridal party or bachelor shower)
--   Feeling sexy / having sex in a way that aligns with your gender and sexuality.
+-   Being included in something you wouldn’t otherwise because of your assigned [[gender]] (e.g. bridal party or bachelor shower)
+-   Feeling sexy / having sex in a way that aligns with your [[gender]] and sexuality.
 
 Even just being out in the world as yourself and being seen as yourself can be massively euphoric.
 
 ==**What euphoria is NOT** is a sexual high, turn on, or fetish==. Sometimes euphoria can trigger a sexual response, and there are many factors at play that cause that (feeling good about your body is a turn on, for example), but it is not a source of sexual excitement. [[transgender|Trans]] people are not “getting off” on presenting or [[acting]] like their true selves.
 
-That said, many people who have not yet realized they are [[transgender|trans]] may resort to fetishes and kinks to express their gender and/or relieve their dysphoria. They may maintain some of these kinks through transition. There is no shame in this, how they find sexual fulfillment is their own [[business]]. However, these things are _alongside_ their gender. ==A [[transgender|trans]] person’s sense of gender persists indefinitely, it does not go away when they go back to their daily lives.==
+That said, many people who have not yet realized they are [[transgender|trans]] may resort to fetishes and kinks to express their [[gender]] and/or relieve their dysphoria. They may maintain some of these kinks through transition. There is no shame in this, how they find sexual fulfillment is their own [[business]]. However, these things are _alongside_ their [[gender]]. ==A [[transgender|trans]] person’s sense of [[gender]] persists indefinitely, it does not go away when they go back to their daily lives.==

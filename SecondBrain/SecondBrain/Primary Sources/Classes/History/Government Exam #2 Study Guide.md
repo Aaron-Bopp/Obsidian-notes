@@ -179,7 +179,7 @@ B. Key terms/concepts
 
 \-- How do you measure "effective policing"? Baltimore and Ferguson case studies.
 
-\-- "The System": heavily policing poor areas and the arrest of poor people... bail realities (see reading); under-resourced public defenders; prosecutors' and plea bargains; inmates being billed for room and board while behind bars means emerging from prison with [[debt]]; parole officers requiring payment for prison-related debt\...
+\-- "The System": heavily policing poor areas and the arrest of poor people... bail realities (see reading); under-resourced public defenders; prosecutors' and plea bargains; inmates being billed for room and board while behind bars means emerging from [[prison]] with [[debt]]; parole officers requiring payment for [[prison]]-related debt\...
 
 D. Police Militarization \-- How does this affect civil-police relations. How does this affect the delivery of [[SEARCH]] warrants?
 
@@ -293,7 +293,7 @@ C. LGBTQ+ issues in the Trump Presidency
 
 1.  Log Cabin Republicans \--
 
-2.  [[http://www.logcabin.org/issues/equality-map/]{.ul}](http://www.logcabin.org/issues/equality-map/) Must public schools accommodate students' bathroom preferences based on sex or gender?
+2.  [[http://www.logcabin.org/issues/equality-map/]{.ul}](http://www.logcabin.org/issues/equality-map/) Must public schools accommodate students' bathroom preferences based on sex or [[gender]]?
 
     a.  How the [[Obama]] administration used Title IX of the [[Education]] Amendment Act of 1972 in the "toilet wars"
 

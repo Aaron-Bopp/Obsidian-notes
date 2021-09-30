@@ -21,7 +21,7 @@ source:
     - Tags: [[white privilege]], [[racism]], [[white supremacy]]
 
 - Q:: What is a white person's perception of race grounded in and why can white people be ignorant of race's existence?
-    - > "This model acknowl-edged that White people’s racial consciousness is grounded in their perceptions of themselves in relation to People of Color." 
+    - > "This model acknowl-edged that White people’s racial [[conscious|consciousness]] is grounded in their perceptions of themselves in relation to People of Color." 
 
 - Q:: What are the five essential elements of White Privelege?
   1. Maintains the system that creates the privileges
@@ -38,7 +38,7 @@ source:
 
 - Q:: How is racism today different than racism of the past?
   It is possible to argue and obscure it's existence. Color blindness allows White people to ignore their whiteness and assume equality, while people of color are affected and gas lighted.
-    - > "Contemporary racism is covert, subtle, and largely directed at main-taining social inequalities based on race." 
+    - > "Contemporary [[racism]] is covert, subtle, and largely directed at main-taining social inequalities based on race." 
     - Tags: [[color blindness]]
 
 - > "This denial of race allows White people to continue to ignore their Whiteness, and the privileges that come with identifying as White, but also the role race plays in the daily lives of People of Color" 

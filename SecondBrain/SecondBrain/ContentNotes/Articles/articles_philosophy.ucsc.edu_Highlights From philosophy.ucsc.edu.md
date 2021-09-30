@@ -16,6 +16,6 @@ source: https://philosophy.ucsc.edu/news-events/colloquia-conferences/Geneologyo
 **Last Edited**:: *`=this.file.mtime`*
 
 ## Highlights
-- > "For Nietzsche, morality represents a system of errors that we have incor-
+- > "For Nietzsche, [[morality]] represents a system of errors that we have incor-
     porated into our basic ways of thinking, feeling and living" 
 

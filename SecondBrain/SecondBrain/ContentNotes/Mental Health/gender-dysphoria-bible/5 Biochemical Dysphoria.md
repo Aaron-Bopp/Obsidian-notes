@@ -19,7 +19,7 @@ If your brain is wired for one gonadal hormones (such as testosterone) and your 
 [[Def]] **[[Depersonalization]]** -> a disconnect from your own body, an inability to believe that the person you see in the mirror is actually yourself.  ^f732ac
 - [[Yes]] ==You feel like you are watching someone else in your body. You may find yourself not caring about what happens to your body, lack of concern with weight changes or improving your fitness because you have no ownership of this fleshy vehicle that transports you around your life.==
 
-Zinnia Jones [gives these descriptions for [[Depersonalization]]](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/Depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
+Zinnia Jones [gives these descriptions for [[Depersonalization]]](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/Depersonalization-in-[[gender]]-dysphoria-widespread-and-widely-unrecognized/):
 
 -   [[Yes]] ==A sense of detachment or estrangement from your own thoughts, feelings, or body: “I know I have feelings but I don’t feel them”==
 -   [[No]] ==Feeling split into two parts, with one going through the motions of participating in the world and one observing quietly: “There is this body that walks around and somebody else just watches==”
@@ -77,7 +77,7 @@ The intensity of physical and biochemical dysphoria is highly influenced by othe
 
 There are dozens of systems in the body that all work in tandem, and they all fluctuate from day to day, manipulating general mental state. This general dysphoria can amplify the affect of all other dysphoria. One day you can shrug off misgendering like it’s nothing, and then the next it hurts like a stab in the heart every time. One day you see yourself in the mirror, the next you’re staring at the old you.
 
-Some people experience this in a genderfluid way, with some days leaning male, same days leaning female, and other days not feeling any gender, or both. Others just feel it like a seasonal river; sometimes it swells because of rains up stream, sometimes it slows to a trickle because of drought.
+Some people experience this in a genderfluid way, with some days leaning male, same days leaning female, and other days not feeling any [[gender]], or both. Others just feel it like a seasonal river; sometimes it swells because of rains up stream, sometimes it slows to a trickle because of drought.
 
 ==**All of this is valid, and just because you feel very dysphoric one day and not dysphoric the next does not mean that you aren’t really [[transgender|trans]].**==
 
@@ -102,8 +102,8 @@ Sometimes you will hear naysayers suggesting that taking hormone therapy always 
 
 One very potent demonstration of this is the tragic case of [David Reimer](https://en.wikipedia.org/wiki/David_Reimer). At seven months of age David and his twin brother were given circumcisions to treat a bad case of phimosis (a skin condition on the foreskin). David’s went horribly wrong, and the penis was destroyed. The decision was made to perform vaginoplasty and raise him as a girl, including estrogen therapy at pubescence. By the age of 13 he was deep into suicidal [[depression]] and [[suffering]] greatly, as no amount of coaching and encouraging can make a boy enjoy being a girl. When his [[parents]] informed him of what had happened, he returned to a male presentation, switched to testosterone therapy, and over the course of his teen years had multiple operations in order to transition back to male.
 
-People know when they’re living the wrong gender.
+People know when they’re living the wrong [[gender]].
 
-Psychologist John Money oversaw David’s case and was largely responsible for the decisions that were made in David’s upbringing. Money, seeking to make a name for himself, massively misreported on David’s case, calling it a complete success in his reports. The result of this echoes to this day, as Money’s reports were used as an example of why performing genital corrective surgeries on intersex infants was an appropriate course of action. Fifty years later there are still doctors who believe that you can just change a child’s genitals and raise them as that gender, and it will stick.
+Psychologist John Money oversaw David’s case and was largely responsible for the decisions that were made in David’s upbringing. Money, seeking to make a name for himself, massively misreported on David’s case, calling it a complete success in his reports. The result of this echoes to this day, as Money’s reports were used as an example of why performing genital corrective surgeries on intersex infants was an appropriate course of action. Fifty years later there are still doctors who believe that you can just change a child’s genitals and raise them as that [[gender]], and it will stick.
 
 This is the tragedy of the [intersex](https://en.wikipedia.org/wiki/Intersex) community. Roughly one in every 60 births results in some kind of intersex condition (though not all of these are related to genitalia). Often times the “corrective” procedures used on intersex children results in a loss of function and/or sensation. Far too frequently, doctors would opt towards forced female assignment because it was easier to construct a vulva than a penis.

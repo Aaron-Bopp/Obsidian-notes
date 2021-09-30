@@ -106,7 +106,7 @@ The Maccabees
 
     a.  Agriculture. Record keeping and symbolic written language. Agriculture allowed to come about and it lead the the developments like the city of Ur
 
-2.  What was the purpose of Hammurabi's legal code? What are its important characteristics and values?
+2.  What was the [[purpose]] of Hammurabi's legal code? What are its important characteristics and values?
 
     a.  **Code of Hammurabi** (Babylonian) -- most complete
 

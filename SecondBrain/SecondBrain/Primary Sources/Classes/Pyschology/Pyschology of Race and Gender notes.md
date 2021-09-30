@@ -14,11 +14,11 @@
 - Color blindness => seeing everybody as equal, not labeling people according to the color of their skins
 	- seen as separate from using color blindness to make racist remarks
 	- != ignoring race's existence, applies more in individual situations
-		- even if you can be colorblind you that will blind you to other peoples racism
+		- even if you can be colorblind you that will blind you to other peoples [[racism]]
 ##  Barriers: White Privilege 
 - Privilege is exemption from struggles or added obstacles based solely on your social identity
 	- people can have advantaged and disadvantaged identities [[intersectionality]]
-	- race, ability, socio-economic status, religious status, gender are all forms of privilege
+	- race, ability, socio-economic status, religious status, [[gender]] are all forms of privilege
 # Week 3
 ## Readings
 - [[Historical Foundations of Race]]
@@ -31,7 +31,7 @@
 	- ethnic background
 	- place where a person holds citizenship
 - Race is socially constructed
-	- there is nothing in our genes that determines what black people or white people look like only arbitrary physical characteristics
+	- there is nothing in our genes that determines what [[black people]] or white people look like only arbitrary physical characteristics
 	- if race is more than biology
 		- racial differences arent due to biology
 		- societal hierarchies around race are not based on "real" differences
@@ -48,7 +48,7 @@
 	- now known as a pseudo-science 
 - r/K theory: species can be ordered on a continuum based on number and quality of offspring
 	- lower species have more/worse offspring, "higher" species have fewer/better
-- cephalic index: some races have smaller brains == lower IQ scores
+- cephalic [[index]]: some races have smaller brains == lower IQ scores
 - IQ scores increasing over time
 	- black scores are increasing faster than other groups
 - racial admixture
@@ -61,15 +61,15 @@
 ## Institutional and Systemic Bias
 - Why was there resistance to black lives matter?
 	- White lives matter supporters didn't understand the point of BLM
-	- People are made uncomfortable by the discussion/acknowledgement of the racism in america
-- Racism vs systemic racism
-	- racism is individual comes from disdain ahtred of a certain group
-	- systemic racism is when the systems of society have been built to reinforce individuals racism
-- Institutional bias - discrimination ingrained into society through culture, govt, laws, norms
+	- People are made uncomfortable by the discussion/acknowledgement of the [[racism]] in america
+- [[Racism]] vs systemic [[racism]]
+	- [[racism]] is individual comes from disdain ahtred of a certain group
+	- systemic [[racism]] is when the systems of society have been built to reinforce individuals [[racism]]
+- Institutional bias - discrimination ingrained into society through culture, [[government|govt]], laws, norms
 	- implicit or explicit (discrimination vs privelege)
 - What is causing institutional bias?
 ## Racial disparities in covid
-- black people (and navajo people) more likely to catch and more likely to die from covid
+- [[black people]] (and navajo people) more likely to catch and more likely to die from covid
 - Causes: Some of these are correlations not causation of race
 	- Hospitals underfunded
 	- higher percentage essential workers
@@ -77,7 +77,7 @@
 		- can't take time off to get healthcare
 	- crowded and multigenerational housing
 	- less likely to have health insurance
-	- distrust of healthcare and govt
+	- distrust of healthcare and [[government|govt]]
 	- higher rate of pre-existing conditions
 		- lower health outcomes
 		- lower life expectancy
@@ -113,24 +113,24 @@
 			- can be good or bad
 			- can happen many times
 				- reinforces or bring's it back to the forefront
-			- individuals's sense of self is impacted and they re-evaluate
+			- individuals's sense of [[self]] is impacted and they re-evaluate
 		3. Immersion-Emersion
 			- immersion = full intense engagement in black culture
 			- emersion - emergence from immersion with a nuanced understanding of racial identity/culture/relations
 			- characterized by (justified) rage toward whiteness
 		4. Internalization
-			- transitions from action and emotion to internal change and view of self
+			- transitions from action and emotion to internal change and view of [[self]]
 	- criticisms
-		- only applicable to african-americans
+		- only applicable to african-[[America|americans]]
 		- one-directional
 			- people shift from stage to stage back and forth
 ### White identity			
-- Abandonment of Racism
+- Abandonment of [[Racism]]
 	1. Contact
 		- Lack of awareness of race is importance in society
 		- all people are evaluated by white criteria
 	1. Disintegration
-		- acknowledge race ==> feelings of guild, shame, anxiety
+		- acknowledge race ==> feelings of guild, shame, [[anxiety]]
 	1. Reintegration
 		- Reversion back to recially-biased beliefs
 		- idealization
@@ -150,7 +150,7 @@
 	3. autonomy
 		- internalization of positive white identity
 		- race is not viewed negatively
-		- cfronts racism
+		- cfronts [[racism]]
 		- rejects privilege
 		- comfort when interacting with POC
 
@@ -162,21 +162,21 @@
 
 # Week 7  
 
-1.  Chapter 2: Theoretical Perspectives on Gender, pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
+1.  Chapter 2: Theoretical Perspectives on [[Gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
 
 # Week 8  
 
-1.  Chapter 2: Theoretical Perspectives on Gender, pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
+1.  Chapter 2: Theoretical Perspectives on [[Gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
 2.  Chapter 7: Lifespan Development, pp. 151-179. Access through your Else-Quest & Hyde (2018) textbook.
 
 # Week 9  
 
-1.  Chapter 3: Gender Stereotypes and Gender Differences, pp. 61-81. Access through your Else-Quest & Hyde (2018) textbook.
-2.  Chapter 10: Biology and Gender, pp. 223-240. Access through your Else-Quest & Hyde (2018) textbook.
+1.  Chapter 3: [[Gender]] Stereotypes and [[Gender]] Differences, pp. 61-81. Access through your Else-Quest & Hyde (2018) textbook.
+2.  Chapter 10: Biology and [[Gender]], pp. 223-240. Access through your Else-Quest & Hyde (2018) textbook.
 
 # Week 10  
 
-1.  “[Frequently Asked Questions about Transgender People](https://transequality.org/issues/resources/frequently-asked-questions-about-transgender-people),” web article from _National Center for Transgender Equality_.
+1.  “[Frequently Asked Questions about [[Transgender]] People](https://transequality.org/issues/resources/frequently-asked-questions-about-[[transgender]]-people),” web article from _National Center for [[Transgender]] Equality_.
 2.  [[Russell et al. (2018) - Chosen Name Use.pdf]] 
 3.  [[Sansfacon et al. (2020) - I Knew That I Wasn't Cis.pdf]] 
 
@@ -191,15 +191,15 @@
 
 # Week 13  
 
-1.  “[Sexism Isn’t Just Unfair; It Makes Women Sick, Study Suggests](https://theconversation.com/sexism-isnt-just-unfair-it-makes-women-sick-study-suggests-95689),” web article from _The Conversation._
+1.  “[Sexism Isn’t Just Unfair; It Makes [[Women]] Sick, Study Suggests](https://theconversation.com/sexism-isnt-just-unfair-it-makes-[[women]]-sick-study-suggests-95689),” web article from _The Conversation._
 2.  “[Sexism May Be Harmful to Men’s Mental Health](https://www.apa.org/news/press/releases/2016/11/sexism-harmful),” web article from _American Psychological Association_.
 3.  [[Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
 
 # Week 14  
 
 1.  Chapter 4, Focus 4.1: Racial Microaggressions, pp. 90-91. Access through your Else-Quest & Hyde (2018) textbook.
-2.  Chapter 9: Gender and Work, pp. 210-216. Access through your Else-Quest & Hyde (2018) textbook.
-3.  Chapter 14: Gender and Victimization, pp. 311-336. Access through your Else-Quest & Hyde (2018) textbook.
+2.  Chapter 9: [[Gender]] and Work, pp. 210-216. Access through your Else-Quest & Hyde (2018) textbook.
+3.  Chapter 14: [[Gender]] and Victimization, pp. 311-336. Access through your Else-Quest & Hyde (2018) textbook.
 
 # Week 15
 No assigned readings.  

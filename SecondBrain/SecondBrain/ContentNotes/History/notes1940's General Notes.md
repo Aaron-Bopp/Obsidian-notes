@@ -16,11 +16,11 @@ bib:
         - [[Germany]]
             - German put weapons in the DMZ
             - Hitler incited riots and used them as an excuse to invade Czechoslovakia
-            - [[Hitler]] sold himself as a just trying to unite the german people that had been seperated since WW1
+            - [[Hitler]] sold himself as a just trying to unite the german people that had been seperated since [[World War 1|WW1]]
             - Nazi-Soviet Pact - removed the immediate threat of two front war
             - Blitzkrieg was fast and destructive
-                - Other countries came in when the Soviet Union also attacked poland
-            - In 3 months Germany controlled all of Europe except for Britain and the Soviet Union
+                - Other countries came in when the [[Russia|Soviet Union]] also attacked poland
+            - In 3 months Germany controlled all of Europe except for Britain and the [[Russia|Soviet Union]]
         - Japan
             - Expansions threatened american 
             - Rape of Nanking 
@@ -35,14 +35,14 @@ bib:
                 - North Africa -> Italy -> France
                 - One chance to invade France
                     - D-Day needed to gain a hold in Europe
-                    - Second Front helped to relieve pressure on Soviets
+                    - Second Front helped to relieve pressure on [[Russia|Soviets]]
                         - Battle of Bulge was counter offensive in late 1944
         - Ending the War
             - Yalta conference
                 - Unconditional surrender form Germany
                 - Set post-war agenda for Germany
-                - USSR agreed to enter war against Japan 90 days after german defeat
-            - [[FDR]]death and Hitler suicide lead to a quicker end to the war in May 1945
+                - [[Russia|USSR]] agreed to enter war against Japan 90 days after german defeat
+            - [[FDR]]death and Hitler [[suicide]] lead to a quicker end to the war in May 1945
                 - This is when concentration camps were discovered
                 - Eisenhower invited many people to see these atrocities and document them
         - Pacific Theater
@@ -51,7 +51,7 @@ bib:
                 - australian attacks
                 - island hopping - amphibious landings trying to take back on island at a time
             - Battle of midway 1942
-                - crippled japanese fleets but continued to fight till 1944
+                - crippled [[Japan|japanese]] fleets but continued to fight till 1944
             - By 1944 Japan was running out of resources and started using kamikazes as last ditch effort
         - Potsdam Conference
             - Stalin was wary of new ally leadership
@@ -61,7 +61,7 @@ bib:
         - Atomic bombs
             - Trinity Test first successful atomic bomb around the time of Potsdam Conference 
             - Truman decides to use bomb to end the war and chooses Hiroshima and Nagasaki because they were industrial centers and highly populated
-            - USSR and just began amassing troops as they agreed to in the Yalta Conference
+            - [[Russia|USSR]] and just began amassing troops as they agreed to in the Yalta Conference
             - Some died from bomb, others died from infections and wounds, some were effected by the radiation and are still discriminated against
             - [[SecondBrain/history/Did the Atomic Bombs end WW2]]
                 - US knew that Japan was negotiating surrender through neutral states, but US only wanted unconditional surrender

@@ -26,37 +26,13 @@
 
 [[19 Estrogenic Second Puberty 101]]:
 
-[[1918]]:
-
-[[1920's General Notes]]:
-
-[[1920s]]:
-
-[[1930's General Notes]]:
-
-[[1940's General Notes]]:
-
-[[1950's General Notes]]:
-
-[[1950s]]:
-
-[[1960's General Notes]]:
-
-[[1968 Discussion]]:
-
-[[1970's General Notes]]:
-
-[[1980's General Notes]]:
-
-[[1990's General Notes]]:
+[[1968 was a major setback for the American left]]:
 
 [[2 A Brief History of Gender Dysphoria]]:
 
 [[2 Policing and Criminal Justice 2020]]:
 
 [[20 In Conclusion]]:
-
-[[2000's General Notes]]:
 
 [[20th Century America]]:
 
@@ -78,11 +54,15 @@
 
 [[7 Societal Dysphoria]]:
 
+[[7 Ways We Know Systemic Racism Is Real]]:
+
 [[8 Sexual Dysphoria]]:
 
 [[9 Presentational Dysphoria]]:
 
 [[A inwardly judgementful and outwardly accepting home creates trust issues]]:
+
+[[A mismatch between your self-image and the way others percieve you destroys self-image]]:
 
 [[A secure identity is the best defense against social anxiety]]:
 
@@ -96,27 +76,19 @@
 
 [[ADHD is primarily an executive function disorder]]:
 
-[[AI]]:
-
-[[AIDS]]:
-
 [[ANCIENT EGYPT_Politics & Justice]]:
 
 [[ANCIENT EGYPT_Society & Culture]]:
 
-[[API]]:
-
-[[Short Written Response The Littoral Zone]]:
+[[Abolition]]:
 
 [[Abortion and immigration are key to white supremacy]]:
 
 [[Accepting responsibility is not only about your actions]]:
 
-[[Adderall]]:
+[[Acting  History Research Paper]]:
 
-[[Addictive Personality Dr.K interview]]:
-
-[[Afghanistan]]:
+[[Acting Bio]]:
 
 [[Agoraphobia]]:
 
@@ -124,15 +96,7 @@
 
 [[AlgorithmFlowchart]]:
 
-[[America]]:
-- Americans
-- The US
-- The United States
-- Americanism
-
-[[American History]]:
-
-[[An Introduction to Bhuddism]]:
+[[American's are scared of the word communism not it's meaning]]:
 
 [[An unfulfilled need for validation results in a fear of rejection]]:
 
@@ -140,13 +104,9 @@
 
 [[Ancient Athens_CLEISTHENES Lecture Outline]]:
 
-[[Ancient Cave Art Full of Teenage Graffiti]]:
-
 [[Ancient Greek Society & Economy]]:
 
 [[Ancient Greek Thinking Lecture Outline]]:
-
-[[Ancient Mesopotamia_Politics and Justice]]:
 
 [[Ancient Mesopotamia_Society and Culture]]:
 
@@ -157,16 +117,17 @@
 [[Andy Matuschak's Evergreen Notes]]:
 - Andy's notes
 
-[[SecondBrain/EvergreenNotes/Answer open questions]]:
+[[Anger fuels change]]:
+
+[[Answer open questions]]:
 
 [[Anti-government stances lead to economic crashes]]:
-
-[[Anti-war]]:
-- anti war
 
 [[Anxiety isn't irrational it's just overcompensation]]:
 
 [[Anxiety should be a tool at your disposal not an impedance to your life]]:
+
+[[Any experience of gender is acceptable]]:
 
 [[Article Review]]:
 
@@ -178,8 +139,6 @@
 
 [[Assignment2]]:
 
-[[Attachment Theory]]:
-
 [[Autism]]:
 
 [[Avoidance IS the most-efficient way of dealing with emotion]]:
@@ -190,12 +149,11 @@
 
 [[BIOL 102 Exam IV Study Guide]]:
 
-[[BPD]]:
-- borderline personality disorder
-
-[[Baby Boomers]]:
-
 [[Base Conversion Assignment]]:
+
+[[Behavioral Evolution]]:
+
+[[Being in a defensive condition can cause you to be consumed by your ego]]:
 
 [[Bernie Sanders]]:
 
@@ -203,19 +161,9 @@
 
 [[Bhuddism is the study of happiness through detachment]]:
 
-[[Bill Clinton]]:
-
 [[Biology-Notes]]:
 
-[[Black Panthers]]:
-
-[[Black Power]]:
-
 [[Bopp]]:
-
-[[Under Milkwood Play Critique]]:
-
-[[Acting  History Research Paper]]:
 
 [[Bopp-Assignment05]]:
 
@@ -227,15 +175,7 @@
 
 [[Branch_practice_Sol]]:
 
-[[Breaking the Cycle of Overthinking]]:
-
-[[Britain]]:
-- England
-- UK
-- United Kingdom
-
-[[CIA]]:
-- Central Intelligence Agency
+[[CONTENTNOTES]]:
 
 [[CSI Reflection Assignment. Northwest Online-AaronBopp]]:
 
@@ -247,10 +187,7 @@
 
 [[Calc1WellWrit1.2- AaronBopp]]:
 
-[[Calvin Coolidge]]:
-- Coolidge
-
-[[Capitalism]]:
+[[Can We Talk About Whiteness NPR One]]:
 
 [[Capture your fleeting thoughts]]:
 
@@ -274,8 +211,6 @@
 
 [[Children in traumatic households expect more love than their parents can give]]:
 
-[[China]]:
-
 [[Choosing a note writing system]]:
 
 [[Christianity]]:
@@ -285,8 +220,6 @@
 [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]:
 
 [[Civil Rights]]:
-
-[[Civil War]]:
 
 [[Collecting Thought with a Second Brain]]:
 
@@ -298,36 +231,21 @@
 
 [[Complex emotions are intellectual understandings of primal urges]]:
 
-[[Computer]]:
-
 [[Computer Org notes]]:
-
-[[Congress]]:
-
-[[Conservatism]]:
-- American Conservatism
 
 [[Constantly working on yourself is a form a self-hatred]]:
 
+[[Consumer Culture]]:
+
 [[Consumerism]]:
 
-[[Counter-culture]]:
-- counter culture
+[[ContentNotes]]:
 
 [[Creating Thought with a Second Brain]]:
 
 [[Creationism built an anti-science culture]]:
 
-[[Cuba]]:
-- Cuban
-
-[[white supremacy]]:
-
-[[Czechoslovakia]]:
-
-[[D-Day]]:
-- D Day
-- DDay
+[[Cultural Fundamentalism]]:
 
 [[Database Notes]]:
 
@@ -335,45 +253,21 @@
 
 [[Dataview]]:
 
-[[Debt]]:
-
 [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before]]:
 
 [[Deconstructing your faith is like climbing through a jungle canopy]]:
 
 [[Deconstruction (Christianity)]]:
 
-[[Democrat]]:
-
-[[Democratic]]:
-
-[[Depersonalization]]:
-
-[[Derealization]]:
-
-[[Destiny Interviews Dr. K]]:
-
-[[SecondBrain/history/Did the Atomic Bombs end WW2]]:
-
-[[Difference between reincarnation in Hinduism and Bhudism]]:
-
 [[Digitizing Text and Representing Colors and Images Assignment]]:
 
-[[DnD]]:
-
-[[Domestic policy]]:
-
-[[DrK]]:
-
 [[DrK Interviews]]:
-
-[[DrK and DrMike conversation]]:
-
-[[DrMike]]:
 
 [[Dual]]:
 
 [[Dual Nostril Breathing Meditation]]:
+
+[[EVERGREENNOTES]]:
 
 [[EVERGREENS]]:
 
@@ -387,24 +281,18 @@
 
 [[Ecology Report]]:
 
-[[Economic Competition]]:
+[[Enneagram 8w9 The Eight With a Nine-Wing  Psychologia]]:
 
-[[Eisenhower]]:
-
-[[Emancipation]]:
-
-[[Emmitt Till]]:
-
-[[Emotional Deregulation]]:
-
-[[Emotional Quotent]]:
-
-[[Europe]]:
+[[Enneagram Type 8w9 - The Diplomat]]:
 
 [[Evangelicalism]]:
 - evangelical christianity
 - fundamentalist
 - fundamentalism
+
+[[EvergreenNotes]]:
+
+[[Every person has an experience of gender]]:
 
 [[Exam 2 Sp 20 Take Home]]:
 
@@ -420,13 +308,7 @@
 
 [[Excerpts from the 2016 Republican Party Platform]]:
 
-[[Existential Dread]]:
-
 [[Explaining emotion can just be a way of escaping the situation]]:
-
-[[FDR]]:
-- Franklin Delano Roosevelt
-- Roosevelt
 
 [[Faith can be a useful tool for grounding yourself]]:
 
@@ -442,32 +324,29 @@
 
 [[First Amendment rights impacts groups not individuals]]:
 
-[[First Amendment to the U.S. Constitution]]:
-
 [[Flamingo Pose Meditation]]:
 
 [[FoC-notes]]:
 
-[[SecondBrain/EvergreenNotes/Fomulate questions]]:
-
-[[Foreign Policy]]:
-
-[[France]]:
-- French
+[[Fomulate questions]]:
 
 [[From Bronze to Iron]]:
 
-[[GPT]]:
-
-[[Gay Rights]]:
-- gay liberation
-
 [[GenStats]]:
+
+[[Gender Dysphoria can take many forms]]:
+
+[[Gender Dysphoria is based in a intrinsic wrongness of self]]:
 
 [[Gender Euphoria]]:
 
-[[Germany]]:
-- Germans
+[[Gender has a scientific basis]]:
+
+[[Gender has historically been non-binary]]:
+
+[[Gender is a social construct]]:
+
+[[Gender is both an intrinsic experience and an necessary expression]]:
 
 [[Global Impact Assignment]]:
 
@@ -479,40 +358,30 @@
 
 [[Government Exam #2 Study Guide]]:
 
-[[Great Depression]]:
-
 [[Greeks at War, Part I Lecture Outline]]:
 
 [[Group-04_ResearchAbstract]]:
 
 [[Group-05_Abstract-1]]:
 
-[[HW Bush]]:
-
 [[HW5-ex1]]:
 
 [[HW5-ex2]]:
 
-[[Happiness]]:
-
 [[Happiness is enlightenment and sadness is delusion]]:
-
-[[Healing from Festered Emotions]]:
 
 [[Hellenistic Society Lecutre Outline]]:
 
 [[Hellenistic Thinking Lecture Outline]]:
 
-[[Hierachy of Needs]]:
+[[Highlights From philosophy.ucsc.edu]]:
 
 [[Hinduism]]:
 - Hindu
 
-[[History of Human Sex]]:
+[[Historical Foundations of Race]]:
 
-[[Hitler]]:
-
-[[SecondBrain/Primary Sources/Classes/Math/Homework 10]]:
+[[Homework 10]]:
 
 [[Homework 3]]:
 
@@ -524,28 +393,25 @@
 
 [[Homework 7]]:
 
-[[SecondBrain/Primary Sources/Classes/Math/Homework 8]]:
+[[Homework 8]]:
 
-[[SecondBrain/Primary Sources/Classes/Math/Homework 8]]:
+[[Homework 8]]:
 
-[[SecondBrain/Primary Sources/Classes/Math/Homework 9]]:
+[[Homework 9]]:
 
-[[SecondBrain/Primary Sources/Classes/Math/Homework 9]]:
+[[Homework 9]]:
 
 [[Homework week 7]]:
 
-[[Homophobia]]:
-
-[[Hoover]]:
-- Herbert Hoover
-
-[[House ownership]]:
+[[Hope is always worth fighting for]]:
 
 [[How ADHD effects concentration]]:
 
+[[How I process repressed emotions]]:
+
 [[How Neuroscience impacts our daily lives]]:
 
-[[How We're Shaped Mentally]]:
+[[How the System Works — The Enneagram Institute]]:
 
 [[How to represent a todo list]]:
 
@@ -569,6 +435,8 @@
 
 [[I relate to]]:
 
+[[I spend most of my hours idly day dreaming or driving my kids too and from school, the rest I squander]]:
+
 [[I thought negative emotions were natural and that positive emotions weren't real]]:
 
 [[INDEX]]:
@@ -577,61 +445,29 @@
 
 [[In order to for my parents to love me, they need to admit they might be wrong]]:
 
-[[SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness]]:
-
-[[Indigenous]]:
-
 [[Instruction guide to install Cygwin]]:
 
 [[Intercultural Communication]]:
 
-[[Iran]]:
-
-[[Iraq]]:
-
 [[Is your self-talk bullying you or bodyguarding you]]:
 
-[[Israel]]:
-
-[[Italy]]:
-
-[[JFK]]:
-- John F Kennedy
-- John Kennedy
-
-[[Japan]]:
-- Japanese
-
-[[Javascript]]:
+[[It’s All About the Jeffersons - This American Life]]:
 
 [[Jesus' teachings are anti-thetical to the modern christian church]]:
 
 [[Jews in the Hellenistic Age Video Outline]]:
 
-[[Jimmy Carter]]:
-
-[[John Lewis]]:
-
 [[Journal]]:
-
-[[Karma and Reincarnation in Hinduism]]:
 
 [[Knowledge of the world is painful]]:
 
 [[LAST-WEEK]]:
 
-[[LBJ]]:
-- Lyndon B Johnson
-- Lyndon Johnson
-
-[[Latine]]:
-- latino
-- latina
-- latinx
+[[Learn VIM While Playing a Game - VIM Adventures]]:
 
 [[Learning systems can be a gateway to creating thought]]:
 
-[[Life after a cult]]:
+[[Look for answers don't look for solutions]]:
 
 [[Lost boys essay]]:
 
@@ -639,29 +475,26 @@
 
 [[MAGA is built off nostalgia not facts]]:
 
-[[MLK]]:
-- Martin Luther King
-
-[[Machine Learning]]:
-
 [[Make your inbox into an entry point]]:
-
-[[Malcolm X]]:
 
 [[Marxism]]:
 
-[[Marxist-Leninists]]:
+[[McCarthyism is an attack on totalitarianism not communism]]:
 
-[[Mass media promotes the spread of innacurate information]]:
+[[Mental illness is a reaction to ones environment]]:
+
+[[Mental illness is a reaction to your physical and chemical environment]]:
 
 [[Mermaid (software)]]:
 
-[[Mexico]]:
+[[Misidentifying 4 and 5 — The Enneagram Institute]]:
 
 [[Monster of the Week]]:
 - MOTW
 
 [[Moonlight Essay]]:
+
+[[Most rights were denied to Americans at its founding]]:
 
 [[Multiplication_Question_Clarification]]:
 
@@ -677,14 +510,7 @@
 
 [[My worldview is not about conversion it is about acceptance]]:
 
-[[NLP]]:
-- Natural Language Processing
-
-[[Native American]]:
-- Indigenous Americans
-- American Indians
-
-[[Nazi]]:
+[[National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators]]:
 
 [[Network Fundamental Notes]]:
 
@@ -695,16 +521,9 @@
 [[Neuroscience]]:
 - neurological
 
-[[New Deal]]:
-
-[[Nixon]]:
-- Richard Nixon
-
-[[Non-Binary]]:
+[[Nixon paved the way for Reagan]]:
 
 [[Non-faith issues have been co-opted to keep people in the christian church]]:
-
-[[North Africa]]:
 
 [[Note structures should be loosely defined]]:
 
@@ -713,8 +532,6 @@
 [[OCD]]:
 - obsessive compulsive disorder
 - Obsessive Compulsive Disorder
-
-[[Obama]]:
 
 [[Obsidian (software)]]:
 
@@ -728,30 +545,43 @@
 
 [[Online Assignment 5]]:
 
+[[Operating Systems]]:
+
+[[Operating Systems]]:
+
+[[Optimism isn't ignorance, it's hope]]:
+
+[[OrganizationalNotes]]:
+
 [[Our brains are built around survival]]:
 
-[[PTSD]]:
-
-[[Palestine]]:
+[[Our ego is our subconscious defense of our self]]:
 
 [[Parents need to model the ability to deal with emotion to their children]]:
 
-[[Patriot Act]]:
-
-[[Pentagon]]:
-
 [[People have been conditioned to believe the bible has to be infallible]]:
+
+[[Personality types are 3d and interconnected, not 2d and static]]:
+
+[[Podcast-Hoodies Up]]:
 
 [[Power of Programming Study Guide]]:
 
 [[Practice2]]:
 
-[[Progressives]]:
+[[Primary Sources]]:
 
-[[Protests]]:
-- protesting
+[[Prison]]:
+
+[[Prison abolition]]:
+
+[[Pyschology of Race and Gender notes]]:
+
+[[Pyschology of Race and Gender notes]]:
 
 [[Q justifies conservatives discontent]]:
+
+[[QOUTES]]:
 
 [[QUICKNOTE]]:
 
@@ -759,11 +589,7 @@
 
 [[QUIZ#4[1]-1]]:
 
-[[Queer]]:
-- gay
-- lesbian
-- homosexual
-- bisexual
+[[Qoutes]]:
 
 [[Quiz#03.pdf]]:
 
@@ -773,28 +599,25 @@
 
 [[Quiz02]]:
 
+[[RECENTLY-MODIFIED]]:
+
 [[RELATED-TOPICS]]:
 
-[[RFK]]:
+[[Rationalizations are defense-mechanisms]]:
 
-[[Reagan]]:
-- Ronald Reagan
+[[Realism must acknowledge optimism's existence]]:
 
-[[Reagans Impact and Legacy]]:
-
-[[Reconstruction]]:
-
-[[Red Summer of 1919]]:
+[[Regex]]:
 
 [[Reincarnation]]:
 - samsara
 - punabbhava
 
-[[Rejection Sensitivity]]:
+[[Religious concepts are often too powerful for a child's mind]]:
+
+[[Replacement prod.pdf]]:
 
 [[Repressed identity creates a mistrust of self-love and self-esteem]]:
-
-[[Republican]]:
 
 [[Republican voters do not hold their leaders accountable]]:
 
@@ -804,35 +627,21 @@
 
 [[Research Paper Thoughts]]:
 
-[[Revolution]]:
+[[Revolt]]:
 
-[[Rise of Modern Conservatism]]:
+[[Revolution]]:
 
 [[Rise of Conspiracy Culture]]:
 
 [[Rise of Misinformation in America]]:
 
-[[Roam Research]]:
-
-[[Ronald Reagan Evil Empire Speech]]:
+[[Rise of Modern Conservatism]]:
 
 [[Ronald Reagan invented modern conservatism]]:
-
-[[Ronald Reagans Inaugural Address 1981]]:
-
-[[Rosa Parks]]:
-
-[[Russia]]:
-- Russians
-- Soviets
-- Soviet Union
-- USSR
 
 [[SEARCH]]:
 
 [[SPOILER_Exam_2_Sp_20_Take_Home]]:
-
-[[SQL]]:
 
 [[SQL Assignment 1 DDL Sp 20]]:
 
@@ -848,23 +657,21 @@
 
 [[Sadness is enlightenment and happiness is delusion]]:
 
-[[Samskara]]:
-- samskara's
-- samskaras
-- sanskara
-- sanskaras
-
 [[Saudi Arabia Essay]]:
 
 [[Searching for THE answer is dangerous]]:
 
-[[Second Red Scare Discussion]]:
-
-[[Segregation]]:
+[[SecondBrain]]:
 
 [[Self-hatred is born out of dissonance between self-image and self-perception]]:
 
+[[Semantic Battleground The War of Neurodiversity]]:
+
 [[Sequence_diagrams]]:
+
+[[Sex conists of phenotype genotype and gender]]:
+
+[[Short Written Response The Littoral Zone]]:
 
 [[Single issue voters are anti-democratic]]:
 
@@ -876,13 +683,15 @@
 
 [[Sp20 Principles of Macro Assignment 8 (changes in equilibrium)]]:
 
-[[Stock Market]]:
-
 [[Stupid rules are meant to be broken]]:
 
-[[Suburbia]]:
-
 [[Suicide]]:
+
+[[Summary, Part 1  the Stonewall Reader  Study Guide — Radical in Progress]]:
+
+[[Summary, Part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress]]:
+
+[[Summary, Part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress]]:
 
 [[Sympathy does not dissallow judgment]]:
 
@@ -892,15 +701,9 @@
 
 [[TODO]]:
 
-[[TOPICNOTES]]:
-
-[[TTRPG]]:
-
 [[Tags should be general]]:
 
 [[Templater]]:
-
-[[The Cold War]]:
 
 [[The Founding of Rome]]:
 
@@ -909,13 +712,6 @@
 [[The Greek Theater Lecture Outline]]:
 
 [[The Greeks at War, Part II Lecture Outline]]:
-
-[[The Left]]:
-- New Left
-
-[[The New Deal]]:
-
-[[The Vanguard]]:
 
 [[The anti-vax movement is based off a white lie]]:
 
@@ -939,8 +735,6 @@
 
 [[The materialistic view of religions examines why humans invented and clung to religion]]:
 
-[[The nature of happiness is not doing what you love its detachment from the decisions of the life]]:
-
 [[The three main questions of life]]:
 
 [[There aren't any downsides to working through trauma]]:
@@ -951,40 +745,29 @@
 
 [[To be happy you need to not be sad]]:
 
-[[To my parents]]:
-
-[[Totalitarianism]]:
+[[TopicNotes]]:
 
 [[Totsi Essay]]:
 
-[[Truman]]:
+[[Trans people will look for any other solution than being trans]]:
 
-[[Tyranny]]:
+[[Transformative justice is the alternative to punitive justice]]:
 
-[[UBI]]:
+[[Type Eight — The Enneagram Institute]]:
 
-[[US Policy]]:
+[[Type Five — The Enneagram Institute]]:
 
-[[Unemployment]]:
+[[Type Four]]:
 
-[[Veteran]]:
+[[Type Nine — The Enneagram Institute]]:
 
-[[Vietnam]]:
-- Vietnamese
+[[Type Six — The Enneagram Institute]]:
 
-[[W Bush]]:
+[[Under Milkwood Play Critique]]:
 
-[[WW2]]:
-- World War 2
-- World War Two
+[[Unity (game engine)]]:
 
-[[War]]:
-
-[[War crimes]]:
-
-[[War on Drugs]]:
-
-[[War on Terror]]:
+[[Using github with Unity projects]]:
 
 [[We value our biggest insecurities because they protect us from the biggest threats]]:
 
@@ -996,23 +779,25 @@
 
 [[Week 04 Homework]]:
 
-[[Western Civ Textbook]]:
-
-[[What is Ego]]:
+[[What We Do — Radical in Progress]]:
 
 [[What is my path to happiness]]:
 
 [[What is the difference between a evergreen note and a topic note]]:
 
-[[Why note storage is important]]:
+[[White Privilege write-up]]:
 
-[[Why the Phrase Late Capitalism Is Suddenly Everywhere]]:
+[[White Privilege write-up]]:
+
+[[Why note storage is important]]:
 
 [[Working through trauma can involve of a lot of letting go]]:
 
-[[World War 1]]:
-- WW1
-- World War One
+[[Worksheet 1]]:
+
+[[Worksheet 1]]:
+
+[[Worksheet 2]]:
 
 [[Write your notes like you're planting an evergreen forest]]:
 
@@ -1024,6 +809,8 @@
 
 [[You can be taught to invalidate your own emotions]]:
 
+[[You can discover your transness at any point in life]]:
+
 [[You can leave the church and still believe in the christian god]]:
 
 [[You can't blame people for failing to rise above their circumstances]]:
@@ -1032,19 +819,13 @@
 
 [[Your anxiety is telling you everything that could go wrong not what will go wrong]]:
 
-[[Your anxiety knows your insecurities better than you do]]:
-
 [[Your insecurity is just more avenues for your anxiety to take advantage of]]:
 
 [[Zettlekassen]]:
 
-[[Zionism]]:
-
 [[abortion]]:
 
-[[acting]]:
-
-[[anti-liberalism]]:
+[[aliases]]:
 
 [[anti-science]]:
 
@@ -1052,64 +833,105 @@
 
 [[anxiety]]:
 
-[[atheism]]:
+[[articleAn Introduction to Bhuddism]]:
 
-[[belief systems]]:
+[[articleAncient Cave Art Full of Teenage Graffiti]]:
+
+[[articleDifference between reincarnation in Hinduism and Bhudism]]:
+
+[[articleHow The System Works — The Enneagram Institute]]:
+
+[[articleIncome Inequality Increases Unhappiness]]:
+
+[[articleKarma and Reincarnation in Hinduism]]:
+
+[[articleReagans Impact and Legacy]]:
+
+[[articleRelationships (Type Combinations) — The Enneagram Institute]]:
+
+[[articleType Five — The Enneagram Institute]]:
+
+[[articleWhy the Phrase Late Capitalism Is Suddenly Everywhere]]:
+
+[[articles_None_Black Identity Development]]:
+
+[[articles_None_Replacement prod.pdf]]:
+
+[[articles_None_Urn]]:
+
+[[articles_benjerry.com_7 Ways We Know Systemic Racism Is Real]]:
+
+[[articles_crystalknows.com_Enneagram Type 8w9 - The Diplomat]]:
+
+[[articles_enneagraminstitute.com_How the System Works — The Enneagram Institute]]:
+
+[[articles_enneagraminstitute.com_Misidentifying 4 and 5 — The Enneagram Institute]]:
+
+[[articles_enneagraminstitute.com_Type Eight — The Enneagram Institute]]:
+
+[[articles_enneagraminstitute.com_Type Five — The Enneagram Institute]]:
+
+[[articles_enneagraminstitute.com_Type Four]]:
+
+[[articles_enneagraminstitute.com_Type Nine — The Enneagram Institute]]:
+
+[[articles_enneagraminstitute.com_Type Six — The Enneagram Institute]]:
+
+[[articles_nationalseedproject.org_National SEED Project - 'White Privilege Unpacking the Invisible Knapsack' and 'Some Notes for Facilitators]]:
+
+[[articles_nmaahc.si.edu_Historical Foundations of Race]]:
+
+[[articles_philosophy.ucsc.edu_Highlights From philosophy.ucsc.edu]]:
+
+[[articles_psychologia.co_Enneagram 8w9 The Eight With a Nine-Wing  Psychologia]]:
+
+[[articles_radicalinprogress.org_Summary, Part 1  the Stonewall Reader  Study Guide — Radical in Progress]]:
+
+[[articles_radicalinprogress.org_Summary, Part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress]]:
+
+[[articles_radicalinprogress.org_Summary, Part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress]]:
+
+[[articles_radicalinprogress.org_What We Do — Radical in Progress]]:
+
+[[articles_threetrackmind.wordpress.com_Semantic Battleground The War of Neurodiversity]]:
+
+[[articles_twitter.com_Highlights From twitter.com]]:
+
+[[assignment 3]]:
 
 [[black people]]:
-
-[[body dysmorphia]]:
-
-[[budget cuts]]:
 
 [[business]]:
 
 [[chasenoah_16786_4178961_GreenCloudComputingGroup8]]:
 
-[[childhood trauma]]:
-
-[[confidence]]:
-
 [[conscious]]:
 - consciousness
 
-[[consent]]:
-
 [[content note]]:
-
-[[creationism]]:
-
-[[data querrying]]:
 
 [[defense-mechanisms]]:
 
 [[depression]]:
 
-[[desire]]:
+[[discussion1968 Discussion]]:
 
-[[disassociation]]:
+[[discussionDid the Atomic Bombs end WW2]]:
 
-[[disease]]:
+[[discussionMcCarthyism sources]]:
+
+[[discussionRed Summer of 1919]]:
+
+[[discussionSecond Red Scare Discussion]]:
 
 [[dissociation]]:
 
-[[SecondBrain/EvergreenNotes/do math]]:
-
-[[early childhood]]:
+[[do math]]:
 
 [[eastern philosophy]]:
 - eastern mysticism
 
-[[economy]]:
-- economics
-
-[[education]]:
-
-[[subconscious]]:
-
 [[emotional invalidation]]:
-
-[[emotional validation]]:
 
 [[empathy]]:
 
@@ -1126,37 +948,25 @@
 
 [[enlightenment comes from detachment]]:
 
-[[evergreen notes]]:
+[[envy]]:
 
-[[evolution]]:
+[[evergreen notes]]:
 
 [[executive function]]:
 
 [[fairness]]:
 
-[[faith]]:
+[[find related concepts]]:
 
-[[fear of consequences]]:
+[[founding fathers]]:
 
-[[SecondBrain/EvergreenNotes/find related concepts]]:
-
-[[free-will]]:
-- free will
+[[gender]]:
 
 [[gender dysphoria]]:
 
-[[gender identity]]:
-
-[[government]]:
-- govt
-
-[[grassroot support]]:
-
-[[guilt]]:
-
 [[higherNormalForms]]:
 
-[[SecondBrain/Primary Sources/Classes/Math/Homework 10]]:
+[[homework 10]]:
 
 [[homework 11]]:
 
@@ -1174,39 +984,20 @@
 
 [[human survival]]:
 
-[[self]]:
-
-[[ignorance]]:
-
-[[improv]]:
-
 [[index note]]:
-
-[[individualism]]:
 
 [[indoctrination]]:
 
-[[infrastructure]]:
-
 [[injustice]]:
 
-[[insecurity]]:
-
-[[inter-generational trauma]]:
-
-[[inter-personal communication]]:
-- inter-personal relationships
-
 [[internet]]:
+
+[[intersectionality]]:
 
 [[karma]]:
 - kharma
 
 [[liberation]]:
-
-[[love]]:
-
-[[markets]]:
 
 [[masking]]:
 
@@ -1214,23 +1005,15 @@
 
 [[materialism]]:
 
-[[media]]:
-
 [[meditation]]:
 
 [[mental disorders]]:
 
 [[mental health]]:
 
-[[middle class]]:
-
 [[mindfullness]]:
 
-[[model minority myth]]:
-
-[[modern american culture]]:
-
-[[monopolies]]:
+[[morality]]:
 
 [[my TO(DO) and EVER(GREEN) structure]]:
 
@@ -1247,17 +1030,33 @@
 
 [[note writing]]:
 
-[[nuclear family]]:
+[[notes1920's General Notes]]:
+
+[[notes1930's General Notes]]:
+
+[[notes1940's General Notes]]:
+
+[[notes1950's General Notes]]:
+
+[[notes1960's General Notes]]:
+
+[[notes1970's General Notes]]:
+
+[[notes1980's General Notes]]:
+
+[[notes1990's General Notes]]:
+
+[[notes2000's General Notes]]:
+
+[[notesReconstruction]]:
+
+[[notesWestern Civ Textbook]]:
 
 [[organizational notes]]:
-
-[[panic attacks]]:
 
 [[parents]]:
 
 [[patient]]:
-
-[[perception]]:
 
 [[permanent note]]:
 
@@ -1265,51 +1064,39 @@
 
 [[pessimism]]:
 
-[[philosophy]]:
-
 [[piercenick_17309_4178091_AI and You-1]]:
-
-[[police inefficiency]]:
 
 [[political strategy]]:
 
-[[Politics]]:
+[[primarysourceExcerpts from the 2016 Republican Party Platform]]:
 
-[[poverty]]:
+[[primarysourceFirst Amendment to the U.S. Constitution]]:
 
-[[poverty 1]]:
+[[prison-industrial complex]]:
 
-[[propaganda]]:
+[[purpose]]:
+
+[[pyschology]]:
 
 [[racism]]:
 
-[[reactionist]]:
-
-[[realism]]:
-
-[[red scare]]:
-
-[[reform]]:
-
-[[SecondBrain/EvergreenNotes/related topics]]:
+[[related topics]]:
 
 [[religion]]:
 
-[[religious freedom]]:
-
 [[religious trauma]]:
 
-[[role-playing]]:
+[[resentment]]:
 
 [[second brain]]:
 
 [[self]]:
 
-[[self-actualization]]:
+[[self care]]:
 
-[[self-care]]:
-- self-validation
-- self-soothing
+[[self soothing]]:
+
+[[self-actualization]]:
 
 [[self-hate]]:
 
@@ -1323,15 +1110,13 @@
 
 [[self-perception]]:
 
+[[self-worth]]:
+
 [[selfless]]:
 
 [[social anxiety]]:
 
 [[social discomfort]]:
-
-[[socialization]]:
-
-[[socialization]]:
 
 [[social justice]]:
 
@@ -1341,11 +1126,11 @@
 
 [[societal trauma]]:
 
-[[socio-economic]]:
-
 [[soul]]:
 
-[[spirituality]]:
+[[speechRonald Reagan Evil Empire Speech]]:
+
+[[speechRonald Reagans Inaugural Address 1981]]:
 
 [[subconscious]]:
 - subconsciously
@@ -1354,13 +1139,9 @@
 
 [[supply-side economics]]:
 
-[[sympathy]]:
-
 [[tags as a data structure]]:
 
-[[The Politicization of the Christian Church]]:
-
-[[theology]]:
+[[the politicization of the christian church]]:
 
 [[topic note]]:
 
@@ -1371,21 +1152,51 @@
 
 [[unconditional love]]:
 
+[[videoAddictive Personality Dr.K interview]]:
+
+[[videoBreaking the Cycle of Overthinking]]:
+
+[[videoContrapoints-Envy]]:
+
+[[videoDestiny Interviews Dr. K]]:
+
+[[videoDrK and DrMike conversation]]:
+
+[[videoEmotional Deregulation]]:
+
+[[videoExistential Dread]]:
+
+[[videoHealing from Festered Emotions]]:
+
+[[videoHistory of Human Sex]]:
+
+[[videoHow We're Shaped Mentally]]:
+
+[[videoLife after a cult]]:
+
+[[videoRejection Sensitivity]]:
+
+[[videoSamskara]]:
+
+[[videoScarra Drk Interview]]:
+
+[[videoTo my parents]]:
+
+[[videoWhat is Ego]]:
+
 [[web of thought]]:
 
 [[week 5 hw]]:
-
-[[white guilt]]:
 
 [[white supremacy]]:
 
 [[women]]:
 
-[[worldview]]:
-
 [[write what you think]]:
 
 [[yoga]]:
+
+[[your anxiety knows your insecurities better than you do]]:
 
 [[zettle]]:
 

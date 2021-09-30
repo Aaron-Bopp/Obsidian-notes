@@ -16,7 +16,7 @@ source: https://www.radicalinprogress.org/nypl-2019-1
 **Last Edited**:: *`=this.file.mtime`*
 
 ## Highlights
-- > "The Stonewall uprising was a protest sparked by, “a police raid on a Mafia-owned gay bar and dance spot that had no running water, where glasses were “washed” in filthy suds and reused, and which was “protected” by straight, extortionate Mafia goons”" 
+- > "The Stonewall uprising was a protest sparked by, “a police raid on a Mafia-owned [[Queer|gay]] bar and dance spot that had no running water, where glasses were “washed” in filthy suds and reused, and which was “protected” by straight, extortionate Mafia goons”" 
 
-- > "Stonewall was a catalyst for the Gay Liberation movement and a signal of resistance to society" 
+- > "Stonewall was a catalyst for the [[Gay Rights|Gay Liberation]] movement and a signal of resistance to society" 
 

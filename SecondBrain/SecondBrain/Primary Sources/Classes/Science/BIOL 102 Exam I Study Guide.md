@@ -140,7 +140,7 @@ Concepts:
 
 -   nucleic acids - mono: nucleotide poly: DNA,RNA, nucleic acids
 
--   Know the difference between saturated (solid) and unsaturated fatty acids (oil). Which is solid at room temperature and which is liquid? Be able to determine if an unsaturated fatty acid is *cis-* or *trans-*. I will likely give you a picture of a fatty acid and ask you to tell me what it is.
+-   Know the difference between saturated (solid) and unsaturated fatty acids (oil). Which is solid at room temperature and which is liquid? Be able to determine if an unsaturated fatty acid is *cis-* or *[[transgender|trans]]-*. I will likely give you a picture of a fatty acid and ask you to tell me what it is.
 
 -   Explain the relationship between structure and function in proteins. How does a small change in structure affect the function of a protein?
 
@@ -276,4 +276,4 @@ Concepts:
 
 -   Know the two stages of photosynthesis: the light-dependent reactions and the light-independent reactions (Calvin Cycle). What goes in to each stage? What comes out of each stage?
 
--   What is the purpose of photosynthesis? Does photosynthesis produce a net gain of ATP?
+-   What is the [[purpose]] of photosynthesis? Does photosynthesis produce a net gain of ATP?

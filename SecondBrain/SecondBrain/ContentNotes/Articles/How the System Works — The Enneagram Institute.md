@@ -32,12 +32,12 @@ source: https://enneagraminstitute.com/how-the-enneagram-system-works
 > fully identified with the [[subconscious|ego]] and does not see himself as anything more than that: the ego must therefore be increasingly defended and inflated for the person to feel safe and to keep their identity intact [[Being in a defensive condition can cause you to be consumed by your ego]]
 - ego can consume
 
-> The more we move down the Levels, the more identified we are with our ego and its increasingly negative and restrictive patterns. Our personality becomes more defensive, reactive, and automatic— and we consequently have less and less real freedom and less real consciousness.
+> The more we move down the Levels, the more identified we are with our ego and its increasingly negative and restrictive patterns. Our personality becomes more defensive, reactive, and automatic— and we consequently have less and less real freedom and less real [[conscious|consciousness]].
 
 > As we become more present, we become less fixated in the defensive structures of our personality and are more attuned and open to ourselves and our environment. We see our personality objectively in action rather than “falling asleep” to our automatic personality patterns. [[self-actualization]] #TO/DO/CONCEPTUALIZE how [[self-actualization]] helps you to become a better person
 
 
-> As we become more present, we see our personality traits more objectively and the Levels become a continuous guide to self-observation,
+> As we become more present, we see our personality traits more objectively and the Levels become a continuous guide to [[self]]-observation,
 
 
 > **The Direction of Integration (Growth)** 
@@ -51,19 +51,19 @@ source: https://enneagraminstitute.com/how-the-enneagram-system-works
 > Ultimately, the goal is for each of us to “move around” the Enneagram, integrating what each type symbolizes and acquiring the healthy potentials of *all the types*
 
 
-> he personality type we begin life with is therefore less important ultimately than how well (or badly) we use our type as the beginning point for our self-development and self-realization.
+> he personality type we begin life with is therefore less important ultimately than how well (or badly) we use our type as the beginning point for our [[self]]-development and [[enlightenment|self-realization]].
 
 
-> We each have a *self-preservation* instinct (for preserving the body and its life and functioning), a *sexual instinct* (for extending ourselves in the environment and through the generations), and a *social instinct* (for getting along with others and forming secure social bonds).
+> We each have a *[[self]]-preservation* instinct (for preserving the body and its life and functioning), a *sexual instinct* (for extending ourselves in the environment and through the generations), and a *social instinct* (for getting along with others and forming secure social bonds).
 
 
 > We call this instinct our *dominant* instinct. This tends to be our first priority—the area of life we attend to first. But when we are more caught up in the defenses of our personality—further down the Levels of Development— our personality most *interferes* with our dominant instinct.
 
 
-> Moreover, those primarily focused on self-preservation, by extension, are usually interested in maintaining these resources for others as well
+> Moreover, those primarily focused on [[self]]-preservation, by extension, are usually interested in maintaining these resources for others as well
 
 
-> They might have active social lives and a satisfying intimate relationship, but if they feel that their self-preservation needs are not being met, still tend not to be happy or at ease. In their primary relationships, these people are “nesters”—they seek domestic tranquility and security with a stable, reliable partner
+> They might have active social lives and a satisfying intimate relationship, but if they feel that their [[self]]-preservation needs are not being met, still tend not to be happy or at ease. In their primary relationships, these people are “nesters”—they seek domestic tranquility and security with a stable, reliable partner
 
 
 > There are many people that we are excited to be around for reasons of personal chemistry that we have no intention of “getting involved with.” Nonetheless, we might be aware that we feel stimulated in certain people’s company and less so in others.
@@ -137,11 +137,11 @@ source: https://enneagraminstitute.com/how-the-enneagram-system-works
 - > "this Level, the person has also fully identified with the ego and does not see himself as anything more than that: the ego must therefore be increasingly defended and inflated for the person to feel safe and to keep their identity intact" 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=0%2F0%2F0%2F20%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A314%2C0%2F0%2F0%2F20%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A551#:~:text=this%20Level%2C%20the%20person%20has%2Cto%20keep%20their%20identity%20intact)
     - ego can consume
-- > "The more we move down the Levels, the more identified we are with our ego and its increasingly negative and restrictive patterns. Our personality becomes more defensive, reactive, and automatic— and we consequently have less and less real freedom and less real consciousness." 
+- > "The more we move down the Levels, the more identified we are with our ego and its increasingly negative and restrictive patterns. Our personality becomes more defensive, reactive, and automatic— and we consequently have less and less real freedom and less real [[conscious|consciousness]]." 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=2%2F1%2F0%2F20%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A2%2C2%2F1%2F0%2F20%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A277#:~:text=The%20more%20we%20move%20down%2Cfreedom%20and%20less%20real%20consciousness.)
 - > "As we become more present, we become less fixated in the defensive structures of our personality and are more attuned and open to ourselves and our environment. We see our personality objectively in action rather than “falling asleep” to our automatic personality patterns." 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=2%2F2%2F0%2F20%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A86%2C2%2F2%2F0%2F20%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A360#:~:text=As%20we%20become%20more%20present%2C%2Cto%20our%20automatic%20personality%20patterns.)
-- > "As we become more present, we see our personality traits more objectively and the Levels become a continuous guide to self-observation," 
+- > "As we become more present, we see our personality traits more objectively and the Levels become a continuous guide to [[self]]-observation," 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=0%2F3%2F0%2F20%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A0%2C0%2F3%2F0%2F20%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A135#:~:text=As%20we%20become%20more%20present%2C%2Ca%20continuous%20guide%20to%20self-observation%2C)
 - > "**The Direction of Integration (Growth)** 
     1-7-5-8-2-4-1 
@@ -152,15 +152,15 @@ source: https://enneagraminstitute.com/how-the-enneagram-system-works
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=0%2F0%2F0%2F0%2F28%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A0%2C4%2F1%2F0%2F28%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A7#:~:text=The%20Direction%20of%20Integration%20(Growth)1-7-5-8-2-4-19-3-6-9The%20Direction%20of%20Disintegration%20(Stress)1-4-2-8-5-7-19-6-3-9)
 - > "Ultimately, the goal is for each of us to “move around” the Enneagram, integrating what each type symbolizes and acquiring the healthy potentials of *all the types*" 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=0%2F3%2F0%2F28%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A0%2C2%2F3%2F0%2F28%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A0#:~:text=Ultimately%2C%20the%20goal%20is%20for%2Cpotentials%20of%20all%20the%20types)
-- > "the personality type we begin life with is therefore less important ultimately than how well (or badly) we use our type as the beginning point for our self-development and self-realization." 
+- > "the personality type we begin life with is therefore less important ultimately than how well (or badly) we use our type as the beginning point for our [[self]]-development and [[enlightenment|self-realization]]." 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=2%2F3%2F0%2F28%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A249%2C2%2F3%2F0%2F28%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A437#:~:text=he%20personality%20type%20we%20begin%2Cfor%20our%20self-development%20and%20self-realization.)
-- > "We each have a *self-preservation* instinct (for preserving the body and its life and functioning), a *sexual instinct* (for extending ourselves in the environment and through the generations), and a *social instinct* (for getting along with others and forming secure social bonds)." 
+- > "We each have a *[[self]]-preservation* instinct (for preserving the body and its life and functioning), a *sexual instinct* (for extending ourselves in the environment and through the generations), and a *social instinct* (for getting along with others and forming secure social bonds)." 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=0%2F1%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A374%2C6%2F1%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A65#:~:text=We%20each%20have%20a%20self-preservation%C2%A0instinct%2Cand%20forming%20secure%20social%20bonds).)
 - > "We call this instinct our *dominant* instinct. This tends to be our first priority—the area of life we attend to first. But when we are more caught up in the defenses of our personality—further down the Levels of Development— our personality most *interferes* with our dominant instinct." 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=2%2F3%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A209%2C6%2F3%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A28#:~:text=We%20call%20this%20instinct%20our%2Cmost%20interferes%C2%A0with%20our%20dominant%20instinct.)
-- > "Moreover, those primarily focused on self-preservation, by extension, are usually interested in maintaining these resources for others as well" 
+- > "Moreover, those primarily focused on [[self]]-preservation, by extension, are usually interested in maintaining these resources for others as well" 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=2%2F8%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A395%2C2%2F8%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A537#:~:text=Moreover%2C%20those%20primarily%20focused%20on%2Cresources%20for%20others%20as%20well)
-- > "They might have active social lives and a satisfying intimate relationship, but if they feel that their self-preservation needs are not being met, still tend not to be happy or at ease. In their primary relationships, these people are “nesters”—they seek domestic tranquility and security with a stable, reliable partner" 
+- > "They might have active social lives and a satisfying intimate relationship, but if they feel that their [[self]]-preservation needs are not being met, still tend not to be happy or at ease. In their primary relationships, these people are “nesters”—they seek domestic tranquility and security with a stable, reliable partner" 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=2%2F8%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A910%2C2%2F8%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A1230#:~:text=They%20might%20have%20active%20social%2Cwith%20a%20stable%2C%20reliable%20partner)
 - > "There are many people that we are excited to be around for reasons of personal chemistry that we have no intention of “getting involved with.” Nonetheless, we might be aware that we feel stimulated in certain people’s company and less so in others." 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=0%2F10%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A664%2C0%2F10%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A912#:~:text=There%20are%20many%20people%20that%2Cand%20less%20so%20in%20others.)

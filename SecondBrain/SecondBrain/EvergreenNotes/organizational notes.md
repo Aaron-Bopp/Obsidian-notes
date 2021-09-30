@@ -11,7 +11,7 @@ note-type:
 
 An organizational note is one that helps the user access other notes. This can take the form of a hierarchical outline, or as a temporary tag that can be used to comeback to points in other notes and should be temporary. 
 
-The purpose of organizational notes is two-fold: to provide form to the knowledge stored in a [[personal knowledge management | pkm system]] and to provide entry points into the [[web of thought]]. 
+The [[purpose]] of organizational notes is two-fold: to provide form to the knowledge stored in a [[personal knowledge management | pkm system]] and to provide entry points into the [[web of thought]]. 
 
 Organizational notes should be consistent and unique from other notes. Some methods could be a unique symbol, a unique type style, or a builtin method like tags. 
 

@@ -48,7 +48,7 @@ Do not expect a total cessation of body hair, once the follicles are made termin
 ### Changes in Body Temperature Placement 
 Androgens encourage extra blood flow to extremities, making them warmer. Because of this, [[women]] tend to have warmer core temperatures but lower oral and surface level temperatures. You may see your basal body temperature drop to around 97.6.
 
-This unfortunately results in a reduced tolerance to cold, so expect to need to layer clothing more frequently, especially since many buildings [set their thermostats for male comfort levels](https://www.popsci.com/study-finds-gender-bias-office-air-conditioning/).
+This unfortunately results in a reduced tolerance to cold, so expect to need to layer clothing more frequently, especially since many buildings [set their thermostats for male comfort levels](https://www.popsci.com/study-finds-[[gender]]-bias-office-air-conditioning/).
 
 ### Changes in Perspiration Patterns 
 With the above shift in temperature distribution, this also results in a significant change in how one sweats. Sweat becomes more of a full body experience, as opposed to largely centered on the head and armpits. Underboob sweat becomes a thing.

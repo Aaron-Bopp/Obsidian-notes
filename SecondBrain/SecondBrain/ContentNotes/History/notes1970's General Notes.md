@@ -11,15 +11,15 @@ bib:
 ---
 
 - [[1960's General Notes]]
-- Youth Revolt
-     - Anti War - non-college students could be drafted, college students could nto
-          - Broad wave of dissatisfaction among young middle class white Americans
+- Youth [[Revolt]]
+     - [[Anti-war|Anti War]] - non-college students could be drafted, college students could nto
+          - Broad wave of dissatisfaction among young middle class white [[America|Americans]]
           - Counter-culture
                - hippie movement
-                    - Eastern mysticism was popular
+                    - [[eastern philosophy|Eastern mysticism]] was popular
                     - Woodstock
-                    - rejection of traditional politics authority and morality
-               - New Left students for Democratic Soceity (SDS)
+                    - rejection of traditional politics authority and [[morality]]
+               - [[The Left|New Left]] students for Democratic Soceity (SDS)
                     - Port Huron Statement
                     - In support of direct democracy
                     - Free Speech Movement (FSM)
@@ -37,7 +37,7 @@ bib:
      - Met with disgust and hate from anti-war movement
      - Vietnam Vets against the war
           - War must end immediately
-          - stand up to govt is most important responsibility
+          - stand up to [[government|govt]] is most important responsibility
      - John Carry
           - Spoke to the pointlessness of the Vietnam War
           - Painted a picture of violence done by american soldiers
@@ -48,7 +48,7 @@ bib:
                - detailed how LBJ had hidden elements of the war from congress
           - Nixon tried to silence it
           - anti-war sentiment only grew stronger
-     - Impact of vietnam under north vietnamese leadership
+     - Impact of vietnam under north [[Vietnam|vietnamese]] leadership
           - US policy for Asia in shambles
           - Changes in view of Cold War
                - doesn't need to be direct involvement
@@ -68,7 +68,7 @@ bib:
           - Silent majority
      - Election of 1972
           - Used southern strategy
-               - oppose civil rights, affirmative action
+               - oppose [[civil rights]], affirmative action
                - tried to outlaw personal decisions
           - Realigned parties closer to what they are today
                - republicans
@@ -76,12 +76,12 @@ bib:
                     - small government
                     - fiscally conservative
                - democrats
-                    - civil rights
+                    - [[civil rights]]
                     - social rights
      - Foreign policy
           - Withdrew from Vietnam
           - Five Policeman Concept
-               - US, Soviet Union, China, Japan, Western Europe
+               - US, [[Russia|Soviet Union]], China, Japan, Western Europe
                - policed the rest of the world
           - Began communication with China
           - Berlin Agreement
@@ -93,7 +93,7 @@ bib:
           - Environmental Protection
                - Responded to **Silent Spring** by creating NOAA and EPA but refused to spend any money on environment
           - Stagflation
-               - Lots of govt spending without increasing taxes
+               - Lots of [[government|govt]] spending without increasing taxes
                - Lots of new workers
                - Wishy-washy response
      - Watergate

@@ -17,8 +17,8 @@ bib:
 
 
 ---
-[01:16:37](https://www.youtube.com/watch?v=Y0Oa4Lp5fLE&list=PL848F2368C90DDC3D&index=2#t=4597.603275141144)
-- Three building blocks that abstract/replace natural selection and its derivatives
+[01:16:37](https://www.youtube.com/watch?v=Y0Oa4Lp5fLE&list=PL848F2368C90DDC3D&[[index]]=2#t=4597.603275141144)
+- Three building blocks that abstract/replace [[natural selection]] and its derivatives
 	- individual selection
 		- behavior is how to preserve ones life and genes
 	- inclusive fitness

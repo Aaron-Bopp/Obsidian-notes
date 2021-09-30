@@ -286,7 +286,7 @@ b\) stores a value from a register into memory
 
 str
 
-12\. Match each gdb command with its purpose (write the Roman numeral in the blank):
+12\. Match each gdb command with its [[purpose]] (write the Roman numeral in the blank):
 
 a\) Displays memory \_iv\_\_\_\_\_
 

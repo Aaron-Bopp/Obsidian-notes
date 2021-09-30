@@ -32,7 +32,7 @@ July 18, 2016
 
 **Preamble**
 
-With this platform, we the [[Republican]] Party reaffirm the principles that unite us in a common purpose.
+With this platform, we the [[Republican]] Party reaffirm the principles that unite us in a common [[purpose]].
 
 We believe in American exceptionalism.
 

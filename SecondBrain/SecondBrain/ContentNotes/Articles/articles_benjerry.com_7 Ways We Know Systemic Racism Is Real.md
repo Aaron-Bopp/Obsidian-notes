@@ -16,13 +16,13 @@ source: https://www.benjerry.com/whats-new/2016/systemic-racism-is-real
 **Last Edited**:: *`=this.file.mtime`*
 
 ## Highlights
-- > "white families hold 90% of the national wealth, Latino families hold 2.3%, and Black families hold 2.6%" 
+- > "white families hold 90% of the national wealth, [[Latine|Latino]] families hold 2.3%, and Black families hold 2.6%" 
 
 - > "job applicants with white-sounding names get called back about 50% more of the time than applicants with Black-sounding names, even when they have identical resumes. (" 
 
-- > "Black people make up 13% of the population, they represent about 40% of the prison population" 
+- > "[[Black people]] make up 13% of the population, they represent about 40% of the [[prison]] population" 
 
-- > "hen Black people are convicted, they are about 20% more likely to be sentenced to jail time, and typically see sentences 20% longer than those for whites who were convicted of similar crimes" 
+- > "hen [[Black people]] are convicted, they are about 20% more likely to be sentenced to jail time, and typically see sentences 20% longer than those for whites who were convicted of similar crimes" 
 
 - > "A recent studyOpens a new window demonstrated that people of color are told about and shown fewer homes and apartments than whites. Black ownership is now at an all-time lowOpens a new window (42%, compared to 72% for whites)." 
 

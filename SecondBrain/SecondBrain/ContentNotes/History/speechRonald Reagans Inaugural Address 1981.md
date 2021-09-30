@@ -81,7 +81,7 @@ Can we solve the problems confronting us? Well, the answer is an unequivocal and
 
 In the days ahead I will propose removing the roadblocks that have slowed our [[economy]] and reduced productivity. Steps will be taken aimed at restoring the balance between the various levels of [[government]]. Progress may be slow--measured in inches and feet, not miles--but we will progress. Is it time to reawaken this industrial giant, to get [[government]] back within its means, and to lighten our punitive tax burden. And these will be our first priorities, and on these principles, there will be no compromise.
 
-On the eve of our struggle for independence a man who might have been one of the greatest among the Founding Fathers, Dr. Joseph Warren, President of the Massachusetts [[Congress]], said to his fellow [[America|Americans]], "Our country is in danger, but not to be despaired of.... On you depend the fortunes of [[America]]. You are to decide the important questions upon which rests the [[happiness]] and the liberty of millions yet unborn. Act worthy of yourselves."
+On the eve of our struggle for independence a man who might have been one of the greatest among the [[Founding Fathers]], Dr. Joseph Warren, President of the Massachusetts [[Congress]], said to his fellow [[America|Americans]], "Our country is in danger, but not to be despaired of.... On you depend the fortunes of [[America]]. You are to decide the important questions upon which rests the [[happiness]] and the liberty of millions yet unborn. Act worthy of yourselves."
 
 Well, I believe we, the [[America|Americans]] of today, are ready to act worthy of ourselves, ready to do what must be done to ensure [[happiness]] and liberty for ourselves, our children and our children's children.
 
@@ -173,7 +173,7 @@ Can we solve the problems confronting us? Well, the answer is an unequivocal and
 
 In the days ahead I will propose removing the roadblocks that have slowed our [[economy]] and reduced productivity. Steps will be taken aimed at restoring the balance between the various levels of [[government]]. Progress may be slow--measured in inches and feet, not miles--but we will progress. Is it time to reawaken this industrial giant, to get [[government]] back within its means, and to lighten our punitive tax burden. And these will be our first priorities, and on these principles, there will be no compromise.
 
-On the eve of our struggle for independence a man who might have been one of the greatest among the Founding Fathers, Dr. Joseph Warren, President of the Massachusetts [[Congress]], said to his fellow [[America|Americans]], "Our country is in danger, but not to be despaired of.... On you depend the fortunes of [[America]]. You are to decide the important questions upon which rests the [[happiness]] and the liberty of millions yet unborn. Act worthy of yourselves."
+On the eve of our struggle for independence a man who might have been one of the greatest among the [[Founding Fathers]], Dr. Joseph Warren, President of the Massachusetts [[Congress]], said to his fellow [[America|Americans]], "Our country is in danger, but not to be despaired of.... On you depend the fortunes of [[America]]. You are to decide the important questions upon which rests the [[happiness]] and the liberty of millions yet unborn. Act worthy of yourselves."
 
 Well, I believe we, the [[America|Americans]] of today, are ready to act worthy of ourselves, ready to do what must be done to ensure [[happiness]] and liberty for ourselves, our children and our children's children.
 

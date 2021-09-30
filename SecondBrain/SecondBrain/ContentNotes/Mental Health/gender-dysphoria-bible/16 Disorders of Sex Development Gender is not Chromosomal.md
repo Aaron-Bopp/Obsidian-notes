@@ -13,7 +13,7 @@ author: Jocelyn Badgley
 ---
 **The [[Gender Dysphoria]] Bible is a Living Document**
 
-The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third Gender narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
+The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third [[Gender]] narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
 
 [I'm going to regret paying the co-pay for this test eventually because it was pretty pricey… but I had my karyotype done. Just got the results.
 ](https://twitter.com/TransEthics/status/1223942625708761088)
@@ -59,7 +59,7 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 -   [Aromatase Excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminization in an otherwise male child, as all testosterone is converted into estrogen.
     
 
-[Friendly neighborhood biologist here. I see a lot of people are talking about biological sexes and gender right now. Lots of folks make biological sex sex seem really simple. Well, since it’s so simple, let’s find the biological roots, shall we? Let’s talk about sex...\[a thread\]
+[Friendly neighborhood biologist here. I see a lot of people are talking about biological sexes and [[gender]] right now. Lots of folks make biological sex sex seem really simple. Well, since it’s so simple, let’s find the biological roots, shall we? Let’s talk about sex...\[a thread\]
 ](https://twitter.com/RebeccaRHelm/status/1207834357639139328)
 
 [If you know a bit about biology you will probably say that biological sex is caused by chromosomes, XX and you’re female, XY and you’re male. This is “chromosomal sex” but is it “biological sex”? Well...

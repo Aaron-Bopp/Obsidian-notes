@@ -10,7 +10,7 @@ note-type:
 
 Where did we come from? 
 What happens when we die?
-What is our purpose?
+What is our [[purpose]]?
 
 
 ---

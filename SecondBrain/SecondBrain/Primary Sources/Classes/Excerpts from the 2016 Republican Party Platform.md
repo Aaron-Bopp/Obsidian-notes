@@ -4,11 +4,11 @@ July 18, 2016
 
 **Preamble**
 
-With this platform, we the Republican Party reaffirm the principles that unite us in a common purpose.
+With this platform, we the Republican Party reaffirm the principles that unite us in a common [[purpose]].
 
 We believe in American exceptionalism.
 
-We believe the United States of America is unlike any other nation on earth.
+We believe [[America|the United States]] of America is unlike any other nation on earth.
 
 We believe America is exceptional because of our historic role --- first as refuge, then as defender, and now as exemplar of liberty for the world to see.
 
@@ -26,7 +26,7 @@ When political freedom and economic freedom are separated --- both are in peril;
 
 We believe that people are the ultimate resource --- and that the people, not the government, are the best stewards of our country\'s God-given natural resources.
 
-As Americans and as Republicans we wish for peace --- so we insist on strength. We will make America safe. We seek friendship with all peoples and all nations, but we recognize and are prepared to deal with evil in the world....
+As [[America|Americans]] and as Republicans we wish for peace --- so we insist on strength. We will make America safe. We seek friendship with all peoples and all nations, but we recognize and are prepared to deal with evil in the world....
 
 For the past 8 years America has been led in the wrong direction.
 
@@ -38,13 +38,13 @@ They have nearly doubled the size of the national debt.
 
 They refuse to control our borders but try to control our schools, farms, businesses, and even our religious institutions. They have directly attacked the production of American energy and the industry-related jobs that have sustained families and communities.
 
-The President has been regulating to death a free market economy that he does not like and does not understand. He defies the laws of the United States by refusing to enforce those with which he does not agree. And he appoints judges who legislate from the bench rather than apply the law....
+The President has been regulating to death a free market economy that he does not like and does not understand. He defies the laws of [[America|the United States]] by refusing to enforce those with which he does not agree. And he appoints judges who legislate from the bench rather than apply the law....
 
-We, as Republicans and Americans, cannot allow this to continue. That is why the many sections of this platform affirm our trust in the people, our faith in their judgment, and our determination to help them take back their country. This means removing the power from unelected, unaccountable government. This means relieving the burden and expense of punishing government regulations. And this means returning to the people and the states the control that belongs to them. It is the control and the power to make their own decisions about what\'s best for themselves and their families and communities.
+We, as Republicans and [[America|Americans]], cannot allow this to continue. That is why the many sections of this platform affirm our trust in the people, our faith in their judgment, and our determination to help them take back their country. This means removing the power from unelected, unaccountable government. This means relieving the burden and expense of punishing government regulations. And this means returning to the people and the states the control that belongs to them. It is the control and the power to make their own decisions about what\'s best for themselves and their families and communities.
 
 **Rebuilding the Economy and Creating Jobs**
 
-...Government cannot create prosperity, though government can limit or destroy it. Prosperity is the product of self-discipline, enterprise, saving and investment by individuals, but it is not an end in itself. Prosperity provides the means by which citizens and their families can maintain their independence from government, raise their children by their own values, practice their faith, and build communities of cooperation and mutual respect....
+...Government cannot create prosperity, though government can limit or destroy it. Prosperity is the product of [[self]]-discipline, enterprise, saving and investment by individuals, but it is not an end in itself. Prosperity provides the means by which citizens and their families can maintain their independence from government, raise their children by their own values, practice their faith, and build communities of cooperation and mutual respect....
 
 **Fair and Simple Taxes for Growth**
 
@@ -52,7 +52,7 @@ Republicans consider the establishment of a pro-growth tax code a moral imperati
 
 Our proposal is straightforward. Wherever tax rates penalize thrift or discourage investment, they must be lowered. Wherever current provisions of the code are disincentives for economic growth, they must be changed. We will not divide the American people into winners and losers. We will eliminate as many special interest provisions and loopholes as possible and curb corporate welfare...
 
-We oppose tax policies that deliberately divide Americans or promote class warfare. Because of the vital role of religious organizations, charities, and fraternal benevolent societies in fostering generosity and patriotism, they should not be subject to taxation and donations to them should remain deductible. To guard against hypertaxation of the American people in any restructuring of the federal tax system, any value added tax or national sales tax must be tied to the simultaneous repeal of the Sixteenth Amendment, which established the federal income tax...
+We oppose tax policies that deliberately divide [[America|Americans]] or promote class warfare. Because of the vital role of religious organizations, charities, and fraternal benevolent societies in fostering generosity and patriotism, they should not be subject to taxation and donations to them should remain deductible. To guard against hypertaxation of the American people in any restructuring of the federal tax system, any value added tax or national sales tax must be tied to the simultaneous repeal of the Sixteenth Amendment, which established the federal income tax...
 
 American businesses now face the world\'s highest corporate tax rates... We propose to level the international playing field by lowering the corporate tax rate to be on a par with, or below, the rates of other industrial nations...
 
@@ -74,7 +74,7 @@ The Federal Housing Administration, which provides taxpayer-backed guarantees in
 
 **America on the Move**
 
-... We propose to remove from the Highway Trust Fund programs that should not be the business of the federal government.
+... We propose to remove from the Highway Trust Fund programs that should not be the [[business]] of the federal government.
 
 ... Other beneficiaries of highway money are ferry boats, the federal lands access program, scenic byways, and education initiatives. These worthwhile enterprises should be funded through other sources.
 
@@ -90,7 +90,7 @@ Because the Federal Reserve\'s monetary policy decisions affect job creation, up
 
 The greatest asset of the American economy is the hard-working American. That is why our first priority is getting people back to work by fostering the kind of growth that creates jobs... All workers, including union members, must be free to accept raises and rewards without veto power from union officials... We support the right of states to enact Right-to-Work laws and call for a national law to protect the economic liberty of the modern workforce.
 
-All Americans deserve the opportunity to pursue their American dream free from discrimination...
+All [[America|Americans]] deserve the opportunity to pursue their American dream free from discrimination...
 
 Republicans believe that the employer-employee relationship of the future will be built upon employee empowerment and workplace flexibility. We therefore endorse employee stock ownership plans that enable workers to become capitalists, expand the realm of private property, and energize a free enterprise economy.
 
@@ -108,7 +108,7 @@ We are the party of the Declaration of Independence and Constitution...
 
 We affirm the Constitution's fundamental principles: limited government, separation of powers, individual liberty, and the rule of law....
 
-We continue to encourage equality for all citizens and access to the American Dream. Merit and hard work should determine advancement in our society, so we reject unfair preferences, quotas, and set-asides as forms of discrimination. Our ranks include Americans from every faith and tradition, and we respect the right of each American to follow his or her deeply held beliefs...
+We continue to encourage equality for all citizens and access to the American Dream. Merit and hard work should determine advancement in our society, so we reject unfair preferences, quotas, and set-asides as forms of discrimination. Our ranks include [[America|Americans]] from every faith and tradition, and we respect the right of each American to follow his or her deeply held beliefs...
 
 In a free society, the primary role of government is to protect the God-given, inalienable rights of its citizens. These constitutional rights are no negotiable for any American. We affirm that all legislation, regulation, and official action must conform to the Constitution's original meaning as understood at the time the language was adopted....
 
@@ -128,6 +128,6 @@ Over-regulation is the quiet tyranny of the 'Nanny State.' It hamstrings America
 
 ...Our country faces a national security crisis, and only be electing a Republican to the White House will we restore law and order to our land and safety to our citizens.
 
-We are the party of peace through strength. We believe that American exceptionalism -- the notion that our ideas and principles as a nation give us a unique place of moral leadership in the world -- requires the United States to retake its natural position as leader of the free world.
+We are the party of peace through strength. We believe that American exceptionalism -- the notion that our ideas and principles as a nation give us a unique place of moral leadership in the world -- requires [[America|the United States]] to retake its natural position as leader of the free world.
 
-Tyranny and injustice thrive when American weakened. The oppressed have no greater ally than a confident and determined United States, backed by the strongest military on the planet.
+Tyranny and [[injustice]] thrive when American weakened. The oppressed have no greater ally than a confident and determined United States, backed by the strongest military on the planet.

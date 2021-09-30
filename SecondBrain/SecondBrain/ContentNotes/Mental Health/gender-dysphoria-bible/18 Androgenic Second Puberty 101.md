@@ -19,7 +19,7 @@ This is a compilation of reported medical transition changes collected from test
 ### Voice Drop 
 Androgens cause the tissue that comprises the vocal chords to thicken and harden, permanently lowering the pitch of the voice. This is not a very fast change, but rather incremental over the first few years. Some people do not experience any voice change at all, it varies person to person. The change will not be drastic, if you are a soprano you are not going to become a bass, but it could bring you down to a contralto or tenor.
 
-This does _not_ mean that your voice will automatically become read as male. Pitch is only a piece of how people gender voice, and the way you speak plays a much larger role. Vocal training will be needed to amplify resonance and change speaking style.
+This does _not_ mean that your voice will automatically become read as male. Pitch is only a piece of how people [[gender]] voice, and the way you speak plays a much larger role. Vocal training will be needed to amplify resonance and change speaking style.
 
 ### Changes in Body Temperature Placement 
 [[@salenby](https://twitter.com/salenby) [@chaoticgaythey](https://twitter.com/chaoticgaythey) Night sweats/being HOT even at normal room temperature. The night sweats went away after a week or two the being constantly warm has not gone away it has just become normal.

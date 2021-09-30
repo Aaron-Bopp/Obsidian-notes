@@ -33,7 +33,7 @@ bib:
             - going west - farmers who lost farms and went west to california to jobs that sometimes didn't exist
         - 
     - Hoover
-        - Did not want to take a direct role in the economy and believed that americans needed to pull themselves out of the deppression in order to preserve [[Capitalism]]
+        - Did not want to take a direct role in the economy and believed that [[America|americans]] needed to pull themselves out of the deppression in order to preserve [[Capitalism]]
         - Spent 500 million on public works projects 
         - Reconstruction Finance Corporation (RFC) lent money to banks and companies that were short on cash
         - Despite this he prioritized the budget and did not want to give help to individuals 

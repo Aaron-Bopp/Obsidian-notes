@@ -90,7 +90,7 @@
 
         ii. Monotheism = worship of only one god *[and]{.ul}* a belief that only one god exists
 
-    b.  YHWH -- no gender, no appearance, human emotions
+    b.  YHWH -- no [[gender]], no appearance, human emotions
 
     c.  Covenant (a promise sealed with a sign) -- five covenants, followed god he rewards
 
@@ -124,7 +124,7 @@
 
     a.  Ethically Right Conduct
 
-        i.  Ethical Monotheism = YHWH guides morality
+        i.  Ethical Monotheism = YHWH guides [[morality]]
 
         ii. Ten Commandments
 

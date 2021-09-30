@@ -35,7 +35,7 @@ bib:
             - fought against medicare and for free market-healthcare
                 - believed market choice would drive down prices
         - hurricane katrina
-            - americans very critical of Bush's response
+            - [[America|americans]] very critical of Bush's response
         - Great Recession (2008)
             - emergency economic stabilization act
     - Foreign Policy
@@ -77,7 +77,7 @@ bib:
         - health care reform
             - [[Obama]] insisted on budget neutral reform
         - legislation
-            - equal pay for women
+            - equal pay for [[women]]
             - dodd-frank act - addressed issues that caused 2008
     - Election of 2010
         - [[republicans]] retook both houses

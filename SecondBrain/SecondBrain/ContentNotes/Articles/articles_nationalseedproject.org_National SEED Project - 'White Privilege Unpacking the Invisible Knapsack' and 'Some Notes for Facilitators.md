@@ -16,7 +16,7 @@ source: https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking
 **Last Edited**:: *`=this.file.mtime`*
 
 ## Highlights
-- > "men’s unwillingness to grant that they are over-privileged, even though they may grant that women are disadvantaged" 
+- > "men’s unwillingness to grant that they are over-privileged, even though they may grant that [[women]] are disadvantaged" 
 
 - > "whites are carefully taught not to recognize white privilege, as males are taught not to recognize male privilege" 
 
@@ -48,11 +48,11 @@ source: https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking
 
 - > "I have met very few men who are truly distressed about systemic, unearned male advantage and conferred dominance. And so one question for me and others like me is whether we will be like them, or whether we will get truly distressed, even outraged, about unearned race advantage and conferred dominance, and, if so, what will we do to lessen them" 
 
-- > "In addition, since race and sex are not the only advantaging systems at work, we need similarly to examine the daily experience of having age advantage, or ethnic advantage, or physical ability, or advantage related to nationality, religion, or sexual orientation." 
+- > "In addition, since race and sex are not the only advantaging systems at work, we need similarly to examine the daily experience of having age advantage, or ethnic advantage, or physical ability, or advantage related to nationality, [[religion]], or sexual orientation." 
 
 - > "One factor seems clear about all of the interlocking oppressions. They take both active forms, which we can see, and embedded forms" 
 
-- > "I did not see myself as a racist because I was taught to recognize racism only in individual acts of meanness by members of my group, never in invisible systems conferring unsought racial dominance on my group from birth" 
+- > "I did not see myself as a racist because I was taught to recognize [[racism]] only in individual acts of meanness by members of my group, never in invisible systems conferring unsought racial dominance on my group from birth" 
 
-- > "obliviousness about white advantage, like obliviousness about male advantage, is kept strongly inculturated in the United States so as to maintain the myth of meritocracy, the myth that democratic choice is equally available to all" 
+- > "obliviousness about white advantage, like obliviousness about male advantage, is kept strongly inculturated in [[America|the United States]] so as to maintain the myth of meritocracy, the myth that democratic choice is equally available to all" 
 

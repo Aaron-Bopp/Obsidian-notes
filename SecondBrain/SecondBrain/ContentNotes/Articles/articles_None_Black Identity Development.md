@@ -16,7 +16,7 @@ source:
 **Last Edited**:: *`=this.file.mtime`*
 
 ## Highlights
-- > "Race is the sharpest and deepest division in American life, and because of the long standing divide, achieving equal access to and benefits from institu-tions of higher education has been an ongoing struggle for people of color in general, but particularly for African Americans." 
+- > "Race is the sharpest and deepest division in American life, and because of the long standing divide, achieving equal access to and benefits from institu-tions of higher education has been an ongoing struggle for people of color in general, but particularly for African [[America|Americans]]." 
     - Tags: [[Racism]]
 
 - > "College is where young adults begin to question their identity and explore the question of “who am I?”" 

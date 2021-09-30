@@ -13,16 +13,16 @@ author: Jocelyn Badgley
 ---
 **The [[Gender Dysphoria]] Bible is a Living Document**
 
-The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third Gender narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
+The contents of this site will change over time as new additions and revisions are made to further expand upon the full breadth of [[Gender Dysphoria]]. In its current iteration it is severely lacking in AFAB narratives, [[non-binary]], agender & genderfluid specific dysphoria, and Third [[Gender]] narratives. The GDB is an open source and publicly funded project, [content](https://github.com/GenderDysphoria/GenderDysphoria.fyi) and [fiscal](https://patreon.com/curvyandtrans) contributions are extremely welcome.
 
 Treatment options vary significantly depending on the individual person’s needs. Every single transition is unique, and there is no one way to transition. This section is a list of possible pathways.
 
-In a phrase: Coming out of the closet. This is simply announcing to the world that you are [[transgender]]. You announce that you wish to use a new name and/or new pronouns – or not, you may just wish for people to know that you are [[transgender|trans]] and do not actually identify with your assigned binary gender. For some [[non-binary]] people this may not even be a full step away from their assignment, since gender is a spectrum and there is such as thing as a “[[non-binary]] man” and a “[[non-binary]] woman”.
+In a phrase: Coming out of the closet. This is simply announcing to the world that you are [[transgender]]. You announce that you wish to use a new name and/or new pronouns – or not, you may just wish for people to know that you are [[transgender|trans]] and do not actually identify with your assigned binary [[gender]]. For some [[non-binary]] people this may not even be a full step away from their assignment, since [[gender]] is a spectrum and there is such as thing as a “[[non-binary]] man” and a “[[non-binary]] woman”.
 
 A social transition is the act of stepping out of the closet, and it can relieve a lot of stress from suppression of ones [[self]].
 
 ### Legal Transition 
-This is the process of changing your legal documents to reflect your true gender. This may be through a legal name and gender change issued by a court, through a change of gender marker on an official ID, or through re-issuing of birth certificates and marriage licenses.
+This is the process of changing your legal documents to reflect your true [[gender]]. This may be through a legal name and [[gender]] change issued by a court, through a change of [[gender]] marker on an official ID, or through re-issuing of birth certificates and marriage licenses.
 
 ### Presentational Transition 
 These are changes to how you style yourself, be it your clothes, your hair, or the use of makeup. Our society heavily genders all of these things, and switching presentation is both affirming to one’s [[self]] and also sends cues to those around them about how they wish to be addressed.
@@ -34,7 +34,7 @@ _**PREPUBESCENT CHILDREN DO NOT MEDICALLY TRANSITION**_.
 
 While the American Academy of Pediatrics [strongly encourages the validation and acceptance of [[transgender]] youth](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf), and the enabling of all other forms of transition, they explicitly do not support doctors beginning either hormone therapy or puberty blockers until a child has reached [Tanner stage 2](https://en.wikipedia.org/wiki/Tanner_scale).
 
-Furthermore, no surgeon in [[America|the United States]] will perform a gender altering surgery on a minor (excluding intersex “corrections”, which is a whole other problem outside the scope of this article). Very few children have strong enough features to be read as either male or female without clues provided through presentation. Allowing a child to change their hair and clothes is all that is needed for the child to be seen as male or female.
+Furthermore, no surgeon in [[America|the United States]] will perform a [[gender]] altering surgery on a minor (excluding intersex “corrections”, which is a whole other problem outside the scope of this article). Very few children have strong enough features to be read as either male or female without clues provided through presentation. Allowing a child to change their hair and clothes is all that is needed for the child to be seen as male or female.
 
 ### Hormonal Transition 
 

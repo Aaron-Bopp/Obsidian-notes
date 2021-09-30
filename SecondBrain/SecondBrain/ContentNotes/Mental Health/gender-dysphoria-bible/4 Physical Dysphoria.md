@@ -68,9 +68,9 @@ I always thought everyone had a dirty little secret like mine. A bit of closet s
 
 [[No]] ==It can manifest as a compulsion to be rid of certain body traits, such as obsessively shaving body or facial hair. This can also manifest in the opposite compulsion, leading to meticulous grooming of those traits in order to try to control them, like maintaining a perfect beard, persistently keeping ones nails manicured and polished, or spending hours in the gym attempting to hone ones shape.==
 
-Undesired physical features may prompt a person to experience envy of people who have been forced to remove those features due to illnesses, such as testicular or breast cancer. AMABs with severe genital dysphoria tend to have a wish for some kind of freak accident that would cause the loss of their phallus.
+Undesired physical features may prompt a person to experience [[envy]] of people who have been forced to remove those features due to illnesses, such as testicular or breast cancer. AMABs with severe genital dysphoria tend to have a wish for some kind of freak accident that would cause the loss of their phallus.
 
-[[Yes]] ==Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. ==For most of my life I believed that the reason I hate my body was because I was fat. It wasn’t until I started transition that I realized I don’t hate my fat at all, I hated having _male_ fat. The feminine curves that HRT gave me make me feel so much more in tune with my body.
+[[Yes]] ==Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to [[gender]] or sex. ==For most of my life I believed that the reason I hate my body was because I was fat. It wasn’t until I started transition that I realized I don’t hate my fat at all, I hated having _male_ fat. The feminine curves that HRT gave me make me feel so much more in tune with my body.
 
 The dysphoria one feels about their body can and will change over time, for better and worse. For example, many [[transgender|trans]] [[women]] enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminization surgery, but then 2 years in to transition, realize they’re actually okay with how they look.
 
@@ -87,7 +87,7 @@ It’s okay if you don’t need medical transition _at all_. Body feelings are n
 ### Internalized Body Image Issues 
 The world is full of [[subconscious]] messages about how men and [[women]]’s bodies should be shaped. We are bombarded with advertising and [[media]] creating a normalized view of what is and is not beautiful. Don’t be too fat, don’t be too skinny, don’t be too tall, don’t be too short, don’t have too broad of a chin, don’t have too large of a nose, wear makeup but don’t wear too much makeup, don’t leave the house without a bra, but don’t let the bra show. On and on and on, the constant barrage of expectations of gendered appearance.
 
-Everyone absorbs these messages, and [[transgender|trans]] people internalize the factors which matter to the gender they align with. [[transgender|Trans]] girls grow up mapping feminine standards onto themselves, [[transgender|trans]] boys map masculine standards on to themselves, and enbies often internalize shame around androgyny. This is _on top_ of the shame they are loaded with for not living up to their assigned gender’s standards.
+Everyone absorbs these messages, and [[transgender|trans]] people internalize the factors which matter to the [[gender]] they align with. [[transgender|Trans]] girls grow up mapping feminine standards onto themselves, [[transgender|trans]] boys map masculine standards on to themselves, and enbies often internalize shame around androgyny. This is _on top_ of the shame they are loaded with for not living up to their assigned [[gender]]’s standards.
 
 What is the end result of this? Kathryn said it best:
 

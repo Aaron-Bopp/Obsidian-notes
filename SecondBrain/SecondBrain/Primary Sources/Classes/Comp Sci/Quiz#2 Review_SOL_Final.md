@@ -1,6 +1,6 @@
 > Quiz #2 Review
 
-1.  What is the purpose of ls, cd, mkdir, as, gcc, echo\$?, etc.
+1.  What is the [[purpose]] of ls, cd, mkdir, as, gcc, echo\$?, etc.
 
 > Possible Sol: ls -l To list the files in a directory with all related information such creation time, permission, size, etc
 >
@@ -16,9 +16,9 @@
 
 > Sol: 16 integer registers
 
-3.  How many registers are general purpose registers?
+3.  How many registers are general [[purpose]] registers?
 
-> Sol: 12 general purpose registers (r0 -- r12)
+> Sol: 12 general [[purpose]] registers (r0 -- r12)
 
 4.  Name the register that keeps track of the next instruction to be executed
 

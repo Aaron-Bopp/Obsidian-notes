@@ -21,19 +21,19 @@ Summarized and expanded upon in [[White Privilege write-up]]
 
 - Talking about whiteness as a demographic and white privilege. 
 - Peggys story
-	- White women are oppressive to work with. 
+	- White [[women]] are oppressive to work with. 
 	- Expecting to be thanked for not being racist. 
 	- Led to searching for things privilege she has
 - College campuses are central for lots of activism about race
 - Whiteness is not just an identity, it is embedded institutions and practices (college)
 	- Notion that whiteness is the invisible identity. “Other people have race”
 - Whiteness is a racial project. ([[Whiteness was created as a societal structure]]) Representation that distributes resources 
-	- Women default to whiteness => white women’s experience === women’s experience
-	- People want a racial alibi = to become the good white person or separate themselves from the institution of whiteness	(and white supremacy)
+	- [[Women]] default to whiteness => white [[women]]’s experience === [[women]]’s experience
+	- People want a racial alibi = to become the good white person or separate themselves from the institution of whiteness	(and [[white supremacy]])
 - Progressive or liberal white people view whiteness as a burden but that is not true of all white people
 - [[How to address whiteness]]
 	- Direct approach
-		-  White supremacy and forcing to acknowledge white privilege
+		-  [[White supremacy]] and forcing to acknowledge white privilege
 			- often used by activists
 	- Indirect approach
 		-  Ground teaching in actual experience of white people = why do people feel like they don't have white privilege? -> the problems they face aren't related to their race or other races.

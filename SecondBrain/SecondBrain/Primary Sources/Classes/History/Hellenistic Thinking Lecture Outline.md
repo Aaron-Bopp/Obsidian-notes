@@ -38,7 +38,7 @@
 
     -   Ideas as Hypotheses not Absolutes
 
-    -   Morality from Practical Experience
+    -   [[Morality]] from Practical Experience
 
 -   **Cynicism**
 

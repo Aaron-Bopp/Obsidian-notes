@@ -8,7 +8,7 @@ aliases:
 ---
 #### [[Acting Bio]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Name: Aaron Bopp
+Name: Aaron [[Bopp]]
 Class/Major: Senior, B.S. Computer Science
 Role: 
 

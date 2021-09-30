@@ -54,7 +54,7 @@
 
     -   **Programming** (the art of translating an algorithm in a [[computer]] language)
 
-    -   **Internet** (Individual networks connecting through a unified language) allows us to communicate
+    -   **[[Internet]]** (Individual networks connecting through a unified language) allows us to communicate
 
     -   **Global Impact** (Computing effects every aspect of society) ex satellites,
 

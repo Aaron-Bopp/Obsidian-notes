@@ -44,11 +44,11 @@ if(metaeditEnabled === true) {
 	const dateMaker = (pn, fpath) => {
 		let searchTerm = dv.pages().where(f => f.file.path == dv.current().file.path).searchTerm;
 		const file = this.app.vault.getAbstractFileByPath(fpath)
-		const regex = new RegExp("\d{4}-\d{2}-\d{2}")
+		const [[regex]] = new RegExp("\d{4}-\d{2}-\d{2}")
 		const textBox = this.container.createEl('input');
 		textBox.type = "date";
 		textBox.value = searchTerm;
-		// regex.test(searchTerm) ? textBox.value = searchTerm.toString()
+		// [[regex]].test(searchTerm) ? textBox.value = searchTerm.toString()
 
 		textBox.placeholder = "Enter tag to search for";
 		textBox.addEventListener('input', async (evt) => {

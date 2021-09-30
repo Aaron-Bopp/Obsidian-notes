@@ -13,7 +13,7 @@ Hatred for yourself is born when you are unhappy with something in your life. Fu
 
 [[Self-image]] can be influenced by a longing for something that you have never achieved, and once you achieve it you may realize that you never wanted to be that thing. Perhaps this is because you were emulating people around you instead of who you really want to be. Or because you that that [[self-image]] would be an answer to an unrelated problem.
 
-This is very common among [[transgender]] people because as their authentic [[self-image]] is rebuffed they fall back to stereotypical or examples for how they should present. This is why [[transgender|trans]]-masc people being hyper feminine while in the closet, and [[transgender|trans]]-fem people being hyper-masculine while in the closet. They were never presenting as their true selves, so they fixated on the most extreme form of their "correct" gender presentation instead.
+This is very common among [[transgender]] people because as their authentic [[self-image]] is rebuffed they fall back to stereotypical or examples for how they should present. This is why [[transgender|trans]]-masc people being hyper feminine while in the closet, and [[transgender|trans]]-fem people being hyper-masculine while in the closet. They were never presenting as their true selves, so they fixated on the most extreme form of their "correct" [[gender]] presentation instead.
 
 If your [[self-image]] is correct, your [[self-perception]] may be off. You may have some form of [[body dysmorphia]] that prevents you from seeing your [[self]]-accurately, or you may have outside forces that are influencing the way you  perceive yourself.
 

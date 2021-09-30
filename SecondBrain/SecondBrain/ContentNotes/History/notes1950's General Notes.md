@@ -13,15 +13,15 @@ bib:
 - [[1940's General Notes]]
 - 1950s - Conformity and Conflict and the Second Red Scare
     - [[Second Red Scare Discussion]]
-    - Growth of middle class,  Suburbia and business (Baby Boomers)
+    - Growth of middle class,  Suburbia and [[business]] (Baby Boomers)
         - Baby Boomers - Lots of kids, lots of houses
         - House ownership grew from 40% (pre 1940) to 60% (1960)
             - GI Bill helped veterans get college education and house loans
             - Housing prices and education very affordable
-        - focus on religion
-            - Life too easy -> less reliance on religion
+        - focus on [[religion]]
+            - Life too easy -> less reliance on [[religion]]
             - 1964 under god and in god we trust added 
-            - Communists didn't allow religion
+            - Communists didn't allow [[religion]]
         - [[Consumer Culture]] and [[Capitalism]]
             - Obsession with collecting things
             - Young people spent 22 billion a year on consumer goods
@@ -40,9 +40,9 @@ bib:
                 - All of this was to make people think they can do something and let them keep agency of their lives. If people lived in fear they wouldn't be able to live the American dream
 - [[Civil Rights]] Movement
     - Segregation still a problem years after race focused ammendments
-    - Moving to cities (1920s)and WW veterans really helped to bring black people out of the south
+    - Moving to cities (1920s)and WW veterans really helped to bring [[black people]] out of the south
     - [[Civil Rights]] Movement on hold during WW2
-        - [Asa Philip Randolph](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj59Z66sIHwAhWLHM0KHRPGAJsQFjAAegQIBhAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FA._Philip_Randolph&usg=AOvVaw2DD1QbeJIrw3d-dg2xZTa9) called for a march on Washington in 1940 but Roosevelt asked to wait and said it was not the time
+        - [Asa Philip Randolph](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj59Z66sIHwAhWLHM0KHRPGAJsQFjAAegQIBhAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FA._Philip_Randolph&usg=AOvVaw2DD1QbeJIrw3d-dg2xZTa9) called for a march on Washington in 1940 but [[FDR|Roosevelt]] asked to wait and said it was not the time
     - Truman supported [[Civil Rights]] movement and saw it was the governments job to set an example
     - Eisenhower feared to quick of change and did not think that the government could change peoples biases
     - Legal challenges and peaceful protests

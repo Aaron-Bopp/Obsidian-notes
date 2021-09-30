@@ -17,7 +17,7 @@ bib:
 
 **Last Edited**:: *`=this.file.mtime`*
 
-- #TO/EXPLORE/RESEARCH cognitive empathy
+- #TO/EXPLORE/RESEARCH cognitive [[empathy]]
 -  [18:05](https://www.youtube.com/watch?v=nB8g3n10_Z8#t=1085.282509721527)
 	- [[Happiness]] there is a difference between contentment and momentary happiness
 	-  

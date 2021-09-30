@@ -13,7 +13,7 @@ note-type:
 - From [[11 Managed Dysphoria Gender in Disguise]]
     - Helping cis partners to shop in order to live vicariously through their presentation.
     - many [[transgender|trans]] people grow up learning to hide their natural personalities out of sheer necessity.
-    - Buying in to ultra-conservative attitudes towards gender and sexuality.
+    - Buying in to ultra-conservative attitudes towards [[gender]] and sexuality.
     - Intensely investing large amounts of time into hobbies.
     - Chain binging movies, TV shows or books.
     - Spending all idle time playing video games or on social [[media]].
@@ -21,13 +21,13 @@ note-type:
     - AMAB Enbies are often either grouped in with [[Queer|gay]] cis men or treated like [[transgender|trans]] [[women]].
 - From [[13 Diagnosing Gender Dysphoria]]
     - **A strong [[desire]] to be rid of one�s primary and/or secondary sex characteristics**
-    - **A strong [[desire]] for the primary and/or secondary sex characteristics of another gender**
-    - **A strong [[desire]] to be of another gender**
-    - **A strong [[desire]] to be treated as another gender**
+    - **A strong [[desire]] for the primary and/or secondary sex characteristics of another [[gender]]**
+    - **A strong [[desire]] to be of another [[gender]]**
+    - **A strong [[desire]] to be treated as another [[gender]]**
 - From [[2 A Brief History of Gender Dysphoria]]
     - This incongruence is so deep inside the brain�s subsystems that there is no obvious message of what the problem is.
 - From [[4 Physical Dysphoria]]
-    - Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex.
+    - Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to [[gender]] or sex.
     - It�s okay if you don�t hate anything about your body, and just wish you looked more feminine or masculine.
 - From [[5 Biochemical Dysphoria]]
     - A sense of detachment or estrangement from your own thoughts, feelings, or body: �I know I have feelings but I don�t feel them�
@@ -57,7 +57,7 @@ note-type:
     - For example, many [[transgender|trans]] [[women]] have stories about feeling the need to cover up their chest pre-transition out of an intrinsic sense of modesty.
     - AMABs may find themselves wishing _they_ were the one being pampered
 - From [[9 Presentational Dysphoria]]
-    - a wish to be able to present as people of that gender do.
+    - a wish to be able to present as people of that [[gender]] do.
     - When you get ready to go, you just roll out of bed and throw on whatever. You don't really do any [[self]]-grooming, or care about what's on your body. You're a little proud of your lack of vanity, your deeper, non-appearance-level existence.
     - Your clothes are chosen almost entirely for comfort.
     - Feeling envious of other girls for being pretty is a thing that many many [[women]] feel. Dysphoria is a real headfuck of a layer on top of that feeling, yet I just wanna say that if you�re a [[transgender|trans]] woman feeling envious of another [[transgender|trans]]
@@ -67,23 +67,23 @@ note-type:
 - From [[0 That's Gender Dysphoria, FYI]]
     - Some children identify it at as soon as they are able to grasp the concept of the differences between the sexes, others don�t start to feel anything until the onset of puberty
 - From [[11 Managed Dysphoria Gender in Disguise]]
-    - When a video game gives you the option of choosing your gender, you tend to choose differently than your assigned gender.
-    - A preference for literature and film with characters of your true gender, or with characters who break gender norms (Mulan, Little [[Women]]).
+    - When a video game gives you the option of choosing your [[gender]], you tend to choose differently than your assigned [[gender]].
+    - A preference for literature and film with characters of your true [[gender]], or with characters who break [[gender]] norms (Mulan, Little [[Women]]).
     - Pornographic outlets which satisfy strong desires or feel more relatable, such as a draw towards gay/lesbian porn, bridal kink, or transformation sequences.
     - Crossdressing or performing drag.
     - Finding excuses to cut hair short, or to grow it out.
     - Wearing loose and baggy clothing that hides the shape of your body.
-    - Becoming intimately educated about some gender-associated topic, such as men�s or [[women]]�s clothing design.
+    - Becoming intimately educated about some [[gender]]-associated topic, such as men�s or [[women]]�s clothing design.
     - Growing and meticulously grooming facial hair (the so-called �denial beard�).
     - Presenting extremely masculine or hyper feminine.
-    - Avoiding any conversation about fashion for any gender. Dissociating whenever fashion conversations or activities occur.
+    - Avoiding any conversation about fashion for any [[gender]]. Dissociating whenever fashion conversations or activities occur.
     - Expressing [[Homophobia]] and Transphobia in [[self]] defense to ward off suspicion.
-    - Aggressively passive engagement in anything connected to one�s true gender.
+    - Aggressively passive engagement in anything connected to one�s true [[gender]].
     - Long hours spent at work.
     - Obsessively cleaning one�s living space.
     - Sleeping. Lots and lots of sleeping.
 - From [[13 Diagnosing Gender Dysphoria]]
-    - **A marked incongruence between one�s experienced/expressed gender and primary and/or secondary sex characteristics**
+    - **A marked incongruence between one�s experienced/expressed [[gender]] and primary and/or secondary sex characteristics**
 - From [[4 Physical Dysphoria]]
     - It can manifest as a compulsion to be rid of certain body traits, such as obsessively shaving body or facial hair. This can also manifest in the opposite compulsion, leading to meticulous grooming of those traits in order to try to control them, like maintaining a perfect beard, persistently keeping ones nails manicured and polished, or spending hours in the gym attempting to hone ones shape.
 - From [[5 Biochemical Dysphoria]]
@@ -98,14 +98,14 @@ note-type:
     - People with DPDR tend to have a mile long stare as they move about in the world; eyes so gloomy and dead that they look like a shell.
 - From [[6 Social Dysphoria]]
     - Being vulnerable around strange men is terrifying. You're anxious when you use the public men's room.
-    - Their behaviors and mannerisms feel strange and surprising, where interactions with individuals of your true gender feel easier.
+    - Their behaviors and mannerisms feel strange and surprising, where interactions with individuals of your true [[gender]] feel easier.
 - From [[7 Societal Dysphoria]]
     - Before I transitioned, just the thought of doing any sexual or romantic with a girl made me nauseous, because doing that would feel like I was adopting a masculine role - the role of the boyfriend, the male lover - and that kicked my latent dysphoria into overdrive
     - When I read cishet experiences of their sexuality, I feel nothing but alienation.
 - From [[8 Sexual Dysphoria]]
     - Deviations from these roles often result in shame, both from partners and from peers.
     - [[transgender|Trans]] people who enter into perceptually heterosexual relationships pre-transition sometimes find themselves losing interest in sexual intercourse, as penetrative acts do not produce the fulfillment that they would expect.
-    - [[transgender|Trans]] children often internalize their view of their peers based on their true gender, and one does not objectify their equals
+    - [[transgender|Trans]] children often internalize their view of their peers based on their true [[gender]], and one does not objectify their equals
     - Even around the most beautiful [[women]], I would avoid even looking at them,
 
 # [[Sometimes]]
@@ -113,9 +113,9 @@ note-type:
 - From [[11 Managed Dysphoria Gender in Disguise]]
     - Shaving of body hair, or a refusal to shave hair you�re expected to.
     - Avoiding social gatherings whenever possible, seeking isolation.
-    - Many [[transgender|trans]] people speak about having a phase of life where they attempted to �buy-in� on their assigned gender, performing masculinity or femininity to extremes in order to try to �fix� themselves
+    - Many [[transgender|trans]] people speak about having a phase of life where they attempted to �buy-in� on their assigned [[gender]], performing masculinity or femininity to extremes in order to try to �fix� themselves
 - From [[13 Diagnosing Gender Dysphoria]]
-    - **A strong conviction that one has the typical feelings and reactions of another gender**
+    - **A strong conviction that one has the typical feelings and reactions of another [[gender]]**
 - From [[5 Biochemical Dysphoria]]
     - Feeling like a veil or glass wall separates you from the world
     - Emotional or physical numbness, such as a feeling of having a head filled with cotton

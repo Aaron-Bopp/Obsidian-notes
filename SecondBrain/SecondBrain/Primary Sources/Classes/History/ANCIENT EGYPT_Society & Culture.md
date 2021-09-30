@@ -66,7 +66,7 @@ iii. Slavery
 
          i.  Patriarchal, Patrilineal
 
-         ii. Gender Equality?
+         ii. [[Gender]] Equality?
 
          iii. Marriage
 

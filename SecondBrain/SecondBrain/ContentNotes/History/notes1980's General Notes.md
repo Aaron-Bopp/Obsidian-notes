@@ -28,7 +28,7 @@ bib:
     - First Term
         - Domestic policy
             - reagonomics 
-                - trickle-down/supply side economics
+                - trickle-down/supply side [[economy|economics]]
                     - Kansas from 2010-2017
                         - Businesses kept profits from cuts
                         - teachers and public workers went without raises for years
@@ -40,7 +40,7 @@ bib:
                 - tried to cut subsidies but subsidized industries had supported his run
             - [[anti-liberalism]]
                 - worked against unions
-                - fought against abortion rights
+                - fought against [[abortion]] rights
                 - cut funds to equal opportunity employment commission
             - Immediate recession in 1982
                 - overspending and cutting taxes
@@ -51,16 +51,16 @@ bib:
                 - renewal of cold war 
                     - America "needed to defend itself" 
                     - Feared South American [[Communism]]
-                - hoped to bankrupt USSR by forcing them to keep up
+                - hoped to bankrupt [[Russia|USSR]] by forcing them to keep up
     - Election of 1984
         - Mondale chose woman for VP
         - Reagan won off of economic recovery that had nothing to do with him
     - Second term
-        - Half-hearted revolution
-            - Govt grew, not shrink
+        - Half-hearted [[revolution]]
+            - [[government|Govt]] grew, not shrink
             - welfare programs were not cut
             - Budget was never balanced and government spending tripled
-            - did not ban abortion or require prayer in schools 
+            - did not ban [[abortion]] or require prayer in schools 
             - supported gun laws after he was almost assasinated
             - these did not affect his popularity
         - iran-contra affair
@@ -70,14 +70,14 @@ bib:
                 - Spent most of the money to Contras not Iran
             - Reagan was not implicated and left office with high approval rating 
                 - 6 convictions
-        - reagan and the soviet union
+        - reagan and the [[Russia|soviet union]]
             - Gorbachev lead movement to decrease arms race and took the first steps towards peace
                 - liberalized the media
                 - brought hope to the people 
-                - allowed for private business
+                - allowed for private [[business]]
 - Economic Changes
-    - Computer Revolution
-    - Americans were spending a lot on a lot after stagflation
+    - Computer [[Revolution]]
+    - [[America|Americans]] were spending a lot on a lot after stagflation
     - Debt and Stock Market Plunge
         - Black monday
         - Larger monetary loss than the [[great Depression]] but safety measures stopped the [[economy]] from colapsing
