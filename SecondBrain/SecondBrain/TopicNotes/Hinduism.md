@@ -10,20 +10,13 @@ aliases:
  
 #### [[Hinduism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-
-**Status**:: #EVER/SEED
-**Parent-Topics**:: [[religion]]
-**Last Edited**:: *`=this.file.mtime`*
-#### [[Hinduism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
 **Status**:: #EVER/SEED
 
 **Parent-Topics**:: [[religion]]
 
 **Last Edited**:: *`=this.file.mtime`*
 
-##### [[Hinduism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`# [[Hinduism]] `=length(this.file.inlinks)` 
+##### [[Hinduism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 
 
 ### <hr class="dataviews"/>

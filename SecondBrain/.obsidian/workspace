@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 380,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -274,14 +275,14 @@
   "active": "9b425e48e3424432",
   "lastOpenFiles": [
     "SecondBrain/TopicNotes/TopicNotes.md",
-    "SecondBrain/INDEX.md",
-    "SecondBrain/TopicNotes/mental health.md",
-    "SecondBrain/OrganizationalNotes/TOPICNOTES.md",
-    "SecondBrain/OrganizationalNotes/OrganizationalNotes.md",
-    "SecondBrain/TopicNotes/karma.md",
-    "SecondBrain/TopicNotes/internet.md",
-    "SecondBrain/TopicNotes/indoctrination.md",
+    "SecondBrain/TopicNotes/self.md",
+    "Templates/Templates/TOPIC_OUTLINE_HEADER.md",
     "SecondBrain/TopicNotes/Hinduism.md",
-    "SecondBrain/TopicNotes/gender.md"
+    "SecondBrain/TopicNotes/Bhuddism.md",
+    "SecondBrain/TopicNotes/Reincarnation.md",
+    "SecondBrain/SecondBrain.md",
+    "SecondBrain/aliases.md",
+    "SecondBrain/INDEX.md",
+    "SecondBrain/OrganizationalNotes/OrganizationalNotes.md"
   ]
 }

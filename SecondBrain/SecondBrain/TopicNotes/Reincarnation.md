@@ -8,13 +8,6 @@ aliases:
 - samsara
 - punabbhava
 ---
- 
-#### [[Reincarnation]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-**Status**:: #EVER/SEED
-
-**Last Edited**:: *`=this.file.mtime`*
 #### [[Reincarnation]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
@@ -22,7 +15,7 @@ aliases:
 
 **Last Edited**:: *`=this.file.mtime`*
 
-##### [[Reincarnation]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`# [[Reincarnation]] `=length(this.file.inlinks)` 
+##### [[Reincarnation]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 
 
 ### <hr class="dataviews"/>

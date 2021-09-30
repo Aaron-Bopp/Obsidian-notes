@@ -10,17 +10,12 @@ aliases:
 #### [[Bhuddism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Status**:: #EVER/SEED
-**Parent-Topics**:: [[religion]]
-**Last Edited**:: *`=this.file.mtime`*
-#### [[Bhuddism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Status**:: #EVER/SEED
 
 **Parent-Topics**:: [[religion]]
 
 **Last Edited**:: *`=this.file.mtime`*
 
-##### [[Bhuddism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`# [[Bhuddism]] `=length(this.file.inlinks)` 
+##### [[Bhuddism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 
 
 ### <hr class="dataviews"/>

@@ -1,5 +1,5 @@
 ---
-date modified: Wednesday, September 29th 2021, 10:46:49 pm
+date modified: Thursday, September 30th 2021, 9:39:19 am
 ---
 ```ActivityHistory
 SecondBrain/TopicNotes
@@ -9,22 +9,21 @@ SecondBrain/TopicNotes
 
 ```dataviewjs
 const {dv_funcs} = customJS
-const pages = dv.pages('"TopicNotes"')
-console.log(pages)
-dv_funcs.defaultTable({dv, that:this, pagesArray:pages})
-if (pages.length > 0) {
-	dv.table(['Topic Seeds', "I/O", "Status", "Edited", "Created"], 
-		pages
-		.where(p => p.file.outlinks.length <= 1)
-		.sort(p => p.file.name)
-		.map(p => [p.file.link, getIO(p.file), p.status, p.file.mtime, formatDate(p["creation date"])]))
-	dv.table(['Growing Topics', "I/O", "Status", "Edited", "Created"], 
-		pages
-		.where(p => p.file.outlinks.length > 1)
-		.sort(p => p.file.name)
-		.map(p => [p.file.link, getIO(p.file), p.status, p.file.mtime, formatDate(p["creation date"])]))
-	
-
-}
+const pages = dv.pages()
+console.log(dv.array())
+dv_funcs.statusTable({
+	dv,
+	that:this,
+	pagesArray:pages,
+	whereCheck: (p => p.file.outlinks.length <= 1 && p.file.path.contains('TopicNotes')),
+	title: 'Topic Seeds'
+})
+dv_funcs.statusTable({
+	dv,
+	that:this,
+	pagesArray:pages,
+	whereCheck: (p => p.file.outlinks.length > 1 && p.file.path.contains('TopicNotes')),
+	title: 'Growing Topics'
+})
 ```
 

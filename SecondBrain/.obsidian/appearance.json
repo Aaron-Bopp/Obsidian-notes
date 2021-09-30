@@ -2,7 +2,9 @@
   "baseFontSize": 16,
   "cssTheme": "Dark Moss",
   "theme": "obsidian",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "tag-pills"
+  ],
   "translucency": false,
   "baseFontSizeAction": false
 }

@@ -121,26 +121,26 @@ class dv_funcs {
             pagesQuery = "",
             pagesArray = dv.pages(),
             whereCheck = ((p) => true),
-            sort = ((p) => this.allLinks(p), 'desc'),
+            sortCheck = ((p) => this.allLinks(p)),
             columnTitles = ["Page", "I/O", "Edited", "Created"],
             columns = ((p) => [p.file.link, this.getIO(p, dv, that), p.file.mtime, this.formatDate(p.created || p.file.ctime)])
         } = args;
 
         const pages = pagesQuery ? dv.pages(pagesQuery) : pagesArray
         if (pages.length > 0){
-            dv.table(columnTitles, pages.where(whereCheck).map(columns))
+            dv.table(columnTitles, pages.where((p) => whereCheck(p)).sort((p => sortCheck(p)), 'desc').map(columns))
         }
         this.sortableColumns()
     }
 
     statusTable(args) {
-        const {dv, folder, that} = args;
+        const {dv, title, that, folder} = args;
         this.defaultTable({
-            ...args,
-            pagesArray: this.notLinkedPages({dv, folder}),
-            sort: ((p) => this.statusLevel(p.status)),
-            columnTitles:[folder, "I/O", "Status", "Edited", "Created"],
-            columns:(p => [p.file.link, this.getIO(p, dv, that), p.status, p.file.mtime, this.formatDate(p.created || p.file.ctime)])
+            pagesArray: this.notLinkedPages({dv, folder, that}),
+            sortCheck: ((p) => this.statusLevel(p.status)),
+            columnTitles:[title, "I/O", "Status", "Edited", "Created"],
+            columns:(p => [p.file.link, this.getIO(p, dv, that), p.status, p.file.mtime, this.formatDate(p.created || p.file.ctime)]),
+            ...args
         })
     }
     
