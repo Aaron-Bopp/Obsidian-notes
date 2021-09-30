@@ -1,5 +1,5 @@
 ---
-creation date: 2021-06-11
+created: 2021-06-11
 note-type:
 - personal-note
 - evergreen-note

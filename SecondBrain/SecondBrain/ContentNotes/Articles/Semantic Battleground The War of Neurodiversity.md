@@ -1,5 +1,5 @@
 ---
-creation date: 2021-08-24
+created: 2021-08-24
 note-type:
 - content-note
 creator: threetrackmind.wordpress.com
@@ -20,7 +20,7 @@ source: https://threetrackmind.wordpress.com/2021/03/04/semantic-battleground-th
 - > "if we dip into the wide range of features that are seen in autism, we will find differences and disabilities (both compatible with the neurodiversity framework), and we will find examples of disorders and even diseases, which are more compatible with a medical than a neurodiversity model." 
 - > "What is attractive about the neurodiversity model is that it doesn’t pathologize and focus disproportionately on what the person struggles with, and instead takes a more balanced view, to give equal attention to what the person can do. In addition it recognizes that genetic or other kinds of biological variation are intrinsic to people’s identity, their sense of self and personhood, which should be given equal respect alongside any other form of diversity, such as gender. But to encompass the breadth of the autism spectrum, we need to make space for the medical model too." 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: threetrackmind.wordpress.com

@@ -1,5 +1,5 @@
 ---
-creation date: 2021-08-21
+created: 2021-08-21
 note-type:
 - content-note
 creator: radicalinprogress.org
@@ -22,7 +22,7 @@ source: https://www.radicalinprogress.org/nypl-2019-1
 
 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: radicalinprogress.org

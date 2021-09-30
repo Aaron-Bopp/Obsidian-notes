@@ -17,7 +17,7 @@ source: https://psychologia.co/8w9
  For example, they can be gentle spouses and parents while being very competitive at work.
 
  ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: psychologia.co

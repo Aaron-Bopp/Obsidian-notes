@@ -1,5 +1,5 @@
 ---
-creation date: 2021-08-19
+created: 2021-08-19
 note-type:
 - content-note
 creator: enneagraminstitute.com
@@ -18,7 +18,7 @@ source: https://www.enneagraminstitute.com/misidentifying-4-and-5
 
 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: enneagraminstitute.com

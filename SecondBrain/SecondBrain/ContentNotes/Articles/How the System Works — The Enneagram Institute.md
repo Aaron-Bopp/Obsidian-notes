@@ -95,7 +95,7 @@ source: https://enneagraminstitute.com/how-the-enneagram-system-works
 - However you develop over time, you will still be able to look back and see your basic type at your roots
 - Tags: [[there aren't any downsides to working through trauma]] [[human experience]] 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: enneagraminstitute.com

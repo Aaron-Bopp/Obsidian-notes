@@ -1,5 +1,5 @@
 ---
-creation date: 2021-08-19
+created: 2021-08-19
 note-type:
 - content-note
 creator: enneagraminstitute.com
@@ -31,7 +31,7 @@ source: https://www.enneagraminstitute.com/type-4
 - > Fours can become so attached to longing and disappointment that they are unable to recognize the many treasures in their lives
 - > Fours are in the same predicament. As long as they believe that there is something fundamentally wrong with them, they cannot allow themselves to experience or enjoy their many good qualities. To acknowledge their good qualities would be to lose their sense of identity (as a suffering victim) and to be without a relatively consistent personal identity (their Basic Fear). Fours grow by learning to see that much of their story is not true—or at least it is not true any more. The old feelings begin to fall away once they stop telling themselves their old tale: it is irrelevant to who they are right now.
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: enneagraminstitute.com

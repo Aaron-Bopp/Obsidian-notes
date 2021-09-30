@@ -1,5 +1,5 @@
 ---
-creation date: 2021-08-22
+created: 2021-08-22
 note-type:
 - content-note
 creator: nationalseedproject.org
@@ -34,7 +34,7 @@ source: https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking
 - "I did not see myself as a racist because I was taught to recognize racism only in individual acts of meanness by members of my group, never in invisible systems conferring unsought racial dominance on my group from birth" 
 - "obliviousness about white advantage, like obliviousness about male advantage, is kept strongly inculturated in the United States so as to maintain the myth of meritocracy, the myth that democratic choice is equally available to all" 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: nationalseedproject.org

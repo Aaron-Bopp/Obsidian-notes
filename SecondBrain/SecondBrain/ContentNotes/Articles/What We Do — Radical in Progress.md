@@ -1,5 +1,5 @@
 ---
-creation date: 2021-08-14
+created: 2021-08-14
 note-type:
 - content-note
 creator: radicalinprogress.org
@@ -18,7 +18,7 @@ source: https://radicalinprogress.org/about
 
 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: radicalinprogress.org

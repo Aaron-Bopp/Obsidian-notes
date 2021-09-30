@@ -79,7 +79,7 @@ source: https://enneagraminstitute.com/type-5
  • Fives tend to find it difficult to trust people, to open up to them emotionally, or to make themselves accessible in various ways. Their awareness of potential problems in relationships may tend to create a self-fulfilling prophecy. It is important to remember that having conflicts with others is not unusual and that the healthy thing is to work them out rather than reject attachments with people by withdrawing into isolation. Having one or two intimate friends whom you trust enough to have conflicts with will enrich your life greatly.
 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: enneagraminstitute.com

@@ -18,7 +18,7 @@ source: https://crystalknows.com/enneagram/type-8/wing-9
 
 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: crystalknows.com

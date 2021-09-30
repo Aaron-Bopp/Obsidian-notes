@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e3ce8c16a6bc7a9c",
+        "id": "9b425e48e3424432",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
+            "file": "SecondBrain/TopicNotes/TopicNotes.md",
             "mode": "source"
           }
         }
@@ -46,7 +46,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
+                "file": "SecondBrain/TopicNotes/TopicNotes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -63,7 +63,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
+                "file": "SecondBrain/TopicNotes/TopicNotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md"
+                "file": "SecondBrain/TopicNotes/TopicNotes.md"
               }
             }
           },
@@ -122,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380,
-    "collapsed": true
+    "width": 380
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -139,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
+                "file": "SecondBrain/TopicNotes/TopicNotes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -272,17 +271,17 @@
     "width": 466,
     "collapsed": true
   },
-  "active": "e3ce8c16a6bc7a9c",
+  "active": "9b425e48e3424432",
   "lastOpenFiles": [
-    "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
-    "SecondBrain/TopicNotes/enlightenment.md",
-    "SecondBrain/TopicNotes/self.md",
-    "SecondBrain/TopicNotes/gender.md",
-    "SecondBrain/TopicNotes/gender dysphoria.md",
-    "SecondBrain/TopicNotes/Rise of Modern Conservatism.md",
+    "SecondBrain/TopicNotes/TopicNotes.md",
     "SecondBrain/INDEX.md",
-    "SecondBrain/TopicNotes/anxiety.md",
-    "SecondBrain/TopicNotes/Neuroscience.md",
-    "SecondBrain/EvergreenNotes/Write your notes like you're planting an evergreen forest.md"
+    "SecondBrain/TopicNotes/mental health.md",
+    "SecondBrain/OrganizationalNotes/TOPICNOTES.md",
+    "SecondBrain/OrganizationalNotes/OrganizationalNotes.md",
+    "SecondBrain/TopicNotes/karma.md",
+    "SecondBrain/TopicNotes/internet.md",
+    "SecondBrain/TopicNotes/indoctrination.md",
+    "SecondBrain/TopicNotes/Hinduism.md",
+    "SecondBrain/TopicNotes/gender.md"
   ]
 }

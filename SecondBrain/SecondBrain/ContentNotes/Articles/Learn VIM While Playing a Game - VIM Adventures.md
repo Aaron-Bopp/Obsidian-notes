@@ -1,5 +1,5 @@
 ---
-creation date: 2021-09-15
+created: 2021-09-15
 note-type:
 - content-note
 creator: vim-adventures.com
@@ -16,7 +16,7 @@ source: https://vim-adventures.com
 - > "the" 
     - [View Highlight](https://vim-adventures.com/?__readwiseLocation=0%2F3%2F8%2F0%2F1%3A42%2C0%2F3%2F8%2F0%2F1%3A45)
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: vim-adventures.com

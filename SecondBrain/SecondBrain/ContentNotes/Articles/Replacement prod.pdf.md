@@ -1,5 +1,5 @@
 ---
-creation date: 2021-08-22
+created: 2021-08-22
 note-type:
 - content-note
 creator: 
@@ -74,7 +74,7 @@ alias: Plaut et al. (2018) - Colorblindness and Multiculturalism
 - > "Color blindness, while often heralded as a remedy for racism, can foster negative outcomes for people of color (e.g., interper-sonal discrimination). Moreover, color blindness serves to reify the social order, as it allows Whites to see them-selves as nonprejudiced, can be used to defend current racial hierarchies, and diminishes sensitivity to racism." 
 - > "Multiculturalism can provoke threat and prejudice in Whites, but multicultural practices can positively affect outcomes and participation of people of color in differ-ent institutional arenas. Yet it also has the potential to caricature and demotivate them and mask discrimina-tion." 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: 

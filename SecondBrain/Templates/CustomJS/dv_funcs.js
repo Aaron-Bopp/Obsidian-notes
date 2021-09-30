@@ -48,7 +48,6 @@ class dv_funcs {
         if (that) {
             const content = this.getFileText(file, that)
             const re = /!\[\[([^\]]+)[\#\^][^\]]+\]\]/g;
-            // const re = /[\s\t]*-\s*!\[\[([^\]]+)[\#\^][^\]]+\]\]/g;
             embeds = [];
             for (var match of content.matchAll(re)) {
                 console.log(`found ${match[1]} embedded in ${name}`)
@@ -66,6 +65,7 @@ class dv_funcs {
 
     getNotesInOutline(dv, that) {
         const file = dv.page(that.file.name)
+        const re = /[\s\t]*-\s*!\[\[([^\]]+)[\#\^][^\]]+\]\]/g;
     }
     statusLevel = (status) => {
         let statusDict = {
@@ -122,8 +122,8 @@ class dv_funcs {
             pagesArray = dv.pages(),
             whereCheck = ((p) => true),
             sort = ((p) => this.allLinks(p), 'desc'),
-            columnTitles = ["File", "I/O", "Edited", "Created"],
-            columns = ((p) => [p.file.link, this.getIO(p, dv, that), p.file.mtime, this.formatDate(p["creation date"] || p.file.ctime)])
+            columnTitles = ["Page", "I/O", "Edited", "Created"],
+            columns = ((p) => [p.file.link, this.getIO(p, dv, that), p.file.mtime, this.formatDate(p.created || p.file.ctime)])
         } = args;
 
         const pages = pagesQuery ? dv.pages(pagesQuery) : pagesArray
@@ -140,7 +140,7 @@ class dv_funcs {
             pagesArray: this.notLinkedPages({dv, folder}),
             sort: ((p) => this.statusLevel(p.status)),
             columnTitles:[folder, "I/O", "Status", "Edited", "Created"],
-            columns:(p => [p.file.link, this.getIO(p, dv, that), p.status, p.file.mtime, this.formatDate(p["creation date"] || p.file.ctime)])
+            columns:(p => [p.file.link, this.getIO(p, dv, that), p.status, p.file.mtime, this.formatDate(p.created || p.file.ctime)])
         })
     }
     

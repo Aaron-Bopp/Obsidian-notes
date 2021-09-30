@@ -1,5 +1,5 @@
 ---
-creation date: 2021-05-22
+created: 2021-05-22
 modification date: Saturday 22nd May 2021 23:07:02
 note-type:
 - evergreen-note
@@ -65,3 +65,4 @@ This is a constantly updated index of entry points and topics for my personal fl
 ## <hr class="embedded"/>
 
  ![[Christianity#Christianity customJS dv_funcs topicOutlineHeader dv this]]
+

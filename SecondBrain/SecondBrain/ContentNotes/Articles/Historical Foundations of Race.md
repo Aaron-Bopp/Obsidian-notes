@@ -1,5 +1,5 @@
 ---
-creation date: 2021-09-05
+created: 2021-09-05
 note-type:
 - content-note
 creator: nmaahc.si.edu
@@ -30,7 +30,7 @@ source: https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundat
 - > "This new law deemed it legal to keep enslaved people in bondage even if they converted to Christianity. With this decree, the justification for black servitude changed from a religious status to a designation based on race." 
 - > "New generations of Americans, many born in the colonies, seized upon ideas like that of John Locke’s “Social Contract” which argues that all people naturally had a right to life, liberty and property, and that any created government is legitimate only with the consent of those people being governed" 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: nmaahc.si.edu

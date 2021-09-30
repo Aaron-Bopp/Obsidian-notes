@@ -32,7 +32,7 @@ source: https://enneagraminstitute.com/type-9
 > what they generally do not have is a sense of really inhabiting themselves—*a strong sense of their own identity*.
 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: enneagraminstitute.com

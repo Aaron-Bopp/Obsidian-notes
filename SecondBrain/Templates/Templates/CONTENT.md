@@ -1,5 +1,5 @@
 ---
-creation date: <% tp.file.creation_date("YYYY-MM-DD") %>
+created: <% tp.file.creation_date("YYYY-MM-DD") %>
 note-type: 
 - content-note
 creator:

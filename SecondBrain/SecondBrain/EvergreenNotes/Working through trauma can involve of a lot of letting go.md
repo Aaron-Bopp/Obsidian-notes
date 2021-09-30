@@ -1,6 +1,6 @@
 ---
 parent: [[trauma]]
-creation date: 2021-06-25
+created: 2021-06-25
 modification date: Friday 25th June 2021 23:57:13
 note-type: 
 - evergreen-note

@@ -1,5 +1,5 @@
 ---
-creation date: 2021-09-07
+created: 2021-09-07
 note-type:
 - content-note
 creator: benjerry.com
@@ -21,7 +21,7 @@ source: https://www.benjerry.com/whats-new/2016/systemic-racism-is-real
 - > "More than half of all young Black AmericansOpens a new window know someone, including themselves, who has been harassed by the police" 
 - > "Statistics also show that Black drivers are about 30% more likely than whites to be pulled over by the policeOpens a new window." 
 ---
-creation date: 2021-09-16
+created: 2021-09-16
 note-type:
 - content-note
 creator: benjerry.com
