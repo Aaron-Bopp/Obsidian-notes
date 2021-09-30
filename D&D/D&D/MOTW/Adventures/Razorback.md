@@ -18,13 +18,13 @@ The Clemonte family, who own the plant, received notice from the local police th
 
 *Monster: Executioner (motivation: to punish the guilty)*
 
-Razorback is a huge ogre wearing a patchwork leather pig mask and a slaughterhouse apron full of killing tools. Magically [[sensitive]] hunters notice an intense demonic aura. Everyone hears an intense buzzing of flies when he is near.
+Razorback is a huge ogre wearing a patchwork leather pig mask and a slaughterhouse apron full of killing tools. Magically [[Sensitive]] hunters notice an intense demonic aura. Everyone hears an intense buzzing of flies when he is near.
 
 During combat, Razorback prefers to hang back and throw blades or spikes, or trigger machinery. Razorback does not run.
 
 Slaughterhouse tools deal +2 [[harm]] to Razorback.
 
-**Attacks:** **Thrown sharps** 2-[[harm]] close forceful messy. **Slaughterhouse hammer** 3-[[harm]] hand messy stun. **Machinery** 5-[[harm]] intimate messy slow. **Devour** 4-[[harm]] intimate messy life-drain. **[[Armour]]:** 1
+**Attacks:** **Thrown sharps** 2-[[harm]] [[close]] [[forceful]] [[messy]]. **Slaughterhouse hammer** 3-[[harm]] [[hand]] [[messy]] stun. **Machinery** 5-[[harm]] [[intimate]] [[messy]] [[slow]]. **Devour** 4-[[harm]] [[intimate]] [[messy]] [[life-drain]]. **[[Armour]]:** 1
 
 **[[Harm]] Capacity:** 20. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\] **Weakness:** Being ground up in the slaughterhouse machinery.
 
@@ -38,7 +38,7 @@ Razorback can activate them, and has built traps to maim, [[hold]], and kill his
 
 The remains of earlier victims can be found being eaten by slaughterhouse pigs.
 
-**Attacks:** **Killing machines**: 3-[[harm]] close messy loud.
+**Attacks:** **Killing machines**: 3-[[harm]] [[close]] [[messy]] [[loud]].
 
 # Slaughterhouse Pigs
 
@@ -46,9 +46,9 @@ The remains of earlier victims can be found being eaten by slaughterhouse pigs.
 
 Slaughterhouse pigs with oddly human-looking eyes are mysteriously appearing despite the plant being closed for years. They aren’t violent—they are scavengers—but will defend themselves if attacked. Slaughterhouse tools brandished threateningly will keep a mob of pigs from attacking.
 
-If many are present, they will initiate an attack on a solitary or wounded hunter.
+If [[many]] are present, they will initiate an attack on a solitary or wounded hunter.
 
-**Attacks:** **Pig bite** 2-[[harm]] intimate messy. **[[Harm]] capacity:** 3. <sup>\[\]\[\]\[\]</sup>
+**Attacks:** **Pig bite** 2-[[harm]] [[intimate]] [[messy]]. **[[Harm]] capacity:** 3. <sup>\[\]\[\]\[\]</sup>
 
 # Archie Clemonte
 
@@ -60,7 +60,7 @@ Patriarch of the Clemonte family and owner of the family fortune. A former worka
 
 *Bystander: Victim (motivation: to put herself in danger)*
 
-Archie’s wife of 52 years. She was once a member of a witches’ coven that met secretly in the woods outside of town. She believes part of the success of the business is due to her magic dealings.
+Archie’s wife of 52 years. She was once a member of a witches’ coven that met secretly in the woods outside of town. She believes part of the success of the business is due to her [[magic]] dealings.
 
 # Zachary Clemonte
 
@@ -78,7 +78,7 @@ An heir of the Clemonte family, she liked to explore the mansion as a child. She
 
 *Bystander: Victim (motivation: to put himself in danger)*
 
-An heir of the Clemonte family, he is the youngest of the three siblings and an introvert. Cyril is soft spoken and often bullied, but knows more about his mother’s occult dealings than his father or his siblings. He has a stash of occult books he has been studying in secret and is barely hiding his excitement of discovering real (and frightening) magic.
+An heir of the Clemonte family, he is the youngest of the three siblings and an introvert. Cyril is soft spoken and often bullied, but knows more about his mother’s occult dealings than his father or his siblings. He has a stash of occult books he has been studying in secret and is barely hiding his excitement of discovering real (and frightening) [[magic]].
 
 # The Clemonte Mansion
 

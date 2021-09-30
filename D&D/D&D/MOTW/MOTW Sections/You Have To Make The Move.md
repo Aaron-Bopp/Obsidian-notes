@@ -6,9 +6,9 @@ A key element of the use of [[moves]] is “You have to make the move.”
 
 *For example:*
 
-*Alan, [[the Keeper]]: “The flayed one is racing you to the car, and it looks like it’s going to get to you before you can close the door. So Mark, what do you do now?”*
+*Alan, [[the Keeper]]: “The flayed one is racing you to the car, and it looks like it’s going to get to you before you can [[close]] the door. So Mark, what do you do now?”*
 
-*Mary, playing her hunter Mark: “I **[[kick some ass]]**!”*
+*Mary, playing her hunter Mark: “I **[[Kick Some Ass]]**!”*
 
 *Alan: “What are you doing?”*
 
@@ -30,6 +30,6 @@ It works the other way too—if you are describing what you are doing, someone m
 
 *Alan: “That sounds like you’re **investigating a mystery**. Why don’t you roll?”*
 
-Sometimes [[the Keeper]] will ask you questions to clarify what’s going on. That’s cool; for the game to work, everyone needs to clearly understand what’s happening, so make sure your answer in as much detail as you can.
+Sometimes [[the Keeper]] will ask you questions to clarify what’s going on. That’s [[Cool]]; for the game to work, everyone needs to clearly understand what’s happening, so make sure your answer in as much detail as you can.
 
 [[How to roll for a move]]

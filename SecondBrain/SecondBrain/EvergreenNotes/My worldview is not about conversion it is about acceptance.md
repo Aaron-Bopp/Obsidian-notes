@@ -6,7 +6,7 @@ note-type:
 parent: [[Deconstruction (Christianity)]]
 ---
 
-###### [[My worldview is not about conversion it is about acceptance]]
+#### [[My worldview is not about conversion it is about acceptance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 While I am an atheist, I don't really try to convert people, I still have lots of good relationships with Christians, and I still see value in [[faith]]. When I discuss belief and [[worldview]] with other people it is not my intention to convert them, rather I want to learn about how they see and understand the world so that I can better understand them, and learn from them.
 
@@ -16,8 +16,5 @@ In my experience most people's [[worldview]]s are not inherently objectionable, 
 
 **Status**:: #EVER/SPROUT/WATER  
 
-**Related-Topics**:: [[Christianity]], [[belief systems]], [[faith]], [[philosophy]], [[theology]]
+**Topics**::  [[Christianity]], [[belief systems]], [[faith]], [[philosophy]], [[theology]], [[sympathy]], [[empathy]]
 	
-**Sub-Topics**:: [[sympathy]], [[empathy]]
-	
-**References**

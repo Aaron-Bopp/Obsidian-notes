@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:SecondBrain/TopicNotes OR path:SecondBrain/EvergreenNotes",
+  "search": "-aliases -path:book path:EvergreenNotes OR path:TopicNotes OR path:ContentNotes",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -134,10 +134,24 @@
       }
     },
     {
-      "query": "path:SecondBrain/TopicNotes",
+      "query": "path:classes",
       "color": {
         "a": 1,
-        "rgb": 16138244
+        "rgb": 15206892
+      }
+    },
+    {
+      "query": "path:Moves",
+      "color": {
+        "a": 1,
+        "rgb": 3082732
+      }
+    },
+    {
+      "query": "path:MOTW",
+      "color": {
+        "a": 1,
+        "rgb": 5966603
       }
     },
     {
@@ -146,18 +160,32 @@
         "a": 1,
         "rgb": 1630933
       }
+    },
+    {
+      "query": "path:SecondBrain/TopicNotes",
+      "color": {
+        "a": 1,
+        "rgb": 16138244
+      }
+    },
+    {
+      "query": "line:([[Chrisitianity]])",
+      "color": {
+        "a": 1,
+        "rgb": 397044
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1.78905882352941,
-  "lineSizeMultiplier": 1.67376470588235,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 0.998933823529412,
+  "lineSizeMultiplier": 0.445882352941176,
   "collapse-forces": false,
-  "centerStrength": 0.448161764705882,
-  "repelStrength": 18.0941176470588,
-  "linkStrength": 1,
+  "centerStrength": 0.417647058823529,
+  "repelStrength": 12.5882352941176,
+  "linkStrength": 0.482352941176471,
   "linkDistance": 30,
-  "scale": 0.09429602172248921,
+  "scale": 0.09821598858871176,
   "close": false
 }

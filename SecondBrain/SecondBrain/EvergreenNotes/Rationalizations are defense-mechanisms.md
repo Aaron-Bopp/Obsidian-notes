@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Rationalizations are defense-mechanisms against repressed emotions]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Rationalizations are defense-mechanisms against repressed emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Our brain hijacks our logical processes to rationalize away repressed emotions.
 
@@ -14,7 +14,7 @@ Our brain hijacks our logical processes to rationalize away repressed emotions.
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

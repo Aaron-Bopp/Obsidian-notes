@@ -12,24 +12,10 @@ aliases:
 
 
 **Status**:: #EVER/SEED
-###### [[unconditional love]] `=length([[unconditional love]].file.inlinks)` 
+
+##### [[unconditional love]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 
 
-
-## Evergreen Notes
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"  and [[unconditional love]]
-WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "unconditional love" and !contains([[unconditional love]].file.outlinks, link(file.name))
-SORT Status
-```
-## Content Notes
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM [[unconditional love]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "unconditional love" and !contains([[unconditional love]].file.outlinks, link(file.name))
-SORT Status
-```
-
-## References
+### <hr class="dataviews"/>
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

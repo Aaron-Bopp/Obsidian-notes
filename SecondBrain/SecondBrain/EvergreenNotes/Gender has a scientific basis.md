@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Gender has a scientific basis]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Gender has a scientific basis]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 > Present evidence seems to suggest that a person’s gender is established during gestation while the cerebral cortex of the brain is forming
 [[1 What is Gender]] #TO/DO/REFERENCE 
@@ -19,6 +19,6 @@ If your gender's expectations do not match it's environment it will produce biol
 
 **Status**:: #EVER/SEED
 
-**Related Topics**:: [[gender]], [[self]], [[human experience]], [[Neuroscience]]
+**Topics**::  [[gender]], [[self]], [[human experience]], [[Neuroscience]]
 	
 **Last Edited**:: *`=this.file.mtime`*

@@ -123,7 +123,7 @@
 ## Resurrection
 ![[Resurrection]]
 ## The Luck Counter
-![[The Luck Counter]]
+![[Luck]]
 ### When You Run Out Of Luck
 ![[When You Run Out Of Luck]]
 # Gear

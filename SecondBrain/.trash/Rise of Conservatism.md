@@ -21,9 +21,7 @@ I think that the [[Republican]] party has stuck very well to [[Reagan]]'s belief
 
 ---
 
-**Related-Topics**:: 
-	
-**Sub-Topics**::
+**Related-Topics**::  
 	
 **Outline**::
 

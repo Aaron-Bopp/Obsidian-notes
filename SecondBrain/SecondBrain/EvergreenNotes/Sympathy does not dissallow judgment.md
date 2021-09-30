@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Sympathy does not dissallow judgment]]
+#### [[Sympathy does not dissallow judgment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -14,8 +14,5 @@ note-type:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related-Topics**:: 
+**Topics**::   
 	
-**Sub-Topics**::
-	
-**References**

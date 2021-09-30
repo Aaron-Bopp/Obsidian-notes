@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-<% tp.file.include("[[TITLE-ALLLINKS]]") %>
+<% tp.file.include("[[EVERGREEN_HEADER]]") %>
 <% tp.system.clipboard() %>
 
 ### <hr class="footnote"/>

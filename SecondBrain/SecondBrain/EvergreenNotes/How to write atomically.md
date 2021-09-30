@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[How to write atomically]]
+#### [[How to write atomically]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[How to title your notes]]
 
@@ -14,8 +14,5 @@ note-type:
 
 **Status**:: #EVER/SEED/WATER 
 
-**Related-Topics**:: [[second brain]], [[Zettlekassen]], [[evergreen notes]], 
+**Topics**::  [[second brain]], [[Zettlekassen]], [[evergreen notes]],   [[note writing]], [[Note structures should be loosely defined]]
 	
-**Sub-Topics**:: [[note writing]], [[Note structures should be loosely defined]]
-	
-**References**

@@ -2,7 +2,7 @@
 creation date: 2021-05-22
 modification date: Saturday 22nd May 2021 17:12:21
 note-type: 
-  evergreen-note
+- evergreen-note
 
 ---
 
@@ -12,11 +12,8 @@ A [[second brain]] can be a collection of thought that you have accumulated over
 
 **Status**:: #EVER/SPROUT 
 
-**Related-Topics**:: [[second brain]], [[permanent note]]
-	
-**Sub-Topics**::
+**Topics**::  [[second brain]], [[permanent note]] 
 	
 **Outline**::
 
 --- 
-**References**

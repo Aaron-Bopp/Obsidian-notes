@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Identity is your understanding of yourself and your interaction with the world]]
+#### [[Identity is your understanding of yourself and your interaction with the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 At the core of [[self]] is how you view yourself vs how the world views you. If you have no view of yourself then how the worlds views you will completely win, resulting in little to no sense of [[self]]. 
 
@@ -24,8 +24,5 @@ If your understanding of the world is impaired that means that your [[self]] wil
 
 **Status**:: #EVER/SPROUT/WATER   
 
-**Related-Topics**:: [[Your anxiety knows your insecurities better than you do]], [[self-actualization]], [[self]], [[self care]]
+**Topics**::  [[Your anxiety knows your insecurities better than you do]], [[self-actualization]], [[self]], [[self care]] 
 	
-**Sub-Topics**::
-	
-**References**

@@ -6,7 +6,7 @@ note-type:
 - evergreen-note
 ---
 
-##### [[I thought negative emotions were natural and that positive emotions weren't real]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[I thought negative emotions were natural and that positive emotions weren't real]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 I think from an early age I had many sources of negative feedback for things that made me feel like who I was supposed to be was unnatural ([[My self-image is purely based on other's perceptions of me]]). Whether it was getting my hair cut short, or feeling a rush of testosterone when playing sports or being competitive, things that I was supposed to like weren't reinforced by my assigned gender ([[Self-hatred is born out of dissonance between self-image and self-perception]], [[Gender Dysphoria is based in a intrinsic wrongness of self]]). Things that did make me feel good were discouraged. [[An unfulfilled need for validation results in a fear of rejection]]
 
@@ -19,7 +19,7 @@ This expanded on here: [[Sadness is enlightenment and happiness is delusion]]
 ---
 **Status**:: #EVER/GREEN 
 
-**Related-Topics**:: [[mental health]], [[early childhood]], [[socialization]], [[Happiness]], [[my emotions]]
+**Topics**::  [[mental health]], [[early childhood]], [[socialization]], [[Happiness]], [[my emotions]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

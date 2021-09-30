@@ -6,13 +6,13 @@ aliases:
 - 
 ---
 
-##### [[You can discover your transness at any point in life]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[You can discover your transness at any point in life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[0 That's Gender Dysphoria, FYI]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: [[transgender]], [[self-actualization]], [[human experience]]
+**Topics**::  [[transgender]], [[self-actualization]], [[human experience]]
 	
 **Last Edited**:: *`=this.file.mtime`*

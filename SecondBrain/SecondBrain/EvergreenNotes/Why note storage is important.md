@@ -7,7 +7,7 @@ aliases:
 - 
 ---
 
-###### [[Why note storage is important]] `=length([[Why note storage is important]].file.inlinks) + length([[Why note storage is important]].file.outlinks)`
+#### [[Why note storage is important]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Systems change.
 
@@ -15,8 +15,5 @@ Systems change.
 
 **Status**:: #EVER/SEED/WATER   
 
-**Related-Topics**:: [[My Second Brain]], [[second brain]], 
+**Topics**::  [[My Second Brain]], [[second brain]],  
 	
-**Sub-Topics**::
-	
-**References**

@@ -7,17 +7,20 @@ aliases:
 date updated: Thursday, September 16th 2021, 10:06:06 pm
 ---
 
-##### [[Regex]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Regex]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Snippets:
 
-`\[([\w\s\(\)\:]*)\]{.ul}`
+Replace [underlinedtext]{.ul}
+`\[([\w\s\(\)\:]*)\]{.ul}` or `/\[([^\]]+)\]\{\.ul\}/`
 `<u>$1</u>`
+Replace numbered lists in markdown syntax
+`/^[\*\_\>\s]+(\d*)[\*\_\>\s\.]+/`
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED
 
-**Related Topics**::
+**Topics**:: 
 
 **Last Edited**:: *`=this.file.mtime`*

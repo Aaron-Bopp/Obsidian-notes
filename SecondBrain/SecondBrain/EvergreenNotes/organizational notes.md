@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[organizational notes]] `=length([[What is a organizational note]].file.inlinks) + length([[What is a organizational note]].file.outlinks)`
+#### [[organizational notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 An organizational note is one that helps the user access other notes. This can take the form of a hierarchical outline, or as a temporary tag that can be used to comeback to points in other notes and should be temporary. 
@@ -28,8 +28,5 @@ WHERE contains(note-type, "organizational-note")
 
 **Status**:: #EVER/SPROUT  
 
-**Related-Topics**:: [[Make your inbox into an entry point]], [[personal knowledge management]], [[My Second Brain]], [[Zettlekassen]]
+**Topics**::  [[Make your inbox into an entry point]], [[personal knowledge management]], [[My Second Brain]], [[Zettlekassen]] 
 	
-**Sub-Topics**::
-	
-**References**

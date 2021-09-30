@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Most rights were denied to Americans at its founding]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Most rights were denied to Americans at its founding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Many rights that now exist were denied to [[women]], [[black people]], and [[indigenous]] peoples by our [[founding fathers]] like healthcare, housing, [[education]], fair trial, to vote, etc., 
 
@@ -14,6 +14,6 @@ Many rights that now exist were denied to [[women]], [[black people]], and [[ind
 
 **Status**:: #EVER/SEED
 
-**Related Topics**:: [[America]], [[racism]], [[Politics]], [[Revolution]]
+**Topics**::  [[America]], [[racism]], [[Politics]], [[Revolution]]
 	
 **Last Edited**:: *`=this.file.mtime`*

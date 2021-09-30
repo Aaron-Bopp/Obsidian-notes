@@ -5,7 +5,7 @@ note-type:
 aliases:
 - 
 ---
-##### [[Transformative justice is the alternative to punitive justice]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Transformative justice is the alternative to punitive justice]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Transformative justice is focused on building support and safety for victims through action for the victim and against the system that harmed the victim [^1] The [[prison-industrial complex]] is focused on punitive justice
 
@@ -16,6 +16,6 @@ Transformative justice is focused on building support and safety for victims thr
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*

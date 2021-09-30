@@ -12,7 +12,8 @@ bib:
 ---
 
 ###### [[Excerpts from the 2016 Republican Party Platform]]
-**Related-Topics**:: [[Politics]]
+
+**Topics**::  [[Politics]]
 
 **Last Edited**:: *`=this.file.mtime`*
 

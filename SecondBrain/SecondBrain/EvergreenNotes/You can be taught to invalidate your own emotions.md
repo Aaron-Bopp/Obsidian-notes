@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[You can be taught to invalidate your own emotions]]
+#### [[You can be taught to invalidate your own emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 During [[early childhood]], it is incredibly important that the [[parents]] model [[self soothing]], [[self care]], [[self-validation]], but if [[parents]] fail to teach these things sometimes the opposite can be taught
 
@@ -16,8 +16,5 @@ During [[early childhood]], it is incredibly important that the [[parents]] mode
 
 **Status**:: #EVER/SPROUT/WATER 
 
-**Related-Topics**:: [[emotional invalidation]]
+**Topics**::  [[emotional invalidation]] 
 	
-**Sub-Topics**::
-	
-**References**

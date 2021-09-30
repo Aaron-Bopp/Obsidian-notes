@@ -4,7 +4,7 @@ The Quiet
 
 # Concept
 
-A movement known as The Quiet formed a small commune in the
+A movement known as The Quiet formed a [[small]] commune in the
 
 Arizona desert. Led by a man known as All-Father Stillness, the followers were dedicated to an extreme form of meditation in an attempt to free their minds from their bodies. The Quiet disappeared overnight years ago and was forgotten, with no evidence of their existence except for a smattering of concrete domes left in the desert next to the town of Alton’s Bend.
 
@@ -30,11 +30,11 @@ The All-Father will not show himself to [[the hunters]] until after at least two
 
 -   **Enforced Stillness**: He creates a zone of absolute silence in a 10-meter radius around himself. Within this zone an oppressive spectral force seeps into the bodies of the living, attacking them with **Force of Silence** each minute they are in the zone.
 
-**Attacks:** **Choke** 3-[[harm]] close ignore-[[armour]]. **Force of Silence** 1-[[harm]] close magic [[ongoing]]. **[[Armour]]:** 2
+**Attacks:** **Choke** 3-[[harm]] [[close]] [[ignore-armour]]. **Force of Silence** 1-[[harm]] [[close]] [[magic]] [[ongoing]]. **[[Armour]]:** 2
 
 **[[Harm]] Capacity:** 12. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
-**Weakness:** Loud noises will distract him to the point that his form wavers, causing him to manifest and become vulnerable to attack.
+**Weakness:** [[Loud]] noises will distract him to the point that his form wavers, causing him to manifest and become vulnerable to attack.
 
 234
 
@@ -48,23 +48,23 @@ Over the years, the distance they are able to roam has extended from the cement 
 
 They stand still with disturbingly blank stares and will only move when unseen. Should anyone observing them turn away, or even blink, The Disembodied will suddenly be closer until they reach their ghostly hands deep into their victim’s throats. **Powers:**
 
-• **[[Incorporeal]]**: The Disembodied Quiet are [[incorporeal]] forms who should be treated as having 3-[[armour]] (against any [[harm]]) unless their weakness is being exploited.
+• **[[Incorporeal]]**: The Disembodied Quiet are [[Incorporeal]] forms who should be treated as having 3-[[armour]] (against any [[harm]]) unless their weakness is being exploited.
 
-**Attacks:** **Choke** 3-[[harm]] close ignore-[[armour]].
+**Attacks:** **Choke** 3-[[harm]] [[close]] [[ignore-armour]].
 
-**[[Armour]]:** 3 when [[incorporeal]], otherwise 0.
+**[[Armour]]:** 3 when [[Incorporeal]], otherwise 0.
 
 **[[Harm]] Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:**
 
-**Noise:** Loud noises will distract the spirits to the point that their forms waver and they become vulnerable to attack. Their bodies (inside the cement structures) are vulnerable to physical destruction, which will also destroy the spirit.
+**Noise:** [[Loud]] noises will distract the spirits to the point that their forms waver and they become vulnerable to attack. Their bodies (inside the cement structures) are vulnerable to physical destruction, which will also destroy the spirit.
 
 # Alton's Bend
 
 *Location: Prison (motivation: to constrain and prevent exit)*
 
-Alton’s Bend is little more than a cluster of buildings in a horseshoe arrangement, with the One Stop Gas & Grocery at the apex. The town is quite far away from civilisation: the tension can be ratcheted up by having no cell reception and [[the hunters]]’ vehicle running on fumes by the time they get there (maybe they’re even walking the last mile into town).
+Alton’s Bend is little more than a cluster of buildings in a horseshoe arrangement, with the One Stop Gas & Grocery at the apex. The town is quite [[far]] away from civilisation: the tension can be ratcheted up by having no cell reception and [[the hunters]]’ vehicle running on fumes by the time they get there (maybe they’re even walking the last mile into town).
 
 After [[the countdown]] reaches Shadows, the bodies of two state police are found in the center of town near their patrol car (which has its doors sitting wide open).
 
@@ -74,9 +74,9 @@ The town seems to have been hurriedly abandoned. A stroller lies on its side alo
 
 *Location: Deathtrap (motivation: to [[harm]] intruders)*
 
-The hoses have been torn from the gas pumps, resulting in large puddles of gas soaking the surrounding gravel. Any kind of flame or spark could cause some serious damage to a large area.
+The hoses have been torn from the gas pumps, resulting in large puddles of gas soaking the surrounding gravel. Any kind of flame or spark could cause some serious damage to a large [[area]].
 
-Inside the building is a combination gift shop, sandwich counter, and woefully small grocery.
+Inside the building is a combination gift shop, sandwich counter, and woefully [[small]] grocery.
 
 Dead bodies are in the kitchen and the basement. Broken pieces of broom handles have been shoved in their ears and dish rags shoved down their throats.
 
@@ -96,23 +96,23 @@ Four-foot tall concrete domes are still very much intact and are a shining white
 
 Inside the domes are the naked and emaciated bodies of the members of The Quiet, who are now haunting Alton’s Bend.
 
-A close check of the bodies reveals they are still alive. Their corporeal form has been slowed to such a point that they still possess the tiniest flicker of life, though there is no chance their spirits can rejoin them. Destroying these bodies will destroy the spirits instantly.
+A [[close]] check of the bodies reveals they are still alive. Their corporeal form has been slowed to such a point that they still possess the tiniest flicker of life, though there is no chance their spirits can rejoin them. Destroying these bodies will destroy the spirits instantly.
 
 # Custom Moves
 
-**Bring the noise**: **When making noise** loud enough to drown out a conversation at 10 paces (e.g. banging on sheet metal, turning a car stereo up full blast) to disrupt the Disembodied Quiet, roll +(whichever Rating is most appropriate):
+**Bring the noise**: **When making noise** [[loud]] enough to drown out a conversation at 10 paces (e.g. banging on sheet metal, turning a car stereo up full blast) to disrupt the Disembodied Quiet, roll +(whichever Rating is most appropriate):
 
--   On a 10+, all spirits in the nearby area are forced to manifest. When manifested, they are vulnerable to attack.
+-   On a 10+, all spirits in the nearby [[area]] are forced to manifest. When manifested, they are vulnerable to attack.
 
--   On a 7-9, all spirits in the area are forced to manifest and the hunter chooses 1:
+-   On a 7-9, all spirits in the [[area]] are forced to manifest and the hunter chooses 1:
 
--   All spirits in the area focus their attacks on you.
+-   All spirits in the [[area]] focus their attacks on you.
 
--   All spirits in the area are enraged and now cause +1 [[harm]] (increasing each time this option is selected).
+-   All spirits in the [[area]] are enraged and now cause +1 [[harm]] (increasing each time this option is selected).
 
--   The noise disorients you (–1 to Sharp for 30 minutes—this can only be chosen once per hunter).
+-   The noise disorients you (–1 to [[Sharp]] for 30 minutes—this can only be chosen once per hunter).
 
--   On a 6 or less, all spirits in the area focus their attacks on you.
+-   On a 6 or less, all spirits in the [[area]] focus their attacks on you.
 
 ![[image144.jpg]]
 

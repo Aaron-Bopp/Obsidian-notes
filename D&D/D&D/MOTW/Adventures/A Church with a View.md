@@ -4,7 +4,7 @@ A Church with a View
 
 # Concept
 
-Father Amhurst of St. George’s church has garnered a reputation for his incendiary and hateful sermons. While repelling some parishioners, he has also drawn in a number of fire and brimstone-minded churchgoers. Whipped into a frenzy of abhorrent condemnation, the congregation has unknowingly caught the attention of otherworldly things.
+Father Amhurst of St. George’s church has garnered a reputation for his incendiary and hateful sermons. While repelling some parishioners, he has also drawn in a number of [[fire]] and brimstone-minded churchgoers. Whipped into a frenzy of abhorrent condemnation, the congregation has unknowingly caught the attention of otherworldly things.
 
 The walls of the church have been absorbing all the hate and negativity and became a beacon to another reality. This realm is filled with malevolent ghosts who want to cross over into our world and cause havoc. One of these ghosts has succeeded in crossing and has pulled the church out of space and time. This ghost manifests as figures from the stained glass of the church. There is an abundance of stained glass in St. George’s.
 
@@ -36,9 +36,9 @@ When the monster manifests as one of the figures from a stained glass window, th
 
 -   **Re-emerge**: When a manifested form is destroyed, the ghost comes out of another window in a new form of something depicted in that window. Each window may only be used once.
 
--   **Shatter**: The monster can shatter its currently manifested form at will, destroying it and sending shards of glass in every direction (4-[[harm]] far messy).
+-   **Shatter**: The monster can shatter its currently manifested form at will, destroying it and sending shards of glass in every direction (4-[[harm]] [[far]] [[messy]]).
 
--   **Blind**: If under bright light, the ghost can reflect the light into the eyes. Roll [[+Cool]] to cover your eyes:
+-   **Blind**: If under bright light, the ghost can reflect the light into the eyes. Roll +[[Cool]] to cover your eyes:
 
 -   On a 10+, you avoid the light.
 
@@ -46,7 +46,7 @@ When the monster manifests as one of the figures from a stained glass window, th
 
 -   On a miss, you are blinded for at least 30 seconds.
 
-**Attacks:** **Sharp shards of glass** 3-[[harm]] close messy. **[[Armour]]:** None.
+**Attacks:** **[[Sharp]] shards of glass** 3-[[harm]] [[close]] [[messy]]. **[[Armour]]:** None.
 
 **[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -60,7 +60,7 @@ Following the Stained Glass Ghost through the tear in reality, these poltergeist
 
 ![[image94.jpg]]• **Coalesce**: The Poltergeists can gather together into a more powerful form. This doubles their [[harm]] capacity and the [[harm]] they inflict.
 
-**Attacks:** **Throw anything not bolted down** 2-[[harm]] far.
+**Attacks:** **Throw anything not bolted down** 2-[[harm]] [[far]].
 
 **[[Armour]]:** None.
 
@@ -72,15 +72,15 @@ Following the Stained Glass Ghost through the tear in reality, these poltergeist
 
 *Location: Trap (motivation: to deny escape)*
 
-The church is known for its many stained glass windows depicting scenes of the battle between St. George and The Dragon of Lasia. This provides some particularly dangerous forms for the ghost to take, such armoured knights wielding swords, armoured horses ready to trample, winged angels of ill intent, saints in a swirl of sharp-edged robes, an evil-eyed Mary with a mouth of razor teeth, a vengeful Jesus ready for a knife fight, and of course The Dragon of Lasia itself.
+The church is known for its [[many]] stained glass windows depicting scenes of the battle between St. George and The Dragon of Lasia. This provides some particularly dangerous forms for the ghost to take, such armoured knights wielding swords, armoured horses ready to trample, winged angels of ill intent, saints in a swirl of [[Sharp]]-edged robes, an evil-eyed Mary with a mouth of razor teeth, a vengeful Jesus ready for a knife fight, and of course The Dragon of Lasia itself.
 
 The church is now intersects with a space between realities. Anyone who looks out the windows sees the realm of ghosts. Each color of glass gives a different view of a strange landscape and swirling mass of ghosts, each tinted by the color of the glass. **Powers:**
 
-• **Locked In**: Once the door to the church has been closed, those inside are trapped. Opening the door again reveals the ethereal landscape of the ghost world. The church returns to the normal world when the ghost is destroyed or if [[the hunters]] can pull off some appropriate **[[big magic]]**.
+• **Locked In**: Once the door to the church has been closed, those inside are trapped. Opening the door again reveals the ethereal landscape of the ghost world. The church returns to the normal world when the ghost is destroyed or if [[the hunters]] can pull off some appropriate **[[Big Magic]]**.
 
 **Custom Move:**
 
-**When you smash a window**, roll +Stat (usually Tough, but may be another depending on the hunter’s approach):
+**When you smash a window**, roll +Stat (usually [[Tough]], but may be another depending on the hunter’s approach):
 
 On a 10+, the window is no more.
 
@@ -94,7 +94,7 @@ On a miss, the window is broken but a new Poltergeist comes through from the oth
 
 Father Amhurst has always possessed a mean streak and not a little bit of prejudice against those who live outside of his vindictive interpretation of the Bible.
 
-In his twilight years, his tolerance has waned even further and his sermons have reflected this. At first his antics drove parishioners away, but after social media turned his meltdowns into a viral sensation his congregation swelled with the curious and hateful. His new audience fueled the detestable fire within him.
+In his twilight years, his tolerance has waned even further and his sermons have reflected this. At first his antics drove parishioners away, but after social media turned his meltdowns into a viral sensation his congregation swelled with the curious and hateful. His new audience fueled the detestable [[fire]] within him.
 
 This has wrought the current state of affairs. Amhurst denies any of this is his fault and instead blames ‘sinners’: these events are the wrath of God coming to punish the ungodly. He will offer no cooperation with [[the hunters]] under any circumstances.
 
@@ -108,6 +108,6 @@ The local cop on the job who has been called in to investigate what’s happenin
 
 *Bystander: Victim (motivation: to put himself in danger)*
 
-Clark Molina is an insurance adjuster. He works from his home across the street. He is curious about the commotion at St. George’s as [[the hunters]] arrive, and will find his way into trouble, possibly getting trapped in the church when the doors close.
+Clark Molina is an insurance adjuster. He works from his home across the street. He is curious about the commotion at St. George’s as [[the hunters]] arrive, and will find his way into trouble, possibly getting trapped in the church when the doors [[close]].
 
 [[The Circles]]

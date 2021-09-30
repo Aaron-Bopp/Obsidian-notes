@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[You can be enlightened and still grieve]] `=length([[You can be enlightened and still grieve]].file.inlinks) + length([[You can be enlightened and still grieve]].file.outlinks) - 1`
+#### [[You can be enlightened and still grieve]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/EXPLORE/RESEARCH [[Bhuddism]] [[enlightenment]] and detachment
 
@@ -14,8 +14,5 @@ note-type:
 
 **Status**:: #EVER/SEED/WATER 
 
-**Related-Topics**:: [[Bhuddism]], [[enlightenment comes from detachment]], [[Happiness]], [[Happiness is enlightenment and sadness is delusion]], [[Sadness is enlightenment and happiness is delusion]]
+**Topics**::  [[Bhuddism]], [[enlightenment comes from detachment]], [[Happiness]], [[Happiness is enlightenment and sadness is delusion]], [[Sadness is enlightenment and happiness is delusion]] 
 	
-**Sub-Topics**::
-	
-**References**

@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Being in a defensive condition can cause you to be consumed by your ego]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Being in a defensive condition can cause you to be consumed by your ego]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -14,7 +14,7 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

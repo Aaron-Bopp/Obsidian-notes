@@ -8,7 +8,7 @@ When you’re playing your hunter:
 
 Think like your hunter would think. Do what your hunter would do. Remember that you’re a badass: extremely dangerous, and good at [[what you do]].
 
-When you get into a fight, you might take a lot of [[harm]], but hunters are lucky and heal quickly. Use Luck to avoid [[harm]] if you need to. Alternatively, you can [[hold]] on until the end of the fight and then take a break to rest up and heal. For the full [[harm]] and [[healing]] rules see [[Moves]].
+When you get into a fight, you might take a lot of [[harm]], but hunters are lucky and heal quickly. Use [[Luck]] to avoid [[harm]] if you need to. Alternatively, you can [[hold]] on until the end of the fight and then take a break to rest up and heal. For the full [[harm]] and [[healing]] rules see [[Moves]].
 
 You need to work out what’s behind each situation. Then work out how to find it and what its weaknesses are. Then kill it.
 

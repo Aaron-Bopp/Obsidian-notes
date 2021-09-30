@@ -7,7 +7,7 @@ note-type:
 
 ---
 
-###### [[Non-faith issues have been co-opted to keep people in the christian church]]
+#### [[Non-faith issues have been co-opted to keep people in the christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Homophobia]], [[evolution]], [[abortion]] and lot of other non-faith issues have been used to keep people in the faith, and separated from the world with zero biblical backing. These issues do not affect anyone's personal relationship with god, but because [[People have been conditioned to believe the bible has to be infallible]] they do produce a strong emotional response and have been used as propaganda to keep people in the church.
 
@@ -21,8 +21,5 @@ To people who believe [[The bible is god breathed]], this propaganda can be very
 
 **Status**:: #EVER/SPROUT/WATER  
 
-**Related-Topics**:: [[Christianity]], [[political strategy]], [[Deconstruction (Christianity)]]
+**Topics**::  [[Christianity]], [[political strategy]], [[Deconstruction (Christianity)]], [[faith]], [[belief systems]]
 	
-**Sub-Topics**:: [[faith]], [[belief systems]]
-	
-**References**

@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-##### [[The brain is powerful enough to create supernatural experiences]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[The brain is powerful enough to create supernatural experiences]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 The brain is powerful enough and complex enough to bring about a spiritual experience. 
 
@@ -18,6 +18,5 @@ In churches, prayer is basically [[meditation]], modern [[Evangelicalism | chari
 
 **Last Edited**:: *`=this.file.mtime`*
 
-**Related-Topics**:: [[mental health]], [[mental disorders]], [[Christianity]], [[Neuroscience]], [[faith]]
+**Topics**::  [[mental health]], [[mental disorders]], [[Christianity]], [[Neuroscience]], [[faith]]
 	
-**References**

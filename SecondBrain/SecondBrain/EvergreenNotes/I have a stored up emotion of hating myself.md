@@ -5,7 +5,7 @@ note-type:
 - evergreen-note
 ---
 
-##### [[I have a stored up emotion of hating myself]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[I have a stored up emotion of hating myself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 When human's feel a certain emotion, they have no choice but to deal with it. When they feel that emotion again they have a choice whether to deal with it the same way as before or a different way. In [[early childhood]] we do not have many ways to deal with emotion, and so when they come up our brain will make strong and powerful decisions to deal with these emotions. {[[Early childhood trauma causes us to make wide assumptions about the world]]} The fundamental emotional reactions of crying, laughter, screaming, are all apart of how we deal with the world. This is instinctual, but as children develop they start to learn different methods of dealing with emotions. [[Parents need to model the ability to deal with emotion to their children]]. 
 
@@ -13,10 +13,11 @@ When human's feel a certain emotion, they have no choice but to deal with it. Wh
 Unfortunately, one way of dealing with emotion is avoidance, and [[Avoidance IS the most-efficient way of dealing with emotion]]. 
 
 ### <hr class="footnote"/>
+
 **Status**:: #EVER/SPROUT/WATER   
 
-**Related-Topics**:: [[my emotions]], [[trauma]], [[my parents]]
+**Topics**::  [[my emotions]], [[trauma]], [[my parents]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	
-**References**:: [[Samskara]]
+:: [[Samskara]]

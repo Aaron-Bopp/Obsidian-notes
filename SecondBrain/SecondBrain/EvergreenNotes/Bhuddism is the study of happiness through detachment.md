@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-##### [[Bhuddism is the study of happiness through detachment]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Bhuddism is the study of happiness through detachment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[The nature of happiness is not doing what you love its detachment from the decisions of the life]]
 #TO/EXPLORE/RESEARCH 
@@ -15,8 +15,6 @@ note-type:
 
 **Status**:: #EVER/SEED 
 
-**Related-Topics**:: [[Sadness is enlightenment and happiness is delusion]], [[Happiness is enlightenment and sadness is delusion]]
+**Topics**::  [[Sadness is enlightenment and happiness is delusion]], [[Happiness is enlightenment and sadness is delusion]], [[Bhuddism]]
 	
-**Sub-Topics**:: [[Bhuddism]]
-	
-**References**:: [[DrK and DrMike conversation]]
+:: [[DrK and DrMike conversation]]

@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Make your inbox into an entry point]] `=length([[make your inbox into an entry point]].file.inlinks) + length([[make your inbox into an entry point]].file.outlinks)`
+#### [[Make your inbox into an entry point]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 In a [[personal knowledge management]] system an inbox is the method through which you receive and categorize items into your [[second brain]]. An entry point is a way that you find your way into the [[web of thought]] so that you can find the information that you want to find. 
 
@@ -17,10 +17,10 @@ Your entry points you may have things you've read, things you've read and notate
 This [[philosophy]] is represented in [[my TO(DO) and EVER(GREEN) structure]]
 asdfasdf
 ###### <hr class="footnote"/>
+
 **Status**:: #EVER/GREEN/PRUNE   
 
-**Related-Topics**:: [[Zettlekassen]], [[personal knowledge management]], [[second brain]] 
+**Topics**::  [[Zettlekassen]], [[personal knowledge management]], [[second brain]] 
 	
 **Last Edited**:: `=[[Make your inbox into an entry point]].file.mtime`
 	
-**References**

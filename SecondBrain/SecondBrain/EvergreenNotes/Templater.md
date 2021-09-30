@@ -8,7 +8,7 @@ note-type:
 
 ---
 
-###### [[Templater]]
+#### [[Templater]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Source Code:: https://github.com/SilentVoid13/Templater
 Docs:: https://silentvoid13.github.io/Templater/
@@ -19,8 +19,5 @@ Docs:: https://silentvoid13.github.io/Templater/
 
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: [[Obsidian (software)]], 
+**Topics**::  [[Obsidian (software)]],  
 	
-**Sub-Topics**::
-	
-**References**

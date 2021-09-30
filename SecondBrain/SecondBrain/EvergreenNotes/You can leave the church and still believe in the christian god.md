@@ -5,7 +5,7 @@ note-type:
 - evergreen-note
 ---
 
-###### [[You can leave the church and still believe in the christian god]]
+#### [[You can leave the church and still believe in the christian god]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Plenty of people leave the church but still have [[faith]], or are trying to improve church even if they don't have [[faith]]. There's also a really big community of ex-christians who lead all different kinds of spiritual lives. Athiesm is not the only route for [[Deconstruction (Christianity)]] its just the route I took.
 
@@ -17,8 +17,5 @@ While [[Christians struggle to feel empathy because they must believe that non-c
 
 **Parent**:: [[Deconstruction (Christianity)]]
 	
-**Related-Topics**:: [[Christianity]], 
-
-**Sub-Topics**:: 
+**Topics**::  [[Christianity]],   
 	
-**References**

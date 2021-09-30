@@ -2,7 +2,7 @@
 
 *By Mark Tygart*
 
-*Jenkins looked down at the fried remains of what the team called a “rat-goblin,” with a combination of pride and anxiety. He had never expected the Nazi DNA virus Dr. Piper stole from the RED FACTION’s vaults to have this impact—but he was reassured by the effectiveness of the new weapon prototypes even down here in Hamelin’s medieval sewers. What nasty “favor” was the R&D department going to ask of his team in exchange for their use? Then the weird music began growing louder. “Time to pay the piper,” Jenkins whispered to Laura. She smiled, showing her fangs, as the rest of the team checked their [[gear]] was ready. If one of NATO’s covert COPPER GREEN containment teams showed up, Jenkins could only imagine the special hell mission the BLUE FACTION Director would send the team to as a punishment for “being indiscreet” ...*
+*Jenkins looked down at the fried remains of what the team called a “rat-goblin,” with a combination of pride and anxiety. He had never expected the Nazi DNA virus Dr. Piper stole from the RED FACTION’s vaults to have this impact—but he was reassured by the effectiveness of the new weapon prototypes even down here in Hamelin’s medieval sewers. What nasty “favor” was the R&D department going to ask of his team in exchange for their use? Then the [[Weird]] music began growing louder. “Time to pay the piper,” Jenkins whispered to Laura. She smiled, showing her fangs, as the rest of the team checked their [[gear]] was ready. If one of NATO’s covert COPPER GREEN containment teams showed up, Jenkins could only imagine the special hell mission the BLUE FACTION Director would send the team to as a punishment for “being indiscreet” ...*
 
 # Initial Briefing
 
@@ -12,7 +12,7 @@ This is not the default case in *Monster of the Week* simply because its primary
 
 *Supernatural* is unusual. In the early seasons, Dean and Sam Winchester often have little or no support, often have to sustain themselves financially, and were routinely forced to impersonate law enforcement officers to gain resources while hunting [[monsters]]. This was usually played for laughs, and the brothers generally used celebrity names or pop culture names for their fake identities.
 
-Buffy’s mentor Giles reported to the “Watchers’ Council” but they were usually so remote and ineffective as to be mere window dressing.
+Buffy’s [[Mentor]] Giles reported to the “Watchers’ Council” but they were usually so remote and ineffective as to be mere window dressing.
 
 Angel formed a detective agency to pay the bills, which is a sort of Patron.
 
@@ -28,7 +28,7 @@ Without a Patron supplying direction, a Keeper needs a new hook for every myster
 
 It is much easier to have [[the hunters]] assigned a case by their supervisor, or a story by their editor, than to have the monster once again lurch into [[the hunters]]’ favorite diner and interrupt dinner! Patron organizations do not have to be extremely well-organized and resourced for this role. A simple group of retired law enforcement officers who know the supernatural is real would be plenty to provide leads and missions.
 
-Of course the Patron or her organization are going to make all sorts of demands on our hunters, however unexpected. Real life is a wonderful [[inspiration]] for this device. How many of us have been forced into uneasy
+Of course the Patron or her organization are going to make all sorts of demands on our hunters, however unexpected. Real life is a wonderful [[inspiration]] for this device. How [[many]] of us have been forced into uneasy
 
 ‘social’ situations due the necessity of attending ‘optional’ events. Maybe the psychopath billionaire monster-zoo owner decides he is [[the hunters]]’ new best friend and decides to join them on a “routine” mission. Or the editor of the blog wants a puff piece about recent crocodile sightings in the local sewerage system. Worst of all, [[the hunters]] could be required to attend a rubber chicken dinner honoring them as slayers of the year hosted by the local chamber of commerce. Horrifying!
 
@@ -42,7 +42,7 @@ The key is usually not to deny your hunters the specific resource they covet, bu
 
 A fun aspect of your mythology can come from developing the backstory and secrets of a patron organization.
 
-A demanding boss may be [[the hunters]]’ best friend when the chips are down, like Deputy Director Skinner on *The X-Files*. An annoying, innocent intern could turn out to be a serial killer as happened on *Grimm*. The head of Research & Development may be uncovering dangerous truths about the universe—just like an H.P. Lovecraft character. In the best tradition of Indiana Jones, the papers [[the hunters]] just stumbled across in the archives indicate the agency was really formed by crusaders in the 12th century to find a lost artifact and they haven’t found it yet.
+A demanding boss may be [[the hunters]]’ best friend when the chips are down, like Deputy Director Skinner on *The X-Files*. An annoying, innocent intern could turn out to be a serial killer as happened on *Grimm*. The head of Research & Development may be uncovering dangerous truths about the universe—just like an H.P. Lovecraft character. In the best tradition of Indiana Jones, the papers [[the hunters]] just stumbled across in the archives indicate the agency was really formed by crusaders in the 12th century to find a lost artifact and they [[haven]]’t found it yet.
 
 Sometimes you have to lie to your boss. On the television show
 
@@ -54,11 +54,11 @@ Sometimes you have to lie to your boss. On the television show
 
 ![[image48.jpg]]Another possibility is the Patron is so scary and ruthless that [[the hunters]] have to manipulate it or them to prevent crimes against humanity, despite the essential good work the Patron provides. The *Twenty Palaces* book series by Harry Connolly is a wonderful example of this, as the antihero Ray Lilly must deal with supernatural problems while keeping innocent bloodshed to a minimum, or be faced with his employers’ more efficient methods, which may include eliminating a low-level operative like Lilly.
 
-A third and devastating possibility is that the patron’s ultimate agenda is evil. On the fourth season of *Fringe* the viewers discovered a universe where William Bell was actually the source of the evil Pattern experiments.
+A third and [[Devastating]] possibility is that the patron’s ultimate agenda is evil. On the fourth season of *Fringe* the viewers discovered a universe where William Bell was actually the source of the evil Pattern experiments.
 
 # The Patron Can Be Destroyed
 
-An even more devastating way to either open or climax a campaign is for [[the hunters]] to return back from a mission to find their patron has been destroyed by a mysterious entity or group. [[The hunters]] must hustle to retrieve what is left of the destroyed Agency’s equipment and intelligence from their few remaining boltholes and safehouses all while being hunted by mysterious supernatural assassins. This could be devastating to a Professional or Initiate hunter, so [[the Keeper]] should carefully consider this option and have a long build-up to destruction. Of course it may only appear that the group is destroyed...
+An even more [[Devastating]] way to either open or climax a campaign is for [[the hunters]] to return back from a mission to find their patron has been destroyed by a mysterious entity or group. [[The hunters]] must hustle to retrieve what is left of the destroyed Agency’s equipment and intelligence from their few remaining boltholes and safehouses all while being hunted by mysterious supernatural assassins. This could be [[Devastating]] to a Professional or Initiate hunter, so [[the Keeper]] should carefully consider this option and have a long build-up to destruction. Of course it may only appear that the group is destroyed...
 
 ![[image50.png]]A well executed example of this idea is the classic 1970s Sydney Pollack thriller *Three Days of the Condor* wherein Joseph Turner returns late from lunch only to find all the other members of his clandestine library have been murdered by unknown gunmen. He must unravel the deadly mystery to survive. By my count, the *Mission Impossible* film series has used this plot at least twice.
 
@@ -66,7 +66,7 @@ A good way to end such a campaign is to have the players reform their old Agency
 
 # Concluding Notes
 
-An employing agency lets you add elements from police procedurals and espionage thrillers to your *Monster of the Week* campaign. It’s a useful choice that allows for exciting plot developments as your campaign goes on.
+An employing agency lets you add elements from police procedurals and espionage thrillers to your *Monster of the Week* campaign. It’s a [[useful]] choice that allows for exciting plot developments as your campaign goes on.
 
 Now excuse me: my shoe phone is calling—I have another case to solve.
 

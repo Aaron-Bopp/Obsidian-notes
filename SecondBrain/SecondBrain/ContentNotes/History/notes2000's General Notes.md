@@ -91,9 +91,7 @@ bib:
 
 ---
 
-**Related-Topics**:: [[American History]], [[21st Century America]]
-	
-**Sub-Topics**::
+**Topics**::  [[American History]], [[21st Century America]] 
 	
 **Outline**::
 

@@ -11,7 +11,9 @@ bib:
 ---
 
 ###### [[Ronald Reagans Inaugural Address 1981]]
-**Related-Topics**:: 
+
+**Topics**::  
+
 **Last Edited**:: *`=this.file.mtime`*
 
 - You and I, as individuals, can, by borrowing, live beyond our means, but for only a limited period of time. Why, then, should we think that collectively, as a nation, we are not bound by that same limitation?

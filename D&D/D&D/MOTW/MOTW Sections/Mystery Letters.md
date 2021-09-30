@@ -1,5 +1,5 @@
 
-Mystery letters are a technique to give [[the hunters]] information to set up a new mystery and start the game with a roar. They’re especially useful when:
+Mystery letters are a technique to give [[the hunters]] information to set up a new mystery and start the game with a roar. They’re especially [[useful]] when:
 
 - You are running a convention game.
 - Someone missed a game, to bring them (and yourself) back up to speed.
@@ -10,13 +10,13 @@ Mystery letters are a technique to give [[the hunters]] information to set up a 
 
 The letter should briefly remind the hunter what happened last time, and where you left off. Include any new information that you want to give the hunter. For example, you can put [[the hook]] for this mystery and some background information they have already discovered.
 
-Then put in a custom move for the hunter to roll, or pick from a list of options. The [[moves]] should either provide some useful information, or put the hunter right into the action, or both.
+Then put in a custom move for the hunter to roll, or pick from a list of options. The [[moves]] should either provide some [[useful]] information, or put the hunter right into the action, or both.
 
 Here’s some fragments from letters I used for a convention scenario. The team are in a haunted house, attempting to exorcise a poltergeist.
 
 An information-finding move:
 
-*Obviously you checked out the haunting’s background before the job. Roll me [[+Weird]], to see what you’ve found out, or worked out. On a 10+ ask me two of these, on a 7-9 ask me one. On a miss, you can ask me one anyhow but you had to do something dangerous to find out. I’ll let you know what that was. The questions you can ask:*
+*Obviously you checked out the haunting’s background before the job. Roll me +[[Weird]], to see what you’ve found out, or worked out. On a 10+ ask me two of these, on a 7-9 ask me one. On a miss, you can ask me one anyhow but you had to do something dangerous to find out. I’ll let you know what that was. The questions you can ask:*
 
 - *What’s the buzz on the cryptozoology and ghost hunter message boards and mailing lists?*
 - *I found some writing in blood on a mirror. What did it say?*
@@ -24,7 +24,7 @@ An information-finding move:
 
 A move to get into the action:
 
-*The initial check of the house went okay, but then things turned bad. Roll me [[+Sharp]] and see what happened: On a 10+ pick two, on a 7-9 pick one:*
+*The initial check of the house went okay, but then things turned bad. Roll me +[[Sharp]] and see what happened: On a 10+ pick two, on a 7-9 pick one:*
 
 - *You have the poltergeist in a ghost trap.*
 - *You do not have a huge shard of mirror embedded in your leg (that means you do otherwise).*
@@ -42,7 +42,7 @@ Here’s an entire mystery letter to use as a model. This one is for a hunter wh
 
 *Dear Carter,*
 
-*Remember how you’d taken that sample from the lake creature for tests? You’ve got your results back from your friend in the police forensic lab. Ask me one of these questions to find out what you learned:*
+*Remember how you’d taken that sample from the lake creature for tests? You’ve got your results back from your friend in the police forensic lab. Ask me one of these questions to find out what you [[learned]]:*
 
 - *Is it related to anything we have met before?*
 - *Did we really kill it?*
@@ -56,13 +56,13 @@ Here’s an entire mystery letter to use as a model. This one is for a hunter wh
 
 *If there’s anything you want to add to that list, go ahead and ask. I’ll let you know if it’s okay (anything you could do in a week should be fine).*
 
-*Roll [[+Sharp]] to see how much you got done.*
+*Roll +[[Sharp]] to see how much you got done.*
 
 - *On a 10+ you can pick two of them to be done, on a 7-9 only one.*
 - *On a miss you can pick one if you want, but you got into trouble doing it. Getting you out of that trouble is where we’ll kick off today.*
 
 *Love and kisses, your Keeper*
 
-Here you can see: a reminder and a chance to learn a little about the bigger picture, a custom move that can tell the hunter some useful facts and add information for the story, and another move to help the hunter work towards one of their goals.
+Here you can see: a reminder and a chance to learn a little about the bigger picture, a custom move that can tell the hunter some [[useful]] facts and add information for the story, and another move to help the hunter work towards one of their goals.
 
 [[Running Subsequent Mysteries]]

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "713aacf35f08ef9a",
+        "id": "e3ce8c16a6bc7a9c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
+            "file": "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
             "mode": "source"
           }
         }
@@ -26,25 +26,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1aeaab55b9e41c6b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "7f4634a1f9c650de",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -54,8 +46,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
-                "collapseAll": false,
+                "file": "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -71,7 +63,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
+                "file": "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md"
+                "file": "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md"
               }
             }
           },
@@ -116,12 +108,22 @@
                 "mode": "preview"
               }
             }
+          },
+          {
+            "id": "208d80cb45f52f85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 491
+    "width": 380,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -137,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
+                "file": "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -245,6 +247,22 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "5e2fdb8c36ddf45d",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f36f060d7483666",
+            "type": "leaf",
+            "state": {
+              "type": "breadcrumbs-matrix",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -254,17 +272,17 @@
     "width": 466,
     "collapsed": true
   },
-  "active": "713aacf35f08ef9a",
+  "active": "e3ce8c16a6bc7a9c",
   "lastOpenFiles": [
-    "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
-    "SecondBrain/OrganizationalNotes/QUICKNOTE.md",
+    "SecondBrain/EvergreenNotes/Sadness is enlightenment and happiness is delusion.md",
+    "SecondBrain/TopicNotes/enlightenment.md",
+    "SecondBrain/TopicNotes/self.md",
+    "SecondBrain/TopicNotes/gender.md",
+    "SecondBrain/TopicNotes/gender dysphoria.md",
+    "SecondBrain/TopicNotes/Rise of Modern Conservatism.md",
     "SecondBrain/INDEX.md",
-    "SecondBrain/EvergreenNotes/Journal.md",
-    "Untitled.md",
-    "Acting Bio.md",
-    "Bobby Milton.md",
-    "Regex.md",
-    "SecondBrain/EvergreenNotes/The biblical christian God is evil and does not deserved to be worshipped.md",
-    "SecondBrain/EvergreenNotes/Obsidian (software).md"
+    "SecondBrain/TopicNotes/anxiety.md",
+    "SecondBrain/TopicNotes/Neuroscience.md",
+    "SecondBrain/EvergreenNotes/Write your notes like you're planting an evergreen forest.md"
   ]
 }

@@ -6,13 +6,13 @@ aliases:
 - 
 ---
 
-##### [[MAGA is built off nostalgia not facts]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[MAGA is built off nostalgia not facts]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 https://github.com/SlRvb/Obsidian--ITS-Theme
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*

@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Any experience of gender is acceptable]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Any experience of gender is acceptable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is an important part about accepting yourself as [[transgender]].
 
@@ -14,6 +14,6 @@ This is an important part about accepting yourself as [[transgender]].
 
 **Status**:: #EVER/SEED/WATER 
 
-**Related Topics**:: [[gender]], [[Queer]]
+**Topics**::  [[gender]], [[Queer]]
 	
 **Last Edited**:: *`=this.file.mtime`*

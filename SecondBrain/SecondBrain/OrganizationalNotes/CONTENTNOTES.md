@@ -1,0 +1,3 @@
+```ActivityHistory
+SecondBrain/ContentNotes
+```

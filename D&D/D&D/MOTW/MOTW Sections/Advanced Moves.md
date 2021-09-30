@@ -5,7 +5,7 @@ For **[[Act Under Pressure]]**, on a 12+ you rise above the pressure completely.
 
 For **[[Help Out]]**, on a 12+ you make the difference. The person you are helping acts as if they just rolled a 12 on their move, regardless of what they actually got.
 
-For **[[kick some ass]]**, on a 12+ you devastate and overawe your enemy. You inflict and suffer [[harm]] as normal, and pick one of these enhanced effects:
+For **[[Kick Some Ass]]**, on a 12+ you devastate and overawe your enemy. You inflict and suffer [[harm]] as normal, and pick one of these enhanced effects:
 
 - You completely [[hold]] the advantage. All hunters involved in the fight get +1 [[forward]].
 - You suffer no [[harm]] at all.

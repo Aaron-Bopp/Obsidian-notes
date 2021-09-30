@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Optimism isn't ignorance, it's hope]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Optimism isn't ignorance, it's hope]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -14,6 +14,6 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*

@@ -20,24 +20,9 @@ note-type:
 
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: 
+**Topics**::   
 	
-**Sub-Topics**::
-	
-**References**
 
-# Dataviews 
-## Evergreen Notes related to [[parents]]
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and [[parents]] and -"ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "parents"
-SORT Status
-```
-## Content Notes related to [[parents]]
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and [[parents]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "parents"
-SORT Status
-```
+
+### <hr class="dataviews"/>
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

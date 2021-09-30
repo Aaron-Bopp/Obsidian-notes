@@ -7,15 +7,12 @@ aliases:
 - 
 ---
 
-###### [[Webs of thought are densely linked]] `=length([[Webs of thought are densely linked]].file.inlinks) + length([[Webs of thought are densely linked]].file.outlinks)`
+#### [[Webs of thought are densely linked]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 ---
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related-Topics**:: [[second brain]], [[personal knowledge management]], [[evergreen notes]], [[My Second Brain]]
+**Topics**::  [[second brain]], [[personal knowledge management]], [[evergreen notes]], [[My Second Brain]] 
 	
-**Sub-Topics**::
-	
-**References**

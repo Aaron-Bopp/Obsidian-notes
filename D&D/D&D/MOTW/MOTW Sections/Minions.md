@@ -8,8 +8,8 @@ There are ten minion types:
 - Assassin (motivation: to kill [[the hunters]])
 - Brute (motivation: to intimidate and attack)
 - Cultist (motivation: to save their own skin at any cost)
-- Guardian (motivation: to bar a way or protect something)
-- Right hand (motivation: to back up the monster)
+- [[Guardian]] (motivation: to bar a way or protect something)
+- Right [[hand]] (motivation: to back up the monster)
 - Plague (motivation: to swarm and destroy)
 - Renfield (motivation: to push victims towards the monster)
 - Scout (motivation: to stalk, watch, and report)
@@ -37,13 +37,13 @@ Here are two example minions, illustrating a couple of ways to create a minion t
 
 **HOMUNCULUS SWARM**
 
-The homunculus swarm is a number of small critters. A golemancer has been building them from parts of dead people. They act as scouts and guards for the golemancer while she builds bigger and better versions.
+The homunculus swarm is a number of [[small]] critters. A golemancer has been building them from parts of dead people. They act as scouts and guards for the golemancer while she builds bigger and better versions.
 
-They look nasty: strips of muscle, bits of bone, pieces of organs, an eye or three; all just kinda put together into a vaguely sensible shape, with varying numbers of legs, claws, and teeth. They’re not smart or, individually, very tough.
+They look nasty: strips of muscle, bits of bone, pieces of organs, an eye or three; all just kinda put together into a vaguely sensible shape, with varying numbers of legs, claws, and teeth. They’re not smart or, individually, very [[Tough]].
 
 **Minion:** Brute (motivation: to intimidate and attack).
 
-**Attacks:** Individuals have an attack of 1-[[harm]] (if rat-sized) or 2-[[harm]], (if cat-sized). There aren’t any bigger ones (yet). If they attack as a group, then they have a 3-[[harm]] area attack. Range is hand/intimate.
+**Attacks:** Individuals have an attack of 1-[[harm]] (if rat-sized) or 2-[[harm]], (if cat-sized). There aren’t any bigger ones (yet). If they attack as a group, then they have a 3-[[harm]] [[area]] attack. Range is hand/intimate.
 
 **[[Harm]] capacity:** 7-[[harm]] will disperse the swarm. Each point of [[harm]] kills one or two individuals.
 

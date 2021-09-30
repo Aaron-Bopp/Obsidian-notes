@@ -7743,16 +7743,57 @@ configureWebWorker();
 
 configure({ Deflate: ZipDeflate, Inflate: ZipInflate });
 
+// Inspired by
+// https://github.com/renehernandez/obsidian-readwise/blob/eee5676524962ebfa7eaf1084e018dafe3c2f394/src/status.ts
+class StatusBar {
+    constructor(statusBarEl) {
+        this.messages = [];
+        this.statusBarEl = statusBarEl;
+    }
+    displayMessage(message, timeout, forcing = false) {
+        if (this.messages[0] && this.messages[0].message === message) {
+            // don't show the same message twice
+            return;
+        }
+        this.messages.push({
+            message: `readwise: ${message.slice(0, 100)}`,
+            timeout: timeout * 1000,
+        });
+        if (forcing) {
+            this.currentMessage = null;
+            this.lastMessageTimestamp = null;
+            this.statusBarEl.setText("");
+        }
+        this.display();
+    }
+    display() {
+        if (this.currentMessage) {
+            let messageAge = Date.now() - this.lastMessageTimestamp;
+            if (messageAge >= this.currentMessage.timeout) {
+                this.currentMessage = null;
+                this.lastMessageTimestamp = null;
+            }
+        }
+        else if (this.messages.length) {
+            this.currentMessage = this.messages.shift();
+            this.statusBarEl.setText(this.currentMessage.message);
+            this.lastMessageTimestamp = Date.now();
+            return;
+        }
+        else {
+            this.statusBarEl.setText("");
+        }
+    }
+}
+
 // the process.env variable will be replaced by its target value in the output main.js file
 const baseURL = "https://readwise.io" ;
 // define our initial settings
 const DEFAULT_SETTINGS = {
     token: "",
-    obsidianToken: "",
     readwiseDir: "Readwise",
     frequency: "0",
     triggerOnLoad: true,
-    silentRun: false,
     isSyncing: false,
     lastSyncFailed: false,
     lastSavedStatusID: 0,
@@ -7766,6 +7807,15 @@ class ReadwisePlugin extends obsidian.Plugin {
         super(...arguments);
         this.scheduleInterval = null;
     }
+    getErrorMessageFromResponse(response) {
+        if (response && response.status === 409) {
+            return "Sync in progress initiated by different client";
+        }
+        if (response && response.status === 417) {
+            return "Obsidian export is locked. Wait for an hour.";
+        }
+        return `${response ? response.statusText : "Can't connect to server"}`;
+    }
     handleSyncError(buttonContext, msg) {
         this.clearSettingsAfterRun();
         this.settings.lastSyncFailed = true;
@@ -7775,12 +7825,11 @@ class ReadwisePlugin extends obsidian.Plugin {
             buttonContext.buttonEl.setText("Run sync");
         }
         else {
-            this.notice(msg, true);
+            this.notice(msg, true, 4, true);
         }
     }
     clearSettingsAfterRun() {
         this.settings.isSyncing = false;
-        this.settings.silentRun = false;
         this.settings.currentSyncStatusID = 0;
     }
     handleSyncSuccess(buttonContext, msg = "Synced", exportID = null) {
@@ -7815,8 +7864,8 @@ class ReadwisePlugin extends obsidian.Plugin {
                 data = yield response.json();
             }
             else {
-                console.log("Readwise Official plugin: bad response in requestArchive: ", response);
-                this.handleSyncError(buttonContext, `Readwise: ${response ? response.statusText : "Can't connect to server"}`);
+                console.log("Readwise Official plugin: bad response in getExportStatus: ", response);
+                this.handleSyncError(buttonContext, this.getErrorMessageFromResponse(response));
                 return;
             }
             const WAITING_STATUSES = ['PENDING', 'RECEIVED', 'STARTED', 'RETRY'];
@@ -7861,7 +7910,7 @@ class ReadwisePlugin extends obsidian.Plugin {
                 data = yield response.json();
                 if (data.latest_id <= this.settings.lastSavedStatusID) {
                     this.handleSyncSuccess(buttonContext);
-                    this.notice("Readwise data is already up to date");
+                    this.notice("Readwise data is already up to date", false, 4, true);
                     return;
                 }
                 this.settings.currentSyncStatusID = data.latest_id;
@@ -7871,15 +7920,16 @@ class ReadwisePlugin extends obsidian.Plugin {
             }
             else {
                 console.log("Readwise Official plugin: bad response in requestArchive: ", response);
-                this.handleSyncError(buttonContext, `Readwise: ${response ? response.statusText : "Can't connect to server"}`);
+                this.handleSyncError(buttonContext, this.getErrorMessageFromResponse(response));
                 return;
             }
         });
     }
-    notice(msg, force = false) {
-        if (force || !this.settings.silentRun) {
+    notice(msg, show = false, timeout = 0, forcing = false) {
+        if (show) {
             new obsidian.Notice(msg);
         }
+        this.statusBar.displayMessage(msg.toLowerCase(), timeout, forcing);
     }
     showInfoStatus(container, msg, className = "") {
         let info = container.find('.rw-info-container');
@@ -7892,7 +7942,8 @@ class ReadwisePlugin extends obsidian.Plugin {
     }
     getAuthHeaders() {
         return {
-            'AUTHORIZATION': `Token ${this.settings.token}`
+            'AUTHORIZATION': `Token ${this.settings.token}`,
+            'Obsidian-Client': `${this.getObsidianClientID()}`,
         };
     }
     downloadArchive(exportID, buttonContext) {
@@ -7901,7 +7952,7 @@ class ReadwisePlugin extends obsidian.Plugin {
             if (exportID <= this.settings.lastSavedStatusID) {
                 console.log(`Readwise Official plugin: Already saved data from export ${exportID}`);
                 this.handleSyncSuccess(buttonContext);
-                this.notice("Readwise data is already up to date");
+                this.notice("Readwise data is already up to date", false, 4);
                 return;
             }
             let response, blob;
@@ -7916,14 +7967,14 @@ class ReadwisePlugin extends obsidian.Plugin {
             }
             else {
                 console.log("Readwise Official plugin: bad response in downloadArchive: ", response);
-                this.handleSyncError(buttonContext, `Readwise: ${response ? response.statusText : "Can't connect to server"}`);
+                this.handleSyncError(buttonContext, this.getErrorMessageFromResponse(response));
                 return;
             }
             this.fs = this.app.vault.adapter;
             const blobReader = new BlobReader(blob);
             const zipReader = new ZipReader(blobReader);
             const entries = yield zipReader.getEntries();
-            this.notice("Saving files...");
+            this.notice("Saving files...", false, 30);
             if (entries.length) {
                 for (const entry of entries) {
                     let bookID;
@@ -7956,7 +8007,7 @@ class ReadwisePlugin extends obsidian.Plugin {
                     }
                     catch (e) {
                         console.log(`Readwise Official plugin: error writing ${processedFileName}:`, e);
-                        this.notice(`Readwise: error while writing ${processedFileName}: ${e}`, true);
+                        this.notice(`Readwise: error while writing ${processedFileName}: ${e}`, true, 4, true);
                         if (bookID) {
                             this.settings.booksToRefresh.push(bookID);
                             yield this.saveSettings();
@@ -7967,8 +8018,31 @@ class ReadwisePlugin extends obsidian.Plugin {
             }
             // close the ZipReader
             yield zipReader.close();
+            yield this.acknowledgeSyncCompleted(buttonContext);
             this.handleSyncSuccess(buttonContext, "Synced!", exportID);
-            this.notice("Readwise sync completed", true);
+            this.notice("Readwise sync completed", true, 1, true);
+        });
+    }
+    acknowledgeSyncCompleted(buttonContext) {
+        return __awaiter(this, void 0, void 0, function* () {
+            let response;
+            try {
+                response = yield fetch(`${baseURL}/api/obsidian/sync_ack`, {
+                    headers: Object.assign(Object.assign({}, this.getAuthHeaders()), { 'Content-Type': 'application/json' }),
+                    method: "POST",
+                });
+            }
+            catch (e) {
+                console.log("Readwise Official plugin: fetch failed to acknowledged sync: ", e);
+            }
+            if (response && response.ok) {
+                return;
+            }
+            else {
+                console.log("Readwise Official plugin: bad response in acknowledge sync: ", response);
+                this.handleSyncError(buttonContext, this.getErrorMessageFromResponse(response));
+                return;
+            }
         });
     }
     configureSchedule() {
@@ -7988,7 +8062,7 @@ class ReadwisePlugin extends obsidian.Plugin {
     }
     refreshBookExport(bookIds) {
         bookIds = bookIds || this.settings.booksToRefresh;
-        if (!bookIds.length) {
+        if (!bookIds.length || !this.settings.refreshBooks) {
             return;
         }
         try {
@@ -8027,12 +8101,14 @@ class ReadwisePlugin extends obsidian.Plugin {
     }
     onload() {
         return __awaiter(this, void 0, void 0, function* () {
+            this.statusBar = new StatusBar(this.addStatusBarItem());
+            this.registerInterval(window.setInterval(() => this.statusBar.display(), 1000));
             yield this.loadSettings();
             this.refreshBookExport = obsidian.debounce(this.refreshBookExport.bind(this), 800, true);
             this.refreshBookExport(this.settings.booksToRefresh);
             this.app.vault.on("delete", (file) => __awaiter(this, void 0, void 0, function* () {
                 const bookId = this.settings.booksIDsMap[file.path];
-                if (this.settings.refreshBooks && bookId) {
+                if (bookId) {
                     yield this.addBookToRefresh(bookId);
                 }
                 this.refreshBookExport();
@@ -8061,7 +8137,7 @@ class ReadwisePlugin extends obsidian.Plugin {
                 name: 'Sync your data now',
                 callback: () => {
                     if (this.settings.isSyncing) {
-                        this.notice("Readwise sync already in progress");
+                        this.notice("Readwise sync already in progress", true);
                     }
                     else {
                         this.settings.isSyncing = true;
@@ -8101,7 +8177,6 @@ class ReadwisePlugin extends obsidian.Plugin {
             this.addSettingTab(new ReadwiseSettingTab(this.app, this));
             yield this.configureSchedule();
             if (this.settings.token && this.settings.triggerOnLoad && !this.settings.isSyncing) {
-                this.settings.silentRun = true;
                 yield this.saveSettings();
                 yield this.requestArchive();
             }
@@ -8121,9 +8196,20 @@ class ReadwisePlugin extends obsidian.Plugin {
             yield this.saveData(this.settings);
         });
     }
+    getObsidianClientID() {
+        let obsidianClientId = window.localStorage.getItem('rw-ObsidianClientId');
+        if (obsidianClientId) {
+            return obsidianClientId;
+        }
+        else {
+            obsidianClientId = Math.random().toString(36).substring(2, 15);
+            window.localStorage.setItem('rw-ObsidianClientId', obsidianClientId);
+            return obsidianClientId;
+        }
+    }
     getUserAuthToken(button, attempt = 0) {
         return __awaiter(this, void 0, void 0, function* () {
-            let uuid = this.settings.obsidianToken || Math.random().toString(36).substring(2, 15);
+            let uuid = this.getObsidianClientID();
             if (attempt === 0) {
                 window.open(`${baseURL}/api_auth?token=${uuid}&service=obsidian`);
             }
@@ -8141,10 +8227,6 @@ class ReadwisePlugin extends obsidian.Plugin {
                 console.log("Readwise Official plugin: bad response in getUserAuthToken: ", response);
                 this.showInfoStatus(button.parentElement, "Authorization failed. Try again", "rw-error");
                 return;
-            }
-            if (!this.settings.obsidianToken) {
-                this.settings.obsidianToken = uuid;
-                yield this.saveSettings();
             }
             if (data.userAccessToken) {
                 this.settings.token = data.userAccessToken;
@@ -8240,7 +8322,7 @@ class ReadwiseSettingTab extends obsidian.PluginSettingTab {
                 });
             });
             new obsidian.Setting(containerEl)
-                .setName("Sync automatically when Obisidan opens")
+                .setName("Sync automatically when Obsidian opens")
                 .setDesc("If enabled, Readwise will automatically resync with Obsidian each time you open the app")
                 .addToggle((toggle) => {
                 toggle.setValue(this.plugin.settings.triggerOnLoad);
@@ -8254,10 +8336,13 @@ class ReadwiseSettingTab extends obsidian.PluginSettingTab {
                 .setDesc("If enabled, you can refresh individual items by deleting the file in Obsidian and initiating a resync")
                 .addToggle((toggle) => {
                 toggle.setValue(this.plugin.settings.refreshBooks);
-                toggle.onChange((val) => {
+                toggle.onChange((val) => __awaiter(this, void 0, void 0, function* () {
                     this.plugin.settings.refreshBooks = val;
-                    this.plugin.saveSettings();
-                });
+                    yield this.plugin.saveSettings();
+                    if (val) {
+                        this.plugin.refreshBookExport();
+                    }
+                }));
             });
             if (this.plugin.settings.lastSyncFailed) {
                 this.plugin.showInfoStatus(containerEl.find(".rw-setting-sync .rw-info-container").parentElement, "Last sync failed", "rw-error");

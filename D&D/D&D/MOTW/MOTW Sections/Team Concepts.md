@@ -1,4 +1,4 @@
-It’s good to work out why [[the hunters]] formed their team. You may have decided on this already. If not, have a quick discussion and see if you come up with an idea—even if it’s just a vague one.
+It’s good to work out why [[the hunters]] formed their team. You may have decided on this already. If not, have a [[quick]] discussion and see if you come up with an idea—even if it’s just a vague one.
 
 The combination of playbooks you’ve selected may demand a particular team concept. Or it may seem like two (or more) teams of hunters have been mashed together (for instance, a family and a government agency)—in which case, it’s good to ask yourselves why they’re co-operating.
 

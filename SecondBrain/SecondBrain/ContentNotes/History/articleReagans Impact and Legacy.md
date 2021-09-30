@@ -10,7 +10,8 @@ source: https://millercenter.org/president/reagan/impact-and-legacy
 bib:
 ---
 ###### [[Reagans Impact and Legacy]]
-**Related-Topics**:: 
+
+**Topics**::  
 
 **Last Edited**:: *`=this.file.mtime`*
 

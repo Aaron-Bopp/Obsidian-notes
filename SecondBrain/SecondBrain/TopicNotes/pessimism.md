@@ -13,24 +13,11 @@ aliases:
 inlinks
 
 **Status**:: #EVER/SEED
-###### [[pessimism]] `=length([[pessimism]].file.inlinks)` 
+
+##### [[pessimism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 
 
 
-## Evergreen Notes
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"  and [[pessimism]]
-WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "pessimism" and !contains([[pessimism]].file.outlinks, link(file.name))
-SORT Status
-```
-## Content Notes
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM [[pessimism]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "pessimism" and !contains([[pessimism]].file.outlinks, link(file.name))
-SORT Status
-```
-
-## References
+### <hr class="dataviews"/>
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

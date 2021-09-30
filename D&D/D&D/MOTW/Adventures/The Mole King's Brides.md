@@ -6,7 +6,7 @@ The Mole King's Brides
 
 # Concept
 
-Yudashkin is a leshii who wishes to see the world, but cannot stray too far from trees native to his home in Russia. A travelling businessman, has brought seeds to a forest park where Yudashkin has a second home now. However, this angered the local forest powers, and Ualichu the mole king has trapped Yudashkin within those woods. The mystery begins as Yudashkin puts his plan to escape into action.
+Yudashkin is a leshii who wishes to see the world, but cannot stray too [[far]] from trees native to his home in Russia. A travelling businessman, has brought seeds to a forest park where Yudashkin has a second home now. However, this angered the local forest powers, and Ualichu the mole king has trapped Yudashkin within those woods. The mystery begins as Yudashkin puts his plan to escape into action.
 
 # Hook
 
@@ -40,7 +40,7 @@ In his natural form, Yudashkin is a tree of flesh and fronds composed of human a
 
 -   **Trapped**: As the mystery begins, he is magically imprisoned within this specific forest park.
 
-**Attacks:** **Primordial curse** 3-[[harm]] close area magic transform (-1 [[forward]] to run away; if not magically cured, the curse eventually turns you into a tree.) **[[Armour]]:** **Fallen pine needles and rotten flesh**: 2-[[armour]].
+**Attacks:** **Primordial curse** 3-[[harm]] [[close]] [[area]] [[magic]] transform (-1 [[forward]] to run away; if not magically cured, the curse eventually turns you into a tree.) **[[Armour]]:** **Fallen pine needles and rotten flesh**: 2-[[armour]].
 
 **[[Harm]] Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
@@ -48,7 +48,7 @@ In his natural form, Yudashkin is a tree of flesh and fronds composed of human a
 
 **Home Forest:** He must maintain proximity to trees from his native forest. Destroying these trees in the park will banish him back to Russia.
 
-**His Name:** Yudashkin hates the sound of his name. If you name him in his presence, roll + Weird:
+**His Name:** Yudashkin hates the sound of his name. If you name him in his presence, roll + [[Weird]]:
 
 -   On a 10+ choose two.
 
@@ -62,7 +62,7 @@ In his natural form, Yudashkin is a tree of flesh and fronds composed of human a
 
 -   Provide +1 [[armour]] to yourself or someone else.
 
--   Declare Yudashkin’s [[vulnerability]] (fire, silver, cold iron, etc.) Any further damage from that source deals +1 [[harm]] and pierces [[armour]].
+-   Declare Yudashkin’s [[Vulnerability]] (fire, silver, cold iron, etc.) Any further damage from that source deals +1 [[harm]] and pierces [[armour]].
 
 # The Park
 
@@ -90,7 +90,7 @@ Park Ranger Rodney Womack is the self-appointed leader. A sprig of juniper is pi
 
 • **Beastspeak**: When a groundskeeper is attacked or spied upon, the beasts of the park warn and intervene to protect him/her.
 
-**Attacks:** **Deer rifle** 2-[[harm]] far loud. **Ritual knife** 1-[[harm]] close. **[[Armour]]:** None.
+**Attacks:** **Deer rifle** 2-[[harm]] [[far]] [[loud]]. **Ritual knife** 1-[[harm]] [[close]]. **[[Armour]]:** None.
 
 **[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -98,7 +98,7 @@ Park Ranger Rodney Womack is the self-appointed leader. A sprig of juniper is pi
 
 *Minion: Traitor (motivation: to betray people)*
 
-Lindsay’s boyfriend, who now has an agreement with Ivanovich: he brings kids out camping for Ivanovich and in exchange he gets “cool” magic powers. They aren’t much right now, but the birds in his dreams tell him they’re just the down payment. His voice is charming, all the time.
+Lindsay’s boyfriend, who now has an agreement with Ivanovich: he brings kids out camping for Ivanovich and in exchange he gets “[[Cool]]” [[magic]] powers. They aren’t much right now, but the birds in his dreams tell him they’re just the down payment. His voice is charming, all the time.
 
 Little does he realise, the powers will soon be too much for his body.
 
@@ -106,13 +106,13 @@ He’ll be reduced to a lost spirit, seducing others into self-destruction.
 
 # ![[image135.png]]Ualichu, the Mole King
 
-*Minion: Guardian (motivation: to bar the way or protect his wives)*
+*Minion: [[Guardian]] (motivation: to bar the way or protect his wives)*
 
 Ualichu dwells in the Hidden City, attended by his Eyeless Brides. He rules over the primal direction Down. Wearing a cloak of human eyes and attended by giant mummies, Ualichu is a terrifying power of the Earth. With shining teeth and blackest flesh, his very presence is the weight of all the stone above and the absence of light.
 
 **Powers:**
 
-**Proclamation**: His word is Truth in a cosmic sense. What he says goes, literally. When you confront Ualichu with evidence of a broken proclamation, roll [[+Sharp]]. On any hit, the law-breaker is gravely weakened. On a 10+, the law-breaker is magically compelled to do one service for [[The Wronged]] party: they may not avoid or delay this penalty without painful (or even deadly) consequence.
+**Proclamation**: His word is Truth in a cosmic sense. What he says goes, literally. When you confront Ualichu with evidence of a broken proclamation, roll +[[Sharp]]. On any hit, the law-breaker is gravely weakened. On a 10+, the law-breaker is magically compelled to do one service for [[The Wronged]] party: they may not avoid or delay this penalty without painful (or even deadly) consequence.
 
 # Lindsay Awale
 
@@ -146,7 +146,7 @@ He tends to be a soft touch for them.
 
 *Bystander: Gossip (motivation: to pass on rumours)*
 
-He and his crew keep up appearances with Ranger Gongorra and the vagrants’ campsite, while making sure everyone follows the rules. He opposes Ualichu, the Mole King, because of a grave slight in the past. Flim-Flam possesses the Invisible Hand, a relic that creates goblin markets overlooked by mortal eyes.
+He and his crew keep up appearances with Ranger Gongorra and the vagrants’ campsite, while making sure everyone follows the rules. He opposes Ualichu, the Mole King, because of a grave slight in the past. Flim-Flam possesses the Invisible [[Hand]], a relic that creates goblin markets overlooked by mortal eyes.
 
 # The Goblin Market
 

@@ -10,19 +10,19 @@ Serious wounds (4+ [[harm]]) require treatment. They are normally [[unstable]], 
 What counts as treatment depends on the wound, but it will usually be one of the following:
 
 - A hunter’s healing move.
-- Time in an infirmary in someone’s haven.
+- Time in an infirmary in someone’s [[haven]].
 - A visit to a doctor or emergency room.
-- A magic spell.
+- A [[magic]] spell.
 
-Healing [[moves]] will mention how many [[harm]] they heal.
+Healing [[moves]] will mention how [[many]] [[harm]] they heal.
 
 [[Healing Between Mysteries]]
 
-The rules for healing (from [[the hunters]]’ perspective) are on [[0000370773]]. In brief, they are:
+The rules for healing (from [[the hunters]]’ perspective) are on 0000370773. In brief, they are:
 
 - 0-[[harm]] wounds only apply at the moment they happen: no healing time is required to get over them.
 - Stable wounds get better by 1 point for each day of rest, or when medical attention is given.
-- 4+ [[harm]] wounds need stabilization and long term treatment. It’s your call how long that takes. As a general rule, any proper treatment (a visit to a doctor or emergency room, or time in a haven infirmary) will stabilise the injury and heal 1 [[harm]].
+- 4+ [[harm]] wounds need stabilization and long term treatment. It’s your call how long that takes. As a general rule, any proper treatment (a visit to a doctor or emergency room, or time in a [[haven]] infirmary) will stabilise the injury and heal 1 [[harm]].
 - 8-[[harm]] or more means the victim is dead.
 - Routine first aid heals 1 point of [[harm]] for a single injury or condition and takes a few minutes. Additional first aid will only help someone if there’s a new injury or condition to treat.
 - Healing [[moves]] will say how much they heal.

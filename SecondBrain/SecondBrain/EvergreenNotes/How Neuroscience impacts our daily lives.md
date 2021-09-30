@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[How Neuroscience impacts our daily lives]]
+#### [[How Neuroscience impacts our daily lives]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Our brains are not designed for correcting the dissonance between thoughts and conclusions. [^1] If our brains were unable to create reasoning and thought processes for completely illogical conclusions we wouldn't be where we are today. This ability to pattern match is a major part of why we have survived as a species. If a prehistoric human was attacked by a tiger and survived the very basis of there survival needed to be to avoid that situation again at all costs. They needed to be able to remember everything that lead up to the encounter exactly how it happened and exactly how to get out of it. However, in modern times, these natural instincts are not always needed to survive, and can even cause more emotional anguish than they prevent. This is the basis for [[PTSD]]. 
 
@@ -17,11 +17,9 @@ When the human body is put under stress it will produce various chemicals in ord
 
 **Status**:: #EVER/SPROUT/WATER 
 
-**Related-Topics**:: [[mental health]], [[mental disorders]], [[Neuroscience]]
-
-**Sub-Topics**::
+**Topics**::  [[mental health]], [[mental disorders]], [[Neuroscience]] 
 	
-**References**
+
 
 [^1]: https://www.youtube.com/watch?v=UUC8qF5iDag [[Existential Dread]]
 [^2]: https://www.youtube.com/watch?v=UUC8qF5iDag [[Existential Dread]]

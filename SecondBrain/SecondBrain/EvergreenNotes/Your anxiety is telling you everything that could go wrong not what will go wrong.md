@@ -5,7 +5,7 @@ note-type:
 parent: [[anxiety]]
 ---
 
-##### `=this.file.link` `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Your anxiety is telling you everything that could go wrong not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 If you can acknowledge that what your [[anxiety]] is telling you could happen but will not certainly happen you can start to make the judgment on whether you should go through with the thing or not. [[Anxiety isn't irrational it's just overcompensation]]
 
@@ -23,8 +23,6 @@ The reason this happens is rooted in [[Neuroscience]]. [[Anxiety]] is at it's co
 
 **Status**:: #EVER/GREEN  
 
-**Related-Topics**:: [[mental health]], [[mental disorders]], [[self-actualization]], , 
-	
-**Sub-Topics**::
+**Topics**::  [[mental health]], [[mental disorders]], [[self-actualization]], ,  
 	
 **Last Edited**:: *`=this.file.mtime`*

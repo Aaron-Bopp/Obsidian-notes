@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[How ADHD effects concentration]] `=length([[How ADHD effects concentration]].file.inlinks) + length([[How ADHD effects concentration]].file.outlinks)`
+#### [[How ADHD effects concentration]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Tips for concentration]]
 #TO/EXPLORE/RESEARCH 
@@ -15,8 +15,5 @@ note-type:
 
 **Status**:: #EVER/SEED  
 
-**Related-Topics**:: [[ADHD]], [[mental health]], [[mental disorders]]
+**Topics**::  [[ADHD]], [[mental health]], [[mental disorders]] 
 	
-**Sub-Topics**::
-	
-**References**

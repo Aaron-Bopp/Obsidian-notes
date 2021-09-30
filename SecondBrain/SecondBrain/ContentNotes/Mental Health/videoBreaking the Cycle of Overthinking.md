@@ -28,9 +28,7 @@ e
 
 
 
-**Related-Topics**:: [[mental health]], 
-	
-**Sub-Topics**::
+**Topics**::  [[mental health]],  
 	
 --- 
 

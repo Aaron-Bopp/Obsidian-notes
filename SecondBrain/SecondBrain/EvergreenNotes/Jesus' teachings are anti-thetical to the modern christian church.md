@@ -5,7 +5,7 @@ note-type:
 
 ---
 
-##### [[Jesus' teachings are anti-thetical to the modern christian church]] `=length([[Jesus' teachings are anti-thetical to the modern christian church]].file.inlinks) + length([[Jesus' teachings are anti-thetical to the modern christian church]].file.outlinks)`
+#### [[Jesus' teachings are anti-thetical to the modern christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Jesus was a radical socialist who fought against power for oppressed people using teachings that involved morals and ethics. 
 
@@ -13,8 +13,7 @@ Jesus was a radical socialist who fought against power for oppressed people usin
 
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: [[Christianity]], [[Evangelicalism]], [[Marxism]], [[social progress]],  [[Civil Rights]], [[American Conservatism]]
+**Topics**::  [[Christianity]], [[Evangelicalism]], [[Marxism]], [[social progress]],  [[Civil Rights]], [[American Conservatism]]
 	
 **Last Edited**:: *`=[[Jesus' teachings are anti-thetical to the modern christian church]].file.mtime`*
 	
-**References**

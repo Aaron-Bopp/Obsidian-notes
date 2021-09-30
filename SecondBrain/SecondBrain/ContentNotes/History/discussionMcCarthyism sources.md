@@ -11,7 +11,8 @@ bib:
 ---
 
 ###### [[McCarthyism sources]]
-**Related-Topics**:: 
+
+**Topics**::  
 
 **Last Edited**:: *`=this.file.mtime`*
 

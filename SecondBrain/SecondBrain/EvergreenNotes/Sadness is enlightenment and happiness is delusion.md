@@ -6,7 +6,7 @@ note-type:
 parent: [[depression]]
 ---
 
-#####  [[Sadness is enlightenment and happiness is delusion]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Sadness is enlightenment and happiness is delusion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Human's own conception of their [[self]] is dependent on many things including their [[early childhood]], [[socialization]], and their [[perception of the world]]. [[pessimism]] and [[realism]] are beliefs that equate a negative outlook on the world with intelligence. If a person internalizes the narrative that negative emotions are a sign of intelligence, it can warp their [[realism|realistic]] [[perception]] of the world, because [[Human's have an inability to admit that they are wrong]]. 
 
@@ -19,10 +19,11 @@ This way of living your life is [[subconscious|subconsciously]] attractive, beca
 Once someone has reached this state of "[[enlightenment]]," they will not only find it incredibly hard to be happy, they will see any [[happiness]] they do find as illogical, unnatural, and generally unwarranted. So obviously, [[Happiness is enlightenment and sadness is delusion]]
 
 ### <hr class="footnote"/>
+
 **Status**:: #EVER/GREEN/PRUNE 
 
-**Related-Topics**:: [[self-worth]], [[Bhuddism]], [[depression]], [[social justice]]
+**Topics**::  [[self-worth]], [[Bhuddism]], [[depression]], [[social justice]]
 
 **Last Edited**:: *`=this.file.mtime`*
 
-**References**:: [[DrK and DrMike conversation]]
+:: [[drk

@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Note structures should be loosely defined]]
+#### [[Note structures should be loosely defined]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 As you're writing notes your structure shouldn't be constricting your thought it should be encouraging it. If a structure makes you stop and think, "I have no idea what to put in here" it is interrupting the process of creation, but if it stops and makes you think, "here are all the things I can put in here" It is adding to your process. IF the borders of your structures are loosely defined it will make it easier to use them. While some would say that loosely defined structures will just lead to unorganized thought, this trade off is either warranted or completely avoided by the creation of the structures.
 
@@ -19,8 +19,5 @@ Examples:
 
 **Status**:: #EVER/SPROUT/CULTIVATE   
 
-**Related-Topics**:: [[second brain]], [[evergreen notes]]
+**Topics**::  [[second brain]], [[evergreen notes]], [[note writing]]
 	
-**Sub-Topics**:: [[note writing]]
-	
-**References**

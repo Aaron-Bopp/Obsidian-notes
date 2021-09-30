@@ -59,8 +59,6 @@ https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8
 
 ---
 
-**Related-Topics**:: 
-	
-**Sub-Topics**::
+**Topics**::   
 	
 **Outline**::

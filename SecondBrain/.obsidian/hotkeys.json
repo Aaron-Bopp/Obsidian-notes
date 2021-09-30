@@ -201,14 +201,6 @@
       "key": "F"
     }
   ],
-  "editor:open-search-replace": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "quickadd:runQuickAdd": [
     {
       "modifiers": [
@@ -234,6 +226,12 @@
         "Shift"
       ],
       "key": "L"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
     }
   ],
   "obsidian42-text-transporter:obsidian42-text-transporter-combinedCommands": [
@@ -242,6 +240,49 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "find-and-replace-in-selection:find-and-replace-in-selection": [],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "quick-explorer:browse-vault": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "hotkey-helper:open-plugins": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
+  "obsidian-toggle-vim:toggle-vim-mode": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "leader-hotkeys-obsidian:leader": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
     }
   ]
 }

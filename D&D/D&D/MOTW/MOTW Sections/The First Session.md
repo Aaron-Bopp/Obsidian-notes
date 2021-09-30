@@ -1,6 +1,6 @@
 In the first session, you’ll create your hunters and investigate your first mystery.
 
-The first step is to decide if the group wants to pick a team concept ([[Team Concepts]]). That’s the reason you are a team, for example, “We all work for a secret monster hunting agency” or “We defend our home town against the [[monsters]] that keep coming here.” [[The Keeper]] may have some suggestions based on what they’ve been planning.
+The first step is to decide if the group wants to pick a team concept (Team Concepts). That’s the reason you are a team, for example, “We all work for a secret monster hunting agency” or “We defend our home town against the [[monsters]] that keep coming here.” [[The Keeper]] may have some suggestions based on what they’ve been planning.
 
 If you have a team concept that needs certain [[hunter types]], allocate those first.
 

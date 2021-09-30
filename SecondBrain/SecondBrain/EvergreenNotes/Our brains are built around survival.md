@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Our brains are built around survival]] `=length([[Our brains are built around survival]].file.inlinks) + length([[Our brains are built around survival]].file.outlinks)`
+#### [[Our brains are built around survival]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is a biological fact, reinforced by [[socialization]]
 
@@ -17,8 +17,5 @@ This is a biological fact, reinforced by [[socialization]]
 
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: [[human experience]], [[human advancement]], [[human survival]], [[Neuroscience]]
+**Topics**::  [[human experience]], [[human advancement]], [[human survival]], [[Neuroscience]] 
 	
-**Sub-Topics**::
-	
-**References**

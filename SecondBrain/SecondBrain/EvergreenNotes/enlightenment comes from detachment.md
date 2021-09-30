@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[enlightenment comes from detachment]] `=length([[enlightenment comes from detachment]].file.inlinks) + length([[enlightenment comes from detachment]].file.outlinks)`
+#### [[enlightenment comes from detachment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -14,6 +14,6 @@ note-type:
 
 **Status**:: #EVER/SEED 
 
-**Related-Topics**:: [[Bhuddism]], [[Bhuddism is the study of happiness through detachment]], [[To be happy you need to not be sad]], 
+**Topics**::  [[Bhuddism]], [[Bhuddism is the study of happiness through detachment]], [[To be happy you need to not be sad]], 
 	
-**References**:: [[DrK and DrMike conversation]]
+:: [[DrK and DrMike conversation]]

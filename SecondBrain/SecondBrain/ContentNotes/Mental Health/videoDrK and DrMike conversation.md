@@ -48,9 +48,7 @@ bib:
 
 ---
 
-**Related-Topics**:: [[eastern philosophy]], [[meditation]], [[mental health]]
-	
-**Sub-Topics**::
+**Topics**::  [[eastern philosophy]], [[meditation]], [[mental health]] 
 	
 **Outline**::
 

@@ -9,9 +9,9 @@ Thanks to Fred Hicks and the Evil Hat crew for supporting this revised edition, 
 
 Acknowledgements for the First Edition
 
-Thanks go to many people who helped me with this game. Firstly, to Vincent Baker for *Apocalypse World*, and for not minding that I took his rules and changed them all around to fit my vision.
+Thanks go to [[many]] people who helped me with this game. Firstly, to Vincent Baker for *Apocalypse World*, and for not minding that I took his rules and changed them all around to fit my vision.
 
-Also, to the many playtesters who indulged me by joining in and hunting [[monsters]] over four or five years of development (especially my regular Monday night crew: Scott Kelly, Bruce Norris, Andrew McLeod, Jason Pollock, and Stefan Tyler).
+Also, to the [[many]] playtesters who indulged me by joining in and hunting [[monsters]] over four or five years of development (especially my regular Monday night crew: Scott Kelly, Bruce Norris, Andrew McLeod, Jason Pollock, and Stefan Tyler).
 
 Steve Hickey, who edited the game, was one of my first enthusiastic fans, the first Keeper (aside from me), and has provided great [[feedback]] throughout the process. Thanks to my other early fans: Jenni Sands, Sophie Melchior, Hamish Cameron, and Stefan Tyler.
 
@@ -29,9 +29,9 @@ Play-testers Roll of Honour
 
 Revised edition: Dennis McFaull, Stefan Tyler, Paul Wilson, Chris Fletcher, Sara Fletcher, and Nasia Alevizos, John Adamus, Matthew Aaron, Mark Miller, Sophie Legacé, Rick Neal, Michael Robins.
 
-First edition: Andrew McLeod, Scott “It’ll be fine” Kelly, Jason “Dark past” Pollock, and Stefan “Unstoppable” Tyler, Steve Hickey, Sophie Melchior, Hamish Cameron, Jenni Sands, Svend Andersen, Celeste Mackintosh, Wayne Ulyate, Dale Elvy, Karen Wilson, Stephanie Pegg, Ellen Couch, Andy Millar, and Nick Cole.
+First edition: Andrew McLeod, Scott “It’ll be fine” Kelly, Jason “[[Dark Past]]” Pollock, and Stefan “[[Unstoppable]]” Tyler, Steve Hickey, Sophie Melchior, Hamish Cameron, Jenni Sands, Svend Andersen, Celeste Mackintosh, Wayne Ulyate, Dale Elvy, Karen Wilson, Stephanie Pegg, Ellen Couch, Andy Millar, and Nick Cole.
 
-Many more people playtested earlier beta versions of this game. Thanks to you all, too.
+[[Many]] more people playtested earlier beta versions of this game. Thanks to you all, too.
 
 Funders Roll Of Honour
 

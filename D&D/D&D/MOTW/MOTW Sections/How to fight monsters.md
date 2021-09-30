@@ -4,9 +4,9 @@ All [[monsters]] (and some [[minions]]) have *weaknesses*. That means they canno
 
 Weaknesses can include:
 
-- Things that can be used as a weapon: e.g. fire, cold iron.
+- Things that can be used as a weapon: e.g. [[fire]], cold iron.
 - Specific methods of attack: e.g. a silver weapon, decapitation.
-- Something to do: e.g. a magic ritual, a burial procedure.
+- Something to do: e.g. a [[magic]] ritual, a burial procedure.
 - A harmful environment: e.g. sunlight, running water.
 
 If you know the monster’s weakness, use it.

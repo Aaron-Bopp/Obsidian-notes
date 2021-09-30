@@ -11,7 +11,8 @@ bib:
 ---
 
 ###### [[Western Civ Textbook]]
-**Related-Topics**:: 
+
+**Topics**::  
 
 **Last Edited**:: *`=this.file.mtime`*
 

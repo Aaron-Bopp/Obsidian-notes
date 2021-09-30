@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[zettle]]
+#### [[zettle]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 A zettle is a single idea or thought as defined by the creator of the [[Zettlekassen]] Method. It is closely related to [[evergreen notes]]s and [[permanent note]]s and shares quite a few similarities with them.
 
@@ -21,12 +21,10 @@ A zettle is a single idea or thought as defined by the creator of the [[Zettleka
 
 **Status**:: #EVER/SPROUT    
 
-**Related-Topics**:: [[Zettlekassen]], [[personal knowledge management]], [[second brain]]
-
-**Sub-topics**:: 
+**Topics**::  [[Zettlekassen]], [[personal knowledge management]], [[second brain]]  
 
 **Outline**::
 
-**References**
+
 
 [^1]:  https://publish.obsidian.md/andymatuschak/Similarities+and+differences+between+evergreen+note-writing+and+Zettelkasten

@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Faith can be a useful tool for grounding yourself]]
+#### [[Faith can be a useful tool for grounding yourself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 I think that [[religion]] can be a healthy way to avoid the uncertainty of not knowing the answer to [[The three main questions of life]] and can lead to a happy and fruitful life.
 
@@ -14,8 +14,5 @@ I think that [[religion]] can be a healthy way to avoid the uncertainty of not k
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related-Topics**:: [[belief systems]], [[faith]], [[worldview]]
+**Topics**::  [[belief systems]], [[faith]], [[worldview]] 
 	
-**Sub-Topics**::
-	
-**References**

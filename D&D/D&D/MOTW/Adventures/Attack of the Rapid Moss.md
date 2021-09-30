@@ -18,7 +18,7 @@ Some ways for [[the hunters]] to get involved are:
 
 # Countdown
 
-<table><colgroup><col style="width: 23%" /><col style="width: 76%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>The moss is released by the corrupted scientist Dr. Cornwall.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>The moss spreads throughout most of the forest, killing a camper, Jerry Willdin.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Mike attempts to stop Cornwall, but Cornwall kills him.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td>The moss engulfs the nearby city.</td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>The moss has completely covered the city, killing many people.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td>The moss spreads through the region, killing thousands, with no signs of slowing down.</td></tr></tbody></table>
+<table><colgroup><col style="width: 23%" /><col style="width: 76%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>The moss is released by the corrupted scientist Dr. Cornwall.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>The moss spreads throughout most of the forest, killing a camper, Jerry Willdin.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Mike attempts to stop Cornwall, but Cornwall kills him.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td>The moss engulfs the nearby city.</td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>The moss has completely covered the city, killing [[many]] people.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td>The moss spreads through the region, killing thousands, with no signs of slowing down.</td></tr></tbody></table>
 
 # Rapid Moss
 
@@ -28,13 +28,13 @@ An experimental sentient moss created by Dr. Cornwall. Once released, it rapidly
 
 **Powers:**
 
--   **Rapid Growth**: Grows quickly and without limit. It has trouble growing up vertical surfaces. It will engulf and suffocate anyone who doesn’t escape its tendrils. Hunters being engulfed should roll **[[act under pressure]]** to escape, or another hunter might **protect** them to pull them free.
+-   **Rapid Growth**: Grows quickly and without limit. It has trouble growing up vertical surfaces. It will engulf and suffocate anyone who doesn’t escape its tendrils. Hunters being engulfed should roll **[[Act Under Pressure]]** to escape, or another hunter might **protect** them to pull them free.
 
 -   **Vines**: Vines whip out from the moss. They can attack (see below), or be used to drag people into the moss, engulfing them.
 
--   **Strangle [[Structure]]**: Can topple trees and small structures by squeezing them tight with vine growths.
+-   **Strangle [[Structure]]**: Can topple trees and [[small]] structures by squeezing them tight with vine growths.
 
-**Attacks:** **Vines** 2-[[harm]] close grab.
+**Attacks:** **Vines** 2-[[harm]] [[close]] grab.
 
 **[[Armour]]:** None.
 
@@ -42,7 +42,7 @@ An experimental sentient moss created by Dr. Cornwall. Once released, it rapidly
 
 -   The Moss Brain, located at the center of Cornwall’s lab.
 
--   Fire and weedkiller can clear out patches of it.
+-   [[Fire]] and weedkiller can clear out patches of it.
 
 # Hillside Forest
 
@@ -64,7 +64,7 @@ The lab where the moss was born. Dr. Cornwall guards the lab from anyone who wan
 
 In the center of the lab is a large chamber where the Moss Brain is held.
 
-There are many [[weird science]] materials and tools here. Some may be useful if [[the hunters]] try to defeat the moss with their own [[weird science]].
+There are [[many]] [[Weird Science]] materials and tools here. Some may be [[useful]] if [[the hunters]] try to defeat the moss with their own [[Weird Science]].
 
 # Moss Brain
 
@@ -74,7 +74,7 @@ The Moss Brain is a strange, pulsating, and glowing clump of moss and tendrils. 
 
 • **Controller of the Moss**: Can control the moss and spawn moss children.
 
-**Attacks:** **Painful psychic plant blast** 1-[[harm]] close ignore-[[armour]]. **[[Armour]]:** None.
+**Attacks:** **Painful psychic plant blast** 1-[[harm]] [[close]] [[ignore-armour]]. **[[Armour]]:** None.
 
 **[[Harm]] Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -82,11 +82,11 @@ The Moss Brain is a strange, pulsating, and glowing clump of moss and tendrils. 
 
 # Dr Cornwall
 
-*Minion: Guardian (motivation: to bar a way or protect something)*
+*Minion: [[Guardian]] (motivation: to bar a way or protect something)*
 
 Dr. Cornwall is a 50-year-old scientist. He is short with greying black hair and a long beard. He discovered the Moss Brain and set up a research lab in the woods to study it. However, as time went on exposure to the brain allowed the creature to slowly take over his mind, corrupting him. Dr Cornwall’s sole desire is now ‘to spread the moss across all corners of the globe’. With the moss starting to spread, the brain now uses him as its puppet, forcing him to protect the brain with his life. He knows how to make a poison that will kill the Moss Brain and completely sever its psychic connection to its moss, stopping it from spreading. Unless [[the hunters]] can break him free of the brain’s control, there is no way he will reveal this information.
 
-**Attacks:** **Shotgun** 3-[[harm]] close messy loud. **[[Armour]]:** None.
+**Attacks:** **Shotgun** 3-[[harm]] [[close]] [[messy]] [[loud]]. **[[Armour]]:** None.
 
 **[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Weakness:** He is a normal human.
 
@@ -94,21 +94,21 @@ Dr. Cornwall is a 50-year-old scientist. He is short with greying black hair and
 
 *Minion: Brute (motivation: to intimidate and attack)*
 
-When the Moss Brain feels threatened it will create moss children. These are strange, vaguely child-shaped clumps of moss that have been given a very small amount of intelligence by the Moss Brain. **Powers:**
+When the Moss Brain feels threatened it will create moss children. These are strange, vaguely child-shaped clumps of moss that have been given a very [[small]] amount of intelligence by the Moss Brain. **Powers:**
 
-• **Rapid Growth**: If it grabs onto a hunter, the moss will spread across their body and try to suffocate them. Hunters being engulfed should roll **[[act under pressure]]** to escape, or another hunter might **[[protect someone]]** to pull them free.
+• **Rapid Growth**: If it grabs onto a hunter, the moss will spread across their body and try to suffocate them. Hunters being engulfed should roll **[[Act Under Pressure]]** to escape, or another hunter might **[[Protect Someone]]** to pull them free.
 
-**Attacks:** **Vines** 2-[[harm]] close grab. **Pummel** 1-[[harm]] hand. **[[Armour]]:** None.
+**Attacks:** **Vines** 2-[[harm]] [[close]] grab. **Pummel** 1-[[harm]] [[hand]]. **[[Armour]]:** None.
 
 **[[Harm]] Capacity:** 5. <sup>\[\]\[\]\[\]\[\]\[\]</sup>
 
-**Weakness:** The Moss Brain, fire, and weedkiller.
+**Weakness:** The Moss Brain, [[fire]], and weedkiller.
 
 # Mike Nadern, Cornwall's Assistant
 
 *Bystander: Witness (motivation: to reveal information).*
 
-Assistant to Dr Cornwall. He is a 32-year-old man with short brown hair and blue eyes, who has worked with Dr Cornwall for many years. He realizes how fanatical his boss has become (and that the moss is behind it) and will help [[the hunters]] if they find him. If [[the hunters]] don’t get to him, he will eventually confront Cornwall himself (and likely be killed by the moss).
+Assistant to Dr Cornwall. He is a 32-year-old man with short brown hair and blue eyes, who has worked with Dr Cornwall for [[many]] years. He realizes how fanatical his boss has become (and that the moss is behind it) and will help [[the hunters]] if they find him. If [[the hunters]] don’t get to him, he will eventually confront Cornwall himself (and likely be killed by the moss).
 
 He knows:
 

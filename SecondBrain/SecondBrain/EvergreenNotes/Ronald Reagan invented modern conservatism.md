@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Ronald Reagan invented modern conservatism]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Ronald Reagan invented modern conservatism]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Reagan]] set the standard for [[Conservatism]] that stands to this day. His three major beliefs were religious [[conservatism]], [[anti-liberalism]], and financial [[conservatism]]. The most impactful of these beliefs is financial [[conservatism]], which has also been called Reaganomics and [[supply-side economics]].
 
@@ -32,7 +32,7 @@ He also used this moral superiority to justify [[government]] interference in wo
 
 **Status**:: #EVER/SPROUT/CULTIVATE 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

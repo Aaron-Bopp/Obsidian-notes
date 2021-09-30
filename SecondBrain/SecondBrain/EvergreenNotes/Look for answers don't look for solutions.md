@@ -7,7 +7,7 @@ aliases:
 - 
 ---
 
-###### [[Look for answers don't look for solutions]] `=length([[Look for answers don't look for solutions]].file.inlinks) + length([[Look for answers don't look for solutions]].file.outlinks)`
+#### [[Look for answers don't look for solutions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -15,8 +15,5 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related-Topics**:: 
+**Topics**::   
 	
-**Sub-Topics**::
-	
-**References**

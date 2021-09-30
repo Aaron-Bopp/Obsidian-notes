@@ -7,7 +7,7 @@ But when I finally did find *Monster of the Week*, man, did it bite me hard: a s
 
 As is my way, I threw a lot of enthusiasm at the game. I started a (still-[[ongoing]]) campaign inspired in part by Harry Connolly’s *Twenty Palaces* series, and I wrote up a new playbook based on a particular wizard of my acquaintance (you’ll find it in this book as [[The Spell-Slinger]]).
 
-I also looked into how this game was getting out into the world, because, man, it deserves to go far. Turns out, it wasn’t getting out into the world in all the ways it could—it wasn’t in retail distribution, and physical copies largely only happened via print on demand.
+I also looked into how this game was getting out into the world, because, man, it deserves to go [[far]]. Turns out, it wasn’t getting out into the world in all the ways it could—it wasn’t in retail distribution, and physical copies largely only happened via print on demand.
 
 I wanted to help bring *Monster of the Week* to a broader audience, so I asked Michael Sands, the author, if he’d be interested in partnering with Evil Hat to get the game out to retail. Michael was on board with the idea. And he had a few revisions in mind, too. And I had some ideas about improving the layout and increasing the amount of art ... and several months later you’re reading the result: a game that’s as great as it ever was, and better in some ways than ever before.
 

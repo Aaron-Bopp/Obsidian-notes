@@ -24,24 +24,10 @@ note-type:
 
 **Status**:: #EVER/GREEN/GROWING  
 
-**Related-Topics**:: 
+**Topics**::   
 	
-**Sub-Topics**::
-	
-**References**
 
-# Dataviews 
-## Evergreen Notes related to [[20th Century America]]
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and [[20th Century America]] and -"ContentNotes"
-WHERE file.name != "QUICKNOTE"
-SORT Status
-```
-## Content Notes related to [[20th Century America]]
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and [[20th Century America]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE"
-SORT Status
-```
+
+### <hr class="dataviews"/>
+
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})

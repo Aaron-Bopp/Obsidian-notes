@@ -10,8 +10,11 @@ bib:
 ---
 
 ###### [[videoScarra Drk Interview]]
-**Related-Topics**:: 
+
+**Topics**::  
+
 **Source**::[What do you see in the mirror, Scarra? | Dr. K Interviews](https://www.youtube.com/watch?v=nB8g3n10_Z8)
+
 **Last Edited**:: *`=this.file.mtime`*
 
 - #TO/EXPLORE/RESEARCH cognitive empathy

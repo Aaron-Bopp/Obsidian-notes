@@ -22,10 +22,10 @@ Author:: [[Andy Matuschak]]
 
 ---
 
-**Related-Topics**:: [[personal knowledge management]], [[second brain]], [[Zettlekassen]]
-	
-**Sub-Topics**:: [[note writing]]
-	
+**Topic**:: [[personal knowledge management]]
+
+**Topics**::  [[second brain]], [[Zettlekassen]], [[note writing]]
+
 **Outline**::
 
 --- 

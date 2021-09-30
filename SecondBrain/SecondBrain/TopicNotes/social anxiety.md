@@ -8,12 +8,13 @@ aliases:
 related-topics: [[anxiety]]
 ---
  
-##### `=this.file.link` `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[social anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Status**:: #EVER/SEED
 
 **Last Edited**:: *`=this.file.mtime`*
-##### `=this.file.link` `=length(this.file.inlinks)` 
+
+##### [[social anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Symptoms
 	- lack of [[self-worth]]
 	- Acutely aware of [[social discomfort]]
@@ -32,20 +33,4 @@ related-topics: [[anxiety]]
 
 ### <hr class="dataviews"/>
 
-#### Linked notes not in the outline
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"  and [[social anxiety]]
-WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "social anxiety" and !contains([[social anxiety]].file.outlinks, link(file.name))
-SORT Status
-```
-
-#### Content Notes related to this topic
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM [[social anxiety]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "social anxiety" and !contains([[social anxiety]].file.outlinks, link(file.name))
-SORT Status
-```
-
-### References
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

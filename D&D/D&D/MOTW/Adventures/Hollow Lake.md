@@ -4,11 +4,11 @@ Hollow Lake
 
 # Concept
 
-![[image130.png]]For over 70 years, Katsuko Tanigawa had a deal with a kappa, a Japanese water spirit. She continued this practice after leaving Japan and moving in with her daughter’s family upon her husband’s death. The entity—bound by contract—relocated with her and now resides in the lake close to the edge of the family’s property.
+![[image130.png]]For over 70 years, Katsuko Tanigawa had a deal with a kappa, a Japanese water spirit. She continued this practice after leaving Japan and moving in with her daughter’s family upon her husband’s death. The entity—bound by contract—relocated with her and now resides in the lake [[close]] to the edge of the family’s property.
 
-Katsuko never told anyone. Her daughter Emiko assumed the small suitengu shrine her mother asked to have built on the lake’s edge was simply a way to help deal with culture shock. Since Katsuko’s death late last year, no one is leaving offerings for the kappa and it has gone back to procuring its favorite food: human livers.
+Katsuko never told anyone. Her daughter Emiko assumed the [[small]] suitengu shrine her mother asked to have built on the lake’s edge was simply a way to help deal with culture shock. Since Katsuko’s death late last year, no one is leaving offerings for the kappa and it has gone back to procuring its favorite food: human livers.
 
-This mystery takes place in an affluent suburb. Most of the residents have jobs in the nearby city, and the whole community is well-off. The town is built around a large lake, with almost every property having some kind of lakefront access. Many families live here year round, though some houses are summer homes and others are expensive rental properties. The town gets bigger during the summer holidays, though residents and renters tend not to mingle.
+This mystery takes place in an affluent suburb. Most of the residents have jobs in the nearby city, and the whole community is well-off. The town is built around a large lake, with almost every property having some kind of lakefront access. [[Many]] families live here year round, though some houses are summer homes and others are expensive rental properties. The town gets bigger during the summer holidays, though residents and renters tend not to mingle.
 
 # Hook
 
@@ -16,7 +16,7 @@ This mystery takes place in an affluent suburb. Most of the residents have jobs 
 
 # Countdown
 
-<table><colgroup><col style="width: 22%" /><col style="width: 77%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>The lake committee notices an unexplained decrease in the fish population.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>A committee member mysteriously drowns while on the lake performing tests.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>News gets out that the victims have been strangled and are missing organs; state police starts investigating.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Two more bodies turn up in the lake, one a police officer, the other Takahiro Mickleson. The town panics.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>A house is broken into. The whole family later found drowned in the lake.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td>A second family is drowned and people start moving away from the area; within a year, the town is empty.</td></tr></tbody></table>
+<table><colgroup><col style="width: 22%" /><col style="width: 77%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>The lake committee notices an unexplained decrease in the fish population.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>A committee member mysteriously drowns while on the lake performing tests.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>News gets out that the victims have been strangled and are missing organs; state police starts investigating.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Two more bodies turn up in the lake, one a police officer, the other Takahiro Mickleson. The town panics.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>A house is broken into. The whole family later found drowned in the lake.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td>A second family is drowned and people start moving away from the [[area]]; within a year, the town is empty.</td></tr></tbody></table>
 
 # The Kappa
 
@@ -32,7 +32,7 @@ Kappa are short, ugly goblins with scaled skin, webbed hands and feet, and a thi
 
 **Custom Move:**
 
-**Wrestling Grab**: When you’re grabbed by a kappa, roll [[+Tough]]:
+**Wrestling Grab**: When you’re grabbed by a kappa, roll +[[Tough]]:
 
 -   On a 10+, choose two two of the following options.
 
@@ -48,9 +48,9 @@ Grabbed by kappa options:
 
 -   Your arms are free.
 
-**Attacks:** **Webbed claws** 2-[[harm]] hand quick. **Beaked mouth** 2-[[harm]] intimate messy. **Strangle** (only used on people the creature has already **wrestling grabbed**) 4-[[harm]] intimate ignore-[[armour]].
+**Attacks:** **Webbed claws** 2-[[harm]] [[hand]] [[quick]]. **Beaked mouth** 2-[[harm]] [[intimate]] [[messy]]. **Strangle** (only used on people the creature has already **wrestling grabbed**) 4-[[harm]] [[intimate]] [[ignore-armour]].
 
-**[[Armour]]:** **Rock-hard shell:** 4-[[armour]]. Kappa can extend and retract both their limbs and head into their shells instantly; getting past the shell means catching them completely unaware, targeting a soft spot, or using some kind of magic.
+**[[Armour]]:** **Rock-hard shell:** 4-[[armour]]. Kappa can extend and retract both their limbs and head into their shells instantly; getting past the shell means catching them completely unaware, targeting a soft spot, or using some kind of [[magic]].
 
 **[[Harm]] Capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -64,9 +64,9 @@ Grabbed by kappa options:
 
 *Location: Den (motivation: to harbor [[monsters]])*
 
-Fed by an underground spring, the lake is cold, murky, and deep. It’s large enough for small, single-engine watercraft, and most families have a rowboat or a canoe. A committee monitors the chemistry of the water and the health of the local wildlife, especially the fish population.
+Fed by an underground spring, the lake is cold, murky, and deep. It’s large enough for [[small]], single-engine watercraft, and most families have a rowboat or a canoe. A committee monitors the chemistry of the water and the health of the local wildlife, especially the fish population.
 
-The kappa is most active after dark, when it circles the lake looking for prey. If no one is in the water, it either wades ashore or lures people close enough to ambush by pretending to be a drowning child. Its lair is a small, submerged chamber at the end of a short tunnel exiting under a large, flat rock close to the Miklesons’ shoreline. Finding the monster while it’s in the lake will require a lot of preparation or substantial magic—or both.
+The kappa is most active after dark, when it circles the lake looking for prey. If no one is in the water, it either wades ashore or lures people [[close]] enough to ambush by pretending to be a drowning child. Its lair is a [[small]], submerged chamber at the end of a short tunnel exiting under a large, flat rock [[close]] to the Miklesons’ shoreline. Finding the monster while it’s in the lake will require a lot of preparation or substantial [[magic]]—or both.
 
 # Emiko and Peter Mikleson
 
@@ -86,9 +86,9 @@ If he’s told what’s going on, he’ll assume the kappa is somehow responsibl
 
 *Bystander: Witness (motivation: to reveal information)*
 
-Despite Katsuko having died late last year, it is possible for [[the hunters]] to talk with her, perhaps with magic.
+Despite Katsuko having died late last year, it is possible for [[the hunters]] to talk with her, perhaps with [[magic]].
 
-Katsuko was born in 1923 in Saga Prefecture, a small rural area on the northwestern edge of Kyushu. Walking home from high school one night, she was trapped by the kappa. Remembering the stories her mother told her, Katsuko politely challenged the creature to a sumo match, which it had to accept. She tricked it into bowing, forcing it to agree to a deal: she’d leave it a cucumber twice a year and it would leave the people in her town alone.
+Katsuko was born in 1923 in Saga Prefecture, a [[small]] rural [[area]] on the northwestern edge of Kyushu. Walking home from high school one night, she was trapped by the kappa. Remembering the stories her mother told her, Katsuko politely challenged the creature to a sumo match, which it had to accept. She tricked it into bowing, forcing it to agree to a deal: she’d leave it a cucumber twice a year and it would leave the people in her town alone.
 
 The best places to contact Katsuko are near the butsudan (the family altar) in the Miklesons’ home, or at the suitengu shrine near the shore.
 

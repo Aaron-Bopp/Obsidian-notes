@@ -4,9 +4,11 @@ note-type:
 - organizational-note
 aliases:
 - 
-embedded:
-- 
 ---
+
+```ActivityHistory
+SecondBrain/TopicNotes
+```
 
 ```dataviewjs
 const thisFile = dv.pages().where(f => f.file.path == 'SecondBrain/INDEX.md')[0]

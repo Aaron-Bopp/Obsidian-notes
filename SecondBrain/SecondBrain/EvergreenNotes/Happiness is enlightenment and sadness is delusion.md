@@ -6,15 +6,12 @@ note-type:
 
 ---
 
-###### [[Happiness is enlightenment and sadness is delusion]] `=length([[Happiness is enlightenment and sadness is delusion]].file.inlinks) + length([[Happiness is enlightenment and sadness is delusion]].file.outlinks)`
+#### [[Happiness is enlightenment and sadness is delusion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 ---
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related-Topics**:: [[self-love]], [[self-hate]], [[childhood trauma]], [[There aren't any downsides to working through trauma]]
+**Topics**::  [[self-love]], [[self-hate]], [[childhood trauma]], [[There aren't any downsides to working through trauma]] 
 	
-**Sub-Topics**::
-	
-**References**

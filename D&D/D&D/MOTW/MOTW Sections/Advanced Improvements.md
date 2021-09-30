@@ -33,9 +33,9 @@ Your hunter retires to a safe place. They no longer actively hunt [[monsters]], 
 
 Give your hunter to [[the Keeper]] to look after from now on. They are safe from [[the Keeper]]’s threats, and never count as a threat themselves. Your retired hunter might, at your and [[the Keeper]]’s discretion, count as an ally for the other hunters.
 
-**ERASE ONE USED LUCK MARK**
+**ERASE ONE USED [[LUCK]] MARK**
 
-Erase a used Luck mark from your sheet. You have bought some time before Fate comes for you.
+Erase a used [[Luck]] mark from your sheet. You have bought some time before Fate comes for you.
 
 **MARK TWO OF YOUR BASIC [[MOVES]] AS ADVANCED**
 

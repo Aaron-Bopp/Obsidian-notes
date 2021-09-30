@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
-##### [[Acting Bio]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Acting Bio]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Name: Aaron Bopp
 Class/Major: Senior, B.S. Computer Science
@@ -18,6 +18,6 @@ Aaron is excited to make his return to Northwest Theatre after a year of unprodu
 
 **Status**:: #EVER/GREEN 
 
-**Related Topics**:: [[Theater]]
+**Topics**::  [[Theater]]
 	
 **Last Edited**:: *`=this.file.mtime`*

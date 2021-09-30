@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Hope is always worth fighting for]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Hope is always worth fighting for]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -14,6 +14,6 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*

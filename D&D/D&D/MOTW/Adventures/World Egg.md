@@ -4,9 +4,9 @@ World Egg
 
 # Introduction
 
-![[image156.png]]Lea Drittore, an occult scientist, discovered how to create ‘World Eggs.’ These are mystical gems that [[feed]] on auras in their surroundings and then hatch into pocket dimensions inhabited by golems.
+![[image156.png]]Lea Drittore, an occult scientist, discovered how to create ‘World Eggs.’ These are mystical gems that [[Feed]] on auras in their surroundings and then hatch into pocket dimensions inhabited by golems.
 
-In her lab, Drittore only managed to create worlds that echo herself and the sterile environment, so she submitted an Egg to a local gem fair. She wants it to be bought and to experience the auras of many different people and places. Then she’ll get it back and explore the rich, complex artificial world that results: the ultimate goal of her research.
+In her lab, Drittore only managed to create worlds that echo herself and the sterile environment, so she submitted an Egg to a local gem fair. She wants it to be bought and to experience the auras of [[many]] different people and places. Then she’ll get it back and explore the rich, complex artificial world that results: the ultimate goal of her research.
 
 # Hooks
 
@@ -28,13 +28,13 @@ Potential leads include:
 
 # Countdown
 
-<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>Andreo, a thief, steals the Egg from the fair. He thinks it’s just a curious and valuable gemstone.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td><blockquote><p>Maurizia, a fence, senses the Egg’s power and buys it from Andreo. Lea learns of the theft and starts looking for the Egg.</p></blockquote></td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>One of the golems learns Drittore’s plan, escapes, causes a ruckus at the fair, and then robs Maurizia of the Egg.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>The runaway golem tells other golems about how their dimensions were made. They confront Lea about keeping them in the dark.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td><blockquote><p>The argument with Lea escalates into a fight just as Andreo and Maurizia sneak into her lab to steal more gems.</p></blockquote></td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>The Egg gets prematurely destroyed during a fight and creates a Voidmouth: a slowly expanding black hole.</p></blockquote></td></tr></tbody></table>
+<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>Andreo, a thief, steals the Egg from the fair. He thinks it’s just a curious and [[valuable]] gemstone.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td><blockquote><p>Maurizia, a fence, senses the Egg’s power and buys it from Andreo. Lea learns of the theft and starts looking for the Egg.</p></blockquote></td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>One of the golems learns Drittore’s plan, escapes, causes a ruckus at the fair, and then robs Maurizia of the Egg.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>The runaway golem tells other golems about how their dimensions were made. They confront Lea about keeping them in the dark.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td><blockquote><p>The argument with Lea escalates into a fight just as Andreo and Maurizia sneak into her lab to steal more gems.</p></blockquote></td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>The Egg gets prematurely destroyed during a fight and creates a Voidmouth: a slowly expanding black hole.</p></blockquote></td></tr></tbody></table>
 
 # The Unhatched Egg
 
 *Phenomenon: Experiment (motivation: to unleash dangers)*
 
-The World Egg is [[sensitive]] to everything around it. It reads auras and compiles the data into a pocket dimension. After a month or so it
+The World Egg is [[Sensitive]] to everything around it. It reads auras and compiles the data into a pocket dimension. After a month or so it
 
 ‘hatches’ by bursting into an immobile portal about the size of a typical door: a rip in our reality leading into the newborn world. The portal is visible in our world but usually not from inside the pocket dimension.
 
@@ -42,7 +42,7 @@ The more auras the Egg reads, the bigger and more complex a world it creates. Su
 
 ![[image157.jpg]]The Egg is resistant to accidental damage but if hit really hard (3-[[harm]] in a single strike) it breaks and hatches prematurely into a Voidmouth: an occult black hole that first swallows everything nearby and then gradually pulls more distant objects into itself, annihilating them. It would need about a month to swallow an entire city.
 
-Sealing a Voidmouth requires a **[[big magic]]** ritual with the following requirements:
+Sealing a Voidmouth requires a **[[Big Magic]]** ritual with the following requirements:
 
 -   Three or more participants.
 
@@ -60,13 +60,13 @@ Lea has spent her entire life researching Kabbalah, demonology, and quantum phys
 
 -   **Teleport**: She can get to any place within a few miles that is not specifically warded. Teleporting normally takes a few seconds. She can do it instantly (to avoid [[harm]]) but then she ends up stunned and unable to teleport for about a minute.
 
--   **Occult Science**: She has many strange devices that bend space and manipulate distances.
+-   **Occult Science**: She has [[many]] strange devices that bend space and manipulate distances.
 
-**Attacks:** **Heighten gravity** 2-[[harm]] far area forceful ignore-[[armour]].
+**Attacks:** **Heighten gravity** 2-[[harm]] [[far]] [[area]] [[forceful]] [[ignore-armour]].
 
 **[[Harm]] capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
-**Weakness:** Pocket dimensions: Her power to **teleport** doesn’t work in dimensions created by World Eggs or in other places where space is disrupted. Hunters can create such disruptions with **[[big magic]]**.
+**Weakness:** Pocket dimensions: Her power to **teleport** doesn’t work in dimensions created by World Eggs or in other places where space is disrupted. Hunters can create such disruptions with **[[Big Magic]]**.
 
 # Lea's Lab
 
@@ -90,7 +90,7 @@ These are humanoid animate objects from the pocket worlds. Most look like people
 
 -   Power-hungry.
 
-Most of the golems don’t know about the world beyond their dimensions and will be very angry at Lea for keeping them in the dark about it. **Attacks:** **Slam** 3-[[harm]] hand messy.
+Most of the golems don’t know about the world beyond their dimensions and will be very angry at Lea for keeping them in the dark about it. **Attacks:** **Slam** 3-[[harm]] [[hand]] [[messy]].
 
 **[[Harm]] capacity:** 8. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **[[Armour]]:** 2. Made of minerals.
 
@@ -100,7 +100,7 @@ Most of the golems don’t know about the world beyond their dimensions and will
 
 This golem is both curious and power-hungry. It knows about the outside world and wants to use the Egg to hatch a pocket dimension within another one, believing this will create a portal between all the worlds Lea has made and allow him to unite all golems under his rule. This golem looks like a bulky, short man made of glass lenses and steel beams. It has no name but will gladly accept one if someone suggests something.
 
-**Attacks:** **Slam** 3-[[harm]] hand messy. **Stolen gravity gun** 2-[[harm]] close area forceful ignore-[[armour]].
+**Attacks:** **Slam** 3-[[harm]] [[hand]] [[messy]]. **Stolen gravity gun** 2-[[harm]] [[close]] [[area]] [[forceful]] [[ignore-armour]].
 
 **[[Harm]] capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **[[Armour]]:** 2. Made of minerals.
 
@@ -108,7 +108,7 @@ This golem is both curious and power-hungry. It knows about the outside world an
 
 *Location: Wilds (motivation: to contain hidden things)*
 
-The portals to the pocket dimensions are in a small room called the Hatchery. By stepping through one of the portals you can find yourself in:
+The portals to the pocket dimensions are in a [[small]] room called the Hatchery. By stepping through one of the portals you can find yourself in:
 
 -   A giant fluid iron sigil floating in the void. Its golem inhabitants change their behaviour when the sigil changes.
 
@@ -124,7 +124,7 @@ The portals to the pocket dimensions are in a small room called the Hatchery. By
 
 *Bystander: Victim (motivation: to put himself in danger)*
 
-A thief, sly and streetwise, but clueless about the supernatural. He had been casing Lea’s house. Sometimes shows his loot to Maurizia. **Attacks:** **Knife** 1-[[harm]] hand.
+A thief, sly and streetwise, but clueless about the supernatural. He had been casing Lea’s house. Sometimes shows his loot to Maurizia. **Attacks:** **Knife** 1-[[harm]] [[hand]].
 
 **[[Harm]] capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -134,15 +134,15 @@ A thief, sly and streetwise, but clueless about the supernatural. He had been ca
 
 A fence with a sense of the supernatural, she earns a living by buying seemingly worthless trinkets with occult power and selling them to those in the know.
 
-**Attacks:** **Thin, runed stiletto** 1-[[harm]] hand magic.
+**Attacks:** **Thin, runed stiletto** 1-[[harm]] [[hand]] [[magic]].
 
 **[[Harm]] capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
 # Aftermath
 
-After so much fighting over it, the Egg from this mystery will probably hatch into a violent world full of conflict between sly and brutal lifeforms inspired by thieves and golems. It still has about two weeks until it hatches, however—so [[the hunters]] might expose it to peaceful stimuli and make it less dangerous. If they do so, the new-born dimension can become a Haven for the entire party with two or three traits determined by what has happened to the Egg.
+After so much fighting over it, the Egg from this mystery will probably hatch into a violent world full of conflict between sly and brutal lifeforms inspired by thieves and golems. It still has about two weeks until it hatches, however—so [[the hunters]] might expose it to peaceful stimuli and make it less dangerous. If they do so, the new-born dimension can become a [[Haven]] for the entire party with two or three traits determined by what has happened to the Egg.
 
-On the other hand, if a Voidmouth is born, there might be a hellish dimension on the other side of it just as some scientists speculate that black holes can be used for hyperspace travelling. All manner of [[monsters]], occultists and fringe scientists can be willing to explore the Voidmouth, making it hard for [[the hunters]] to seal it.
+On the other [[hand]], if a Voidmouth is born, there might be a hellish dimension on the other side of it just as some scientists speculate that black holes can be used for hyperspace travelling. All manner of [[monsters]], occultists and fringe scientists can be willing to explore the Voidmouth, making it hard for [[the hunters]] to seal it.
 
 **Bits and Mortar provides PDFs for purchases of games by participating publishers.**
 

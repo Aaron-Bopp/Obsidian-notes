@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[The bible is god breathed]]
+#### [[The bible is god breathed]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is a belief held by protestant and [[Evangelicalism | evangelical]] church's. It holds a lot of power, and if you attempt to point out the way that it has warped [[Christianity]] you will recieve a lot of backlash. 
 
@@ -18,8 +18,5 @@ It's a big part of the reason why I think [[The biblical christian God is evil a
 
 **Status**:: #EVER/SPROUT/CULTIVATE   
 
-**Related-Topics**:: 
+**Topics**::   
 	
-**Sub-Topics**::
-	
-**References**

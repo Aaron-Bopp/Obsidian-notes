@@ -11,7 +11,9 @@ bib:
 ---
 
 ###### [[Contrapoints-Envy]]
-**Related-Topics**:: [[envy]], [[Happiness]], [[human experience]], [[morality]], [[resentment]], [[Revolution]]
+
+**Topics**::  [[envy]], [[Happiness]], [[human experience]], [[morality]], [[resentment]], [[Revolution]]
+
 **Last Edited**:: *`=this.file.mtime`*
 
 [^1]: aalksflkasjlf;kjasd

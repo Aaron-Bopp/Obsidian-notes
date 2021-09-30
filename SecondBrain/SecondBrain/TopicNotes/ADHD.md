@@ -12,7 +12,8 @@ parent: [[mental health]]
 ###### [[ADHD]]
 
 **Status**:: #EVER/SPROUT 
-###### [[ADHD]] `=length([[ADHD]].file.inlinks)` 
+
+##### [[ADHD]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Symptoms
 	- [[Rejection Sensitivity]]
 	- [[Emotional Deregulation]]
@@ -20,20 +21,9 @@ parent: [[mental health]]
 - Coping mechanisms
 	- [[Tips for concentration]]
 
-## Evergreen Notes
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"  and [[ADHD]]
-WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "ADHD" and !contains([[ADHD]].file.outlinks, link(file.name))
-SORT Status
-```
-## Content Notes
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM [[ADHD]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "ADHD" and !contains([[ADHD]].file.outlinks, link(file.name))
-SORT Status
-```
 
-## References
+### <hr class="dataviews"/>
+
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})
+
 

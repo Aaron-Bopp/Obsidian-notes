@@ -6,12 +6,15 @@ note-type:
 aliases:
 ---
  
-##### `=this.file.link` `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Deconstruction (Christianity)]] `$=customJS.dv_funcs.topicHeader(dv)`
 
 **Status**:: #EVER/SEED
+
 **Parent-Topics**:: [[Christianity]]
+
 **Last Edited**:: *`=this.file.mtime`*
-##### `=this.file.link` `=length(this.file.inlinks)` 
+
+##### [[Deconstruction (Christianity)]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[My Deconstruction journey]] `=length([[My Deconstruction journey]].file.inlinks) + length([[My Deconstruction journey]].file.outlinks)`
 	- [[My relationship with my parents]]
 		- [[In order to for my parents to love me, they need to admit they might be wrong]]

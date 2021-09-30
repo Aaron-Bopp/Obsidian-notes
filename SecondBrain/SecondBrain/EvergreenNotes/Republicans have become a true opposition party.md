@@ -6,14 +6,14 @@ aliases:
 - 
 ---
 
-##### [[Republicans have become a true opposition party]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Republicans have become a true opposition party]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 No [[Republican]] since and including [[Reagan]] has balanced the budget or even reduced the deficit, but they have impeded progress on most everything in the name of it. 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
 
-**Related Topics**:: [[Politics]], [[Republican]]
+**Topics**::  [[Politics]], [[Republican]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

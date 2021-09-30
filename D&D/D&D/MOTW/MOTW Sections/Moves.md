@@ -1,13 +1,13 @@
 
 Moves cover situations when the game rules step in to help you determine what happens. If your hunter wants to do something that any normal person can do, then it just happens. Moves are used to determine what happens in cases where your hunter tries to do:
 
-- something normal people can’t do, such as casting a magic spell
+- something normal people can’t do, such as casting a [[magic]] spell
 - something dangerous, such as getting into a fight with a monster
 - something that’s more exciting if we don’t just decide the outcome on our own. For example, seeing if your hunter’s lie to a monster-attack victim has any repercussions.
 
 Each move is triggered when a particular situation happens in the game. Look at when the move says it happens, and follow the instructions when you do it.
 
-*For example, you need to use the move **[[protect someone]]** to save another hunter from a bone puppet’s attack. The move says **when you [[Protect Someone]]** from [[harm]], roll [[+Cool]], so you roll the dice and get a two and a five. That’s seven, plus your hunter has Cool +1 for a total of eight. The move’s instructions say that on a 7-9, you protect the target okay but you may suffer some or all of the [[harm]] instead.*
+*For example, you need to use the move **[[Protect Someone]]** to save another hunter from a bone puppet’s attack. The move says **when you [[Protect Someone]]** from [[harm]], roll +[[Cool]], so you roll the dice and get a two and a five. That’s seven, plus your hunter has [[Cool]] +1 for a total of eight. The move’s instructions say that on a 7-9, you protect the target okay but you may suffer some or all of the [[harm]] instead.*
 
 After you’ve recognised the move’s trigger, it will tell you want to do next. Moves can:
 
@@ -30,11 +30,11 @@ In circumstances where a normal person couldn’t do what you want to do, or the
 
 Here are some [[examples]]:
 
-*Archer is checking out the site of a monster attack. There’s blood and guts all over the place, and police have walked in and out of the area. Archer starts trying to track where the monster went after the attack. When she makes the* ***[[investigate a mystery]]*** *move, what does she discover?*
+*Archer is checking out the site of a monster attack. There’s blood and guts all over the place, and police have walked in and out of the [[area]]. Archer starts trying to track where the monster went after the attack. When she makes the* ***[[Investigate A Mystery]]*** *move, what does she discover?*
 
-*Chris realises that a ghul is sneaking up on him, so he gets out his sawn-off shotgun and blasts it in the face as it leaps for him. Does Chris get hurt? He makes the **[[kick some ass]]** move to find out how bad his injuries are and what happens to the ghul.*
+*Chris realises that a ghul is sneaking up on him, so he gets out his sawn-off shotgun and blasts it in the face as it leaps for him. Does Chris get hurt? He makes the **[[Kick Some Ass]]** move to find out how bad his injuries are and what happens to the ghul.*
 
-*A roof-beam comes down on Ted as a giant spider smashes through the wall and scampers to freedom. Ted’s partner, Rainer, grabs a chair and tries to wedge the beam so there’s room for Ted to escape. Does she succeed? How badly is Ted hurt? Is he trapped? She needs to make the **[[act under pressure]]** move to find out.*
+*A roof-beam comes down on Ted as a giant spider smashes through the wall and scampers to freedom. Ted’s partner, Rainer, grabs a chair and tries to wedge the beam so there’s room for Ted to escape. Does she succeed? How badly is Ted hurt? Is he trapped? She needs to make the **[[Act Under Pressure]]** move to find out.*
 
 [[You Have To Make The Move]]
 
@@ -49,9 +49,9 @@ For [[the hunters]], their moves cover specific cases. Hunter moves say that whe
 
 This is important: when you (or [[the hunters]]) make any move, you must describe how it happens.
 
-[[Always say]] what is happening in the game, not just the rules side of things. Don’t tell someone “roll **[[act under pressure]]**!” tell them “the warlock’s gaze insinuates itself into your mind and as it hisses, ‘Kill your comrades,’ you feel an overwhelming urge to comply. What do you do?”
+[[Always say]] what is happening in the game, not just the rules side of things. Don’t tell someone “roll **[[Act Under Pressure]]**!” tell them “the warlock’s gaze insinuates itself into your mind and as it hisses, ‘Kill your comrades,’ you feel an overwhelming urge to comply. What do you do?”
 
-There’s a flip-side to this as well. When one of [[the hunters]] is doing something that is a move, make sure they follow the rules for that move. For example, if someone says “I go up to the park ranger and ask her ‘Did you see anything weird last Sunday night?’” then you should ask them to roll the **investigate** move before you decide how the ranger answers.
+There’s a flip-side to this as well. When one of [[the hunters]] is doing something that is a move, make sure they follow the rules for that move. For example, if someone says “I go up to the park ranger and ask her ‘Did you see anything [[Weird]] last Sunday night?’” then you should ask them to roll the **investigate** move before you decide how the ranger answers.
 
 See [[The Basic Keeper Moves]]
 

@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Choosing a note writing system]]
+#### [[Choosing a note writing system]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Obsidian (software)]]
 [[Why note storage is important]]
@@ -15,8 +15,5 @@ note-type:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related-Topics**:: 
+**Topics**::   
 	
-**Sub-Topics**::
-	
-**References**

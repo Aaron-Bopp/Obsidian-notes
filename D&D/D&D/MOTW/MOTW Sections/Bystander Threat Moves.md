@@ -13,7 +13,7 @@
 
 **USING [[BYSTANDERS]]**
 
-[[Bystanders]] don’t normally intend to cause trouble for [[the hunters]], but they do so anyway. Think of each bystander as a person who wants one simple thing (which is represented by their motivation). A **victim** might want to just stay in his apartment, whatever [[the hunters]] say is coming. An **official** might just want to finish the paperwork and be done with this case, without dealing with any crazy hunters.
+[[Bystanders]] don’t normally intend to cause trouble for [[the hunters]], but they do so anyway. Think of each bystander as a person who wants one simple thing (which is represented by their motivation). A **victim** might want to just stay in his apartment, [[whatever]] [[the hunters]] say is coming. An **official** might just want to finish the paperwork and be done with this case, without dealing with any crazy hunters.
 
 When thinking about bystander [[moves]], consider the bystander’s motivation, and what dumb thing they could do that will lead to trouble for [[the hunters]]. What can the bystander complicate for [[the hunters]]? How can they get in the way? This applies even when the bystander helps [[the hunters]]: this will give [[the hunters]] extra problems, starting with keeping the helper alive.
 

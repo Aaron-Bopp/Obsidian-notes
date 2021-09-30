@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Trans people will look for any other solution than being trans]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Trans people will look for any other solution than being trans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Because [[Gender Dysphoria can take many forms]] and [[Gender is both an intrinsic experience and an necessary expression]], many trans people will recognize the effects of [[gender dysphoria]] before they recognize the cause. [[Gender has a scientific basis]] and [[Mental illness is a reaction to your physical and chemical environment]], so often there will be many comorbid [[mental disorders]] that can be treated, when your transness and the chemical imbalances in your brain are the root cause. 
 
@@ -18,6 +18,6 @@ Once you discover and accept yourself as trans, a lot of the seemingly inexplica
 
 **Status**:: #EVER/GREEN/GROWING 
 
-**Related Topics**:: [[transgender]], [[mental disorders]], [[human survival]], [[self-actualization]]
+**Topics**::  [[transgender]], [[mental disorders]], [[human survival]], [[self-actualization]]
 	
 **Last Edited**:: *`=this.file.mtime`*

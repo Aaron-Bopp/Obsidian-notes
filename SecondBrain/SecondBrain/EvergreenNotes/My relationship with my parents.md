@@ -7,7 +7,7 @@ note-type:
 
 ---
 
-###### [[My relationship with my parents]]
+#### [[My relationship with my parents]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 My relationship with [[my parents]] is rocky at best. I think that I broke my dad a little bit when I told him I wasn't a [[Christianity|christian]] anymore. It was the most hateful I had ever seen him, but I know that a lot of it is because of the grief of his dad's death that I don't think he's ever been able to work through. He really needs therapy... 
 
@@ -21,6 +21,6 @@ I think at a certain point you can't teach an old dog new tricks. It's kind of h
 
 **Parent**:: [[my parents]]
 
-**Related-Topics**:: [[self-love]], [[self-validation]], [[self-hate]], [[love]], [[unconditional love]], [[my emotions]]
+**Topics**::  [[self-love]], [[self-validation]], [[self-hate]], [[love]], [[unconditional love]], [[my emotions]]
 
 **Last Edited**:: *`=this.file.mtime`*

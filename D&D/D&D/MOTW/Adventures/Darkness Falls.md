@@ -4,11 +4,11 @@ Darkness Falls
 
 # Concept
 
-A young couple realise a rash of brutal murders are connected to their young daughter, so they dip a toe into the paranormal to keep their small town safe. Their rituals keep the sadistic ghost Madame Koshmar at bay but have unintended and deadly side effects for motorists just out of town.
+A young couple realise a rash of brutal murders are connected to their young daughter, so they dip a toe into the paranormal to keep their [[small]] town safe. Their rituals keep the sadistic ghost Madame Koshmar at bay but have unintended and deadly side effects for motorists just out of town.
 
 # Hook
 
-Several cars crashed last night. They were discovered on the edge of the highway, close to a small rural town. It was a group of students on a road trip to a nearby festival. The crash is being treated as simple driver fatigue, but three cars at once? That seems odd.
+Several cars crashed last night. They were discovered on the edge of the highway, [[close]] to a [[small]] rural town. It was a group of students on a road trip to a nearby festival. The crash is being treated as simple driver fatigue, but three cars at once? That seems odd.
 
 # Countdown
 
@@ -30,7 +30,7 @@ The Delanos are loving parents who will do anything for their child.
 
 *Bystander: Victim (motivation: to put herself in danger)*
 
-As a baby, Nika was the sole survivor of a brutal knife attack in an orphanage in rural Russia. She is a quiet child, currently bonded more to Madame Koshmar than to her parents. And she knows not to discuss the dark lady she sees. Many believe Nika has a rare medical condition— this is an excuse for the band-aid on her arm from the blood Kristina collects to carry out the ritual.
+As a baby, Nika was the sole survivor of a brutal knife attack in an orphanage in rural Russia. She is a quiet child, currently bonded more to Madame Koshmar than to her parents. And she knows not to discuss the dark lady she sees. [[Many]] believe Nika has a rare medical condition— this is an excuse for the band-aid on her arm from the blood Kristina collects to carry out the ritual.
 
 # Madame Koshmar
 
@@ -42,15 +42,15 @@ If [[the hunters]] attack her before learning about her link to Nika, ensure the
 
 **Powers:**
 
--   **Jinx Electricity**: Madame Koshmar has a hatred for everything electrical— something she sees as being responsible for people staying up past dark. She can shut down any electrical device: it will be unusable by normal means until dawn, or until the jinx is lifted.
+-   **[[Jinx]] Electricity**: Madame Koshmar has a hatred for everything electrical— something she sees as being responsible for people staying up past dark. She can shut down any electrical device: it will be unusable by normal means until dawn, or until the [[Jinx]] is lifted.
 
 -   **Shadow Step**: While in a shadow, Madame Koshmar may disappear in a puff of black smoke before reappearing, in a similar fashion, from another shadow.
 
 -   **Summon Shades**: Madame Koshmar is able to summon her [[minions]] at will from nearby shadows.
 
-**Attacks:** **Long curved dagger** 2-[[harm]] hand. **Shadow blast** 3-[[harm]] close magic ignore-[[armour]].
+**Attacks:** **Long curved dagger** 2-[[harm]] [[hand]]. **Shadow blast** 3-[[harm]] [[close]] [[magic]] [[ignore-armour]].
 
-**[[Armour]]:** 3 magic [[incorporeal]].
+**[[Armour]]:** 3 [[magic]] [[Incorporeal]].
 
 **[[Harm]] Capacity:** 15. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
@@ -68,19 +68,19 @@ If [[the hunters]] attack her before learning about her link to Nika, ensure the
 
 # Shades
 
-*Minion: Right hand (motivation: to support the monster)*
+*Minion: Right [[hand]] (motivation: to support the monster)*
 
 Shades are dark ghostly [[minions]] that Madame Koshmar may summon from nearby shadows. They are the souls of her previous victims— blackened and atrophied from their time under Madame Koshmar’s control. The Shades are capable of following simple commands from Madame Koshmar.
 
 **Powers:**
 
-![[image110.jpg]]• **[[Incorporeal]]**: Unless dispelled with light, Shades will quickly reform without needing to be summoned by Madame Koshmar. **Attacks:** **Pass through person** 1-[[harm]] intimate magic. **Shadow attack** 2-[[harm]] close magic. **[[Armour]]:** None.
+![[image110.jpg]]• **[[Incorporeal]]**: Unless dispelled with light, Shades will quickly reform without needing to be summoned by Madame Koshmar. **Attacks:** **Pass through person** 1-[[harm]] [[intimate]] [[magic]]. **Shadow attack** 2-[[harm]] [[close]] [[magic]]. **[[Armour]]:** None.
 
 **[[Harm]] Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
 
 **Weakness:**
 
-**Light:** Shades can be dispelled by a strong light such as a floodlight or an industrial-strength flashlight. However, in some situations it may be important for a character to **[[act under pressure]]** to successfully focus the light in the right direction.
+**Light:** Shades can be dispelled by a strong light such as a floodlight or an industrial-strength flashlight. However, in some situations it may be important for a character to **[[Act Under Pressure]]** to successfully focus the light in the right direction.
 
 # Tanner's End Chapel
 
@@ -88,19 +88,19 @@ Shades are dark ghostly [[minions]] that Madame Koshmar may summon from nearby s
 
 Each night for the past few years, Kristina Delano has stayed up reciting this chant, while carrying out the ritual in Tanner’s End Chapel.
 
-*“Close your eyes and sleep, my dear. The night is nigh and she draws near. Stalking those who lie awake, with shining blade and long black cape. Swift as breath, she’ll be here soon, through shadows from the waning moon. The night bird calls the hour of rest. Please hush, my child. There’s no time left.”*
+*“[[Close]] your eyes and sleep, my dear. The night is nigh and she draws near. Stalking those who lie awake, with shining blade and long black cape. Swift as breath, she’ll be here soon, through shadows from the waning moon. The night bird calls the hour of rest. Please hush, my child. There’s no time left.”*
 
 Kristina has multiple levels of warding to protect her while she carries out the ritual. These wardings include:
 
 -   A soot circle around the extent of the church property. When crossed, the sound of an owl hoot will alert Kristina to an intruder.
 
--   Rune markings scratched round the entrances and shadowy nooks of the chapel itself. When intruders pass them, a flash of light (4-[[harm]] close magic) will send loose objects flying back.
+-   Rune markings scratched round the entrances and shadowy nooks of the chapel itself. When intruders pass them, a flash of light (4-[[harm]] [[close]] [[magic]]) will send loose objects flying back.
 
--   A protective circle carved into the stone floor: this is hidden underneath a rug during the day. Each night, Kristina reinforces the circle by pouring a small volume of Nika’s blood into the grooves. Madame Koshmar cannot cross this circle unless it is first broken by something else crossing it.
+-   A protective circle carved into the stone floor: this is hidden underneath a rug during the day. Each night, Kristina reinforces the circle by pouring a [[small]] volume of Nika’s blood into the grooves. Madame Koshmar cannot cross this circle unless it is first broken by something else crossing it.
 
-The ritual is a sleep spell intended to encompass the whole city. As the spell spreads out an equal distance from Kristina in all directions, a small portion of rural highway is also affected. This is what has been causing travellers to fall asleep at the wheel. These accidents have been happening since the rituals started. The recent revitalisation of the nearby Robinson township as a cultural hub means the number of victims will keep increasing. In a matter of days, hundreds of music fans will be heading toward Robinson for a music festival.
+The ritual is a sleep spell intended to encompass the whole city. As the spell spreads out an equal distance from Kristina in all directions, a [[small]] portion of rural highway is also affected. This is what has been causing travellers to fall asleep at the wheel. These accidents have been happening since the rituals started. The recent revitalisation of the nearby Robinson township as a cultural hub means the number of victims will keep increasing. In a matter of days, hundreds of music fans will be heading toward Robinson for a music festival.
 
-If [[the hunters]] are inside the circle of the sleep spell’s effect (or enter it) between 9 p.m. and 6 a.m., they will be affected by the spell and fall asleep almost instantly. Your hunters may **[[act under pressure]]** or **[[use magic]]** to resist the effects, but Madame Koshmar has ways of dealing with children up past curfew.
+If [[the hunters]] are inside the circle of the sleep spell’s effect (or enter it) between 9 p.m. and 6 a.m., they will be affected by the spell and fall asleep almost instantly. Your hunters may **[[Act Under Pressure]]** or **[[Use Magic]]** to resist the effects, but Madame Koshmar has ways of dealing with children up past curfew.
 
 # Andrew Withers
 
@@ -112,7 +112,7 @@ If [[the hunters]] are inside the circle of the sleep spell’s effect (or enter
 
 *[[Bystanders]]: Gossips (motivation: to pass on rumours)*
 
-Most people in the town placidly accept their 9 p.m ‘bedtime’ as just the way it is in small-town America. Many are unlikely to respond well to suggestions that anything else is going on.
+Most people in the town placidly accept their 9 p.m ‘bedtime’ as just the way it is in [[small]]-town America. [[Many]] are unlikely to respond well to suggestions that anything else is going on.
 
 The townspeople generally mean well but are unprepared for events such as these.
 

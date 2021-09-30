@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Anxiety should be a tool at your disposal not an impedance to your life]] `=length([[Anxiety should be a tool at your disposal not an impedance to your life]].file.inlinks) + length([[Anxiety should be a tool at your disposal not an impedance to your life]].file.outlinks) - 1`
+#### [[Anxiety should be a tool at your disposal not an impedance to your life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Being paralyzed by your [[anxiety]] is not the desired outcome
 
@@ -14,8 +14,5 @@ Being paralyzed by your [[anxiety]] is not the desired outcome
 
 **Status**:: #EVER/SEED/WATER 
 
-**Related-Topics**:: [[anxiety]], [[mental health]], [[mental disorders]], [[Anxiety isn't irrational it's just overcompensation]], [[social anxiety]]
+**Topics**::  [[anxiety]], [[mental health]], [[mental disorders]], [[Anxiety isn't irrational it's just overcompensation]], [[social anxiety]] 
 	
-**Sub-Topics**::
-	
-**References**

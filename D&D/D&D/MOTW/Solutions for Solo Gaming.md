@@ -14,23 +14,23 @@ This is a more intense and focused experience than standard tabletop groups. Wit
 
 However, being constantly engaged can be daunting for both the player and Keeper. Here’s some play advice to prepare [[the Keeper]] for dealing with the single player format’s pressure and need for concentration.
 
-*Monster of the Week* requires both planning and improvisation, but oddly enough I’ve found that single player requires more planning than traditional gaming. Without the inter-player banter, planning, and problem-solving, you have less time to improvise your way around surprises while delivering a coherent mystery. It is unwise to simply “wing it” in such a situation; it is helpful to have the spine of a good scenario to support your adventure. Here are some other tricks I’ve learned.
+*Monster of the Week* requires both planning and improvisation, but oddly enough I’ve found that single player requires more planning than traditional gaming. Without the inter-player banter, planning, and problem-solving, you have less time to improvise your way around surprises while delivering a coherent mystery. It is unwise to simply “wing it” in such a situation; it is helpful to have the spine of a good scenario to support your adventure. Here are some other tricks I’ve [[learned]].
 
-One of the things that will help a solo player is Luck and a Keeper being less stingy with those valuable Luck points than an ordinary game requires. Michael Sands advises 2-4 Luck points in a convention game.
+One of the things that will help a solo player is [[Luck]] and a Keeper being less stingy with those [[valuable]] [[Luck]] points than an ordinary game requires. Michael Sands advises 2-4 [[Luck]] points in a convention game.
 
 In a solo one-shot game I would generally double that number.
 
-In solo mysteries I often give a player ‘adventure points’ which act exactly like Luck points but expire if not used during the adventure, encouraging their use. This also limits the damage to an [[ongoing]] campaign if I am accidentally overly generous!
+In solo mysteries I often give a player ‘adventure points’ which act exactly like [[Luck]] points but expire if not used during the adventure, encouraging their use. This also limits the damage to an [[ongoing]] campaign if I am accidentally overly generous!
 
 Another trick is to make sure the player has a number of helpful
 
-‘redshirts’. This is a term from Star Trek, where a number of red-shirted lemmings could blunder in front of the monster’s attack and protect our beloved Captain Kirk from (almost) certain doom. Redshirts are useful to have around in any *Monster of the Week* game, but especially in solo play.
+‘redshirts’. This is a term from Star Trek, where a number of red-shirted lemmings could blunder in front of the monster’s attack and protect our beloved Captain Kirk from (almost) certain doom. Redshirts are [[useful]] to have around in any *Monster of the Week* game, but especially in solo play.
 
 Sidekicks need a larger role in solo mysteries to help our lone hero or heroine. Sidekicks also provide opportunities for low-intensity scenes of friendship and camaraderie to momentarily take the pressure off the player (and [[the Keeper]]). Optionally, granting your solo hunter one of the ally/ally team [[moves]] is also a good idea.
 
 This is where having the player work for some sort of organisation
 
-(like [[The Professional]]’s Agency or [[The Initiate]]’s Sect) really becomes useful. The organisation can quickly help by giving the player credentials or resources but can also demand the player’s allegiance in all sorts of unsettling ways. That report on toxins in the murdered victim’s bloodstream might be on its way but it’s also paired with a ‘request’ to help dispose of both a dead body and the klutz who mismanaged the hit. Office politics can just be a killer…
+(like [[The Professional]]’s Agency or [[The Initiate]]’s Sect) really becomes [[useful]]. The organisation can quickly help by giving the player credentials or resources but can also demand the player’s allegiance in all sorts of unsettling ways. That report on toxins in the murdered victim’s bloodstream might be on its way but it’s also paired with a ‘request’ to help dispose of both a dead body and the klutz who mismanaged the hit. Office politics can just be a killer…
 
 If the character is going to work for an organisation, then it is in that organisation’s best interests to outfit their agent with all the sorcerous tattoos, charms, and whatnot to help shore that hunter up where they are weak. For solo hunters, high-quality [[gear]] and a generous amount of magical help should be in order. A magical tattoo that adds 1- or 2-[[armour]] is a good example.
 

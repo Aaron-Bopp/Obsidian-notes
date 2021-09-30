@@ -1,4 +1,4 @@
-- Come up with a cool but uncomplicated *[[basic concept]]* for the monster and mystery.
+- Come up with a [[Cool]] but uncomplicated *[[basic concept]]* for the monster and mystery.
 - Create a *hook*: the clue that caught [[the hunters]]’ attention.
 - Create the *monster*: name, description, type & motivation, then define its powers, weaknesses, attacks, [[armour]], [[harm]] capacity, optionally [[custom moves]].
 - Create the *[[minions]]* (if any): name, description, type & motivation, then define their powers, attacks, [[armour]], [[harm]] capacity, optionally weaknesses and [[custom moves]].

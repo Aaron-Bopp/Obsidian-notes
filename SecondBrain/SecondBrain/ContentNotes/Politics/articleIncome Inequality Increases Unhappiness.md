@@ -11,7 +11,8 @@ bib:
 ---
 
 ###### [[SecondBrain/ContentNotes/Politics/Income Inequality Increases Unhappiness]]
-**Related-Topics**:: 
+
+**Topics**::  
 
 **Last Edited**:: *`=this.file.mtime`*
 
@@ -26,6 +27,7 @@ June 21, 2011 — As high earners earn more, and lower or modest-income people e
   "Essentially, Americans are less happy during periods of greater income inequality," said psychologist Shigehiro Oishi of U.Va.'s [**College of Arts & Sciences**](http://artsandsciences.virginia.edu/home/index.html), lead author of a new study examining the effects of income disparity on happiness. "People are happier when there is more economic equality."
 
 **Listen to the UVA Today Radio Show report on this story by Fariss Samarrai:  
+
 **  
 
   Oishi and his co-authors analyzed data from more than 48,000 people who responded to a major survey – the General Social Survey – conducted almost each year between 1972 and 2008. They found that happiness among Americans remained fairly stable until the 1990s, and then began a measurable drop as income inequality grew.
@@ -48,6 +50,7 @@ June 21, 2011 — As high earners earn more, and lower or modest-income people e
   "Essentially, Americans are less happy during periods of greater income inequality," said psychologist Shigehiro Oishi of U.Va.'s [**College of Arts & Sciences**](http://artsandsciences.virginia.edu/home/index.html), lead author of a new study examining the effects of income disparity on happiness. "People are happier when there is more economic equality."
 
 **Listen to the UVA Today Radio Show report on this story by Fariss Samarrai:  
+
 **  
 
   Oishi and his co-authors analyzed data from more than 48,000 people who responded to a major survey – the General Social Survey – conducted almost each year between 1972 and 2008. They found that happiness among Americans remained fairly stable until the 1990s, and then began a measurable drop as income inequality grew.

@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Sex conists of phenotype genotype and gender]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Sex conists of phenotype genotype and gender]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 > **[Genotype](https://en.wikipedia.org/wiki/Genotype)**: The genetically defined chromosomal kareotype of an organism (XX, XY, [and all variants there of](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
 > **[Phenotype](https://en.wikipedia.org/wiki/Phenotype)**: The observable primary and secondary sexual characteristics (genitals, fat and muscle distribution, bone structure, etc)
@@ -17,6 +17,6 @@ aliases:
 
 **Status**:: #EVER/SEED 
 
-**Related Topics**:: [[Neuroscience]], [[self]], [[gender]], 
+**Topics**::  [[Neuroscience]], [[self]], [[gender]], 
 	
 **Last Edited**:: *`=this.file.mtime`*

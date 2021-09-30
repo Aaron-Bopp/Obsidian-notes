@@ -22,9 +22,7 @@ bib:
 
 ---
 
-**Related-Topics**:: [[nuclear family]], [[consent]], [[modern american culture]]
-	
-**Sub-Topics**::
+**Topics**::  [[nuclear family]], [[consent]], [[modern american culture]] 
 	
 **Outline**::
 

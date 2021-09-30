@@ -13,24 +13,11 @@ aliases:
 
 
 **Status**:: #EVER/SEED
-###### [[self soothing]] `=length([[self soothing]].file.inlinks)` 
+
+##### [[self soothing]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 
 
 
-## Evergreen Notes
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"  and [[self soothing]]
-WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "self soothing" and !contains([[self soothing]].file.outlinks, link(file.name))
-SORT Status
-```
-## Content Notes
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM [[self soothing]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "self soothing" and !contains([[self soothing]].file.outlinks, link(file.name))
-SORT Status
-```
-
-## References
+### <hr class="dataviews"/>
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

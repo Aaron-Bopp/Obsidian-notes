@@ -41,23 +41,23 @@ First, pick the monster’s type. The twelve types (and the motivations that go 
 
 *In my example, Marie O’Connell, a ghost seeking justice, makes a good Executioner with the motivation “to punish the guilty.” To give her a reason to be angry at [[the hunters]], she wants to be properly laid to rest (Damian buried her under the basement floor), and treats anyone who isn’t actively doing that as one of the guilty parties she is punishing.*
 
-Next up, think about the supernatural **powers** the monster possesses. Think about your initial [[inspiration]] for the monster and work out what it can do. There’s no particular level of detail you need for monster powers. Some might be a simple descriptive note, such as “can fly.” For others you might need more detail: note down as much about the power’s effects and limitations as you can think of (this is a custom move for the power: there’s more about them on [[0000915624]]).
+Next up, think about the supernatural **powers** the monster possesses. Think about your initial [[inspiration]] for the monster and work out what it can do. There’s no particular level of detail you need for monster powers. Some might be a simple descriptive note, such as “can fly.” For others you might need more detail: note down as much about the power’s effects and limitations as you can think of (this is a custom move for the power: there’s more about them on 0000915624).
 
-*For powers, Marie has the ability to appear instantly anywhere in the house. And [[telekinesis]] which allows her to throw knives and stuff around, and [[hold]] doors and windows closed.*
+*For powers, Marie has the ability to appear instantly anywhere in the house. And [[Telekinesis]] which allows her to throw knives and stuff around, and [[hold]] doors and windows closed.*
 
-*As she’s only a ghost, a lot of attacks won’t hurt her. Only attacks using rock salt, cold iron, or magic can [[harm]] her at all (I’m drawing [[inspiration]] straight from Supernatural here). This is a power that restricts what attacks can affect her. There’s also a special weakness that a monster has that must be used to kill her for good—that’s addressed below.*
+*As she’s only a ghost, a lot of attacks won’t hurt her. Only attacks using rock salt, cold iron, or [[magic]] can [[harm]] her at all (I’m drawing [[inspiration]] straight from Supernatural here). This is a power that restricts what attacks can affect her. There’s also a special weakness that a monster has that must be used to kill her for good—that’s addressed below.*
 
 Once you know the monster’s powers, it’s time to make a note of its **attacks**. Think about how it hurts and kills, and define an attack for each method. Attacks are described just like hunter [[weapons]]: how much [[harm]] is inflicted, the range of the attack, and any descriptive tags for additional effects. Pick something in the range of 2 to 4 [[harm]] for each attack.
 
-*Marie’s attack uses her telekinetic powers. I describe this as 2 to 4-[[harm]] close (the exact [[harm]] will depend on what she has to work with: the kitchen will be especially dangerous).*
+*Marie’s attack uses her telekinetic powers. I describe this as 2 to 4-[[harm]] [[close]] (the exact [[harm]] will depend on what she has to work with: the kitchen will be especially dangerous).*
 
 Now decide how resilient the monster is.
 
-Decide how many points of **[[harm]]** will kill it. Take seven as your basic minimum (the same as a hunter). Increase it based on how large and robust the monster is. There’s no set maximum, but more than fourteen would be exceptional. Sometimes a monster might be more fragile, too: in those cases, reduce the [[harm]] capacity.
+Decide how [[many]] points of **[[harm]]** will kill it. Take seven as your basic minimum (the same as a hunter). Increase it based on how large and robust the monster is. There’s no set maximum, but more than fourteen would be exceptional. Sometimes a monster might be more fragile, too: in those cases, reduce the [[harm]] capacity.
 
 Secondly decide if it has an **[[armour]]** rating, based on its innate toughness or a power that makes it harder to hurt. 1- or 2- [[armour]] is normal. Higher values make it difficult for [[the hunters]] to hurt the monster, and no [[armour]] makes the monster very vulnerable.
 
-*Marie is an averagely resilient ghost. I’ll set her [[harm]] capacity to seven. But I won’t give her any [[armour]]: her [[incorporeal]] power is enough for [[the hunters]] to deal with.*
+*Marie is an averagely resilient ghost. I’ll set her [[harm]] capacity to seven. But I won’t give her any [[armour]]: her [[Incorporeal]] power is enough for [[the hunters]] to deal with.*
 
 Now think about a **weakness**. All [[monsters]] must have one, and most [[monsters]] have two or three. If the monster’s weakness is not used against it, then [[the hunters]] cannot kill it. Weaknesses come in three main types:
 
@@ -71,7 +71,7 @@ Think about your idea about the monster, and decide what it will have as weaknes
 
 *Marie can be harmed by rock salt, cold iron, or magical attacks but she can’t be killed unless her body is properly buried or destroyed or unless the house is destroyed.*
 
-If you haven’t already worked out what the monster is trying to achieve, give that some thought now. If the initial concept doesn’t suggest a plan, look at the type you have given the monster. Use the motivation as a starting point, and work out what is the *worst* thing that this monster could be planning to do here?
+If you [[haven]]’t already worked out what the monster is trying to achieve, give that some thought now. If the initial concept doesn’t suggest a plan, look at the type you have given the monster. Use the motivation as a starting point, and work out what is the *worst* thing that this monster could be planning to do here?
 
 *Marie is obsessed with being laid to rest properly. She can’t communicate with anyone directly, she’s just going to violently attack them whenever they don’t seem to be helping her. If people persist in not helping, she’s just going to kill them. Because the family have been here longest without helping her, she’ll target them first.*
 
@@ -94,8 +94,8 @@ There are ten minion types:
 - Assassin (motivation: to kill [[the hunters]])
 - Brute (motivation: to intimidate and attack)
 - Cultist (motivation: to save their own skin at any cost)
-- Guardian (motivation: to bar a way or protect something)
-- Right hand (motivation: to back up the monster)
+- [[Guardian]] (motivation: to bar a way or protect something)
+- Right [[hand]] (motivation: to back up the monster)
 - Plague (motivation: to swarm and destroy)
 - Renfield (motivation: to push victims towards the monster)
 - Scout (motivation: to stalk, watch, and report)
@@ -110,9 +110,9 @@ A group of [[minions]] can be defined the same as an individual. Do this if the 
 
 If [[minions]] have [[armour]], they normally have 1-[[armour]], and only rarely 2-[[armour]] or higher.
 
-*There’s no obvious [[minions]] in the situation so far, but I have an idea that Marie has a psychic connection with the rats that live in the house. They’ll make good [[minions]], probably mainly to keep an eye on everyone in the house.*
+*There’s no obvious [[minions]] in the situation so [[far]], but I have an idea that Marie has a psychic connection with the rats that live in the house. They’ll make good [[minions]], probably mainly to keep an eye on everyone in the house.*
 
-*The possessed rats are Scouts (motivation: to stalk, watch, and report). If they attack, they do 1-[[harm]] intimate as a swarm. 10-[[harm]] must be inflicted to disperse the group completely.*
+*The possessed rats are Scouts (motivation: to stalk, watch, and report). If they attack, they do 1-[[harm]] [[intimate]] as a swarm. 10-[[harm]] must be inflicted to disperse the group completely.*
 
 **[[BYSTANDERS]]**
 
@@ -150,7 +150,7 @@ It’s a good idea to include some partially defined [[bystanders]]: just a name
 
 *Now I need to pick which sort of bystander each one is.*
 
-*Mark Hadley is a Skeptic (motivation: to deny supernatural explanations). Having him regard any talk of ghosts or magic as foolishness will give [[the hunters]] something they need to deal with: how do they handle Mark and still get the ghost sorted out?*
+*Mark Hadley is a Skeptic (motivation: to deny supernatural explanations). Having him regard any talk of ghosts or [[magic]] as foolishness will give [[the hunters]] something they need to deal with: how do they handle Mark and still get the ghost sorted out?*
 
 *Andi Hadley is a Witness (motivation: to reveal information). Because I’ve made Mark into someone difficult, I’ll make Andi helpful. At least, that will be her intention at first. Once things get strange and stressful, she won’t handle it well. Helpful [[bystanders]] are a whole new sort of problem for [[the hunters]]!*
 
@@ -191,16 +191,16 @@ Define a location for anywhere that you expect significant parts of the mystery 
 
 Good [[locations]] to start with are:
 
-- The general area.
+- The general [[area]].
 - The monster’s lair.
 - Places where the monster has been active, or attacked someone.
 - Places that the [[bystanders]] will be found.
 
-Maps can help define the location so that everyone can see how it looks. Even a quick sketch of the area can help the group picture what’s going on and what the place is like. Another good source for town or region maps is to find an appropriate looking place in Google Maps and print it out.
+Maps can help define the location so that everyone can see how it looks. Even a [[quick]] sketch of the [[area]] can help the group picture what’s going on and what the place is like. Another good source for town or region maps is to find an appropriate looking place in Google Maps and print it out.
 
 *We have the O’Connell house. A location is an obvious fit, but what kind? Maybe it’s a huge, rambling place, making it a perfect Maze (motivation: to confuse and separate). That will give it lots of good [[moves]] to force [[the hunters]] to explore dark, cluttered rooms... alone. The house has one custom move: Once Marie closes the front door,* ***if you try to leave the house**, you can not get out. Only laying Marie to rest, or destroying her, will allow [[the hunters]] (and family) to leave.*
 
-*There’s also the nearby town. It’s likely [[the hunters]] will do a bit of preliminary asking around, making a Hub (motivation: to reveal information) a good choice. The town’s small, not much more than a service centre for nearby farms. There’s a run-down motel that [[the hunters]] will probably end up staying in, a diner, and a couple of bars.*
+*There’s also the nearby town. It’s likely [[the hunters]] will do a bit of preliminary asking around, making a Hub (motivation: to reveal information) a good choice. The town’s [[small]], not much more than a service centre for nearby farms. There’s a run-down motel that [[the hunters]] will probably end up staying in, a diner, and a couple of bars.*
 
 [[More Threats]]
 

@@ -30,21 +30,21 @@ He remembers when [[the hunters]] defeated him before, oh yes he does. They kill
 
 -   **Phylactery**: Keeps his soul safe.
 
--   **Powerful Magic**: Can use any of the normal **[[use magic]]** effects freely.
+-   **Powerful [[Magic]]**: Can use any of the normal **[[Use Magic]]** effects freely.
 
--   **Advanced Arcane Training**: He only needs two out of Foci, Gestures, and Incantations to perform magic.
+-   **[[Advanced Arcane Training]]**: He only needs two out of [[Foci]], [[Gestures]], and [[Incantations]] to perform [[magic]].
 
 -   **Necromantic Blast, Necromantic Wall, Withering Touch, Memory Theft** (see attacks below). **Attacks:**
 
--   **Ritual dagger** 2-[[harm]] hand.
+-   **Ritual dagger** 2-[[harm]] [[hand]].
 
--   **Necromantic blast** 2-[[harm]] close magical obvious ignore-[[armour]] life-drain.
+-   **Necromantic blast** 2-[[harm]] [[close]] magical obvious [[ignore-armour]] [[life-drain]].
 
--   **Necromantic wall** 1-[[harm]] close magical barrier 1-[[armour]] obvious loud life-drain.
+-   **Necromantic wall** 1-[[harm]] [[close]] magical [[barrier]] 1-[[armour]] obvious [[loud]] [[life-drain]].
 
--   **Withering touch** 4-[[harm]] intimate magical obvious ignore-[[armour]] life-drain.
+-   **Withering touch** 4-[[harm]] [[intimate]] magical obvious [[ignore-armour]] [[life-drain]].
 
--   **Memory theft** 0-[[harm]] intimate magical ignore-[[armour]] 1-memory.
+-   **Memory theft** 0-[[harm]] [[intimate]] magical [[ignore-armour]] 1-memory.
 
 **[[Armour]]:** 1-[[armour]] (always prepared!)
 
@@ -52,7 +52,7 @@ He remembers when [[the hunters]] defeated him before, oh yes he does. They kill
 
 \[\]\[\]\[\]\[\]\[\]\[\] Flee \[\]\[\]\[\]\[\]\[\]\[\] Dead
 
-**Weakness:** A **[[big magic]]** ritual is required to wrench his soul from its phylactery and destroy both soul and phylactery. It must be performed within one midnight of his death (before or after) and takes six hours to cast. It requires the phylactery itself, **[[use magic]]**, and several rare ingredients that might be mysteries in their own right to obtain.
+**Weakness:** A **[[Big Magic]]** ritual is required to wrench his soul from its phylactery and destroy both soul and phylactery. It must be performed within one midnight of his death (before or after) and takes six hours to cast. It requires the phylactery itself, **[[Use Magic]]**, and several rare ingredients that might be mysteries in their own right to obtain.
 
 # Preĝo Believers
 
@@ -70,19 +70,19 @@ A couple of nightwalkers who are already on board with the Necromancer’s plan,
 
 -   **Night Walker**: A nightwalker can disappear into the darkness, reappearing in its den. It cannot be tracked home, as it did not walk through the intervening space.
 
--   **Horrifying Yell**: Anyone who hears the howl of the nightwalker must take –1 [[ongoing]] unless they **[[act under pressure]]** to resist the fear. **Attacks:**
+-   **Horrifying Yell**: Anyone who hears the howl of the nightwalker must take –1 [[ongoing]] unless they **[[Act Under Pressure]]** to resist the fear. **Attacks:**
 
--   **Bite** 1-[[harm]] hand.
+-   **Bite** 1-[[harm]] [[hand]].
 
--   **Blood-suck** (must **bite** first): 2-[[harm]] intimate.
+-   **Blood-suck** (must **bite** first): 2-[[harm]] [[intimate]].
 
 **[[Armour]]:** None. **Weaknesses:**
 
 -   Sunlight.
 
--   Magic.
+-   [[Magic]].
 
--   Enclosure (if you can trap it within an enclosed area, it may not night-walk away and may be killed).
+-   Enclosure (if you can trap it within an enclosed [[area]], it may not night-walk away and may be killed).
 
 **[[Harm]] capacity:** 5 [[harm]], but they will flee when they reach 3 [[harm]].
 
@@ -92,7 +92,7 @@ A couple of nightwalkers who are already on board with the Necromancer’s plan,
 
 *Bystander: Witness (motivation: to reveal information)*
 
-A retired Chicago Police Department deputy chief. She has lived near the edge of Oak Glen for 40 years. She is an older white woman with short gray hair, sharp eyes, and a fit and trim body. She sees a lot but she no longer gets paid to stick her nose in other people’s business.
+A retired Chicago Police Department deputy chief. She has lived near the edge of Oak Glen for 40 years. She is an older white woman with short gray hair, [[Sharp]] eyes, and a fit and trim body. She sees a lot but she no longer gets paid to stick her nose in other people’s business.
 
 *“Every time you see the blood, it brings a little horror back to you—you always feel for the animals, you know?”*
 
@@ -150,15 +150,15 @@ On the South Side, Gabriela Cruz’ herbal shop. Non-hispanics mostly just call 
 
 The first Forest Preserve [[the hunters]] will encounter is likely to be Oak
 
-Glen, but this write-up can work for most of them. Many facilities can be found near the entrances of each preserve location (over 300 sites in the district!), but the woods soon thicken with distance, especially in the [[locations]] where incidents have occurred. Some—but not all—preserves have well-marked trails, picnic tables, interpretive signs (sometimes duplicated), and even lodges. But away from these, the underbrush gets thick and the trees grow close together.
+Glen, but this write-up can work for most of them. [[Many]] facilities can be found near the entrances of each preserve location (over 300 sites in the district!), but the woods soon thicken with distance, especially in the [[locations]] where incidents have occurred. Some—but not all—preserves have well-marked trails, picnic tables, interpretive signs (sometimes duplicated), and even lodges. But away from these, the underbrush gets thick and the trees grow [[close]] together.
 
-**Custom [[moves]]:**
+**[[Custom moves]]:**
 
-When you **search in the forest**, roll [[+Sharp]]:
+When you **search in the forest**, roll +[[Sharp]]:
 
 -   On a 10+, things seem to point somewhere in particular: take +1 [[forward]] for investigating.
 
--   On a 7-9, you can **[[investigate a mystery]]**, but then pick one of the bad things below.
+-   On a 7-9, you can **[[Investigate A Mystery]]**, but then pick one of the bad things below.
 
 -   On a miss, all three bad things are true. Bad things that can happen in the forest:
 
@@ -174,9 +174,9 @@ When you **search in the forest**, roll [[+Sharp]]:
 
 [[The hunters]]’ investigation of Billy Washington’s disappearance will eventually lead them to Wolf Road Woods, where the nightwalkers have their temporary lair.
 
-**Custom [[moves]]:**
+**[[Custom moves]]:**
 
-When you **search in Wolf Road Woods**, roll [[+Sharp]]:
+When you **search in Wolf Road Woods**, roll +[[Sharp]]:
 
 -   On a 10+ you find a tuft of strange hair and a well-worn work glove with Billy’s initials: take +1 [[forward]] for investigating, then [[the Keeper]] will pick one of the bad things from **search in the forest** (see above).
 
@@ -196,21 +196,21 @@ Only once in recent memory—the incident [[the hunters]] are investigating—ha
 
 The Cook County Forest Preserves encompass about 70,000 acres
 
-(280 square kilometers)—11 percent of the county. About 100 officers police the area.
+(280 square kilometers)—11 percent of the county. About 100 officers police the [[area]].
 
-**If [[the hunters]] correlate sites over time and area:** although it’s hard to discern by looking at a specific location, incidents across all forest preserves in Cook County have suddenly increased in frequency.
+**If [[the hunters]] correlate sites over time and [[area]]:** although it’s hard to discern by looking at a specific location, incidents across all forest preserves in Cook County have suddenly increased in frequency.
 
 Live animals, possibly escaped from attempted sacrifices, have been found wandering in the woods.
 
-Small makeshift altars have also been found in the woods, with candle stubs, wilted flowers, keepsakes, images of saints, and dried herbs. The herbs and other ingredients include tobacco, jimsonweed (datura), foxglove (digitalis), Jesuit’s bark (quinine), garlic, velvetleaf, lemongrass, thyme, and monkshood (wolfsbane), honey, powdered eggshell, cocoa butter, ash, aguardiente, and water.
+[[Small]] makeshift altars have also been found in the woods, with candle stubs, wilted flowers, keepsakes, images of saints, and dried herbs. The herbs and other ingredients include tobacco, jimsonweed (datura), foxglove (digitalis), Jesuit’s bark (quinine), garlic, velvetleaf, lemongrass, thyme, and monkshood (wolfsbane), honey, powdered eggshell, cocoa butter, ash, aguardiente, and water.
 
-**Investigating the magics performed at the altars** requires a lot of legwork to examine many sites. *Basic:* A variety of magics were performed: blessings, divinings, intercessions, atonements, and even the rare curse; some altars show no magic at all. *Advanced:* The most recent magics have been wardings.
+**Investigating the magics performed at the altars** requires a lot of legwork to examine [[many]] sites. *Basic:* A variety of magics were performed: blessings, divinings, intercessions, atonements, and even the rare curse; some altars show no [[magic]] at all. *Advanced:* The most recent magics have been wardings.
 
 **Investigating the attack on Kathy Witecki:** *Basic:* Kathy walked away from the path that day, and towards an altar. *Advanced:* She actually checked on several spots in the preserve where incidents had been reported over the years.
 
 **If Kathy wakes up after the attack and [[the hunters]] interview her:** *Basic:* Kathy has suffered from the Necromancer’s memory theft attack. Her memory is affected and she can’t recall much from the day of the attack, except a dark shadow with long spikes, and a man with eyes like glowing embers. *Advanced:* Even some details that she recently told [[the hunters]] have been forgotten.
 
-**Investigation of Billy Washington’s disappearance:** *Basic:* He was working alone at the time of the attack and was near a forest altar— tending it. *Advanced:* Close examination by a knowledgeable person would suggest Billy didn’t exactly know what he was doing; he was just trying to fix it up as best he could.
+**Investigation of Billy Washington’s disappearance:** *Basic:* He was working alone at the time of the attack and was near a forest altar— tending it. *Advanced:* [[Close]] examination by a knowledgeable person would suggest Billy didn’t exactly know what he was doing; he was just trying to fix it up as best he could.
 
 # Resources
 

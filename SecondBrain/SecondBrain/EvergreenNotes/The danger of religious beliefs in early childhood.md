@@ -5,15 +5,12 @@ note-type:
 - evergreen-note
 ---
 
-###### [[The danger of religious beliefs in early childhood]]
+#### [[The danger of religious beliefs in early childhood]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
 ---
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related-Topics**:: 
+**Topics**::   
 	
-**Sub-Topics**::
-	
-**References**

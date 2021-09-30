@@ -4,7 +4,7 @@ The Crystal Assassin
 
 # Concept
 
-Celino Adessi, a mystical assassin, summons extradimensional entities to kill for her. The creatures transform her victims into crystalline statues, which she breaks up and sells—doubling her profit. This denies the creatures any chance to [[feed]], and they are getting hungry.
+Celino Adessi, a mystical assassin, summons extradimensional entities to kill for her. The creatures transform her victims into crystalline statues, which she breaks up and sells—doubling her profit. This denies the creatures any chance to [[Feed]], and they are getting hungry.
 
 # Hook
 
@@ -30,7 +30,7 @@ Celino Adessi is the daughter of a crooked businessman and a witch. She watched 
 
 However, both parents made the effort to keep the other at least partially in the dark: her mother not showing her magical talents and her father glossing over his shady dealings. Neither was aware of how closely their daughter was watching them.
 
-She learned how to summon the mantids and considers this a wonderful find: they are stealthy and kill in such a way that the remains can be sold.
+She [[learned]] how to summon the mantids and considers this a wonderful find: they are stealthy and kill in such a way that the remains can be sold.
 
 She also gets an emotional thrill out of denying her summoned mantids the chance to devour their prey. This reaffirms her control over the situation. She also has a perverse satisfaction in knowing her targets’ souls are trapped in those crystals for eternity, often wondering what it must feel like to be shattered and scattered across space in different pieces.
 
@@ -40,9 +40,9 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 -   **Summoner**: She can summon and command creatures from other dimensions, with the mantids obviously being her favourites.
 
--   **Magician**: She knows other magic spells too, mostly wards and protective blessings.
+-   **Magician**: She knows other [[magic]] spells too, mostly wards and protective blessings.
 
-**Attacks:** **Handguns** 3-[[harm]] close loud.
+**Attacks:** **Handguns** 3-[[harm]] [[close]] [[loud]].
 
 **[[Armour]]:** 2 if prepared for a fight (tactical [[gear]] and wards), 1 otherwise (normal wards only).
 
@@ -58,7 +58,7 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 -   **Stealth**: The mantids exist in a phase of reality that living eyes can see quite well but technology can only catch fragments of. On camera, the mantid might present an occasional glimmer when viewed full on, with full silhouettes being caught rarely and usually on the edges of an image. Mantids are aware of when they are under a camera’s eye and will be careful when they can be recorded. If there is an active queen, they stop caring about being seen.
 
--   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes [[unstable]] as their body begins to crystallize and they are completely transformed once all [[harm]] is marked off. The process can only be stopped with magic (**[[Use Magic]]** to banish a curse), **[[weird science]]**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
+-   **Crystallize**: Their bite transforms bodies into soul-trapping crystals. A bitten hunter becomes [[unstable]] as their body begins to crystallize and they are completely transformed once all [[harm]] is marked off. The process can only be stopped with [[magic]] (**[[Use Magic]]** to banish a curse), **[[Weird Science]]**, or some other special method. When the whole body is crystal, the soul is trapped inside (normally the mantid devours it soon after). Mantids are able to produce a queen; some suggestions for how are listed below.
 
 -   **Devouring**: When it eats a crystallized prey and the soul within, it heals 2-[[harm]].
 
@@ -68,25 +68,25 @@ Adessi has not faced any real obstacles in her life to date and this has built h
 
 -   **[[Use Magic]]** to banish a spirit. This will permanently destroy a mantid. **Attacks:**
 
--   **Claws** 5-[[harm]] close grappling.
+-   **Claws** 5-[[harm]] [[close]] grappling.
 
--   **Stinger** 3-[[harm]] hand paralyze.
+-   **Stinger** 3-[[harm]] [[hand]] paralyze.
 
--   **Bite** 3-[[harm]] intimate crystallize (see powers, above).
+-   **Bite** 3-[[harm]] [[intimate]] crystallize (see powers, above).
 
 **[[Armour]]:** 2 against mundane [[harm]], 0 against magical [[harm]].
 
 **[[Harm]] Capacity:** 6. <sup>\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
-**Custom [[Moves]]:**
+**[[Custom Moves]]:**
 
 **Totally Crystallized**: What if a hunter or bystander is completely crystallized? Possible post-transformation cures include:
 
 -   Altering the crystal so the soul within can animate it. Probably a temporary measure until something better can be found!
 
--   A **[[big magic]]** effect to revert the body to flesh. This might require studying the supernatural venom of the mantid’s bite.
+-   A **[[Big Magic]]** effect to revert the body to flesh. This might require studying the supernatural venom of the mantid’s bite.
 
--   Creating a clone body via science or magic and transferring the soul to the new body. This will require dissolving the crystal body in a special solution to free the soul. The risk is that once the soul is free of the crystal, it will pass on to the afterlife rather than successfully transferring to a new body.
+-   Creating a clone body via science or [[magic]] and transferring the soul to the new body. This will require dissolving the crystal body in a special solution to free the soul. The risk is that once the soul is free of the crystal, it will pass on to the afterlife rather than successfully transferring to a new body.
 
 # Crystal Queen
 
@@ -116,11 +116,11 @@ If you prefer, here are two alternate methods (you might come up with your own t
 
 **Attacks:** Depending on physical form:
 
--   **Humanoid:** **Crystal arms** 2-[[harm]] hand grab. **Kiss** 0-[[harm]] intimate crystallize.
+-   **Humanoid:** **Crystal arms** 2-[[harm]] [[hand]] grab. **Kiss** 0-[[harm]] [[intimate]] crystallize.
 
--   **Insectile:** **Claws** 3-[[harm]] hand grab. **Bite** 2-[[harm]] intimate crystallize.
+-   **Insectile:** **Claws** 3-[[harm]] [[hand]] grab. **Bite** 2-[[harm]] [[intimate]] crystallize.
 
--   **Living Crystal Shard:** **Grown spikes** 3-[[harm]] hand grapple. **Crystal dust** 0-[[harm]] intimate inhaled crystallize.
+-   **Living Crystal Shard:** **Grown spikes** 3-[[harm]] [[hand]] grapple. **Crystal dust** 0-[[harm]] [[intimate]] inhaled crystallize.
 
 **[[Armour]]:** 3 against mundane [[harm]], 0 against magical [[harm]].
 
@@ -130,7 +130,7 @@ If you prefer, here are two alternate methods (you might come up with your own t
 
 **Ritual Exorcism:** The queen’s body must be ground to dust and purified (otherwise the queen’s soul will soon possess another nearby mantid). The ritual involved will require the following:
 
--   High-frequency tones. Dozens upon dozens of wind chimes encircling the dust and kept constantly in motion would be a good example. A large enough flock of birds with a highpitched cry might also work, though getting the flock to stay for the ritual might require magic itself.
+-   High-frequency tones. Dozens upon dozens of wind chimes encircling the dust and kept constantly in motion would be a good example. A large enough flock of birds with a highpitched cry might also work, though getting the flock to stay for the ritual might require [[magic]] itself.
 
 -   A ritual leader and at least two helpers (the higher their voices the better) performing a chant which gives further shape to the sounds used.
 
@@ -142,7 +142,7 @@ If you prefer, here are two alternate methods (you might come up with your own t
 
 Evans is the occultist who originally taught Adessi. She has deep knowledge but middling powers. She appears to be about 70 but is actually over 150.
 
-![[image102.jpg]]In the mystic community, she is known as a crafter of sanctums, hidden places, vaults, and the like. She has also mentored a fair number of psychics.
+![[image102.jpg]]In the [[Mystic]] community, she is known as a crafter of sanctums, hidden places, vaults, and the like. She has also mentored a fair number of psychics.
 
 Evans is unaware that Adessi has been using her powers for murderous ends. However, Evas periodically performs divinations to check up on her old students. Until recently, Adessi’s use of summoned creatures has kept Serenity from noticing anything—but as the assassin begins to get a greater thrill out of her murders these divinations have been growing darker. Serenity assumes Adessi is in trouble and needs help. Since she has found it difficult to reach her old student, she might ask [[the hunters]] to investigate. She may or may not know of Adessi’s mother, but certainly never met the woman. Note that Adessi’s ‘Cursed Hall’ is based on perversions of spells taught by Serenity.
 

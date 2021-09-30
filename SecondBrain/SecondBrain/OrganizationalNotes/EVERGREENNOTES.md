@@ -4,6 +4,9 @@ note-type:
 - organizational-note
 ---
 
+```ActivityHistory
+SecondBrain/EvergreenNotes
+```
 ```dataviewjs
 const thisFile = dv.pages().where(f => f.file.path == 'SecondBrain/INDEX.md')[0]
 function formatDate(date){

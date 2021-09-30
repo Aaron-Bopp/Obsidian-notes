@@ -80,9 +80,7 @@ bib:
 
 ---
 
-**Related-Topics**:: 
-	
-**Sub-Topics**::
+**Topics**::   
 	
 **Outline**::
 

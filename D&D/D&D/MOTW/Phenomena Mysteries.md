@@ -7,7 +7,7 @@ Phenomena mysteries give hunters the chance to investigate an increasingly dange
 To create a mystery centered on a phenomenon, [[the Keeper]] will need the following details: 
 -   A [[basic concept]] (like a standard mystery) describing what is going on. 
 -   A phenomenon type and motivation. 
--   What effects the phenomenon has on hunters (and other [[bystanders]]) who get too close. 
+-   What effects the phenomenon has on hunters (and other [[bystanders]]) who get too [[close]]. 
 -   What its weakness is (this works differently to monster weaknesses). 
 -   [[Custom moves]] for its effects (optional but recommended).
 
@@ -58,8 +58,8 @@ These are the [[threat moves]] a phenomenon can use during the mystery:
 Because phenomena are more varied in their motivations and powers than [[monsters]], you should rely more on [[custom moves]]. Note down a few specific things the phenomenon might do (these might overlap with the general phenomenon [[moves]]).
 
 **For example:** *The time loop example above might have these [[custom moves]]:* 
--   *If you try to leave the time loop area, you find yourself back in town with a short block of missing time.* 
--   *The crystals cause a weird subsonic buzzing feeling when you are near them.* 
+-   *If you try to leave the time loop [[area]], you find yourself back in town with a short block of missing time.* 
+-   *The crystals cause a [[Weird]] subsonic buzzing feeling when you are near them.* 
 -   *At 8:23pm, the time resets to 12:16pm of the same day.* 
 -   *Only those who entered the town after the crystals began looping time can perceive the multiple loops. Those who were there at the start just live the same afternoon over and over without noticing or remembering previous loops.*
 
@@ -67,8 +67,8 @@ Because phenomena are more varied in their motivations and powers than [[monster
 
 In order to make the **[[Investigate A Mystery]]** move a bit less creature-specific, hunters dealing with phenomena may ask the following as part of the standard list of questions: 
 -   How is this phenomenon doing this? 
--   What could fix it, cure it, or slow it down? 
--   How far does the effect reach? 
+-   What could fix it, cure it, or [[slow]] it down? 
+-   How [[far]] does the effect reach? 
 -   What will be affected next?
 
 [[Special Luck Moves]]

@@ -18,7 +18,7 @@ Once you have an idea, divide it into six events in [[the order]] they will occu
 
 The names of each step are intended to give a sense of things getting worse. They are metaphorical: the “sunset” step of a countdown doesn’t have to happen at sunset; the steps don’t have to happen on the same day.
 
-As [[the countdown]] is what would happen if [[the hunters]] didn’t interfere, it normally won’t play out how you wrote it. But even when the monster’s plan has been derailed, it will still be trying to achieve its goals and [[the countdown]] is useful as a guide (or something to adapt) to determine what happens next.
+As [[the countdown]] is what would happen if [[the hunters]] didn’t interfere, it normally won’t play out how you wrote it. But even when the monster’s plan has been derailed, it will still be trying to achieve its goals and [[the countdown]] is [[useful]] as a guide (or something to adapt) to determine what happens next.
 
 *For example:*
 

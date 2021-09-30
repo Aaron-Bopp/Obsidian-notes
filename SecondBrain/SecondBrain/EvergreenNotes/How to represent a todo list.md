@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[How to represent a todo list]]
+#### [[How to represent a todo list]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 The only required piece of a [[TODO]] list is that it is temporary. The items on your [[TODO]] list will get done eventually, but how quickly you expect them to get done is up to you. If you like your [[TODO]] list to be a running list of quick task those things may get done quickly. If you prefer your [[TODO]] list of items that you would like to do at some point you may be looking at those items for quite a while before they get finished.
 
@@ -18,8 +18,5 @@ My [[TODO]] list is represented by [[my TO(DO) and EVER(GREEN) structure]]. This
 
 **Status**:: #EVER/GREEN  
 
-**Related-Topics**:: [[todo note]]
+**Topics**::  [[todo note]], [[Make your inbox into an entry point]], [[my TO(DO) and EVER(GREEN) structure]], [[how I use Obsidian tags]]
 	
-**Sub-Topics**:: [[Make your inbox into an entry point]], [[my TO(DO) and EVER(GREEN) structure]], [[how I use Obsidian tags]]
-	
-**References**

@@ -5,7 +5,7 @@ note-type:
 date updated: Thursday, September 16th 2021, 10:04:40 pm
 ---
 
-##### [[The biblical christian God is evil and does not deserved to be worshipped]] `=length([[The biblical christian God is evil and does not deserved to be worshipped]].file.inlinks) + length([[The biblical christian God is evil and does not deserved to be worshipped]].file.outlinks)`
+#### [[The biblical christian God is evil and does not deserved to be worshipped]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 It is hard to look at the god described in the bible and not think he is either maliciously evil, or blatantly selfish.
 
@@ -16,6 +16,6 @@ It is hard to look at the god described in the bible and not think he is either 
 
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: [[Christianity]], [[Evangelicalism]]
+**Topics**::  [[Christianity]], [[Evangelicalism]]
 
 **Last Edited**:: *`=this.file.mtime`*

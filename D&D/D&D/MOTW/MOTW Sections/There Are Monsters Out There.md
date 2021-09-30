@@ -12,7 +12,7 @@
 
 *It could be that you take to the road and go hunt them down, wherever you can find them.*
 
-*It could be that you have magic powers to put you on an even footing, or that your name came up in prophecies thousands of years ago.*
+*It could be that you have [[magic]] powers to put you on an even footing, or that your name came up in prophecies thousands of years ago.*
 
 *The one sure thing is that you* *aren’t gonna go back to your old safe life.*
 

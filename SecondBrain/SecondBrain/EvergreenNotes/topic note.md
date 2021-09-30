@@ -4,7 +4,7 @@ note-type:
 - evergreen-note
 ---
 
-##### [[topic note]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[topic note]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Topic notes are a kind of note in a [[web of thought]]/[[personal knowledge management]]/[[Zettlekassen]] system.
 
@@ -20,7 +20,7 @@ A topic note can come to be in two ways:
 
 **Status**:: #EVER/GREEN 
 
-**Related-Topics**::  [[second brain]], [[My Second Brain]], [[Zettlekassen]], [[personal knowledge management]]
+**Topics**::   [[second brain]], [[My Second Brain]], [[Zettlekassen]], [[personal knowledge management]]
 	
 **Last Edited**:: *`=this.file.mtime`*	
 

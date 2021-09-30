@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Learning systems can be a gateway to creating thought]]
+#### [[Learning systems can be a gateway to creating thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 One major example of this is [[Creating Thought with a Second Brain]].
 #TO/DO/CONCEPTUALIZE how these concepts help you create thought
@@ -19,8 +19,5 @@ One major example of this is [[Creating Thought with a Second Brain]].
 
 **Status**:: #EVER/SEED/WATER 
 
-**Related-Topics**:: [[second brain]], [[note writing]]
+**Topics**::  [[second brain]], [[note writing]] 
 	
-**Sub-Topics**::
-	
-**References**

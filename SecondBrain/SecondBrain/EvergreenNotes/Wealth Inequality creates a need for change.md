@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Wealth Inequality creates a need for change]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Wealth Inequality creates a need for change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Studies have found that [[Wealth Inequality]] makes people generally unhappy and have a greater sense of unfairness and untrustworthiness toward others. [^1] 
 
@@ -16,7 +16,7 @@ Studies have found that [[Wealth Inequality]] makes people generally unhappy and
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related Topics**:: [[Marxism]], [[Capitalism]], [[Communism]], [[Happiness]], [[social justice]]
+**Topics**::  [[Marxism]], [[Capitalism]], [[Communism]], [[Happiness]], [[social justice]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

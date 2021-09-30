@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[The three main questions of life]]
+#### [[The three main questions of life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Where did we come from? 
 What happens when we die?
@@ -17,8 +17,5 @@ What is our purpose?
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related-Topics**:: [[worldview]], [[philosophy]], [[theology]] 
+**Topics**::  [[worldview]], [[philosophy]], [[theology]]  
 	
-**Sub-Topics**::
-	
-**References**

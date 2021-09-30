@@ -31,9 +31,7 @@ bib:
 
 ---
 
-**Related-Topics**:: [[ADHD]], [[gender dysphoria]], [[depression]], [[anxiety]], [[borderline personality disorder]]
-	
-**Sub-Topics**::
+**Topics**::  [[ADHD]], [[gender dysphoria]], [[depression]], [[anxiety]], [[borderline personality disorder]] 
 	
 **Outline**::
 

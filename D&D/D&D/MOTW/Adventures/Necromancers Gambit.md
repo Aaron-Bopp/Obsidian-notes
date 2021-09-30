@@ -20,7 +20,7 @@ Several tragic suicides by leading members of the local community have been foll
 
 # Overview
 
-The suicides were members of a local ‘end times’ cult currently called the Sunset Prayer Group. A small gnostic sect that has survived since the Roman Empire under many names, they are trying to bring about the end of the world by means of necromancy. The necromancer Nathan Coin will be the last member of this cult. He plans to raise the four suicides as zombies and transform them into the Four Horsemen of the Apocalypse. He stole the bodies after burying them at the town graveyard.
+The suicides were members of a local ‘end times’ cult currently called the Sunset Prayer Group. A [[small]] gnostic sect that has survived since the Roman Empire under [[many]] names, they are trying to bring about the end of the world by means of necromancy. The necromancer Nathan Coin will be the last member of this cult. He plans to raise the four suicides as zombies and transform them into the Four Horsemen of the Apocalypse. He stole the bodies after burying them at the town graveyard.
 
 # Countdown
 
@@ -38,7 +38,7 @@ He owns a white van. **Powers:**
 
 -   Must be killed by his own zombies.
 
-**Attacks:** **Necromantic touch** 1-[[harm]] intimate ignore-[[armour]]. **[[Armour]]:** None.
+**Attacks:** **Necromantic touch** 1-[[harm]] [[intimate]] [[ignore-armour]]. **[[Armour]]:** None.
 
 **[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -46,7 +46,7 @@ He owns a white van. **Powers:**
 
 *Minion: Assassins (motivation: to kill [[the hunters]])*
 
-These are animated human corpses. Their numbers depend on how far Coin’s plans have advanced. When [[the hunters]] get involved, there are two.
+These are animated human corpses. Their numbers depend on how [[far]] Coin’s plans have advanced. When [[the hunters]] get involved, there are two.
 
 They cannot cross salt barriers or running water.
 
@@ -58,7 +58,7 @@ They cannot cross salt barriers or running water.
 
 **Romero-style:** Zombies can be destroyed by decapitation, or destruction of the brain.
 
-**Attacks:** **Bite** 2-[[harm]] intimate messy. **[[Armour]]:** None.
+**Attacks:** **Bite** 2-[[harm]] [[intimate]] [[messy]]. **[[Armour]]:** None.
 
 **[[Harm]] Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
 
@@ -76,9 +76,9 @@ An agnostic, Carla will always discount any evidence of the supernatural, as “
 
 *Bystander: Official (motivation: to be suspicious)*
 
-Veteran officer Carter thinks the whole grave robbery thing is a cruel prank. Although always polite, he is equally unimpressed with reporters, FBI profilers, and “monster hunters” who he feels get in the way of real police work. Carter ignores [[the hunters]], restricts Schniepp to consulting from his FBI office, and looks for vandals, goth kids, and other ”lowlifes” despite whatever evidence emerges.
+Veteran officer Carter thinks the whole grave robbery thing is a cruel prank. Although always polite, he is equally unimpressed with reporters, FBI profilers, and “monster hunters” who he feels get in the way of real police work. Carter ignores [[the hunters]], restricts Schniepp to consulting from his FBI office, and looks for vandals, goth kids, and other ”lowlifes” despite [[whatever]] evidence emerges.
 
-Carter’s just a bored big city cop with a chip on his shoulder due to working in a small town. He’s retiring soon and he’s already checked out.
+Carter’s just a bored big city cop with a chip on his shoulder due to working in a [[small]] town. He’s retiring soon and he’s already checked out.
 
 # Special Agent David Schniepp, FBI Profiler
 
@@ -106,11 +106,11 @@ All of these statements are true. Schniepp suspects mortuary employees and plans
 
 *Location: Hub (motivation: to reveal information)*
 
-A typical sleepy, small American graveyard. Well, no longer so typical.
+A typical sleepy, [[small]] American graveyard. Well, no longer so typical.
 
 An investigation of the defiled graves can reveal the following:
 
--   Remains of a magic circle in goat’s blood.
+-   Remains of a [[magic]] circle in goat’s blood.
 
 -   Scratch marks from the inside of the defiled coffin with fingerprints of the dead person.
 
@@ -122,7 +122,7 @@ An investigation of the defiled graves can reveal the following:
 
 All other evidence has been obscured by recent rain at the site.
 
-There is a small attached mortuary service with the graveyard and the staff is eager to both help investigators and to convince everyone they are not at fault. Nathan Coin’s family has operated the facility for generations.
+There is a [[small]] attached mortuary service with the graveyard and the staff is eager to both help investigators and to convince everyone they are not at fault. Nathan Coin’s family has operated the facility for generations.
 
 # The Necromancer's Home
 

@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Fear cannot be a deterant for deconstructing your faith]]
+#### [[Fear cannot be a deterant for deconstructing your faith]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Fear of hell is baked into Christianity]] Another fear people have is fear of social consequences, especially the reaction of [[parents]] who have worked in or attended the church for a long time.
 
@@ -20,8 +20,5 @@ If you can never get to this place of objectivity you may get stuck feeling like
 
 **Status**:: #EVER/SPROUT/WATER   
 
-**Related-Topics**:: [[Christianity]], [[Evangelicalism]], [[faith]], [[worldview]], [[Deconstruction (Christianity)]]
+**Topics**::  [[Christianity]], [[Evangelicalism]], [[faith]], [[worldview]], [[Deconstruction (Christianity)]] 
 	
-**Sub-Topics**::
-	
-**References**

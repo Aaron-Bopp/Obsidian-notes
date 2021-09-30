@@ -22,8 +22,6 @@ aliases:
 
 **Status**:: #EVER/SPROUT  
 
-**Related-Topics**:: [[Computer Science]], [[Obsidian (software)]], [[Software Design]]
-	
-**Sub-Topics**::
+**Related-Topics**:: [[Computer Science]], [[Obsidian (software)]], [[Software Design]] 
 	
 **References**

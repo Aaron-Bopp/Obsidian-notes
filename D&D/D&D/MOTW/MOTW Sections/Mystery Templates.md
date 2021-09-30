@@ -50,7 +50,7 @@ You’ll need to come up with the monster, and work out why it initially seems t
 **Threats:**
 
 - A monster.
-- The area where the attacks are happening.
+- The [[area]] where the attacks are happening.
 - Lots of [[bystanders]].
 
 **Countdown:**

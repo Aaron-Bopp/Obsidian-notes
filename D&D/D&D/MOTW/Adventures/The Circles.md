@@ -36,17 +36,17 @@ This should have the pacing and style of a TV episode. It’s fast-paced and sho
 
 *Monster: Devourer (motivation: to consume people. Specifically, his seven-year ritual feast)*
 
-In human form, Pavlos is a boy in his late teens with dark features and a strong build. He is very quiet and wary of strangers. In minotaur form, he is 6’6” and 300 lbs of pure rage, with fire and smoke billowing from his snout. **Powers:**
+In human form, Pavlos is a boy in his late teens with dark features and a strong build. He is very quiet and wary of strangers. In minotaur form, he is 6’6” and 300 lbs of pure rage, with [[fire]] and smoke billowing from his snout. **Powers:**
 
 -   **Transform**: May choose to appear in human or minotaur form.
 
 -   **Alter**: Change the labyrinth (crop circles) at will to confound intruders or to lead them somewhere specific. **Attacks:**
 
--   **Fire snort** 3-[[harm]] close fire.
+-   **[[Fire]] snort** 3-[[harm]] [[close]] [[fire]].
 
--   **Horns** 3-[[harm]] close forceful.
+-   **Horns** 3-[[harm]] [[close]] [[forceful]].
 
--   **Bite** 2-[[harm]] intimate.
+-   **Bite** 2-[[harm]] [[intimate]].
 
 **[[Armour]]:** None in human form. 2 in minotaur form (thick hide).
 
@@ -60,9 +60,9 @@ In human form, Pavlos is a boy in his late teens with dark features and a strong
 
 # Nikos, elderly farmer/son and servant of the minotaur
 
-*Minion: Guardian (motivation: to protect Pavlos and the labyrinth)*
+*Minion: [[Guardian]] (motivation: to protect Pavlos and the labyrinth)*
 
-Pavlos is actually Nikos’ father. Nikos can reveal this information dramatically (“Get away from my daddy!”) when he intervenes. **Attacks:** **Shotgun** 3-[[harm]] close messy loud. **Kick and punch** 0-[[harm]] hand.
+Pavlos is actually Nikos’ father. Nikos can reveal this information dramatically (“Get away from my daddy!”) when he intervenes. **Attacks:** **Shotgun** 3-[[harm]] [[close]] [[messy]] [[loud]]. **Kick and punch** 0-[[harm]] [[hand]].
 
 **[[Harm]] Capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -74,9 +74,9 @@ Pavlos is actually Nikos’ father. Nikos can reveal this information dramatical
 
 The maze is a series of spiralling circles connected to one larger circle at the center. Hunters and victims will feel disorientated because of the twisting layout and being unable to see over the top of the tall crops.
 
-**Custom [[Moves]]:**
+**[[Custom Moves]]:**
 
-**Let’s Get Out Of Here!** When you enter the circle looking for the center, you find it. When you try to find an exit or someone else in the maze, roll [[+Sharp]]:
+**[[Let’s Get Out Of Here!]]** When you enter the circle looking for the center, you find it. When you try to find an exit or someone else in the maze, roll +[[Sharp]]:
 
 -   On a 10+, you get there.
 

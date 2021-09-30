@@ -5,7 +5,7 @@ note-type:
 
 ---
 
-##### [[A secure identity is the best defense against social anxiety]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[A secure identity is the best defense against social anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 
@@ -14,6 +14,6 @@ note-type:
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related-Topics**:: [[self]], [[self-actualization]], [[social anxiety]], [[self-love]]
+**Topics**::  [[self]], [[self-actualization]], [[social anxiety]], [[self-love]]
 	
 **Last Edited**:: *`=this.file.mtime`*

@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Anger fuels change]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Anger fuels change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -14,6 +14,6 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*

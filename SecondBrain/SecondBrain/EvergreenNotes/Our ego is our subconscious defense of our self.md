@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Our ego is our subconscious defense of our self]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Our ego is our subconscious defense of our self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -14,6 +14,6 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: [[subconscious]], [[self]], [[human survival]], [[Neuroscience]]
+**Topics**::  [[subconscious]], [[self]], [[human survival]], [[Neuroscience]]
 	
 **Last Edited**:: *`=this.file.mtime`*

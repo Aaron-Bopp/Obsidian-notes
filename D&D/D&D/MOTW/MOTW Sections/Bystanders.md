@@ -3,7 +3,7 @@ These are people who, often inadvertently, make it harder for [[the hunters]] to
 
 Think about your agenda and principles when you’re creating bystanders. Make sure each has something that they will want from [[the hunters]]. It works best if it’s something simple, like “go away and leave me alone,” or “save me.”
 
-It’s useful to put some partially-defined bystanders into each mystery, with just a name and threat type. That way, when [[the hunters]] want to talk to someone you didn’t think of in advance, you can just use the next partial description (and fill in any extra details then and there).
+It’s [[useful]] to put some partially-defined bystanders into each mystery, with just a name and threat type. That way, when [[the hunters]] want to talk to someone you didn’t think of in advance, you can just use the next partial description (and fill in any extra details then and there).
 
 There are nine bystander types:
 
@@ -30,7 +30,7 @@ Here are a couple of example bystanders. They’re a bit more detailed than you 
 
 **HARVEY JONES, MONSTER INVESTIGATOR**
 
-Harvey is a conspiracy theorist and cryptozoologist, just short of donning a tinfoil hat. If there’s a Flake on the team with the **net friends** move, maybe they even know Harvey (probably one of his pseudonyms).
+Harvey is a conspiracy theorist and cryptozoologist, just short of donning a tinfoil hat. If there’s a Flake on the team with the **[[Net Friends]]** move, maybe they even know Harvey (probably one of his pseudonyms).
 
 **Bystander:** Detective (motivation: to rule out explanations).
 

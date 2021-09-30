@@ -13,24 +13,11 @@ aliases:
 An evergreen note is one that is both easy to start and easy to add on to. 
 
 **Status**:: #EVER/SEED
-###### [[evergreen notes]] `=length([[Evergreen note]].file.inlinks)` 
+
+##### [[evergreen notes]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 
 
 
-## Evergreen Notes
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"  and [[Evergreen note]]
-WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "Evergreen note" and !contains([[Evergreen note]].file.outlinks, link(file.name))
-SORT Status
-```
-## Content Notes
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM [[Evergreen note]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "Evergreen note" and !contains([[Evergreen note]].file.outlinks, link(file.name))
-SORT Status
-```
-
-## References
+### <hr class="dataviews"/>
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

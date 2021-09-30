@@ -6,13 +6,13 @@ aliases:
 - 
 ---
 
-##### [[The anti-vax movement is based off a white lie]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[The anti-vax movement is based off a white lie]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[anti-vax]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*

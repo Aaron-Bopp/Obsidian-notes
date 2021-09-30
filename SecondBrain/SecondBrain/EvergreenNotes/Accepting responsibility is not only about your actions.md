@@ -7,7 +7,7 @@ aliases:
 - Accepting responsibility is about moving forward for yourself and for the people affected by the event
 ---
 
-##### [[Accepting responsibility is not only about your actions]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Accepting responsibility is not only about your actions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Sometimes accepting responsibility for something means accepting the responsibility of fixing it. Accepting responsibility for things outside of your control does not have anything to do with the actions. Actions cannot be reversed, nor can they often be rectified. Accepting responsibility means acknowledging why the event happened, what it did to you, and what it did to other people. This can mean accepting responsibility for moving past your trauma, the needs of others being pushed upon you, or the sins of your ancestors that you still benefit from.  This means that [[Working through trauma can involve of a lot of letting go]]
 
@@ -21,6 +21,6 @@ Accepting responsibility for these kind of things is not taught at a young age i
 
 **Status**:: #EVER/GREEN   
 
-**Related-Topics**:: [[white guilt]], [[trauma]], [[racism]], [[human advancement]]
+**Topics**::  [[white guilt]], [[trauma]], [[racism]], [[human advancement]]
 	
 **Last Edited**:: *`=this.file.mtime`*

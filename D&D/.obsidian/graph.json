@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-aliases -path:book ",
+  "search": "-aliases -path:book path:EvergreenNotes OR path:TopicNotes",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -175,10 +175,10 @@
   "nodeSizeMultiplier": 0.998933823529412,
   "lineSizeMultiplier": 0.445882352941176,
   "collapse-forces": false,
-  "centerStrength": 0.264705882352941,
-  "repelStrength": 11.6470588235294,
-  "linkStrength": 0.617647058823529,
+  "centerStrength": 0.417647058823529,
+  "repelStrength": 12.5882352941176,
+  "linkStrength": 0.482352941176471,
   "linkDistance": 30,
-  "scale": 0.13666881353755983,
+  "scale": 0.2686302127014774,
   "close": false
 }

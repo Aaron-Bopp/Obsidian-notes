@@ -7,7 +7,7 @@ note-type:
 
 ---
 
-###### [[my TO(DO) and EVER(GREEN) structure]] `=length([[my TO(DO) and EVER(GREEN) structure]].file.inlinks) + length([[my TO(DO) and EVER(GREEN) structure]].file.outlinks)`
+#### [[my TO(DO) and EVER(GREEN) structure]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This structure is how I [[Make your inbox into an entry point]] and is deeply entwined with [[how I use Obsidian tags]] as a part of [[My Second Brain]]
 
@@ -45,8 +45,5 @@ This structure is how I [[Make your inbox into an entry point]] and is deeply en
 
 **Status**:: #EVER/GREEN/PRUNE   
 
-**Related-Topics**:: [[Zettlekassen]], [[second brain]]
+**Topics**::  [[Zettlekassen]], [[second brain]], [[how I use Obsidian tags]], [[Make your inbox into an entry point]]
 	
-**Sub-Topics**:: [[how I use Obsidian tags]], [[Make your inbox into an entry point]]
-	
-**References**

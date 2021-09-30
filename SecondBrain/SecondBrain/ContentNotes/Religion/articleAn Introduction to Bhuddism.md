@@ -11,7 +11,7 @@ source: https://www.pbs.org/edens/thailand/buddhism.htm
 
 ###### [[An Introduction to Bhuddism]]
 
-**Related-Topics**:: [[Bhuddism]], [[eastern philosophy]], [[Bhuddism is the study of happiness through detachment]], [[Happiness is enlightenment and sadness is delusion]]
+**Topics**::  [[Bhuddism]], [[eastern philosophy]], [[Bhuddism is the study of happiness through detachment]], [[Happiness is enlightenment and sadness is delusion]]
 
 > "to be born human is to Buddhists a precious chance at spiritual bliss, a rarity that one should not forsake." [^5]
 - Four noble truths[^1]
@@ -97,4 +97,4 @@ The realm of man also offers one other aspect lacking in the other five planes, 
 
  [^5]:   The realm of man also offers one other aspect lacking in the other five planes, an opportunity to achieve [[enlightenment]], or Nirvana. Given the sheer number of living things, to be born human is to Buddhists a precious chance at spiritual bliss, a rarity that one should not forsake.
 	
-### References
+

@@ -2,7 +2,7 @@
 
 When you get a hold, you’ll get a number of points. Each point can be spent one-for-one to get a specific effect. The move will list the effects you can spend your hold on.
 
-*For example, you are interviewing the witnesses to a monster attack and you make an* ***[[investigate a mystery]]*** *roll. Your result gives you 3 hold. You can spend your hold to ask [[the Keeper]] questions from the list in the* ***[[investigate a mystery]]*** *move.*
+*For example, you are interviewing the witnesses to a monster attack and you make an* ***[[Investigate A Mystery]]*** *roll. Your result gives you 3 hold. You can spend your hold to ask [[the Keeper]] questions from the list in the* ***[[Investigate A Mystery]]*** *move.*
 
 *You ask a witness, “Did you see where the attacker went?” and spend one hold. (“Where did it go?” is one of the questions.)*
 

@@ -48,9 +48,7 @@ I don't know if I'm right. Maybe I'm delusional. But I have to understand why I 
 
 
 
-**Related-Topics**:: 
-	
-**Sub-Topics**::
+**Topics**::   
 	
 **Outline**::
 

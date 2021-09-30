@@ -1,6 +1,6 @@
 # End of the First session
 
-Once the mystery has been solved, take some time to go around the table and check that everyone’s happy with how it played out. If [[the hunters]] didn’t finish up this mystery, that’s okay too. Just finish when you or the group thinks it’s a cool time to put “To be continued...” up on the screen. You can find out what happens next time.
+Once the mystery has been solved, take some time to go around the table and check that everyone’s happy with how it played out. If [[the hunters]] didn’t finish up this mystery, that’s okay too. Just finish when you or the group thinks it’s a [[Cool]] time to put “To be continued...” up on the screen. You can find out what happens next time.
 
 Then ask the [[End-Of-Session Experience Questions]]
 

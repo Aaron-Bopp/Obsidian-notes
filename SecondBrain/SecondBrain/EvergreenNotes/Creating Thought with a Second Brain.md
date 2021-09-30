@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Creating Thought with a Second Brain]] `=length([[Creating Thought with a Second Brain]].file.inlinks) + length([[Creating Thought with a Second Brain]].file.outlinks)`
+#### [[Creating Thought with a Second Brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -18,6 +18,4 @@ The [[Second Brain]] can be used as a catalyst or conduit to create thought.([[L
 
 **Status**:: #EVER/SPROUT/WATER  
 
-**Related-Topics**:: [[second brain]], [[permanent note]], [[evergreen notes]], 
-	
-**Sub-Topics**::
+**Topics**::  [[second brain]], [[permanent note]], [[evergreen notes]],  

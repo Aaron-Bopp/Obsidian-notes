@@ -12,13 +12,13 @@ The annual Valentine’s Party at the Triple Phi fraternity is legendary, but th
 
 # Background
 
-Before the winter break, The Buck had a one-night stand with Shelly Young. The morning after, filled with regret, The Buck told Young he had made a mistake and could never see her again. Young played it cool—but decided that if Buckner’s long-time girlfriend were out of the picture, she and The Buck could be together.
+Before the winter break, The Buck had a one-night stand with Shelly Young. The morning after, filled with regret, The Buck told Young he had made a mistake and could never see her again. Young played it [[Cool]]—but decided that if Buckner’s long-time girlfriend were out of the picture, she and The Buck could be together.
 
 Young’s obsession reached its peak in early February, when she found a book of spells in the university library. Inspired, she gathered up supplies and attempted to summon a revenge demon. Shelly lacked the skill and experience to summon the demon she sought but but she did manage to summon something...else. Evelyn Bradshaw was murdered by Eric Clevinger in the same dorm room 40 years before. When Shelly lifted the veil, she allowed this vengeful spirit to enter our world. Mistaking Evelyn for the demon, Shelly told her an elaborate tale of Candy’s infidelities and sent the spirit off to kill her. When Evelyn watched the couple, she discerned the truth and killed Buckner instead.
 
 # ![[image90.png]]Countdown
 
-<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>Shelly confronts Evelyn for not doing as she instructed. When Evelyn learns the</p><p>whole sordid truth, she throws Shelley from her dorm window. Shelly’s body is also found covered in the strange frost.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td><blockquote><p>Evelyn murders a female student on the quad outside the English department, sending a tree branch through her chest while the man she is flirting with looks on in horror. The student was in the middle of texting an excuse to her long-distance hometown boyfriend about why he shouldn’t call her tonight.</p></blockquote></td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Evelyn goes to the English department to find Clevinger, not appreciating how much time has passed since she was alive. She kills the young professor she finds in the office, just as he finishes office hours with a female student.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Evelyn tracks Clevinger, now old and retired, back to his home. She kills him—and masters her powers. The frost is thick where she touched him.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>Evelyn tears through the student population. The murders come fast and furious, each one more gruesome than the last.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td>The school is forced to close its doors and seek professionals to end the rampage of death. Evelyn takes her vengeance into the larger world.</td></tr></tbody></table>
+<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>Shelly confronts Evelyn for not doing as she instructed. When Evelyn learns the</p><p>whole sordid truth, she throws Shelley from her dorm window. Shelly’s body is also found covered in the strange frost.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td><blockquote><p>Evelyn murders a female student on the quad outside the English department, sending a tree branch through her chest while the man she is flirting with looks on in horror. The student was in the middle of texting an excuse to her long-distance hometown boyfriend about why he shouldn’t call her tonight.</p></blockquote></td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Evelyn goes to the English department to find Clevinger, not appreciating how much time has passed since she was alive. She kills the young professor she finds in the office, just as he finishes office hours with a female student.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Evelyn tracks Clevinger, now old and retired, back to his home. She kills him—and masters her powers. The frost is thick where she touched him.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>Evelyn tears through the student population. The murders come fast and furious, each one more gruesome than the last.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td>The school is forced to [[close]] its doors and seek professionals to end the rampage of death. Evelyn takes her vengeance into the larger world.</td></tr></tbody></table>
 
 # Evelyn Bradshaw, ghost
 
@@ -32,7 +32,7 @@ She appears as an apparition of an 18-year-old, in a faded print dress from the 
 
 **Powers:**
 
-• **Frost Grasp**: When **Evelyn reaches through your chest and grabs your heart**, take 3-[[harm]] ignore-[[armour]] magic, then roll [[+Weird]]:
+• **Frost Grasp**: When **Evelyn reaches through your chest and grabs your heart**, take 3-[[harm]] [[ignore-armour]] [[magic]], then roll +[[Weird]]:
 
 On a 10+, you resist and see into her soul; ask [[the Keeper]] a single question about her and they will answer you honestly.
 
@@ -40,7 +40,7 @@ On a 7-9, you see into her soul, but she also sees into yours; ask your question
 
 On a miss, take an additional [[harm]] and answer honestly the questions she asks you.
 
-**Attacks:** **[[Telekinesis]]:** 0 to 3-[[harm]] close ignore-[[armour]] cold. Evelyn can throw objects or push victims—pick [[harm]] rating based on danger level. This leaves a frost that will melt into ectoplasmic goo.
+**Attacks:** **[[Telekinesis]]:** 0 to 3-[[harm]] [[close]] [[ignore-armour]] cold. Evelyn can throw objects or push victims—pick [[harm]] rating based on danger level. This leaves a frost that will melt into ectoplasmic goo.
 
 **[[Armour]]:** None, but she cannot be harmed by normal [[weapons]] (except while using her frost grasp).
 
@@ -48,11 +48,11 @@ On a miss, take an additional [[harm]] and answer honestly the questions she ask
 
 **Weaknesses:**
 
-An apology, or **[[big magic]]** exorcism.
+An apology, or **[[Big Magic]]** exorcism.
 
 She will go away willingly with a heartfelt apology from Eric Clevinger, the professor who murdered her. She will claim him and the two will dramatically disappear.
 
-She can also be exorcised by **[[big magic]] .** Possible requirements for the ritual: one or two more people than there are hunters; must be performed in the dorm room where she was first summoned; will take time and chanting, possibly attracting unwanted attention and innocents.
+She can also be exorcised by **[[Big Magic]] .** Possible requirements for the ritual: one or two more people than there are hunters; must be performed in the dorm room where she was first summoned; will take time and chanting, possibly attracting unwanted attention and innocents.
 
 # Shelly Young (First-time witch)
 

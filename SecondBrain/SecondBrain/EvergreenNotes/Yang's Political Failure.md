@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Yang's Political Failure]] `=length([[Yang's Political Failure]].file.inlinks) + length([[Yang's Political Failure]].file.outlinks)`
+#### [[Yang's Political Failure]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Yang's Political Success]] details the ideas and strategy that catapulted Yang into the mainstream of the political world. However, Yang would also come to discredit some of these things in the months after his campaign.
 
@@ -17,8 +17,5 @@ While Yang's presidential run can only be said to have had a net positive effect
 
 **Status**:: #EVER/SPROUT/CULTIVATE 
 
-**Related-Topics**:: [[political strategy]], [[Politics]]
+**Topics**::  [[political strategy]], [[Politics]] 
 	
-**Sub-Topics**::
-	
-**References**

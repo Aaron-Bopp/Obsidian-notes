@@ -22,9 +22,7 @@ aliases:
 
 ---
 
-**Related-Topics**:: [[eastern philosophy]], [[my emotions]]
-	
-**Sub-Topics**:: [[Emotional Quotent]], [[Emotional Deregulation]]
+**Topics**::  [[eastern philosophy]], [[my emotions]], [[Emotional Quotent]], [[Emotional Deregulation]]
 	
 **Outline**::
 

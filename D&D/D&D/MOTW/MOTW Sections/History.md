@@ -1,9 +1,9 @@
 
 When everyone has introduced their hunters, you’ll each take another turn, this time picking “History.” That’s the significant shared memories, or relationships, between [[the hunters]]. Each playbook has a list to choose from.
 
-Select one of the hunter players to start. This starting player picks a history option from the list for each other hunter in the group. Many of these options require some additional detail. Sometimes the history choice will tell you who decides on the detail. If not, just work it out between you. [[The Keeper]] or the other hunters might ask questions here as well. Answer these, too.
+Select one of the hunter players to start. This starting player picks a history option from the list for each other hunter in the group. [[Many]] of these options require some additional detail. Sometimes the history choice will tell you who decides on the detail. If not, just work it out between you. [[The Keeper]] or the other hunters might ask questions here as well. Answer these, too.
 
-If there’s an option that you’d like to assign but it’s not clear which hunter would fit it best, ask the group if anyone wants to volunteer. It’s okay if you can’t decide which option to assign to a hunter. Pass the turn to the next player and choose your remaining options after you’ve learned more.
+If there’s an option that you’d like to assign but it’s not clear which hunter would fit it best, ask the group if anyone wants to volunteer. It’s okay if you can’t decide which option to assign to a hunter. Pass the turn to the next player and choose your remaining options after you’ve [[learned]] more.
 
 At each other hunter’s turn, they’ll pick a history option for you, so in the end each pair of hunters will have two history choices defining their backstory. This gives you a good opportunity to figure out which of your history options might fit with them—and which ones might complicate your relationship.
 
@@ -25,7 +25,7 @@ If you have a move that is triggered at the beginning of a mystery, you should m
 
 Then go around the group again and have each player pick their hunter’s history with the other hunters. They do this by picking one of the shared events or relationships from the list in their playbook.
 
-Some picks require extra details: follow the instructions listed. If it doesn’t say who decides, the player concerned gets the final word. Help with suggestions if anyone has a mind-blank when the time comes to think of something, and make sure everyone’s cool with the answer.
+Some picks require extra details: follow the instructions listed. If it doesn’t say who decides, the player concerned gets the final word. Help with suggestions if anyone has a mind-blank when the time comes to think of something, and make sure everyone’s [[Cool]] with the answer.
 
 At the end, each hunter should have two facts about their history with every other member of the team (one they picked themselves, and one picked by the other hunter about them).
 
@@ -33,7 +33,7 @@ Now you can work out the team’s story, based on all those bits of history. You
 
 Mention How Things Work
 
-This is a good time to explain the player agenda ([[Hunter Agenda]]), basic [[moves]] ([[The Basic Hunter Moves]]), what to roll and add ([[How to roll for a move]]), using Luck ([[The Luck Counter]]), when to mark experience ([[Leveling Up]]), and how to level up ([[Leveling Up]]). Give just enough detail to get started, rather than trying to explain everything right now. You can fill in more details when they are needed.
+This is a good time to explain the player agenda (Hunter Agenda), basic [[moves]] (The Basic Hunter [[Moves]]), what to roll and add (How to roll for a move), using [[Luck]] (The [[Luck]] Counter), when to mark experience (Leveling Up), and how to level up (Leveling Up). Give just enough detail to get started, rather than trying to explain everything right now. You can fill in more details when they are needed.
 
 [[Running The First Mystery]]
 

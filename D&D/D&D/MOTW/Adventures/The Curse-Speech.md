@@ -4,9 +4,9 @@ The Curse-Speech
 
 # Overview
 
-In this mystery, the main threat is a language: Curse-Speech. This is a semi-sentient tongue of black magic formulas. Curse-Speech allows those who know it to use vile magic—but it also forces them to rely more and more on these foul enchantments to solve their problems. [[The hunters]] are caught in a struggle between a group of occultists devoted to this language and an ambitious businessman who learned it recently.
+In this mystery, the main threat is a language: Curse-Speech. This is a semi-sentient tongue of black [[magic]] formulas. Curse-Speech allows those who know it to use vile [[magic]]—but it also forces them to rely more and more on these foul enchantments to solve their problems. [[The hunters]] are caught in a struggle between a group of occultists devoted to this language and an ambitious businessman who [[learned]] it recently.
 
-# ![[image104.png]]Hook
+# Hook
 
 Possible leads:
 
@@ -18,11 +18,11 @@ Possible leads:
 
 -   A contact tells [[the hunters]] about the Circle of Curses and the terrible things they do.
 
--   A contact reports evil magic happenings at the mall.
+-   A contact reports evil [[magic]] happenings at the mall.
 
 # Countdown
 
-<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>Helmut uses the Curse-Speech to turn his mall’s tenants into charmed slaves.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>The Circle learns about the Curse-Speech’s abandonment of Hans, and disposes of him.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Helmut agrees to allow the Curse-Speech to hurt Lidia as part of his next spell.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td>The Circle attacks Helmut’s mall with magic.</td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>The Circle stumbles upon Lidia, explains what Helmut did to her, and teaches her Curse-Speech.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>Lidia imprisons Helmut and uses CurseSpeech to take over the city.</p></blockquote></td></tr></tbody></table>
+<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th><blockquote><p>Helmut uses the Curse-Speech to turn his mall’s tenants into charmed slaves.</p></blockquote></th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>The Circle learns about the Curse-Speech’s abandonment of Hans, and disposes of him.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Helmut agrees to allow the Curse-Speech to hurt Lidia as part of his next spell.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td>The Circle attacks Helmut’s mall with [[magic]].</td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>The Circle stumbles upon Lidia, explains what Helmut did to her, and teaches her Curse-Speech.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>Lidia imprisons Helmut and uses CurseSpeech to take over the city.</p></blockquote></td></tr></tbody></table>
 
 # Curse-Speech
 
@@ -34,23 +34,23 @@ Curse-Speech is a simple ‘language’ of about a hundred words of power and de
 
 **Powers:**
 
--   **Unlucky Listener**: The first hunter to spend Luck during this mystery will learn Curse-Speech by accident at the next opportunity. This takes the place of the hunter’s Special Move, if you are using those.
+-   **Unlucky Listener**: The first hunter to spend [[Luck]] during this mystery will learn Curse-Speech by accident at the next opportunity. This takes the place of the hunter’s Special Move, if you are using those.
 
 **Weakness:** Being banished from the minds of its hosts.
 
-Banishing anything from a person’s mind is **[[big magic]]**. Banishing the CurseSpeech when it wants to stay is really, really **[[big magic]]**. The ritual requires:
+Banishing anything from a person’s mind is **[[Big Magic]]**. Banishing the CurseSpeech when it wants to stay is really, really **[[Big Magic]]**. The ritual requires:
 
 -   Three participants in addition to the subject.
 
 -   A plate made from a precious material inscribed with the information that is to be forgotten.
 
--   A fire able to destroy the plate, probably a magical one.
+-   A [[fire]] able to destroy the plate, probably a magical one.
 
--   The subject of the ritual must abstain from practicing any magic for a week afterwards or they will remember the Curse-Speech again.
+-   The subject of the ritual must abstain from practicing any [[magic]] for a week afterwards or they will remember the Curse-Speech again.
 
-**Custom [[Moves]]:**
+**[[Custom Moves]]:**
 
-**Cursed Mind**: When you first learn Curse-Speech, roll [[+Cool]]:
+**Cursed Mind**: When you first learn Curse-Speech, roll +[[Cool]]:
 
 -   On a 10+ you [[hold]] 3 and [[the Keeper]] holds 1.
 
@@ -58,11 +58,11 @@ Banishing anything from a person’s mind is **[[big magic]]**. Banishing the Cu
 
 -   On a miss, [[the Keeper]] holds 3.
 
-You can spend your holds to change any **cursed magic** [[moves]] into regular **[[Use Magic]]** instead. [[The Keeper]]’s holds are used to force the hunter to cast a **cursed magic** spell in any situation when magic could help them out.
+You can spend your holds to change any **cursed [[magic]]** [[moves]] into regular **[[Use Magic]]** instead. [[The Keeper]]’s holds are used to force the hunter to cast a **cursed [[magic]]** spell in any situation when [[magic]] could help them out.
 
-**Cursed Magic**: When you **know the Curse-Speech and [[Use Magic]]**, you must use this cursed version of the move. Roll [[+Weird]]:
+**Cursed [[Magic]]**: When you **know the Curse-Speech and [[Use Magic]]**, you must use this cursed version of the move. Roll +[[Weird]]:
 
--   On an 11+ your magic works as advanced **[[Use Magic]]**. [[The Keeper]] also gains 1 **Cursed Mind** [[hold]] as the power overwhelms you.
+-   On an 11+ your [[magic]] works as advanced **[[Use Magic]]**. [[The Keeper]] also gains 1 **Cursed Mind** [[hold]] as the power overwhelms you.
 
 -   On a 9+, treat this as a 10+ **[[Use Magic]]** result.
 
@@ -78,9 +78,9 @@ Choose one of the glitches listed below (in addition to any normal glitches requ
 
 -   Somebody present learns the Curse-Speech.
 
-If you’re using alternative Weird [[moves]], then hunters with new [[moves]] instead of **[[Use Magic]]** gain the ability to [[Use Magic]] when they know the Curse-Speech.
+If you’re using alternative [[Weird]] [[moves]], then hunters with new [[moves]] instead of **[[Use Magic]]** gain the ability to [[Use Magic]] when they know the Curse-Speech.
 
-Those with classic **[[Use Magic]]** get an additional +1 on the Cursed Magic move.
+Those with classic **[[Use Magic]]** get an additional +1 on the Cursed [[Magic]] move.
 
 # Helmut Salzwedel
 
@@ -116,11 +116,11 @@ Talkative and open owner of the bistro; everybody’s friend here. However, he d
 
 # The Circle of Curses
 
-A group of black mages who have known Curse-Speech for a long time, did terrible things with it, and have learned to use it quite safely... so safely that the language left Hans (the least promising of them all) and moved on. Now the Circle are doing their best to find if there is a new Curse-Speaker. They aim to ally with him... or eliminate him.
+A group of black mages who have known Curse-Speech for a long time, did terrible things with it, and have [[learned]] to use it quite safely... so safely that the language left Hans (the least promising of them all) and moved on. Now the Circle are doing their best to find if there is a new Curse-Speaker. They aim to ally with him... or eliminate him.
 
-All the Circle members have the same abilities (except Hans, who can no longer use the black magic attack).
+All the Circle members have the same abilities (except Hans, who can no longer use the black [[magic]] attack).
 
-**Attacks:** **Black magic** 2-[[harm]] close ignore-[[armour]] magic. **Dagger** 1-[[harm]] hand.
+**Attacks:** **Black [[magic]]** 2-[[harm]] [[close]] [[ignore-armour]] [[magic]]. **Dagger** 1-[[harm]] [[hand]].
 
 **[[Harm]] capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Weakness:** None, just a regular human.
 
@@ -130,11 +130,11 @@ Below are the members of the circle: Ilse Herschwor
 
 Ambitious, stubborn, with the darkest past of any in the Circle. Wolfgang Dietrich
 
-*Minion: Guardian (motivation: to bar the way or protect something)*
+*Minion: [[Guardian]] (motivation: to bar the way or protect something)*
 
 Silent, observant, always plotting something. Lene Janz
 
-*Minion: Brute (motivation: to intimidate and attack)* Loud, loyal to the Circle, arrogant.
+*Minion: Brute (motivation: to intimidate and attack)* [[Loud]], loyal to the Circle, arrogant.
 
 ## Peter Messmann
 

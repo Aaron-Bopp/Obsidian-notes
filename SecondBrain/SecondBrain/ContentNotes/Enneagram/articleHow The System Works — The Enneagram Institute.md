@@ -1,4 +1,5 @@
 ###   
+
 **Introduction to the Enneagram**
 
 This explanation covers the basics that you will need to understand how the Enneagram works, and will be especially helpful for beginners. As you will see, only a few simple concepts are needed to begin your journey of self-discovery. The Enneagram, however, is ultimately subtle and complex, as you will appreciate the more you use it in your life. For additional guidelines, consult [_Personality Types_](https://www.enneagraminstitute.com/store)_,_ 27-55, and for further clarifications [_Understanding the Enneagram_](https://www.enneagraminstitute.com/store), 11-30.
@@ -49,6 +50,7 @@ Several more points can be made about the basic type itself.
     
 
 ###   
+
 **Identifying Your Basic Personality Type**
 
 If taken properly, our questionnaire, the [Riso-Hudson Enneagram Type Indicator (RHETI](http://tests.enneagraminstitute.com/)® [version 2.5)](http://tests.enneagraminstitute.com/), will identify your basic personality type for you. This short section is included so that we can have a basic understanding of the types in our discussion without having to go to the longer descriptions in the next section.

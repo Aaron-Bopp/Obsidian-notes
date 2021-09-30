@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Realism must acknowledge optimism's existence]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Realism must acknowledge optimism's existence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 As a realistic person you cannot fall into the trap that [[Sadness is enlightenment and happiness is delusion]]. You should ask yourself, who do I look up to: the people who's realistic view of the world leads them to inaction or the people who's optimistic view of the world leads them to action.
 
@@ -19,6 +19,6 @@ Even if you think that optimism is ignorant it does not change the fact that opt
 
 **Status**:: #EVER/SPROUT/CULTIVATE 
 
-**Related Topics**:: [[pessimism]], [[realism]], [[optimism]], [[human advancement]], [[purpose]]
+**Topics**::  [[pessimism]], [[realism]], [[optimism]], [[human advancement]], [[purpose]]
 	
 **Last Edited**:: *`=this.file.mtime`*

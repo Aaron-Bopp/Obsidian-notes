@@ -5,7 +5,7 @@ note-type:
 
 ---
 
-##### [[Self-hatred is born out of dissonance between self-image and self-perception]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Self-hatred is born out of dissonance between self-image and self-perception]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Self-image]] and [[self-perception]] are very closely related concepts, but they can both be influenced by outside factors and when they don't line up you end up with parts of your body and presentation you don't like.
 
@@ -22,7 +22,7 @@ If your [[self-image]] is correct, your [[self-perception]] may be off. You may 
 
 **Status**:: #EVER/SEED/WATER 
 
-**Related-Topics**:: [[mental health]], [[self-love]], [[self-hate]], [[trauma]], [[gender dysphoria]], [[body dysmorphia]]
+**Topics**::  [[mental health]], [[self-love]], [[self-hate]], [[trauma]], [[gender dysphoria]], [[body dysmorphia]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 

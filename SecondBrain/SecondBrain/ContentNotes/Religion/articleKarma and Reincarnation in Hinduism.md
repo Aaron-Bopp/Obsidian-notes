@@ -11,7 +11,8 @@ bib:
 ---
 
 ###### [[Karma and Reincarnation in Hinduism]]
-**Related-Topics**:: [[Bhuddism]], [[eastern philosophy]]
+
+**Topics**::  [[Bhuddism]], [[eastern philosophy]]
 
 **Last Edited**:: *`=this.file.mtime`*
 
@@ -91,6 +92,7 @@ There are one billion Hindus in the world today. [[Hinduism]] attends to the nee
 
 Post Views: 1,339
 ##### PlainText
+
 **Insights on Two Fundamental [[Hinduism|Hindu]] Concepts From the Teachings of Sivaya Subramuniyaswami**
 
 Our wise Rishis of long ago desired to know the mysteries of life and death. What happens after death? Why is there so much [[happiness]] for some and [[suffering]] for others in a lifetime? The Gods revealed to the rishis in their deepest meditations the answers to these puzzling questions. They revealed the laws of [[karma]] and [[reincarnation]] which are now two of [[Hinduism]]’s most central beliefs. They capsulize our ancient [[religion]]’s view of life, death and immortality. All Hindus know that they take many births and receive the results of their own actions in this and future lives.

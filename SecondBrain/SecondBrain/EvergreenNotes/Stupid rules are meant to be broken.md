@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Stupid rules are meant to be broken]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Stupid rules are meant to be broken]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is really more saying if a rule is stupid you are justified in breaking it. Or if you have a big reason to break a rule you're justified in making it.
 
@@ -16,7 +16,7 @@ This is really more saying if a rule is stupid you are justified in breaking it.
 
 **Status**:: #EVER/SEED 
 
-**Related Topics**:: [[social justice]], [[fairness]]
+**Topics**::  [[social justice]], [[fairness]]
 
 **Last Edited**:: *`=this.file.mtime`*
 	

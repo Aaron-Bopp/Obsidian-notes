@@ -413,6 +413,7 @@ DUFFIN: Hendren and his colleagues decided to not just release data but to turn 
 ![](media/image15.png){width="7.2653062117235345in" height="9.342804024496937in"}
 
 **\
+
 **
 
 ![](media/image16.png){width="7.081632764654418in" height="9.549300087489064in"}
@@ -423,9 +424,11 @@ DUFFIN: Hendren and his colleagues decided to not just release data but to turn 
 ![](media/image18.png){width="7.01994094488189in" height="9.571428258967629in"}
 
 **\
+
 **![](media/image19.png){width="7.0612237532808395in" height="9.265277777777778in"}
 
 **\
+
 **
 
 ![](media/image20.png){width="7.02040791776028in" height="9.716057524059492in"}

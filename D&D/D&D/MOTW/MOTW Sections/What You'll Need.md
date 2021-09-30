@@ -6,11 +6,11 @@ Make sure you have:
 - copies of the hunter playbooks (each of these is a rules reference and record sheet for your hunter)
 - enough hunter reference sheets to go round
 - a Keeper reference sheet
-- one mystery sheet for [[the Keeper]], or an introductory mystery to play (there’s one [[Introductory Mystery: Dream Away the Time]])
+- one mystery sheet for [[the Keeper]], or an introductory mystery to play (there’s one Introductory Mystery: Dream Away the Time)
 - pencils and note paper for everyone
 - a pair of normal six-sided dice for each hunter (the Keeper won’t need dice). 
 
-Also handy, mostly for [[the Keeper]], is a big list of names that you can use for the characters that will be part of the game (I like to use the Story Games Names Project book, but a phone book or the cast and crew list of a film work just as well). If you want to set your adventures in real places you’ll find a source of maps, such as Google Maps, will also be useful.
+Also handy, mostly for [[the Keeper]], is a big list of names that you can use for the characters that will be part of the game (I like to use the Story Games Names Project book, but a phone book or the cast and crew list of a film work just as well). If you want to set your adventures in real places you’ll find a source of maps, such as Google Maps, will also be [[useful]].
 
 It’s a good idea to have drinks and snacks for everyone, too.
 

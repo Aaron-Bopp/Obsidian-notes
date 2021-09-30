@@ -9,7 +9,7 @@ Rules . . . . . . . . . . 15
 
 [[Special Luck Moves]] . . . . . . . . . . 27
 
-[[More Flexible Investigations]] . 29
+More Flexible Investigations . 29
 
 ## New Hunters . . . . . 31
 

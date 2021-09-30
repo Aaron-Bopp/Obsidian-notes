@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Republican voters do not hold their leaders accountable]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Republican voters do not hold their leaders accountable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
  [[Reagan]]'s campaigns were full of unfulfilled promises, but his rhetoric and charm were enough to keep his approval rating high for his entire two terms.
  
@@ -15,7 +15,7 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: [[Republican]], [[Politics]]
+**Topics**::  [[Republican]], [[Politics]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

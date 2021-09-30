@@ -40,10 +40,7 @@ It also has a variety of plugins that help the workflow
 
 **Status**:: #EVER/GREEN  
 
-**Related-Topics**:: [[Zettlekassen]], [[second brain]]
-	
-**Sub-Topics**:: [[how I use Obsidian tags]]
+**Topics**::  [[Zettlekassen]], [[second brain]], [[how I use Obsidian tags]]
 	
 **Outline**::
 
-**References**

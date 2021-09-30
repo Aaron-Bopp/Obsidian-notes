@@ -5,13 +5,13 @@ Think about whether it is a monster, minion, bystander, or location. If it doesn
 
 Example Custom Threat: An Evil Cult
 
-This custom threat represents an evil cult infesting a small town. It’s a minion threat.
+This custom threat represents an evil cult infesting a [[small]] town. It’s a minion threat.
 
 *They’re Everywhere!* (motivation: make people scared to speak out).
 
 This threat has this custom move.
 
-When a hunter **asks locals about something weird**, roll [[+Sharp]].
+When a hunter **asks locals about something [[Weird]]**, roll +[[Sharp]].
 
 On a 10+, the hunter works out:
 

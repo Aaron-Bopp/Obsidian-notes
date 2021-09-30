@@ -11,7 +11,9 @@ bib:
 ---
 
 ###### [[Ancient Cave Art Full of Teenage Graffiti]]
-**Related-Topics**:: [[ancient history]], [[human survival]], [[human advancement]]
+
+**Topics**::  [[ancient history]], [[human survival]], [[human advancement]]
+
 **Last Edited**:: *`=this.file.mtime`*
 
 - Cave art was mainly done by hand, and by observing hand sizes they were able to determine that most were done by teenage boys [^1]

@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
-##### [[How I process repressed emotions]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[How I process repressed emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 1. Triggering event. Usually these happen it situations where I am masking, so sometimes I don't really notice the event, but sometimes it will trigger [[Hypervigilance]]
 2. Some amount of time of feeling low/shitty/meh. If the event was strong it can be short because I can recognize the event and can identify the emotion, but sometimes it builds over days and then I have to parse through everything that's happened to me to find the source
@@ -37,6 +37,6 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*

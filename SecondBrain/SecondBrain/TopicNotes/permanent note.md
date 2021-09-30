@@ -15,10 +15,7 @@ A permanent note is a singular concept that you have conceptualized and written 
 
 **Status**:: #EVER/SPROUT  
 
-**Related-Topics**:: [[Zettlekassen]], [[personal knowledge management]], [[evergreen notes]]
-	
-**Sub-Topics**:: 
+**Topics**::  [[Zettlekassen]], [[personal knowledge management]], [[evergreen notes]]  
 
 ---
 	
-**References**

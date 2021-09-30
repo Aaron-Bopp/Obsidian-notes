@@ -202,6 +202,7 @@ That's especially the case if the restrictions target minority [[America|America
 # 
 
 **\
+
 **
 
 # Senate Report: Russians Used Social Media Mostly To Target Race In 2016
@@ -243,6 +244,7 @@ The recommendations of the report include better coordination between social [[m
 The report also recommends that [[Congress]] pass legislation that requires that tech platforms disclose who paid for online political advertisements and that the executive branch form an interagency task force to monitor foreign use of social [[media]] for [[democratic]] interference.
 
 **\
+
 **
 
 # Election Officials To Convene Amid Historic Focus On Voting And Interference

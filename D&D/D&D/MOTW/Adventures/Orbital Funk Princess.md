@@ -6,7 +6,7 @@ Orbital Funk Princess
 
 # Overview
 
-A vengeful fairy, angry over a real or imagined slight, has infiltrated the world, learned technology, and created the most addictive video game ever. He has targeted one town to start things off.
+A vengeful fairy, angry over a real or imagined slight, has infiltrated the world, [[learned]] technology, and created the most addictive video game ever. He has targeted one town to start things off.
 
 The game—*Orbital Funk Princess*—is so compelling that once someone picks it up, they must keep playing it. They keep playing the game to the exclusion of eating, drinking, or taking care of themselves at all. The game causes them to kill themselves through exhaustion, starvation, and related conditions such as thrombosis.
 
@@ -22,7 +22,7 @@ Potential leads:
 
 “Hey, isn’t that the game that was in the news because someone played it until they died?”
 
--   A hunter’s relative has been in contact, concerned about a cousin they haven’t heard from in a while. The last they heard from the cousin, they were excited about a new video game.
+-   A hunter’s relative has been in contact, concerned about a cousin they [[haven]]’t heard from in a while. The last they heard from the cousin, they were excited about a new video game.
 
 # Countdown
 
@@ -34,7 +34,7 @@ Potential leads:
 
 Gaibriel is a tech-savvy fairy who’s angry with humanity. His vendetta began when he tried to entice some modern children away into the forest but they were too busy playing *Pokemon Go* to follow him. He’s decided to use the power of video games against humankind to get his revenge.
 
-He is unwilling to stop his plan or give [[the hunters]] any information at all, but he isn’t a very tough fae and not much of a fighter. He’s a trickster, hence his roundabout approach. If trapped and threatened, he will break the spell but he’ll try to mess with [[the hunters]] when he does it (e.g. insisting that the counter spell involves all [[the hunters]] skipping in a circle holding hands and singing, and covering them with indelible glitter. Harmless but annoying.)
+He is unwilling to stop his plan or give [[the hunters]] any information at all, but he isn’t a very [[Tough]] fae and not much of a fighter. He’s a trickster, hence his roundabout approach. If trapped and threatened, he will break the spell but he’ll try to mess with [[the hunters]] when he does it (e.g. insisting that the counter spell involves all [[the hunters]] skipping in a circle holding hands and singing, and covering them with indelible glitter. Harmless but annoying.)
 
 He has no official course of distribution but has been planting the games in secondhand sales at game shops, leaving them in public libraries, and selling them at a stall in a rundown flea market along with other bric-a-brac.
 
@@ -50,13 +50,13 @@ Gameplay is a straightforward first-person shooter. The animation is pretty with
 
 **Weaknesses:**
 
-The game’s curse can be cured by breaking the disc. However, the disc is magically protected: either the protective spell must be broken first, or an enchanted or holy weapon can break the disc and spell in one hit.
+The game’s curse can be cured by breaking the disc. However, the disc is magically protected: either the protective spell must be broken first, or an enchanted or [[holy]] weapon can break the disc and spell in one hit.
 
-Gaibriel can be fought; he’s physically weak, although his magic and knowledge of tech is strong. If he can be defeated, he can be made to break the spell entrancing the workers in the factory, which will stop the manufacture of the games.
+Gaibriel can be fought; he’s physically weak, although his [[magic]] and knowledge of tech is strong. If he can be defeated, he can be made to break the spell entrancing the workers in the factory, which will stop the manufacture of the games.
 
 **Custom Move:**
 
-If **you touch the game disc or see someone else playing it**, roll + Cool. You get +1 on the roll if you are watching someone else play, but -1 if you play it yourself.
+If **you touch the game disc or see someone else playing it**, roll + [[Cool]]. You get +1 on the roll if you are watching someone else play, but -1 if you play it yourself.
 
 -   On a 10+, it seems like a fun game—something is really neat about the music and images though you can’t describe what exactly.
 

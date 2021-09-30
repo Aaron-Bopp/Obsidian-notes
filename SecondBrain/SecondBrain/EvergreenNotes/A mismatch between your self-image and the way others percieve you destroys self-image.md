@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[A mismatch between your self-image and the way others percieve you destroys self-image]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[A mismatch between your self-image and the way others percieve you destroys self-image]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -14,6 +14,6 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: [[mental health]], [[self-perception]]
+**Topics**::  [[mental health]], [[self-perception]]
 	
 **Last Edited**:: *`=this.file.mtime`*

@@ -3,7 +3,7 @@ Start by coming up with a concept. Think about:
 
 - Favourite [[monsters]] from myth, folklore, urban legend or popular culture.
 - Loose ends from previous mysteries.
-- The next problem from one of your [[arcs]] (see [[0000741446]]).
+- The next problem from one of your [[arcs]] (see 0000741446).
 - Steal a plot from somewhere else and file off the serial numbers (by changing the location and/or type of monster).
 - A place you’ve been, or know about, that has potential as somewhere a monster could be lurking.
 - Any secrets [[the hunters]] found out and want to explore.

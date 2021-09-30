@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Parents need to model the ability to deal with emotion to their children]] `=length([[Parents need to model the ability to deal with emotion to their children]].file.inlinks) + length([[Parents need to model the ability to deal with emotion to their children]].file.outlinks)`
+#### [[Parents need to model the ability to deal with emotion to their children]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/EXPLORE/RESEARCH how this works
 
@@ -14,8 +14,5 @@ note-type:
 
 **Status**:: #EVER/SEED 
 
-**Related-Topics**:: [[human advancement]], [[Neuroscience]], [[social fitness]] [[self care]], [[self soothing]], [[self-validation]]
+**Topics**::  [[human advancement]], [[Neuroscience]], [[social fitness]], [[self care]], [[self soothing]], [[self-validation]] 
 	
-**Sub-Topics**::
-	
-**References**

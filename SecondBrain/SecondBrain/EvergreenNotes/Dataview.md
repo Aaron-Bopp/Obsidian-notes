@@ -7,7 +7,7 @@ note-type:
 ---
 
 
-**Related-Topics**:: [[INDEX]]
+**Topics**::  [[INDEX]]
 
 [[dataview]] is an plugin for [[obsidian (software)]] that allows for [[sql]] like queries over the notes in your obsidian vault.
 
@@ -34,6 +34,7 @@ snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, http
 ## handy functions 
 ![[DVJSFUNCS]]
 # queries
+
 ### basic syntax
 ```
 table|list|task <field> [as "column name"], <field>, ..., <field> from<source> (like [[tag]] or "folder")`
@@ -147,8 +148,5 @@ if (topicPages.length + egPages.length + contentPages.length !== 0) {
 
 **Status**:: #EVER/SPROUT 
 
-**Related-Topics**:: [[SQL]], [[data querrying]], 
+**Topics**::  [[SQL]], [[data querrying]],  
 	
-**Sub-Topics**::
-	
-**References**

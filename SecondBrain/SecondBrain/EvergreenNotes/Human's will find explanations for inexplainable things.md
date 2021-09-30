@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Human's will find explanations for inexplainable things]] `=length([[Human's will find explanations for inexplainable things]].file.inlinks) + length([[Human's will find explanations for inexplainable things]].file.outlinks)`
+#### [[Human's will find explanations for inexplainable things]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Human's have an inability to admit that they are wrong]]
 
@@ -16,8 +16,6 @@ note-type:
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related-Topics**:: [[Neuroscience]] 
+**Topics**::  [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]]
 	
-**Sub-Topics**:: [[human experience]], [[human advancement]], [[human survival]]
-	
-**References**:: [[Existential Dread]]
+:: [[Existential Dread]]

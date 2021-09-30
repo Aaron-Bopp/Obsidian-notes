@@ -5,13 +5,13 @@ note-type:
 aliases:
 - 
 ---
-##### [[Gender is a social construct]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Gender is a social construct]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*

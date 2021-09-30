@@ -1,4 +1,4 @@
-### References
+
 ---
 creation date: 2021-06-13
 modification date: Sunday 13th June 2021 13:29:43
@@ -8,9 +8,10 @@ note-type:
 - tool
 ---
 
-###### [[Dual]] `=length([[Dual]].file.inlinks) + length([[Dual]].file.outlinks)`
+#### [[Dual]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 **Source Code**:: https://github.com/Psionica/Dual
+
 **Docs**:: https://psionica.org/docs/workshop/dual/
 
 Dual is a digital assistant powered by [[GPT]] that interacts with your [[Obsidian (software)]] notes and uses its trained language model ([[NLP]]) to preform various tasks. It can be prompted with natural language commands and trained with various skills to perform more defined functions. It can also use code snippets to perform various more complicated functions.
@@ -32,8 +33,5 @@ Dual Skills
 
 **Status**:: #EVER/SPROUT 
 
-**Related-Topics**:: [[second brain]], [[personal knowledge management]],
+**Topics**::  [[second brain]], [[personal knowledge management]],  [[AI]], [[Machine Learning]], [[NLP]]
 	
-**Sub-Topics**:: [[AI]], [[Machine Learning]], [[NLP]]
-	
-**References**

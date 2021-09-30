@@ -8,9 +8,9 @@ Elvis Has Left the Building
 
 # Concept
 
-![[image114.png]][[The hunters]] investigate several bizarre appearances of the famously deceased Elvis Presley socializing with also-deceased ex-President Richard Nixon in their local community.
+![[image114.png]]The hunters investigate several bizarre appearances of the famously deceased Elvis Presley socializing with also-deceased ex-President Richard Nixon in their local community.
 
-Almost everyone regards this case as a joke: typical of the silly tabloid ghost hunting stories that the *In Search of the Supernatural* television series is famous for producing. However, it offers [[the hunters]] the possibility of some quick money for very little work.
+Almost everyone regards this case as a joke: typical of the silly tabloid ghost hunting stories that the *In Search of the Supernatural* television series is famous for producing. However, it offers [[the hunters]] the possibility of some [[quick]] money for very little work.
 
 # Overview
 
@@ -18,7 +18,7 @@ Almost everyone regards this case as a joke: typical of the silly tabloid ghost 
 
 The problem is that Amy’s subconscious has created a “Rabbit of
 
-Caerbannog” tulpa from her memories of *Monty Python and the Holy*
+Caerbannog” tulpa from her memories of *Monty Python and the [[Holy]]*
 
 *Grail*. This new tulpa will begin by murdering Nixon, then Elvis, and finally Amy herself before it disappears back into non-existence.
 
@@ -46,9 +46,9 @@ Potential leads:
 
 -   The tulpa is a concept in mysticism and the paranormal of a being or object that is willed into existence through spiritual or mental powers. It was adapted by 20th century theosophists from Tibetan religious practices. Modern practitioners use the term to refer to a type of willed imaginary friend which practitioners consider to be sentient and relatively autonomous. The concept of the tulpa was popularized in the Western world through fiction, gaining prominence in the late 1990s and 2000s.
 
--   Since 2009, anonymous posters on the discussion board 4chan started experimenting with creating tulpas, and the community gained popularity through the emergence of the *My Little Pony: Friendship Is Magic* fandom. The fans attempted to use meditation and lucid dreaming techniques to create imaginary friends. These individuals, calling themselves ‘tulpamancers,’ treat the tulpas as a
+-   Since 2009, anonymous posters on the discussion board 4chan started experimenting with creating tulpas, and the community gained popularity through the emergence of the *My Little Pony: Friendship Is [[Magic]]* fandom. The fans attempted to use meditation and lucid dreaming techniques to create imaginary friends. These individuals, calling themselves ‘tulpamancers,’ treat the tulpas as a
 
-‘real or somewhat-real person.’ Due to this unlikely connection, some *My Little Pony* websites provide useful and accurate information about tulpas when [[the hunters]] investigate on the Web.
+‘real or somewhat-real person.’ Due to this unlikely connection, some *My Little Pony* websites provide [[useful]] and accurate information about tulpas when [[the hunters]] investigate on the Web.
 
 # Amy Caulfield, grifter and tulpamancer
 
@@ -64,13 +64,13 @@ If there’s a fight or other stressful situation in the bar, Amy might create m
 
 A tulpa is an imaginary minion brought to life through pure will, lasting for a single hour. It is usually based on a fictional creation or historical figure with whom the creator has a strong emotional connection.
 
-Normal tulpas only have the abilities of the person who created them. They doesn’t have any special powers, attacks, or [[armour]]. They only possess the knowledge and abilities of their creator. They may be destroyed by magic and will fade back into the subconscious of their creator within an hour of their creation. If killed, a tulpa’s corpse will fade from existence within an hour.
+Normal tulpas only have the abilities of the person who created them. They doesn’t have any special powers, attacks, or [[armour]]. They only possess the knowledge and abilities of their creator. They may be destroyed by [[magic]] and will fade back into the subconscious of their creator within an hour of their creation. If killed, a tulpa’s corpse will fade from existence within an hour.
 
 An evil tulpa will not fade after an hour. It will continue to manifest randomly (at [[the Keeper]]’s discretion) to [[harm]] its creator in some way. Tulpas always manifest an item an that can take advantage of their weakness. Tulpas of any type will always disappear if their creator dies.
 
-**Custom [[Moves]]:**
+**[[Custom Moves]]:**
 
-To **summon a tulpa** you must be able to use some sort of magic and have studied the process. A hunter trying it may have to **[[act under pressure]]** to stay focused while visualizing the tulpa. Roll [[+Weird]]:
+To **summon a tulpa** you must be able to use some sort of [[magic]] and have studied the process. A hunter trying it may have to **[[Act Under Pressure]]** to stay focused while visualizing the tulpa. Roll +[[Weird]]:
 
 -   On a 10+, a tulpa appears, totally under your control.
 
@@ -94,13 +94,13 @@ This is the Las Vegas Elvis of popular lore in full regalia, but he is a carefre
 
 *Monster: Torturer (motivation: to hurt and terrify)*
 
-This unpredictable ‘bunny’ may look cute and cuddly on the outside, but inside it is a monstrous killing machine. The rabbit is cunning and targets the vital parts of its victim’s body to make a fast kill. Its mouth is full of razor-sharp teeth, like a big cat. It is surprisingly swift, violent, agile, deadly, aggressive, bloodthirsty, and carnivorous.
+This unpredictable ‘bunny’ may look cute and cuddly on the outside, but inside it is a monstrous killing machine. The rabbit is cunning and targets the vital parts of its victim’s body to make a fast kill. Its mouth is full of razor-[[Sharp]] teeth, like a big cat. It is surprisingly swift, violent, agile, deadly, aggressive, bloodthirsty, and carnivorous.
 
 When attacking multiple foes, the rabbit quickly jumps from one target to another, giving those it’s fighting no chance to stop it. **Powers:**
 
--   **Extremely fast and long jump**: After it inflicts [[harm]] on a target, it may instantly jump up to far range (including to another target).
+-   **Extremely fast and long jump**: After it inflicts [[harm]] on a target, it may instantly jump up to [[far]] range (including to another target).
 
-**Attack:** **Bite** 5-[[harm]] hand messy.
+**Attack:** **Bite** 5-[[harm]] [[hand]] [[messy]].
 
 **[[Armour]]:** 0. Soft fur, often bloody.
 
@@ -108,7 +108,7 @@ When attacking multiple foes, the rabbit quickly jumps from one target to anothe
 
 **Weaknesses:**
 
--   **Holy Hand Grenade of Antioch**. The Holy Hand Grenade will appear randomly in the bar whenever the monster appears. It looks like a jewelled orb with a crucifix on top, and definitely looks out of place in the bar. The ‘grenade’ does 30-[[harm]] but only to rabbits and scenery.
+-   **[[Holy]] [[Hand]] Grenade of Antioch**. The [[Holy]] [[Hand]] Grenade will appear randomly in the bar whenever the monster appears. It looks like a jewelled orb with a crucifix on top, and definitely looks out of place in the bar. The ‘grenade’ does 30-[[harm]] but only to rabbits and scenery.
 
 -   The death of Amy Caulfield.
 

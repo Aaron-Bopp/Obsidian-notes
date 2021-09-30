@@ -9,7 +9,7 @@ aliases:
 
 
 
-###### [[Monster of the Week]]
+#### [[Monster of the Week]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 In Monster of the Week, the existence of monsters is just below the surface of societies collective consciousness. Much like our real world you've heard ghost stories, and watched shows about bigfoot hunting, maybe you even saw a shape in the shadows that you were just never able to explain. Maybe you never thought they were real, or you had an odd fascination with finding out, or maybe you got a little closer than most people that would have wanted, but there wasn't anything special about you, until you were thrust, pulled, or jumped into the world of monsters. ^9b6191
 
@@ -25,8 +25,13 @@ Monster of the Week is a [[TTRPG]] that aims to create condensed and succinct ad
 
 **Status**:: #EVER/SPROUT 
 
-**Related-Topics**:: [[DnD]], [[TTRPG]], [[role-playing]] 
-	
-**Sub-Topics**::  [[improv]], [[acting]], [[social interaction]], [[inter-personal communication]]
+**Topics**::  [[DnD]], [[TTRPG]], [[role-playing]], [[improv]], [[acting]], [[social interaction]], [[inter-personal communication]]
 
-**References**::
+::
+
+[Sand Thing – Medium monstrosity, unaligned](https://twitter.com/fluffy_folio/status/1442843735008624654)
+
+Feeding on mummified corpses preserved in the hot soils since ancient times, the sand things dig their far reaching tunnels completely unnoticed by the surface-dwelling folks.
+![](https://pbs.twimg.com/media/FAYCqLgXoAcOODE?format=jpg&name=medium)
+![](https://pbs.twimg.com/media/FAYCqMHXsAQWFhw?format=jpg&name=medium)
+![](https://pbs.twimg.com/media/FAYCqMTXEAoAsjy?format=jpg&name=medium)

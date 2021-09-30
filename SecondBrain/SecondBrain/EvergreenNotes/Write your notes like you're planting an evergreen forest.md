@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Write your notes like you're planting an evergreen forest]]
+#### [[Write your notes like you're planting an evergreen forest]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 You don't need to know how to cut down a forest when you start spreading seeds. All you need to start an evergreen forest is seeds ([[write what you think]]) and a place to plant them ([[Choosing a note writing system]]). 
 
@@ -19,9 +19,7 @@ That being said, if you don't know what an evergreen forest looks like you don't
 
 **Status**:: #EVER/GREEN   
 
-**Related-Topics**:: [[evergreen notes]], [[second brain]], [[My Second Brain]], [[note writing]], [[Zettlekassen]]
+**Topics**::  [[evergreen notes]], [[second brain]], [[My Second Brain]], [[note writing]], [[Zettlekassen]] 
 	
-**Sub-Topics**::
-	
-**References** 
+ 
 

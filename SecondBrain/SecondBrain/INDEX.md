@@ -5,17 +5,11 @@ note-type:
 - evergreen-note
 - organizational-note
 - topic-note
-embedded:
-- [[personal knowledge management]]
-- [[mental health]]
-- [[Neuroscience]]
-- [[Christianity]]
-- [[gender]]
-- [[self]]
-- [[Politics]]
 date updated: Thursday, September 16th 2021, 10:08:44 pm
 ---
-
+```ActivityHistory
+/
+```
 This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[personal knowledge management]] system.
 
 # Entry Points
@@ -41,35 +35,33 @@ This is a constantly updated index of entry points and topics for my personal fl
 	- [[EVERGREENNOTES]]
 	- [[CONTENTNOTES]]
 
-- ![[Dataview#Get number notes with every note-type]]
-
+- ![[Dataview#Dataview customJS dv_funcs topicOutlineHeader dv this]]
 # Topic Outlines
 
 ## <hr class="embedded"/>
 
- ![[mental health#mental health length mental health file inlinks]]
+ ![[mental health#mental health customJS dv_funcs topicOutlineHeader dv this]]
 
 ## <hr class="embedded"/>
 
-![[gender#gender length this file inlinks]]
+![[gender#gender customJS dv_funcs topicOutlineHeader dv this]]
 
 ## <hr class="embedded"/>
 
- ![[Neuroscience#this file link length this file inlinks]]
+ ![[Neuroscience#Neuroscience customJS dv_funcs topicOutlineHeader dv this]]
 
 ## <hr class="embedded"/>
 
-![[self#self length this file inlinks]]
+![[self#self customJS dv_funcs topicOutlineHeader dv this]]
 
 ## <hr class="embedded"/>
 
-![[Politics#Politics length this file inlinks]]
+![[Politics#Politics customJS dv_funcs topicOutlineHeader dv this]]
 
 ## <hr class="embedded"/>
 
- ![[personal knowledge management#personal knowledge management length this file inlinks]]
+ ![[personal knowledge management#personal knowledge management customJS dv_funcs topicOutlineHeader dv this]]
 
 ## <hr class="embedded"/>
 
- ![[Christianity#this file link length this file inlinks]]
-
+ ![[Christianity#Christianity customJS dv_funcs topicOutlineHeader dv this]]

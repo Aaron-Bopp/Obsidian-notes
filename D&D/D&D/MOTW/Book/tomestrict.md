@@ -60,9 +60,9 @@ Meanwhile, I realised the two of us had never played an on-going game. In mid-20
 
 ## When you first play a game that's Powered by the Apocalypse, roll +Weird
 
-That first contact with *Apocalypse World* was definitely weird.
+That first contact with *Apocalypse World* was definitely [[Weird]].
 
-As a group, we were figuring out the implications of the rules. How tough were our characters? If I got ambushed by four resentful members of my cult, was that a death sentence? How did [[moves]] trigger and who was responsible for noticing it? Did the [[History]] rules make sense? What about advancement? What happens when you change playbooks?
+As a group, we were figuring out the implications of the rules. How [[Tough]] were our characters? If I got ambushed by four resentful members of my cult, was that a death sentence? How did [[moves]] trigger and who was responsible for noticing it? Did the [[History]] rules make sense? What about advancement? What happens when you change playbooks?
 
 It was glorious. Mike, Sophie, Simon, and I leapt into creating a world that had been fractured into multiple universes, and into conflicts between our characters that had me utterly absorbed.
 
@@ -124,7 +124,7 @@ If you’re interested in hacking *Monster of the Week* or creating your own gam
 
 ## When you design A Game, your playtesters will tell you what you need
 
-The Luck rules were a late addition. They came from this comment after our first playtest:
+The [[Luck]] rules were a late addition. They came from this comment after our first playtest:
 
 *“Jamie had a little bit of cognitive dissidents: their Wronged character was a badass in their head, but fumbled quite a few rolls.”*
 
@@ -170,11 +170,11 @@ Two mysteries are great, as long as you realise it’ll take much longer than no
 
 And now, three things I loved figuring out:
 
-**Magic doesn’t have to take the form of a spell .** For my latest group, magic came from creating potions ... and I finally got to use the ‘Potion Miscibility’ tables from *Advanced Dungeons & Dragons*, to find out what happened when a hunter drank two potions at the same time.
+**[[Magic]] doesn’t have to take the form of a spell .** For my latest group, [[magic]] came from creating potions ... and I finally got to use the ‘Potion Miscibility’ tables from *Advanced Dungeons & Dragons*, to find out what happened when a hunter drank two potions at the same time.
 
 **Fred Hicks’ work on The Hungry demonstrated a great thing about creating a custom mythos for your game:** It throws players off-balance. They can’t make any assumptions about how things work (just like the best bits of *Supernatural* Season 7).
 
-Here’s a quick way to create a mythology. Choose an existential or contemporary dread. What are three ‘vectors’ that would exacerbate or spread that dread? Those are the ‘gods’ or ‘major villains’. Now: what are the reasons each of them would be in opposition to the others? Hopefully this gives you enough [[inspiration]] to create one servitor (a new type of monster) for each god. Finish off by asking yourself “What’s the big secret about this mythos that nobody knows yet?” and you’re good to go.
+Here’s a [[quick]] way to create a mythology. Choose an existential or contemporary dread. What are three ‘vectors’ that would exacerbate or spread that dread? Those are the ‘gods’ or ‘major villains’. Now: what are the reasons each of them would be in opposition to the others? Hopefully this gives you enough [[inspiration]] to create one servitor (a new type of monster) for each god. Finish off by asking yourself “What’s the big secret about this mythos that nobody knows yet?” and you’re good to go.
 
 **You have an unlimited special effects budget in your games .** As part of running a series of cinematic ‘wide-screen’ games, I threw my hunters up against a dragon so enormous it seemed impossible to kill. Conventional [[weapons]] couldn’t hurt it, and [[the hunters]] had to figure out the dragon’s weaknesses during its attacks My favourite thing about that game? Inspired by *Pacific Rim* and *Dragonball Z*, I gave the dragon three different forms. Every time it took a lethal amount of damage, it changed into its next form: tougher, with different stats and [[moves]]. It totally frustrated the players (in the best possible way) and lent an epic feel to the confrontation.
 

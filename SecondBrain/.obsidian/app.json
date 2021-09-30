@@ -7,7 +7,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Attachments",
   "spellcheck": false,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "newFileLocation": "root",
   "vimMode": false,
   "spellcheckDictionary": [
@@ -34,7 +34,9 @@
     "transness",
     "comorbid",
     "transformational",
-    "Transformative"
+    "Transformative",
+    "Treyvon",
+    "Nigrescence"
   ],
   "readableLineLength": false,
   "fileSortOrder": "alphabetical",
@@ -45,6 +47,6 @@
     "margin": "1",
     "downscalePercent": 100
   },
-  "showLineNumber": false,
+  "showLineNumber": true,
   "useTab": true
 }

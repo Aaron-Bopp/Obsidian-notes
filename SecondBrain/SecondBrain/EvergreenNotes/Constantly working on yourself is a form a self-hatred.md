@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Constantly working on yourself is a form a self-hatred]]
+#### [[Constantly working on yourself is a form a self-hatred]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 You can't hate every mistake you make. You have to accept that you made them and sometimes that's okay. 
 
@@ -16,8 +16,5 @@ If you can never be content that you are good enough, you are just looking for a
 
 **Status**:: #EVER/SEED/WATER    
 
-**Related-Topics**:: [[mental health]], [[self-love]], [[self-hate]], [[self-improvement]]
+**Topics**::  [[mental health]], [[self-love]], [[self-hate]], [[self-improvement]], [[Sadness is enlightenment and happiness is delusion]]
 	
-**Sub-Topics**:: [[Sadness is enlightenment and happiness is delusion]]
-	
-**References**

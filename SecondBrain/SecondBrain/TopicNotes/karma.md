@@ -8,31 +8,15 @@ aliases:
 - kharma
 ---
  
-##### [[karma]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[karma]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 [[conscious|consciousness]]
 
 **Status**:: #EVER/SEED
 
 **Last Edited**:: *`=this.file.mtime`*
-##### [[karma]] `=length(this.file.inlinks)` 
+omJS.dv_funcs.topicHeader(dv, thi` 
 - 
 
 ### <hr class="dataviews"/>
 
-#### Linked notes not in the outline
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"  and [[karma]]
-WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "karma" and !contains([[karma]].file.outlinks, link(file.name))
-SORT Status
-```
-
-#### Content Notes related to this topic
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM [[karma]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "karma" and !contains([[karma]].file.outlinks, link(file.name))
-SORT Status
-```
-
-### References
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

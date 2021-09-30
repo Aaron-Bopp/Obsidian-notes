@@ -8,7 +8,7 @@ aliases:
 - 
 ---
  
-###### [[Agoraphobia]]
+#### [[Agoraphobia]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - Agoraphobia - fear of going outside
     - developed from the fear of having a panic attack in an unkown environment
@@ -16,24 +16,11 @@ aliases:
     - Agoraphobia lite - leaving the home but constantly analyzing
 
 **Status**:: #EVER/SEED
-###### [[Agoraphobia]] `=length([[Agoraphobia]].file.inlinks)` 
+
+#### [[Agoraphobia]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - 
 
+### <hr class="dataviews"/>
 
-## Evergreen Notes
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"  and [[Agoraphobia]]
-WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "Agoraphobia" and !contains([[Agoraphobia]].file.outlinks, link(file.name))
-SORT Status
-```
-## Content Notes
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM [[Agoraphobia]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "Agoraphobia" and !contains([[Agoraphobia]].file.outlinks, link(file.name))
-SORT Status
-```
-
-## References
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

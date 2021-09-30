@@ -14,24 +14,11 @@ aliases:
 
 
 **Status**:: #EVER/SEED
-###### [[societal trauma]] `=length([[societal trauma]].file.inlinks)` 
+
+##### [[societal trauma]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 
 
 
-## Evergreen Notes
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"  and [[societal trauma]]
-WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "societal trauma" and !contains([[societal trauma]].file.outlinks, link(file.name))
-SORT Status
-```
-## Content Notes
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM [[societal trauma]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "societal trauma" and !contains([[societal trauma]].file.outlinks, link(file.name))
-SORT Status
-```
-
-## References
+### <hr class="dataviews"/>
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

@@ -6,7 +6,7 @@ If it’s something that [[moves]] the mystery along, and you can’t think of h
 
 **In fact, [[Act Under Pressure]] and [[Use Magic]] are intended to be catch-alls. If you can’t work out which move to use, one of these two will usually work.**
 - If it’s something that a normal person could do, but it’s really hard and/or dangerous, ask them to **[[Act Under Pressure]]**.
-- If it’s something that a normal person couldn’t do at all, then you can ask them to **[[Use Magic]]**, or **[[big magic]]**.
+- If it’s something that a normal person couldn’t do at all, then you can ask them to **[[Use Magic]]**, or **[[Big Magic]]**.
 
 Another alternative is to quickly make up a custom move for this particular situation. Only do this if you think it will come up again, and only once you are comfortable enough with the [[moves]] that you can do this quickly. See [[Custom Moves]] 
 

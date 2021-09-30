@@ -6,14 +6,14 @@ aliases:
 - 
 ---
 
-##### [[ADHD is primarily an executive function disorder]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[ADHD is primarily an executive function disorder]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**::  [[ADHD]], [[executive function]]
+**Topics**::   [[ADHD]], [[executive function]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

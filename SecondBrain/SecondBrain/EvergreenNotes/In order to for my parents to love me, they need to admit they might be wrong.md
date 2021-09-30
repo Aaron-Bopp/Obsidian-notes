@@ -17,8 +17,5 @@ This issue is not black and white, the [[love]] that [[my parents]] feel for me 
 ---
 **Status**:: #EVER/SPROUT  
 
-**Related-Topics**:: [[Christianity]], [[The danger of religious beliefs in early childhood]], [[love]], [[unconditional love]], [[my emotions]]
+**Topics**::  [[Christianity]], [[The danger of religious beliefs in early childhood]], [[love]], [[unconditional love]], [[my emotions]] 
 	
-**Sub-Topics**::
-	
-**References**

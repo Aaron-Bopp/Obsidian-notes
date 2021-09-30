@@ -15,9 +15,7 @@ However, general tags can get very large, but this can be mitigated in variety o
 
 **Status**:: #EVER/GREEN  
 
-**Related-Topics**:: 	[[personal knowledge management]],	[[evergreen notes]],	[[My Second Brain]], [[Obsidian (software)]]
+**Topics**::  	[[personal knowledge management]],	[[evergreen notes]],	[[My Second Brain]], [[Obsidian (software)]], [[my TO(DO) and EVER(GREEN) structure]]
 	
-**Sub-Topics**:: [[my TO(DO) and EVER(GREEN) structure]]
-	
-**References**
+
 	

@@ -1,9 +1,10 @@
 # A Matter of Timing Pacing for Convention Games
 *By Bryanna Hitchcock*
 
-Many Keepers struggle to end their convention games on time without rushing through their final confrontation. Delivering a rousing finish without going over your scheduled time is an art and a science. In this article we’re talking about the science. Spoiler alert: a little planning goes a long way.
+[[Many]] Keepers struggle to end their convention games on time without rushing through their final confrontation. Delivering a rousing finish without going over your scheduled time is an art and a science. In this article we’re talking about the science. Spoiler alert: a little planning goes a long way.
 
-![[image52.png]]Pacing in RPGs can mean the ebb and flow of action in the story, but it also refers to the way a session evolves and how it treats the essential beats of a story. It’s no mystery that stories need a beginning, a middle, and an end. In campaign play, this ebb and flow happens naturally as the narrative and group develop. But for a one-shot, like a convention game, [[the Keeper]] is in a pressure cooker to deliver a fun time and a complete story on a tight timeline.
+![[image52.png]]
+Pacing in RPGs can mean the ebb and flow of action in the story, but it also refers to the way a session evolves and how it treats the essential beats of a story. It’s no mystery that stories need a beginning, a middle, and an end. In campaign play, this ebb and flow happens naturally as the narrative and group develop. But for a one-shot, like a convention game, [[the Keeper]] is in a pressure cooker to deliver a fun time and a complete story on a tight timeline.
 
 There’s plenty of narrative advice out there about plot points, rising action, and the like. This article provides practical advice for Keepers to end a convention game on time without sacrificing an exciting finale.
 
@@ -25,7 +26,7 @@ The purpose of planning is to be respectful of everyone’s time, including your
 
 -   Clean your room for the next group who have to use it and leave on time.
 
-It’s easy to focus on the visual space of the game table. Many Keepers who are masters of visual aids and table presentation still struggle to control the temporal landscape: the time you have to play as a group. The tools I use for this are my Agenda for the game and the Timeline for my game slot at the convention. Let’s look at the Agenda first.
+It’s easy to focus on the visual space of the game table. [[Many]] Keepers who are masters of visual aids and table presentation still struggle to control the temporal landscape: the time you have to play as a group. The tools I use for this are my Agenda for the game and the Timeline for my game slot at the convention. Let’s look at the Agenda first.
 
 # Agenda: Goals & Expectations
 
@@ -71,7 +72,7 @@ Make a list of all the things you want to tell people up front. Revise this list
 
 -   Your hunters are already a team; you have each other on speed dial; no [[introductions]] are necessary once play starts.
 
--   Explain Luck.
+-   Explain [[Luck]].
 
 -   Review Basic [[Moves]] with extra attention to:
 
@@ -85,11 +86,11 @@ Make a list of all the things you want to tell people up front. Revise this list
 
 -   Cell phones: *Fine:* getting a text from family or convention roommates, briefly looking up something on the internet that will help the game be more awesome, checking the time, calls from work. *Unacceptable:* playing a video game, having a long conversation, continuous texting, etc.
 
--   One point of Luck for convention games.
+-   One point of [[Luck]] for convention games.
 
 -   Fan Mail: I provide a bowl with 1 chip per player. They can give these to each other as a reward for awesome play. 1 chip provides a +1 on any roll. Once used, chips go back in the bowl.
 
-The context of your game is important. Conventions in different regions have varying expectations regarding game length. In my area, convention slots can run up to 12 hours! For me, 6 hours is the sweet spot for a *Monster of the Week* game. However, in many areas 4-hour slots are the norm. Also: for online games in the evening, 4 hours has been a solid length for me.
+The context of your game is important. Conventions in different regions have varying expectations regarding game length. In my [[area]], convention slots can run up to 12 hours! For me, 6 hours is the sweet spot for a *Monster of the Week* game. However, in [[many]] areas 4-hour slots are the norm. Also: for online games in the evening, 4 hours has been a solid length for me.
 
 ![[image54.jpg]]In this article, we’ll focus on the biggest challenge: the 4-hour con or online game with 3-4 players. For blocks of play in the timeline, I use 5 minutes per PC as a rule of thumb to ensure I have enough time in each block for each hunter to have a significant scene.
 
@@ -107,7 +108,7 @@ No matter how much or little time you have, it’s always important to give your
 
 -   I like to signal the move into actual play and story time with dramatic music. Each player takes a turn describing an out of context action shot of their character meant to show ‘the audience’ something important about who they are. This is a great chance to establish signature [[weapons]], stylish lairs, and memorable moments from [[history]].
 
-<table><colgroup><col style="width: 12%" /><col style="width: 87%" /></colgroup><thead><tr class="header"><th>1:20</th><th>• Opening Scene: [[the Hook]] and the first hunter.</th></tr></thead><tbody><tr class="odd"><td>1:25</td><td><ul><li><p>First Scene for hunters, where are they when they get the</p></li></ul><blockquote><p>Hook?</p></blockquote><ul><li><p>This is another opportunity for players to go big and establish what their hunter is up to when they’re contacted by the team: a dive bar with a pool game about to turn violent; an ancient tomb filled with zombie cobras; or a fashionable music festival getting their groove on. Agency really helps players invest in the game. Just make sure to resolve any entanglements in a roll or two and meet up with the team.</p></li></ul></td></tr><tr class="even"><td>1:50</td><td>• Group Investigation: Maybe there’s a McGuffin or maybe one of [[the hunters]] has a wild hunch; it’s ok to let them thrash about a bit.</td></tr><tr class="odd"><td><blockquote><p>2:10</p></blockquote></td><td>• Close Encounters. By this time, [[the hunters]] should be encountering [[minions]] or otherwise deep into the mystery. Perhaps a hunter gets a little too close to the truth, setting up a nice cliffhanger before the break.</td></tr><tr class="even"><td><blockquote><p>2:30</p></blockquote></td><td><ul><li><p>Break.</p></li><li><p>Review the schedule and adjust.</p></li><li><p>Who’s been getting the spotlight?</p></li><li><p>Ask players if there’s any element or character they’d like to see more of?</p></li></ul></td></tr><tr class="odd"><td><blockquote><p>2:40</p></blockquote></td><td>• Rising Action: get really free with the clues.</td></tr><tr class="even"><td><blockquote><p>3:00</p></blockquote></td><td>• Confronting the [[minions]] or hitting the big break in the case.</td></tr><tr class="odd"><td><blockquote><p>3:20</p></blockquote></td><td><ul><li><p>Confronting the Big Bad.</p></li><li><p>Detail the setting and sense of danger.</p></li><li><p>Make the creature awesome.</p></li></ul></td></tr><tr class="even"><td><blockquote><p>3:45</p></blockquote></td><td>• Epilogues &amp; cinematic final shot.</td></tr><tr class="odd"><td><blockquote><p>3:50</p></blockquote></td><td>• Thank your players and debrief, if they want. Ask them to help you clean up.</td></tr><tr class="even"><td><blockquote><p>3:55</p></blockquote></td><td>• Leave the room in good shape for the next group.</td></tr></tbody></table>
+<table><colgroup><col style="width: 12%" /><col style="width: 87%" /></colgroup><thead><tr class="header"><th>1:20</th><th>• Opening Scene: [[the Hook]] and the first hunter.</th></tr></thead><tbody><tr class="odd"><td>1:25</td><td><ul><li><p>First Scene for hunters, where are they when they get the</p></li></ul><blockquote><p>Hook?</p></blockquote><ul><li><p>This is another opportunity for players to go big and establish what their hunter is up to when they’re contacted by the team: a dive bar with a pool game about to turn violent; an ancient tomb filled with zombie cobras; or a fashionable music festival getting their groove on. Agency really helps players invest in the game. Just make sure to resolve any entanglements in a roll or two and meet up with the team.</p></li></ul></td></tr><tr class="even"><td>1:50</td><td>• Group Investigation: Maybe there’s a McGuffin or maybe one of [[the hunters]] has a wild hunch; it’s ok to let them thrash about a bit.</td></tr><tr class="odd"><td><blockquote><p>2:10</p></blockquote></td><td>• [[Close]] Encounters. By this time, [[the hunters]] should be encountering [[minions]] or otherwise deep into the mystery. Perhaps a hunter gets a little too [[close]] to the truth, setting up a nice cliffhanger before the break.</td></tr><tr class="even"><td><blockquote><p>2:30</p></blockquote></td><td><ul><li><p>Break.</p></li><li><p>Review the schedule and adjust.</p></li><li><p>Who’s been getting the spotlight?</p></li><li><p>Ask players if there’s any element or character they’d like to see more of?</p></li></ul></td></tr><tr class="odd"><td><blockquote><p>2:40</p></blockquote></td><td>• Rising Action: get really free with the clues.</td></tr><tr class="even"><td><blockquote><p>3:00</p></blockquote></td><td>• Confronting the [[minions]] or hitting the big break in the case.</td></tr><tr class="odd"><td><blockquote><p>3:20</p></blockquote></td><td><ul><li><p>Confronting the Big Bad.</p></li><li><p>Detail the setting and sense of danger.</p></li><li><p>Make the creature awesome.</p></li></ul></td></tr><tr class="even"><td><blockquote><p>3:45</p></blockquote></td><td>• Epilogues &amp; cinematic final shot.</td></tr><tr class="odd"><td><blockquote><p>3:50</p></blockquote></td><td>• Thank your players and debrief, if they want. Ask them to help you clean up.</td></tr><tr class="even"><td><blockquote><p>3:55</p></blockquote></td><td>• Leave the room in good shape for the next group.</td></tr></tbody></table>
 
 # Convention Gaming Technique
 
@@ -129,7 +130,7 @@ When we’re rushed by the time constraints of a convention game, we risk a medi
 
 # Nail the Landing
 
-Few things were more frustrating to me as a GM than when I couldn’t finish a game strong because I ran out of time. Many great GMs I‘ve met have amazing setups and visual presentations, but struggle to make their endings live up to their hopes. Like them, I want players to leave my games remembering it as a fun movie where they played a starring role. An explosive finish is an essential part of that experience.
+Few things were more frustrating to me as a GM than when I couldn’t finish a game strong because I ran out of time. [[Many]] great GMs I‘ve met have amazing setups and visual presentations, but struggle to make their endings live up to their hopes. Like them, I want players to leave my games remembering it as a fun movie where they played a starring role. An explosive finish is an essential part of that experience.
 
 Like my games, I’ll wrap this up with a bit of cinematic framing.
 

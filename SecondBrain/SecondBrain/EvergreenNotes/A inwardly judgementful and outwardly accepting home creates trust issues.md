@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[A inwardly judgementful and outwardly accepting home creates trust issues]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[A inwardly judgementful and outwardly accepting home creates trust issues]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -14,7 +14,7 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: [[childhood trauma]], [[socialization]]
+**Topics**::  [[childhood trauma]], [[socialization]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

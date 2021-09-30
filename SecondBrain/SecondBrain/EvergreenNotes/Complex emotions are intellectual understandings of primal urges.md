@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Complex emotions are intellectual understandings of primal urges]]
+#### [[Complex emotions are intellectual understandings of primal urges]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Human's will find explanations for inexplainable things]]
 
@@ -14,8 +14,5 @@ note-type:
 
 **Status**:: #EVER/SEED
 
-**Related-Topics**:: [[human experience]], [[Neuroscience]], [[neurodivergency]]
+**Topics**::  [[human experience]], [[Neuroscience]], [[neurodivergency]] 
 	
-**Sub-Topics**::
-	
-**References**

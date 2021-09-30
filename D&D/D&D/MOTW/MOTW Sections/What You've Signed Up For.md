@@ -7,7 +7,7 @@ One player will be [[the Keeper]] (that’s short for “Keeper of [[Monsters]] 
 - bringing the world to life
 - portraying the [[monsters]] and people [[the hunters]] meet.
 
-The rest of you will decide how [[the hunters]] work together to investigate the weird situations they find, slay the [[monsters]] causing the trouble, and save the people in danger.
+The rest of you will decide how [[the hunters]] work together to investigate the [[Weird]] situations they find, slay the [[monsters]] causing the trouble, and save the people in danger.
 
 Your hunters aren’t normal people; you’re not even normal *monster hunters*. You are the ones who stand out, larger than life and twice as badass. You can change the world—save it, destroy it, or alter it forever. One way or another, you *will* make a difference.
 

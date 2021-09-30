@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[The injustice of endurance]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[The injustice of endurance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 In a world where there are enough resources to provide for everyone, it is unjust to be forced to endure scarcity just so that some people can be rich. 
 
@@ -15,7 +15,7 @@ You should never be forced to endure. Endurance is a choice you make to push thr
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related Topics**:: [[endurance]], [[injustice]], [[Marxism]], [[social justice]], [[Civil Rights]], [[liberation]]
+**Topics**::  [[endurance]], [[injustice]], [[Marxism]], [[social justice]], [[Civil Rights]], [[liberation]]
 
 	
 **Last Edited**:: *`=this.file.mtime`*

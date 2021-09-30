@@ -5,7 +5,7 @@ note-type:
 - evergreen-note
 ---
 
-###### [[Explaining emotion can just be a way of escaping the situation]]
+#### [[Explaining emotion can just be a way of escaping the situation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Being able to explain the emotions you are publicly feeling will relieve the attention that you are receiving. If this is what you want then this is a success but it does not mean that you've effectively dealt with the emotions. 
 
@@ -16,8 +16,6 @@ Being able to explain the emotions you are publicly feeling will relieve the att
 ---
 **Status**:: #EVER/SPROUT  
 
-**Related-Topics**:: [[mental health]], [[self-actualization]], [[socialization]], [[trauma]]
+**Topics**::  [[mental health]], [[self-actualization]], [[socialization]], [[trauma]], [[self-love]], [[inter-personal communication]],
 	
-**Sub-Topics**:: [[self-love]], [[inter-personal communication]],
-	
-**References**:: [[Emotional Deregulation]]
+:: [[Emotional Deregulation]]

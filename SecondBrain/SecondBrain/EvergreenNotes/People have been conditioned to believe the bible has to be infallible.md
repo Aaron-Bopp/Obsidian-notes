@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[People have been conditioned to believe the bible has to be infallible]]
+#### [[People have been conditioned to believe the bible has to be infallible]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This has been built up as major part in [[Christianity|christians]] pyschies and affects a lot of their [[subconscious]] decision making
 
@@ -14,8 +14,5 @@ This has been built up as major part in [[Christianity|christians]] pyschies and
 
 **Status**:: #EVER/SEED/WATER  
 
-**Related-Topics**:: 
+**Topics**::   
 	
-**Sub-Topics**::
-	
-**References**

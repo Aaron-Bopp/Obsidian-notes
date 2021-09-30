@@ -11,7 +11,8 @@ bib:
 ---
 
 ###### [[Ronald Reagan Evil Empire Speech]]
-**Related-Topics**:: 
+
+**Topics**::  
 
 **Last Edited**:: *`=this.file.mtime`*
 

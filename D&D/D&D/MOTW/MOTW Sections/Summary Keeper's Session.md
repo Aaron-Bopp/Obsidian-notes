@@ -4,7 +4,7 @@
 - Let them investigate the mystery.
 - Ask questions.
 - Take note of everything you can.
-- Put lots of horror into the stuff they find. Give them problems so they can show how cool they are as they solve them.
+- Put lots of horror into the stuff they find. Give them problems so they can show how [[Cool]] they are as they solve them.
 - Put pressure on the relationships in the hunter team, or on their relationships with [[bystanders]].
 - When they meet someone you didn’t prepare, give them a name and bystander type (usually a **witness** or **victim**).
 - When they visit somewhere you didn’t prepare, describe it and give it a location type.

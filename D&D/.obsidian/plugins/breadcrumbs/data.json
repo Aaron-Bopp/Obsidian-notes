@@ -42,7 +42,7 @@
   ],
   "hierarchyNoteDownFieldName": "child",
   "hierarchyNoteUpFieldName": "parent",
-  "refreshIndexOnActiveLeafChange": false,
+  "refreshIndexOnActiveLeafChange": true,
   "altLinkFields": [],
   "useAllMetadata": true,
   "parseJugglLinksWithoutJuggl": false,

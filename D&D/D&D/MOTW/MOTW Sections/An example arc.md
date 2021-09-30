@@ -24,7 +24,7 @@ That’s enough key werewolves for this pack, but we’ll add two minion threats
 
 > Three werewolf assassins. Minion: Assassin (motivation: to kill [[the hunters]]).
 
-Nina’s new werewolf pack will have taken a town (let’s call it “New Hampstead”) as their new territory, and will be beginning to take over the whole area. I’ll define that as a location, because sooner or later [[the hunters]] will go there.
+Nina’s new werewolf pack will have taken a town (let’s call it “New Hampstead”) as their new territory, and will be beginning to take over the whole [[area]]. I’ll define that as a location, because sooner or later [[the hunters]] will go there.
 
 > New Hampstead and surrounds. Location: Den (motivation: to harbour [[monsters]]).
 
@@ -39,7 +39,7 @@ For example:
 The arc countdown for our werewolf revenge arc is going to center on Nina and George getting ready to take out [[the hunters]].
 
 - **Day:** *Nina consolidates her [[hold]] over New Hampstead and creates a bunch of new werewolves.*
-- **Shadows:** *The pack begins sending out spies to find [[the hunters]] and assassins to kill [[the hunters]]’ loved ones and support network.*
+- **Shadows:** *The pack begins sending out spies to find [[the hunters]] and assassins to kill [[the hunters]]’ loved ones and support [[Network]].*
 - **Dusk:** *George decides to target [[The Wronged]], by hunting down her family (aiming to turn them into werewolves, rather than “just” kill them).*
 - **Sunset:** *The pack makes a concerted assault on [[the hunters]] and takes them out.*
 - **Nightfall:** *The pack kills any other monster hunters who are active in the region, and begins turning people in positions of authority.*

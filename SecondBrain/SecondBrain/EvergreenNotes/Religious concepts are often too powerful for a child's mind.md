@@ -5,7 +5,7 @@ note-type:
 aliases:
 - 
 ---
-##### [[Religious concepts are often too powerful for a child's mind]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Religious concepts are often too powerful for a child's mind]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 
@@ -13,6 +13,6 @@ aliases:
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: [[religious trauma]], [[religion]], [[Evangelicalism]], [[Christianity]]
+**Topics**::  [[religious trauma]], [[religion]], [[Evangelicalism]], [[Christianity]]
 	
 **Last Edited**:: *`=this.file.mtime`*

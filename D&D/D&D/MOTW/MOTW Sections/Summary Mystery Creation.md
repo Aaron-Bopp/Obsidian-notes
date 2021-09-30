@@ -1,4 +1,4 @@
-- Come up with a [[basic concept]]: a cool monster, mystery idea, or something inspired by a previous mystery or by your [[arcs]].
+- Come up with a [[basic concept]]: a [[Cool]] monster, mystery idea, or something inspired by a previous mystery or by your [[arcs]].
 - Create a hook: the clue that caught [[the hunters]]’ attention.
 - Create the monster(s): name, description, type and motivation, define powers, weaknesses, attacks, [[armour]], [[harm]] capacity.
 - Create the [[minions]] (if any): name, description, type and motivation, define powers, weaknesses, attacks, [[armour]], [[harm]] capacity.

@@ -7,14 +7,19 @@ aliases:
 embedded:
 - 
 ---
- 
-<% tp.file.include("[[TITLE-ALLLINKS]]") %>
+
+##### [[<% tp.file.title %>]] `$=customJS.dv_funcs.topicHeader(dv)`
+
 <% tp.file.cursor() %><% tp.system.clipboard() %>
 
 **Status**:: #EVER/SEED 
+
 **Related-Topics**:: 
+
 <% tp.file.include("[[MODIFIED FIELD]]") %>
-<% tp.file.include("[[TITLE-TOPIC]]") %>
+
+##### [[<% tp.file.title %>]] `$=customJS.dv_funcs.topicOutlineHeader(dv)`
+
 - 
 
 ### <hr class="dataviews"/>

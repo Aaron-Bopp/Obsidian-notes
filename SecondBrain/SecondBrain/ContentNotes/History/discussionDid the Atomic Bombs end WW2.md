@@ -4,6 +4,7 @@ date updated: '2021-05-31T16:50:32-05:00'
 ---
 
 # Sources
+
 ## Document A: John W. Dower, Excerpt from Three Narratives of our Humanity
         - [[Japan|Japanese]] recall the [[war]] as victimization through the death of family and friends in [[war]] or the bombing of their citites.
         - [[America|Americans]] remember Hiroshima as the unavoidable choice to end the [[war]] against [[Japan|Japanese]] that would have fought to the death with little supplies

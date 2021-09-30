@@ -33,9 +33,7 @@ bib:
 
 ---
 
-**Related-Topics**:: [[ADHD]], [[Depersonalization]], [[Derealization]]
-	
-**Sub-Topics**::
+**Topics**::  [[ADHD]], [[Depersonalization]], [[Derealization]] 
 	
 **Outline**::
 

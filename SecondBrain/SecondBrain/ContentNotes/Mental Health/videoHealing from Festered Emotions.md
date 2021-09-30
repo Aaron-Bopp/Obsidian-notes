@@ -38,9 +38,7 @@ bib:
 ---
 
 
-**Related-Topics**:: [[mental health]]
-	
-**Sub-Topics**::
+**Topics**::  [[mental health]] 
 	
 **Outline**::
 

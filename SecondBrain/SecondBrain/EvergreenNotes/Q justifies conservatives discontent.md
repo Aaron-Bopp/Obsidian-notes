@@ -6,13 +6,13 @@ aliases:
 - 
 ---
 
-##### [[Q justifies conservatives discontent]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Q justifies conservatives discontent]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 https://github.com/SlRvb/Obsidian--ITS-Theme
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*

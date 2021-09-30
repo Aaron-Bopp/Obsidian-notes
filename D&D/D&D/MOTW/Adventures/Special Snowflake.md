@@ -12,7 +12,7 @@ The Squall acts like the classic horror icon the Blob, but it thrives in the col
 
 Pick one of these:
 
--   News reports about the impact of a “small meteorite” near Havenhills Ski Resort.
+-   News reports about the impact of a “[[small]] meteorite” near Havenhills Ski Resort.
 
 -   Harry Reynolds, planetary science researcher, is seen shivering and half frozen at Marie’s Sportin’ Goods, muttering about “the event” just a few hours after the meteorite impact.
 
@@ -22,11 +22,11 @@ Pick one of these:
 
 # Countdown
 
-<table><colgroup><col style="width: 25%" /><col style="width: 74%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>The Squall kills a bystander who gets too close to the satellite.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>The satellite hijacks the other two Havenhill snow machines.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Snow Buddies loot cellphones from the Squall’s frozen victims.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Snow Buddies upgrade the alien satellite’s broadcast range.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>The alien satellite begins uploading its malicious code to the web.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>Snow machines worldwide spew out killer snow, killing thousands.</p></blockquote></td></tr></tbody></table>
+<table><colgroup><col style="width: 25%" /><col style="width: 74%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>The Squall kills a bystander who gets too [[close]] to the satellite.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>The satellite hijacks the other two Havenhill snow machines.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td><blockquote><p>Snow Buddies loot cellphones from the Squall’s frozen victims.</p></blockquote></td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Snow Buddies upgrade the alien satellite’s broadcast range.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>The alien satellite begins uploading its malicious code to the web.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>Snow machines worldwide spew out killer snow, killing thousands.</p></blockquote></td></tr></tbody></table>
 
 # Notes
 
-A number of the attacks in this mystery have cold ignore-[[armour]] effects. You should assess if [[the hunters]] have ‘cold [[armour]]’ based on what they describe themselves wearing. Regular winter or ski [[gear]] is 1-cold-[[armour]] and serious mountaineering [[gear]] would be 2-cold-[[armour]]. In either case, this [[armour]] applies only to cold-based [[harm]]. Supernatural or other special hunter [[armour]] may work against the cold as normal.
+A number of the attacks in this mystery have cold [[ignore-armour]] effects. You should assess if [[the hunters]] have ‘cold [[armour]]’ based on what they describe themselves wearing. Regular winter or ski [[gear]] is 1-cold-[[armour]] and serious mountaineering [[gear]] would be 2-cold-[[armour]]. In either case, this [[armour]] applies only to cold-based [[harm]]. Supernatural or other special hunter [[armour]] may work against the cold as normal.
 
 # The Squall
 
@@ -34,13 +34,13 @@ A number of the attacks in this mystery have cold ignore-[[armour]] effects. You
 
 A swarm of crystalline nanomachines, manufactured by Havenhill’s hacked snowmakers. To anyone who inspects a sample with a microscope, its snowflakes are clearly identical and artificial. **Powers:**
 
--   **Deadly Cold**: The living storm freezes anything it surrounds. Any hunter who gets close to the Squall (intimate/hand range) takes 1-[[harm]], cold ignore-[[armour]].
+-   **Deadly Cold**: The living storm freezes anything it surrounds. Any hunter who gets [[close]] to the Squall (intimate/hand range) takes 1-[[harm]], cold [[ignore-armour]].
 
--   **Formless**: The Squall can flow into small spaces and cracks, and isn’t harmed by physical attacks like gunfire or martial arts—only fire or explosions.
+-   **Formless**: The Squall can flow into [[small]] spaces and cracks, and isn’t harmed by physical attacks like gunfire or martial arts—only [[fire]] or explosions.
 
 -   **Lightweight**: The Squall can effectively fly on the wind, but not very fast.
 
-**Attacks:** **Small gust** 1-[[harm]] close cold ignore-[[armour]]. **Big gust** 3-[[harm]] close cold ignore-[[armour]] forceful. **Avalanche** 5-[[harm]] far cold ignore-[[armour]] forceful area. **[[Armour]]:** 0
+**Attacks:** **[[Small]] gust** 1-[[harm]] [[close]] cold [[ignore-armour]]. **Big gust** 3-[[harm]] [[close]] cold [[ignore-armour]] [[forceful]]. **Avalanche** 5-[[harm]] [[far]] cold [[ignore-armour]] [[forceful]] [[area]]. **[[Armour]]:** 0
 
 **[[Harm]] capacity:** 12. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -66,7 +66,7 @@ When they’re not sculpting, Buddies will try to collect electronic communicati
 
 • **Festive Camouflage**: Snow Buddies are difficult to spot in the storm.
 
-**Attacks:** **Twiggy claws** 1-[[harm]] hand. **Icicle fangs** 3-[[harm]] intimate. **[[Armour]]:** None.
+**Attacks:** **Twiggy claws** 1-[[harm]] [[hand]]. **Icicle fangs** 3-[[harm]] [[intimate]]. **[[Armour]]:** None.
 
 **[[Harm]] capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup> **Weakness:** Heat.
 
@@ -82,7 +82,7 @@ The Maudsley is Havenhill’s sprawling, shag-carpeted hotel. All guests check i
 
 *Location: Prison (motivation: to constrain and prevent exit)*
 
-For the well-off, a private cabin means barely having to leave [[The Expert]] slopes on the far side of the resort. Each of the dozen or so private cabins are restocked weekly with food and supplies, including firewood, gasoline, and emergency flares. Sturdy, but in bad weather they’re cut off from the hotel.
+For the well-off, a private cabin means barely having to leave [[The Expert]] slopes on the [[far]] side of the resort. Each of the dozen or so private cabins are restocked weekly with food and supplies, including firewood, gasoline, and emergency flares. Sturdy, but in bad weather they’re cut off from the hotel.
 
 # The Slopes
 
@@ -94,7 +94,7 @@ For the well-off, a private cabin means barely having to leave [[The Expert]] sl
 
 *Location: Hellgate (motivation: to create evil)*
 
-Dawes’ unofficial office is appointed with rusty tools and jerry cans of gasoline. The alien satellite will be attached to one of three ‘Flurrious XL’ snow machines, which are networked together and spread along the ridge by the shack. The satellite can be detached from its host machine by hand, and is easily broken once removed.
+Dawes’ unofficial office is appointed with rusty tools and jerry cans of gasoline. The alien satellite will be attached to one of three ‘Flurrious XL’ snow machines, which are networked together and spread along the ridge by the shack. The satellite can be detached from its host machine by [[hand]], and is easily broken once removed.
 
 # Hardee Dawes, resort manager
 
@@ -134,6 +134,6 @@ Carla doesn’t make damn near enough, considering how capable she is. She defin
 
 # Custom Moves
 
-**Warming Up Again**: When **a hunter warms up after being exposed to the Squall**, they heal 1 cold [[harm]] for every ten minutes spent near a heat source (raging fire, radiator, electric blanket, etc.). If the hunter has taken 4-[[harm]] or more, they still need to be stabilized, as normal. Other kinds of [[harm]] (stab wounds, burns, hurt pride) can’t be healed using this move.
+**Warming Up Again**: When **a hunter warms up after being exposed to the Squall**, they heal 1 cold [[harm]] for every ten minutes spent near a heat source (raging [[fire]], radiator, electric blanket, etc.). If the hunter has taken 4-[[harm]] or more, they still need to be stabilized, as normal. Other kinds of [[harm]] (stab wounds, burns, hurt pride) can’t be healed using this move.
 
 [[The Torch Comes To Town]]

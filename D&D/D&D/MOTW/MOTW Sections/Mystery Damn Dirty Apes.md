@@ -1,10 +1,10 @@
 ![[Pasted image 20210917193521.png]]
 
-The mystery is set in a small university town. The university needs to have an engineering school, a medical school, and a liberal arts faculty. The villain who set things in motion is an unbalanced professor, forced to resign from the university in shame and now ready to take his revenge. In true evil villain fashion he’ll demonstrate that his theories work—and so what if that proof takes the form of an army of crazed cyborg primates?
+The mystery is set in a [[small]] university town. The university needs to have an engineering school, a medical school, and a liberal arts faculty. The villain who set things in motion is an unbalanced professor, forced to resign from the university in shame and now ready to take his revenge. In true evil villain fashion he’ll demonstrate that his theories work—and so what if that proof takes the form of an army of crazed cyborg primates?
 
 Requirements
 
-Like “Dream Away the Time,” this mystery requires some things to be true about your game. In this case, mad science that works in parallel with magic to bind spirits, and the spirits themselves: entities from another dimension that are hostile to life.
+Like “Dream Away the Time,” this mystery requires some things to be true about your game. In this case, mad science that works in parallel with [[magic]] to bind spirits, and the spirits themselves: entities from another dimension that are hostile to life.
 
 Hook
 
@@ -23,11 +23,11 @@ Notes
 
 This mystery has a fairly limited scope, with most of the events and investigation likely to take place at the university.
 
-Many of the [[bystanders]] know or suspect the truth, but have reasons to hide their involvement. Be sure to let [[the hunters]] know when the bystander they are talking to is being evasive or obviously concealing something, and make [[the hunters]] push each character hard to get the information. These secrets are another way to see how much [[the hunters]] will do—in this case, how hard will they push these [[bystanders]]?
+[[Many]] of the [[bystanders]] know or suspect the truth, but have reasons to hide their involvement. Be sure to let [[the hunters]] know when the bystander they are talking to is being evasive or obviously concealing something, and make [[the hunters]] push each character hard to get the information. These secrets are another way to see how much [[the hunters]] will do—in this case, how hard will they push these [[bystanders]]?
 
 The strange thefts (in order of occurrence):
 
-- Medical school labs: 18 living monkeys and 3 chimpanzees. This was initially assumed to be the Animal Freedom Militia, and so far no-one has connected it to the spate of burglaries.
+- Medical school labs: 18 living monkeys and 3 chimpanzees. This was initially assumed to be the Animal Freedom Militia, and so [[far]] no-one has connected it to the spate of burglaries.
 - Electronics workshop storeroom. Various components stolen, no doors unlocked or unbroken—access probably via a loose ventilation grille.
 - Robotics lab. Several works-in-progress and some parts stolen.
 - Anthropology library. Some books on pagan cults stolen.
@@ -48,18 +48,18 @@ Beech has no supernatural powers or abilities beyond those he uses to create his
 **Powers**:
 
 - **Etheric-Bionic Binding Spell**: Uses intricate mathemagical programming techniques to bind bionics to a living host. An other-dimensional consciousnesses is installed into the bionics as a control interface. Has the unfortunate side effect of overwriting the host mind with the mind of the other dimensional being (which cannot comprehend this universe).
-- (Post-upgrade) **Surgical robot hand** (see attacks).
+- (Post-upgrade) **Surgical robot [[hand]]** (see attacks).
 - (Post-upgrade) **Minion radio net**. He can sense anything that any of his bionic [[minions]] can sense, although he must actively concentrate to do so.
 - (Post-upgrade) **Etheric blast** (see attacks).
-- (Post-upgrade) **Etheric awareness**. He is conscious of all living things in his immediate vicinity (within about 50m), regardless of obstacles. “Etherically active” individuals are easier for him to detect—for hunters, that’s anyone with Weird +2 or +3.
+- (Post-upgrade) **Etheric awareness**. He is conscious of all living things in his immediate vicinity (within about 50m), regardless of obstacles. “Etherically active” individuals are easier for him to detect—for hunters, that’s anyone with [[Weird]] +2 or +3.
 
-**Attacks**: (Pre-upgrade) Ineffectual slap: 0-[[harm]] hand; (Post-upgrade) Surgical robot hand: 3-[[harm]] hand slow; (Post-upgrade) Etheric blast: 1-[[harm]] close magic ignores-[[armour]]
+**Attacks**: (Pre-upgrade) Ineffectual slap: 0-[[harm]] [[hand]]; (Post-upgrade) Surgical robot [[hand]]: 3-[[harm]] [[hand]] [[slow]]; (Post-upgrade) Etheric blast: 1-[[harm]] [[close]] [[magic]] ignores-[[armour]]
 
 **[[Armour]]**: (Pre-upgrade) None; (Post-upgrade) 2-[[armour]].
 
 **[[Harm]] capacity**: 7. Okay bbbb|bbb Dying [[Unstable]]: b
 
-**Weaknesses**: **Gloating monologue:** Dr Beech cannot be defeated until [[the hunters]] have listened to him rant about his evil plans; (Post-upgrade) **Etheric-Bionic Control Interface:** If the interface is disrupted with magic or electromagnetic energy, Dr Beech will no longer be able to control the bionics and is vulnerable.
+**Weaknesses**: **Gloating monologue:** Dr Beech cannot be defeated until [[the hunters]] have listened to him rant about his evil plans; (Post-upgrade) **Etheric-Bionic Control Interface:** If the interface is disrupted with [[magic]] or electromagnetic energy, Dr Beech will no longer be able to control the bionics and is vulnerable.
 
 Dr Beech's Research Lab
 
@@ -89,22 +89,22 @@ Koko, robo Gorilla (mark 3)
 
 *Minion: Assassin (motivation: to kill [[the hunters]])*
 
-A possessed bionic silverback gorilla, Koko has been kept caged so far as he is too dangerous and [[unstable]] to be let out. Once Beech knows about [[the hunters]], or is ready to make his move, Koko will be unleashed.
+A possessed bionic silverback gorilla, Koko has been kept caged so [[far]] as he is too dangerous and [[unstable]] to be let out. Once Beech knows about [[the hunters]], or is ready to make his move, Koko will be unleashed.
 
 Note that Koko was not stolen from the university, but acquired through other means. Most likely, Dr Beech has been in contact with animal smugglers, but this loose end is a good candidate for tying into other parts of your own game.
 
 **Powers**:
 
-- **Immense Strength**. Koko’s augmented gorilla limbs can overpower any human and deal with almost any barrier or weight.
+- **Immense Strength**. Koko’s augmented gorilla limbs can overpower any human and deal with almost any [[barrier]] or weight.
 - **Laser cannon**. Koko has a laser cannon mounted over his left shoulder.
 
-**Attacks**: **Laser**: 2-[[harm]] hand close far; **Tear limb from limb**: 4-[[harm]] hand messy.
+**Attacks**: **Laser**: 2-[[harm]] [[hand]] [[close]] [[far]]; **Tear limb from limb**: 4-[[harm]] [[hand]] [[messy]].
 
 **[[Armour]]**: Bionic [[Armour]] Plating: 2-[[armour]].
 
 **[[Harm]] capacity**: 12. bbbbbbbbbbbb
 
-**Weakness**: **Etheric-Bionic Control Interface:** If the interface is disrupted with magic or electromagnetic energy, Koko will no longer be able to control the bionics and is vulnerable.
+**Weakness**: **Etheric-Bionic Control Interface:** If the interface is disrupted with [[magic]] or electromagnetic energy, Koko will no longer be able to control the bionics and is vulnerable.
 
 Clara, Virgil, and Nim: robo chimps (mark 2)
 
@@ -116,9 +116,9 @@ The chimps are crazy, but smart. They like to sneak about and steal things.
 
 **Powers**:
 
-- **Electro-grapple**. Each chimp has one arm replaced with a mechanical grapple and line. The hand may be fired up to 30 meters and winched back in. The chimps can use this to ascend, swing around, attack, and steal things.
+- **Electro-grapple**. Each chimp has one arm replaced with a mechanical grapple and line. The [[hand]] may be fired up to 30 meters and winched back in. The chimps can use this to ascend, swing around, attack, and steal things.
 
-**Attacks**: **Electro-grapple Strike**: 2-[[harm]] close restraining; **Grapple**: 3-[[harm]] intimate hand restraining messy; **Bite**: 2-[[harm]] intimate.
+**Attacks**: **Electro-grapple Strike**: 2-[[harm]] [[close]] [[restraining]]; **Grapple**: 3-[[harm]] [[intimate]] [[hand]] [[restraining]] [[messy]]; **Bite**: 2-[[harm]] [[intimate]].
 
 **[[Armour]]**: **Bionic [[Armour]] Plating**: 1-[[armour]].
 
@@ -128,7 +128,7 @@ bbbbbbb Virgil
 
 bbbbbbb Nim
 
-**Weakness**: **Etheric-Bionic Control Interface:** If the interface is disrupted with magic or electromagnetic energy, the chimp will no longer be able to control the bionics and is vulnerable.
+**Weakness**: **Etheric-Bionic Control Interface:** If the interface is disrupted with [[magic]] or electromagnetic energy, the chimp will no longer be able to control the bionics and is vulnerable.
 
 Robo Monkeys (mark 1)
 
@@ -140,10 +140,10 @@ Beech has around thirty robo-monkeys of various species. The monkeys will tend t
 
 **Powers**:
 
-- **Railgun**: Each monkey is equipped with a small electromagnetic cannon, which they’ll load with whatever comes to hand—stones, rubbish, poo, etc.
+- **Railgun**: Each monkey is equipped with a [[small]] electromagnetic cannon, which they’ll load with [[whatever]] comes to [[hand]]—stones, rubbish, poo, etc.
 - **Camera Eyes**: They can see infrared, so the robo-monkeys have excellent vision in total darkness, especially for spotting people.
 
-**Attacks**: **Railgun:** 0-3-[[harm]] (depends on ammunition) close far; **Bite:** 2-[[harm]] intimate.
+**Attacks**: **Railgun:** 0-3-[[harm]] (depends on ammunition) [[close]] [[far]]; **Bite:** 2-[[harm]] [[intimate]].
 
 **[[Armour]]**: Bionic plating: 1-[[armour]]
 
@@ -153,7 +153,7 @@ Group one: bbbbb Group two: bbbbb
 
 Each point of [[harm]] suffered by the group means 3 monkeys are out of action.
 
-**Weakness**: **Etheric-Bionic Control Interface**: If the interface is disrupted with magic or electromagnetic energy, the monkey will no longer be able to control the bionics and is vulnerable.
+**Weakness**: **Etheric-Bionic Control Interface**: If the interface is disrupted with [[magic]] or electromagnetic energy, the monkey will no longer be able to control the bionics and is vulnerable.
 
 University Quad
 
@@ -171,9 +171,9 @@ University Grand Hall
 
 *Location: Prison (motivation: to constrain and prevent exit)*
 
-The Grand Hall is almost a hundred years old, and built in an ornate gothic style. A cramped balcony looks down on the main stage and seating area. Stained glass windows illustrating academic virtues take pride of place behind the stage.
+The Grand Hall is almost a hundred years old, and built in an ornate gothic style. A cramped balcony looks down on the main stage and seating [[area]]. Stained glass windows illustrating academic virtues take pride of place behind the stage.
 
-This is the hall where the graduation ceremony is held each year, and it’s at that ceremony that Beech plans to attack. He is trying to capture as many of his academic enemies as possible.
+This is the hall where the graduation ceremony is held each year, and it’s at that ceremony that Beech plans to attack. He is trying to capture as [[many]] of his academic enemies as possible.
 
 For his attack, Beech will position the monkeys and chimps on the balcony, then take the stage escorted by Koko. He will then announce his takeover in a deranged monologue, declaring that he is now “grand chancellor” of the university. The only reason he will pause will be to order the robo-primates to restrain anyone escaping or to subdue anyone resisting.
 
@@ -185,7 +185,7 @@ Pauline Brooks
 
 A security guard at the university, doomed to be maimed in the events of “day” in [[the countdown]]. Before then, Pauline can help [[the hunters]] with details of the usual routine for the security team. They’re generally more concerned with students causing minor trouble rather than any kind of serious threat.
 
-**Attacks**: Nightstick: 1-[[harm]] hand
+**Attacks**: Nightstick: 1-[[harm]] [[hand]]
 
 **[[Armour]]**: Stab-proof vest: 1-[[armour]]
 
@@ -197,13 +197,13 @@ Dr Andrew Crouch, Medical School Dean
 
 Hates Dr Beech intensely, regarding him as unbalanced and dangerous. It was Dr Crouch who finally revoked Beech’s funding and triggered the current crisis.
 
-Does not want to reveal anything about Dr Beech because it would reflect badly on the school. He has little idea about the details and extent of Beech’s research except that many other people thought it was crazy, out-beyond-the-fringe stuff.
+Does not want to reveal anything about Dr Beech because it would reflect badly on the school. He has little idea about the details and extent of Beech’s research except that [[many]] other people thought it was crazy, out-beyond-the-fringe stuff.
 
 Dr Karen Wathey, Prostethics Researcher
 
 *Bystander: Gossip (motivation: to pass on rumours)*
 
-Previous collaborator with Dr Beech, decided he was going too far and stopped helping. Also leaked details of Beech’s ethics violations to the Dean in an effort to get Beech punished.
+Previous collaborator with Dr Beech, decided he was going too [[far]] and stopped helping. Also leaked details of Beech’s ethics violations to the Dean in an effort to get Beech punished.
 
 Does not want to reveal anything about Beech because it might endanger her own career. She knows that Beech has no qualms at all about breaching ethics rules, and has begun to worry about the possibility that he has no qualms about breaking other rules either.
 
@@ -213,7 +213,7 @@ Dr Harvey Noble, Roboticist
 
 Noble has devoted much of his career to criticizing Dr Beech, ever since their first disagreement over who deserved the nicer office in a building that has since been demolished and rebuilt.
 
-Noble will happily rant about the various shortcomings of Dr Beech, but his perspective is that Beech acts mainly in order to snipe at Noble. Any useful information is likely to be hidden in Noble’s general accusations of misconduct. He is aware that Beech was looking into “crazy” control systems for bionics, verging into parapsychology in some cases.
+Noble will happily rant about the various shortcomings of Dr Beech, but his perspective is that Beech acts mainly in order to snipe at Noble. Any [[useful]] information is likely to be hidden in Noble’s general accusations of misconduct. He is aware that Beech was looking into “crazy” control systems for bionics, verging into parapsychology in some cases.
 
 Dr Clayton Holt, Ethics Committee Chair
 
@@ -247,7 +247,7 @@ Crazy Cats Club
 
 *Location: Crossroads (motivation: to bring people, and things, together)*
 
-A bar and punk/alternative music venue, this is also the *de facto* headquarters of the Animal Freedom Militia. The bar is cramped and noisy, the walls covered with messy murals and graffiti.
+A bar and punk/alternative music venue, this is also the *de facto* headquarters of the Animal Freedom Militia. The bar is cramped and noisy, the walls covered with [[messy]] murals and graffiti.
 
 If [[the hunters]] come here undercover as cops or other authority figures, the patrons will tend to be hostile.
 

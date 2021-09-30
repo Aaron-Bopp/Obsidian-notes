@@ -4,11 +4,11 @@ The Torch Comes To Town
 
 # Concept
 
-A clandestine cargo intended for the local cult chapter arrives at the port: a magical bottle. Within is an is an efreet—a malevolent, magical, wish-fulfilling fire spirit. When the efreet is inadvertently released, it brings a grave danger to the entire city.
+A clandestine cargo intended for the local cult chapter arrives at the port: a magical bottle. Within is an is an efreet—a malevolent, magical, wish-fulfilling [[fire]] spirit. When the efreet is inadvertently released, it brings a grave danger to the entire city.
 
 # Hook
 
-![[image152.png]]Through contacts in law enforcement or the media, [[the hunters]] learn that a few minutes ago a man was hacked to death in a disturbing and mysterious murder. Any hunter with a foresight-style ability (e.g. the move **hunches**) will feel this is an urgent matter.
+![[image152.png]]Through contacts in law enforcement or the media, [[the hunters]] learn that a few minutes ago a man was hacked to death in a disturbing and mysterious murder. Any hunter with a foresight-style ability (e.g. the move **[[Hunches]]**) will feel this is an urgent matter.
 
 The dead man is Errol Mauser, a customs agent. Just a few steps away from the entrance to the apartment building where he lived, he was cut down by assailants unknown and died on the spot. To boot, his face was eaten off, and not cleanly.
 
@@ -18,7 +18,7 @@ As CCTV footage footage of or witnesses to the killing reveal, the bottle falls 
 
 # Countdown
 
-<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>The blood-spattered attackers eventually give up trying to grab the floating bottle as a crowd gathers. They flee to a nearby sailors’ hostel, hoping to retrieve the bottle later. The efreet flies around for a while, enjoying its freedom, burns some things, and scares some people. For a few blocks, scorched pigeons litter the streets.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>The bottle is found by a homeless person who stows it in her shopping cart with her other possessions. In a side alley, she inadvertently summons the efreet who playfully turns her shopping cart into pure gold.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td>The shopping cart makes headlines by evening, and the police take Ms. Oakley and her belongings (including the bottle) to the precinct. The cult tries to first infiltrate and eventually lay siege to the precinct to get the artefact back.</td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Overcoming the police and reaching the evidence locker, the cultists suddenly face an internal power struggle. Two factions emerge: one controlling the bottle itself; the other, the bottle cap.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>The two factions go to war in the streets. Meanwhile, the efreet fulfills wishes of random people it encounters in its own twisted manner.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>With the efreet finally under control, the remains of the cult begins to target other occult sects, burning their temples and strongholds and assassinating their high priests. The campaign is soon extended to organized crime: and top mobsters are killed by the efreet and their organizations taken over. Many members of the Scorched Ones arrive in town from all over the country to support the assault. After no more than a week, a third of the city is under the bloody and fiery control of the cult, who use the efreet as their unstoppable weapon with impunity.</p></blockquote></td></tr></tbody></table>
+<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><thead><tr class="header"><th><strong>Day</strong></th><th>The blood-spattered attackers eventually give up trying to grab the floating bottle as a crowd gathers. They flee to a nearby sailors’ hostel, hoping to retrieve the bottle later. The efreet flies around for a while, enjoying its freedom, burns some things, and scares some people. For a few blocks, scorched pigeons litter the streets.</th></tr></thead><tbody><tr class="odd"><td><strong>Shadows</strong></td><td>The bottle is found by a homeless person who stows it in her shopping cart with her other possessions. In a side alley, she inadvertently summons the efreet who playfully turns her shopping cart into pure gold.</td></tr><tr class="even"><td><strong>Sunset</strong></td><td>The shopping cart makes headlines by evening, and the police take Ms. Oakley and her belongings (including the bottle) to the precinct. The cult tries to first infiltrate and eventually lay siege to the precinct to get the artefact back.</td></tr><tr class="odd"><td><strong>Dusk</strong></td><td><blockquote><p>Overcoming the police and reaching the evidence locker, the cultists suddenly face an internal power struggle. Two factions emerge: one controlling the bottle itself; the other, the bottle cap.</p></blockquote></td></tr><tr class="even"><td><blockquote><p><strong>Nightfall</strong></p></blockquote></td><td>The two factions go to war in the streets. Meanwhile, the efreet fulfills wishes of random people it encounters in its own twisted manner.</td></tr><tr class="odd"><td><strong>Midnight</strong></td><td><blockquote><p>With the efreet finally under control, the remains of the cult begins to target other occult sects, burning their temples and strongholds and assassinating their high priests. The campaign is soon extended to organized crime: and top mobsters are killed by the efreet and their organizations taken over. [[Many]] members of the Scorched Ones arrive in town from all over the country to support the assault. After no more than a week, a third of the city is under the bloody and fiery control of the cult, who use the efreet as their [[unstoppable]] weapon with impunity.</p></blockquote></td></tr></tbody></table>
 
 The Efreet (a.k.a. The Black Torch/
 
@@ -42,7 +42,7 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 -   **Plasmic Body**: Impervious to [[weapons]] without the *blessed*, *magical*, or *silver* tags.
 
-**Attacks:** **Scorching ray** 3-[[harm]] close/far area slow heat. **Whirlwind**: 2-[[harm]] area forceful (see **twister** move below).
+**Attacks:** **Scorching ray** 3-[[harm]] close/far [[area]] [[slow]] heat. **Whirlwind**: 2-[[harm]] [[area]] [[forceful]] (see **twister** move below).
 
 **[[Armour]]:** 0, but refer to its **barely there** and **plasmic body** powers, above.
 
@@ -50,11 +50,11 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 **Weaknesses:**
 
-**Islamic ritual:** The efreet was originally defeated and bound by a Muslim sheikh, so it fears the religion of Allah and will flee from its holy people and their prayers.
+**Islamic ritual:** The efreet was originally defeated and bound by a Muslim sheikh, so it fears the religion of Allah and will flee from its [[holy]] people and their prayers.
 
-**Custom [[Moves]]:**
+**[[Custom Moves]]:**
 
-**Twister**: **The first time you are hit by the efreet’s whirlwind attack**, you are surprised. Disregard the usual weapon effect and roll [[+Tough]]:
+**Twister**: **The first time you are hit by the efreet’s whirlwind attack**, you are surprised. Disregard the usual weapon effect and roll +[[Tough]]:
 
 -   On a 10+, you grit your teeth and stand your ground (but your hair is a mess).
 
@@ -62,7 +62,7 @@ The efreet is a primordial demonic being, innately hostile to humanity and all o
 
 -   On a miss, you are swept up and unceremoniously dropped a block or two away. You take 4-[[harm]] and are away from the action.
 
-**Return to the Bottle**: The efreet cannot attack somebody holding the bottle or the cap. It may also be trapped back in the bottle by a **[[big magic]]** ritual.
+**Return to the Bottle**: The efreet cannot attack somebody holding the bottle or the cap. It may also be trapped back in the bottle by a **[[Big Magic]]** ritual.
 
 Requirements for the evil ritual are:
 
@@ -74,7 +74,7 @@ Requirements for the evil ritual are:
 
 -   The bloody sacrifice of a large mammal—ideally a camel, but a horse, giraffe, or even a human would do.
 
-**Dances with Djinns**: If you **dance with two torches to mesmerize a nearby efreet**, roll [[+Charm]]:
+**Dances with Djinns**: If you **dance with two torches to mesmerize a nearby efreet**, roll +[[Charm]]:
 
 -   On a 10+, the efreet will come quickly and return into the bottle providing the rest of the ritual requirements are met. Choose one consequence from the list below.
 
@@ -94,11 +94,11 @@ On any hit, the dancing hunter decides which ritual-participant the consequence 
 
 -   One hunter gains pyrophobia. In future, they will need to **[[Act Under Pressure]]** to go near open flames.
 
--   One hunter is touched by the supernatural. If possible, their next improvement must either be “Take +1 Weird” or a move that requires rolling [[+Weird]].
+-   One hunter is touched by the supernatural. If possible, their next improvement must either be “Take +1 [[Weird]]” or a move that requires rolling +[[Weird]].
 
 # Swarm of Flesh-eating Scarabs
 
-*Minion/Plague (motivation: to swarm and destroy)* A slow but voracious swarm of scarab beetles. **Powers:**
+*Minion/Plague (motivation: to swarm and destroy)* A [[slow]] but voracious swarm of scarab beetles. **Powers:**
 
 -   **Hide Inside Dead Bodies**.
 
@@ -106,11 +106,11 @@ On any hit, the dancing hunter decides which ritual-participant the consequence 
 
 -   **Obscure Vision**.
 
--   **Immune to [[Harm]]**, unless it is an *area*, *fire*, or *crushing* attack. **Attacks:** **Hundreds of mandibles** 1-[[harm]] intimate slow.
+-   **Immune to [[Harm]]**, unless it is an *[[area]]*, *[[fire]]*, or *crushing* attack. **Attacks:** **Hundreds of mandibles** 1-[[harm]] [[intimate]] [[slow]].
 
 **[[Harm]] capacity:** 3. <sup>\[\]\[\]\[\]</sup> That’s enough to disperse the swarm so it’s no longer dangerous.
 
-**Weakness:** Fire.
+**Weakness:** [[Fire]].
 
 # Cultists of the Scorched Ones
 
@@ -122,7 +122,7 @@ Cunning agents of the cult ready to sacrifice themselves to further its goals.
 
 • **Minor Spells**: Anything a normal **[[Use Magic]]** could do. **Weaknesses:** None (they are just normal humans).
 
-**Attacks:** as per weapon, usually a **knife** 2-[[harm]] hand. **[[Armour]]:** none, but impervious to heat, smoke, fire.
+**Attacks:** as per weapon, usually a **knife** 2-[[harm]] [[hand]]. **[[Armour]]:** none, but impervious to heat, smoke, [[fire]].
 
 **[[Harm]] capacity:** 6. <sup>\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 

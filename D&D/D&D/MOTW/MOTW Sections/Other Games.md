@@ -7,7 +7,7 @@ The setting can be left mainly implicit. Use the playbooks, basic [[moves]], thr
 
 If you want to compare and contrast, here are some other hacks of *Apocalypse World* that might be of interest:
 
-- *Monsterhearts* by Avery Mcdaldno draws from a similar place to *Monster of the Week*, but it’s about the messy supernatural romance side of Buffy and *True Blood* (and *Twilight*). In particular, check out how the basic [[moves]] in *Monsterhearts* emphasise different ways of resolving conflicts to *Monster of the Week*.
+- *Monsterhearts* by Avery Mcdaldno draws from a similar place to *Monster of the Week*, but it’s about the [[messy]] supernatural romance side of Buffy and *True Blood* (and *Twilight*). In particular, check out how the basic [[moves]] in *Monsterhearts* emphasise different ways of resolving conflicts to *Monster of the Week*.
 - Avery also created *Simple World*, a framework for building your own game using rules based on *Apocalypse World*. It’s a really good place to start your hack.
 - *Dungeon World* by Sage LaTorra and Adam Koebel is a modern take on classic dungeon crawl roleplaying.
 - *Sagas of the Icelanders* by Gregor Vuga has [[moves]] and playbooks that reflect expected social roles.

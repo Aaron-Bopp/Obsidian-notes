@@ -226,6 +226,12 @@
         "Shift"
       ],
       "key": "L"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
     }
   ],
   "obsidian42-text-transporter:obsidian42-text-transporter-combinedCommands": [
@@ -243,6 +249,32 @@
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "quick-explorer:browse-vault": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "hotkey-helper:open-plugins": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
+  "obsidian-toggle-vim:toggle-vim-mode": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
     }
   ],
   "leader-hotkeys-obsidian:leader": [

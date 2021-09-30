@@ -14,6 +14,6 @@ An Example Mystery Mongolian Death Worm Attack
 
 *The Natural [[History]] Museum is a large, modern complex. It’s divided into several wings, each with plenty of exhibition halls, offices, store rooms, and work rooms. Looking for things here, [[the hunters]] are going to be poking into all kinds of dark corners.*
 
-*The worms have split up and are looking for warm, dry spaces to nest. Once they find those (and finish digesting their initial meal) they’ll start hunting through the museum: they won’t need to start small, either, due to their venom. Humans will be on the menu right away. Once they’ve eaten and grown, they’ll mate (each is hermaphroditic) and each lay a clutch of eggs. When those hatch, a plague of dozens of worms will spread out from the museum.*
+*The worms have split up and are looking for warm, dry spaces to nest. Once they find those (and finish digesting their initial meal) they’ll start hunting through the museum: they won’t need to start [[small]], either, due to their venom. Humans will be on the menu right away. Once they’ve eaten and grown, they’ll mate (each is hermaphroditic) and each lay a clutch of eggs. When those hatch, a plague of dozens of worms will spread out from the museum.*
 
 [[What That All Means]]

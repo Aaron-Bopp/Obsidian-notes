@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[How to title your notes]]
+#### [[How to title your notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 The titles of your notes are often the most important piece about them. Whether you are looking through a file system or seeing the note linked from somewhere else, if the note title is not accurate you're access to that note's information will be impeded.
 
@@ -30,8 +30,5 @@ Note titles can also very on their use within the [[web of thought]]. [[Webs of 
 
 **Status**:: #EVER/GREEN   
 
-**Related-Topics**:: [[Zettlekassen]], [[second brain]], [[web of thought]], [[My Second Brain]]
+**Topics**::  [[Zettlekassen]], [[second brain]], [[web of thought]], [[My Second Brain]], [[evergreen notes]], [[note writing]]
 	
-**Sub-Topics**::[[evergreen notes]], [[note writing]]
-	
-**References**

@@ -14,13 +14,13 @@ Dedicated to the memory of Leonard Nimoy (1931-2015).
 
 # Concept
 
-[[The hunters]] are trapped by an eerie mist that suddenly surrounds the small desert town of Nimoy, New Mexico.
+[[The hunters]] are trapped by an eerie mist that suddenly surrounds the [[small]] desert town of Nimoy, New Mexico.
 
 Inspired by Stephen King’s *The Mist* (story, film, and miniseries).
 
-[[The hunters]] must find a way to avoid terrible extradimensional invaders and close a portal to another reality.
+[[The hunters]] must find a way to avoid terrible extradimensional invaders and [[close]] a portal to another reality.
 
-The ‘Froghemoth’ first appeared in Gary Gygax’s classic *Advanced Dungeons & Dragons* module *Expedition to the Barrier Peaks*.
+The ‘Froghemoth’ first appeared in Gary Gygax’s classic *Advanced Dungeons & Dragons* module *Expedition to the [[Barrier]] Peaks*.
 
 # Hook
 
@@ -42,7 +42,7 @@ A transdimensional nexus has formed in Nimoy, New Mexico due to a ‘red matter�
 
 **Custom Move:**
 
-**Enter the Nexus**: When **someone travels into the transdimensional nexus**, roll [[+Sharp]].
+**Enter the Nexus**: When **someone travels into the transdimensional nexus**, roll +[[Sharp]].
 
 On a 10+, you can see the doorway back to the real world behind you and can escape at any time.
 
@@ -66,15 +66,15 @@ Resembles a giant eyeless toad with a mouth covered with constantly moving tenta
 
 -   **Grab**: The froghemoth shoots its tongue out to try and grab someone. See the ‘grab’ move below.
 
-**Attack:** **Swallow** 3-[[harm]] close engulf (see custom move below). **[[Armour]]:** None.
+**Attack:** **Swallow** 3-[[harm]] [[close]] engulf (see custom move below). **[[Armour]]:** None.
 
 **[[Harm]] Capacity:** 14. \[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]
 
 **Weakness:** Can only manifest when a transdimensonal nexus is open. If the nexus is closed, it becomes vulnerable.
 
-**Custom [[Moves]]:**
+**[[Custom Moves]]:**
 
-**Grab**: When a **froghemoth grabs a hunter**, they roll [[+Tough]]:
+**Grab**: When a **froghemoth grabs a hunter**, they roll +[[Tough]]:
 
 -   On a 10+, the hunter breaks free and may inflict [[harm]] on the froghemoth as they escape.
 
@@ -86,11 +86,11 @@ Resembles a giant eyeless toad with a mouth covered with constantly moving tenta
 
 -   They are being pulled inexorably towards its maw.
 
-**Engulf**: When **a hunter is engulfed by a froghemoth’s maw**, they roll [[+Tough]]:
+**Engulf**: When **a hunter is engulfed by a froghemoth’s maw**, they roll +[[Tough]]:
 
 -   On a 10+, they force the froghemoth to vomit them forth for no additional damage.
 
--   On a 7-9, they suffer 2-[[harm]] or the loss of a valuable item (hunter’s choice).
+-   On a 7-9, they suffer 2-[[harm]] or the loss of a [[valuable]] item (hunter’s choice).
 
 -   On a miss, they suffer 4-[[harm]] and now they are being digested.
 
@@ -118,12 +118,12 @@ The lab is filled with sophisticated electronics and equipment both bizarre and 
 
 *Bystander: Witness (motivation: to reveal information)*
 
-Dr Scott knows how to close the nexus (“in theory”)—by getting the sample of rare ‘red matter’ from her lab and throwing it into the transdimensional nexus.
+Dr Scott knows how to [[close]] the nexus (“in theory”)—by getting the sample of rare ‘red matter’ from her lab and throwing it into the transdimensional nexus.
 
 # Shatner's Hardware Store
 
 *Location: Crossroads (motivation: to bring people, and things, together)*
 
-Shatner’s Hardware Store is a place that could supply a mercenary army for a small coup. Pictures of horses adorn the walls while the shelves are filled with every type of firearm imaginable.
+Shatner’s Hardware Store is a place that could supply a mercenary army for a [[small]] coup. Pictures of horses adorn the walls while the shelves are filled with every type of firearm imaginable.
 
 [[The Crystal Assassin]]

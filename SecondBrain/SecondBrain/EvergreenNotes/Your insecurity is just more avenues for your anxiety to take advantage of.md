@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[Your insecurity is just more avenues for your anxiety to take advantage of]]
+#### [[Your insecurity is just more avenues for your anxiety to take advantage of]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 When entering into social situations you might feel [[anxiety]] because you don't if you are going to have any friends there, or what exactly the plans are, or how you will interact with the people there. The cause of this [[anxiety]] is the [[fear of consequences]] and specifically the fear of invalidation. 
 
@@ -21,8 +21,5 @@ When entering into social situations you might feel [[anxiety]] because you don'
 
 **Status**:: #EVER/SPROUT/WATER  
 
-**Related-Topics**:: [[mental health]], [[mental disorders]], [[social anxiety]], [[anxiety]], [[social discomfort]], [[socialization]], [[You can be taught to invalidate your own emotions]]
+**Topics**::  [[mental health]], [[mental disorders]], [[social anxiety]], [[anxiety]], [[social discomfort]], [[socialization]], [[You can be taught to invalidate your own emotions]], [[Anxiety isn't irrational it's just overcompensation]]
 	
-**Sub-Topics**::[[Anxiety isn't irrational it's just overcompensation]]
-	
-**References**

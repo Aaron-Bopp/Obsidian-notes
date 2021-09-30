@@ -90,10 +90,13 @@ is it okay to want [[emotional validation]]? Do I want validation from people I 
 #TO/PONDERED/ME (it's [[masking]], lol 7/29/21) Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
 
 # 2020
+
 ## April
+
 ### 4/22/20 1:57am  
 My understanding of humans and their interactions comes mainly from observation and extensive analysis which means that if I am put into a situation that I have not dealt with before I have very little ability to adapt, unless the situation can be broken down into smaller little interaction nuggets which I have dealt with before.  
 ## March
+
 ### 3/28/20 1:17am  
 Couple weeks into coronavirus quarantine. The loneliness is hitting hard, but I don't know if this is really because of the quarantine. I feel like I'm on the edge of the [[depression]] from last semester. I feel like the progress I've made is slowly slipping away. I feel like I'm becoming the person I was a few months ago, the one that was just okay, not the one that is improving. The worst part is I don't know how to stop it. I don't really know what I need to do to feel better. Maybe being creative will help, I can certainly try.  
   
@@ -108,6 +111,7 @@ I think mentally unhealthy people are easier to get into deep conversations with
 It's okay to regret. Its okay to be sad. It's to improve yourself it's okay to get better. Even though it hurts. Even though every good time just makes all the bad times seem worse. Even though every bad time feels like it will last forever. Everybody has experiences that they regret. Everybody has times in their life that weren't as good. Everybody takes on life in a different way.  
 
 ## February
+
 ### 2/6/20 11:45pm  
 I am feeling quite introspective tonight. I watched a youtuber who I haven't watched in a while. I expected his videos to make me feel sad and purposeless, but they made reavaluate my current spot in life. He struggled with living reactionarily, but reoriented his life to focus on what he valued. That brings the question, what do I value.  
 That is a very hard question for me, as I do not have a solid purpose for living. The best I can think of is bringing [[happiness]] to myself and others, but that still feels like it's lacking something important, I just can't place my finger on it.  

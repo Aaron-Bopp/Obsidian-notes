@@ -4,7 +4,7 @@ The *[[basic concept]]* is your original idea, the thought that led to this myst
 
 *In the example, [[Building Arcs]] is the Mongolian death worms—the stories are awesome, so I wanted to make a mystery about them.*
 
-The *hook* is whatever has drawn [[the hunters]]’ attention to the situation: reports of deaths or disappearances, a monster sighting, or some weird phenomena. You’ll tell [[the hunters]] up front what [[the hook]] is, but after that it’s totally up to them how they deal with what’s going on.
+The *hook* is [[whatever]] has drawn [[the hunters]]’ attention to the situation: reports of deaths or disappearances, a monster sighting, or some [[Weird]] phenomena. You’ll tell [[the hunters]] up front what [[the hook]] is, but after that it’s totally up to them how they deal with what’s going on.
 
 *In the example, [[the hook]] is the news reports of the first three deaths.*
 
@@ -14,15 +14,15 @@ Next there’s the *monster*. The monster has a type that defines its motivation
 
 *Powers:*
 
-- ***Venom**: When* ***you are poisoned by a worm**, its venom will cause 1-[[harm]] every five minutes until the injury is stabilized or the affected area is flushed clean with water.*
+- ***Venom**: When* ***you are poisoned by a worm**, its venom will cause 1-[[harm]] every five minutes until the injury is stabilized or the affected [[area]] is flushed clean with water.*
 
-*Attacks: Venom: 4-[[harm]] hand/close poison; Lightning blast: 3-[[harm]] close electricity stun.*
+*Attacks: Venom: 4-[[harm]] hand/close poison; Lightning blast: 3-[[harm]] [[close]] electricity stun.*
 
 *Weakness: Water.*
 
 Next up are *[[minions]]*. These are servants of the main monster, who help it out and work against [[the hunters]]. [[Minions]] also get a type and motivation to guide you about how they act.
 
-*In the example, Dr Kelly Morrison is a minion. She’s a guardian, with the motivation “to bar a way or protect something.” She’s going to try and protect the worms as they nest and breed, because she wants to study and understand them.*
+*In the example, Dr Kelly Morrison is a minion. She’s a [[Guardian]], with the motivation “to bar a way or protect something.” She’s going to try and protect the worms as they nest and breed, because she wants to study and understand them.*
 
 There’s also a list of *[[bystanders]].* These are the people involved in the situation. These can be people who are in danger, who might help [[the hunters]]’ investigation, who might get in the way. [[Bystanders]] each have a type and associated motivation.
 

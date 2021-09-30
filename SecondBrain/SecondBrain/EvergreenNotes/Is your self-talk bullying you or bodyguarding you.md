@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-##### [[Is your self-talk bullying you or bodyguarding you]] `=length([[Is your self-talk bullying you or bodyguarding you]].file.inlinks) + length([[Is your self-talk bullying you or bodyguarding you]].file.outlinks)`
+#### [[Is your self-talk bullying you or bodyguarding you]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 With enough practice, you'll be able to tell if your [[self]]-talk is coming from an Internal Bully or from your Bodyguard. The key is to ask yourself: 
 - Which words are being used in my [[self]]-talk? 
@@ -17,8 +17,8 @@ With enough practice, you'll be able to tell if your [[self]]-talk is coming fro
 
 **Status**:: #EVER/SEED/WATER 
 
-**Related-Topics**:: 
+**Topics**::  
 
 **Last Edited**:: *`=[[Is your self-talk bullying you or bodyguarding you]].file.mtime`*
 	
-**References**::
+::

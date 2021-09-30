@@ -11,7 +11,9 @@ bib:
 ---
 
 ###### [[Why the Phrase Late Capitalism Is Suddenly Everywhere]]
-**Related-Topics**:: [[Communism]], [[Wealth Inequality]], [[Capitalism]]
+
+**Topics**::  [[Communism]], [[Wealth Inequality]], [[Capitalism]]
+
 **Last Edited**:: *`=this.file.mtime`*
 
 - Late [[capitalism]] is a catachall for the indiginities of a [[economy]] full of [[Wealth Inequality]] and rampant [[Consumerism]]. [^1]

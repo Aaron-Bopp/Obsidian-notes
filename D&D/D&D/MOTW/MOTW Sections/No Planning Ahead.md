@@ -7,6 +7,6 @@ Your preparation gives you a sketch of what’s going on, just enough for you to
 
 It’s fine to speculate about what is likely to happen. Say if you have a hunter who is likely to be sympathetic to a particular person in the mystery, you can go ahead and think about some possible things that might happen because of that. Or perhaps you set up a place because you are sure that [[the hunters]] will track the monster down there and have a big fight. That sort of thing is fine: just as long as you remember it’s only a *possible* outcome.
 
-What you should not do is *force* the story to go a certain way. Instead, let [[the hunters]] do whatever they want, in the situation you have set up for them.
+What you should not do is *force* the story to go a certain way. Instead, let [[the hunters]] do [[whatever]] they want, in the situation you have set up for them.
 
 [[It's About the Hunters, Not The Mystery]]

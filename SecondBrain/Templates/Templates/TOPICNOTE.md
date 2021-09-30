@@ -4,17 +4,20 @@ note-type:
 - topic-note
 aliases:
 - 
-embedded:
-- 
 ---
- 
-<% tp.file.include("[[TITLE-ALLLINKS]]") %>
+
+<% tp.file.include("[[TOPIC_HEADER]]") %>
+
 <% tp.file.cursor() %><% tp.system.clipboard() %>
 
 **Status**:: #EVER/SEED 
-**Related-Topics**:: 
+
+**Topics**:: 
+
 <% tp.file.include("[[MODIFIED FIELD]]") %>
-<% tp.file.include("[[TITLE-TOPIC]]") %>
+
+<% tp.file.include("[[TOPIC_OUTLINE_HEADER]]") %>
+
 - 
 
 ### <hr class="dataviews"/>

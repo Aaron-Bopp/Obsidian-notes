@@ -7,15 +7,14 @@ aliases:
 - 
 ---
 
-##### `=this.file.link` `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Children in traumatic households expect more love than their parents can give]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: 
+**Topics**::  
 	
 **Last Edited**:: *`=this.file.mtime`*
 	
-### References

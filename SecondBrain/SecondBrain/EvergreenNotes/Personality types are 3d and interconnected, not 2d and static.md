@@ -5,13 +5,13 @@ note-type:
 aliases:
 - 
 ---
-##### [[Personality types are 3d and interconnected, not 2d and static]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Personality types are 3d and interconnected, not 2d and static]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
 
-**Related Topics**:: [[personality]], [[]]
+**Topics**::  [[personality]], [[]]
 	
 **Last Edited**:: *`=this.file.mtime`*

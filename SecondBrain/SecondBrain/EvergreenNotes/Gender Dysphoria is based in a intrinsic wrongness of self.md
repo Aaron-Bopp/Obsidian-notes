@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[Gender Dysphoria is based in a intrinsic wrongness of self]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[Gender Dysphoria is based in a intrinsic wrongness of self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
  Dysphoria can be any sense unease or generalized dissatisfaction with life but in trans people can develop into [[self-hate]]. [[Self-hatred is born out of dissonance between self-image and self-perception]] which is intrinsic to [[gender dysphoria]]
  
@@ -19,6 +19,6 @@ This incongruity can create a frustration that is incredibly hard to root out an
 
 **Status**:: #EVER/SEED/WATER 
 
-**Related Topics**:: [[gender dysphoria]], [[mental disorders]]
+**Topics**::  [[gender dysphoria]], [[mental disorders]]
 	
 **Last Edited**:: *`=this.file.mtime`*

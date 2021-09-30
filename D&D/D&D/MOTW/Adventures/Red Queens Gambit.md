@@ -36,7 +36,7 @@ Her goal is to gentrify and profit from poor neighborhoods through defamation, p
 
 **Love .** The sound of humans sharing loving words in her presence makes her physically ill and unable to attack.
 
-**Attacks:** **Lava sword** 3-[[harm]] hand fire.
+**Attacks:** **Lava sword** 3-[[harm]] [[hand]] [[fire]].
 
 **[[Armour]]:** 2, invulnerable to non-magical [[weapons]].
 
@@ -44,7 +44,7 @@ Her goal is to gentrify and profit from poor neighborhoods through defamation, p
 
 # Red Ties, minions of the queen
 
-*Minion: Guardian (motivation: to bar a way or protect something)*
+*Minion: [[Guardian]] (motivation: to bar a way or protect something)*
 
 These agents of the Red Queen look like special agents with dark glasses and black suits, except for the red neckties they all wear. **Powers:**
 
@@ -56,7 +56,7 @@ These agents of the Red Queen look like special agents with dark glasses and bla
 
 -   **Call in Reinforcements**.
 
-**Attacks:** **Guns** 2-[[harm]] close loud. **[[Armour]]:** 1.
+**Attacks:** **Guns** 2-[[harm]] [[close]] [[loud]]. **[[Armour]]:** 1.
 
 **[[Harm]] capacity:** 3. <sup>\[\]\[\]\[\]</sup>
 
@@ -68,15 +68,15 @@ These agents of the Red Queen look like special agents with dark glasses and bla
 
 These hapless victims of the Red Queen’s cursed fortified wine become ferocious killing machines once they’ve consumed enough Ruby Red. **Powers:**
 
--   **Only harmed by magic**.
+-   **Only harmed by [[magic]]**.
 
 -   **Howl of fear**.
 
 -   **Leaping**.
 
-**Attacks:** **Claws** 2-[[harm]] hand messy. **[[Armour]]:** 0.
+**Attacks:** **Claws** 2-[[harm]] [[hand]] [[messy]]. **[[Armour]]:** 0.
 
-**[[Harm]] capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Weakness:** Magic.
+**[[Harm]] capacity:** 7. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup> **Weakness:** [[Magic]].
 
 # The Heart of Darkness
 
@@ -94,7 +94,7 @@ Middle Ages. When the ruling family executed her husband for his political writi
 
 Simply put, a passionate kiss in the same room with the heart will cause it to go dormant. There must be some feeling behind it or it won’t work. Once dormant, the Heart of Darkness is harmless until the elaborate activation spell can be repeated.
 
-The chains that bind it in place can take a total of 8-[[harm]]. If [[the hunters]] try to break the installation (and it’s not dormant), the Heart lashes out with black lighting (2-[[harm]] close magic lightning ignore-[[armour]]). If the installation is destroyed, the artifact loses its connection to the city and the phenomenon is defeated.
+The chains that bind it in place can take a total of 8-[[harm]]. If [[the hunters]] try to break the installation (and it’s not dormant), the Heart lashes out with black lighting (2-[[harm]] [[close]] [[magic]] lightning [[ignore-armour]]). If the installation is destroyed, the artifact loses its connection to the city and the phenomenon is defeated.
 
 To destroy the Heart of Darkness for good, the frame must be dismantled and the heart buried with the rest of the old Countess of Winchester’s body in the UK.
 
@@ -104,7 +104,7 @@ To destroy the Heart of Darkness for good, the frame must be dismantled and the 
 
 *Location: Den (motivation: to harbour [[monsters]])*
 
-From the nearby business district, the new RQI building towers over the neighborhood. At night, the gigantic letters on the side of the building cast a bloody light on the neighborhood. At 52 floors, it’s not the tallest skyscraper in the city, but its fortress-like construction makes it one of the most secure. Filled with business people during the day from a variety of companies occupying a floor or small office in the building, security is still tightly in the grip of the Red Ties. It will take a creative group of monster hunters to make their way to the penthouse office on the secret 53rd floor. There they will face the Red Queen herself, as well as the Heart of Darkness.
+From the nearby business district, the new RQI building towers over the neighborhood. At night, the gigantic letters on the side of the building cast a bloody light on the neighborhood. At 52 floors, it’s not the tallest skyscraper in the city, but its fortress-like construction makes it one of the most secure. Filled with business people during the day from a variety of companies occupying a floor or [[small]] office in the building, security is still tightly in the grip of the Red Ties. It will take a creative group of monster hunters to make their way to the penthouse office on the secret 53rd floor. There they will face the Red Queen herself, as well as the Heart of Darkness.
 
 The RQI building provides an opportunity to control the pace of your game. Depending on how much time you have left, you can make building security a significant challenge or a trivial one.
 
@@ -138,17 +138,17 @@ If a hunter has a spare smoke, Maggie will also mention that Pete’s been buyin
 
 A bystander turns into a Mad Dog after drinking Ruby Red three times.
 
-When **a hunter drinks Ruby Red**, they roll [[+Cool]]:
+When **a hunter drinks Ruby Red**, they roll +[[Cool]]:
 
 -   On a 10+ the drink is merely disgusting, but you have a vision and may ask a question from the **[[Investigate A Mystery]]** list.
 
 -   On a 7-9, choose 1:
 
--   You grow claws and lose –1 Sharp until the curse is removed.
+-   You grow claws and lose –1 [[Sharp]] until the curse is removed.
 
--   You grow fangs and lose –1 Charm until the curse is removed.
+-   You grow fangs and lose –1 [[Charm]] until the curse is removed.
 
--   Sickened, you lose –1 Tough until you eat something.
+-   Sickened, you lose –1 [[Tough]] until you eat something.
 
 -   On a miss, you still get a vision and may ask a question. [[The Keeper]] advances [[the countdown]] and hints that they’ve gained a lot of unwanted supernatural attention. The Red Queen knows the drinker by name and face.
 

@@ -13,24 +13,12 @@ aliases:
 
 
 **Status**:: #EVER/SEED
-###### [[defense-mechanisms]] `=length([[defense-mechanisms]].file.inlinks)` 
+
+##### [[defense-mechanisms]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 
 
 
-## Evergreen Notes
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM "EvergreenNotes"  and [[defense-mechanisms]]
-WHERE file.name != "QUICKNOTE" and file.name != "INDEX" and file.name != "defense-mechanisms" and !contains([[defense-mechanisms]].file.outlinks, link(file.name))
-SORT Status
-```
-## Content Notes
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM [[defense-mechanisms]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE" and file.name != "defense-mechanisms" and !contains([[defense-mechanisms]].file.outlinks, link(file.name))
-SORT Status
-```
+### <hr class="dataviews"/>
 
-## References
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})

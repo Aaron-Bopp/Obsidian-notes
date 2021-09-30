@@ -6,7 +6,7 @@ aliases:
 - 
 ---
 
-##### [[The internet allows niche topics to flourish]] `=length(this.file.inlinks) + length(this.file.outlinks)`
+#### [[The internet allows niche topics to flourish]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 The [[internet]] has allowed for people with niche interests to connect like never before. It has also allowed for nerd culture to be brought into the mainstream, people to engage more easily with the [[Queer]] community, and for social outcasts to find a sounding board for their ideas. 
 
 This fact has both good and bad consequences. While anonymous boards like 4chan have allowed for the spread of unsavory and sometimes despicable content, many people have also had access to life saving information like the [[transgender]] community. 
@@ -19,6 +19,6 @@ It has also allowed for a culture shift, where previously niche topics like [[Dn
 
 **Status**:: #EVER/SPROUT/CULTIVATE 
 
-**Related Topics**:: [[internet]], [[mass media]], [[inter-personal communication]], [[human advancement]]
+**Topics**::  [[internet]], [[mass media]], [[inter-personal communication]], [[human advancement]]
 	
 **Last Edited**:: *`=this.file.mtime`*

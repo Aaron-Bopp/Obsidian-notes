@@ -11,7 +11,8 @@ bib:
 ---
 
 ###### [[Difference between reincarnation in Hinduism and Bhudism]]
-**Related-Topics**:: [[Bhuddism]], [[Hinduism]], [[eastern philosophy]]
+
+**Topics**::  [[Bhuddism]], [[Hinduism]], [[eastern philosophy]]
 
 **Last Edited**:: *`=this.file.mtime`*
 

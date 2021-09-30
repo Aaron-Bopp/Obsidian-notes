@@ -14,7 +14,7 @@ Johnny Ray’s. It was there that “Thundering” Joe Johnson played his last s
 
 When the club owner, Buddy Wolf, came in early this morning, he found Joe sitting on a black, cane-backed chair under the harsh white house lights with his head slumped [[forward]]. In Joe’s hands were his ‘54 Gretsch White Falcon guitar and his still-bleeding heart.
 
-There were no cuts (or even marks) on Joe’s ashen chest. With no way to explain the horrible scene and fearing the cops would shut down the club, Buddy immediately called his cousin. A cousin who knew someone who dealt with weird stuff. A cousin who knew one of [[the hunters]]...
+There were no cuts (or even marks) on Joe’s ashen chest. With no way to explain the horrible scene and fearing the cops would shut down the club, Buddy immediately called his cousin. A cousin who knew someone who dealt with [[Weird]] stuff. A cousin who knew one of [[the hunters]]...
 
 # Background
 
@@ -32,9 +32,9 @@ The Heartbreaker is an oddity among the vampiric [[monsters]] in that rather tha
 
 The Heartbreaker has currently disguised itself as the Orpheum’s new theatre manager, Jacky King. **Powers:**
 
-• **Glamour**: Always looks like a person of indescribable beauty, whatever the beholder finds most physically attractive.
+• **Glamour**: Always looks like a person of indescribable beauty, [[whatever]] the beholder finds most physically attractive.
 
-**Attacks:** **Brawl** 2-[[harm]] hand, **Debilitating sadness** 0-[[harm]] close magic (victims take -1 [[forward]] on a passionate action). **[[Armour]]:** 1.
+**Attacks:** **Brawl** 2-[[harm]] [[hand]], **Debilitating sadness** 0-[[harm]] [[close]] [[magic]] (victims take -1 [[forward]] on a passionate action). **[[Armour]]:** 1.
 
 **[[Harm]] Capacity:** 10. <sup>\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]\[\]</sup>
 
@@ -48,11 +48,11 @@ The Hollow resemble zombies in that they are unpossessed with selfwill, but they
 
 • **Mentally Reft**: Cannot be distracted—they have no mind or will of their own
 
-**Attacks:** **Smashing fists** 1-[[harm]] hand. **[[Armour]]:** 1.
+**Attacks:** **Smashing fists** 1-[[harm]] [[hand]]. **[[Armour]]:** 1.
 
 **[[Harm]] Capacity:** 4. <sup>\[\]\[\]\[\]\[\]</sup>
 
-**Weaknesses:** Loud sounds/music. Massive trauma.
+**Weaknesses:** [[Loud]] sounds/music. Massive trauma.
 
 # Buddy Wolf
 
@@ -76,7 +76,7 @@ Barfly and musician, barely escaped the Heartbreaker while touring (it looked di
 
 *Location: Crossroads (motivation: to bring people, and things, together)*
 
-Legendary blues club fallen on hard times, but the bar is stocked with smokey bourbon, and the stage lights mostly work. When the music is playing the old magic is still there, but when the daylight leaks through the dusty windows the club can look almost skeletal.
+Legendary blues club fallen on hard times, but the bar is stocked with smokey bourbon, and the stage lights mostly work. When the music is playing the old [[magic]] is still there, but when the daylight leaks through the dusty windows the club can look almost skeletal.
 
 # Orpheum
 
@@ -94,15 +94,15 @@ Travelling Jones Records is more than just a record shop, though their collectio
 
 **Create Art**: When you channel your emotions into your talents and skills to make a beautiful work of art, say [[what you do]] and:
 
--   If you **use your knowledge and insight into the human condition**, roll [[+Charm]].
+-   If you **use your knowledge and insight into the human condition**, roll +[[Charm]].
 
 -   If you **tap into an observation of the world around you**, roll
 
-[[+Sharp]].
++[[Sharp]].
 
--   If you **just let all your raw emotion loose**, roll [[+Tough]].
+-   If you **just let all your raw emotion loose**, roll +[[Tough]].
 
--   ![[image128.jpg]]If you **channel your connection to magic and other weirdness**, roll [[+Weird]].
+-   ![[image128.jpg]]If you **channel your connection to [[magic]] and other weirdness**, roll +[[Weird]].
 
 On a hit, you make it. On a 10+, choose one from the following list.
 
