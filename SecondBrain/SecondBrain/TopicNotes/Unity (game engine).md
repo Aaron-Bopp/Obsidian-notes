@@ -7,7 +7,7 @@ aliases:
 - 
 ---
 
-##### [[Unity (game engine)]] `$=customJS.dv_funcs.topicHeader(dv)`
+##### [[Unity (game engine)]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 
@@ -17,7 +17,7 @@ aliases:
 
 **Last Edited**:: *`=this.file.mtime`*
 
-##### [[Unity (game engine)]] `$=customJS.dv_funcs.topicOutlineHeader(dv)`
+##### [[Unity (game engine)]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Using github with Unity projects]]
 

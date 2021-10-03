@@ -13,7 +13,7 @@ aliases:
 
 **Status**:: #EVER/SEED 
 
-**Topics**:: 
+**Topics**:: [[Social media]], [[Technology]], [[socialization]]
 
 **Last Edited**:: *`=this.file.mtime`*
 

@@ -1,0 +1,8 @@
+- Wild eyed old man who smells strongly of whisky
+- ratty clothes
+- Monster are from Russia
+- 67
+- Moves
+	- [[Connect the Dots]]
+	- [[See, It All Fits Together]]
+	- [[Often Overlooked]]

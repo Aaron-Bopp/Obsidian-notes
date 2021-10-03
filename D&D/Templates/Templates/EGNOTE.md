@@ -4,7 +4,7 @@ note-type:
 aliases:
 - 
 ---
-<% tp.file.include("[[TITLE-ALLLINKS]]") %>
+<% tp.file.include("[[EVERGREEN_HEADER]]") %>
 
 <% tp.system.clipboard() %>
 

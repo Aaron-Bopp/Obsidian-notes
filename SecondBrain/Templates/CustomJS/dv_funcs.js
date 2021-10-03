@@ -9,8 +9,12 @@ class dv_funcs {
             month = '0' + month;
         if (day.length < 2)
             day = '0' + day;
-
-        return [year, month, day].join('-');
+            
+        return date
+        if (typeof(d) === d.getMonth()) {
+        } else {
+            return [year, month, day].join('-');
+        }
     }
 
     wrap(name, alias) {
@@ -23,13 +27,13 @@ class dv_funcs {
     }
 
     getIO(page, dv, that) {
-        let sum = 0
-        if (that && dv){
-            let embeds = this.getEmbeds(page.file.name, dv, that)
-            sum = embeds.map(p => p.file.outlinks.length).reduce((sum, a) => sum + a, 0) - dv.current().file.outlinks.length
-            // sum = embeds.map(p => p.file.outlinks.length - p["related-topics"] && Array(p["related-topics"]).flat().length - 2).reduce((sum, a) => sum + a, 0)
-        }
-        return `${page.file.inlinks.length}/${page.file.outlinks.length + sum - 1}`
+        // let sum = 0
+        // if (that && dv){
+        //     let embeds = this.getEmbeds(page.file.name, dv, that)
+        //     sum = embeds.map(p => p.file.outlinks.length).reduce((sum, a) => sum + a, 0) - dv.current().file.outlinks.length
+        //     // sum = embeds.map(p => p.file.outlinks.length - p["related-topics"] && Array(p["related-topics"]).flat().length - 2).reduce((sum, a) => sum + a, 0)
+        // }
+        return `${page.file.inlinks.length}/${this.getTotalLinks(page.file.name, dv, that).size}`
     }
 
     getFileText(page, that) {
@@ -63,9 +67,22 @@ class dv_funcs {
         return embeds.map((name) => this.getEmbeds(name, dv, that)).concat([file]).flat().filter(el => el != null)
     }
 
-    getNotesInOutline(dv, that) {
-        const file = dv.page(that.file.name)
-        const re = /[\s\t]*-\s*!\[\[([^\]]+)[\#\^][^\]]+\]\]/g;
+    getNotesInOutline(name, dv, that) {
+        const file = dv.page(name)
+        const linksInOutline = /[\s\t]*-\s*\!*\[\[([^\#\]]+)([\#\^][^\]]+)*\]\]/g;
+        const content = this.getFileText(file, that)
+        let matches = []
+        for (let match of content.matchAll(linksInOutline)) {
+            matches.push(match)
+        }
+        return [name].concat(matches.map((m)=> m[2] ? this.getNotesInOutline(m[1], dv, that) : m[1])).flat()
+    }
+
+    getTotalLinks(name, dv, that) {
+        const outlinks = dv.page(name).file.outlinks.map(l => l.path.match(/.*\/*(.*)\.md/) && l.path.match(/.*\/*(.*)\.md/)[1])
+        console.log(outlinks)
+        const outline = this.getNotesInOutline(name, dv, that)
+        return new Set(outlinks.concat(outline))
     }
     statusLevel = (status) => {
         let statusDict = {
@@ -138,7 +155,7 @@ class dv_funcs {
         this.defaultTable({
             pagesArray: this.notLinkedPages({dv, folder, that}),
             sortCheck: ((p) => this.statusLevel(p.status)),
-            columnTitles:[title, "I/O", "Status", "Edited", "Created"],
+            columnTitles:[title || folder || "Page", "I/O", "Status", "Edited", "Created"],
             columns:(p => [p.file.link, this.getIO(p, dv, that), p.status, p.file.mtime, this.formatDate(p.created || p.file.ctime)]),
             ...args
         })
@@ -174,7 +191,7 @@ class dv_funcs {
     }
 
     topicOutlineHeader(dv, that) {
-        return this.getIO(dv.current(), dv, that)
+        return `${dv.current().file.inlinks.length}/${this.getNotesInOutline(dv.current().file.name, dv, that).length - 1}`
     }
     topicHeader(dv, that){
         return this.getIO(dv.current(), dv, that)

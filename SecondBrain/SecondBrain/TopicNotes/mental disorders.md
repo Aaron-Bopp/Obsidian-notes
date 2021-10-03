@@ -8,7 +8,7 @@ aliases:
 parent: [[mental health]]
 ---
  
-#### [[mental disorders]] `$=customJS.dv_funcs.topicHeader(dv)`
+#### [[mental disorders]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Status**:: #EVER/SEED
 
@@ -16,7 +16,7 @@ parent: [[mental health]]
 
 **Last Edited**:: *`=this.file.mtime`*
 
-##### [[mental disorders]] `$=customJS.dv_funcs.topicOutlineHeader(dv)`
+##### [[mental disorders]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[OCD]]
 - [[ADHD]]
 - [[anxiety]]

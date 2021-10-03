@@ -4,14 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9b425e48e3424432",
+        "id": "6b3c807214dce13c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/TopicNotes.md",
+            "file": "SecondBrain/TopicNotes/Neuroscience.md",
             "mode": "preview"
           }
+        }
+      },
+      {
+        "id": "84e0b458b64e947b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -46,7 +54,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/TopicNotes.md",
+                "file": "SecondBrain/TopicNotes/Neuroscience.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -63,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/TopicNotes.md",
+                "file": "SecondBrain/TopicNotes/Neuroscience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -86,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/TopicNotes/TopicNotes.md"
+                "file": "SecondBrain/TopicNotes/Neuroscience.md"
               }
             }
           },
@@ -139,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/TopicNotes.md",
+                "file": "SecondBrain/TopicNotes/Neuroscience.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -249,7 +257,7 @@
             }
           },
           {
-            "id": "5e2fdb8c36ddf45d",
+            "id": "dce5c92efdaa0764",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-stats",
@@ -257,7 +265,7 @@
             }
           },
           {
-            "id": "7f36f060d7483666",
+            "id": "384556e780a162d5",
             "type": "leaf",
             "state": {
               "type": "breadcrumbs-matrix",
@@ -272,17 +280,17 @@
     "width": 466,
     "collapsed": true
   },
-  "active": "9b425e48e3424432",
+  "active": "6b3c807214dce13c",
   "lastOpenFiles": [
-    "SecondBrain/TopicNotes/TopicNotes.md",
-    "SecondBrain/TopicNotes/self.md",
-    "Templates/Templates/TOPIC_OUTLINE_HEADER.md",
-    "SecondBrain/TopicNotes/Hinduism.md",
-    "SecondBrain/TopicNotes/Bhuddism.md",
-    "SecondBrain/TopicNotes/Reincarnation.md",
-    "SecondBrain/SecondBrain.md",
-    "SecondBrain/aliases.md",
+    "SecondBrain/TopicNotes/Neuroscience.md",
+    "SecondBrain/ContentNotes/Mental Health/gender-dysphoria-bible/5 Biochemical Dysphoria.md",
     "SecondBrain/INDEX.md",
-    "SecondBrain/OrganizationalNotes/OrganizationalNotes.md"
+    "SecondBrain/SecondBrain.md",
+    "SecondBrain/TopicNotes/human experience.md",
+    "SecondBrain/TopicNotes/socialization.md",
+    "SecondBrain/TopicNotes/human survival.md",
+    "SecondBrain/EvergreenNotes/The bible is god breathed.md",
+    "SecondBrain/EvergreenNotes/Mental illness is a reaction to ones environment.md",
+    "SecondBrain/EvergreenNotes/Mental illness is a reaction to your physical and chemical environment.md"
   ]
 }

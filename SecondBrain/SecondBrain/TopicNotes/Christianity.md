@@ -7,7 +7,7 @@ note-type:
 aliases:
 - christian
 ---
-#### [[Christianity]] `$=customJS.dv_funcs.topicHeader(dv)`
+#### [[Christianity]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 

@@ -19,7 +19,7 @@ aliases:
 **Last Edited**:: *`=this.file.mtime`*
 
 ##### [[my emotions]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- 
+- [[Self-hatred is born out of dissonance between self-image and self-perception]]
 
 ### <hr class="dataviews"/>
 

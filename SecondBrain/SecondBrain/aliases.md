@@ -483,7 +483,7 @@
 
 [[Mental illness is a reaction to ones environment]]:
 
-[[Mental illness is a reaction to your physical and chemical environment]]:
+[[Mental illness is a reaction to ones environment]]:
 
 [[Mermaid (software)]]:
 

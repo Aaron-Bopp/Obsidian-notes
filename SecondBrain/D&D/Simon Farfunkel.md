@@ -1,0 +1,12 @@
+- Likes to fuck around with magic
+- shut in highschooler really nerdy
+- Moves
+	- [[Tools and Techniques]]
+	- [[Advanced Arcane Training]]
+	- [[Could’ve Been Worse]]
+	- [[Not My Fault]]
+	- [[Third Eye]]
+- Combat magic
+	- missile
+	- fire
+	- lightning 

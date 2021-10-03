@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-aliases -path:book path:EvergreenNotes OR path:TopicNotes",
+  "search": "-aliases -path:book path:EvergreenNotes OR path:TopicNotes OR path:ContentNotes",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -134,20 +134,6 @@
       }
     },
     {
-      "query": "path:SecondBrain/TopicNotes",
-      "color": {
-        "a": 1,
-        "rgb": 16138244
-      }
-    },
-    {
-      "query": "path:SecondBrain/EvergreenNotes",
-      "color": {
-        "a": 1,
-        "rgb": 1630933
-      }
-    },
-    {
       "query": "path:classes",
       "color": {
         "a": 1,
@@ -167,6 +153,27 @@
         "a": 1,
         "rgb": 5966603
       }
+    },
+    {
+      "query": "path:SecondBrain/EvergreenNotes",
+      "color": {
+        "a": 1,
+        "rgb": 1630933
+      }
+    },
+    {
+      "query": "path:SecondBrain/TopicNotes",
+      "color": {
+        "a": 1,
+        "rgb": 16138244
+      }
+    },
+    {
+      "query": "line:([[Chrisitianity]])",
+      "color": {
+        "a": 1,
+        "rgb": 397044
+      }
     }
   ],
   "collapse-display": false,
@@ -179,6 +186,6 @@
   "repelStrength": 12.5882352941176,
   "linkStrength": 0.482352941176471,
   "linkDistance": 30,
-  "scale": 0.2686302127014774,
+  "scale": 0.09178662049689594,
   "close": false
 }

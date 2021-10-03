@@ -4,21 +4,19 @@ note-type:
 - topic-note
 aliases:
 - 
-embedded:
-- 
 ---
 
-##### [[<% tp.file.title %>]] `$=customJS.dv_funcs.topicHeader(dv)`
+<% tp.file.include("[[TOPIC_HEADER]]") %>
 
 <% tp.file.cursor() %><% tp.system.clipboard() %>
 
 **Status**:: #EVER/SEED 
 
-**Related-Topics**:: 
+**Topics**:: 
 
 <% tp.file.include("[[MODIFIED FIELD]]") %>
 
-##### [[<% tp.file.title %>]] `$=customJS.dv_funcs.topicOutlineHeader(dv)`
+<% tp.file.include("[[TOPIC_OUTLINE_HEADER]]") %>
 
 - 
 

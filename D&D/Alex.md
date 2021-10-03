@@ -1,0 +1,15 @@
+- Tank Top jeans combat boots
+- tons of tatoos
+- old brother of gus
+- mid 50s
+- the profesional
+	- [[Unfazeable]]
+	- [[Battlefield Awareness]]
+	- [[Mobility]]
+		- roomy 
+		- tough
+		- tough
+- agency
+	- [[KGB paranormal activity unit]]
+	- assignment the paranormal patriot
+		- which is tom

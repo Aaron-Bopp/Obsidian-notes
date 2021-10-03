@@ -29,5 +29,5 @@
   "shimmering-focus@@show-ribbons": true,
   "shimmering-focus@@round-checkboxes": true,
   "shimmering-focus@@show-header-bar": true,
-  "CodeMirror Options@@cm-theme-selection": "cm-theme-custom"
+  "CodeMirror Options@@cm-theme-selection": "cm-theme-dracula"
 }

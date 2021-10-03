@@ -1,0 +1,9 @@
+- Stereotypical uncle
+- lost his wife
+	- wanted to die fighting a monster 
+- Wants to protect his family and freinds\
+- 47
+- Moves
+	- [[What Could Go Wrong]]
+	- [[Trust Me]]
+	- [[The Power of Heart]]

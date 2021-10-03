@@ -7,14 +7,14 @@ aliases:
 - 
 ---
  
-#### [[social progress]] `$=customJS.dv_funcs.topicHeader(dv)`
+#### [[social progress]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 https://github.com/chhoumann/MetaEdit
 
 **Status**:: #EVER/SEED
 
 **Last Edited**:: *`=this.file.mtime`*
 
-##### [[social progress]] `$=customJS.dv_funcs.topicOutlineHeader(dv)`
+##### [[social progress]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 
 
 ### <hr class="dataviews"/>
