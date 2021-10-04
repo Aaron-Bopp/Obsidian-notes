@@ -10,9 +10,13 @@ related-topics: [[anxiety]]
  
 #### [[social anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Status**:: #EVER/SEED
+**Definition**::
 
-**Last Edited**:: *`=this.file.mtime`*
+**Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
+
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[social anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Symptoms

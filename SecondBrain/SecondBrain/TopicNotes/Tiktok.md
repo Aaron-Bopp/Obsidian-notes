@@ -11,11 +11,13 @@ aliases:
 
  
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**:: [[Social media]], [[Technology]], [[socialization]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[Social media]], [[Technology]], [[socialization]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Tiktok]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

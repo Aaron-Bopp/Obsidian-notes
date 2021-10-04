@@ -12,11 +12,13 @@ aliases:
 
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  [[Prison]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[Prison]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[prison-industrial complex]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

@@ -12,8 +12,7 @@ aliases:
 
 
 **Status**:: #EVER/SEED/UNPLANTED 
-
-**Last Edited**:: *`=[[Civil Rights]].file.mtime`*
+*edited `=this.file.mtime`*
 
 ##### [[Civil Rights]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

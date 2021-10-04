@@ -1,18 +1,18 @@
 ---
 created: 2021-06-15
-modification date: Tuesday 15th June 2021 21:32:51
-note-type: 
+note-type:
 - evergreen-note
-
+date modified: Monday, October 4th 2021, 12:16:57 am
 ---
 
 #### [[Anxiety should be a tool at your disposal not an impedance to your life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Being paralyzed by your [[anxiety]] is not the desired outcome
+[[Anxiety isn't irrational it's just overcompensation]]
 
----
+### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SEED/WATER
 
-**Topics**::  [[anxiety]], [[mental health]], [[mental disorders]], [[Anxiety isn't irrational it's just overcompensation]], [[social anxiety]] 
-	
+**Topics**::  [[anxiety]], [[mental health]], [[mental disorders]], [[social anxiety]]
+

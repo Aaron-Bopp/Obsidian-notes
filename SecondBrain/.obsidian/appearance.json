@@ -3,7 +3,7 @@
   "cssTheme": "Dracula for Obsidian",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "tag-pills"
+    "Tag_Pills_in_Editor"
   ],
   "translucency": false,
   "baseFontSizeAction": false

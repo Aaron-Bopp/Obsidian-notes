@@ -10,11 +10,13 @@ aliases:
 #### [[Cultural Fundamentalism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  [[America]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[America]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Cultural Fundamentalism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

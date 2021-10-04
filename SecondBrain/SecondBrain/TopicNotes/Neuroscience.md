@@ -11,11 +11,13 @@ date modified: Sunday, October 3rd 2021, 11:09:53 am
 
 #### [[Neuroscience]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Status**:: #EVER/SPROUT/WATER
+**Definition**::
 
-**Topics**::  [[INDEX]], [[mental health]]
+**Status**::  #EVER/SPROUT/WATER
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[INDEX]], [[mental health]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Neuroscience]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

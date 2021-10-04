@@ -16,8 +16,7 @@ aliases:
 enlightenment, [[liberation]], [[Self]]-Realization, God-Realization, nirvikalpa samadhi and finally Moksha
 
 **Status**:: #EVER/SEED
-
-**Last Edited**:: *`=this.file.mtime`*
+*edited `=this.file.mtime`*
 
 ##### [[enlightenment]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[To be happy you need to not be sad]]

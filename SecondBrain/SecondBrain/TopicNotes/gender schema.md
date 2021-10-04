@@ -9,11 +9,13 @@ aliases:
 #### [[gender schema]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**:: [[gender]], [[Behavioral Pyschology]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[gender]], [[Behavioral Pyschology]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[gender schema]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

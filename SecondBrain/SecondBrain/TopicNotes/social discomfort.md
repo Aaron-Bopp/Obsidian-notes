@@ -10,8 +10,7 @@ parent: [[anxiety]]
 #### [[social discomfort]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Status**:: #EVER/SPROUT 
-
-**Last Edited**:: *`=this.file.mtime`*
+*edited `=this.file.mtime`*
 
 ##### [[social discomfort]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[socialization]]

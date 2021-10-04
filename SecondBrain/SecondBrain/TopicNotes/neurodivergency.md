@@ -9,11 +9,13 @@ aliases:
  
 #### [[neurodivergency]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  [[mental health]], [[mental disorders]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[mental health]], [[mental disorders]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[neurodivergency]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[ADHD]]

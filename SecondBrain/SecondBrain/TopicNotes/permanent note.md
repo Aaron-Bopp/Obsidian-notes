@@ -13,9 +13,13 @@ A permanent note is a singular concept that you have conceptualized and written 
 
 ---
 
-**Status**:: #EVER/SPROUT  
+**Definition**::
 
-**Topics**::  [[Zettlekassen]], [[personal knowledge management]], [[evergreen notes]]  
+**Status**::  #EVER/SPROUT  
+*edited `=this.file.mtime`*
+
+**Parents**:: [[Zettlekassen]], [[personal knowledge management]], [[evergreen notes]]  
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ---
 	

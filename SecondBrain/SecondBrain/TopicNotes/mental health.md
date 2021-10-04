@@ -17,11 +17,13 @@ note-type:
 
 [[mental health]] covers concepts that vary from [[mental disorders]] to [[neurodivergency]] to [[spirituality]] and how it effects us. 
 
-**Status**:: #EVER/GREEN/GROWING 
+**Definition**::
 
-**Topics**::  [[INDEX]], [[Neuroscience]]
+**Status**::  #EVER/GREEN/GROWING 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=[[mental health]].file.mtime`*
+**Parents**:: [[INDEX]], [[Neuroscience]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[mental health]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

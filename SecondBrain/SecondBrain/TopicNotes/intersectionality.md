@@ -10,11 +10,13 @@ aliases:
 #### [[intersectionality]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[intersectionality]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

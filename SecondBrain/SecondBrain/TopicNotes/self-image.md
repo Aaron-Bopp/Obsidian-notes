@@ -11,11 +11,13 @@ aliases:
 
 [[Self]]-image is way that you view yourself internally. It includes things like how you look, what you want to be. It may be instep or out of step with how you view yourself externally, or your [[self-perception]]. [[Self]]-image can be influenced by things like [[trauma]], [[gender dysphoria]], and [[body dysmorphia]].
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  [[self]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[self]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[self-image]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[A mismatch between your self-image and the way others percieve you destroys self-image]]

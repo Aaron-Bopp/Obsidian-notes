@@ -11,11 +11,13 @@ aliases:
 		.where(p => p.file.outlinks.length <= 1)
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[natural selection]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

@@ -11,11 +11,13 @@ aliases:
 
  - Communism will not be accomplished until we fully and totally bring about the honoring of peoples [[Civil Rights]]
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**:: 
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Communism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

@@ -11,11 +11,13 @@ aliases:
 
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**:: [[socialization]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[socialization]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Social media]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

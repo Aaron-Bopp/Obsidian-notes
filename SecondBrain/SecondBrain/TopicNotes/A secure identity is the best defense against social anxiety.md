@@ -12,8 +12,12 @@ note-type:
 
 ---
 
-**Status**:: #EVER/SEED/WATER  
+**Definition**::
 
-**Topics**::  [[self]], [[self-actualization]], [[social anxiety]], [[self-love]]
+**Status**::  #EVER/SEED/WATER  
+*edited `=this.file.mtime`*
+
+**Parents**:: [[self]], [[self-actualization]], [[social anxiety]], [[self-love]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 	
 **Last Edited**:: *`=this.file.mtime`*

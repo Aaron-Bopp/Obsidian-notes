@@ -10,11 +10,13 @@ aliases:
 #### [[Marxism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  testing
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: testing
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Marxism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

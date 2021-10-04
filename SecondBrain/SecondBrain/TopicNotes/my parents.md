@@ -11,11 +11,13 @@ aliases:
 - 
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[my parents]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

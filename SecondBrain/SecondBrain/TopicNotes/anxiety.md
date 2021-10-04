@@ -11,11 +11,13 @@ date modified: Wednesday, September 29th 2021, 8:54:24 pm
 
 #### [[anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Status**:: #EVER/GREEN
+**Definition**::
 
-**Topics**::  [[mental health]], [[mental disorders]]
+**Status**::  #EVER/GREEN
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[mental health]], [[mental disorders]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

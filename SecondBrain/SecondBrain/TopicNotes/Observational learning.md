@@ -14,11 +14,13 @@ date modified: Sunday, October 3rd 2021, 1:30:47 pm
 
 This concept relates to [[Behavioral Pyschology]] and [[early childhood development]]
 
-**Status**:: #EVER/SEED
+**Definition**::
 
-**Topics**:: [[Behavioral Pyschology]]
+**Status**::  #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[Behavioral Pyschology]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Observational learning]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

@@ -13,11 +13,13 @@ parent: [[personal knowledge management]]
 A second brain is a term that refers to a system of written thought that allows the writer to make permanent meaningful thought, access those thoughts in a meaningful way, and use as a conduit for new thought. 
 #TO/DO/WRITE/LONGTERM Article with my flavor of [[personal knowledge management]]
 
-**Status**:: #EVER/GREEN 
+**Definition**::
 
-**Topics**::  [[INDEX]]
+**Status**::  #EVER/GREEN 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[INDEX]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[second brain]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Why are you creating a Second Brain

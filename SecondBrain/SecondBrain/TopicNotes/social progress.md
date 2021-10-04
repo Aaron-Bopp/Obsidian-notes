@@ -11,8 +11,7 @@ aliases:
 https://github.com/chhoumann/MetaEdit
 
 **Status**:: #EVER/SEED
-
-**Last Edited**:: *`=this.file.mtime`*
+*edited `=this.file.mtime`*
 
 ##### [[social progress]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

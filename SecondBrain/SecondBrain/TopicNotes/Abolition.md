@@ -14,11 +14,13 @@ This topic serves as a bridge between all forms of abolition
 
 > Abolition is the action or an act of abolishing a system, practice, or institution.
 
-**Status**:: #EVER/SEED
+**Definition**::
 
-**Topics**::  [[social justice]]
+**Status**::  #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[social justice]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### Outline
 - [[Abolition]]

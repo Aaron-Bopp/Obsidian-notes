@@ -12,11 +12,13 @@ aliases:
 
 **Definition**:: A theory of human developement that prioritizes four key social pressures: reinforcement, punishment, imitation, and [[Observational learning]] [^1]
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**:: 
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Social Learning Theory]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

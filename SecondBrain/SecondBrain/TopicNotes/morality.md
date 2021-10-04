@@ -10,11 +10,13 @@ aliases:
 #### [[morality]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  modification date: Wednesday 11th August 2021 17:50:29
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[morality]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

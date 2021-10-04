@@ -11,11 +11,13 @@ aliases:
 testing
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  [[mental health]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[mental health]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[mindfullness]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

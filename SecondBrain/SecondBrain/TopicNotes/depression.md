@@ -14,11 +14,13 @@ aliases:
 - [[Sadness is enlightenment and happiness is delusion]]
 - [[To be happy you need to not be sad]]
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  [[mental disorders]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[mental disorders]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[depression]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 `=this.embedded`

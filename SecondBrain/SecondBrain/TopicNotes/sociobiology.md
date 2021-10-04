@@ -11,11 +11,13 @@ aliases:
 
 **Definition**:: the applicatoin of evolutionary theory (natural selection) to social behavior [[socialization|social fitness]]
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**:: 
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[sociobiology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

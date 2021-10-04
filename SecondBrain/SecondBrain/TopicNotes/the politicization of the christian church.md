@@ -9,11 +9,13 @@ The modern church is focused on building a [[counter-culture]] movement that is 
 
 [[Non-faith issues have been co-opted to keep people in the christian church]]
 
-**Status**:: #EVER/SPROUT 
+**Definition**::
 
-**Topics**::  [[Politics]], [[Christianity]]
+**Status**::  #EVER/SPROUT 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[Politics]], [[Christianity]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[The Politicization of the Christian Church]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Non-faith issues have been co-opted to keep people in the christian church]]

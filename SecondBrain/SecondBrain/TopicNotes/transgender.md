@@ -11,11 +11,13 @@ aliases:
 
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  [[Queer]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[Queer]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[transgender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[You're never sure if you're trans]]

@@ -10,11 +10,13 @@ parent: [[mental health]]
  
 #### [[mental disorders]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Status**:: #EVER/SEED
+**Definition**::
 
-**Topics**::  [[mental health]]
+**Status**::  #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[mental health]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[mental disorders]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[OCD]]

@@ -11,11 +11,13 @@ aliases:
 
 This topic serves as a bride between [[Prison abolition]] and the [[prison-industrial complex]].
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  [[social justice]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[social justice]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Prison]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - ![[Prison abolition#Prison abolition customJS dv_funcs topicOutlineHeader dv this]]

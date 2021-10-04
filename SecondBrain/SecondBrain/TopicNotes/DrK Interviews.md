@@ -19,9 +19,13 @@ note-type:
 
 ---
 
-**Status**:: #EVER/GREEN 
+**Definition**::
 
-**Topics**::   
+**Status**::  #EVER/GREEN 
+*edited `=this.file.mtime`*
+
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 	
 
 

@@ -13,8 +13,7 @@ aliases:
 consciousness
 
 **Status**:: #EVER/SEED
-
-**Last Edited**:: *`=this.file.mtime`*
+*edited `=this.file.mtime`*
 customJS.dv_funcs.topicHeader(dv, thi`
 ##### [[conscious]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

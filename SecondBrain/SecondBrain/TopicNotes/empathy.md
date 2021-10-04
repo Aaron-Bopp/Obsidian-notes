@@ -17,9 +17,13 @@ note-type:
 
 ---
 
-**Status**:: #EVER/SEED
+**Definition**::
 
-**Topics**::   
+**Status**::  #EVER/SEED
+*edited `=this.file.mtime`*
+
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 	
 
 

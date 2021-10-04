@@ -12,8 +12,7 @@ aliases:
 [[conscious|consciousness]]
 
 **Status**:: #EVER/SEED
-
-**Last Edited**:: *`=this.file.mtime`*
+*edited `=this.file.mtime`*
 omJS.dv_funcs.topicHeader(dv, thi` 
 - 
 

@@ -16,11 +16,13 @@ aliases:
 	- Catch that moment and observe it
 		- "It's not about the answer it's about training yourself to look"
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  [[yoga]], [[mental health]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[yoga]], [[mental health]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[meditation]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Techniques

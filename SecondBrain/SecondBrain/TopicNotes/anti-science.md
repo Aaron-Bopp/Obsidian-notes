@@ -14,11 +14,13 @@ date modified: Wednesday, September 29th 2021, 7:13:06 pm
 
 #### [[anti-science]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Status**:: #EVER/SEED
+**Definition**::
 
-**Topics**::
+**Status**::  #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[anti-science]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

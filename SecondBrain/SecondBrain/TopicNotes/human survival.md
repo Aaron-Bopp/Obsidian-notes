@@ -11,8 +11,7 @@ date modified: Saturday, October 2nd 2021, 3:45:40 pm
 #### [[human survival]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Status**:: #EVER/SEED
-
-**Last Edited**:: *`=this.file.mtime`*
+*edited `=this.file.mtime`*
 
 ##### [[human survival]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

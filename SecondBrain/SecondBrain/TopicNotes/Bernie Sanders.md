@@ -10,11 +10,13 @@ aliases:
 #### [[Bernie Sanders]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  Consumer Culture
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: Consumer Culture
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Bernie Sanders]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

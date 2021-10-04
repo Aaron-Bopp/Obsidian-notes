@@ -10,11 +10,13 @@ aliases:
 #### [[masking]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::   [[ADHD]], [[anxiety]], [[transgender]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[ADHD]], [[anxiety]], [[transgender]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[masking]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

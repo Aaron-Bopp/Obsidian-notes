@@ -14,11 +14,13 @@ parent: [[second brain]]
 
 Since March 2021 I have become very interested in [[personal knowledge management]] and the concept of a [[web of thought]] so intricate that it creates a [[second brain]]. This is my structure and [[philosophy]] of how I will construct [[My Second Brain]]
 
-**Status**:: #EVER/GREEN 
+**Definition**::
 
-**Topics**::  [[second brain]]
+**Status**::  #EVER/GREEN 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[second brain]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[My Second Brain]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Driving principals

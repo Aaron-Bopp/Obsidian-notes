@@ -10,11 +10,13 @@ aliases:
 #### [[black people]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
  Unlike first amendment rights, 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**:: 
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[black people]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

@@ -10,11 +10,13 @@ aliases:
 #### [[gender dysphoria]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::   [[gender]], [[mental disorders]], [[mental health]], [[self-love]], [[self-hate]], [[childhood trauma]], [[body dysmorphia]], [[depression]], [[self-image]], [[self-perception]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[gender]], [[mental disorders]], [[mental health]], [[self-love]], [[self-hate]], [[childhood trauma]], [[body dysmorphia]], [[depression]], [[self-image]], [[self-perception]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[gender dysphoria]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

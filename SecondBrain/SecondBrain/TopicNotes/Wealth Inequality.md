@@ -10,11 +10,13 @@ aliases:
 #### [[Wealth Inequality]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**::  [[Capitalism]], [[Marxism]], [[Communism]]
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[Capitalism]], [[Marxism]], [[Communism]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Wealth Inequality]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Wealth Inequality creates a need for change]]

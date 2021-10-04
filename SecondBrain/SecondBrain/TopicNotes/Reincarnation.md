@@ -12,8 +12,7 @@ aliases:
 
 
 **Status**:: #EVER/SEED
-
-**Last Edited**:: *`=this.file.mtime`*
+*edited `=this.file.mtime`*
 
 ##### [[Reincarnation]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

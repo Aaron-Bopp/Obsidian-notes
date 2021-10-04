@@ -11,11 +11,13 @@ aliases:
 
 
 
-**Status**:: #EVER/SEED 
+**Definition**::
 
-**Topics**:: [[Pyschology]],
+**Status**::  #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[Pyschology]],
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Behavioral Pyschology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
