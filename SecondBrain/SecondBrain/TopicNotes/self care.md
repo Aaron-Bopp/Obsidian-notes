@@ -11,7 +11,7 @@ aliases:
 
  
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 ##### [[self care]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

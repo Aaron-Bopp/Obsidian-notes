@@ -14,7 +14,7 @@ date modified: Wednesday, September 29th 2021, 8:54:24 pm
 
 
 
-**Status**::  #EVER/GREEN
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Parents**:: [[mental health]], [[mental disorders]]

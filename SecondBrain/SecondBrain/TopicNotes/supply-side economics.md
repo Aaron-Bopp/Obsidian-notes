@@ -12,7 +12,7 @@ This is the belief that reducing tax rates across the board will allow for more 
 
 **Definition**::
 
-**Status**::  #EVER/SEED 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[economy]], [[Politics]], [[Reagan]]

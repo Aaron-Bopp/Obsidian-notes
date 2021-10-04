@@ -16,7 +16,7 @@ This topic serves as a bridge between all forms of abolition
 
 **Definition**::
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Parents**:: [[social justice]]

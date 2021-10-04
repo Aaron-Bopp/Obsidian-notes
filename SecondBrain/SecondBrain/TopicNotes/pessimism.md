@@ -11,7 +11,7 @@ aliases:
 
 inlinks
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 ##### [[pessimism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

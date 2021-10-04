@@ -9,7 +9,7 @@ date modified: Monday, October 4th 2021, 1:21:57 am
 
 ### <hr class="footnote"/>
 
-**Status**::  #EVER/SEED/WATER
+**Status**:: #EVER/SEED/WATER
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self]], [[self-actualization]], [[social anxiety]], [[self-love]]

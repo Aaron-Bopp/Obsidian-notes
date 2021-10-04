@@ -14,7 +14,7 @@ A second brain is a term that refers to a system of written thought that allows 
 
 **Definition**::
 
-**Status**::  #EVER/GREEN 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[INDEX]]

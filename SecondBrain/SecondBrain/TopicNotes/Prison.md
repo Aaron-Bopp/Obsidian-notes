@@ -13,7 +13,7 @@ This topic serves as a bride between [[Prison abolition]] and the [[prison-indus
 
 **Definition**::
 
-**Status**::  #EVER/SEED 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[social justice]]

@@ -23,7 +23,7 @@ note-type:
 
 **Definition**::
 
-**Status**::  #EVER/GREEN/GROWING  
+**Status**:: #EVER/GREEN/GROWING  
 *edited `=this.file.mtime`*
 
 **Parents**:: 

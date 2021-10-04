@@ -12,7 +12,7 @@ aliases:
 
 **Definition**:: bitter indignation at having been treated unfairly.
 
-**Status**::  #EVER/SEED 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Parents**:: 

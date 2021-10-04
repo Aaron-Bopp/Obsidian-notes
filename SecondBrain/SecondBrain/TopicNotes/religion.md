@@ -10,7 +10,7 @@ aliases:
 #### [[religion]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Parents**:: [[INDEX]]

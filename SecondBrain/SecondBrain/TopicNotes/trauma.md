@@ -12,7 +12,7 @@ date modified: Sunday, October 3rd 2021, 4:45:38 pm
 
 **Definition**::
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Parents**:: [[mental health]]

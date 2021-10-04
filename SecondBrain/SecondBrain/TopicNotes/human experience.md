@@ -12,7 +12,7 @@ date modified: Saturday, October 2nd 2021, 3:45:32 pm
 
 **Definition**::
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Parents**:: [[Neuroscience]]

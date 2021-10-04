@@ -12,7 +12,7 @@ date modified: Monday, October 4th 2021, 12:06:19 am
 
 **Definition**::
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Parents**:: [[trauma]] 

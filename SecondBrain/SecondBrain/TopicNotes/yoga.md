@@ -12,7 +12,7 @@ aliases:
 
 **Definition**::
 
-**Status**::  #EVER/SEED 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[mental health]]

@@ -11,7 +11,7 @@ aliases:
 
 , [[My relationship with my parents]]
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 ##### [[my gender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

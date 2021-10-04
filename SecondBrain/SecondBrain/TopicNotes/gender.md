@@ -18,7 +18,7 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 
 **Definition**::
 
-**Status**::  #EVER/GREEN/GROWING
+**Status**:: #EVER/GREEN/GROWING
 *edited `=this.file.mtime`*
 
 **Parents**:: [[self]], [[mental health]], [[personality]]

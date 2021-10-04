@@ -12,7 +12,7 @@ date modified: Sunday, October 3rd 2021, 11:09:53 am
 
 **Definition**::
 
-**Status**::  #EVER/SPROUT/WATER
+**Status**:: #EVER/SPROUT/WATER
 *edited `=this.file.mtime`*
 
 **Parents**:: [[INDEX]], [[mental health]]

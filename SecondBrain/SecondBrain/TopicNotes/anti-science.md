@@ -16,7 +16,7 @@ date modified: Wednesday, September 29th 2021, 7:13:06 pm
 
 **Definition**::
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Parents**:: 

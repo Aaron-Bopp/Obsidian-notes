@@ -20,7 +20,7 @@ note-type:
 
 **Definition**::
 
-**Status**::  #EVER/GREEN 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Parents**:: 

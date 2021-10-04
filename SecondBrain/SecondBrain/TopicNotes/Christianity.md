@@ -10,7 +10,7 @@ aliases:
 
 
 
-**Status**::  #EVER/GREEN 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[religion]]

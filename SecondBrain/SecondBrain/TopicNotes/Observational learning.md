@@ -16,7 +16,7 @@ This concept relates to [[Behavioral Pyschology]] and [[early childhood developm
 
 **Definition**::
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Parents**:: [[Behavioral Pyschology]]

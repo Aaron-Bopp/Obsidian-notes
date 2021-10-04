@@ -15,7 +15,7 @@ Since March 2021 I have become very interested in [[personal knowledge managemen
 
 **Definition**::
 
-**Status**::  #EVER/GREEN 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[second brain]]

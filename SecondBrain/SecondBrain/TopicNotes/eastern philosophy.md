@@ -12,7 +12,7 @@ aliases:
 
 
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 ##### [[eastern philosophy]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

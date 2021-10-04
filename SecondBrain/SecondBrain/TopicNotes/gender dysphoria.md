@@ -12,7 +12,7 @@ aliases:
 
 **Definition**::
 
-**Status**::  #EVER/SEED 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[gender]], [[mental disorders]], [[mental health]], [[self-love]], [[self-hate]], [[childhood trauma]], [[body dysmorphia]], [[depression]], [[self-image]], [[self-perception]]

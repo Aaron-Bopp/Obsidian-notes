@@ -12,7 +12,7 @@ Over the last forty years, misinformation has become so potent in [[America]], t
 
 **Definition**::
 
-**Status**::  #EVER/SEED 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Parents**:: 

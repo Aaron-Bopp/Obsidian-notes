@@ -14,7 +14,7 @@ date modified: Saturday, September 25th 2021, 1:31:46 pm
 
 **Definition**::
 
-**Status**::  #EVER/SEED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Parents**:: [[gender]]
