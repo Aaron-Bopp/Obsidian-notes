@@ -1,6 +1,5 @@
 ---
 created: 2021-06-12
-modification date: Saturday 12th June 2021 21:12:13
 note-type: 
 -  evergreen-note
 

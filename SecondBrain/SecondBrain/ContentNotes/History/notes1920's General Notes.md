@@ -1,6 +1,5 @@
 ---
 created: 2021-04-30
-modification date: Friday 30th April 2021 00:44:40
 note-type: 
 - content-note
 creator: 

@@ -1,6 +1,5 @@
 ---
 created: 2021-06-07
-modification date: Monday 7th June 2021 20:02:52
 note-type: 
 - organizational-note
 - evergreen-note

@@ -1,6 +1,5 @@
 ---
 created: 2021-06-11
-modification date: Friday 11th June 2021 21:17:53
 note-type:
 - evergreen-note
 parent: [[depression]]

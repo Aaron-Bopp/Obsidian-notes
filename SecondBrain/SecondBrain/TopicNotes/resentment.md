@@ -15,7 +15,7 @@ aliases:
 **Status**::  #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Parents**:: modification date: Wednesday 11th August 2021 17:50:36
+**Parents**:: 
 `$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[resentment]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

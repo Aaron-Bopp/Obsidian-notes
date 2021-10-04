@@ -8,13 +8,15 @@ aliases:
 
 <% tp.file.include("[[TOPIC_HEADER]]") %>
 
+**Definition**::
+
 <% tp.file.cursor() %><% tp.system.clipboard() %>
 
 **Status**:: #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Topics**:: 
-
-<% tp.file.include("[[MODIFIED FIELD]]") %>
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 <% tp.file.include("[[TOPIC_OUTLINE_HEADER]]") %>
 

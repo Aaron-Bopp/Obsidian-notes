@@ -1,13 +1,13 @@
 ---
 created: 2021-06-25
-note-type: 
+note-type:
 - evergreen-note
 - topic-note
 aliases:
-- 
-related-topics: [[anxiety]]
+-
+date modified: Monday, October 4th 2021, 12:40:55 am
 ---
- 
+
 #### [[social anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Definition**::
@@ -15,10 +15,11 @@ related-topics: [[anxiety]]
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Parents**:: 
+**Parents**::
 `$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[social anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+
 - Symptoms
 	- lack of [[self-worth]]
 	- Acutely aware of [[social discomfort]]
@@ -33,7 +34,8 @@ related-topics: [[anxiety]]
 - Comorbid
 	- General [[anxiety]]
 	- worsened by [[OCD]]
-	- [[depression]] 
+	- [[depression]]
+
 
 ### <hr class="dataviews"/>
 

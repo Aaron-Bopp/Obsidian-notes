@@ -151,14 +151,16 @@ class dv_funcs {
         const embeddedIn = topicInlinks.filter(l => {
             const name = this.getFileFromPath(l.path)
             return this.getNotesInOutline(name, dv, that, true).includes(dv.current().file.name) && name !== dv.current().file.name
-        })
+        }).filter(l => l.path !== page.file.path)
         // let outlinedIn = embeddedIn.forEach(l => {
         //     let ePage = dv.page(l)
         //     let ePageIL = ePage.file.inlinks.filter(l => l.path.contains("TopicNotes"))
 
         // })
         // return embeddedIn.map(l => !previousLinks.includes(l) && this.outlinedIn(dv, that, dv.page(l), topicInlinks))
-        return embeddedIn.filter(l => l.path !== page.file.path)
+        if (embeddedIn.length > 0) {
+            return embeddedIn
+        }
     }
 
     topicOutlineHeader(dv, that) {

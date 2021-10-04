@@ -1,6 +1,5 @@
 ---
 created: 2021-07-30
-modification date: Friday 30th July 2021 18:31:17
 note-type: 
 - content-note
 creator: Ronald Reagan

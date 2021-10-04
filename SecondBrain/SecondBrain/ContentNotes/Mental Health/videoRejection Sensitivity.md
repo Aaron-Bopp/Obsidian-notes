@@ -1,6 +1,5 @@
 ---
 created: 2021-05-08
-modification date: Monday 31st May 2021 16:02:12
 note-type: 
 - content-note
 creator: How to ADHD

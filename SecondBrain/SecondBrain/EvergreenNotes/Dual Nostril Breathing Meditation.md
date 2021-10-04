@@ -1,6 +1,5 @@
 ---
 created: 2021-05-31
-modification date: Monday 31st May 2021 15:40:59
 note-type: 
 - evergreen-note
 - practice

@@ -1,6 +1,5 @@
 ---
 created: 2021-05-29
-modification date: Saturday 29th May 2021 15:03:28
 note-type: 
   content-note
 creator: Andy Matuschak

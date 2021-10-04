@@ -1,9 +1,8 @@
 ---
 created: 2021-05-22
-modification date: Saturday 22nd May 2021 23:32:06
-note-type: 
-  evergreen-note
-
+note-type:
+- evergreen-note
+date modified: Monday, October 4th 2021, 1:02:07 am
 ---
 
 #### [[What is the difference between a evergreen note and a topic note]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -12,10 +11,10 @@ A [[evergreen notes]] is a singular thought and a [[topic note]] is a singular i
 
 #TO/DO/REFACTOR establish links between [[evergreen notes]] and [[permanent note]]
 
----
+### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE  
+**Status**:: #EVER/SPROUT/CULTIVATE
 *edited `=this.file.mtime`*
 
-**Topics**:: 
-	
+**Topics**::
+

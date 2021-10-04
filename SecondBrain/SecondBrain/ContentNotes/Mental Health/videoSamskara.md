@@ -1,6 +1,5 @@
 ---
 created: 2021-05-09
-modification date: Sunday 9th May 2021 16:03:23
 note-type: 
 - content-note
 creator: wikipedia

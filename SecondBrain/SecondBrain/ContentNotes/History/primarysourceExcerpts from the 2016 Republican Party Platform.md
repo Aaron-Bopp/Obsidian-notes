@@ -1,6 +1,5 @@
 ---
 created: 2021-07-30
-modification date: Friday 30th July 2021 15:57:16
 note-type: 
 - content-note
 creator: Republican Party
