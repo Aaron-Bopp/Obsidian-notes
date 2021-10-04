@@ -25,11 +25,9 @@
   "obsidian-regex-search-replace",
   "customjs",
   "obsidian-dictionary-plugin",
-  "obsidian42-text-transporter",
   "obsidian-vimrc-support",
   "buttons",
   "mrj-add-codemirror-matchbrackets",
-  "breadcrumbs",
   "obsidian-toggle-vim",
   "obsidian-activity-history",
   "block-reference-count",
@@ -38,5 +36,7 @@
   "readwise-official",
   "obsidian-codemirror-options",
   "cm-editor-syntax-highlight-obsidian",
-  "code-block-copy"
+  "code-block-copy",
+  "obsidian-autocomplete-plugin",
+  "supercharged-links-obsidian"
 ]

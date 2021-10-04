@@ -7,17 +7,17 @@ aliases:
 - 
 ---
  
-#### [[pyschology]] `$=customJS.dv_funcs.topicHeader(dv, this)`
+#### [[Pyschology]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 **Status**:: #EVER/SEED 
 
-**Topics**::  
+**Topics**:: [[human experience]]
 
 **Last Edited**:: *`=this.file.mtime`*
 
-##### [[pyschology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- 
+##### [[Pyschology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+- ![[Behavioral Pyschology#behavioral pyschology customJS dv_funcs topicOutlineHeader dv this]]
 
 ### <hr class="dataviews"/>
 

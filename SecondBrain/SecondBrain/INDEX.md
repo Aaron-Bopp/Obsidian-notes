@@ -5,13 +5,15 @@ note-type:
 - evergreen-note
 - organizational-note
 - topic-note
-date updated: Thursday, September 16th 2021, 10:08:44 pm
+date modified: Sunday, October 3rd 2021, 11:17:19 am
 ---
 ```ActivityHistory
 /
 ```
 This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[personal knowledge management]] system.
-
+```dataviewjs
+dv.list(dv.current())
+```
 # Entry Points
 
 - [[QUICKNOTE]]
@@ -35,34 +37,41 @@ This is a constantly updated index of entry points and topics for my personal fl
 	- [[EVERGREENNOTES]]
 	- [[CONTENTNOTES]]
 
-- ![[Dataview#Dataview customJS dv_funcs topicOutlineHeader dv this]]
+
+
 # Topic Outlines
+- 
+	- ![[mental health#mental health customJS dv_funcs topicOutlineHeader dv this]]
+- 
+	- ![[gender#gender customJS dv_funcs topicOutlineHeader dv this]]
+- 
+	 - ![[Neuroscience#Neuroscience customJS dv_funcs topicOutlineHeader dv this]]
+- 
+	- ![[self#self customJS dv_funcs topicOutlineHeader dv this]]
+- 
+	- ![[Politics#Politics customJS dv_funcs topicOutlineHeader dv this]]
+- 
+	 - ![[personal knowledge management#personal knowledge management customJS dv_funcs topicOutlineHeader dv this]]
+- 
+	 - ![[Christianity#Christianity customJS dv_funcs topicOutlineHeader dv this]]
 
-## <hr class="embedded"/>
-
- ![[mental health#mental health customJS dv_funcs topicOutlineHeader dv this]]
-
-## <hr class="embedded"/>
-
-![[gender#gender customJS dv_funcs topicOutlineHeader dv this]]
-
-## <hr class="embedded"/>
-
- ![[Neuroscience#Neuroscience customJS dv_funcs topicOutlineHeader dv this]]
-
-## <hr class="embedded"/>
-
-![[self#self customJS dv_funcs topicOutlineHeader dv this]]
-
-## <hr class="embedded"/>
-
-![[Politics#Politics customJS dv_funcs topicOutlineHeader dv this]]
-
-## <hr class="embedded"/>
-
- ![[personal knowledge management#personal knowledge management customJS dv_funcs topicOutlineHeader dv this]]
-
-## <hr class="embedded"/>
-
- ![[Christianity#Christianity customJS dv_funcs topicOutlineHeader dv this]]
-
+# Notes not in outline
+```dataviewjs
+const {dv_funcs} = customJS
+const pages = dv.pages()
+console.log(dv.array())
+dv_funcs.statusTable({
+	dv,
+	that:this,
+	all: true,
+	whereCheck: (p => p.file.outlinks.length <= 1 && p.file.path.contains('TopicNotes')),
+	title: 'Topic Seeds'
+})
+dv_funcs.statusTable({
+	dv,
+	that:this,
+	all: true,
+	whereCheck: (p => p.file.outlinks.length > 1 && p.file.path.contains('TopicNotes')),
+	title: 'Growing Topics'
+})
+```

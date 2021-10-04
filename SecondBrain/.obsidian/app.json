@@ -9,7 +9,7 @@
   "spellcheck": false,
   "strictLineBreaks": true,
   "newFileLocation": "root",
-  "vimMode": false,
+  "vimMode": true,
   "spellcheckDictionary": [
     "habitus",
     "Hermione",

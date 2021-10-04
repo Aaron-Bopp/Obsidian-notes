@@ -17,73 +17,20 @@ class dv_funcs {
         }
     }
 
-    wrap(name, alias) {
-        if (alias) {
-            alias = ' | ' + alias
-        } else {
-            alias = ""
+    lastEdited(page) {
+        let days = datediff(new Date(page.file.mtime), new Date())
+        if (days === 0) {
+            return "Today"
         }
-        return `[[${name}${alias}]]`
+        return `${days} days ago`
+    }
+    
+    datediff(first, second) {
+        // Take the difference between the dates and divide by milliseconds per day.
+        // Round to nearest whole number to deal with DST.
+        return Math.round((second - first) / (1000 * 60 * 60 * 24));
     }
 
-    getIO(page, dv, that) {
-        // let sum = 0
-        // if (that && dv){
-        //     let embeds = this.getEmbeds(page.file.name, dv, that)
-        //     sum = embeds.map(p => p.file.outlinks.length).reduce((sum, a) => sum + a, 0) - dv.current().file.outlinks.length
-        //     // sum = embeds.map(p => p.file.outlinks.length - p["related-topics"] && Array(p["related-topics"]).flat().length - 2).reduce((sum, a) => sum + a, 0)
-        // }
-        return `${page.file.inlinks.length}/${this.getTotalLinks(page.file.name, dv, that).size}`
-    }
-
-    getFileText(page, that) {
-        var thisTFile = that.app.vault.getAbstractFileByPath(page.file.path);
-        var content = thisTFile.unsafeCachedData;
-        return content
-    }
-
-    getEmbeds(name, dv, that){
-        const file = dv.page(name || "")
-        if (file == undefined) {
-            console.log("no file in get embeds")
-            return null
-        }
-        let embeds = undefined
-        if (that) {
-            const content = this.getFileText(file, that)
-            const re = /!\[\[([^\]]+)[\#\^][^\]]+\]\]/g;
-            embeds = [];
-            for (var match of content.matchAll(re)) {
-                console.log(`found ${match[1]} embedded in ${name}`)
-                if (match[1] !== name) {
-                    embeds.push(match[1])
-                }
-            }
-        }
-        if (embeds == undefined) {
-            console.log("embeds undefined in " + name)
-            return [file]
-        }
-        return embeds.map((name) => this.getEmbeds(name, dv, that)).concat([file]).flat().filter(el => el != null)
-    }
-
-    getNotesInOutline(name, dv, that) {
-        const file = dv.page(name)
-        const linksInOutline = /[\s\t]*-\s*\!*\[\[([^\#\]]+)([\#\^][^\]]+)*\]\]/g;
-        const content = this.getFileText(file, that)
-        let matches = []
-        for (let match of content.matchAll(linksInOutline)) {
-            matches.push(match)
-        }
-        return [name].concat(matches.map((m)=> m[2] ? this.getNotesInOutline(m[1], dv, that) : m[1])).flat()
-    }
-
-    getTotalLinks(name, dv, that) {
-        const outlinks = dv.page(name).file.outlinks.map(l => l.path.match(/.*\/*(.*)\.md/) && l.path.match(/.*\/*(.*)\.md/)[1])
-        console.log(outlinks)
-        const outline = this.getNotesInOutline(name, dv, that)
-        return new Set(outlinks.concat(outline))
-    }
     statusLevel = (status) => {
         let statusDict = {
             "GREEN": 0,
@@ -99,36 +46,56 @@ class dv_funcs {
         }
     }
 
-    datediff(first, second) {
-        // Take the difference between the dates and divide by milliseconds per day.
-        // Round to nearest whole number to deal with DST.
-        return Math.round((second - first) / (1000 * 60 * 60 * 24));
-    }
-
-    lastEdited(page) {
-        let days = datediff(new Date(page.file.mtime), new Date())
-        if (days === 0) {
-            return "Today"
+    wrap(name, alias) {
+        if (alias) {
+            alias = ' | ' + alias
+        } else {
+            alias = ""
         }
-        return `${days} days ago`
+        return `[[${name}${alias}]]`
     }
 
-    allLinks(page) {
-        return page.file.inlinks.length + page.file.outlinks.length
+    getIO(page, dv, that) {
+        return `${page.file.inlinks.length}/${this.getTotalLinks(page.file.name, dv, that).size}`
     }
-    
-    notLinkedHeader(dv) {
-       dv.header(3, `Notes not in ${dv.current().file.name} outline`)
+
+    getFileText(path, that) {
+        var thisTFile = that.app.vault.getAbstractFileByPath(path);
+        var content = thisTFile.unsafeCachedData;
+        return content
     }
-    
+
+    getNotesInOutline(name, dv, that, justEmbeds=false) {
+        const file = dv.page(name)
+        const linksInOutline = /[\s\t]*\-\s*\!*\[\[([^\#\]]+)(\#[^\]]+)*\]\]/g;
+        const content = this.getFileText(file.file.path, that)
+        let matches = []
+        for (let match of content.matchAll(linksInOutline)) {
+            matches.push(match)
+        }
+        return [name].concat(matches.map((m)=>  m[2] ? (justEmbeds ? m[1] : this.getNotesInOutline(m[1], dv, that)): m[1])).flat()
+    }
+
+    getFileFromPath(path) {
+        const match = path.match(/.*\/([^\/]*)\.md/)
+        return match && match[1]
+    }
+
+    getTotalLinks(name, dv, that) {
+        const outlinks = dv.page(name).file.outlinks.map(l => this.getFileFromPath(l.path))
+        const outline = this.getNotesInOutline(name, dv, that)
+        return new Set(outlinks.concat(outline))
+    }
+   
     notLinkedPages(args) {
-        const {dv, folder, that} = args;
-        const allEmbeds = this.getEmbeds(dv.current().file.name, dv, that).map(f => f.file.outlinks).flat().map(l => l.path)
-        return dv.pages(this.wrap(dv.current().file.name))
+        const {dv, folder, that, all=false} = args;
+        // const allEmbeds = this.getEmbeds(dv.current().file.name, dv, that).map(f => f.file.outlinks).flat().map(l => l.path)
+        const allNotes = this.getNotesInOutline(dv.current().file.name, dv, that)
+        return dv.pages(all ? "" : this.wrap(dv.current().file.name))
         .where(p => {
-            return !allEmbeds.contains(p.file.path) && p.file.path.contains(folder) 
+            return !allNotes.contains(p.file.name) && folder && p.file.path.contains(folder) 
         })
-        .sort(p => this.allLinks(p), 'desc')
+        .sort(p => this.getTotalLinks(p.file.name, dv, that), 'desc')
     }
 
     defaultTable(args) {
@@ -138,7 +105,7 @@ class dv_funcs {
             pagesQuery = "",
             pagesArray = dv.pages(),
             whereCheck = ((p) => true),
-            sortCheck = ((p) => this.allLinks(p)),
+            sortCheck = ((p) => this.getTotalLinks(p.file.name, args.dv, args.that)),
             columnTitles = ["Page", "I/O", "Edited", "Created"],
             columns = ((p) => [p.file.link, this.getIO(p, dv, that), p.file.mtime, this.formatDate(p.created || p.file.ctime)])
         } = args;
@@ -147,47 +114,51 @@ class dv_funcs {
         if (pages.length > 0){
             dv.table(columnTitles, pages.where((p) => whereCheck(p)).sort((p => sortCheck(p)), 'desc').map(columns))
         }
-        this.sortableColumns()
+        // this.sortableColumns()
     }
 
     statusTable(args) {
-        const {dv, title, that, folder} = args;
+        const {dv, title, that, folder, all=false} = args;
         this.defaultTable({
-            pagesArray: this.notLinkedPages({dv, folder, that}),
+            pagesArray: this.notLinkedPages({dv, folder, that, all}),
             sortCheck: ((p) => this.statusLevel(p.status)),
             columnTitles:[title || folder || "Page", "I/O", "Status", "Edited", "Created"],
             columns:(p => [p.file.link, this.getIO(p, dv, that), p.status, p.file.mtime, this.formatDate(p.created || p.file.ctime)]),
             ...args
         })
     }
-    
-    topicNotesNotLinked(args) {
+
+    topicNoteDataviews(args) {
+        const {dv, that} = args
+        dv.header(3, `Notes not in ${dv.current().file.name} outline`)
         this.statusTable({
             ...args, 
             folder: "TopicNotes"
         })
-    }
-    evergreenNotesNotLinked(args) {
         this.statusTable({
             ...args, 
             folder: "EvergreenNotes"
         })
-    }
-    contentNotesNotLinked(args) {
-        let folder = "ContentNotes"
         this.defaultTable({
             ...args,
-            pagesArray: this.notLinkedPages({dv:args.dv, folder, that:args.that}),
-            columnTitles:[folder, "I/O", "Edited", "Created"]
+            pagesArray: this.notLinkedPages({dv, folder:"ContentNotes", that}),
+            columnTitles:["ContentNotes", "I/O", "Edited", "Created"]
         })
     }
 
-    topicNoteDataviews(args) {
-        //args = dv, that
-        this.notLinkedHeader(args.dv)
-        this.topicNotesNotLinked(args)
-        this.evergreenNotesNotLinked(args)
-        this.contentNotesNotLinked(args)
+    outlinedIn(dv, that, page=dv.current(), previousLinks=[]) {
+        const topicInlinks = page.file.inlinks.filter(l => l.path.contains("TopicNotes"))
+        const embeddedIn = topicInlinks.filter(l => {
+            const name = this.getFileFromPath(l.path)
+            return this.getNotesInOutline(name, dv, that, true).includes(dv.current().file.name) && name !== dv.current().file.name
+        })
+        // let outlinedIn = embeddedIn.forEach(l => {
+        //     let ePage = dv.page(l)
+        //     let ePageIL = ePage.file.inlinks.filter(l => l.path.contains("TopicNotes"))
+
+        // })
+        // return embeddedIn.map(l => !previousLinks.includes(l) && this.outlinedIn(dv, that, dv.page(l), topicInlinks))
+        return embeddedIn.filter(l => l.path !== page.file.path)
     }
 
     topicOutlineHeader(dv, that) {
@@ -199,6 +170,7 @@ class dv_funcs {
     evergreenHeader(dv, that) {
         return this.getIO(dv.current(), dv, that)
     }
+
     sortableColumns() {
         // Source https://stackoverflow.com/questions/14267781/sorting-html-table-with-javascript
         const getCellValue = (tr, idx) => tr.children[idx].innerText || tr.children[idx].textContent;
@@ -210,12 +182,36 @@ class dv_funcs {
         // do the work...
         document.querySelectorAll('th').forEach(th => th.style.cursor = "pointer");
         
-        document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() => {
+        document.queryselectorall('th').foreach(th => th.addeventlistener('click', (() => {
             const table = th.closest('table');
-            const tbody = table.querySelector('tbody');
-            Array.from(tbody.querySelectorAll('tr'))
-            .sort(comparer(Array.from(th.parentNode.children).indexOf(th), this.asc = !this.asc))
-            .forEach(tr => tbody.appendChild(tr) );
+            const tbody = table.queryselector('tbody');
+            array.from(tbody.queryselectorall('tr'))
+            .sort(comparer(array.from(th.parentnode.children).indexof(th), this.asc = !this.asc))
+            .foreach(tr => tbody.appendchild(tr) );
         })));
     }
 }
+// getembeds(name, dv, that){
+//     const file = dv.page(name)
+//     if (file == undefined) {
+//         console.log("no file in get embeds")
+//         return null
+//     }
+//     let embeds = undefined
+//     if (that) {
+//         const content = this.getfiletext(file.file.path, that)
+//         const re = /!\[\[([^\]]+)[\#\^][^\]]+\]\]/g;
+//         embeds = [];
+//         for (var match of content.matchall(re)) {
+//             console.log(`found ${match[1]} embedded in ${name}`)
+//             if (match[1] !== name) {
+//                 embeds.push(match[1])
+//             }
+//         }
+//     }
+//     if (embeds == undefined) {
+//         console.log("embeds undefined in " + name)
+//         return [file]
+//     }
+//     return embeds.map((name) => this.getembeds(name, dv, that)).concat([file]).flat().filter(el => el != null)
+// }

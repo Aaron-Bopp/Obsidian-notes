@@ -151,7 +151,7 @@
 
 [[Base Conversion Assignment]]:
 
-[[Behavioral Evolution]]:
+[[lecture_Behavioral Evolution]]:
 
 [[Being in a defensive condition can cause you to be consumed by your ego]]:
 
@@ -1076,7 +1076,7 @@
 
 [[purpose]]:
 
-[[pyschology]]:
+[[Pyschology]]:
 
 [[racism]]:
 

@@ -19,7 +19,7 @@ This expanded on here: [[Sadness is enlightenment and happiness is delusion]]
 ---
 **Status**:: #EVER/GREEN 
 
-**Topics**::  [[mental health]], [[early childhood]], [[socialization]], [[Happiness]], [[my emotions]]
+**Topics**::  [[mental health]], [[early childhood development]], [[socialization]], [[Happiness]], [[my emotions]]
 	
 **Last Edited**:: *`=this.file.mtime`*
 	

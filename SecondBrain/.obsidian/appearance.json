@@ -1,6 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Dark Moss",
+  "cssTheme": "Dracula for Obsidian",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "tag-pills"

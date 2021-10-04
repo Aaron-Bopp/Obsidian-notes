@@ -9,7 +9,7 @@ source: https://enneagraminstitute.com/how-the-enneagram-system-works
 ---
 ##### How the System Works — The Enneagram Institute
 
-**Topics**::  [[mental health]], [[personality]], [[pyschology]], 
+**Topics**::  [[mental health]], [[personality]], [[Pyschology]], 
 
 **Source**:: [How the System Works — The Enneagram Institute](https://enneagraminstitute.com/how-the-enneagram-system-works)
 
@@ -18,11 +18,11 @@ source: https://enneagraminstitute.com/how-the-enneagram-system-works
 ## Highlights
 - > "Everyone emerges from childhood with *one* of the nine types dominating their personality, with inborn temperament and other pre-natal factors being the main determinants of our type" 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=0%2F2%2F0%2F4%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A0%2C2%2F2%2F0%2F4%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A140#:~:text=Everyone%20emerges%20from%20childhood%20with%2Cmain%20determinants%20of%20our%20type)
-    - Tags: [[early childhood]], [[neuroscience]]
+    - Tags: [[early childhood development]], [[neuroscience]]
 
 - > "overall orientation of our personality reflects the totality of all childhood factors (including genetics) that influenced its development" 
     - [View Highlight](https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=0%2F3%2F0%2F4%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A10%2C0%2F3%2F0%2F4%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A148#:~:text=overall%20orientation%20of%20our%20personality%2Cgenetics)%20that%20influenced%20its%20development)
-    - Tags: [[early childhood]]
+    - Tags: [[early childhood development]]
 
 - Q:: However you develop over time, you will still be able to look back and see your basic type at your roots
     - > "People do not change from one basic personality type to another." 

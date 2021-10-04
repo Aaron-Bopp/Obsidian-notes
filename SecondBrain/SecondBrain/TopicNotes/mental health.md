@@ -36,6 +36,9 @@ note-type:
 	- ![[yoga#yoga customJS dv_funcs topicOutlineHeader dv this]]
 - [[Sadness is enlightenment and happiness is delusion]]
 - ![[my emotions#my emotions customJS dv_funcs topicOutlineHeader dv this]]
+- ![[self#self customJS dv_funcs topicOutlineHeader dv this]]
+- ![[gender#gender customJS dv_funcs topicOutlineHeader dv this]]
+- ![[Neuroscience#Neuroscience customJS dv_funcs topicOutlineHeader dv this]]
 
 ### <hr class="dataviews"/>
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

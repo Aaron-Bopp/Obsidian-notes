@@ -15,6 +15,8 @@ aliases:
 
 **Topics**::  [[trauma]]
 
+**Outlined**:: `$=customJS.dv_funcs.outlinedIn(dv, this)`
+
 **Last Edited**:: *`=this.file.mtime`*
 
 ##### [[religious trauma]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

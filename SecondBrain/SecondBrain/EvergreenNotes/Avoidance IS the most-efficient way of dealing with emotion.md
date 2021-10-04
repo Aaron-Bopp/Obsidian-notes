@@ -16,7 +16,7 @@ note-type:
 
 **Status**:: #EVER/SEED
 
-**Topics**::  [[trauma]], [[mental health]], [[self-actualization]], [[early childhood]]
+**Topics**::  [[trauma]], [[mental health]], [[self-actualization]], [[early childhood development]]
 
 **Last Edited**:: *`=this.file.mtime`*
 	

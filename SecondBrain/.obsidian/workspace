@@ -4,22 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "6b3c807214dce13c",
+        "id": "2226f0cbdd3ca1be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/Neuroscience.md",
-            "mode": "preview"
+            "file": "SecondBrain/OrganizationalNotes/RECENTLY-MODIFIED.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "84e0b458b64e947b",
+        "id": "25533b5a9db00f5e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/TopicNotes/socialization.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e9c61940d49be3e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/TopicNotes/social anxiety.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -39,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#EVER/SEED",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -54,8 +68,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/Neuroscience.md",
-                "collapseAll": true,
+                "file": "SecondBrain/TopicNotes/socialization.md",
+                "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -71,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/Neuroscience.md",
+                "file": "SecondBrain/TopicNotes/socialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/TopicNotes/Neuroscience.md"
+                "file": "SecondBrain/TopicNotes/socialization.md"
               }
             }
           },
@@ -126,12 +140,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 380,
-    "collapsed": true
+    "width": 512
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -147,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/Neuroscience.md",
+                "file": "SecondBrain/TopicNotes/socialization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -255,22 +268,6 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "dce5c92efdaa0764",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-stats",
-              "state": {}
-            }
-          },
-          {
-            "id": "384556e780a162d5",
-            "type": "leaf",
-            "state": {
-              "type": "breadcrumbs-matrix",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
@@ -280,17 +277,17 @@
     "width": 466,
     "collapsed": true
   },
-  "active": "6b3c807214dce13c",
+  "active": "25533b5a9db00f5e",
   "lastOpenFiles": [
-    "SecondBrain/TopicNotes/Neuroscience.md",
-    "SecondBrain/ContentNotes/Mental Health/gender-dysphoria-bible/5 Biochemical Dysphoria.md",
-    "SecondBrain/INDEX.md",
-    "SecondBrain/SecondBrain.md",
-    "SecondBrain/TopicNotes/human experience.md",
     "SecondBrain/TopicNotes/socialization.md",
-    "SecondBrain/TopicNotes/human survival.md",
-    "SecondBrain/EvergreenNotes/The bible is god breathed.md",
-    "SecondBrain/EvergreenNotes/Mental illness is a reaction to ones environment.md",
-    "SecondBrain/EvergreenNotes/Mental illness is a reaction to your physical and chemical environment.md"
+    "SecondBrain/TopicNotes/social anxiety.md",
+    "SecondBrain/TopicNotes/social discomfort.md",
+    "SecondBrain/TopicNotes/Tiktok.md",
+    "SecondBrain/EvergreenNotes/Explaining emotion can just be a way of escaping the situation.md",
+    "SecondBrain/OrganizationalNotes/RECENTLY-MODIFIED.md",
+    "SecondBrain/Primary Sources/Classes/Comp Sci/QUIZ#3_Solution (1).md",
+    "SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md",
+    "sociobiology.md",
+    "SecondBrain/TopicNotes/trauma.md"
   ]
 }

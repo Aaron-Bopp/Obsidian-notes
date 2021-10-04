@@ -1,0 +1,35 @@
+---
+created: 2021-10-03
+note-type: 
+- evergreen-note
+- theory
+aliases:
+- 
+---
+
+#### [[Social Learning Theory]] `$=customJS.dv_funcs.topicHeader(dv, this)`
+
+
+**Definition**:: A theory of human developement that prioritizes four key social pressures: reinforcement, punishment, imitation, and [[Observational learning]] [^1]
+
+**Status**:: #EVER/SEED 
+
+**Topics**:: 
+
+**Last Edited**:: *`=this.file.mtime`*
+
+##### [[Social Learning Theory]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+
+- Reinforcement
+- Punishment
+- Imitation 
+	- [[Imitation is motivated authority figures]]
+	- [[Children do what they see]]
+- ![[Observational learning#Observational learning customJS dv_funcs topicOutlineHeader dv this]]
+
+### <hr class="dataviews"/>
+
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
+
+
+[^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]

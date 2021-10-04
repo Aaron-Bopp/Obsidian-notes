@@ -24,6 +24,7 @@ aliases:
 	- ![[self-perception#self-perception customJS dv_funcs topicOutlineHeader dv this]]
 - ![[self-improvement#self-improvement customJS dv_funcs topicOutlineHeader dv this]]
 - [[Is your self-talk bullying you or bodyguarding you]]
+- ![[enlightenment#enlightenment customJS dv_funcs topicOutlineHeader dv this]]
 
 ### <hr class="dataviews"/>
 

@@ -20,7 +20,9 @@ enlightenment, [[liberation]], [[Self]]-Realization, God-Realization, nirvikalpa
 **Last Edited**:: *`=this.file.mtime`*
 
 ##### [[enlightenment]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- 
+- [[To be happy you need to not be sad]]
+- [[You can be enlightened and still grieve]]
+- [[Sadness is enlightenment and happiness is delusion]]
 
 ### <hr class="dataviews"/>
 

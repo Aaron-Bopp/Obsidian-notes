@@ -1,6 +1,5 @@
 ---
 created: 2021-06-11
-modification date: Friday 11th June 2021 21:17:53
 note-type:
 - evergreen-note
 ---
@@ -13,9 +12,8 @@ Being able to explain the emotions you are publicly feeling will relieve the att
 
 [[Avoidance IS the most-efficient way of dealing with emotion]]. Me having combined avoidance with perceived understanding means that it is doubly as dangerous.
 
----
+### <hr class="dataviews"/>
+
 **Status**:: #EVER/SPROUT  
 
-**Topics**::  [[mental health]], [[self-actualization]], [[socialization]], [[trauma]], [[self-love]], [[inter-personal communication]],
-	
-:: [[Emotional Deregulation]]
+**Topics**::  [[mental health]], [[self-actualization]], [[socialization]], [[trauma]], [[self-love]], [[inter-personal communication]], [[Emotional Deregulation]]

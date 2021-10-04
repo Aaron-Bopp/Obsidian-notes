@@ -1,8 +1,9 @@
+
 <% tp.file.include("[[META]]") %>
-note-type: 
+note-type:
 - evergreen-note
 aliases:
-- 
+-
 ---
 <% tp.file.include("[[EVERGREEN_HEADER]]") %>
 
@@ -10,8 +11,8 @@ aliases:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SEED/UNPLANTED
 
-**Related Topics**:: 
-	
+**Topics**::
+
 <% tp.file.include("[[MODIFIED FIELD]]") %>
