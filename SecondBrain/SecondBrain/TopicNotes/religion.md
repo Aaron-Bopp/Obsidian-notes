@@ -10,11 +10,11 @@ aliases:
 #### [[religion]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**:: #EVER/SEED
+**Status**::  #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Parent-Topics**:: [[INDEX]]
-
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[INDEX]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[religion]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Christianity]]

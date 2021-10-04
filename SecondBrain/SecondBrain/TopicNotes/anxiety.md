@@ -10,7 +10,9 @@ date modified: Wednesday, September 29th 2021, 8:54:24 pm
 
 #### [[anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Definition**::
+**Definition**:: a feeling of worry, nervousness, or unease about something with an uncertain outcome
+
+
 
 **Status**::  #EVER/GREEN
 *edited `=this.file.mtime`*

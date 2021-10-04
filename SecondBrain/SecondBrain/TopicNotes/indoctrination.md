@@ -7,12 +7,13 @@ aliases:
 - 
 ---
  
-###### [[indoctrination]]
+#### [[indoctrination]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 
 
-**Status**:: #EVER/SEED
+**Status**::  #EVER/SEED
+*edited `=this.file.mtime`*
 
 ##### [[indoctrination]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

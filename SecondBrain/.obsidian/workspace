@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e9c61940d49be3e4",
+        "id": "d2d828fd440d6b7f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EvergreenNotes/What is the difference between a evergreen note and a topic note.md",
-            "mode": "source"
+            "file": "SecondBrain/TopicNotes/ADHD.md",
+            "mode": "preview"
           }
         }
       }
@@ -46,7 +46,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/What is the difference between a evergreen note and a topic note.md",
+                "file": "SecondBrain/TopicNotes/ADHD.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -63,7 +63,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/What is the difference between a evergreen note and a topic note.md",
+                "file": "SecondBrain/TopicNotes/ADHD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/What is the difference between a evergreen note and a topic note.md"
+                "file": "SecondBrain/TopicNotes/ADHD.md"
               }
             }
           },
@@ -117,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -137,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/What is the difference between a evergreen note and a topic note.md",
+                "file": "SecondBrain/TopicNotes/ADHD.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -254,17 +255,17 @@
     "width": 466,
     "collapsed": true
   },
-  "active": "e9c61940d49be3e4",
+  "active": "d2d828fd440d6b7f",
   "lastOpenFiles": [
-    "SecondBrain/EvergreenNotes/What is the difference between a evergreen note and a topic note.md",
+    "SecondBrain/TopicNotes/ADHD.md",
     "Templates/Templates/TOPICNOTE.md",
-    "SecondBrain/EvergreenNotes/Our brains are built around survival.md",
-    "SecondBrain/OrganizationalNotes/RECENTLY-MODIFIED.md",
-    "SecondBrain/TopicNotes/human experience.md",
-    "SecondBrain/TopicNotes/human advancement.md",
-    "SecondBrain/TopicNotes/socialization.md",
-    "SecondBrain/TopicNotes/mental health.md",
-    "SecondBrain/INDEX.md",
-    "SecondBrain/TopicNotes/Neuroscience.md"
+    "SecondBrain/TopicNotes/mental disorders.md",
+    "SecondBrain/TopicNotes/anxiety.md",
+    "SecondBrain/TopicNotes/resentment.md",
+    "SecondBrain/EvergreenNotes/1968 was a major setback for the American left.md",
+    "SecondBrain/EvergreenNotes/EvergreenNotes.md",
+    "SecondBrain/EvergreenNotes/Dual.md",
+    "SecondBrain/TopicNotes/second brain.md",
+    "SecondBrain/TopicNotes/evergreen notes.md"
   ]
 }

@@ -10,7 +10,7 @@ aliases:
 #### [[resentment]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Definition**::
+**Definition**:: bitter indignation at having been treated unfairly.
 
 **Status**::  #EVER/SEED 
 *edited `=this.file.mtime`*

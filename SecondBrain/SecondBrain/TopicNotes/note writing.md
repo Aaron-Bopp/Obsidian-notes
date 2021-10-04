@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[note writing]]
+#### [[note writing]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 

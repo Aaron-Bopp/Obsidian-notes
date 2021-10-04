@@ -7,7 +7,7 @@ embedded:
 - [[My Second Brain]]
 parent: [[personal knowledge management]]
 ---
-###### [[second brain]] 
+#### [[second brain]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 A second brain is a term that refers to a system of written thought that allows the writer to make permanent meaningful thought, access those thoughts in a meaningful way, and use as a conduit for new thought. 
 #TO/DO/WRITE/LONGTERM Article with my flavor of [[personal knowledge management]]

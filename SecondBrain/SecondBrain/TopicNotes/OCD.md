@@ -8,7 +8,7 @@ aliases:
 - Obsessive Compulsive Disorder
 ---
 
-###### [[OCD]]
+#### [[OCD]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 

@@ -7,11 +7,12 @@ aliases:
 - 
 ---
  
-###### [[self soothing]]
+#### [[self soothing]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 
-**Status**:: #EVER/SEED
+**Status**::  #EVER/SEED
+*edited `=this.file.mtime`*
 
 ##### [[self soothing]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

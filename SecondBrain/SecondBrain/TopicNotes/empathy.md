@@ -6,7 +6,7 @@ note-type:
 
 ---
 
-###### [[empathy]]
+#### [[empathy]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 

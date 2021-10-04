@@ -8,7 +8,7 @@ aliases:
 - ego
 ---
  
-###### [[subconscious]]
+#### [[subconscious]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 

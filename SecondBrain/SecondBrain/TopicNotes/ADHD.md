@@ -8,9 +8,13 @@ aliases:
 parent: [[mental health]]
 ---
  
-###### [[ADHD]]
+#### [[ADHD]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Status**:: #EVER/SPROUT 
+**Status**::  #EVER/SPROUT 
+*edited `=this.file.mtime`*
+
+**Parents**:: 
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[ADHD]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Symptoms
@@ -23,6 +27,6 @@ parent: [[mental health]]
 
 ### <hr class="dataviews"/>
 
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
 
 

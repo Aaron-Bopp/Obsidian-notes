@@ -9,11 +9,11 @@ aliases:
  
 #### [[Bhuddism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Status**:: #EVER/SEED
+**Status**::  #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Parent-Topics**:: [[religion]]
-
-**Last Edited**:: *`=this.file.mtime`*
+**Parents**:: [[religion]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[Bhuddism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

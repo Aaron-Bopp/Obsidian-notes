@@ -7,12 +7,13 @@ aliases:
 - 
 ---
  
-###### [[societal trauma]]
+#### [[societal trauma]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 
 
-**Status**:: #EVER/SEED
+**Status**::  #EVER/SEED
+*edited `=this.file.mtime`*
 
 ##### [[societal trauma]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
