@@ -14,9 +14,9 @@ This is why thoughts like [[You're never sure if you're trans]] is so important 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
+*edited `=this.file.mtime`*
 
 **Topics**:: [[transgender]]
 
-**Last Edited**:: *`=this.file.mtime`*
 
 [^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]

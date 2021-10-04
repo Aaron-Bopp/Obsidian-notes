@@ -7,7 +7,7 @@ note-type:
 ---
 
 
-**Topics**::  [[INDEX]]
+**Topics**:: [[INDEX]]
 
 [[dataview]] is an plugin for [[obsidian (software)]] that allows for [[sql]] like queries over the notes in your obsidian vault.
 
@@ -147,6 +147,7 @@ if (topicPages.length + egPages.length + contentPages.length !== 0) {
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[SQL]], [[data querrying]],  
+**Topics**:: [[SQL]], [[data querrying]],  
 	

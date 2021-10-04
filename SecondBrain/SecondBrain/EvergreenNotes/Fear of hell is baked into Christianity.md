@@ -12,8 +12,8 @@ A lot of people who have left the church who still have nightmares and the fear 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[mental health]], [[trauma]], [[childhood trauma]], [[religious trauma]]
+**Topics**:: [[mental health]], [[trauma]], [[childhood trauma]], [[religious trauma]]
 	
-**Last Edited**:: *`=[[Fear of hell is baked into Christianity]].file.mtime`*
 	

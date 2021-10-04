@@ -18,7 +18,7 @@ aliases:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Unity (game engine)]], [[Software Development]]
+**Topics**:: [[Unity (game engine)]], [[Software Development]]
 	
-**Last Edited**:: *`=this.file.mtime`*

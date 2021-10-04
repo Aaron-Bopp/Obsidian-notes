@@ -39,8 +39,9 @@ It also has a variety of plugins that help the workflow
 ---
 
 **Status**:: #EVER/GREEN  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Zettlekassen]], [[second brain]], [[how I use Obsidian tags]]
+**Topics**:: [[Zettlekassen]], [[second brain]], [[how I use Obsidian tags]]
 	
 **Outline**::
 

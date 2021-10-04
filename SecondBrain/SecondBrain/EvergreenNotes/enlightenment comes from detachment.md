@@ -13,7 +13,8 @@ note-type:
 ---
 
 **Status**:: #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Bhuddism]], [[Bhuddism is the study of happiness through detachment]], [[To be happy you need to not be sad]], 
+**Topics**:: [[Bhuddism]], [[Bhuddism is the study of happiness through detachment]], [[To be happy you need to not be sad]], 
 	
 :: [[DrK and DrMike conversation]]

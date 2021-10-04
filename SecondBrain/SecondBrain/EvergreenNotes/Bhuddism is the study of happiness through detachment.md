@@ -14,7 +14,8 @@ note-type:
 ---
 
 **Status**:: #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Sadness is enlightenment and happiness is delusion]], [[Happiness is enlightenment and sadness is delusion]], [[Bhuddism]]
+**Topics**:: [[Sadness is enlightenment and happiness is delusion]], [[Happiness is enlightenment and sadness is delusion]], [[Bhuddism]]
 	
 :: [[DrK and DrMike conversation]]

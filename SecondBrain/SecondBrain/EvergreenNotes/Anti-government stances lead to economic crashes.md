@@ -15,8 +15,8 @@ aliases:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Politics]], [[economy]]
+**Topics**:: [[Politics]], [[economy]]
 	
-**Last Edited**:: *`=this.file.mtime`*
 	

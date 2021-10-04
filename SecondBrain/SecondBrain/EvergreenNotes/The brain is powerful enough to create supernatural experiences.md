@@ -15,8 +15,8 @@ In churches, prayer is basically [[meditation]], modern [[Evangelicalism | chari
 ---
 
 **Status**:: #EVER/SPROUT/WATER  
+*edited `=this.file.mtime`*
 
-**Last Edited**:: *`=this.file.mtime`*
 
-**Topics**::  [[mental health]], [[mental disorders]], [[Christianity]], [[Neuroscience]], [[faith]]
+**Topics**:: [[mental health]], [[mental disorders]], [[Christianity]], [[Neuroscience]], [[faith]]
 	

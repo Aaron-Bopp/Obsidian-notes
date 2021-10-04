@@ -18,9 +18,8 @@ I think at a certain point you can't teach an old dog new tricks. It's kind of h
 ---
 
 **Status**:: #EVER/SPROUT/WATER 
+*edited `=this.file.mtime`*
 
 **Parent**:: [[my parents]]
 
-**Topics**::  [[self-love]], [[self-validation]], [[self-hate]], [[love]], [[unconditional love]], [[my emotions]]
-
-**Last Edited**:: *`=this.file.mtime`*
+**Topics**:: [[self-love]], [[self-validation]], [[self-hate]], [[love]], [[unconditional love]], [[my emotions]]

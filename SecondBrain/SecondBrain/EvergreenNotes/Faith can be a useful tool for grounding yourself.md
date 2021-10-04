@@ -13,6 +13,7 @@ I think that [[religion]] can be a healthy way to avoid the uncertainty of not k
 ---
 
 **Status**:: #EVER/SEED/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[belief systems]], [[faith]], [[worldview]] 
+**Topics**:: [[belief systems]], [[faith]], [[worldview]] 
 	

@@ -15,7 +15,7 @@ It is hard to look at the god described in the bible and not think he is either 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Christianity]], [[Evangelicalism]]
+**Topics**:: [[Christianity]], [[Evangelicalism]]
 
-**Last Edited**:: *`=this.file.mtime`*

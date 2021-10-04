@@ -15,10 +15,10 @@ For now I have settled on [[self-love]] as the answer and [[transgender|transiti
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Happiness]]
+**Topics**:: [[Happiness]]
 
 	
-**Last Edited**:: *`=this.file.mtime`*
 	
 ### <hr class="references"/>

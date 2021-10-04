@@ -31,8 +31,8 @@ He also used this moral superiority to justify [[government]] interference in wo
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/CULTIVATE 
+*edited `=this.file.mtime`*
 
-**Topics**::  
+**Topics**:: 
 	
-**Last Edited**:: *`=this.file.mtime`*
 	

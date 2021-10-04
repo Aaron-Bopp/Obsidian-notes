@@ -13,6 +13,7 @@ note-type:
 ---
 
 **Status**:: #EVER/SEED/WATER 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[second brain]], [[Zettlekassen]], [[evergreen notes]],   [[note writing]], [[Note structures should be loosely defined]]
+**Topics**:: [[second brain]], [[Zettlekassen]], [[evergreen notes]],   [[note writing]], [[Note structures should be loosely defined]]
 	

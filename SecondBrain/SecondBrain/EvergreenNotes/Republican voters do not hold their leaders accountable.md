@@ -14,8 +14,8 @@ aliases:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Republican]], [[Politics]]
+**Topics**:: [[Republican]], [[Politics]]
 	
-**Last Edited**:: *`=this.file.mtime`*
 	

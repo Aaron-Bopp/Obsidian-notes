@@ -20,6 +20,7 @@ You can also experience large amounts of [[anxiety]] if your identity is severel
 ---
 
 **Status**:: #EVER/SPROUT/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::   [[anxiety]], [[mental health]], [[self-actualization]], [[self-improvement]], [[self-hate]], [[social anxiety]] 
+**Topics**:: [[anxiety]], [[mental health]], [[self-actualization]], [[self-improvement]], [[self-hate]], [[social anxiety]] 
 	

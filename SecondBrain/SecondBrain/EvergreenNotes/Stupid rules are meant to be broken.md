@@ -15,10 +15,10 @@ This is really more saying if a rule is stupid you are justified in breaking it.
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[social justice]], [[fairness]]
+**Topics**:: [[social justice]], [[fairness]]
 
-**Last Edited**:: *`=this.file.mtime`*
 	
 
 

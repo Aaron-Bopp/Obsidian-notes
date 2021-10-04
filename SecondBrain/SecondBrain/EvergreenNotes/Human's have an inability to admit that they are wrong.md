@@ -14,7 +14,7 @@ This will sometimes lead to [[Human's will find explanations for inexplainable t
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]], [[self]], [[socialization]]
+**Topics**:: [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]], [[self]], [[socialization]]
 	
-**Last Edited**:: *`=this.file.mtime`*

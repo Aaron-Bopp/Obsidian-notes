@@ -18,6 +18,7 @@ Docs:: https://silentvoid13.github.io/Templater/
 ---
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Obsidian (software)]],  
+**Topics**:: [[Obsidian (software)]],  
 	

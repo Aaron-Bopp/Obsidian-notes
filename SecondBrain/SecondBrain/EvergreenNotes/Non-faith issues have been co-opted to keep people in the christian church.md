@@ -20,6 +20,7 @@ To people who believe [[The bible is god breathed]], this propaganda can be very
 ---
 
 **Status**:: #EVER/SPROUT/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Christianity]], [[political strategy]], [[Deconstruction (Christianity)]], [[faith]], [[belief systems]]
+**Topics**:: [[Christianity]], [[political strategy]], [[Deconstruction (Christianity)]], [[faith]], [[belief systems]]
 	

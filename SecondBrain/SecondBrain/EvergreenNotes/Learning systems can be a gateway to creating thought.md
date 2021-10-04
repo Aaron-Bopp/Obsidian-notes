@@ -18,6 +18,7 @@ One major example of this is [[Creating Thought with a Second Brain]].
 ---
 
 **Status**:: #EVER/SEED/WATER 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[second brain]], [[note writing]] 
+**Topics**:: [[second brain]], [[note writing]] 
 	

@@ -11,6 +11,7 @@ note-type:
 ---
 
 **Status**:: #EVER/SPROUT/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[second brain]] 
+**Topics**:: [[second brain]] 
 	

@@ -12,7 +12,7 @@ aliases:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[transgender]], [[self-actualization]], [[human experience]]
+**Topics**:: [[transgender]], [[self-actualization]], [[human experience]]
 	
-**Last Edited**:: *`=this.file.mtime`*

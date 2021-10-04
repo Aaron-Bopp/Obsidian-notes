@@ -16,9 +16,9 @@ With enough practice, you'll be able to tell if your [[self]]-talk is coming fro
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 
+*edited `=this.file.mtime`*
 
-**Topics**::  
+**Topics**:: 
 
-**Last Edited**:: *`=[[Is your self-talk bullying you or bodyguarding you]].file.mtime`*
 	
 ::

@@ -15,6 +15,7 @@ In my experience most people's [[worldview]]s are not inherently objectionable, 
 ---
 
 **Status**:: #EVER/SPROUT/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Christianity]], [[belief systems]], [[faith]], [[philosophy]], [[theology]], [[sympathy]], [[empathy]]
+**Topics**:: [[Christianity]], [[belief systems]], [[faith]], [[philosophy]], [[theology]], [[sympathy]], [[empathy]]
 	

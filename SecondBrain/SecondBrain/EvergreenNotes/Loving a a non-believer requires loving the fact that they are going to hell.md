@@ -13,9 +13,9 @@ note-type:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Christianity]], [[Evangelicalism]], [[empathy]]
+**Topics**:: [[Christianity]], [[Evangelicalism]], [[empathy]]
 	
-**Last Edited**:: *`=[[Loving a a non-believer requires loving the fact that they are going to hell]].file.mtime`*
 	
 ::

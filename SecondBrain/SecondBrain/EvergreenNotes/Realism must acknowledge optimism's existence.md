@@ -18,7 +18,7 @@ Even if you think that optimism is ignorant it does not change the fact that opt
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/CULTIVATE 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[pessimism]], [[realism]], [[optimism]], [[human advancement]], [[purpose]]
+**Topics**:: [[pessimism]], [[realism]], [[optimism]], [[human advancement]], [[purpose]]
 	
-**Last Edited**:: *`=this.file.mtime`*

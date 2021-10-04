@@ -20,7 +20,6 @@ Replace numbered lists in markdown syntax
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED
+*edited `=this.file.mtime`*
 
 **Topics**:: 
-
-**Last Edited**:: *`=this.file.mtime`*

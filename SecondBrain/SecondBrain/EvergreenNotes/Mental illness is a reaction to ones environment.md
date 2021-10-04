@@ -15,8 +15,8 @@ This environment includes our physical environment (the one we experience), our 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[mental disorders]], [[Neuroscience]], [[human experience]]
+**Topics**:: [[mental disorders]], [[Neuroscience]], [[human experience]]
 	
-**Last Edited**:: *`=this.file.mtime`*
 

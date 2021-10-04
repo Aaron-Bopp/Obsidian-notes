@@ -12,8 +12,8 @@ The only significant change that I see is in the ethnic makeup of [[America]]. A
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[America]], [[Politics]], [[racism]], [[political strategy]]
+**Topics**:: [[America]], [[Politics]], [[racism]], [[political strategy]]
 	
-**Last Edited**:: *`=this.file.mtime`*
 	

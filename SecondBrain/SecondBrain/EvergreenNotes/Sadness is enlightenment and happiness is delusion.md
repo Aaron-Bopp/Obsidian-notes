@@ -21,9 +21,9 @@ Once someone has reached this state of "[[enlightenment]]," they will not only f
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN/PRUNE 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[self-worth]], [[Bhuddism]], [[depression]], [[social justice]]
+**Topics**:: [[self-worth]], [[Bhuddism]], [[depression]], [[social justice]]
 
-**Last Edited**:: *`=this.file.mtime`*
 
 :: [[drk

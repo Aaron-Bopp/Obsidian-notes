@@ -14,8 +14,9 @@ While [[Christians struggle to feel empathy because they must believe that non-c
 ---
 
 **Status**:: #EVER/SEED/WATER  
+*edited `=this.file.mtime`*
 
 **Parent**:: [[Deconstruction (Christianity)]]
 	
-**Topics**::  [[Christianity]],   
+**Topics**:: [[Christianity]],   
 	

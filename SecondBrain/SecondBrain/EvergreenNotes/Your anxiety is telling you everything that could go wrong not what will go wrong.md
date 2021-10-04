@@ -22,7 +22,7 @@ The reason this happens is rooted in [[Neuroscience]]. [[Anxiety]] is at it's co
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[mental health]], [[mental disorders]], [[self-actualization]], ,  
+**Topics**:: [[mental health]], [[mental disorders]], [[self-actualization]], ,  
 	
-**Last Edited**:: *`=this.file.mtime`*

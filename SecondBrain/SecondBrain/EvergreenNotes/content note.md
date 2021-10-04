@@ -21,4 +21,5 @@ Template: [[CONTENT]]
 - this is how I [[Collecting Thought with a Second Brain | collect thought]] in [[My Second Brain]]
 
 **Status**:: #EVER/SPROUT 
+*edited `=this.file.mtime`*
 

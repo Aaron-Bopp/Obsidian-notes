@@ -17,7 +17,7 @@ Aaron is excited to make his return to Northwest Theatre after a year of unprodu
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Theater]]
+**Topics**:: [[Theater]]
 	
-**Last Edited**:: *`=this.file.mtime`*

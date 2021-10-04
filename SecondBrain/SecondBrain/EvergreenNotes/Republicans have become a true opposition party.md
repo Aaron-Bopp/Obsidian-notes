@@ -12,8 +12,8 @@ No [[Republican]] since and including [[Reagan]] has balanced the budget or even
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Politics]], [[Republican]]
+**Topics**:: [[Politics]], [[Republican]]
 	
-**Last Edited**:: *`=this.file.mtime`*
 	

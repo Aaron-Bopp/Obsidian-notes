@@ -17,7 +17,7 @@ Once you discover and accept yourself as [[transgender|trans]], a lot of the see
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN/GROWING 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[transgender]], [[mental disorders]], [[human survival]], [[self-actualization]]
+**Topics**:: [[transgender]], [[mental disorders]], [[human survival]], [[self-actualization]]
 	
-**Last Edited**:: *`=this.file.mtime`*

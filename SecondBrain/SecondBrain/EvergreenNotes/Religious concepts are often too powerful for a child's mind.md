@@ -12,7 +12,7 @@ aliases:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[religious trauma]], [[religion]], [[Evangelicalism]], [[Christianity]]
+**Topics**:: [[religious trauma]], [[religion]], [[Evangelicalism]], [[Christianity]]
 	
-**Last Edited**:: *`=this.file.mtime`*

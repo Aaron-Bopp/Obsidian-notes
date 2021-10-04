@@ -13,7 +13,7 @@ Major sources of sadness such as [[socio-economic]] conditions, [[trauma]] ([[so
 ---
 
 **Status**:: #EVER/SEED/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[happiness]], [[mental health]], [[depression]]
+**Topics**:: [[happiness]], [[mental health]], [[depression]]
 	
-**Last Edited**:: *`=this.file.mtime`*

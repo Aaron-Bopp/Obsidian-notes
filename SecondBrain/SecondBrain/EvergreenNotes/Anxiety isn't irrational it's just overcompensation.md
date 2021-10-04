@@ -14,7 +14,7 @@ It is mainly a [[Neuroscience|neurological]] fact but can also be affected by [[
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[anxiety]], [[mental health]]
+**Topics**:: [[anxiety]], [[mental health]]
 	
-**Last Edited**:: *`=this.file.mtime`*

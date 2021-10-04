@@ -15,7 +15,8 @@ note-type:
 ---
 
 **Status**:: #EVER/SEED/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]]
+**Topics**:: [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]]
 	
 :: [[Existential Dread]]

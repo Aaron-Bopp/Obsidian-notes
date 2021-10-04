@@ -27,6 +27,7 @@ WHERE contains(note-type, "organizational-note")
 ---
 
 **Status**:: #EVER/SPROUT  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Make your inbox into an entry point]], [[personal knowledge management]], [[My Second Brain]], [[Zettlekassen]] 
+**Topics**:: [[Make your inbox into an entry point]], [[personal knowledge management]], [[My Second Brain]], [[Zettlekassen]] 
 	

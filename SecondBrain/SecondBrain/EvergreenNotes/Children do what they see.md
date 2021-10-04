@@ -14,7 +14,7 @@ This fact is true in both synchronous interactions like fear responses and [[sel
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
+*edited `=this.file.mtime`*
 
 **Topics**:: [[early childhood development]] 
 	
-**Last Edited**:: *`=this.file.mtime`*

@@ -13,9 +13,9 @@ Our brain hijacks our logical processes to rationalize away repressed emotions.
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
+*edited `=this.file.mtime`*
 
-**Topics**::  
+**Topics**:: 
 	
-**Last Edited**:: *`=this.file.mtime`*
 	
 ### <hr class="references"/>

@@ -19,8 +19,8 @@ A topic note can come to be in two ways:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 
+*edited `=this.file.mtime`*
 
-**Topics**::   [[second brain]], [[My Second Brain]], [[Zettlekassen]], [[personal knowledge management]]
+**Topics**:: [[second brain]], [[My Second Brain]], [[Zettlekassen]], [[personal knowledge management]]
 	
-**Last Edited**:: *`=this.file.mtime`*	
 

@@ -12,9 +12,9 @@ aliases:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
+*edited `=this.file.mtime`*
 
-**Topics**::   [[ADHD]], [[executive function]]
+**Topics**:: [[ADHD]], [[executive function]]
 	
-**Last Edited**:: *`=this.file.mtime`*
 	
 ### <hr class="references"/>

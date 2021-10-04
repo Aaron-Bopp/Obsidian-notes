@@ -19,8 +19,8 @@ asdfasdf
 ###### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN/PRUNE   
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Zettlekassen]], [[personal knowledge management]], [[second brain]] 
+**Topics**:: [[Zettlekassen]], [[personal knowledge management]], [[second brain]] 
 	
-**Last Edited**:: `=[[Make your inbox into an entry point]].file.mtime`
 	

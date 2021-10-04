@@ -27,8 +27,9 @@ Despite all that I still think [[Faith can be a useful tool for grounding yourse
 ---
 
 **Status**:: #EVER/GREEN 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Christianity]], [[belief systems]], [[worldview]], [[faith]], [[self-love]], [[self-hate]], [[Evangelicalism]]
+**Topics**:: [[Christianity]], [[belief systems]], [[worldview]], [[faith]], [[self-love]], [[self-hate]], [[Evangelicalism]]
 	
 	
 

@@ -18,6 +18,7 @@ It's a big part of the reason why I think [[The biblical christian God is evil a
 ---
 
 **Status**:: #EVER/SPROUT/CULTIVATE
+*edited `=this.file.mtime`*
 
 **Topics**:: [[Evangelicalism]], [[Christianity]], [[religious trauma]]
 

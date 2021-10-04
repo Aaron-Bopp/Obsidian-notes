@@ -32,6 +32,7 @@ Dual Skills
 ---
 
 **Status**:: #EVER/SPROUT 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[second brain]], [[personal knowledge management]],  [[AI]], [[Machine Learning]], [[NLP]]
+**Topics**:: [[second brain]], [[personal knowledge management]],  [[AI]], [[Machine Learning]], [[NLP]]
 	

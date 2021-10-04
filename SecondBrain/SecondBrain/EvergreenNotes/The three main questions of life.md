@@ -16,6 +16,7 @@ What is our [[purpose]]?
 ---
 
 **Status**:: #EVER/SEED/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[worldview]], [[philosophy]], [[theology]]  
+**Topics**:: [[worldview]], [[philosophy]], [[theology]]  
 	

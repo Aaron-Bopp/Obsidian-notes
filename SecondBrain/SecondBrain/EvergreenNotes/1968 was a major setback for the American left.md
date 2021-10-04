@@ -15,7 +15,7 @@ As a person on [[the left]], I don't view 1968 as a shattering of [[America]], b
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
+*edited `=this.file.mtime`*
 
-**Topics**::  
+**Topics**:: 
 	
-**Last Edited**:: *`=this.file.mtime`*

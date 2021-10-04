@@ -18,7 +18,7 @@ It has also allowed for a culture shift, where previously niche topics like [[Dn
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/CULTIVATE 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[internet]], [[mass media]], [[inter-personal communication]], [[human advancement]]
+**Topics**:: [[internet]], [[mass media]], [[inter-personal communication]], [[human advancement]]
 	
-**Last Edited**:: *`=this.file.mtime`*

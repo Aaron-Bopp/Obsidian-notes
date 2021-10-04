@@ -11,9 +11,9 @@ note-type:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[self]], [[self-love]], [[self-validation]], [[self-hate]], [[self care]]
+**Topics**:: [[self]], [[self-love]], [[self-validation]], [[self-hate]], [[self care]]
 	
-**Last Edited**:: *`=[[Repressed identity creates a mistrust of self-love and self-esteem]].file.mtime`*
 
 ::

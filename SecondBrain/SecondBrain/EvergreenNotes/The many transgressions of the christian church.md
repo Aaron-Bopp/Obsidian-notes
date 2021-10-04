@@ -13,8 +13,8 @@ note-type:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[christianity]], [[modern american culture]], [[social progress]], [[Civil Rights]], [[Homophobia]], [[racism]], [[American Conservatism]]
+**Topics**:: [[christianity]], [[modern american culture]], [[social progress]], [[Civil Rights]], [[Homophobia]], [[racism]], [[American Conservatism]]
 	
-**Last Edited**:: *`=[[The many transgressions of the christian church]].file.mtime`*
 	

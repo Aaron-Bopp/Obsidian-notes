@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EvergreenNotes/Anxiety should be a tool at your disposal not an impedance to your life.md",
+            "file": "SecondBrain/TopicNotes/Agoraphobia.md",
             "mode": "source"
           }
         }
@@ -57,7 +57,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Anxiety should be a tool at your disposal not an impedance to your life.md",
+                "file": "SecondBrain/TopicNotes/Agoraphobia.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -74,7 +74,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Anxiety should be a tool at your disposal not an impedance to your life.md",
+                "file": "SecondBrain/TopicNotes/Agoraphobia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Anxiety should be a tool at your disposal not an impedance to your life.md"
+                "file": "SecondBrain/TopicNotes/Agoraphobia.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Anxiety should be a tool at your disposal not an impedance to your life.md",
+                "file": "SecondBrain/TopicNotes/Agoraphobia.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases",
@@ -268,15 +268,15 @@
   },
   "active": "e9c61940d49be3e4",
   "lastOpenFiles": [
-    "SecondBrain/EvergreenNotes/Anxiety should be a tool at your disposal not an impedance to your life.md",
+    "SecondBrain/EvergreenNotes/Agoraphobia.md",
     "SecondBrain/TopicNotes/social anxiety.md",
+    "SecondBrain/EvergreenNotes/Anxiety should be a tool at your disposal not an impedance to your life.md",
     "SecondBrain/TopicNotes/morality.md",
     "SecondBrain/TopicNotes/religious trauma.md",
     "SecondBrain/TopicNotes/socialization.md",
     "SecondBrain/TopicNotes/social discomfort.md",
     "SecondBrain/TopicNotes/Tiktok.md",
     "SecondBrain/EvergreenNotes/Explaining emotion can just be a way of escaping the situation.md",
-    "SecondBrain/OrganizationalNotes/RECENTLY-MODIFIED.md",
-    "SecondBrain/Primary Sources/Classes/Comp Sci/QUIZ#3_Solution (1).md"
+    "SecondBrain/OrganizationalNotes/RECENTLY-MODIFIED.md"
   ]
 }

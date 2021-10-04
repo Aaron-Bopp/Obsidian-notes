@@ -13,7 +13,7 @@ aliases:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[gender]], [[self]], [[human experience]]
+**Topics**:: [[gender]], [[self]], [[human experience]]
 	
-**Last Edited**:: *`=this.file.mtime`*

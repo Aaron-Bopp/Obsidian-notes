@@ -23,6 +23,7 @@ If your understanding of the world is impaired that means that your [[self]] wil
 ---
 
 **Status**:: #EVER/SPROUT/WATER   
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Your anxiety knows your insecurities better than you do]], [[self-actualization]], [[self]], [[self care]] 
+**Topics**:: [[Your anxiety knows your insecurities better than you do]], [[self-actualization]], [[self]], [[self care]] 
 	

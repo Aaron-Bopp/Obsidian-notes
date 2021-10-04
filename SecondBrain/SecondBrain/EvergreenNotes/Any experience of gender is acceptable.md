@@ -13,7 +13,7 @@ This is an important part about accepting yourself as [[transgender]].
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[gender]], [[Queer]]
+**Topics**:: [[gender]], [[Queer]]
 	
-**Last Edited**:: *`=this.file.mtime`*

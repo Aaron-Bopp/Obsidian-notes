@@ -44,6 +44,7 @@ This structure is how I [[Make your inbox into an entry point]] and is deeply en
 ---
 
 **Status**:: #EVER/GREEN/PRUNE   
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Zettlekassen]], [[second brain]], [[how I use Obsidian tags]], [[Make your inbox into an entry point]]
+**Topics**:: [[Zettlekassen]], [[second brain]], [[how I use Obsidian tags]], [[Make your inbox into an entry point]]
 	

@@ -18,9 +18,9 @@ aliases:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[emotional validation]], [[emotional invalidation]], [[trauma]]
+**Topics**:: [[emotional validation]], [[emotional invalidation]], [[trauma]]
 	
-**Last Edited**:: *`=this.file.mtime`*
 	
 ### <hr class="references"/>

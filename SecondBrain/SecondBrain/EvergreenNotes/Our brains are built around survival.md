@@ -16,6 +16,7 @@ This is a biological fact, reinforced by [[socialization]]
 ---
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[human experience]], [[human advancement]], [[human survival]], [[Neuroscience]] 
+**Topics**:: [[human experience]], [[human advancement]], [[human survival]], [[Neuroscience]] 
 	

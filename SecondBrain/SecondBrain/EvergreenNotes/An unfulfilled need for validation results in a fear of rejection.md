@@ -14,8 +14,8 @@ In some cases this can get bad enough to be consider [[Rejection Sensitivity]] d
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[trauma]], [[emotional validation]], [[emotional invalidation]], [[mental health]]
+**Topics**:: [[trauma]], [[emotional validation]], [[emotional invalidation]], [[mental health]]
 
-**Last Edited**:: *`=this.file.mtime`*
 	

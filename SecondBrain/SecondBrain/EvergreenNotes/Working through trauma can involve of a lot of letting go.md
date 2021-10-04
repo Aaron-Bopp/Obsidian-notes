@@ -14,7 +14,7 @@ note-type:
 ---
 
 **Status**:: #EVER/SEED/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[trauma]], [[human advancement]], [[]]
+**Topics**:: [[trauma]], [[human advancement]], [[]]
 	
-**Last Edited**:: *`=this.file.mtime`*

@@ -24,7 +24,7 @@ Examples
 ---
 
 **Status**:: #EVER/SPROUT  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Obsidian (software)]]
+**Topics**:: [[Obsidian (software)]]
 	
-**Last Edited**:: *`=this.file.mtime`*

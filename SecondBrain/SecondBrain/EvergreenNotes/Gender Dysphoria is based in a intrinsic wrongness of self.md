@@ -18,7 +18,7 @@ This incongruity can create a frustration that is incredibly hard to root out an
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[gender dysphoria]], [[mental disorders]]
+**Topics**:: [[gender dysphoria]], [[mental disorders]]
 	
-**Last Edited**:: *`=this.file.mtime`*

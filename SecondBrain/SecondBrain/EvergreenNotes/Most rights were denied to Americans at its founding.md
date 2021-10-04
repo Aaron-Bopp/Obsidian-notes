@@ -13,7 +13,7 @@ Many rights that now exist were denied to [[women]], [[black people]], and [[ind
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[America]], [[racism]], [[Politics]], [[Revolution]]
+**Topics**:: [[America]], [[racism]], [[Politics]], [[Revolution]]
 	
-**Last Edited**:: *`=this.file.mtime`*

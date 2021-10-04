@@ -20,6 +20,7 @@ When entering into social situations you might feel [[anxiety]] because you don'
 ---
 
 **Status**:: #EVER/SPROUT/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[mental health]], [[mental disorders]], [[social anxiety]], [[anxiety]], [[social discomfort]], [[socialization]], [[You can be taught to invalidate your own emotions]], [[Anxiety isn't irrational it's just overcompensation]]
+**Topics**:: [[mental health]], [[mental disorders]], [[social anxiety]], [[anxiety]], [[social discomfort]], [[socialization]], [[You can be taught to invalidate your own emotions]], [[Anxiety isn't irrational it's just overcompensation]]
 	

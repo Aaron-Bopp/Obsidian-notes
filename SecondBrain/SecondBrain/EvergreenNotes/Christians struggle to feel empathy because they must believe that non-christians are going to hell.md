@@ -14,6 +14,7 @@ Because [[free-will]] is so integral to loving god and avoiding punishment, it b
 
 ---
 **Status**:: #EVER/SPROUT/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[empathy]], [[sympathy]], [[worldview]], [[theology]], [[inter-personal communication|inter-personal relationships]] 
+**Topics**:: [[empathy]], [[sympathy]], [[worldview]], [[theology]], [[inter-personal communication|inter-personal relationships]] 
 	

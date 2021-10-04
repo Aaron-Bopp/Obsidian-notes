@@ -15,6 +15,7 @@ One thing I have enjoyed since leaving the church is thinking about a materialis
 ---
 
 **Status**:: #EVER/SPROUT  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[materialism]], [[philosophy]], [[Marxism]], [[belief systems]], [[faith]] 
+**Topics**:: [[materialism]], [[philosophy]], [[Marxism]], [[belief systems]], [[faith]] 
 	

@@ -15,10 +15,10 @@ It's a lot easier to understand why somebody did something rather than twist and
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[socialization]], [[inter-personal communication]]
+**Topics**:: [[socialization]], [[inter-personal communication]]
 	
-**Last Edited**:: *`=this.file.mtime`*
 	
 
 

@@ -13,7 +13,7 @@ Even if your aren't [[transgender|trans]] you can still experience [[Gender Euph
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[gender]], [[self]], [[human experience]]
+**Topics**:: [[gender]], [[self]], [[human experience]]
 	
-**Last Edited**:: *`=this.file.mtime`*

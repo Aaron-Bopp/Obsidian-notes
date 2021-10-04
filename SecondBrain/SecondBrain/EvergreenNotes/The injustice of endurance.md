@@ -14,10 +14,10 @@ You should never be forced to endure. [[Endurance]] is a choice you make to push
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER  
+*edited `=this.file.mtime`*
 
-**Topics**::  [[endurance]], [[injustice]], [[Marxism]], [[social justice]], [[Civil Rights]], [[liberation]]
+**Topics**:: [[endurance]], [[injustice]], [[Marxism]], [[social justice]], [[Civil Rights]], [[liberation]]
 
 	
-**Last Edited**:: *`=this.file.mtime`*
 	
 ### <hr class="references"/>

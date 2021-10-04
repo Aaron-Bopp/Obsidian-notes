@@ -15,9 +15,9 @@ note-type:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
+*edited `=this.file.mtime`*
 
-**Topics**::  [[trauma]], [[mental health]], [[self-actualization]], [[early childhood development]]
+**Topics**:: [[trauma]], [[mental health]], [[self-actualization]], [[early childhood development]]
 
-**Last Edited**:: *`=this.file.mtime`*
 	
 ### <hr class="references"/>

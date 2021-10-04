@@ -21,8 +21,8 @@ If your [[self-image]] is correct, your [[self-perception]] may be off. You may 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[mental health]], [[self-love]], [[self-hate]], [[trauma]], [[gender dysphoria]], [[body dysmorphia]]
+**Topics**:: [[mental health]], [[self-love]], [[self-hate]], [[trauma]], [[gender dysphoria]], [[body dysmorphia]]
 	
-**Last Edited**:: *`=this.file.mtime`*
 

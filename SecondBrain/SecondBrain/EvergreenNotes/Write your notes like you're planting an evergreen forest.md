@@ -18,8 +18,9 @@ That being said, if you don't know what an evergreen forest looks like you don't
 ---
 
 **Status**:: #EVER/GREEN   
+*edited `=this.file.mtime`*
 
-**Topics**::  [[evergreen notes]], [[second brain]], [[My Second Brain]], [[note writing]], [[Zettlekassen]] 
+**Topics**:: [[evergreen notes]], [[second brain]], [[My Second Brain]], [[note writing]], [[Zettlekassen]] 
 	
  
 

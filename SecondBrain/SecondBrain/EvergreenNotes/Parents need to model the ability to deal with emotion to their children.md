@@ -13,6 +13,7 @@ note-type:
 ---
 
 **Status**:: #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[human advancement]], [[Neuroscience]], [[social fitness]], [[self care]], [[self soothing]], [[self-validation]] 
+**Topics**:: [[human advancement]], [[Neuroscience]], [[social fitness]], [[self care]], [[self soothing]], [[self-validation]] 
 	

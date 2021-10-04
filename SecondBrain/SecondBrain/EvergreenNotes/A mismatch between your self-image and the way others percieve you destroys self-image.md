@@ -13,7 +13,7 @@ aliases:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[mental health]], [[self-perception]]
+**Topics**:: [[mental health]], [[self-perception]]
 	
-**Last Edited**:: *`=this.file.mtime`*

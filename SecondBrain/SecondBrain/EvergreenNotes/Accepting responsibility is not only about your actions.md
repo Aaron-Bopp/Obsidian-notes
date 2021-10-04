@@ -20,7 +20,7 @@ Accepting responsibility for these kind of things is not taught at a young age i
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN   
+*edited `=this.file.mtime`*
 
-**Topics**::  [[white guilt]], [[trauma]], [[racism]], [[human advancement]]
+**Topics**:: [[white guilt]], [[trauma]], [[racism]], [[human advancement]]
 	
-**Last Edited**:: *`=this.file.mtime`*

@@ -16,7 +16,7 @@ aliases:
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Topics**::  [[Neuroscience]], [[self]], [[gender]], 
+**Topics**:: [[Neuroscience]], [[self]], [[gender]], 
 	
-**Last Edited**:: *`=this.file.mtime`*
