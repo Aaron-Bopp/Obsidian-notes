@@ -20,4 +20,3 @@ note-type:
 **Topics**:: [[trauma]], [[mental health]], [[self-actualization]], [[early childhood development]]
 
 	
-### <hr class="references"/>

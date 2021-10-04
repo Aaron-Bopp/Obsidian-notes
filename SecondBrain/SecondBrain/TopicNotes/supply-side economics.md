@@ -24,6 +24,3 @@ This is the belief that reducing tax rates across the board will allow for more 
 ### <hr class="dataviews"/>
 
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
-
-
-### <hr class="references"/>

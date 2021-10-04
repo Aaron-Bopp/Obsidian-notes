@@ -20,4 +20,3 @@ You should never be forced to endure. [[Endurance]] is a choice you make to push
 
 	
 	
-### <hr class="references"/>

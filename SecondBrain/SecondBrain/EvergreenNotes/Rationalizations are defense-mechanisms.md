@@ -18,4 +18,3 @@ Our brain hijacks our logical processes to rationalize away repressed emotions.
 **Topics**:: 
 	
 	
-### <hr class="references"/>

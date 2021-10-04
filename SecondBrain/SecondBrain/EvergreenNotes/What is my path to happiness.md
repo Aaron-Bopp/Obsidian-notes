@@ -21,4 +21,3 @@ For now I have settled on [[self-love]] as the answer and [[transgender|transiti
 
 	
 	
-### <hr class="references"/>

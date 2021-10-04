@@ -23,4 +23,3 @@ aliases:
 **Topics**:: [[emotional validation]], [[emotional invalidation]], [[trauma]]
 	
 	
-### <hr class="references"/>

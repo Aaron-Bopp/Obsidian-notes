@@ -17,4 +17,3 @@ aliases:
 **Topics**:: [[ADHD]], [[executive function]]
 	
 	
-### <hr class="references"/>

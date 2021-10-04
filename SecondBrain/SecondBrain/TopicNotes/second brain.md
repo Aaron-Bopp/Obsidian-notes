@@ -46,4 +46,3 @@ A second brain is a term that refers to a system of written thought that allows 
 
 ### <hr class="dataviews"/>
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
-### <hr class="references"/>
