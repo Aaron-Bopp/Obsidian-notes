@@ -18,6 +18,7 @@ Unfortunately, one way of dealing with emotion is avoidance, and [[Avoidance IS 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[my emotions]], [[trauma]], [[my parents]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 :: [[Samskara]]

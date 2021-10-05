@@ -16,7 +16,7 @@ This is the belief that reducing tax rates across the board will allow for more 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[economy]], [[Politics]], [[Reagan]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[supply-side economics]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

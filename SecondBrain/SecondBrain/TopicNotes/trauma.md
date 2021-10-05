@@ -16,7 +16,7 @@ date modified: Sunday, October 3rd 2021, 4:45:38 pm
 *edited `=this.file.mtime`*
 
 **Parents**:: [[mental health]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 **Outlined**:: `$=customJS.dv_funcs.outlinedIn(dv, this)`
 

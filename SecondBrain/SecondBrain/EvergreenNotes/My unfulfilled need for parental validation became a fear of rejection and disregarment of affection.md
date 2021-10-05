@@ -21,4 +21,5 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[emotional validation]], [[emotional invalidation]], [[trauma]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

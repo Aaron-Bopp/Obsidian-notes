@@ -20,5 +20,6 @@ Blaming people for failing to rise above their situation is not only unfair, it 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-actualization]], [[socialization]], [[social progress]], [[inter-personal communication]], [[empathy]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

@@ -20,3 +20,4 @@ Aaron is excited to make his return to Northwest Theatre after a year of unprodu
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Theater]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

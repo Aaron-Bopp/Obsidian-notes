@@ -14,7 +14,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[religion]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Christianity]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[The biblical christian God is evil and does not deserved to be worshipped]]

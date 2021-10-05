@@ -13,4 +13,5 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

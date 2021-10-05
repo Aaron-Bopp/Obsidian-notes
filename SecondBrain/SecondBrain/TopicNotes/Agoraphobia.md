@@ -19,7 +19,7 @@ date modified: Monday, October 4th 2021, 12:29:21 am
 *edited `=this.file.mtime`*
 
 **Parents**::
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Agoraphobia]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

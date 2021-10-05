@@ -18,4 +18,5 @@ What is our [[purpose]]?
 *edited `=this.file.mtime`*
 
 **Topics**:: [[worldview]], [[philosophy]], [[theology]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

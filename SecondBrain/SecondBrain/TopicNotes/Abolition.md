@@ -20,7 +20,7 @@ This topic serves as a bridge between all forms of abolition
 *edited `=this.file.mtime`*
 
 **Parents**:: [[social justice]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### Outline
 - [[Abolition]]

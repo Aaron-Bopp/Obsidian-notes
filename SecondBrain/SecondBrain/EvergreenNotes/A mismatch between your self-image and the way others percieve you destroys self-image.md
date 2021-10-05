@@ -16,4 +16,5 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self-perception]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

@@ -17,4 +17,5 @@ A [[evergreen notes]] is a singular thought and a [[topic note]] is a singular i
 *edited `=this.file.mtime`*
 
 **Topics**::
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

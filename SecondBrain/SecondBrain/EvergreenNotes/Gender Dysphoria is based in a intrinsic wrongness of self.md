@@ -21,4 +21,5 @@ This incongruity can create a frustration that is incredibly hard to root out an
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender dysphoria]], [[mental disorders]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

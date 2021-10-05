@@ -21,4 +21,5 @@ If you can never get to this place of objectivity you may get stuck feeling like
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[Evangelicalism]], [[faith]], [[worldview]], [[Deconstruction (Christianity)]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

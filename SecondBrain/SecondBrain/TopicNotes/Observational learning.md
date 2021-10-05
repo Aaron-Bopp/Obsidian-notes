@@ -20,7 +20,7 @@ This concept relates to [[Behavioral Pyschology]] and [[early childhood developm
 *edited `=this.file.mtime`*
 
 **Parents**:: [[Behavioral Pyschology]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Observational learning]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

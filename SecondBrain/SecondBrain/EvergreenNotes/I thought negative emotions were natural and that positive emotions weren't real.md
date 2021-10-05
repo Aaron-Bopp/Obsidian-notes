@@ -20,6 +20,7 @@ This expanded on here: [[Sadness is enlightenment and happiness is delusion]]
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[early childhood development]], [[socialization]], [[Happiness]], [[my emotions]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 

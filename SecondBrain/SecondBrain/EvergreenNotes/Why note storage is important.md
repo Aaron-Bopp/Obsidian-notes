@@ -16,4 +16,5 @@ Systems change.
 *edited `=this.file.mtime`*
 
 **Topics**:: [[My Second Brain]], [[second brain]], 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

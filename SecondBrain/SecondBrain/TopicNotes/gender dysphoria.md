@@ -16,7 +16,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[gender]], [[mental disorders]], [[mental health]], [[self-love]], [[self-hate]], [[childhood trauma]], [[body dysmorphia]], [[depression]], [[self-image]], [[self-perception]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[gender dysphoria]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

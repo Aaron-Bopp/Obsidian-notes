@@ -23,6 +23,7 @@ Once someone has reached this state of "[[enlightenment]]," they will not only f
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-worth]], [[Bhuddism]], [[depression]], [[social justice]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 :: [[drk

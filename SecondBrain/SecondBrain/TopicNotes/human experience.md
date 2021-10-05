@@ -16,7 +16,7 @@ date modified: Saturday, October 2nd 2021, 3:45:32 pm
 *edited `=this.file.mtime`*
 
 **Parents**:: [[Neuroscience]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[human experience]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

@@ -15,4 +15,5 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[Zettlekassen]], [[evergreen notes]],   [[note writing]], [[Note structures should be loosely defined]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

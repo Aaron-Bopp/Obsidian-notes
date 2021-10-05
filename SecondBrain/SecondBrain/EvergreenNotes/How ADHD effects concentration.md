@@ -16,4 +16,5 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[ADHD]], [[mental health]], [[mental disorders]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

@@ -15,4 +15,5 @@ This has been built up as major part in [[Christianity|christians]] pyschies and
 *edited `=this.file.mtime`*
 
 **Topics**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

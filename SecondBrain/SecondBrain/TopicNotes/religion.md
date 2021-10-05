@@ -14,7 +14,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[INDEX]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[religion]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Christianity]]

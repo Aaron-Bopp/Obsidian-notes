@@ -22,6 +22,7 @@ A zettle is a single idea or thought as defined by the creator of the [[Zettleka
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Zettlekassen]], [[personal knowledge management]], [[second brain]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 **Outline**::
 

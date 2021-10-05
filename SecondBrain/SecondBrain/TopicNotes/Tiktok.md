@@ -17,7 +17,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[Social media]], [[Technology]], [[socialization]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Tiktok]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

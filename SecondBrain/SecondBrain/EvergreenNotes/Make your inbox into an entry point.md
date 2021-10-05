@@ -21,5 +21,6 @@ asdfasdf
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Zettlekassen]], [[personal knowledge management]], [[second brain]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

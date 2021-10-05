@@ -20,7 +20,7 @@ date modified: Wednesday, September 29th 2021, 7:13:06 pm
 *edited `=this.file.mtime`*
 
 **Parents**:: 
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[anti-science]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

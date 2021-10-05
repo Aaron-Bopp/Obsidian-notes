@@ -17,7 +17,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: 
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[natural selection]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

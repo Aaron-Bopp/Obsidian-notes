@@ -17,7 +17,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: 
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[self]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Identity is your understanding of yourself and your interaction with the world]]

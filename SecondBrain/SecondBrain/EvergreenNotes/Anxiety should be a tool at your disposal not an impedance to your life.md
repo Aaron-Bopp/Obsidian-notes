@@ -16,4 +16,5 @@ Being paralyzed by your [[anxiety]] is not the desired outcome
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[mental health]], [[mental disorders]], [[social anxiety]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

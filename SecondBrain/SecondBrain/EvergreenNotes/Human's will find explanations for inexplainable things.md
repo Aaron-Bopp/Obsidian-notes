@@ -17,5 +17,6 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 :: [[Existential Dread]]

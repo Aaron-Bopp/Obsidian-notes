@@ -20,4 +20,5 @@ One major example of this is [[Creating Thought with a Second Brain]].
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[note writing]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

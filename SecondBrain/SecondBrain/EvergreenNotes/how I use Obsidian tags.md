@@ -13,4 +13,5 @@ In [[Obsidian (software)]] tags are little more than a stored [[SEARCH]], but th
 *edited `=this.file.mtime`*
 
 **Topics**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

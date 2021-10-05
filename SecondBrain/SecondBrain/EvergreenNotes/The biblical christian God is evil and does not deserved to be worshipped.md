@@ -18,4 +18,5 @@ It is hard to look at the god described in the bible and not think he is either 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[Evangelicalism]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

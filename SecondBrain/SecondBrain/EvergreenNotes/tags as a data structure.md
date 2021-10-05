@@ -26,3 +26,4 @@ Examples
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Obsidian (software)]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -16,5 +16,6 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Sadness is enlightenment and happiness is delusion]], [[Happiness is enlightenment and sadness is delusion]], [[Bhuddism]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 :: [[DrK and DrMike conversation]]

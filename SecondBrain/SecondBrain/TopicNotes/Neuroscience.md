@@ -16,7 +16,7 @@ date modified: Sunday, October 3rd 2021, 11:09:53 am
 *edited `=this.file.mtime`*
 
 **Parents**:: [[INDEX]], [[mental health]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 ##### [[Neuroscience]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

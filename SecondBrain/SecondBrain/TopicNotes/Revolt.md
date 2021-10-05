@@ -16,7 +16,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: Indigenous
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Revolt]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

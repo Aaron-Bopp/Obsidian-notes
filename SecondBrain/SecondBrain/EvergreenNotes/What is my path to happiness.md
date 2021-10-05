@@ -18,5 +18,6 @@ For now I have settled on [[self-love]] as the answer and [[transgender|transiti
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Happiness]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

@@ -23,7 +23,7 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Parents**:: 
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 

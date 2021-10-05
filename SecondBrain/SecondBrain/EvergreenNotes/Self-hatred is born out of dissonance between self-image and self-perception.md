@@ -24,5 +24,6 @@ If your [[self-image]] is correct, your [[self-perception]] may be off. You may 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self-love]], [[self-hate]], [[trauma]], [[gender dysphoria]], [[body dysmorphia]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

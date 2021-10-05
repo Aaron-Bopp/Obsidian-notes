@@ -17,4 +17,5 @@ If you can never be content that you are good enough, you are just looking for a
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self-love]], [[self-hate]], [[self-improvement]], [[Sadness is enlightenment and happiness is delusion]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

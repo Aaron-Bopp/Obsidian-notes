@@ -16,4 +16,5 @@ This is an important part about accepting yourself as [[transgender]].
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[Queer]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

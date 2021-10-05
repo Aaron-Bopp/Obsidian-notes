@@ -17,5 +17,6 @@ Yang's success in the 2020 primary was and always will be of note. As a relative
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[political strategy]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

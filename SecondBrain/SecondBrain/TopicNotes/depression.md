@@ -16,7 +16,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[mental disorders]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[depression]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
  - Sometimes caused by

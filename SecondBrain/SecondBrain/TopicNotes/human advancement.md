@@ -16,7 +16,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[human experience]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[human advancement]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Our brains are built around survival]]

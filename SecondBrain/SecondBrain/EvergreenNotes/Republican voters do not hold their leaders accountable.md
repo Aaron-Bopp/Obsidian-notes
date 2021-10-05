@@ -17,5 +17,6 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Republican]], [[Politics]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

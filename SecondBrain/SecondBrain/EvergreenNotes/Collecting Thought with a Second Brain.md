@@ -13,6 +13,7 @@ A [[second brain]] can be a collection of thought that you have accumulated over
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[permanent note]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 **Outline**::
 

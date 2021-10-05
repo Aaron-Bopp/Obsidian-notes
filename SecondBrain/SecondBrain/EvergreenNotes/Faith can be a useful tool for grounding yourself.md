@@ -15,4 +15,5 @@ I think that [[religion]] can be a healthy way to avoid the uncertainty of not k
 *edited `=this.file.mtime`*
 
 **Topics**:: [[belief systems]], [[faith]], [[worldview]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

@@ -17,6 +17,7 @@ This is why thoughts like [[You're never sure if you're trans]] is so important 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[transgender]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 [^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]

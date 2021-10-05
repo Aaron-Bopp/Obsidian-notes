@@ -17,7 +17,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[socialization]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Social media]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

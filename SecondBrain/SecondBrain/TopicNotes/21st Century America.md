@@ -19,7 +19,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: 
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[21st Century America]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

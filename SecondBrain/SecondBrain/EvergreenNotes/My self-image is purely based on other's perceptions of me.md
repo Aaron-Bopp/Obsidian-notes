@@ -16,4 +16,5 @@ This really impacted my [[social anxiety]] because [[Your anxiety knows your ins
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[My Deconstruction journey]], [[my emotions]], [[my gender]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

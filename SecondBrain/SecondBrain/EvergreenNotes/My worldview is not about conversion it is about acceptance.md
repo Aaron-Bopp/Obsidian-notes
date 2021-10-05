@@ -17,4 +17,5 @@ In my experience most people's [[worldview]]s are not inherently objectionable, 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[belief systems]], [[faith]], [[philosophy]], [[theology]], [[sympathy]], [[empathy]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

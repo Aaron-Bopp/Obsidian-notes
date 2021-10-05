@@ -18,6 +18,7 @@ This is really more saying if a rule is stupid you are justified in breaking it.
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social justice]], [[fairness]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 

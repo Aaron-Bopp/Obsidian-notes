@@ -16,4 +16,5 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[self]], [[human experience]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

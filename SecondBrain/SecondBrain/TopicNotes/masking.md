@@ -16,7 +16,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[ADHD]], [[anxiety]], [[transgender]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[masking]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

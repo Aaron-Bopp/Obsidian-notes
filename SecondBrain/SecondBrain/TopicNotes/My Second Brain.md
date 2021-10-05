@@ -19,7 +19,7 @@ Since March 2021 I have become very interested in [[personal knowledge managemen
 *edited `=this.file.mtime`*
 
 **Parents**:: [[second brain]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[My Second Brain]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Driving principals

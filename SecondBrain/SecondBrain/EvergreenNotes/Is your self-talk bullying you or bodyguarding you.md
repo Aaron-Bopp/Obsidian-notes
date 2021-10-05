@@ -18,6 +18,7 @@ With enough practice, you'll be able to tell if your [[self]]-talk is coming fro
 *edited `=this.file.mtime`*
 
 **Topics**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 ::

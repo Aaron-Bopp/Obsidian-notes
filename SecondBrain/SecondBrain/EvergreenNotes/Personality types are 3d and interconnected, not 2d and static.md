@@ -14,3 +14,4 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[personality]], [[]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -18,7 +18,7 @@ A permanent note is a singular concept that you have conceptualized and written 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[Zettlekassen]], [[personal knowledge management]], [[evergreen notes]] 
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ---
 

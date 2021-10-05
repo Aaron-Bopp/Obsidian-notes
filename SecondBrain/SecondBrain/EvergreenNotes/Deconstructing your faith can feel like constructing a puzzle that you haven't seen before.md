@@ -19,4 +19,5 @@ My strategy was to tip over the box and choose the smallest puzzle
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Deconstruction (Christianity)]], [[Christianity]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

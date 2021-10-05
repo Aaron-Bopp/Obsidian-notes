@@ -17,7 +17,7 @@ testing
 *edited `=this.file.mtime`*
 
 **Parents**:: [[mental health]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[mindfullness]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

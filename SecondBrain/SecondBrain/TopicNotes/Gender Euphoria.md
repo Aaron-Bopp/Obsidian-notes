@@ -18,7 +18,7 @@ date modified: Saturday, September 25th 2021, 1:31:46 pm
 *edited `=this.file.mtime`*
 
 **Parents**:: [[gender]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Gender Euphoria]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

@@ -20,6 +20,7 @@ That being said, if you don't know what an evergreen forest looks like you don't
 *edited `=this.file.mtime`*
 
 **Topics**:: [[evergreen notes]], [[second brain]], [[My Second Brain]], [[note writing]], [[Zettlekassen]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 

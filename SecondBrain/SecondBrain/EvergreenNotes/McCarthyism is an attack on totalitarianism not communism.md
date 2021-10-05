@@ -19,4 +19,5 @@ McCarthy's attack on [[Communism]] is an integral foundation for [[Reagan]]'s pr
 *edited `=this.file.mtime`*
 
 **Topics**:: [[America]], [[Politics]], [[Communism]], 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

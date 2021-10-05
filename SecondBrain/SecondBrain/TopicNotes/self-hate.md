@@ -14,7 +14,7 @@ date modified: Sunday, September 26th 2021, 2:15:30 pm
 *edited `=this.file.mtime`*
 
 **Parents**:: 
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[self-hate]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

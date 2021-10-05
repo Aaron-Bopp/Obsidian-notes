@@ -14,6 +14,7 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self]], [[self-love]], [[self-validation]], [[self-hate]], [[self care]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 ::

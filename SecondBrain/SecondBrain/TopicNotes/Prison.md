@@ -17,7 +17,7 @@ This topic serves as a bride between [[Prison abolition]] and the [[prison-indus
 *edited `=this.file.mtime`*
 
 **Parents**:: [[social justice]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Prison]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - ![[Prison abolition#Prison abolition customJS dv_funcs topicOutlineHeader dv this]]

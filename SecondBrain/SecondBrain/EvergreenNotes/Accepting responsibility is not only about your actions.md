@@ -23,3 +23,4 @@ Accepting responsibility for these kind of things is not taught at a young age i
 *edited `=this.file.mtime`*
 
 **Topics**:: [[white guilt]], [[trauma]], [[racism]], [[human advancement]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

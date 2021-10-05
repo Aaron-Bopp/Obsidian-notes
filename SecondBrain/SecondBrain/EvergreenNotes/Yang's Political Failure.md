@@ -18,4 +18,5 @@ While Yang's presidential run can only be said to have had a net positive effect
 *edited `=this.file.mtime`*
 
 **Topics**:: [[political strategy]], [[Politics]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

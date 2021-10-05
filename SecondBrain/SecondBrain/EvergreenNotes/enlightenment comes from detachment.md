@@ -15,5 +15,6 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Bhuddism]], [[Bhuddism is the study of happiness through detachment]], [[To be happy you need to not be sad]], 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 :: [[DrK and DrMike conversation]]

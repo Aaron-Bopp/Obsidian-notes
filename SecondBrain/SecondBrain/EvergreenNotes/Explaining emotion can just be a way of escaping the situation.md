@@ -18,3 +18,4 @@ Being able to explain the emotions you are publicly feeling will relieve the att
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self-actualization]], [[socialization]], [[trauma]], [[self-love]], [[inter-personal communication]], [[Emotional Deregulation]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

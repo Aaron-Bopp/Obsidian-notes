@@ -15,4 +15,5 @@ Studies have shown time and time again that polling for economically left issues
 *edited `=this.file.mtime`*
 
 **Topics**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

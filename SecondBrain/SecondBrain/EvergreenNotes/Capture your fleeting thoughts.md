@@ -18,4 +18,5 @@ The way that I accomplish this in my system is using the [[my TO(DO) and EVER(GR
 *edited `=this.file.mtime`*
 
 **Topics**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

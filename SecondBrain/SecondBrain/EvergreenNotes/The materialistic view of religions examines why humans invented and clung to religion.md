@@ -17,4 +17,5 @@ One thing I have enjoyed since leaving the church is thinking about a materialis
 *edited `=this.file.mtime`*
 
 **Topics**:: [[materialism]], [[philosophy]], [[Marxism]], [[belief systems]], [[faith]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

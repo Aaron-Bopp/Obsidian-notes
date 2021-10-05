@@ -19,4 +19,5 @@ My [[TODO]] list is represented by [[my TO(DO) and EVER(GREEN) structure]]. This
 *edited `=this.file.mtime`*
 
 **Topics**:: [[todo note]], [[Make your inbox into an entry point]], [[my TO(DO) and EVER(GREEN) structure]], [[how I use Obsidian tags]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

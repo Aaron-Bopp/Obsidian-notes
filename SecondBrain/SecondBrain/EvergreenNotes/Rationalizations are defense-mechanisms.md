@@ -16,4 +16,5 @@ Our brain hijacks our logical processes to rationalize away repressed emotions.
 *edited `=this.file.mtime`*
 
 **Topics**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

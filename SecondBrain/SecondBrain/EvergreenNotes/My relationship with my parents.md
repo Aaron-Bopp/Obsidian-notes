@@ -22,3 +22,4 @@ I think at a certain point you can't teach an old dog new tricks. It's kind of h
 **Parent**:: [[my parents]]
 
 **Topics**:: [[self-love]], [[self-validation]], [[self-hate]], [[love]], [[unconditional love]], [[my emotions]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

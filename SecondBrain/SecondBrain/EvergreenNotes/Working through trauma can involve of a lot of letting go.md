@@ -16,3 +16,4 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[human advancement]], [[]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

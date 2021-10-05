@@ -16,7 +16,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: Consumer Culture
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Bernie Sanders]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 

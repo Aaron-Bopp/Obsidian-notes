@@ -16,4 +16,5 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[subconscious]], [[self]], [[human survival]], [[Neuroscience]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

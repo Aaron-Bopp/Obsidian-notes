@@ -18,7 +18,7 @@ A second brain is a term that refers to a system of written thought that allows 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[INDEX]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[second brain]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Why are you creating a Second Brain

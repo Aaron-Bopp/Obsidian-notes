@@ -17,4 +17,5 @@ Becoming obsessed/absorbed by this fact leads to thoughts like [[Sadness is enli
 *edited `=this.file.mtime`*
 
 **Topics**:: [[white guilt]], [[racism]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

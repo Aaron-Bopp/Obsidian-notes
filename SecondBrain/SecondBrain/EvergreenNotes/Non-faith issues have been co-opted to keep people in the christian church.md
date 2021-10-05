@@ -22,4 +22,5 @@ To people who believe [[The bible is god breathed]], this propaganda can be very
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[political strategy]], [[Deconstruction (Christianity)]], [[faith]], [[belief systems]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

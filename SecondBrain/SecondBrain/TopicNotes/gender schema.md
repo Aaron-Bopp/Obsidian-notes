@@ -15,7 +15,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[gender]], [[Behavioral Pyschology]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[gender schema]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

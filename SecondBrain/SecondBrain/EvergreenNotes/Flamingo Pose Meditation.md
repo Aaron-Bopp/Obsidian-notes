@@ -18,4 +18,5 @@ Examples:: https://youtu.be/UUC8qF5iDag?t=6195
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], ,[[mental health]], [[yoga]], 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

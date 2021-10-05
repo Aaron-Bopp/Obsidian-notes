@@ -29,6 +29,7 @@ Despite all that I still think [[Faith can be a useful tool for grounding yourse
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[belief systems]], [[worldview]], [[faith]], [[self-love]], [[self-hate]], [[Evangelicalism]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 

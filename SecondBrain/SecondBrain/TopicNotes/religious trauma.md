@@ -16,7 +16,7 @@ date modified: Monday, October 4th 2021, 12:06:19 am
 *edited `=this.file.mtime`*
 
 **Parents**:: [[trauma]] 
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[religious trauma]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

@@ -22,7 +22,7 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 *edited `=this.file.mtime`*
 
 **Parents**:: [[self]], [[mental health]], [[personality]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[gender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

@@ -21,7 +21,7 @@ Social fitness is a big part of [[human survival]] and [[human advancement]]
 *edited `=this.file.mtime`*
 
 **Parents**:: `$=customJS.dv_funcs.outlinedIn(dv, this)`
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[socialization]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

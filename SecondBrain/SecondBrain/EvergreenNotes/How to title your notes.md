@@ -31,4 +31,5 @@ Note titles can also very on their use within the [[web of thought]]. [[Webs of 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Zettlekassen]], [[second brain]], [[web of thought]], [[My Second Brain]], [[evergreen notes]], [[note writing]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

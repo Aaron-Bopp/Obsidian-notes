@@ -16,4 +16,5 @@ If you only ever [[SEARCH]] for answers to problem's you lose sight of the actua
 *edited `=this.file.mtime`*
 
 **Topics**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

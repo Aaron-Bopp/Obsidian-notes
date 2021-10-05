@@ -16,6 +16,7 @@ However, general tags can get very large, but this can be mitigated in variety o
 *edited `=this.file.mtime`*
 
 **Topics**:: [[personal knowledge management]],	[[evergreen notes]],	[[My Second Brain]], [[Obsidian (software)]], [[my TO(DO) and EVER(GREEN) structure]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 

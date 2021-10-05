@@ -19,3 +19,4 @@ The [[Second Brain]] can be used as a catalyst or conduit to create thought.([[L
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[permanent note]], [[evergreen notes]], 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

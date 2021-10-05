@@ -25,4 +25,5 @@ If your understanding of the world is impaired that means that your [[self]] wil
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Your anxiety knows your insecurities better than you do]], [[self-actualization]], [[self]], [[self care]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

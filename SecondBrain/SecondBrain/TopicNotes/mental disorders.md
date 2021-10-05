@@ -16,7 +16,7 @@ parent: [[mental health]]
 *edited `=this.file.mtime`*
 
 **Parents**:: [[mental health]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[mental disorders]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[OCD]]

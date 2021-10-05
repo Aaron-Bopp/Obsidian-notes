@@ -17,7 +17,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[Queer]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[transgender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[You're never sure if you're trans]]

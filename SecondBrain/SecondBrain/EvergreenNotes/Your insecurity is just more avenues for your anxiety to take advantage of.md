@@ -22,4 +22,5 @@ When entering into social situations you might feel [[anxiety]] because you don'
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[mental disorders]], [[social anxiety]], [[anxiety]], [[social discomfort]], [[socialization]], [[You can be taught to invalidate your own emotions]], [[Anxiety isn't irrational it's just overcompensation]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

@@ -15,7 +15,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[mental health]], [[mental disorders]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[neurodivergency]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[ADHD]]

@@ -17,6 +17,7 @@ https://mermaid-js.github.io/mermaid/#/
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Obsidian (software)]], [[Javascript]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 **Outline**::
 

@@ -8,6 +8,7 @@ note-type:
 
 
 **Topics**:: [[INDEX]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [[dataview]] is an plugin for [[obsidian (software)]] that allows for [[sql]] like queries over the notes in your obsidian vault.
 
@@ -150,4 +151,5 @@ if (topicPages.length + egPages.length + contentPages.length !== 0) {
 *edited `=this.file.mtime`*
 
 **Topics**:: [[SQL]], [[data querrying]], 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

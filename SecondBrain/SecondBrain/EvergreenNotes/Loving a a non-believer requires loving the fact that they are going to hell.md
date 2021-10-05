@@ -16,6 +16,7 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[Evangelicalism]], [[empathy]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 ::

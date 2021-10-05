@@ -15,4 +15,5 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[Neuroscience]], [[neurodivergency]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

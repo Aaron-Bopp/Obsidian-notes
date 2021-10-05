@@ -16,7 +16,7 @@ Over the last forty years, misinformation has become so potent in [[America]], t
 *edited `=this.file.mtime`*
 
 **Parents**:: 
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Rise of Misinformation in America]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Ronald Reagan invented modern conservatism]]

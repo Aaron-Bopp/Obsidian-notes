@@ -20,4 +20,5 @@ Examples:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[evergreen notes]], [[note writing]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

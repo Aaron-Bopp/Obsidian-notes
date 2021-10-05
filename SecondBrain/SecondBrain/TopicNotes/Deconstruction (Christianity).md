@@ -12,7 +12,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[Christianity]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Deconstruction (Christianity)]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[My Deconstruction journey]] `=length([[My Deconstruction journey]].file.inlinks) + length([[My Deconstruction journey]].file.outlinks)`

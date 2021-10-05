@@ -17,7 +17,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[self]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[self-image]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[A mismatch between your self-image and the way others percieve you destroys self-image]]

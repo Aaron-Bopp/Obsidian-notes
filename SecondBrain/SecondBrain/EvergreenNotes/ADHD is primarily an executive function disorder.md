@@ -15,4 +15,5 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[ADHD]], [[executive function]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

@@ -17,5 +17,6 @@ You should never be forced to endure. [[Endurance]] is a choice you make to push
 *edited `=this.file.mtime`*
 
 **Topics**:: [[endurance]], [[injustice]], [[Marxism]], [[social justice]], [[Civil Rights]], [[liberation]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

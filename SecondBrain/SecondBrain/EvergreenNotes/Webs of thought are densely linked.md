@@ -15,4 +15,5 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[personal knowledge management]], [[evergreen notes]], [[My Second Brain]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

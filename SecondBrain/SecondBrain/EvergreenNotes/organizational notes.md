@@ -29,4 +29,5 @@ WHERE contains(note-type, "organizational-note")
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Make your inbox into an entry point]], [[personal knowledge management]], [[My Second Brain]], [[Zettlekassen]] 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

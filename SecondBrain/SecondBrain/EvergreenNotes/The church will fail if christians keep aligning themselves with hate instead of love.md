@@ -17,4 +17,5 @@ This is majorly due to [[The Politicization of the Christian Church]]
 *edited `=this.file.mtime`*
 
 **Topics**:: [[political strategy]], [[Christianity]], 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

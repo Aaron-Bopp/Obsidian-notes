@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md",
+            "file": "SecondBrain/TopicNotes/gender.md",
             "mode": "source"
           }
         }
@@ -46,7 +46,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md",
+                "file": "SecondBrain/TopicNotes/gender.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -63,7 +63,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md",
+                "file": "SecondBrain/TopicNotes/gender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md"
+                "file": "SecondBrain/TopicNotes/gender.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md",
+                "file": "SecondBrain/TopicNotes/gender.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-file:INDEX -file:aliases",
@@ -235,7 +235,7 @@
             "id": "871a193b79b5b248",
             "type": "leaf",
             "state": {
-              "type": "chat",
+              "type": "empty",
               "state": {}
             }
           },
@@ -264,15 +264,15 @@
   },
   "active": "18cdcecdf890d880",
   "lastOpenFiles": [
+    "SecondBrain/TopicNotes/gender.md",
+    "SecondBrain/INDEX.md",
+    "Templates/Templates/TOPICNOTE.md",
     "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md",
     "SecondBrain/TopicNotes/racism.md",
     "SecondBrain/ContentNotes/White Privilege write-up.md",
     "SecondBrain/Primary Sources/Cook & McCoy (2017) - Messages in Collusion.pdf",
     "SecondBrain/Primary Sources/Dovidio et al. (2017) - Aversive Racism and Contemporary Bias.pdf",
     "SecondBrain/Primary Sources/Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf",
-    "SecondBrain/Primary Sources/GeneologyofMorals.pdf",
-    "SecondBrain/Primary Sources/Primary Sources.md",
-    "SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md",
-    "SecondBrain/ContentNotes/ContentNotes.md"
+    "SecondBrain/Primary Sources/GeneologyofMorals.pdf"
   ]
 }

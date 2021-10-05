@@ -16,7 +16,7 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[mental health]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[yoga]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - ![[meditation#meditation customJS dv_funcs topicOutlineHeader dv this]]

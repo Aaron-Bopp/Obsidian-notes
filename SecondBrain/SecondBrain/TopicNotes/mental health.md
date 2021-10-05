@@ -22,7 +22,7 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Parents**:: [[INDEX]], [[Neuroscience]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
 ##### [[mental health]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

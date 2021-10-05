@@ -16,7 +16,7 @@ An evergreen note is one that is both easy to start and easy to add on to.
 *edited `=this.file.mtime`*
 
 **Parents**::
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[evergreen notes]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

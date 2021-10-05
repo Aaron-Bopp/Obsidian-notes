@@ -16,5 +16,6 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[mental health]], [[self-actualization]], [[early childhood development]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 `$=customJS.dv_funcs.outlinedIn(dv, this)`
 

@@ -18,7 +18,7 @@ date modified: Wednesday, September 29th 2021, 8:54:24 pm
 *edited `=this.file.mtime`*
 
 **Parents**:: [[mental health]], [[mental disorders]]
-`$=customJS.dv_funcs.outlinedIn(dv, this)`
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

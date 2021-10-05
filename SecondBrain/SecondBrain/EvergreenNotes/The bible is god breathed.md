@@ -20,4 +20,5 @@ It's a big part of the reason why I think [[The biblical christian God is evil a
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Evangelicalism]], [[Christianity]], [[religious trauma]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
