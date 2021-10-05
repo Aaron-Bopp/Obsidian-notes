@@ -1,4 +1,4 @@
-###   
+### 
 
 **Introduction to the Enneagram**
 
@@ -6,12 +6,12 @@ This explanation covers the basics that you will need to understand how the Enne
 
 ### **Index of Subjects**
 
-Your Basic Personality Type  
-The Centers  
-The Wing  
-The Levels of Development  
-Directions of Integration (Growth) and Disintegration (Stress)  
-The Three Instincts  
+Your Basic Personality Type 
+The Centers 
+The Wing 
+The Levels of Development 
+Directions of Integration (Growth) and Disintegration (Stress) 
+The Three Instincts 
 Typing Yourself and Others
 
 ### **Structure**
@@ -37,19 +37,19 @@ Thus, the overall orientation of our personality reflects the totality of all ch
 Several more points can be made about the basic type itself.
 
 1.  People do not change from one basic personality type to another.
-    
-2.  The descriptions of the personality types are universal and apply equally to males and females, since no type is inherently masculine or feminine.
-    
-3.  Not everything in the description of your basic type will apply to you all the time because you fluctuate constantly among the healthy, average, and unhealthy traits that make up your personality type.
-    
-4.  The Enneagram uses numbers to designate each of the types because numbers are value neutral— they imply the whole range of attitudes and behaviors of each type without specifying anything either positive or negative. Unlike the labels used in psychiatry, numbers provide an unbiased, shorthand way of indicating a lot about a person without being pejorative.
-    
-5.  The numerical ranking of the types is not significant. A larger number is no better than a smaller number; it is not better to be a Nine than a Two because nine is a bigger number.
-    
-6.  No type is inherently better or worse than any other. While all the personality types have unique assets and liabilities, some types may be considered to be more desirable than others in any given culture or group. Furthermore, for one reason or another, you may not be happy being a particular type. As you learn more about all the types, however, you will see that just as each has unique assets, each has unique liabilities. The ideal is to become your best [[self]], not to imitate the assets of another type.
-    
 
-###   
+2.  The descriptions of the personality types are universal and apply equally to males and females, since no type is inherently masculine or feminine.
+
+3.  Not everything in the description of your basic type will apply to you all the time because you fluctuate constantly among the healthy, average, and unhealthy traits that make up your personality type.
+
+4.  The Enneagram uses numbers to designate each of the types because numbers are value neutral— they imply the whole range of attitudes and behaviors of each type without specifying anything either positive or negative. Unlike the labels used in psychiatry, numbers provide an unbiased, shorthand way of indicating a lot about a person without being pejorative.
+
+5.  The numerical ranking of the types is not significant. A larger number is no better than a smaller number; it is not better to be a Nine than a Two because nine is a bigger number.
+
+6.  No type is inherently better or worse than any other. While all the personality types have unique assets and liabilities, some types may be considered to be more desirable than others in any given culture or group. Furthermore, for one reason or another, you may not be happy being a particular type. As you learn more about all the types, however, you will see that just as each has unique assets, each has unique liabilities. The ideal is to become your best [[self]], not to imitate the assets of another type.
+
+
+### 
 
 **Identifying Your Basic Personality Type**
 
@@ -144,29 +144,29 @@ The continuum is comprised of nine internal Levels of Development—briefly, the
 **Healthy**
 
 -   Level 1: The Level of [[Liberation]]
-    
+
 -   Level 2: The Level of Psychological Capacity
-    
+
 -   Level 3: The Level of Social Value
-    
+
 
 **Average**
 
 -   Level 4: The Level of Imbalance/ Social Role
-    
+
 -   Level 5: The Level of Interpersonal Control
-    
+
 -   Level 6: The Level of Overcompensation
-    
+
 
 **Unhealthy**
 
 -   Level 7: The Level of Violation
-    
+
 -   Level 8: The Level of Obsession and Compulsion
-    
+
 -   Level 9: The Level of Pathological Destructiveness
-    
+
 
 At each Level, significant psychological shifts occur as is indicated by the title we have given to it. For example, at Level 5, the Level of Interpersonal Control, the person is trying to manipulate himself and others to get his or her psychological needs met. This invariably creates interpersonal conflicts. By this Level, the person has also fully identified with the ego and does not see himself as anything more than that: the ego must therefore be increasingly defended and inflated for the person to feel safe and to keep their identity intact. If this activity does not satisfy the person, and [[anxiety]] increases, he or she may deteriorate to the next state, Level 6, the Level of Overcompensation, where their behavior will become more intrusive and aggressive as they continue to purse their ego-agenda. [[Anxiety]] is increasing, and the person is increasingly disruptive, and focused on getting his needs met, regardless of the impact on people around them.
 
@@ -204,12 +204,12 @@ It is not necessary to have separate Enneagrams for the Direction of Integration
 
 ![](https://images.squarespace-cdn.com/content/v1/585179fe1b631b51e1837bac/1481830806145-YXCOM6PGWP9BGAJ5UTMQ/image-asset.gif?format=300w)
 
-**The Direction of Integration (Growth)**  
-1-7-5-8-2-4-1  
+**The Direction of Integration (Growth)** 
+1-7-5-8-2-4-1 
 9-3-6-9
 
-**The Direction of Disintegration (Stress)**  
-1-4-2-8-5-7-1  
+**The Direction of Disintegration (Stress)** 
+1-4-2-8-5-7-1 
 9-6-3-9
 
 No matter which personality type you are, the types in _both_ your Direction of Integration or Growth and your Direction of Disintegration or Stress are important influences. To obtain a complete picture of yourself (or of someone else), you must take into consideration the basic type and wing as well as the two types in the Directions of Integration and Disintegration. The factors represented by those _four_ types blend into your total personality and provide the framework for understanding the influences operating in you. For example, no one is simply a personality type Two. A Two has either a One-wing or a Three-wing, and the Two’s Direction of Disintegration (Eight) and its Direction of Integration (Four) also play important parts in his or her overall personality.

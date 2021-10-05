@@ -9,7 +9,7 @@ source: https://twitter.com/fluffy_folio/status/1442843735008624654
 ---
 ##### Highlights From twitter.com
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Highlights From twitter.com](https://twitter.com/fluffy_folio/status/1442843735008624654)
 

@@ -9,7 +9,7 @@ aliases:
 - anti-vaxxers
 - anti-vaxxer
 ---
- 
+
 #### [[anti-vax]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

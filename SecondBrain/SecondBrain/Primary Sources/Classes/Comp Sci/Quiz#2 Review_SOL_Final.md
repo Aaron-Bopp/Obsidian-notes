@@ -141,11 +141,11 @@ Memory
   -----------------------------------------------------------------------
   0x12400          1A           2B            3C            4D
   ---------------- ------------ ------------- ------------- -------------
-  0x12404                                                   
+  0x12404 
 
-  0x12408                                                   
+  0x12408 
 
-  0x1241C                                                   
+  0x1241C 
   -----------------------------------------------------------------------
 
 11. Assuming y is stored as shown below. Show the contents of registers after execution of STR. Let y is stored at memory location 0x12400 and initialed to 0xAABBCCDD. Assuming big endian.

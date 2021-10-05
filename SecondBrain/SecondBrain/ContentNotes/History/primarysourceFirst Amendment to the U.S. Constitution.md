@@ -11,7 +11,7 @@ bib:
 
 ###### [[First Amendment to the U.S. Constitution]]
 
-**Topics**::  
+**Topics**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
 

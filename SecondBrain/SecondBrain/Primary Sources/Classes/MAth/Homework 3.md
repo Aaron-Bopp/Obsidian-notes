@@ -2,7 +2,7 @@ Homework 3.
 
 1.  Graph the data for class ratings.
 
-2.  
+2. 
 
 3.  Compute the numerical summary and give a brief interpretation in context of ii)-vi):
 

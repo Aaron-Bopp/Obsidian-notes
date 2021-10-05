@@ -11,7 +11,7 @@ bib:
 
 ###### [[lecture_Behavioral Evolution]]
 
-**Topics**::  
+**Topics**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
 

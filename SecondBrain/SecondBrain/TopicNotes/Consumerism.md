@@ -6,7 +6,7 @@ note-type:
 aliases:
 - Consumer Culture
 ---
- 
+
 #### [[Consumerism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

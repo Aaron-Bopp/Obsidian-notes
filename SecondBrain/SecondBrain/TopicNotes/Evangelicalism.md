@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[Evangelicalism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

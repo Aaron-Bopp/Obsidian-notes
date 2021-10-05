@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[human advancement]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 - 
 

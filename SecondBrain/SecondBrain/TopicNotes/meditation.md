@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[meditation]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 - Catch the moment between inhalation and exhalation [^1]

@@ -11,7 +11,7 @@ bib:
 
 ###### [[Ronald Reagans Inaugural Address 1981]]
 
-**Topics**::  
+**Topics**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
 
@@ -32,7 +32,7 @@ The Avalon Project : First Inaugural Address of [[Reagan|Ronald Reagan]]
 ---
 First Inaugural Address of [[Reagan|Ronald Reagan]]
 
-  
+
 
 ##### TUESDAY, JANUARY 20, 1981
 
@@ -124,7 +124,7 @@ And, after all, why shouldn't we believe that? We are [[America|Americans]]. God
 ---
 First Inaugural Address of [[Reagan|Ronald Reagan]]
 
-  
+
 
 ##### TUESDAY, JANUARY 20, 1981
 

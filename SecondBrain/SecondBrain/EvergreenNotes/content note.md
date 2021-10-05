@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[content note]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 A content note is made up of notes taken while consuming some form of content such as a book, article, video, or podcast. A content note does not contain thoughts or ideas based on the content, just and organization of interesting moments and thoughts within the content.

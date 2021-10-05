@@ -20,7 +20,7 @@ Ex#1: 8 points **Get familiar with JFLAP**
 
     a.  aa\*ba\*ba\* + a\*baa\*ba\* + a\*ba\*baa\*
 
-    b.  
+    b. 
 
 > ![](media/image2.png){width="4.4375in" height="2.6458333333333335in"}
 

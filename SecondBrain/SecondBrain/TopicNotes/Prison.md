@@ -6,7 +6,7 @@ note-type:
 aliases:
 - prisons
 ---
- 
+
 #### [[Prison]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 This topic serves as a bride between [[Prison abolition]] and the [[prison-industrial complex]].

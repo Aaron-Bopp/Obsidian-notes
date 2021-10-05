@@ -12,8 +12,8 @@ This is a bit part of [[My relationship with my parents]]. From an early age, [[
 This really impacted my [[social anxiety]] because [[Your anxiety knows your insecurities better than you do]].
 
 ---
-**Status**:: #EVER/SEED/WATER  
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[My Deconstruction journey]], [[my emotions]], [[my gender]] 
-	
+

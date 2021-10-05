@@ -19,5 +19,5 @@ With enough practice, you'll be able to tell if your [[self]]-talk is coming fro
 
 **Topics**:: 
 
-	
+
 ::

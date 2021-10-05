@@ -14,10 +14,10 @@ Unfortunately, one way of dealing with emotion is avoidance, and [[Avoidance IS 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER   
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[my emotions]], [[trauma]], [[my parents]]
-	
-	
+
+
 :: [[Samskara]]

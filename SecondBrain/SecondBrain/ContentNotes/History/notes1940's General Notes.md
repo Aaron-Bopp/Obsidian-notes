@@ -114,8 +114,8 @@ bib:
 
 ---
 
-**Topics**::   
-	
+**Topics**:: 
+
 **Outline**::
 
 --- 

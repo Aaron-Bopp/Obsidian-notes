@@ -36,7 +36,7 @@ bib:
         - Spent 500 million on public works projects 
         - Reconstruction Finance Corporation (RFC) lent money to banks and companies that were short on cash
         - Despite this he prioritized the budget and did not want to give help to individuals 
-        -  
+        - 
     - [[FDR]]
         - [[FDR]] won the Election with no real plans but with promises of Relief programs, repealing prohibition, and a charming and upbeat demeanor
         - Worked on the New Deal
@@ -60,8 +60,8 @@ bib:
 
 ---
 
-**Topics**::   
-	
+**Topics**:: 
+
 **Outline**::
 
 --- 

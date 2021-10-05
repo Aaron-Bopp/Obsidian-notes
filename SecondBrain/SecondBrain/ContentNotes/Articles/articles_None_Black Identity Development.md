@@ -9,7 +9,7 @@ source:
 ---
 ##### Black Identity Development
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: 
 

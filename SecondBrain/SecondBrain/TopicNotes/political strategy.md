@@ -6,10 +6,10 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[political strategy]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
- 
+
 
 **Definition**::
 

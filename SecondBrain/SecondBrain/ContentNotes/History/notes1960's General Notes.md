@@ -551,8 +551,8 @@ bib:
 
 ---
 
-**Topics**::   
-	
+**Topics**:: 
+
 **Outline**::
 
 --- 

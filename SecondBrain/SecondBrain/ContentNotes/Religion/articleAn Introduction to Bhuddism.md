@@ -96,5 +96,5 @@ The realm of man also offers one other aspect lacking in the other five planes, 
 [[Karma]] plays out in the Buddhism cycle of rebirth. There are six separate planes into which any living being can be reborn -- three fortunate realms, and three unfortunate realms. Those with favorable, positive [[karma]] are reborn into one of the fortunate realms: the realm of demigods, the realm of gods, and the realm of men. While the demigods and gods enjoy gratification unknown to men, they also suffer unceasing jealousy and [[envy]]. The realm of man is considered the highest realm of rebirth. Humanity lacks some of the extravagances of the demigods and gods, but is also free from their relentless conflict. Similarly, while inhabitants of the three unfortunate realms -- of animals, ghosts and hell -- suffer untold [[suffering]], the [[suffering]] of the realm of man is far less.
 
  [^5]:   The realm of man also offers one other aspect lacking in the other five planes, an opportunity to achieve [[enlightenment]], or Nirvana. Given the sheer number of living things, to be born human is to Buddhists a precious chance at spiritual bliss, a rarity that one should not forsake.
-	
+
 

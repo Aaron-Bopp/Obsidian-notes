@@ -16,5 +16,3 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[christianity]], [[modern american culture]], [[social progress]], [[Civil Rights]], [[Homophobia]], [[racism]], [[American Conservatism]]
-	
-	

@@ -9,7 +9,7 @@ source: https://enneagraminstitute.com/type-9
 ---
 ##### Type Nine — The Enneagram Institute
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Type Nine — The Enneagram Institute](https://enneagraminstitute.com/type-9)
 

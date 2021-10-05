@@ -6,7 +6,7 @@ note-type:
 aliases:
 - kharma
 ---
- 
+
 #### [[karma]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 [[conscious|consciousness]]
 

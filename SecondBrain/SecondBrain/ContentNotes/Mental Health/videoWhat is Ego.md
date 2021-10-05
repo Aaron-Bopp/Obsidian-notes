@@ -58,6 +58,6 @@ https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8
 
 ---
 
-**Topics**::   
-	
+**Topics**:: 
+
 **Outline**::

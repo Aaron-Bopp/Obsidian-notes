@@ -9,7 +9,7 @@ source: https://psychologia.co/8w9
 ---
 ##### Enneagram 8w9: The Eight With a Nine-Wing | Psychologia
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Enneagram 8w9: The Eight With a Nine-Wing | Psychologia](https://psychologia.co/8w9)
 

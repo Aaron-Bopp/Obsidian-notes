@@ -9,7 +9,7 @@ source: https://threetrackmind.wordpress.com/2021/03/04/semantic-battleground-th
 ---
 ##### Semantic Battleground: The War of Neurodiversity
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Semantic Battleground: The War of Neurodiversity](https://threetrackmind.wordpress.com/2021/03/04/semantic-battleground-the-war-of-neurodiversity/)
 

@@ -10,7 +10,7 @@ aliases:
 - samadhi
 - Moksha
 ---
- 
+
 #### [[enlightenment]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 enlightenment, [[liberation]], [[Self]]-Realization, God-Realization, nirvikalpa samadhi and finally Moksha
 

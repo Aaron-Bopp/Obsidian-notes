@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[neurodivergency]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Definition**::

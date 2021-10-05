@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[21st Century America]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 - [[America]]'s changing population
     - Ethnic makeup of [[America]] is majorly shifting

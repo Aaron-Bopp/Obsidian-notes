@@ -15,4 +15,3 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[religious trauma]], [[religion]], [[Evangelicalism]], [[Christianity]]
-	

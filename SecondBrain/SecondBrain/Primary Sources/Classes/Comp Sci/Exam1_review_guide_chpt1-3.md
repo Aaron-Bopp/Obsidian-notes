@@ -42,7 +42,7 @@
 
 -   Protocol
 
-    -   
+    - 
 
 -   Client
 
@@ -134,7 +134,7 @@
 
 -   IP Spoofing -- send packet with false source address
 
--   
+- 
 
 > **Chapter 2**
 

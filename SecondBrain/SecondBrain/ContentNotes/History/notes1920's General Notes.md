@@ -30,8 +30,8 @@ bib:
 
 ---
 
-**Topics**::   
-	
+**Topics**:: 
+
 **Outline**::
 
 --- 

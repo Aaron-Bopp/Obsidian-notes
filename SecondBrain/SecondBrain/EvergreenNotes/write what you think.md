@@ -15,4 +15,4 @@ Starting to write notes can be intimidating for many reasons, one of which being
 *edited `=this.file.mtime`*
 
 **Topics**:: [[My Second Brain]], [[Write your notes like you're planting an evergreen forest]], [[note writing]]
-	
+

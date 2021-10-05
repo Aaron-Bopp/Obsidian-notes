@@ -104,7 +104,7 @@ bib:
         - Disproportionately affected minority communities and lead to mass incarceration
 - Election of 1988
     - [[HW Bush]] was bipartisan vice-president of [[Reagan]]
-        - made a fortune in oil  
+        - made a fortune in oil 
     - growing fears of national [[debt]] but Bush offered no tax hikes
     - Dukakis had no notable features
 - [[1990's General Notes]]
@@ -114,8 +114,8 @@ bib:
 
 #INBOX/0
 
-**Topics**::   
-	
+**Topics**:: 
+
 **Outline**::
 
 --- 

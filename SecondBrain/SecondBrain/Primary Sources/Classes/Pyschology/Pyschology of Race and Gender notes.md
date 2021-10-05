@@ -92,7 +92,7 @@
 	- slavery (==?what can we do about slavery today?how does this effects the conversation about solutions?==)
 	- feedback loop
 - Hurricane Katrina = example of inequal treatment in healthcare
-# Week 5  
+# Week 5 
 
 1.  [[Ritchey (2014) - Black Identity Development.pdf]] 
 2.  [[Cook & McCoy (2017) - Messages in Collusion.pdf]] 
@@ -124,7 +124,7 @@
 		- only applicable to african-[[America|americans]]
 		- one-directional
 			- people shift from stage to stage back and forth
-### White identity			
+### White identity 
 - Abandonment of [[Racism]]
 	1. Contact
 		- Lack of awareness of race is importance in society
@@ -154,56 +154,61 @@
 		- rejects privilege
 		- comfort when interacting with POC
 
-# Week 6  
+# Week 6 
 
 1.  “[Intersectionality](https://www.nccj.org/intersectionality),” web article from _NCCJ_.
 2.  [[Robbins & McGowan (2016) - Intersectional Perspectives on Gender.pdf]] 
 3.  [[McCormick-Huhn et al. (2019) - What If Psychology Took Intersectionality Seriously.pdf]] 
 
-# Week 7  
+# Week 7 
 
 1.  Chapter 2: Theoretical Perspectives on [[Gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
 
-# Week 8  
+# Week 8 
+- [[textbook_Hyde&Elsequest_pyschology of women and gender]]
+	1.  Chapter 2: Theoretical Perspectives on [[Gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
+	2.  Chapter 7: Lifespan Development, pp. 151-179. Access through your Else-Quest & Hyde (2018) textbook.
 
-1.  Chapter 2: Theoretical Perspectives on [[Gender]], pp. 33-50. Access through your Else-Quest & Hyde (2018) textbook.
-2.  Chapter 7: Lifespan Development, pp. 151-179. Access through your Else-Quest & Hyde (2018) textbook.
-
-# Week 9  
+## Gender schema theory
+- **Schema** - a way to organize the world around us by filtering information through frameworks
+	- Affects memory recall
+	- things that do not fit into a schema are ignored or misremembered
+- 
+# Week 9 
 
 1.  Chapter 3: [[Gender]] Stereotypes and [[Gender]] Differences, pp. 61-81. Access through your Else-Quest & Hyde (2018) textbook.
 2.  Chapter 10: Biology and [[Gender]], pp. 223-240. Access through your Else-Quest & Hyde (2018) textbook.
 
-# Week 10  
+# Week 10 
 
 1.  “[Frequently Asked Questions about [[Transgender]] People](https://transequality.org/issues/resources/frequently-asked-questions-about-[[transgender]]-people),” web article from _National Center for [[Transgender]] Equality_.
 2.  [[Russell et al. (2018) - Chosen Name Use.pdf]] 
 3.  [[Sansfacon et al. (2020) - I Knew That I Wasn't Cis.pdf]] 
 
-# Week 11  
+# Week 11 
 
 1.  [[Olson et al. (2016) - Mental Health of Transgender Children.pdf]] 
 
-# Week 12  
+# Week 12 
 
 1.  [[Dovidio et al. (2017) - Aversive Racism and Contemporary Bias.pdf]] 
 2.  [[Correll et al. (2014) - The Police Officer's Dilemma.pdf]] 
 
-# Week 13  
+# Week 13 
 
 1.  “[Sexism Isn’t Just Unfair; It Makes [[Women]] Sick, Study Suggests](https://theconversation.com/sexism-isnt-just-unfair-it-makes-[[women]]-sick-study-suggests-95689),” web article from _The Conversation._
 2.  “[Sexism May Be Harmful to Men’s Mental Health](https://www.apa.org/news/press/releases/2016/11/sexism-harmful),” web article from _American Psychological Association_.
 3.  [[Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
 
-# Week 14  
+# Week 14 
 
 1.  Chapter 4, Focus 4.1: Racial Microaggressions, pp. 90-91. Access through your Else-Quest & Hyde (2018) textbook.
 2.  Chapter 9: [[Gender]] and Work, pp. 210-216. Access through your Else-Quest & Hyde (2018) textbook.
 3.  Chapter 14: [[Gender]] and Victimization, pp. 311-336. Access through your Else-Quest & Hyde (2018) textbook.
 
 # Week 15
-No assigned readings.  
-  
+No assigned readings. 
+
 # Week 16
 
 1.  [[Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact.pdf]] 

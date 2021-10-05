@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[Pyschology]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

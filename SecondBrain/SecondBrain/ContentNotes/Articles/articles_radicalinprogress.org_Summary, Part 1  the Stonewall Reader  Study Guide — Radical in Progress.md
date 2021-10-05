@@ -9,7 +9,7 @@ source: https://www.radicalinprogress.org/nypl-2019-1
 ---
 ##### Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress](https://www.radicalinprogress.org/nypl-2019-1)
 

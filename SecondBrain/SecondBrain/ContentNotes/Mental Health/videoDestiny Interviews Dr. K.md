@@ -23,8 +23,8 @@ bib:
 
 ---
 
-**Topics**::   
-	
+**Topics**:: 
+
 **Outline**::
 
 --- 

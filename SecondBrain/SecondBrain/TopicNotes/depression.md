@@ -6,13 +6,9 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[depression]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
- - Sometimes caused by
-	- [[gender dysphoria]]
-- [[Sadness is enlightenment and happiness is delusion]]
-- [[To be happy you need to not be sad]]
 
 **Definition**::
 
@@ -23,7 +19,10 @@ aliases:
 `$=customJS.dv_funcs.outlinedIn(dv, this)`
 
 ##### [[depression]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-`=this.embedded`
+ - Sometimes caused by
+	- [[gender dysphoria]]
+- [[Sadness is enlightenment and happiness is delusion]]
+- [[To be happy you need to not be sad]]
 
 ### <hr class="dataviews"/>
 

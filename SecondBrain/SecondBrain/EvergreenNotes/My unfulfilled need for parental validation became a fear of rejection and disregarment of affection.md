@@ -21,5 +21,4 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[emotional validation]], [[emotional invalidation]], [[trauma]]
-	
-	
+

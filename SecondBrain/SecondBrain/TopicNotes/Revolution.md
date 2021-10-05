@@ -6,7 +6,7 @@ note-type:
 aliases:
 - revolt
 ---
- 
+
 #### [[Revolution]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

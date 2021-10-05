@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[eastern philosophy]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

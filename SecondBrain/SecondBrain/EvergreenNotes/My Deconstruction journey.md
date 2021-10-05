@@ -18,7 +18,7 @@ It took me two years of complete separation from the church and [[my parents]] o
 One of my most major issues with the church is that [[Non-faith issues have been co-opted to keep people in the christian church]]. This is part of the reason why I believe [[You can leave the church and still believe in the christian god]], and why [[My worldview is not about conversion it is about acceptance]]. But I think it is also very important to note [[The church will fail if christians keep aligning themselves with hate instead of love]].
 
 One thing I have found interesting since deconstructing is examining how [[The materialistic view of religions examines why humans invented and clung to religion]].
- 
+
 Despite all that I still think [[Faith can be a useful tool for grounding yourself]] I had multiple existential crises' after leaving the church because I had no [[worldview]] and had no [[purpose]]. #TO/DO/CONCEPTUALIZE a lack of [[worldview]] is similar to a lack of [[self]]
 
 
@@ -29,7 +29,7 @@ Despite all that I still think [[Faith can be a useful tool for grounding yourse
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[belief systems]], [[worldview]], [[faith]], [[self-love]], [[self-hate]], [[Evangelicalism]]
-	
-	
+
+
 
 

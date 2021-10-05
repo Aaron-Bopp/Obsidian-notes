@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[self-actualization]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 ---
 

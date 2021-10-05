@@ -16,4 +16,4 @@ Many rights that now exist were denied to [[women]], [[black people]], and [[ind
 *edited `=this.file.mtime`*
 
 **Topics**:: [[America]], [[racism]], [[Politics]], [[Revolution]]
-	
+

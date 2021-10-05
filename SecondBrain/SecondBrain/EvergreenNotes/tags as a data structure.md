@@ -22,8 +22,7 @@ Examples
 
 ---
 
-**Status**:: #EVER/SPROUT  
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Obsidian (software)]]
-	

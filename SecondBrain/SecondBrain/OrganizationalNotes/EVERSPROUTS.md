@@ -57,7 +57,7 @@ function lastEdited (page) {
 		return "Today"
 	} 
 	return `${days} days ago`
-	
+
 }
 function table(tag) {
 	dv.table([tag, "I/O", "Last Edited", "Created"], 

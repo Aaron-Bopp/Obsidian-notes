@@ -47,8 +47,8 @@ I don't know if I'm right. Maybe I'm delusional. But I have to understand why I 
 
 
 
-**Topics**::   
-	
+**Topics**:: 
+
 **Outline**::
 
 --- 

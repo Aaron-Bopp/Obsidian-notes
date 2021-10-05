@@ -9,7 +9,7 @@ source: https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundat
 ---
 ##### Historical Foundations of Race
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Historical Foundations of Race](https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race)
 

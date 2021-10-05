@@ -7,7 +7,7 @@ aliases:
 - consciousness
 - consciously
 ---
- 
+
 #### [[conscious]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 consciousness
 

@@ -9,7 +9,7 @@ source: https://crystalknows.com/enneagram/type-8/wing-9
 ---
 ##### Enneagram Type 8w9 - The Diplomat
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Enneagram Type 8w9 - The Diplomat](https://crystalknows.com/enneagram/type-8/wing-9)
 

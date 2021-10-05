@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[Civil Rights]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

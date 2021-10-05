@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[social justice]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

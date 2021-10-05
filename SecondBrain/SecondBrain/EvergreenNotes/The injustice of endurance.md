@@ -13,10 +13,9 @@ In a world where there are enough resources to provide for everyone, it is unjus
 You should never be forced to endure. [[Endurance]] is a choice you make to push through, not something that can be forced upon you.
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER  
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[endurance]], [[injustice]], [[Marxism]], [[social justice]], [[Civil Rights]], [[liberation]]
 
-	
-	
+

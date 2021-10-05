@@ -18,11 +18,11 @@ Sol CMP R1, #5
 
 > BGE        else                 if BLT is used Check the statement sequences
 >
-> ADD R1, R1, #1        
+> ADD R1, R1, #1 
 >
-> B       continue          
+> B       continue 
 
-     else                 MOV  R1 #2                                          
+     else                 MOV  R1 #2 
 
          continue           \.....                                    OR continue bx  lr is acceptable
 
@@ -42,19 +42,19 @@ R0= R0 - 1;
 
 Sol :
 
-> MOV    R0, #10              
+> MOV    R0, #10 
 
-                                MOV    R1, #5               
+                                MOV    R1, #5 
 
-LOOP                     CMP     R0, #0              
+LOOP                     CMP     R0, #0 
 
-                               BLE       Continue          
+                               BLE       Continue 
 
-                              MUL     R1, R1, R0         
+                              MUL     R1, R1, R0 
 
-                               SUB      R0, R0, #1        
+                               SUB      R0, R0, #1 
 
-                              B           LOOP                 
+                              B           LOOP 
 
 Continue  \...\...                                              or continue  bx lr
 

@@ -7,7 +7,7 @@ aliases:
 - mental illness
 parent: [[mental health]]
 ---
- 
+
 #### [[mental disorders]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Definition**::

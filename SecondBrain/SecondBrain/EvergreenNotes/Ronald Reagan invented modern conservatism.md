@@ -16,7 +16,7 @@ Much of this belief is based on the incorrect assumption that [[Reagan]] said so
 [^2]: ([[Ronald Reagans Inaugural Address 1981]], para 9)
 
  In opposition to these small-[[government]] beliefs, [[Reagan]] pushed for large [[government]] in many other ways. [[Reagan]] aligned the American [[government]] with religious and moral superiority and his enemy (the [[Russia|USSR]]) with secularism and moral inferiority. He used this logic to justify his opposition of the nuclear freeze which aimed to help end [[the Cold War]]. [^3] Some historians point to this and his increase in military spending as reasons for the [[Russia|USSR]]'s collapse, while others cite Eastern European nations and internal issues as factors. [^4]
- 
+
 [^3]: ([[Ronald Reagan Evil Empire Speech]]) 
 [^4]: ([[Reagans Impact and Legacy]]) 
 
@@ -25,7 +25,7 @@ Much of this belief is based on the incorrect assumption that [[Reagan]] said so
 He also used this moral superiority to justify [[government]] interference in woman's right to choose. ([[Ronald Reagan Evil Empire Speech]])
 
 [[Republican voters do not hold their leaders accountable]]
- 
+
  Modern republicans have followed this to a tee, but one way they have superseded him is that [[Republicans have become a true opposition party]].
 
 ### <hr class="footnote"/>
@@ -34,5 +34,4 @@ He also used this moral superiority to justify [[government]] interference in wo
 *edited `=this.file.mtime`*
 
 **Topics**:: 
-	
-	
+

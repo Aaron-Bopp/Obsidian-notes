@@ -26,8 +26,8 @@ SORT Status
 
 ---
 
-**Status**:: #EVER/SEED    
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: 
-	
+

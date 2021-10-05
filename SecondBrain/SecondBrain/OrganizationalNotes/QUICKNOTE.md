@@ -29,7 +29,7 @@ https://docs.github.com/en/github/copilot/research-recitation#github-copilot-par
 
 [[2022-06-16]] 10:30
 [[Your anxiety knows your insecurities better than you do]]: #TO/EXPLORE/RESEARCH 
-- Hierarchy of needs 	
+- Hierarchy of needs 
 	- If you are in a bad situation you can't advance past that state but you don't lose those higher needs 
 - arbitrage
 

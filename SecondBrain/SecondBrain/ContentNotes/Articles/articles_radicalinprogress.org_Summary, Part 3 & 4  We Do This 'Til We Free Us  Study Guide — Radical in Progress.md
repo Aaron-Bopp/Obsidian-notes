@@ -9,7 +9,7 @@ source: https://radicalinprogress.org/kaba-2021-3
 ---
 ##### Summary, Part 3 & 4 | We Do This 'Til We Free Us | Study Guide — Radical in Progress
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Summary, Part 3 & 4 | We Do This 'Til We Free Us | Study Guide — Radical in Progress](https://radicalinprogress.org/kaba-2021-3)
 

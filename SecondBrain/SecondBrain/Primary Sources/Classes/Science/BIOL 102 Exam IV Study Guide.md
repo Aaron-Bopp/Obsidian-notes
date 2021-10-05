@@ -154,7 +154,7 @@ Concepts:
 
 -   How does alternation of generations work for seedless vascular plants? How is it different from bryophytes?
 
-    -   
+    - 
 
 -   What selective pressures lead to the development of vascular tissue?
 
@@ -162,7 +162,7 @@ Concepts:
 
 -   What are some ecological roles and economical uses of seedless vascular plants?
 
-    -   
+    - 
 
 -   How does alternation of generations work for gymnosperms? How does it differ from seedless vascular plants? Bryophytes?
 
@@ -174,7 +174,7 @@ Concepts:
 
 -   How are most gymnosperms pollinated? Are they all pollinated in the same way?
 
-    -   
+    - 
 
 -   Why are gymnosperms important to humans?
 

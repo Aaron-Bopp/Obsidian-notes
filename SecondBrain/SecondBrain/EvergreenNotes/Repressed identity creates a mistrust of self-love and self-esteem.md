@@ -10,10 +10,10 @@ note-type:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER  
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self]], [[self-love]], [[self-validation]], [[self-hate]], [[self care]]
-	
+
 
 ::

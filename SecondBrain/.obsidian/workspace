@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d2d828fd440d6b7f",
+        "id": "18cdcecdf890d880",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/ADHD.md",
-            "mode": "preview"
+            "file": "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md",
+            "mode": "source"
           }
         }
       }
@@ -31,7 +31,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"---\"",
+                "query": "tag:#EVER/SEED",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -46,7 +46,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/ADHD.md",
+                "file": "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -63,7 +63,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/ADHD.md",
+                "file": "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/TopicNotes/ADHD.md"
+                "file": "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md"
               }
             }
           },
@@ -118,11 +118,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 512
+    "width": 394.5
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -138,9 +138,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/ADHD.md",
+                "file": "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "-file:INDEX -file:aliases",
                   "localJumps": 3,
                   "localBacklinks": true,
@@ -221,12 +221,12 @@
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 0.849411764705882,
                   "collapse-forces": false,
-                  "centerStrength": 0.711764705882353,
-                  "repelStrength": 18.1176470588235,
-                  "linkStrength": 0.752941176470588,
+                  "centerStrength": 0.46,
+                  "repelStrength": 15.2235294117647,
+                  "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.16272647862920134,
-                  "close": true
+                  "scale": 0.15501726111226263,
+                  "close": false
                 }
               }
             }
@@ -246,26 +246,33 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "4ba9271f26a2c713",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 466,
-    "collapsed": true
+    "width": 321.5
   },
-  "active": "d2d828fd440d6b7f",
+  "active": "18cdcecdf890d880",
   "lastOpenFiles": [
-    "SecondBrain/TopicNotes/ADHD.md",
-    "Templates/Templates/TOPICNOTE.md",
-    "SecondBrain/TopicNotes/mental disorders.md",
-    "SecondBrain/TopicNotes/anxiety.md",
-    "SecondBrain/TopicNotes/resentment.md",
-    "SecondBrain/EvergreenNotes/1968 was a major setback for the American left.md",
-    "SecondBrain/EvergreenNotes/EvergreenNotes.md",
-    "SecondBrain/EvergreenNotes/Dual.md",
-    "SecondBrain/TopicNotes/second brain.md",
-    "SecondBrain/TopicNotes/evergreen notes.md"
+    "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md",
+    "SecondBrain/TopicNotes/racism.md",
+    "SecondBrain/ContentNotes/White Privilege write-up.md",
+    "SecondBrain/Primary Sources/Cook & McCoy (2017) - Messages in Collusion.pdf",
+    "SecondBrain/Primary Sources/Dovidio et al. (2017) - Aversive Racism and Contemporary Bias.pdf",
+    "SecondBrain/Primary Sources/Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf",
+    "SecondBrain/Primary Sources/GeneologyofMorals.pdf",
+    "SecondBrain/Primary Sources/Primary Sources.md",
+    "SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md",
+    "SecondBrain/ContentNotes/ContentNotes.md"
   ]
 }

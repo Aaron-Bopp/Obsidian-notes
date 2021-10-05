@@ -6,7 +6,7 @@ note-type:
 aliases:
 - Hindu
 ---
- 
+
 #### [[Hinduism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Status**:: #EVER/SEED

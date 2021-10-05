@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[yoga]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 - [[yoga]] is based off of the principle of doing something that forces your mind to be in the present.
 

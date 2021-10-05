@@ -29,7 +29,7 @@ snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, http
 	- [[dataview]] simplifies fields defined in line to lower-case-no-special-characters
 - functions
 	- `replace([string], replaced, inserted)`
-	
+
 
 ## handy functions 
 ![[DVJSFUNCS]]
@@ -80,10 +80,10 @@ for (const page of sortedPages(dv.pages(''), 8)) {
 }
 //dv.list(dv.pages('').flatMap((page) => {
 	//return sortedPages(dv.pages(page.file.outlinks), 0)
-	
+
 	//return [dv.header(1, page.file.name, dv.array(page.file.outlinks)]
 //}))
-	
+
 ```
 ### Get number notes with every note-type
 ```dataviewjs
@@ -129,7 +129,7 @@ function statusTable(folder, pages, includeStatus) {
 	}
 	if (pages.length > 0) {
 		dv.table(headers, pages
-			
+
 			.map(p => realValues(p)))
 	}
 }
@@ -149,5 +149,5 @@ if (topicPages.length + egPages.length + contentPages.length !== 0) {
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[SQL]], [[data querrying]],  
-	
+**Topics**:: [[SQL]], [[data querrying]], 
+

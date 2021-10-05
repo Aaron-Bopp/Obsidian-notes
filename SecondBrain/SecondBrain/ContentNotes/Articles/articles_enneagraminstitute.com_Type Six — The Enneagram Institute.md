@@ -9,7 +9,7 @@ source: https://www.enneagraminstitute.com/type-6
 ---
 ##### Type Six — The Enneagram Institute
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Type Six — The Enneagram Institute](https://www.enneagraminstitute.com/type-6)
 

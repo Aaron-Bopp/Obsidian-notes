@@ -17,5 +17,5 @@ Examples:: https://youtu.be/UUC8qF5iDag?t=6195
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[meditation]], ,[[mental health]], [[yoga]],   
-	
+**Topics**:: [[meditation]], ,[[mental health]], [[yoga]], 
+

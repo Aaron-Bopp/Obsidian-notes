@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[natural selection]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 		.where(p => p.file.outlinks.length <= 1)
 

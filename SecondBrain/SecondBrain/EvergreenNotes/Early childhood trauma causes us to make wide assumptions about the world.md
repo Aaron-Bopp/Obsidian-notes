@@ -13,8 +13,8 @@ Early [[childhood trauma]] can be the cause of many of many [[mental disorders]]
 
 ---
 
-**Status**:: #EVER/SEED/WATER  
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[early childhood development]], [[trauma]]
-	
+

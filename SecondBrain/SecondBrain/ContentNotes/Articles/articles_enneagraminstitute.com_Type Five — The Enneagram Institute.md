@@ -9,7 +9,7 @@ source: https://enneagraminstitute.com/type-5
 ---
 ##### Type Five — The Enneagram Institute
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Type Five — The Enneagram Institute](https://enneagraminstitute.com/type-5)
 

@@ -15,13 +15,13 @@ A zettle is a single idea or thought as defined by the creator of the [[Zettleka
  - emphasis on linkage
  - serendipity
  - develop over time
-	
+
 ---
 
-**Status**:: #EVER/SPROUT    
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Zettlekassen]], [[personal knowledge management]], [[second brain]]  
+**Topics**:: [[Zettlekassen]], [[personal knowledge management]], [[second brain]] 
 
 **Outline**::
 

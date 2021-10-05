@@ -13,8 +13,8 @@ If you can never be content that you are good enough, you are just looking for a
 
 ---
 
-**Status**:: #EVER/SEED/WATER    
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self-love]], [[self-hate]], [[self-improvement]], [[Sadness is enlightenment and happiness is delusion]]
-	
+

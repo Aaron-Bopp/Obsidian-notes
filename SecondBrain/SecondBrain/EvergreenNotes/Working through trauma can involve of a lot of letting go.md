@@ -12,8 +12,7 @@ note-type:
 
 ---
 
-**Status**:: #EVER/SEED/WATER  
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[human advancement]], [[]]
-	

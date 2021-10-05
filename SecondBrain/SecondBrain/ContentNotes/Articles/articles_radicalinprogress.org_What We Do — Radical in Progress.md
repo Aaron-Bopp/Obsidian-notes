@@ -9,7 +9,7 @@ source: https://radicalinprogress.org/about
 ---
 ##### What We Do — Radical in Progress
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [What We Do — Radical in Progress](https://radicalinprogress.org/about)
 

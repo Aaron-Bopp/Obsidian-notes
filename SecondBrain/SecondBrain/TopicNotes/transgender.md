@@ -6,7 +6,7 @@ note-type:
 aliases:
 - trans
 ---
- 
+
 #### [[transgender]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

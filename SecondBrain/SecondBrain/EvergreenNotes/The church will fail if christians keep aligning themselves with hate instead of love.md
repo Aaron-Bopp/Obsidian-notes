@@ -13,8 +13,8 @@ This is majorly due to [[The Politicization of the Christian Church]]
 
 ---
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[political strategy]], [[Christianity]],  
-	
+**Topics**:: [[political strategy]], [[Christianity]], 
+

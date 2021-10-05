@@ -7,13 +7,13 @@ aliases:
 - identity
 - self-concept
 ---
- 
+
 #### [[self]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
 **Definition**::
 
-**Status**:: #EVER/GREEN  
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Parents**:: 

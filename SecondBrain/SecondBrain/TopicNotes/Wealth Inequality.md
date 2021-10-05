@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[Wealth Inequality]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

@@ -14,7 +14,7 @@
 
 -   [[Evolution]]
 
--   
+- 
 
 ## Organic vs Inorganic Molecules
 
@@ -354,7 +354,7 @@
 
     -   Total ATP for anaerobic: **2ATP/glucose**.
 
--   
+- 
 
 ## Photosynthesis
 
@@ -474,7 +474,7 @@ Unit 2
 
     -   Histones -- proteins that facilitate chromosome packaging -- chromatin is wound around histone proteins
 
-    -   
+    - 
 
 -   Cell cycle consists of interphase (g1, s, g2) and m phase (mitosis and cytokinesis)
 

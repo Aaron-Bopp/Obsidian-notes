@@ -7,7 +7,7 @@ aliases:
 - PIC
 - prison industrial complex
 ---
- 
+
 #### [[prison-industrial complex]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

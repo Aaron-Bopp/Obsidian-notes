@@ -17,9 +17,9 @@ This [[philosophy]] is represented in [[my TO(DO) and EVER(GREEN) structure]]
 asdfasdf
 ###### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE   
+**Status**:: #EVER/GREEN/PRUNE 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Zettlekassen]], [[personal knowledge management]], [[second brain]] 
-	
-	
+
+

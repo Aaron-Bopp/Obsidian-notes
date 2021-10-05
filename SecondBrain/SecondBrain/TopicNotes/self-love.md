@@ -7,7 +7,7 @@ aliases:
 - self-care
 - self-validation
 ---
- 
+
 #### [[self-love]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 ---
 

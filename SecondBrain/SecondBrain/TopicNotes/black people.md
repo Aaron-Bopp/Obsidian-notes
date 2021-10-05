@@ -6,7 +6,7 @@ note-type:
 aliases:
 - african american
 ---
- 
+
 #### [[black people]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
  Unlike first amendment rights, 

@@ -39,25 +39,25 @@ Diagnosis of [[gender dysphoria]] in prepubescent children requires the child mu
 For an adult to be diagnosed with [[gender dysphoria]] by a licensed [[mental health]] professional they must meet two of these six criteria, and have experienced those criteria for longer than six months.
 
 -   [[No]] ==**A marked incongruence between one’s experienced/expressed [[gender]] and primary and/or secondary sex characteristics**==
-    
+
     The way the person sees the world and interacts with the world does not align with the way it is typically expected for someone of the [[gender]] they were assigned at birth. There are a very broad number of traits which fit into this description. It can be in the way they interact with others, how they talk, what hobbies they prefer, how they dress, their body language and mannerisms, what [[gender]](s) they relate to more.
-    
+
 -   [[Yes]] ==**A strong [[desire]] to be rid of one’s primary and/or secondary sex characteristics**==
-    
+
 -   [[Yes]] ==**A strong [[desire]] for the primary and/or secondary sex characteristics of another [[gender]]**==
-    
+
     These two are pretty well paired. This is physical dysphoria as previously defined. The person finds discomfort with aspects of their body which are a result of their sex at birth.
-    
+
 -   [[Yes]] ==**A strong [[desire]] to be of another [[gender]]**==
-    
+
 -   [[Yes]] ==**A strong [[desire]] to be treated as another [[gender]]**==
-    
+
     These are the social and societal dysphoria. They are how a person wants to interact with the world, and wants the world to interact with them.
-    
+
 -   [[Sometimes]] ==**A strong conviction that one has the typical feelings and reactions of another [[gender]]**==
-    
+
     This is pretty [[self]] explanatory.
-    
+
 
 As I said, only two of these conditions need be met for a formal diagnosis. You may notice that only two of these comprise the physical body. It is perfectly valid for a [[transgender|trans]] person to be experiencing [[Gender Dysphoria]] without actually hating any part of their body, or wanting to change any part of their body. Physical Dysphoria is only one fraction of the many ways that lead to being [[transgender|trans]].
 

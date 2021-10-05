@@ -12,8 +12,8 @@ Systems change.
 
 ---
 
-**Status**:: #EVER/SEED/WATER   
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[My Second Brain]], [[second brain]],  
-	
+**Topics**:: [[My Second Brain]], [[second brain]], 
+

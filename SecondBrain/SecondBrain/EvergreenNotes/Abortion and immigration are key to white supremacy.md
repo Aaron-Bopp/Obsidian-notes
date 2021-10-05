@@ -15,4 +15,4 @@ https://github.com/SlRvb/Obsidian--ITS-Theme
 *edited `=this.file.mtime`*
 
 **Topics**:: 
-	
+

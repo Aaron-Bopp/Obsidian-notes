@@ -48,9 +48,9 @@ All sexually dimorphic features which develop during and after puberty as a resu
 The genitals of a [[transgender]] person on hormone therapy do not behave remotely like their cisgender counterparts.
 
 -   The Estrogenic Penis softens, erections become less pronounced, the skin thins and begins to perspire like a vaginal wall. The scrotum softens and changes color, with the perineal raphe becoming more distinct. Due to the cessation of random erections, the erectile tissue will atrophy if not regularly put to use, causing the entire penis to shrink over time. Vibration becomes more effective for arousal.
-    
+
 -   The Androgenic Vagina becomes dryer & prone to tearing (lubrication can be an issue). The skin of the clitoris thickens, and the clitoral glans grows in length and girth due to the onset of random erections. Labia also become thicker, and often hairier. The onset of HRT often results in extreme sensitivity of the clitoris.
-    
+
 
 Primary characteristics can only be altered through surgical intervention. Some secondary sexual characteristics are also one-way trips and require medical intervention to undo, namely the growth of breast tissue and the deepening of the vocal chords. Estrogen does not make the voice more feminine, Testosterone does not make breasts shrink (aside from the loss of fat). Changes to skeletal structure (such as enlarging from testosterone and the widening of hips from estrogen) can only occur prior to the age of 25, while the body is still growing.
 

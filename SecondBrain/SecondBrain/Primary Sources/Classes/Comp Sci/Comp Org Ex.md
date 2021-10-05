@@ -53,15 +53,15 @@ add r0, r0, r1 \@0x24096
 bx lr \@0x2409A LR:0x21030 PC:0x21030
 
   -------------------------------------------------------------------------
-  Mov   IF    ID    EX    MEM   WB                                    
+  Mov   IF    ID    EX    MEM   WB 
   ----- ----- ----- ----- ----- ----- ------- ----- ----- ----- ----- -----
   Sub         IF    ID    EX    MEM   WB      IF    ID    EX    MEM   WB
 
-  b                 IF    ID    EX    stall   MEM   WB                
+  b                 IF    ID    EX    stall   MEM   WB 
 
-  Mov                     IF    ID                                    
+  Mov                     IF    ID 
 
-  Mov                           IF                                    
+  Mov                           IF 
 
         1     2     3     4     5     6       7     8     9     10    11
   -------------------------------------------------------------------------

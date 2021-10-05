@@ -73,7 +73,7 @@ bib:
 	- social role theory
 		- gender roles mainly come from social structure an d the gender labor division
 		- biological differences are reinforced by gender roles
-		
+
 
 # Lifespan development
 - **Temperament** (in [[early childhood development]]) => biologically based emotional and behavioral traits that appear early in life and predict later behaviors, personality, and pyschological problems.

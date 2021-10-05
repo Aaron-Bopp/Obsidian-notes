@@ -21,4 +21,4 @@ Even if you think that optimism is ignorant it does not change the fact that opt
 *edited `=this.file.mtime`*
 
 **Topics**:: [[pessimism]], [[realism]], [[optimism]], [[human advancement]], [[purpose]]
-	
+

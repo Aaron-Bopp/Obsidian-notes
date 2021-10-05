@@ -4,7 +4,7 @@
 
 *Terms To Know:*
 
--   
+- 
 
 -   Abstraction
 

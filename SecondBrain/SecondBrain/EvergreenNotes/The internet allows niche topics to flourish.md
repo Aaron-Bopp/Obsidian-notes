@@ -21,4 +21,4 @@ It has also allowed for a culture shift, where previously niche topics like [[Dn
 *edited `=this.file.mtime`*
 
 **Topics**:: [[internet]], [[mass media]], [[inter-personal communication]], [[human advancement]]
-	
+

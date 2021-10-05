@@ -22,5 +22,5 @@ A topic note can come to be in two ways:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[My Second Brain]], [[Zettlekassen]], [[personal knowledge management]]
-	
+
 

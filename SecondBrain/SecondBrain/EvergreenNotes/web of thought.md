@@ -9,8 +9,8 @@ note-type:
 
 ---
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]] 
-	
+

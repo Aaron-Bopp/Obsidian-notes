@@ -11,8 +11,8 @@ aliases:
 
 ---
 
-**Status**:: #EVER/SEED/WATER  
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[personal knowledge management]], [[evergreen notes]], [[My Second Brain]] 
-	
+

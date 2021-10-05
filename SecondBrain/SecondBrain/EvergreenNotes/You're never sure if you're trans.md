@@ -11,8 +11,8 @@ You're never sure you're [[transgender|trans]]. I heard that in a [[tiktok]] tod
 
 
 ---
-**Status**:: #EVER/SEED/WATER  
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[self-actualization]], [[self-love]], [[self-hate]], [[my emotions]]
-	
+

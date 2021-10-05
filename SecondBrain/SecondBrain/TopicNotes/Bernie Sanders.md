@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[Bernie Sanders]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

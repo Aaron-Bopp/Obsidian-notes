@@ -20,4 +20,4 @@ One major example of this is [[Creating Thought with a Second Brain]].
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[note writing]] 
-	
+

@@ -6,7 +6,7 @@ note-type:
 aliases:
 - marxist
 ---
- 
+
 #### [[Marxism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

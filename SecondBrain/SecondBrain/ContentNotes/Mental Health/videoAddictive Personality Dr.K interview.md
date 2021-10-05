@@ -18,8 +18,8 @@ bib:
 
 #INBOX/0
 
-**Topics**::   
-	
+**Topics**:: 
+
 **Outline**::
 
 --- 
@@ -48,8 +48,8 @@ bib:
 
 #INBOX/0
 
-**Topics**::   
-	
+**Topics**:: 
+
 **Outline**::
 
 --- 

@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[Rise of Modern Conservatism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
  https://github.com/SlRvb/Obsidian--ITS-Theme

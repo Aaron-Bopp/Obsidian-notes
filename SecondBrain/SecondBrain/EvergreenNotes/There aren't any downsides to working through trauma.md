@@ -16,8 +16,7 @@ Because of the fact that working through [[trauma]] will not fundamentally chang
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN   
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[my emotions]], [[depression]], [[trauma]], [[mental health]], [[mental disorders]]
-	

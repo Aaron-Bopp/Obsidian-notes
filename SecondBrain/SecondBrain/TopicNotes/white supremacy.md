@@ -7,7 +7,7 @@ aliases:
 - Cultural fundamentalism
 - cultural homogeneity
 ---
- 
+
 #### [[white supremacy]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

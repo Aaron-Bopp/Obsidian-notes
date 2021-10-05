@@ -9,7 +9,7 @@ source: https://www.enneagraminstitute.com/type-4
 ---
 ##### Type Four
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Type Four](https://www.enneagraminstitute.com/type-4)
 

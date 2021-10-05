@@ -14,10 +14,10 @@ Studies have found that [[Wealth Inequality]] makes people generally unhappy and
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER  
+**Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Marxism]], [[Capitalism]], [[Communism]], [[Happiness]], [[social justice]]
-	
-	
+
+
 [^1]: https://news.virginia.edu/content/income-inequality-increases-unhappiness-study-shows

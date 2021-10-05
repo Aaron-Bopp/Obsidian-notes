@@ -19,6 +19,6 @@ This is really more saying if a rule is stupid you are justified in breaking it.
 
 **Topics**:: [[social justice]], [[fairness]]
 
-	
+
 
 

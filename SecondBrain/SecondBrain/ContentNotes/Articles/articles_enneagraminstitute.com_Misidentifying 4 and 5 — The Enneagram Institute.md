@@ -9,7 +9,7 @@ source: https://www.enneagraminstitute.com/misidentifying-4-and-5
 ---
 ##### Misidentifying 4 and 5 — The Enneagram Institute
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Misidentifying 4 and 5 — The Enneagram Institute](https://www.enneagraminstitute.com/misidentifying-4-and-5)
 

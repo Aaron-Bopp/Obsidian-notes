@@ -15,5 +15,5 @@ No [[Republican]] since and including [[Reagan]] has balanced the budget or even
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[Republican]]
-	
-	
+
+

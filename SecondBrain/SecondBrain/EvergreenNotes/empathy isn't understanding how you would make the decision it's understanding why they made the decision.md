@@ -18,7 +18,7 @@ It's a lot easier to understand why somebody did something rather than twist and
 *edited `=this.file.mtime`*
 
 **Topics**:: [[socialization]], [[inter-personal communication]]
-	
-	
+
+
 
 

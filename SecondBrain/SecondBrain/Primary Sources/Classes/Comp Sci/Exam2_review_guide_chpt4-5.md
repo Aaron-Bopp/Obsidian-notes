@@ -88,7 +88,7 @@ Chapter 4
 
 -   Datagram format....know what the fields do
 
-    -   
+    - 
 
 -   Datagram fragmentation...why?
 

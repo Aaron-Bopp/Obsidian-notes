@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[emotional invalidation]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[social progress]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 https://github.com/chhoumann/MetaEdit
 

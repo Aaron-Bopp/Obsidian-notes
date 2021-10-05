@@ -16,8 +16,8 @@ Examples:
 
 ---
 
-**Status**:: #EVER/SPROUT/CULTIVATE   
+**Status**:: #EVER/SPROUT/CULTIVATE 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[evergreen notes]], [[note writing]]
-	
+

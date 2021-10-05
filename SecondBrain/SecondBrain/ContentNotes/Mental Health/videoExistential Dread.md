@@ -24,7 +24,7 @@ bib:
 			- existential dread comes from the knowledge that we are ignorant/can't fully understand the world
 		- #def [neurosis](https://en.wikipedia.org/wiki/neurosis) -> the tendency to worry
 	- as a human, a lot of what is good for us makes us suffer
-		- most professional success comes from conscientiousness and neuroticism  
+		- most professional success comes from conscientiousness and neuroticism 
 		- #to/explore/research  5-factor model
 		- #def [neuroticism](https://en.wikipedia.org/wiki/neuroticism) -> sometimes defined as a tendency for quick arousal when stimulated and slow relaxation from arousal, especially with regard to negative emotional arousal.
 			- Is a trait in many models within personality theory, but there is significant disagreement on its definition
@@ -56,8 +56,8 @@ bib:
 ---
 
 
-**Topics**::   
-	
+**Topics**:: 
+
 **Outline**::
 
 --- 

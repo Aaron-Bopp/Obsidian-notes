@@ -9,7 +9,7 @@ source: https://philosophy.ucsc.edu/news-events/colloquia-conferences/Geneologyo
 ---
 ##### Highlights From philosophy.ucsc.edu
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Highlights From philosophy.ucsc.edu](https://philosophy.ucsc.edu/news-events/colloquia-conferences/GeneologyofMorals.pdf)
 

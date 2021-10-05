@@ -18,10 +18,10 @@ Concentration is something that is required to most things done in today's socie
 
 ---
 
-**Status**:: #EVER/GREEN     
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[How ADHD effects concentration]]
-	
+
 **Outline**::
 

@@ -5,7 +5,7 @@ note-type:
 - topic-note
 parent: [[anxiety]]
 ---
- 
+
 #### [[social discomfort]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Status**:: #EVER/SPROUT 

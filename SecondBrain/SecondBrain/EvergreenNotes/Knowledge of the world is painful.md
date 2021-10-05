@@ -13,8 +13,8 @@ Becoming obsessed/absorbed by this fact leads to thoughts like [[Sadness is enli
 
 ---
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[white guilt]], [[racism]] 
-	
+

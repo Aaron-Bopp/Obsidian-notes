@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[Communism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
  - Communism will not be accomplished until we fully and totally bring about the honoring of peoples [[Civil Rights]]

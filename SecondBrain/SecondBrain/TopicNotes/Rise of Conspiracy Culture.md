@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[Rise of Conspiracy Culture]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
  https://github.com/SlRvb/Obsidian--ITS-Theme

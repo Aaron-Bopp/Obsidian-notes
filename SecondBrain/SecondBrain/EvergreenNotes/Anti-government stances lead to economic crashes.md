@@ -18,5 +18,5 @@ aliases:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[economy]]
-	
-	
+
+

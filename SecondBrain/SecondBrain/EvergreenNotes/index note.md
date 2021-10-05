@@ -16,4 +16,4 @@ An [[index note]] is the entry point for a [[Zettlekassen]], [[second brain]], o
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Make your inbox into an entry point]]
-	
+

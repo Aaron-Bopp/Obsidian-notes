@@ -1,8 +1,8 @@
-## **5**  
-THE INVESTIGATOR  
+## **5** 
+THE INVESTIGATOR 
 Enneagram Type Five
 
-### The Intense, Cerebral Type:  
+### The Intense, Cerebral Type: 
 Perceptive, Innovative, Secretive, and Isolated
 
 ![](https://images.squarespace-cdn.com/content/v1/585179fe1b631b51e1837bac/1481923685800-8AF2UNC7FKRTL1E19ZHT/image-asset.gif?format=500w)
@@ -12,13 +12,13 @@ Perceptive, Innovative, Secretive, and Isolated
 Fives are alert, insightful, and curious. They are able to concentrate and focus on developing complex ideas and skills. Independent, innovative, and inventive, they can also become preoccupied with their thoughts and imaginary constructs. They become detached, yet high-strung and intense. They typically have problems with eccentricity, nihilism, and isolation. At their Best: visionary pioneers, often ahead of their time, and able to see the world in an entirely new way.
 
 -   **Basic Fear:** Being useless, helpless, or incapable
-    
+
 -   **Basic Desire:** To be capable and competent
-    
+
 -   **Enneagram Five with a Four-Wing:** "The Iconoclast"
-    
+
 -   **Enneagram Five with a Six-Wing:** "The Problem Solver"
-    
+
 
 **Key Motivations:** Want to possess knowledge, to understand the environment, to have everything figured out as a way of defending the [[self]] from threats from the environment.
 
@@ -102,19 +102,19 @@ Thus, the challenge to Fives is to understand that they can pursue whatever ques
 
 Poor eating and sleeping habits due to minimizing needs. Neglecting hygiene and nutrition. Lack of physical activity. Psychotropic drugs for mental stimulation and escape, narcotics for [[anxiety]].
 
-## Personal Growth Recommendations  
+## Personal Growth Recommendations 
 for Enneagram Type Fives
 
 -   Learn to notice when your thinking and speculating takes you out of the immediacy of your experience. Your mental capacities can be an extraordinary gift, but only can also be a trap when you use them to retreat from contact with yourself and others. Stay connected with your physicality.
-    
+
 -   You tend to be extremely intense and so high-strung that you find it difficult to relax and unwind. Make an effort to learn to calm down in a healthy way, without drugs or alcohol. Exercising or using biofeedback techniques will help channel some of your tremendous nervous energy. [[Meditation]], jogging, [[yoga]], and dancing are especially helpful for your type.
-    
+
 -   You see many possibilities but often do not know how to choose among them or judge which is more or less important. When you are caught in your fixation, a sense of perspective can be missing, and with it the ability to make accurate assessments. At such time, it can be helpful to get the advice of someone whose judgment you trust while you are gaining perspective on your situation. Doing this can also help you trust someone else, a difficulty for your type.
-    
+
 -   Notice when you are getting intensely involved in projects that do not necessarily support your [[self-love|self-esteem]], confidence, or life situation. It is possible to follow many different fascinating subjects, games, and pastimes, but they can become huge distractions from what you know you really need to do. Decisive action will bring more confidence than learning more facts or acquiring more unrelated skills.
-    
+
 -   Fives tend to find it difficult to trust people, to open up to them emotionally, or to make themselves accessible in various ways. Their awareness of potential problems in relationships may tend to create a [[self]]-fulfilling prophecy. It is important to remember that having conflicts with others is not unusual and that the healthy thing is to work them out rather than reject attachments with people by withdrawing into isolation. Having one or two intimate friends whom you trust enough to have conflicts with will enrich your life greatly.
-    
+
 
 ## Learn More
 

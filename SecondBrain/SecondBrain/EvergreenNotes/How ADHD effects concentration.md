@@ -12,8 +12,8 @@ note-type:
 
 ---
 
-**Status**:: #EVER/SEED  
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[ADHD]], [[mental health]], [[mental disorders]] 
-	
+

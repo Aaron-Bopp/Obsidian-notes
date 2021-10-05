@@ -9,7 +9,7 @@ source: https://enneagraminstitute.com/type-8
 ---
 ##### Type Eight — The Enneagram Institute
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [Type Eight — The Enneagram Institute](https://enneagraminstitute.com/type-8)
 

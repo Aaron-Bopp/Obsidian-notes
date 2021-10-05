@@ -1,8 +1,7 @@
 ---
 created: 2021-06-24
-note-type: 
+note-type:
 - evergreen-note
-
 ---
 
 #### [[Avoidance IS the most-efficient way of dealing with emotion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -17,5 +16,5 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[trauma]], [[mental health]], [[self-actualization]], [[early childhood development]]
+`$=customJS.dv_funcs.outlinedIn(dv, this)`
 
-	

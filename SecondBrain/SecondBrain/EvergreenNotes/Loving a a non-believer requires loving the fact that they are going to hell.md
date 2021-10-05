@@ -16,6 +16,6 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[Evangelicalism]], [[empathy]]
-	
-	
+
+
 ::

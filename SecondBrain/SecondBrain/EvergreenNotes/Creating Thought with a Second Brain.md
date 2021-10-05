@@ -15,7 +15,7 @@ The [[Second Brain]] can be used as a catalyst or conduit to create thought.([[L
 
 ---
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[second brain]], [[permanent note]], [[evergreen notes]],  
+**Topics**:: [[second brain]], [[permanent note]], [[evergreen notes]], 

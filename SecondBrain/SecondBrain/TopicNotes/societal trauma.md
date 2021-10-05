@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[societal trauma]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 

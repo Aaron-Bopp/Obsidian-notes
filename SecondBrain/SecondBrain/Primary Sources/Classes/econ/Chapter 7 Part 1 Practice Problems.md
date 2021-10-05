@@ -83,7 +83,7 @@ Spending on durable goods = \$0.452 trillion
 > d\) Economic growth rate from 2018 to 2019
 
   -----------------------------------------------------------------------------------------------------
-              Bread                         Cheese                        Apples    
+              Bread                         Cheese                        Apples 
   ----------- --------- ------------------- --------- ------------------- --------- -------------------
               Price     Quantity Produced   Price     Quantity Produced   Price     Quantity Produced
 

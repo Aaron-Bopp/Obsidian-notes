@@ -17,8 +17,8 @@ This event reignited influencers like athletes using their platform for politics
 The conversation never ends because the murder of [[black people]] never ends.
 Partially because of this it has become expected of influencers to use their platform to push for social change even if what they regularly do is completely unrelated.
 Movements like Black Lives Matter have found a lot of traction in raising awareness and support for [[black people]] being killed.
- 
-	
+
+
 **<u>Section 2 (Reading Connection):</u>** Discuss at least one **<u>reading from this week</u>** that relates to the piece. Be sure to explain which reading you are discussing, what the reading said about the topic, and how the reading is connected to the piece.
 
 The murder of Treyvon Martin was likely an awakening moment in lots of [[black people]]'s identity development.
@@ -36,4 +36,3 @@ These events can also relate to the White Identity Model becaue both general mes
 
 I think that a lot of white people and especially religious white people who are unaware of their privilege and the existence of systemic [[racism]] are hesitant to engage with stories like Treyvon's because it shatters their moral superiority. When I was a kid I believed that [[my parents]] and the church were in the moral majority, and I prided myself on the [[empathy]] I had for other people. I remember reading and sharing messages about how bad Obamacare was because I believed it was truly making peoples lives worse. My father repeatedly shares stories about how his father lead an African-American battalion in [[WW2|World War 2]]. Our core belief was that [[racism]] no longer existed and that our beliefs were generally correct and any questioning of that was a slight to my grandfather and to my [[empathy]]. So stories like Treyvon's would make us sad, but anything that pointed towards the root cause of systemic [[racism]], would immediately be discarded. I think this could affect why it is so exhausting for people of color to continually educate white people, and why so many people who espouse [[unconditional love]] are so unwilling to address systemic [[racism]]. 
 
-	

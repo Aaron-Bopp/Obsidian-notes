@@ -10,7 +10,7 @@ bib:
 ---
 ###### [[Reagans Impact and Legacy]]
 
-**Topics**::  
+**Topics**:: 
 
 **Last Edited**:: *`=this.file.mtime`*
 

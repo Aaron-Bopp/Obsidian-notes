@@ -6,10 +6,10 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[racism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-  
+
 **Definition**::
 
 **Status**:: #EVER/SEED 

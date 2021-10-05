@@ -43,7 +43,7 @@
   "newFileFolderPath": "0",
   "pdfExportSettings": {
     "pageSize": "Letter",
-    "landscape": false,
+    "landscape": true,
     "margin": "1",
     "downscalePercent": 100
   },

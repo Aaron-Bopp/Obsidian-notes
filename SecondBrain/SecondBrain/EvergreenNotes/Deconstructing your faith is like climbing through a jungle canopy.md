@@ -16,4 +16,4 @@ note-type:
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[Evangelicalism]], [[worldview]], [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before]], [[belief systems]], [[faith]]
-	
+

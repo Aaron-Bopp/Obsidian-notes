@@ -50,7 +50,7 @@ Furthermore, no surgeon in [[America|the United States]] will perform a [[gender
 **Bottom Surgery** (modifications to genitals).
 
 -   Femininizing:
-    
+
     -   Orchiectomy (removal of the testicles)
     -   Scrotectomy (removal of scrotal tissue, following orchiectomy)
     -   Vaginoplasty (creation of a vaginal cavity)
@@ -63,7 +63,7 @@ A newly developing area of bottom surgery is in AMAB [[non-binary]] operations w
 An additional option for [[non-binary]] bottom surgery is genital nullification surgery, which aims to completely remove the external genitalia, leaving only a urethral opening.
 
 -   Masculinizing:
-    
+
     -   Hysterectomy (removal of uterus and cervix)
     -   Oophorectomy (removal of one or both ovaries)
     -   Vaginectomy (removal of vaginal cavity)
@@ -75,10 +75,10 @@ An additional option for [[non-binary]] bottom surgery is genital nullification 
 **Top Surgery** (modifications to the chest)
 
 -   Feminizing:
-    
+
     -   Breast Augmentation via fat transfer or implants.
 -   Masculinizing:
-    
+
     -   Bilateral Mastectomy (breast tissue removal) with chest [[reconstruction]].
 
 **Facial Feminization / Masculinization Surgery** (modifications to the skull, cartilage, and skin on the face).
@@ -86,7 +86,7 @@ An additional option for [[non-binary]] bottom surgery is genital nullification 
 The younger a person is, the less they will need these surgeries, especially if they medically transition prior to the age of 20.
 
 -   Feminizing:
-    
+
     -   Forehead recontouring
     -   Eye socket recontouring
     -   Brow lift
@@ -100,7 +100,7 @@ The younger a person is, the less they will need these surgeries, especially if 
     -   Tracheal shave (adam’s apple reduction)
     -   Rhytidectomy (face lift)
 -   Masculinizing:
-    
+
     -   Forehead augmentation
     -   Jaw augmentation
     -   Chin augmentation

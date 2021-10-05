@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[women]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
  Unlike first amendment rights, 

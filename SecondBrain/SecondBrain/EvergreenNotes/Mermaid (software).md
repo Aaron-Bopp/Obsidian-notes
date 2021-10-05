@@ -16,7 +16,7 @@ https://mermaid-js.github.io/mermaid/#/
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Obsidian (software)]], [[Javascript]]  
-	
+**Topics**:: [[Obsidian (software)]], [[Javascript]] 
+
 **Outline**::
 

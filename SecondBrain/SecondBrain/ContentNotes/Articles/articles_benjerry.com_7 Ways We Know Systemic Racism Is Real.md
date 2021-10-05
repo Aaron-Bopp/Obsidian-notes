@@ -9,7 +9,7 @@ source: https://www.benjerry.com/whats-new/2016/systemic-racism-is-real
 ---
 ##### 7 Ways We Know Systemic Racism Is Real
 
-**Topics**::  
+**Topics**:: 
 
 **Source**:: [7 Ways We Know Systemic Racism Is Real](https://www.benjerry.com/whats-new/2016/systemic-racism-is-real)
 

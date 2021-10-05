@@ -27,8 +27,8 @@ Note titles can also very on their use within the [[web of thought]]. [[Webs of 
 
 ---
 
-**Status**:: #EVER/GREEN   
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Zettlekassen]], [[second brain]], [[web of thought]], [[My Second Brain]], [[evergreen notes]], [[note writing]]
-	
+

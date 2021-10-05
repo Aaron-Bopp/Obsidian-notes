@@ -6,7 +6,7 @@ note-type:
 aliases:
 - 
 ---
- 
+
 #### [[Consumer Culture]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
