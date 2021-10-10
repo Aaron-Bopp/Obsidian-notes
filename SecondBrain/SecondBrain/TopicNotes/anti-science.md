@@ -7,8 +7,6 @@ aliases:
 - science denier
 - anti-science
 - anti science
-embedded:
--
 date modified: Wednesday, September 29th 2021, 7:13:06 pm
 ---
 

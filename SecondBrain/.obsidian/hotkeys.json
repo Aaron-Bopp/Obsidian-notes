@@ -260,14 +260,6 @@
       "key": ","
     }
   ],
-  "obsidian-toggle-vim:toggle-vim-mode": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": " "
-    }
-  ],
   "leader-hotkeys-obsidian:leader": [
     {
       "modifiers": [
@@ -283,6 +275,14 @@
         "Shift"
       ],
       "key": "O"
+    }
+  ],
+  "obsidian-toggle-vim:toggle-vim-mode": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
     }
   ]
 }

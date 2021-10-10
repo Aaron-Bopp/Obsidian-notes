@@ -31,7 +31,7 @@ bib:
 
 
 ##### MarkdownText
-_“[[Congress]] shall make no law respecting an establishment of [[religion]], or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the [[Government]] for a redress of grievances.” – The First Amendment to the U.S. Constitution_
+_“[[Congress]] shall make no law respecting an establishment of [[religion]], or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the [[government]] for a redress of grievances.” – The First Amendment to the U.S. Constitution_
 
 1.  The five freedoms it protects: speech, [[religion]], press, assembly, and the right to petition the [[government]]. Together, these five guaranteed freedoms make the people of [[America|the United States]] of [[America]] the freest in the world.
 2.  Before agreeing to accept the Constitution, the Founders of our [[democratic]] republic demanded that these freedoms be protected by an amendment to the original document – the First Amendment.

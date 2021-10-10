@@ -9,8 +9,7 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 ---
 
 #### [[gender]] `$=customJS.dv_funcs.getIO(dv.current(), dv, this)`
-
-> **Gender** - The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or [[gender identity]] (the personal sense of one's own gender).
+**Definition**:: The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or [[gender identity]] (the personal sense of one's own gender).
 > [[1 What is Gender]]
 
 > Gender is part social construct, part learned behaviors, and part biological processes which form very early in a person’s life.

@@ -11,6 +11,9 @@ parent: [[anxiety]]
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
+**Parents**:: [[anxiety]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
 ##### [[social discomfort]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[socialization]]
 	- [[social anxiety]]

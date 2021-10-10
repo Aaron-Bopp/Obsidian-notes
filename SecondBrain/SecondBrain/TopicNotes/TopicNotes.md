@@ -15,15 +15,15 @@ dv_funcs.statusTable({
 	dv,
 	that:this,
 	pagesArray:pages,
-	whereCheck: (p => p.file.outlinks.length <= 1 && p.file.path.contains('TopicNotes')),
-	title: 'Topic Seeds'
+	whereCheck: (p => p.file.outlinks.length > 1 && p.file.path.contains('TopicNotes')),
+	title: 'Growing Topics'
 })
 dv_funcs.statusTable({
 	dv,
 	that:this,
 	pagesArray:pages,
-	whereCheck: (p => p.file.outlinks.length > 1 && p.file.path.contains('TopicNotes')),
-	title: 'Growing Topics'
+	whereCheck: (p => p.file.outlinks.length <= 1 && p.file.path.contains('TopicNotes')),
+	title: 'Topic Seeds'
 })
 ```
 

@@ -1,10 +1,10 @@
-**ANCIENT GREEK SOCIETY & [[ECONOMY]] IN THE CLASSICAL AGE**
+**ANCIENT GREEK SOCIETY & [[economy]] IN THE CLASSICAL AGE**
 
 1.  ***Key Question***
 
     a.  In what ways was ancient Greek culture similar to the Near Eastern societies of the Mesopotamians and Egyptians? In what ways was it different?
 
-2.  **The Greek [[Economy]] in the Classical Age**
+2.  **The Greek [[economy]] in the Classical Age**
 
     a.  Free-Enterprise system -- as opposed to religious and [[government]] domination of the [[economy]]
 

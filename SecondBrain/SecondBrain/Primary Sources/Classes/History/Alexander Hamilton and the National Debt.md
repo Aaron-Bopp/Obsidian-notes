@@ -2,7 +2,7 @@ Alexander Hamilton & Today's National [[Debt]]
 
 Aaron [[Bopp]]
 
-Intro To [[Government]] and [[Politics]]
+Intro To [[government]] and [[Politics]]
 
 Hesse
 
@@ -48,7 +48,7 @@ Slemrod, Joel. \"Is This Tax [[Reform]], or Just Confusion?\" *The [[Journal]] o
 
 [[Journal]] article examining the [[Politics]] of the 2017 Tax Cuts and Jobs Act in relation to the history of tax [[reform]].
 
-Yared, Pierre. \"Rising [[Government]] [[Debt]]: Causes and Solutions for a Decades-Old Trend.\" *The [[Journal]] of Economic Perspectives* 33, no. 2 (2019): 115-40. Accessed January 27, 2020. www.jstor.org/stable/26621242.
+Yared, Pierre. \"Rising [[government]] [[Debt]]: Causes and Solutions for a Decades-Old Trend.\" *The [[Journal]] of Economic Perspectives* 33, no. 2 (2019): 115-40. Accessed January 27, 2020. www.jstor.org/stable/26621242.
 
 > [[Journal]] article examining how [[debt]] as a fraction of GDP has been rising since [[WW2]], and how policy makers contribute to this.
 
@@ -64,7 +64,7 @@ Yared, Pierre. \"Rising [[Government]] [[Debt]]: Causes and Solutions for a Deca
 
 [^6]: Hamilton, "First Report on the Public Credit."
 
-[^7]: Yared, Pierre. \"Rising [[Government]] [[Debt]]: Causes and Solutions for a Decades-Old Trend.\" *The [[Journal]] of Economic Perspectives* 33, no. 2 (2019): 115-40
+[^7]: Yared, Pierre. \"Rising [[government]] [[Debt]]: Causes and Solutions for a Decades-Old Trend.\" *The [[Journal]] of Economic Perspectives* 33, no. 2 (2019): 115-40
 
 [^8]: "The Budget and Economic Outlook: 2019 to 2029," Congressional Budget Office, January 28, 2019.
 

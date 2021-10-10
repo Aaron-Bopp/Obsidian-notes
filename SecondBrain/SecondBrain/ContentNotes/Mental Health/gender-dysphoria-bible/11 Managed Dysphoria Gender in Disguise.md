@@ -43,7 +43,7 @@ Growing up in the closet, even when you don’t know you’re in the closet, bec
 [You're worried that you might be homophobic, even though you believe in [[gay rights]], because "LGBT+ stuff" fills you with a deep discomfort. It all seems so flamboyant and overtly sexual. It makes you want to shrink down and disappear, before you die of secondhand embarrassment.
 ](https://twitter.com/NightlingBug/status/1215746083487461379)
 
-[Later, when you meet real [[queer]] people, or your friends come out of the closet, you start to idolize them. But you're also jealous. They're \*free\* and \*real\* in a way that seems impossible for straight people, like you. They have huge, \*real person\* worries and desires and lives.
+[Later, when you meet real [[Queer]] people, or your friends come out of the closet, you start to idolize them. But you're also jealous. They're \*free\* and \*real\* in a way that seems impossible for straight people, like you. They have huge, \*real person\* worries and desires and lives.
 ](https://twitter.com/NightlingBug/status/1215749725456125952)
 
 Because so much abuse is handed down onto [[gender]] non-conforming children, [[Yes]] ==many [[transgender|trans]] people grow up learning to hide their natural personalities out of sheer necessity.== [[Sometimes]] ==Many [[transgender|trans]] people speak about having a phase of life where they attempted to “buy-in” on their assigned [[gender]], performing masculinity or femininity to extremes in order to try to “fix” themselves==. This leads to repression tendencies which may even superficially appear toxic, but are simply the results of trying to hide every scrap of their true selves.

@@ -9,7 +9,7 @@ aliases:
 #### [[Webs of thought are densely linked]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
----
+### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*

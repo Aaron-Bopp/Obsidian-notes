@@ -62,9 +62,9 @@
 
         4.  Defender of the Realm -- kings responsible for protection
 
-4.  **The Ancient Egyptian [[Economy]]**
+4.  **The Ancient Egyptian [[economy]]**
 
-    i.  Ancient Command [[Economy]]
+    i.  Ancient Command [[economy]]
 
         1.  Bureaucracy-controlled -- answered to pharaoh. Organized farming not ordered
 

@@ -10,12 +10,12 @@ date modified: Monday, October 4th 2021, 12:40:55 am
 
 #### [[social anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Definition**::
+**Definition**:: A chronic [[mental health]] condition in which social interactions cause irrational [[anxiety]].
 
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Parents**::
+**Parents**:: [[anxiety]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[social anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

@@ -1,8 +1,10 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Dracula for Obsidian",
   "theme": "obsidian",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "links"
+  ],
   "translucency": false,
   "baseFontSizeAction": false
 }

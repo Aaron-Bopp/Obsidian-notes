@@ -26,6 +26,6 @@ U.S. [[Congress]]. "Assumption Act." *Primary Source Documents: 1750 to 1799*, F
 
 Primary source of federal legislation enacted in 1790 by which the U.S. [[government]] assumed the debts of the individual states after the American [[Revolution]].
 
-Yared, Pierre. \"Rising [[Government]] [[Debt]]: Causes and Solutions for a Decades-Old Trend.\" *The [[Journal]] of Economic Perspectives* 33, no. 2 (2019): 115-40. Accessed January 27, 2020. www.jstor.org/stable/26621242.
+Yared, Pierre. \"Rising [[government]] [[Debt]]: Causes and Solutions for a Decades-Old Trend.\" *The [[Journal]] of Economic Perspectives* 33, no. 2 (2019): 115-40. Accessed January 27, 2020. www.jstor.org/stable/26621242.
 
 [[Journal]] article examining how [[debt]] as a fraction of GDP has been rising since [[WW2]], and how policy makers contribute to this.

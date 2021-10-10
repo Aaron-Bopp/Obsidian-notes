@@ -8,7 +8,7 @@ aliases:
 
 #### [[Ronald Reagan invented modern conservatism]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Reagan]] set the standard for [[Conservatism]] that stands to this day. His three major beliefs were religious [[conservatism]], [[anti-liberalism]], and financial [[conservatism]]. The most impactful of these beliefs is financial [[conservatism]], which has also been called Reaganomics and [[supply-side economics]].
+[[Reagan]] set the standard for [[Conservatism]] that stands to this day. His three major beliefs were religious [[conservatism]] ([[Moral majority]]), [[anti-liberalism]], and financial [[conservatism]] ([[supply-side economics]]). The most impactful of these beliefs is financial [[conservatism]], which has also been called Reaganomics and [[supply-side economics]].
 
 Much of this belief is based on the incorrect assumption that [[Reagan]] said so plainly in his 1964 speech, "But the truth is that outside of its legitimate function, [[government]] does nothing as well or as economically as the private sector." [^1]  These kinds of beliefs push the idea that the only good [[government]] is a small [[government]], which [[Reagan]] espoused in his 1981 inaugural address, "In this present crisis, [[government]] is not the solution to our problem; [[government]] is the problem." [^2]
 

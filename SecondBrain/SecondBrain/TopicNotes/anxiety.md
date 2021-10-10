@@ -5,14 +5,12 @@ note-type:
 - topic-note
 aliases:
 - anxious
-date modified: Wednesday, September 29th 2021, 8:54:24 pm
+date modified: Wednesday, October 6th 2021, 2:34:37 pm
 ---
 
 #### [[anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Definition**:: a feeling of worry, nervousness, or unease about something with an uncertain outcome
-
-
+**Definition**:: a feeling of worry, nervousness, or unease about something with an uncertain outcome ^fc54c3
 
 **Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*

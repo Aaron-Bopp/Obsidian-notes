@@ -6637,6 +6637,14 @@ function hierToStr(hier) {
 function removeDuplicates(arr) {
     return [...new Set(arr)];
 }
+/**
+ * Adds or updates the given yaml `key` to `value` in the given TFile
+ * @param  {string} key
+ * @param  {string} value
+ * @param  {TFile} file
+ * @param  {FrontMatterCache|undefined} frontmatter
+ * @param  {{[fun:string]:(...args:any} api
+ */
 const createOrUpdateYaml = async (key, value, file, frontmatter, api) => {
     let valueStr = value.toString();
     if (!frontmatter || frontmatter[key] === undefined) {
@@ -24492,6 +24500,16 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
         const generalDetails = containerEl.createEl("details");
         generalDetails.createEl("summary", { text: "General Options" });
         new obsidian.Setting(generalDetails)
+            .setName('CSV Breadcrumb Paths')
+            .setDesc('The file path of a csv files with breadcrumbs information.')
+            .addText(text => {
+            text.setValue(settings.CSVPaths);
+            text.inputEl.onblur = async () => {
+                settings.CSVPaths = text.inputEl.value;
+                await plugin.saveSettings();
+            };
+        });
+        new obsidian.Setting(generalDetails)
             .setName("Refresh Index on Note Change")
             .setDesc("Refresh the Breadcrumbs index data everytime you change notes. This is how Breadcrumbs used to work, making it responsive to changes immediately after changing notes. However, this can be very slow on large vaults, so it is off by default.")
             .addToggle((toggle) => toggle
@@ -37248,6 +37266,7 @@ class TrailPath extends SvelteComponent {
 const DEFAULT_SETTINGS = {
     userHierarchies: [],
     indexNote: [""],
+    CSVPaths: '',
     hierarchyNotes: [""],
     hierarchyNoteDownFieldName: "",
     hierarchyNoteUpFieldName: "",
@@ -37609,6 +37628,34 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             g.setEdge(currFileName, field, { dir, fieldName });
         });
     }
+    async getCSVRows(basePath) {
+        const { CSVPaths } = this.settings;
+        const CSVRows = [];
+        if (CSVPaths[0] === '') {
+            return CSVRows;
+        }
+        const fullPath = obsidian.normalizePath(CSVPaths[0]);
+        const content = await this.app.vault.adapter.read(fullPath);
+        const lines = content.split('\n');
+        const headers = lines[0].split(',').map(head => head.trim());
+        lines.slice(1).forEach(row => {
+            const rowObj = {};
+            row.split(',').map(head => head.trim()).forEach((item, i) => {
+                rowObj[headers[i]] = item;
+            });
+            CSVRows.push(rowObj);
+        });
+        console.log({ CSVRows });
+        return CSVRows;
+    }
+    addCSVCrumbs(g, CSVRows, dir, fieldName) {
+        CSVRows.forEach(row => {
+            g.setNode(row.file, { dir, fieldName });
+            if (fieldName === "" || !row[fieldName])
+                return;
+            g.setEdge(row.file, row[fieldName], { dir, fieldName });
+        });
+    }
     async initGraphs() {
         var _a;
         const settings = this.settings;
@@ -37655,6 +37702,13 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             });
             graphs.hierGs.push(newGraphs);
         });
+        const useCSV = settings.CSVPaths !== '';
+        let basePath;
+        let CSVRows;
+        if (useCSV) {
+            basePath = this.app.vault.adapter.basePath;
+            CSVRows = await this.getCSVRows(basePath);
+        }
         relObjArr.forEach((relObj) => {
             const currFileName = relObj.current.basename || relObj.current.name;
             relObj.hierarchies.forEach((hier, i) => {
@@ -37663,6 +37717,9 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                         const g = graphs.hierGs[i][dir][fieldName];
                         const fieldValues = hier[dir][fieldName];
                         this.populateGraph(g, currFileName, fieldValues, dir, fieldName);
+                        if (useCSV) {
+                            this.addCSVCrumbs(g, CSVRows, dir, fieldName);
+                        }
                     });
                 });
             });

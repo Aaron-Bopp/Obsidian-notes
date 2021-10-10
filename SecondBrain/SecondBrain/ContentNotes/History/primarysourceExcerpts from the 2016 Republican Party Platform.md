@@ -69,7 +69,7 @@ The President has been regulating to death a free market [[economy]] that he doe
 
 We, as Republicans and [[America|Americans]], cannot allow this to continue. That is why the many sections of this platform affirm our trust in the people, our [[faith]] in their judgment, and our determination to help them take back their country. This means removing the power from unelected, unaccountable [[government]]. This means relieving the burden and expense of punishing [[government]] regulations. And this means returning to the people and the states the control that belongs to them. It is the control and the power to make their own decisions about what\'s best for themselves and their families and communities.
 
-**Rebuilding the [[Economy]] and Creating Jobs**
+**Rebuilding the [[economy]] and Creating Jobs**
 
 ...Government cannot create prosperity, though [[government]] can limit or destroy it. Prosperity is the product of [[self]]-discipline, enterprise, saving and investment by individuals, but it is not an end in itself. Prosperity provides the means by which citizens and their families can maintain their independence from [[government]], raise their children by their own values, practice their [[faith]], and build communities of cooperation and mutual respect....
 

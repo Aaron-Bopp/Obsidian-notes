@@ -10,7 +10,7 @@ Online Assignment #5
 
     -   Now fill in the rest of the table using the [[CIA]] World Factbook data (<https://www.cia.gov/library/publications/the-world-factbook/geos/af.html>) by choosing your country from the drop down menu that says "Please select a country to view".
 
-        -   [[Unemployment]] rate and inflation rate can be found under the "[[Economy]]" section. All other statistics can be found under the "People and Society" section.
+        -   [[Unemployment]] rate and inflation rate can be found under the "[[economy]]" section. All other statistics can be found under the "People and Society" section.
 
 -   If a statistic is not available for a particular country, just fill in N/A for that statistic. If a country has more than two N/As, please choose a different country.
 

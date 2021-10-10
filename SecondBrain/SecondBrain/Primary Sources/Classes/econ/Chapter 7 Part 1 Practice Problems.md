@@ -34,7 +34,7 @@ GDP = C + I + G +NX
 >
 > \(2\) U.S. GDP: +\$900
 >
-> c\) (1) [[Government]] (G): +\$42,000
+> c\) (1) [[government]] (G): +\$42,000
 >
 > \(2\) U.S. GDP: +\$42,000
 >
@@ -42,7 +42,7 @@ GDP = C + I + G +NX
 >
 > \(2\) U.S. GDP: +\$35,000
 >
-> e\) (1) [[Government]] (G): +\$1,000; Net exports (NX): -\$1,000
+> e\) (1) [[government]] (G): +\$1,000; Net exports (NX): -\$1,000
 >
 > \(2\) U.S. GDP: unchanged
 

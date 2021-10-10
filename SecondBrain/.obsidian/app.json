@@ -9,7 +9,7 @@
   "spellcheck": false,
   "strictLineBreaks": true,
   "newFileLocation": "root",
-  "vimMode": true,
+  "vimMode": false,
   "spellcheckDictionary": [
     "habitus",
     "Hermione",
@@ -48,5 +48,7 @@
     "downscalePercent": 100
   },
   "showLineNumber": true,
-  "useTab": true
+  "useTab": true,
+  "lineWrap": true,
+  "defaultViewMode": "preview"
 }

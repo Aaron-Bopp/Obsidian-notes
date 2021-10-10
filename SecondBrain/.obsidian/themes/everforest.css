@@ -34,7 +34,7 @@
 /* 1. Font */
 body {
     /* font stacks taken directly from Notion */
-    --font-monospace: Hack Nerd Font',Source Code Pro', monospace;
+    --font-monospace: "Hack Nerd Font", "Source Code Pro", monospace;
     -webkit-font-smoothing: auto;
 }
 
@@ -135,16 +135,16 @@ body {
     --text-title-h5:              var(--dim-aqua);
     --text-title-h6:              var(--dim-purple);
     --text-link:                  var(--faded-blue);
-    --text-a:                     var(--faded-green);
-    --text-a-hover:               var(--dim-green);
+    --text-a:                     var(--dim-aqua);
+    --text-a-hover:               var(--faded-aqua);
     --text-mark:                  rgba(215, 153, 33, 0.4); /* light-yellow */
     --pre-code:                   var(--bg1-dark);
     --text-highlight-bg:          var(--bg_green);
-    --interactive-accent:         var(--bg5-dark);
+    --interactive-accent:         var(--dim-aqua);
     --interactive-before:         var(--bg5-dark);
     --background-modifier-border: var(--bg5-dark);
-    --text-accent:                var(--bg5-dark);
-    --interactive-accent-rgb:     var(--faded-green);
+    --text-accent:                var(--dim-blue);
+    --interactive-accent-rgb:     var(--dim-blue);
     --inline-code:                var(--dim-blue);
     --code-block:                 var(--fg-dark);
     --vim-cursor:                 var(--faded-blue);
@@ -528,7 +528,7 @@ img
 
 .checkbox-container:after
 {
-    background-color: var(--background-secondary-alt);
+    background-color: var(--interactive-accent);
 }
 
 .mod-cta
@@ -556,14 +556,14 @@ img
 }
 
 input.task-list-item-checkbox {
-    border: 1px solid var(--dark3);
+    border: 1px solid var(--faded-blue);
     appearance: none;
     -webkit-appearance: none;
 }
 
 input.task-list-item-checkbox:checked
 {
-    background-color: var(--dark3);
+    background-color: var(--faded-blue);
     box-shadow: inset 0 0 0 2px var(--background-primary);
 }
 
@@ -579,4 +579,16 @@ input.task-list-item-checkbox:checked
 
 .frontmatter-container {
     display: none;
+}
+
+/* Bullet point relationship lines */
+.cm-hmd-list-indent .cm-tab, ul ul { position: relative; }
+.cm-hmd-list-indent .cm-tab::before, ul ul::before {
+ content:'';
+ border-left: 1px solid var(--dim-blue);
+ position: absolute;
+}
+.cm-hmd-list-indent .cm-tab::before { left: 0; top: -5px; bottom: -4px; 
+}
+ul ul::before { left: -11px; top: 0; bottom: 0; 
 }

@@ -14,8 +14,9 @@ aliases:
 *edited `=this.file.mtime`*
 
 ##### [[Civil Rights]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- 
-
+- ![[social Justice#social justice customJS dv_funcs topicOutlineHeader dv this]]
+- [[The injustice of endurance]]	
+- ![[Prison#Prison customJS dv_funcs topicOutlineHeader dv this]]
 ### <hr class="dataviews"/>
 
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

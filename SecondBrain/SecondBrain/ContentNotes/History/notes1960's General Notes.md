@@ -163,7 +163,7 @@ bib:
                             - determine destiny of black community
                             - full employement
                             - end to robbery of black community by capitalists
-                            - [[education]] for people that exposes [[america]]
+                            - [[education]] for people that exposes [[America]]
                             - all black men exempt for military service
                             - immediate end to police burtality
                             - freedom for black prisoners

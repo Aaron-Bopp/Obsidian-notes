@@ -9,7 +9,9 @@ aliases:
 
 #### [[neurodivergency]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Definition**::
+**Definition**:: differing in mental or neurological function from what is considered typical or normal (frequently used with reference to autistic spectrum disorders); not neurotypical.
+
+### Origin
 
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*

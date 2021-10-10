@@ -4,14 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "18cdcecdf890d880",
+        "id": "af4298200977c3e0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/gender.md",
-            "mode": "source"
+            "file": "SecondBrain/TopicNotes/social anxiety.md",
+            "mode": "preview"
           }
+        },
+        "pane-relief:history-v1": {
+          "pos": 6,
+          "stack": [
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Collecting Thought with a Second Brain.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/content note.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/EvergreenNotes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/ContentNotes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/social anxiety.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/anxiety.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":39.434683023103304}"
+            },
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/social anxiety.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/INDEX.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":38.6661789044231}"
+            },
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/EvergreenNotes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/TopicNotes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/Queer.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "af4298200977c3e0",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
         }
       }
     ],
@@ -22,9 +99,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1aaee8b41b32668",
+        "id": "b378f0391f90b405",
         "type": "tabs",
         "children": [
+          {
+            "id": "208d80cb45f52f85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
           {
             "id": "7f4634a1f9c650de",
             "type": "leaf",
@@ -38,6 +127,10 @@
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -46,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/gender.md",
+                "file": "SecondBrain/TopicNotes/social anxiety.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -55,6 +148,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -63,10 +160,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/gender.md",
+                "file": "SecondBrain/TopicNotes/social anxiety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -78,6 +179,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -86,16 +191,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/TopicNotes/gender.md"
+                "file": "SecondBrain/TopicNotes/social anxiety.md"
               }
-            }
-          },
-          {
-            "id": "0c769aef4d9945f1",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -107,22 +208,42 @@
                 "file": "SecondBrain/OrganizationalNotes/RECENTLY-MODIFIED.md",
                 "mode": "preview"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "208d80cb45f52f85",
+            "id": "0c769aef4d9945f1",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "dictionary-view",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "77a1a2970be53331",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 499.5121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -138,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/gender.md",
+                "file": "SecondBrain/TopicNotes/social anxiety.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-file:INDEX -file:aliases",
@@ -229,14 +350,10 @@
                   "close": false
                 }
               }
-            }
-          },
-          {
-            "id": "871a193b79b5b248",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -245,34 +362,42 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "4ba9271f26a2c713",
+            "id": "201ee963dd133e78",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 699.0747680664062
   },
-  "active": "18cdcecdf890d880",
+  "active": "af4298200977c3e0",
   "lastOpenFiles": [
-    "SecondBrain/TopicNotes/gender.md",
-    "SecondBrain/INDEX.md",
-    "Templates/Templates/TOPICNOTE.md",
-    "SecondBrain/EvergreenNotes/The many transgressions of the christian church.md",
-    "SecondBrain/TopicNotes/racism.md",
-    "SecondBrain/ContentNotes/White Privilege write-up.md",
-    "SecondBrain/Primary Sources/Cook & McCoy (2017) - Messages in Collusion.pdf",
-    "SecondBrain/Primary Sources/Dovidio et al. (2017) - Aversive Racism and Contemporary Bias.pdf",
-    "SecondBrain/Primary Sources/Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf",
-    "SecondBrain/Primary Sources/GeneologyofMorals.pdf"
+    "SecondBrain/TopicNotes/social anxiety.md",
+    "SecondBrain/TopicNotes/anxiety.md",
+    "SecondBrain/ContentNotes/ContentNotes.md",
+    "SecondBrain/EvergreenNotes/EvergreenNotes.md",
+    "SecondBrain/EvergreenNotes/content note.md",
+    "SecondBrain/EvergreenNotes/Collecting Thought with a Second Brain.md",
+    "SecondBrain/EvergreenNotes/Anxiety should be a tool at your disposal not an impedance to your life.md",
+    "SecondBrain/EvergreenNotes/Anxiety isn't irrational it's just overcompensation.md",
+    "SecondBrain/EvergreenNotes/We value our biggest insecurities because they protect us from the biggest threats.md",
+    "SecondBrain/EvergreenNotes/A secure identity is the best defense against social anxiety.md"
   ]
 }

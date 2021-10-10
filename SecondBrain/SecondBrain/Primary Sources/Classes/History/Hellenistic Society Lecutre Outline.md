@@ -38,7 +38,7 @@
 
     -   Cities
 
-    -   [[Government]]: Despotism
+    -   [[government]]: Despotism
 
     -   Semi-Divine Rulers
 
