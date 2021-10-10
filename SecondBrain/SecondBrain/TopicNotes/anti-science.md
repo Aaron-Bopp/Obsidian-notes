@@ -17,7 +17,7 @@ date modified: Wednesday, September 29th 2021, 7:13:06 pm
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Parents**:: 
+**Parents**:: [[Politics]], [[Rise of Misinformation in America]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[anti-science]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

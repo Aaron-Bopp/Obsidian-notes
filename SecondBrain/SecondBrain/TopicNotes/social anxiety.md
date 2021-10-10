@@ -12,7 +12,7 @@ date modified: Monday, October 4th 2021, 12:40:55 am
 
 **Definition**:: A chronic [[mental health]] condition in which social interactions cause irrational [[anxiety]].
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT/WATER  
 *edited `=this.file.mtime`*
 
 **Parents**:: [[anxiety]], [[mental health]]
@@ -40,3 +40,14 @@ date modified: Monday, October 4th 2021, 12:40:55 am
 ### <hr class="dataviews"/>
 
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
+
+```dataview
+TABLE 
+	length(file.inlinks) as In,
+	length(file.outlinks) as Out,
+	Status, 
+	file.mtime as Edited, 
+	file.ctime as Created
+from [[social anxiety]]
+where !contains(this.file.outlinks, link(file.name))
+```

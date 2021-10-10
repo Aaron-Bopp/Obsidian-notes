@@ -14,6 +14,9 @@ aliases:
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
+**Parents**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
 ##### [[my gender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 

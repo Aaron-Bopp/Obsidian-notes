@@ -25,7 +25,7 @@ class dv_funcs {
         return `${days} days ago`
     }
 
-    datediff(first, second) {
+    dateDiff(first, second) {
         // Take the difference between the dates and divide by milliseconds per day.
         // Round to nearest whole number to deal with DST.
         return Math.round((second - first) / (1000 * 60 * 60 * 24));
@@ -112,10 +112,12 @@ class dv_funcs {
             pagesQuery = "",
             pagesArray = dv.pages(),
             whereCheck = ((p) => true),
+            title = "Page",
             sortCheck = ((p) => this.getTotalLinks(p.file.name, args.dv, args.that)),
             sortDir = 'asc',
-            columnTitles = ["Page", "I/O", "Edited", "Created"],
-            columns = ((p) => [p.file.link, this.getIO(p, dv, that), p.file.mtime, this.formatDate(p.created || p.file.ctime)])
+            lastEdited = true,
+            columnTitles = [title, "I/O", "Edited", "Created"],
+            columns = ((p) => [p.file.link, this.getIO(p, dv, that), lastEdited ? moment(p.file.mtime.ts).fromNow() : p.file.mtime, this.formatDate(p.created || p.file.ctime)])
         } = args;
 
         const pages = pagesQuery ? dv.pages(pagesQuery) : pagesArray
@@ -125,16 +127,17 @@ class dv_funcs {
         // this.sortableColumns()
     }
 
-    statusTable(args) {
-        const { dv, title, that, folder, all = false } = args;
+    statusTable = (args) => {
+        const { dv, title, that, folder, all = false, lastEdited=true} = args;
         this.defaultTable({
             pagesArray: this.notLinkedPages({ dv, folder, that, all }),
             sortCheck: ((p) => this.statusLevel(p.status)),
             columnTitles: [title || folder || "Page", "I/O", "Status", "Edited", "Created"],
-            columns: (p => [p.file.link, this.getIO(p, dv, that), p.status, p.file.mtime, this.formatDate(p.created || p.file.ctime)]),
+            columns: (p => [p.file.link, this.getIO(p, dv, that), p.status, lastEdited ? moment(p.file.mtime.ts).fromNow() : p.file.mtime, this.formatDate(p.created || p.file.ctime)]),
             ...args
         })
     }
+    
 
     topicNoteDataviews(args) {
         const { dv, that } = args
@@ -156,7 +159,12 @@ class dv_funcs {
 
     outlinedIn(dv, that, page = dv.current(), includeAlreadyLinked = false) {
         const linkedNotes = page.parents || page.topics || []
-        const linkedNames = linkedNotes.type === 'file' ? [linkedNotes.path] : linkedNotes.map(l => l.path) //path only has names 
+        const linkedNames = []
+        try {
+            linkedNames = linkedNotes.type === 'file' ? [linkedNotes.path] : linkedNotes.map(l => l.path) //path only has names 
+        } catch {
+
+        }
 
         const inlinks = page.file.inlinks.filter(l => l.path.contains("TopicNotes"))
             //grab names
@@ -228,7 +236,7 @@ class dv_funcs {
         return this.getIO(dv.current(), dv, that)
     }
 
-    sortableColumns() {
+    sortableColumns = () => {
         // Source https://stackoverflow.com/questions/14267781/sorting-html-table-with-javascript
         const getCellValue = (tr, idx) => tr.children[idx].innerText || tr.children[idx].textContent;
 
@@ -236,15 +244,17 @@ class dv_funcs {
             v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : v1.toString().localeCompare(v2, undefined, { numeric: true })
         )(getCellValue(asc ? a : b, idx), getCellValue(asc ? b : a, idx));
 
-        // do the work...
-        document.querySelectorAll('th').forEach(th => th.style.cursor = "pointer");
+        document.querySelectorAll('table').forEach(table => {
 
-        document.queryselectorall('th').foreach(th => th.addeventlistener('click', (() => {
-            const table = th.closest('table');
-            const tbody = table.queryselector('tbody');
-            array.from(tbody.queryselectorall('tr'))
-                .sort(comparer(array.from(th.parentnode.children).indexof(th), this.asc = !this.asc))
-                .foreach(tr => tbody.appendchild(tr));
-        })));
+            // do the work...
+            Array.from(table.querySelectorAll('th')).forEach(th => th.style.cursor = "pointer");
+            
+            table.querySelectorAll('th').forEach(th => th.addEventListener('click', (() => {
+                const tbody = table.querySelector('tbody');
+                Array.from(tbody.querySelectorAll('tr'))
+                    .sort(comparer(Array.from(th.parentNode.children).indexOf(th), this.asc = !this.asc))
+                    .forEach(tr => tbody.appendChild(tr));
+            })));
+        })
     }
 }

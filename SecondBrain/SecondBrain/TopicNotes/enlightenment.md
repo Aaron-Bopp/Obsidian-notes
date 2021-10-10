@@ -17,6 +17,9 @@ enlightenment, [[liberation]], [[Self]]-Realization, God-Realization, nirvikalpa
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
+**Parents**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
 ##### [[enlightenment]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[To be happy you need to not be sad]]
 - [[You can be enlightened and still grieve]]

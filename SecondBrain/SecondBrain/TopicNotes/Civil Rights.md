@@ -10,8 +10,11 @@ aliases:
 #### [[Civil Rights]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
+
+**Parents**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Civil Rights]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - ![[social Justice#social justice customJS dv_funcs topicOutlineHeader dv this]]

@@ -24,7 +24,6 @@
   "mrj-add-codemirror-matchbrackets",
   "obsidian-toggle-vim",
   "obsidian-activity-history",
-  "folder-note-plugin",
   "obsidian-linter",
   "readwise-official",
   "obsidian-autocomplete-plugin",
@@ -38,5 +37,7 @@
   "pane-relief",
   "map-of-content",
   "find-unlinked-files",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "obsidian-codemirror-options",
+  "code-block-copy"
 ]

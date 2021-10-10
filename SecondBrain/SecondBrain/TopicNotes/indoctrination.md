@@ -15,6 +15,9 @@ aliases:
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
+**Parents**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
 ##### [[indoctrination]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 

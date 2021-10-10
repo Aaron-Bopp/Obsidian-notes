@@ -13,7 +13,10 @@ consciousness
 
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
-customJS.dv_funcs.topicHeader(dv, thi`
+
+**Parents**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
 ##### [[conscious]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 
 

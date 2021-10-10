@@ -15,4 +15,5 @@ In [[Social Learning Theory]], imitation is one of four key mechanism for social
 **Status**:: #EVER/SEED/UNPLANTED 
 *edited `=this.file.mtime`*
 
-**Related Topics**:: [[gender]], [[lecture_Behavioral Evolution]]
+**Topics**:: [[gender]], [[lecture_Behavioral Evolution]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

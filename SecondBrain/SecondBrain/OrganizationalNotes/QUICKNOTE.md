@@ -5,6 +5,7 @@ note-type:
 - evergreen-note
 
 ---
+`$=(dv.pages().where(p => p.file.path.contains("OrganizationalNotes")).map(p => dv.fileLink(p.file.path)))`
 
 - It's not about being successful, it's about doing what you can do to get close to success
 	-  [51:24](https://youtu.be/wsGrMgtsKOs?t=3146#t=3084.5915995880127)

@@ -27,7 +27,7 @@ date modified: Wednesday, October 6th 2021, 2:34:37 pm
 - How [[anxiety]] manifests
 	- ![[social anxiety#social anxiety customJS dv_funcs topicOutlineHeader dv this]]
 	- ![[social discomfort#social discomfort customJS dv_funcs topicOutlineHeader dv this]]
-	- [[Rejection Sensitivity]]
+	- [[videoRejection Sensitivity|Rejection Sensitivity]]
 	- Overthinking
 	- [[Agoraphobia]]
 - Comorbid conditions
@@ -43,3 +43,4 @@ date modified: Wednesday, October 6th 2021, 2:34:37 pm
 ### <hr class="dataviews"/>
 
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
+`$=customJS.dv_funcs.sortableColumns()`

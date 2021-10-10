@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:EvergreenNotes OR path:TopicNotes",
+  "search": "-file:UNCREATEDNOTES",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -178,7 +178,7 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.8,
+  "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 0.998933823529412,
   "lineSizeMultiplier": 0.445882352941176,
   "collapse-forces": false,
@@ -186,6 +186,6 @@
   "repelStrength": 12.5882352941176,
   "linkStrength": 0.482352941176471,
   "linkDistance": 30,
-  "scale": 0.09553388345466149,
+  "scale": 0.26326042606174244,
   "close": false
 }

@@ -19,21 +19,14 @@ dv.list(dv.current())
 - [[Journal]]
 - [[TODO]]
 	- [[my TO(DO) and EVER(GREEN) structure]]
-
-- [[SEARCH]]
-
 	- [[RELATED-TOPICS]]
-
 - Forest
-
-	- [[EVERGREENS]]
+	- [[EvergreenNotes]]
 	- [[EVERSPROUTS]]
 	- [[EVERSEEDS]]
-
 - Notes not in outline
-
-	- [[TOPICNOTES]]
-	- [[EVERGREENNOTES]]
+	- [[TopicNotes]]
+	- [[EvergreenNotes]]
 	- [[CONTENTNOTES]]
 
 
@@ -58,19 +51,10 @@ dv.list(dv.current())
 ```dataviewjs
 const {dv_funcs} = customJS
 const pages = dv.pages()
-console.log(dv.array())
 dv_funcs.statusTable({
-	dv,
+	dv, 
 	that:this,
-	all: true,
-	whereCheck: (p => p.file.outlinks.length <= 1 && p.file.path.contains('TopicNotes')),
-	title: 'Topic Seeds'
-})
-dv_funcs.statusTable({
-	dv,
-	that:this,
-	all: true,
-	whereCheck: (p => p.file.outlinks.length > 1 && p.file.path.contains('TopicNotes')),
-	title: 'Growing Topics'
+	pagesArray: dv_funcs.notLinkedPages({dv, that:this, all:false})
 })
 ```
+

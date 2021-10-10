@@ -8,6 +8,8 @@ content-type:
 - video
 source: https://www.youtube.com/watch?v=jM3azhiOy5E
 bib:
+aliases:
+-  "Rejection Sensitivity"
 ---
 
 - #Def Rejection Sensitivity - The tendency to anixously expect, readily perceive, and intensely react to rejection 

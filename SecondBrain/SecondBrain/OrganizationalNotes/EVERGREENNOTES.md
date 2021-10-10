@@ -1,83 +1,40 @@
----
-created: 2021-07-29
-note-type: 
-- organizational-note
----
-
+`$=(dv.pages().where(p => p.file.path.contains("OrganizationalNotes")).map(p => dv.fileLink(p.file.path)))`
 ```ActivityHistory
 SecondBrain/EvergreenNotes
 ```
+# EvergreenNotes Overview
+
+
 ```dataviewjs
-const thisFile = dv.pages().where(f => f.file.path == 'SecondBrain/INDEX.md')[0]
-function formatDate(date){
-	var d = new Date(date),
-		month = '' + (d.getMonth() + 1),
-		day = '' + d.getDate(),
-		year = d.getFullYear();
 
-	if (month.length < 2) 
-		month = '0' + month;
-	if (day.length < 2) 
-		day = '0' + day;
+const {dv_funcs} = customJS
+const pages = dv.pages()
+let lastEdited = false
+dv_funcs.defaultTable({
+	dv,
+	that:this,
+	lastEdited,
+	pagesArray:pages,
+	whereCheck: (p => p.status === `#EVER/GREEN/GROWING` && p.file.name !== 'TopicNotes'),
+	title: `#EVER/GREEN/GROWING`
+})
+dv_funcs.defaultTable({
+	dv,
+	that:this,
+	lastEdited,
+	pagesArray:pages,
+	whereCheck: (p => p.status === `#EVER/GREEN/PRUNE` && p.file.name !== 'TopicNotes'),
+	title: `#EVER/GREEN/PRUNE`
+})
+dv_funcs.defaultTable({
+	dv,
+	that:this,
+	lastEdited,
+	pagesArray:pages,
+	whereCheck: (p => p.status === `#EVER/GREEN` && p.file.name !== 'TopicNotes'),
+	title: `#EVER/GREEN`
+})
 
-	return [year, month, day].join('-');
-}
-
-function wrap(name) {
-	return '[[' + name + ']]'
-}
-function getIO(file) {
-	return `${file.inlinks.length}/${file.outlinks.length}`
-}
-const statusDict = {
-	"GREEN":0,
-	"SPROUT":1,
-	"SEED":2
-}
-const statusLevel = (status) => {
-	if (!status) {return 0}
-	try {
-		let [_, growth, state] = status.split("/")
-		return statusDict[growth]
-	} catch (TypeError){
-		return 0
-	}
-	return 0
-}
-//includes first called file as last element
-function getEmbeds(name){
-	const file = dv.pages().where(f => f.file.name === name)[0]
-	if (file == undefined) {
-		return [null]
-	}
-	let embeds = file.embedded
-	if (embeds == undefined) {
-		return [file]
-	}
-	// prevent infinite loops if currentNote is included in embeds
-	embeds = embeds.filter(l => l !== null && name !== l.path )
-	return embeds.map((l) => getEmbeds(l.path)).concat([file]).flat().filter(el => el != null)
-}
-const allEmbeds = getEmbeds(thisFile.file.name)
-const allOutlinks = allEmbeds.map(f => f.file.outlinks).flat()
-const allPaths = allOutlinks.map(l => l.path)
-function notLinkedPages(folder) {
-	return dv.pages()
-			.where(p => {
-				return !allPaths.contains(p.file.path) && 
-				p.file.path.contains(folder) 
-			})
-			.sort(p => p.file.inlinks.length + p.file.outlinks.length, 'desc')
-}
-
-let pages = dv.array(notLinkedPages('EvergreenNotes'))
-if (pages.length > 0) {
-	dv.table(['', "I/O", "Status", "Edited", "Created"], 
-		pages
-		.sort(p => p.file.outlinks.length + p.file.inlinks.length, 'desc')
-		.map(p => [p.file.link, getIO(p.file), p.status, p.file.mtime, formatDate(p["creation date"])]))
-
-}
+dv_funcs.sortableColumns()
 ```
-
 

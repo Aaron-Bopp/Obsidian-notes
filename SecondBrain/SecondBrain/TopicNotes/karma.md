@@ -12,7 +12,11 @@ aliases:
 
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
-omJS.dv_funcs.topicHeader(dv, thi` 
+
+**Parents**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+##### [[karma]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 
 
 ### <hr class="dataviews"/>
