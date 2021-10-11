@@ -1,8 +1,7 @@
 ---
 created: 2021-09-05
-note-type:
-- content-note
-creator: nmaahc.si.edu
+cssclass: content
+tags: content nmaahc.si.edu
 content-type: 
 - articles
 source: https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race
@@ -31,9 +30,8 @@ source: https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundat
 - > "New generations of [[America|Americans]], many born in the colonies, seized upon ideas like that of John Locke’s “Social Contract” which argues that all people naturally had a right to life, liberty and property, and that any created government is legitimate only with the consent of those people being governed" 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: nmaahc.si.edu
+cssclass: content
+tags: content nmaahc.si.edu
 content-type: 
 - articles
 source: https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race

@@ -1,8 +1,7 @@
 ---
 created: 2021-10-03
-note-type: 
-- evergreen-note
-- topic-note
+cssclass: topic
+tags: topic
 aliases:
 - 
 ---
@@ -21,7 +20,8 @@ aliases:
 
 ##### [[Behavioral Pyschology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
-- 
+- [[Observational learning]]
+	- [[Children do what they see]]
 
 ### <hr class="dataviews"/>
 

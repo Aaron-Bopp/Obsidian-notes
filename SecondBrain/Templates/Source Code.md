@@ -1,7 +1,7 @@
 ---
 created: 2021-06-07
-note-type:
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 aliases:
 -
 date modified: Sunday, October 10th 2021, 12:53:06 pm

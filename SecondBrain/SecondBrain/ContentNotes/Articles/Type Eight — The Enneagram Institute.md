@@ -1,7 +1,6 @@
 ---
-note-type:
-- content-note
-creator: [[enneagraminstitute.com]]
+cssclass: content
+tags: content [[enneagraminstitute.com]]
 content-type: 
 - articles
 source: https://enneagraminstitute.com/type-8
@@ -58,9 +57,8 @@ source: https://enneagraminstitute.com/type-8
 > When Eights are emotionally healthy, however, they have a resourceful, “can-do” attitude as well as a steady inner drive. They take the initiative and make things happen with a great passion for life. They are honorable and authoritative—natural leaders who have a solid, commanding presence. Their groundedness gives them abundant “common sense” as well as the ability to be decisive. Eights are willing to “take the heat,” knowing that any decision cannot please everyone. But as much as possible, they want to look after the interests of the people in their charge without playing favorites. They use their talents and fortitude to construct a better world for everyone in their lives.
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: enneagraminstitute.com
+cssclass: content
+tags: content enneagraminstitute.com
 content-type: 
 - articles
 source: https://enneagraminstitute.com/type-8

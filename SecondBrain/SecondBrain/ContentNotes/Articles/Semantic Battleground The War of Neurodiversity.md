@@ -1,8 +1,7 @@
 ---
 created: 2021-08-24
-note-type:
-- content-note
-creator: threetrackmind.wordpress.com
+cssclass: content
+tags: content threetrackmind.wordpress.com
 content-type: 
 - articles
 source: https://threetrackmind.wordpress.com/2021/03/04/semantic-battleground-the-war-of-neurodiversity/
@@ -21,9 +20,8 @@ source: https://threetrackmind.wordpress.com/2021/03/04/semantic-battleground-th
 - > "What is attractive about the neurodiversity model is that it doesn’t pathologize and focus disproportionately on what the person struggles with, and instead takes a more balanced view, to give equal attention to what the person can do. In addition it recognizes that genetic or other kinds of biological variation are intrinsic to people’s identity, their sense of [[self]] and personhood, which should be given equal respect alongside any other form of diversity, such as [[gender]]. But to encompass the breadth of the [[autism]] spectrum, we need to make space for the medical model too." 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: threetrackmind.wordpress.com
+cssclass: content
+tags: content threetrackmind.wordpress.com
 content-type: 
 - articles
 source: https://threetrackmind.wordpress.com/2021/03/04/semantic-battleground-the-war-of-neurodiversity/

@@ -1,7 +1,6 @@
 ---
-note-type:
-- content-note
-creator: [[psychologia.co]]
+cssclass: content
+tags: content [[psychologia.co]]
 content-type: 
 - articles
 source: https://psychologia.co/8w9
@@ -18,9 +17,8 @@ source: https://psychologia.co/8w9
 
  ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: psychologia.co
+cssclass: content
+tags: content psychologia.co
 content-type: 
 - articles
 source: https://psychologia.co/8w9

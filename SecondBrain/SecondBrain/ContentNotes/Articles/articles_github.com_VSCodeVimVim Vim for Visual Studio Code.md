@@ -1,8 +1,7 @@
 ---
 creation date: 2021-10-08
-note-type:
-- content-note
-creator: github.com
+cssclass: content
+tags: content github.com
 content-type: 
 - articles
 source: https://github.com/VSCodeVim/Vim#input-method

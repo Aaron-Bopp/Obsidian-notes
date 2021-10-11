@@ -1,8 +1,7 @@
 ---
 created: 2021-06-07
-note-type:
-- evergreen-note
-- topic-note
+cssclass: topic
+tags: topic
 aliases:
 - anxious
 date modified: Wednesday, October 6th 2021, 2:34:37 pm

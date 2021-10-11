@@ -1,8 +1,7 @@
 ---
 created: 2021-07-18
-note-type: 
-- evergreen-note
-- topic-note
+cssclass: topic
+tags: topic
 aliases:
 - 
 embedded:
@@ -13,8 +12,9 @@ embedded:
 
 
 **Status**:: #EVER/SEED 
-**Related-Topics**:: [[America]]
-**Last Edited**:: *`=this.file.mtime`*
+
+**Parents**:: [[America]]
+
 ##### [[Cultural Fundamentalism]] `=length(this.file.inlinks)` 
 - 
 

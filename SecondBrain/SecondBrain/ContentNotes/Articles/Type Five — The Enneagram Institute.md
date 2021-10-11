@@ -1,7 +1,6 @@
 ---
-note-type:
-- content-note
-creator: [[enneagraminstitute.com]]
+cssclass: content
+tags: content [[enneagraminstitute.com]]
 content-type: 
 - articles
 source: https://enneagraminstitute.com/type-5
@@ -80,9 +79,8 @@ source: https://enneagraminstitute.com/type-5
 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: enneagraminstitute.com
+cssclass: content
+tags: content enneagraminstitute.com
 content-type: 
 - articles
 source: https://enneagraminstitute.com/type-5

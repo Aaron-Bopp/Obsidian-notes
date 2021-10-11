@@ -1,8 +1,7 @@
 ---
 created: 2021-08-19
-note-type:
-- content-note
-creator: enneagraminstitute.com
+cssclass: content
+tags: content enneagraminstitute.com
 content-type: 
 - articles
 source: https://www.enneagraminstitute.com/type-6
@@ -56,9 +55,8 @@ source: https://www.enneagraminstitute.com/type-6
 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: enneagraminstitute.com
+cssclass: content
+tags: content enneagraminstitute.com
 content-type: 
 - articles
 source: https://www.enneagraminstitute.com/type-6

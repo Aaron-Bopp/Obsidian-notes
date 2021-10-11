@@ -1,7 +1,7 @@
 ---
 created: 2021-10-03
-note-type: 
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 - theory
 aliases:
 - 

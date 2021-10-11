@@ -1,8 +1,7 @@
 ---
 created: 2021-07-05
-note-type: 
-- evergreen-note
-- topic-note
+cssclass: topic
+tags: topic
 aliases:
 - samsara
 - punabbhava

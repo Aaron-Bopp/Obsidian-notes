@@ -1,0 +1,12 @@
+---
+created: 2021-08-01
+aliases:
+- science denier
+- anti-science
+- anti science
+tags: term
+cssclass: term
+---
+
+
+**See**:: [[Politics]], [[Rise of Misinformation in America]]

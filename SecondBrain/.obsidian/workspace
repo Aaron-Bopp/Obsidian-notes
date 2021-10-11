@@ -4,51 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "35cc10881265ca0c",
+        "id": "e48c4e148df6c341",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
-            "mode": "preview"
+            "file": "SecondBrain/EvergreenNotes/Dataview.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "35cc10881265ca0c",
+              "leaf": "e48c4e148df6c341",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":166.4406779661017}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "d64f1fcddada7095",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "d64f1fcddada7095",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/EGNOTE.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":26},\"to\":{\"line\":8,\"ch\":26}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Dataview.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "d64f1fcddada7095",
+              "leaf": "e48c4e148df6c341",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/index note.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/brain mosaic.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Terms/optimism.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/indoctrination.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/non-binary.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/Moral majority.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/media.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/government.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/brain mosaic.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Terms/Agoraphobia.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Terms/Observational learning.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Terms/sociobiology.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Terms/anti-science.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/ignorance.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Terms/anti-science.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Terms/sociobiology.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Terms/anti-science.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/ignorance.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e48c4e148df6c341",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Terms/anti-science.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -82,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#term",
+                "query": "tag:#topic",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md",
+                "file": "SecondBrain/EvergreenNotes/Dataview.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md",
+                "file": "SecondBrain/EvergreenNotes/Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md"
+                "file": "SecondBrain/EvergreenNotes/Dataview.md"
               }
             },
             "pane-relief:history-v1": {
@@ -200,7 +286,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,7 +307,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md",
+                "file": "SecondBrain/EvergreenNotes/Dataview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-file:INDEX -file:aliases",
@@ -349,17 +436,17 @@
     "width": 565.5,
     "collapsed": true
   },
-  "active": "d64f1fcddada7095",
+  "active": "e48c4e148df6c341",
   "lastOpenFiles": [
-    "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md",
-    "Templates/Templates/TERM.md",
-    "Templates/Templates/CONTENT.md",
-    "Templates/Templates/EGNOTE.md",
-    "Templates/Templates/TOPICNOTE.md",
-    "Templates/Templates/META.md",
-    "SecondBrain/Terms/imitation.md",
-    "SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md",
-    "imitation.md",
-    "SecondBrain/TopicNotes/brain mosaic.md"
+    "SecondBrain/EvergreenNotes/Dataview.md",
+    "SecondBrain/EvergreenNotes/index note.md",
+    "SecondBrain/TopicNotes/brain mosaic.md",
+    "SecondBrain/Terms/optimism.md",
+    "SecondBrain/TopicNotes/indoctrination.md",
+    "SecondBrain/TopicNotes/non-binary.md",
+    "SecondBrain/TopicNotes/Moral majority.md",
+    "SecondBrain/TopicNotes/media.md",
+    "SecondBrain/TopicNotes/government.md",
+    "SecondBrain/Terms/Agoraphobia.md"
   ]
 }

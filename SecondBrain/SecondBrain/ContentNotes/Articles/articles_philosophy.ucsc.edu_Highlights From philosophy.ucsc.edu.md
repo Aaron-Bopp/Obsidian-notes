@@ -1,8 +1,7 @@
 ---
 created: 2021-09-26
-note-type:
-- content-note
-creator: philosophy.ucsc.edu
+cssclass: content
+tags: content philosophy.ucsc.edu
 content-type: 
 - articles
 source: https://philosophy.ucsc.edu/news-events/colloquia-conferences/GeneologyofMorals.pdf

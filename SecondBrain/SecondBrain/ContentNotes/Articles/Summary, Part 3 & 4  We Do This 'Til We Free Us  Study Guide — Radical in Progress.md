@@ -1,8 +1,7 @@
 ---
 created: 2021-08-14
-note-type:
-- content-note
-creator: radicalinprogress.org
+cssclass: content
+tags: content radicalinprogress.org
 content-type: 
 - articles
 source: https://radicalinprogress.org/kaba-2021-3
@@ -33,9 +32,8 @@ Kaba challenges punitive impulses and instead argues for a shift to healing and 
 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: radicalinprogress.org
+cssclass: content
+tags: content radicalinprogress.org
 content-type: 
 - articles
 source: https://radicalinprogress.org/kaba-2021-3

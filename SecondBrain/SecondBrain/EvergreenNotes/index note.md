@@ -1,20 +1,12 @@
 ---
 created: 2021-05-22
-note-type: 
-  evergreen-note
-  topic-note
+aliases:
+- 
+tags: term
+cssclass: term
 ---
 
-#### [[index note]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+An [[index note]] is the entry point for a [[Zettlekassen]], [[second brain]], or any other conception of a [[web of thought]]. It provides an organizational structure for a [[web of thought]], without having to constrict that web to a hierarchical structure. [^1]
 
-An [[index note]] is the entry point for a [[Zettlekassen]], [[second brain]], or any other conception of a [[web of thought]]. It provides an organizational structure for a [[web of thought]], without having to constrict that web to a hierarchical structure.
-
-
----
-
-**Status**:: #EVER/SPROUT 
-*edited `=this.file.mtime`*
-
-**Topics**:: [[Make your inbox into an entry point]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+**See**::
 

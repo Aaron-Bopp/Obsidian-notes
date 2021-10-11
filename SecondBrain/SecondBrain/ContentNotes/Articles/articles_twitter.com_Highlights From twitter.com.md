@@ -1,8 +1,7 @@
 ---
 created: 2021-09-29
-note-type:
-- content-note
-creator: twitter.com
+cssclass: content
+tags: content twitter.com
 content-type: 
 - articles
 source: https://twitter.com/fluffy_folio/status/1442843735008624654

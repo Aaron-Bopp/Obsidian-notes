@@ -1,8 +1,7 @@
 ---
 created: 2021-09-26
-note-type:
-- content-note
-creator: 
+cssclass: content
+tags: content 
 content-type: 
 - articles
 source:

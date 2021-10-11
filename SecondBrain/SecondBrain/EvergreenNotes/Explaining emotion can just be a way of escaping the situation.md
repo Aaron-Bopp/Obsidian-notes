@@ -1,7 +1,7 @@
 ---
 created: 2021-06-11
-note-type:
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 ---
 
 #### [[Explaining emotion can just be a way of escaping the situation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

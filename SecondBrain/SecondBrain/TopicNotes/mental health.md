@@ -7,9 +7,8 @@ embedded:
 - [[my emotions]]
 - [[yoga]]
 - [[neurodivergency]]
-note-type: 
-- evergreen-note
-- topic-note
+cssclass: topic
+tags: topic
 ---
 
 #### [[mental health]] `$=customJS.dv_funcs.topicHeader(dv, this)`

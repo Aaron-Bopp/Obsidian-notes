@@ -1,8 +1,7 @@
 ---
 created: 2021-06-11
-note-type:
-- personal-note
-- evergreen-note
+cssclass: evergreen
+tags: evergreen, personal
 ---
 
 #### [[I have a stored up emotion of hating myself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

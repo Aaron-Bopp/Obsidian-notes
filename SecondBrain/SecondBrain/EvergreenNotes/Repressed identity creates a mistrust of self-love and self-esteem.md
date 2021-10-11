@@ -1,7 +1,7 @@
 ---
 created: 2021-06-28
-note-type:
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 ---
 
 #### [[Repressed identity creates a mistrust of self-love and self-esteem]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -1,8 +1,7 @@
 ---
 created: 2021-09-26
-note-type:
-- content-note
-creator: threetrackmind.wordpress.com
+cssclass: content
+tags: content threetrackmind.wordpress.com
 content-type: 
 - articles
 source: https://threetrackmind.wordpress.com/2021/03/04/semantic-battleground-the-war-of-neurodiversity/

@@ -1,8 +1,7 @@
 ---
 created: 2021-09-26
-note-type:
-- content-note
-creator: nationalseedproject.org
+cssclass: content
+tags: content nationalseedproject.org
 content-type: 
 - articles
 source: https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking-the-invisible-knapsack

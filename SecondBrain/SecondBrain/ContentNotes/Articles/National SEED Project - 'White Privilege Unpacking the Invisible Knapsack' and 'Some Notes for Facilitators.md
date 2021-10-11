@@ -1,8 +1,7 @@
 ---
 created: 2021-08-22
-note-type:
-- content-note
-creator: nationalseedproject.org
+cssclass: content
+tags: content nationalseedproject.org
 content-type: 
 - articles
 source: https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking-the-invisible-knapsack
@@ -35,9 +34,8 @@ source: https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking
 - "obliviousness about white advantage, like obliviousness about male advantage, is kept strongly inculturated in [[America|the United States]] so as to maintain the myth of meritocracy, the myth that democratic choice is equally available to all" 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: nationalseedproject.org
+cssclass: content
+tags: content nationalseedproject.org
 content-type: 
 - articles
 source: https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking-the-invisible-knapsack

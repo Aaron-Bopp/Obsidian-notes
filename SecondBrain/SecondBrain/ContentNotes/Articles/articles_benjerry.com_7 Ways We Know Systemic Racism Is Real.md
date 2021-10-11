@@ -1,8 +1,7 @@
 ---
 created: 2021-09-26
-note-type:
-- content-note
-creator: benjerry.com
+cssclass: content
+tags: content benjerry.com
 content-type: 
 - articles
 source: https://www.benjerry.com/whats-new/2016/systemic-racism-is-real

@@ -1,8 +1,7 @@
 ---
 created: 2021-08-13
-note-type:
-- content-note
-creator: philosophy.ucsc.edu
+cssclass: content
+tags: content philosophy.ucsc.edu
 content-type: 
 - articles
 source: https://philosophy.ucsc.edu/news-events/colloquia-conferences/GeneologyofMorals.pdf
@@ -15,9 +14,8 @@ source: https://philosophy.ucsc.edu/news-events/colloquia-conferences/Geneologyo
 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: philosophy.ucsc.edu
+cssclass: content
+tags: content philosophy.ucsc.edu
 content-type: 
 - articles
 source: https://philosophy.ucsc.edu/news-events/colloquia-conferences/GeneologyofMorals.pdf

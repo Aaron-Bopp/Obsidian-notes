@@ -1,8 +1,7 @@
 ---
 created: 2021-08-14
-note-type: 
-- evergreen-note
-- topic-note
+cssclass: topic
+tags: topic
 aliases:
 - PIC
 - prison industrial complex

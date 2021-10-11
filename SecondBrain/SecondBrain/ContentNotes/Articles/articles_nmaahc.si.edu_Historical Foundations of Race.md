@@ -1,8 +1,7 @@
 ---
 created: 2021-09-26
-note-type:
-- content-note
-creator: nmaahc.si.edu
+cssclass: content
+tags: content nmaahc.si.edu
 content-type: 
 - articles
 source: https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race

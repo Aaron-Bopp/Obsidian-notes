@@ -1,8 +1,7 @@
 ---
 created: 2021-05-03
-note-type: 
-- evergreen-note
-- personal-note
+cssclass: evergreen
+tags: evergreen, personal
 parent: [[Deconstruction (Christianity)]]
 ---
 

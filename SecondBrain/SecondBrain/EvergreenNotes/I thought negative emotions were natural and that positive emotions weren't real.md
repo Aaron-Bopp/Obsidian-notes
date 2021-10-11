@@ -1,8 +1,7 @@
 ---
 created: 2021-06-03
-note-type: 
-- personal-note
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 ---
 
 #### [[I thought negative emotions were natural and that positive emotions weren't real]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

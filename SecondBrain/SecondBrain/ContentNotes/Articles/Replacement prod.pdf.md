@@ -1,8 +1,7 @@
 ---
 created: 2021-08-22
-note-type:
-- content-note
-creator: 
+cssclass: content
+tags: content 
 content-type: 
 - articles
 source:
@@ -75,9 +74,8 @@ alias: Plaut et al. (2018) - Colorblindness and Multiculturalism
 - > "Multiculturalism can provoke threat and prejudice in Whites, but multicultural practices can positively affect outcomes and participation of people of color in differ-ent institutional arenas. Yet it also has the potential to caricature and demotivate them and mask discrimina-tion." 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: 
+cssclass: content
+tags: content 
 content-type: 
 - articles
 source:

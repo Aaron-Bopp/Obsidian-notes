@@ -1,7 +1,7 @@
 ---
 created: 2021-06-15
-note-type: 
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 parent: [[anxiety]]
 ---
 

@@ -1,8 +1,7 @@
 ---
 creation date: 2021-10-09
-note-type:
-- content-note
-creator: forum.obsidian.md
+cssclass: content
+tags: content forum.obsidian.md
 content-type: 
 - articles
 source: https://forum.obsidian.md/t/vim-mode-quality-of-life-improvements/429/69

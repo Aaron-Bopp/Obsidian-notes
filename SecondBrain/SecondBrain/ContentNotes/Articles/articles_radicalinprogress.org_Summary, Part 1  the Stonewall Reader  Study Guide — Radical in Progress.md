@@ -1,8 +1,7 @@
 ---
 created: 2021-09-26
-note-type:
-- content-note
-creator: radicalinprogress.org
+cssclass: content
+tags: content radicalinprogress.org
 content-type: 
 - articles
 source: https://www.radicalinprogress.org/nypl-2019-1

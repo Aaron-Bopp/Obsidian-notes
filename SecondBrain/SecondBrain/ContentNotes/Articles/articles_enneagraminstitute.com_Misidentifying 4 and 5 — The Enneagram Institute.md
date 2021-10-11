@@ -1,8 +1,7 @@
 ---
 created: 2021-09-26
-note-type:
-- content-note
-creator: enneagraminstitute.com
+cssclass: content
+tags: content enneagraminstitute.com
 content-type: 
 - articles
 source: https://www.enneagraminstitute.com/misidentifying-4-and-5

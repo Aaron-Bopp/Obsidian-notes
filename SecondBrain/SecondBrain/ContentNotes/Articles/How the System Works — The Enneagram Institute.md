@@ -1,7 +1,6 @@
 ---
-note-type:
-- content-note
-creator: [[enneagraminstitute.com]]
+cssclass: content
+tags: content [[enneagraminstitute.com]]
 content-type: 
 - articles
 source: https://enneagraminstitute.com/how-the-enneagram-system-works
@@ -96,9 +95,8 @@ source: https://enneagraminstitute.com/how-the-enneagram-system-works
 - Tags: [[there aren't any downsides to working through trauma]] [[human experience]] 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: enneagraminstitute.com
+cssclass: content
+tags: content enneagraminstitute.com
 content-type: 
 - articles
 source: https://enneagraminstitute.com/how-the-enneagram-system-works

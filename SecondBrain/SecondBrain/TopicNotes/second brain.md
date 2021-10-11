@@ -1,11 +1,9 @@
 ---
 created: 2021-05-22
-note-type: 
-  evergreen-note
-  topic-note
-embedded: 
-- [[My Second Brain]]
-parent: [[personal knowledge management]]
+cssclass: topic
+tags: topic
+aliases:
+- 
 ---
 #### [[second brain]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 

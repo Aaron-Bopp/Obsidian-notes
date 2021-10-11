@@ -1,8 +1,7 @@
 ---
 created: 2021-09-26
-note-type:
-- content-note
-creator: crystalknows.com
+cssclass: content
+tags: content crystalknows.com
 content-type: 
 - articles
 source: https://crystalknows.com/enneagram/type-8/wing-9

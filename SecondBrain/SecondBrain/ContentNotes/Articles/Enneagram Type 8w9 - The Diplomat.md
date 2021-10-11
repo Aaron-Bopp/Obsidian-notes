@@ -1,7 +1,6 @@
 ---
-note-type:
-- content-note
-creator: [[crystalknows.com]]
+cssclass: content
+tags: content [[crystalknows.com]]
 content-type: 
 - articles
 source: https://crystalknows.com/enneagram/type-8/wing-9
@@ -19,9 +18,8 @@ source: https://crystalknows.com/enneagram/type-8/wing-9
 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: crystalknows.com
+cssclass: content
+tags: content crystalknows.com
 content-type: 
 - articles
 source: https://crystalknows.com/enneagram/type-8/wing-9

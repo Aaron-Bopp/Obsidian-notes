@@ -1,7 +1,7 @@
 ---
 created: 2021-06-11
-note-type:
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 ---
 
 #### [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

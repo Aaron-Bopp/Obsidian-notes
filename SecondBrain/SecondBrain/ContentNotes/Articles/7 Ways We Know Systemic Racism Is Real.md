@@ -1,16 +1,16 @@
 ---
 created: 2021-09-07
-note-type:
-- content-note
-creator: benjerry.com
+cssclass: content
+tags: content benjerry.com
 content-type: 
 - articles
 source: https://www.benjerry.com/whats-new/2016/systemic-racism-is-real
 ---
 ##### 7 Ways We Know Systemic Racism Is Real
 **Related-Topics**:: 
+
 **Source**:: [7 Ways We Know Systemic Racism Is Real](https://www.benjerry.com/whats-new/2016/systemic-racism-is-real)
-**Last Edited**:: *`=this.file.mtime`*
+
 
 ## Highlights
 - > "white families hold 90% of the national wealth, [[Latine|Latino]] families hold 2.3%, and Black families hold 2.6%" 
@@ -22,9 +22,8 @@ source: https://www.benjerry.com/whats-new/2016/systemic-racism-is-real
 - > "Statistics also show that Black drivers are about 30% more likely than whites to be pulled over by the policeOpens a new window." 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: benjerry.com
+cssclass: content
+tags: content benjerry.com
 content-type: 
 - articles
 source: https://www.benjerry.com/whats-new/2016/systemic-[[racism]]-is-real

@@ -1,8 +1,8 @@
 ---
 parent: [[trauma]]
 created: 2021-06-25
-note-type: 
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 
 ---
 

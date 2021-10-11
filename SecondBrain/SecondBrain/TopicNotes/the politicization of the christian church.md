@@ -1,7 +1,7 @@
 ---
 created: 2021-06-28
-note-type: 
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 
 ---
 #### [[The Politicization of the Christian Church]] `$=customJS.dv_funcs.topicHeader(dv, this)`

@@ -1,8 +1,7 @@
 ---
 created: 2021-07-21
-note-type: 
-- evergreen-note
-- topic-note
+cssclass: topic
+tags: topic
 - personal-note
 aliases:
 - 

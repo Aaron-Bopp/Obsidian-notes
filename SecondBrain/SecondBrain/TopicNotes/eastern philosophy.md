@@ -1,8 +1,7 @@
 ---
 created: 2021-07-03
-note-type: 
-- evergreen-note
-- topic-note
+cssclass: topic
+tags: topic
 aliases:
 - 
 ---
@@ -20,7 +19,7 @@ aliases:
 
 ##### [[eastern philosophy]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
-- 
+- [[Bhuddism]]
 
 
 ### <hr class="dataviews"/>

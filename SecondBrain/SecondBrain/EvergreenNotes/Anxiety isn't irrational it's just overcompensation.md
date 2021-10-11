@@ -1,7 +1,7 @@
 ---
 created: 2021-06-15
-note-type: 
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 ---
 
 #### [[Anxiety isn't irrational it's just overcompensation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

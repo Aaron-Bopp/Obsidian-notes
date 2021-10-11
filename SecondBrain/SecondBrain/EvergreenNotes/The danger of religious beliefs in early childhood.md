@@ -1,7 +1,7 @@
 ---
 created: 2021-06-11
-note-type:
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 ---
 
 #### [[The danger of religious beliefs in early childhood]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

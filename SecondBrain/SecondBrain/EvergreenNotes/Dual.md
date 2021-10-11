@@ -1,8 +1,8 @@
 
 ---
 created: 2021-06-13
-note-type: 
-- evergreen-note
+cssclass: evergreen
+tags: evergreen
 - software
 - tool
 ---

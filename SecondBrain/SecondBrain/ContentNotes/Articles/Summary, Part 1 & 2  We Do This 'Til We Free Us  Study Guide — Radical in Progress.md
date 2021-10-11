@@ -1,8 +1,7 @@
 ---
 created: 2021-08-14
-note-type:
-- content-note
-creator: radicalinprogress.org
+cssclass: content
+tags: content radicalinprogress.org
 content-type: 
 - articles
 source: https://radicalinprogress.org/kaba-2021-2
@@ -100,9 +99,8 @@ source: https://radicalinprogress.org/kaba-2021-2
 
 ---
 created: 2021-08-18
-note-type:
-- content-note
-creator: radicalinprogress.org
+cssclass: content
+tags: content radicalinprogress.org
 content-type: 
 - articles
 source: https://radicalinprogress.org/kaba-2021-2
@@ -200,9 +198,8 @@ source: https://radicalinprogress.org/kaba-2021-2
 
 ---
 created: 2021-09-16
-note-type:
-- content-note
-creator: radicalinprogress.org
+cssclass: content
+tags: content radicalinprogress.org
 content-type: 
 - articles
 source: https://radicalinprogress.org/kaba-2021-2
