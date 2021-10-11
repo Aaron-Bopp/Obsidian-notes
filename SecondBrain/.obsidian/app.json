@@ -9,7 +9,7 @@
   "spellcheck": false,
   "strictLineBreaks": true,
   "newFileLocation": "root",
-  "vimMode": true,
+  "vimMode": false,
   "spellcheckDictionary": [
     "habitus",
     "Hermione",
@@ -36,7 +36,9 @@
     "transformational",
     "Transformative",
     "Treyvon",
-    "Nigrescence"
+    "Nigrescence",
+    " juvi",
+    "juvie"
   ],
   "readableLineLength": false,
   "fileSortOrder": "alphabetical",

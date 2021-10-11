@@ -39,5 +39,6 @@
   "find-unlinked-files",
   "emoji-shortcodes",
   "obsidian-codemirror-options",
-  "code-block-copy"
+  "code-block-copy",
+  "quickadd"
 ]

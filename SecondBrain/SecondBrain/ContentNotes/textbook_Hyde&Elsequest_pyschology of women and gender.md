@@ -14,8 +14,8 @@ bib:
 
 **Last Edited**:: *`=this.file.mtime`*
 
-
-# [[Social Learning Theory]]
+# Chapter 2
+## [[Social Learning Theory]]
 - keywords 
 	- imitation & modeling
 		- children do what they see
@@ -28,7 +28,7 @@ bib:
 	- punishment
 	- imitation
 	- observational learning 
-- **imitation** is motivated by the power of authority figures
+- **[[imitation]]** is motivated by the power of authority figures
 - **[[Observational learning]]** means that children can anticipate consequences of actions they have never performed
 - rewards for certain behaviors can overcome gender stereotypes (albert bandura film study pg 34)
 - > "Attention is the cognitive process that weeds out most of the behaviors that are irrelevant to the child and focuses on the few that are most relevant" pg 35
@@ -37,14 +37,15 @@ bib:
 - **self-efficacy** - an individuals belief in their ability to accomplish a particular task
 - **social learning theory** suggests that gender roles can be easily changed if authority figures change their behaviors
 
-# cognitive developmental theory
+## cognitive developmental theory
 - children's cognitive organization is different than adults and changes over time
 - **gender constancy** is import ot children's gender developement and gender identity
 
-# gender schema theory
+## gender schema theory
 - we each have a **gender schema** that processes and organizes gender-linked associations
 - 5 and 6 year old children switched the gender of people in gender inconsistent scenarios and kept it in gender stereotypical scenarios pg 41
-# [[Evolutionary Pyschology]]	
+# Chapter 7
+## [[Evolutionary Pyschology]]	
 - **[[sociobiology]]** - the applicatoin of evolutionary theory (natural selection) to social behavior [[socialization|social fitness]]
 - **evolutionary fitness** ==> the relative number of genes an animal contrubutes to the next generation
 - **parental investment** may play a role in in why females normally take most care of the offspring
@@ -75,7 +76,7 @@ bib:
 		- biological differences are reinforced by gender roles
 
 
-# Lifespan development
+## Lifespan development
 - **Temperament** (in [[early childhood development]]) => biologically based emotional and behavioral traits that appear early in life and predict later behaviors, personality, and pyschological problems.
 	- few gender differences exist in temperament 
 		- activity differences (males more active) this difference grows into adolescence and shrinks into near obscurity in adulthood
@@ -95,4 +96,24 @@ bib:
 - **Channeling** => the differential treatment in which parents select differenct toys, activities for boys and girls can also involve modeling
 - Removing people from negative gendered sterotypes does not mean you are not stereotyping them by gender.
 - Male sterotypes are less broad but more harshly inforced, while female stereotypes are more rigid but more lenient
-- 
+# Chapter 3
+- Gender stereotypes can be implicit or explicit 
+- A liberal view of gender does not equate to a lack of gender stereotyping
+- Q: Why do people stereotype
+	- [[Stereotyping has the pyschological goal of comprehension and self-enhancement]]. When meet a new person or interact with anew situation we fill in assumed information as a part of the process of learning about them. This is a normal process but overreliance on it can lead to negative stereotyping and making the person feel judged. Stereotyping another groups behavior as worse than our own personal behavior or the behavior of someone we admire is form of self-enhancement. This behavior leads to harmless distinctions and harmful beliefs ([[racism]], [[Homophobia]], etc)
+- Q: How is implicit bias measured
+	- Through reaction times. The faster an association is made the stronger that bias is.
+- Q: What is [[stereotype threat]]?
+	- A [[stereotype threat]] is when a person is concerned a negative sterotype affecting their treatment in a situation. This can lead to lower performance and higher stress. There are two pyschological processes that underlie stereotype threat:
+		1. *Underperformance due to extra pressure*: The extra pressure of disproving a stereotype and avoid conflict leads to a lower [[working memory]]
+		2. *Underperformance due to threats of self-integrity and belonging*: If a person's [[self-worth]] or sense of belonging is threatened by a situation will protect themself by setting lower goals, withdrawing from the situation, or having less motivation.
+- Q: What is deindividuation?
+	- A state where the person is anonymous and the [[self|identity]] is not emphasized or demphasized. Individuation brings the identity to the front and of mind and places the person in a social situation. Deindividuation has been shown to remove gender differentials in some studies.
+- [[Identity is a sense of self, not a pattern of traits or behavior]]
+	- Most people who score high on adrogyny scales have definitie cisgender indentities
+# Chapter 10 Biology and gender
+- [[Epigenetics]] - changes in the gene expressions caused by factors other than DNA
+- Q: What is a brain mosaic?
+	- ![[brain mosaic]]
+- Q: Do trans people's [[brain mosaic]] match their assigned or identified gender?
+	- Brain volume of trans people pre-hormones was a complex mix of masculine, feminine, and neutral sized regions and differences lessened towards their assigned gender on hormones. Research in this area is limited, and we do not have a full understanding of why certain regions are different sizes between men and women.

@@ -1,9 +1,6 @@
-
 <% tp.file.include("[[META]]") %>
-note-type:
-- evergreen-note
-aliases:
--
+cssclass: concept
+tags: concept
 ---
 <% tp.file.include("[[EVERGREEN_HEADER]]") %>
 
@@ -17,4 +14,4 @@ aliases:
 **Topics**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-<% tp.file.include("[[MODIFIED FIELD]]") %>
+

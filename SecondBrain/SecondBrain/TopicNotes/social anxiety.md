@@ -12,7 +12,7 @@ date modified: Monday, October 4th 2021, 12:40:55 am
 
 **Definition**:: A chronic [[mental health]] condition in which social interactions cause irrational [[anxiety]].
 
-**Status**:: #EVER/SPROUT/WATER  
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[anxiety]], [[mental health]]

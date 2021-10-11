@@ -122,7 +122,61 @@
       },
       "prepend": false,
       "task": false
+    },
+    {
+      "id": "9dd65572-9df2-48be-8faf-2852127bb2b5",
+      "name": "Term",
+      "type": "Macro",
+      "command": false,
+      "macroId": "cc8a0584-9c3c-49bd-8cf1-cb71501d856b"
     }
   ],
-  "macros": []
+  "macros": [
+    {
+      "name": "Term",
+      "id": "cc8a0584-9c3c-49bd-8cf1-cb71501d856b",
+      "commands": [
+        {
+          "name": "Capture",
+          "type": "NestedChoice",
+          "id": "5a221053-f3cf-43d4-aaa0-a9cddcccf6aa",
+          "choice": {
+            "id": "c155369f-9786-4cbc-822e-2a6b9d8ed3d7",
+            "name": "Capture",
+            "type": "Capture",
+            "command": false,
+            "appendLink": true,
+            "captureTo": "SecondBrain/Terms/{{VALUE}}",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": true,
+              "createWithTemplate": false,
+              "template": "Templates/Templates/TERM.md"
+            },
+            "format": {
+              "enabled": true,
+              "format": "{{TEMPLATE:Templates/Templates/TERM.md}}\n\n[^1]: {{LINKCURRENT}} "
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ]
 }

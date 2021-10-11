@@ -11,11 +11,11 @@ date updated: Thursday, September 16th 2021, 10:06:06 pm
 
 Snippets:
 
-Replace [underlinedtext]{.ul}
-`\[([\w\s\(\)\:]*)\]{.ul}` or `/\[([^\]]+)\]\{\.ul\}/`
-`<u>$1</u>`
-Replace numbered lists in markdown syntax
-`/^[\*\_\>\s]+(\d*)[\*\_\>\s\.]+/`
+- Replace [underlinedtext]{.ul}
+	- `\[([\w\s\(\)\:]*)\]{.ul}` or `/\[([^\]]+)\]\{\.ul\}/`
+	- `<u>$1</u>`
+- Replace numbered lists in markdown syntax
+	- `/^[\*\_\>\s]+(\d*)[\*\_\>\s\.]+/`
 
 ### <hr class="footnote"/>
 

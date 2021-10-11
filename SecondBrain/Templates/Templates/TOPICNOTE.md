@@ -1,9 +1,6 @@
 <% tp.file.include("[[META]]") %>
-note-type: 
-- evergreen-note
-- topic-note
-aliases:
-- 
+cssclass: topic
+tags: topic
 ---
 
 <% tp.file.include("[[TOPIC_HEADER]]") %>

@@ -4,47 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "1dab9ae9185f7d21",
+        "id": "35cc10881265ca0c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/self.md",
+            "file": "SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md",
             "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 2,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "1dab9ae9185f7d21",
+              "leaf": "35cc10881265ca0c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/self-image.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Primary Sources/Classes/Pyschology/Pyschology of Race and Gender notes.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":166.4406779661017}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "d64f1fcddada7095",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 1,
+          "stack": [
+            {
+              "leaf": "d64f1fcddada7095",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/EGNOTE.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":26},\"to\":{\"line\":8,\"ch\":26}}}"
             },
             {
-              "leaf": "1dab9ae9185f7d21",
+              "leaf": "d64f1fcddada7095",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/self-perception.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":2.857142857142857}"
-            },
-            {
-              "leaf": "1dab9ae9185f7d21",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/self.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":21.37735849056604}"
-            },
-            {
-              "leaf": "1dab9ae9185f7d21",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Primary Sources/Classes/Lit/Moonlight Essay.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":11.061162079510703}"
-            },
-            {
-              "leaf": "1dab9ae9185f7d21",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Moonlight Companion Peice.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -78,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER/SEED",
+                "query": "tag:#term",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,14 +101,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/self.md",
+                "file": "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             },
             "pane-relief:history-v1": {
@@ -118,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/self.md",
+                "file": "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/TopicNotes/self.md"
+                "file": "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md"
               }
             },
             "pane-relief:history-v1": {
@@ -196,8 +200,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/self.md",
+                "file": "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "-file:INDEX -file:aliases",
@@ -343,20 +346,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 699.0747680664062,
+    "width": 565.5,
     "collapsed": true
   },
-  "active": "1dab9ae9185f7d21",
+  "active": "d64f1fcddada7095",
   "lastOpenFiles": [
-    "SecondBrain/TopicNotes/self.md",
-    "SecondBrain/TopicNotes/self-perception.md",
-    "SecondBrain/TopicNotes/self-image.md",
-    "SecondBrain/TopicNotes/gender.md",
-    "SecondBrain/Primary Sources/Classes/Lit/Moonlight Essay.md",
-    "non-binary.md",
-    "ignorance.md",
-    "SecondBrain/EvergreenNotes/content note.md",
-    "SecondBrain/TopicNotes/social anxiety.md",
-    "SecondBrain/TopicNotes/anxiety.md"
+    "SecondBrain/ContentNotes/Articles/7 Ways We Know Systemic Racism Is Real.md",
+    "Templates/Templates/TERM.md",
+    "Templates/Templates/CONTENT.md",
+    "Templates/Templates/EGNOTE.md",
+    "Templates/Templates/TOPICNOTE.md",
+    "Templates/Templates/META.md",
+    "SecondBrain/Terms/imitation.md",
+    "SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md",
+    "imitation.md",
+    "SecondBrain/TopicNotes/brain mosaic.md"
   ]
 }

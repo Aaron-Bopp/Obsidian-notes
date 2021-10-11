@@ -22,6 +22,7 @@ date modified: Monday, October 4th 2021, 9:58:06 pm
 ##### [[self]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Identity is your understanding of yourself and your interaction with the world]]
+-  [[Identity is a sense of self not a pattern of traits or behavior]]
 - There are two modes of viewing yourself, [[self-perception]] and [[self-image]]
 	- ![[self-image#self-image customJS dv_funcs topicOutlineHeader dv this]]
 	- ![[self-perception#self-perception customJS dv_funcs topicOutlineHeader dv this]]
