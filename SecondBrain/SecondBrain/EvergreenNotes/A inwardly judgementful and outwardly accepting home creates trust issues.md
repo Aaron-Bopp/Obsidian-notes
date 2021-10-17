@@ -1,14 +1,15 @@
 ---
 created: 2021-07-30
 cssclass: evergreen
-tags: evergreen
+tag: 
+  - evergreen
 aliases:
-- 
+- [[A inwardly judgementful and outwardly accepting home creates trust issues]]
 ---
 
 #### [[A inwardly judgementful and outwardly accepting home creates trust issues]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
+#TO/DO/WRITE 
 
 ### <hr class="footnote"/>
 

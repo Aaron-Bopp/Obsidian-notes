@@ -40,5 +40,8 @@
   "emoji-shortcodes",
   "obsidian-codemirror-options",
   "code-block-copy",
-  "quickadd"
+  "quickadd",
+  "obsidian-contextual-typography",
+  "obsidian-spaced-repetition",
+  "adjacency-matrix-maker"
 ]

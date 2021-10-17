@@ -178,7 +178,11 @@
 
 1.  Chapter 3: [[Gender]] Stereotypes and [[Gender]] Differences, pp. 61-81. Access through your Else-Quest & Hyde (2018) textbook.
 2.  Chapter 10: Biology and [[Gender]], pp. 223-240. Access through your Else-Quest & Hyde (2018) textbook.
-
+- Stereotypes are beliefs => pejudices are feelings => discrimination is treatment towards a group a member of group
+- Difference between [[stereotype threat]] and [[self-fullfilling prophecy]]
+	- [[stereotype threat]] is state-dependent (sterotype threat needs to be reinforced) and usually affects performance that the individual is good at
+	- [[self-fullfilling prophecy]] is a chronic hindrance on performance caused by lack of confidence
+	- Repeated experiences of [[stereotype threat]] can result in a [[self-fullfilling prophecy]]
 # Week 10 
 
 1.  “[Frequently Asked Questions about [[Transgender]] People](https://transequality.org/issues/resources/frequently-asked-questions-about-[[transgender]]-people),” web article from _National Center for [[Transgender]] Equality_.

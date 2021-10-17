@@ -1,8 +1,7 @@
 ---
 created: 2021-06-11
-note-type:
-- personal-note
-- evergreen-note
+cssclass: evergreen
+tags: evergreen, personal
 ---
 
 In order for me to feel like [[my parents]] [[love]] me, I need to see them empathize with me --> which requires them too consider the fact that they might be wrong. 

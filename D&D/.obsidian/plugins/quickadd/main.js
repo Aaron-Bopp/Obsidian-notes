@@ -10360,8 +10360,8 @@ function getTemplater(app) {
 async function replaceTemplaterTemplatesInCreatedFile(app, file, force = false) {
     const templater = getTemplater(app);
     if (templater && (force || !(templater === null || templater === void 0 ? void 0 : templater.settings["trigger_on_file_creation"]))) {
-        const active_file = app.workspace.getActiveFile();
-        await templater.templater.parse_template({ target_file: file, active_file });
+        app.workspace.getActiveFile();
+        await templater.templater.overwrite_file_commands(file);
     }
 }
 async function templaterParseTemplate(app, templateContent, targetFile) {

@@ -2,7 +2,6 @@
 created: 2021-06-13
 cssclass: evergreen
 tags: evergreen
-
 ---
 
 #### [[Self-hatred is born out of dissonance between self-image and self-perception]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

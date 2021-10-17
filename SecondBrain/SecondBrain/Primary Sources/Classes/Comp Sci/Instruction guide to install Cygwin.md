@@ -30,7 +30,7 @@ Instruction guide to install Cygwin
 
 8.  Write a sample "hello world program" in the editor.
 
-> #include \<stdio.h>
+> \#include \<stdio.h>
 >
 > int main() {
 >

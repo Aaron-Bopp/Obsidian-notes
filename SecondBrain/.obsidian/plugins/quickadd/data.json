@@ -145,7 +145,7 @@
             "name": "Capture",
             "type": "Capture",
             "command": false,
-            "appendLink": true,
+            "appendLink": false,
             "captureTo": "SecondBrain/Terms/{{VALUE}}",
             "captureToActiveFile": false,
             "createFileIfItDoesntExist": {
@@ -155,7 +155,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "{{TEMPLATE:Templates/Templates/TERM.md}}\n\n[^1]: {{LINKCURRENT}} "
+              "format": "{{TEMPLATE:Templates/Templates/TERM.md}} {{LINKCURRENT}}\n"
             },
             "insertAfter": {
               "enabled": false,
@@ -166,6 +166,44 @@
             },
             "prepend": false,
             "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Get inside brackets",
+      "id": "63db05b3-4b3a-40d7-be4f-169395e2e77e",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "8b395c43-65b6-46ca-b258-7ddd4f0bec27",
+          "choice": {
+            "id": "d943acb5-85ab-478d-8b5d-0c640d9d55cb",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Templates/GET_TITLE.md",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
             "openFileInNewTab": {
               "enabled": false,
               "direction": "vertical",

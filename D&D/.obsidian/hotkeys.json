@@ -138,15 +138,6 @@
     }
   ],
   "editor:toggle-italics": [],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
-    }
-  ],
   "command-palette:open": [
     {
       "modifiers": [
@@ -269,7 +260,7 @@
       "key": ","
     }
   ],
-  "obsidian-toggle-vim:toggle-vim-mode": [
+  "leader-hotkeys-obsidian:leader": [
     {
       "modifiers": [
         "Mod"
@@ -277,12 +268,21 @@
       "key": " "
     }
   ],
-  "leader-hotkeys-obsidian:leader": [
+  "darlal-switcher-plus:switcher-plus:open": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": " "
+      "key": "O"
+    }
+  ],
+  "obsidian-toggle-vim:toggle-vim-mode": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
     }
   ]
 }

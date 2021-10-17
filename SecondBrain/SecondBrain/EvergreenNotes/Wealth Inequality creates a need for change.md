@@ -10,7 +10,7 @@ aliases:
 
 Studies have found that [[Wealth Inequality]] makes people generally unhappy and have a greater sense of unfairness and untrustworthiness toward others. [^1] 
 
-
+#TO/EXPLORE/READ ![[Online Assignment 1#^e76760]]
 
 ### <hr class="footnote"/>
 

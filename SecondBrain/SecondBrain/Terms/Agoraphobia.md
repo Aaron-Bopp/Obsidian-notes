@@ -5,7 +5,6 @@ aliases:
 tags: term
 cssclass: term
 ---
-
 fear of going outside
 - developed from the fear of having a panic attack in an unkown environment
 - So afraid of losing control outside of their home but they never leave
@@ -14,3 +13,4 @@ fear of going outside
 **See**::
 
 [^1]: 
+

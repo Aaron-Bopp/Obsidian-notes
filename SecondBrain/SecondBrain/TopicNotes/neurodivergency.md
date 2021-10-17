@@ -10,8 +10,6 @@ aliases:
 
 **Definition**:: differing in mental or neurological function from what is considered typical or normal (frequently used with reference to autistic spectrum disorders); not neurotypical.
 
-### Origin
-
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
@@ -20,10 +18,16 @@ aliases:
 
 ##### [[neurodivergency]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[ADHD]]
+	- Symptoms
+		- [[Rejection Sensitivity]]
+		- [[Emotional Deregulation]]
+		- [[How ADHD effects concentration]]
+	- Coping mechanisms
+		- [[Tips for concentration]]
 - [[Autism]]
 
 ### <hr class="dataviews"/>
-
+📄
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
 
 

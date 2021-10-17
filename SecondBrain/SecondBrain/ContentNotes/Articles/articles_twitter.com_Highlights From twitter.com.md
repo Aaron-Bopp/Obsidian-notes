@@ -1,18 +1,16 @@
 ---
-created: 2021-09-29
-cssclass: content
-tags: content twitter.com
-content-type: 
+created: 2021-10-11
+tags: content
+type: 
 - articles
-source: https://twitter.com/fluffy_folio/status/1442843735008624654
 ---
 ##### Highlights From twitter.com
 
-**Topics**:: 
+**Related**:: 
 
 **Source**:: [Highlights From twitter.com](https://twitter.com/fluffy_folio/status/1442843735008624654)
 
-**Last Edited**:: *`=this.file.mtime`*
+**Creator**:: twitter.com
 
 ## Highlights
 - > "Sand Thing – Medium monstrosity, unaligned

@@ -10,9 +10,7 @@ date modified: Sunday, October 3rd 2021, 11:17:19 am
 /
 ```
 This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[personal knowledge management]] system.
-```dataviewjs
-dv.list(dv.current())
-```
+
 # Entry Points
 
 - [[QUICKNOTE]]

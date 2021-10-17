@@ -14,7 +14,7 @@ bib:
 
 **Last Edited**:: *`=this.file.mtime`*
 
-# Chapter 2
+# Chapter 2 
 ## [[Social Learning Theory]]
 - keywords 
 	- imitation & modeling
@@ -23,7 +23,7 @@ bib:
 		- children observe behavior models and then do it at a later time
 	- gender typing
 		- learning of gender roles and behaviors
-- key mechanisms of social learning theory (a theory of human developement)
+- key mechanisms of [[Social Learning Theory]] (a theory of human developement)
 	- reinforcement
 	- punishment
 	- imitation
@@ -35,7 +35,7 @@ bib:
 	- gender makes some behaviors relevant and some not
 	- mix gender groups makes causes more observation of gender appropriateness ( bussey and bandura 1999)
 - **self-efficacy** - an individuals belief in their ability to accomplish a particular task
-- **social learning theory** suggests that gender roles can be easily changed if authority figures change their behaviors
+- **[[Social Learning Theory]]** suggests that gender roles can be easily changed if authority figures change their behaviors
 
 ## cognitive developmental theory
 - children's cognitive organization is different than adults and changes over time

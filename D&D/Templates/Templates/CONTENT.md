@@ -1,26 +1,17 @@
----
-created: <% tp.file.creation_date("YYYY-MM-DD") %>
-note-type: 
-- content-note
-creator:
-content-type:
+<% tp.file.include("[[META]]") %>
+cssclass: content
+tags: content
+type:
 - 
-source:
 bib:
+aliases:
 ---
 
-###### [[<% tp.file.title %>]]
-**Related-Topics**:: 
+##### [[<% tp.file.title %>]]
 
-<% tp.file.include("[[MODIFIED FIELD]]") %>
+**Creator**::
 
+**Source**::
 
----
-
-
-##### MarkdownText
-<% tp.system.clipboard() %>
-
-##### PlainText
-<% tp.system.clipboard() %>
+**Related**:: 
 

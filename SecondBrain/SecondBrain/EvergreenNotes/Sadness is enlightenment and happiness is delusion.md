@@ -2,7 +2,6 @@
 created: 2021-06-11
 cssclass: evergreen
 tags: evergreen
-parent: [[depression]]
 date modified: Monday, October 4th 2021, 9:56:59 pm
 ---
 

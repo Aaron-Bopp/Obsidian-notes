@@ -6637,6 +6637,14 @@ function hierToStr(hier) {
 function removeDuplicates(arr) {
     return [...new Set(arr)];
 }
+/**
+ * Adds or updates the given yaml `key` to `value` in the given TFile
+ * @param  {string} key
+ * @param  {string} value
+ * @param  {TFile} file
+ * @param  {FrontMatterCache|undefined} frontmatter
+ * @param  {{[fun:string]:(...args:any} api
+ */
 const createOrUpdateYaml = async (key, value, file, frontmatter, api) => {
     let valueStr = value.toString();
     if (!frontmatter || frontmatter[key] === undefined) {
@@ -24492,6 +24500,16 @@ class BreadcrumbsSettingTab extends obsidian.PluginSettingTab {
         const generalDetails = containerEl.createEl("details");
         generalDetails.createEl("summary", { text: "General Options" });
         new obsidian.Setting(generalDetails)
+            .setName('CSV Breadcrumb Paths')
+            .setDesc('The file path of a csv files with breadcrumbs information.')
+            .addText(text => {
+            text.setValue(settings.CSVPaths);
+            text.inputEl.onblur = async () => {
+                settings.CSVPaths = text.inputEl.value;
+                await plugin.saveSettings();
+            };
+        });
+        new obsidian.Setting(generalDetails)
             .setName("Refresh Index on Note Change")
             .setDesc("Refresh the Breadcrumbs index data everytime you change notes. This is how Breadcrumbs used to work, making it responsive to changes immediately after changing notes. However, this can be very slow on large vaults, so it is off by default.")
             .addToggle((toggle) => toggle
@@ -26327,7 +26345,6 @@ class MatrixView extends obsidian.ItemView {
                                 alt = altLink;
                                 return;
                             }
-                            console.log({ alt, altLink });
                         });
                     }
                 }
@@ -26416,41 +26433,8 @@ class MatrixView extends obsidian.ItemView {
         });
         return index;
     }
-    async draw() {
-        this.contentEl.empty();
-        const settings = this.plugin.settings;
-        debugGroupStart(settings, "debugMode", "Draw Matrix/List View");
-        const hierGs = this.plugin.currGraphs;
-        const { userHierarchies } = this.plugin.settings;
-        const currFile = this.app.workspace.getActiveFile();
-        const viewToggleButton = this.contentEl.createEl("button", {
-            text: this.matrixQ ? "List" : "Matrix",
-        });
-        viewToggleButton.addEventListener("click", async () => {
-            this.matrixQ = !this.matrixQ;
-            viewToggleButton.innerText = this.matrixQ ? "List" : "Matrix";
-            await this.draw();
-        });
-        const refreshIndexButton = this.contentEl.createEl("button", {
-            text: "Refresh Index",
-        });
-        refreshIndexButton.addEventListener("click", async () => {
-            await this.plugin.refreshIndex();
-        });
-        const data = hierGs.hierGs.map((hier) => {
-            const hierData = {
-                up: undefined,
-                same: undefined,
-                down: undefined,
-            };
-            DIRECTIONS.forEach((dir) => {
-                // This is merging all graphs in Dir **In a particular hierarchy**, not accross all hierarchies like mergeGs(getAllGsInDir()) does
-                hierData[dir] = mergeGs(...Object.values(hier[dir]));
-            });
-            return hierData;
-        });
-        debug(settings, { data });
-        const hierSquares = userHierarchies.map((hier, i) => {
+    getHierSquares(userHierarchies, data, currFile, settings) {
+        return userHierarchies.map((hier, i) => {
             var _a;
             const [currUpG, currSameG, currDownG] = [
                 data[i].up,
@@ -26517,6 +26501,13 @@ class MatrixView extends obsidian.ItemView {
             iUp = this.removeDuplicateImplied(rUp, iUp);
             iSameArr = this.removeDuplicateImplied(rSame, iSameArr);
             iDown = this.removeDuplicateImplied(rDown, iDown);
+            const iSameNoDup = [];
+            iSameArr.forEach(impSib => {
+                if (iSameNoDup.every(noDup => noDup.to !== impSib.to)) {
+                    iSameNoDup.push(impSib);
+                }
+            });
+            iSameArr = iSameNoDup;
             debug(settings, {
                 rUp,
                 iUp,
@@ -26548,31 +26539,59 @@ class MatrixView extends obsidian.ItemView {
             };
             return [upSquare, sameSquare, downSquare];
         });
+    }
+    async draw() {
+        this.contentEl.empty();
+        const { settings } = this.plugin;
+        debugGroupStart(settings, "debugMode", "Draw Matrix/List View");
+        const hierGs = this.plugin.currGraphs;
+        const { userHierarchies } = settings;
+        const currFile = this.app.workspace.getActiveFile();
+        const viewToggleButton = this.contentEl.createEl("button", {
+            text: this.matrixQ ? "List" : "Matrix",
+        });
+        viewToggleButton.addEventListener("click", async () => {
+            this.matrixQ = !this.matrixQ;
+            viewToggleButton.innerText = this.matrixQ ? "List" : "Matrix";
+            await this.draw();
+        });
+        const refreshIndexButton = this.contentEl.createEl("button", {
+            text: "Refresh Index",
+        });
+        refreshIndexButton.addEventListener("click", async () => {
+            await this.plugin.refreshIndex();
+        });
+        const data = hierGs.hierGs.map((hier) => {
+            const hierData = {
+                up: undefined,
+                same: undefined,
+                down: undefined,
+            };
+            DIRECTIONS.forEach((dir) => {
+                // This is merging all graphs in Dir **In a particular hierarchy**, not accross all hierarchies like mergeGs(getAllGsInDir()) does
+                hierData[dir] = mergeGs(...Object.values(hier[dir]));
+            });
+            return hierData;
+        });
+        debug(settings, { data });
+        const hierSquares = this.getHierSquares(userHierarchies, data, currFile, settings);
         debug(settings, { hierSquares });
         const filteredSquaresArr = hierSquares.filter((squareArr) => squareArr.some((square) => square.realItems.length + square.impliedItems.length > 0));
+        const compInput = {
+            target: this.contentEl,
+            props: {
+                filteredSquaresArr,
+                currFile,
+                settings,
+                matrixView: this,
+                app: this.app,
+            },
+        };
         if (this.matrixQ) {
-            this.view = new Matrix({
-                target: this.contentEl,
-                props: {
-                    filteredSquaresArr,
-                    currFile,
-                    settings: settings,
-                    matrixView: this,
-                    app: this.app,
-                },
-            });
+            this.view = new Matrix(compInput);
         }
         else {
-            this.view = new Lists({
-                target: this.contentEl,
-                props: {
-                    filteredSquaresArr,
-                    currFile,
-                    settings: settings,
-                    matrixView: this,
-                    app: this.app,
-                },
-            });
+            this.view = new Lists(compInput);
         }
         debugGroupEnd(settings, "debugMode");
     }
@@ -36412,7 +36431,7 @@ function get_each_context_2(ctx, list, i) {
 	return child_ctx;
 }
 
-// (93:8) {#if step.value && settings.gridDots}
+// (95:8) {#if step.value && settings.gridDots}
 function create_if_block$1(ctx) {
 	let div;
 	let each_value_2 = lodash.range(Math.floor(/*wordCounts*/ ctx[2][/*step*/ ctx[24].value] / 1000));
@@ -36470,7 +36489,7 @@ function create_if_block$1(ctx) {
 	};
 }
 
-// (95:12) {#each range(Math.floor(wordCounts[step.value] / 1000)) as i}
+// (97:12) {#each range(Math.floor(wordCounts[step.value] / 1000)) as i}
 function create_each_block_2(ctx) {
 	let span;
 
@@ -36496,6 +36515,7 @@ function create_each_block_1$1(ctx) {
 	let div0;
 	let t0_value = /*step*/ ctx[24].value + "";
 	let t0;
+	let div0_class_value;
 	let t1;
 	let t2;
 	let div1_class_value;
@@ -36520,8 +36540,9 @@ function create_each_block_1$1(ctx) {
 			t1 = space();
 			if (if_block) if_block.c();
 			t2 = space();
+			attr(div0, "class", div0_class_value = "" + (null_to_empty(/*resolvedClass*/ ctx[7](/*step*/ ctx[24].value, /*currFile*/ ctx[5])) + " svelte-46v1v3"));
 
-			attr(div1, "class", div1_class_value = "breadcrumbs-trail-grid-item \r\n            " + /*resolvedClass*/ ctx[7](/*step*/ ctx[24].value, /*currFile*/ ctx[5]) + " \r\n            " + (/*step*/ ctx[24].value === ""
+			attr(div1, "class", div1_class_value = "breadcrumbs-trail-grid-item " + (/*step*/ ctx[24].value === ""
 			? "breadcrumbs-filler"
 			: "") + " svelte-46v1v3");
 
@@ -36591,7 +36612,7 @@ function create_each_block$1(ctx) {
 			insert(target, each_1_anchor, anchor);
 		},
 		p(ctx, dirty) {
-			if (dirty & /*resolvedClass, allRuns, currFile, settings, Math, children, openOrSwitch, app, hoverPreview, activeLeafView, range, wordCounts*/ 766) {
+			if (dirty & /*allRuns, settings, Math, children, openOrSwitch, app, currFile, hoverPreview, activeLeafView, range, wordCounts, resolvedClass*/ 766) {
 				each_value_1 = /*allRuns*/ ctx[9][/*i*/ ctx[23]];
 				let i;
 
@@ -36650,7 +36671,7 @@ function create_fragment$1(ctx) {
 			}
 		},
 		p(ctx, [dirty]) {
-			if (dirty & /*allRuns, resolvedClass, currFile, settings, Math, children, openOrSwitch, app, hoverPreview, activeLeafView, range, wordCounts*/ 766) {
+			if (dirty & /*allRuns, settings, Math, children, openOrSwitch, app, currFile, hoverPreview, activeLeafView, range, wordCounts, resolvedClass*/ 766) {
 				each_value = /*transposedTrails*/ ctx[8];
 				let i;
 
@@ -37245,6 +37266,7 @@ class TrailPath extends SvelteComponent {
 const DEFAULT_SETTINGS = {
     userHierarchies: [],
     indexNote: [""],
+    CSVPaths: '',
     hierarchyNotes: [""],
     hierarchyNoteDownFieldName: "",
     hierarchyNoteUpFieldName: "",
@@ -37606,6 +37628,34 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             g.setEdge(currFileName, field, { dir, fieldName });
         });
     }
+    async getCSVRows(basePath) {
+        const { CSVPaths } = this.settings;
+        const CSVRows = [];
+        if (CSVPaths[0] === '') {
+            return CSVRows;
+        }
+        const fullPath = obsidian.normalizePath(CSVPaths[0]);
+        const content = await this.app.vault.adapter.read(fullPath);
+        const lines = content.split('\n');
+        const headers = lines[0].split(',').map(head => head.trim());
+        lines.slice(1).forEach(row => {
+            const rowObj = {};
+            row.split(',').map(head => head.trim()).forEach((item, i) => {
+                rowObj[headers[i]] = item;
+            });
+            CSVRows.push(rowObj);
+        });
+        console.log({ CSVRows });
+        return CSVRows;
+    }
+    addCSVCrumbs(g, CSVRows, dir, fieldName) {
+        CSVRows.forEach(row => {
+            g.setNode(row.file, { dir, fieldName });
+            if (fieldName === "" || !row[fieldName])
+                return;
+            g.setEdge(row.file, row[fieldName], { dir, fieldName });
+        });
+    }
     async initGraphs() {
         var _a;
         const settings = this.settings;
@@ -37652,6 +37702,13 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
             });
             graphs.hierGs.push(newGraphs);
         });
+        const useCSV = settings.CSVPaths !== '';
+        let basePath;
+        let CSVRows;
+        if (useCSV) {
+            basePath = this.app.vault.adapter.basePath;
+            CSVRows = await this.getCSVRows(basePath);
+        }
         relObjArr.forEach((relObj) => {
             const currFileName = relObj.current.basename || relObj.current.name;
             relObj.hierarchies.forEach((hier, i) => {
@@ -37660,6 +37717,9 @@ class BreadcrumbsPlugin extends obsidian.Plugin {
                         const g = graphs.hierGs[i][dir][fieldName];
                         const fieldValues = hier[dir][fieldName];
                         this.populateGraph(g, currFileName, fieldValues, dir, fieldName);
+                        if (useCSV) {
+                            this.addCSVCrumbs(g, CSVRows, dir, fieldName);
+                        }
                     });
                 });
             });

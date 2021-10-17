@@ -8,6 +8,7 @@ aliases:
 
 #### [[Webs of thought are densely linked]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+Every thought exists in time and space only through it's connection to other thoughts.  
 
 ### <hr class="footnote"/>
 

@@ -1,8 +1,6 @@
 <% tp.file.include("[[META]]") %>
-note-type: 
-- evergreen-note
-aliases:
-- 
+cssclass: concept
+tags: concept
 ---
 <% tp.file.include("[[EVERGREEN_HEADER]]") %>
 
@@ -10,8 +8,10 @@ aliases:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SEED/UNPLANTED
+*edited `=this.file.mtime`*
 
-**Related Topics**:: 
-	
-<% tp.file.include("[[MODIFIED FIELD]]") %>
+**Topics**::
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+

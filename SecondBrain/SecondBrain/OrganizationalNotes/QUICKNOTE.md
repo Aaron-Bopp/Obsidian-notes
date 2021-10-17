@@ -1,8 +1,6 @@
 ---
 created: 2021-06-07
-note-type: 
-- organizational-note
-- evergreen-note
+tags: organizational
 
 ---
 `$=(dv.pages().where(p => p.file.path.contains("OrganizationalNotes")).map(p => dv.fileLink(p.file.path)))`

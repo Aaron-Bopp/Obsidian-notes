@@ -1,8 +1,0 @@
-- Moves
-	- [[Destiny’s Plaything]]
-	- [[I’m Here For A Reason]]
-	- [[Devastating]]
-- big weapon 
-- 6'4
-- black like obsidian
-	- artifact rune in the middle 

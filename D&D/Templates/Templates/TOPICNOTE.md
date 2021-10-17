@@ -1,20 +1,17 @@
 <% tp.file.include("[[META]]") %>
-note-type: 
-- evergreen-note
-- topic-note
-aliases:
-- 
+cssclass: topic
+tags: topic
 ---
 
 <% tp.file.include("[[TOPIC_HEADER]]") %>
 
-<% tp.file.cursor() %><% tp.system.clipboard() %>
+**Definition**::
 
 **Status**:: #EVER/SEED 
+*edited `=this.file.mtime`*
 
-**Topics**:: 
-
-<% tp.file.include("[[MODIFIED FIELD]]") %>
+**Parents**:: 
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 <% tp.file.include("[[TOPIC_OUTLINE_HEADER]]") %>
 
