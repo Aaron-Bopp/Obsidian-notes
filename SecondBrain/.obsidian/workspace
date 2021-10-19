@@ -4,142 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0aff8592cb42338f",
+        "id": "e58062f87aa56e28",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/TopicNotes/enlightenment.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/Evangelicalism.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/enlightenment.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/endurance.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/empathy.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/abortion.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.34999998410542804}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/algorithmic content.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/Acting.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/the politicization of the christian church.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":8.82857186453683}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Rise of Misinformation in America.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":19.218100726796028}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Rise of Modern Conservatism.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":4.914285932268415}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Rise of Conspiracy Culture.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/Abolition.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":9.039263953460505}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/20th Century America.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Terms/natural selection.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/gender.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/OrganizationalNotes/INDEX.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":34.36141094033649}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"SecondBrain/OrganizationalNotes/KANBAN.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Operating Systems/notes_OS_IPC and signals.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":5.657142639160156}"
-            },
-            {
-              "leaf": "0aff8592cb42338f",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Operating Systems/notes_OS_Operating Systems.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "52e2d95e4499d1f6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SecondBrain/TopicNotes/gender dysphoria.md",
+            "file": "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md",
             "mode": "source"
           }
         },
@@ -147,10 +17,76 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "52e2d95e4499d1f6",
+              "leaf": "e58062f87aa56e28",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/gender dysphoria.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e58062f87aa56e28",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Urn.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e58062f87aa56e28",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Type Eight — The Enneagram Institute.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e58062f87aa56e28",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Replacement prod.pdf.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e58062f87aa56e28",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Quantum Computing for the Very Curious.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e58062f87aa56e28",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Historical Foundations of Race.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e58062f87aa56e28",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Everything I Wish I Knew When Starting to Use Obsidian — Nicholas Seitz Photographer.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e58062f87aa56e28",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e58062f87aa56e28",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Black Identity Development.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e58062f87aa56e28",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_7 Ways We Know Systemic Racism Is Real.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e58062f87aa56e28",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e58062f87aa56e28",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         }
@@ -203,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/TopicNotes/enlightenment.md",
+                "file": "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -224,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/TopicNotes/enlightenment.md",
+                "file": "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/TopicNotes/enlightenment.md"
+                "file": "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md"
               }
             },
             "pane-relief:history-v1": {
@@ -310,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/TopicNotes/enlightenment.md",
+                "file": "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -462,17 +398,17 @@
     "width": 1001.5,
     "collapsed": true
   },
-  "active": "0aff8592cb42338f",
+  "active": "e58062f87aa56e28",
   "lastOpenFiles": [
-    "SecondBrain/TopicNotes/enlightenment.md",
-    "SecondBrain/TopicNotes/Evangelicalism.md",
-    "SecondBrain/TopicNotes/endurance.md",
-    "SecondBrain/TopicNotes/empathy.md",
-    "SecondBrain/TopicNotes/abortion.md",
-    "SecondBrain/TopicNotes/algorithmic content.md",
-    "SecondBrain/TopicNotes/Acting.md",
-    "SecondBrain/TopicNotes/the politicization of the christian church.md",
-    "SecondBrain/TopicNotes/Rise of Misinformation in America.md",
-    "SecondBrain/TopicNotes/Rise of Modern Conservatism.md"
+    "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md",
+    "SecondBrain/ContentNotes/Articles/articles_Urn.md",
+    "SecondBrain/ContentNotes/Articles/articles_Type Eight — The Enneagram Institute.md",
+    "SecondBrain/ContentNotes/Articles/articles_Replacement prod.pdf.md",
+    "SecondBrain/ContentNotes/Articles/articles_Quantum Computing for the Very Curious.md",
+    "SecondBrain/ContentNotes/Articles/articles_Historical Foundations of Race.md",
+    "SecondBrain/ContentNotes/Articles/articles_Everything I Wish I Knew When Starting to Use Obsidian — Nicholas Seitz Photographer.md",
+    "SecondBrain/ContentNotes/Articles/articles_Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth.md",
+    "SecondBrain/ContentNotes/Articles/articles_Black Identity Development.md",
+    "SecondBrain/ContentNotes/Articles/articles_7 Ways We Know Systemic Racism Is Real.md"
   ]
 }
