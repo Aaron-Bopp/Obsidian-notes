@@ -1,0 +1,9 @@
+---
+created: 2021-10-19
+aliases:
+- 
+tags: stub
+---
+
+**See**:: [[social justice]], [[transphobia]]
+

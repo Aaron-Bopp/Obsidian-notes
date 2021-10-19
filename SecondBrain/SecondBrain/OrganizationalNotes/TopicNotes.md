@@ -12,7 +12,7 @@ SecondBrain/TopicNotes
 const {dv_funcs} = customJS
 const pages = dv.pages().where(p => p.file.path.contains('TopicNotes') && p.file.name !== 'TopicNotes')
 let lastEdited = false
-dv_funcs.statusTable({
+dv_funcs.defaultTable({
 	dv,
 	that:this,
 	lastEdited,
@@ -20,7 +20,7 @@ dv_funcs.statusTable({
 	whereCheck: (p => dv_funcs.getNotesInOutline(p.file.name, dv, this).length > 1 ),
 	title: 'Growing Topics'
 })
-dv_funcs.statusTable({
+dv_funcs.defaultTable({
 	dv,
 	that:this,
 	lastEdited,

@@ -4,6 +4,8 @@ cssclass: evergreen
 tags: evergreen, personal
 ---
 
+#### [[In order to for my parents to love me, they need to admit they might be wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
 In order for me to feel like [[my parents]] [[love]] me, I need to see them empathize with me --> which requires them too consider the fact that they might be wrong. 
 
 [[empathy]] requires being able to put yourself in someone else shoes. For [[my parents]] this would mean recognizing that I may be right and that god doesn't exist. The reason this is so important to their [[love]] for me, is because there [[love]] for me is contingent on my being a [[Christianity|Christian]]. 
@@ -12,10 +14,12 @@ In order for me to feel like [[my parents]] [[love]] me, I need to see them empa
 
 This issue is not black and white, the [[love]] that [[my parents]] feel for me is real, but it is not as real, or as full as if I was a [[Christianity | Christian]]. They may never admit that their [[love]] is not real, but they admit that they do not [[love]] me as much as they would if I was a [[Christianity|Christian]]. I think that may be a thought that they have had. 
 
----
+[[The danger of religious beliefs in early childhood]]
+
+### <hr class="footnote"/>
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Christianity]], [[The danger of religious beliefs in early childhood]], [[love]], [[unconditional love]], [[my emotions]] 
+**Topics**:: [[Christianity]], [[love]], [[unconditional love]], [[my emotions]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

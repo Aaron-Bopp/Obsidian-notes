@@ -7,7 +7,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Attachments",
   "spellcheck": false,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "newFileLocation": "root",
   "vimMode": false,
   "spellcheckDictionary": [

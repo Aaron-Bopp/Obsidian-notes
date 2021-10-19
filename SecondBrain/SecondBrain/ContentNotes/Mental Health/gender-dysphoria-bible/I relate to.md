@@ -76,7 +76,7 @@ note-type:
     - Growing and meticulously grooming facial hair (the so-called �denial beard�).
     - Presenting extremely masculine or hyper feminine.
     - Avoiding any conversation about fashion for any [[gender]]. Dissociating whenever fashion conversations or activities occur.
-    - Expressing [[Homophobia]] and Transphobia in [[self]] defense to ward off suspicion.
+    - Expressing [[homophobia]] and Transphobia in [[self]] defense to ward off suspicion.
     - Aggressively passive engagement in anything connected to one�s true [[gender]].
     - Long hours spent at work.
     - Obsessively cleaning one�s living space.

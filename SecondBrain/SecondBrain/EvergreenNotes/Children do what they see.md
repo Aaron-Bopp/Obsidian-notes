@@ -4,6 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
+sr-due: 2021-10-29
+sr-interval: 11
+sr-ease: 270
 ---
 #### [[Children do what they see]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
@@ -13,8 +16,8 @@ This fact is true in both synchronous interactions like fear responses and [[sel
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[early childhood development]] 
+**Topics**:: [[early childhood development]], [[Behavioral Pyschology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

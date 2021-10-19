@@ -38,7 +38,7 @@ Since March 2021 I have become very interested in [[personal knowledge managemen
 	- What is a [[permanent note]]?
 	- What is a [[topic note]]?
 	- [[organizational notes]]
-		- A [[TODO]] list
+		- A [[SecondBrain/OrganizationalNotes/TODO]] list
 			- [[How to represent a todo list]]
 		- [[index note]]
 	- [[What is the difference between a evergreen note and a topic note]]

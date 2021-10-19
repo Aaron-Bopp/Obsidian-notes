@@ -10,7 +10,7 @@ date modified: Monday, October 4th 2021, 9:58:06 pm
 
 #### [[self]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-**Definition**::
+**Definition**:: Human's own conception of their [[self]] is dependent on many things including their [[early childhood development]], [[socialization]], and their [[perception]] of the world.
 
 **Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
@@ -28,7 +28,6 @@ date modified: Monday, October 4th 2021, 9:58:06 pm
 - ![[self-improvement#self-improvement customJS dv_funcs topicOutlineHeader dv this]]
 - [[Is your self-talk bullying you or bodyguarding you]]
 - ![[enlightenment#enlightenment customJS dv_funcs topicOutlineHeader dv this]]
-
 ### <hr class="dataviews"/>
 
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

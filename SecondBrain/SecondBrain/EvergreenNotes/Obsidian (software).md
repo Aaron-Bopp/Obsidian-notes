@@ -1,11 +1,9 @@
 ---
 created: 2021-05-26
-cssclass: evergreen
-tags: evergreen
-  tool
-
+tags: tool
 ---
 
+#TO/DO/REFACTOR whole note
 Obsidian is a markdown editor that includes many features that are valuable to [[personal knowledge management]] systems.
 
 Snippets:: https://github.com/Dmitriy-Shulha/obsidian-css-snippets/tree/develop/Snippets

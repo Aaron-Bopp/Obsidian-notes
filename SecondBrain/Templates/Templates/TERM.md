@@ -7,4 +7,3 @@ cssclass: term
 
 **See**::
 
-[^1]:

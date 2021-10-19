@@ -7,6 +7,6 @@ cssclass: term
 ---
 
 ---
- [^1]
+
 
 **See**:: [[Evangelicalism]], [[religion]]

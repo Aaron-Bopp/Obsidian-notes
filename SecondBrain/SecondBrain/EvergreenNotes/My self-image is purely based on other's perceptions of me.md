@@ -1,8 +1,9 @@
 ---
 created: 2021-06-11
-note-type:
-- personal-note
-- evergreen-note
+tags: personal, evergreen
+sr-due: 2021-10-22
+sr-interval: 3
+sr-ease: 268
 ---
 
 #### [[My self-image is purely based on other's perceptions of me]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -11,7 +12,7 @@ This is a bit part of [[My relationship with my parents]]. From an early age, [[
 
 This really impacted my [[social anxiety]] because [[Your anxiety knows your insecurities better than you do]].
 
----
+### <hr class="footnote"/>
 **Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 

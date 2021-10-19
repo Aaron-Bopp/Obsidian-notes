@@ -15,7 +15,7 @@ aliases:
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Parents**:: [[Pyschology]],
+**Parents**:: [[Psychology]],
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Behavioral Pyschology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

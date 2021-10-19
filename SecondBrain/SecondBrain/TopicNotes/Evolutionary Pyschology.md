@@ -8,5 +8,5 @@ aliases:
 
 
 
-**See**:: [[Pyschology]] 
+**See**:: [[Psychology]] 
 

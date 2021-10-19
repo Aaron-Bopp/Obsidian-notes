@@ -8,4 +8,4 @@ cssclass: term
 
 
 
-**See**:: [[Pyschology]]
+**See**:: [[Psychology]]

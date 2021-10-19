@@ -1,6 +1,0 @@
-```ActivityHistory
-SecondBrain
-```
-# SecondBrain Overview
-
-

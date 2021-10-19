@@ -7,20 +7,19 @@ aliases:
 date modified: Saturday, September 25th 2021, 3:18:35 pm
 ---
 
-#### [[gender]] `$=customJS.dv_funcs.getIO(dv.current(), dv, this)`
-**Definition**:: The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or [[gender identity]] (the personal sense of one's own gender).
-> [[1 What is Gender]]
+> The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or [[gender identity]] (the personal sense of one's own gender).
+> 
+> <cite>[[1 What is Gender]]</cite>
 
 > Gender is part social construct, part learned behaviors, and part biological processes which form very early in a person’s life.
 > [[1 What is Gender]]
-
-**Definition**::
 
 **Status**:: #EVER/GREEN/GROWING
 *edited `=this.file.mtime`*
 
 **Parents**:: [[self]], [[mental health]], [[personality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
 
 ##### [[gender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 

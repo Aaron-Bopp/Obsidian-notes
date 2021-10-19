@@ -10,7 +10,7 @@ fear of going outside
 - So afraid of losing control outside of their home but they never leave
 - Agoraphobia lite - leaving the home but constantly analyzing [^1]
 
-**See**::
+**See**:: [[mental disorders]]
 
-[^1]: 
+
 

@@ -66,7 +66,7 @@
 
 -   Aristotle (385-323 BCE) -- critical of platos theory of forms
 
-    -   Sense [[Perception]] -
+    -   Sense [[perception]] -
 
         -   Empiricism - scientific theorizing is answerable to what can be observed
 

@@ -64,7 +64,7 @@ Because so much abuse is handed down onto [[gender]] non-conforming children, [[
 
 -   [[Yes]] ==Buying in to ultra-conservative attitudes towards [[gender]] and sexuality.==
 
--   [[No]] ==Expressing [[Homophobia]] and Transphobia in [[self]] defense to ward off suspicion.==
+-   [[No]] ==Expressing [[homophobia]] and Transphobia in [[self]] defense to ward off suspicion.==
 
 -   [[No]] ==Aggressively passive engagement in anything connected to one’s true [[gender]].==
 

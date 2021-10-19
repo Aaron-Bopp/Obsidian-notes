@@ -7,7 +7,7 @@ tags: evergreen
 date modified: Sunday, October 3rd 2021, 11:17:19 am
 ---
 ```ActivityHistory
-/
+SecondBrain
 ```
 This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[personal knowledge management]] system.
 
@@ -15,7 +15,7 @@ This is a constantly updated index of entry points and topics for my personal fl
 
 - [[QUICKNOTE]]
 - [[Journal]]
-- [[TODO]]
+- [[SecondBrain/OrganizationalNotes/TODO]]
 	- [[my TO(DO) and EVER(GREEN) structure]]
 	- [[RELATED-TOPICS]]
 - Forest

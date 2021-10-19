@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2041273,
+  "lastSavedStatusID": 2049927,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -59,7 +59,15 @@
     "SecondBrain/ContentNotes/Articles/articles_forum.obsidian.md_VIM Mode - Quality of Life Improvements.md": "11335642",
     "SecondBrain/ContentNotes/Articles/articles_pages.cs.wisc.edu_Highlights From pages.cs.wisc.edu.md": "11410867",
     "SecondBrain/ContentNotes/Articles/articles_pages.cs.wisc.edu_single.dvi.md": "11412602",
-    "SecondBrain/ContentNotes/Tweets/tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with.md": "11441470"
+    "SecondBrain/ContentNotes/tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with.md": "11441470",
+    "SecondBrain/ContentNotes/Articles/articles_Matuschak, Andy, Nielsen, Michael_Quantum Computing for the Very Curious.md": "11444872",
+    "SecondBrain/ContentNotes/Articles/articles_Nick Seitz_How I Take Smart Notes — Nicholas Seitz Photographer.md": "11457593",
+    "SecondBrain/ContentNotes/Articles/articles_Nick Seitz_Everything I Wish I Knew When Starting to Use Obsidian — Nicholas Seitz Photographer.md": "11457993",
+    "SecondBrain/ContentNotes/Articles/articles_transequality.org_Frequently Asked Questions About Transgender People  National Center for Transgender Equality.md": "11459147",
+    "SecondBrain/ContentNotes/Articles/articles_None_Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth.md": "11463171",
+    "SecondBrain/ContentNotes/Articles/articles_None_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”.md": "11463170",
+    "SecondBrain/ContentNotes/Articles/articles_notes.andymatuschak.org_About These Notes  Evergreen Notes  Evergreen Notes Should Be Concept-Oriented  Evergreen Note Titles Are Like APIs  Prefer Note Titles With Complete Phrases to Sharpen Claims.md": "11463421",
+    "SecondBrain/ContentNotes/Articles/articles_notes.andymatuschak.org_Taxonomy of Note Types  Daily Working Log  Backlinks Can Be Used to Implicitly Define Nodes in Knowledge Management Systems.md": "11463501"
   },
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false

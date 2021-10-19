@@ -33,6 +33,6 @@ He also used this moral superiority to justify [[government]] interference in wo
 **Status**:: #EVER/SPROUT/CULTIVATE 
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[Politics]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

@@ -1,8 +1,6 @@
 ---
 created: 2021-05-31
-cssclass: evergreen
-tags: evergreen
-- practice
+tags: technique
 ---
 
 Examples:: https://youtu.be/UUC8qF5iDag?t=6195
@@ -12,11 +10,7 @@ Examples:: https://youtu.be/UUC8qF5iDag?t=6195
     - when it becomes easy with eyes open close your eyes
 - is based off of the principle of doing something that forces your mind to be in the present.
 
----
 
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Topics**:: [[meditation]], ,[[mental health]], [[yoga]], 
+**See**:: [[meditation]], ,[[mental health]], [[yoga]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

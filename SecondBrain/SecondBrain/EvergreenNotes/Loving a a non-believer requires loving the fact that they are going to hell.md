@@ -17,6 +17,3 @@ tags: evergreen
 
 **Topics**:: [[Christianity]], [[Evangelicalism]], [[empathy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
-::

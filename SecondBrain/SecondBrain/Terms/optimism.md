@@ -5,8 +5,5 @@ aliases:
 tags: term
 cssclass: term
 ---
-
-
- [^1]
-
 **See**:: [[human experience]]
+`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

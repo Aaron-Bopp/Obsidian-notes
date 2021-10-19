@@ -42,7 +42,7 @@ bib:
 - **gender constancy** is import ot children's gender developement and gender identity
 
 ## gender schema theory
-- we each have a **gender schema** that processes and organizes gender-linked associations
+- we each have a **[[gender schema]]** that processes and organizes gender-linked associations
 - 5 and 6 year old children switched the gender of people in gender inconsistent scenarios and kept it in gender stereotypical scenarios pg 41
 # Chapter 7
 ## [[Evolutionary Pyschology]]	
@@ -86,22 +86,22 @@ bib:
 - The ability to distinguish between male and femal faces develops sometime between birth and 3 months of age
 - Children's ability to perceive gender does not mean that gender is binary or is not societally constructed. Children categorize gendered behavior as they see it, and as gender nonconformity becomes more prevalent children often understand it more easily than adults.
 - Male pattern aggression is present through multiple culture from North America to Africa
-- **gender constancy** => the understanding the gender is stable and inconsistent
+- **[[gender constancy]]** => the understanding the gender is stable and inconsistent
 	- a 3 year old may know that she is a girl but not know that she can't grow up to be a daddy
 - [[gender identity]] develops around 18 months to two years --> **gender stability** (understanding that gender is stable over time) which develops around 3-4
 	- early stages of gender stability manifest in appearance rigidity (avoiding clothes of the opposite gender). this exist more in girls
-	- --> **gender consistency** understanding that gender is consistent despite superfical changes in appearance
+	- --> **[[gender consistency]]** understanding that gender is consistent despite superfical changes in appearance
 	- "Preschoolers rapidly become gender essentialists, believing that differences between woman and men are large and unalterable, and that there can be no behavioral overlap between the categories"
-- **Gender self-socialization model** => Children do not have to be forced to conform to their assigned gender, they will self-socialize to fit their assigned gender once they have an understanding of what that gender entails.
-- **Channeling** => the differential treatment in which parents select differenct toys, activities for boys and girls can also involve modeling
+- **[[Gender self-socialization model]]** => Children do not have to be forced to conform to their assigned gender, they will self-socialize to fit their assigned gender once they have an understanding of what that gender entails.
+- **[[Channeling]]** => the differential treatment in which parents select differenct toys, activities for boys and girls can also involve modeling
 - Removing people from negative gendered sterotypes does not mean you are not stereotyping them by gender.
 - Male sterotypes are less broad but more harshly inforced, while female stereotypes are more rigid but more lenient
 # Chapter 3
 - Gender stereotypes can be implicit or explicit 
 - A liberal view of gender does not equate to a lack of gender stereotyping
 - Q: Why do people stereotype
-	- [[Stereotyping has the pyschological goal of comprehension and self-enhancement]]. When meet a new person or interact with anew situation we fill in assumed information as a part of the process of learning about them. This is a normal process but overreliance on it can lead to negative stereotyping and making the person feel judged. Stereotyping another groups behavior as worse than our own personal behavior or the behavior of someone we admire is form of self-enhancement. This behavior leads to harmless distinctions and harmful beliefs ([[racism]], [[Homophobia]], etc)
-- Q: How is implicit bias measured
+	- [[Stereotyping has the pyschological goal of comprehension and self-enhancement]]. When meet a new person or interact with anew situation we fill in assumed information as a part of the process of learning about them. This is a normal process but overreliance on it can lead to negative stereotyping and making the person feel judged. Stereotyping another groups behavior as worse than our own personal behavior or the behavior of someone we admire is form of self-enhancement. This behavior leads to harmless distinctions and harmful beliefs ([[racism]], [[homophobia]], etc)
+- Q: How is [[implicit bias]] measured
 	- Through reaction times. The faster an association is made the stronger that bias is.
 - Q: What is [[stereotype threat]]?
 	- A [[stereotype threat]] is when a person is concerned a negative sterotype affecting their treatment in a situation. This can lead to lower performance and higher stress. There are two pyschological processes that underlie stereotype threat:

@@ -14,7 +14,7 @@ aliases:
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Parents**:: [[human experience]]
+**Parents**:: [[human experience]], [[Evolutionary Pyschology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[human advancement]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

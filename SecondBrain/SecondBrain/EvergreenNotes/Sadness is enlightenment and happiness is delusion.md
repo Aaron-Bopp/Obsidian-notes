@@ -2,24 +2,29 @@
 created: 2021-06-11
 cssclass: evergreen
 tags: evergreen
-date modified: Monday, October 4th 2021, 9:56:59 pm
+date modified: Monday, October 18th 2021, 11:28:08 pm
+sr-due: 2021-10-27
+sr-interval: 9
+sr-ease: 288
 ---
 
 #### [[Sadness is enlightenment and happiness is delusion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Human's own conception of their [[self]] is dependent on many things including their [[early childhood development]], [[socialization]], and their [[perception of the world]]. [[pessimism]] and [[realism]] are beliefs that equate a negative outlook on the world with intelligence. If a person internalizes the narrative that negative emotions are a sign of intelligence, it can warp their [[realism|realistic]] [[perception]] of the world, because [[Human's have an inability to admit that they are wrong]].
+If a person internalizes the narrative that negative emotions are a sign of intelligence, it can warp their [[realism|realistic]] [[perception]] of the world, because [[Human's have an inability to admit that they are wrong]].
 
-Once a person has set up this belief that negative emotion is associated with intelligence, you can struggle to find [[happiness]] in bleak situations, and find it easy to find sadness in okay situations. Often as your intelligence and knowledge of the world increases, you will find that the only proper reaction is increasing sadness. [[Knowledge of the world is painful]], but [[Accepting responsibility is not only about your actions]]
+Once a person has set up this belief that negative emotion is associated with intelligence, you can struggle to find [[happiness]] in bleak situations, and find it easy to find sadness in neutral situations. Often as your intelligence and knowledge of the world increases, you will find that the only proper reaction is increasing sadness. [[Knowledge of the world is painful]], but [[Accepting responsibility is not only about your actions]].
 
-This way of living your life is [[subconscious|subconsciously]] attractive, because you will think your increasing sadness is a sign of your increasing [[enlightenment]], while it is exactly the opposite.  You cannot get stuck in this enlightened sadness because it will lead to inaction and because [[Realism must acknowledge optimism's existence]].
+<u><b>[[What is the cognitive effect of living in a unjust world]]</b></u>
 
-The nature of happiness is not doing what you love its detachment from the decisions of the life. [[You can be enlightened and still grieve]], but [[enlightenment comes from detachment]]. #TO/DO/REFACTOR these notes
+This way of living your life is [[subconscious|subconsciously]] attractive, because you will think your increasing sadness is a sign of your increasing intelligence, while your fear of the possibility of hope grows stronger.  This [[feedback loop]] leads to inaction, [[depression]], [[pessimism]]
+
+What is the path out?
 
 Once someone has reached this state of "[[enlightenment]]," they will not only find it incredibly hard to be happy, they will see any [[happiness]] they do find as illogical, unnatural, and generally unwarranted. So obviously, [[Happiness is enlightenment and sadness is delusion]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-worth]], [[Bhuddism]], [[depression]], [[social justice]]

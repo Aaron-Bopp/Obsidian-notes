@@ -189,12 +189,12 @@
 
 # Week 9 
 
-1.  Chapter 3: [[Gender]] Stereotypes and [[Gender]] Differences, pp. 61-81. Access through your Else-Quest & Hyde (2018) textbook.
-2.  Chapter 10: Biology and [[Gender]], pp. 223-240. Access through your Else-Quest & Hyde (2018) textbook.
+1.  [[textbook_Hyde&Elsequest_pyschology of women and gender#Chapter 3|Chapter 3: Gender Stereotypes and Gender Differences, pp. 61-81. Access through your Else-Quest & Hyde (2018) textbook.]]
+2.  [[textbook_Hyde&Elsequest_pyschology of women and gender#Chapter 10 Biology and gender|Chapter 10: Biology and Gender, pp. 223-240. Access through your Else-Quest & Hyde (2018) textbook.]]
 
 # Week 10 
 
-1.  “[Frequently Asked Questions about [[Transgender]] People](https://transequality.org/issues/resources/frequently-asked-questions-about-[[transgender]]-people),” web article from _National Center for [[Transgender]] Equality_.
+1.  [[articles_transequality.org_Frequently Asked Questions About Transgender People  National Center for Transgender Equality]]
 2.  [[Russell et al. (2018) - Chosen Name Use.pdf]] 
 3.  [[Sansfacon et al. (2020) - I Knew That I Wasn't Cis.pdf]] 
 

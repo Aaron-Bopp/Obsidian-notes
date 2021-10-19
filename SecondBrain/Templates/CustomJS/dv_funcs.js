@@ -11,8 +11,7 @@ class dv_funcs {
             day = '0' + day;
 
         return date
-        if (typeof (d) === d.getMonth()) {
-        } else {
+        if (typeof(d) === d.getMonth()) {} else {
             return [year, month, day].join('-');
         }
     }
@@ -55,7 +54,7 @@ class dv_funcs {
         return `[[${name}${alias}]]`
     }
 
-    getIO(page, dv, that, justInOutline=false) {
+    getIO(page, dv, that, justInOutline = false) {
         const inlinks = page.file.inlinks.filter(l => l.path !== page.file.path && !l.path.contains("aliases"))
         const inOutline = this.getNotesInOutline(dv.current().file.name, dv, that).length - 1
         const totalOutlinks = this.getTotalLinks(page.file.name, dv, that).filter(l => l !== page.file.name).length
@@ -91,14 +90,14 @@ class dv_funcs {
         const outlinks = dv.page(name).file.outlinks.map(l => this.getFileNameFromPath(l.path))
         const outline = this.getNotesInOutline(name, dv, that)
         const outlinedIn = this.outlinedIn(dv, that, dv.page(name))
-        return Array.from(new Set([...outlinks, ...outline, ...outlinedIn ]))
+        return Array.from(new Set([...outlinks, ...outline, ...outlinedIn]))
     }
 
     notLinkedPages(args) {
         const { dv, folder, that, all = false } = args;
         // const allEmbeds = this.getEmbeds(dv.current().file.name, dv, that).map(f => f.file.outlinks).flat().map(l => l.path)
         const allNotes = this.getNotesInOutline(dv.current().file.name, dv, that)
-        let parents = this.outlinedIn(dv, that, dv.current(), true )
+        let parents = this.outlinedIn(dv, that, dv.current(), true)
         parents = parents ? parents.map(l => l.path) : []
         return dv.pages(all ? "" : this.wrap(dv.current().file.name)).where(p => {
             return !allNotes.includes(p.file.name) && !parents.includes(p.file.name) && folder && p.file.path.contains(folder)
@@ -116,8 +115,14 @@ class dv_funcs {
             sortCheck = ((p) => this.getTotalLinks(p.file.name, args.dv, args.that)),
             sortDir = 'asc',
             lastEdited = true,
-            columnTitles = [title, "I/O", "Edited", "Created"],
-            columns = ((p) => [p.file.link, this.getIO(p, dv, that), lastEdited ? moment(p.file.mtime.ts).fromNow() : p.file.mtime, this.formatDate(p.created || p.file.ctime)])
+            columnTitles = [title, "I/O", "Outlined In", "Edited", "Created"],
+            columns = ((p) => [
+                p.file.link,
+                this.getIO(p, dv, that),
+                dv.array(this.outlinedIn(dv, that, p, true)),
+                lastEdited ? moment(p.file.mtime.ts).fromNow() : p.file.mtime,
+                this.formatDate(p.created || p.file.ctime)
+            ])
         } = args;
 
         const pages = pagesQuery ? dv.pages(pagesQuery) : pagesArray
@@ -128,16 +133,23 @@ class dv_funcs {
     }
 
     statusTable = (args) => {
-        const { dv, title, that, folder, all = false, lastEdited=true} = args;
+        const { dv, title, that, folder, all = false, lastEdited = true } = args;
         this.defaultTable({
             pagesArray: this.notLinkedPages({ dv, folder, that, all }),
             sortCheck: ((p) => this.statusLevel(p.status)),
             columnTitles: [title || folder || "Page", "I/O", "Status", "Edited", "Created"],
-            columns: (p => [p.file.link, this.getIO(p, dv, that), p.status, lastEdited ? moment(p.file.mtime.ts).fromNow() : p.file.mtime, this.formatDate(p.created || p.file.ctime)]),
+            columns: (p => [
+                p.file.link,
+                this.getIO(p, dv, that),
+                p.status,
+                // this.outlinedIn(dv, that, p, true),
+                lastEdited ? moment(p.file.mtime.ts).fromNow() : p.file.mtime,
+                this.formatDate(p.created || p.file.ctime)
+            ]),
             ...args
         })
     }
-    
+
 
     topicNoteDataviews(args) {
         const { dv, that } = args
@@ -153,11 +165,12 @@ class dv_funcs {
         this.defaultTable({
             ...args,
             pagesArray: this.notLinkedPages({ dv, folder: "ContentNotes", that }),
-            columnTitles: ["ContentNotes", "I/O", "Edited", "Created"]
+            title: "ContentNotes"
         })
     }
 
-    outlinedIn(dv, that, page = dv.current(), includeAlreadyLinked = false) {
+    outlinedIn(dv, that, page = dv.current(), excludeAlreadyLinked = true) {
+        console.log(page)
         const linkedNotes = page.parents || page.topics || []
         const linkedNames = []
         try {
@@ -168,49 +181,49 @@ class dv_funcs {
 
         const inlinks = page.file.inlinks.filter(l => l.path.contains("TopicNotes"))
             //grab names
-            .map(l =>  this.getFileNameFromPath(l.path))
-            //includeAlreadyLinked=true stop linkedNotes from being filtered out
-            .filter(name => includeAlreadyLinked || !linkedNames.includes(name))
-        // console.log(inlinks)
+            .map(l => this.getFileNameFromPath(l.path))
+            //if exclude aloow filter
+            .filter(name => excludeAlreadyLinked && linkedNames.includes(name))
+            // console.log(inlinks)
 
-        let outlinedIn = inlinks.filter(name => 
+        let outlinedIn = inlinks.filter(name =>
             name !== dv.current().file.name &&
             this.getNotesInOutline(name, dv, that).includes(dv.current().file.name) &&
             !this.getFileNameFromPath(page.file.path) !== name
         )
-        
-        if (!outlinedIn || outlinedIn.length === 0){
+
+        if (!outlinedIn || outlinedIn.length === 0) {
             return ""
         }
-    //recursive part doesn't work
-    {
-        // let visited = []
-        // outlinedIn = outlinedIn.map(n => {
-        //     if (!visited.includes(n)){ 
-        //         console.log(n)
-        //         let embeddedNotes = this.outlinedIn(dv, that, dv.page(n), true)
-        //         console.log(embeddedNotes)
-        //         visited.concat(embeddedNotes)
-        //         embeddedNotes = embeddedNotes && embeddedNotes.filter(name => {
-        //             let page = dv.page(name)
-        //             let text = this.getFileText(page.file.path, that)
-        //             return embedded = Array.from(text.matchAll(/.*\!\[\[([^\#]+)\#[^\]]+\]\].*/g), m => m[1]).includes(n)
-        //         })
-        //             // visited.concat(embeddedNotes)
-        //             // return embeddedNotes
-        //         return embeddedNotes || n
-        //     }
-        //     return n
-        // })
-        // console.log(outlinedIn)
-    }
+        //recursive part doesn't work
+        {
+            // let visited = []
+            // outlinedIn = outlinedIn.map(n => {
+            //     if (!visited.includes(n)){ 
+            //         console.log(n)
+            //         let embeddedNotes = this.outlinedIn(dv, that, dv.page(n), true)
+            //         console.log(embeddedNotes)
+            //         visited.concat(embeddedNotes)
+            //         embeddedNotes = embeddedNotes && embeddedNotes.filter(name => {
+            //             let page = dv.page(name)
+            //             let text = this.getFileText(page.file.path, that)
+            //             return embedded = Array.from(text.matchAll(/.*\!\[\[([^\#]+)\#[^\]]+\]\].*/g), m => m[1]).includes(n)
+            //         })
+            //             // visited.concat(embeddedNotes)
+            //             // return embeddedNotes
+            //         return embeddedNotes || n
+            //     }
+            //     return n
+            // })
+            // console.log(outlinedIn)
+        }
         if (outlinedIn.length > 0) {
             // console.log(linkedNotes)
             // if (linkedNames.length > 0) {
             //     return '\\- ' + outlinedIn.map(n => dv.fileLink(n)).join(',')
             // }
             // console.log(outlinedIn.map(n => dv.fileLink(n)))
-            return outlinedIn.map(n => dv.fileLink(n)) 
+            return outlinedIn.map(n => dv.fileLink(n))
         }
     }
 
@@ -220,10 +233,10 @@ class dv_funcs {
         let unlinkedAll = Array.from(allPages.map((p) => {
             let text = this.getFileText(p.file.path, that)
             return Array.from(text.matchAll(/\[\[([^\]\#\|]+)[^\]]*\]\]/g), m => m[1])
-                 .filter((n => !allNames.includes(n))).flat()
+                .filter((n => !allNames.includes(n))).flat()
                 //  .forEach(n => unlinked[n] ? unlinked[n] += 1 : unlinked[n] = 1)
         })).flat()
-        let unlinkedSet = dv.array(Array.from(new Set(unlinkedAll))).sort(n => unlinkedAll.filter(p=> p === n).length, 'desc')
+        let unlinkedSet = dv.array(Array.from(new Set(unlinkedAll))).sort(n => unlinkedAll.filter(p => p === n).length, 'desc')
         return unlinkedSet.map(n => `| ${dv.fileLink(n)} | ${dv.fileLink('SecondBrain\\TopicNotes\\' + n)} | ${dv.fileLink('SecondBrain\\EvergreenNotes\\' + n)} | ${unlinkedAll.filter(p=> p === n).length} |`).join("\n\n")
     }
     topicOutlineHeader(dv, that) {
@@ -248,7 +261,7 @@ class dv_funcs {
 
             // do the work...
             Array.from(table.querySelectorAll('th')).forEach(th => th.style.cursor = "pointer");
-            
+
             table.querySelectorAll('th').forEach(th => th.addEventListener('click', (() => {
                 const tbody = table.querySelector('tbody');
                 Array.from(tbody.querySelectorAll('tr'))

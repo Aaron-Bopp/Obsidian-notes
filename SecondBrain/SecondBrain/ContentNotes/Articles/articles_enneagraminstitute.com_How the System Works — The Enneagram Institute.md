@@ -6,7 +6,7 @@ type:
 ---
 ##### How the System Works — The Enneagram Institute
 
-**Related**:: [[mental health]], [[personality]], [[pyschology]], 
+**Related**:: [[mental health]], [[personality]], [[Psychology]], 
 
 **Source**:: [How the System Works — The Enneagram Institute](https://enneagraminstitute.com/how-the-enneagram-system-works)
 

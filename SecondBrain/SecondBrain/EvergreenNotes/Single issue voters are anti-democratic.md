@@ -8,7 +8,8 @@ aliases:
 
 #### [[Single issue voters are anti-democratic]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-https://github.com/SlRvb/Obsidian--ITS-Theme
+[[Democracy is about and open forum of ideas]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED 

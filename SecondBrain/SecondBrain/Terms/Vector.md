@@ -1,0 +1,14 @@
+---
+created: 2021-10-16
+aliases:
+- 
+tags: term
+cssclass: term
+---
+
+a numerical representation of a direction and distance ([[Computer Science|CS]] perspective), or a visual representation of a value of a movement on multiple axis ([[physics]] perspective)   [^1]
+
+**See**::
+
+[^1]: [[videos_Linear algebra_3Blue1Brown]]
+

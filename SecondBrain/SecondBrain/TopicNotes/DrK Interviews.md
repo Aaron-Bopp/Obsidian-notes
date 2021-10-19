@@ -13,7 +13,7 @@ tags: topic
 - [[How We're Shaped Mentally]]
 - [[Life after a cult]]
 - [[Destiny Interviews Dr. K]]
-- [[Existential Dread]]
+- [[existential dread]]
 
 ---
 

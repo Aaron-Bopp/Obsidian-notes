@@ -2,8 +2,9 @@
 created: 2021-05-25
 cssclass: evergreen
 tags: evergreen
-- organizational-note
-
+sr-due: 2021-10-22
+sr-interval: 4
+sr-ease: 270
 ---
 
 #### [[my TO(DO) and EVER(GREEN) structure]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -11,14 +12,15 @@ tags: evergreen
 This structure is how I [[Make your inbox into an entry point]] and is deeply entwined with [[how I use Obsidian tags]] as a part of [[My Second Brain]]
 
 - TO tags should be used for specific items, not general tasks	
-- TO tags are note a daily [[TODO]], they are a way to specify a task inline the to be done in the future. These tags should be temporary, but they are not scheduled 
+- TO tags are note a daily [[SecondBrain/OrganizationalNotes/TODO]], they are a way to specify a task inline the to be done in the future. These tags should be temporary, but they are not scheduled 
 - #TO  see all the things you want to do in you [[Obsidian (software)]]
 	- #TO/DO things that you have to actively take part in,
 		- #TO/DO/WRITE write a specific item, not used for need to write or expand an evergreen note
 		- #TO/DO/PROGRAM 
-		- #TO/DO/CONCEPTUALIZE 
-		- #TO/DO/REFERENCE
+		- #TO/DO/CONCEPTUALIZE the thoughts exist but the need to be written out
+		- #TO/DO/REFERENCE the source is there but unreferenced
 		- #TO/DO/REFACTOR 
+		- #TO/DO/FIND remeber source but don't have easy access
 	- #TO/EXPLORE 
 		- #TO/EXPLORE/READ 
 		- #TO/EXPLORE/WATCH
@@ -31,7 +33,7 @@ This structure is how I [[Make your inbox into an entry point]] and is deeply en
 - #EVER see all the [[evergreen notes]] in the [[Obsidian (software)]]
 	- #EVER/SEED a concept
 		- #EVER/SEED/UNPLANTED a concept that has no links into the [[web of thought]]
-		- #EVER/SEED/WATER a concept that I would like to add more to
+		- #EVER/SEED/WATER a concept that has no body
 	- #EVER/SPROUT a concept that has information and value, but I have no current intention of expanding
 		- #EVER/SPROUT/WATER concept needs more time and energy put in
 		- #EVER/SPROUT/CULTIVATE concept needs to be cleaned up and interconnected with the rest of the [[second brain]]

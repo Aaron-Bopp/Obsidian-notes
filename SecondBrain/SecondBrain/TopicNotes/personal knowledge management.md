@@ -1,28 +1,13 @@
 ---
 created: 2021-07-21
-cssclass: topic
-tags: topic
 aliases:
-- 
+- PKM
+tags: term
+cssclass: term
 ---
 
-#### [[personal knowledge management]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
+**See**::
 
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-##### [[personal knowledge management]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- ![[second brain#second brain customJS dv_funcs topicOutlineHeader dv this]]
-- [[Zettlekassen]]
-
-### <hr class="dataviews"/>
-
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
 
 

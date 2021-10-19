@@ -540,7 +540,7 @@ Unit 3
 
     -   [[natural selection]] -- over time desirable traits in a population increases
 
-    -   "Descent with modification" -- [[evolution]] via [[natural selection]], new species formed as populations change
+    -   "Descent with modification" -- [[Evolution]] via [[natural selection]], new species formed as populations change
 
 -   [[natural selection]] observations
 
@@ -652,7 +652,7 @@ Unit 3
 
             -   Adaptation -- a variation of a trait that increases your fitness
 
-    -   Macroevolution -- biological [[evolution]] (new species, evolutionary trends, adaptive radiation, mass extinction)
+    -   Macroevolution -- biological [[Evolution]] (new species, evolutionary trends, adaptive radiation, mass extinction)
 
     -   Three models of [[natural selection]]
 

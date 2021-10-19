@@ -15,5 +15,5 @@ tags: evergreen
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[christianity]], [[modern american culture]], [[social progress]], [[Civil Rights]], [[Homophobia]], [[racism]], [[American Conservatism]]
+**Topics**:: [[christianity]], [[modern american culture]], [[social progress]], [[Civil Rights]], [[homophobia]], [[racism]], [[American Conservatism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

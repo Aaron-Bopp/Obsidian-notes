@@ -4,17 +4,21 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
+sr-due: 2021-10-21
+sr-interval: 3
+sr-ease: 250
 ---
 
 #### [[Children in traumatic households expect more love than their parents can give]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+This is because the reason the child's home is traumatic is because of the parents and there is no way the parents can overcome this. The parents are unable to give [[unconditional love]] because they are showing that there are conditions where they do not love the child
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[early childhood development]], [[Psychology]], [[trauma]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

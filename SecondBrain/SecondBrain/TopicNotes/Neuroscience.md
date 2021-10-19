@@ -5,13 +5,16 @@ tags: topic
 aliases:
 - neurological
 date modified: Sunday, October 3rd 2021, 11:09:53 am
+sr-due: 2021-10-22
+sr-interval: 4
+sr-ease: 272
 ---
 
 #### [[Neuroscience]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Definition**::
 
-**Status**:: #EVER/SPROUT/WATER
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Parents**:: [[INDEX]], [[mental health]]

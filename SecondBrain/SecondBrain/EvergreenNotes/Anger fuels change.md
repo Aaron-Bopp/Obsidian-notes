@@ -15,6 +15,6 @@ aliases:
 **Status**:: #EVER/SEED/UNPLANTED 
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[Politics]], [[political strategy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

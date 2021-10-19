@@ -3,17 +3,22 @@ created: 2021-06-12
 cssclass: evergreen
 tags: evergreen
 
+date modified: Monday, October 18th 2021, 11:16:49 pm
 ---
 
 #### [[Human's have an inability to admit that they are wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Once the [[ego]] has internalized a belief as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]].
+Once the [[subconscious|ego]] has internalized a belief as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]].
+
+The fundamental [[Neuroscience|neurological]] process behind this is [[Rationalizations are defense-mechanisms against strong emotions]]
+
+It is a reason for [[Conservatism|Conservatives]] [[cognitive dissonance]]
 
 This will sometimes lead to [[Human's will find explanations for inexplainable things]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Neuroscience]], [[human experience]], [[human advancement]], [[human survival]], [[self]], [[socialization]]

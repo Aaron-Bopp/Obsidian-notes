@@ -2,8 +2,8 @@
 created: 2021-10-14
 aliases:
 - 
-cssclass: concept
-tags: concept
+cssclass: evergreen
+tags: evergreen
 ---
 #### [[Monolithic vs Micro Kernels]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

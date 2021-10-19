@@ -1,33 +1,12 @@
 ---
 created: 2021-05-30
-cssclass: topic
-tags: topic
-
----
-
-# Outline
+aliases:
 - 
-
-# Evergreen Notes related to [[Zettlekassen]]
-```dataview
-TABLE Status, file.mday AS "Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and [[Zettlekassen]] and -"ContentNotes"
-WHERE file.name != "QUICKNOTE"
-SORT Status
-```
-# Content Notes related to [[Zettlekassen]]
-```dataview
-TABLE type, file.mday AS "Edited", file.cday AS "Created"
-FROM -"tharoline" and -"Templates" and [[Zettlekassen]] and "ContentNotes"
-WHERE file.name != "QUICKNOTE"
-SORT Status
-```
-
+cssclass: term
+tags: topic/technique
 ---
 
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
+A system invented by [[Niklas Luhmann]] that is often credited as the parent of many note-taking systems such [[evergreen notes]].
 
-**Topics**:: 
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+**See**:: [[personal knowledge management]], [[second brain]]
 

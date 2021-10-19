@@ -3,6 +3,9 @@ created: 2021-06-15
 cssclass: evergreen
 tags: evergreen
 
+sr-due: 2021-10-21
+sr-interval: 3
+sr-ease: 250
 ---
 
 #### [[Write your notes like you're planting an evergreen forest]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -14,12 +17,12 @@ While you're forest won't be able to flourish without a good system that does no
 That being said, if you don't know what an evergreen forest looks like you don't know which kind of seeds to plant, and if you spend to much time is a system that won't be able to flourish in to an evergreen forest, you will be reluctant to switch. [[Learning systems can be a gateway to creating thought]]. This means that sometimes you won't be producing or storing anything until you start learning about a system that properly allow your brain to create output.
 
 
----
+### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[evergreen notes]], [[second brain]], [[My Second Brain]], [[note writing]], [[Zettlekassen]] 
+**Topics**:: [[evergreen notes]], [[second brain]], [[My Second Brain]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

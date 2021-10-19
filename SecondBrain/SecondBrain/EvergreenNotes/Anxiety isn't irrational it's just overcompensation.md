@@ -14,8 +14,8 @@ For the most part [[anxiety]] is completely natural and normal [[Neuroscience|ne
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[anxiety]], [[mental health]]
+**Topics**:: [[anxiety]], [[Neuroscience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

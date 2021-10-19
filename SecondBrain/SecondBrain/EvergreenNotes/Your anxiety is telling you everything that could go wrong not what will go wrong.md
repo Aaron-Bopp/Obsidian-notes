@@ -13,7 +13,7 @@ Being able to do this requires a very healthy amount of [[mindfullness]], and a 
 
 [[Anxiety]] can be very overwhelming because you are getting a non-stop feed of every negative situation that could happen. () These thoughts can often feel very irrational because we know that not every bad thing will happen, but our [[subconscious]]/[[subconscious]] does not know that. [[We value our biggest insecurities because they protect us from the biggest threats]]
 
-The reason this happens is rooted in [[Neuroscience]]. [[Anxiety]] is at it's core a warning system, which means that it is a big part of [[human survival]]/[[human advancement]]. As we satisfy more and more of the [[Hierachy of Needs]] our need for such an advanced warning system grows less and less. In modern society, our [[anxiety]] can seem like a irrational response, but it is just our brain doing what is has evolved to do. #TO/EXPLORE/RESEARCH Is modern over compensation or just the next natural step in human [[evolution]].
+The reason this happens is rooted in [[Neuroscience]]. [[Anxiety]] is at it's core a warning system, which means that it is a big part of [[human survival]]/[[human advancement]]. As we satisfy more and more of the [[Hierachy of Needs]] our need for such an advanced warning system grows less and less. In modern society, our [[anxiety]] can seem like a irrational response, but it is just our brain doing what is has evolved to do. #TO/EXPLORE/RESEARCH Is modern over compensation or just the next natural step in human [[Evolution]].
 
 #TO/EXPLORE/RESEARCH Is [[anxiety]] purely involuntary or can it come out of obsessiveness/[[OCD]]?
 

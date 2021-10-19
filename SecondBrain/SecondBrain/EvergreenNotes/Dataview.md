@@ -29,9 +29,6 @@ snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, http
 - functions
 	- `replace([string], replaced, inserted)`
 
-
-## handy functions 
-![[DVJSFUNCS]]
 # queries
 
 ### basic syntax

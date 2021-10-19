@@ -1,10 +1,10 @@
 {
   "headerWidth": 32,
   "leafWidth": 800,
-  "leafAutoWidth": true,
-  "disabled": true,
+  "leafAutoWidth": false,
+  "disabled": false,
   "rotateHeaders": true,
-  "headerAlt": true,
+  "headerAlt": false,
   "orienation": "mixed",
   "stackingEnabled": true,
   "smoothAnimation": false

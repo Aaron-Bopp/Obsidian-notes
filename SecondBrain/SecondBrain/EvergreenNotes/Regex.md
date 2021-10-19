@@ -1,7 +1,7 @@
 ---
 created: 2021-09-16
-cssclass: evergreen
-tags: evergreen
+cssclass: tool
+tags: tool
 aliases:
 -
 date updated: Thursday, September 16th 2021, 10:06:06 pm
@@ -19,8 +19,5 @@ Snippets:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
-*edited `=this.file.mtime`*
-
-**Topics**:: 
+**Topics**:: [[Computer Science]], [[programming]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

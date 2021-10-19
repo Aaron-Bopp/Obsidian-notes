@@ -1,25 +1,8 @@
 ---
 created: 2021-07-18
-cssclass: topic
-tags: topic
 aliases:
 - 
+tags: term
+cssclass: term
 ---
-
-#### [[dissociation]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: 
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-##### [[dissociation]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- 
-
-### <hr class="dataviews"/>
-
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
+**See**::[[anxiety]], [[mental disorders]], [[Neuroscience]]

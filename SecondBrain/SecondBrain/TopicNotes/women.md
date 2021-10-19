@@ -1,18 +1,12 @@
 ---
 created: 2021-08-01
 cssclass: topic
-tags: topic
+tags: stub
 aliases:
 - 
 ---
 
 #### [[women]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
- Unlike first amendment rights, 
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
 
 **Parents**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

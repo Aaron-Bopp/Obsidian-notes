@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:UNCREATEDNOTES",
+  "search": "-file:UNCREATEDNOTES -path:content -path:primary",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -155,24 +155,38 @@
       }
     },
     {
-      "query": "path:SecondBrain/EvergreenNotes",
+      "query": "tag:#term",
       "color": {
         "a": 1,
-        "rgb": 1630933
+        "rgb": 8865057
       }
     },
     {
-      "query": "path:SecondBrain/TopicNotes",
+      "query": "tag:#tool",
       "color": {
         "a": 1,
-        "rgb": 16138244
+        "rgb": 11480218
       }
     },
     {
-      "query": "line:([[Chrisitianity]])",
+      "query": "tag:#topic",
       "color": {
         "a": 1,
-        "rgb": 397044
+        "rgb": 8080665
+      }
+    },
+    {
+      "query": "tag:#evergreen",
+      "color": {
+        "a": 1,
+        "rgb": 1277452
+      }
+    },
+    {
+      "query": "path:SecondBrain/OrganizationalNotes",
+      "color": {
+        "a": 1,
+        "rgb": 16772608
       }
     }
   ],
@@ -184,8 +198,8 @@
   "collapse-forces": false,
   "centerStrength": 0.417647058823529,
   "repelStrength": 12.5882352941176,
-  "linkStrength": 0.482352941176471,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.26326042606174244,
+  "scale": 0.09859777405138771,
   "close": false
 }
