@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "api_article"
 aliases:
-- How the System Works — The Enneagram Institute
-- How the System Works — The Enneagram Institute
-- api_article
-- enneagraminstitute.com
+- "How the System Works — The Enneagram Institute"
+- "enneagraminstitute.com"
 ---
 ##### How the System Works — The Enneagram Institute
 

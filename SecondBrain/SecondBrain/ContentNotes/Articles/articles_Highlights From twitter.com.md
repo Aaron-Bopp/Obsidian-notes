@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "web_clipper"
 aliases:
-- Highlights From twitter.com
-- Highlights From twitter.com
-- web_clipper
-- twitter.com
+- "Highlights From twitter.com"
+- "twitter.com"
 ---
 ##### Highlights From twitter.com
 

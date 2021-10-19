@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "api_article"
 aliases:
-- Quantum Computing for the Very Curious
-- Quantum Computing for the Very Curious
-- api_article
-- Matuschak, Andy, Nielsen, Michael
+- "Quantum Computing for the Very Curious"
+- "Matuschak, Andy, Nielsen, Michael"
 ---
 ##### Quantum Computing for the Very Curious
 

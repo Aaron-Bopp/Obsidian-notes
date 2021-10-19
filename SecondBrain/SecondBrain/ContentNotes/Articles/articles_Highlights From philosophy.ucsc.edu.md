@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "web_clipper"
 aliases:
-- Highlights From philosophy.ucsc.edu
-- Highlights From philosophy.ucsc.edu
-- web_clipper
-- philosophy.ucsc.edu
+- "Highlights From philosophy.ucsc.edu"
+- "philosophy.ucsc.edu"
 ---
 ##### Highlights From philosophy.ucsc.edu
 

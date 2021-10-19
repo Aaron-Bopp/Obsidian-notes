@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- 7 Ways We Know Systemic Racism Is Real
-- 7 Ways We Know Systemic Racism Is Real
-- hypothesis
-- benjerry.com
+- "7 Ways We Know Systemic Racism Is Real"
+- "benjerry.com"
 ---
 ##### 7 Ways We Know Systemic Racism Is Real
 

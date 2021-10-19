@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- Misidentifying 4 and 5 — The Enneagram Institute
-- Misidentifying 4 and 5 — The Enneagram Institute
-- hypothesis
-- enneagraminstitute.com
+- "Misidentifying 4 and 5 — The Enneagram Institute"
+- "enneagraminstitute.com"
 ---
 ##### Misidentifying 4 and 5 — The Enneagram Institute
 

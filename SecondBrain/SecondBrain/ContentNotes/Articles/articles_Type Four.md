@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- Type Four
-- Type Four
-- hypothesis
-- enneagraminstitute.com
+- "Type Four"
+- "enneagraminstitute.com"
 ---
 ##### Type Four
 

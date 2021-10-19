@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "api_article"
 aliases:
-- How I Take Smart Notes — Nicholas Seitz Photographer
-- How I Take Smart Notes — Nicholas Seitz Photographer
-- api_article
-- Nick Seitz
+- "How I Take Smart Notes — Nicholas Seitz Photographer"
+- "Nick Seitz"
 ---
 ##### How I Take Smart Notes — Nicholas Seitz Photographer
 

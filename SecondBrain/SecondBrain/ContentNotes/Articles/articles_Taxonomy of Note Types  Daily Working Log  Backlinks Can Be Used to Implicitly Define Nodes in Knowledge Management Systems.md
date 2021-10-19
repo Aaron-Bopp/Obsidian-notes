@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "api_article"
 aliases:
-- Taxonomy of Note Types | Daily Working Log | Backlinks Can Be Used to Implicitly Define Nodes in Knowledge Management Systems
-- Taxonomy of Note Types | Daily Working Log | Backlinks Can Be Used to Implicitly Define Nodes in Knowledge Management Systems
-- api_article
-- notes.andymatuschak.org
+- "Taxonomy of Note Types | Daily Working Log | Backlinks Can Be Used to Implicitly Define Nodes in Knowledge Management Systems"
+- "notes.andymatuschak.org"
 ---
 ##### Taxonomy of Note Types | Daily Working Log | Backlinks Can Be Used to Implicitly Define Nodes in Knowledge Management Systems
 

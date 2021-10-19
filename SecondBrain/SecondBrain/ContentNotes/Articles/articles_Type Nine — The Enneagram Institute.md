@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "api_article"
 aliases:
-- Type Nine — The Enneagram Institute
-- Type Nine — The Enneagram Institute
-- api_article
-- enneagraminstitute.com
+- "Type Nine — The Enneagram Institute"
+- "enneagraminstitute.com"
 ---
 ##### Type Nine — The Enneagram Institute
 

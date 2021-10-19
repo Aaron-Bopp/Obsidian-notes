@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- Semantic Battleground: The War of Neurodiversity
-- Semantic Battleground: The War of Neurodiversity
-- hypothesis
-- threetrackmind.wordpress.com
+- "Semantic Battleground: The War of Neurodiversity"
+- "threetrackmind.wordpress.com"
 ---
 ##### Semantic Battleground: The War of Neurodiversity
 

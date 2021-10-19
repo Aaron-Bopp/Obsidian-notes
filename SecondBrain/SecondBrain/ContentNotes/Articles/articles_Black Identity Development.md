@@ -3,11 +3,11 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- Black Identity Development
-- Black Identity Development
-- hypothesis
-- None
+- "Black Identity Development"
 ---
 ##### Black Identity Development
 

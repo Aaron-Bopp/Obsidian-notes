@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- Historical Foundations of Race
-- Historical Foundations of Race
-- hypothesis
-- nmaahc.si.edu
+- "Historical Foundations of Race"
+- "nmaahc.si.edu"
 ---
 ##### Historical Foundations of Race
 

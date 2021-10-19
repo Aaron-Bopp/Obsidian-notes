@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "web_clipper"
 aliases:
-- Highlights From pages.cs.wisc.edu
-- Highlights From pages.cs.wisc.edu
-- web_clipper
-- pages.cs.wisc.edu
+- "Highlights From pages.cs.wisc.edu"
+- "pages.cs.wisc.edu"
 ---
 ##### Highlights From pages.cs.wisc.edu
 

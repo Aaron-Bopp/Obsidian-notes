@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e58062f87aa56e28",
+        "id": "38359946abee22af",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md",
+            "file": "SecondBrain/EvergreenNotes/A mismatch between your self-image and the way others percieve you destroys self-image.md",
             "mode": "source"
           }
         },
@@ -17,73 +17,97 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/A mismatch between your self-image and the way others percieve you destroys self-image.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "38359946abee22af",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Worksheet 1.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":2.8672618865966797}"
+            },
+            {
+              "leaf": "38359946abee22af",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/White Privilege write-up.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.4621359075157388}"
+            },
+            {
+              "leaf": "38359946abee22af",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Worksheet 1.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Urn.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/White Privilege write-up.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Type Eight — The Enneagram Institute.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/videos_Linear algebra_3Blue1Brown.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Replacement prod.pdf.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Quantum Computing for the Very Curious.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Historical Foundations of Race.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Pyschology of Race and Gender notes.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "38359946abee22af",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/lecture_Behavioral Evolution.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Everything I Wish I Knew When Starting to Use Obsidian — Nicholas Seitz Photographer.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Can We Talk About Whiteness NPR One.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/lecture_Behavioral Evolution.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_Black Identity Development.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Can We Talk About Whiteness NPR One.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_7 Ways We Know Systemic Racism Is Real.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/C (programming language).md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Articles/articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Tweets/tweets_What’s in the BuildBackBetter Act.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":25},\"to\":{\"line\":18,\"ch\":25}},\"scroll\":0}"
             },
             {
-              "leaf": "e58062f87aa56e28",
+              "leaf": "38359946abee22af",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -139,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md",
+                "file": "SecondBrain/EvergreenNotes/A mismatch between your self-image and the way others percieve you destroys self-image.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md",
+                "file": "SecondBrain/EvergreenNotes/A mismatch between your self-image and the way others percieve you destroys self-image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md"
+                "file": "SecondBrain/EvergreenNotes/A mismatch between your self-image and the way others percieve you destroys self-image.md"
               }
             },
             "pane-relief:history-v1": {
@@ -246,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md",
+                "file": "SecondBrain/EvergreenNotes/A mismatch between your self-image and the way others percieve you destroys self-image.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -398,17 +422,17 @@
     "width": 1001.5,
     "collapsed": true
   },
-  "active": "e58062f87aa56e28",
+  "active": "38359946abee22af",
   "lastOpenFiles": [
-    "SecondBrain/ContentNotes/Articles/articles_VIM Mode - Quality of Life Improvements.md",
-    "SecondBrain/ContentNotes/Articles/articles_Urn.md",
-    "SecondBrain/ContentNotes/Articles/articles_Type Eight — The Enneagram Institute.md",
-    "SecondBrain/ContentNotes/Articles/articles_Replacement prod.pdf.md",
-    "SecondBrain/ContentNotes/Articles/articles_Quantum Computing for the Very Curious.md",
-    "SecondBrain/ContentNotes/Articles/articles_Historical Foundations of Race.md",
-    "SecondBrain/ContentNotes/Articles/articles_Everything I Wish I Knew When Starting to Use Obsidian — Nicholas Seitz Photographer.md",
-    "SecondBrain/ContentNotes/Articles/articles_Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth.md",
-    "SecondBrain/ContentNotes/Articles/articles_Black Identity Development.md",
-    "SecondBrain/ContentNotes/Articles/articles_7 Ways We Know Systemic Racism Is Real.md"
+    "SecondBrain/EvergreenNotes/A mismatch between your self-image and the way others percieve you destroys self-image.md",
+    "SecondBrain/ContentNotes/Worksheet 1.md",
+    "SecondBrain/ContentNotes/White Privilege write-up.md",
+    "SecondBrain/ContentNotes/videos_Linear algebra_3Blue1Brown.md",
+    "SecondBrain/ContentNotes/tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with.md",
+    "SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md",
+    "SecondBrain/ContentNotes/Pyschology of Race and Gender notes.md",
+    "SecondBrain/ContentNotes/lecture_Behavioral Evolution.md",
+    "SecondBrain/ContentNotes/Can We Talk About Whiteness NPR One.md",
+    "SecondBrain/ContentNotes/C (programming language).md"
   ]
 }

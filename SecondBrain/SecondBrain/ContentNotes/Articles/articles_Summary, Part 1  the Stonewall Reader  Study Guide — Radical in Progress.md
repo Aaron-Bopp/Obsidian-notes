@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress
-- Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress
-- hypothesis
-- radicalinprogress.org
+- "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress"
+- "radicalinprogress.org"
 ---
 ##### Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress
 

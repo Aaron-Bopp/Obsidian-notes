@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "api_article"
 aliases:
-- Enneagram Type 8w9 - The Diplomat
-- Enneagram Type 8w9 - The Diplomat
-- api_article
-- crystalknows.com
+- "Enneagram Type 8w9 - The Diplomat"
+- "crystalknows.com"
 ---
 ##### Enneagram Type 8w9 - The Diplomat
 

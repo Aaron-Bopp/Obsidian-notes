@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "api_article"
 aliases:
-- Everything I Wish I Knew When Starting to Use Obsidian — Nicholas Seitz Photographer
-- Everything I Wish I Knew When Starting to Use Obsidian — Nicholas Seitz Photographer
-- api_article
-- Nick Seitz
+- "Everything I Wish I Knew When Starting to Use Obsidian — Nicholas Seitz Photographer"
+- "Nick Seitz"
 ---
 ##### Everything I Wish I Knew When Starting to Use Obsidian — Nicholas Seitz Photographer
 

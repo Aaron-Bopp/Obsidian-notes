@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "api_article"
 aliases:
-- What We Do — Radical in Progress
-- What We Do — Radical in Progress
-- api_article
-- radicalinprogress.org
+- "What We Do — Radical in Progress"
+- "radicalinprogress.org"
 ---
 ##### What We Do — Radical in Progress
 

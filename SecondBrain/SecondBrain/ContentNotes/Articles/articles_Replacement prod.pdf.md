@@ -3,11 +3,11 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- Replacement prod.pdf
-- Replacement prod.pdf
-- hypothesis
-- None
+- "Replacement prod.pdf"
 ---
 ##### Replacement prod.pdf
 

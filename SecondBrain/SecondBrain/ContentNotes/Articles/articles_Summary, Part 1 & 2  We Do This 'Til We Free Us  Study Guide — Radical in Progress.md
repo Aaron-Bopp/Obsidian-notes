@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "api_article"
 aliases:
-- Summary, Part 1 & 2 | We Do This 'Til We Free Us | Study Guide — Radical in Progress
-- Summary, Part 1 & 2 | We Do This 'Til We Free Us | Study Guide — Radical in Progress
-- api_article
-- radicalinprogress.org
+- "Summary, Part 1 & 2 | We Do This 'Til We Free Us | Study Guide — Radical in Progress"
+- "radicalinprogress.org"
 ---
 ##### Summary, Part 1 & 2 | We Do This 'Til We Free Us | Study Guide — Radical in Progress
 

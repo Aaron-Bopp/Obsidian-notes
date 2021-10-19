@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- single.dvi
-- single.dvi
-- hypothesis
-- pages.cs.wisc.edu
+- "single.dvi"
+- "pages.cs.wisc.edu"
 ---
 ##### single.dvi
 

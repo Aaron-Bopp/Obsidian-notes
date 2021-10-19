@@ -3,11 +3,11 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- “I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”
-- “I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”
-- hypothesis
-- None
+- "“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”"
 ---
 ##### “I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”
 

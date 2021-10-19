@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "api_article"
 aliases:
-- Type Five — The Enneagram Institute
-- Type Five — The Enneagram Institute
-- api_article
-- enneagraminstitute.com
+- "Type Five — The Enneagram Institute"
+- "enneagraminstitute.com"
 ---
 ##### Type Five — The Enneagram Institute
 

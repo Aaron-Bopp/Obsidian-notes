@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "web_clipper"
 aliases:
-- VIM Mode - Quality of Life Improvements
-- VIM Mode - Quality of Life Improvements
-- web_clipper
-- forum.obsidian.md
+- "VIM Mode - Quality of Life Improvements"
+- "forum.obsidian.md"
 ---
 ##### VIM Mode - Quality of Life Improvements
 

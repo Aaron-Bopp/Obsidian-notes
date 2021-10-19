@@ -3,11 +3,11 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- Urn
-- Urn
-- hypothesis
-- None
+- "Urn"
 ---
 ##### Urn
 

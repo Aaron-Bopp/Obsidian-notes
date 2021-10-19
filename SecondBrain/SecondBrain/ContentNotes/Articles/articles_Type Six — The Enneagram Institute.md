@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "hypothesis"
 aliases:
-- Type Six — The Enneagram Institute
-- Type Six — The Enneagram Institute
-- hypothesis
-- enneagraminstitute.com
+- "Type Six — The Enneagram Institute"
+- "enneagraminstitute.com"
 ---
 ##### Type Six — The Enneagram Institute
 

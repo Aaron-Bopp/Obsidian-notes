@@ -3,11 +3,12 @@ created: 2021-10-19
 tags: content
 type: 
 - articles
+deliveredBy: 
+- "readwise"
+- "web_clipper"
 aliases:
-- VSCodeVim/Vim: Vim for Visual Studio Code
-- VSCodeVim/Vim: Vim for Visual Studio Code
-- web_clipper
-- github.com
+- "VSCodeVim/Vim: Vim for Visual Studio Code"
+- "github.com"
 ---
 ##### VSCodeVim/Vim: Vim for Visual Studio Code
 
