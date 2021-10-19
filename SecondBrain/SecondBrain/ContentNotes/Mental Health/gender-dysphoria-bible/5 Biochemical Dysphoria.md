@@ -88,7 +88,7 @@ Some people experience this in a genderfluid way, with some days leaning male, s
 ](https://twitter.com/SecretGamerGrrl/status/1222739427312750594)
 [Should a REALLY stubborn and confused cis person ignore feeling like total garbage and keep on taking HRT they shouldn't be taking for several months, they might also experience some acne and/or their skin clearing up and looking great, and a woman might start growing facial hair
 ](https://twitter.com/SecretGamerGrrl/status/1222740261178105856)
-[a man in such a position might deal with gynecomastia after like, a year or so, give or take, of again, feeling like complete garbage from taking unneeded estradiol supplements. Anyone, in a similar timeframe, might be looking at their genitals [[acting]] like the wrong sort, which
+[a man in such a position might deal with gynecomastia after like, a year or so, give or take, of again, feeling like complete garbage from taking unneeded estradiol supplements. Anyone, in a similar timeframe, might be looking at their genitals [[Acting]] like the wrong sort, which
 ](https://twitter.com/SecretGamerGrrl/status/1222742135067303937)
 [again, I kinda figure is something where one would go "hey this ain't right" and just stop taking the medication they are misusing. Where, again, things would just then go back to normal.
 ](https://twitter.com/SecretGamerGrrl/status/1222743360034758656)

@@ -25,7 +25,7 @@ Monster of the Week is a [[TTRPG]] that aims to create condensed and succinct ad
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[DnD]], [[TTRPG]], [[role-playing]], [[improv]], [[acting]], [[social interaction]], [[inter-personal communication]]
+**Topics**:: [[DnD]], [[TTRPG]], [[role-playing]], [[improv]], [[Acting]], [[social interaction]], [[inter-personal communication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ::

@@ -28,13 +28,13 @@ bib:
 		- Perspective is saying I've broken ten bones this isn't that bad
 		- Invalidation is saying somebody else has broken twenty bones my ten don't count
 	- I'm comfortable with being uncomfortable and uncomfortable with being comfortable - [[DrMike]]
-- [[Happiness]] vs Fulfillment
+- [[happiness]] vs Fulfillment
 	- Fulfillment is if I die now I will be happy with what I've accomplished
 		- Accomplishment is good relationships with the family, good interactions with people
-	- [[Happiness]] is a state of mind in a single moment. [[Happiness]] == Flourish
+	- [[happiness]] is a state of mind in a single moment. [[happiness]] == Flourish
 		- Is [[DrMike]] happy or has he defined [[happiness]] based off his life?
-	- Nature of [[Happiness]] is not doing what you [[love]] its detachment the decisions of life
-		- [[Happiness]] comes from satisfaction in either choice and not placing stake what is the right decision
+	- Nature of [[happiness]] is not doing what you [[love]] its detachment the decisions of life
+		- [[happiness]] comes from satisfaction in either choice and not placing stake what is the right decision
 		- You can feel sadness and still be happy
 	- [[Bhuddism]] is the study of [[happiness]] through detachment
 		- Bhudda was a prince who was un

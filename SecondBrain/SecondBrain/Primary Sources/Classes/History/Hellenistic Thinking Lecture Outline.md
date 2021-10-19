@@ -8,7 +8,7 @@
 
     -   Epicurus (341-270 BCE)
 
-    -   Citizenship not a prerequisite for [[Happiness]]
+    -   Citizenship not a prerequisite for [[happiness]]
 
     -   Fear of the Gods
 

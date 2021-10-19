@@ -137,7 +137,7 @@ People have also reported a tendency to be less prone to start arguments, an a [
 ### Genital Changes 
  [![](https://genderdysphoria.fyi/gdb/homology-bdbcc8c91a.jpeg)](https://www.vielma.at/) 
 
-All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you remove androgens and add estrogens, these tissues start [[acting]] like they are in the shape of a vulva, even though they aren’t.
+All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you remove androgens and add estrogens, these tissues start [[Acting]] like they are in the shape of a vulva, even though they aren’t.
 
 ##### Increased Sensitivity 
 The skin on the glans and shaft becomes much thinner and fragile, more prone to tearing and irritation, while also becoming _significantly_ more sensitive to touch. The entire organ also becomes much more sensitive to pressure, and vibration becomes a better form of stimulation over stroking, which may become painful.

@@ -21,7 +21,7 @@ bib:
             - rejection of feminists movement
             - reaction to increased divorce, [[dual]] income homes
             - became coupled with anti-[[abortion]]
-        - financial [[conservatism]]
+        - financial [[Conservatism]]
             - anti-communist
             - lower taxes and decreased regulation
     - First Term

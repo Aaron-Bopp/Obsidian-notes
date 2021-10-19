@@ -6,17 +6,17 @@ cssclass: topic
 tags: topic
 ---
 
-#### [[non-punitive justice]] `$=customJS.dv_funcs.topicHeader(dv, this)`
+#### [[Personality Tests]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **Definition**::
 
-**Status**:: #EVER/SEED 
+**Status**:: #stub 
 *edited `=this.file.mtime`*
 
 **Parents**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### [[non-punitive justice]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+##### [[Personality Tests]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 
 

@@ -56,7 +56,7 @@ Soft. Eng. Principles Fall 2020
 >
 > There are more architectural styles than we covered in the lectures. However, the ones covered in class are the predominants. For each system described below, which architectural style, if there exists one/ones, is (are) the most appropriate for the given system. If any of the following problems do not match any architectural styles (or a combination) we covered in class, then state it in your answer with a very brief explanation.
 
-1.  A system of automated banking machines, [[acting]] as distributed ATM.
+1.  A system of automated banking machines, [[Acting]] as distributed ATM.
 
     a.  Pipeline
 

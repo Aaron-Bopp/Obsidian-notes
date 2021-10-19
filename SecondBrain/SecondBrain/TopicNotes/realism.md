@@ -1,0 +1,12 @@
+---
+created: 2021-10-18
+aliases:
+- 
+tags: term
+cssclass: term
+---
+
+the quality or fact of representing a person or thing in a way that is accurate and true to life. [^1]
+
+**See**:: [[human experience]]
+

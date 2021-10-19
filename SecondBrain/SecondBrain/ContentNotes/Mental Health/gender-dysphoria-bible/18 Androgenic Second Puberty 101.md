@@ -113,7 +113,7 @@ It’s extremely common for [[transgender|trans]] people of all types to find th
 ### Genital Changes 
  [![](https://genderdysphoria.fyi/gdb/homology-bdbcc8c91a.jpeg)](https://www.vielma.at/) 
 
-All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you add androgens, these tissues start [[acting]] like they are in the shape of a penis and scrotum, even when they aren’t.
+All genitalia are constructed from the same tissues, they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones ones body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you add androgens, these tissues start [[Acting]] like they are in the shape of a penis and scrotum, even when they aren’t.
 
 ##### Bottom Growth 
 DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in Testosterone, this will cause the Skene’s Gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common.

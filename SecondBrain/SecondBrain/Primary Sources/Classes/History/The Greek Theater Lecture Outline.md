@@ -16,7 +16,7 @@
 
         -   Epic Poetry? Lyrical performance
 
-        -   Worship of Dionysus? Associated with masks, Dionysus is god of [[acting]]
+        -   Worship of Dionysus? Associated with masks, Dionysus is god of [[Acting]]
 
 -   ***The Performance***
 

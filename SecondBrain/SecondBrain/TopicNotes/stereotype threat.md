@@ -10,7 +10,7 @@ A [[stereotype threat]] is when a person is concerned a negative sterotype affec
 1. *Underperformance due to extra pressure*: The extra pressure of disproving a stereotype and avoid conflict leads to a lower [[working memory]]
 2. *Underperformance due to threats of self-integrity and belonging*: If a person's [[self-worth]] or sense of belonging is threatened by a situation will protect themself by setting lower goals, withdrawing from the situation, or having less motivation. [^1]
 
-**See**:: [[racism]], [[Psychology]], [[stereotype]]
+**See**:: [[racism]], [[Psychology]], [[Stereotype]]
 
 [^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]
 

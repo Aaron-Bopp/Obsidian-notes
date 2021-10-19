@@ -16,7 +16,7 @@ For now I have settled on [[self-love]] as the answer and [[transgender|transiti
 **Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Happiness]]
+**Topics**:: [[happiness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

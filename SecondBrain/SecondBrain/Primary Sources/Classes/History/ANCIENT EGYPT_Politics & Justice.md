@@ -74,7 +74,7 @@
 
     iv. Manufacturing -- processing left to [[women]]. Small factories financed by the rich, mainly male occupation
 
-    v.  Trade -- wholesale merchants [[acting]] for pharaoh or priests
+    v.  Trade -- wholesale merchants [[Acting]] for pharaoh or priests
 
 5.  **Threats to Royal Power**
 
