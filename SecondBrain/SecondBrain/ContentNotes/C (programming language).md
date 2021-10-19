@@ -48,20 +48,6 @@ void swap (int * a, int * b){
 swap(&variable, pointer)
 ```
 
-# PThreads
-- Requirements for deadlock
-	- Hold and wait
-		- process (threa holds resource) while waiting for more resources
-	- Mutual exclusion
-		- resource can't be shared
-	- Circular wait
-		- process wants something another processor has	
-	- No preemption
-		- can't interrupt a procedss hold on a resource
-- If we meet all four of these it is *possible* to deadlock
-- We can show deadlock does not exist if we prove one of the conditions does not exist 
-- can be avoided with mutual exclusion and prefer to not preempt necessary resources
-
 # Banker's Algorithm
 - Allocation state
 	- Number of each resource in the system

@@ -4,41 +4,105 @@
     "type": "split",
     "children": [
       {
-        "id": "53c0fa1123cf8414",
+        "id": "0aff8592cb42338f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Templates/EGNOTE.md",
-            "mode": "preview"
+            "file": "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "53c0fa1123cf8414",
+              "leaf": "0aff8592cb42338f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/EGNOTE.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Rise of Misinformation in America.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":25},\"to\":{\"line\":30,\"ch\":25}},\"scroll\":0.26666667064030963}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Rise of Modern Conservatism.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":4.914285932268415}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Rise of Conspiracy Culture.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/Abolition.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":9.039263953460505}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/20th Century America.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "53c0fa1123cf8414",
+              "leaf": "0aff8592cb42338f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Source Code.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Terms/natural selection.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "53c0fa1123cf8414",
+              "leaf": "0aff8592cb42338f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/TOPICNOTE.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/gender.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/OrganizationalNotes/INDEX.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":34.36141094033649}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"SecondBrain/OrganizationalNotes/KANBAN.md\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "53c0fa1123cf8414",
+              "leaf": "0aff8592cb42338f",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Operating Systems/notes_OS_IPC and signals.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":5.657142639160156}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/Operating Systems/notes_OS_Operating Systems.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "52e2d95e4499d1f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/TopicNotes/gender dysphoria.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "52e2d95e4499d1f6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/gender dysphoria.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -91,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Templates/EGNOTE.md",
+                "file": "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Templates/EGNOTE.md",
+                "file": "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Templates/EGNOTE.md"
+                "file": "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md"
               }
             },
             "pane-relief:history-v1": {
@@ -198,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Templates/EGNOTE.md",
+                "file": "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -350,17 +414,17 @@
     "width": 1001.5,
     "collapsed": true
   },
-  "active": "53c0fa1123cf8414",
+  "active": "0aff8592cb42338f",
   "lastOpenFiles": [
-    "Templates/Templates/EGNOTE.md",
-    "Templates/Source Code.md",
-    "Templates/Templates/TOPICNOTE.md",
-    "Templates/Templates/TITLE-ALLLINKS.md",
-    "D&D/003.md",
-    "SecondBrain/EvergreenNotes/Andy Matuschak.md",
-    "SecondBrain/EvergreenNotes/Dual Nostril Breathing Meditation.md",
-    "SecondBrain/OrganizationalNotes/INDEX.md",
-    "SecondBrain/OrganizationalNotes/find related concepts.md",
-    "SecondBrain/TODO.md"
+    "SecondBrain/TopicNotes/Rise of Misinformation in America.md",
+    "SecondBrain/TopicNotes/Rise of Modern Conservatism.md",
+    "SecondBrain/TopicNotes/Rise of Conspiracy Culture.md",
+    "SecondBrain/TopicNotes/Abolition.md",
+    "SecondBrain/TopicNotes/20th Century America.md",
+    "SecondBrain/Terms/natural selection.md",
+    "SecondBrain/TopicNotes/gender.md",
+    "SecondBrain/TopicNotes/gender schema.md",
+    "SecondBrain/TopicNotes/gender dysphoria.md",
+    "SecondBrain/TopicNotes/Gender Euphoria.md"
   ]
 }

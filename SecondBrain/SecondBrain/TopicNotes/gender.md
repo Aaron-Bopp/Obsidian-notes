@@ -20,7 +20,7 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 **Parents**:: [[self]], [[mental health]], [[personality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-
+**Terms**:: [[gender schema]], [[gender identity]], [[gender constancy]], [[gender consistency]], [[gender affirming care]]
 ##### [[gender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Every person has an experience of gender]]
@@ -29,8 +29,12 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 - [[Gender has a scientific basis]]
 	- [[Sex conists of phenotype genotype and gender]]
 - [[transgender]]
-	- ![[gender dysphoria#gender dysphoria customJS dv_funcs topicOutlineHeader dv this]]
-	- ![[Gender Euphoria#Gender Euphoria customJS dv_funcs topicOutlineHeader dv this]]
+	- [[gender dysphoria]]
+		- [[Gender Dysphoria is based in a intrinsic wrongness of self]]
+		- [[Self-hatred is born out of dissonance between self-image and self-perception]]
+			- [[Gender Dysphoria can take many forms]]
+			- [[Trans people will look for any other solution than being trans]]
+	- [[Gender Euphoria]]
 
 
 ###
