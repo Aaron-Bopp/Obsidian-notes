@@ -1,5 +1,5 @@
 # TODO
-![[SecondBrain/TODO]]
+![[KANBAN]]
 
 # What am I trying to get done now?
 - Flesh out the second iteration of my note taxonomy => what are the place of term notes/topic notes, what should classified as an evergreen note, what are the kind of things that don't lend themselves well to atomic notes, how interested in a topic do I need to be to bring it into my vault

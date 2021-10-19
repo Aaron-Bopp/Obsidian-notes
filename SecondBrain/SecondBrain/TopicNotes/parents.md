@@ -2,19 +2,9 @@
 created: 2021-06-28
 cssclass: topic
 tags: topic
-- personal-note
-
 ---
 
 #### [[parents]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-
----
-# Outline
-
-
----
 
 **Definition**::
 

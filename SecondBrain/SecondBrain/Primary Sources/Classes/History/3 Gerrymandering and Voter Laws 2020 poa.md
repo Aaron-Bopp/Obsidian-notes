@@ -133,7 +133,7 @@ Of the 36 member countries of the Organization for Economic Cooperation and Deve
 
 ## [It could make a statement about civic participation]{.ul}
 
-**Holly Jackson**, an associate professor of English at the University of Massachusetts and the associate editor of *The New [[Britain|England]] Quarterly*, a peer-reviewed culture and history [[journal]], says making Election Day a federal holiday would send a strong message about American values.
+**Holly Jackson**, an associate professor of English at the University of Massachusetts and the associate editor of *The New [[Britain|England]] Quarterly*, a peer-reviewed culture and history [[Journal]], says making Election Day a federal holiday would send a strong message about American values.
 
 While Election Day was never an official federal holiday, it was once observed as a holiday in communities across the country, the date having been chosen to accommodate agricultural work schedules, she said. Many businesses closed for the day and some states declared an official holiday. \"The period of our history with the highest voter turnout rate was in the 19th century  ---from the 1840s-1890s --- when election days were not only holidays in the sense that people got a day off work, but were truly celebrated with big public gatherings, food and drink,\" she said. \"Even children too young to vote were involved in these festivities, which got them in the practice of civic participation and instilled a sense that it was important and fun.\"
 

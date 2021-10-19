@@ -1,8 +1,7 @@
 ---
 created: 2021-05-31
 cssclass: evergreen
-tags: evergreen
-- practice
+tags: technique
 ---
 
 Examples:: https://youtu.be/sXGhT4pJcj8?t=7801
@@ -14,6 +13,6 @@ Examples:: https://youtu.be/sXGhT4pJcj8?t=7801
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[meditation]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

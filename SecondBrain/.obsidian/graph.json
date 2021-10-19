@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:UNCREATEDNOTES -path:content -path:primary",
+  "search": "path:SecondBrain -file:UNCREATEDNOTES -path:content -path:primary",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -188,6 +188,27 @@
         "a": 1,
         "rgb": 16772608
       }
+    },
+    {
+      "query": "tag:#stub",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "tag:#technique",
+      "color": {
+        "a": 1,
+        "rgb": 10692905
+      }
+    },
+    {
+      "query": "tag:person",
+      "color": {
+        "a": 1,
+        "rgb": 4857579
+      }
     }
   ],
   "collapse-display": false,
@@ -200,6 +221,6 @@
   "repelStrength": 12.5882352941176,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.09859777405138771,
+  "scale": 0.09859777405138802,
   "close": false
 }

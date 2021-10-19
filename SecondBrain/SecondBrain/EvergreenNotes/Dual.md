@@ -22,7 +22,7 @@ Dual has been implemented as a plugin for [[Obsidian (software)]], and can be tr
 Startup Dual Server (after installation):: `python3 server.py --path "c:\Users\s533127\Desktop\Obsidian-notes"` in the Dual plugin folder
 
 Dual Skills
-- [[SecondBrain/EvergreenNotes/find related concepts]]
+- [[find related concepts]]
 - [[SecondBrain/EvergreenNotes/Answer open questions]]
 - [[SecondBrain/EvergreenNotes/Fomulate questions]]
 - [[SecondBrain/EvergreenNotes/do math]]

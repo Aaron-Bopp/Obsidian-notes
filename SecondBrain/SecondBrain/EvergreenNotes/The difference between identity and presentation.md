@@ -2,8 +2,7 @@
 created: 2021-10-18
 aliases:
 - 
-cssclass: concept
-tags: concept
+tags: evergreen
 sr-due: 2021-10-22
 sr-interval: 4
 sr-ease: 270
