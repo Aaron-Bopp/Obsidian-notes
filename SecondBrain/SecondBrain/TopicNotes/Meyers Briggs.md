@@ -1,8 +1,8 @@
 ---
 created: 2021-10-18
 aliases:
-- 
-tags: stub
+  - null
+tags: topic/stub
 ---
 
 **See**:: [[Personality Tests]]

@@ -12,7 +12,7 @@ aliases:
 -  "Rejection Sensitivity"
 ---
 
-- #Def Rejection Sensitivity - The tendency to anixously expect, readily perceive, and intensely react to rejection 
+- [[Rejection Sensitivity]] - The tendency to anixously expect, readily perceive, and intensely react to rejection 
      - Connected to [[gender dysphoria]], [[depression]], [[anxiety]], [[borderline personality disorder]]
      - caused by: Repeated instances of rejection
      - it doesn't matter what the rejection is it matters who intense the response is

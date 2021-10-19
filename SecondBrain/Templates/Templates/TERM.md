@@ -1,9 +1,8 @@
 <% tp.file.include("[[META]]") %>
-tags: term
-cssclass: term
+tags: topic/term
 ---
 
-<% tp.system.clipboard() %> [^1]
+<% tp.system.clipboard() %> 
 
 **See**::
-
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

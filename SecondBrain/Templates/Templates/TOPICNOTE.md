@@ -1,16 +1,8 @@
 <% tp.file.include("[[META]]") %>
-cssclass: topic
-tags: topic
+tags: topic/outline
 ---
 
-<% tp.file.include("[[TOPIC_HEADER]]") %>
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 <% tp.file.include("[[TOPIC_OUTLINE_HEADER]]") %>

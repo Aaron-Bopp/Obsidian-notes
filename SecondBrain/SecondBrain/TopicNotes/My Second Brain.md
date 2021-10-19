@@ -43,8 +43,7 @@ Since March 2021 I have become very interested in [[personal knowledge managemen
 		- [[How to title your notes]]
 		- [[How to write atomically]]
 	- Tags
-		- [[how I use Obsidian tags]]
-		- [[Tags should be general]]
+		- [[Use Obsidian tags as temporal classifiers]]
 
 ### <hr class="dataviews"/>
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

@@ -4,9 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-19
-sr-interval: 1
-sr-ease: 230
+sr-due: 2021-10-22
+sr-interval: 3
+sr-ease: 250
 ---
 #### [[Using github with Unity projects]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

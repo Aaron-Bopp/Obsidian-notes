@@ -1,9 +1,9 @@
 ---
 created: 2021-05-27
 cssclass: evergreen
-tags: evergreen, tool
+tags: evergreen, topic/tool
 aliases:
-- 
+-
 ---
 
 https://mermaid-js.github.io/mermaid/#/

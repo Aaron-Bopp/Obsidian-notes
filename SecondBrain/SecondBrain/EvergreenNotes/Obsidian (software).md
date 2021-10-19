@@ -1,6 +1,6 @@
 ---
 created: 2021-05-26
-tags: tool
+tags: topic/tool
 ---
 
 #TO/DO/REFACTOR whole note
@@ -38,7 +38,7 @@ It also has a variety of plugins that help the workflow
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Zettlekassen]], [[second brain]], [[how I use Obsidian tags]]
+**Topics**:: [[Zettlekassen]], [[second brain]], [[Use Obsidian tags as temporal classifiers]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 **Outline**::

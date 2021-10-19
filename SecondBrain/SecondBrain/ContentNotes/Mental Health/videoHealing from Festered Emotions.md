@@ -18,7 +18,7 @@ bib:
     - one function of [[subconscious]] is to compare
     - #Ref/DrK "[[subconscious]] is when the sense of [[self]] comes from the outside"
 - #TO/PONDER/ME  Is my vacuum of [[self]] filled with my intelligence?
-- #Def Alexithymia - someone who is colorblind to emotion
+-  [[Alexithymia]] - someone who is colorblind to emotion
     - Men are socially developed to suppress emotions except for anger
         - anger is the only thing men understand
         - all other emotions are not developed

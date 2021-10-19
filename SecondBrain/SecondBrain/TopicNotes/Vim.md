@@ -1,8 +1,8 @@
 ---
 created: 2021-10-11
 aliases:
-- 
-tags: tool
+-
+tags: topic/tool
 cssclass: tool
 ---
 # [[Vim]] `$=customJS.dv_funcs.topicHeader(dv, this)`

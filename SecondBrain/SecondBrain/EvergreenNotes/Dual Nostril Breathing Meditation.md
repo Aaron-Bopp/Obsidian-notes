@@ -1,7 +1,7 @@
 ---
 created: 2021-05-31
 cssclass: evergreen
-tags: technique
+tags: topic/technique
 ---
 
 Examples:: https://youtu.be/sXGhT4pJcj8?t=7801

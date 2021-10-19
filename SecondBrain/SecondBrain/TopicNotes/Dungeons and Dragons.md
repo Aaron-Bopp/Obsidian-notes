@@ -2,7 +2,7 @@
 created: 2021-10-18
 aliases:
 - 
-tags: tool
+tags: topic/tool
 ---
 
 **See**:: [[role-playing]], [[TTRPG]], [[Acting]]

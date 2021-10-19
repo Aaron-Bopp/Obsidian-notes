@@ -13,25 +13,25 @@ After each of the following instruction is executed
 ```
 a.  LDR R0, \[R1\] R0 = Memory Location\[1024\] and R1 = 1024
 
-b.  LDR R0, \[R1, #4\] R0 = Memory Location\[1028\] and R1 = 1024
+b.  LDR R0, \[R1, \#4\] R0 = Memory Location\[1028\] and R1 = 1024
 
-c.  LDR R0, \[R1\], #-8 R0 = Memory Location\[1024\] and R1 = 1016
+c.  LDR R0, \[R1\], \#-8 R0 = Memory Location\[1024\] and R1 = 1016
 
 d.  LDR R0, \[R1, R2\] R0 = Memory Location\[1040\] and R1 = 1024
 
-e.  LDR R0, \[R1, #20\]! R0 = Memory Location\[1044\] and R1 = 1044
+e.  LDR R0, \[R1, \#20\]! R0 = Memory Location\[1044\] and R1 = 1044
 
 Ex#2 (5 pts)
 
 Match the following instructions with the most appropriate addressing modes.
 
-SUB R0, R1, #15 Immediate
+SUB R0, R1, \#15 Immediate
 
 ADD R0, R1, R2 Register
 
 STR R0, \[R1\] Indirect
 
-LDR R0, \[R1, #4\] pre-indexing
+LDR R0, \[R1, \#4\] pre-indexing
 
 LDR R0, \[R1\], \# 4 post-indexing
 

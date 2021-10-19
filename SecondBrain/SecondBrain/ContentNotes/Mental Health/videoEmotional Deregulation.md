@@ -26,8 +26,8 @@ bib:
           - I feel `________`
      - Need to be emotionally honest with ourselves
      - Complications
-          - #Def Alexithymia - No words for emotions
-          - #Def Dyslexithymia - Wrong words for emotions
+          -  [[Alexithymia]] - No words for emotions
+          - [[Dyslexithymia]] - Wrong words for emotions
           - [[trauma]] can effect how we feel and understand emotions
 
 ---

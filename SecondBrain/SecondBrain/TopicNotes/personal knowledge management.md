@@ -1,8 +1,8 @@
 ---
 created: 2021-07-21
 aliases:
-- PKM
-tags: term
+  - PKM
+tags: topic/term
 cssclass: term
 ---
 

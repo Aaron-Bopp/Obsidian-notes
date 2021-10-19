@@ -1,9 +1,9 @@
 ---
 created: 2021-10-10
 cssclass: term
-tags: term
+tags: topic/term
 aliases:
-- 
+-
 ---
 
 lack of knowledge or information.

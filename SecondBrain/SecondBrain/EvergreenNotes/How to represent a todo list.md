@@ -18,6 +18,6 @@ My [[SecondBrain/OrganizationalNotes/TODO]] list is represented by [[my TO(DO) a
 **Status**:: #EVER/GREEN/PRUNE 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[todo note]], [[Make your inbox into an entry point]], [[my TO(DO) and EVER(GREEN) structure]], [[how I use Obsidian tags]]
+**Topics**:: [[todo note]], [[Make your inbox into an entry point]], [[my TO(DO) and EVER(GREEN) structure]], [[Use Obsidian tags as temporal classifiers]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

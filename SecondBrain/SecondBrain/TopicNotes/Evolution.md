@@ -1,8 +1,8 @@
 ---
 created: 2021-10-18
 aliases:
-- evolutionary
-tags: term
+  - evolutionary
+tags: topic/term
 cssclass: term
 ---
 

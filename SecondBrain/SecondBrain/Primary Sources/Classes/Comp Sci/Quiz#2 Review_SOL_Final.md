@@ -1,4 +1,4 @@
-> Quiz #2 Review
+> Quiz \#2 Review
 
 1.  What is the [[purpose]] of ls, cd, mkdir, as, gcc, echo\$?, etc.
 
@@ -26,7 +26,7 @@ Sol: r15 (Program Counter Register)
 
 5.  Write the instruction that stores 53 in decimal into register r0
 
-Sol: mov r0, #53
+Sol: mov r0, \#53
 
 6.  Write the instruction that stores 35 in hex into register r1
 
@@ -34,13 +34,13 @@ Sol: mov r1,#0x35
 
 7.  Write the ARM instructions to perform the operation 16 + 10 -- 2\*5
 
-> Sol: mov r1, #16
+> Sol: mov r1, \#16
 >
-> add r1, r1, #10
+> add r1, r1, \#10
 >
-> mov r2, #2
+> mov r2, \#2
 >
-> mov r3, #5
+> mov r3, \#5
 >
 > mul r0, r2,r3
 >
@@ -160,7 +160,7 @@ r2:
 
   -----------------------------------------------------------------------
 
-mov r0, #0x1A2B3C4D
+mov r0, \#0x1A2B3C4D
 
 r0:
 

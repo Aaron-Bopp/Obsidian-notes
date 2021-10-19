@@ -4,9 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-19
+sr-due: 2021-10-20
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[A mismatch between your self-image and the way others percieve you destroys self-image]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -8,11 +8,11 @@
 
 main:
 
-mov r1, #5 @ r1 \<- 5
+mov r1, \#5 @ r1 \<- 5
 
-mov r2, #10 @ r2 \<- 10
+mov r2, \#10 @ r2 \<- 10
 
-mov r3, #8 @ r3 \<- 8
+mov r3, \#8 @ r3 \<- 8
 
 add r0, r1, r2 @ r0 \<- 15
 
@@ -36,11 +36,11 @@ pi\@abopp:\~/arm1 \$ echo \$?
 
 main:
 
-mov r1, #5 @ r1 \<- 5
+mov r1, \#5 @ r1 \<- 5
 
-mov r2, #10 @ r2 \<- 10
+mov r2, \#10 @ r2 \<- 10
 
-mov r3, #8 @ r3 \<- 8
+mov r3, \#8 @ r3 \<- 8
 
 mul r0, r1, r1 @ r0 \<- 25
 
@@ -68,11 +68,11 @@ pi\@abopp:\~/arm1 \$ echo \$?
 
 main:
 
-mov r1, #5 @ r1 \<- 5
+mov r1, \#5 @ r1 \<- 5
 
-mov r2, #10 @ r2 \<- 10
+mov r2, \#10 @ r2 \<- 10
 
-mov r3, #8 @ r3 \<- 8
+mov r3, \#8 @ r3 \<- 8
 
 add r4, r1, r2 @ r4 \<- 15
 
@@ -100,13 +100,13 @@ pi\@abopp:\~/arm1 \$ echo \$?
 
 main:
 
-mov r1, #5 @ r1 \<- 5
+mov r1, \#5 @ r1 \<- 5
 
-mov r2, #10 @ r2 \<- 10
+mov r2, \#10 @ r2 \<- 10
 
-mov r3, #8 @ r3 \<- 8
+mov r3, \#8 @ r3 \<- 8
 
-mov r4, #16 @ r4 \<- 16
+mov r4, \#16 @ r4 \<- 16
 
 mul r5, r1, r1 @ r5 \<- 25
 
@@ -140,17 +140,17 @@ push {lr}
 
 ldr r0,=message1 \@r0 \<- memory address of the message
 
-mov r1, #18 @ r1 \<- 18
+mov r1, \#18 @ r1 \<- 18
 
-mov r2, #0x56 @ r2 \<- 56
+mov r2, \#0x56 @ r2 \<- 56
 
-mov r3, #0b01100001 \@r3 \<- 01100001
+mov r3, \#0b01100001 \@r3 \<- 01100001
 
-mov r4, #0b0110000111010011 @ r4 \<- 0110000111010011
+mov r4, \#0b0110000111010011 @ r4 \<- 0110000111010011
 
 bl printf
 
-mov r0, #0 @ r0 \<- 0
+mov r0, \#0 @ r0 \<- 0
 
 pop {pc}
 

@@ -7,7 +7,7 @@ content-type:
 source:
 bib:
 ---
-
+#TO/DO/REFACTOR into evergreen notes
 # Discussion 3
 
 Class: HIST 1877
@@ -149,8 +149,6 @@ Type: Discussion
 
 
 ---
-
-#INBOX/0
 
 **Topics**:: 
 

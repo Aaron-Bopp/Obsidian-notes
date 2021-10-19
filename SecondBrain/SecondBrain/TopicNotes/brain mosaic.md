@@ -1,8 +1,8 @@
 ---
 created: 2021-10-10
-tags: term
+tags: topic/term
 aliases:
-- 
+-
 ---
 
 A study of brain region's size as related to gender. The average size of a region for each gender gives it the score of leaning one way or the other, and most peoples brains have a mix of feminine, masculine, and neutral regions [^1] ^58d822

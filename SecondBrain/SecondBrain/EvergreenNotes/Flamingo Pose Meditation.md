@@ -1,6 +1,6 @@
 ---
 created: 2021-05-31
-tags: technique
+tags: topic/technique
 ---
 
 Examples:: https://youtu.be/UUC8qF5iDag?t=6195

@@ -191,9 +191,9 @@ Sato of 2b2t, username. "2b2t -- A Talk About Recent Events." *YouTube*. 12:17. 
 
 Sato of 2b2t, username. "2b2t -- Standing on the Shoulder of Giants." *Youtube*, 7:16. June 22, 2016. \<https://www.youtube.com/watch?v=9hmydN6nMrM>.
 
-TheCampingRusher, username. "LAVA CURTAIN KILLS 1000'S OF US!! \| OLDEST SERVER IN MINECRAFT #9." *YouTube*, 23:20. June 24, 2016. \<https://www.youtube.com/watch?v=jL3BN-IyioQ&t=288s>.
+TheCampingRusher, username. "LAVA CURTAIN KILLS 1000'S OF US!! \| OLDEST SERVER IN MINECRAFT \#9." *YouTube*, 23:20. June 24, 2016. \<https://www.youtube.com/watch?v=jL3BN-IyioQ&t=288s>.
 
-TheCampingRusher, username. "Minecraft 2B2T: Do I Own The Server, #FreeToro, Fitmc Partnership." *YouTube*. 32:44. August 20, 2016. \<https://www.youtube.com/watch?v=HEbwQKu9NRA>.
+TheCampingRusher, username. "Minecraft 2B2T: Do I Own The Server, \#FreeToro, Fitmc Partnership." *YouTube*. 32:44. August 20, 2016. \<https://www.youtube.com/watch?v=HEbwQKu9NRA>.
 
 TheCampingRusher, username. "QUITTING YOUTUBE FOR UNIVERSITY?! ( University QnA Vlog w/ TheCampingRusher )." *YouTube*. 10:30. September 6, 2015. \<https://www.youtube.com/watch?v=hx3tkzHBrpM&[[index]]=44&list=PLDzzbNR8UfN0mIU-q3AiHyk-pYwD_8ydY>.
 
@@ -299,7 +299,7 @@ Tweed, Thomas. *Crossing and Dwelling: A Theory of [[Religion]]*. Cambridge, Mas
 
 [^44]: IamTUNA, username. "Comparison and Explanation of what a "rusher vs vet" is as Relating to Current Events." *2b2t* (subreddit), *Reddit*. July 15, 2016.
 
-[^45]: TheCampingRusher, username. "Minecraft 2B2T: Do I Own The Server, #FreeToro, Fitmc Partnership." *YouTube*. 32:44. August 20, 2016.
+[^45]: TheCampingRusher, username. "Minecraft 2B2T: Do I Own The Server, \#FreeToro, Fitmc Partnership." *YouTube*. 32:44. August 20, 2016.
 
 [^46]: A group on 2b2t, ironically labeled as the successors of the Third Reich (i.e. [[Nazi]] [[Germany]]).
 
@@ -309,15 +309,15 @@ Tweed, Thomas. *Crossing and Dwelling: A Theory of [[Religion]]*. Cambridge, Mas
 
 [^49]: LandonMC, username. "I WAS HACKED..." *YouTube*. 11:47. August 18, 2016
 
-[^50]: LandonMC, username. "I WAS HACKED..." *YouTube*. 11:47. August 18, 2016; Torogadude, username. "My priority access to 2b2t has been revoked." *YouTube*. 2:57. August 19, 2016; and TheCampingRusher, username. "Minecraft 2B2T: Do I Own The Server, #FreeToro, Fitmc Partnership." *YouTube*. 32:44. August 20, 2016.
+[^50]: LandonMC, username. "I WAS HACKED..." *YouTube*. 11:47. August 18, 2016; Torogadude, username. "My priority access to 2b2t has been revoked." *YouTube*. 2:57. August 19, 2016; and TheCampingRusher, username. "Minecraft 2B2T: Do I Own The Server, \#FreeToro, Fitmc Partnership." *YouTube*. 32:44. August 20, 2016.
 
-[^51]: TheCampingRusher, username. "Minecraft 2B2T: Do I Own The Server, #FreeToro, Fitmc Partnership." *YouTube*. 32:44. August 20, 2016.
+[^51]: TheCampingRusher, username. "Minecraft 2B2T: Do I Own The Server, \#FreeToro, Fitmc Partnership." *YouTube*. 32:44. August 20, 2016.
 
 [^52]: Sato of 2b2t, username. "2b2t -- A Talk About Recent Events." *YouTube*. 12:17. August 2, 2016.
 
 [^53]: James Rustles, "2b2t: The Eras 2010-2015 - Part:1," *The 2b2t Blog*, March 30, 2015.
 
-[^54]: TheCampingRusher, username, "LAVA CURTAIN KILLS 1000'S OF US!! \| OLDEST SERVER IN MINECRAFT #9," *YouTube*. June 24, 2016. 4:48 of 23:20.
+[^54]: TheCampingRusher, username, "LAVA CURTAIN KILLS 1000'S OF US!! \| OLDEST SERVER IN MINECRAFT \#9," *YouTube*. June 24, 2016. 4:48 of 23:20.
 
 [^55]: Sato of 2b2t, username. "2b2t -- Standing on the Shoulder of Giants." *YouTube.* June 22, 2016. 4:55 of 7:16.
 

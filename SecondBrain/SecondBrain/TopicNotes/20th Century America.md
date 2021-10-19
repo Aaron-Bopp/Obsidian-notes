@@ -2,28 +2,23 @@
 created: 2021-05-31
 cssclass: topic
 tags: topic
-
 ---
 
-
-
----
 # Outline
-- [[1920's General Notes]]
-- [[1930's General Notes]]
-- [[1940's General Notes]]
-- [[1950's General Notes]]
-- [[1960's General Notes]]
-- [[1970's General Notes]]
-- [[1980's General Notes]]
-- [[1990's General Notes]]
+
+- [[notes1920's General Notes]]
+- [[notes1930's General Notes]]
+- [[notes1940's General Notes]]
+- [[notes1950's General Notes]]
+- [[notes1960's General Notes]]
+- [[notes1970's General Notes]]
+- [[notes1980's General Notes]]
+- [[notes1990's General Notes]]
 
 ---
 
-**See**:: 
+**See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
 
 ### <hr class="dataviews"/>
 

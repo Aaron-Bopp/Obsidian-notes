@@ -24,19 +24,19 @@ main: push{lr}
 
 ldr r0, =nums
 
-mov r1, #0
+mov r1, \#0
 
 ldr r2, \[r0\]
 
 b loop
 
-loop: cmp r1, #8
+loop: cmp r1, \#8
 
 bge done
 
-add r1, r1, #1
+add r1, r1, \#1
 
-add r0, r0, #4
+add r0, r0, \#4
 
 cmp r2, \[r0\]
 
@@ -58,7 +58,7 @@ bx lr
 
 5.  Given an arithmetic expression such R0 = 33 \* R0, you should be able to write a single ARM instruction to store 33 \* R0.
 
-> mov r1, #33
+> mov r1, \#33
 >
 > mul r0, r0, r1
 
@@ -68,11 +68,11 @@ bx lr
 
 > ![](media/image2.png){width="3.46875in" height="2.5634175415573055in"}
 
-a.  LDR R0, \[R1, #8\] @ R0 = Memory Location \[0x2102C\], R1 = 0x21024
+a.  LDR R0, \[R1, \#8\] @ R0 = Memory Location \[0x2102C\], R1 = 0x21024
 
-b.  LDR R0, \[R1\], #-4 @ R0 = Memory Location \[0x21024\], R1 = 0x21020
+b.  LDR R0, \[R1\], \#-4 @ R0 = Memory Location \[0x21024\], R1 = 0x21020
 
-c.  LDR R0, \[R1, #12\]! @ R0 = Memory Location \[0x2102C\], R1 = 0x2102C
+c.  LDR R0, \[R1, \#12\]! @ R0 = Memory Location \[0x2102C\], R1 = 0x2102C
 
 d.  LDR R0, \[R1, R2\] @ R0 = Memory Location \[0x21034\], R1 = 0x2102C
 
@@ -80,13 +80,13 @@ e.  LDR R0, \[R1\], R2 @ R0 = Memory Location \[0x21034\], R1 = 0x21034
 
 f.  LDR R0, \[R1, R2\]! @ R0 = Memory Location \[0x2103C\], R1 = 0x2103c
 
-g.  LDR R0, \[R1, R2, LSL #3\] @ R0 = Memory Location \[0x2107C\], R1 = 0x2103c
+g.  LDR R0, \[R1, R2, LSL \#3\] @ R0 = Memory Location \[0x2107C\], R1 = 0x2103c
 
     a.  R0 = r1 + r2\*2\^3
 
     b.  R0 = 0x2103c + 8\*2\^3
 
-h.  LDR R0, \[R1\], R2, LSR #1 @ R0 = Memory Location \[0x2103c\], R1 = 0x21040
+h.  LDR R0, \[R1\], R2, LSR \#1 @ R0 = Memory Location \[0x2103c\], R1 = 0x21040
 
     a.  R0 = r1
 
@@ -94,19 +94,19 @@ h.  LDR R0, \[R1\], R2, LSR #1 @ R0 = Memory Location \[0x2103c\], R1 = 0x21040
 
     c.  R1 = 0x2103c + 8/2
 
-i.  LDR R0, \[R1, R2, LSL #2\]! @ R0 = Memory Location \[0x2105C\], R1 = 0x21040
+i.  LDR R0, \[R1, R2, LSL \#2\]! @ R0 = Memory Location \[0x2105C\], R1 = 0x21040
 
     a.  R0 = r1 + r2\*2\^2
 
     b.  R0 = 0x21040 + 8\*4
 
-j.  SUB R0, R1, #15 Immediate
+j.  SUB R0, R1, \#15 Immediate
 
 k.  ADD R0, R1, R2 Register
 
 l.  STR R0, \[R1\] Indirect
 
-m.  LDR R0, \[R1, #4\] pre-indexing
+m.  LDR R0, \[R1, \#4\] pre-indexing
 
 n.  LDR R0, \[R1\], \# 4 post-indexing
 

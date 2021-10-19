@@ -7,8 +7,6 @@ aliases:
 date modified: Wednesday, October 6th 2021, 2:34:37 pm
 ---
  a feeling of worry, nervousness, or unease about something with an uncertain outcome ^fc54c3
-**Status**:: #EVER/GREEN
-*edited `=this.file.mtime`*
 
 **See**:: [[mental health]], [[mental disorders]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

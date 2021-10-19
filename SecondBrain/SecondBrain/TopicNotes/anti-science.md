@@ -1,10 +1,10 @@
 ---
 created: 2021-08-01
 aliases:
-- science denier
-- anti-science
-- anti science
-tags: term
+  - science denier
+  - anti-science
+  - anti science
+tags: topic/term
 cssclass: term
 ---
 

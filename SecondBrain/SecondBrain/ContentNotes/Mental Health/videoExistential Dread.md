@@ -22,13 +22,13 @@ bib:
 			- if given too many options the brain will make choices that we cannot immediately understand the reasons for
 		- if we get paralyzed through lack of knowledge we won't act 
 			- existential dread comes from the knowledge that we are ignorant/can't fully understand the world
-		- #def [neurosis](https://en.wikipedia.org/wiki/neurosis) -> the tendency to worry
-	- as a human, a lot of what is good for us makes us suffer
-		- most professional success comes from conscientiousness and neuroticism 
+		- [[neurosis]](https://en.wikipedia.org/wiki/neurosis) -> the tendency to worry
+			- as a human, a lot of what is good for us makes us suffer
+				- most professional success comes from conscientiousness and neuroticism 
 		- #to/explore/research  5-factor model
-		- #def [neuroticism](https://en.wikipedia.org/wiki/neuroticism) -> sometimes defined as a tendency for quick arousal when stimulated and slow relaxation from arousal, especially with regard to negative emotional arousal.
+		-  [[neuroticism]](https://en.wikipedia.org/wiki/neuroticism) -> sometimes defined as a tendency for quick arousal when stimulated and slow relaxation from arousal, especially with regard to negative emotional arousal.
 			- Is a trait in many models within personality theory, but there is significant disagreement on its definition
-		- #Def [Conscientiousness](https://en.wikipedia.org/wiki/Conscientiousness) -> the personality trait of being careful, or diligent. 
+		- [Conscientiousness](https://en.wikipedia.org/wiki/Conscientiousness) -> the personality trait of being careful, or diligent. 
 			- Conscientiousness implies a [[desire]] to do a task well, and to take obligations to others seriously. 
 			- Conscientious people tend to be efficient and organized as opposed to easy-going and disorderly.
 - Difference between anxious thoughts vs a feeling of existential dread
