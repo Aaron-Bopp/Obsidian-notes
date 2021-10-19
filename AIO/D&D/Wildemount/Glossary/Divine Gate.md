@@ -1,1 +1,0 @@
-Divine Gate is the boundary established by the Prime Gods between [[Exandria]] and the [[Outer Planes]], preventing all major divinity from setting foot on the world.

@@ -1,1 +1,0 @@
-# Troka, the Scoundrel King

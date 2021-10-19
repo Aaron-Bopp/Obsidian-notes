@@ -9,9 +9,56 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D/Aven/Aunnabelle.md",
+            "file": "Templates/Source Code.md",
             "mode": "source"
           }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Source Code.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/TERM.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/LOCATION.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/GET_TITLE.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/2NEWEVERGREEN.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Source Code.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"D&D/Aven/Aunnabelle.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            }
+          ]
         }
       }
     ],
@@ -54,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Aven/Aunnabelle.md",
+                "file": "Templates/Source Code.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -66,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Aven/Aunnabelle.md"
+                "file": "Templates/Source Code.md"
               }
             }
           },
@@ -87,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Aven/Aunnabelle.md",
+                "file": "Templates/Source Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +149,7 @@
             "id": "d4126eddc76def32",
             "type": "leaf",
             "state": {
-              "type": "breadcrumbs-matrix",
+              "type": "empty",
               "state": {}
             }
           }
@@ -126,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "D&D/Aven/Aunnabelle.md",
+                "file": "Templates/Source Code.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +235,30 @@
             "id": "67b53f0a700a6925",
             "type": "leaf",
             "state": {
-              "type": "chat",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fe060497f1e6355",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "7f3fb89b3363c91d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc38ba1222ce70bd",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
               "state": {}
             }
           }
@@ -196,20 +266,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 822,
-    "collapsed": true
+    "width": 822
   },
   "active": "2dba5cd4d7ed7883",
   "lastOpenFiles": [
+    "Templates/Source Code.md",
+    "Templates/Templates/TERM.md",
+    "Templates/Templates/LOCATION.md",
+    "Templates/Templates/GET_TITLE.md",
+    "Templates/Templates/2NEWEVERGREEN.md",
     "D&D/Aven/Aunnabelle.md",
     "D&D/MOTW/MOTW Sections/Weapons.md",
     "D&D/MOTW/MOTW Sections/The Basic Hunter Moves.md",
     "D&D/MOTW/MOTW Sections/The Basic Keeper Moves.md",
-    "Simon Farfunkel.md",
-    "D&D/MOTW/Adventures/Harvest Maze.md",
-    "D&D/MOTW/MOTW Sections/You Have To Make The Move.md",
-    "D&D/Harvest Maze One Shot/Harvest Maze Notes.md",
-    "D&D/MOTW/Classes/The Chosen.md",
-    "D&D/MOTW/Classes/The Spell-Slinger.md"
+    "Simon Farfunkel.md"
   ]
 }

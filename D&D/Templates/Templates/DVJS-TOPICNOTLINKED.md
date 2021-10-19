@@ -1,1 +1,0 @@
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

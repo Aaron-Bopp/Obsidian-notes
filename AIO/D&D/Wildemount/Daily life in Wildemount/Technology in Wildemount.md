@@ -1,7 +1,0 @@
-### Technology in [[Wildemount]]
-**Tag**:: #Exandria/Customs/Wildemount
-**Location**:: [[Daily Life in Wildemount]]
-
-The level of technology in [[Wildemount]] is generally consistent with the technologies found in the [Player’s Handbook](https://www.dndbeyond.com/sources/phb "Player’s Handbook"). However, [[Dwendalian Empire|Dwendalian]] scientists in [[Hupperdook]] and [[Clovis Concord|Concordian]] tinkerers in [[Port Zoon]] have made incredible advances in black powder technology. Cannons, mobile war engines, and even handheld pistols and muskets have begun to be used as weapons of war.
-
-Black powder weapons are not common, nor are they available to the general public. Only military engineers and special regiments within the [[Dwendalian Empire|Dwendalian]] armies and the [[Clovis Concord|Concordian]] navy have access to these powerful weapons, though some aspects of these designs are now finding their way into the [[Xhorhas|Xhorhasian]] military. Statistics for weapons such as black powder barrels, pistols, and rifles are provided in [chapter 9](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Firearms "chapter 9") of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide"). All items listed as “Renaissance Items” on the Firearms and Explosives tables exist in some form in [[Wildemount]]. Since these items can’t be purchased in a normal store, characters can only obtain them through theft, military service, or a quest of your own devising.

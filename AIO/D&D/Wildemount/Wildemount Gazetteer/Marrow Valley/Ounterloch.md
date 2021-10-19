@@ -1,5 +1,0 @@
-### Ounterloch
-**Tag**:: #Exandria/Locale/Wynandir/MarrowValley
-**Location**:: [[Marrow Valley]]
-
-The mossy green waters of the Ounterloch lie brackish and foul in the center of the Labenda Swamp. Home to swamp beasts and malevolent forces drawn to the mystic secrets buried beneath the algae and stones, this lake is a source of myths for folk all across the [[Marrow Valley]]. Many speak of the temple that once sat at its northern shore before the quaking of [[the Calamity]] sent it sinking down into the dark water. Others tell tales of the Marsh Siren who calls to people in their dreams and draws them into the swamp with her song. These unfortunate souls are lost to the marsh, or they drown in her embrace beneath the waters. Most who discuss the Ounterloch, however, just speak of how miserable it is.

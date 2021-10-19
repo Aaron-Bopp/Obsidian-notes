@@ -1,1 +1,0 @@
-##### [[<% tp.file.title %>]] `=length(this.file.inlinks) + length(this.file.outlinks)`

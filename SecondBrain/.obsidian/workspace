@@ -4,134 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "ecb6d8c31c8f017e",
+        "id": "53c0fa1123cf8414",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Templates/EGNOTE.md",
+            "mode": "preview"
+          }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
-              "leaf": "ecb6d8c31c8f017e",
+              "leaf": "53c0fa1123cf8414",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Andy Matuschak.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/EGNOTE.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "ecb6d8c31c8f017e",
+              "leaf": "53c0fa1123cf8414",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Source Code.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "ecb6d8c31c8f017e",
+              "leaf": "53c0fa1123cf8414",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Dual Nostril Breathing Meditation.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":27},\"to\":{\"line\":15,\"ch\":27}}}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/TOPICNOTE.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "ecb6d8c31c8f017e",
+              "leaf": "53c0fa1123cf8414",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/OrganizationalNotes/INDEX.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/OrganizationalNotes/find related concepts.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"SecondBrain/OrganizationalNotes/KANBAN.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/OrganizationalNotes/TODO.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/A mismatch between your self-image and the way others percieve you destroys self-image.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/ADHD.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/cognitive dissonance.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/Acting.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/anger.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/Conservatism.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Democracy is about and open forum of ideas.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/Dungeons and Dragons.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/existential dread.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":10},\"to\":{\"line\":4,\"ch\":10}}}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/faith.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ecb6d8c31c8f017e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/feedback loop.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":3},\"to\":{\"line\":5,\"ch\":3}}}"
             }
           ]
         }
@@ -165,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"gender schema\"",
+                "query": "tag:#Exandria",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Templates/EGNOTE.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -204,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Templates/EGNOTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Templates/EGNOTE.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -267,8 +178,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -288,6 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Templates/Templates/EGNOTE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -439,17 +350,17 @@
     "width": 1001.5,
     "collapsed": true
   },
-  "active": "ecb6d8c31c8f017e",
+  "active": "53c0fa1123cf8414",
   "lastOpenFiles": [
+    "Templates/Templates/EGNOTE.md",
+    "Templates/Source Code.md",
+    "Templates/Templates/TOPICNOTE.md",
+    "Templates/Templates/TITLE-ALLLINKS.md",
+    "D&D/003.md",
     "SecondBrain/EvergreenNotes/Andy Matuschak.md",
     "SecondBrain/EvergreenNotes/Dual Nostril Breathing Meditation.md",
     "SecondBrain/OrganizationalNotes/INDEX.md",
     "SecondBrain/OrganizationalNotes/find related concepts.md",
-    "SecondBrain/TODO.md",
-    "SecondBrain/OrganizationalNotes/TODO.md",
-    "SecondBrain/TopicNotes/parents.md",
-    "SecondBrain/EvergreenNotes/The difference between identity and presentation.md",
-    "SecondBrain/EvergreenNotes/Flamingo Pose Meditation.md",
-    "SecondBrain/TopicNotes/women.md"
+    "SecondBrain/TODO.md"
   ]
 }

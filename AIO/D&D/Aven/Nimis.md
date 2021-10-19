@@ -1,2 +1,0 @@
-- the Demi-Goddess of the Outcast
-- the rest of her family is out to get her and will kill her or entrap her any chance she gets

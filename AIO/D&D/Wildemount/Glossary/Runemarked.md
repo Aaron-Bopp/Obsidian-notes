@@ -1,1 +1,0 @@
-Elder warriors of [[Boroftkrah]]

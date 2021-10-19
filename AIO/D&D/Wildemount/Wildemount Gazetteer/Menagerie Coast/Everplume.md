@@ -1,5 +1,0 @@
-### Everplume
-**Tag**:: #Exandria/Locale/Wynandir/MenagerieCoast
-**Location**:: [[Menagerie Coast]]
-
-Those who brave the waters surrounding the Torrid Reef, south of the Shearing Channel, find their view of the horizon broken by an endless column of jet-black smoke rising from beneath the ocean. Hidden under the rolling waves is the monstrous volcano Everplume, which fills the surrounding waters with murky soot, toxic fumes, and boiling heat. Elemental energy swirls around this ominous peak, leading many experts to believe that a rift to the Elemental Plane of Fire might sit at its heart, unknown to the Ashari people, who safeguard breaches between the Material Plane and the Elemental Planes elsewhere in [[Exandria]]. Natural creatures of the deep have been slowly twisted into fiery mockeries of their original selves, and regular tremors suggest that the mountain may be growing.

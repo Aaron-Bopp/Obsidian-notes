@@ -1,1 +1,0 @@
-Betrayer Gods are the deities that turned to the dark, evil side of creation. betra

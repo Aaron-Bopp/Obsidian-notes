@@ -1,3 +1,0 @@
-### Betrayer Artifact Properties
-
-The Arms of the Betrayers advance in power in the same manner as the Vestiges of Divergence (see the previous section). In its dormant state, each of these artifacts has one minor beneficial property and one minor detrimental property. When the artifact attains an awakened state, it gains an additional minor beneficial property and an additional minor detrimental property. When the item reaches its exalted state, it gains a major beneficial property. See “[Artifact Properties](https://www.dndbeyond.com/sources/dmg/sentient-magic-items-artifacts#ArtifactProperties "Artifact Properties")” in chapter 7 of the [Dungeon Master’s Guide](https://www.dndbeyond.com/sources/dmg "Dungeon Master’s Guide") for more information.
