@@ -11,6 +11,4 @@ fear of going outside
 - Agoraphobia lite - leaving the home but constantly analyzing [^1]
 
 **See**:: [[mental disorders]]
-
-
-
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

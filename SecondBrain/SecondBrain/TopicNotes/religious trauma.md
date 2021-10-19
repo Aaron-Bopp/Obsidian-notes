@@ -7,14 +7,7 @@ aliases:
 date modified: Monday, October 4th 2021, 12:06:19 am
 ---
 
-#### [[religious trauma]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**::
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: [[trauma]] 
+**See**:: [[trauma]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[religious trauma]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

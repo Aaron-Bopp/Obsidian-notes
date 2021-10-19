@@ -9,17 +9,10 @@ aliases:
 - personality
 date modified: Sunday, October 3rd 2021, 11:32:52 pm
 ---
-
-#### [[socialization]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**:: the ways in which society conveys to the individual its expectations for their behavior
-
+ the ways in which society conveys to the individual its expectations for their behavior
 Social fitness is a big part of [[human survival]] and [[human advancement]]
 
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: `$=customJS.dv_funcs.outlinedIn(dv, this)`
+**See**:: `$=customJS.dv_funcs.outlinedIn(dv, this)`
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[socialization]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

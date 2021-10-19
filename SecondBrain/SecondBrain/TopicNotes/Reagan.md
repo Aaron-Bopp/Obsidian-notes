@@ -6,14 +6,7 @@ aliases:
 - 
 ---
 
-#### [[Reagan]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[Politics]]
+**See**:: [[Politics]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Reagan]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

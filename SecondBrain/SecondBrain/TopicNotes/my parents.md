@@ -5,20 +5,12 @@ tags: topic
 aliases:
 - 
 ---
-
-#### [[my parents]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 - 
 
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### [[my parents]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+##### [[my See]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - 
 
 ### <hr class="dataviews"/>

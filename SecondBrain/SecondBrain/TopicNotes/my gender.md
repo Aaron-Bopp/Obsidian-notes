@@ -6,14 +6,9 @@ aliases:
 - 
 ---
 
-#### [[my gender]] `$=customJS.dv_funcs.topicHeader(dv, this)`
+, [[My relationship with my See]]
 
-, [[My relationship with my parents]]
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[my gender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

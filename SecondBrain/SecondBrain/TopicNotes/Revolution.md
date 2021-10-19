@@ -6,15 +6,7 @@ aliases:
 - revolt
 ---
 
-#### [[Revolution]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: Indigenous
+**See**:: Indigenous
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Revolution]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

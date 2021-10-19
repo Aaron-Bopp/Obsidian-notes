@@ -6,15 +6,7 @@ aliases:
 - 
 ---
 
-#### [[Wealth Inequality]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[Capitalism]], [[Marxism]], [[Communism]]
+**See**:: [[Capitalism]], [[Marxism]], [[Communism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Wealth Inequality]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

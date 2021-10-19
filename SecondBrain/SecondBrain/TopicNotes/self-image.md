@@ -5,16 +5,9 @@ tags: topic
 aliases:
 - 
 ---
+ [[Self]]-image is way that you view yourself internally. It includes things like how you look, what you want to be. It may be instep or out of step with how you view yourself externally, or your [[self-perception]]. [[Self]]-image can be influenced by things like [[trauma]], [[gender dysphoria]], and [[body dysmorphia]].
 
-#### [[self-image]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**:: [[Self]]-image is way that you view yourself internally. It includes things like how you look, what you want to be. It may be instep or out of step with how you view yourself externally, or your [[self-perception]]. [[Self]]-image can be influenced by things like [[trauma]], [[gender dysphoria]], and [[body dysmorphia]].
-
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[self]]
+**See**:: [[self]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[self-image]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

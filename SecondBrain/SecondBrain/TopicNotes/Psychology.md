@@ -6,15 +6,7 @@ aliases:
 - 
 ---
 
-#### [[Psychology]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[human experience]]
+**See**:: [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Psychology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

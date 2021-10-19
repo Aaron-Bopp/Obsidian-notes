@@ -7,14 +7,7 @@ aliases:
 - LGBTQ
 ---
 
-#### [[Queer]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Queer]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

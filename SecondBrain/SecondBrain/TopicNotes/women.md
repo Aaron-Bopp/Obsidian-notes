@@ -6,9 +6,7 @@ aliases:
 - 
 ---
 
-#### [[women]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[women]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

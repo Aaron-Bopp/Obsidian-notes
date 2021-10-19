@@ -7,15 +7,11 @@ aliases:
 - self-concept
 date modified: Monday, October 4th 2021, 9:58:06 pm
 ---
-
-#### [[self]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**:: Human's own conception of their [[self]] is dependent on many things including their [[early childhood development]], [[socialization]], and their [[perception]] of the world.
-
+ Human's own conception of their [[self]] is dependent on many things including their [[early childhood development]], [[socialization]], and their [[perception]] of the world.
 **Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
-**Parents**::
+**See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[self]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

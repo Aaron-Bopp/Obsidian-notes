@@ -5,12 +5,7 @@ tags: topic
 parent: [[anxiety]]
 ---
 
-#### [[social discomfort]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Status**:: #EVER/SPROUT 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[anxiety]]
+**See**:: [[anxiety]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[social discomfort]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

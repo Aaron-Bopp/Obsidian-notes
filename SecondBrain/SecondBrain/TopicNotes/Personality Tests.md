@@ -6,14 +6,7 @@ cssclass: topic
 tags: topic
 ---
 
-#### [[Personality Tests]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**::
-
-**Status**:: #stub 
-*edited `=this.file.mtime`*
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Personality Tests]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

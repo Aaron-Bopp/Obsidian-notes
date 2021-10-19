@@ -17,12 +17,7 @@ tags: topic
 
 ---
 
-**Definition**::
-
-**Status**:: #EVER/GREEN 
-*edited `=this.file.mtime`*
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

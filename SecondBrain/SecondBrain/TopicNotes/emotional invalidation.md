@@ -6,15 +6,7 @@ aliases:
 - 
 ---
 
-#### [[emotional invalidation]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[trauma]]
+**See**:: [[trauma]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[emotional invalidation]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

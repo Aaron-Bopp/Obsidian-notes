@@ -11,16 +11,9 @@ cssclass: topic
 tags: topic
 ---
 
-#### [[mental health]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
 [[mental health]] covers concepts that vary from [[mental disorders]] to [[neurodivergency]] to [[spirituality]] and how it effects us. 
 
-**Definition**::
-
-**Status**:: #EVER/GREEN/GROWING 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[INDEX]], [[Neuroscience]]
+**See**:: [[INDEX]], [[Neuroscience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

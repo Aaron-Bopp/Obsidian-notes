@@ -5,15 +5,11 @@ tags: topic
 aliases:
 - 
 ---
-
-#### [[neurodivergency]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**:: differing in mental or neurological function from what is considered typical or normal (frequently used with reference to autistic spectrum disorders); not neurotypical.
-
+ differing in mental or neurological function from what is considered typical or normal (frequently used with reference to autistic spectrum disorders); not neurotypical.
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Parents**:: [[mental health]], [[mental disorders]]
+**See**:: [[mental health]], [[mental disorders]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[neurodivergency]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

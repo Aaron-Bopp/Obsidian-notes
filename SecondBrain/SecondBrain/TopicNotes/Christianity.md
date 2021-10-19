@@ -5,19 +5,13 @@ tags: topic
 aliases:
 - christian
 ---
-#### [[Christianity]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-
-
-**Status**:: #EVER/GREEN 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[religion]]
+**See**:: [[religion]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Christianity]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[The biblical christian God is evil and does not deserved to be worshipped]]
-- ![[The Politicization of the Christian Church#The Politicization of the Christian Church customJS dv_funcs topicOutlineHeader dv this]]
+- ![[the politicization of the christian church#The Politicization of the Christian Church customJS dv_funcs topicOutlineHeader dv this]]
 - ![[Evangelicalism#Evangelicalism customJS dv_funcs topicOutlineHeader dv this]]
 - [[The many transgressions of the christian church]]
 	- [[Fear of hell is baked into Christianity]]

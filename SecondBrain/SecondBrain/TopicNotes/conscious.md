@@ -6,14 +6,9 @@ aliases:
 - consciousness
 - consciously
 ---
-
-#### [[conscious]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 consciousness
 
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[conscious]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

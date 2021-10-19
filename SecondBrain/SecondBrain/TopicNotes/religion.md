@@ -6,13 +6,7 @@ aliases:
 - 
 ---
 
-#### [[religion]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: [[INDEX]]
+**See**:: [[INDEX]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[religion]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

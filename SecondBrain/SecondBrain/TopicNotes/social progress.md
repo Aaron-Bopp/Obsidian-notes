@@ -5,14 +5,9 @@ tags: topic
 aliases:
 - 
 ---
-
-#### [[social progress]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 https://github.com/chhoumann/MetaEdit
 
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[social progress]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

@@ -6,16 +6,7 @@ aliases:
 - 
 ---
 
-#### [[Social media]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[socialization]]
+**See**:: [[socialization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Social media]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

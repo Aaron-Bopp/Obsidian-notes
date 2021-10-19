@@ -5,14 +5,7 @@ tags: topic
 aliases:
 ---
 
-#### [[self-worth]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**::
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: [[social anxiety]], [[self]]
+**See**:: [[social anxiety]], [[self]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

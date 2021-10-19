@@ -6,12 +6,7 @@ aliases:
 - Hindu
 ---
 
-#### [[Hinduism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: [[religion]]
+**See**:: [[religion]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Hinduism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

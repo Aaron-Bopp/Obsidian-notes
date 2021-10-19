@@ -7,15 +7,7 @@ aliases:
 - cultural homogeneity
 ---
 
-#### [[white supremacy]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[white supremacy]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

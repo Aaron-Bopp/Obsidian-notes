@@ -7,14 +7,7 @@ aliases:
 date modified: Sunday, October 3rd 2021, 4:45:38 pm
 ---
 
-#### [[trauma]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**::
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: [[mental health]]
+**See**:: [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 **Outlined**:: `$=customJS.dv_funcs.outlinedIn(dv, this)`

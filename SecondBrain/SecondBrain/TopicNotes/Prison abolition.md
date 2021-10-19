@@ -6,15 +6,7 @@ aliases:
 - 
 ---
 
-#### [[Prison abolition]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[Prison]]
+**See**:: [[Prison]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Prison abolition]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

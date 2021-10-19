@@ -10,13 +10,9 @@ aliases:
 - Moksha
 ---
 
-#### [[enlightenment]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 enlightenment, [[liberation]], [[Self]]-Realization, God-Realization, nirvikalpa samadhi and finally Moksha
 
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[enlightenment]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

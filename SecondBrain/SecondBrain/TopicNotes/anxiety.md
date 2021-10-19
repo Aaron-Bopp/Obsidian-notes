@@ -6,15 +6,11 @@ aliases:
 - anxious
 date modified: Wednesday, October 6th 2021, 2:34:37 pm
 ---
-
-#### [[anxiety]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**:: a feeling of worry, nervousness, or unease about something with an uncertain outcome ^fc54c3
-
+ a feeling of worry, nervousness, or unease about something with an uncertain outcome ^fc54c3
 **Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
-**Parents**:: [[mental health]], [[mental disorders]]
+**See**:: [[mental health]], [[mental disorders]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

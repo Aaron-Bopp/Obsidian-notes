@@ -6,16 +6,7 @@ aliases:
 - 
 ---
 
-#### [[Behavioral Pyschology]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[Psychology]],
+**See**:: [[Psychology]],
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Behavioral Pyschology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

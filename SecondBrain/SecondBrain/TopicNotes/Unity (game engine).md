@@ -8,13 +8,7 @@ aliases:
 
 ##### [[Unity (game engine)]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[programming]], [[game design]]
+**See**:: [[programming]], [[game design]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Unity (game engine)]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

@@ -6,16 +6,9 @@ aliases:
 - prisons
 ---
 
-#### [[Prison]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
 This topic serves as a bride between [[Prison abolition]] and the [[prison-industrial complex]].
 
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[social justice]]
+**See**:: [[social justice]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Prison]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

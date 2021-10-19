@@ -5,16 +5,11 @@ tags: topic
 aliases:
 - 
 ---
-
-#### [[resentment]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-**Definition**:: bitter indignation at having been treated unfairly.
-
+ bitter indignation at having been treated unfairly.
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[resentment]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

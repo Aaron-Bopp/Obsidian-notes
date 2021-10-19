@@ -11,6 +11,7 @@ A [[stereotype threat]] is when a person is concerned a negative sterotype affec
 2. *Underperformance due to threats of self-integrity and belonging*: If a person's [[self-worth]] or sense of belonging is threatened by a situation will protect themself by setting lower goals, withdrawing from the situation, or having less motivation. [^1]
 
 **See**:: [[racism]], [[Psychology]], [[Stereotype]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 [^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]]
 

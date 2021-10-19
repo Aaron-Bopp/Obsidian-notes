@@ -14,10 +14,7 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 > Gender is part social construct, part learned behaviors, and part biological processes which form very early in a person’s life.
 > [[1 What is Gender]]
 
-**Status**:: #EVER/GREEN/GROWING
-*edited `=this.file.mtime`*
-
-**Parents**:: [[self]], [[mental health]], [[personality]]
+**See**:: [[self]], [[mental health]], [[personality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 **Terms**:: [[gender schema]], [[gender identity]], [[gender constancy]], [[gender consistency]], [[gender affirming care]]

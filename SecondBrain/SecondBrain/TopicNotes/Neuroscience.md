@@ -10,14 +10,7 @@ sr-interval: 4
 sr-ease: 272
 ---
 
-#### [[Neuroscience]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**::
-
-**Status**:: #EVER/GREEN 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[INDEX]], [[mental health]]
+**See**:: [[INDEX]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

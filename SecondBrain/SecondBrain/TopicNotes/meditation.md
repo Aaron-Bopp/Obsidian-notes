@@ -6,8 +6,6 @@ aliases:
 - 
 ---
 
-#### [[meditation]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
 - Catch the moment between inhalation and exhalation [^1]
 	- What is the moment between inhalation and exhalation
 		- where does it happen
@@ -15,12 +13,7 @@ aliases:
 	- Catch that moment and observe it
 		- "It's not about the answer it's about training yourself to look"
 
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[yoga]], [[mental health]]
+**See**:: [[yoga]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[meditation]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

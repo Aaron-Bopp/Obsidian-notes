@@ -5,16 +5,9 @@ tags: topic
 aliases:
 - 
 ---
-
-#### [[human advancement]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 - 
 
-**Definition**::
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: [[human experience]], [[Evolutionary Pyschology]]
+**See**:: [[human experience]], [[Evolutionary Pyschology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[human advancement]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

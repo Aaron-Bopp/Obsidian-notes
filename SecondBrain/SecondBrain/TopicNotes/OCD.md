@@ -7,8 +7,6 @@ aliases:
 - Obsessive Compulsive Disorder
 ---
 
-#### [[OCD]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
 
 
 ---
@@ -17,12 +15,7 @@ aliases:
 
 ---
 
-**Definition**::
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: [[mental disorders]], [[mental health]], [[social anxiety]] 
+**See**:: [[mental disorders]], [[mental health]], [[social anxiety]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

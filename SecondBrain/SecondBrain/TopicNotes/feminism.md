@@ -6,14 +6,7 @@ aliases:
 - 
 ---
 
-#### [[feminism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Definition**:: 
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: [[social justice]]
+**See**:: [[social justice]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[feminism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

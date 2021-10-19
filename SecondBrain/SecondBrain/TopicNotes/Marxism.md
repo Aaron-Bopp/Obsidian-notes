@@ -6,15 +6,7 @@ aliases:
 - marxist
 ---
 
-#### [[Marxism]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-
-**Definition**::
-
-**Status**:: #EVER/SEED 
-*edited `=this.file.mtime`*
-
-**Parents**:: testing
+**See**:: testing
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Marxism]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

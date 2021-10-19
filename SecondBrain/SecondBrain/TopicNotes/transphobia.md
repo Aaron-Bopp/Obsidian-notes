@@ -6,3 +6,4 @@ tags: stub
 ---
 
 **See**:: [[social justice]], [[homophobia]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -5,8 +5,6 @@ tags: topic
 
 ---
 
-#### [[empathy]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
 
 
 ---
@@ -15,12 +13,7 @@ tags: topic
 
 ---
 
-**Definition**::
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: 
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

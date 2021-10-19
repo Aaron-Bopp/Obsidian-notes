@@ -5,18 +5,13 @@ tags: topic
 aliases:
 ---
 
-#### [[Deconstruction (Christianity)]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: [[Christianity]]
+**See**:: [[Christianity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Deconstruction (Christianity)]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[My Deconstruction journey]] `=length([[My Deconstruction journey]].file.inlinks) + length([[My Deconstruction journey]].file.outlinks)`
-	- [[My relationship with my parents]]
-		- [[In order to for my parents to love me, they need to admit they might be wrong]]
+	- [[My relationship with my See]]
+		- [[In order to for my See to love me, they need to admit they might be wrong]]
 	- [[My worldview is not about conversion it is about acceptance]]
 - [[You can leave the church and still believe in the christian god]]
 	- [[Fear cannot be a deterant for deconstructing your faith]]

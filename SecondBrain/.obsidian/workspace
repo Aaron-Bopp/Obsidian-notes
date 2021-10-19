@@ -9,18 +9,66 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md",
+            "file": "SecondBrain/TopicNotes/enlightenment.md",
             "mode": "source"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "0aff8592cb42338f",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/Evangelicalism.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/enlightenment.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/endurance.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/empathy.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/abortion.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.34999998410542804}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/algorithmic content.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/TopicNotes/Acting.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/the politicization of the christian church.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":8.82857186453683}"
+            },
+            {
+              "leaf": "0aff8592cb42338f",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Rise of Misinformation in America.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":25},\"to\":{\"line\":30,\"ch\":25}},\"scroll\":0.26666667064030963}"
+              "eState": "{\"scroll\":19.218100726796028}"
             },
             {
               "leaf": "0aff8592cb42338f",
@@ -155,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md",
+                "file": "SecondBrain/TopicNotes/enlightenment.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md",
+                "file": "SecondBrain/TopicNotes/enlightenment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md"
+                "file": "SecondBrain/TopicNotes/enlightenment.md"
               }
             },
             "pane-relief:history-v1": {
@@ -262,7 +310,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Rise of Misinformation in America.md",
+                "file": "SecondBrain/TopicNotes/enlightenment.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -416,15 +464,15 @@
   },
   "active": "0aff8592cb42338f",
   "lastOpenFiles": [
+    "SecondBrain/TopicNotes/enlightenment.md",
+    "SecondBrain/TopicNotes/Evangelicalism.md",
+    "SecondBrain/TopicNotes/endurance.md",
+    "SecondBrain/TopicNotes/empathy.md",
+    "SecondBrain/TopicNotes/abortion.md",
+    "SecondBrain/TopicNotes/algorithmic content.md",
+    "SecondBrain/TopicNotes/Acting.md",
+    "SecondBrain/TopicNotes/the politicization of the christian church.md",
     "SecondBrain/TopicNotes/Rise of Misinformation in America.md",
-    "SecondBrain/TopicNotes/Rise of Modern Conservatism.md",
-    "SecondBrain/TopicNotes/Rise of Conspiracy Culture.md",
-    "SecondBrain/TopicNotes/Abolition.md",
-    "SecondBrain/TopicNotes/20th Century America.md",
-    "SecondBrain/Terms/natural selection.md",
-    "SecondBrain/TopicNotes/gender.md",
-    "SecondBrain/TopicNotes/gender schema.md",
-    "SecondBrain/TopicNotes/gender dysphoria.md",
-    "SecondBrain/TopicNotes/Gender Euphoria.md"
+    "SecondBrain/TopicNotes/Rise of Modern Conservatism.md"
   ]
 }

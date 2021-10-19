@@ -7,12 +7,7 @@ aliases:
 date modified: Saturday, October 2nd 2021, 3:45:40 pm
 ---
 
-#### [[human survival]] `$=customJS.dv_funcs.topicHeader(dv, this)`
-
-**Status**:: #EVER/SEED
-*edited `=this.file.mtime`*
-
-**Parents**:: [[Evolutionary Pyschology]]
+**See**:: [[Evolutionary Pyschology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[human survival]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
