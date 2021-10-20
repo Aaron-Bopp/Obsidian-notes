@@ -1,7 +1,7 @@
 ---
 created: 2021-06-13
 cssclass: topic
-tags: topic
+tags: topic/outline
 aliases:
 - 
 ---

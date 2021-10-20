@@ -1,7 +1,7 @@
 ---
 created: 2021-08-14
 cssclass: topic
-tags: topic
+tags: topic/outline
 aliases:
 - PIC
 - prison industrial complex

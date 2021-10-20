@@ -2,8 +2,10 @@
 created: 2021-06-12
 cssclass: evergreen
 tags: evergreen
-
 date modified: Monday, October 18th 2021, 11:16:49 pm
+sr-due: 2021-10-20
+sr-interval: 1
+sr-ease: 239
 ---
 
 #### [[Human's have an inability to admit that they are wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -14,7 +16,7 @@ The fundamental [[Neuroscience|neurological]] process behind this is [[Rationali
 
 It is a reason for [[Conservatism|Conservatives]] [[cognitive dissonance]]
 
-This will sometimes lead to [[Human's will find explanations for inexplainable things]]
+This will sometimes lead to [[Human's will find explanations for inexplainable things|humans finding explanations for inexplainable things]]
 
 ### <hr class="footnote"/>
 

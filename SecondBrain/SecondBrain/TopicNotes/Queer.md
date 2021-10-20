@@ -1,7 +1,7 @@
 ---
 created: 2021-10-09
 cssclass: topic
-tags: topic
+tags: topic/outline
 aliases:
 - LGBT
 - LGBTQ

@@ -4,18 +4,21 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-19
-sr-interval: 1
-sr-ease: 230
+sr-due: 2021-10-22
+sr-interval: 3
+sr-ease: 250
 ---
 #### [[Personality types are 3d and interconnected, not 2d and static]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Enneagram]] does this, [[Meyers Briggs]] does not
+Your personality type will change over your life, it may even change on what kind of mood you're in. This is part the fault of how personality tests like [[Meyers Briggs]] work and part the fault of peoples innacurate views of themselves, but it can be avoided.
+
+[[Enneagram]] does a good job at create personality types that are specific enough to be helpful, but get at the root of peoples personalities. Often times revealing the [[Early childhood trauma causes us to make wide assumptions about the world|the wide assumptions we make in early childhood]]. 
+
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[personality]], [[Personality Tests]]
+**Topics**:: [[personality]], [[Personality Tests]], [[self|identity]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

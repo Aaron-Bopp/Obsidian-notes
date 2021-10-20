@@ -2,7 +2,7 @@
 ---
 created: 2021-06-07
 cssclass: topic
-tags: topic
+tags: topic/outline
 aliases:
 - 
 parent: [[second brain]]

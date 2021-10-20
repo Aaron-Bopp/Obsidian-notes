@@ -3,23 +3,26 @@ created: 2021-06-12
 cssclass: evergreen
 tags: evergreen
 
-sr-due: 2021-10-19
-sr-interval: 1
-sr-ease: 230
+sr-due: 2021-10-22
+sr-interval: 3
+sr-ease: 250
 ---
 
 #### [[Happiness is enlightenment and sadness is delusion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Realism must acknowledge optimism's existence and effectiveness]].
+[[Bhuddism]] states that the cause of suffering is [[ignorance]] and [[desire]] because you are not seeing the world as it actually is and wanting things that do not exist, [^1] but it also states that truth of suffering is that it exists;it has a cause; it has an end; and it has a cause to bring about its end. The purpose of life is the pursuit of bliss, and it is delusion to avoid it.
 
-[[Bhuddism is the study of happiness through detachment|The nature of happiness is not doing what you love its detachment from the decisions of the life]].
+This is true [[optimism]]. Acknowledging the suffering of the world and defying it anyway. [[Realism must acknowledge optimism's existence and effectiveness]]. This is no easy task, but [[Bhuddism outlines a path and practice to end suffering, but does not promise it]] rather than making it seems easy [[Worldviews are wrong if they make life seem easy and simple]]
+
+#TO/DO/CONCEPTUALIZE the contrast here[[Sadness is enlightenment and happiness is delusion]] and here [[Bhuddism is the study of happiness through detachment|The nature of happiness is not doing what you love its detachment from the decisions of the life]].
 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GREEN/GROWING  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[self-love]], [[self-hate]], [[childhood trauma]]
+**Topics**:: [[happiness]], [[religion]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+[^1]: [[articleAn Introduction to Bhuddism]]

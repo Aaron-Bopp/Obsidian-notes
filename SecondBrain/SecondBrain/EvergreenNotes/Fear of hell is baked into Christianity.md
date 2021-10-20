@@ -3,6 +3,9 @@ created: 2021-06-28
 cssclass: evergreen
 tags: evergreen
 
+sr-due: 2021-10-23
+sr-interval: 4
+sr-ease: 270
 ---
 
 #### [[Fear of hell is baked into Christianity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

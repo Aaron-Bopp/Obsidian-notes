@@ -1,7 +1,7 @@
 ---
 created: 2021-07-05
 cssclass: topic
-tags: topic
+tags: topic/outline
 aliases:
 - Self-Realization
 - God-Realization
@@ -17,7 +17,6 @@ enlightenment, [[liberation]], [[Self]]-Realization, God-Realization, nirvikalpa
 
 ##### [[enlightenment]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[To be happy you need to not be sad]]
-- [[You can be enlightened and still grieve]]
 - [[Sadness is enlightenment and happiness is delusion]]
 
 ### <hr class="dataviews"/>

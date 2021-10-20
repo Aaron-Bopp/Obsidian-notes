@@ -2,6 +2,9 @@
 created: 2021-06-11
 cssclass: evergreen
 tags: evergreen
+sr-due: 2021-10-22
+sr-interval: 3
+sr-ease: 253
 ---
 
 #### [[Explaining emotion can just be a way of escaping the situation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -11,6 +14,8 @@ Being able to explain the emotions you are publicly feeling will relieve the att
 [[My self-image is purely based on other's perceptions of me]]. This means that if other people perceive me as understanding my issues and having dealt with them I think that I have dealt with them, even though I haven't. This has formed a lot of really powerful, and really-limiting [[defense-mechanisms]] in the form of [[self-improvement]]. 
 
 [[Avoidance IS the most-efficient way of dealing with emotion]]. Me having combined avoidance with perceived understanding means that it is doubly as dangerous.
+#TO/DO/CONTRAST
+[[Rationalizations are defense-mechanisms against strong emotions]] but this rationalization represses emotions => [[feedback loop]]
 
 ### <hr class="dataviews"/>
 

@@ -1,7 +1,7 @@
 ---
 created: 2021-07-05
 cssclass: topic
-tags: topic
+tags: topic/outline
 aliases:
 -
 date modified: Saturday, October 2nd 2021, 3:45:40 pm

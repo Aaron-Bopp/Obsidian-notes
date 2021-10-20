@@ -8,7 +8,7 @@ embedded:
 - [[yoga]]
 - [[neurodivergency]]
 cssclass: topic
-tags: topic
+tags: topic/outline
 ---
 
 [[mental health]] covers concepts that vary from [[mental disorders]] to [[neurodivergency]] to [[spirituality]] and how it effects us. 

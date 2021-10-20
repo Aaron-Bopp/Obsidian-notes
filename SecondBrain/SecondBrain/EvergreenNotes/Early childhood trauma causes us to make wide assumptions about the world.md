@@ -2,7 +2,9 @@
 created: 2021-06-25
 cssclass: evergreen
 tags: evergreen
-
+aliases:
+- we make wide assumptions about the world
+- the wide assumptions we make in early childhood
 ---
 
 #### [[Early childhood trauma causes us to make wide assumptions about the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

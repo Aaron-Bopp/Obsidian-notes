@@ -4,6 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
+sr-due: 2021-10-22
+sr-interval: 3
+sr-ease: 250
 ---
 
 #### [[The internet allows niche topics to flourish]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

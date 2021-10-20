@@ -11,7 +11,7 @@ At the core of [[self]] is how you view yourself vs how the world views you. If 
 
 Many people will think they have a strong [[self]], but in actuality this [[self]] is just there concerted efforts to conform to society's views. Other's may feel a very strong sense of [[self]] because their in sense of [[self]] is aligned with society's view of them.
 
-Those who think they have a weak [[self]] have either realized that they do not have a sense of [[self]] outside of how other's treat them, or that they do not reveal their inner sense of [[self]] to other people. [[My self-image is purely based on other's perceptions of me]], because of my invalidating childhood and [[A mismatch between your self-image and the way others percieve you destroys self-image]] 
+Those who think they have a weak [[self]] have either realized that they do not have a sense of [[self]] outside of how other's treat them, or that they do not reveal their inner sense of [[self]] to other people. [[My self-image is purely based on other's perceptions of me]], because of my invalidating childhood and [[Self-hatred is born out of dissonance between self-image and self-perception]]
 
 If I identify as a homo sapien, I see myself a something that once evolved from a an ape. If I identify as a man, I see myself as somebody who fits the box of whatever I see a man as. If I identify as awkward, I see my interactions with other people and deem them as unnatural and awkward, or perhaps I recognize that certain patterns of behavior that I take part in have often gotten strange reactions from people so I deem my normal actions as awkward. 
 

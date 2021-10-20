@@ -1,7 +1,7 @@
 ---
 created: 2021-07-21
 cssclass: topic
-tags: topic
+tags: topic/outline
 aliases:
 - social fitness
 - social interaction

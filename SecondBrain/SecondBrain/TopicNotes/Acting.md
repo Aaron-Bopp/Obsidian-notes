@@ -3,7 +3,7 @@ created: 2021-10-18
 aliases:
 - 
 cssclass: topic
-tags: topic
+tags: topic/outline
 ---
 
 **See**:: 

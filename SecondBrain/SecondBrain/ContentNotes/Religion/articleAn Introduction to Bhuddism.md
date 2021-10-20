@@ -9,7 +9,7 @@ source: https://www.pbs.org/edens/thailand/buddhism.htm
 
 ---
 
-###### [[An Introduction to Bhuddism]]
+###### [[articleAn Introduction to Bhuddism]]
 
 **Topics**::  [[Bhuddism]], [[eastern philosophy]], [[Bhuddism is the study of happiness through detachment]], [[Happiness is enlightenment and sadness is delusion]]
 

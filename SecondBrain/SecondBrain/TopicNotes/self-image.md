@@ -1,7 +1,7 @@
 ---
 created: 2021-08-01
 cssclass: topic
-tags: topic
+tags: topic/outline
 aliases:
 - 
 ---
@@ -11,7 +11,7 @@ aliases:
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[self-image]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- [[A mismatch between your self-image and the way others percieve you destroys self-image]]
+- [[Self-hatred is born out of dissonance between self-image and self-perception]]
 - [[My self-image is purely based on other's perceptions of me]]
 - ![[self-hate#self-hate customJS dv_funcs topicOutlineHeader dv this]]
 - ![[self-love#self-love customJS dv_funcs topicOutlineHeader dv this]]

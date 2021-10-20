@@ -1,7 +1,7 @@
 ---
 created: 2021-06-25
 cssclass: topic
-tags: topic
+tags: topic/outline
 aliases:
 - mental illness
 parent: [[mental health]]

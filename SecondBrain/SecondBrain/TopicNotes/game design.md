@@ -3,7 +3,7 @@ created: 2021-10-11
 aliases:
 - 
 cssclass: topic
-tags: topic
+tags: topic/outline
 ---
 
 **See**:: [[Computer Science]], [[programming]]

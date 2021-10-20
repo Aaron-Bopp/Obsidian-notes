@@ -3,7 +3,7 @@ created: 2021-10-18
 aliases:
 - Conservatives
 cssclass: topic
-tags: topic
+tags: topic/outline
 ---
 
 **See**:: 

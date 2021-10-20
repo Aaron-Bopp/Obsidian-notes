@@ -1,7 +1,7 @@
 ---
 created: 2021-06-07
 cssclass: topic
-tags: topic
+tags: topic/outline
 aliases:
 - anxious
 date modified: Wednesday, October 6th 2021, 2:34:37 pm
