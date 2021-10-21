@@ -146,7 +146,7 @@
             "type": "Capture",
             "command": false,
             "appendLink": false,
-            "captureTo": "SecondBrain/Topics/{{VALUE}}",
+            "captureTo": "SecondBrain/TopicNotes/{{VALUE}}",
             "captureToActiveFile": false,
             "createFileIfItDoesntExist": {
               "enabled": true,

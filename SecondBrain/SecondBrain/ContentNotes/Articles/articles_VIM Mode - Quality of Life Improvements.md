@@ -1,5 +1,5 @@
 ---
-created: 2021-10-19
+created: 2021-10-20
 tags: content
 type: 
 - articles
@@ -19,5 +19,6 @@ aliases:
 **Creator**:: forum.obsidian.md
 
 ## Highlights
-- > "Another way to reproduce the “unexpected unfold” behavior is to create a heading that’s long enough to wrap to a second line" 
+  
+> "Another way to reproduce the “unexpected unfold” behavior is to create a heading that’s long enough to wrap to a second line" 
 

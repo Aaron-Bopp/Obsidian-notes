@@ -3,8 +3,8 @@ created: 2021-06-12
 cssclass: evergreen
 tags: evergreen
 date modified: Monday, October 18th 2021, 11:16:49 pm
-sr-due: 2021-10-20
-sr-interval: 1
+sr-due: 2021-10-22
+sr-interval: 2
 sr-ease: 239
 ---
 

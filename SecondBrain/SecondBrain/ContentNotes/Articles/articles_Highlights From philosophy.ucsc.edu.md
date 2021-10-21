@@ -1,5 +1,5 @@
 ---
-created: 2021-10-19
+created: 2021-10-20
 tags: content
 type: 
 - articles
@@ -19,6 +19,7 @@ aliases:
 **Creator**:: philosophy.ucsc.edu
 
 ## Highlights
-- > "For Nietzsche, morality represents a system of errors that we have incor-
-    porated into our basic ways of thinking, feeling and living" 
+  
+> "For Nietzsche, morality represents a system of errors that we have incor-
+> porated into our basic ways of thinking, feeling and living" 
 

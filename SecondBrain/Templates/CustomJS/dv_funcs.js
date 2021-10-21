@@ -55,6 +55,7 @@ class dv_funcs {
     }
 
     getIO(page, dv, that, justInOutline = false) {
+        let page = dv.current()
         const inlinks = page.file.inlinks.filter(l => l.path !== page.file.path && !l.path.contains("aliases"))
         const inOutline = this.getNotesInOutline(dv.current().file.name, dv, that).length - 1
         const totalOutlinks = this.getTotalLinks(page.file.name, dv, that).filter(l => l !== page.file.name).length

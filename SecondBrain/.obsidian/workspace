@@ -1,140 +1,23 @@
 {
   "main": {
-    "id": "2e3a10b08989cb88",
+    "id": "73bbe8c73a3d2717",
     "type": "split",
     "children": [
       {
-        "id": "3d50e576a7a4652e",
+        "id": "82313dc9bead5fa5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SecondBrain/EvergreenNotes/Gender has a scientific basis.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "3d50e576a7a4652e",
+              "leaf": "82313dc9bead5fa5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Gender has a scientific basis.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Longform media lets you meet people where they are at, short form media lets people meet you where you're at.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Bhuddism outlines a path and practice to end suffering, but does not promise it.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Humans love to group eachother.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":17},\"to\":{\"line\":16,\"ch\":17}}}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/The actual work of being a good person isn't explored by Christianity.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Topics/Spaced Repetition (plugin).md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/OrganizationalNotes/NOW.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":2.8874999455043246}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Gender has a scientific basis.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Every person has an experience of gender.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Fear of hell is baked into Christianity.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":337},\"to\":{\"line\":12,\"ch\":337}},\"scroll\":0}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/To be happy you need to not be sad.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":26},\"to\":{\"line\":14,\"ch\":26}},\"scroll\":0.08333333333333333}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Explaining emotion can just be a way of escaping the situation.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":15},\"to\":{\"line\":16,\"ch\":15}}}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Tips for concentration.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":11.05892835344587}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Mental illness is a reaction to ones environment.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}},\"scroll\":8.139636452414774}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/How Neuroscience impacts our daily lives.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":8.85892813546317}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Complex emotions are intellectual understandings of primal urges.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":23},\"to\":{\"line\":19,\"ch\":23}},\"scroll\":0.033333333830038704}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Mental illness is a reaction to ones environment.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":59},\"to\":{\"line\":15,\"ch\":59}},\"scroll\":0.16666666666666666}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Complex emotions are intellectual understandings of primal urges.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":83},\"to\":{\"line\":9,\"ch\":83}}}"
-            },
-            {
-              "leaf": "3d50e576a7a4652e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/The internet allows niche topics to flourish.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -168,10 +51,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Evergreen -line:(sr-ease)",
+                "query": "line:(",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
@@ -187,7 +70,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Gender has a scientific basis.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -208,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Gender has a scientific basis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,24 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SecondBrain/EvergreenNotes/Gender has a scientific basis.md"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "27a36f04e1c2d530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SecondBrain/OrganizationalNotes/RECENTLY-MODIFIED.md",
-                "mode": "preview"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -278,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 499.5121879577637,
-    "collapsed": true
+    "width": 499.5121879577637
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -295,7 +158,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Gender has a scientific basis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -447,17 +309,17 @@
     "width": 1001.5,
     "collapsed": true
   },
-  "active": "3d50e576a7a4652e",
+  "active": "82313dc9bead5fa5",
   "lastOpenFiles": [
-    "SecondBrain/EvergreenNotes/Gender has a scientific basis.md",
-    "Longform media lets you meet people where they are at, short form media lets people meet you where you're at.md",
-    "SecondBrain/EvergreenNotes/Bhuddism outlines a path and practice to end suffering, but does not promise it.md",
-    "SecondBrain/EvergreenNotes/Humans love to group eachother.md",
-    "SecondBrain/EvergreenNotes/The actual work of being a good person isn't explored by Christianity.md",
-    "SecondBrain/Topics/Spaced Repetition (plugin).md",
-    "SecondBrain/OrganizationalNotes/NOW.md",
-    "SecondBrain/EvergreenNotes/Every person has an experience of gender.md",
-    "SecondBrain/EvergreenNotes/Fear of hell is baked into Christianity.md",
-    "SecondBrain/EvergreenNotes/To be happy you need to not be sad.md"
+    "SecondBrain/EvergreenNotes/reconstruction.md",
+    "SecondBrain/EvergreenNotes/Mental illness is a reaction to ones environment.md",
+    "SecondBrain/EvergreenNotes/Dataview.md",
+    "SecondBrain/ContentNotes/Tweets/tweets_Tweets From Visa Is Stretching.md",
+    "SecondBrain/EvergreenNotes/Human's have an inability to admit that they are wrong.md",
+    "SecondBrain/EvergreenNotes/Longform media lets you reach people where they are at, short form media lets you reach people where you are at.md",
+    "SecondBrain/ContentNotes/Tweets/tweets_&Gt; Most People Suck At....md",
+    "SecondBrain/ContentNotes/Articles/articles_Summary, Part 3 & 4  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
+    "SecondBrain/ContentNotes/Articles/articles_Summary, Part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress.md",
+    "SecondBrain/EvergreenNotes/Hope is not optimisim it is a practice for producing change.md"
   ]
 }

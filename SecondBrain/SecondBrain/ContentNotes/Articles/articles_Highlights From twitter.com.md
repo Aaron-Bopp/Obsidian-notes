@@ -1,5 +1,5 @@
 ---
-created: 2021-10-19
+created: 2021-10-20
 tags: content
 type: 
 - articles
@@ -19,6 +19,7 @@ aliases:
 **Creator**:: twitter.com
 
 ## Highlights
-- > "Sand Thing – Medium monstrosity, unaligned
-    Feeding on mummified corpses preserved in the hot soils since ancient times, the sand things dig their far reaching tunnels completely unnoticed by the surface-dwelling folks." 
+  
+> "Sand Thing – Medium monstrosity, unaligned
+> Feeding on mummified corpses preserved in the hot soils since ancient times, the sand things dig their far reaching tunnels completely unnoticed by the surface-dwelling folks." 
 

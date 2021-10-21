@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2056582,
+  "lastSavedStatusID": 2063181,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -102,7 +102,11 @@
     "SecondBrain/ContentNotes/Articles/articles_“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”.md": "11463170",
     "SecondBrain/ContentNotes/Articles/articles_Taxonomy of Note Types  Daily Working Log  Backlinks Can Be Used to Implicitly Define Nodes in Knowledge Management Systems.md": "11463501",
     "SecondBrain/ContentNotes/Articles/articles_Frequently Asked Questions About Transgender People  National Center for Transgender Equality.md": "11459147",
-    "SecondBrain/ContentNotes/Tweets/tweets_What’s in the BuildBackBetter Act.md": "11483562"
+    "SecondBrain/ContentNotes/Tweets/tweets_What’s in the BuildBackBetter Act.md": "11483562",
+    "SecondBrain/ContentNotes/Tweets/tweets_&Gt; Most People Suck At....md": "11498939",
+    "SecondBrain/ContentNotes/Tweets/tweets_How Did the “men Will Li....md": "11498940",
+    "SecondBrain/ContentNotes/Tweets/tweets_I've Been Reading a Bit....md": "11501331",
+    "SecondBrain/ContentNotes/Tweets/tweets_Tweets From Visa Is Stretching.md": "11501348"
   },
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false

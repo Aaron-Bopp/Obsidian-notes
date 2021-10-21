@@ -1,5 +1,5 @@
 ---
-created: 2021-10-19
+created: 2021-10-20
 tags: content
 type: 
 - articles
@@ -19,7 +19,8 @@ aliases:
 **Creator**:: pages.cs.wisc.edu
 
 ## Highlights
-- > "the address space enables each program to behave as if it has its
-    own memory when indeed the OS is secretly multiplexing address spaces
-    across physical memory (and sometimes, disk)." 
+  
+> "the address space enables each program to behave as if it has its
+> own memory when indeed the OS is secretly multiplexing address spaces
+> across physical memory (and sometimes, disk)." 
 

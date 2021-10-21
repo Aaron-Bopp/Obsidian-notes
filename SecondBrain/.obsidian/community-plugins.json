@@ -17,7 +17,6 @@
   "quick-explorer",
   "find-and-replace-in-selection",
   "obsidian-regex-search-replace",
-  "customjs",
   "obsidian-dictionary-plugin",
   "obsidian-vimrc-support",
   "buttons",
@@ -45,5 +44,7 @@
   "obsidian-spaced-repetition",
   "adjacency-matrix-maker",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian42-text-transporter",
+  "customjs"
 ]
