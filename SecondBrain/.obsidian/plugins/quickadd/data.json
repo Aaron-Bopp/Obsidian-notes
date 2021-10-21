@@ -1,0 +1,220 @@
+{
+  "choices": [
+    {
+      "id": "daf462a1-0ec5-4538-baa3-472d8dc213eb",
+      "name": "CONTENT",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Templates/CONTENT.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false
+      },
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical"
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFile": true
+    },
+    {
+      "id": "4b68822a-b2c0-4d7f-9d58-9b97cbf3e07b",
+      "name": "EVERGREEN",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Templates/EGNOTE.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false
+      },
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical"
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFile": true
+    },
+    {
+      "id": "67d798dd-7d7a-48ac-a615-0b6353cf8cb7",
+      "name": "TOPIC",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Templates/TOPICNOTE.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false
+      },
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical"
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFile": true
+    },
+    {
+      "id": "bd1194ab-0254-4b56-af20-dbc0c6071e93",
+      "name": "Add alias",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "D&D/Wildemount/aliases.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "[[<%* const path = \"{{LINKCURRENT}}\"; const title = path.split(\"/\")[-1].replace(\".md\", \"\");  %><%* title; %>:\n- \"{{VALUE}}\"\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "{{LINKCURRENT}}",
+        "insertAtEnd": true,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false
+    },
+    {
+      "id": "ce68766c-3e08-4c8c-9f64-76d64d67194b",
+      "name": "Add footnote",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "[^{{VALUE}}]: "
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false
+    },
+    {
+      "id": "9dd65572-9df2-48be-8faf-2852127bb2b5",
+      "name": "Term",
+      "type": "Macro",
+      "command": false,
+      "macroId": "cc8a0584-9c3c-49bd-8cf1-cb71501d856b"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Term",
+      "id": "cc8a0584-9c3c-49bd-8cf1-cb71501d856b",
+      "commands": [
+        {
+          "name": "Capture",
+          "type": "NestedChoice",
+          "id": "5a221053-f3cf-43d4-aaa0-a9cddcccf6aa",
+          "choice": {
+            "id": "c155369f-9786-4cbc-822e-2a6b9d8ed3d7",
+            "name": "Capture",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "SecondBrain/TopicNotes/{{VALUE}}",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": true,
+              "createWithTemplate": false,
+              "template": "Templates/Templates/TERM.md"
+            },
+            "format": {
+              "enabled": true,
+              "format": "{{TEMPLATE:Templates/Templates/META.md}} \ntype: topic/term\n---\n<% tp.system.clipboard() %> [^1]\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n\n[^1]: {{LINKCURRENT}}\n"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Get inside brackets",
+      "id": "63db05b3-4b3a-40d7-be4f-169395e2e77e",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "8b395c43-65b6-46ca-b258-7ddd4f0bec27",
+          "choice": {
+            "id": "d943acb5-85ab-478d-8b5d-0c640d9d55cb",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/Templates/GET_TITLE.md",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ]
+}

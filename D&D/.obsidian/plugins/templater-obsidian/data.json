@@ -1,0 +1,39 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "SecondBrain/EvergreenNotes",
+      "template": "Templates/Templates/EGNOTE.md"
+    },
+    {
+      "folder": "SecondBrain/Terms",
+      "template": "Templates/Templates/TERM.md"
+    },
+    {
+      "folder": "SecondBrain/TopicNotes",
+      "template": "Templates/Templates/TOPICNOTE.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "template_folder": "Templates/Templates",
+  "script_folder": "Templates/Scripts"
+}

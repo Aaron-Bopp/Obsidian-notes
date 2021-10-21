@@ -1,0 +1,661 @@
+{
+  "firstRun": false,
+  "initialized": [
+    {
+      "path": "/",
+      "initialized": true
+    },
+    {
+      "path": "SecondBrain",
+      "initialized": true
+    },
+    {
+      "path": "SecondBrain/TopicNotes",
+      "initialized": true
+    },
+    {
+      "path": "SecondBrain/EvergreenNotes",
+      "initialized": true
+    },
+    {
+      "path": "SecondBrain/ContentNotes",
+      "initialized": true
+    },
+    {
+      "path": "SecondBrain/Primary Sources/Qoutes",
+      "initialized": true
+    }
+  ],
+  "trackedProjects": [
+    "/",
+    "SecondBrain",
+    "SecondBrain/TopicNotes",
+    "SecondBrain/EvergreenNotes",
+    "SecondBrain/ContentNotes",
+    "SecondBrain/Primary Sources/Qoutes"
+  ],
+  "checkpointList": [
+    {
+      "path": "/",
+      "date": "2021-10-19",
+      "size": 4975526
+    },
+    {
+      "path": "SecondBrain",
+      "date": "2021-10-19",
+      "size": 0
+    },
+    {
+      "path": "SecondBrain/TopicNotes",
+      "date": "2021-10-19",
+      "size": 0
+    },
+    {
+      "path": "SecondBrain/EvergreenNotes",
+      "date": "2021-10-19",
+      "size": 0
+    },
+    {
+      "path": "SecondBrain/ContentNotes",
+      "date": "2021-10-19",
+      "size": 0
+    },
+    {
+      "path": "SecondBrain/Primary Sources/Qoutes",
+      "date": "2021-10-19",
+      "size": 0
+    }
+  ],
+  "activityHistory": [
+    {
+      "path": "/",
+      "size": [
+        {
+          "date": "2021-09-23",
+          "value": 625
+        },
+        {
+          "date": "2021-09-24",
+          "value": 9609
+        },
+        {
+          "date": "2021-09-25",
+          "value": 18234
+        },
+        {
+          "date": "2021-09-26",
+          "value": 75169
+        },
+        {
+          "date": "2021-09-27",
+          "value": 96635
+        },
+        {
+          "date": "2021-09-28",
+          "value": 7211
+        },
+        {
+          "date": "2021-09-29",
+          "value": 418017
+        },
+        {
+          "date": "2021-09-30",
+          "value": 3079
+        },
+        {
+          "date": "2021-10-01",
+          "value": 1098
+        },
+        {
+          "date": "2021-10-02",
+          "value": 2691
+        },
+        {
+          "date": "2021-10-03",
+          "value": 14697
+        },
+        {
+          "date": "2021-10-04",
+          "value": 51655
+        },
+        {
+          "date": "2021-10-05",
+          "value": 83
+        },
+        {
+          "date": "2021-10-06",
+          "value": 188265
+        },
+        {
+          "date": "2021-10-07",
+          "value": 102
+        },
+        {
+          "date": "2021-10-08",
+          "value": 4457
+        },
+        {
+          "date": "2021-10-09",
+          "value": 349359
+        },
+        {
+          "date": "2021-10-10",
+          "value": 57401
+        },
+        {
+          "date": "2021-10-11",
+          "value": 164926
+        },
+        {
+          "date": "2021-10-12",
+          "value": 3194
+        },
+        {
+          "date": "2021-10-13",
+          "value": 6036
+        },
+        {
+          "date": "2021-10-14",
+          "value": 0
+        },
+        {
+          "date": "2021-10-19",
+          "value": 2953354
+        }
+      ]
+    },
+    {
+      "path": "SecondBrain",
+      "size": [
+        {
+          "date": "2021-09-23",
+          "value": 625
+        },
+        {
+          "date": "2021-09-24",
+          "value": 9571
+        },
+        {
+          "date": "2021-09-25",
+          "value": 14393
+        },
+        {
+          "date": "2021-09-26",
+          "value": 35156
+        },
+        {
+          "date": "2021-09-27",
+          "value": 2089
+        },
+        {
+          "date": "2021-09-28",
+          "value": 6745
+        },
+        {
+          "date": "2021-09-29",
+          "value": 35053
+        },
+        {
+          "date": "2021-09-30",
+          "value": 3079
+        },
+        {
+          "date": "2021-10-01",
+          "value": 15
+        },
+        {
+          "date": "2021-10-02",
+          "value": 2280
+        },
+        {
+          "date": "2021-10-03",
+          "value": 14604
+        },
+        {
+          "date": "2021-10-04",
+          "value": 51722
+        },
+        {
+          "date": "2021-10-05",
+          "value": 130
+        },
+        {
+          "date": "2021-10-06",
+          "value": 23316
+        },
+        {
+          "date": "2021-10-07",
+          "value": 28
+        },
+        {
+          "date": "2021-10-08",
+          "value": 4194
+        },
+        {
+          "date": "2021-10-09",
+          "value": 7852
+        },
+        {
+          "date": "2021-10-10",
+          "value": 53216
+        },
+        {
+          "date": "2021-10-11",
+          "value": 162246
+        },
+        {
+          "date": "2021-10-12",
+          "value": 3936
+        },
+        {
+          "date": "2021-10-13",
+          "value": 4708
+        },
+        {
+          "date": "2021-10-14",
+          "value": 0
+        },
+        {
+          "date": "2021-10-19",
+          "value": 2017590
+        }
+      ]
+    },
+    {
+      "path": "SecondBrain/TopicNotes",
+      "size": [
+        {
+          "date": "2021-09-23",
+          "value": 135
+        },
+        {
+          "date": "2021-09-24",
+          "value": 199
+        },
+        {
+          "date": "2021-09-25",
+          "value": 11112
+        },
+        {
+          "date": "2021-09-26",
+          "value": 2680
+        },
+        {
+          "date": "2021-09-27",
+          "value": 0
+        },
+        {
+          "date": "2021-09-28",
+          "value": 4299
+        },
+        {
+          "date": "2021-09-29",
+          "value": 6324
+        },
+        {
+          "date": "2021-09-30",
+          "value": 1792
+        },
+        {
+          "date": "2021-10-01",
+          "value": 11
+        },
+        {
+          "date": "2021-10-02",
+          "value": 1808
+        },
+        {
+          "date": "2021-10-03",
+          "value": 4449
+        },
+        {
+          "date": "2021-10-04",
+          "value": 5315
+        },
+        {
+          "date": "2021-10-05",
+          "value": 71
+        },
+        {
+          "date": "2021-10-06",
+          "value": 1847
+        },
+        {
+          "date": "2021-10-07",
+          "value": 0
+        },
+        {
+          "date": "2021-10-08",
+          "value": 2485
+        },
+        {
+          "date": "2021-10-09",
+          "value": 1225
+        },
+        {
+          "date": "2021-10-10",
+          "value": 5246
+        },
+        {
+          "date": "2021-10-11",
+          "value": 13199
+        },
+        {
+          "date": "2021-10-12",
+          "value": 951
+        },
+        {
+          "date": "2021-10-13",
+          "value": 0
+        },
+        {
+          "date": "2021-10-14",
+          "value": 0
+        },
+        {
+          "date": "2021-10-19",
+          "value": 79001
+        }
+      ]
+    },
+    {
+      "path": "SecondBrain/EvergreenNotes",
+      "size": [
+        {
+          "date": "2021-09-23",
+          "value": 0
+        },
+        {
+          "date": "2021-09-24",
+          "value": 135
+        },
+        {
+          "date": "2021-09-25",
+          "value": 35
+        },
+        {
+          "date": "2021-09-26",
+          "value": 134
+        },
+        {
+          "date": "2021-09-27",
+          "value": 871
+        },
+        {
+          "date": "2021-09-28",
+          "value": 1307
+        },
+        {
+          "date": "2021-09-29",
+          "value": 2686
+        },
+        {
+          "date": "2021-09-30",
+          "value": 0
+        },
+        {
+          "date": "2021-10-01",
+          "value": 4
+        },
+        {
+          "date": "2021-10-02",
+          "value": 561
+        },
+        {
+          "date": "2021-10-03",
+          "value": 2956
+        },
+        {
+          "date": "2021-10-04",
+          "value": 1107
+        },
+        {
+          "date": "2021-10-05",
+          "value": 13
+        },
+        {
+          "date": "2021-10-06",
+          "value": 697
+        },
+        {
+          "date": "2021-10-07",
+          "value": 28
+        },
+        {
+          "date": "2021-10-08",
+          "value": 93
+        },
+        {
+          "date": "2021-10-09",
+          "value": 74
+        },
+        {
+          "date": "2021-10-10",
+          "value": 8574
+        },
+        {
+          "date": "2021-10-11",
+          "value": 3654
+        },
+        {
+          "date": "2021-10-12",
+          "value": 109
+        },
+        {
+          "date": "2021-10-13",
+          "value": 395
+        },
+        {
+          "date": "2021-10-14",
+          "value": 0
+        },
+        {
+          "date": "2021-10-19",
+          "value": 186082
+        }
+      ]
+    },
+    {
+      "path": "SecondBrain/ContentNotes",
+      "size": [
+        {
+          "date": "2021-09-23",
+          "value": 530
+        },
+        {
+          "date": "2021-09-24",
+          "value": 6476
+        },
+        {
+          "date": "2021-09-25",
+          "value": 0
+        },
+        {
+          "date": "2021-09-26",
+          "value": 61589
+        },
+        {
+          "date": "2021-09-27",
+          "value": 0
+        },
+        {
+          "date": "2021-09-28",
+          "value": 265
+        },
+        {
+          "date": "2021-09-29",
+          "value": 146985
+        },
+        {
+          "date": "2021-09-30",
+          "value": 0
+        },
+        {
+          "date": "2021-10-01",
+          "value": 0
+        },
+        {
+          "date": "2021-10-02",
+          "value": 109
+        },
+        {
+          "date": "2021-10-03",
+          "value": 6409
+        },
+        {
+          "date": "2021-10-04",
+          "value": 2502
+        },
+        {
+          "date": "2021-10-05",
+          "value": 0
+        },
+        {
+          "date": "2021-10-06",
+          "value": 0
+        },
+        {
+          "date": "2021-10-07",
+          "value": 0
+        },
+        {
+          "date": "2021-10-08",
+          "value": 1196
+        },
+        {
+          "date": "2021-10-09",
+          "value": 587
+        },
+        {
+          "date": "2021-10-10",
+          "value": 4091
+        },
+        {
+          "date": "2021-10-11",
+          "value": 146731
+        },
+        {
+          "date": "2021-10-12",
+          "value": 139
+        },
+        {
+          "date": "2021-10-13",
+          "value": 2555
+        },
+        {
+          "date": "2021-10-14",
+          "value": 0
+        },
+        {
+          "date": "2021-10-19",
+          "value": 784368
+        }
+      ]
+    },
+    {
+      "path": "SecondBrain/Primary Sources/Qoutes",
+      "size": [
+        {
+          "date": "2021-09-23",
+          "value": 0
+        },
+        {
+          "date": "2021-09-24",
+          "value": 117
+        },
+        {
+          "date": "2021-09-25",
+          "value": 0
+        },
+        {
+          "date": "2021-09-26",
+          "value": 0
+        },
+        {
+          "date": "2021-09-27",
+          "value": 0
+        },
+        {
+          "date": "2021-09-28",
+          "value": 0
+        },
+        {
+          "date": "2021-09-29",
+          "value": 27
+        },
+        {
+          "date": "2021-09-30",
+          "value": 0
+        },
+        {
+          "date": "2021-10-01",
+          "value": 0
+        },
+        {
+          "date": "2021-10-02",
+          "value": 0
+        },
+        {
+          "date": "2021-10-03",
+          "value": 0
+        },
+        {
+          "date": "2021-10-04",
+          "value": 11
+        },
+        {
+          "date": "2021-10-05",
+          "value": 0
+        },
+        {
+          "date": "2021-10-06",
+          "value": 0
+        },
+        {
+          "date": "2021-10-07",
+          "value": 0
+        },
+        {
+          "date": "2021-10-08",
+          "value": 0
+        },
+        {
+          "date": "2021-10-09",
+          "value": 33
+        },
+        {
+          "date": "2021-10-10",
+          "value": 0
+        },
+        {
+          "date": "2021-10-11",
+          "value": 0
+        },
+        {
+          "date": "2021-10-12",
+          "value": 0
+        },
+        {
+          "date": "2021-10-13",
+          "value": 0
+        },
+        {
+          "date": "2021-10-14",
+          "value": 0
+        },
+        {
+          "date": "2021-10-19",
+          "value": 492
+        }
+      ]
+    }
+  ],
+  "activityColor1": "#c6e48b",
+  "activityColor2": "#7bc96f",
+  "activityColor3": "#239a3b",
+  "activityColor4": "#196127",
+  "textColor": "#FFFFFF",
+  "emptyColor": "#ecedf0",
+  "cellRadius": 4,
+  "type": "yearly"
+}

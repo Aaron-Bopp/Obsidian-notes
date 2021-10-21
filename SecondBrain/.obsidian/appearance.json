@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Dracula for Obsidian",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "links"
+  ],
+  "translucency": false,
+  "baseFontSizeAction": false
+}

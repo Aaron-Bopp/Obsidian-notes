@@ -1,0 +1,18 @@
+{
+  "targetAttributes": [
+    "tag",
+    "Parents",
+    "Topics",
+    "Status",
+    "aliases"
+  ],
+  "targetTags": true,
+  "presetFields": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "Templates/SuperchargedLinks",
+  "getFromInlineField": false,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true
+}
