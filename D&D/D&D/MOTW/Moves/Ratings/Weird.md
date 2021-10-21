@@ -1,1 +1,0 @@
-**Weird** is how attuned to the supernatural you are. It is added to your die roll for the **[[Use Magic]]** basic move.

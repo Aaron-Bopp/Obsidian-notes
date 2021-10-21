@@ -1,1 +1,0 @@
-**Tough** is how strong and mean you are in a fight. It is added to your die roll for the **[[kick some ass]]** and **[[Protect Someone]]** basic [[moves]].
