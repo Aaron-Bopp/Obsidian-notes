@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "89d448d7fba0fd45",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dba5cd4d7ed7883",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Source Code.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Source Code.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/TERM.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/LOCATION.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/GET_TITLE.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Templates/2NEWEVERGREEN.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Source Code.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "2dba5cd4d7ed7883",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"D&D/Aven/Aunnabelle.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "910719a61536b55a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c21f393113b1c6f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5561471fe3107a2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a521a20de04d020",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"\\\"Sacred o\"",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "ef4903cebcb2603a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Source Code.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "eb3e3d2edd918674",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Source Code.md"
+              }
+            }
+          },
+          {
+            "id": "e88942f6a09fb795",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88f1d9024a92d275",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Source Code.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d4126eddc76def32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445
+  },
+  "right": {
+    "id": "e4957aafc9974964",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee675549abf91113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f26fe85a4864e383",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Templates/Source Code.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": false,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "#Monster",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "#PC",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5897984
+                      }
+                    },
+                    {
+                      "query": "#NPC",
+                      "color": {
+                        "a": 1,
+                        "rgb": 560646
+                      }
+                    },
+                    {
+                      "query": "#Org",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14606617
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.5,
+                  "nodeSizeMultiplier": 0.719705882352941,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.426470588235294,
+                  "repelStrength": 13.5882352941176,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.2064667433536164,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "67b53f0a700a6925",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fe060497f1e6355",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "7f3fb89b3363c91d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc38ba1222ce70bd",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 822
+  },
+  "active": "2dba5cd4d7ed7883",
+  "lastOpenFiles": [
+    "Templates/Source Code.md",
+    "Templates/Templates/TERM.md",
+    "Templates/Templates/LOCATION.md",
+    "Templates/Templates/GET_TITLE.md",
+    "Templates/Templates/2NEWEVERGREEN.md",
+    "D&D/Aven/Aunnabelle.md",
+    "D&D/MOTW/MOTW Sections/Weapons.md",
+    "D&D/MOTW/MOTW Sections/The Basic Hunter Moves.md",
+    "D&D/MOTW/MOTW Sections/The Basic Keeper Moves.md",
+    "Simon Farfunkel.md"
+  ]
+}

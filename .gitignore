@@ -1,12 +1,2 @@
 *.docx
 *.bin
-
-
-*/.obsidian/*
-*/.obsidian/*.*
-*.json
-*.json
-*/.obsidian/workspace
-*
-!*/
-!*.*

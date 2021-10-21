@@ -38,22 +38,22 @@
     {
       "path": "/",
       "date": "2021-10-20",
-      "size": 2088599
+      "size": 2088377
     },
     {
       "path": "SecondBrain",
       "date": "2021-10-20",
-      "size": 2075694
+      "size": 2075472
     },
     {
       "path": "SecondBrain/TopicNotes",
       "date": "2021-10-20",
-      "size": 79268
+      "size": 79370
     },
     {
       "path": "SecondBrain/EvergreenNotes",
       "date": "2021-10-20",
-      "size": 197042
+      "size": 196718
     },
     {
       "path": "SecondBrain/ContentNotes",
@@ -180,7 +180,7 @@
         },
         {
           "date": "2021-10-20",
-          "value": 4141126
+          "value": 4142766
         }
       ]
     },
@@ -297,7 +297,7 @@
         },
         {
           "date": "2021-10-20",
-          "value": 4141338
+          "value": 4142978
         }
       ]
     },
@@ -414,7 +414,7 @@
         },
         {
           "date": "2021-10-20",
-          "value": 160842
+          "value": 161108
         }
       ]
     },
@@ -531,7 +531,7 @@
         },
         {
           "date": "2021-10-20",
-          "value": 393889
+          "value": 395319
         }
       ]
     },

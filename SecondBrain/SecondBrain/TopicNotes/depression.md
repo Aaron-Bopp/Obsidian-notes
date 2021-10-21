@@ -13,7 +13,6 @@ aliases:
  - Sometimes caused by
 	- [[gender dysphoria]]
 - [[Sadness is enlightenment and happiness is delusion]]
-- [[To be happy you need to not be sad]]
 
 ### <hr class="dataviews"/>
 
