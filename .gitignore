@@ -2,6 +2,6 @@
 *.bin
 
 
-*\.obsidian\*
+*/.obsidian/*
 *.json
 *.json
