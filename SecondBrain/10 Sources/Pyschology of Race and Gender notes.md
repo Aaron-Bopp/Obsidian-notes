@@ -24,7 +24,7 @@
 
 ## Readings
 - [[Historical Foundations of Race]]
-- [[Winton (2020) - Scientific Racism and North American Psychology.pdf]]
+- [[00 Meta/Primary Sources/Winton (2020) - Scientific Racism and North American Psychology.pdf]]
 ## Race
 - Race is a social classification based solely off of the color of your skin
 - Races have been created for classifying and otherizing various groups of people over the years 
@@ -59,11 +59,11 @@
 # Week 4
 
 ## Readings
-- [[Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf]]
+- [[00 Meta/Primary Sources/Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf]]
 - [[7 Ways We Know Systemic Racism Is Real]]
 ## Writings
 - [[It’s All About the Jeffersons - This American Life]]
-- [[Worksheet 1]]
+- [[10 Sources/Worksheet 1]]
 ## Institutional and Systemic Bias
 - Why was there resistance to black lives matter?
 	- White lives matter supporters didn't understand the point of BLM
@@ -166,8 +166,8 @@
 # Week 6 
 
 1.  “[Intersectionality](https://www.nccj.org/intersectionality),” web article from _NCCJ_.
-2.  [[Robbins & McGowan (2016) - Intersectional Perspectives on Gender.pdf]] 
-3.  [[McCormick-Huhn et al. (2019) - What If Psychology Took Intersectionality Seriously.pdf]] 
+2.  [[00 Meta/Primary Sources/Robbins & McGowan (2016) - Intersectional Perspectives on Gender.pdf]] 
+3.  [[00 Meta/Primary Sources/McCormick-Huhn et al. (2019) - What If Psychology Took Intersectionality Seriously.pdf]] 
 ## Intersectionality
 - Objectified [[women]] are not affected by the inversion effect
 	- Inversion effect says we are faster to identify inverted objects, and slower to indetify inverted people
@@ -195,23 +195,23 @@
 # Week 10 
 
 1.  [[articles_transequality.org_Frequently Asked Questions About Transgender People  National Center for Transgender Equality]]
-2.  [[Russell et al. (2018) - Chosen Name Use.pdf]] 
-3.  [[Sansfacon et al. (2020) - I Knew That I Wasn't Cis.pdf]] 
+2.  [[00 Meta/Primary Sources/Russell et al. (2018) - Chosen Name Use.pdf]] 
+3.  [[00 Meta/Primary Sources/Sansfacon et al. (2020) - I Knew That I Wasn't Cis.pdf]] 
 
 # Week 11 
 
-1.  [[Olson et al. (2016) - Mental Health of Transgender Children.pdf]] 
+1.  [[00 Meta/Primary Sources/Olson et al. (2016) - Mental Health of Transgender Children.pdf]] 
 
 # Week 12 
 
-1.  [[Dovidio et al. (2017) - Aversive Racism and Contemporary Bias.pdf]] 
-2.  [[Correll et al. (2014) - The Police Officer's Dilemma.pdf]] 
+1.  [[00 Meta/Primary Sources/Dovidio et al. (2017) - Aversive Racism and Contemporary Bias.pdf]] 
+2.  [[00 Meta/Primary Sources/Correll et al. (2014) - The Police Officer's Dilemma.pdf]] 
 
 # Week 13 
 
 1.  “[Sexism Isn’t Just Unfair; It Makes [[Women]] Sick, Study Suggests](https://theconversation.com/sexism-isnt-just-unfair-it-makes-[[women]]-sick-study-suggests-95689),” web article from _The Conversation._
 2.  “[Sexism May Be Harmful to Men’s Mental Health](https://www.apa.org/news/press/releases/2016/11/sexism-harmful),” web article from _American Psychological Association_.
-3.  [[Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
+3.  [[00 Meta/Primary Sources/Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
 
 # Week 14 
 
@@ -224,5 +224,5 @@ No assigned readings.
 
 # Week 16
 
-1.  [[Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact.pdf]] 
+1.  [[00 Meta/Primary Sources/Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact.pdf]] 
 2.  “[The Top 10 Strategies for Reducing Prejudice](https://greatergood.berkeley.edu/article/item/top_10_strategies_for_reducing_prejudice),” web article from _Greater Good Magazine_, published by University of California, Berkeley.

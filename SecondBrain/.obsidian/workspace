@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "631e42c1832ab78f",
+    "id": "8deacd6c37958aee",
     "type": "split",
     "children": [
       {
-        "id": "e76b0fd7eb658068",
+        "id": "4cdfa95c9ddc025d",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -258,7 +258,7 @@
     "width": 913.4530639648438,
     "collapsed": true
   },
-  "active": "e76b0fd7eb658068",
+  "active": "4cdfa95c9ddc025d",
   "lastOpenFiles": [
     "SecondBrain/ContentNotes/Enneagram/articleHow The System Works — The Enneagram Institute.md",
     "SecondBrain/EvergreenNotes/Collecting Thought with a Second Brain.md",

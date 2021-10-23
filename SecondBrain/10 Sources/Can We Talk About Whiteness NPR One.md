@@ -17,7 +17,7 @@ bib:
 
 **Last Edited**:: *`=this.file.mtime`*
 
-Summarized and expanded upon in [[White Privilege write-up]]
+Summarized and expanded upon in [[10 Sources/White Privilege write-up]]
 
 - Talking about whiteness as a demographic and white privilege. 
 - Peggys story

@@ -22,7 +22,7 @@
 # Week 3
 ## Readings
 - [[Historical Foundations of Race]]
-- [[Winton (2020) - Scientific Racism and North American Psychology.pdf]]
+- [[00 Meta/Primary Sources/Classes/Pyschology/Winton (2020) - Scientific Racism and North American Psychology.pdf]]
 ## Race
 - Race is a social classification based solely off of the color of your skin
 - Races have been created for classifying and otherizing various groups of people over the years 
@@ -56,7 +56,7 @@
 - it all comes down to socio-economic status
 # Week 4
 ## Readings
-- [[Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf]]
+- [[00 Meta/Primary Sources/Classes/Pyschology/Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf]]
 - [[7 Ways We Know Systemic Racism Is Real]]
 ## Institutional and Systemic Bias
 - Why was there resistance to black lives matter?
@@ -94,8 +94,8 @@
 - Hurricane Katrina = example of inequal treatment in healthcare
 # Week 5 
 
-1.  [[Ritchey (2014) - Black Identity Development.pdf]] 
-2.  [[Cook & McCoy (2017) - Messages in Collusion.pdf]] 
+1.  [[00 Meta/Primary Sources/Classes/Pyschology/Ritchey (2014) - Black Identity Development.pdf]] 
+2.  [[00 Meta/Primary Sources/Classes/Pyschology/Cook & McCoy (2017) - Messages in Collusion.pdf]] 
 ## Identity
 - Identity models are about experience not age periods
 ### Black identity
@@ -157,8 +157,8 @@
 # Week 6 
 
 1.  “[Intersectionality](https://www.nccj.org/intersectionality),” web article from _NCCJ_.
-2.  [[Robbins & McGowan (2016) - Intersectional Perspectives on Gender.pdf]] 
-3.  [[McCormick-Huhn et al. (2019) - What If Psychology Took Intersectionality Seriously.pdf]] 
+2.  [[00 Meta/Primary Sources/Classes/Pyschology/Robbins & McGowan (2016) - Intersectional Perspectives on Gender.pdf]] 
+3.  [[00 Meta/Primary Sources/Classes/Pyschology/McCormick-Huhn et al. (2019) - What If Psychology Took Intersectionality Seriously.pdf]] 
 
 # Week 7 
 
@@ -186,23 +186,23 @@
 # Week 10 
 
 1.  [[articles_transequality.org_Frequently Asked Questions About Transgender People  National Center for Transgender Equality]]
-2.  [[Russell et al. (2018) - Chosen Name Use.pdf]] 
-3.  [[Sansfacon et al. (2020) - I Knew That I Wasn't Cis.pdf]] 
+2.  [[00 Meta/Primary Sources/Classes/Pyschology/Russell et al. (2018) - Chosen Name Use.pdf]] 
+3.  [[00 Meta/Primary Sources/Classes/Pyschology/Sansfacon et al. (2020) - I Knew That I Wasn't Cis.pdf]] 
 
 # Week 11 
 
-1.  [[Olson et al. (2016) - Mental Health of Transgender Children.pdf]] 
+1.  [[00 Meta/Primary Sources/Classes/Pyschology/Olson et al. (2016) - Mental Health of Transgender Children.pdf]] 
 
 # Week 12 
 
-1.  [[Dovidio et al. (2017) - Aversive Racism and Contemporary Bias.pdf]] 
-2.  [[Correll et al. (2014) - The Police Officer's Dilemma.pdf]] 
+1.  [[00 Meta/Primary Sources/Classes/Pyschology/Dovidio et al. (2017) - Aversive Racism and Contemporary Bias.pdf]] 
+2.  [[00 Meta/Primary Sources/Classes/Pyschology/Correll et al. (2014) - The Police Officer's Dilemma.pdf]] 
 
 # Week 13 
 
 1.  “[Sexism Isn’t Just Unfair; It Makes [[Women]] Sick, Study Suggests](https://theconversation.com/sexism-isnt-just-unfair-it-makes-[[women]]-sick-study-suggests-95689),” web article from _The Conversation._
 2.  “[Sexism May Be Harmful to Men’s Mental Health](https://www.apa.org/news/press/releases/2016/11/sexism-harmful),” web article from _American Psychological Association_.
-3.  [[Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
+3.  [[00 Meta/Primary Sources/Classes/Pyschology/Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
 
 # Week 14 
 
@@ -215,7 +215,7 @@ No assigned readings.
 
 # Week 16
 
-1.  [[Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact.pdf]] 
+1.  [[00 Meta/Primary Sources/Classes/Pyschology/Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact.pdf]] 
 2.  “[The Top 10 Strategies for Reducing Prejudice](https://greatergood.berkeley.edu/article/item/top_10_strategies_for_reducing_prejudice),” web article from _Greater Good Magazine_, published by University of California, Berkeley.
 
 

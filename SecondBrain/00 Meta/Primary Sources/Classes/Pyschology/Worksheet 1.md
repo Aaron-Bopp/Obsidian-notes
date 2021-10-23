@@ -41,7 +41,7 @@
 5. A big chunk of this article is made up of the section "Paradox of Liberty in America's [[conscious|Consciousness]]," which starts a little less than halfway down and continues until the section "Reconstructing Race in the Nadir." Summarize in 1-2 paragraphs the entire "Paradox" section, being sure to explain what paradox the authors are referring to.  **(3 pts)**
 	- This section discussed the cognitive dissonance that people in the America's had to feel at the founding of this country. While they were fighting for equal intrinsic rights they were stripping them from a large portion of society. The reasons behind this were clear, the heavy economic incentive to slavery, and this built a very a strong racial ideology in America. In order to continue slavery while fighting for freedom they stripped the humanity from their slaves in order to keep the enslaved.
 
-### [[Winton (2020) - Scientific Racism and North American Psychology.pdf|Winton (2020) -- Scientific Racism and North American Psychology]]
+### [[00 Meta/Primary Sources/Classes/Pyschology/Winton (2020) - Scientific Racism and North American Psychology.pdf|Winton (2020) -- Scientific Racism and North American Psychology]]
 
 6. In your own words and using information from the sections "Mental Testing, Educability, Eugenics, and Immigration,", and "The Partial Retreat of Scientific [[Racism]]":
     -  Name two early psychologists who promoted scientific [[racism]] through their research and beliefs, and discuss their research and/or beliefs. You should discuss two unique people, not two people who worked on the same thing. **(2 pts)**
