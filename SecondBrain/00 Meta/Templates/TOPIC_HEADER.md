@@ -1,1 +1,1 @@
-#### [[TOPIC_OUTLINE_HEADER]] `$=customJS.dv_funcs.topicHeader(dv, this)`
+#### [[<% tp.file.title %>]] `$=customJS.dv_funcs.topicHeader(dv, this)`

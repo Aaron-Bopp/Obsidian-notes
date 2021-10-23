@@ -4,9 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-22
-sr-interval: 4
-sr-ease: 270
+sr-due: 2021-11-12
+sr-interval: 20
+sr-ease: 290
 ---
 
 #### [[Q justifies conservatives discontent]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

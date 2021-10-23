@@ -15,9 +15,9 @@ source: https://www.pbs.org/edens/thailand/buddhism.htm
 
 > "to be born human is to Buddhists a precious chance at spiritual bliss, a rarity that one should not forsake." [^5]
 - Four noble truths[^1]
-	- Truth of [[suffering]]
+	- Truth of [[suffering]] ^9cb12f
 		- [[suffering]] exists; it has a cause; it has an end; and it has a cause to bring about its end
-	- Truth of the cause of [[suffering]]
+	- Truth of the cause of [[suffering]] ^661817
 		- [[desire]] and [[ignorance]] lie at the center of of [[suffering]] [^2]
 			- [[desire]] = wants that can never be satisfied
 			- [[ignorance]] is not seeing the world as it actually is

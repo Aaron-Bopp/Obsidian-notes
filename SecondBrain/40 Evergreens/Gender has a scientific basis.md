@@ -16,9 +16,10 @@ sr-ease: 272
 
 If your assigned gender does not match your true gender your body will produce biological warnings ([[depression]], [[depersonalization]], [[derealization]], and [[dissociation]]), which are all symptoms of [[gender dysphoria]].
 
-[[Every person has an experience of gender]] but that does not mean gender is not a social construct. Gender has a very solid basis in [[Behavioral Pyschology]] and there are thousands of mechanisms and that cause gender to exist from generation to generation. 
+[[Every person has an experience of gender]] but that does not mean gender is not a [[social construct]]. Gender has a very solid basis in [[Behavioral Pyschology]] and there are thousands of mechanisms and that cause gender to exist from generation to generation. 
 
 [[Our understanding of gender begins at a very early age]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

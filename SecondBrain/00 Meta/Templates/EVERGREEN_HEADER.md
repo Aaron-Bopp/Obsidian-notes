@@ -1,1 +1,1 @@
-#### [[TOPIC_HEADER]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[<% tp.file.title %>]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

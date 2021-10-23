@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef8f7b291b57e1b7",
+        "id": "fc019f97db64e33d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,10 +37,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#topic/stub",
+                "query": "biological warning",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
@@ -55,8 +52,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -72,7 +68,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "0f1a94d152e7c645",
@@ -132,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 499.5121879577637
+    "width": 499.5121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -148,7 +145,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -254,9 +250,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -267,17 +261,17 @@
     "width": 913.4530639648438,
     "collapsed": true
   },
-  "active": "ef8f7b291b57e1b7",
+  "active": "fc019f97db64e33d",
   "lastOpenFiles": [
-    "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md",
-    "40 Evergreens/Imitation is motivated authority figures.md",
-    "40 Evergreens/Dual.md",
-    "40 Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md",
-    "30 Topics/panic attacks.md",
-    "30 Topics/Social media.md",
-    "30 Topics/mass media.md",
-    "30 Topics/subconscious.md",
-    "30 Topics/Revolt.md",
-    "30 Topics/Queer.md"
+    "30 Topics/religion.md",
+    "10 Sources/Mental Health/videoEmotional Deregulation.md",
+    "40 Evergreens/The three main questions of life.md",
+    "40 Evergreens/Any experience of gender is acceptable.md",
+    "30 Topics/Politics.md",
+    "40 Evergreens/The moral majority movement was the original 'making things political'.md",
+    "40 Evergreens/The moral majority movement was the original 'making things political.md",
+    "40 Evergreens/Your anxiety knows your insecurities better than you do.md",
+    "40 Evergreens/Mental illness is a reaction to ones environment.md",
+    "40 Evergreens/The slight differences between evergreen notes, zettles, permanent notes.md"
   ]
 }

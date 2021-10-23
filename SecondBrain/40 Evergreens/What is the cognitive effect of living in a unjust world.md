@@ -9,7 +9,7 @@ tags: evergreen
 
 - [[Knowledge of the world is painful]]
 - [[Realism must acknowledge optimism's existence and effectiveness]]
-- [[Hope is not optimisim it is a practice for producing change]]
+- [[Hope is not optimism it is a practice for producing change]]
 - [[What is the difference between optimism and hope]]
 - [[Anger fuels change]]
 

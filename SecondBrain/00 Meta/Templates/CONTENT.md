@@ -10,7 +10,7 @@ bib:
 aliases:
 ---
 
-##### [[TOPICNOTE]]
+##### [[<% tp.file.title %> ]]
 
 **Creator**::
 

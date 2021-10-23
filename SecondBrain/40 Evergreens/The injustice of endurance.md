@@ -4,9 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 -
-sr-due: 2021-10-23
-sr-interval: 2
-sr-ease: 230
+sr-due: 2021-10-30
+sr-interval: 7
+sr-ease: 250
 ---
 
 #### [[The injustice of endurance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

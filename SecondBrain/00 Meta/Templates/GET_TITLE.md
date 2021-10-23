@@ -1,1 +1,1 @@
-<%* tR += tp.file.selection().match(/\[*([^\[\]]+)\]*/)[1] %>
+[[<%* tR += tp.file.selection().match(/\[*([^\[\]]+)\]*/)[1] %>]]

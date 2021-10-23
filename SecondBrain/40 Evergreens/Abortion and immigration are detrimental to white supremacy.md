@@ -4,14 +4,14 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-22
-sr-interval: 4
+sr-due: 2021-11-05
+sr-interval: 13
 sr-ease: 270
 ---
 
-#### [[Abortion and immigration are key to white supremacy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Abortion and immigration are detrimental to white supremacy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
+[[The ethnic makeup is a significant driver of change]], so opposing these issues is key to upholding [[white supremacy]]. 
 
 ### <hr class="footnote"/>
 

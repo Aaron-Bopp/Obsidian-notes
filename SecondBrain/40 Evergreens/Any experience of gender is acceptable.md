@@ -8,7 +8,7 @@ aliases:
 
 #### [[Any experience of gender is acceptable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This is an important part about accepting yourself as [[transgender]].
+This is an important part about accepting yourself as [[transgender]] and because [[Gender is a social construct]].
 
 ### <hr class="footnote"/>
 

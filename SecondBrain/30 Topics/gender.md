@@ -20,6 +20,7 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 **Terms**:: [[gender schema]], [[gender identity]], [[gender constancy]], [[gender consistency]], [[gender affirming care]]
 ##### [[gender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
+- [[Gender is a social construct]]
 - [[Every person has an experience of gender]]
 	- [[Gender is both an intrinsic experience and an necessary expression]]
 	- [[Any experience of gender is acceptable]]

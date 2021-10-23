@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2075931,
+  "lastSavedStatusID": 2078768,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -204,7 +204,9 @@
     "10 Sources/Readwise/Tweets/tweets_How Did the “men Will Li....md": "11498940",
     "10 Sources/Readwise/Tweets/tweets_I've Been Reading a Bit....md": "11501331",
     "10 Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md": "11501348",
-    "10 Sources/Readwise/Articles/articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying.md": "11505927"
+    "10 Sources/Readwise/Articles/articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying.md": "11505927",
+    "10 Sources/Readwise/Articles/articles_An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging.md": "11540865",
+    "10 Sources/Readwise/Articles/articles_Despite what you've been told, you aren't 'left-brained' or 'right-brained'  Amy Novotney  The Guardian.md": "11540868"
   },
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false

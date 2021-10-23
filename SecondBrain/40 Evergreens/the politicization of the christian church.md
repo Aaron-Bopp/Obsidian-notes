@@ -14,7 +14,7 @@ The modern church is focused on building a [[counter-culture]] movement that is 
 
 - [[Non-faith issues have been co-opted to keep people in the christian church]]
 	- ex: How [[Ronald Reagan invented modern conservatism]]
-	- [[The moral majority movement was the original 'making things political]]
+	- [[The moral majority movement was the original 'making things political']]
 - [[People have been conditioned to believe the bible has to be infallible]]
 	- ex: [[The bible is god breathed]]
 

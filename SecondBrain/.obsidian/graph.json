@@ -39,14 +39,14 @@
       "query": "tag:#topic/stub",
       "color": {
         "a": 1,
-        "rgb": 9663550
+        "rgb": 9079852
       }
     },
     {
       "query": "tag:#topic/term",
       "color": {
         "a": 1,
-        "rgb": 10639151
+        "rgb": 14655059
       }
     },
     {
@@ -72,7 +72,7 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 0.929356725146199,
   "lineSizeMultiplier": 0.404970760233918,
@@ -81,6 +81,6 @@
   "repelStrength": 12.5882352941176,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.27170351572515367,
-  "close": false
+  "scale": 0.2606277785672694,
+  "close": true
 }

@@ -17,5 +17,3 @@ tags: evergreen
 
 **Topics**:: [[Politics]], [[Christianity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

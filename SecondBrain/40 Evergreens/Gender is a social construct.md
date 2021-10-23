@@ -4,16 +4,22 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-22
-sr-interval: 4
-sr-ease: 270
+sr-due: 2021-11-09
+sr-interval: 17
+sr-ease: 290
 ---
 #### [[Gender is a social construct]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+[[Our understanding of gender begins at a very early age]] and [[Gender has a scientific basis]] show the methods through which we have preserved [[gender roles]] through our [[socialization]]
+
+This is why:
+- [[Every person has an experience of gender]]
+- [[Gender is both an intrinsic experience and an necessary expression]]
+- [[Any experience of gender is acceptable]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[gender]], [[human experience]], [[Psychology]]

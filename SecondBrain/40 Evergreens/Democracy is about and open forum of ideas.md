@@ -4,13 +4,15 @@ aliases:
 - 
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-22
-sr-interval: 4
-sr-ease: 270
+sr-due: 2021-11-11
+sr-interval: 19
+sr-ease: 290
 ---
 #### [[Democracy is about and open forum of ideas]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 #TO/EXPLORE/RESEARCH 
+
+[[tweets_Tweets From Visa Is Stretching|@visakanv on Twitter]] is an example of how effective an open forum of ideas can be. 
 
 ### <hr class="footnote"/>
 

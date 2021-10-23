@@ -4,15 +4,15 @@ aliases:
 - worldviews that make life seems easy and simple
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-22
-sr-interval: 1
+sr-due: 2021-10-26
+sr-interval: 3
 sr-ease: 208
 ---
 #### [[Worldviews are wrong if they make life seem easy and simple]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-The pursuit of [[self-actualization]] is different for every person. #TO/DO/CONCEPTUALIZE ==For some it will be very difficult to fit their [[self|identity]] into the world around, so they will be force to struggle through and find purpose and meaning in that journey, but others will fit in easily and never fully understand themselves. ==These people are disadvantaged because they are taught to be ignorant of struggle. 
+If a worldview makes life seem easy, it will shape the way you view people of struggle (e.g. [[Being a part of the marginalizing group deprives you understanding of marginalized people]]) The pursuit of [[self-actualization]] is different for every person, but if you aren't part of a [[marginalized]] group and your worldview tells you that all you need to do is one simple thing, you will view those people as lazy or wrong.
 
-This is seen in [[individualism|individualistic]] cultures like [[America]], and in worldviews that are focused on salvation and not [[self-improvement]] ([[Christianity]]). [[The actual work of being a good person isn't explored by Christianity]]
+This is especially seen in [[individualism|individualistic]] cultures like [[America]], and in worldviews that are focused on salvation and not [[self-improvement]] ([[Christianity]]). [[The actual work of being a good person isn't explored by Christianity]]
 
 ### <hr class="footnote"/>
 

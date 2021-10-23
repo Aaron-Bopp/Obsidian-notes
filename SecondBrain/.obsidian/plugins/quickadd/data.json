@@ -153,16 +153,16 @@
             "type": "Capture",
             "command": false,
             "appendLink": false,
-            "captureTo": "SecondBrain/TopicNotes/{{VALUE}}",
+            "captureTo": "30 Topics/{{Value}}",
             "captureToActiveFile": false,
             "createFileIfItDoesntExist": {
               "enabled": true,
               "createWithTemplate": false,
-              "template": "Templates/Templates/TERM.md"
+              "template": ""
             },
             "format": {
               "enabled": true,
-              "format": "{{TEMPLATE:Templates/Templates/META.md}} \ntags: topic/term\n---\n<% tp.system.clipboard() %> [^1]\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n\n[^1]: {{LINKCURRENT}}\n"
+              "format": "{{TEMPLATE:00 Meta/Templates/META.md}} \ntags: topic/term\n---\n<% tp.system.clipboard() %> [^1]\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n\n[^1]: {{LINKCURRENT}}\n"
             },
             "insertAfter": {
               "enabled": false,
@@ -237,12 +237,12 @@
             "type": "Capture",
             "command": false,
             "appendLink": false,
-            "captureTo": "SecondBrain/TopicNotes/{{VALUE}}",
+            "captureTo": "30 Topics/{{VALUE}}.md",
             "captureToActiveFile": false,
             "createFileIfItDoesntExist": {
               "enabled": true,
               "createWithTemplate": true,
-              "template": "Templates/Templates/TERM.md"
+              "template": "00 Meta/Templates/STUB.md"
             },
             "format": {
               "enabled": false,

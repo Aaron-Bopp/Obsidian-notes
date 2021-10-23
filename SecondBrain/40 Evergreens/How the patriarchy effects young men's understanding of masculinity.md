@@ -4,14 +4,19 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 -
-sr-due: 2021-10-22
-sr-interval: 2
+sr-due: 2021-10-28
+sr-interval: 5
 sr-ease: 210
 ---
 #### [[How the patriarchy effects young men's understanding of masculinity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-According to <u>The Bullied Boy,</u> an article by Paul Horton, [[masculinism]] is what leads many young boys to bullying. [[Masculinism]] is the belief that a male is supposed to be dominant, and this trait is common in school boys. He says," For boys, then, the question is not whether to take on a typical male sex role, but rather how to position themselves according to the masculine discourses available to them" (Horton, 2018). #TO/DO/REFERENCE from highlights
+> Those people who speak of masculinity as an essence, as an inborn characteristic, are confusing masculinity with masculinism, the masculine ideology. Masculinism is the ideology that justifies and naturalizes male domination.
+> 
+> -- [[articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying|Arthur Brittan]]
 
+> For boys, then, the question is not whether to take on a typical male sex role, but rather how to position themselves according to the masculine discourses available to them."
+> 
+> -- [[articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying#^v80gth|Paul Horton]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

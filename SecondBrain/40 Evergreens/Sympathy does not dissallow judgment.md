@@ -3,9 +3,9 @@ created: 2021-06-28
 cssclass: evergreen
 tags: evergreen
 
-sr-due: 2021-10-22
-sr-interval: 3
-sr-ease: 250
+sr-due: 2021-10-25
+sr-interval: 2
+sr-ease: 230
 ---
 
 #### [[Sympathy does not dissallow judgment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

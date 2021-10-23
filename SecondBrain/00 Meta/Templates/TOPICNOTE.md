@@ -7,7 +7,7 @@ tags: topic/outline
 **See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### [[README]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+##### [[<% tp.file.title %>]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 
 

@@ -3,6 +3,9 @@ created: 2021-06-15
 cssclass: evergreen
 tags: evergreen
 
+sr-due: 2021-10-24
+sr-interval: 1
+sr-ease: 222
 ---
 
 #### [[Your anxiety knows your insecurities better than you do]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -16,7 +19,7 @@ For example, people who are mentally handicapped often have very deep [[anxiety]
 You can also experience large amounts of [[anxiety]] if your identity is severely repressed. ([[Identity is your understanding of yourself and your interaction with the world]]) If you do not have an accurate identity, then you will be feeling things without understanding them. This will generate a large amount of [[anxiety]] because you do not understand the sources of the feelings well enough to predict when and understand why they happen. This can happen with a lot with people who have not discovered they are [[transgender]] or even with people who are not allowed to interact with the world how they want to.
 
 
----
+### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT/WATER 
 *edited `=this.file.mtime`*

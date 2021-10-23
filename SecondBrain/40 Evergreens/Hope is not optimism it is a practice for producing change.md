@@ -9,7 +9,7 @@ sr-interval: 5
 sr-ease: 270
 ---
 
-#### [[Hope is not optimisim it is a practice for producing change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Hope is not optimism it is a practice for producing change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 If you can find [[hope]] within yourself or within other people its all worth it
 

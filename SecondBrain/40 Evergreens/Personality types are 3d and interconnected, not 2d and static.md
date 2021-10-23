@@ -4,8 +4,8 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-22
-sr-interval: 3
+sr-due: 2021-11-01
+sr-interval: 9
 sr-ease: 250
 ---
 #### [[Personality types are 3d and interconnected, not 2d and static]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -23,5 +23,10 @@
   "block-reference-count",
   "hotkey-helper",
   "readwise-official",
-  "obsidian-another-quick-switcher"
+  "obsidian-another-quick-switcher",
+  "obsidian-pandoc",
+  "note-refactor-obsidian",
+  "obsidian-style-settings",
+  "obsidian-linter",
+  "better-word-count"
 ]
