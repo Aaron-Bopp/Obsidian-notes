@@ -9,13 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md",
+            "file": "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
             "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "fb32aaab0a4e81f2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "fb32aaab0a4e81f2",
               "group": null,
@@ -96,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md",
+                "file": "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md",
+                "file": "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md"
+                "file": "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md"
               }
             },
             "pane-relief:history-v1": {
@@ -219,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md",
+                "file": "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -349,6 +355,7 @@
   },
   "active": "fb32aaab0a4e81f2",
   "lastOpenFiles": [
+    "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
     "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md",
     "SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md",
     "SecondBrain/EvergreenNotes/How ADHD effects concentration.md",
@@ -357,7 +364,6 @@
     "SecondBrain/TopicNotes/hyperfocus.md",
     "SecondBrain/EvergreenNotes/ADHD reduces working memory.md",
     "SecondBrain/EvergreenNotes/Humans yearn for a tool with no blood on it.md",
-    "SecondBrain/Primary Sources/Classes/Discrete Math/BB Homework 7 soln.pdf",
-    "SecondBrain/Primary Sources/Classes/Discrete Math/MargaretFleckUIUCDiscreteMathwhole-book.pdf"
+    "SecondBrain/Primary Sources/Classes/Discrete Math/BB Homework 7 soln.pdf"
   ]
 }

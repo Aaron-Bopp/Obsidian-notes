@@ -38,12 +38,12 @@
     {
       "path": "/",
       "date": "2021-10-23",
-      "size": 2100652
+      "size": 2098912
     },
     {
       "path": "SecondBrain",
       "date": "2021-10-23",
-      "size": 2087667
+      "size": 2085927
     },
     {
       "path": "SecondBrain/TopicNotes",
@@ -58,7 +58,7 @@
     {
       "path": "SecondBrain/ContentNotes",
       "date": "2021-10-23",
-      "size": 823594
+      "size": 598060
     },
     {
       "path": "SecondBrain/Primary Sources/Qoutes",
@@ -192,7 +192,7 @@
         },
         {
           "date": "2021-10-23",
-          "value": 855
+          "value": 2595
         }
       ]
     },
@@ -321,7 +321,7 @@
         },
         {
           "date": "2021-10-23",
-          "value": 2727
+          "value": 4467
         }
       ]
     },
@@ -708,7 +708,7 @@
         },
         {
           "date": "2021-10-23",
-          "value": 36
+          "value": 225570
         }
       ]
     },
