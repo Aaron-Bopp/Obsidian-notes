@@ -1,0 +1,1 @@
+##### [[TOPIC_OUTLINE_HEADER]] `=length(this.file.inlinks)` 

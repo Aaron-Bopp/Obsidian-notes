@@ -38,27 +38,27 @@
     {
       "path": "/",
       "date": "2021-10-23",
-      "size": 2100575
+      "size": 2059306
     },
     {
       "path": "SecondBrain",
       "date": "2021-10-23",
-      "size": 2087590
+      "size": 0
     },
     {
       "path": "SecondBrain/TopicNotes",
       "date": "2021-10-23",
-      "size": 81773
+      "size": 0
     },
     {
       "path": "SecondBrain/EvergreenNotes",
       "date": "2021-10-23",
-      "size": 203283
+      "size": 0
     },
     {
       "path": "SecondBrain/ContentNotes",
       "date": "2021-10-23",
-      "size": 598552
+      "size": 0
     },
     {
       "path": "SecondBrain/Primary Sources/Qoutes",
@@ -192,7 +192,7 @@
         },
         {
           "date": "2021-10-23",
-          "value": 8878
+          "value": 50147
         }
       ]
     },
@@ -321,7 +321,7 @@
         },
         {
           "date": "2021-10-23",
-          "value": 10750
+          "value": 2098340
         }
       ]
     },
@@ -450,7 +450,7 @@
         },
         {
           "date": "2021-10-23",
-          "value": 927
+          "value": 82700
         }
       ]
     },
@@ -579,7 +579,7 @@
         },
         {
           "date": "2021-10-23",
-          "value": 7788
+          "value": 211071
         }
       ]
     },
@@ -708,7 +708,7 @@
         },
         {
           "date": "2021-10-23",
-          "value": 226062
+          "value": 824614
         }
       ]
     },
