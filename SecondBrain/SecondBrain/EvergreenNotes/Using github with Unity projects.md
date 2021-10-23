@@ -4,8 +4,8 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-22
-sr-interval: 3
+sr-due: 2021-11-03
+sr-interval: 11
 sr-ease: 250
 ---
 #### [[Using github with Unity projects]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,7 +20,7 @@ sr-ease: 250
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/WATER 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Unity (game engine)]], [[Software Development]]

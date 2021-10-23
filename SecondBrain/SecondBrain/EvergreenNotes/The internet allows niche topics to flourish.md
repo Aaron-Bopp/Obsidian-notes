@@ -4,8 +4,8 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-22
-sr-interval: 3
+sr-due: 2021-11-02
+sr-interval: 10
 sr-ease: 250
 ---
 
@@ -18,9 +18,10 @@ It has also allowed for a culture shift, where previously niche topics like [[Du
 
 [[Tiktok]] and it's algorithm based method of delivering content allows people to easily connect to people with similar interests to them.
 
+#TO/DO/CONCEPTUALIZE [We're Thinking About Facebook Wrong - YouTube](https://www.youtube.com/watch?v=EJtNmd1kV44) connection
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT/CULTIVATE 
+**Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
 **Topics**:: [[internet]], [[mass media]], [[inter-personal communication]], [[human advancement]]

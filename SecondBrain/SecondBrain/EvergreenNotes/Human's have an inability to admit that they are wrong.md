@@ -3,8 +3,8 @@ created: 2021-06-12
 cssclass: evergreen
 tags: evergreen
 date modified: Monday, October 18th 2021, 11:16:49 pm
-sr-due: 2021-10-22
-sr-interval: 2
+sr-due: 2021-10-28
+sr-interval: 5
 sr-ease: 239
 ---
 
@@ -14,7 +14,7 @@ Once the [[subconscious|ego]] has internalized a belief as true it will work ver
 
 The fundamental [[Neuroscience|neurological]] process behind this is [[Rationalizations are defense-mechanisms against strong emotions]]
 
-It is a reason for [[Conservatism|Conservatives]] [[cognitive dissonance]]
+It is a reason for [[Conservatism|Conservatives]] [[cognitive dissonance]] #TO/PONDER/SOCIETY [[is everyone experiencing some form of cognitive dissonance as part of being a human]]?
 
 This will sometimes lead to [[Human's will find explanations for inexplainable things|humans finding explanations for inexplainable things]]
 

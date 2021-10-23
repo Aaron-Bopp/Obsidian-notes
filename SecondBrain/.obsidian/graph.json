@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "path:SecondBrain -path:content -file:UNCREATEDNOTES  -path:primary",
+  "collapse-filter": true,
+  "search": "path:SecondBrain  -path:Primary -file:UNCREATEDNOTES  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -8,17 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#topic/term",
+      "query": "tag:person",
       "color": {
         "a": 1,
-        "rgb": 8865057
-      }
-    },
-    {
-      "query": "tag:#topic/tool",
-      "color": {
-        "a": 1,
-        "rgb": 11480218
+        "rgb": 4857579
       }
     },
     {
@@ -36,31 +29,45 @@
       }
     },
     {
+      "query": "tag:#topic/tool",
+      "color": {
+        "a": 1,
+        "rgb": 11480218
+      }
+    },
+    {
       "query": "tag:#topic/stub",
       "color": {
         "a": 1,
-        "rgb": 2163065
+        "rgb": 9663550
+      }
+    },
+    {
+      "query": "tag:#topic/term",
+      "color": {
+        "a": 1,
+        "rgb": 10639151
       }
     },
     {
       "query": "tag:#topic/technique",
       "color": {
         "a": 1,
-        "rgb": 10692905
+        "rgb": 10693903
       }
     },
     {
-      "query": "tag:person",
+      "query": "tag:#topic/outline",
       "color": {
         "a": 1,
-        "rgb": 4857579
+        "rgb": 7618822
       }
     },
     {
-      "query": "tag:#topic",
+      "query": "path:SecondBrain/ContentNotes",
       "color": {
         "a": 1,
-        "rgb": 8080665
+        "rgb": 5138143
       }
     }
   ],
@@ -68,12 +75,12 @@
   "showArrow": false,
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 0.777352941176471,
-  "lineSizeMultiplier": 0.287352941176471,
+  "lineSizeMultiplier": 0.352573099415205,
   "collapse-forces": false,
   "centerStrength": 0.417647058823529,
   "repelStrength": 12.5882352941176,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.0497022341830688,
+  "scale": 0.7487268467027498,
   "close": false
 }

@@ -19,8 +19,6 @@ date modified: Monday, October 4th 2021, 12:40:55 am
 	- lack of [[self-worth]]
 	- Acutely aware of [[social discomfort]]
 		- [[Anxiety should be a tool at your disposal not an impedance to your life]]
-	- For me
-		- [[My self-image is purely based on other's perceptions of me]]
 - Causes
 	- [[Your insecurity is just more avenues for your anxiety to take advantage of]]
 		- [[Your anxiety knows your insecurities better than you do]]

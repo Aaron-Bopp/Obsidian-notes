@@ -1,5 +1,4 @@
----
-created: 2021-06-11
+We're Thinking About Facebook Wrong - YouTube06-11
 note-type:
 - personal-note
 aliases:
@@ -21,6 +20,12 @@ Am I dissasociating? Am I just dramatic? Is imagining people reading this after 
 Everything is a lie. Everthing is true
 
 pain
+### 2021-6-11
+My self-image is purely based on other's perceptions of me
+
+This is a bit part of [[My relationship with my parents]]. From an early age, [[Self-hatred is born out of dissonance between self-image and self-perception]] caused me to not trust my own experience of the world because as a [[transgender|trans]] person, my [[self-image]] or [[my gender]] was wholly different than the [[gender]] that was expected of me.
+
+This really impacted my [[social anxiety]] because [[Your anxiety knows your insecurities better than you do]].
 ### 2021-5-31
 You're never sure you're [[transgender|trans]]. I heard that in a [[tiktok]] today. I don't think you admit that you're [[transgender|trans]]. It's not a decision. You don't even really discover it. You just one day realize that you're a girl, and it makes total sense. That part is so obvious that it doesn't feel real. It feels like a dream that you can't achieve, and the process of achieving it is the difficult part
 ### 2021-05-29 6:52 pm

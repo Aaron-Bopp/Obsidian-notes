@@ -12,7 +12,6 @@ aliases:
 
 ##### [[self-image]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Self-hatred is born out of dissonance between self-image and self-perception]]
-- [[My self-image is purely based on other's perceptions of me]]
 - ![[self-hate#self-hate customJS dv_funcs topicOutlineHeader dv this]]
 - ![[self-love#self-love customJS dv_funcs topicOutlineHeader dv this]]
 

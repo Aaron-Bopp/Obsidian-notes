@@ -2,11 +2,14 @@
 created: 2021-06-03
 cssclass: evergreen
 tags: evergreen
+sr-due: 2021-10-26
+sr-interval: 3
+sr-ease: 257
 ---
 
 #### [[I thought negative emotions were natural and that positive emotions weren't real]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-I think from an early age I had many sources of negative feedback for things that made me feel like who I was supposed to be was unnatural ([[My self-image is purely based on other's perceptions of me]]). Whether it was getting my hair cut short, or feeling a rush of testosterone when playing sports or being competitive,I didn't like the things that I was supposed to according to my assigned [[gender]] ([[Self-hatred is born out of dissonance between self-image and self-perception]], [[Gender Dysphoria is based in a intrinsic wrongness of self]]). Things that did make me feel good were discouraged and so I tried to repress to feeling and urges and in the process repressed most of my emotions. 
+I think from an early age I had many sources of negative feedback for things that made me feel like who I was supposed to be was unnatural. Whether it was getting my hair cut short, or feeling a rush of testosterone when playing sports or being competitive,I didn't like the things that I was supposed to according to my assigned [[gender]] ([[Self-hatred is born out of dissonance between self-image and self-perception]], [[Gender Dysphoria is based in a intrinsic wrongness of self]]). Things that did make me feel good were discouraged and so I tried to repress to feeling and urges and in the process repressed most of my emotions. 
 
 [[An unfulfilled need for validation results in a fear of rejection]]
 

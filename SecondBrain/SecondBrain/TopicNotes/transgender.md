@@ -4,6 +4,7 @@ cssclass: topic
 tags: topic/outline
 aliases:
 - trans
+- transness
 ---
 
 **See**:: [[Queer]]

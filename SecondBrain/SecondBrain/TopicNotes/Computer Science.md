@@ -11,7 +11,19 @@ tags: topic/outline
 
 ##### [[Computer Science]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
-- 
+- [[Operating Systems]]
+	- [[Monolithic vs Micro Kernels]]
+	- [[Using multiple processes vs multiple threads]]
+	- Terms
+		- [[Kernel Space]]
+- [[Software Development]]
+	- Tools
+		- [[Unity (game engine)]]
+			- [[Using github with Unity projects]]
+- [[programming]]
+	- Cheatsheets
+		- [[Regex]]
+		- [[C (programming language)]]
 
 ### <hr class="dataviews"/>
 

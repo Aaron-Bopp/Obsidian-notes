@@ -13,11 +13,11 @@ This is a constantly updated index of entry points and topics for my personal fl
 
 # Entry Points
 
-- [[QUICKNOTE]]
+- [[NOW]]
+- [[TODO]]
+	- [[KANBAN]]
+	- [[QUICKNOTE]]
 - [[Journal]]
-- [[SecondBrain/OrganizationalNotes/TODO]]
-	- [[my TO(DO) and EVER(GREEN) structure]]
-	- [[RELATED-TOPICS]]
 - Forest
 	- [[EvergreenNotes]]
 	- [[EVERSPROUTS]]
@@ -44,7 +44,8 @@ This is a constantly updated index of entry points and topics for my personal fl
 	 - ![[personal knowledge management#personal knowledge management customJS dv_funcs topicOutlineHeader dv this]]
 - 
 	 - ![[Christianity#Christianity customJS dv_funcs topicOutlineHeader dv this]]
-
+-
+	- ![[Computer Science#Computer Science customJS dv_funcs topicOutlineHeader dv this]]
 # Notes not in outline
 ```dataviewjs
 const {dv_funcs} = customJS

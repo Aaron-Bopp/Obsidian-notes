@@ -18,8 +18,7 @@
     "multilineCardSeparator": "A::",
     "multilineReversedCardSeparator": "??",
     "tagsToReview": [
-      "#evergreen",
-      "#EVER/SEED/UNPLANTED"
+      "#evergreen"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,
@@ -33,6 +32,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2021-10-20",
+  "buryDate": "2021-10-23",
   "buryList": []
 }

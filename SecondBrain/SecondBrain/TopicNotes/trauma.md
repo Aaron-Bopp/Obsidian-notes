@@ -17,7 +17,7 @@ date modified: Sunday, October 3rd 2021, 4:45:38 pm
 - [[early childhood development]]
 - ![[religious trauma#religious trauma customJS dv_funcs topicOutlineHeader dv this]]
 - Defense mechanisms
-	- [[Explaining emotion can just be a way of escaping the situation]]
+	- [[Rationalizations are defense-mechanisms against strong emotions]]
 
 
 ### <hr class="dataviews"/>

@@ -4,53 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fb32aaab0a4e81f2",
+        "id": "81a8f16e1d190b04",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
-            "mode": "source"
+            "file": "SecondBrain/ContentNotes/Enneagram/articleHow The System Works — The Enneagram Institute.md",
+            "mode": "preview"
           }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "fb32aaab0a4e81f2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "fb32aaab0a4e81f2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "120120abff4c43f8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "120120abff4c43f8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":34},\"to\":{\"line\":33,\"ch\":34}},\"scroll\":25.27643784786642}"
-            }
-          ]
         }
       }
     ],
@@ -71,10 +32,6 @@
             "state": {
               "type": "file-explorer",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -83,17 +40,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:ContentNotes trans children kids",
-                "matchingCase": true,
+                "query": "tag:#TO/DO/CONCEPTUALIZE",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -102,7 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
+                "file": "SecondBrain/ContentNotes/Enneagram/articleHow The System Works — The Enneagram Institute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,10 +64,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -123,14 +72,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
+                "file": "SecondBrain/ContentNotes/Enneagram/articleHow The System Works — The Enneagram Institute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -142,10 +87,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -154,12 +95,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md"
+                "file": "SecondBrain/ContentNotes/Enneagram/articleHow The System Works — The Enneagram Institute.md"
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -168,10 +105,6 @@
             "state": {
               "type": "dictionary-view",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -180,10 +113,17 @@
             "state": {
               "type": "recent-files",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
+            }
+          },
+          {
+            "id": "40c3db24ceb2992e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SecondBrain/OrganizationalNotes/RECENTLY-MODIFIED.md",
+                "mode": "preview"
+              }
             }
           }
         ]
@@ -199,10 +139,6 @@
             "state": {
               "type": "starred",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ]
@@ -225,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
+                "file": "SecondBrain/ContentNotes/Enneagram/articleHow The System Works — The Enneagram Institute.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -312,14 +248,10 @@
                   "repelStrength": 15.2235294117647,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.5988953248992537,
+                  "scale": 0.4271773399299332,
                   "close": true
                 }
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -328,10 +260,6 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           },
           {
@@ -340,30 +268,26 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 1001.5,
+    "width": 913.4530639648438,
     "collapsed": true
   },
-  "active": "fb32aaab0a4e81f2",
+  "active": "81a8f16e1d190b04",
   "lastOpenFiles": [
-    "SecondBrain/Primary Sources/gender-dysphoria-bible/0 That's Gender Dysphoria, FYI.md",
-    "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md",
-    "SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md",
-    "SecondBrain/EvergreenNotes/How ADHD effects concentration.md",
-    "SecondBrain/ContentNotes/tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with.md",
-    "SecondBrain/EvergreenNotes/ADHD is primarily an executive function disorder.md",
-    "SecondBrain/TopicNotes/hyperfocus.md",
+    "SecondBrain/ContentNotes/Enneagram/articleHow The System Works — The Enneagram Institute.md",
+    "SecondBrain/EvergreenNotes/Collecting Thought with a Second Brain.md",
     "SecondBrain/EvergreenNotes/ADHD reduces working memory.md",
-    "SecondBrain/EvergreenNotes/Humans yearn for a tool with no blood on it.md",
-    "SecondBrain/Primary Sources/Classes/Discrete Math/BB Homework 7 soln.pdf"
+    "SecondBrain/EvergreenNotes/ADHD is primarily an executive function disorder.md",
+    "SecondBrain/EvergreenNotes/Accepting responsibility is not only about your actions.md",
+    "SecondBrain/TopicNotes/Acting.md",
+    "SecondBrain/TopicNotes/Abolition.md",
+    "SecondBrain/TopicNotes/gender non-comformity.md",
+    "SecondBrain/ContentNotes/Pyschology of Race and Gender notes.md",
+    "SecondBrain/ContentNotes/Can We Talk About Whiteness NPR One.md"
   ]
 }
