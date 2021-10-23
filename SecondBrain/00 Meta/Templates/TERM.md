@@ -1,5 +1,4 @@
----
-created: 2021-10-23
+<% tp.file.include("[[META]]") %>
 aliases:
 - 
 tags: topic/term

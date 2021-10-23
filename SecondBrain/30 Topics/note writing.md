@@ -19,7 +19,7 @@ tags: topic/outline
 - Note taxonomy
 	- [[Term notes]]
 	- [[evergreen notes]]
-	- [[content note]]
+	- [[source note]]
 	- [[topic note]]
 - How to write notes
 	- [[write what you think]]

@@ -1,21 +1,11 @@
 ---
 created: 2021-07-21
 cssclass: topic
-tags: topic/outline
+tags: topic/term
 aliases:
 - 
 ---
 
 **See**:: [[mental disorders]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-##### [[depression]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
- - Sometimes caused by
-	- [[gender dysphoria]]
-- [[Sadness is enlightenment and happiness is delusion]]
-
-### <hr class="dataviews"/>
-
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
-
 

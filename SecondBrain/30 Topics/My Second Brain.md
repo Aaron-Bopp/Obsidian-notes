@@ -27,7 +27,7 @@ Since March 2021 I have become very interested in [[personal knowledge managemen
 	- How is this different than a [[Zettlekassen]]?
 - Organization
 	- [[Capture your fleeting thoughts]]
-	- What is a [[content note]]?
+	- What is a [[source note]]?
 	- What is a [[evergreen notes]]?
 	- What is a [[topic note]]?
 	- [[organizational notes]]

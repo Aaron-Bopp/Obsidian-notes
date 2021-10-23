@@ -1,9 +1,15 @@
-We're Thinking About Facebook Wrong - YouTube06-11
+---
+2021-06-11
 note-type:
 - personal-note
 aliases:
 -
 ---
+## October
+### 2021-10-23 4:10am
+I've started using [[Spaced Repetition (plugin)]] to review the notes in my vault and its been going really well. I'm slowly making progress through my notes. I think it helps a lot with getting notes in my memory so that I can remember them when I need them, but we'll see how that goes as I get through my other 200 notes. I've also been making a lot of updates to my vault. Part of this was just because I discovered the search and replace tool on visual studio code, but it's also because I've just been excited to work in my vault. I've been thinking a lot about the structure (and come to the conclusion that it doesn't really matter), and have made some changes that reduce my stress while in the vault. I'm trying to use my entry points more and keep track of everything, but spaced repetition is the biggest thing.
+
+## August
 ### 2021-8-25
 What is the use of my intelligence if I can never find the answer? What is the use of my knowledge if I can never apply it? What is the use of my brain if it is riddled with chemical imbalances? I'm scared that one day I will finally realize that [[suicide]] has been the only reasonable option all along. What will happen when I grow tired of searching for the answers? I feel like a mad man. I'm so confused. I'm so incredibly confused and I think that hurts the most to say. What is the point... What is the god damn point.
 
@@ -20,12 +26,14 @@ Am I dissasociating? Am I just dramatic? Is imagining people reading this after 
 Everything is a lie. Everthing is true
 
 pain
+## June
 ### 2021-6-11
 My self-image is purely based on other's perceptions of me
 
-This is a bit part of [[My relationship with my parents]]. From an early age, [[Self-hatred is born out of dissonance between self-image and self-perception]] caused me to not trust my own experience of the world because as a [[transgender|trans]] person, my [[self-image]] or [[my gender]] was wholly different than the [[gender]] that was expected of me.
+This is a bit part of [[My relationship with my parents]]. From an early age, [[Self-hatred is born out of dissonance between self-image and self-perception]] caused me to not trust my own experience of the world because as a [[transgender|trans]] person, my [[self-image]] or my gender was wholly different than the [[gender]] that was expected of me.
 
 This really impacted my [[social anxiety]] because [[Your anxiety knows your insecurities better than you do]].
+## May
 ### 2021-5-31
 You're never sure you're [[transgender|trans]]. I heard that in a [[tiktok]] today. I don't think you admit that you're [[transgender|trans]]. It's not a decision. You don't even really discover it. You just one day realize that you're a girl, and it makes total sense. That part is so obvious that it doesn't feel real. It feels like a dream that you can't achieve, and the process of achieving it is the difficult part
 ### 2021-05-29 6:52 pm
@@ -51,7 +59,7 @@ Just endure a few more decades, your life will be over soon.
 
 [[The injustice of endurance]]
 ### 2021-05-14 12:34 am
-I'm so confused. My brain just feels in a fog. I feel like the fog is emotion. I feel the fog is emotion I don't understand? Or maybe the fog isn't emotion, maybe the fog is my brain trying to find it's way through emotion. I can't think straight. I can't discover the source of this feeling. Why am I happy? Why do I feel like I could talk to people now? What is it about the last five days that has allowed me to feel this way and how do I replicate it? It feels good I think. I feels like I'm making progress, or is this just what my body needs. Is it the isolation and rest that is making me feel again, or is it the exploration of [[my gender]]? Or is it the reflection on my past when I was happy. Or is it the validation of my friends saying they [[love]] me. 
+I'm so confused. My brain just feels in a fog. I feel like the fog is emotion. I feel the fog is emotion I don't understand? Or maybe the fog isn't emotion, maybe the fog is my brain trying to find it's way through emotion. I can't think straight. I can't discover the source of this feeling. Why am I happy? Why do I feel like I could talk to people now? What is it about the last five days that has allowed me to feel this way and how do I replicate it? It feels good I think. I feels like I'm making progress, or is this just what my body needs. Is it the isolation and rest that is making me feel again, or is it the exploration of my gender? Or is it the reflection on my past when I was happy. Or is it the validation of my friends saying they [[love]] me. 
 
 [[What is my path to happiness]]? 
 

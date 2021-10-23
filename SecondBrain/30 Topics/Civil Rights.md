@@ -10,7 +10,7 @@ aliases:
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Civil Rights]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- ![[social Justice#social justice customJS dv_funcs topicOutlineHeader dv this]]
+- [[social justice]]
 - [[The injustice of endurance]]	
 - ![[Prison#Prison customJS dv_funcs topicOutlineHeader dv this]]
 ### <hr class="dataviews"/>

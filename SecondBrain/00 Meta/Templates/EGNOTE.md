@@ -1,5 +1,4 @@
 <% tp.file.include("[[META]]") %>
-cssclass: evergreen
 tags: evergreen
 ---
 <% tp.file.include("[[EVERGREEN_HEADER]]") %>

@@ -12,7 +12,7 @@ aliases:
 
 enlightenment, [[liberation]], [[Self]]-Realization, God-Realization, nirvikalpa samadhi and finally Moksha
 
-**See**:: 
+**See**:: [[Bhuddism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[enlightenment]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

@@ -13,7 +13,7 @@ date modified: Sunday, October 3rd 2021, 11:32:52 pm
  the ways in which society conveys to the individual its expectations for their behavior
 Social fitness is a big part of [[human survival]] and [[human advancement]]
 
-**See**:: `$=customJS.dv_funcs.outlinedIn(dv, this)`
+**See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[socialization]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`

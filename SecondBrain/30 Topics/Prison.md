@@ -12,8 +12,8 @@ This topic serves as a bride between [[Prison abolition]] and the [[prison-indus
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 ##### [[Prison]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- ![[Prison abolition#Prison abolition customJS dv_funcs topicOutlineHeader dv this]]
-- ![[prison-industrial complex#prison-industrial complex customJS dv_funcs topicOutlineHeader dv this]]
+- [[prison-industrial complex]]
+- [[Prison abolition]]
 
 ### <hr class="dataviews"/>
 

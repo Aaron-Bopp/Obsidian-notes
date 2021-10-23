@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "081fdd3b6badf988",
+        "id": "ef8f7b291b57e1b7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER/SEED/UNPLANTED",
+                "query": "tag:#topic/stub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -52,6 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -68,6 +72,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,6 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -248,27 +254,30 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 913.4530639648438,
     "collapsed": true
   },
-  "active": "081fdd3b6badf988",
+  "active": "ef8f7b291b57e1b7",
   "lastOpenFiles": [
-    "20 Entry/UNCREATEDNOTES.md",
-    "40 Evergreens/Mental illness is a reaction to ones environment.md",
-    "40 Evergreens/Happiness is enlightenment and sadness is delusion.md",
-    "40 Evergreens/Gender is a social construct.md",
-    "40 Evergreens/Early childhood trauma causes us to make wide assumptions about the world.md",
-    "40 Evergreens/American's are scared of the word communism not it's meaning.md",
-    "40 Evergreens/Faith can be a useful tool for grounding yourself.md",
-    "40 Evergreens/Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group.md",
-    "10 Sources/Readwise/Articles/articles_Highlights From pages.cs.wisc.edu.md",
-    "10 Sources/Readwise/Articles/articles_Frequently Asked Questions about Transgender People  National Center for Transgender Equality.md"
+    "40 Evergreens/In order to for my parents to love me, they need to admit they might be wrong.md",
+    "40 Evergreens/Imitation is motivated authority figures.md",
+    "40 Evergreens/Dual.md",
+    "40 Evergreens/A inwardly judgementful and outwardly accepting home creates trust issues.md",
+    "30 Topics/panic attacks.md",
+    "30 Topics/Social media.md",
+    "30 Topics/mass media.md",
+    "30 Topics/subconscious.md",
+    "30 Topics/Revolt.md",
+    "30 Topics/Queer.md"
   ]
 }

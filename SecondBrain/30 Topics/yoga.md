@@ -1,7 +1,7 @@
 ---
 created: 2021-05-31
 cssclass: topic
-tags: topic/outline
+tags: topic/term
 aliases:
 - 
 ---
@@ -9,10 +9,3 @@ aliases:
 
 **See**:: [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-##### [[yoga]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- ![[meditation#meditation customJS dv_funcs topicOutlineHeader dv this]]
-
-### <hr class="dataviews"/>
-
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
