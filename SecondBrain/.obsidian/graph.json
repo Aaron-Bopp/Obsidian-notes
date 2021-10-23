@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:SecondBrain  -path:Primary -file:UNCREATEDNOTES  ",
+  "collapse-filter": false,
+  "search": "-path:\"00 Meta\" ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:SecondBrain/OrganizationalNotes",
+      "query": "path:\"20 Entry\"",
       "color": {
         "a": 1,
         "rgb": 16772608
@@ -64,7 +64,7 @@
       }
     },
     {
-      "query": "path:SecondBrain/ContentNotes",
+      "query": "path:Sources",
       "color": {
         "a": 1,
         "rgb": 5138143
@@ -74,13 +74,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 0.777352941176471,
-  "lineSizeMultiplier": 0.352573099415205,
+  "nodeSizeMultiplier": 0.929356725146199,
+  "lineSizeMultiplier": 0.404970760233918,
   "collapse-forces": false,
   "centerStrength": 0.417647058823529,
   "repelStrength": 12.5882352941176,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7487268467027498,
+  "scale": 0.13823239297884282,
   "close": false
 }

@@ -4,9 +4,6 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2022-05-11
-sr-interval: 203
-sr-ease: 250
 ---
 
 #### [[Mental illness is a reaction to ones environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

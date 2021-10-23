@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "4cdfa95c9ddc025d",
+        "id": "081fdd3b6badf988",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -37,10 +37,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/DO/CONCEPTUALIZE",
+                "query": "tag:#EVER/SEED/UNPLANTED",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
@@ -85,14 +85,6 @@
             }
           },
           {
-            "id": "17b4d267df1e074f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "0c769aef4d9945f1",
             "type": "leaf",
             "state": {
@@ -105,6 +97,14 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ed618201aa02df6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
@@ -229,8 +229,8 @@
                   "repelStrength": 15.2235294117647,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.4271773399299332,
-                  "close": true
+                  "scale": 0.11057000863431324,
+                  "close": false
                 }
               }
             }
@@ -244,10 +244,10 @@
             }
           },
           {
-            "id": "5ed618201aa02df6",
+            "id": "17b4d267df1e074f",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "outline",
               "state": {}
             }
           }
@@ -258,17 +258,17 @@
     "width": 913.4530639648438,
     "collapsed": true
   },
-  "active": "4cdfa95c9ddc025d",
+  "active": "081fdd3b6badf988",
   "lastOpenFiles": [
-    "SecondBrain/ContentNotes/Enneagram/articleHow The System Works — The Enneagram Institute.md",
-    "SecondBrain/EvergreenNotes/Collecting Thought with a Second Brain.md",
-    "SecondBrain/EvergreenNotes/ADHD reduces working memory.md",
-    "SecondBrain/EvergreenNotes/ADHD is primarily an executive function disorder.md",
-    "SecondBrain/EvergreenNotes/Accepting responsibility is not only about your actions.md",
-    "SecondBrain/TopicNotes/Acting.md",
-    "SecondBrain/TopicNotes/Abolition.md",
-    "SecondBrain/TopicNotes/gender non-comformity.md",
-    "SecondBrain/ContentNotes/Pyschology of Race and Gender notes.md",
-    "SecondBrain/ContentNotes/Can We Talk About Whiteness NPR One.md"
+    "20 Entry/UNCREATEDNOTES.md",
+    "40 Evergreens/Mental illness is a reaction to ones environment.md",
+    "40 Evergreens/Happiness is enlightenment and sadness is delusion.md",
+    "40 Evergreens/Gender is a social construct.md",
+    "40 Evergreens/Early childhood trauma causes us to make wide assumptions about the world.md",
+    "40 Evergreens/American's are scared of the word communism not it's meaning.md",
+    "40 Evergreens/Faith can be a useful tool for grounding yourself.md",
+    "40 Evergreens/Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group.md",
+    "10 Sources/Readwise/Articles/articles_Highlights From pages.cs.wisc.edu.md",
+    "10 Sources/Readwise/Articles/articles_Frequently Asked Questions about Transgender People  National Center for Transgender Equality.md"
   ]
 }
