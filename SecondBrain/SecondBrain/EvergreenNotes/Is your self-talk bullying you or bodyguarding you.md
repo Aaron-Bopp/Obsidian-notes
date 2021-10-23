@@ -2,7 +2,9 @@
 created: 2021-06-15
 cssclass: evergreen
 tags: evergreen
-
+sr-due: 2021-11-01
+sr-interval: 1
+sr-ease: 230
 ---
 
 #### [[Is your self-talk bullying you or bodyguarding you]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -19,6 +21,3 @@ With enough practice, you'll be able to tell if your [[self]]-talk is coming fro
 
 **Topics**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
-::

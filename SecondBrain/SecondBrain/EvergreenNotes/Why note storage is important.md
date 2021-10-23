@@ -4,13 +4,18 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
+sr-due: 2021-10-25
+sr-interval: 4
+sr-ease: 270
 ---
 
 #### [[Why note storage is important]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Systems change.
+Note storage determines how you can interact with your notes. If you would like to easily access your notes anywhere without hassle and have lots of easy interfaces to work with [[Evernote]], or [[Roam Research]] would be very good options, but if you would like to be able to use tools like [[Git]], scripting, or be able to access your notes from multiple different systems plaintext files are the best choice, and the best choice for plaintext files is [[Obsidian (software)]]
 
----
+Systems change. Security is important. You want ultimate control over your data.
+
+### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/WATER 
 *edited `=this.file.mtime`*

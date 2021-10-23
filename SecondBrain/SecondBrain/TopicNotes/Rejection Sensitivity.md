@@ -2,7 +2,7 @@
 created: 2021-10-19
 aliases:
 -  
-type: topic/term
+tags:  topic/term
 ---
 The tendency to anixously expect, readily perceive, and intensely react to rejection  [^1]
 

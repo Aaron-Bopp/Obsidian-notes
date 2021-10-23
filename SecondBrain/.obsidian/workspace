@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3dd7a414a8b402ff",
+        "id": "fb32aaab0a4e81f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SecondBrain/EvergreenNotes/Gender has a scientific basis.md",
+            "file": "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md",
             "mode": "source"
           }
         },
@@ -17,10 +17,32 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "3dd7a414a8b402ff",
+              "leaf": "fb32aaab0a4e81f2",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/Gender has a scientific basis.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "120120abff4c43f8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md",
+            "mode": "source"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "120120abff4c43f8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":34},\"to\":{\"line\":33,\"ch\":34}},\"scroll\":25.27643784786642}"
             }
           ]
         }
@@ -35,6 +57,7 @@
       {
         "id": "b378f0391f90b405",
         "type": "tabs",
+        "dimension": 70.62374245472837,
         "children": [
           {
             "id": "208d80cb45f52f85",
@@ -54,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"bullied boy\"",
+                "query": "path:ContentNotes trans children kids",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,9 +96,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Gender has a scientific basis.md",
+                "file": "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -94,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Gender has a scientific basis.md",
+                "file": "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Gender has a scientific basis.md"
+                "file": "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md"
               }
             },
             "pane-relief:history-v1": {
@@ -138,6 +161,37 @@
             "type": "leaf",
             "state": {
               "type": "dictionary-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "555e9b453997c003",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f1a94d152e7c645",
+        "type": "tabs",
+        "dimension": 29.376257545271628,
+        "children": [
+          {
+            "id": "688f422485480db5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
               "state": {}
             },
             "pane-relief:history-v1": {
@@ -165,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SecondBrain/EvergreenNotes/Gender has a scientific basis.md",
+                "file": "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -275,34 +329,10 @@
             }
           },
           {
-            "id": "23c3f6a4b3720cb5",
+            "id": "5ed618201aa02df6",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "5468347e831f0dcc",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "a7a08e597fc3c660",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
               "state": {}
             },
             "pane-relief:history-v1": {
@@ -317,17 +347,17 @@
     "width": 1001.5,
     "collapsed": true
   },
-  "active": "3dd7a414a8b402ff",
+  "active": "fb32aaab0a4e81f2",
   "lastOpenFiles": [
-    "SecondBrain/EvergreenNotes/Gender has a scientific basis.md",
-    "SecondBrain/TopicNotes/depression.md",
-    "SecondBrain/EvergreenNotes/How the patriarchy effects young men's understanding of masculinity.md",
-    "SecondBrain/TopicNotes/Masculinism.md",
-    "SecondBrain/TopicNotes/Masculinity.md",
-    "SecondBrain/EvergreenNotes/The danger of religious beliefs in early childhood.md",
-    "SecondBrain/TopicNotes/enlightenment.md",
-    "SecondBrain/EvergreenNotes/To be happy you need to not be sad.md",
-    "SecondBrain/EvergreenNotes/reconstruction.md",
-    "SecondBrain/EvergreenNotes/Mental illness is a reaction to ones environment.md"
+    "SecondBrain/EvergreenNotes/You can discover your transness at any point in life.md",
+    "SecondBrain/ContentNotes/textbook_Hyde&Elsequest_pyschology of women and gender.md",
+    "SecondBrain/EvergreenNotes/How ADHD effects concentration.md",
+    "SecondBrain/ContentNotes/tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with.md",
+    "SecondBrain/EvergreenNotes/ADHD is primarily an executive function disorder.md",
+    "SecondBrain/TopicNotes/hyperfocus.md",
+    "SecondBrain/EvergreenNotes/ADHD reduces working memory.md",
+    "SecondBrain/EvergreenNotes/Humans yearn for a tool with no blood on it.md",
+    "SecondBrain/Primary Sources/Classes/Discrete Math/BB Homework 7 soln.pdf",
+    "SecondBrain/Primary Sources/Classes/Discrete Math/MargaretFleckUIUCDiscreteMathwhole-book.pdf"
   ]
 }

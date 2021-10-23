@@ -28,7 +28,7 @@ Since March 2021 I have become very interested in [[personal knowledge managemen
 - Organization
 	- [[Capture your fleeting thoughts]]
 	- What is a [[content note]]?
-	- What is a [[permanent note]]?
+	- What is a [[evergreen notes]]?
 	- What is a [[topic note]]?
 	- [[organizational notes]]
 		- A [[SecondBrain/OrganizationalNotes/TODO]] list

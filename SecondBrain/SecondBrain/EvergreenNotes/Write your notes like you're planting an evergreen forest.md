@@ -2,19 +2,20 @@
 created: 2021-06-15
 cssclass: evergreen
 tags: evergreen
-
-sr-due: 2021-10-21
-sr-interval: 3
-sr-ease: 250
+sr-due: 2021-10-25
+sr-interval: 4
+sr-ease: 230
 ---
 
 #### [[Write your notes like you're planting an evergreen forest]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#TO/DO/REFACTOR this and [[write what you think]]
+Additionally, notes in a [[second brain]] are concept-oriented and atomic, meaning that they do not need to expansive or all encapturing. [[evergreen notes]] can be as small as a few sentences or as expansive as an entire breakdown of an idea.  
 
-You don't need to know how to cut down a forest when you start spreading seeds. All you need to start an evergreen forest is seeds ([[write what you think]]) and a place to plant them ([[Choosing a note writing system]]). 
+You don't need to know how to cut down a forest when you start spreading seeds. You will strike a balance between the stress of having an unorganized system and the stress of having to design your system. You will gain knowlege by writing anything. All you need to start an evergreen forest is seeds ([[write what you think]]) and a place to plant them ([[Choosing a note writing system]]). You do not need to fully understand the system when you start planting the forest.  While having an unattended forest can be very overwhelming it can also provide the knowledge and context you need in order to choose the correct system and while making a elaborate system can be fun it can also distract you from your work. 
 
-While you're forest won't be able to flourish without a good system that does not mean you need to fully understand the system when you start planting the forest. In fact becoming overwhelmed by the system is the number one reason that forests fail to grow. While having an unattended forest can be very overwhelming it can also provide the knowledge and context you need in order to choose the correct system.
+That being said, if you don't know what an evergreen forest looks like you don't know which kind of seeds to plant and how to foster them. Looking to examples and mentors is key in building a [[personal knowledge management|personal knowledge system]] because [[Learning systems can be a gateway to creating thought]].
 
-That being said, if you don't know what an evergreen forest looks like you don't know which kind of seeds to plant, and if you spend to much time is a system that won't be able to flourish in to an evergreen forest, you will be reluctant to switch. [[Learning systems can be a gateway to creating thought]]. This means that sometimes you won't be producing or storing anything until you start learning about a system that properly allow your brain to create output.
+If you spend to much time is a system that won't be able to flourish in to an evergreen forest, you will be reluctant to switch.  
 
 
 ### <hr class="footnote"/>

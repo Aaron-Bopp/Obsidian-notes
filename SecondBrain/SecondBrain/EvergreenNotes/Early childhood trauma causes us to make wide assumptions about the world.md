@@ -5,6 +5,9 @@ tags: evergreen
 aliases:
 - we make wide assumptions about the world
 - the wide assumptions we make in early childhood
+sr-due: 2021-10-22
+sr-interval: 2
+sr-ease: 245
 ---
 
 #### [[Early childhood trauma causes us to make wide assumptions about the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -13,9 +16,9 @@ aliases:
 
 Early [[childhood trauma]] can be the cause of many of many [[mental disorders]] such as [[anxiety]], [[depression]], [[dissociation]] disorders, and others. 
 
----
+### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[mental health]], [[early childhood development]], [[trauma]]

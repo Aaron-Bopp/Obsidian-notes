@@ -17,7 +17,7 @@ parent: [[mental health]]
 - [[social anxiety]]
 - [[depression]]
 - [[gender dysphoria]]
-- [[Depersonalization]]
+- [[depersonalization]]
 - [[dissociation]]
 
 ### <hr class="dataviews"/>

@@ -18,7 +18,8 @@
     "multilineCardSeparator": "A::",
     "multilineReversedCardSeparator": "??",
     "tagsToReview": [
-      "#evergreen"
+      "#evergreen",
+      "#EVER/SEED/UNPLANTED"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": false,

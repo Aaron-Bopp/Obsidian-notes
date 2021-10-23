@@ -129,6 +129,13 @@
       "type": "Macro",
       "command": false,
       "macroId": "cc8a0584-9c3c-49bd-8cf1-cb71501d856b"
+    },
+    {
+      "id": "de77a105-b7e7-4a0b-a6cb-fa401a89e176",
+      "name": "Stub",
+      "type": "Macro",
+      "command": false,
+      "macroId": "94d1f6fb-ce5a-4126-a261-f0474f8e4cc6"
     }
   ],
   "macros": [
@@ -155,7 +162,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "{{TEMPLATE:Templates/Templates/META.md}} \ntype: topic/term\n---\n<% tp.system.clipboard() %> [^1]\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n\n[^1]: {{LINKCURRENT}}\n"
+              "format": "{{TEMPLATE:Templates/Templates/META.md}} \ntags: topic/term\n---\n<% tp.system.clipboard() %> [^1]\n\n**See**::\n*`$=customJS.dv_funcs.outlinedIn(dv, this)`* \n\n[^1]: {{LINKCURRENT}}\n"
             },
             "insertAfter": {
               "enabled": false,
@@ -204,6 +211,52 @@
             },
             "appendLink": false,
             "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Stub",
+      "id": "94d1f6fb-ce5a-4126-a261-f0474f8e4cc6",
+      "commands": [
+        {
+          "name": "Stub",
+          "type": "NestedChoice",
+          "id": "950f8770-420b-4486-837b-7301f801929e",
+          "choice": {
+            "id": "499bb8c5-95cf-41fb-aa59-0d3f123e6f78",
+            "name": "Stub",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "SecondBrain/TopicNotes/{{VALUE}}",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": true,
+              "createWithTemplate": true,
+              "template": "Templates/Templates/TERM.md"
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
             "openFileInNewTab": {
               "enabled": false,
               "direction": "vertical",

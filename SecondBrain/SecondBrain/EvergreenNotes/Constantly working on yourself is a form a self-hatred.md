@@ -3,9 +3,9 @@ created: 2021-06-13
 cssclass: evergreen
 tags: evergreen
 date modified: Monday, October 18th 2021, 11:32:35 pm
-sr-due: 2021-10-21
-sr-interval: 3
-sr-ease: 254
+sr-due: 2021-10-31
+sr-interval: 10
+sr-ease: 274
 ---
 
 #### [[Constantly working on yourself is a form a self-hatred]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -16,7 +16,7 @@ If you can never be content that you are good enough, you are just looking for a
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-love]], [[self-hate]], [[self-improvement]]

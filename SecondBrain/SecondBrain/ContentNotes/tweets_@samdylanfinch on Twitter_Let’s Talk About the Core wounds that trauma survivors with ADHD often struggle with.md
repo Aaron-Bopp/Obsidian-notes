@@ -3,6 +3,8 @@ created: 2021-10-16
 tags: content
 type: 
 - tweets
+aliases:
+- "@samdylanfinch"
 ---
 ##### [[tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with]]
 
@@ -15,8 +17,8 @@ type:
 ## Highlights
 ![](https://pbs.twimg.com/media/FBqYm73UcAo0NlN.jpg)
 Let’s talk about the core wounds that trauma survivors with \#ADHD often struggle with. 💬[](https://twitter.com/samdylanfinch/status/1448638027505430540)
-###### 
-Many folks with \#ADHD have also experienced some kind of developmental trauma. We often see neglect and emotional abandonment especially when caregivers are unable (or unwilling) to offer competent support for their neurodivergent child. [](https://twitter.com/samdylanfinch/status/1448638192937168901)
+###### ^3p7r0d
+Many folks with \#ADHD have also experienced some kind of developmental trauma. We often see neglect and emotional abandonment especially when caregivers are unable (or unwilling) to offer competent support for their neurodivergent child. [](https://twitter.com/samdylanfinch/status/1448638192937168901) 
 ###### 
 The impact of this is so real. And as a coach and as someone who has lived with both, I’ve seen some common challenges that surface for \#ADHD survivors of trauma. [](https://twitter.com/samdylanfinch/status/1448638357135769606)
 ###### 

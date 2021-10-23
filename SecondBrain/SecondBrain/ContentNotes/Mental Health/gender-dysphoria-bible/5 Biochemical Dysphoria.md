@@ -14,12 +14,12 @@ author: Jocelyn Badgley
 
 The primary sexual features of the body begin development during the 8th week of human gestation. Typically by week 11 it is possible to determine the genitals of a fetus via ultrasound. The brain, however, forms [between weeks 14 and 24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/[[Sec5title]]). Current prevailing understanding of [[Neuroscience|neurological]] development suggests that it is during these 10 weeks when the brain will either masculinize or feminize based upon the presence of testosterone in the fetus bloodstream (initiated by the SRY gene on the Y chromosome, or introduced from other sources). ==This process locks the brain into a pattern of either desiring estrogens or androgens.==
 
-If your brain is wired for one gonadal hormones (such as testosterone) and your body produces the other hormone (such as estradiol), this can result in a biochemical malfunction within your brain chemistry. This produces a sort of brain fog, a reduction in mental capacity, and a general state of [[anxiety]] and unease. This is the source of the first two symptoms that often alleviate with medical hormonal therapy, [[Depersonalization]] and [[Derealization]] (DPDR).
+If your brain is wired for one gonadal hormones (such as testosterone) and your body produces the other hormone (such as estradiol), this can result in a biochemical malfunction within your brain chemistry. This produces a sort of brain fog, a reduction in mental capacity, and a general state of [[anxiety]] and unease. This is the source of the first two symptoms that often alleviate with medical hormonal therapy, [[depersonalization]] and [[derealization]] (DPDR).
 
-[[Def]] **[[Depersonalization]]** -> a disconnect from your own body, an inability to believe that the person you see in the mirror is actually yourself.  ^f732ac
+[[Def]] **[[depersonalization]]** -> a disconnect from your own body, an inability to believe that the person you see in the mirror is actually yourself.  ^f732ac
 - [[Yes]] ==You feel like you are watching someone else in your body. You may find yourself not caring about what happens to your body, lack of concern with weight changes or improving your fitness because you have no ownership of this fleshy vehicle that transports you around your life.==
 
-Zinnia Jones [gives these descriptions for [[Depersonalization]]](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/Depersonalization-in-[[gender]]-dysphoria-widespread-and-widely-unrecognized/):
+Zinnia Jones [gives these descriptions for [[depersonalization]]](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/Depersonalization-in-[[gender]]-dysphoria-widespread-and-widely-unrecognized/):
 
 -   [[Yes]] ==A sense of detachment or estrangement from your own thoughts, feelings, or body: “I know I have feelings but I don’t feel them”==
 -   [[No]] ==Feeling split into two parts, with one going through the motions of participating in the world and one observing quietly: “There is this body that walks around and somebody else just watches==”
@@ -50,7 +50,7 @@ Zinnia Jones [gives these descriptions for [[Depersonalization]]](https://web.ar
 [[[Yes]] ==You only take steps to better your life when external forces \*make\* you.== [[Yes]] ==You'd rather withdraw and [[self]]-minimize and focus on escapist hobbies== You're just not motivated to attain nice things for yourself. (You tell yourself that this is a zen acceptance, a freedom from desires.)
 ](https://twitter.com/NightlingBug/status/1215740224325783553)
 
-[[Def]] **[[Derealization]]** -> a detachment from the world around you, a mental sense that everything you perceive is false.
+[[Def]] **[[derealization]]** -> a detachment from the world around you, a mental sense that everything you perceive is false.
 
 -   [[Yes]] ==Your surroundings seem alien or unfamiliar, even if you’ve always been there, like someone has swapped out your house for a stage replica.==
 -  [[Sometimes]] ==Moving through the world feels like you’re walking on a treadmill, with the buildings moving around you instead of you through them.==
@@ -60,7 +60,7 @@ Zinnia Jones [gives these descriptions for [[Depersonalization]]](https://web.ar
 -   [[No]] ==Distortions of distance and the size and shape of objects==
 -   [[Sometimes]] ==Feeling like a passive observer in the events of your life==
 
-If you found yourself strongly relating to The Matrix or The [[Truman]] Show, you might be experiencing [[Derealization]]. This can also manifest as a feeling of otherworldliness, like you don’t belong in this society. You’re just walking around waiting for your super powers to appear, or for an owl to fly up with your letter to Hogwarts. As a teen I was obsessed with an episode of The Outer Limits where a boy discovers a spaceship under his house and learns that he and his [[parents]] aren’t actually human.
+If you found yourself strongly relating to The Matrix or The [[Truman]] Show, you might be experiencing [[derealization]]. This can also manifest as a feeling of otherworldliness, like you don’t belong in this society. You’re just walking around waiting for your super powers to appear, or for an owl to fly up with your letter to Hogwarts. As a teen I was obsessed with an episode of The Outer Limits where a boy discovers a spaceship under his house and learns that he and his [[parents]] aren’t actually human.
 
 [[Yes]] ==DPDR sometimes comes with an emotional stunting. You are able to laugh and find humor, but rarely ever genuine joy. Moments of sadness or grief cause you to just go numb, dissociated by the event that caused it.== [[Yes]] ==This can also go in the opposite direction, where the person is under so much [[anxiety]] that their emotional response is extremely disproportionate to the catalyst, resulting in severe crying or violent outbursts from seemingly small events.==
 

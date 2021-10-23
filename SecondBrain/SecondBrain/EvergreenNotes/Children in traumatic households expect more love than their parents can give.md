@@ -4,9 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-21
-sr-interval: 3
-sr-ease: 250
+sr-due: 2021-10-23
+sr-interval: 2
+sr-ease: 230
 ---
 
 #### [[Children in traumatic households expect more love than their parents can give]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

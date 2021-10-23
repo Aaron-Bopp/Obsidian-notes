@@ -19,5 +19,6 @@
   "ruleSemantics": true,
   "rulePunctuation": true,
   "ruleTypos": true,
-  "ruleTypography": true
+  "ruleTypography": true,
+  "staticLanguage": "en"
 }

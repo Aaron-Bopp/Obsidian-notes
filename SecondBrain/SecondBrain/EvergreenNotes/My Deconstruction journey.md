@@ -3,6 +3,9 @@ created: 2021-05-03
 cssclass: evergreen
 tags: evergreen, personal
 parent: [[Deconstruction (Christianity)]]
+sr-due: 2021-10-24
+sr-interval: 3
+sr-ease: 251
 ---
 
 #### [[My Deconstruction journey]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

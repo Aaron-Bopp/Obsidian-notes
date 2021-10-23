@@ -4,9 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-21
-sr-interval: 3
-sr-ease: 254
+sr-due: 2021-10-23
+sr-interval: 2
+sr-ease: 234
 ---
 
 #### [[Rationalizations are defense-mechanisms against strong emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -17,7 +17,7 @@ Our brain hijacks our logical processes to rationalize away repressed emotions. 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/WATER 
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[subconscious|ego]], [[defense-mechanisms]], [[Behavioral Pyschology]], [[trauma]]

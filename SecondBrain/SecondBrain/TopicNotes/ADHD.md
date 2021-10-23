@@ -6,5 +6,5 @@ tags: topic/term
 cssclass: term
 ---
 
-**See**:: [[neurodivergency]], [[mental disorders]]
+**See**:: [[neurodiversity]], [[mental disorders]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

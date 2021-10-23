@@ -11,8 +11,8 @@ aliases:
 
 ##### [[political strategy]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - Examples
-	- [[Yang's Political Success]]
-	- [[Yang's Political Failure]]
+	- [[Yang's political success was due to his common sense campaign]]
+	- [[Yang's political failure was due to lack of activism and poltical inneficacy]]
 - [[The ethnic makeup is a significant driver of change]]
 
 ### <hr class="dataviews"/>

@@ -7,6 +7,7 @@ aliases:
 - social interaction
 - inter-personal relationships
 - personality
+- inter-personal communication
 date modified: Sunday, October 3rd 2021, 11:32:52 pm
 ---
  the ways in which society conveys to the individual its expectations for their behavior

@@ -52,7 +52,7 @@ Likewise, many people believe that Phenotype is also binary, but biology has rec
 
 [[Gender is both an intrinsic experience and an necessary expression]]
 
-[[gender]] also affects the expectations that the brain has for the environment it resides in (your body), and when that environment does not meet those expectations, the brain sends up warning alarms in the form of [[depression]], [[Depersonalization]], [[Derealization]], and [[dissociation]]. ==These are the brain’s [[subconscious]] ways of informing us that something is very wrong.==
+[[gender]] also affects the expectations that the brain has for the environment it resides in (your body), and when that environment does not meet those expectations, the brain sends up warning alarms in the form of [[depression]], [[depersonalization]], [[derealization]], and [[dissociation]]. ==These are the brain’s [[subconscious]] ways of informing us that something is very wrong.==
 
 > [[Def]] **Habitus** - Socially ingrained habits, skills, and dispositions. The way a person perceives and reacts to the world.
 
@@ -64,7 +64,7 @@ Indeed, these are all cultural factors; things which have developed within the p
 
 John Money’s experiments attempted to confirm his belief that [[gender]] is entirely a social construct, and that any child can be raised to believe themselves to be whatever they were taught to be. His experiment was a massive failure (see the Biochemical Dysphoria section). [[Gender]] does not change, every human is the same [[gender]] at 40 that they were at 4. What changes is our own personal understanding of our [[gender]] as we mature as individuals.
 
-These negative symptoms ([[depression]], [[Derealization]], [[social discomfort]]) are the symptoms of [[gender dysphoria]].
+These negative symptoms ([[depression]], [[derealization]], [[social discomfort]]) are the symptoms of [[gender dysphoria]].
 
 What **[[gender]] is _not_** is sexual orientation. We describe orientation using terms relative to one’s [[gender]] (homosexual/heterosexual/bisexual, etc), but [[gender]] itself does not affect sexuality and sexuality has no role in [[gender]].
 

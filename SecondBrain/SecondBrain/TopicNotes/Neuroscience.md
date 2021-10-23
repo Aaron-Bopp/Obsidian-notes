@@ -18,7 +18,7 @@ sr-ease: 272
 
 - [[How Neuroscience impacts our daily lives]]
 	- [[Complex emotions are intellectual understandings of primal urges]]
-	- [[neurodivergency]]
+	- [[neurodiversity]]
 - [[The brain is powerful enough to create supernatural experiences]]
 - ![[human experience#human experience customJS dv_funcs topicOutlineHeader dv this]]
 

@@ -192,6 +192,12 @@ var DEFAULT_SETTINGS = {
     containerAttributes: false,
     syntaxHighlighting: false,
     autoAlignTables: false,
+    renderCode: false,
+    renderHTML: false,
+    renderChart: false,
+    renderAdmonition: false,
+    renderQuery: false,
+    renderDataview: false,
     tokenList: "em|strong|strikethrough|code|linkText|task|internalLink|highlight",
 };
 var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
@@ -258,6 +264,7 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
             return toggle.setValue(_this.plugin.settings.foldLinks).onChange(function (value) {
                 _this.plugin.settings.foldLinks = value;
                 _this.plugin.saveData(_this.plugin.settings);
+                _this.plugin.applyBodyClasses();
                 _this.plugin.updateCodeMirrorOption("hmdFold", {
                     image: _this.plugin.settings.foldImages,
                     link: _this.plugin.settings.foldLinks,
@@ -289,6 +296,99 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
             });
         });
         containerEl.createEl("h3", {
+            text: "Edit Mode Code Rendering",
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Render HTML")
+            .setDesc("")
+            .addToggle(function (toggle) {
+            return toggle.setValue(_this.plugin.settings.renderHTML).onChange(function (value) {
+                _this.plugin.settings.renderHTML = value;
+                _this.plugin.saveData(_this.plugin.settings);
+                _this.plugin.updateCodeMirrorOption("hmdFold", {
+                    image: _this.plugin.settings.foldImages,
+                    link: _this.plugin.settings.foldLinks,
+                    html: _this.plugin.settings.renderHTML,
+                    code: _this.plugin.settings.renderCode,
+                });
+            });
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Render Code Blocks")
+            .setDesc("If this is disabled, none of the options below will do anything")
+            .addToggle(function (toggle) {
+            return toggle.setValue(_this.plugin.settings.renderCode).onChange(function (value) {
+                _this.plugin.settings.renderCode = value;
+                _this.plugin.saveData(_this.plugin.settings);
+                _this.plugin.updateCodeMirrorOption("hmdFold", {
+                    image: _this.plugin.settings.foldImages,
+                    link: _this.plugin.settings.foldLinks,
+                    html: _this.plugin.settings.renderHTML,
+                    code: _this.plugin.settings.renderCode,
+                });
+            });
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Render Admonitions")
+            .setDesc("")
+            .addToggle(function (toggle) {
+            return toggle.setValue(_this.plugin.settings.renderAdmonition).onChange(function (value) {
+                _this.plugin.settings.renderAdmonition = value;
+                _this.plugin.saveData(_this.plugin.settings);
+                _this.plugin.updateCodeMirrorOption("hmdFoldCode", {
+                    admonition: _this.plugin.settings.renderAdmonition,
+                    chart: _this.plugin.settings.renderChart,
+                    query: _this.plugin.settings.renderQuery,
+                    dataview: _this.plugin.settings.renderDataview,
+                });
+            });
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Render Charts")
+            .setDesc("")
+            .addToggle(function (toggle) {
+            return toggle.setValue(_this.plugin.settings.renderChart).onChange(function (value) {
+                _this.plugin.settings.renderChart = value;
+                _this.plugin.saveData(_this.plugin.settings);
+                _this.plugin.updateCodeMirrorOption("hmdFoldCode", {
+                    admonition: _this.plugin.settings.renderAdmonition,
+                    chart: _this.plugin.settings.renderChart,
+                    query: _this.plugin.settings.renderQuery,
+                    dataview: _this.plugin.settings.renderDataview,
+                });
+            });
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Render Embedded Search")
+            .setDesc("")
+            .addToggle(function (toggle) {
+            return toggle.setValue(_this.plugin.settings.renderQuery).onChange(function (value) {
+                _this.plugin.settings.renderQuery = value;
+                _this.plugin.saveData(_this.plugin.settings);
+                _this.plugin.updateCodeMirrorOption("hmdFoldCode", {
+                    admonition: _this.plugin.settings.renderAdmonition,
+                    chart: _this.plugin.settings.renderChart,
+                    query: _this.plugin.settings.renderQuery,
+                    dataview: _this.plugin.settings.renderDataview,
+                });
+            });
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Render Dataview")
+            .setDesc("")
+            .addToggle(function (toggle) {
+            return toggle.setValue(_this.plugin.settings.renderDataview).onChange(function (value) {
+                _this.plugin.settings.renderDataview = value;
+                _this.plugin.saveData(_this.plugin.settings);
+                _this.plugin.updateCodeMirrorOption("hmdFoldCode", {
+                    admonition: _this.plugin.settings.renderAdmonition,
+                    chart: _this.plugin.settings.renderChart,
+                    query: _this.plugin.settings.renderQuery,
+                    dataview: _this.plugin.settings.renderDataview,
+                });
+            });
+        });
+        containerEl.createEl("h3", {
             text: "Visual Styling",
         });
         new obsidian.Setting(containerEl)
@@ -303,7 +403,7 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
         });
         new obsidian.Setting(containerEl)
             .setName("Auto Align Tables")
-            .setDesc("Automatically align markdown tables as they are being built.")
+            .setDesc("Automatically align markdown tables as they are being built. Note: This setting currently requires that OpenMD Mode be enabled.")
             .addToggle(function (toggle) {
             return toggle.setValue(_this.plugin.settings.autoAlignTables).onChange(function (value) {
                 _this.plugin.settings.autoAlignTables = value;
@@ -1977,7 +2077,6 @@ createCommonjsModule(function (module) {
 });
 });
 
-createCommonjsModule(function (module) {
 // HyperMD, copyright (c) by laobubu
 // Distributed under an MIT license: http://laobubu.net/HyperMD/LICENSE
 //
@@ -1985,42 +2084,6 @@ createCommonjsModule(function (module) {
 //
 // With custom ClickHandler supported
 //
-var __createBinding =
-  (commonjsGlobal && commonjsGlobal.__createBinding) ||
-  (Object.create
-    ? function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        Object.defineProperty(o, k2, {
-          enumerable: true,
-          get: function () {
-            return m[k];
-          },
-        });
-      }
-    : function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        o[k2] = m[k];
-      });
-var __setModuleDefault =
-  (commonjsGlobal && commonjsGlobal.__setModuleDefault) ||
-  (Object.create
-    ? function (o, v) {
-        Object.defineProperty(o, "default", { enumerable: true, value: v });
-      }
-    : function (o, v) {
-        o["default"] = v;
-      });
-var __importStar =
-  (commonjsGlobal && commonjsGlobal.__importStar) ||
-  function (mod) {
-    if (mod && mod.__esModule) return mod;
-    var result = {};
-    if (mod != null)
-      for (var k in mod)
-        if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
-    __setModuleDefault(result, mod);
-    return result;
-  };
 
 (function (mod) {
   //[HyperMD] UMD patched!
@@ -2033,7 +2096,6 @@ var __importStar =
     exports.defaultOption =
     exports.defaultClickHandler =
       void 0;
-  CodeMirror = __importStar(CodeMirror);
   //#endregion
   /********************************************************************************** */
   //#region defaultClickHandler
@@ -2195,9 +2257,7 @@ var __importStar =
   /** ADDON GETTER (Singleton Pattern): a editor can have only one Click instance */
   exports.getAddon = core_1.Addon.Getter("Click", Click, exports.defaultOption /** if has options */);
 });
-});
 
-createCommonjsModule(function (module) {
 // HyperMD, copyright (c) by laobubu
 // Distributed under an MIT license: http://laobubu.net/HyperMD/LICENSE
 //
@@ -2205,42 +2265,6 @@ createCommonjsModule(function (module) {
 //
 // Only works with `hypermd` mode, require special CSS rules
 //
-var __createBinding =
-  (commonjsGlobal && commonjsGlobal.__createBinding) ||
-  (Object.create
-    ? function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        Object.defineProperty(o, k2, {
-          enumerable: true,
-          get: function () {
-            return m[k];
-          },
-        });
-      }
-    : function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        o[k2] = m[k];
-      });
-var __setModuleDefault =
-  (commonjsGlobal && commonjsGlobal.__setModuleDefault) ||
-  (Object.create
-    ? function (o, v) {
-        Object.defineProperty(o, "default", { enumerable: true, value: v });
-      }
-    : function (o, v) {
-        o["default"] = v;
-      });
-var __importStar =
-  (commonjsGlobal && commonjsGlobal.__importStar) ||
-  function (mod) {
-    if (mod && mod.__esModule) return mod;
-    var result = {};
-    if (mod != null)
-      for (var k in mod)
-        if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
-    __setModuleDefault(result, mod);
-    return result;
-  };
 
 (function (mod) {
   //[HyperMD] UMD patched!
@@ -2248,7 +2272,6 @@ var __importStar =
 })(function (require, exports, CodeMirror, core_1) {
   Object.defineProperty(exports, "__esModule", { value: true });
   exports.getAddon = exports.HideToken = exports.suggestedOption = exports.defaultOption = void 0;
-  CodeMirror = __importStar(CodeMirror);
   //#region Internal Function...
   /** check if has the class and remove it */
   function rmClass(el, className) {
@@ -2559,7 +2582,6 @@ var __importStar =
   /** ADDON GETTER (Singleton Pattern): a editor can have only one HideToken instance */
   exports.getAddon = core_1.Addon.Getter("HideToken", HideToken, exports.defaultOption /** if has options */);
 });
-});
 
 createCommonjsModule(function (module) {
 // CodeMirror, copyright (c) by laobubu
@@ -2581,42 +2603,6 @@ var __assign =
       };
     return __assign.apply(this, arguments);
   };
-var __createBinding =
-  (commonjsGlobal && commonjsGlobal.__createBinding) ||
-  (Object.create
-    ? function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        Object.defineProperty(o, k2, {
-          enumerable: true,
-          get: function () {
-            return m[k];
-          },
-        });
-      }
-    : function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        o[k2] = m[k];
-      });
-var __setModuleDefault =
-  (commonjsGlobal && commonjsGlobal.__setModuleDefault) ||
-  (Object.create
-    ? function (o, v) {
-        Object.defineProperty(o, "default", { enumerable: true, value: v });
-      }
-    : function (o, v) {
-        o["default"] = v;
-      });
-var __importStar =
-  (commonjsGlobal && commonjsGlobal.__importStar) ||
-  function (mod) {
-    if (mod && mod.__esModule) return mod;
-    var result = {};
-    if (mod != null)
-      for (var k in mod)
-        if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
-    __setModuleDefault(result, mod);
-    return result;
-  };
 
 (function (mod) {
   //[HyperMD] UMD patched!
@@ -2624,7 +2610,6 @@ var __importStar =
 })(function (require, exports, CodeMirror) {
   var _a;
   Object.defineProperty(exports, "__esModule", { value: true });
-  CodeMirror = __importStar(CodeMirror);
   /**
    * Markdown Extension Tokens
    *
@@ -2887,7 +2872,7 @@ var __importStar =
           if (modeCfg.math && inMarkdownInline && (tmp = stream.match(/^\${1,2}/, false))) {
             var endTag_1 = tmp[0];
             var mathLevel = endTag_1.length;
-            if (mathLevel === 2 || stream.string.slice(stream.pos).match(/[^\\]\$/)) {
+            if (mathLevel === 2 || stream.string.slice(stream.pos).match(/[^\\\s-]\$(?![0-9])/)) {
               // $$ may span lines, $ must be paired
               var texMode = CodeMirror.getMode(cmCfg, {
                 name: "stex",
@@ -3483,65 +3468,20 @@ createCommonjsModule(function (module) {
 //
 // You may set `hmdFold.customFolders` option to fold more, where `customFolders` is Array<FolderFunc>
 //
-var __extends =
-  (commonjsGlobal && commonjsGlobal.__extends) ||
-  (function () {
-    var extendStatics = function (d, b) {
-      extendStatics =
-        Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array &&
-          function (d, b) {
-            d.__proto__ = b;
-          }) ||
-        function (d, b) {
-          for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p];
-        };
+//
+var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
+  var extendStatics = function (d, b) {
+      extendStatics = Object.setPrototypeOf ||
+          ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+          function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
       return extendStatics(d, b);
-    };
-    return function (d, b) {
-      extendStatics(d, b);
-      function __() {
-        this.constructor = d;
-      }
-      d.prototype = b === null ? Object.create(b) : ((__.prototype = b.prototype), new __());
-    };
-  })();
-var __createBinding =
-  (commonjsGlobal && commonjsGlobal.__createBinding) ||
-  (Object.create
-    ? function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        Object.defineProperty(o, k2, {
-          enumerable: true,
-          get: function () {
-            return m[k];
-          },
-        });
-      }
-    : function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        o[k2] = m[k];
-      });
-var __setModuleDefault =
-  (commonjsGlobal && commonjsGlobal.__setModuleDefault) ||
-  (Object.create
-    ? function (o, v) {
-        Object.defineProperty(o, "default", { enumerable: true, value: v });
-      }
-    : function (o, v) {
-        o["default"] = v;
-      });
-var __importStar =
-  (commonjsGlobal && commonjsGlobal.__importStar) ||
-  function (mod) {
-    if (mod && mod.__esModule) return mod;
-    var result = {};
-    if (mod != null)
-      for (var k in mod)
-        if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
-    __setModuleDefault(result, mod);
-    return result;
   };
+  return function (d, b) {
+      extendStatics(d, b);
+      function __() { this.constructor = d; }
+      d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+  };
+})();
 
 (function (mod) {
   //[HyperMD] UMD patched!
@@ -3558,7 +3498,6 @@ var __importStar =
     exports.folderRegistry =
     exports.RequestRangeResult =
       void 0;
-  CodeMirror = __importStar(CodeMirror);
   var FlagArray = typeof Uint8Array === "undefined" ? Array : Uint8Array;
   var RequestRangeResult;
   (function (RequestRangeResult) {
@@ -3593,10 +3532,14 @@ var __importStar =
   //#region Utils
   /** break a TextMarker, move cursor to where marker is */
   function breakMark(cm, marker, chOffset) {
+    // TODO: update this to support making a selection rather than placing the cursor
     cm.operation(function () {
-      var pos = marker.find().from;
-      pos = { line: pos.line, ch: pos.ch + ~~chOffset };
-      cm.setCursor(pos);
+      var fromPos = marker.find().from;
+      fromPos = { line: fromPos.line, ch: fromPos.ch + ~~chOffset };
+      var toPos = marker.find().to;
+      toPos = { line: toPos.line, ch: toPos.ch + ~~chOffset };
+      cm.setCursor(fromPos);
+      // cm.setSelection(fromPos, toPos);
       cm.focus();
       marker.clear();
     });
@@ -3635,7 +3578,7 @@ var __importStar =
   /********************************************************************************** */
   //#region Addon Class
   var Fold = /** @class */ (function (_super) {
-    __extends(Fold, _super);
+    ___extends(Fold, _super);
     function Fold(cm) {
       var _this = _super.call(this, cm) || this;
       _this.cm = cm;
@@ -3753,6 +3696,7 @@ var __importStar =
     }
     /** enable/disable one kind of folder, in current editor */
     Fold.prototype.setStatus = function (cm, type, enabled) {
+      // this logic will disable hmdFold completely if no folders are found in the registry
       var prevStatus;
       for (var _type in this._enabled) {
         if (this._enabled[_type]) {
@@ -3797,7 +3741,11 @@ var __importStar =
       if (!cfrom) cfrom = from;
       var cm = this.cm;
       var markers = cm.findMarks(from, to);
-      if (markers.length !== 0) return RequestRangeResult.HAS_MARKERS;
+      // nil: filter out any text selection markers so that we don't bug out the entire fold logic, ugh
+      markers = markers.filter(marker => marker.className != "CodeMirror-selectedtext");
+      if (markers.length !== 0) {
+        return RequestRangeResult.HAS_MARKERS;
+      }
       this._quickFoldHint.push(from.line);
       // store "crange" for the coming marker
       this._lastCRange = [cfrom, cto];
@@ -3822,8 +3770,9 @@ var __importStar =
       var _this = this;
       var cm = this.cm;
       var viewPort = cm.getViewport();
-      fromLine = fromLine || viewPort.from; // cm.firstLine();
-      toLine = (toLine || viewPort.to) + 1; // cm.lastLine()) + 1;
+      // nil: if no from/to is passed, only scan the visible viewport, rather than the entire file
+      fromLine = fromLine >= 0 ? fromLine : viewPort.from; // cm.firstLine();
+      toLine = (toLine >= 0 ? toLine : viewPort.to) + 1; // cm.lastLine()) + 1;
       this._quickFoldHint = [];
       this.setPos(fromLine, 0, true);
       cm.operation(function () {
@@ -3839,6 +3788,8 @@ var __importStar =
             // @see CodeMirror's findMarksAt
             var lineMarkers = line.markedSpans;
             if (lineMarkers) {
+              // nil: filter out any text selection markers so that we don't bug out the entire fold logic, ugh
+              lineMarkers = lineMarkers.filter(markedSpan => markedSpan.marker.className !== "CodeMirror-selectedtext");
               for (var i = 0; i < lineMarkers.length; ++i) {
                 var span = lineMarkers[i];
                 var spanFrom = span.from == null ? 0 : span.from;
@@ -4025,56 +3976,17 @@ var __importStar =
     fold_1.registerFolder("link", exports.LinkFolder, true);
 });
 
-createCommonjsModule(function (module) {
 // HyperMD, copyright (c) by laobubu
 // Distributed under an MIT license: http://laobubu.net/HyperMD/LICENSE
 //
 // DESCRIPTION: Fold Image Markers `![](xxx)`
 //
 
-var __createBinding =
-  (commonjsGlobal && commonjsGlobal.__createBinding) ||
-  (Object.create
-    ? function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        Object.defineProperty(o, k2, {
-          enumerable: true,
-          get: function () {
-            return m[k];
-          },
-        });
-      }
-    : function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        o[k2] = m[k];
-      });
-var __setModuleDefault =
-  (commonjsGlobal && commonjsGlobal.__setModuleDefault) ||
-  (Object.create
-    ? function (o, v) {
-        Object.defineProperty(o, "default", { enumerable: true, value: v });
-      }
-    : function (o, v) {
-        o["default"] = v;
-      });
-var __importStar =
-  (commonjsGlobal && commonjsGlobal.__importStar) ||
-  function (mod) {
-    if (mod && mod.__esModule) return mod;
-    var result = {};
-    if (mod != null)
-      for (var k in mod)
-        if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
-    __setModuleDefault(result, mod);
-    return result;
-  };
-
 (function (mod) {
   mod(null, {}, CodeMirror, HyperMD.Fold, HyperMD.ReadLink);
 })(function (require, exports, CodeMirror, fold_1) {
   Object.defineProperty(exports, "__esModule", { value: true });
   exports.ImageFolder = void 0;
-  CodeMirror = __importStar(CodeMirror);
   var ImageFolder = function (stream, token) {
     var cm = stream.cm;
     var imgRE = /(\bimage-marker\b)|(\bformatting-embed\b)/;
@@ -4177,8 +4089,9 @@ var __importStar =
             img.alt = "⚠️";
           }
         }
-
+        
         img.setAttribute("data-src", _url);
+        if (_resolvedUrl && _resolvedUrl.path) img.setAttribute("data-path", _resolvedUrl.path);
         img.setAttribute("src", _url);
         if (dimensions) {
           var _dims = dimensions.match(/^([0-9]+)x?([0-9]+)?$/);
@@ -4214,57 +4127,1325 @@ var __importStar =
   exports.ImageFolder = ImageFolder;
   fold_1.registerFolder("image", exports.ImageFolder, true);
 });
+
+// HyperMD, copyright (c) by laobubu
+// Distributed under an MIT license: http://laobubu.net/HyperMD/LICENSE
+//
+// DESCRIPTION: Turn code blocks into flow charts / playground sandboxes etc.
+//
+
+(function (mod) {
+  mod(null, (HyperMD.FoldCode = HyperMD.FoldCode || {}), CodeMirror, HyperMD, HyperMD.Fold);
+})(function (require, exports, CodeMirror, core_1, fold_1) {
+  Object.defineProperty(exports, "__esModule", { value: true });
+  exports.getAddon =
+    exports.convertNumberToString =
+    exports.FoldCode =
+    exports.suggestedOption =
+    exports.defaultOption =
+    exports.CodeFolder =
+    exports.registerRenderer =
+    exports.rendererRegistry =
+      void 0;
+  exports.rendererRegistry = {};
+  /**
+   * Add a CodeRenderer to the System CodeRenderer Registry
+   *
+   * @param lang
+   * @param folder
+   * @param suggested enable this folder in suggestedEditorConfig
+   * @param force if a folder with same name is already exists, overwrite it. (dangerous)
+   */
+  function registerRenderer(info, force) {
+    if (!info || !info.name || !info.renderer) return;
+    var name = info.name;
+    var pattern = info.pattern;
+    var registry = exports.rendererRegistry;
+    if (name in registry) {
+      if (!force) {
+        throw new Error("CodeRenderer " + name + " already exists");
+      }
+    }
+    if (typeof pattern === "string") {
+      var t_1 = pattern.toLowerCase();
+      pattern = function (lang) {
+        return lang.toLowerCase() === t_1;
+      };
+    } else if (pattern instanceof RegExp) {
+      pattern = function (lang) {
+        return info.pattern.test(lang);
+      };
+    }
+    var newInfo = {
+      name: name,
+      suggested: !!info.suggested,
+      pattern: pattern,
+      renderer: info.renderer,
+    };
+    registry[name] = newInfo;
+    exports.defaultOption[name] = false;
+    exports.suggestedOption[name] = newInfo.suggested;
+  }
+  exports.registerRenderer = registerRenderer;
+  //#endregion
+  //#region FolderFunc for Addon/Fold -----------------------------------------------------
+  /** the FolderFunc for Addon/Fold */
+  var CodeFolder = function (stream, token) {
+    if (
+      token.start !== 0 ||
+      !token.type ||
+      token.type.indexOf("HyperMD-codeblock-begin") === -1 ||
+      !/([-\w]+)(\s*|\s+\{.+\}\s*)$/.test(token.string)
+    ) {
+      return null;
+    }
+    return exports.getAddon(stream.cm).fold(stream, token);
+  };
+  exports.CodeFolder = CodeFolder;
+  fold_1.registerFolder("code", exports.CodeFolder, true);
+  exports.defaultOption = {
+    /* will be populated by registerRenderer() */
+  };
+  exports.suggestedOption = {
+    /* will be populated by registerRenderer() */
+  };
+  core_1.suggestedEditorConfig.hmdFoldCode = exports.suggestedOption;
+  CodeMirror.defineOption("hmdFoldCode", exports.defaultOption, function (cm, newVal) {
+    ///// convert newVal's type to `Record<string, boolean>`, if it is not.
+    if (!newVal || typeof newVal === "boolean") {
+      newVal = newVal ? exports.suggestedOption : exports.defaultOption;
+    }
+    ///// apply config
+    var inst = exports.getAddon(cm);
+    for (var type in exports.rendererRegistry) {
+      inst.setStatus(type, newVal[type]);
+    }
+    // then, folding task will be queued by setStatus()
+  });
+  var FoldCode = /** @class */ (function () {
+    function FoldCode(cm) {
+      this.cm = cm;
+      /**
+       * stores renderer status for current editor
+       * @private To enable/disable renderer, use `setStatus()`
+       */
+      this._enabled = {};
+      /** renderers' output goes here */
+      this.folded = {};
+    }
+    /** enable/disable one kind of renderer, in current editor */
+    FoldCode.prototype.setStatus = function (type, enabled) {
+      if (!(type in exports.rendererRegistry)) return;
+      if (!this._enabled[type] !== !enabled) {
+        this._enabled[type] = !!enabled;
+        if (enabled) fold_1.getAddon(this.cm).startFold();
+        else this.clear(type);
+      }
+    };
+    /** Clear one type of rendered TextMarkers */
+    FoldCode.prototype.clear = function (type) {
+      var folded = this.folded[type];
+      if (!folded || !folded.length) return;
+      var info;
+      while ((info = folded.pop())) info.marker.clear();
+    };
+    FoldCode.prototype.fold = function (stream, token) {
+      // eslint-disable-next-line @typescript-eslint/no-this-alias
+      var _this = this;
+      if (token.start !== 0 || !token.type || token.type.indexOf("HyperMD-codeblock-begin") === -1) {
+        return null;
+      }
+      var tmp = /([-\w]+)(\s*|\s+\{.+\}\s*)$/.exec(token.string);
+      var lang = tmp && tmp[1].toLowerCase();
+      var attributesStr = tmp && tmp[2] && tmp[2].trim();
+      var attributes = {};
+      if (attributesStr && attributesStr.length) {
+        attributes = fold_1.parseAttributes(attributesStr);
+      }
+      if (!lang) return null;
+      var renderer;
+      var type;
+      var cm = this.cm,
+        registry = exports.rendererRegistry,
+        _enabled = this._enabled;
+      for (var type_i in registry) {
+        var r = registry[type_i];
+        if (!_enabled[type_i]) continue;
+        if (!r.pattern(lang)) continue;
+        type = type_i;
+        renderer = r.renderer;
+        break;
+      }
+      if (!type) return null;
+      var from = { line: stream.lineNo, ch: 0 };
+      var to = null;
+      // find the end of code block
+      var lastLineCM = cm.lastLine();
+      var endLine = stream.lineNo + 1;
+      do {
+        var s = cm.getTokenAt({ line: endLine, ch: 1 });
+        if (s && s.type && s.type.indexOf("HyperMD-codeblock-end") !== -1) {
+          //FOUND END!
+          to = { line: endLine, ch: s.end };
+          break;
+        }
+      } while (++endLine < lastLineCM);
+      if (!to) return null;
+      // request the range
+      var rngReq = stream.requestRange(from, to);
+      if (rngReq !== fold_1.RequestRangeResult.OK) return null;
+      // now we can call renderer
+      var code = cm.getRange({ line: from.line + 1, ch: 0 }, { line: to.line, ch: 0 });
+      var info = {
+        editor: cm,
+        lang: lang,
+        attributes: attributes,
+        marker: null,
+        lineWidget: null,
+        el: null,
+        break: undefined_function,
+        changed: undefined_function,
+      };
+      var _a = renderer(code, info),
+        element = _a.element,
+        asyncRenderer = _a.asyncRenderer;
+      info.el = element;
+      var el = element;
+      if (!el) {
+        info.marker.clear();
+        return null;
+      }
+      //-----------------------------
+
+      var $wrapper = document.createElement("div");
+      $wrapper.className = contentClass + type;
+      $wrapper.style.minHeight = "1em";
+      $wrapper.appendChild(el);
+
+      var lineWidget = (info.lineWidget = cm.addLineWidget(to.line, $wrapper, {
+        above: false,
+        coverGutter: false,
+        handleMouseEvents: false,
+        className: "rendered-code-block rendered-widget",
+        noHScroll: false,
+        showIfHidden: false,
+      }));
+      if (asyncRenderer) {
+        asyncRenderer();
+      }
+      var wrapperLine = stream.lineNo;
+
+      cm.addLineClass(wrapperLine, "wrap", "rendered-code-block-wrapper");
+      cm.addLineClass(wrapperLine, "wrap", `rendered-${type}-wrapper`);
+      // watch for any changes to the widget wrapper or its children
+      // so that we can call widget.changed() to remeasure the element
+      // and prevent any cursor placement issues
+      // this allows our widget to shrink or grow to any size we want
+      this.widgetChanged = core_1.debounce(() => {
+        // console.log("widget change detected: " + this.lineWidget.node.className);
+        try {
+          this.lineWidget.changed();
+        } catch {
+          // console.log("widget change failed");
+        }
+      }, 250);
+      // we're using MutationObserver rather than ResizeObserver here
+      // due to ResizeObserver causing a memory leak due to holding refs
+      const observer = new MutationObserver((mutations, observer) => {
+        // mutations.forEach(el => {
+        //   console.log(el.target.classList.value);
+        // });
+        this.lineWidget = lineWidget;
+        this.widgetChanged();
+      });
+      observer.observe(el, { childList: true, subtree: true, attributes: true });
+      //-----------------------------
+      var $stub = document.createElement("span");
+      $stub.className = stubClass + type;
+      $stub.textContent = "<CODE>";
+      var marker = (info.marker = cm.markText(from, to, {
+        replacedWith: $stub,
+      }));
+      // $wrapper.addEventListener("mouseenter", highlightON, false);
+      // $wrapper.addEventListener("mouseleave", highlightOFF, false);
+      info.changed = function () {
+        lineWidget.changed();
+      };
+      info.break = function () {
+        observer.disconnect();
+        fold_1.breakMark(cm, marker);
+      };
+      $stub.addEventListener("click", info.break, false);
+      marker.on("clear", function () {
+        var markers = _this.folded[type];
+        var idx;
+        if (markers && (idx = markers.indexOf(info)) !== -1) markers.splice(idx, 1);
+        if (typeof info.onRemove === "function") info.onRemove(info);
+        cm.addLineClass(wrapperLine, "wrap", `rendered-${type}-wrapper`);
+        cm.removeLineClass(wrapperLine, "wrap", "rendered-code-block-wrapper");
+        observer.disconnect();
+        lineWidget.clear();
+      });
+      if (!(type in this.folded)) this.folded[type] = [info];
+      else this.folded[type].push(info);
+      return marker;
+    };
+    return FoldCode;
+  })();
+  exports.FoldCode = FoldCode;
+  //#endregion
+  // End
+  var contentClass = "hmd-fold-code-content hmd-fold-code-"; // + renderer_type
+  var stubClass = "hmd-fold-code-stub hmd-fold-code-"; // + renderer_type
+  // eslint-disable-next-line @typescript-eslint/no-empty-function
+  var undefined_function = function () {};
+  /** ADDON GETTER (Singleton Pattern): a editor can have only one FoldCode instance */
+  exports.getAddon = core_1.Addon.Getter("FoldCode", FoldCode, exports.defaultOption /** if has options */);
 });
 
-createCommonjsModule(function (module) {
+// HyperMD, copyright (c) by laobubu
+// Distributed under an MIT license: http://laobubu.net/HyperMD/LICENSE
+//
+// DESCRIPTION: Fold and render embedded HTML snippets
+
+(function (mod) {
+  //[HyperMD] UMD patched!
+  /*plain env*/ mod(null, (HyperMD.FoldHTML = HyperMD.FoldHTML || {}), CodeMirror, HyperMD, HyperMD.Fold);
+})(function (require, exports, CodeMirror, core_1, fold_1) {
+  Object.defineProperty(exports, "__esModule", { value: true });
+  exports.getAddon =
+    exports.FoldHTML =
+    exports.suggestedOption =
+    exports.defaultOption =
+    exports.HTMLFolder =
+    exports.defaultRenderer =
+    exports.defaultChecker =
+      void 0;
+
+  const purifySettings = {
+    ALLOW_UNKNOWN_PROTOCOLS: true,
+    IN_PLACE: true,
+    // RETURN_DOM_FRAGMENT: true,
+    // RETURN_DOM_IMPORT: true,
+    FORBID_TAGS: ["style"],
+    ADD_TAGS: ["iframe"],
+    ADD_ATTR: ["frameborder", "allowfullscreen", "allow", "aria-label-position"],
+  };
+  // export type CheckerFunc = (html: string, pos: Position, cm: cm_t) => boolean;
+  var defaultChecker = function (html) {
+    // TODO: Remove this since we're now using DOMPurify?
+    if (/^<(?:br)/i.test(html)) {
+      return false; // check first element...
+    }
+    if (/<(?:script|style|link|meta|object|embed)/i.test(html)) {
+      // TODO: dyamically add/remove iframe block
+      return false; // don't allow some tags
+    }
+    if (/\son\w+\s*=/i.test(html)) {
+      return false; // don't allow `onclick=` etc.
+    }
+    if (/(src|background|href)\s*=\s*["']?javascript:/i.test(html)) {
+      return false; // don't allow `src="javascript:` etc.
+    }
+    return true;
+  };
+  exports.defaultChecker = defaultChecker;
+  /**
+   * Create HTMLElement from HTML string and do special process with HyperMD.ReadLink
+   */
+  var defaultRenderer = function (html, pos, cm) {
+    var tagBegin = /^<(\w+)\s*/.exec(html);
+    if (!tagBegin) return null;
+    var tagName = tagBegin[1];
+    var ans = document.createElement(tagName);
+    var propRE = /([\w\:\-]+)(?:\s*=\s*((['"]).*?\3|\S+))?\s*/g;
+    var propLastIndex = (propRE.lastIndex = tagBegin[0].length);
+    var tmp;
+    while ((tmp = propRE.exec(html))) {
+      if (tmp.index > propLastIndex) break; // emmm
+      var propName = tmp[1];
+      var propValue = tmp[2]; // could be wrapped by " or '
+      if (propValue && /^['"]/.test(propValue)) propValue = propValue.slice(1, -1);
+      ans.setAttribute(propName, propValue);
+      propLastIndex = propRE.lastIndex;
+    }
+    if ("innerHTML" in ans) {
+      // node may contain innerHTML
+      var startCh = html.indexOf(">", propLastIndex) + 1;
+      var endCh = html.length;
+      if ((tmp = new RegExp("</" + tagName + "\\s*>\\s*$", "i").exec(html))) {
+        endCh = tmp.index;
+      }
+      var innerHTML = html.slice(startCh, endCh);
+      if (innerHTML) {
+        ans.innerHTML = innerHTML;
+      }
+      window.DOMPurify.sanitize(ans, purifySettings);
+      // ans.replaceWith(cleanHTML);
+      // resolve relative URLs and change default behavoirs
+      core_1.visitElements([ans], function (el) {
+        var tagName = el.tagName.toLowerCase();
+        if (tagName === "a") {
+          // for links, if target not set, add target="_blank"
+          if (!el.getAttribute("target")) el.setAttribute("target", "_blank");
+        }
+        // Then, resovle relative URLs
+        var urlAttrs = {
+          a: ["href"],
+          img: ["src"],
+          iframe: ["src"],
+        }[tagName];
+        if (urlAttrs) {
+          for (var i = 0; i < urlAttrs.length; i++) {
+            var _url, _resolvedUrl;
+            var attr = urlAttrs[i];
+            var attrValue = el.getAttribute(attr);
+            _resolvedUrl = window.app.metadataCache.getFirstLinkpathDest(decodeURI(attrValue), "");
+            if (_resolvedUrl) {
+              _url = window.app.vault.getResourcePath(_resolvedUrl);
+            } else {
+              _url = "";
+            }
+            if (_url) {
+              el.setAttribute(attr, decodeURI(attrValue));
+              el.addClass("internal-link");
+            }
+          }
+        }
+      });
+    }
+    return ans;
+  };
+  exports.defaultRenderer = defaultRenderer;
+  /********************************************************************************** */
+  var stubClass = "hmd-fold-html-stub";
+  var stubClassOmittable = "hmd-fold-html-stub omittable";
+  /********************************************************************************** */
+  //#region Folder
+  /**
+   * Detect if a token is a beginning of HTML, and fold it!
+   *
+   * @see FolderFunc in ./fold.ts
+   */
+  var HTMLFolder = function (stream, token) {
+    if (!token.type || !/ hmd-html-begin/.test(token.type)) return null;
+    var endInfo = stream.findNext(/ hmd-html-\w+/, true); // find next html start/end token
+    if (!endInfo || !/ hmd-html-end/.test(endInfo.token.type) || / hmd-html-unclosed/.test(endInfo.token.type))
+      return null;
+    var cm = stream.cm;
+    var from = { line: stream.lineNo, ch: token.start };
+    var to = { line: endInfo.lineNo, ch: endInfo.token.end };
+    var inlineMode = from.ch != 0 || to.ch < cm.getLine(to.line).length;
+
+    var addon = exports.getAddon(cm);
+    var html = cm.getRange(from, to);
+
+    var reqAns = stream.requestRange(from, to);
+    if (reqAns !== fold_1.RequestRangeResult.OK) return null;
+
+    // now we are ready to fold and render!
+    var marker = addon.renderAndInsert(html, from, to, inlineMode);
+    return marker;
+  };
+  exports.HTMLFolder = HTMLFolder;
+  //#endregion
+  fold_1.registerFolder("html", exports.HTMLFolder, false);
+  exports.defaultOption = {
+    checker: exports.defaultChecker,
+    renderer: exports.defaultRenderer,
+    stubText: "<HTML>",
+    isolatedTagName: /^(?:div|pre|form|mark|table|iframe|ul|ol|input|textarea|p|summary|a)$/i,
+  };
+  exports.suggestedOption = {};
+  core_1.suggestedEditorConfig.hmdFoldHTML = exports.suggestedOption;
+  CodeMirror.defineOption("hmdFoldHTML", exports.defaultOption, function (cm, newVal) {
+    ///// convert newVal's type to `Partial<Options>`, if it is not.
+    if (!newVal) {
+      newVal = {};
+    } else if (typeof newVal == "function") {
+      newVal = { checker: newVal };
+    } else if (typeof newVal != "object") {
+      console.warn("[HyperMD][FoldHTML] incorrect option value type");
+      newVal = {};
+    }
+    ///// apply config and write new values into cm
+    var inst = exports.getAddon(cm);
+    for (var k in exports.defaultOption) {
+      inst[k] = k in newVal ? newVal[k] : exports.defaultOption[k];
+    }
+    ///// Type Check
+    if (inst.isolatedTagName && !(inst.isolatedTagName instanceof RegExp)) {
+      if (window["ECHOMD_DEBUG"]) {
+        console.error("[HyperMD][FoldHTML] option isolatedTagName only accepts RegExp");
+      }
+      inst.isolatedTagName = exports.defaultOption.isolatedTagName;
+    }
+  });
+  //#endregion
+  /********************************************************************************** */
+  //#region Addon Class
+  var FoldHTML = /** @class */ (function () {
+    function FoldHTML(cm) {
+      this.cm = cm;
+      // options will be initialized to defaultOption when constructor is finished
+    }
+    /**
+     * Render HTML, insert into editor and return the marker
+     */
+    FoldHTML.prototype.renderAndInsert = function (html, from, to, inlineMode) {
+      var cm = this.cm;
+      var stub = this.makeStub();
+      var el = this.renderer(html, from, cm);
+      var breakFn = function () {
+        return fold_1.breakMark(cm, marker);
+      };
+      if (!el) return null;
+      stub.addEventListener("click", breakFn, false);
+      if (!el.tagName.match(this.isolatedTagName || /^$/)) el.addEventListener("click", breakFn, false);
+      var replacedWith;
+      var marker;
+      if (inlineMode) {
+        /** put HTML inline */
+        var span = document.createElement("span");
+        span.setAttribute("class", "hmd-fold-html rendered-widget");
+        span.setAttribute("style", "display: inline-block");
+        span.appendChild(stub);
+        span.appendChild(el);
+
+        replacedWith = span;
+        /** If element size changed, we notify CodeMirror */
+        var watcher = core_1.watchSize(el, function (w, h) {
+          var computedStyle = getComputedStyle(el);
+          var getStyle = function (name) {
+            return computedStyle.getPropertyValue(name);
+          };
+          var floating =
+            w < 10 || h < 10 || !/^relative|static$/i.test(getStyle("position")) || !/^none$/i.test(getStyle("float"));
+          if (!floating) stub.className = stubClassOmittable;
+          else stub.className = stubClass;
+          marker.changed();
+        });
+        watcher.check(); // trig the checker once
+        // Marker is not created yet. Bind events later
+        setTimeout(function () {
+          marker.on("clear", function () {
+            watcher.stop();
+          });
+        }, 0);
+      } else {
+        /** use lineWidget to insert element */
+        replacedWith = stub;
+        var lineWidget_1 = cm.addLineWidget(to.line, el, {
+          above: false,
+          coverGutter: false,
+          className: "rendered-html rendered-widget",
+          noHScroll: false,
+          showIfHidden: false,
+        });
+        // var highlightON_1 = function () {
+        //   return (stub.className = stubClassHighlight);
+        // };
+        // var highlightOFF_1 = function () {
+        //   return (stub.className = stubClass);
+        // };
+        // el.addEventListener("mouseenter", highlightON_1, false);
+        // el.addEventListener("mouseleave", highlightOFF_1, false);
+        var watcher = core_1.watchSize(el, function () {
+          return lineWidget_1.changed();
+        });
+        watcher.check();
+        // Marker is not created yet. Bind events later
+        setTimeout(function () {
+          marker.on("clear", function () {
+            watcher.stop();
+            lineWidget_1.clear();
+            // el.removeEventListener("mouseenter", highlightON_1, false);
+            // el.removeEventListener("mouseleave", highlightOFF_1, false);
+          });
+        }, 0);
+      }
+      marker = cm.markText(from, to, {
+        replacedWith: replacedWith,
+      });
+      return marker;
+    };
+    FoldHTML.prototype.makeStub = function () {
+      var ans = document.createElement("span");
+      ans.setAttribute("class", stubClass);
+      ans.textContent = this.stubText || "<HTML>";
+      return ans;
+    };
+    return FoldHTML;
+  })();
+  exports.FoldHTML = FoldHTML;
+  //#endregion
+  /** ADDON GETTER (Singleton Pattern): a editor can have only one FoldHTML instance */
+  exports.getAddon = core_1.Addon.Getter("FoldHTML", FoldHTML, exports.defaultOption /** if has options */);
+});
+
+const debug = (
+  typeof process === 'object' &&
+  process.env &&
+  process.env.NODE_DEBUG &&
+  /\bsemver\b/i.test(process.env.NODE_DEBUG)
+) ? (...args) => console.error('SEMVER', ...args)
+  : () => {};
+
+var debug_1 = debug;
+
+// Note: this is the semver.org version of the spec that it implements
+// Not necessarily the package version of this code.
+const SEMVER_SPEC_VERSION = '2.0.0';
+
+const MAX_LENGTH$1 = 256;
+const MAX_SAFE_INTEGER$1 = Number.MAX_SAFE_INTEGER ||
+  /* istanbul ignore next */ 9007199254740991;
+
+// Max safe segment length for coercion.
+const MAX_SAFE_COMPONENT_LENGTH = 16;
+
+var constants = {
+  SEMVER_SPEC_VERSION,
+  MAX_LENGTH: MAX_LENGTH$1,
+  MAX_SAFE_INTEGER: MAX_SAFE_INTEGER$1,
+  MAX_SAFE_COMPONENT_LENGTH
+};
+
+var re_1 = createCommonjsModule(function (module, exports) {
+const { MAX_SAFE_COMPONENT_LENGTH } = constants;
+
+exports = module.exports = {};
+
+// The actual regexps go on exports.re
+const re = exports.re = [];
+const src = exports.src = [];
+const t = exports.t = {};
+let R = 0;
+
+const createToken = (name, value, isGlobal) => {
+  const index = R++;
+  debug_1(index, value);
+  t[name] = index;
+  src[index] = value;
+  re[index] = new RegExp(value, isGlobal ? 'g' : undefined);
+};
+
+// The following Regular Expressions can be used for tokenizing,
+// validating, and parsing SemVer version strings.
+
+// ## Numeric Identifier
+// A single `0`, or a non-zero digit followed by zero or more digits.
+
+createToken('NUMERICIDENTIFIER', '0|[1-9]\\d*');
+createToken('NUMERICIDENTIFIERLOOSE', '[0-9]+');
+
+// ## Non-numeric Identifier
+// Zero or more digits, followed by a letter or hyphen, and then zero or
+// more letters, digits, or hyphens.
+
+createToken('NONNUMERICIDENTIFIER', '\\d*[a-zA-Z-][a-zA-Z0-9-]*');
+
+// ## Main Version
+// Three dot-separated numeric identifiers.
+
+createToken('MAINVERSION', `(${src[t.NUMERICIDENTIFIER]})\\.` +
+                   `(${src[t.NUMERICIDENTIFIER]})\\.` +
+                   `(${src[t.NUMERICIDENTIFIER]})`);
+
+createToken('MAINVERSIONLOOSE', `(${src[t.NUMERICIDENTIFIERLOOSE]})\\.` +
+                        `(${src[t.NUMERICIDENTIFIERLOOSE]})\\.` +
+                        `(${src[t.NUMERICIDENTIFIERLOOSE]})`);
+
+// ## Pre-release Version Identifier
+// A numeric identifier, or a non-numeric identifier.
+
+createToken('PRERELEASEIDENTIFIER', `(?:${src[t.NUMERICIDENTIFIER]
+}|${src[t.NONNUMERICIDENTIFIER]})`);
+
+createToken('PRERELEASEIDENTIFIERLOOSE', `(?:${src[t.NUMERICIDENTIFIERLOOSE]
+}|${src[t.NONNUMERICIDENTIFIER]})`);
+
+// ## Pre-release Version
+// Hyphen, followed by one or more dot-separated pre-release version
+// identifiers.
+
+createToken('PRERELEASE', `(?:-(${src[t.PRERELEASEIDENTIFIER]
+}(?:\\.${src[t.PRERELEASEIDENTIFIER]})*))`);
+
+createToken('PRERELEASELOOSE', `(?:-?(${src[t.PRERELEASEIDENTIFIERLOOSE]
+}(?:\\.${src[t.PRERELEASEIDENTIFIERLOOSE]})*))`);
+
+// ## Build Metadata Identifier
+// Any combination of digits, letters, or hyphens.
+
+createToken('BUILDIDENTIFIER', '[0-9A-Za-z-]+');
+
+// ## Build Metadata
+// Plus sign, followed by one or more period-separated build metadata
+// identifiers.
+
+createToken('BUILD', `(?:\\+(${src[t.BUILDIDENTIFIER]
+}(?:\\.${src[t.BUILDIDENTIFIER]})*))`);
+
+// ## Full Version String
+// A main version, followed optionally by a pre-release version and
+// build metadata.
+
+// Note that the only major, minor, patch, and pre-release sections of
+// the version string are capturing groups.  The build metadata is not a
+// capturing group, because it should not ever be used in version
+// comparison.
+
+createToken('FULLPLAIN', `v?${src[t.MAINVERSION]
+}${src[t.PRERELEASE]}?${
+  src[t.BUILD]}?`);
+
+createToken('FULL', `^${src[t.FULLPLAIN]}$`);
+
+// like full, but allows v1.2.3 and =1.2.3, which people do sometimes.
+// also, 1.0.0alpha1 (prerelease without the hyphen) which is pretty
+// common in the npm registry.
+createToken('LOOSEPLAIN', `[v=\\s]*${src[t.MAINVERSIONLOOSE]
+}${src[t.PRERELEASELOOSE]}?${
+  src[t.BUILD]}?`);
+
+createToken('LOOSE', `^${src[t.LOOSEPLAIN]}$`);
+
+createToken('GTLT', '((?:<|>)?=?)');
+
+// Something like "2.*" or "1.2.x".
+// Note that "x.x" is a valid xRange identifer, meaning "any version"
+// Only the first item is strictly required.
+createToken('XRANGEIDENTIFIERLOOSE', `${src[t.NUMERICIDENTIFIERLOOSE]}|x|X|\\*`);
+createToken('XRANGEIDENTIFIER', `${src[t.NUMERICIDENTIFIER]}|x|X|\\*`);
+
+createToken('XRANGEPLAIN', `[v=\\s]*(${src[t.XRANGEIDENTIFIER]})` +
+                   `(?:\\.(${src[t.XRANGEIDENTIFIER]})` +
+                   `(?:\\.(${src[t.XRANGEIDENTIFIER]})` +
+                   `(?:${src[t.PRERELEASE]})?${
+                     src[t.BUILD]}?` +
+                   `)?)?`);
+
+createToken('XRANGEPLAINLOOSE', `[v=\\s]*(${src[t.XRANGEIDENTIFIERLOOSE]})` +
+                        `(?:\\.(${src[t.XRANGEIDENTIFIERLOOSE]})` +
+                        `(?:\\.(${src[t.XRANGEIDENTIFIERLOOSE]})` +
+                        `(?:${src[t.PRERELEASELOOSE]})?${
+                          src[t.BUILD]}?` +
+                        `)?)?`);
+
+createToken('XRANGE', `^${src[t.GTLT]}\\s*${src[t.XRANGEPLAIN]}$`);
+createToken('XRANGELOOSE', `^${src[t.GTLT]}\\s*${src[t.XRANGEPLAINLOOSE]}$`);
+
+// Coercion.
+// Extract anything that could conceivably be a part of a valid semver
+createToken('COERCE', `${'(^|[^\\d])' +
+              '(\\d{1,'}${MAX_SAFE_COMPONENT_LENGTH}})` +
+              `(?:\\.(\\d{1,${MAX_SAFE_COMPONENT_LENGTH}}))?` +
+              `(?:\\.(\\d{1,${MAX_SAFE_COMPONENT_LENGTH}}))?` +
+              `(?:$|[^\\d])`);
+createToken('COERCERTL', src[t.COERCE], true);
+
+// Tilde ranges.
+// Meaning is "reasonably at or greater than"
+createToken('LONETILDE', '(?:~>?)');
+
+createToken('TILDETRIM', `(\\s*)${src[t.LONETILDE]}\\s+`, true);
+exports.tildeTrimReplace = '$1~';
+
+createToken('TILDE', `^${src[t.LONETILDE]}${src[t.XRANGEPLAIN]}$`);
+createToken('TILDELOOSE', `^${src[t.LONETILDE]}${src[t.XRANGEPLAINLOOSE]}$`);
+
+// Caret ranges.
+// Meaning is "at least and backwards compatible with"
+createToken('LONECARET', '(?:\\^)');
+
+createToken('CARETTRIM', `(\\s*)${src[t.LONECARET]}\\s+`, true);
+exports.caretTrimReplace = '$1^';
+
+createToken('CARET', `^${src[t.LONECARET]}${src[t.XRANGEPLAIN]}$`);
+createToken('CARETLOOSE', `^${src[t.LONECARET]}${src[t.XRANGEPLAINLOOSE]}$`);
+
+// A simple gt/lt/eq thing, or just "" to indicate "any version"
+createToken('COMPARATORLOOSE', `^${src[t.GTLT]}\\s*(${src[t.LOOSEPLAIN]})$|^$`);
+createToken('COMPARATOR', `^${src[t.GTLT]}\\s*(${src[t.FULLPLAIN]})$|^$`);
+
+// An expression to strip any whitespace between the gtlt and the thing
+// it modifies, so that `> 1.2.3` ==> `>1.2.3`
+createToken('COMPARATORTRIM', `(\\s*)${src[t.GTLT]
+}\\s*(${src[t.LOOSEPLAIN]}|${src[t.XRANGEPLAIN]})`, true);
+exports.comparatorTrimReplace = '$1$2$3';
+
+// Something like `1.2.3 - 1.2.4`
+// Note that these all use the loose form, because they'll be
+// checked against either the strict or loose comparator form
+// later.
+createToken('HYPHENRANGE', `^\\s*(${src[t.XRANGEPLAIN]})` +
+                   `\\s+-\\s+` +
+                   `(${src[t.XRANGEPLAIN]})` +
+                   `\\s*$`);
+
+createToken('HYPHENRANGELOOSE', `^\\s*(${src[t.XRANGEPLAINLOOSE]})` +
+                        `\\s+-\\s+` +
+                        `(${src[t.XRANGEPLAINLOOSE]})` +
+                        `\\s*$`);
+
+// Star ranges basically just allow anything at all.
+createToken('STAR', '(<|>)?=?\\s*\\*');
+// >=0.0.0 is like a star
+createToken('GTE0', '^\\s*>=\\s*0\.0\.0\\s*$');
+createToken('GTE0PRE', '^\\s*>=\\s*0\.0\.0-0\\s*$');
+});
+
+// parse out just the options we care about so we always get a consistent
+// obj with keys in a consistent order.
+const opts = ['includePrerelease', 'loose', 'rtl'];
+const parseOptions = options =>
+  !options ? {}
+  : typeof options !== 'object' ? { loose: true }
+  : opts.filter(k => options[k]).reduce((options, k) => {
+    options[k] = true;
+    return options
+  }, {});
+var parseOptions_1 = parseOptions;
+
+const numeric = /^[0-9]+$/;
+const compareIdentifiers$1 = (a, b) => {
+  const anum = numeric.test(a);
+  const bnum = numeric.test(b);
+
+  if (anum && bnum) {
+    a = +a;
+    b = +b;
+  }
+
+  return a === b ? 0
+    : (anum && !bnum) ? -1
+    : (bnum && !anum) ? 1
+    : a < b ? -1
+    : 1
+};
+
+const rcompareIdentifiers = (a, b) => compareIdentifiers$1(b, a);
+
+var identifiers = {
+  compareIdentifiers: compareIdentifiers$1,
+  rcompareIdentifiers
+};
+
+const { MAX_LENGTH, MAX_SAFE_INTEGER } = constants;
+const { re, t } = re_1;
+
+
+const { compareIdentifiers } = identifiers;
+class SemVer {
+  constructor (version, options) {
+    options = parseOptions_1(options);
+
+    if (version instanceof SemVer) {
+      if (version.loose === !!options.loose &&
+          version.includePrerelease === !!options.includePrerelease) {
+        return version
+      } else {
+        version = version.version;
+      }
+    } else if (typeof version !== 'string') {
+      throw new TypeError(`Invalid Version: ${version}`)
+    }
+
+    if (version.length > MAX_LENGTH) {
+      throw new TypeError(
+        `version is longer than ${MAX_LENGTH} characters`
+      )
+    }
+
+    debug_1('SemVer', version, options);
+    this.options = options;
+    this.loose = !!options.loose;
+    // this isn't actually relevant for versions, but keep it so that we
+    // don't run into trouble passing this.options around.
+    this.includePrerelease = !!options.includePrerelease;
+
+    const m = version.trim().match(options.loose ? re[t.LOOSE] : re[t.FULL]);
+
+    if (!m) {
+      throw new TypeError(`Invalid Version: ${version}`)
+    }
+
+    this.raw = version;
+
+    // these are actually numbers
+    this.major = +m[1];
+    this.minor = +m[2];
+    this.patch = +m[3];
+
+    if (this.major > MAX_SAFE_INTEGER || this.major < 0) {
+      throw new TypeError('Invalid major version')
+    }
+
+    if (this.minor > MAX_SAFE_INTEGER || this.minor < 0) {
+      throw new TypeError('Invalid minor version')
+    }
+
+    if (this.patch > MAX_SAFE_INTEGER || this.patch < 0) {
+      throw new TypeError('Invalid patch version')
+    }
+
+    // numberify any prerelease numeric ids
+    if (!m[4]) {
+      this.prerelease = [];
+    } else {
+      this.prerelease = m[4].split('.').map((id) => {
+        if (/^[0-9]+$/.test(id)) {
+          const num = +id;
+          if (num >= 0 && num < MAX_SAFE_INTEGER) {
+            return num
+          }
+        }
+        return id
+      });
+    }
+
+    this.build = m[5] ? m[5].split('.') : [];
+    this.format();
+  }
+
+  format () {
+    this.version = `${this.major}.${this.minor}.${this.patch}`;
+    if (this.prerelease.length) {
+      this.version += `-${this.prerelease.join('.')}`;
+    }
+    return this.version
+  }
+
+  toString () {
+    return this.version
+  }
+
+  compare (other) {
+    debug_1('SemVer.compare', this.version, this.options, other);
+    if (!(other instanceof SemVer)) {
+      if (typeof other === 'string' && other === this.version) {
+        return 0
+      }
+      other = new SemVer(other, this.options);
+    }
+
+    if (other.version === this.version) {
+      return 0
+    }
+
+    return this.compareMain(other) || this.comparePre(other)
+  }
+
+  compareMain (other) {
+    if (!(other instanceof SemVer)) {
+      other = new SemVer(other, this.options);
+    }
+
+    return (
+      compareIdentifiers(this.major, other.major) ||
+      compareIdentifiers(this.minor, other.minor) ||
+      compareIdentifiers(this.patch, other.patch)
+    )
+  }
+
+  comparePre (other) {
+    if (!(other instanceof SemVer)) {
+      other = new SemVer(other, this.options);
+    }
+
+    // NOT having a prerelease is > having one
+    if (this.prerelease.length && !other.prerelease.length) {
+      return -1
+    } else if (!this.prerelease.length && other.prerelease.length) {
+      return 1
+    } else if (!this.prerelease.length && !other.prerelease.length) {
+      return 0
+    }
+
+    let i = 0;
+    do {
+      const a = this.prerelease[i];
+      const b = other.prerelease[i];
+      debug_1('prerelease compare', i, a, b);
+      if (a === undefined && b === undefined) {
+        return 0
+      } else if (b === undefined) {
+        return 1
+      } else if (a === undefined) {
+        return -1
+      } else if (a === b) {
+        continue
+      } else {
+        return compareIdentifiers(a, b)
+      }
+    } while (++i)
+  }
+
+  compareBuild (other) {
+    if (!(other instanceof SemVer)) {
+      other = new SemVer(other, this.options);
+    }
+
+    let i = 0;
+    do {
+      const a = this.build[i];
+      const b = other.build[i];
+      debug_1('prerelease compare', i, a, b);
+      if (a === undefined && b === undefined) {
+        return 0
+      } else if (b === undefined) {
+        return 1
+      } else if (a === undefined) {
+        return -1
+      } else if (a === b) {
+        continue
+      } else {
+        return compareIdentifiers(a, b)
+      }
+    } while (++i)
+  }
+
+  // preminor will bump the version up to the next minor release, and immediately
+  // down to pre-release. premajor and prepatch work the same way.
+  inc (release, identifier) {
+    switch (release) {
+      case 'premajor':
+        this.prerelease.length = 0;
+        this.patch = 0;
+        this.minor = 0;
+        this.major++;
+        this.inc('pre', identifier);
+        break
+      case 'preminor':
+        this.prerelease.length = 0;
+        this.patch = 0;
+        this.minor++;
+        this.inc('pre', identifier);
+        break
+      case 'prepatch':
+        // If this is already a prerelease, it will bump to the next version
+        // drop any prereleases that might already exist, since they are not
+        // relevant at this point.
+        this.prerelease.length = 0;
+        this.inc('patch', identifier);
+        this.inc('pre', identifier);
+        break
+      // If the input is a non-prerelease version, this acts the same as
+      // prepatch.
+      case 'prerelease':
+        if (this.prerelease.length === 0) {
+          this.inc('patch', identifier);
+        }
+        this.inc('pre', identifier);
+        break
+
+      case 'major':
+        // If this is a pre-major version, bump up to the same major version.
+        // Otherwise increment major.
+        // 1.0.0-5 bumps to 1.0.0
+        // 1.1.0 bumps to 2.0.0
+        if (
+          this.minor !== 0 ||
+          this.patch !== 0 ||
+          this.prerelease.length === 0
+        ) {
+          this.major++;
+        }
+        this.minor = 0;
+        this.patch = 0;
+        this.prerelease = [];
+        break
+      case 'minor':
+        // If this is a pre-minor version, bump up to the same minor version.
+        // Otherwise increment minor.
+        // 1.2.0-5 bumps to 1.2.0
+        // 1.2.1 bumps to 1.3.0
+        if (this.patch !== 0 || this.prerelease.length === 0) {
+          this.minor++;
+        }
+        this.patch = 0;
+        this.prerelease = [];
+        break
+      case 'patch':
+        // If this is not a pre-release version, it will increment the patch.
+        // If it is a pre-release it will bump up to the same patch version.
+        // 1.2.0-5 patches to 1.2.0
+        // 1.2.0 patches to 1.2.1
+        if (this.prerelease.length === 0) {
+          this.patch++;
+        }
+        this.prerelease = [];
+        break
+      // This probably shouldn't be used publicly.
+      // 1.0.0 'pre' would become 1.0.0-0 which is the wrong direction.
+      case 'pre':
+        if (this.prerelease.length === 0) {
+          this.prerelease = [0];
+        } else {
+          let i = this.prerelease.length;
+          while (--i >= 0) {
+            if (typeof this.prerelease[i] === 'number') {
+              this.prerelease[i]++;
+              i = -2;
+            }
+          }
+          if (i === -1) {
+            // didn't increment anything
+            this.prerelease.push(0);
+          }
+        }
+        if (identifier) {
+          // 1.2.0-beta.1 bumps to 1.2.0-beta.2,
+          // 1.2.0-beta.fooblz or 1.2.0-beta bumps to 1.2.0-beta.0
+          if (this.prerelease[0] === identifier) {
+            if (isNaN(this.prerelease[1])) {
+              this.prerelease = [identifier, 0];
+            }
+          } else {
+            this.prerelease = [identifier, 0];
+          }
+        }
+        break
+
+      default:
+        throw new Error(`invalid increment argument: ${release}`)
+    }
+    this.format();
+    this.raw = this.version;
+    return this
+  }
+}
+
+var semver = SemVer;
+
+const compare = (a, b, loose) =>
+  new semver(a, loose).compare(new semver(b, loose));
+
+var compare_1 = compare;
+
+const gte = (a, b, loose) => compare_1(a, b, loose) >= 0;
+var gte_1 = gte;
+
+// HyperMD, copyright (c) by laobubu
+
+(function (mod) {
+  mod(null, {}, CodeMirror, HyperMD.Fold, HyperMD.FoldCode);
+})(function (require, exports, CodeMirror, fold_1, fold_code_1) {
+  var dependencyCheck = function () {
+    const plugin = window.app.plugins.getPlugin("obsidian-admonition");
+    return plugin?._loaded && gte_1(plugin?.manifest.version, "6.3.6") ? true : false;
+  };
+  var AdmonitionRenderer = function (code, info) {
+    const adType = info.lang.substring(3);
+    var el = document.createElement("div");
+    var asyncRenderer;
+    if (dependencyCheck()) {
+      asyncRenderer = () => {
+        try {
+          window.app.plugins
+            .getPlugin("obsidian-admonition")
+            .postprocessor(adType, code, el, info.editor.state.fileName);
+        } catch (error) {
+          el.innerText = "Failed to render Admonition: " + error;
+        }
+      };
+    } else {
+      el.innerText = "Error: Unable to find the Admonitions plugin or Admonition version not 6.3.6 or higher";
+    }
+    return {
+      element: el,
+      asyncRenderer: asyncRenderer,
+    };
+  };
+  exports.AdmonitionRenderer = AdmonitionRenderer;
+
+  CodeMirror.defineOption("admonition", null, function (cm) {
+    fold_code_1.getAddon(cm).clear("admonition");
+    fold_1.getAddon(cm).startFold();
+  });
+  fold_code_1.registerRenderer({
+    name: "admonition",
+    pattern: /^ad-(?:[a-z]+)$/i,
+    renderer: exports.AdmonitionRenderer,
+    suggested: false,
+  });
+});
+
+// HyperMD, copyright (c) by laobubu
+// Distributed under an MIT license: http://laobubu.net/HyperMD/LICENSE
+//
+// POWERPACK for "addon/fold-code"
+//
+// This module provides `ChartRenderer` for FoldCode addon
+
+(function (mod) {
+  mod(null, {}, CodeMirror, HyperMD.Fold, HyperMD.FoldCode);
+})(function (require, exports, CodeMirror, fold_1, fold_code_1) {
+  Object.defineProperty(exports, "__esModule", { value: true });
+  exports.ChartRenderer = void 0;
+  var dependencyCheck = function () {
+    return window.app.plugins.getPlugin("obsidian-charts")?._loaded ? true : false;
+  };
+  var ChartRenderer = function (code, info) {
+    var el = document.createElement("div");
+    if (dependencyCheck()) {
+      window.app.plugins.getPlugin("obsidian-charts").postprocessor(code, el);
+    } else {
+      el.innerText = "Error: Unable to find the Obsidian Charts plugin";
+    }
+    return {
+      element: el,
+      asyncRenderer: null,
+    };
+  };
+  exports.ChartRenderer = ChartRenderer;
+  {
+    CodeMirror.defineOption("chart", null, function (cm) {
+      fold_code_1.getAddon(cm).clear("chart");
+      fold_1.getAddon(cm).startFold();
+    });
+    fold_code_1.registerRenderer({
+      name: "chart",
+      pattern: /^chart$/i,
+      renderer: exports.ChartRenderer,
+      suggested: true,
+    });
+  }
+});
+
+// HyperMD, copyright (c) by laobubu
+// Distributed under an MIT license: http://laobubu.net/HyperMD/LICENSE
+//
+// POWERPACK for "addon/fold-code"
+//
+// This module provides `QueryRenderer` for FoldCode addon
+
+(function (mod) {
+  mod(null, {}, CodeMirror, HyperMD.Fold, HyperMD.FoldCode);
+})(function (require, exports, CodeMirror, fold_1, fold_code_1) {
+  var dependencyCheck = function () {
+    return window.app.internalPlugins.getPluginById("global-search")?._loaded;
+  };
+  const purifySettings = {
+    ALLOW_UNKNOWN_PROTOCOLS: true,
+    IN_PLACE: true,
+    // RETURN_DOM_FRAGMENT: true,
+    // RETURN_DOM_IMPORT: true,
+    FORBID_TAGS: ["style"],
+    ADD_TAGS: ["iframe"],
+    ADD_ATTR: ["frameborder", "allowfullscreen", "allow", "aria-label-position"],
+  };
+  var QueryRenderer = function (code, info) {
+    // Welcome to the very hacky query renderer code
+    // Here we pretend to be a preview mode section and steal the rendered element
+    var queryEl = document.createElement("div");
+    if (dependencyCheck()) {
+      var promises = [];
+      const previewMode = window.app.workspace.activeLeaf.view.previewMode,
+        renderer = previewMode.renderer;
+      queryEl.innerHTML = `<pre><code class="language-query">${code}</code></pre>`;
+      // Sanitize the HTML to make sure there's no funny business
+      window.DOMPurify.sanitize(queryEl, purifySettings);
+      renderer.owner.postProcess({ el: queryEl }, promises, renderer.frontmatter);
+      // But wait... we have to clean up after ourselves so that we don't cause a memory leak
+      // We do so by removing the node we just created from the preview mode's child list
+      setTimeout(() => {
+        renderer.owner._children.forEach(child => {
+          if (child.containerEl === queryEl.firstChild) {
+            child.unload();
+            previewMode.removeChild(child);
+          }
+        });
+        // we naively wait here because search query results are async
+        // if we clean up too fast, we don't get results
+      }, 5000);
+    } else {
+      queryEl.innerText = "Error: Unable to find the Global Search plugin";
+    }
+    return {
+      element: queryEl,
+      asyncRenderer: null,
+    };
+  };
+  exports.QueryRenderer = QueryRenderer;
+
+  CodeMirror.defineOption("query", null, function (cm) {
+    fold_code_1.getAddon(cm).clear("query");
+    fold_1.getAddon(cm).startFold();
+  });
+  fold_code_1.registerRenderer({
+    name: "query",
+    pattern: /^query$/i,
+    renderer: exports.QueryRenderer,
+    suggested: false,
+  });
+});
+
+// HyperMD, copyright (c) by laobubu
+
+(function (mod) {
+  mod(null, {}, CodeMirror, HyperMD.Fold, HyperMD.FoldCode);
+})(function (require, exports, CodeMirror, fold_1, fold_code_1) {
+  var dependencyCheck = function () {
+    const plugin = window.app.plugins.getPlugin("dataview");
+    return plugin?._loaded && gte_1(plugin?.manifest.version, "0.4.17") ? true : false;
+  };
+  var DataviewRenderer = function (code, info) {
+    var el = document.createElement("div");
+    var ctx = new obsidian.Component();
+    ctx.sourcePath = info.editor.filePath;
+    if (dependencyCheck()) {
+      if (info.lang === "dataview") {
+        window.app.plugins.getPlugin("dataview").dataview(code, el, ctx, ctx.sourcePath);
+      } else if (info.lang === "dataviewjs") {
+        window.app.plugins.getPlugin("dataview").dataviewjs(code, el, ctx, ctx.sourcePath);
+      }
+      ctx.load();
+      el = ctx._children[0].containerEl;
+      setTimeout(() => {
+        ctx._children[0].unload();
+        ctx.unload();
+      }, 500);
+      return {
+        element: el,
+        asyncRenderer: null,
+      };
+    } else {
+      el.innerText = "Error: Unable to find the Dataview plugin or version not 0.4.17 or greater";
+    }
+
+    return {
+      element: el,
+      asyncRenderer: null,
+    };
+  };
+  exports.DataviewRenderer = DataviewRenderer;
+  CodeMirror.defineOption("dataview", null, function (cm) {
+    fold_code_1.getAddon(cm).clear("dataview");
+    fold_1.getAddon(cm).startFold();
+  });
+  fold_code_1.registerRenderer({
+    name: "dataview",
+    pattern: /^dataview(js)?$/i,
+    renderer: exports.DataviewRenderer,
+    suggested: false,
+  });
+});
+
 // HyperMD, copyright (c) by laobubu
 // Distributed under an MIT license: http://laobubu.net/HyperMD/LICENSE
 //
 // DESCRIPTION: Align Table Columns
 //
-var __createBinding =
-  (commonjsGlobal && commonjsGlobal.__createBinding) ||
-  (Object.create
-    ? function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        Object.defineProperty(o, k2, {
-          enumerable: true,
-          get: function () {
-            return m[k];
-          },
-        });
-      }
-    : function (o, m, k, k2) {
-        if (k2 === undefined) k2 = k;
-        o[k2] = m[k];
-      });
-var __setModuleDefault =
-  (commonjsGlobal && commonjsGlobal.__setModuleDefault) ||
-  (Object.create
-    ? function (o, v) {
-        Object.defineProperty(o, "default", { enumerable: true, value: v });
-      }
-    : function (o, v) {
-        o["default"] = v;
-      });
-var __importStar =
-  (commonjsGlobal && commonjsGlobal.__importStar) ||
-  function (mod) {
-    if (mod && mod.__esModule) return mod;
-    var result = {};
-    if (mod != null)
-      for (var k in mod)
-        if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
-    __setModuleDefault(result, mod);
-    return result;
-  };
+
 
 (function (mod) {
   mod(null, (HyperMD.TableAlign = HyperMD.TableAlign || {}), CodeMirror, HyperMD);
 })(function (require, exports, CodeMirror, core_1) {
   Object.defineProperty(exports, "__esModule", { value: true });
   exports.getAddon = exports.TableAlign = exports.suggestedOption = exports.defaultOption = void 0;
-  CodeMirror = __importStar(CodeMirror);
+  // CodeMirror = __importStar(CodeMirror);
   exports.defaultOption = {
     enabled: false,
   };
@@ -4316,6 +5497,7 @@ var __importStar =
         var lineSpanChildren = Array.prototype.slice.call(lineSpan.childNodes, 0);
         var eolState = cm.getStateAfter(line.lineNo());
         var columnStyles = eolState.hmdTableColumns;
+        if (!columnStyles.length) return;
         var tableID = eolState.hmdTableID;
         var columnIdx = eolState.hmdTable === 2 /* NORMAL */ ? -1 : 0;
         var columnSpan = _this.makeColumn(columnIdx, columnStyles[columnIdx] || "dummy", tableID);
@@ -4408,27 +5590,117 @@ var __importStar =
   /** ADDON GETTER (Singleton Pattern): a editor can have only one TableAlign instance */
   exports.getAddon = core_1.Addon.Getter("TableAlign", TableAlign, exports.defaultOption);
 });
-});
+
+function around(obj, factories) {
+    const removers = Object.keys(factories).map(key => around1(obj, key, factories[key]));
+    return removers.length === 1 ? removers[0] : function () { removers.forEach(r => r()); };
+}
+function around1(obj, method, createWrapper) {
+    const original = obj[method], hadOwn = obj.hasOwnProperty(method);
+    let current = createWrapper(original);
+    // Let our wrapper inherit static props from the wrapping method,
+    // and the wrapping method, props from the original method
+    if (original)
+        Object.setPrototypeOf(current, original);
+    Object.setPrototypeOf(wrapper, current);
+    obj[method] = wrapper;
+    // Return a callback to allow safe removal
+    return remove;
+    function wrapper(...args) {
+        // If we have been deactivated and are no longer wrapped, remove ourselves
+        if (current === original && obj[method] === wrapper)
+            remove();
+        return current.apply(this, args);
+    }
+    function remove() {
+        // If no other patches, just do a direct removal
+        if (obj[method] === wrapper) {
+            if (hadOwn)
+                obj[method] = original;
+            else
+                delete obj[method];
+        }
+        if (current === original)
+            return;
+        // Else pass future calls through, and remove wrapper from the prototype chain
+        current = original;
+        Object.setPrototypeOf(wrapper, original || Function);
+    }
+}
 
 var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
     __extends(ObsidianCodeMirrorOptionsPlugin, _super);
     function ObsidianCodeMirrorOptionsPlugin() {
-        var _this = _super !== null && _super.apply(this, arguments) || this;
-        _this.mdProcessor = function (el) { return __awaiter(_this, void 0, void 0, function () {
-            var _this = this;
+        var _this_1 = _super !== null && _super.apply(this, arguments) || this;
+        _this_1.onImageContextMenu = function (event, target) {
+            // the "editor-menu" event does not include the MouseEvent or the target HTMLElement
+            // so instead, we create this stanadard context menu event handler and hook it into
+            // the "editor-menu" event temporarily
+            var boundFunc = _this_1.onEditorMenu.bind(_this_1, target);
+            _this_1.app.workspace.on("editor-menu", boundFunc);
+            setTimeout(function () {
+                _this_1.app.workspace.off("editor-menu", boundFunc);
+            }, 100);
+        };
+        _this_1.onEditorMenu = function (target, menu) {
+            var file;
+            if (target.dataset.path) {
+                file = _this_1.app.vault.getAbstractFileByPath(target.dataset.path);
+                if (!(file instanceof obsidian.TFile))
+                    return;
+            }
+            else if (/^https/i.test(target.getAttribute("src"))) {
+                file = target.getAttribute("src");
+            }
+            if (file)
+                _this_1.addContextMenuItem(menu, file);
+        };
+        _this_1.addContextMenuItem = function (menu, imageFile) {
+            menu.addItem(function (menuItem) {
+                menuItem.setTitle("Copy Image to Clipboard");
+                menuItem.setIcon("image-file");
+                menuItem.onClick(function () { return __awaiter(_this_1, void 0, void 0, function () {
+                    var blob, buffer, arr, item;
+                    return __generator(this, function (_a) {
+                        switch (_a.label) {
+                            case 0:
+                                if (!(imageFile instanceof obsidian.TFile)) return [3 /*break*/, 2];
+                                return [4 /*yield*/, this.app.vault.adapter.readBinary(imageFile.path)];
+                            case 1:
+                                buffer = _a.sent();
+                                arr = new Uint8Array(buffer);
+                                blob = new Blob([arr], { type: "image/png" });
+                                return [3 /*break*/, 5];
+                            case 2: return [4 /*yield*/, fetch(imageFile)];
+                            case 3: return [4 /*yield*/, (_a.sent()).blob()];
+                            case 4:
+                                blob = _a.sent();
+                                _a.label = 5;
+                            case 5:
+                                item = new ClipboardItem({ "image/png": blob });
+                                //@ts-ignore
+                                window.navigator.clipboard.write([item]);
+                                return [2 /*return*/];
+                        }
+                    });
+                }); });
+            });
+        };
+        _this_1.mdProcessor = function (el) { return __awaiter(_this_1, void 0, void 0, function () {
+            var _this_1 = this;
             return __generator(this, function (_a) {
                 setTimeout(function () {
-                    _this.injectCM(el);
+                    _this_1.injectCM(el);
                 }, 100);
                 return [2 /*return*/];
             });
         }); };
-        _this.onImageClick = function (args) {
+        _this_1.onImageClick = function (args) {
             args.breakMark(args.editor, args.marker);
         };
-        _this.updateCodeMirrorOption = obsidian.debounce(function (optionKey, optionValue, refresh) {
+        _this_1.updateCodeMirrorOption = obsidian.debounce(function (optionKey, optionValue, refresh) {
             if (refresh === void 0) { refresh = false; }
-            _this.app.workspace.iterateCodeMirrors(function (cm) {
+            _this_1.app.workspace.iterateCodeMirrors(function (cm) {
                 if (cm && cm.getOption(optionKey) != optionValue) {
                     cm.setOption(optionKey, optionValue);
                     if (refresh)
@@ -4436,10 +5708,10 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                 }
             });
         }, 400, true);
-        _this.updateCodeMirrorHandlers = obsidian.debounce(function (eventType, callback, enable, refresh) {
+        _this_1.updateCodeMirrorHandlers = obsidian.debounce(function (eventType, callback, enable, refresh) {
             if (enable === void 0) { enable = true; }
             if (refresh === void 0) { refresh = false; }
-            _this.app.workspace.iterateCodeMirrors(function (cm) {
+            _this_1.app.workspace.iterateCodeMirrors(function (cm) {
                 if (enable)
                     cm.on(eventType, callback);
                 else
@@ -4448,30 +5720,34 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     cm.refresh();
             });
         }, 0, true);
-        return _this;
+        return _this_1;
     }
     ObsidianCodeMirrorOptionsPlugin.prototype.onload = function () {
         return __awaiter(this, void 0, void 0, function () {
-            var _this = this;
+            var _this_1 = this;
             return __generator(this, function (_a) {
                 switch (_a.label) {
-                    case 0: 
-                    // load settings
-                    return [4 /*yield*/, this.loadSettings()];
+                    case 0:
+                        // patch the default Obsidian methods, ASAP
+                        this.applyMonkeyPatches();
+                        // load settings
+                        return [4 /*yield*/, this.loadSettings()];
                     case 1:
                         // load settings
                         _a.sent();
                         // add the settings tab
                         this.addSettingTab(new ObsidianCodeMirrorOptionsSettingsTab(this.app, this));
                         this.app.workspace.onLayoutReady(function () {
-                            _this.registerCodeMirrorSettings();
-                            _this.applyBodyClasses();
+                            _this_1.registerCodeMirrorSettings();
+                            _this_1.applyBodyClasses();
+                            _this_1.registerCommands();
                             setTimeout(function () {
                                 // workaround to ensure our plugin registers properly with Style Settings
-                                _this.app.workspace.trigger("css-change");
+                                _this_1.app.workspace.trigger("css-change");
                             }, 1000);
                         });
-                        this.registerCommands();
+                        document.on("contextmenu", "img.hmd-image", this.onImageContextMenu, false);
+                        document.on("contextmenu", ".rendered-widget img:not(.hmd-image)", this.onImageContextMenu, false);
                         return [2 /*return*/];
                 }
             });
@@ -4494,154 +5770,338 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
             });
         });
     };
+    ObsidianCodeMirrorOptionsPlugin.prototype.applyMonkeyPatches = function () {
+        // patching onLoadFile to clear CM specific state in order to avoid fold related memory leaks
+        // we also add the current file name to the CM state so that CM native actions have a reference
+        var patchOnLoadFile = around(obsidian.TextFileView.prototype, {
+            onLoadFile: function (old) {
+                // old is the original onLoadFile function
+                return function (file) {
+                    var _a;
+                    // NOTE: be careful with this code, if any part of it fails, it will block all other
+                    // plugins from loading files.
+                    var cm = (_a = this.sourceMode) === null || _a === void 0 ? void 0 : _a.editor.cm;
+                    if (cm) {
+                        cm.state.fileName = file.path;
+                        cm.hmd.Fold.folded = {}; // these objects can hold references to detached elements
+                        cm.hmd.FoldCode.folded = {}; // these objects can hold references to detached elements
+                    }
+                    return old.call(this, file); // call the orignal function and bind the current scope to it
+                };
+            },
+        });
+        this.register(patchOnLoadFile);
+        // patch the preview mode click handlers so that we get preview context menus on edit mode rendered widgets
+        var patchSourceView = around(obsidian.MarkdownSourceView.prototype, {
+            attachDomEvents: function (old) {
+                return function () {
+                    // eslint-disable-next-line @typescript-eslint/no-this-alias
+                    var _this = this, editorEl = this.editorEl;
+                    editorEl.addEventListener("mousedown", this.onCodeMirrorMousedown.bind(this)),
+                        editorEl.addEventListener("contextmenu", function (event) {
+                            if (event &&
+                                event.path.length &&
+                                event.path.filter(function (el) { return el.hasClass && el.hasClass("rendered-widget"); }).length &&
+                                event.path[0].tagName !== "IMG") {
+                                return;
+                            }
+                            return _this.clipboardManager.onContextMenu(event);
+                        }, { capture: true }),
+                        editorEl.on("mouseover", ".cm-hmd-internal-link", this.onInternalLinkMouseover.bind(this));
+                };
+            },
+        });
+        this.register(patchSourceView);
+        var patchRenderer = around(obsidian.MarkdownPreviewRenderer.prototype, {
+            onInternalLinkContextMenu: function (old) {
+                return function (event, el) {
+                    var href = this.getInternalLinkHref(el);
+                    href && this.owner.onInternalLinkRightClick(event, el, href);
+                };
+            },
+            onResize: function (old) {
+                return function () {
+                    var _this_1 = this;
+                    setTimeout(function () {
+                        var _a;
+                        var editor = (_a = _this_1.owner.app.workspace.activeLeaf) === null || _a === void 0 ? void 0 : _a.view.sourceMode.editorEl;
+                        if (editor && !_this_1.widgetHandlersRegistered && _this_1.owner.type === "preview") {
+                            _this_1.widgetHandlersRegistered = true;
+                            editor.on("click", ".rendered-widget a.internal-link", _this_1.onInternalLinkClick.bind(_this_1));
+                            editor.on("auxclick", ".rendered-widget a.internal-link", _this_1.onInternalLinkClick.bind(_this_1));
+                            editor.on("contextmenu", ".rendered-widget a.internal-link", _this_1.onInternalLinkContextMenu.bind(_this_1));
+                            // editor.on("mouseover", ".rendered-widget a.internal-link", this.onInternalLinkMouseover.bind(this));
+                            editor.on("click", ".rendered-widget a.external-link", _this_1.onExternalLinkClick.bind(_this_1));
+                            editor.on("click", ".rendered-widget a.footnote-link", _this_1.onFootnoteLinkClick.bind(_this_1));
+                            editor.on("click", ".rendered-widget .task-list-item-checkbox", _this_1.onCheckboxClick.bind(_this_1));
+                            editor.on("click", ".rendered-widget a.tag", _this_1.onTagClick.bind(_this_1));
+                            editor.on("click", ".rendered-widget a.internal-query", _this_1.onInternalQueryClick.bind(_this_1));
+                            editor.on("click", ".rendered-widget .heading-collapse-indicator", _this_1.onHeadingCollapseClick.bind(_this_1));
+                            editor.on("click", ".rendered-widget li > .list-collapse-indicator", _this_1.onListCollapseClick.bind(_this_1));
+                            // editor.on("click", ".rendered-widget img", this.onImageClick.bind(this));
+                        }
+                    }, 100);
+                    return old.call(this);
+                };
+            },
+            belongsToMe: function (old) {
+                return function (el) {
+                    // save the original element so we can pass it to the original method
+                    var _el = el;
+                    // check to see if the element is a sibling of a rendered widget
+                    for (; el;) {
+                        if (el.hasClass("rendered-widget") && el.tagName !== "IMG") {
+                            return true;
+                        }
+                        var parentEl = el.parentElement;
+                        if (!parentEl)
+                            return old.call(this, _el);
+                        el = parentEl;
+                    }
+                };
+            },
+        });
+        this.register(patchRenderer);
+    };
     ObsidianCodeMirrorOptionsPlugin.prototype.registerCommands = function () {
-        var _this = this;
+        var _this_1 = this;
         this.addCommand({
             id: "toggle-openmd",
             name: "Toggle OpenMD Mode",
             callback: function () {
-                _this.settings.enableOpenMD = !_this.settings.enableOpenMD;
-                _this.saveData(_this.settings);
-                _this.updateCodeMirrorOption("mode", _this.settings.enableOpenMD ? "openmd" : "hypermd");
+                _this_1.settings.enableOpenMD = !_this_1.settings.enableOpenMD;
+                _this_1.saveData(_this_1.settings);
+                _this_1.updateCodeMirrorOption("mode", _this_1.settings.enableOpenMD ? "openmd" : "hypermd");
             },
         });
         this.addCommand({
             id: "toggle-hide-tokens",
             name: "Toggle Hide Markdown Tokens",
             callback: function () {
-                _this.settings.editModeHideTokens = !_this.settings.editModeHideTokens;
-                _this.saveData(_this.settings);
-                _this.updateCodeMirrorOption("hmdHideToken", _this.settings.editModeHideTokens ? _this.settings.tokenList : false);
-                _this.applyBodyClasses();
+                _this_1.settings.editModeHideTokens = !_this_1.settings.editModeHideTokens;
+                _this_1.saveData(_this_1.settings);
+                _this_1.updateCodeMirrorOption("hmdHideToken", _this_1.settings.editModeHideTokens ? _this_1.settings.tokenList : false);
+                _this_1.applyBodyClasses();
             },
         });
         this.addCommand({
             id: "toggle-click-handler",
             name: "Toggle Edit Mode Click Handler",
             callback: function () {
-                _this.settings.editModeClickHandler = !_this.settings.editModeClickHandler;
-                _this.saveData(_this.settings);
-                _this.updateCodeMirrorOption("hmdClick", _this.settings.editModeClickHandler);
+                _this_1.settings.editModeClickHandler = !_this_1.settings.editModeClickHandler;
+                _this_1.saveData(_this_1.settings);
+                _this_1.updateCodeMirrorOption("hmdClick", _this_1.settings.editModeClickHandler);
             },
         });
         this.addCommand({
             id: "toggle-collapse-links",
             name: "Toggle Collapse External Links",
             callback: function () {
-                _this.settings.foldLinks = !_this.settings.foldLinks;
-                _this.saveData(_this.settings);
-                _this.updateCodeMirrorOption("hmdFold", !_this.settings.foldImages && !_this.settings.foldLinks
-                    ? false
-                    : {
-                        image: _this.settings.foldImages,
-                        link: _this.settings.foldLinks,
-                    });
+                _this_1.settings.foldLinks = !_this_1.settings.foldLinks;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses();
+                _this_1.updateCodeMirrorOption("hmdFold", {
+                    image: _this_1.settings.foldImages,
+                    link: _this_1.settings.foldLinks,
+                    html: _this_1.settings.renderHTML,
+                    code: _this_1.settings.renderCode,
+                });
             },
         });
         this.addCommand({
             id: "toggle-render-images-inline",
             name: "Toggle Render Images Inline",
             callback: function () {
-                _this.settings.foldImages = !_this.settings.foldImages;
-                _this.saveData(_this.settings);
-                _this.applyBodyClasses();
-                _this.updateCodeMirrorOption("hmdFold", !_this.settings.foldImages && !_this.settings.foldLinks
-                    ? false
-                    : {
-                        image: _this.settings.foldImages,
-                        link: _this.settings.foldLinks,
-                    });
+                _this_1.settings.foldImages = !_this_1.settings.foldImages;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses();
+                _this_1.updateCodeMirrorOption("hmdFold", {
+                    image: _this_1.settings.foldImages,
+                    link: _this_1.settings.foldLinks,
+                    html: _this_1.settings.renderHTML,
+                    code: _this_1.settings.renderCode,
+                });
+            },
+        });
+        this.addCommand({
+            id: "toggle-render-html",
+            name: "Toggle Render HTML",
+            callback: function () {
+                _this_1.settings.renderHTML = !_this_1.settings.renderHTML;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses();
+                _this_1.updateCodeMirrorOption("hmdFold", {
+                    image: _this_1.settings.foldImages,
+                    link: _this_1.settings.foldLinks,
+                    html: _this_1.settings.renderHTML,
+                    code: _this_1.settings.renderCode,
+                });
+            },
+        });
+        this.addCommand({
+            id: "toggle-render-code",
+            name: "Toggle Render Code",
+            callback: function () {
+                _this_1.settings.renderCode = !_this_1.settings.renderCode;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses();
+                _this_1.updateCodeMirrorOption("hmdFold", {
+                    image: _this_1.settings.foldImages,
+                    link: _this_1.settings.foldLinks,
+                    html: _this_1.settings.renderHTML,
+                    code: _this_1.settings.renderCode,
+                });
+            },
+        });
+        this.addCommand({
+            id: "toggle-render-dataview",
+            name: "Toggle Render Dataview",
+            callback: function () {
+                _this_1.settings.renderDataview = !_this_1.settings.renderDataview;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses();
+                _this_1.updateCodeMirrorOption("hmdFoldCode", {
+                    admonition: _this_1.settings.renderAdmonition,
+                    chart: _this_1.settings.renderChart,
+                    query: _this_1.settings.renderQuery,
+                    dataview: _this_1.settings.renderDataview,
+                });
+            },
+        });
+        this.addCommand({
+            id: "toggle-render-chart",
+            name: "Toggle Render Charts",
+            callback: function () {
+                _this_1.settings.renderChart = !_this_1.settings.renderChart;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses();
+                _this_1.updateCodeMirrorOption("hmdFoldCode", {
+                    admonition: _this_1.settings.renderAdmonition,
+                    chart: _this_1.settings.renderChart,
+                    query: _this_1.settings.renderQuery,
+                    dataview: _this_1.settings.renderDataview,
+                });
+            },
+        });
+        this.addCommand({
+            id: "toggle-render-admonition",
+            name: "Toggle Render Admonitions",
+            callback: function () {
+                _this_1.settings.renderAdmonition = !_this_1.settings.renderAdmonition;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses();
+                _this_1.updateCodeMirrorOption("hmdFoldCode", {
+                    admonition: _this_1.settings.renderAdmonition,
+                    chart: _this_1.settings.renderChart,
+                    query: _this_1.settings.renderQuery,
+                    dataview: _this_1.settings.renderDataview,
+                });
+            },
+        });
+        this.addCommand({
+            id: "toggle-render-query",
+            name: "Toggle Render Search Queries",
+            callback: function () {
+                _this_1.settings.renderQuery = !_this_1.settings.renderQuery;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses();
+                _this_1.updateCodeMirrorOption("hmdFoldCode", {
+                    admonition: _this_1.settings.renderAdmonition,
+                    chart: _this_1.settings.renderChart,
+                    query: _this_1.settings.renderQuery,
+                    dataview: _this_1.settings.renderDataview,
+                });
             },
         });
         this.addCommand({
             id: "toggle-container-attributes",
             name: "Toggle Container Attributes",
             callback: function () {
-                _this.settings.containerAttributes = !_this.settings.containerAttributes;
-                _this.saveData(_this.settings);
-                _this.updateCodeMirrorHandlers("renderLine", onRenderLine, _this.settings.containerAttributes, true);
+                _this_1.settings.containerAttributes = !_this_1.settings.containerAttributes;
+                _this_1.saveData(_this_1.settings);
+                _this_1.updateCodeMirrorHandlers("renderLine", onRenderLine, _this_1.settings.containerAttributes, true);
             },
         });
         this.addCommand({
             id: "toggle-dynamic-cursor-size",
             name: "Toggle Dynamic Cursor Size",
             callback: function () {
-                _this.settings.dynamicCursor = !_this.settings.dynamicCursor;
-                _this.saveData(_this.settings);
-                _this.updateCodeMirrorOption("singleCursorHeightPerLine", !_this.settings.dynamicCursor);
+                _this_1.settings.dynamicCursor = !_this_1.settings.dynamicCursor;
+                _this_1.saveData(_this_1.settings);
+                _this_1.updateCodeMirrorOption("singleCursorHeightPerLine", !_this_1.settings.dynamicCursor);
             },
         });
         this.addCommand({
             id: "toggle-style-active-selection",
             name: "Toggle Style Active Selection",
             callback: function () {
-                _this.settings.markSelection = !_this.settings.markSelection;
-                _this.saveData(_this.settings);
-                _this.updateCodeMirrorOption("styleSelectedText", _this.settings.markSelection);
-                _this.applyBodyClasses();
+                _this_1.settings.markSelection = !_this_1.settings.markSelection;
+                _this_1.saveData(_this_1.settings);
+                _this_1.updateCodeMirrorOption("styleSelectedText", _this_1.settings.markSelection);
+                _this_1.applyBodyClasses();
             },
         });
         this.addCommand({
             id: "toggle-retain-active-line",
             name: "Toggle Retain Active Line on Selection",
             callback: function () {
-                _this.settings.activeLineOnSelect = !_this.settings.activeLineOnSelect;
-                _this.saveData(_this.settings);
-                _this.updateCodeMirrorOption("styleActiveLine", _this.settings.activeLineOnSelect ? { nonEmpty: true } : true);
+                _this_1.settings.activeLineOnSelect = !_this_1.settings.activeLineOnSelect;
+                _this_1.saveData(_this_1.settings);
+                _this_1.updateCodeMirrorOption("styleActiveLine", _this_1.settings.activeLineOnSelect ? { nonEmpty: true } : true);
             },
         });
         this.addCommand({
             id: "toggle-edit-mode-syntax",
             name: "Toggle Edit Mode Syntax Highlighting",
             callback: function () {
-                _this.settings.syntaxHighlighting = !_this.settings.syntaxHighlighting;
-                _this.saveData(_this.settings);
-                _this.applyBodyClasses(true);
+                _this_1.settings.syntaxHighlighting = !_this_1.settings.syntaxHighlighting;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses(true);
             },
         });
         this.addCommand({
             id: "toggle-preview-mode-syntax",
             name: "Toggle Preview Mode Syntax Highlighting",
             callback: function () {
-                _this.settings.enablePrismJSStyling = !_this.settings.enablePrismJSStyling;
-                _this.saveData(_this.settings);
-                _this.applyBodyClasses(true);
+                _this_1.settings.enablePrismJSStyling = !_this_1.settings.enablePrismJSStyling;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses(true);
             },
         });
         this.addCommand({
             id: "toggle-codemirror-in-preview-mode",
             name: "Toggle CodeMirror in Preview Mode",
             callback: function () {
-                _this.settings.enableCMinPreview = !_this.settings.enableCMinPreview;
-                _this.saveData(_this.settings);
-                _this.applyBodyClasses(true);
+                _this_1.settings.enableCMinPreview = !_this_1.settings.enableCMinPreview;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses(true);
             },
         });
         this.addCommand({
             id: "toggle-cm-line-numbers-in-preview-mode",
             name: "Toggle CM Line Numbers in Preview Mode",
             callback: function () {
-                _this.settings.showLineNums = !_this.settings.showLineNums;
-                _this.saveData(_this.settings);
-                _this.applyBodyClasses(true);
+                _this_1.settings.showLineNums = !_this_1.settings.showLineNums;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses(true);
             },
         });
         this.addCommand({
             id: "toggle-cm-copy-button-in-preview-mode",
             name: "Toggle Copy Button in Preview Mode",
             callback: function () {
-                _this.settings.copyButton = !_this.settings.copyButton;
-                _this.saveData(_this.settings);
-                _this.applyBodyClasses(true);
+                _this_1.settings.copyButton = !_this_1.settings.copyButton;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses(true);
             },
         });
         this.addCommand({
             id: "toggle-auto-align-table",
             name: "Toggle Auto Align Tables",
             callback: function () {
-                _this.settings.autoAlignTables = !_this.settings.autoAlignTables;
-                _this.saveData(_this.settings);
-                _this.updateCodeMirrorOption("hmdTableAlign", _this.settings.autoAlignTables);
+                _this_1.settings.autoAlignTables = !_this_1.settings.autoAlignTables;
+                _this_1.saveData(_this_1.settings);
+                _this_1.updateCodeMirrorOption("hmdTableAlign", _this_1.settings.autoAlignTables);
             },
         });
     };
@@ -4712,20 +6172,31 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
         }
     };
     ObsidianCodeMirrorOptionsPlugin.prototype.registerCodeMirrorSettings = function () {
-        var _this = this;
+        var _this_1 = this;
         this.registerCodeMirror(function (cm) {
-            cm.setOption("styleSelectedText", _this.settings.markSelection);
-            cm.setOption("singleCursorHeightPerLine", !_this.settings.dynamicCursor);
-            cm.setOption("styleActiveLine", _this.settings.activeLineOnSelect ? { nonEmpty: true } : true);
-            if (_this.settings.enableOpenMD)
+            cm.setOption("styleSelectedText", _this_1.settings.markSelection);
+            cm.setOption("singleCursorHeightPerLine", !_this_1.settings.dynamicCursor);
+            cm.setOption("styleActiveLine", _this_1.settings.activeLineOnSelect ? { nonEmpty: true } : true);
+            if (_this_1.settings.enableOpenMD)
                 cm.setOption("mode", "openmd");
-            cm.setOption("hmdHideToken", _this.settings.editModeHideTokens ? _this.settings.tokenList : false);
-            cm.setOption("hmdClick", _this.settings.editModeClickHandler);
-            cm.setOption("hmdTableAlign", _this.settings.autoAlignTables);
-            cm.setOption("cursorBlinkRate", _this.settings.cursorBlinkRate);
-            cm.setOption("hmdFold", { image: _this.settings.foldImages, link: _this.settings.foldLinks });
-            if (_this.settings.containerAttributes)
-                _this.updateCodeMirrorHandlers("renderLine", onRenderLine, true, true);
+            cm.setOption("hmdHideToken", _this_1.settings.editModeHideTokens ? _this_1.settings.tokenList : false);
+            cm.setOption("hmdClick", _this_1.settings.editModeClickHandler);
+            cm.setOption("hmdTableAlign", _this_1.settings.autoAlignTables);
+            cm.setOption("cursorBlinkRate", _this_1.settings.cursorBlinkRate);
+            cm.setOption("hmdFold", {
+                image: _this_1.settings.foldImages,
+                link: _this_1.settings.foldLinks,
+                html: _this_1.settings.renderHTML,
+                code: _this_1.settings.renderCode,
+            });
+            cm.setOption("hmdFoldCode", {
+                admonition: _this_1.settings.renderAdmonition,
+                chart: _this_1.settings.renderChart,
+                query: _this_1.settings.renderQuery,
+                dataview: _this_1.settings.renderDataview,
+            });
+            if (_this_1.settings.containerAttributes)
+                _this_1.updateCodeMirrorHandlers("renderLine", onRenderLine, true, true);
         });
     };
     ObsidianCodeMirrorOptionsPlugin.prototype.applyBodyClasses = function (refresh) {
@@ -4765,6 +6236,11 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                 ? document.body.addClass("cm-render-images-inline")
                 : null
             : document.body.removeClass("cm-render-images-inline");
+        this.settings.foldLinks
+            ? !document.body.hasClass("cm-collapse-external-links")
+                ? document.body.addClass("cm-collapse-external-links")
+                : null
+            : document.body.removeClass("cm-collapse-external-links");
         this.settings.enableCMinPreview
             ? this.registerMarkdownPostProcessor(this.mdProcessor)
             : obsidian.MarkdownPreviewRenderer.unregisterPostProcessor(this.mdProcessor);
@@ -4779,7 +6255,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
             cm.setOption("styleActiveLine", true);
             cm.setOption("mode", "hypermd");
             cm.setOption("hmdHideToken", false);
-            cm.setOption("hmdFold", false);
+            cm.setOption("hmdFold", { image: false, link: false, html: false });
             cm.setOption("hmdTableAlign", false);
             cm.setOption("hmdClick", false);
             cm.setOption("cursorBlinkRate", 530);
@@ -4801,6 +6277,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
     ObsidianCodeMirrorOptionsPlugin.prototype.getActiveCmEditor = function () {
         var _a;
         var view = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
+        //@ts-ignore
         if (view)
             return (_a = view.sourceMode) === null || _a === void 0 ? void 0 : _a.cmEditor;
         return null;
@@ -4809,6 +6286,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
         this.unsetCodeMirrorOptions();
         obsidian.MarkdownPreviewRenderer.unregisterPostProcessor(this.mdProcessor);
         this.refreshPanes();
+        document.off("contextmenu", "img.hmd-image", this.onImageContextMenu, false);
     };
     return ObsidianCodeMirrorOptionsPlugin;
 }(obsidian.Plugin));

@@ -2,7 +2,7 @@
 created: 2021-10-19
 aliases:
 -  
-type: topic/term
+tags:  topic/term
 ---
 the tendency to worry  [^1]
 

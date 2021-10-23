@@ -2,7 +2,7 @@
 created: 2021-10-19
 aliases:
 -  
-type: topic/stub
+tags: topic/stub
 ---
 
 

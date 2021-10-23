@@ -2,7 +2,7 @@
 created: 2021-10-20
 aliases:
 -  
-type: topic/term
+tags:  topic/term
 ---
 [^1]
 

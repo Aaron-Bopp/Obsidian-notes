@@ -5,6 +5,8 @@ note-type:
 creator:
 content-type:
 - 
+aliases:
+- Hyde and Else-Quest
 source:
 bib:
 ---
@@ -31,9 +33,11 @@ bib:
 - **[[imitation]]** is motivated by the power of authority figures
 - **[[Observational learning]]** means that children can anticipate consequences of actions they have never performed
 - rewards for certain behaviors can overcome gender stereotypes (albert bandura film study pg 34)
-- > "Attention is the cognitive process that weeds out most of the behaviors that are irrelevant to the child and focuses on the few that are most relevant" pg 35
-	- gender makes some behaviors relevant and some not
-	- mix gender groups makes causes more observation of gender appropriateness ( bussey and bandura 1999)
+
+> "**Attention** is the cognitive process that weeds out most of the behaviors that are irrelevant to the child and <u>focuses on the few that are most relevant</u>"  ^shyhhm
+- pg 35
+- gender makes some behaviors relevant and some not
+- mix gender groups makes causes more observation of gender appropriateness ( bussey and bandura 1999)
 - **self-efficacy** - an individuals belief in their ability to accomplish a particular task
 - **[[Social Learning Theory]]** suggests that gender roles can be easily changed if authority figures change their behaviors
 

@@ -3,7 +3,7 @@ created: 2021-10-06
 aliases:
 - 
 cssclass: topic
-tags: topic/term
+tags: topic/stub
 sr-due: 2021-10-19
 sr-interval: 1
 sr-ease: 230

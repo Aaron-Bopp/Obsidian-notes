@@ -4,8 +4,8 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 -
-sr-due: 2021-10-21
-sr-interval: 2
+sr-due: 2021-10-26
+sr-interval: 5
 sr-ease: 230
 ---
 #### [[Stereotyping has the pyschological goal of comprehension and self-enhancement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

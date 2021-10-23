@@ -2,9 +2,7 @@
 ---
 created: 2021-06-13
 cssclass: evergreen
-tags: evergreen
-- software
-- tool
+tags: topic/tool
 ---
 
 #### [[Dual]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -28,7 +26,7 @@ Dual Skills
 - [[SecondBrain/EvergreenNotes/do math]]
 - [[SecondBrain/EvergreenNotes/related topics]]
 
----
+### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*

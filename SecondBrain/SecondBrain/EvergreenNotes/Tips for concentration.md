@@ -10,7 +10,7 @@ sr-ease: 290
 
 #### [[Tips for concentration]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Concentration is something that is required to most things done in today's society. Many things can cause a lack of concentration ranging from simple distraction to serious illness's like [[depression]] and [[neurodivergency]] like [[ADHD]]. Here some ways that I have found to help concentrate
+Concentration is something that is required to most things done in today's society. Many things can cause a lack of concentration ranging from simple distraction to serious illness's like [[depression]] and [[neurodiversity]] like [[ADHD]]. Here some ways that I have found to help concentrate
 
 1. Interact with what you are trying to understand in more than one way. 
 	- If you are reading: write notes/highlight, and/or have it read aloud while you read. 

@@ -3,8 +3,8 @@ created: 2021-06-28
 cssclass: evergreen
 tags: evergreen
 
-sr-due: 2021-10-21
-sr-interval: 2
+sr-due: 2021-10-26
+sr-interval: 5
 sr-ease: 230
 ---
 
@@ -13,12 +13,14 @@ sr-ease: 230
 The modern church is focused on building a [[counter-culture]] movement that is loyal to a fault. [[homophobia]] takes sin from the realm of actions to lifestyle, [[creationism]] erodes peoples [[faith]] in science, [[abortion]] forces people to vote for one political party without even caring about the rest of its platform. I just see Christians being taken advantage of time and time again because they believe so deeply.
 
 - [[Non-faith issues have been co-opted to keep people in the christian church]]
+	- ex: How [[Ronald Reagan invented modern conservatism]]
+	- [[The moral majority movement was the original 'making things political]]
 - [[People have been conditioned to believe the bible has to be infallible]]
-- [[The bible is god breathed]]
+	- ex: [[The bible is god breathed]]
 
 ### <hr class="footnote"/>
 
-**Topics**::
+**Topics**:: [[Christianity]], [[Politics]], [[religion]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

@@ -2,9 +2,8 @@
 created: 2021-06-20
 cssclass: evergreen
 tags: evergreen
-
-sr-due: 2021-10-21
-sr-interval: 2
+sr-due: 2021-10-26
+sr-interval: 5
 sr-ease: 232
 ---
 
@@ -15,11 +14,13 @@ What is [[Humans love to group eachother|humans love for grouping eachother]] ot
 
 We are more complex than any other animal. We have developed a [[conscious|consciousness]] that is the essence of what makes us human, but our inexplicabble instincts are still at play. [[Human's will find explanations for inexplainable things]]
 
+#TO/EXPLORE/RESEARCH What is the primal urge behind [[The brain is powerful enough to create supernatural experiences]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human experience]], [[Neuroscience]], [[neurodivergency]], [[Evolutionary Pyschology]]
+**Topics**:: [[human experience]], [[Neuroscience]], [[neurodiversity]], [[Evolutionary Pyschology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

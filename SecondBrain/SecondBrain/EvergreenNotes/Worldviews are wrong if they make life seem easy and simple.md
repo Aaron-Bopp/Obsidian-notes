@@ -4,9 +4,9 @@ aliases:
 - worldviews that make life seems easy and simple
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-21
-sr-interval: 2
-sr-ease: 228
+sr-due: 2021-10-22
+sr-interval: 1
+sr-ease: 208
 ---
 #### [[Worldviews are wrong if they make life seem easy and simple]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

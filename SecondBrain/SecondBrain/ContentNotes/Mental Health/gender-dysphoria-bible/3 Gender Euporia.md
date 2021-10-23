@@ -51,7 +51,7 @@ Examples:
 -   Being addressed by your chosen name
 -   Wearing correctly gendered clothing
 -   Seeing and feeling changes in your body
--   Seeing yourself in the mirror (removal of [[Depersonalization]])
+-   Seeing yourself in the mirror (removal of [[depersonalization]])
 -   Socializing in a way that conforms with gendered expectations
 -   Getting a haircut in a masculine / feminine / androgynous manner
 -   Shaving your legs
