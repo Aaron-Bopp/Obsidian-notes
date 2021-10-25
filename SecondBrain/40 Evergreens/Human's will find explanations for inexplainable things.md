@@ -11,6 +11,10 @@ sr-ease: 270
 
 #### [[Human's will find explanations for inexplainable things]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+Humans are designed to make certainty out of uncertainty and find reasons for illogical decisions. Our brains are not designed for correcting the dissonance between thoughts and conclusions. If our brains were unable to create reasoning and thought processes for completely illogical conclusions we wouldn't be where we are today, because in cases of survival we must make choices regardless of how many options or how little information we have. [^1]  
+
+#TO/DO/REFACTOR  how these notes fit together, [[How Neuroscience impacts our daily lives]], [[Our brains are built around survival]]
+
 If we fail to do this we fall into [[existential dread]], in fact [[existential dread]] is the [[Evolution|evolutionary]] process behind this religion (see [[The materialistic view of religions examines why humans invented and clung to religion]] )
 
 - [[Human's have an inability to admit that they are wrong]]
@@ -24,3 +28,5 @@ If we fail to do this we fall into [[existential dread]], in fact [[existential 
 
 **Topics**:: [[Neuroscience]], [[human advancement]], [[human survival]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+[^1]: ![[videoExistential Dread#Our brains design]]

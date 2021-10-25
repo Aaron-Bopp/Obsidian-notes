@@ -7,7 +7,7 @@ tags: evergreen
 ---
 #### [[The moral majority movement was the original 'making things political']] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- [[the politicization of the christian church]]
+- [[The Politicization of the Christian Church]]
 - [[Ronald Reagan invented modern conservatism]]
 
 ### <hr class="footnote"/>

@@ -10,7 +10,7 @@ sr-ease: 208
 ---
 #### [[Worldviews are wrong if they make life seem easy and simple]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-If a worldview makes life seem easy, it will shape the way you view people of struggle (e.g. [[Being a part of the marginalizing group deprives you understanding of marginalized people]]) The pursuit of [[self-actualization]] is different for every person, but if you aren't part of a [[marginalized]] group and your worldview tells you that all you need to do is one simple thing, you will view those people as lazy or wrong.
+If a worldview makes life seem easy, it will shape the way you view people of struggle (e.g. [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]) The pursuit of [[self-actualization]] is different for every person, but if you aren't part of a [[marginalized]] group and your worldview tells you that all you need to do is one simple thing, you will view those people as lazy or wrong.
 
 This is especially seen in [[individualism|individualistic]] cultures like [[America]], and in worldviews that are focused on salvation and not [[self-improvement]] ([[Christianity]]). [[The actual work of being a good person isn't explored by Christianity]]
 

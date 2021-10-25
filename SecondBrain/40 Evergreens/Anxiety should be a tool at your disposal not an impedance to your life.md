@@ -3,6 +3,9 @@ created: 2021-06-15
 cssclass: evergreen
 tags: evergreen
 date modified: Monday, October 4th 2021, 12:16:57 am
+sr-due: 2021-10-27
+sr-interval: 3
+sr-ease: 250
 ---
 
 #### [[Anxiety should be a tool at your disposal not an impedance to your life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

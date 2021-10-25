@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fc019f97db64e33d",
+        "id": "298f20d46afc18a2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "10 Sources/Mental Health/videoExistential Dread.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f2871bcd2ea2f289",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf"
+          }
         }
       }
     ],
@@ -37,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "biological warning",
+                "query": "tag:#TO/DO/CONCEPTUALIZE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +65,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
-                "extraContext": false,
+                "file": "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf",
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -68,6 +82,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "0f1a94d152e7c645",
@@ -128,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 499.5121879577637,
-    "collapsed": true
+    "width": 492
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -145,6 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -231,7 +245,7 @@
                   "repelStrength": 15.2235294117647,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.11057000863431324,
+                  "scale": 0.42717733992993356,
                   "close": false
                 }
               }
@@ -250,28 +264,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 913.4530639648438,
     "collapsed": true
   },
-  "active": "fc019f97db64e33d",
+  "active": "f2871bcd2ea2f289",
   "lastOpenFiles": [
-    "30 Topics/religion.md",
-    "10 Sources/Mental Health/videoEmotional Deregulation.md",
-    "40 Evergreens/The three main questions of life.md",
-    "40 Evergreens/Any experience of gender is acceptable.md",
-    "30 Topics/Politics.md",
-    "40 Evergreens/The moral majority movement was the original 'making things political'.md",
-    "40 Evergreens/The moral majority movement was the original 'making things political.md",
-    "40 Evergreens/Your anxiety knows your insecurities better than you do.md",
-    "40 Evergreens/Mental illness is a reaction to ones environment.md",
-    "40 Evergreens/The slight differences between evergreen notes, zettles, permanent notes.md"
+    "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf",
+    "40 Evergreens/Parents need to model the ability to deal with emotion to their children.md",
+    "10 Sources/Mental Health/videoExistential Dread.md",
+    "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 10 S21 soln.pdf",
+    "40 Evergreens/web of thought.md",
+    "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 8 S21 soln.pdf",
+    "40 Evergreens/Our brains are built around survival.md",
+    "40 Evergreens/Human's will find explanations for inexplainable things.md",
+    "40 Evergreens/Your insecurity is just more avenues for your anxiety to take advantage of.md",
+    "40 Evergreens/Karma is based in the law of cause and effect.md"
   ]
 }

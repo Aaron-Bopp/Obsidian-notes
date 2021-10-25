@@ -4,11 +4,11 @@ aliases:
 - 
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-24
-sr-interval: 1
+sr-due: 2021-10-26
+sr-interval: 2
 sr-ease: 231
 ---
-#### [[Trans children will repress their dysphoria if they have effectively taugh it is unnaceptable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Trans children will repress their dysphoria if they have been effectively taught it is unnaceptable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[Early childhood trauma causes us to make wide assumptions about the world]]
 

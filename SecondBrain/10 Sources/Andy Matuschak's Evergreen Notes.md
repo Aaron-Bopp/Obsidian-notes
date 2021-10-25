@@ -27,7 +27,7 @@ Author:: [[Andy Matuschak]]
     - [View Highlight](https://notes.andymatuschak.org/z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX?stackedNotes=z28QkpK3vRKQTacjFDfGYBhCXHqHuVWJzny9&__readwiseLocation=2%2F3%2F0%2F0%2F0%2F0%2F0%2F2%2F0%2F1%2F0%2F0%3A78%2C2%2F3%2F0%2F0%2F0%2F0%2F0%2F2%2F0%2F1%2F0%2F0%3A172#:~:text=You%20need%20to%20be%20able%2Cto%20understand%20what%E2%80%99s%20being%20implied.)
 
 
-**Topics**::  [[second brain]], [[Zettlekassen]], [[note writing]], [[personal knowledge management]]
+**Topics**::  [[second brain]], [[Zettlekassen]], [[note writing]], [[knowledge management]]
 
 
 

@@ -8,7 +8,7 @@ aliases:
 parent: [[second brain]]
 ---
 
-Since March 2021 I have become very interested in [[personal knowledge management]] and the concept of a [[web of thought]] so intricate that it creates a [[second brain]]. This is my structure and [[philosophy]] of how I will construct [[My Second Brain]]
+Since March 2021 I have become very interested in [[knowledge management]] and the concept of a [[web of thought]] so intricate that it creates a [[second brain]]. This is my structure and [[philosophy]] of how I will construct [[My Second Brain]]
 
 **See**:: [[second brain]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
@@ -19,10 +19,10 @@ Since March 2021 I have become very interested in [[personal knowledge managemen
 	- [[write what you think]]
 - General [[Philosophy]]
 	- What is a [[second brain]]?
-		- [[Why note storage is important]]
+		- [[Note storage is important because it defines how you access and retain knowledge]]
 	- How to use a [[web of thought]]
 		- [[Webs of thought are densely linked]]
-	- What is [[personal knowledge management]]?
+	- What is [[knowledge management]]?
 	- Why write [[evergreen notes]]?
 	- How is this different than a [[Zettlekassen]]?
 - Organization

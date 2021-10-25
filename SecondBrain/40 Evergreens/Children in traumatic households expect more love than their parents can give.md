@@ -4,8 +4,8 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-24
-sr-interval: 1
+sr-due: 2021-10-26
+sr-interval: 2
 sr-ease: 210
 ---
 
@@ -15,7 +15,7 @@ This is because the reason the child's home is traumatic is because of the paren
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[early childhood development]], [[Psychology]], [[trauma]]

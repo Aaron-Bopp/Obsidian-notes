@@ -4,9 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-25
-sr-interval: 2
-sr-ease: 252
+sr-due: 2021-10-31
+sr-interval: 6
+sr-ease: 272
 ---
 
 #### [[Every person has an experience of gender]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

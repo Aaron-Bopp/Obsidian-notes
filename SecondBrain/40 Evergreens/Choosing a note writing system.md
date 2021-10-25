@@ -6,7 +6,7 @@ tags: evergreen
 
 #### [[Choosing a note writing system]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Why note storage is important]]
+[[Note storage is important because it defines how you access and retain knowledge]]
 
 Possible tools:
 - [[Obsidian (software)]] 

@@ -12,7 +12,7 @@ date modified: Sunday, September 26th 2021, 4:10:41 pm
 	- **Housing**: Since the 1940s loans company's and banks have devalued black owned homes, stopped [[black people]] from getting loans for new properties, and lead [[black people]] towards subprime loans. This has lead to all-time low of black ownership. This is so important because housing has historically been one of the best ways to pass on intergenerational wealth and is an appreciating asset, so the problem has only been compounding since it started. This lack of black wealth prevents them from accessing resources that could help counteract the effects of systemic [[racism]].
 
 
-**[[00 Meta/Primary Sources/Classes/Pyschology/Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf|Gray et al. (2020) -- COVID-19 and the Other Pandemic]]**
+**[[Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf|Gray et al. (2020) -- COVID-19 and the Other Pandemic]]**
 
 2. As mentioned by the authors, the COVID-19 pandemic had a disproportionately negative impact on Black and American Indian communities, even though there is nothing about the virus that makes it more easily target people based on race. What, then, is happening?
 

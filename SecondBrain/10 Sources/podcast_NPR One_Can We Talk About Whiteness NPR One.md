@@ -9,7 +9,7 @@ link: https://one.npr.org/?sharedMediaId=476876081:480084184
 bib:
 ---
 
-###### [[Can We Talk About Whiteness NPR One]]
+###### [[podcast_NPR One_Can We Talk About Whiteness NPR One]]
 
 **Topics**::  [[white supremacy]], [[social justice]], [[activism]]
 

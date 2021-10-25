@@ -4,18 +4,18 @@ aliases:
 - reduced working memory
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-25
-sr-interval: 4
+sr-due: 2021-11-07
+sr-interval: 13
 sr-ease: 275
 ---
 #### [[ADHD reduces working memory]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[How ADHD effects concentration]]
-[[ADHD is primarily an executive function disorder]]
+- [[How ADHD effects concentration]]
+- [[ADHD is primarily an executive function disorder]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Topics**:: [[ADHD]], [[neurodiversity]], [[mental disorders]]

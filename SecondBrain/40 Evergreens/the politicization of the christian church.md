@@ -8,7 +8,7 @@ sr-interval: 5
 sr-ease: 230
 ---
 
-#### [[the politicization of the christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The Politicization of the Christian Church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 The modern church is focused on building a [[counter-culture]] movement that is loyal to a fault. [[homophobia]] takes sin from the realm of actions to lifestyle, [[creationism]] erodes peoples [[faith]] in science, [[abortion]] forces people to vote for one political party without even caring about the rest of its platform. I just see Christians being taken advantage of time and time again because they believe so deeply.
 

@@ -11,7 +11,7 @@ aliases:
 
 ##### [[Christianity]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[The biblical christian God is evil and does not deserved to be worshipped]]
-- [[the politicization of the christian church]]
+- [[The Politicization of the Christian Church]]
 - [[Evangelicalism]]
 - [[The many transgressions of the christian church]]
 	- [[Fear of hell is baked into Christianity]]

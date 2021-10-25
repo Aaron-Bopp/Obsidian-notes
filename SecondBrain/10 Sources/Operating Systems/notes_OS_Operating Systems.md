@@ -14,7 +14,7 @@ aliases:
 
 **Creator**:: [[@Nathan Eloe]]
 
-**Source**:: [[00 Meta/Primary Sources/00_intro_to_os.pdf]]
+**Source**:: [[00_intro_to_os 1.pdf]]
 
 **Related**:: [[Computer Science]]
 

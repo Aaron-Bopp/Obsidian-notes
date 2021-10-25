@@ -4,7 +4,7 @@ tags: topic/tool
 ---
 
 #TO/DO/REFACTOR whole note
-Obsidian is a markdown editor that includes many features that are valuable to [[personal knowledge management]] systems.
+Obsidian is a markdown editor that includes many features that are valuable to [[knowledge management]] systems.
 
 Snippets:: https://github.com/Dmitriy-Shulha/obsidian-css-snippets/tree/develop/Snippets
 

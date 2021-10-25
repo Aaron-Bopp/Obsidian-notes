@@ -4,6 +4,9 @@ aliases:
 - 
 cssclass: evergreen
 tags: evergreen
+sr-due: 2021-10-28
+sr-interval: 4
+sr-ease: 270
 ---
 #### [[Using multiple processes vs multiple threads]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
@@ -11,7 +14,7 @@ Processes are parents to threads, somewhat like the [[Operating Systems|operatin
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Operating Systems]], [[Computer Science]]

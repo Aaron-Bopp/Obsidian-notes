@@ -8,7 +8,7 @@ aliases:
 
 #### [[Trans people will look for any other solution than being trans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Because [[Gender Dysphoria can take many forms]] and [[Gender is both an intrinsic experience and an necessary expression]], many [[transgender|trans]] people will recognize the effects of [[gender dysphoria]] before they recognize the cause. [[Gender has a scientific basis]] and [[Mental illness is a reaction to ones environment]], so often there will be many comorbid [[mental disorders]] that can be treated, when your transness and the chemical imbalances in your brain are the root cause. 
+Because [[Gender Dysphoria can take many forms]] and [[Gender is both an intrinsic experience and an necessary expression]], many [[transgender|trans]] people will recognize the effects of [[gender dysphoria]] before they recognize the cause. [[The scientific basis of gender]] and [[Mental illness is a reaction to ones environment]], so often there will be many comorbid [[mental disorders]] that can be treated, when your transness and the chemical imbalances in your brain are the root cause. 
 
 Once you discover and accept yourself as [[transgender|trans]], a lot of the seemingly inexplicable or untreated [[mental disorders|mental illness]] in your life will be alleviated as well. Despite an often transformational experience, it can often be hard to accept yourself as [[transgender|trans]] ([[You're never sure if you're trans]]) leading to [[transgender|trans]] people often continuing to look into other solutions. This is often due to [[societal trauma | societal stigma]] and can make the life of an out or closeted [[transgender|trans]] person even more difficult. 
 

@@ -4,9 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 -
-sr-due: 2021-10-24
-sr-interval: 3
-sr-ease: 250
+sr-due: 2021-11-04
+sr-interval: 11
+sr-ease: 270
 ---
 #### [[Masculinity and the black identity model]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
@@ -14,10 +14,10 @@ While the movie Moonlight does not directly approach racial issues, I do believe
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN/PRUNE 
+**Status**:: #EVER/SEED  
 *edited `=this.file.mtime`*
 
-**Topics**::
+**Topics**:: [[masculinism]], [[Patriarchy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

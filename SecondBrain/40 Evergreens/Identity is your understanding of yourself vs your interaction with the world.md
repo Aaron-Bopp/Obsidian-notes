@@ -2,12 +2,12 @@
 created: 2021-06-27
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-24
-sr-interval: 1
+sr-due: 2021-10-26
+sr-interval: 2
 sr-ease: 215
 ---
 
-#### [[Identity is your understanding of yourself and your interaction with the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Identity is your understanding of yourself vs your interaction with the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 At the core of [[self]] is how you view yourself ([[self-image]]) vs how the world views you ([[self-perception]]). If you have a weak [[self-image]] then how the worlds views you will completely win, resulting in little to no sense of [[self]]. 
 

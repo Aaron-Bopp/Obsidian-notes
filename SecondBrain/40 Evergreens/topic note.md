@@ -6,7 +6,7 @@ tags: evergreen
 
 #### [[topic note]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Topic notes are a kind of note in a [[web of thought]]/[[personal knowledge management]]/[[Zettlekassen]] system.
+Topic notes are a kind of note in a [[web of thought]]/[[knowledge management]]/[[Zettlekassen]] system.
 
 A topic note is an order of magnitude larger than a [[evergreen notes]] or [[evergreen notes]]. If a [[evergreen notes]] is a singular thought, then a topic note is an idea or collection of related thoughts. A topic note should contain description of what falls under that topic and an outline of various other notes (of any kind) that fall under it. A topic note is note required to be inclusive, but maintaining topic notes is an important element in curating the knowledge in your [[second brain]]
 
@@ -21,7 +21,7 @@ A topic note can come to be in two ways:
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[second brain]], [[My Second Brain]], [[Zettlekassen]], [[personal knowledge management]]
+**Topics**:: [[second brain]], [[My Second Brain]], [[Zettlekassen]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

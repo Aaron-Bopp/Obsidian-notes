@@ -9,7 +9,7 @@ date modified: Sunday, October 3rd 2021, 11:17:19 am
 ```ActivityHistory
 SecondBrain
 ```
-This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[personal knowledge management]] system.
+This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[knowledge management]] system.
 
 # Entry Points
 
@@ -41,7 +41,7 @@ This is a constantly updated index of entry points and topics for my personal fl
 - 
 	- ![[Politics#Politics customJS dv_funcs topicOutlineHeader dv this]]
 - 
-	 - ![[personal knowledge management#personal knowledge management customJS dv_funcs topicOutlineHeader dv this]]
+	 - ![[knowledge management#personal knowledge management customJS dv_funcs topicOutlineHeader dv this]]
 - 
 	 - ![[Christianity#Christianity customJS dv_funcs topicOutlineHeader dv this]]
 -

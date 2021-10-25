@@ -10,7 +10,7 @@ sr-ease: 270
 ---
 #### [[The slight differences between evergreen notes, zettles, permanent notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-These terms are used almost synonomously in the realm of [[personal knowledge management]], but there are slight differences that define them.
+These terms are used almost synonomously in the realm of [[knowledge management]], but there are slight differences that define them.
 
 ### <hr class="footnote"/>
 

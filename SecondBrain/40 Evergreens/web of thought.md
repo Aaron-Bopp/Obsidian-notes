@@ -1,17 +1,8 @@
 ---
 created: 2021-05-29
-cssclass: evergreen
-tags: evergreen
-
+tags: topic/stub
 ---
 
 
-
----
-
-**Status**:: #EVER/SPROUT/WATER 
-*edited `=this.file.mtime`*
-
-**Topics**:: [[second brain]] 
+**See**:: [[second brain]], [[Zettlekassen]], [[evergreen notes]], [[digital garden]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-

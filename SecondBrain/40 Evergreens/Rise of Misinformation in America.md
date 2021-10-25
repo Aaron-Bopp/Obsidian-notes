@@ -14,7 +14,7 @@ Over the last forty years, misinformation has become so potent in [[America]], t
 	- [[McCarthyism is an attack on totalitarianism not communism]]
 	- [[American's are scared of the word communism not it's meaning]]
 - [[Creationism built an anti-science culture]]
-	- [[the politicization of the christian church]]
+	- [[The Politicization of the Christian Church]]
 - [[Single issue voters are anti-democratic]]
 	- [[Abortion and immigration are detrimental to white supremacy]]
 - [[The internet allows niche topics to flourish]]

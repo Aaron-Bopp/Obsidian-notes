@@ -153,7 +153,7 @@
             "type": "Capture",
             "command": false,
             "appendLink": false,
-            "captureTo": "30 Topics/{{Value}}",
+            "captureTo": "30 Topics/{{VALUE}}.md",
             "captureToActiveFile": false,
             "createFileIfItDoesntExist": {
               "enabled": true,

@@ -22,7 +22,7 @@
 # Week 3
 ## Readings
 - [[Historical Foundations of Race]]
-- [[00 Meta/Primary Sources/Classes/Pyschology/Winton (2020) - Scientific Racism and North American Psychology.pdf]]
+- [[Winton (2020) - Scientific Racism and North American Psychology 1.pdf]]
 ## Race
 - Race is a social classification based solely off of the color of your skin
 - Races have been created for classifying and otherizing various groups of people over the years 
@@ -56,7 +56,7 @@
 - it all comes down to socio-economic status
 # Week 4
 ## Readings
-- [[00 Meta/Primary Sources/Classes/Pyschology/Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf]]
+- [[Gray et al. (2020) - COVID-19 and the Other Pandemic.pdf]]
 - [[7 Ways We Know Systemic Racism Is Real]]
 ## Institutional and Systemic Bias
 - Why was there resistance to black lives matter?
@@ -94,8 +94,8 @@
 - Hurricane Katrina = example of inequal treatment in healthcare
 # Week 5 
 
-1.  [[00 Meta/Primary Sources/Classes/Pyschology/Ritchey (2014) - Black Identity Development.pdf]] 
-2.  [[00 Meta/Primary Sources/Classes/Pyschology/Cook & McCoy (2017) - Messages in Collusion.pdf]] 
+1.  [[Ritchey (2014) - Black Identity Development 1.pdf]] 
+2.  [[Cook & McCoy (2017) - Messages in Collusion 1.pdf]] 
 ## Identity
 - Identity models are about experience not age periods
 ### Black identity
@@ -157,8 +157,8 @@
 # Week 6 
 
 1.  “[Intersectionality](https://www.nccj.org/intersectionality),” web article from _NCCJ_.
-2.  [[00 Meta/Primary Sources/Classes/Pyschology/Robbins & McGowan (2016) - Intersectional Perspectives on Gender.pdf]] 
-3.  [[00 Meta/Primary Sources/Classes/Pyschology/McCormick-Huhn et al. (2019) - What If Psychology Took Intersectionality Seriously.pdf]] 
+2.  [[Robbins & McGowan (2016) - Intersectional Perspectives on Gender 1.pdf]] 
+3.  [[McCormick-Huhn et al. (2019) - What If Psychology Took Intersectionality Seriously 1.pdf]] 
 
 # Week 7 
 
@@ -185,24 +185,29 @@
 	- Repeated experiences of [[stereotype threat]] can result in a [[self-fullfilling prophecy]]
 # Week 10 
 
-1.  [[articles_transequality.org_Frequently Asked Questions About Transgender People  National Center for Transgender Equality]]
-2.  [[00 Meta/Primary Sources/Classes/Pyschology/Russell et al. (2018) - Chosen Name Use.pdf]] 
-3.  [[00 Meta/Primary Sources/Classes/Pyschology/Sansfacon et al. (2020) - I Knew That I Wasn't Cis.pdf]] 
+1.  [[articles_transequality.org_Frequently Asked Questions About Transgender People National Center for Transgender Equality]]
+2.  [[Russell et al. (2018) - Chosen Name Use.pdf]] 
+3.  [[Sansfacon et al. (2020) - I Knew That I Wasn't Cis 1.pdf]] 
 
 # Week 11 
 
-1.  [[00 Meta/Primary Sources/Classes/Pyschology/Olson et al. (2016) - Mental Health of Transgender Children.pdf]] 
-
+1.  [[Olson et al. (2016) - Mental Health of Transgender Children 1.pdf]] 
+## Notes
+- Negative health outcomes for trans people
+	- Being trans is not a mental disorder or cause for negative health outcomes
+	- Reasons: [[gender dysphoria]], lack of social support, [[Minority stress]]
+		- If one or more of these factors are addressed, outcomes become comparable to cis people
+- [[Minority stress]] experiencing pejudice/discrimination leads to high stress levels, causing negative mental and physical health outcomes
 # Week 12 
 
-1.  [[00 Meta/Primary Sources/Classes/Pyschology/Dovidio et al. (2017) - Aversive Racism and Contemporary Bias.pdf]] 
-2.  [[00 Meta/Primary Sources/Classes/Pyschology/Correll et al. (2014) - The Police Officer's Dilemma.pdf]] 
+1.  [[Dovidio et al. (2017) - Aversive Racism and Contemporary Bias 1.pdf]] 
+2.  [[Correll et al. (2014) - The Police Officer's Dilemma 1.pdf]] 
 
 # Week 13 
 
 1.  “[Sexism Isn’t Just Unfair; It Makes [[Women]] Sick, Study Suggests](https://theconversation.com/sexism-isnt-just-unfair-it-makes-[[women]]-sick-study-suggests-95689),” web article from _The Conversation._
 2.  “[Sexism May Be Harmful to Men’s Mental Health](https://www.apa.org/news/press/releases/2016/11/sexism-harmful),” web article from _American Psychological Association_.
-3.  [[00 Meta/Primary Sources/Classes/Pyschology/Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
+3.  [[Kuchynka et al. (2018) - Hostile and Benevolent Sexism.pdf]] 
 
 # Week 14 
 
@@ -215,8 +220,8 @@ No assigned readings.
 
 # Week 16
 
-1.  [[00 Meta/Primary Sources/Classes/Pyschology/Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact.pdf]] 
+1.  [[Dovidio et al. (2017) - Reducing Intergroup Bias through Intergroup Contact 1.pdf]] 
 2.  “[The Top 10 Strategies for Reducing Prejudice](https://greatergood.berkeley.edu/article/item/top_10_strategies_for_reducing_prejudice),” web article from _Greater Good Magazine_, published by University of California, Berkeley.
 
 
-link
+==link==

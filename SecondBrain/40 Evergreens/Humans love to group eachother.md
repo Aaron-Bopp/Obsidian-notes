@@ -9,6 +9,7 @@ tags: evergreen
 
 One reason this might be is because of [[natural selection|kin selection]].
 
+Possible mechanism behind [[racism]], [[homophobia]] [[partisanship]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

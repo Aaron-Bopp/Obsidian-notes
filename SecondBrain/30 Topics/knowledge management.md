@@ -3,6 +3,7 @@ created: 2021-07-21
 aliases:
   - PKM
   - personal knowledge system
+  - personal knowledge management
 tags: topic/term
 cssclass: term
 ---

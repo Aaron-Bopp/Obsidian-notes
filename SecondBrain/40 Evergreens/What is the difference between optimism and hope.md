@@ -1,11 +1,11 @@
 ---
 created: 2021-10-18
 aliases:
-- 
+- What is the difference between hope and optimism
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-25
-sr-interval: 2
+sr-due: 2021-10-30
+sr-interval: 5
 sr-ease: 230
 ---
 #### [[What is the difference between optimism and hope]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

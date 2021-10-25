@@ -26,7 +26,7 @@ Social fitness is a big part of [[human survival]] and [[human advancement]]
 	- [[Every person has an experience of gender]]
 - Science impacts this experience
 	- [[How Neuroscience impacts our daily lives]]
-	- [[Gender has a scientific basis]]
+	- [[The scientific basis of gender]]
 	- [[Our brains are built around survival]]
 	- [[Complex emotions are intellectual understandings of primal urges]]
 - Modern Experience

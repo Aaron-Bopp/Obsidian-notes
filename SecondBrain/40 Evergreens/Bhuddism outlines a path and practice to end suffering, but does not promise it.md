@@ -19,6 +19,7 @@ Bhuddism outlines this Eightfold path [^3] which leads to the end of [[suffering
 
 If these are followed you have a chance of reaching [[Nirvana]] in this life this path contrasts [[Worldviews are wrong if they make life seem easy and simple|worldviews that make life seems easy and simple]]
 
+I find this beautiful because [[True optimism is acknowledging the suffering of the world and defying it anyway]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED

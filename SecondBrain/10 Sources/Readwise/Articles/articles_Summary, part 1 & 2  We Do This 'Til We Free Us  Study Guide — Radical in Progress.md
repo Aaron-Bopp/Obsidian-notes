@@ -61,7 +61,7 @@ The system isn't broken it is working exactly as intended
 
   
 > "Kaba states, “I always tell people, for me, hope doesn’t preclude feeling sadness or frustration or anger or any other emotion that makes total sense. Hope isn’t an emotion, you know? Hope is not optimism” (p. 26). Kaba views hope as something you practice, a philosophy that is essential in the sustained fight for prison abolition."   [View Highlight](https://radicalinprogress.org/kaba-2021-2?__readwiseLocation=0%2F20%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A162%2C0%2F20%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A495#:~:text=Kaba%20states%2C%20%E2%80%9CI%20always%20tell%2Csustained%20fight%20for%20prison%20abolition.)
-
+^nhhdke
   
 > "There Are No Perfect Victims"   [View Highlight](https://radicalinprogress.org/kaba-2021-2?__readwiseLocation=0%2F21%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A8%2C0%2F21%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A36#:~:text=There%20Are%20No%20Perfect%20Victims)
 

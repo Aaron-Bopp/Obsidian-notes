@@ -8,5 +8,5 @@ tags: topic/technique
 
 A system invented by [[Niklas Luhmann]] that is often credited as the parent of many note-taking systems such [[evergreen notes]].
 
-**See**:: [[personal knowledge management]], [[second brain]]
+**See**:: [[knowledge management]], [[second brain]]
 

@@ -1,4 +1,4 @@
 {
-  "jsFiles": "dv_funcs.js",
-  "jsFolder": "00 Meta\\CustomJS"
+  "jsFiles": "test.js",
+  "jsFolder": "00 Meta/CustomJS"
 }

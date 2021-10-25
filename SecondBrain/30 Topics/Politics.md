@@ -14,7 +14,7 @@ aliases:
 - [[Civil Rights]]
 - [[racism]]
 - ![[Reagan#Reagan customJS dv_funcs topicOutlineHeader dv this]]
-- [[the politicization of the christian church]]
+- [[The Politicization of the Christian Church]]
 - ![[political strategy#political strategy customJS dv_funcs topicOutlineHeader dv this]]
 
 ### <hr class="dataviews"/>
