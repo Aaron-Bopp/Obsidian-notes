@@ -6,6 +6,7 @@ if you want to view the source visit the plugins github repository
 'use strict';
 
 var obsidian = require('obsidian');
+var electron = require('electron');
 
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
@@ -174,6 +175,152 @@ function lookupTag(classes) {
     return htmlTag;
 }
 
+function unload_math_preview(cm) {
+    cm.setOption("hmdFoldMath", {
+        onPreview: null,
+        onPreviewEnd: null,
+    });
+}
+function init_math_preview(cm) {
+    if (obsidian.loadMathJax)
+        obsidian.loadMathJax();
+    if (!document.querySelector("#math-preview")) {
+        var mathPreviewEl = document.createElement("div");
+        mathPreviewEl.className = "float-win float-win-hidden";
+        mathPreviewEl.id = "math-preview";
+        var mathTitleEl = document.createElement("div");
+        mathTitleEl.addClass("float-win-title");
+        mathPreviewEl.appendChild(mathTitleEl);
+        mathTitleEl.outerHTML = "<div class=\"float-win-title\">\n      <button class=\"float-win-close\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"><path d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z\"/></svg>\n      </button>\n      Math Preview\n      </div>";
+        var mathContentEl = document.createElement("div");
+        mathContentEl.addClass("float-win-content");
+        mathContentEl.id = "math-preview-content";
+        mathPreviewEl.appendChild(mathContentEl);
+        document.body.appendChild(mathPreviewEl);
+    }
+    var mathRenderer = null;
+    var win = new FloatWin("math-preview");
+    var supressed = false;
+    win.closeBtn.addEventListener("click", function () {
+        supressed = true; // for current TeX block
+    }, false);
+    function updatePreview(expr) {
+        if (supressed)
+            return;
+        if (!mathRenderer) {
+            // initialize renderer and preview window
+            mathRenderer = cm.hmd.FoldMath.createRenderer(document.getElementById("math-preview-content"), "display");
+            mathRenderer.onChanged = function () {
+                // finished rendering. show the window
+                if (!win.visible) {
+                    var cursorPos = cm.charCoords(cm.getCursor(), "window");
+                    win.moveTo(cursorPos.left, cursorPos.bottom);
+                }
+                win.show();
+            };
+        }
+        if (!mathRenderer.isReady())
+            return;
+        mathRenderer.startRender(expr);
+    }
+    function hidePreview() {
+        win.hide();
+        supressed = false;
+    }
+    cm.setOption("hmdFoldMath", {
+        onPreview: updatePreview,
+        onPreviewEnd: hidePreview,
+    });
+}
+function FloatWin(id) {
+    var win = document.getElementById(id);
+    // eslint-disable-next-line @typescript-eslint/no-this-alias
+    var self = this;
+    /** @type {HTMLDivElement} */
+    var titlebar = win.querySelector(".float-win-title");
+    titlebar.addEventListener("selectstart", function () {
+        return false;
+    }, false);
+    /** @type {HTMLButtonElement} */
+    var closeBtn = win.querySelector(".float-win-close");
+    if (closeBtn) {
+        closeBtn.addEventListener("click", function () {
+            self.hide();
+        }, false);
+    }
+    var boxX, boxY, mouseX, mouseY, offsetX, offsetY;
+    titlebar.addEventListener("mousedown", function (e) {
+        if (e.target === closeBtn)
+            return;
+        boxX = win.offsetLeft;
+        boxY = win.offsetTop;
+        mouseX = getMouseXY(e).x;
+        mouseY = getMouseXY(e).y;
+        offsetX = mouseX - boxX;
+        offsetY = mouseY - boxY;
+        document.addEventListener("mousemove", move, false);
+        document.addEventListener("mouseup", up, false);
+    }, false);
+    function move(e) {
+        var x = getMouseXY(e).x - offsetX;
+        var y = getMouseXY(e).y - offsetY;
+        var width = document.documentElement.clientWidth - titlebar.offsetWidth;
+        var height = document.documentElement.clientHeight - titlebar.offsetHeight;
+        x = Math.min(Math.max(0, x), width);
+        y = Math.min(Math.max(0, y), height);
+        win.style.left = x + "px";
+        win.style.top = y + "px";
+    }
+    function up(e) {
+        document.removeEventListener("mousemove", move, false);
+        document.removeEventListener("mouseup", up, false);
+    }
+    function getMouseXY(e) {
+        var x = 0, y = 0;
+        e = e || window.event;
+        if (e.pageX) {
+            x = e.pageX;
+            y = e.pageY;
+        }
+        else {
+            x = e.clientX + document.body.scrollLeft - document.body.clientLeft;
+            y = e.clientY + document.body.scrollTop - document.body.clientTop;
+        }
+        return {
+            x: x,
+            y: y,
+        };
+    }
+    this.el = win;
+    this.closeBtn = closeBtn;
+    this.visible = !/float-win-hidden/.test(win.className);
+}
+FloatWin.prototype.show = function (moveToCenter) {
+    if (this.visible)
+        return;
+    var el = this.el, 
+    // eslint-disable-next-line @typescript-eslint/no-this-alias
+    self = this;
+    this.visible = true;
+    el.className = this.el.className.replace(/\s*(float-win-hidden\s*)+/g, " ");
+    if (moveToCenter) {
+        setTimeout(function () {
+            self.moveTo((window.innerWidth - el.offsetWidth) / 2, (window.innerHeight - el.offsetHeight) / 2);
+        }, 0);
+    }
+};
+FloatWin.prototype.hide = function () {
+    if (!this.visible)
+        return;
+    this.visible = false;
+    this.el.className += " float-win-hidden";
+};
+FloatWin.prototype.moveTo = function (x, y) {
+    var s = this.el.style;
+    s.left = x + "px";
+    s.top = y + "px";
+};
+
 var DEFAULT_SETTINGS = {
     dynamicCursor: false,
     markSelection: false,
@@ -198,6 +345,9 @@ var DEFAULT_SETTINGS = {
     renderAdmonition: false,
     renderQuery: false,
     renderDataview: false,
+    renderMath: false,
+    renderMathPreview: false,
+    styleCheckBox: true,
     tokenList: "em|strong|strikethrough|code|linkText|task|internalLink|highlight",
 };
 var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
@@ -268,6 +418,9 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
                 _this.plugin.updateCodeMirrorOption("hmdFold", {
                     image: _this.plugin.settings.foldImages,
                     link: _this.plugin.settings.foldLinks,
+                    html: _this.plugin.settings.renderHTML,
+                    code: _this.plugin.settings.renderCode,
+                    math: _this.plugin.settings.renderMath,
                 });
             });
         });
@@ -282,6 +435,9 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
                 _this.plugin.updateCodeMirrorOption("hmdFold", {
                     image: _this.plugin.settings.foldImages,
                     link: _this.plugin.settings.foldLinks,
+                    html: _this.plugin.settings.renderHTML,
+                    code: _this.plugin.settings.renderCode,
+                    math: _this.plugin.settings.renderMath,
                 });
             });
         });
@@ -293,6 +449,16 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
                 _this.plugin.settings.editModeClickHandler = value;
                 _this.plugin.saveData(_this.plugin.settings);
                 _this.plugin.updateCodeMirrorOption("hmdClick", _this.plugin.settings.editModeClickHandler);
+            });
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Style Checkboxes")
+            .setDesc("Disable this if you want to do your own styling of edit mode checkboxes. This setting does nothing if Hide Markdown Tokens is disabled")
+            .addToggle(function (toggle) {
+            return toggle.setValue(_this.plugin.settings.styleCheckBox).onChange(function (value) {
+                _this.plugin.settings.styleCheckBox = value;
+                _this.plugin.saveData(_this.plugin.settings);
+                _this.plugin.applyBodyClasses();
             });
         });
         containerEl.createEl("h3", {
@@ -310,7 +476,47 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
                     link: _this.plugin.settings.foldLinks,
                     html: _this.plugin.settings.renderHTML,
                     code: _this.plugin.settings.renderCode,
+                    math: _this.plugin.settings.renderMath,
                 });
+            });
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Render Math")
+            .setDesc("")
+            .addToggle(function (toggle) {
+            return toggle.setValue(_this.plugin.settings.renderMath).onChange(function (value) {
+                _this.plugin.settings.renderMath = value;
+                _this.plugin.saveData(_this.plugin.settings);
+                _this.plugin.updateCodeMirrorOption("hmdFold", {
+                    image: _this.plugin.settings.foldImages,
+                    link: _this.plugin.settings.foldLinks,
+                    html: _this.plugin.settings.renderHTML,
+                    code: _this.plugin.settings.renderCode,
+                    math: _this.plugin.settings.renderMath,
+                });
+            });
+        });
+        new obsidian.Setting(containerEl)
+            .setName("Render Math Preview")
+            .setDesc("")
+            .addToggle(function (toggle) {
+            return toggle.setValue(_this.plugin.settings.renderMathPreview).onChange(function (value) {
+                _this.plugin.settings.renderMathPreview = value;
+                _this.plugin.saveData(_this.plugin.settings);
+                if (_this.plugin.settings.renderMathPreview) {
+                    _this.app.workspace.iterateCodeMirrors(function (cm) {
+                        init_math_preview(cm);
+                    });
+                }
+                else {
+                    var previewEl = document.querySelector("#math-preview");
+                    if (previewEl) {
+                        document.querySelector("#math-preview").detach();
+                    }
+                    _this.app.workspace.iterateCodeMirrors(function (cm) {
+                        unload_math_preview(cm);
+                    });
+                }
             });
         });
         new obsidian.Setting(containerEl)
@@ -325,6 +531,7 @@ var ObsidianCodeMirrorOptionsSettingsTab = /** @class */ (function (_super) {
                     link: _this.plugin.settings.foldLinks,
                     html: _this.plugin.settings.renderHTML,
                     code: _this.plugin.settings.renderCode,
+                    math: _this.plugin.settings.renderMath,
                 });
             });
         });
@@ -2336,7 +2543,7 @@ createCommonjsModule(function (module) {
         var css;
         if (_this.tokenTypes.indexOf("task") === -1) css = "";
         else
-          css = `.hide-tokens .cm-s-obsidian span.cm-formatting-task {
+          css = `.hide-tokens.style-check-box .cm-s-obsidian span.cm-formatting-task {
           white-space: pre;
           display: inline-block;
           height: 1em;
@@ -2351,10 +2558,10 @@ createCommonjsModule(function (module) {
           background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAwCAMAAAA8VkqRAAAAclBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACa4vOeAAAAJXRSTlMADcjpDswcLZOzsvOYBvWdbtvTX0D69+ORa1dRJCDtuaF7ZDkoQyuUXgAAAMhJREFUOMvt0reywjAUhOFjKxmcrgMZboL//V8Rm6GwkNUx0LClvhkVZ1fEZoqHqMwO7wuUSb0YxcJKxtLpxIt2SzJRykkQp5RgdAjaIKRJCEn6gWdA9OzRoqLVRscQnc9bdtXX/eyurOF7N3erLVDPwCGHxoVwamH1LwGUBfBbhrCvoLlMitL9DY8trLtJg7qoCj18VAN1OYE/YJBuDe1RJtBVo5wbqPb+GL5yWG1GLX0YZYw5iQ93yQ/yAHfZzu5qt/mxr97VFS15JGSVM0C6AAAAAElFTkSuQmCC");
           background-size: 1em;
         }
-        .theme-dark.hide-tokens .cm-s-obsidian span.cm-formatting-task {
+        .theme-dark.hide-tokens.style-check-box .cm-s-obsidian span.cm-formatting-task {
           filter: invert(1);
         }
-        .hide-tokens .cm-s-obsidian span.cm-formatting-task.cm-property {
+        .hide-tokens.style-check-box .cm-s-obsidian span.cm-formatting-task.cm-property {
           background-position-y: -1em;
         }`;
         _this.styleEl.textContent = _this._lastCSS = css;
@@ -2437,6 +2644,12 @@ createCommonjsModule(function (module) {
               var domParent = domNode.parentElement;
               if (shallHideTokens ? addClass(domParent, hideClassName) : rmClass(domParent, hideClassName)) {
                 changed = true;
+              }
+              if (domParent && domParent.classList && domParent.classList.contains("cm-formatting-task")) {
+                if (!domParent.dataset.hasOwnProperty("task")) {
+                  domParent.dataset.task = domNode.textContent.substring(1, 2);
+                  changed = true;
+                }
               }
               if (
                 domParent.nextElementSibling &&
@@ -5394,7 +5607,7 @@ var gte_1 = gte;
   var DataviewRenderer = function (code, info) {
     var el = document.createElement("div");
     var ctx = new obsidian.Component();
-    ctx.sourcePath = info.editor.filePath;
+    ctx.sourcePath = info.editor.state.fileName;
     if (dependencyCheck()) {
       if (info.lang === "dataview") {
         window.app.plugins.getPlugin("dataview").dataview(code, el, ctx, ctx.sourcePath);
@@ -5431,6 +5644,230 @@ var gte_1 = gte;
     renderer: exports.DataviewRenderer,
     suggested: false,
   });
+});
+
+// HyperMD, copyright (c) by laobubu
+
+(function (mod) {
+  mod(null, (HyperMD.FoldMath = HyperMD.FoldMath || {}), CodeMirror, HyperMD, HyperMD.Fold);
+})(function (require, exports, CodeMirror, core_1, fold_1) {
+  Object.defineProperty(exports, "__esModule", { value: true });
+  exports.getAddon =
+    exports.FoldMath =
+    exports.suggestedOption =
+    exports.defaultOption =
+    // exports.DumbRenderer =
+    exports.insertMathMark =
+    exports.MathFolder =
+      void 0;
+  /********************************************************************************** */
+  //#region Exports
+  /**
+   * Detect if a token is a beginning of Math, and fold it!
+   *
+   * @see FolderFunc in ./fold.ts
+   */
+  var MathFolder = function (stream, token) {
+    var mathBeginRE = /formatting-math-begin\b/;
+    if (!mathBeginRE.test(token.type)) return null;
+    var cm = stream.cm;
+    var line = stream.lineNo;
+    var maySpanLines = /math-2\b/.test(token.type); // $$ may span lines!
+    var tokenLength = maySpanLines ? 2 : 1; // "$$" or "$"
+    // CodeMirror GFM mode split "$$" into two tokens, so do a extra check.
+    if (tokenLength == 2 && token.string.length == 1) {
+      var nextToken = stream.lineTokens[stream.i_token + 1];
+      if (!nextToken || !mathBeginRE.test(nextToken.type)) return null;
+    }
+    // Find the position of the "$" tail and compose a range
+    var end_info = stream.findNext(/formatting-math-end\b/, maySpanLines);
+    var from = { line: line, ch: token.start };
+    var to;
+    var noEndingToken = false;
+    if (end_info) {
+      to = { line: end_info.lineNo, ch: end_info.token.start + tokenLength };
+    } else if (maySpanLines) {
+      // end not found, but this is a multi-line math block.
+      // fold to the end of doc
+      var lastLineNo = cm.lastLine();
+      to = { line: lastLineNo, ch: cm.getLine(lastLineNo).length };
+      noEndingToken = true;
+    } else {
+      // Hmm... corrupted math ?
+      return null;
+    }
+    // Range is ready. request the range
+    var expr_from = { line: from.line, ch: from.ch + tokenLength };
+    var expr_to = {
+      line: to.line,
+      ch: to.ch - (noEndingToken ? 0 : tokenLength),
+    };
+    var expr = cm.getRange(expr_from, expr_to).trim();
+    var foldMathAddon = exports.getAddon(cm);
+    var reqAns = stream.requestRange(from, to);
+    if (reqAns !== fold_1.RequestRangeResult.OK) {
+      if (reqAns === fold_1.RequestRangeResult.CURSOR_INSIDE) foldMathAddon.editingExpr = expr; // try to trig preview event
+      return null;
+    }
+    // Now let's make a math widget!
+    var isDisplayMode = tokenLength > 1 && from.ch == 0 && (noEndingToken || to.ch >= cm.getLine(to.line).length);
+    var marker = insertMathMark(cm, from, to, expr, tokenLength, isDisplayMode);
+    foldMathAddon.editingExpr = null; // try to hide preview
+    return marker;
+  };
+  exports.MathFolder = MathFolder;
+  /**
+   * Insert a TextMarker, and try to render it with configured MathRenderer.
+   */
+  function insertMathMark(cm, p1, p2, expression, tokenLength, isDisplayMode) {
+    var span = document.createElement("span");
+    span.setAttribute("class", "hmd-fold-math math-" + (isDisplayMode ? 2 : 1));
+    span.setAttribute("title", expression);
+    var mathPlaceholder = document.createElement("span");
+    mathPlaceholder.setAttribute("class", "hmd-fold-math-placeholder");
+    mathPlaceholder.textContent = expression;
+    span.appendChild(mathPlaceholder);
+    var marker = cm.markText(p1, p2, {
+      replacedWith: span,
+    });
+    span.addEventListener(
+      "click",
+      function () {
+        return fold_1.breakMark(cm, marker, tokenLength);
+      },
+      false
+    );
+    var foldMathAddon = exports.getAddon(cm);
+    var mathRenderer = foldMathAddon.createRenderer(span, isDisplayMode ? "display" : "");
+    mathRenderer.onChanged = function () {
+      //   if (mathPlaceholder) {
+      //     span.removeChild(mathPlaceholder);
+      //     mathPlaceholder = null;
+      //   }
+      marker.changed();
+    };
+    marker.on("clear", function () {
+      mathRenderer.clear();
+    });
+    marker["mathRenderer"] = mathRenderer;
+    core_1.tryToRun(
+      function () {
+        if (!mathRenderer.isReady()) return false;
+        mathRenderer.startRender(expression);
+        return true;
+      },
+      5,
+      function () {
+        // if failed 5 times...
+        marker.clear();
+      }
+    );
+    return marker;
+  }
+  exports.insertMathMark = insertMathMark;
+  //#endregion
+  fold_1.registerFolder("math", exports.MathFolder, true);
+  /********************************************************************************** */
+  //#region Mathjax Renderer
+  var MathjaxRenderer = /** @class */ (function () {
+    function MathjaxRenderer(container, mode) {
+      this.container = container;
+      this.container.empty();
+      this.isDisplay = mode === "display";
+      var elClass = "hmd-math-mathjax";
+      if (mode) elClass += " hmd-math-mathjax-" + mode;
+      var errorEl = (this.errorEl = document.createElement("span"));
+      errorEl.setAttribute("style", "white-space: pre-wrap; font-size: 90%; border: 1px solid #900; color: #C00");
+      var el = (this.el = document.createElement("span"));
+      el.className = elClass;
+      container.appendChild(el);
+    }
+    MathjaxRenderer.prototype.dependencyCheck = function () {
+      return gte_1(electron.ipcRenderer.sendSync("version"), "0.12.16") ? true : false;
+    };
+    MathjaxRenderer.prototype.startRender = function (expr) {
+      var el = this.el,
+        errorEl = this.errorEl;
+      try {
+        if (!this.dependencyCheck()) {
+          el.innerHTML = '<span class="mod-warning">Obsidian v0.12.16+ is needed to render Mathjax</span>';
+        } else {
+          el.innerHTML = obsidian.renderMath(expr, { display: true }).outerHTML;
+          // this.container.appendChild(this.el);
+          obsidian.finishRenderMath();
+        }
+      } catch (err) {
+        // failed to render!
+        errorEl.textContent = err && err.message;
+        if (errorEl.parentElement !== el) {
+          el.textContent = "";
+          el.appendChild(errorEl);
+          el.className += " hmd-math-mathjax-error";
+        }
+      }
+      var onChanged = this.onChanged;
+      if (onChanged) setTimeout(onChanged.bind(this, expr), 0);
+    };
+    MathjaxRenderer.prototype.clear = function () {
+      this.container.removeChild(this.el);
+    };
+    /** indicate that if the Renderer is ready to execute */
+    MathjaxRenderer.prototype.isReady = function () {
+      return true; // I'm always ready!
+    };
+    return MathjaxRenderer;
+  })();
+  //   exports.DumbRenderer = DumbRenderer;
+  exports.defaultOption = {
+    renderer: MathjaxRenderer,
+    onPreview: null,
+    onPreviewEnd: null,
+  };
+  exports.suggestedOption = {};
+  core_1.suggestedEditorConfig.hmdFoldMath = exports.suggestedOption;
+  CodeMirror.defineOption("hmdFoldMath", exports.defaultOption, function (cm, newVal) {
+    ///// convert newVal's type to `Partial<Options>`, if it is not.
+    if (!newVal) {
+      newVal = {};
+    } else if (newVal === true) {
+      newVal = { renderer: MathjaxRenderer, onPreview: null, onPreviewEnd: null };
+    } else if (typeof newVal === "function") {
+      newVal = { renderer: newVal };
+    }
+    ///// apply config and write new values into cm
+    var inst = exports.getAddon(cm);
+    for (var k in exports.defaultOption) {
+      inst[k] = k in newVal ? newVal[k] : exports.defaultOption[k];
+    }
+  });
+  //#endregion
+  /********************************************************************************** */
+  //#region Addon Class
+  var FoldMath = /** @class */ (function () {
+    function FoldMath(cm) {
+      // eslint-disable-next-line @typescript-eslint/no-this-alias
+      var _this = this;
+      this.cm = cm;
+      new core_1.FlipFlop(
+        /** CHANGED */ function (expr) {
+          _this.onPreview && _this.onPreview(expr);
+        },
+        /** HIDE    */ function () {
+          _this.onPreviewEnd && _this.onPreviewEnd();
+        },
+        null
+      ).bind(this, "editingExpr");
+    }
+    FoldMath.prototype.createRenderer = function (container, mode) {
+      var RendererClass = this.renderer || MathjaxRenderer;
+      return new RendererClass(container, mode);
+    };
+    return FoldMath;
+  })();
+  exports.FoldMath = FoldMath;
+  //#endregion
+  /** ADDON GETTER (Singleton Pattern): a editor can have only one FoldMath instance */
+  exports.getAddon = core_1.Addon.Getter("FoldMath", FoldMath, exports.defaultOption /** if has options */);
 });
 
 // HyperMD, copyright (c) by laobubu
@@ -5773,13 +6210,17 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
     ObsidianCodeMirrorOptionsPlugin.prototype.applyMonkeyPatches = function () {
         // patching onLoadFile to clear CM specific state in order to avoid fold related memory leaks
         // we also add the current file name to the CM state so that CM native actions have a reference
-        var patchOnLoadFile = around(obsidian.TextFileView.prototype, {
+        var patchOnLoadFile = around(obsidian.MarkdownView.prototype, {
             onLoadFile: function (old) {
                 // old is the original onLoadFile function
                 return function (file) {
                     var _a;
                     // NOTE: be careful with this code, if any part of it fails, it will block all other
                     // plugins from loading files.
+                    var previewEl = document.querySelector("#math-preview");
+                    if (previewEl && !previewEl.hasClass("float-win-hidden")) {
+                        previewEl.addClass("float-win-hidden");
+                    }
                     var cm = (_a = this.sourceMode) === null || _a === void 0 ? void 0 : _a.editor.cm;
                     if (cm) {
                         cm.state.fileName = file.path;
@@ -5787,6 +6228,22 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                         cm.hmd.FoldCode.folded = {}; // these objects can hold references to detached elements
                     }
                     return old.call(this, file); // call the orignal function and bind the current scope to it
+                };
+            },
+            // @ts-ignore
+            onClose: function (old) {
+                return function () {
+                    var _a;
+                    var cm = (_a = this.sourceMode) === null || _a === void 0 ? void 0 : _a.editor.cm;
+                    if (cm) {
+                        cm.hmd.Fold.folded = {}; // these objects can hold references to detached elements
+                        cm.hmd.FoldCode.folded = {}; // these objects can hold references to detached elements
+                    }
+                    var previewEl = document.querySelector("#math-preview");
+                    if (previewEl && !previewEl.hasClass("float-win-hidden")) {
+                        previewEl.addClass("float-win-hidden");
+                    }
+                    return old.call(this);
                 };
             },
         });
@@ -5905,6 +6362,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     link: _this_1.settings.foldLinks,
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
+                    math: _this_1.settings.renderCode,
                 });
             },
         });
@@ -5920,6 +6378,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     link: _this_1.settings.foldLinks,
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
+                    math: _this_1.settings.renderCode,
                 });
             },
         });
@@ -5935,7 +6394,47 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     link: _this_1.settings.foldLinks,
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
+                    math: _this_1.settings.renderCode,
                 });
+            },
+        });
+        this.addCommand({
+            id: "toggle-render-math",
+            name: "Toggle Render Math",
+            callback: function () {
+                _this_1.settings.renderMath = !_this_1.settings.renderMath;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses();
+                _this_1.updateCodeMirrorOption("hmdFold", {
+                    image: _this_1.settings.foldImages,
+                    link: _this_1.settings.foldLinks,
+                    html: _this_1.settings.renderHTML,
+                    code: _this_1.settings.renderCode,
+                    math: _this_1.settings.renderCode,
+                });
+            },
+        });
+        this.addCommand({
+            id: "toggle-render-math-preview",
+            name: "Toggle Render Math Preview",
+            callback: function () {
+                _this_1.settings.renderMathPreview = !_this_1.settings.renderMathPreview;
+                _this_1.saveData(_this_1.settings);
+                _this_1.applyBodyClasses();
+                if (_this_1.settings.renderMathPreview) {
+                    _this_1.app.workspace.iterateCodeMirrors(function (cm) {
+                        init_math_preview(cm);
+                    });
+                }
+                else {
+                    var previewEl = document.querySelector("#math-preview");
+                    if (previewEl) {
+                        document.querySelector("#math-preview").detach();
+                    }
+                    _this_1.app.workspace.iterateCodeMirrors(function (cm) {
+                        unload_math_preview(cm);
+                    });
+                }
             },
         });
         this.addCommand({
@@ -5950,6 +6449,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     link: _this_1.settings.foldLinks,
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
+                    math: _this_1.settings.renderCode,
                 });
             },
         });
@@ -6188,6 +6688,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                 link: _this_1.settings.foldLinks,
                 html: _this_1.settings.renderHTML,
                 code: _this_1.settings.renderCode,
+                math: _this_1.settings.renderMath,
             });
             cm.setOption("hmdFoldCode", {
                 admonition: _this_1.settings.renderAdmonition,
@@ -6195,6 +6696,8 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                 query: _this_1.settings.renderQuery,
                 dataview: _this_1.settings.renderDataview,
             });
+            if (_this_1.settings.renderMathPreview)
+                init_math_preview(cm);
             if (_this_1.settings.containerAttributes)
                 _this_1.updateCodeMirrorHandlers("renderLine", onRenderLine, true, true);
         });
@@ -6206,6 +6709,11 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                 ? document.body.addClass("hide-tokens")
                 : null
             : document.body.removeClass("hide-tokens");
+        this.settings.styleCheckBox
+            ? !document.body.hasClass("style-check-box")
+                ? document.body.addClass("style-check-box")
+                : null
+            : document.body.removeClass("style-check-box");
         this.settings.markSelection
             ? !document.body.hasClass("style-active-selection")
                 ? document.body.addClass("style-active-selection")
@@ -6255,11 +6763,12 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
             cm.setOption("styleActiveLine", true);
             cm.setOption("mode", "hypermd");
             cm.setOption("hmdHideToken", false);
-            cm.setOption("hmdFold", { image: false, link: false, html: false });
+            cm.setOption("hmdFold", { image: false, link: false, html: false, code: false, math: false });
             cm.setOption("hmdTableAlign", false);
             cm.setOption("hmdClick", false);
             cm.setOption("cursorBlinkRate", 530);
             cm.off("renderLine", onRenderLine);
+            unload_math_preview(cm);
             // cm.off("imageClicked", this.onImageClick);
             cm.refresh();
         });

@@ -22,7 +22,7 @@
 
 2.  **The Spartan Mixed Constitution**
 
-    a.  [[Dual]] Hereditary Monarchy (Limited Powers)
+    a. Dual Hereditary Monarchy (Limited Powers)
 
         i.  The two kings where checks on each other but only one commanded the army at a time
 

@@ -44,7 +44,7 @@ There are dozens of ways that chromosomes can be much more complex than XX and X
 
 -   [XXYY Syndrome](https://en.wikipedia.org/wiki/XXYY_syndrome) results in male children (due to two SRY genes) which often experience hypogonadism, needing testosterone supplements, but otherwise seeming like a typical male
 
--   [Mosaicism](https://en.wikipedia.org/wiki/Mosaic_(genetics)) results when some cells in the body have one set of chromosomes and other cells have another due to a mutation of the genome during gestation. This may be XX/XY (resulting in a [[dual]] set of genitalia), X/XY (a milder form of Swyer or Turner syndromes) or XX/XXY (a milder form of Klinefelter syndrome).
+-   [Mosaicism](https://en.wikipedia.org/wiki/Mosaic_(genetics)) results when some cells in the body have one set of chromosomes and other cells have another due to a mutation of the genome during gestation. This may be XX/XY (resulting in a dual set of genitalia), X/XY (a milder form of Swyer or Turner syndromes) or XX/XXY (a milder form of Klinefelter syndrome).
 
 -   [Chimerism](https://en.wikipedia.org/wiki/Chimera_(genetics)) occurs when two fertilized embryos merge together into one zygote, causing half of the child to contain one set of DNA and the other half to contain another. This can result in an otherwise completely typical human being of either male or female phenotype, even capable of producing offspring, but which comes back on a kareotype test as not matching their phenotype based on where the sample was taken on their body. In extremely rare cases this can result in two full sets of reproductive organs.
 

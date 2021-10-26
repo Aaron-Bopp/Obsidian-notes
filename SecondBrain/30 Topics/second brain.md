@@ -26,7 +26,7 @@ A second brain is a term that refers to a system of written thought that allows 
 	- [[evergreen notes]]
 - Tools for constructing a Second Brain
 	- [[Obsidian (software)]]
-		- [[Dual]]
+		- [[Dual (plugin)]]
 	- [[Roam Research]]
 	- Atom
 - Tips

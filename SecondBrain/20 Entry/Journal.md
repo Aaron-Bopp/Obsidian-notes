@@ -85,7 +85,7 @@ I have a similar feeling where even when I'm happy and enjoying myself it feels 
 
 The thought of idk how much pain im feeling/idk why im crying comes from [[my parents]] always discounting my crying by saying i have a fast cry trigger but I think that made me think that [[my emotions]] weren't natural and so I hid them and shut them off
 
-#TO/PONDER/ME Because I had so much trouble controlling [[my emotions]] as a child, I still view emotionality as weakness and there might be some misogyny there????
+#TO/PONDERED/ME (yeah you're just trans hun 10/25/2021) Because I had so much trouble controlling [[my emotions]] as a child, I still view emotionality as weakness and there might be some misogyny there???? 
 
 I isolate myself when I am sad or depressed because I am used to [[my emotions]] being invalidated. Did I say I don't know why I'm crying so often because if I said how I felt [[my emotions]] were invalidated or just because I actually didn't know? Why I am constantly searching for validation? What the fuck is even being validated? I never got an answer for why I was crying, so I just stopped crying. 
 
@@ -97,9 +97,9 @@ Do I wanna be the girl or do I just want the [[emotional validation]] that girls
 
 is it okay to want [[emotional validation]]? Do I want validation from people I know or people I don't know?
 
-#TO/PONDER/ME   [[Emotional validation]] has been on my mind a lot recently. It feels like a lot of my worse behaviors are built around [[emotional validation]]. I cut myself off and refuse to reach out for help because I afraid that [[my emotions]] won't be validated. Of course this is a never ending circle 
+#TO/PONDERED/ME ([[You can be taught to invalidate your own emotions]])   [[Emotional validation]] has been on my mind a lot recently. It feels like a lot of my worse behaviors are built around [[emotional validation]]. I cut myself off and refuse to reach out for help because I afraid that [[my emotions]] won't be validated. Of course this is a never ending circle 
 
-#TO/PONDERED/ME (it's [[masking]], lol 7/29/21) Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
+#TO/PONDERED/ME (it's [[masking]], lol 7/29/21 also you're autistic dumbass 10/25/21) Do I get tired of human interactions over time because I am an introvert or is the there a deeper meaning?
 
 # 2020
 

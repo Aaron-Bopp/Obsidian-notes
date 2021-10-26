@@ -29,8 +29,8 @@ bib:
 - [[neurosis]](https://en.wikipedia.org/wiki/neurosis) -> the tendency to worry
 	- as a human, a lot of what is good for us makes us suffer
 		- most professional success comes from conscientiousness and neuroticism 
-- #to/explore/research  5-factor model
--  [[neuroticism]](https://en.wikipedia.org/wiki/neuroticism) -> sometimes defined as a tendency for quick arousal when stimulated and slow relaxation from arousal, especially with regard to negative emotional arousal.
+- [[five-factor model]]
+- [[neuroticism]](https://en.wikipedia.org/wiki/neuroticism) -> sometimes defined as a tendency for quick arousal when stimulated and slow relaxation from arousal, especially with regard to negative emotional arousal.
 	- Is a trait in many models within personality theory, but there is significant disagreement on its definition
 - [Conscientiousness](https://en.wikipedia.org/wiki/Conscientiousness) -> the personality trait of being careful, or diligent. 
 	- Conscientiousness implies a [[desire]] to do a task well, and to take obligations to others seriously. 
@@ -38,24 +38,24 @@ bib:
 - Difference between anxious thoughts vs a feeling of existential dread
 	- Your feelings can manifest as thoughts
 	- Feeling alone in the world can come from people fundamentally not understanding you at an early age
-- The way the mind works 
-	- Mamos -> emotional mind
-		- happens within 0-1s and then stores the emotional state
-		- Examples
-			- emotional
-			- likes/dislikes
-			- reacts
-			- guttural
-			- sense
-	- Buddhi -> analytical mind
-		- Processing emotions
-		- using stored coping mechanisms to deal with stored emotional states
-		- examples
-			- "just try it"
-			- "experience new things"
-- Competence comes from empathic mirroring
-	- [[Confidence]] problems come from when [[parents]] can't mirror the child's emotional needs ^d7aec9
-		- [[Attachment Theory]]
+##### The way the mind works 
+- Mamos -> emotional mind
+	- happens within 0-1s and then stores the emotional state
+	- Examples
+		- emotional
+		- likes/dislikes
+		- reacts
+		- guttural
+		- sense
+- Buddhi -> analytical mind
+	- Processing emotions
+	- using stored coping mechanisms to deal with stored emotional states
+	- examples
+		- "just try it"
+		- "experience new things"
+##### Competence comes from empathic mirroring
+- [[Confidence]] problems come from when [[parents]] can't mirror the child's emotional needs ^d7aec9
+	- [[Attachment Theory]]
 
 ---
 

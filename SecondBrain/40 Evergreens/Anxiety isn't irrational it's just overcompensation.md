@@ -10,7 +10,8 @@ People who say [[anxiety]] is irrational are just unaware of their surroundings.
 
 For the most part [[anxiety]] is completely natural and normal [[Neuroscience|neurological]] reaction but it can extended into the realm of overcompensation by [[trauma]] (i.e. [[Rejection Sensitivity]]), [[neurodiversity]], or simply a warped sense of reality.
 
-
+- [[Anxiety should be a tool at your disposal not an impedance to your life]]
+- [[Your anxiety knows your insecurities better than you do]]
 
 ### <hr class="footnote"/>
 

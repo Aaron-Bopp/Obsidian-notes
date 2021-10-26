@@ -9,7 +9,7 @@ aliases:
 
 #### [[A inwardly judgementful and outwardly accepting home creates trust issues]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/WRITE 
+[[Parents need to model the ability to deal with emotion to their children]]
 
 ### <hr class="footnote"/>
 

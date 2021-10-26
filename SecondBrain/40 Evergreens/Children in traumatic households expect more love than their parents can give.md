@@ -13,6 +13,8 @@ sr-ease: 210
 
 This is because the reason the child's home is traumatic is because of the parents and there is no way the parents can overcome this. The parents are unable to give [[unconditional love]] because they are showing that there are conditions where they do not love the child. [[Parents need to model the ability to deal with emotion to their children]]
 
+[[A inwardly judgementful and outwardly accepting home creates trust issues]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 

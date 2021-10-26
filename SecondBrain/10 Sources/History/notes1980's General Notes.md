@@ -19,7 +19,7 @@ bib:
             - wanted [[creationism]] and prayer in school
         - [[anti-liberalism]]
             - rejection of feminists movement
-            - reaction to increased divorce, [[dual]] income homes
+            - reaction to increased divorce, dual income homes
             - became coupled with anti-[[abortion]]
         - financial [[Conservatism]]
             - anti-communist

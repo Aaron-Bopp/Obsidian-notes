@@ -140,7 +140,7 @@ Chapter 4
 
     -   Fields in datagram -
 
--   [[Dual]] stack
+-   Dual stack
 
 -   Tunneling -- ip v6 LANs connected to other ipv6 LANs through ipv4 tunnels
 

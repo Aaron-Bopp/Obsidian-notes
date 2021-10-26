@@ -4,23 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "298f20d46afc18a2",
+        "id": "9538a4ecf5a175ea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 Sources/Mental Health/videoExistential Dread.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f2871bcd2ea2f289",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf"
+            "file": "20 Entry/INDEX.md",
+            "mode": "preview"
           }
         }
       }
@@ -50,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TO/DO/CONCEPTUALIZE",
+                "query": "tag:#EVER/SEED/UNPLANTED -path:Templates",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
@@ -65,7 +55,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf",
+                "file": "20 Entry/INDEX.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -82,7 +72,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf",
+                "file": "20 Entry/INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,14 +106,15 @@
             }
           },
           {
-            "id": "5ed618201aa02df6",
+            "id": "78928910cc289bc9",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "0f1a94d152e7c645",
@@ -158,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf",
+                "file": "20 Entry/INDEX.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:INDEX -file:aliases -file:uncreated",
@@ -265,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf"
+                "file": "20 Entry/INDEX.md"
               }
             }
           }
@@ -276,17 +267,17 @@
     "width": 913.4530639648438,
     "collapsed": true
   },
-  "active": "f2871bcd2ea2f289",
+  "active": "9538a4ecf5a175ea",
   "lastOpenFiles": [
-    "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 9 S21 soln.pdf",
-    "40 Evergreens/Parents need to model the ability to deal with emotion to their children.md",
-    "10 Sources/Mental Health/videoExistential Dread.md",
-    "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 10 S21 soln.pdf",
-    "40 Evergreens/web of thought.md",
-    "00 Meta/Primary Sources/Classes/Discrete Math/BB Homework 8 S21 soln.pdf",
-    "40 Evergreens/Our brains are built around survival.md",
-    "40 Evergreens/Human's will find explanations for inexplainable things.md",
-    "40 Evergreens/Your insecurity is just more avenues for your anxiety to take advantage of.md",
-    "40 Evergreens/Karma is based in the law of cause and effect.md"
+    "20 Entry/INDEX.md",
+    "How and when Obsidian's graph can be useful.md",
+    "20 Entry/NOW.md",
+    "Repeatedly failing and fixing it gives you the right to make bad decisions.md",
+    "40 Evergreens/Dual (plugin).md",
+    "10 Sources/History/notes1980's General Notes.md",
+    "10 Sources/Religion/articleAn Introduction to Bhuddism.md",
+    "00 Meta/Primary Sources/Classes/Comp Sci/Exam2_review_guide_chpt4-5.md",
+    "00 Meta/Primary Sources/Classes/History/Ancient Sparta Lecture Outline.md",
+    "00 Meta/Primary Sources/gender-dysphoria-bible/16 Disorders of Sex Development Gender is not Chromosomal.md"
   ]
 }

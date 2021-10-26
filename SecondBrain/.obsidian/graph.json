@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"00 Meta\" ",
+  "search": "-path:\"00 Meta\" -path:Sources",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -77,10 +77,10 @@
   "nodeSizeMultiplier": 0.748529411764706,
   "lineSizeMultiplier": 0.404970760233918,
   "collapse-forces": false,
-  "centerStrength": 0.417647058823529,
-  "repelStrength": 12.5882352941176,
+  "centerStrength": 0.476470588235294,
+  "repelStrength": 14.6102941176471,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.0069121141920963,
+  "scale": 0.1111007749672546,
   "close": false
 }
