@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:UNCREATEDNOTES",
+  "search": "path:D&D/MOTW",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -186,6 +186,6 @@
   "repelStrength": 12.5882352941176,
   "linkStrength": 0.482352941176471,
   "linkDistance": 30,
-  "scale": 0.26326042606174244,
+  "scale": 0.08862649128427225,
   "close": false
 }

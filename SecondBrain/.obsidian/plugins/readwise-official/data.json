@@ -5,8 +5,8 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2091276,
-  "currentSyncStatusID": 2094461,
+  "lastSavedStatusID": 2094461,
+  "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
   "booksIDsMap": {
@@ -207,7 +207,13 @@
     "10 Sources/Readwise/Articles/articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying.md": "11505927",
     "10 Sources/Readwise/Articles/articles_An Evaluation of the Left-Brain vs. Right-Brain Hypothesis with Resting State Functional Connectivity Magnetic Resonance Imaging.md": "11540865",
     "10 Sources/Readwise/Articles/articles_Despite what you've been told, you aren't 'left-brained' or 'right-brained'  Amy Novotney  The Guardian.md": "11540868",
-    "10 Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md": "11546016"
+    "10 Sources/Readwise/Articles/articles_Bulky Cameras, Meet the Lens-Less FlatCam.md": "11546016",
+    "10 Sources/Readwise/Articles/articles_Five-Factor Model of Personality.md": "11575045",
+    "10 Sources/Readwise/Articles/articles_Five-Factor Model of Personality  Psychology.md": "11575044",
+    "10 Sources/Readwise/Articles/articles_Research Recitation - GitHub Docs.md": "11575043",
+    "10 Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md": "11574864",
+    "10 Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md": "11576236",
+    "10 Sources/Readwise/Tweets/tweets_Tweets From Christian.md": "11576462"
   },
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false
