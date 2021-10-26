@@ -5,33 +5,23 @@
             "initialized": true
         },
         {
-            "path": "SecondBrain",
+            "path": "30 Topics",
             "initialized": true
         },
         {
-            "path": "SecondBrain/TopicNotes",
+            "path": "40 Evergreens",
             "initialized": true
         },
         {
-            "path": "SecondBrain/EvergreenNotes",
-            "initialized": true
-        },
-        {
-            "path": "SecondBrain/ContentNotes",
-            "initialized": true
-        },
-        {
-            "path": "SecondBrain/Primary Sources/Qoutes",
+            "path": "10 Sources",
             "initialized": true
         }
     ],
     "trackedProjects": [
         "/",
-        "SecondBrain",
-        "SecondBrain/TopicNotes",
-        "SecondBrain/EvergreenNotes",
-        "SecondBrain/ContentNotes",
-        "SecondBrain/Primary Sources/Qoutes"
+        "30 Topics",
+        "40 Evergreens",
+        "10 Sources"
     ],
     "checkpointList": [{
             "path": "/",
@@ -52,7 +42,7 @@
             "path": "10 Sources",
             "date": "2021-10-26",
             "size": 0
-        },
+        }
     ],
     "activityHistory": [{
             "path": "/",

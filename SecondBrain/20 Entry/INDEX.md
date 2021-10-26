@@ -7,7 +7,7 @@ tags: evergreen
 date modified: Sunday, October 3rd 2021, 11:17:19 am
 ---
 ```ActivityHistory
-SecondBrain
+/
 ```
 This is a constantly updated index of entry points and topics for my personal flavor of [[Zettlekassen]]/[[second brain]]/[[knowledge management]] system.
 
