@@ -10,7 +10,6 @@
   "obsidian-regex-search-replace",
   "templater-obsidian",
   "obsidian-vimrc-support",
-  "customjs",
   "recent-files-obsidian",
   "mrj-add-codemirror-matchbrackets",
   "cm-editor-syntax-highlight-obsidian",
@@ -31,5 +30,5 @@
   "better-word-count",
   "media-extended",
   "obsidian-charts",
-  "obsidian-codemirror-options"
+  "customjs"
 ]

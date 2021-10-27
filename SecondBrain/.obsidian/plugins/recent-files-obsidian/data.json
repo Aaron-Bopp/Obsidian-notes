@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "self",
+      "path": "30 Topics/self.md"
+    },
+    {
+      "basename": "second brain",
+      "path": "30 Topics/second brain.md"
+    },
+    {
+      "basename": "sympathy",
+      "path": "30 Topics/sympathy.md"
+    },
+    {
       "basename": "Sympathy does not dissallow judgment",
       "path": "40 Evergreens/Sympathy does not dissallow judgment.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "tweets_Tweets From Christian",
       "path": "10 Sources/Readwise/Tweets/tweets_Tweets From Christian.md"
-    },
-    {
-      "basename": "sympathy",
-      "path": "30 Topics/sympathy.md"
     },
     {
       "basename": "articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer",
@@ -83,10 +91,6 @@
     {
       "basename": "ADHD reduces working memory",
       "path": "40 Evergreens/ADHD reduces working memory.md"
-    },
-    {
-      "basename": "self",
-      "path": "30 Topics/self.md"
     },
     {
       "basename": "Neuroscience",
@@ -195,10 +199,6 @@
     {
       "basename": "How Neuroscience impacts our daily lives",
       "path": "40 Evergreens/How Neuroscience impacts our daily lives.md"
-    },
-    {
-      "basename": "Human's will find explanations for inexplainable things",
-      "path": "40 Evergreens/Human's will find explanations for inexplainable things.md"
     }
   ],
   "omittedPaths": [],

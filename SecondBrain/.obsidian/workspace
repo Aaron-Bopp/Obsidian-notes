@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5ba333831f9acd1b",
+        "id": "ed05106831987493",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "40 Evergreens/Sympathy does not dissallow judgment.md",
-            "mode": "source"
+            "file": "30 Topics/self.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EVER/SEED/UNPLANTED",
+                "query": "tag:#topic/outline",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Evergreens/Sympathy does not dissallow judgment.md",
+                "file": "30 Topics/self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,11 +103,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 492
+    "width": 492,
+    "collapsed": true
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Evergreens/Sympathy does not dissallow judgment.md",
+                "file": "30 Topics/self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40 Evergreens/Sympathy does not dissallow judgment.md",
+                "file": "30 Topics/self.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Evergreens/Sympathy does not dissallow judgment.md"
+                "file": "30 Topics/self.md"
               }
             }
           }
@@ -252,17 +254,17 @@
     "width": 505.6705017089844,
     "collapsed": true
   },
-  "active": "5ba333831f9acd1b",
+  "active": "ed05106831987493",
   "lastOpenFiles": [
+    "30 Topics/self.md",
+    "30 Topics/second brain.md",
+    "30 Topics/sympathy.md",
     "40 Evergreens/Sympathy does not dissallow judgment.md",
     "10 Sources/Readwise/Tweets/tweets_I Don’t Hate TERFs. I Th....md",
     "10 Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md",
     "10 Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md",
     "10 Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md",
     "10 Sources/Readwise/Tweets/tweets_Tweets From Lilah Sturges.md",
-    "10 Sources/Readwise/Tweets/tweets_Tweets From Christian.md",
-    "30 Topics/sympathy.md",
-    "10 Sources/Readwise/Articles/articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer.md",
-    "10 Sources/Readwise/Articles/articles_Research Recitation - GitHub Docs.md"
+    "10 Sources/Readwise/Tweets/tweets_Tweets From Christian.md"
   ]
 }
