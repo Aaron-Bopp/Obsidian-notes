@@ -30,5 +30,6 @@
   "obsidian-linter",
   "better-word-count",
   "media-extended",
-  "obsidian-charts"
+  "obsidian-charts",
+  "obsidian-codemirror-options"
 ]

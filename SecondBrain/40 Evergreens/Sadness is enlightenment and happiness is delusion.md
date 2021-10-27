@@ -17,7 +17,7 @@ If a person internalizes the narrative that negative emotions are a sign of inte
 
 Once a person has set up this belief that negative emotion is associated with intelligence, you can struggle to find [[happiness]] in bleak situations, and find it easy to find sadness in neutral situations. Often as your intelligence and knowledge of the world increases, you will find that the only proper reaction is increasing sadness. [[Knowledge of the world is painful]], but [[Accepting responsibility is not only about your actions]].
 
-<u><b>[[What is the cognitive effect of living in a unjust world]]</b></u>
+<u>**[[What is the cognitive effect of living in a unjust world]]?**</u>
 
 This way of living your life is [[subconscious|subconsciously]] attractive, because you will think your increasing sadness is a sign of your increasing intelligence, while your fear of the possibility of hope grows stronger.  This [[feedback loop]] leads to inaction, [[depression]], [[pessimism]]
 

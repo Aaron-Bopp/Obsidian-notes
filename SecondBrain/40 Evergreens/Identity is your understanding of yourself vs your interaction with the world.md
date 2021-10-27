@@ -2,12 +2,16 @@
 created: 2021-06-27
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-26
-sr-interval: 2
+sr-due: 2021-10-30
+sr-interval: 4
 sr-ease: 215
+aliases:
+- Identity is a sense of self not a pattern of traits or behavior
 ---
 
 #### [[Identity is your understanding of yourself vs your interaction with the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+Identity is a sense of self not a pattern of traits or behavior
 
 At the core of [[self]] is how you view yourself ([[self-image]]) vs how the world views you ([[self-perception]]). If you have a weak [[self-image]] then how the worlds views you will completely win, resulting in little to no sense of [[self]]. 
 
@@ -18,6 +22,8 @@ Those who think they have a weak [[self]] have either realized that they do not 
 However, [[self]] is more than just an objective viewing of our actions. [[self]] is also impacted by the physical reactions that our bodies go through.  [[Self-hatred is born out of dissonance between self-image and self-perception]] If we feel a certain way during an interaction that will impact our [[self]], either through a [[conscious]] viewing and reflection on that feeling, or a [[subconscious]] reaction to either avoid or pursue that feeling again. [[Complex emotions are intellectual understandings of primal urges]]
 
 If your understanding of the world is impaired that means that your [[self]] will be hard to understand.
+
+This concept relates [[The difference between identity and presentation|the differenent concepts of identity and presentation]]. [[The difference between identity and presentation|Identity is a sense of self not a pattern of traits or behavior]]
 
 ### <hr class="footnote"/>
 

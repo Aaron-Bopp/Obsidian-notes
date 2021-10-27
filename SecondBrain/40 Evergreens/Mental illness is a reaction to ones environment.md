@@ -4,8 +4,8 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-26
-sr-interval: 3
+sr-due: 2021-11-05
+sr-interval: 10
 sr-ease: 256
 ---
 

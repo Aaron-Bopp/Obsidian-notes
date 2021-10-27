@@ -25,7 +25,7 @@ aliases:
 ## New highlights added October 26, 2021 at 9:45 AM
   
 > "**Gall’s Law; every functional complex system emerges out of a simpler system that worked first.** Put another way, in a phrase that I’ve heard bouncing around (I’m about 80% sure it’s a Nick Milo phrase): you have to earn complexity."   [View Highlight](https://nickseitz.com/writing/obsidian-day-one-starterpack?__readwiseLocation=0%2F1%2F2%2F0%2F2%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A0%2C2%2F2%2F0%2F2%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A135#:~:text=Gall%E2%80%99s%20Law%3B%20every%20functional%20complex%2Cyou%20have%20to%20earn%20complexity.)
-- Tags: [[note-writing]]
+- Tags: [[note writing]]
 
   
 > "Two: Let fruitful processes grow and let friction do the pruning"   [View Highlight](https://nickseitz.com/writing/obsidian-day-one-starterpack?__readwiseLocation=0%2F0%2F0%2F1%2F1%2F3%2F1%2F0%2F3%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A0%2C0%2F0%2F0%2F1%2F1%2F3%2F1%2F0%2F3%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A64#:~:text=Two%3A%20Let%20fruitful%20processes%20grow%2Clet%20friction%20do%20the%20pruning)

@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=EJtNmd1kV44
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Tiktok]], [[internet]], [[algorithmic content]]
+**Topics**:: [[Tiktok]], [[internet]], [[algorithmic content]], [[Computer Science]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

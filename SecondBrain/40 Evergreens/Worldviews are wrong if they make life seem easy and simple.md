@@ -4,8 +4,8 @@ aliases:
 - worldviews that make life seems easy and simple
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-26
-sr-interval: 3
+sr-due: 2021-11-01
+sr-interval: 6
 sr-ease: 208
 ---
 #### [[Worldviews are wrong if they make life seem easy and simple]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -16,7 +16,7 @@ This is especially seen in [[individualism|individualistic]] cultures like [[Ame
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[religion]]

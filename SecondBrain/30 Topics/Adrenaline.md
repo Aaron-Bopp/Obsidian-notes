@@ -10,5 +10,5 @@ tags:  topic/term
 **See**::: [[Neuroscience]], [[Evolutionary Pyschology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`* 
 
-[^1]: [[How Neuroscience impacts our daily lives]]
+[^1]: [[Our brains are built around survival]]
 

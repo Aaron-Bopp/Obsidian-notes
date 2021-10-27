@@ -3,14 +3,14 @@ created: 2021-05-31
 cssclass: evergreen
 tags: evergreen
 
-sr-due: 2021-10-26
-sr-interval: 1
+sr-due: 2021-10-28
+sr-interval: 2
 sr-ease: 225
 ---
 
 #### [[Your insecurity is just more avenues for your anxiety to take advantage of]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/REFACTOR This is more about [[Minority stress]] and [[stereotype threat]] than it is [[social anxiety]] and is too close to [[Your insecurity is just more avenues for your anxiety to take advantage of]]
+#TO/DO/REFACTOR This is more about [[Minority stress]] and [[stereotype threat]] than it is [[social anxiety]] and is too close to [[Your anxiety knows your insecurities better than you do]]
 
 Anxiety is a feeling of worry, nervousness, or unease about something with an uncertain outcome, so insecurity of any kind ([[food insecurity]], [[self-doubt]], etc) is going to increase it. 
 

@@ -14,7 +14,6 @@ What causes friction?
 - A bad learning environment
 - A bad teacher
 
-
 These force you to keep focusing back on the problem from distractions. Prerequisite knowledge you need, constantly shifting things in and out of your working memory, avoiding and pushing past loud noises or strong emotions, figuring out something you were told is wrong.
 
 Good systems for learning reduce this friction:
@@ -26,6 +25,8 @@ Good systems for learning reduce this friction:
 - [[Obsidian (software)]]
 - Knowing your tools
 - Breaking down problems into smaller pieces
+
+**We will evolve when we make learning as easy as thinking**
 
 ### <hr class="footnote"/>
 

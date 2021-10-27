@@ -10,5 +10,5 @@ Cortisol will last for 4-24 hours depending on the duration of the encounter and
 **See**:: [[Neuroscience]], [[Evolutionary Pyschology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`* 
 
-[^1]: [[How Neuroscience impacts our daily lives]]
+[^1]: [[Our brains are built around survival]]
 

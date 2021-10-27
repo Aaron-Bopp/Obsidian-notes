@@ -1,7 +1,7 @@
 ---
 created: 2021-10-20
 aliases:
-- 
+- sympathize
 tags: topic/stub
 ---
 

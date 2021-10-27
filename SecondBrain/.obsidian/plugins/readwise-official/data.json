@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 2094461,
+  "lastSavedStatusID": 2101908,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -213,7 +213,9 @@
     "10 Sources/Readwise/Articles/articles_Research Recitation - GitHub Docs.md": "11575043",
     "10 Sources/Readwise/Articles/articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace.md": "11574864",
     "10 Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md": "11576236",
-    "10 Sources/Readwise/Tweets/tweets_Tweets From Christian.md": "11576462"
+    "10 Sources/Readwise/Tweets/tweets_Tweets From Christian.md": "11576462",
+    "10 Sources/Readwise/Tweets/tweets_Tweets From Lilah Sturges.md": "11598559",
+    "10 Sources/Readwise/Tweets/tweets_I Don’t Hate TERFs. I Th....md": "11598560"
   },
   "obsidianToken": "rdiuwojlcr",
   "silentRun": false

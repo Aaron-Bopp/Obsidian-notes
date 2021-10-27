@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"00 Meta\" -path:Sources",
+  "search": "-path:sources -path:\"00 Meta\" ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -18,14 +18,14 @@
       "query": "tag:#evergreen",
       "color": {
         "a": 1,
-        "rgb": 1277452
+        "rgb": 2916622
       }
     },
     {
       "query": "path:\"20 Entry\"",
       "color": {
         "a": 1,
-        "rgb": 16772608
+        "rgb": 15188749
       }
     },
     {
@@ -39,14 +39,14 @@
       "query": "tag:#topic/stub",
       "color": {
         "a": 1,
-        "rgb": 9079852
+        "rgb": 16772011
       }
     },
     {
       "query": "tag:#topic/term",
       "color": {
         "a": 1,
-        "rgb": 14655059
+        "rgb": 15116922
       }
     },
     {
@@ -60,7 +60,7 @@
       "query": "tag:#topic/outline",
       "color": {
         "a": 1,
-        "rgb": 7618822
+        "rgb": 8473865
       }
     },
     {
@@ -75,12 +75,12 @@
   "showArrow": true,
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 0.748529411764706,
-  "lineSizeMultiplier": 0.404970760233918,
+  "lineSizeMultiplier": 0.767507568113017,
   "collapse-forces": false,
   "centerStrength": 0.476470588235294,
   "repelStrength": 14.6102941176471,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.1111007749672546,
+  "scale": 0.20545225801911535,
   "close": false
 }

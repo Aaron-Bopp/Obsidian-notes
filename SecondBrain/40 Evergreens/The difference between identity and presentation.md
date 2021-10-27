@@ -1,7 +1,6 @@
 ---
 created: 2021-10-18
 aliases:
-- Identity is a sense of self not a pattern of traits or behavior
 tags: evergreen
 sr-due: 2021-11-02
 sr-interval: 12

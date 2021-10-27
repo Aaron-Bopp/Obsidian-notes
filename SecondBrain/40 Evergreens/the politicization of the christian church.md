@@ -3,9 +3,9 @@ created: 2021-06-28
 cssclass: evergreen
 tags: evergreen
 
-sr-due: 2021-10-26
-sr-interval: 5
-sr-ease: 230
+sr-due: 2021-11-13
+sr-interval: 18
+sr-ease: 250
 ---
 
 #### [[The Politicization of the Christian Church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

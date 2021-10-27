@@ -12,6 +12,8 @@ tags: evergreen
 - [[Hope is not optimism it is a practice for producing change]]
 - [[What is the difference between optimism and hope]]
 - [[Anger fuels change]]
+- [[The injustice of endurance]]
+- [[Stupid rules are meant to be broken]]
 
 ### <hr class="footnote"/>
 

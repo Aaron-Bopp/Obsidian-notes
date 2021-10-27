@@ -16,3 +16,5 @@ cssclass: tool
 | af      | visual mode command which selects increasingly large blocks of text. For example, if you had "blah (foo [bar 'ba                          z'])" then it would select 'baz' first. If you pressed af again, it'd then select [bar 'baz'], and if you did it a third time it would select "(foo [bar 'baz'])". |
 | gh      | equivalent to hovering your mouse over wherever the cursor is. Handy for seeing types and error messages without reaching for the mouse!"                                                                                                                                                                    |
 [[articles_github.com_VSCodeVimVim Vim for Visual Studio Code]]
+
+
