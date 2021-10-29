@@ -13,7 +13,7 @@ good resource for [[social justice]] https://www.radicalinprogress.org/ #TO/EXPL
 good gpt resources [What Can Huge Neural Networks do? - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ) [[Machine Learning]]
 
 [[2021-06-27]] 09:49
-- [[7 types of toxic family systems.md]]: #TO/DO/CONCEPTUALIZE 
+- [[7 types of toxic family systems.md]]: #TO/TEND/CONCEPTUALIZE 
 
 [[2022-06-16]] 10:30
 [[Your anxiety knows your insecurities better than you do]]: #TO/EXPLORE/RESEARCH

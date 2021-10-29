@@ -4,6 +4,7 @@ aliases:
   - PKM
   - personal knowledge system
   - personal knowledge management
+  - knowledge management system
 tags: topic/term
 cssclass: term
 ---

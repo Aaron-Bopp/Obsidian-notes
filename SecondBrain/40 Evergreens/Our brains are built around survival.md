@@ -3,8 +3,8 @@ created: 2021-06-20
 cssclass: evergreen
 tags: evergreen
 
-sr-due: 2021-10-27
-sr-interval: 1
+sr-due: 2021-10-31
+sr-interval: 3
 sr-ease: 215
 ---
 
@@ -22,7 +22,7 @@ For more see [[How Neuroscience impacts our daily lives]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[human advancement]], [[human survival]], [[Neuroscience]] 

@@ -16,7 +16,6 @@ date modified: Monday, October 4th 2021, 9:58:06 pm
 
 ##### [[self]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Identity is your understanding of yourself vs your interaction with the world]]
--  [[Identity is a sense of self not a pattern of traits or behavior]]
 - There are two modes of viewing yourself, [[self-perception]] and [[self-image]]
 	- [[self-perception]]
 	- [[self-image]]

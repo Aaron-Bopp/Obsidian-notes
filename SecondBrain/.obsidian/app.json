@@ -52,5 +52,6 @@
   "showLineNumber": true,
   "useTab": true,
   "lineWrap": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "showFrontmatter": true
 }

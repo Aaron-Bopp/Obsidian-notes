@@ -25,7 +25,7 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 	- [[Gender is both an intrinsic experience and an necessary expression]]
 	- [[Any experience of gender is acceptable]]
 - [[The scientific basis of gender]]
-	- [[Sex conists of phenotype genotype and gender]]
+	- [[Sex determines phenotype and genotype but not gender]]
 - [[transgender]]
 	- [[gender dysphoria]]
 		- [[Gender Dysphoria is based in a intrinsic wrongness of self]]

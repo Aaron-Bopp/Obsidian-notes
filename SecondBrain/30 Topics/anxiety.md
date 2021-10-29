@@ -14,7 +14,7 @@ date modified: Wednesday, October 6th 2021, 2:34:37 pm
 ##### [[Anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Your anxiety is telling you everything that could go wrong not what will go wrong]]
-- [[Anxiety isn't irrational it's just overcompensation]]
+- [[Social anxiety isn't irrational it's just overcompensation]]
 	- [[Anxiety should be a tool at your disposal not an impedance to your life]]
 	- [[Your anxiety knows your insecurities better than you do]]
 - How [[anxiety]] manifests

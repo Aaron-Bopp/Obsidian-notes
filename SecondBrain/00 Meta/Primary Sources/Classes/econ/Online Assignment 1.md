@@ -57,7 +57,7 @@ b\) Provide the citation and link to your article:
 
 c\) Thoroughly summarize your article in your own words. ^e76760
 
-#TO/EXPLORE/READ <https://www.manhattan-institute.org/reevaluating-prosperity-of-american-family> #TO/DO/CONCEPTUALIZE old summary
+#TO/EXPLORE/READ <https://www.manhattan-institute.org/reevaluating-prosperity-of-american-family> #TO/TEND/CONCEPTUALIZE old summary
 Our measures of inflation do not give an accurate representation of the increase in cost of living. This is caused by quality adjustment(adding value does not increase inflation, even if the cheaper form is no longer available), risk sharing (new expensive procedure increases everyone's premiums), and social norms (backup cameras in cars). To address this, the author proposed the, "Cost-of-Thriving Index(COTI): the number of weeks of the median male wage required to pay for rent on a three-bedroom house at the 40th percentile of a local market's prices, a family health insurance premium, a semester of public college, and the operation of a vehicle."
 
 d\) Discuss why you chose the article and how it relates to the course topic(s).

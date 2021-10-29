@@ -18,10 +18,10 @@ I prefer this kind of todo list because I can create it from anywhere in my vaul
 - **\#TO**
 	- **\#TO/DO** 
 		- **#TO/DO/WRITE** write a specific item, not used for need to write or expand an evergreen note
-		- **#TO/DO/PROGRAM** 
-		- **#TO/DO/CONCEPTUALIZE** the thoughts exist but the need to be written out
+		- **#TO/PROGRAM** 
+		- **#TO/TEND/CONCEPTUALIZE** the thoughts exist but the need to be written out
 		- **#TO/DO/REFERENCE** the source is there but unreferenced
-		- **#TO/DO/REFACTOR** 
+		- **#TO/TEND/REFACTOR** 
 		- **#TO/DO/FIND** remeber source but don't have easy access
 	- **\#TO/EXPLORE**
 		- **#TO/EXPLORE/READ** 

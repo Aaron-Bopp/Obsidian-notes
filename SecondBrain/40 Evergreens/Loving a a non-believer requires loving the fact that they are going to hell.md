@@ -3,6 +3,9 @@ created: 2021-06-13
 cssclass: evergreen
 tags: evergreen
 
+sr-due: 2021-10-31
+sr-interval: 3
+sr-ease: 252
 ---
 
 #### [[Loving a a non-believer requires loving the fact that they are going to hell]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

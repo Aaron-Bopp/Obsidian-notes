@@ -18,7 +18,7 @@ It has also allowed for a culture shift, where previously niche topics like [[Du
 
 [[Tiktok]] and it's algorithm based method of delivering content allows people to easily connect to people with similar interests to them.
 
-#TO/DO/CONCEPTUALIZE [We're Thinking About Facebook Wrong - YouTube](https://www.youtube.com/watch?v=EJtNmd1kV44) connection
+#TO/TEND/CONCEPTUALIZE [We're Thinking About Facebook Wrong - YouTube](https://www.youtube.com/watch?v=EJtNmd1kV44) connection
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

@@ -4,7 +4,7 @@ aliases:
 -  
 tags: topic/term
 ---
- #TO/DO/CONCEPTUALIZE [^1]
+ #TO/TEND/CONCEPTUALIZE [^1]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`* 

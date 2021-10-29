@@ -2,10 +2,10 @@
 created: 2021-10-23
 aliases:
 - 
-tags: evergreen
-sr-due: 2021-10-28
-sr-interval: 2
-sr-ease: 216
+tags: inbox
+sr-due: 2021-10-29
+sr-interval: 1
+sr-ease: 196
 ---
 #### [[The triad of ever increasing social anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
@@ -13,13 +13,13 @@ sr-ease: 216
 
 The only way out of this is loop is [[self-actualization]]
 
-#TO/DO/REFACTOR these notes [[Your anxiety knows your insecurities better than you do]], [[Your insecurity is just more avenues for your anxiety to take advantage of]], [[We value our biggest insecurities because they protect us from the biggest threats]]
+#TO/TEND/REFACTOR these notes [[Your anxiety knows your insecurities better than you do]], [[Your insecurity is just more avenues for your anxiety to take advantage of]], [[We value our biggest insecurities because they protect us from the biggest threats]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED/UNPLANTED
 *edited `=this.file.mtime`*
 
-**Topics**::
+**Topics**:: [[anxiety]], [[social anxiety]], [[socialization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

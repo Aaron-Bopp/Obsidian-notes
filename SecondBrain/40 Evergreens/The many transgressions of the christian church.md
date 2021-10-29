@@ -2,9 +2,9 @@
 created: 2021-06-28
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-28
-sr-interval: 2
-sr-ease: 230
+sr-due: 2021-10-29
+sr-interval: 1
+sr-ease: 210
 ---
 
 #### [[The many transgressions of the christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

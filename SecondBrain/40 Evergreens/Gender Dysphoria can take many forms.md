@@ -4,9 +4,14 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
+sr-due: 2021-10-29
+sr-interval: 1
+sr-ease: 226
 ---
 
 #### [[Gender Dysphoria can take many forms]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+#TO/TEND/REORIENT this and [[Gender Dysphoria is based in a intrinsic wrongness of self]]
 
 [[Gender Dysphoria]] does not have to be a strong sense of being completely in the wrong body and completely the wrong [[gender]] with all the wrong body parts. [[Gender Dysphoria is based in a intrinsic wrongness of self]]. People will experience [[gender]] differently and any inconsistency with other [[transgender|trans]] people does not invalidate their existence. 
 

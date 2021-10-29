@@ -15,16 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "SecondBrain/EvergreenNotes",
-      "template": "Templates/Templates/EGNOTE.md"
+      "folder": "40 Evergreens",
+      "template": "00 Meta/Templates/EGNOTE.md"
     },
     {
-      "folder": "SecondBrain/Terms",
-      "template": "Templates/Templates/TERM.md"
-    },
-    {
-      "folder": "SecondBrain/TopicNotes",
-      "template": "Templates/Templates/TOPICNOTE.md"
+      "folder": "30 Topics",
+      "template": "00 Meta/Templates/STUB.md"
     }
   ],
   "syntax_highlighting": true,

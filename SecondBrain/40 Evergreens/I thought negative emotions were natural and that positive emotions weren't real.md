@@ -1,7 +1,6 @@
 ---
 created: 2021-06-03
-cssclass: evergreen
-tags: evergreen
+tags: personal
 sr-due: 2021-10-26
 sr-interval: 3
 sr-ease: 257
@@ -19,7 +18,8 @@ While I do think this sweeping generalization was there. Obviously as a child di
 
 This expanded on here: [[Sadness is enlightenment and happiness is delusion]]
 
----
+### <hr class="footnote"/>
+
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 

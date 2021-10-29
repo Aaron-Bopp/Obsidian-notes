@@ -1,12 +1,15 @@
 ---
 created: 2021-10-18
 aliases:
-- 
-cssclass: evergreen
+- What is the cognitive effect of living in a unjust world?
 tags: evergreen
+sr-due: 2021-10-29
+sr-interval: 1
+sr-ease: 237
 ---
 #### [[What is the cognitive effect of living in a unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+- [[Sadness is enlightenment and happiness is delusion]]
 - [[Knowledge of the world is painful]]
 - [[Realism must acknowledge optimism's existence and effectiveness]]
 - [[Hope is not optimism it is a practice for producing change]]

@@ -4,6 +4,9 @@ aliases:
 - 
 cssclass: evergreen
 tags: evergreen
+sr-due: 2021-11-01
+sr-interval: 4
+sr-ease: 270
 ---
 #### [[Monolithic vs Micro Kernels]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
@@ -11,7 +14,7 @@ tags: evergreen
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Operating Systems]],  [[Computer Science]], [[programming]]

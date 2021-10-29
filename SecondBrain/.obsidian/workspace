@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ed05106831987493",
+        "id": "692e9edc615df946",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30 Topics/self.md",
-            "mode": "preview"
+            "file": "40 Evergreens/Journeys.md",
+            "mode": "source"
           }
         }
       }
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#topic/outline",
+                "query": "#evergreen",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 Topics/self.md",
+                "file": "40 Evergreens/Journeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,14 +102,29 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "945ffe61918129cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "40 Evergreens/Journeys.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 492,
-    "collapsed": true
+    "width": 492
   },
   "right": {
     "id": "ca88ebed3efba281",
@@ -120,29 +135,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "945ffe61918129cd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "30 Topics/self.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "031fe1b37666a6d6",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30 Topics/self.md",
+                "file": "40 Evergreens/Journeys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +220,7 @@
                   "repelStrength": 13.6985294117647,
                   "linkStrength": 0.514338235294118,
                   "linkDistance": 117,
-                  "scale": 0.5988953248992562,
+                  "scale": 0.5988953248992566,
                   "close": true
                 }
               }
@@ -242,29 +240,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Topics/self.md"
+                "file": "40 Evergreens/Journeys.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 505.6705017089844,
+    "width": 1052.5,
     "collapsed": true
   },
-  "active": "ed05106831987493",
+  "active": "692e9edc615df946",
   "lastOpenFiles": [
-    "30 Topics/self.md",
-    "30 Topics/second brain.md",
-    "30 Topics/sympathy.md",
-    "40 Evergreens/Sympathy does not dissallow judgment.md",
-    "10 Sources/Readwise/Tweets/tweets_I Don’t Hate TERFs. I Th....md",
-    "10 Sources/Readwise/Tweets/tweets_Someone (Was It JKR Lol....md",
-    "10 Sources/Readwise/Tweets/tweets_Tweets From Visa Is Stretching.md",
-    "10 Sources/Readwise/Tweets/tweets_&Gt; Most People Suck At....md",
-    "10 Sources/Readwise/Tweets/tweets_Tweets From Lilah Sturges.md",
-    "10 Sources/Readwise/Tweets/tweets_Tweets From Christian.md"
+    "40 Evergreens/Journeys.md",
+    "40 Evergreens/Sadness is enlightenment and happiness is delusion.md",
+    "40 Evergreens/Social anxiety isn't irrational it's just overcompensation.md",
+    "20 Entry/EvergreenNotes.md",
+    "20 Entry/File Sizes.md",
+    "40 Evergreens/Your anxiety knows your insecurities better than you do.md",
+    "00 Meta/Primary Sources/Classes/Comp Sci/AlgorithmFlowchart.md",
+    "00 Meta/Primary Sources/Classes/Comp Sci/Computer Org notes.md",
+    "40 Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
+    "40 Evergreens/Early childhood experiences shape our lifelong personality.md"
   ]
 }

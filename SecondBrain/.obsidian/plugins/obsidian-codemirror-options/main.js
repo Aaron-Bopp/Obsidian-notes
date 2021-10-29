@@ -3091,6 +3091,7 @@ var __assign =
                 name: "stex",
               });
               var noTexMode = texMode["name"] !== "stex";
+              var block = mathLevel > 1 ? "math-block" : "";
               ans += enterMode(stream, state, texMode, {
                 style: "math",
                 skipFirstToken: noTexMode,
@@ -3098,11 +3099,11 @@ var __assign =
                   return createDummyMode(endTag_1);
                 },
                 exitChecker: createSimpleInnerModeExitChecker(endTag_1, {
-                  style: "formatting formatting-math formatting-math-end math-" + mathLevel,
+                  style: `formatting formatting-math formatting-math-end ${block} math-` + mathLevel,
                 }),
               });
               if (noTexMode) stream.pos += tmp[0].length;
-              ans += " formatting formatting-math formatting-math-begin math-" + mathLevel;
+              ans += ` formatting formatting-math formatting-math-begin ${block} math-` + mathLevel;
               return ans;
             }
           }
@@ -3420,7 +3421,7 @@ var __assign =
                     state.hmdImage = 0;
                     ans += " " + "internal-link-url";
                   } else {
-                  ans += " " + "internal-link-name";
+                    ans += " " + "internal-link-name";
                   }
                 } else ;
                 current = stream.current();
@@ -3673,26 +3674,27 @@ var __assign =
 });
 });
 
-createCommonjsModule(function (module) {
 // HyperMD, copyright (c) by laobubu
-// Distributed under an MIT license: http://laobubu.net/HyperMD/LICENSE
-//
-// DESCRIPTION: Turn Markdown markers into real images, link icons etc. Support custom folders.
-//
-// You may set `hmdFold.customFolders` option to fold more, where `customFolders` is Array<FolderFunc>
-//
-//
-var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
+
+var ___extends = (function () {
   var extendStatics = function (d, b) {
-      extendStatics = Object.setPrototypeOf ||
-          ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-          function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
-      return extendStatics(d, b);
+    extendStatics =
+      Object.setPrototypeOf ||
+      ({ __proto__: [] } instanceof Array &&
+        function (d, b) {
+          d.__proto__ = b;
+        }) ||
+      function (d, b) {
+        for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p];
+      };
+    return extendStatics(d, b);
   };
   return function (d, b) {
-      extendStatics(d, b);
-      function __() { this.constructor = d; }
-      d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    extendStatics(d, b);
+    function __() {
+      this.constructor = d;
+    }
+    d.prototype = b === null ? Object.create(b) : ((__.prototype = b.prototype), new __());
   };
 })();
 
@@ -3751,10 +3753,12 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
       fromPos = { line: fromPos.line, ch: fromPos.ch + ~~chOffset };
       var toPos = marker.find().to;
       toPos = { line: toPos.line, ch: toPos.ch + ~~chOffset };
+      // need to clear before setting the cursor since some markers don't allow the
+      // cursor to be placed next to them
+      marker.clear();
       cm.setCursor(fromPos);
       // cm.setSelection(fromPos, toPos);
       cm.focus();
-      marker.clear();
     });
   }
   exports.breakMark = breakMark;
@@ -3824,10 +3828,20 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
       this.onViewportChange = function (cm, from, to) {
         _this.startFold(from, to);
       };
+      this.checkForPreview = obsidian.debounce(
+        function () {
+          document.querySelector("#math-preview")?.addClass("float-win-hidden");
+        },
+        500,
+        true
+      );
       this.onChange = function (cm, changes) {
         var changedMarkers = [];
         for (var _i = 0, changes_1 = changes; _i < changes_1.length; _i++) {
           var change = changes_1[_i];
+          if (change.removed && change.removed.filter(text => text.includes("$")).length) {
+            _this.checkForPreview();
+          }
           var markers = cm.findMarks(change.from, change.to);
           for (var _a = 0, markers_1 = markers; _a < markers_1.length; _a++) {
             var marker = markers_1[_a];
@@ -4118,7 +4132,6 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
   /** ADDON GETTER (Singleton Pattern): a editor can have only one Fold instance */
   exports.getAddon = core_1.Addon.Getter("Fold", Fold);
 });
-});
 
 // HyperMD, copyright (c) by laobubu
 // Distributed under an MIT license: http://laobubu.net/HyperMD/LICENSE
@@ -4240,7 +4253,7 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
           url = split.url;
           title = split.title;
           var _matches;
-          if (_matches = url.match(/^([^|]+)\|(.*)$/)) {
+          if ((_matches = url.match(/^([^|]+)\|(.*)$/))) {
             url = _matches[1];
             dimensions = _matches[2];
           }
@@ -4248,6 +4261,10 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
         {
           // extract the alt
           alt = cm.getRange({ line: lineNo, ch: from.ch + 2 }, { line: lineNo, ch: url_begin.token.start - 1 });
+        }
+        var _altMatches;
+        if ((_altMatches = alt.match(/^(?:([^|]*)\|)?([0-9x]+)$/))) {
+          dimensions = _altMatches[2];
         }
         var img = document.createElement("img");
         var marker = cm.markText(from, to, {
@@ -4291,7 +4308,7 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
         img.alt = alt;
         img.title = title;
         var _url, _resolvedUrl;
-        if (/^(app|https):\/\//.test(url)) {
+        if (/^(app|http|https):\/\//.test(url)) {
           _url = url;
         } else {
           _resolvedUrl = window.app.metadataCache.getFirstLinkpathDest(decodeURIComponent(url), "");
@@ -4302,7 +4319,7 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
             img.alt = "⚠️";
           }
         }
-        
+
         img.setAttribute("data-src", _url);
         if (_resolvedUrl && _resolvedUrl.path) img.setAttribute("data-path", _resolvedUrl.path);
         img.setAttribute("src", _url);
@@ -4571,13 +4588,15 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
         this.lineWidget = lineWidget;
         this.widgetChanged();
       });
-      observer.observe(el, { childList: true, subtree: true, attributes: true });
+      observer.observe($wrapper, { childList: true, subtree: true, attributes: true });
       //-----------------------------
       var $stub = document.createElement("span");
       $stub.className = stubClass + type;
       $stub.textContent = "<CODE>";
       var marker = (info.marker = cm.markText(from, to, {
         replacedWith: $stub,
+        inclusiveLeft: true,
+        inclusiveRight: true,
       }));
       // $wrapper.addEventListener("mouseenter", highlightON, false);
       // $wrapper.addEventListener("mouseleave", highlightOFF, false);
@@ -4817,11 +4836,12 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
       if (!el.tagName.match(this.isolatedTagName || /^$/)) el.addEventListener("click", breakFn, false);
       var replacedWith;
       var marker;
+      var isBlock = false;
       if (inlineMode) {
         /** put HTML inline */
         var span = document.createElement("span");
         span.setAttribute("class", "hmd-fold-html rendered-widget");
-        span.setAttribute("style", "display: inline-block");
+        span.setAttribute("style", "display: inline-flex");
         span.appendChild(stub);
         span.appendChild(el);
 
@@ -4846,15 +4866,21 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
           });
         }, 0);
       } else {
+        isBlock = true;
         /** use lineWidget to insert element */
         replacedWith = stub;
+        // this causes any text selection to immediately stop if the cursor is coming out of a block html element
+        // without this, the line widget will get duplicated on cursor selection. see issue #51
+        if (cm.state.selectingText) cm.state.selectingText();
         var lineWidget_1 = cm.addLineWidget(to.line, el, {
           above: false,
           coverGutter: false,
-          className: "rendered-html rendered-widget",
+          className: "rendered-html rendered-html-block rendered-widget",
           noHScroll: false,
           showIfHidden: false,
         });
+        var wrapperLine = from.line;
+        cm.addLineClass(wrapperLine, "wrap", "rendered-html-block-wrapper");
         // var highlightON_1 = function () {
         //   return (stub.className = stubClassHighlight);
         // };
@@ -4872,6 +4898,7 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
           marker.on("clear", function () {
             watcher.stop();
             lineWidget_1.clear();
+            cm.removeLineClass(wrapperLine, "wrap", "rendered-html-block-wrapper");
             // el.removeEventListener("mouseenter", highlightON_1, false);
             // el.removeEventListener("mouseleave", highlightOFF_1, false);
           });
@@ -4879,6 +4906,9 @@ var ___extends = (commonjsGlobal && commonjsGlobal.__extends) || (function () {
       }
       marker = cm.markText(from, to, {
         replacedWith: replacedWith,
+        atomic: false,
+        inclusiveLeft: isBlock,
+        inclusiveRight: isBlock,
       });
       return marker;
     };
@@ -5672,7 +5702,7 @@ var gte_1 = gte;
     if (!mathBeginRE.test(token.type)) return null;
     var cm = stream.cm;
     var line = stream.lineNo;
-    var maySpanLines = /math-2\b/.test(token.type); // $$ may span lines!
+    var maySpanLines = /math-block\b/.test(token.type); // $$ may span lines!
     var tokenLength = maySpanLines ? 2 : 1; // "$$" or "$"
     // CodeMirror GFM mode split "$$" into two tokens, so do a extra check.
     if (tokenLength == 2 && token.string.length == 1) {
@@ -5710,7 +5740,7 @@ var gte_1 = gte;
       return null;
     }
     // Now let's make a math widget!
-    var isDisplayMode = tokenLength > 1 && from.ch == 0 && (noEndingToken || to.ch >= cm.getLine(to.line).length);
+    var isDisplayMode = tokenLength > 1; // && from.ch == 0 && (noEndingToken || to.ch >= cm.getLine(to.line).length);
     var marker = insertMathMark(cm, from, to, expr, tokenLength, isDisplayMode);
     foldMathAddon.editingExpr = null; // try to hide preview
     return marker;
@@ -6086,7 +6116,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                 if (!(file instanceof obsidian.TFile))
                     return;
             }
-            else if (/^https/i.test(target.getAttribute("src"))) {
+            else if (/^http/i.test(target.getAttribute("src"))) {
                 file = target.getAttribute("src");
             }
             if (file)
@@ -6362,7 +6392,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     link: _this_1.settings.foldLinks,
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
-                    math: _this_1.settings.renderCode,
+                    math: _this_1.settings.renderMath,
                 });
             },
         });
@@ -6378,7 +6408,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     link: _this_1.settings.foldLinks,
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
-                    math: _this_1.settings.renderCode,
+                    math: _this_1.settings.renderMath,
                 });
             },
         });
@@ -6394,7 +6424,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     link: _this_1.settings.foldLinks,
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
-                    math: _this_1.settings.renderCode,
+                    math: _this_1.settings.renderMath,
                 });
             },
         });
@@ -6410,7 +6440,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     link: _this_1.settings.foldLinks,
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
-                    math: _this_1.settings.renderCode,
+                    math: _this_1.settings.renderMath,
                 });
             },
         });
@@ -6449,7 +6479,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
                     link: _this_1.settings.foldLinks,
                     html: _this_1.settings.renderHTML,
                     code: _this_1.settings.renderCode,
-                    math: _this_1.settings.renderCode,
+                    math: _this_1.settings.renderMath,
                 });
             },
         });
@@ -6796,6 +6826,7 @@ var ObsidianCodeMirrorOptionsPlugin = /** @class */ (function (_super) {
         obsidian.MarkdownPreviewRenderer.unregisterPostProcessor(this.mdProcessor);
         this.refreshPanes();
         document.off("contextmenu", "img.hmd-image", this.onImageContextMenu, false);
+        document.off("contextmenu", ".rendered-widget img:not(.hmd-image)", this.onImageContextMenu, false);
     };
     return ObsidianCodeMirrorOptionsPlugin;
 }(obsidian.Plugin));

@@ -3,20 +3,20 @@ created: 2021-05-31
 cssclass: evergreen
 tags: evergreen
 
-sr-due: 2021-10-28
+sr-due: 2021-11-1
 sr-interval: 2
 sr-ease: 225
 ---
 
 #### [[Your insecurity is just more avenues for your anxiety to take advantage of]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/DO/REFACTOR This is more about [[Minority stress]] and [[stereotype threat]] than it is [[social anxiety]] and is too close to [[Your anxiety knows your insecurities better than you do]]
+- [ ] #TO/TEND/REFACTOR This is more about [[Minority stress]] and [[stereotype threat]] than it is [[social anxiety]] and is too close to [[Your anxiety knows your insecurities better than you do]]
 
 Anxiety is a feeling of worry, nervousness, or unease about something with an uncertain outcome, so insecurity of any kind ([[food insecurity]], [[self-doubt]], etc) is going to increase it. 
 
 For social situations, this is why [[A secure identity is the best defense against social anxiety]]
 
-[[Anxiety isn't irrational it's just overcompensation]]
+[[Social anxiety isn't irrational it's just overcompensation]]
 
 ### <hr class="footnote"/>
 

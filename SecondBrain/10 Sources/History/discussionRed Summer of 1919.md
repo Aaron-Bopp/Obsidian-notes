@@ -7,7 +7,7 @@ content-type:
 source:
 bib:
 ---
-#TO/DO/REFACTOR into evergreen notes
+#TO/TEND/REFACTOR into evergreen notes
 # Discussion 3
 
 Class: HIST 1877

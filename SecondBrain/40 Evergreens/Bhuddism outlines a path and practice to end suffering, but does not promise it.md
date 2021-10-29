@@ -28,4 +28,4 @@ I find this beautiful because [[True optimism is acknowledging the suffering of 
 **Topics**:: [[Bhuddism]], [[religion]], [[social justice]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^3]: [[articleAn Introduction to Bhuddism]]
+[^3]: ![[articleAn Introduction to Bhuddism#path]]

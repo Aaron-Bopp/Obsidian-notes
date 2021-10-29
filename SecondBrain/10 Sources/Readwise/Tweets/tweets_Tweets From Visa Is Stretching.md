@@ -20,5 +20,7 @@ aliases:
 
 ## Highlights
   
-> "The imagination deficit is the most staggering thing in the human realm - but few people know it... because most people lack imagination!!! https://t.co/z4vSYHY2I9"   [View Tweet](https://twitter.com/visakanv/status/1149668249279139841)
+> "The imagination deficit is the most staggering thing in the human realm - but few people know it... because most people lack imagination!!! https://t.co/z4vSYHY2I9"   
+> 
 
+[View Tweet](https://twitter.com/visakanv/status/1149668249279139841)

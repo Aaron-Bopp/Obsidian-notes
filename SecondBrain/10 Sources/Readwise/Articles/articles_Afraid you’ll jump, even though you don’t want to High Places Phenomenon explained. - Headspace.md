@@ -19,7 +19,7 @@ aliases:
 **Creator**:: headspace.com
 
 ## Highlights
-[[You're not afraid of falling off the cliff you're afraid of jumping off the cliff]]  
+
 > "[1 in 7 people do think about suicide](http://jamanetwork.com/journals/jamapsychiatry/fullarticle/205075) at some point in their life, but this kind of experience seemed different. So Hames and her colleagues spoke to 431 undergraduate students at Florida State University about the High Places Phenomenon (HPP). Their research led them to a counter-intuitive conclusion: most participants’ brains were actually trying to keep them safe—it only felt like they wanted to jump. “What we found is that people were misinterpreting a safety signal from their brains, which are always firing so fast,” Hames said. “In that situation (when you're on a cliff, or a bridge, or driving past an oncoming car), your mind is actually saying, ‘You’re in an unsafe situation—back up from the ledge.’ People usually obey that signal and back up. But we can misinterpret that and think, ‘I must have reacted that way because I wanted to jump.’""   [View Highlight](https://headspace.com/articles/high-places-phenomenon?__readwiseLocation=0%2F3%2F0%2F1%2F0%2F0%2F2%2F0%2F1%3A0%2C4%2F0%2F1%2F0%2F0%2F2%2F0%2F1%3A822#:~:text=1%20in%207%20people%20do%2Cbecause%20I%20wanted%20to%20jump.%E2%80%99%22)
 
   

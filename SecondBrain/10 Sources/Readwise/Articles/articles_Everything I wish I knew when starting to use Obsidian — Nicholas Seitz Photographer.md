@@ -44,7 +44,7 @@ This is not always true for people with hyper fixations
 > "Taking notes is work. It is always harder than doing nothing"   [View Highlight](https://nickseitz.com/writing/obsidian-day-one-starterpack?__readwiseLocation=0%2F10%2F0%2F4%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A0%2C0%2F10%2F0%2F4%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A60#:~:text=Taking%20notes%20is%20work.%20It%2Calways%20harder%20than%20doing%20nothing)
 - Tags: [[neurodiversity]]
 
-all you need to do to reduce friction is trim the edges. If it feels like more than that you're probably trying to fit a square plug in a round hole #TO/DO/CONCEPTUALIZE  
+all you need to do to reduce friction is trim the edges. If it feels like more than that you're probably trying to fit a square plug in a round hole #TO/TEND/CONCEPTUALIZE  
 > "Pruning is not tearing up the entire plant and starting over."   [View Highlight](https://nickseitz.com/writing/obsidian-day-one-starterpack?__readwiseLocation=0%2F13%2F0%2F4%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A0%2C0%2F13%2F0%2F4%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A61#:~:text=Pruning%20is%20not%20tearing%20up%2Centire%20plant%20and%20starting%20over.)
 
   

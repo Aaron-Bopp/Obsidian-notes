@@ -1,9 +1,10 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "My Dracula",
+  "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "links"
+    "links",
+    "My Dracula"
   ],
   "translucency": false,
   "baseFontSizeAction": false

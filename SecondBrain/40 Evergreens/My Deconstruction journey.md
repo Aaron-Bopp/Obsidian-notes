@@ -20,7 +20,7 @@ One of my most major issues with the church is that [[Non-faith issues have been
 
 One thing I have found interesting since deconstructing is examining how [[The materialistic view of religions examines why humans invented and clung to religion]].
 
-Despite all that I still think [[Faith can be a useful tool for grounding yourself]] I had multiple existential crises' after leaving the church because I had no [[worldview]] and had no [[purpose]]. #TO/DO/CONCEPTUALIZE a lack of [[worldview]] is similar to a lack of [[self]]
+Despite all that I still think [[Faith can be a useful tool for grounding yourself]] I had multiple existential crises' after leaving the church because I had no [[worldview]] and had no [[purpose]]. #TO/TEND/CONCEPTUALIZE a lack of [[worldview]] is similar to a lack of [[self]]
 
 I now believe that [[Worldviews are wrong if they make life seem easy and simple]] and have started looking in [[Bhuddism]] because [[Bhuddism outlines a path and practice to end suffering, but does not promise it]] which I think is much more realistic and effective way to look at the world. [[Realism must acknowledge optimism's existence and effectiveness]].
 

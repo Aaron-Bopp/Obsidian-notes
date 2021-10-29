@@ -8,12 +8,7 @@
 - Work through all of my evergreen notes using [[Spaced Repetition (plugin)]] 
 	- <progress max="178" value="84"/>
 # What are my long term goals ^1230193
-- plugin ideas
-	- YAQS (yet another quick search) which allow you to save searches and invoke them in the quick switcher with a leading character
-	- Youtube chapter exporter 
-	- Roam like side bar for notes, headings, and bullets
-	- Plugin which shows notes with the most unlinked mentions, and links to uncreated notes
-	- remind me (like reddit)
+- [[Develop Obsidian plugins|Plugin Ideas]]
 - create a custom site for my second brain =>  some kind of AI assistant, being able to import dataview queries, every note has a "tweet me what you think about this note" that will open a tweet with the link to the note
 - Find ways to meaningfully contribute to open source/developer communities
 - transition
