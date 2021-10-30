@@ -5,8 +5,8 @@ tags: evergreen
 aliases:
 -
 date modified: Monday, October 18th 2021, 11:39:39 pm
-sr-due: 2021-10-30
-sr-interval: 4
+sr-due: 2021-11-10
+sr-interval: 11
 sr-ease: 230
 ---
 

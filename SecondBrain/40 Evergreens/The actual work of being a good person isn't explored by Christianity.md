@@ -4,9 +4,9 @@ aliases:
 - 
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-30
-sr-interval: 7
-sr-ease: 250
+sr-due: 2021-11-03
+sr-interval: 4
+sr-ease: 230
 ---
 #### [[The actual work of being a good person isn't explored by Christianity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

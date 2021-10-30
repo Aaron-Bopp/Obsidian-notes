@@ -13,7 +13,7 @@ sr-ease: 250
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED/UNPLANTED
+**Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
 **Topics**::

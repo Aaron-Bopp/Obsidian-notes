@@ -2,8 +2,8 @@
 created: 2021-06-13
 cssclass: evergreen
 tags: evergreen
-sr-due: 2021-10-30
-sr-interval: 11
+sr-due: 2021-11-29
+sr-interval: 30
 sr-ease: 272
 ---
 

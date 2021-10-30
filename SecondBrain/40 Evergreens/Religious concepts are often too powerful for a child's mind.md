@@ -4,6 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
+sr-due: 2021-10-31
+sr-interval: 1
+sr-ease: 230
 ---
 #### [[Religious concepts are often too powerful for a child's mind]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

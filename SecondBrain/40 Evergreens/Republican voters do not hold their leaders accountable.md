@@ -4,6 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
+sr-due: 2021-10-31
+sr-interval: 1
+sr-ease: 230
 ---
 
 #### [[Republican voters do not hold their leaders accountable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -4,6 +4,9 @@ aliases:
 - 
 cssclass: evergreen
 tags: evergreen
+sr-due: 2021-10-31
+sr-interval: 1
+sr-ease: 232
 ---
 #### [[Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

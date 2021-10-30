@@ -3,6 +3,9 @@ created: 2021-10-23
 aliases:
 - 
 tags: evergreen
+sr-due: 2021-10-31
+sr-interval: 1
+sr-ease: 230
 ---
 #### [[How and when Obsidian's graph can be useful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

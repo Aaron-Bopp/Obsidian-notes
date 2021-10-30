@@ -2,10 +2,10 @@
 created: 2021-10-18
 aliases:
 - What is the cognitive effect of living in a unjust world?
-tags: evergreen
-sr-due: 2021-10-29
+tags: evergreen, question
+sr-due: 2021-10-31
 sr-interval: 1
-sr-ease: 237
+sr-ease: 217
 ---
 #### [[What is the cognitive effect of living in a unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

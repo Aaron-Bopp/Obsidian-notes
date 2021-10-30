@@ -5,6 +5,7 @@ tags: topic/term
 aliases:
 - permanent note
 - zettle
+- evergreens
 ---
 
 An evergreen note is one that is both easy to start and easy to add on to.

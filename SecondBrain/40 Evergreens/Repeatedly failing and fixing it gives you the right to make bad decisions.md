@@ -3,6 +3,9 @@ created: 2021-10-23
 aliases:
 - A bad decision for a beginner is not the same a bad decision for an expert
 tags: evergreen
+sr-due: 2021-10-31
+sr-interval: 1
+sr-ease: 230
 ---
 
 #### [[Repeatedly failing and fixing it gives you the right to make bad decisions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

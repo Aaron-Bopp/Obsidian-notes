@@ -9,7 +9,7 @@ sr-ease: 228
 
 #### [[The danger of religious beliefs in early childhood]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
- [[Worldviews are wrong if they make life seem easy and simple]], and in childhood that means [[Early childhood trauma causes us to make wide assumptions about the world|we make wide assumptions about the world]]. 
+ [[Worldviews are wrong if they make life seem easy and simple]], and in childhood that means [[We carry our childhood wounds into adulthood|we make wide assumptions about the world]]. 
 
  Teaching children that their eternal fate is at stake is not healthy which is [[Fear of hell is baked into Christianity]]. It is instilled from a young age that you must submit yourself to this god in order to avoid hell. While religion teaches the feelings of an omnipotent god are more important than yours.
  

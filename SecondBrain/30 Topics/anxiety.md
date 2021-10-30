@@ -29,7 +29,7 @@ date modified: Wednesday, October 6th 2021, 2:34:37 pm
 	- [[ADHD]]
 - Causes
 	- [[childhood trauma]]
-		- [[Early childhood trauma causes us to make wide assumptions about the world]]
+		- [[We carry our childhood wounds into adulthood]]
 	- [[neurodiversity]]
 
 

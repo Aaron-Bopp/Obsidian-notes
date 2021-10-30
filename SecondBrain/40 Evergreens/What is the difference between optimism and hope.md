@@ -3,10 +3,10 @@ created: 2021-10-18
 aliases:
 - What is the difference between hope and optimism
 cssclass: evergreen
-tags: evergreen
-sr-due: 2021-10-30
-sr-interval: 5
-sr-ease: 230
+tags: evergreen, question
+sr-due: 2021-11-02
+sr-interval: 3
+sr-ease: 210
 ---
 #### [[What is the difference between optimism and hope]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
@@ -14,6 +14,7 @@ sr-ease: 230
 
 - [[Realism must acknowledge optimism's existence and effectiveness]]
 - [[Happiness is enlightenment and sadness is delusion]]
+- [[What is the cognitive effect of living in a unjust world]]
 
 ### <hr class="footnote"/>
 

@@ -2,9 +2,15 @@
 created: 2021-05-23
 cssclass: evergreen
 tags: evergreen
+aliases:
+- topics
+sr-due: 2021-11-01
+sr-interval: 2
+sr-ease: 247
 ---
 
 #### [[topic note]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+- [ ] #TO/TEND/DEOBFUSCATE [[Terms, tools, and techniques are the building blocks of evergreen notes and topic notes are their containers]]
 
 Topic notes are a kind of note in a [[web of thought]]/[[knowledge management]]/[[Zettlekassen]] system.
 

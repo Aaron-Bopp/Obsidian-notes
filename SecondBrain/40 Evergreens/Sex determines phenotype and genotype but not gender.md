@@ -4,9 +4,9 @@ cssclass: evergreen
 tags: evergreen
 aliases:
 - 
-sr-due: 2021-10-29
+sr-due: 2021-10-31
 sr-interval: 1
-sr-ease: 232
+sr-ease: 212
 ---
 
 #### [[Sex determines phenotype and genotype but not gender]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -19,7 +19,7 @@ sr-ease: 232
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SEED/UNPLANTED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Neuroscience]], [[self]], [[gender]], 

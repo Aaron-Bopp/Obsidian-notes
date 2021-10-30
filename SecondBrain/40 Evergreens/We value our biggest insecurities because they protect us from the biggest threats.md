@@ -10,7 +10,7 @@ aliases:
 
 #TO/TEND/CONNECT [[Our ego is our subconscious defense of our self]]
 
-These large insecurities developed because [[Early childhood trauma causes us to make wide assumptions about the world]], and [[An unfulfilled need for validation results in a fear of rejection]]. Because of these factors we can value that protection because we have so much stored up ([[Samskara]]) fear for those situations. 
+These large insecurities developed because [[We carry our childhood wounds into adulthood]], and [[An unfulfilled need for validation results in a fear of rejection]]. Because of these factors we can value that protection because we have so much stored up ([[Samskara]]) fear for those situations. 
 
 With a small fear, we are often annoyed at it but for a large one, while we may wish it wasn't there we know what the lack of it will mean.
 

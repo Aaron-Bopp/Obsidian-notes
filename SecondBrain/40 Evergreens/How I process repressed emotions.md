@@ -4,6 +4,9 @@ cssclass: evergreen
 tags: evergreen, personal
 aliases:
 - 
+sr-due: 2021-10-31
+sr-interval: 1
+sr-ease: 230
 ---
 #### [[How I process repressed emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 

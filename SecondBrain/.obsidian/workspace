@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "8deacd6c37958aee",
+    "id": "e858a1df422996c8",
     "type": "split",
     "children": [
       {
-        "id": "692e9edc615df946",
+        "id": "16b5c4d2e00e5d9e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "40 Evergreens/Journeys.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,10 +36,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#evergreen",
+                "query": "childhood experiences shapes our",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
               }
@@ -54,7 +51,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Evergreens/Journeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,10 +105,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Evergreens/Journeys.md",
                 "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
@@ -120,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -140,7 +136,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "40 Evergreens/Journeys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,9 +234,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "40 Evergreens/Journeys.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -251,17 +244,17 @@
     "width": 1052.5,
     "collapsed": true
   },
-  "active": "692e9edc615df946",
+  "active": "16b5c4d2e00e5d9e",
   "lastOpenFiles": [
-    "40 Evergreens/Journeys.md",
-    "40 Evergreens/Sadness is enlightenment and happiness is delusion.md",
-    "40 Evergreens/Social anxiety isn't irrational it's just overcompensation.md",
-    "20 Entry/EvergreenNotes.md",
-    "20 Entry/File Sizes.md",
-    "40 Evergreens/Your anxiety knows your insecurities better than you do.md",
-    "00 Meta/Primary Sources/Classes/Comp Sci/AlgorithmFlowchart.md",
-    "00 Meta/Primary Sources/Classes/Comp Sci/Computer Org notes.md",
-    "40 Evergreens/Self-hatred is born out of dissonance between self-image and self-perception.md",
-    "40 Evergreens/Early childhood experiences shape our lifelong personality.md"
+    "40 Evergreens/Early childhood experiences shape our lifelong personality.md",
+    "40 Evergreens/We carry our childhood wounds into adulthood.md",
+    "40 Evergreens/I have a stored up emotion of hating myself.md",
+    "40 Evergreens/There aren't any downsides to working through trauma.md",
+    "30 Topics/gender.md",
+    "30 Topics/cis.md",
+    "40 Evergreens/How to title your notes.md",
+    "40 Evergreens/Gender Dysphoria is based in a intrinsic wrongness of self.md",
+    "40 Evergreens/Any experience of gender dysphoria is acceptable.md",
+    "40 Evergreens/Gender is both an intrinsic experience and an necessary expression.md"
   ]
 }

@@ -30,7 +30,7 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 	- [[gender dysphoria]]
 		- [[Gender Dysphoria is based in a intrinsic wrongness of self]]
 		- [[Self-hatred is born out of dissonance between self-image and self-perception]]
-			- [[Gender Dysphoria can take many forms]]
+			- [[Any experience of gender dysphoria is acceptable]]
 			- [[Trans people will look for any other solution than being trans]]
 	- [[Gender Euphoria]]
 
